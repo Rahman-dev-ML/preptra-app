@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T20:28:00.168Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1989780e811fbd7fc1ac0d72421f78d96850e0a2",
+      "sectionIndex": 0,
+      "question": "Dr. Nabi Bakhsh Baloch's theory on Sindhi language origins emphasizes:",
+      "options": [
+        "A) Pure Dravidian roots",
+        "B) Indo-Aryan base with pre-Aryan substrate",
+        "C) Semitic origins",
+        "D) Recent development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59dfc9d9da6b482c95b6899218649523ad3406bf",
+      "sectionIndex": 0,
+      "question": "The debate between Dr. G.A. Allana and Dr. Baloch primarily concerns:",
+      "options": [
+        "A) Script only",
+        "B) Fundamental linguistic origins and development paths",
+        "C) Modern vocabulary",
+        "D) Grammar rules only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6590df08045f2ec8022f95aa58c5e01ea5db1a6d",
+      "sectionIndex": 0,
+      "question": "The phrase \"Sindhi language springs from nature\" suggests:",
+      "options": [
+        "A) Biological origin",
+        "B) Organic development from land and culture",
+        "C) Artificial creation",
+        "D) Divine origin only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f68bc42905f7dbf54b727c53d17299c78f121cc",
+      "sectionIndex": 0,
+      "question": "Sindhi's linguistic geography reveals:",
+      "options": [
+        "A) Uniform language",
+        "B) Multiple dialects reflecting regional variations",
+        "C) No variations",
+        "D) Foreign dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47366aed6266daae7e3352cdd7b6820359540d4e",
+      "sectionIndex": 0,
+      "question": "The pre-Islamic linguistic influences on Sindhi include:",
+      "options": [
+        "A) Only Arabic",
+        "B) Sanskrit and Prakrit elements",
+        "C) Persian only",
+        "D) No influences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc6e55b9f7839aa62d033f63de4508310303a37c",
+      "sectionIndex": 0,
+      "question": "The theory of Sindhi as an ancient language is supported by:",
+      "options": [
+        "A) Modern evidence only",
+        "B) Archaeological and literary evidence",
+        "C) Myths only",
+        "D) No evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8dc8ddffe8b787bcbbbfe6192f73d1b752b416e",
+      "sectionIndex": 0,
+      "question": "Comparative linguistics places Sindhi within:",
+      "options": [
+        "A) Isolated language family",
+        "B) Northwestern Indo-Aryan group",
+        "C) Dravidian family",
+        "D) Sino-Tibetan group"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e320d702b383b36608d68c92d65f744122f74cf3",
+      "sectionIndex": 0,
+      "question": "The substrate theory in Sindhi linguistics refers to:",
+      "options": [
+        "A) Soil composition",
+        "B) Pre-Aryan language influences",
+        "C) Modern borrowings",
+        "D) Script development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6ca2d9f10782596d23c44d0fe564e3a8c33eb7d",
+      "sectionIndex": 0,
+      "question": "Sindhi's relationship with other regional languages shows:",
+      "options": [
+        "A) Complete isolation",
+        "B) Mutual influences while maintaining distinctiveness",
+        "C) Subordination",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7897a96dc3f3318511afc6c3cdcebfac4fed2be",
+      "sectionIndex": 0,
+      "question": "The evolution of Sindhi script reflects:",
+      "options": [
+        "A) Random changes",
+        "B) Historical political and cultural influences",
+        "C) No evolution",
+        "D) Western imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b260e133e92644640301adde6a48cfea1c0bda52",
+      "sectionIndex": 1,
+      "question": "Shah Latif's concept of \"Wahdat-ul-Wujud\" is expressed through:",
+      "options": [
+        "A) Direct preaching",
+        "B) Symbolic narratives and folk characters",
+        "C) Political statements",
+        "D) Historical accounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "686bf396a73244f78b63a69e1cc83edcb83ae50d",
+      "sectionIndex": 1,
+      "question": "The recurring motif of \"eight\" in Shah's poetry symbolizes:",
+      "options": [
+        "A) Random number",
+        "B) Spiritual completeness and cosmic order",
+        "C) Historical dates",
+        "D) Mathematical concept"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ecaf5827e78ccc992334ad04e0e3c57545d307c",
+      "sectionIndex": 1,
+      "question": "Shah's use of female protagonists like Marui represents:",
+      "options": [
+        "A) Gender bias",
+        "B) Soul's yearning for divine/homeland",
+        "C) Historical figures only",
+        "D) Entertainment value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c60800f91916c5a2cab8f7c9daa2a8503093a97",
+      "sectionIndex": 1,
+      "question": "The \"Sur Kedaro\" in Shah Jo Risalo deals with:",
+      "options": [
+        "A) Love stories only",
+        "B) Philosophical questions of existence",
+        "C) Historical events",
+        "D) Grammar rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fd57bae112e5b055fd24a469c87e702831e16d7",
+      "sectionIndex": 1,
+      "question": "Shah Latif's integration of music and poetry serves to:",
+      "options": [
+        "A) Entertainment only",
+        "B) Create multi-sensory spiritual experience",
+        "C) Show skill",
+        "D) Follow tradition blindly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "340c8d16134e479f3c9d6d0d5644dfe7583d925e",
+      "sectionIndex": 1,
+      "question": "The concept of \"Ishq\" in Shah's poetry transcends:",
+      "options": [
+        "A) All meaning",
+        "B) Romantic love to encompass divine love",
+        "C) Religious boundaries only",
+        "D) Temporal limits only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d72c0ae62cf83b5621a5a2a489bc901a813a814e",
+      "sectionIndex": 1,
+      "question": "Shah's treatment of Hindu-Muslim themes reflects:",
+      "options": [
+        "A) Religious conflict",
+        "B) Syncretic spiritual harmony",
+        "C) Conversion agenda",
+        "D) Political motives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c46b5b29075d963d8950a84167480efcce37d582",
+      "sectionIndex": 1,
+      "question": "The maritime imagery in Shah's poetry connects to:",
+      "options": [
+        "A) Geography only",
+        "B) Spiritual journey and life's voyage",
+        "C) Trade routes",
+        "D) Historical events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "367daf0ae7569b382a8e14002460ab72753e871d",
+      "sectionIndex": 1,
+      "question": "Shah Latif's linguistic innovations include:",
+      "options": [
+        "A) Foreign words only",
+        "B) Indigenous expressions for complex spiritual concepts",
+        "C) Sanskrit dominance",
+        "D) Arabic preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "770de14e939d7737d5800132be8760d33505f79a",
+      "sectionIndex": 1,
+      "question": "The structure of Shah Jo Risalo demonstrates:",
+      "options": [
+        "A) Random compilation",
+        "B) Carefully organized thematic progression",
+        "C) Chronological order only",
+        "D) Alphabetical arrangement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "813bfdc150d27719c6fd1caa0bb85d179f2dd1a8",
+      "sectionIndex": 2,
+      "question": "The function of Sindhi folk tales beyond entertainment includes:",
+      "options": [
+        "A) Time passing",
+        "B) Encoding social values and collective memory",
+        "C) Children's education only",
+        "D) No other function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deca1b7ed4530e93bdf1b48759d16672d78e2480",
+      "sectionIndex": 2,
+      "question": "The relationship between Lok Geet and classical poetry shows:",
+      "options": [
+        "A) Complete separation",
+        "B) Mutual influence and shared themes",
+        "C) Folk superiority",
+        "D) Classical dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a80c0d36a17c81d022ff402efe3448ac40943a37",
+      "sectionIndex": 2,
+      "question": "The evolution of Kafi from folk to classical form demonstrates:",
+      "options": [
+        "A) Degradation",
+        "B) Artistic refinement while maintaining popular appeal",
+        "C) Loss of meaning",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "012921d999918b3c0ed79b1d4b95f632ea97ee94",
+      "sectionIndex": 2,
+      "question": "Gender roles in Sindhi folk literature reveal:",
+      "options": [
+        "A) Simple stereotypes",
+        "B) Complex negotiations of power and agency",
+        "C) No gender themes",
+        "D) Modern feminism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08ce8b2ffa954ea4211482f0824477c49618c472",
+      "sectionIndex": 2,
+      "question": "The preservation of oral traditions faces challenges from:",
+      "options": [
+        "A) Government only",
+        "B) Modernization and changing lifestyles",
+        "C) No challenges",
+        "D) Foreign languages only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0736df9f616e1a269e3d13c7ea738a390b5e3050",
+      "sectionIndex": 2,
+      "question": "Folk literature's resistance themes often:",
+      "options": [
+        "A) Promote violence",
+        "B) Encode anti-colonial and social justice messages",
+        "C) Support oppression",
+        "D) Have no themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ded6c3f7db607fe6bc6cdf4f79d025e35c1becd",
+      "sectionIndex": 2,
+      "question": "The transformation of folk narratives in modern media shows:",
+      "options": [
+        "A) Death of tradition",
+        "B) Adaptation and continuity in new forms",
+        "C) No change",
+        "D) Complete corruption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f589dbd6bb61fa5047120449e07c58062b3dbfa",
+      "sectionIndex": 2,
+      "question": "Comparative study of Sindhi folk tales reveals:",
+      "options": [
+        "A) Unique isolation",
+        "B) Universal themes with local variations",
+        "C) Copied stories",
+        "D) No patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d55584d394ae0cffe02a9d1719b9831807eab75",
+      "sectionIndex": 2,
+      "question": "The role of folk singers (bhagats) in society extends to:",
+      "options": [
+        "A) Entertainment only",
+        "B) Cultural preservation and social commentary",
+        "C) Religious duties only",
+        "D) No significant role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d5929a20ee29fa1e24183adbf39e8bcf99076d8",
+      "sectionIndex": 2,
+      "question": "Folk literature's language differs from classical by:",
+      "options": [
+        "A) Being wrong",
+        "B) Accessibility and colloquial expressions",
+        "C) Foreign words",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c8f74c7f5d6b8f0012eef29d5c6c29b15315e2e",
+      "sectionIndex": 3,
+      "question": "The progressive writers' movement in Sindhi literature introduced:",
+      "options": [
+        "A) Traditional themes only",
+        "B) Social realism and class consciousness",
+        "C) Religious poetry only",
+        "D) No new themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3beeb0200effb3eaba8cfb4c00d51bb690899e72",
+      "sectionIndex": 3,
+      "question": "Mirza Qaleech Beg's contribution to prose involved:",
+      "options": [
+        "A) Translation only",
+        "B) Creating modern prose style and novel form",
+        "C) Poetry writing",
+        "D) Drama only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d77129b106f753137f0488489dcd52acd6014772",
+      "sectionIndex": 3,
+      "question": "The post-partition Sindhi literature reflects:",
+      "options": [
+        "A) No change",
+        "B) Trauma, displacement, and identity crisis",
+        "C) Celebration only",
+        "D) Foreign themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8a3cdb11e27b2870f5b3e71ce7e0ea172527f57",
+      "sectionIndex": 3,
+      "question": "Contemporary Sindhi novel's engagement with history shows:",
+      "options": [
+        "A) Accurate documentation only",
+        "B) Creative reimagining of collective memory",
+        "C) Fiction only",
+        "D) No historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a997acc51ba4d3305a4437a24bf3482565ffc5b5",
+      "sectionIndex": 3,
+      "question": "The feminist movement in Sindhi literature has:",
+      "options": [
+        "A) No presence",
+        "B) Challenged patriarchal narratives",
+        "C) Failed completely",
+        "D) Only translated works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49618ca9a2617e06adfb32d84c5f56fb33b901e1",
+      "sectionIndex": 3,
+      "question": "Modernist techniques in Sindhi poetry include:",
+      "options": [
+        "A) Traditional forms only",
+        "B) Free verse and experimental imagery",
+        "C) No innovation",
+        "D) Copy of Urdu only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eacb3ba749688ead3bdb60a1a42965f241f152c9",
+      "sectionIndex": 3,
+      "question": "The role of literary journals in modern Sindhi has been:",
+      "options": [
+        "A) Decorative",
+        "B) Platforms for new voices and critical discourse",
+        "C) Government propaganda",
+        "D) No role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eca53483f57783393daf5fd52323550186a695cc",
+      "sectionIndex": 3,
+      "question": "Sheikh Ayaz's poetry represents:",
+      "options": [
+        "A) Traditional repetition",
+        "B) Synthesis of classical heritage and modern sensibility",
+        "C) Western imitation",
+        "D) No originality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f27ecd414ba4e5376458fce9ef4bbd2e3c2b8ca",
+      "sectionIndex": 3,
+      "question": "The short story form in Sindhi developed to:",
+      "options": [
+        "A) Replace novels",
+        "B) Address immediate social concerns concisely",
+        "C) Entertain only",
+        "D) Copy other languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb0f0509578bb7fd478314fee76482dff15aab33",
+      "sectionIndex": 3,
+      "question": "Digital literature in Sindhi faces:",
+      "options": [
+        "A) No challenges",
+        "B) Issues of script standardization and reach",
+        "C) Government ban",
+        "D) Too much support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22e9037b21138e1ab88372eb4ef864e01f43254b",
+      "sectionIndex": 4,
+      "question": "The challenge of translating Shah Latif's poetry lies in:",
+      "options": [
+        "A) Word count",
+        "B) Cultural metaphors and musical elements",
+        "C) Simple language",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac8df6b5af3b39bfa22d4d6ce8cd9abecf0326ee",
+      "sectionIndex": 4,
+      "question": "Mirza Qaleech Beg's translation philosophy emphasized:",
+      "options": [
+        "A) Literal accuracy only",
+        "B) Cultural adaptation while maintaining essence",
+        "C) Free interpretation",
+        "D) Word-for-word only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e4ffc3b98fe386061ecc28891dd3f5e904c0a83",
+      "sectionIndex": 4,
+      "question": "The translation of religious texts into Sindhi shows:",
+      "options": [
+        "A) Simple conversion",
+        "B) Linguistic accommodation of theological concepts",
+        "C) No adaptation needed",
+        "D) Foreign dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec8ce962556383dd2e17a1b43a5329b3f69abaec",
+      "sectionIndex": 4,
+      "question": "Contemporary translation challenges include:",
+      "options": [
+        "A) Too many translators",
+        "B) Technical terminology and global concepts",
+        "C) No challenges",
+        "D) Government restrictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea3a66a2724d3605466ac0bd2217cffe71f64750",
+      "sectionIndex": 4,
+      "question": "The role of translation in Sindhi literary development has been:",
+      "options": [
+        "A) Harmful",
+        "B) Enriching vocabulary and introducing new forms",
+        "C) No impact",
+        "D) Only negative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db35162117fe37c8db246083197a7f5113e9ebd1",
+      "sectionIndex": 4,
+      "question": "Bilingual writers in Sindhi face the dilemma of:",
+      "options": [
+        "A) No issues",
+        "B) Audience, authenticity, and expression",
+        "C) Too much fame",
+        "D) Financial problems only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "417347131741c90c3ba09cba59f1f960689cc1b1",
+      "sectionIndex": 4,
+      "question": "Translation of idiomatic expressions requires:",
+      "options": [
+        "A) Dictionary only",
+        "B) Deep cultural understanding of both languages",
+        "C) Literal conversion",
+        "D) Omission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7eff91518ae4f8b4af74d03575c1f8c86dcf3594",
+      "sectionIndex": 4,
+      "question": "The politics of translation in colonial period involved:",
+      "options": [
+        "A) Neutral activity",
+        "B) Power dynamics and cultural representation",
+        "C) No politics",
+        "D) Pure literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3ad31deb97160a7fef1c760041cc3928ff86196",
+      "sectionIndex": 4,
+      "question": "Machine translation for Sindhi faces obstacles of:",
+      "options": [
+        "A) Too advanced technology",
+        "B) Script variations and contextual nuances",
+        "C) No obstacles",
+        "D) Government support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ff04cc3f1d85ffdc6e0e9a4aa9bfc43d35f4132",
+      "sectionIndex": 4,
+      "question": "Literary translation differs from technical translation in:",
+      "options": [
+        "A) No difference",
+        "B) Aesthetic considerations and cultural sensitivity",
+        "C) Length only",
+        "D) Difficulty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb34410b629b8ed2111d8237962e124953bae6c8",
+      "sectionIndex": 5,
+      "question": "Tanqeed (criticism) in Sindhi literature has evolved from:",
+      "options": [
+        "A) Western import only",
+        "B) Traditional appreciation to analytical evaluation",
+        "C) No evolution",
+        "D) Government directive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73a2312e099081c4ffd938cb5004d68f1200e474",
+      "sectionIndex": 5,
+      "question": "The application of postcolonial theory to Sindhi literature reveals:",
+      "options": [
+        "A) No relevance",
+        "B) Layers of cultural resistance and hybridization",
+        "C) Complete colonization",
+        "D) Western superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cdd72036629731a273f169267ecf0fbca77f3f9",
+      "sectionIndex": 5,
+      "question": "Feminist criticism of classical Sindhi texts uncovers:",
+      "options": [
+        "A) No gender issues",
+        "B) Subversive female agency within patriarchal frameworks",
+        "C) Complete equality",
+        "D) Male dominance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc50bfee71ee4f405459089c8f3a23fcfe310fd3",
+      "sectionIndex": 5,
+      "question": "The structural analysis of Shah Jo Risalo shows:",
+      "options": [
+        "A) Random organization",
+        "B) Complex architectural design with thematic unity",
+        "C) No structure",
+        "D) Simple compilation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad4a1b2048247cae5832387059188726e8d9da3c",
+      "sectionIndex": 5,
+      "question": "Psychoanalytic reading of Sindhi folk tales reveals:",
+      "options": [
+        "A) Mental illness",
+        "B) Collective unconscious and archetypal patterns",
+        "C) No psychological content",
+        "D) Individual psychology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "015f8585441c104334ef705f40419cb24718e03b",
+      "sectionIndex": 5,
+      "question": "The Marxist approach to modern Sindhi literature highlights:",
+      "options": [
+        "A) No class issues",
+        "B) Class struggle and economic determinism",
+        "C) Capitalist propaganda",
+        "D) Religious themes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "593c1d9e80c79b13a544e16106dfc31461d46b6c",
+      "sectionIndex": 5,
+      "question": "Intertextuality in Sindhi literature demonstrates:",
+      "options": [
+        "A) Plagiarism",
+        "B) Rich tradition of literary dialogue and reference",
+        "C) No connections",
+        "D) Foreign copying"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d596917f9cb316b3fe0987166c3d0c9e8b44aea6",
+      "sectionIndex": 5,
+      "question": "The ecocritical reading of Sindhi poetry reveals:",
+      "options": [
+        "A) No environmental awareness",
+        "B) Deep connection between culture and landscape",
+        "C) Modern concern only",
+        "D) Urban bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08c14f5dbb8a2630acb171eaace2fe622a86a3bd",
+      "sectionIndex": 5,
+      "question": "Comparative criticism between Sindhi and Urdu literature shows:",
+      "options": [
+        "A) Complete similarity",
+        "B) Distinct aesthetic traditions despite shared influences",
+        "C) Sindhi inferiority",
+        "D) No comparison possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a988ba9a6f349c4e3d460c3e461fe0dcaf277ddf",
+      "sectionIndex": 5,
+      "question": "The deconstructive approach to Sindhi texts reveals:",
+      "options": [
+        "A) Clear meanings",
+        "B) Multiple interpretations and inherent contradictions",
+        "C) No meaning",
+        "D) Single truth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee38c5793952269cb23c26ae0aaa08c1d05f50b2",
+      "sectionIndex": 6,
+      "question": "The Kalhora period's designation as \"golden age\" reflects:",
+      "options": [
+        "A) Economic prosperity only",
+        "B) Confluence of political stability and cultural flowering",
+        "C) Foreign rule benefits",
+        "D) Myth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "187af3281219469c30b47cd0262ed533377b7439",
+      "sectionIndex": 6,
+      "question": "The British colonial period's impact on Sindhi literature was:",
+      "options": [
+        "A) Wholly negative",
+        "B) Complex mix of disruption and modernization",
+        "C) No impact",
+        "D) Only positive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79bf76a7cb690e237f27f240a902cbf4dc84dda3",
+      "sectionIndex": 6,
+      "question": "The Talpur period's literary production shows:",
+      "options": [
+        "A) Complete decline",
+        "B) Continuation despite political fragmentation",
+        "C) No literature",
+        "D) Foreign dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2491f0b02426cbf8045bbac9321a929653f7d728",
+      "sectionIndex": 6,
+      "question": "The influence of Mughal culture on Sindhi literature resulted in:",
+      "options": [
+        "A) Cultural death",
+        "B) Persian-influenced forms with local adaptation",
+        "C) No influence",
+        "D) Complete Persianization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa94fbae2cfed1bc73b86c966c47c91694beeb8c",
+      "sectionIndex": 6,
+      "question": "The post-independence period in Sindhi literature reflects:",
+      "options": [
+        "A) No change",
+        "B) Identity assertions and modernist experiments",
+        "C) Decline only",
+        "D) Government control only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4d039d3903f1a0ee19e37f364dd306f9f282d88",
+      "sectionIndex": 6,
+      "question": "The medieval period's Sufi literature shows:",
+      "options": [
+        "A) Religious dogma only",
+        "B) Synthesis of Islamic mysticism and local traditions",
+        "C) Foreign imposition",
+        "D) No originality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "939dadc4855d2261f535c564dcaf443c4f7f3c18",
+      "sectionIndex": 6,
+      "question": "The modern period's engagement with tradition demonstrates:",
+      "options": [
+        "A) Complete rejection",
+        "B) Critical dialogue and selective appropriation",
+        "C) Blind following",
+        "D) No engagement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ceb0766fa2b56c62d7214aa27aad77fd746186c8",
+      "sectionIndex": 6,
+      "question": "The contemporary period's global influences create:",
+      "options": [
+        "A) Loss of identity",
+        "B) Cosmopolitan Sindhi identity with local roots",
+        "C) No change",
+        "D) Western dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ca364e8bdd7ff24ef64b9bae320eee197ae2744",
+      "sectionIndex": 6,
+      "question": "The transition between literary periods shows:",
+      "options": [
+        "A) Abrupt breaks",
+        "B) Evolutionary continuity with innovations",
+        "C) No transitions",
+        "D) Random changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa21e08706bbba326ac151bc64973a3e35c08e24",
+      "sectionIndex": 6,
+      "question": "The study of literary periodization reveals:",
+      "options": [
+        "A) Arbitrary divisions",
+        "B) Cultural-political factors shaping literature",
+        "C) No patterns",
+        "D) Natural progression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31f0daccfe045c29cedffbafec97aa2755577628",
+      "sectionIndex": 7,
+      "question": "The evolution from dastan to novel in Sindhi shows:",
+      "options": [
+        "A) Simple modernization",
+        "B) Shift from oral to written narrative paradigms",
+        "C) No connection",
+        "D) Degradation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9c5977803d822d8694a34f67dae00447f3e86f1",
+      "sectionIndex": 7,
+      "question": "The ghazal in Sindhi differs from its Persian model by:",
+      "options": [
+        "A) No difference",
+        "B) Indigenous themes and linguistic innovations",
+        "C) Complete copying",
+        "D) Inferior quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7efe1b3ec3ff164736eeb8456b70770bf5e57c2a",
+      "sectionIndex": 7,
+      "question": "The development of Sindhi drama reflects:",
+      "options": [
+        "A) Entertainment needs only",
+        "B) Social reform agenda and political consciousness",
+        "C) Foreign imitation",
+        "D) No purpose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6266f4d37947a51b560c72b38186dfa9072ec2d",
+      "sectionIndex": 7,
+      "question": "The modern short story's popularity indicates:",
+      "options": [
+        "A) Laziness",
+        "B) Urban readership and contemporary relevance",
+        "C) Death of novel",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "812421570f80cb207f9859b5f261e8d86cfddf40",
+      "sectionIndex": 7,
+      "question": "The autobiography genre in Sindhi serves to:",
+      "options": [
+        "A) Self-promotion",
+        "B) Document social history through personal narrative",
+        "C) Fiction writing",
+        "D) No purpose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d3aae03688c0662798d9ace81df64d66a846ae3",
+      "sectionIndex": 7,
+      "question": "The essay form's development shows:",
+      "options": [
+        "A) Academic requirement only",
+        "B) Critical thinking and public discourse evolution",
+        "C) No development",
+        "D) Foreign imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c39e04835d439d67c809efd4be01c735bd91b8c9",
+      "sectionIndex": 7,
+      "question": "Children's literature in Sindhi faces challenges of:",
+      "options": [
+        "A) Too much content",
+        "B) Balancing education with cultural transmission",
+        "C) No challenges",
+        "D) Government ban"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4604d15115cc1040fc3f6c914d3095975eb16a4",
+      "sectionIndex": 7,
+      "question": "The travelogue genre reveals:",
+      "options": [
+        "A) Tourism promotion",
+        "B) Cultural encounters and identity negotiations",
+        "C) Geography only",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5abaaba1df4104bf37ba58dd8a16dbc3436909e6",
+      "sectionIndex": 7,
+      "question": "Literary criticism as genre demonstrates:",
+      "options": [
+        "A) Negative attitude",
+        "B) Maturing literary culture with analytical tools",
+        "C) No development",
+        "D) Copy of West"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b54d4c600fbfe6dc79924f0885029bea7a0713a",
+      "sectionIndex": 7,
+      "question": "The blending of genres in contemporary writing shows:",
+      "options": [
+        "A) Confusion",
+        "B) Postmodern experimentation and innovation",
+        "C) Lack of knowledge",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cf269a915110378787b88c13a1d79000575ce3f",
+      "sectionIndex": 8,
+      "question": "The representation of Partition in Sindhi literature reveals:",
+      "options": [
+        "A) Historical facts only",
+        "B) Trauma, nostalgia, and identity fragmentation",
+        "C) No impact",
+        "D) Celebration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe4303024018450c83d86ec6402afabe9f3d40b2",
+      "sectionIndex": 8,
+      "question": "Gender dynamics in modern Sindhi writing show:",
+      "options": [
+        "A) No change",
+        "B) Evolving perspectives challenging traditional roles",
+        "C) Complete equality",
+        "D) Male dominance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a245a874bfe233521d7b7719d933188655054910",
+      "sectionIndex": 8,
+      "question": "The urban-rural divide in contemporary literature reflects:",
+      "options": [
+        "A) Simple geography",
+        "B) Cultural tensions and modernization anxieties",
+        "C) No difference",
+        "D) Urban superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edb6761762077fa7757d89cd1b78ced3484b394a",
+      "sectionIndex": 8,
+      "question": "Religious harmony themes in Sindhi literature demonstrate:",
+      "options": [
+        "A) One religion only",
+        "B) Syncretic traditions and pluralistic heritage",
+        "C) Conflict only",
+        "D) No religious content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6b3a87f4aa761ade79f06b452eae4f686cae72d",
+      "sectionIndex": 8,
+      "question": "The diaspora Sindhi literature explores:",
+      "options": [
+        "A) Tourism only",
+        "B) Identity preservation and cultural negotiation",
+        "C) No themes",
+        "D) Economic success only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7553a04498b584dfed0bf086dc80ef6caea65b3f",
+      "sectionIndex": 8,
+      "question": "Class consciousness in progressive literature reveals:",
+      "options": [
+        "A) Communist propaganda",
+        "B) Social inequalities and reform aspirations",
+        "C) No awareness",
+        "D) Upper class only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa6971a97a7b5fc9db2219b303d5cd2b2bc14705",
+      "sectionIndex": 8,
+      "question": "Environmental themes in recent writing indicate:",
+      "options": [
+        "A) Fashion trend",
+        "B) Traditional ecological wisdom meeting modern crisis",
+        "C) No concern",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df798c684a369aaca22ea0909cc876632852f701",
+      "sectionIndex": 8,
+      "question": "The representation of technology shows:",
+      "options": [
+        "A) Complete rejection",
+        "B) Ambivalent engagement with modernity",
+        "C) Blind acceptance",
+        "D) No mention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "538854299391fbfc6ffd19ecdb331c684a36d29c",
+      "sectionIndex": 8,
+      "question": "Youth culture in contemporary literature reflects:",
+      "options": [
+        "A) Western copying",
+        "B) Generational negotiations with tradition",
+        "C) No youth presence",
+        "D) Complete rebellion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ab226844ee181336f2c9f325876c6e489a37ef0",
+      "sectionIndex": 8,
+      "question": "The treatment of historical memory demonstrates:",
+      "options": [
+        "A) Accurate documentation",
+        "B) Selective reconstruction serving present needs",
+        "C) No historical interest",
+        "D) False history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c31f0d6395f53a4ad92d2f4d0e5054ae53cf4ebc",
+      "sectionIndex": 9,
+      "question": "The challenge of maintaining Sindhi in urban contexts involves:",
+      "options": [
+        "A) No challenge",
+        "B) Competing with dominant languages while preserving identity",
+        "C) Government ban",
+        "D) Too easy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "036c458b77f3c0f3512bcf44484f56173ca81438",
+      "sectionIndex": 9,
+      "question": "Digital preservation of Sindhi literature faces:",
+      "options": [
+        "A) Too much funding",
+        "B) Technical and standardization challenges",
+        "C) No need",
+        "D) Complete success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9d34cb99ef1861fa8fedba595f6b3151eebe3ed",
+      "sectionIndex": 9,
+      "question": "The role of translation in globalizing Sindhi literature involves:",
+      "options": [
+        "A) Simple language conversion",
+        "B) Cultural mediation and market considerations",
+        "C) No role",
+        "D) Automatic process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1dfc3eac665ef13dbff181904a37a22ca6ea09cd",
+      "sectionIndex": 9,
+      "question": "Contemporary writers' engagement with tradition shows:",
+      "options": [
+        "A) Complete rejection",
+        "B) Creative reinterpretation and selective adoption",
+        "C) Blind following",
+        "D) No engagement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "251421c6e7644ebb7370871b400e1cf2992a6e3c",
+      "sectionIndex": 9,
+      "question": "The impact of social media on Sindhi literature creates:",
+      "options": [
+        "A) Only problems",
+        "B) New platforms and audience engagement modes",
+        "C) No impact",
+        "D) Death of literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bf74c12fefa94ab87a90483ec9ad67c9c982db6",
+      "sectionIndex": 9,
+      "question": "Academic study of Sindhi literature requires:",
+      "options": [
+        "A) Memorization only",
+        "B) Interdisciplinary approaches and critical frameworks",
+        "C) No study needed",
+        "D) Traditional methods only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd33cb7c338f543b10e21e6e42eb9b83b5a7d0bb",
+      "sectionIndex": 9,
+      "question": "The future of Sindhi literary criticism depends on:",
+      "options": [
+        "A) Western theories only",
+        "B) Indigenous theoretical development with global dialogue",
+        "C) No criticism needed",
+        "D) Government approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f2ffd2059724463e3caa0408fa9d7f83f006198",
+      "sectionIndex": 9,
+      "question": "Cross-cultural literary exchanges show:",
+      "options": [
+        "A) Sindhi isolation",
+        "B) Enrichment through dialogue while maintaining distinctiveness",
+        "C) No exchanges",
+        "D) Loss of identity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7576b510bf4503545b2450b08ee926c72004fd46",
+      "sectionIndex": 9,
+      "question": "The sustainability of Sindhi literature requires:",
+      "options": [
+        "A) Nothing",
+        "B) Institutional support and community engagement",
+        "C) Foreign aid only",
+        "D) Individual effort only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8986cc4ebf27a8d79d3aa14f8584a53242e4c9c",
+      "sectionIndex": 9,
+      "question": "The evolution of Sindhi literature demonstrates:",
+      "options": [
+        "A) Static tradition",
+        "B) Dynamic adaptation while preserving core values",
+        "C) Complete change",
+        "D) No evolution"
+      ],
+      "correct": "B"
+    }
+  ]
+}

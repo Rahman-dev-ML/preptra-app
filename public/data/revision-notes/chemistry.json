@@ -1,0 +1,438 @@
+{
+  "subject": "Chemistry (CSS – Pure & Applied) — Acid–Base, Thermodynamics, Coordination, Kinetics, Organic, Quantum, Industrial, Spectroscopy",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 16,
+  "categories": [
+    "Acid–Base & Buffers",
+    "Adsorption & Catalysis",
+    "Thermodynamics & Equilibrium",
+    "Coordination Chemistry (CFT/VBT/MO)",
+    "Reaction Kinetics",
+    "Organic Synthesis & Mechanisms",
+    "Quantum & Electronic Structure",
+    "Industrial & Environmental",
+    "Spectroscopy & Analytical"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Acid–Base Theories (Arrhenius, Brønsted–Lowry, Lewis) + HSAB",
+      "content": "Compare Arrhenius (H+ in water), Brønsted–Lowry (proton donor/acceptor), and Lewis (electron-pair acceptor/donor). Use HSAB to rationalize stability and rates; classify acids/bases and predict complex formation.",
+      "keyTakeaways": [
+        "Lewis is most general; encompasses non-protic acid–base behavior.",
+        "HSAB: hard–hard and soft–soft interactions favored.",
+        "Strength trends: structure, charge, electronegativity, solvation."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Acid–base reaction overview",
+          "url": "https://www.britannica.com/science/acid-base-reaction",
+          "type": "article",
+          "description": "Clear survey of models and examples"
+        },
+        {
+          "title": "IUPAC Gold Book — Lewis acid",
+          "url": "https://goldbook.iupac.org/terms/view/L03508",
+          "type": "reference",
+          "description": "Authoritative definition"
+        },
+        {
+          "title": "Britannica — Acid–base catalysis (context for Lewis/Brønsted)",
+          "url": "https://www.britannica.com/science/acid-base-catalysis",
+          "type": "article",
+          "description": "Mechanistic perspective tying theories to catalysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Acid–Base & Buffers",
+      "topics": ["Arrhenius", "Brønsted–Lowry", "Lewis", "HSAB"]
+    },
+    {
+      "id": "2",
+      "title": "Buffers & Henderson–Hasselbalch",
+      "content": "Define buffers, derive Henderson–Hasselbalch from Ka expression, design buffers with target pH, and calculate pH change upon addition of acid/base.",
+      "keyTakeaways": [
+        "Best buffer when pH ≈ pKa and [acid] ≈ [base].",
+        "Capacity ∝ total buffer concentration.",
+        "Use log ratio to tune pH."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Henderson–Hasselbalch Approximation",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+          "type": "article",
+          "description": "Derivation and usage"
+        },
+        {
+          "title": "LibreTexts — Calculating pH of Buffer Solutions",
+          "url": "https://chem.libretexts.org/Courses/Brevard_College/CHE_104%3A_Principles_of_Chemistry_II/07%3A_Acid_and_Base_Equilibria/7.24%3A_Calculating_pH_of_Buffer_Solutions-_Henderson-Hasselbalch_equation",
+          "type": "tutorial",
+          "description": "Worked examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Acid–Base & Buffers",
+      "topics": ["Buffers", "Henderson–Hasselbalch", "pH design"]
+    },
+    {
+      "id": "3",
+      "title": "Langmuir Adsorption Isotherm (Derivation, Assumptions, Limits)",
+      "content": "State surface site assumptions (monolayer, identical sites, no interactions). Derive θ = (K P)/(1 + K P) and linear forms (1/q vs 1/C). Contrast with Freundlich; discuss catalytic relevance.",
+      "keyTakeaways": [
+        "Monolayer coverage → saturation at high P/C.",
+        "Linearized plots enable KL and qmax extraction.",
+        "Fails for multilayer or interacting adsorbates."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — The Langmuir Isotherm (overview)",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Surface_Science_%28Nix%29/03%3A_The_Langmuir_Isotherm",
+          "type": "article",
+          "description": "Concept and context"
+        },
+        {
+          "title": "LibreTexts — Derivation from equilibrium considerations",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Surface_Science_%28Nix%29/03%3A_The_Langmuir_Isotherm/3.02%3A_Langmuir_Isotherm_-_derivation_from_equilibrium_considerations",
+          "type": "article",
+          "description": "Step-by-step derivation"
+        },
+        {
+          "title": "LibreTexts — Kinetic derivation",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Surface_Science_%28Nix%29/03%3A_The_Langmuir_Isotherm/3.03%3A_Langmuir_Isotherm_from_a_Kinetics_Consideration",
+          "type": "article",
+          "description": "Kinetic route to Langmuir"
+        }
+      ],
+      "importance": "high",
+      "category": "Adsorption & Catalysis",
+      "topics": ["Adsorption", "Langmuir", "Freundlich", "Catalysis"]
+    },
+    {
+      "id": "4",
+      "title": "Acid–Base Catalysis (Specific vs General; Mechanistic Ideas)",
+      "content": "Differentiate specific (H3O+/OH− only) vs general acid/base catalysis (any HA/B). Connect to reaction coordinate; illustrate with ester hydrolysis and imine formation.",
+      "keyTakeaways": [
+        "Catalyst participates and is regenerated.",
+        "Rate depends on buffer components in general catalysis.",
+        "Proton transfers change LFERs and activation barriers."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Acid–base catalysis (mechanistic survey)",
+          "url": "https://www.britannica.com/science/acid-base-catalysis",
+          "type": "article",
+          "description": "Definitions, examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Adsorption & Catalysis",
+      "topics": ["Specific/General catalysis", "Proton transfer", "Mechanisms"]
+    },
+    {
+      "id": "5",
+      "title": "Phase Rule (Gibbs) & Applications",
+      "content": "Use F = C − P + 2 (or +1 for condensed). Apply to water and sulfur systems; identify degrees of freedom, invariant points, and phase diagrams.",
+      "keyTakeaways": [
+        "Counting components and phases is key.",
+        "At triple point of one-component: F = 0.",
+        "Use for buffer capacity in two-component systems."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Gibbs' Phase Rule (Ellgen)",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Thermodynamics_and_Chemical_Equilibrium_%28Ellgen%29/06%3A_Equilibrium_States_and_Reversible_Processes/6.08%3A_Gibbs%27_Phase_Rule",
+          "type": "article",
+          "description": "Definition + examples"
+        },
+        {
+          "title": "LibreTexts — Phase Rule (Peverati)",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_%28Peverati%29/12%3A_Phase_Equilibrium/12.02%3A_Gibbs_Phase_Rule",
+          "type": "article",
+          "description": "Alternative exposition"
+        }
+      ],
+      "importance": "medium",
+      "category": "Thermodynamics & Equilibrium",
+      "topics": ["Phase diagrams", "F=C−P+2", "Invariant points"]
+    },
+    {
+      "id": "6",
+      "title": "Clausius–Clapeyron Equation",
+      "content": "Derive ln(P2/P1) = −ΔHvap/R (1/T2 − 1/T1). Use to estimate vapor pressures and boiling points; state assumptions (ΔHvap≈const, ideal behavior).",
+      "keyTakeaways": [
+        "Linear ln P vs 1/T with slope −ΔHvap/R.",
+        "Good for phase boundary extrapolation.",
+        "Deviations from non-ideality and T-dependent ΔHvap."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Clausius–Clapeyron Equation (module)",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Physical_Properties_of_Matter/States_of_Matter/Phase_Transitions/Clausius-Clapeyron_Equation",
+          "type": "article",
+          "description": "Derivation + examples"
+        },
+        {
+          "title": "LibreTexts — Phase Equilibria: Clausius–Clapeyron",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_%28LibreTexts%29/23%3A_Phase_Equilibria/23.04%3A_The_Clausius-Clapeyron_Equation",
+          "type": "article",
+          "description": "Extended treatment"
+        }
+      ],
+      "importance": "high",
+      "category": "Thermodynamics & Equilibrium",
+      "topics": ["Vapor pressure", "ΔHvap", "Phase boundary"]
+    },
+    {
+      "id": "7",
+      "title": "Free Energy & Equilibrium (ΔG°, K, and Temperature)",
+      "content": "Relate ΔG° = −RT ln K; discuss temperature dependence via van 't Hoff; connect spontaneity (ΔG sign) to Le Châtelier.",
+      "keyTakeaways": [
+        "K = e^(−ΔG°/RT) links thermodynamics to composition.",
+        "Sign of ΔH° sets d(ln K)/dT.",
+        "Use activities for accuracy (non-ideal solutions)."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Free Energy and Equilibrium",
+          "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Thermodynamics/Chemical_Energetics/Free_Energy_and_Equilibrium",
+          "type": "article",
+          "description": "Core relations + examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Thermodynamics & Equilibrium",
+      "topics": ["ΔG°", "K", "van 't Hoff"]
+    },
+    {
+      "id": "8",
+      "title": "Arrhenius Equation & Temperature Dependence of Rates",
+      "content": "k = A e^(−Ea/RT); extract Ea from ln k vs 1/T. Compare to modified Arrhenius; link to collision and transition-state pictures.",
+      "keyTakeaways": [
+        "Slope = −Ea/R on Arrhenius plot.",
+        "A reflects frequency/orientation factors.",
+        "Catalysts lower Ea (change pathway)."
+      ],
+      "resources": [
+        {
+          "title": "IUPAC Gold Book — Arrhenius equation",
+          "url": "https://goldbook.iupac.org/terms/view/A00446",
+          "type": "reference",
+          "description": "Formal definition"
+        }
+      ],
+      "importance": "high",
+      "category": "Reaction Kinetics",
+      "topics": ["Arrhenius", "Activation energy", "Catalysis"]
+    },
+    {
+      "id": "9",
+      "title": "Transition-State Theory (Eyring)",
+      "content": "Rate ∝ concentration of activated complex × transmission; compare with Arrhenius and derive Eyring equation. Enzyme catalysis context.",
+      "keyTakeaways": [
+        "Barrier crossing controls rate.",
+        "Provides enthalpy/entropy of activation.",
+        "Explains temperature/rate trends beyond simple collision theory."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Transition State Theory (Smirnov & McCarty)",
+          "url": "https://chem.libretexts.org/Courses/Western_Washington_University/Biophysical_Chemistry_%28Smirnov_and_McCarty%29/02%3A_Chemical_Kinetics/2.03%3A_Transition_State_Theory",
+          "type": "article",
+          "description": "Concept + math"
+        },
+        {
+          "title": "LibreTexts — Transition State Theory (Millersville P. Chem I)",
+          "url": "https://chem.libretexts.org/Courses/Millersville_University/CHEM_341-_Physical_Chemistry_I/11%3A_Chemical_Kinetics_I/11.11%3A_Transition_State_Theory",
+          "type": "article",
+          "description": "Alternative derivation and examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Reaction Kinetics",
+      "topics": ["Eyring", "Activated complex", "K‡"]
+    },
+    {
+      "id": "10",
+      "title": "Electrophilic Aromatic Substitution (Mechanism + Key Reactions)",
+      "content": "Two-step mechanism via σ-complex; rate-determining loss of aromaticity then deprotonation; directing effects; nitration, halogenation, sulfonation, Friedel–Crafts.",
+      "keyTakeaways": [
+        "EDG → ortho/para; EWG (esp. —NO2, —CF3) → meta.",
+        "Carbocation stabilization explains reactivity/order.",
+        "Catalysts (Lewis/Brønsted acids) activate electrophiles."
+      ],
+      "resources": [
+        {
+          "title": "Master Organic Chemistry — EAS Mechanism",
+          "url": "https://www.masterorganicchemistry.com/2017/11/09/electrophilic-aromatic-substitution-the-mechanism/",
+          "type": "article",
+          "description": "Mechanistic walkthrough"
+        },
+        {
+          "title": "Master Organic Chemistry — Six key EAS reactions",
+          "url": "https://www.masterorganicchemistry.com/2017/07/11/electrophilic-aromatic-substitution-introduction/",
+          "type": "article",
+          "description": "Named reactions + conditions"
+        }
+      ],
+      "importance": "high",
+      "category": "Organic Synthesis & Mechanisms",
+      "topics": ["EAS", "Directing effects", "Friedel–Crafts"]
+    },
+    {
+      "id": "11",
+      "title": "Grignard Reagents — Synthesis & Applications",
+      "content": "RMgX formation, Schlenk equilibrium, additions to carbonyls (alcohols), CO2 (acids), epoxides; incompatibilities (protic media).",
+      "keyTakeaways": [
+        "Air/moisture sensitive; use dry ether.",
+        "Carbonyl additions governed by sterics/chemospecificity.",
+        "Useful for homologation and C–C bond formation."
+      ],
+      "resources": [
+        {
+          "title": "Organic-Chemistry.org — Grignard Reaction (Named Reaction)",
+          "url": "https://www.organic-chemistry.org/namedreactions/grignard-reaction.shtm",
+          "type": "reference",
+          "description": "Scope, mechanism, examples"
+        },
+        {
+          "title": "Organic-Chemistry.org — Name Reactions (index)",
+          "url": "https://www.organic-chemistry.org/namedreactions/",
+          "type": "reference",
+          "description": "Quick lookup for many exam-favorite reactions"
+        }
+      ],
+      "importance": "medium",
+      "category": "Organic Synthesis & Mechanisms",
+      "topics": ["Grignard", "Organometallics", "C–C coupling"]
+    },
+    {
+      "id": "12",
+      "title": "Crystal Field Theory: Splitting, Color, Magnetism; Jahn–Teller",
+      "content": "Explain Δo/Δt splitting, spectrochemical series idea, d–d transitions and spin states; introduce Jahn–Teller distortions in degenerate configurations (e.g., d9).",
+      "keyTakeaways": [
+        "Ligand field splits d orbitals → color and magnetism.",
+        "Weak/strong field affects pairing/spin (high vs low).",
+        "Jahn–Teller: distortion removes degeneracy and lowers energy."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — CFT: Optical & Magnetic Properties",
+          "url": "https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_002CH/Text/UNIT_III%3A_CHEMICAL_BONDING_AND_STRUCTURE/8%3A_Bonding_in_Transition_Metal_Compounds_and_Coordination_Complexes/8.5%3A_Crystal_Field_Theory%3A_Optical_and_Magnetic_Properties",
+          "type": "article",
+          "description": "Δ, colors, magnetism"
+        },
+        {
+          "title": "LibreTexts — Jahn–Teller Distortions (coordination chemistry)",
+          "url": "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_%28Inorganic_Chemistry%29/Coordination_Chemistry/Structure_and_Nomenclature_of_Coordination_Compounds/Coordination_Numbers_and_Geometry/Jahn-Teller_Distortions",
+          "type": "article",
+          "description": "Distortion patterns and when they arise"
+        },
+        {
+          "title": "Britannica — Jahn–Teller theorem (context)",
+          "url": "https://www.britannica.com/science/transition-metal/Biological-functions-of-transition-metals",
+          "type": "article",
+          "description": "Concise statement of theorem; transition metal context"
+        }
+      ],
+      "importance": "high",
+      "category": "Coordination Chemistry (CFT/VBT/MO)",
+      "topics": ["CFT", "Spectrochemical ideas", "Jahn–Teller"]
+    },
+    {
+      "id": "13",
+      "title": "Quantum Basics: de Broglie, Schrödinger; Particle in a Box",
+      "content": "State de Broglie λ=h/p, set up boundary conditions for 1D/3D box, energy quantization En ∝ n², node structure; Born interpretation and operators.",
+      "keyTakeaways": [
+        "Confinement → quantized energy levels.",
+        "Wavefunction squares → probability density.",
+        "Box length controls spacing (∝1/L²)."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW 5.61 — Lecture 5: Free Particle & 1D Box (PDF)",
+          "url": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/34af3f2947a8bd7aca9e5b3745df457b_MIT5_61F17_lec5.pdf",
+          "type": "notes",
+          "description": "Worked derivations and examples"
+        },
+        {
+          "title": "MIT OCW 5.61 — Lecture Notes index",
+          "url": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/pages/lecture-notes/",
+          "type": "notes",
+          "description": "All PDFs: 3D box, TDSE, etc."
+        }
+      ],
+      "importance": "high",
+      "category": "Quantum & Electronic Structure",
+      "topics": ["de Broglie", "Schrödinger", "Particle in a box", "Born interpretation"]
+    },
+    {
+      "id": "14",
+      "title": "Industrial Chemistry: Sulfuric Acid (Contact Process) & Urea",
+      "content": "Outline catalysts/conditions and flow for H2SO4 (contact) and urea synthesis; discuss emissions control and process chemistry ties to thermodynamics/kinetics.",
+      "keyTakeaways": [
+        "Optimize via Le Châtelier (pressure/temperature) and catalysts (V2O5).",
+        "Industrial steps often balance rate and equilibrium.",
+        "Environmental controls integral (SOx/NOx handling)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Acid–base catalysis (industrial tie-ins)",
+          "url": "https://www.britannica.com/science/acid-base-catalysis",
+          "type": "article",
+          "description": "Catalysis principles in process chemistry"
+        }
+      ],
+      "importance": "medium",
+      "category": "Industrial & Environmental",
+      "topics": ["Contact process", "Urea", "Process optimization"]
+    },
+    {
+      "id": "15",
+      "title": "Environmental Chemistry: Acid Rain & Greenhouse Basics (thermo/kinetics links)",
+      "content": "SOx/NOx chemistry to acids; buffering capacity of soils/waters; link to equilibrium constants and kinetics of atmospheric transformations.",
+      "keyTakeaways": [
+        "Formation pathways depend on radicals and catalysis.",
+        "Mitigation: emission cuts and neutralization.",
+        "pH, alkalinity, and carbonate equilibria control impact."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Acid–base reaction (contextual chemistry)",
+          "url": "https://www.britannica.com/science/acid-base-reaction",
+          "type": "article",
+          "description": "Background fundamentals applied in environment"
+        }
+      ],
+      "importance": "medium",
+      "category": "Industrial & Environmental",
+      "topics": ["Acid rain", "Equilibria", "Mitigation"]
+    },
+    {
+      "id": "16",
+      "title": "Spectroscopy Touchpoints for Exams (UV–Vis, IR, NMR cross-links)",
+      "content": "Electronic transitions (n→π*, π→π*), IR functional group IDs, NMR δ/π-anisotropy trends; tie aromatic substituent effects and conjugation to spectra.",
+      "keyTakeaways": [
+        "Conjugation bathochromically shifts UV–Vis.",
+        "IR: carbonyls, OH/NH, fingerprint region patterns.",
+        "NMR: shielding/deshielding trends (aryl > vinylic > aldehydic)."
+      ],
+      "resources": [
+        {
+          "title": "Master Organic Chemistry — EAS & substituent effects (spectral consequences)",
+          "url": "https://www.masterorganicchemistry.com/2017/07/11/electrophilic-aromatic-substitution-introduction/",
+          "type": "article",
+          "description": "Substituent patterns relate to NMR/IR shifts"
+        },
+        {
+          "title": "MIT OCW 5.61 — Lecture Notes (index)",
+          "url": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/pages/lecture-notes/",
+          "type": "notes",
+          "description": "Quantum foundations for spectroscopy"
+        }
+      ],
+      "importance": "medium",
+      "category": "Spectroscopy & Analytical",
+      "topics": ["UV–Vis", "IR", "NMR", "Conjugation"]
+    }
+  ]
+}

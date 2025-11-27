@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:45:14.261Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "9b1715bf0654b490425920f845f8ca435930b2f7",
+      "sectionIndex": 0,
+      "question": "The main difference between Hobbes and Locke's concept of State of Nature is:",
+      "options": [
+        "A) Hobbes sees it as peaceful, Locke as warlike",
+        "B) Hobbes sees it as warlike, Locke as relatively peaceful",
+        "C) Both see it identically",
+        "D) Neither discusses it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7db064273bbc8f8e434b3b63310308aae6f18bb6",
+      "sectionIndex": 0,
+      "question": "Plato's Theory of Justice primarily aims to establish:",
+      "options": [
+        "A) Economic equality",
+        "B) Harmony between different classes",
+        "C) Democratic governance",
+        "D) Individual freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1e46042933ee7e323f53c470cb36209ef5e68d3",
+      "sectionIndex": 0,
+      "question": "Aristotle's classification of governments is based on:",
+      "options": [
+        "A) Economic systems only",
+        "B) Number of rulers and their aims",
+        "C) Geographic location",
+        "D) Military power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c50d1a2dc9abacaecb819168a0310e189eae4bc4",
+      "sectionIndex": 0,
+      "question": "The concept of General Will in Rousseau differs from majority will because:",
+      "options": [
+        "A) It represents what is best for the community",
+        "B) It is always the majority opinion",
+        "C) It is determined by voting",
+        "D) It changes frequently"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3fe6591496dc4e483092bd408fd00b688f5696d0",
+      "sectionIndex": 0,
+      "question": "Machiavelli's political philosophy is considered revolutionary because:",
+      "options": [
+        "A) It promoted democracy",
+        "B) It separated politics from morality",
+        "C) It supported monarchy",
+        "D) It advocated socialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e32e3c3662d3d24ea0f8219cc5b848c4e8ecda79",
+      "sectionIndex": 0,
+      "question": "Al-Farabi's ideal state combines:",
+      "options": [
+        "A) Only Islamic principles",
+        "B) Greek philosophy with Islamic principles",
+        "C) Only Greek philosophy",
+        "D) Roman law with Islamic law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f10dd92396294128d5741a1a80898fa0df55dc4",
+      "sectionIndex": 0,
+      "question": "Ibn Khaldun's concept of Asabiyyah explains:",
+      "options": [
+        "A) Individual psychology",
+        "B) Group solidarity and civilization cycles",
+        "C) Economic development",
+        "D) Religious movements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb0cda6299d1bc43e0557cf2716d325340b3c2ae",
+      "sectionIndex": 0,
+      "question": "Marx's historical materialism suggests that:",
+      "options": [
+        "A) Ideas shape economic conditions",
+        "B) Economic conditions shape ideas and politics",
+        "C) Religion determines history",
+        "D) Great men make history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca31e8ed44eb2285f32f360e6dc9b1eab430d2f7",
+      "sectionIndex": 0,
+      "question": "Montesquieu is called the \"Aristotle of 18th century\" because:",
+      "options": [
+        "A) He wrote about ethics",
+        "B) He classified governments systematically",
+        "C) He was Greek",
+        "D) He taught Alexander"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee9cf45d813f7833ce23381586b9456c9df95038",
+      "sectionIndex": 0,
+      "question": "The Social Contract theories differ mainly in their view of:",
+      "options": [
+        "A) The existence of a contract",
+        "B) What rights are surrendered and retained",
+        "C) The need for government",
+        "D) The definition of justice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c4354252f8a0f34e4fb094adc4eb37875c1e40c",
+      "sectionIndex": 1,
+      "question": "The American system of checks and balances prevents absolute power through:",
+      "options": [
+        "A) Elections only",
+        "B) Separation of powers among branches",
+        "C) Federal structure only",
+        "D) Bill of Rights only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa0ae3c4de78de72db723f8d091840d250e21102",
+      "sectionIndex": 1,
+      "question": "Parliamentary sovereignty in Britain means:",
+      "options": [
+        "A) The Queen is supreme",
+        "B) Parliament can make or unmake any law",
+        "C) The Prime Minister is all-powerful",
+        "D) Courts are supreme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3ac31834b91fb763d70f22189142c782b6a8e04",
+      "sectionIndex": 1,
+      "question": "The French President under the Fifth Republic has:",
+      "options": [
+        "A) Only ceremonial powers",
+        "B) Both executive powers and emergency powers",
+        "C) Only military powers",
+        "D) No real powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ab1816f5d720975a781771a82a1718360acac4a",
+      "sectionIndex": 1,
+      "question": "The main difference between federation and confederation is:",
+      "options": [
+        "A) Size of territory",
+        "B) Central government's power over units",
+        "C) Number of units",
+        "D) Type of constitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "631a6f9c18478ee2749d480d4d97bad7c5cd83dc",
+      "sectionIndex": 1,
+      "question": "Judicial review allows courts to:",
+      "options": [
+        "A) Only interpret laws",
+        "B) Declare laws unconstitutional",
+        "C) Make new laws",
+        "D) Execute laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b9e0a08ffdac0f32a9941871e672e3fd76cde6b",
+      "sectionIndex": 1,
+      "question": "The Westminster model is characterized by:",
+      "options": [
+        "A) Separation of powers",
+        "B) Fusion of executive and legislature",
+        "C) Federal structure",
+        "D) Written constitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b594a754b1559572c418b178e67cb6099ad44e30",
+      "sectionIndex": 1,
+      "question": "In the US system, the Senate is more powerful than the House because:",
+      "options": [
+        "A) It has more members",
+        "B) It has special powers like treaty ratification",
+        "C) It elects the President",
+        "D) It controls the budget"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0811d55441db18c35ba2dd2b9627fcc2f2fb6f6b",
+      "sectionIndex": 1,
+      "question": "The principle of ministerial responsibility means:",
+      "options": [
+        "A) Ministers make all decisions",
+        "B) Ministers are accountable to Parliament",
+        "C) Ministers cannot be removed",
+        "D) Ministers are appointed for life"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f104bd3d66cbfb30824d65f0f9950de9aea6a69",
+      "sectionIndex": 1,
+      "question": "A federal system requires:",
+      "options": [
+        "A) Only multiple levels of government",
+        "B) Constitutional division of powers",
+        "C) Large territory",
+        "D) Parliamentary system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72d0cab1999baae5d3e53f409670bdc402ac67f0",
+      "sectionIndex": 1,
+      "question": "The difference between de jure and de facto sovereignty is:",
+      "options": [
+        "A) Legal authority vs actual power",
+        "B) Internal vs external",
+        "C) Popular vs legal",
+        "D) Political vs economic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0780a99fc6ea4e43a8b3df9d3e6208f12d6726e3",
+      "sectionIndex": 2,
+      "question": "The 18th Amendment in Pakistan primarily:",
+      "options": [
+        "A) Created new provinces",
+        "B) Devolved powers to provinces",
+        "C) Strengthened federal government",
+        "D) Changed the system of government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bb8041e2457a9a89890a0b3e85d7797586677d8",
+      "sectionIndex": 2,
+      "question": "The evolution from 1956 to 1973 Constitution in Pakistan shows:",
+      "options": [
+        "A) Consistent principles",
+        "B) Shift from parliamentary to presidential and back",
+        "C) Increasing centralization",
+        "D) Decreasing Islamic provisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0e1ac5d5893acd06c72a6d931333a6f78458f0a",
+      "sectionIndex": 2,
+      "question": "The Objectives Resolution's significance lies in:",
+      "options": [
+        "A) Creating Pakistan",
+        "B) Defining the ideological foundation",
+        "C) Establishing democracy",
+        "D) Dividing powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a4cfe35b54d0f58748463c4d52d75b46c03faf5",
+      "sectionIndex": 2,
+      "question": "Provincial autonomy struggles in Pakistan reflect:",
+      "options": [
+        "A) Only linguistic differences",
+        "B) Center-province power distribution issues",
+        "C) Only economic disparities",
+        "D) Foreign interference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b793ccf5dccbb2aa398b03d3c2d973506dedc3d",
+      "sectionIndex": 2,
+      "question": "The American federal system differs from others in its:",
+      "options": [
+        "A) Dual sovereignty concept",
+        "B) Unitary features",
+        "C) Weak states",
+        "D) Parliamentary system"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9bd9887abf947c54cc4307369ef9b41b72aca577",
+      "sectionIndex": 2,
+      "question": "Judicial activism in Pakistan has led to:",
+      "options": [
+        "A) Weakening of judiciary",
+        "B) Expansion of judicial powers",
+        "C) Legislative supremacy",
+        "D) Executive dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61711f3eb0b4418e90774eba070590f5c083add9",
+      "sectionIndex": 2,
+      "question": "The basic structure doctrine means:",
+      "options": [
+        "A) All constitutional provisions can be amended",
+        "B) Some features cannot be amended",
+        "C) No amendments are allowed",
+        "D) Only Parliament can amend"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22f9b0b910b98a317b2f776d09ef83ff201e1d9a",
+      "sectionIndex": 2,
+      "question": "Local government's importance in democracy lies in:",
+      "options": [
+        "A) Administrative efficiency only",
+        "B) Grassroots participation and training",
+        "C) Revenue collection",
+        "D) Law enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b436e15d89b7c2d830bf155a80625570f7588ee",
+      "sectionIndex": 2,
+      "question": "The failure of local governments in Pakistan is mainly due to:",
+      "options": [
+        "A) Lack of resources only",
+        "B) Political interference and discontinuity",
+        "C) Public apathy only",
+        "D) Constitutional barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6dc6b71108f41916bf552c6e01adb840b9c8794",
+      "sectionIndex": 2,
+      "question": "Federal principles are best preserved through:",
+      "options": [
+        "A) Strong center only",
+        "B) Balance between unity and diversity",
+        "C) Weak provinces",
+        "D) Unitary features"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9c72250763798d2624f370d8b964542f4bb9810",
+      "sectionIndex": 3,
+      "question": "Liberal democracy combines:",
+      "options": [
+        "A) Socialism with democracy",
+        "B) Individual rights with majority rule",
+        "C) Authoritarianism with elections",
+        "D) Tradition with modernity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c162e857bceb2e7a754c0b49017b6acd335bbe2b",
+      "sectionIndex": 3,
+      "question": "The welfare state concept emerged from:",
+      "options": [
+        "A) Pure capitalism's failures",
+        "B) Communist success",
+        "C) Colonial experience",
+        "D) Religious movements"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a980effe753fc9ff0a8ae5bff61bc5ad22a3f843",
+      "sectionIndex": 3,
+      "question": "Rawls' Theory of Justice uses the \"veil of ignorance\" to:",
+      "options": [
+        "A) Promote inequality",
+        "B) Ensure fairness in choosing principles",
+        "C) Hide information",
+        "D) Support elitism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a755ffdc78004a17af7b1565520640907c96d29",
+      "sectionIndex": 3,
+      "question": "The \"End of History\" thesis argues that:",
+      "options": [
+        "A) History will literally end",
+        "B) Liberal democracy is the final form",
+        "C) Communism will triumph",
+        "D) Conflict will increase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f82482b0e516f810c8e527ccd7ddf172bf0601d",
+      "sectionIndex": 3,
+      "question": "Communitarianism critiques liberalism for:",
+      "options": [
+        "A) Too much community focus",
+        "B) Excessive individualism",
+        "C) Economic policies",
+        "D) Foreign policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0904731866ed8b890f6d16b369d044f0cea24014",
+      "sectionIndex": 3,
+      "question": "The capability approach focuses on:",
+      "options": [
+        "A) Economic growth only",
+        "B) What people can actually do and be",
+        "C) GDP per capita",
+        "D) Industrial development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edcefd5e9275db2428cbc94ce55800829cafd051",
+      "sectionIndex": 3,
+      "question": "Feminist political theory challenges:",
+      "options": [
+        "A) Only voting rights",
+        "B) Gendered assumptions in political concepts",
+        "C) Women's participation only",
+        "D) Economic equality only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8ef5f002e18e58443a509cb690171ea58712513",
+      "sectionIndex": 3,
+      "question": "Post-colonial theory in politics examines:",
+      "options": [
+        "A) Only economic exploitation",
+        "B) Continuing effects of colonialism",
+        "C) Pre-colonial systems",
+        "D) Colonial benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3161b3ffb5da5fd3c530bfef82c39fd4d20467e8",
+      "sectionIndex": 3,
+      "question": "Civil society's role in democracy is:",
+      "options": [
+        "A) Replace government",
+        "B) Check state power and facilitate participation",
+        "C) Oppose all government policies",
+        "D) Support government always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78834664e5ff417b5682dc53a12e81016ae8a655",
+      "sectionIndex": 3,
+      "question": "Deliberative democracy emphasizes:",
+      "options": [
+        "A) Quick decisions",
+        "B) Reasoned discussion and consensus",
+        "C) Elite decision-making",
+        "D) Majority dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f36c80111e24b7f149f21d0e7a91b611b75492e",
+      "sectionIndex": 4,
+      "question": "The tension between Al-Ghazali and Ibn Rushd centered on:",
+      "options": [
+        "A) Religious practices",
+        "B) Relationship between reason and revelation",
+        "C) Political systems",
+        "D) Economic theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2cf8a3bd74fd838932aaae8084f48ab4b6a5d55",
+      "sectionIndex": 4,
+      "question": "Al-Mawardi's contribution was to:",
+      "options": [
+        "A) Reject all political theory",
+        "B) Reconcile ideal theory with political reality",
+        "C) Promote democracy",
+        "D) Advocate theocracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b37e64503ae0a71b35274dd777d8a210d3fea13",
+      "sectionIndex": 4,
+      "question": "The concept of Shura (consultation) in Islamic governance implies:",
+      "options": [
+        "A) Absolute ruler authority",
+        "B) Participatory decision-making",
+        "C) Democratic voting only",
+        "D) Clerical rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "824d821e286feeedd701a66e54a391f37d2e2761",
+      "sectionIndex": 4,
+      "question": "Iqbal's reconstruction of religious thought aimed to:",
+      "options": [
+        "A) Return to medieval practices",
+        "B) Reconcile Islam with modernity",
+        "C) Reject all change",
+        "D) Promote secularism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f59a260e1783a63107913de22ad1ac3b53e765b",
+      "sectionIndex": 4,
+      "question": "The difference between Khilafah and Mulukiyyah is:",
+      "options": [
+        "A) No difference",
+        "B) Legitimate vs illegitimate rule",
+        "C) Democracy vs monarchy",
+        "D) Eastern vs Western"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "baddd5491e6f545803b3428217b7c278da03660c",
+      "sectionIndex": 4,
+      "question": "Ijtihad's importance in modern times lies in:",
+      "options": [
+        "A) Maintaining status quo",
+        "B) Adapting Islamic law to new circumstances",
+        "C) Rejecting all precedent",
+        "D) Creating new religion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce668736776d6958bb54db3f8aceda61b17a2846",
+      "sectionIndex": 4,
+      "question": "The concept of Maslaha (public interest) allows:",
+      "options": [
+        "A) Abandoning Islamic law",
+        "B) Flexibility within Islamic framework",
+        "C) Pure pragmatism",
+        "D) Western adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89a45f681bf335a3e2565ec79f113797e936070f",
+      "sectionIndex": 4,
+      "question": "Islamic concepts of justice emphasize:",
+      "options": [
+        "A) Formal equality only",
+        "B) Balance between rights and responsibilities",
+        "C) Revenge",
+        "D) Class struggle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02bd170b80c5f56df89be0b3b2c7aed27d6cd9c9",
+      "sectionIndex": 4,
+      "question": "The Medinan model provides lessons for:",
+      "options": [
+        "A) Theocracy only",
+        "B) Pluralistic governance",
+        "C) Tribal rule",
+        "D) Monarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e9f4ff97f75f95cf73a004e0090cdec9648fbdf",
+      "sectionIndex": 4,
+      "question": "Modern Islamic political thought struggles with:",
+      "options": [
+        "A) Prayer methods",
+        "B) Authenticity vs modernity balance",
+        "C) Ritual practices",
+        "D) Language issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d56b9d853229fbb682429d339bd29fd0da8c6dc3",
+      "sectionIndex": 5,
+      "question": "Presidential and parliamentary systems differ fundamentally in:",
+      "options": [
+        "A) Size of legislature",
+        "B) Executive-legislative relationship",
+        "C) Judicial power",
+        "D) Federal structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "763da51d54ab8ee4185333d191ce436a8eebfa7e",
+      "sectionIndex": 5,
+      "question": "The French semi-presidential system combines:",
+      "options": [
+        "A) Monarchy and democracy",
+        "B) Elements of both presidential and parliamentary",
+        "C) Federal and unitary features",
+        "D) Capitalism and socialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecb3fbfc0795480905d11a629f46324a72dc74be",
+      "sectionIndex": 5,
+      "question": "One-party systems claim legitimacy through:",
+      "options": [
+        "A) Elections only",
+        "B) Revolutionary ideology or national liberation",
+        "C) Economic success only",
+        "D) Military power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd8f411d3c7dcb13382ccf69b182e784d87e55a8",
+      "sectionIndex": 5,
+      "question": "Consociational democracy works best in:",
+      "options": [
+        "A) Homogeneous societies",
+        "B) Deeply divided societies with elite cooperation",
+        "C) Large countries only",
+        "D) Poor countries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3254d87928cc02eea673d1f04561b763f3c0584",
+      "sectionIndex": 5,
+      "question": "The \"Third Wave\" of democratization refers to:",
+      "options": [
+        "A) Ancient democracy",
+        "B) Post-1974 democratic transitions",
+        "C) Future democracy",
+        "D) Internet democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61fd0dad82cf041e9a19713e10642b0a5dd63a6c",
+      "sectionIndex": 5,
+      "question": "Hybrid regimes combine:",
+      "options": [
+        "A) Full democracy and freedom",
+        "B) Democratic forms with authoritarian practices",
+        "C) Socialism and capitalism",
+        "D) Monarchy and republic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b41933e954cffec312f8d2f4cb753c764c52d8a9",
+      "sectionIndex": 5,
+      "question": "Political culture affects governance by:",
+      "options": [
+        "A) Determining laws only",
+        "B) Shaping expectations and behavior",
+        "C) Economic factors only",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ca1033f1f1910f297d5d799b8442d240563b434",
+      "sectionIndex": 5,
+      "question": "Proportional representation tends to produce:",
+      "options": [
+        "A) Two-party systems",
+        "B) Multi-party systems and coalitions",
+        "C) One-party dominance",
+        "D) Military rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c730bca76402379f378dfcca5820ebca8ccdc10b",
+      "sectionIndex": 5,
+      "question": "The \"democratic peace\" theory suggests:",
+      "options": [
+        "A) Democracies are always peaceful",
+        "B) Democracies rarely fight each other",
+        "C) Democracy causes war",
+        "D) Peace creates democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3c9f180e41d3f738f30d38280a14dc8d7aabc81",
+      "sectionIndex": 5,
+      "question": "Developing countries' democracy often faces challenges from:",
+      "options": [
+        "A) Too much freedom",
+        "B) Weak institutions and economic problems",
+        "C) Too many parties",
+        "D) Excessive participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b797cd9cc78ec65d7245e9523ec0b62a672c048",
+      "sectionIndex": 6,
+      "question": "The EU's integration represents:",
+      "options": [
+        "A) Simple trade agreement",
+        "B) Supranational governance experiment",
+        "C) Military alliance only",
+        "D) Cultural union only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db3a94ab0dfab88e58ba8826d92812ec045ee022",
+      "sectionIndex": 6,
+      "question": "SAARC's limited success is due to:",
+      "options": [
+        "A) Economic prosperity",
+        "B) India-Pakistan tensions and trust deficit",
+        "C) Too much integration",
+        "D) External support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3a12feb5c7e46e82599ddb01ab2269648f9e3aa",
+      "sectionIndex": 6,
+      "question": "The UN Security Council's structure reflects:",
+      "options": [
+        "A) Current world power",
+        "B) Post-WWII power distribution",
+        "C) Economic strength",
+        "D) Population size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b319a6daccf2e82a3abe41cd84a4b0c461e0447",
+      "sectionIndex": 6,
+      "question": "Regional organizations' effectiveness depends on:",
+      "options": [
+        "A) Size only",
+        "B) Political will and shared interests",
+        "C) Military power",
+        "D) External funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d39d54915a9bdbb05a90a327e998a01c897a824",
+      "sectionIndex": 6,
+      "question": "The Bretton Woods system created:",
+      "options": [
+        "A) Political institutions only",
+        "B) International economic governance",
+        "C) Military alliances",
+        "D) Cultural exchanges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27eccd970db824a7a2da24187d9c0ea76dbbd416",
+      "sectionIndex": 6,
+      "question": "Soft power differs from hard power in:",
+      "options": [
+        "A) Being weaker",
+        "B) Using attraction rather than coercion",
+        "C) Cost only",
+        "D) Speed of results"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dc721754028fcff9eea58556cb045c3254f5f0e",
+      "sectionIndex": 6,
+      "question": "Globalization's impact on sovereignty means:",
+      "options": [
+        "A) End of nation-states",
+        "B) Reduced autonomy in some areas",
+        "C) Stronger states",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a2c548bac50b639f3ee79d708f268638f9e3f16",
+      "sectionIndex": 6,
+      "question": "The \"responsibility to protect\" doctrine allows:",
+      "options": [
+        "A) Unlimited intervention",
+        "B) Intervention for humanitarian crises",
+        "C) Colonial control",
+        "D) Economic exploitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35dcc441a14465d4d9f230a920ba0da4cd21ff2a",
+      "sectionIndex": 6,
+      "question": "South-South cooperation aims to:",
+      "options": [
+        "A) Oppose the North",
+        "B) Mutual development among developing countries",
+        "C) Create new empires",
+        "D) Isolate from world"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17992f9a5f1d6364fd608dfc679fe8aebef6be3a",
+      "sectionIndex": 6,
+      "question": "International law's effectiveness depends on:",
+      "options": [
+        "A) Police force",
+        "B) State consent and compliance",
+        "C) UN army",
+        "D) Economic sanctions only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "94332fd90d48e663cf53f76e2121e36c2ebeced0",
+      "sectionIndex": 7,
+      "question": "Power and authority differ in that:",
+      "options": [
+        "A) They are identical",
+        "B) Authority is legitimate power",
+        "C) Power is always legitimate",
+        "D) Authority requires force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9520e19ca66a235ea1e564684dddf49dc509b103",
+      "sectionIndex": 7,
+      "question": "Positive and negative liberty represent:",
+      "options": [
+        "A) Good and bad freedom",
+        "B) Freedom to vs freedom from",
+        "C) Legal vs illegal",
+        "D) Individual vs collective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdb06174de1d5e01f66e62db7bcb84f4e1a7accc",
+      "sectionIndex": 7,
+      "question": "Political obligation theories explain:",
+      "options": [
+        "A) Why states exist",
+        "B) Why citizens should obey laws",
+        "C) How to revolt",
+        "D) Economic duties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5af4e635a61b5f444b2dd53bfc0661881f4f2a19",
+      "sectionIndex": 7,
+      "question": "The paradox of democracy is:",
+      "options": [
+        "A) It doesn't work",
+        "B) Majority rule can threaten minority rights",
+        "C) It's too expensive",
+        "D) It's too slow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bba5303ca015a0985a7ff3682213b721a1023e2f",
+      "sectionIndex": 7,
+      "question": "Legitimacy in politics requires:",
+      "options": [
+        "A) Force only",
+        "B) Acceptance of right to rule",
+        "C) Elections only",
+        "D) Wealth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c728dc009270cc1cb48548c2d669a01ab417715e",
+      "sectionIndex": 7,
+      "question": "Political socialization occurs through:",
+      "options": [
+        "A) Voting only",
+        "B) Family, education, media, and experiences",
+        "C) Government propaganda only",
+        "D) Birth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfe92170dd2610f8dacbb107ffe0361c4bc0337a",
+      "sectionIndex": 7,
+      "question": "Interest groups differ from political parties in:",
+      "options": [
+        "A) Size only",
+        "B) Seeking influence vs seeking power",
+        "C) Funding sources",
+        "D) International connections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca011009f2be51c74939aecaa76fba146ea5fdf1",
+      "sectionIndex": 7,
+      "question": "The iron law of oligarchy suggests:",
+      "options": [
+        "A) Democracy is easy",
+        "B) Organizations tend toward elite control",
+        "C) Oligarchy is good",
+        "D) Democracy always wins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "736cf12685235a78402c35d818d6dd220edba4c5",
+      "sectionIndex": 7,
+      "question": "Political development involves:",
+      "options": [
+        "A) Economic growth only",
+        "B) Institutional capacity and participation",
+        "C) Westernization",
+        "D) Urbanization only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c32fe02a97b6bc9eaf0f9cc8a7b53e2c5099490",
+      "sectionIndex": 7,
+      "question": "Revolutionary change differs from reform in:",
+      "options": [
+        "A) Speed only",
+        "B) Fundamental transformation vs gradual change",
+        "C) Violence only",
+        "D) Leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c809050ce55fd4e925a1cf8111d5d8c174d9b86b",
+      "sectionIndex": 8,
+      "question": "Democratic backsliding involves:",
+      "options": [
+        "A) Economic recession",
+        "B) Gradual erosion of democratic norms",
+        "C) Sudden coups only",
+        "D) Foreign invasion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea4e51658a7a8c0d89ec97e5ca835a8f569cb029",
+      "sectionIndex": 8,
+      "question": "Populism's appeal lies in:",
+      "options": [
+        "A) Complex policies",
+        "B) Simple solutions and anti-elite rhetoric",
+        "C) International cooperation",
+        "D) Academic theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd02b47cfec11372c673af00f572ed6ab6856439",
+      "sectionIndex": 8,
+      "question": "Identity politics can lead to:",
+      "options": [
+        "A) Only positive outcomes",
+        "B) Both mobilization and fragmentation",
+        "C) Economic growth",
+        "D) International peace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e187f49549123fbf8d31d743bd330f68c5e1750",
+      "sectionIndex": 8,
+      "question": "The digital divide affects democracy by:",
+      "options": [
+        "A) Improving access equally",
+        "B) Creating information inequality",
+        "C) Ending traditional media",
+        "D) Increasing costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95a2ef69e41db30ce86b36cf675c66cf4c19067a",
+      "sectionIndex": 8,
+      "question": "Climate change challenges governance through:",
+      "options": [
+        "A) Temperature only",
+        "B) Requiring global cooperation and long-term thinking",
+        "C) Reducing conflicts",
+        "D) Simplifying decisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "852c36a25bb6b96f16b229cbd8cb2b02280d206f",
+      "sectionIndex": 8,
+      "question": "Migration affects politics by:",
+      "options": [
+        "A) No impact",
+        "B) Changing demographics and challenging integration",
+        "C) Always improving economy",
+        "D) Reducing diversity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "488b1fc5ccae8cd8617dcf78e26573e72f6df32d",
+      "sectionIndex": 8,
+      "question": "Economic inequality threatens democracy through:",
+      "options": [
+        "A) Prosperity",
+        "B) Concentrated political influence",
+        "C) Increased participation",
+        "D) Better education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9adf4039c280af8d82358ece97237a0489786d40",
+      "sectionIndex": 8,
+      "question": "Terrorism's political impact includes:",
+      "options": [
+        "A) Uniting all people",
+        "B) Security-freedom trade-offs",
+        "C) Economic growth",
+        "D) International cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2aa35ef9f5d00aef8071523db095f0e1285e6bb2",
+      "sectionIndex": 8,
+      "question": "Social media's effect on politics includes:",
+      "options": [
+        "A) Only positive engagement",
+        "B) Both mobilization and polarization",
+        "C) Ending traditional politics",
+        "D) Reducing participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3780ff6a9cafe8cc381c340b5d3bd306051f3f42",
+      "sectionIndex": 8,
+      "question": "Pandemic governance revealed:",
+      "options": [
+        "A) Perfect preparedness",
+        "B) State capacity and trust importance",
+        "C) Irrelevance of government",
+        "D) End of globalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed468af1866adafec2441b46b2b11a059d4d82ad",
+      "sectionIndex": 9,
+      "question": "Pakistan's democratic interruptions result from:",
+      "options": [
+        "A) Public preference",
+        "B) Institutional imbalance and weak civilian capacity",
+        "C) Foreign invasion",
+        "D) Economic prosperity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0826e9fa35cd777f7bb902082eecba96602ff506",
+      "sectionIndex": 9,
+      "question": "The Two-Nation Theory's evolution shows:",
+      "options": [
+        "A) Static ideology",
+        "B) Adaptation from minority protection to state ideology",
+        "C) Rejection of Islam",
+        "D) Pure secularism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3be707ea50e8adf8ff37bad4874a7f69c029e4c1",
+      "sectionIndex": 9,
+      "question": "Civil-military relations in Pakistan feature:",
+      "options": [
+        "A) Complete civilian control",
+        "B) Military's expanded role beyond defense",
+        "C) No military influence",
+        "D) Perfect balance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3df49d474362a32e24ef6c1f98a9fec0e8f8207b",
+      "sectionIndex": 9,
+      "question": "Pakistan's foreign policy is shaped by:",
+      "options": [
+        "A) Economy only",
+        "B) Security concerns and geo-strategic position",
+        "C) Culture only",
+        "D) Random factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "104823854553a4d018136bb45524e5f6ab0de226",
+      "sectionIndex": 9,
+      "question": "Provincial tensions in Pakistan stem from:",
+      "options": [
+        "A) Language only",
+        "B) Resource distribution and historical grievances",
+        "C) Foreign interference only",
+        "D) Religious differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82fca6da4869f8a723669824b6c253f17c01aca3",
+      "sectionIndex": 9,
+      "question": "Judicial activism in Pakistan reflects:",
+      "options": [
+        "A) Weak judiciary",
+        "B) Governance vacuum and institutional assertion",
+        "C) Perfect system",
+        "D) Legislative dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a7b3598a475a73ab693de3016e5ef2cef1142f7",
+      "sectionIndex": 9,
+      "question": "Political parties in Pakistan often exhibit:",
+      "options": [
+        "A) Strong ideology",
+        "B) Personalistic leadership and weak institutionalization",
+        "C) Perfect democracy",
+        "D) No regional base"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1728723d2e23ea5f909fd814e5f910582c0a39c",
+      "sectionIndex": 9,
+      "question": "Electoral reforms in Pakistan aim to address:",
+      "options": [
+        "A) High turnout",
+        "B) Credibility and transparency issues",
+        "C) Too many voters",
+        "D) International standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e7fdb4891fafefd824e87acfe86b4f178a391a5",
+      "sectionIndex": 9,
+      "question": "Pakistan's constitutional development shows:",
+      "options": [
+        "A) Smooth progress",
+        "B) Contested visions and interrupted evolution",
+        "C) No change",
+        "D) Foreign imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "474b48597148eeb0540c85a50ed5682de93290e1",
+      "sectionIndex": 9,
+      "question": "The role of Islam in Pakistan's politics involves:",
+      "options": [
+        "A) Complete theocracy",
+        "B) Ongoing debate about interpretation and application",
+        "C) Pure secularism",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    }
+  ]
+}

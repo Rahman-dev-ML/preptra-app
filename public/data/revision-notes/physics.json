@@ -1,0 +1,381 @@
+{
+  "subject": "CSS Physics",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 12,
+  "categories": [
+    "Vector Analysis & Operations",
+    "Mechanics & Dynamics (incl. Rotational & Relativity)",
+    "Electromagnetism & Circuits",
+    "Waves & Optics",
+    "Thermodynamics & Statistical Mechanics",
+    "Modern Physics & Quantum Mechanics",
+    "Special Relativity",
+    "Fluid Dynamics",
+    "Rotational Dynamics",
+    "Nuclear Physics",
+    "Solid State & Semiconductors",
+    "Exam Strategy & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Vector Calculus: ∇, grad, div, curl, Laplacian & Identities",
+      "content": "Master definitions (in Cartesian & curvilinear coordinates), physical meaning (e.g., div = source density, curl = local rotation), and identity proofs used in EM and fluid derivations. Be ready to compute line/surface/volume integrals and use vector triple product identities.",
+      "keyTakeaways": [
+        "Memorize and practice key vector identities (product rules, ∇·(∇×A)=0, ∇×(∇ϕ)=0, ∇²ϕ=∇·∇ϕ).",
+        "Geometric/physical interpretations often earn method marks even if arithmetic slips.",
+        "Directly connects to Maxwell's equations, Poynting theorem, Laplacian in Poisson/Helmholtz."
+      ],
+      "resources": [
+        {
+          "title": "Paul's Online Math Notes — Curl & Divergence",
+          "url": "https://tutorial.math.lamar.edu/classes/calciii/curldivergence.aspx",
+          "type": "article",
+          "description": "Concise definitions + worked examples"
+        },
+        {
+          "title": "MIT OCW 18.02 — Multivariable Calculus (notes)",
+          "url": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/pages/lecture-notes/",
+          "type": "course",
+          "description": "Lecture notes covering grad/div/curl & integral theorems"
+        },
+        {
+          "title": "Vector Calculus Identities (reference)",
+          "url": "https://en.wikipedia.org/wiki/Vector_calculus_identities",
+          "type": "reference",
+          "description": "Compact list for revision"
+        }
+      ],
+      "importance": "high",
+      "category": "Vector Analysis & Operations",
+      "topics": ["Gradient", "Divergence", "Curl", "Laplacian", "Vector Identities"]
+    },
+    {
+      "id": "2",
+      "title": "Maxwell's Equations, Potentials & Poynting Theorem",
+      "content": "Know differential & integral forms, boundary conditions, wave equation in free space, and energy/momentum flow of EM fields via Poynting vector. Be prepared to derive Poynting theorem and compute energy density/intensity.",
+      "keyTakeaways": [
+        "From Faraday + Ampère–Maxwell ⇒ wave equations c=1/√(μ0ε0).",
+        "Poynting vector S = (1/μ0) E×B; ⟨S⟩ governs intensity.",
+        "Vector/scalar potentials (A, ϕ) with gauges simplify problems."
+      ],
+      "resources": [
+        {
+          "title": "Feynman Lectures Vol. II — Ch. 27 Field Energy & Momentum",
+          "url": "https://www.feynmanlectures.caltech.edu/II_27.html",
+          "type": "chapter",
+          "description": "Beautiful derivation & intuition for Poynting vector"
+        },
+        {
+          "title": "OpenStax Univ. Physics Vol. 2 — Energy in EM Waves",
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/16-3-energy-carried-by-electromagnetic-waves",
+          "type": "textbook",
+          "description": "Worked examples on ⟨S⟩ and energy density"
+        },
+        {
+          "title": "MIT OCW 8.02 — Maxwell's Equations (notes + slides)",
+          "url": "https://web.mit.edu/8.02t/www/802TEAL3D/visualizations/coursenotes/modules/guide13.pdf",
+          "type": "pdf",
+          "description": "Displacement current to EM waves"
+        }
+      ],
+      "importance": "high",
+      "category": "Electromagnetism & Circuits",
+      "topics": ["Maxwell", "Poynting Vector", "Potentials", "Energy Flow"]
+    },
+    {
+      "id": "3",
+      "title": "Electrostatics & Magnetostatics Problem-Solving",
+      "content": "Gauss's law applications (planar, cylindrical, spherical), potentials/field from charge distributions; Biot–Savart & Ampère for B-fields; capacitor energy density; dipole fields & torque.",
+      "keyTakeaways": [
+        "Choose symmetry + Gaussian/Amperian surfaces wisely.",
+        "Relate E to V via gradients; use superposition & images where allowed.",
+        "Energy density in dielectrics and boundary conditions are frequent MCQs."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Vol. 2 — Gauss's Law to Capacitors (Ch. 6–8)",
+          "url": "https://openstax.org/details/books/university-physics-volume-2",
+          "type": "textbook",
+          "description": "Free, exam-oriented worked problems"
+        },
+        {
+          "title": "MIT OCW 8.02 — Lecture Notes Index",
+          "url": "https://ocw.mit.edu/courses/8-02t-electricity-and-magnetism-spring-2005/pages/lecture-notes/",
+          "type": "course",
+          "description": "Gauss, Ampère, displacement current & Poynting problem sets"
+        },
+        {
+          "title": "Feynman Lectures Vol. II — Vector Field Calculus",
+          "url": "https://www.feynmanlectures.caltech.edu/II_toc.html",
+          "type": "book",
+          "description": "Ch. 2–3 for ∇-calculus in EM context"
+        }
+      ],
+      "importance": "high",
+      "category": "Electromagnetism & Circuits",
+      "topics": ["Gauss Law", "Dipoles", "Capacitance", "Biot–Savart", "Ampère"]
+    },
+    {
+      "id": "4",
+      "title": "AC Circuits, RLC, Transformers & Rectifiers",
+      "content": "Phasor/impedance methods for RLC (series/parallel), resonance & Q, power factor; transformer basics; rectification & filter smoothing; common MCQ traps.",
+      "keyTakeaways": [
+        "Memorize Z_R=R, Z_L=jωL, Z_C=1/(jωC) and resonance ω0=1/√(LC).",
+        "Know quality factor, bandwidth, and power in AC.",
+        "PN junction rectifiers: half/full-wave behavior & ripple."
+      ],
+      "resources": [
+        {
+          "title": "All About Circuits — Textbook (AC, RLC, Power)",
+          "url": "https://www.allaboutcircuits.com/textbook/alternating-current/",
+          "type": "textbook",
+          "description": "Accessible AC & RLC with examples"
+        },
+        {
+          "title": "Electronics Tutorials — PN Junction Theory",
+          "url": "https://www.electronics-tutorials.ws/diode/diode_2.html",
+          "type": "tutorial",
+          "description": "Biasing, I–V and rectification basics"
+        },
+        {
+          "title": "HyperPhysics — PN Junction & Diodes",
+          "url": "https://hyperphysics.phy-astr.gsu.edu/hbase/Solids/pnjun.html",
+          "type": "reference",
+          "description": "Quick refresh for MCQs"
+        }
+      ],
+      "importance": "high",
+      "category": "Electromagnetism & Circuits",
+      "topics": ["RLC", "Impedance", "Resonance", "Transformers", "Rectifiers"]
+    },
+    {
+      "id": "5",
+      "title": "Waves & Optics: Interference, Diffraction, Polarization, Lasers",
+      "content": "Young's double slit, single/multiple-slit diffraction, Rayleigh criterion, thin-film colors, coherence; standing vs traveling waves; phase & group velocity; lasers & safety.",
+      "keyTakeaways": [
+        "Fringe formulas: Δy=λL/d, sinθ_m=mλ/a, resolving power ~ mN for gratings.",
+        "Thin films: path & phase shifts (π on reflection from higher n).",
+        "Standing waves carry no net energy; nodes/antinodes conditions are examinable."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Vol. 3 — Wave Optics (Young's Double Slit)",
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/3-1-youngs-double-slit-interference",
+          "type": "textbook",
+          "description": "Core interference chapter"
+        },
+        {
+          "title": "MIT OCW 8.03SC — Vibrations & Waves (full course)",
+          "url": "https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/",
+          "type": "course",
+          "description": "Complete lectures + problems"
+        },
+        {
+          "title": "MIT Jr. Lab — Michelson Interferometer Lab Guide (PDF)",
+          "url": "https://mitocw.ups.edu.ec/courses/physics/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/experiments/michelson-interferometer/MIT8_13-14F16-S17expIII.pdf",
+          "type": "pdf",
+          "description": "Step-by-step interferometry reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Waves & Optics",
+      "topics": ["Interference", "Diffraction", "Polarization", "Lasers", "Standing Waves"]
+    },
+    {
+      "id": "6",
+      "title": "Mechanics & Dynamics: Work–Energy, SHM, Kepler & Orbits",
+      "content": "Work–energy theorem, central forces & angular momentum conservation, SHM derivations and energy graphs, projectile/circular motion, Kepler's laws and satellite periods.",
+      "keyTakeaways": [
+        "Always start from definitions: W=∫F·dr; in rotation, τ=dL/dt and K_rot=½Iω².",
+        "SHM links: a=−ω²x, energy swap between KE & PE; drawing helps.",
+        "Kepler T²∝a³; exploit vis-viva equation for orbit speed/period changes."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW 8.01 — Classical Mechanics",
+          "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+          "type": "course",
+          "description": "Lectures, problems & solutions"
+        }
+      ],
+      "importance": "high",
+      "category": "Mechanics & Dynamics (incl. Rotational & Relativity)",
+      "topics": ["Work–Energy", "SHM", "Angular Momentum", "Kepler", "Satellites"]
+    },
+    {
+      "id": "7",
+      "title": "Rotational Dynamics: I, Parallel-Axis, Rigid-Body Energy",
+      "content": "Compute I for rods/discs/spheres; derive parallel-axis; connect translational & rotational energy and angular momentum conservation; common exam numericals.",
+      "keyTakeaways": [
+        "Parallel-axis: I = I_cm + Md²; memorize standard I tables.",
+        "Rolling without slipping constraints save time.",
+        "Torque vs time to get ω(t) and θ(t) under constant τ."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW 8.01 — Rotation modules",
+          "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/unit-7-rotation/",
+          "type": "course",
+          "description": "Worked problems on I and τ"
+        }
+      ],
+      "importance": "medium",
+      "category": "Rotational Dynamics",
+      "topics": ["Moment of Inertia", "Parallel Axis", "Rotational KE"]
+    },
+    {
+      "id": "8",
+      "title": "Thermodynamics & Statistical Mechanics: Laws, Carnot, Entropy",
+      "content": "Statements of 0th–3rd laws; reversible/irreversible processes; Carnot efficiency and proofs; entropy changes; ideal vs real gases (van der Waals); basic stat-mech ideas.",
+      "keyTakeaways": [
+        "Carnot efficiency η=1−Tc/Th; connect Clausius/Kelvin–Planck equivalence.",
+        "For reversible processes dS=δQ_rev/T; irreversible ⇒ ΔS_total>0.",
+        "Van der Waals corrects P and volume for real gases; be ready for numericals."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Vol. 2 — The Second Law & Carnot (Ch. 4.5–4.6)",
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/4-5-the-carnot-cycle",
+          "type": "textbook",
+          "description": "Carnot & entropy with examples"
+        },
+        {
+          "title": "HyperPhysics — Second Law & Carnot",
+          "url": "https://hyperphysics.phy-astr.gsu.edu/hbase/thermo/carnot.html",
+          "type": "reference",
+          "description": "Diagram-first revision"
+        },
+        {
+          "title": "MIT OCW 8.044 — Statistical Physics I",
+          "url": "https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/",
+          "type": "course",
+          "description": "Notes + problems on entropy & ensembles"
+        }
+      ],
+      "importance": "high",
+      "category": "Thermodynamics & Statistical Mechanics",
+      "topics": ["Carnot", "Entropy", "Clausius", "van der Waals", "Zeroth Law"]
+    },
+    {
+      "id": "9",
+      "title": "Modern Physics & Quantum: Schrödinger, Operators, Wells",
+      "content": "Time-dependent/independent Schrödinger equations, boundary problems (infinite/finite wells), expectation values & uncertainties, de Broglie & photoelectric effect, quantum numbers.",
+      "keyTakeaways": [
+        "Be fluent with normalization, ⟨x⟩, ⟨p⟩, ⟨H⟩; use operator algebra and commutators.",
+        "Particle in a box energies ∝ n²; sketch eigenfunctions & |ψ|².",
+        "Photoelectric: KE_max = hf − φ; threshold freq questions are common."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW 8.04 — Quantum Physics I (full OCW site)",
+          "url": "https://opencw.aprende.org/courses/physics/8-04-quantum-physics-i-spring-2013/",
+          "type": "course",
+          "description": "Lectures, PSets, exams"
+        },
+        {
+          "title": "Feynman Lectures — Vol. III (Quantum) Online",
+          "url": "https://www.feynmanlectures.caltech.edu/",
+          "type": "book",
+          "description": "Authoritative narrative reference"
+        },
+        {
+          "title": "OpenStax Vol. 3 — Quantum Chapters",
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/7-introduction-to-quantum-physics",
+          "type": "textbook",
+          "description": "Free chapters on QM basics"
+        }
+      ],
+      "importance": "high",
+      "category": "Modern Physics & Quantum Mechanics",
+      "topics": ["Schrödinger", "Operators", "Bound States", "Photoelectric", "de Broglie"]
+    },
+    {
+      "id": "10",
+      "title": "Special Relativity: Time Dilation, Length Contraction, Energy–Momentum",
+      "content": "Postulates, Lorentz transformations, velocity addition, E² = p²c² + m²c⁴, mass–energy equivalence; exam numericals with muons/clocks & spacecraft speeds.",
+      "keyTakeaways": [
+        "Keep γ=1/√(1−v²/c²) at fingertips; practice unit consistency.",
+        "E–p relation derivation and limiting cases (photon vs massive).",
+        "Compare Galilean vs relativistic addition in MCQs."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Vol. 3 — Relativity (SR)",
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/5-introduction-to-special-relativity",
+          "type": "textbook",
+          "description": "Worked problems on γ, Δt, ΔL"
+        },
+        {
+          "title": "MIT OCW — Special Relativity (8.20 materials)",
+          "url": "https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2024/",
+          "type": "course",
+          "description": "Short focused course on SR"
+        }
+      ],
+      "importance": "high",
+      "category": "Special Relativity",
+      "topics": ["Lorentz", "Time Dilation", "Length Contraction", "Energy–Momentum"]
+    },
+    {
+      "id": "11",
+      "title": "Fluid Dynamics: Bernoulli, Continuity & Applications",
+      "content": "Derive Bernoulli from energy conservation for incompressible, inviscid flow; apply to Venturi tubes, lift on airfoils, pipe constrictions; continuity equation usage.",
+      "keyTakeaways": [
+        "Identify when assumptions hold; add viscosity/head loss only if stated.",
+        "Combine Bernoulli with continuity A1v1=A2v2 for speed/pressure.",
+        "Dimension checks prevent algebra slips."
+      ],
+      "resources": [
+        {
+          "title": "Standard Bernoulli/Venturi Treatments (OpenStax/LibreTexts)",
+          "url": "https://pressbooks.bccampus.ca/collegephysics/chapter/fluids-bernoullis-equation/",
+          "type": "textbook",
+          "description": "Free text style derivations & examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Fluid Dynamics",
+      "topics": ["Bernoulli", "Continuity", "Venturi", "Lift"]
+    },
+    {
+      "id": "12",
+      "title": "Nuclear Physics & Radiation Detection; Solid State & Semiconductors",
+      "content": "Nuclear models (liquid drop, shell), fission/fusion, Q-value & half-life; reactors & detectors (GM, scintillation). For solids: band theory, intrinsic/extrinsic, PN junctions, diodes/transistors, MOSFET basics.",
+      "keyTakeaways": [
+        "Half-life/mean-life formulae are routine MCQs; always show log steps.",
+        "Reactor parts: moderator, control rods, coolant, shielding.",
+        "Semiconductor band diagrams + biasing explain rectification and device behavior."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Vol. 3 — Nuclear & Particle Chapters",
+          "url": "https://openstax.org/books/university-physics-volume-3/pages/12-nuclear-physics",
+          "type": "textbook",
+          "description": "Free nuclear physics with examples"
+        },
+        {
+          "title": "MIT OCW 3.091 — Band Theory & Semiconductors",
+          "url": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/",
+          "type": "course",
+          "description": "Lectures on band theory and semiconductors"
+        },
+        {
+          "title": "All About Circuits — PN Junction (textbook/notes)",
+          "url": "https://www.allaboutcircuits.com/textbook/semiconductors/chpt-2/the-p-n-junction/",
+          "type": "textbook",
+          "description": "Device physics with equations"
+        },
+        {
+          "title": "HyperPhysics — Diodes overview",
+          "url": "https://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/diod.html",
+          "type": "reference",
+          "description": "Quick device summaries for revision"
+        }
+      ],
+      "importance": "high",
+      "category": "Nuclear Physics",
+      "topics": ["Half-Life", "Reactors", "Detectors", "Band Theory", "PN Junction"]
+    }
+  ]
+}

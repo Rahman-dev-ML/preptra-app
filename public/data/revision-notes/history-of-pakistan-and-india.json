@@ -1,0 +1,733 @@
+{
+  "subject": "History of Pakistan & India",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 26,
+  "categories": [
+    "Delhi Sultanate",
+    "Mughal Empire",
+    "Indo-Islamic Culture & Society",
+    "Colonial Era & Reform Movements",
+    "Pakistan Movement & Partition",
+    "Constitutional Development of Pakistan",
+    "Early Pakistan & Foreign Policy",
+    "Kashmir & Conflicts",
+    "MCQ Turbo (Dates, Treaties, Books)",
+    "Primary Sources & Texts"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Mughal Architecture — Signature Features & Case Studies",
+      "content": "Key traits: double dome, charbagh planning, iwans, pietra dura, onion domes, red sandstone + white marble, symmetry/axiality.\nCase studies to quote: Taj Mahal, Buland Darwaza (Fatehpur Sikri), Moti Masjid (Agra Fort), Shalimar Gardens (Lahore).",
+      "keyTakeaways": [
+        "Be able to list hallmark features and link each to a monument.",
+        "Use UNESCO descriptions for authoritative facts (dates, dimensions).",
+        "Contrast Akbar's red sandstone phase vs Shah Jahan's marble aesthetic."
+      ],
+      "resources": [
+        {
+          "title": "UNESCO — Taj Mahal",
+          "url": "https://whc.unesco.org/en/list/252/",
+          "type": "article",
+          "description": "Authoritative site brief"
+        },
+        {
+          "title": "UNESCO — Fatehpur Sikri (Buland Darwaza)",
+          "url": "https://whc.unesco.org/en/list/255/",
+          "type": "article",
+          "description": "Site description with Buland Darwaza"
+        },
+        {
+          "title": "UNESCO — Agra Fort (includes Moti Masjid)",
+          "url": "https://whc.unesco.org/en/list/251/",
+          "type": "article",
+          "description": "Official description"
+        },
+        {
+          "title": "UNESCO — Lahore Fort & Shalimar Gardens",
+          "url": "https://whc.unesco.org/en/list/171/",
+          "type": "article",
+          "description": "Site brief"
+        }
+      ],
+      "importance": "high",
+      "category": "Mughal Empire",
+      "topics": ["Mughal Architecture", "Taj Mahal", "Fatehpur Sikri", "Agra Fort", "Shalimar Gardens"]
+    },
+    {
+      "id": "2",
+      "title": "Sher Shah Suri's Reforms — Administration, Currency, Roads",
+      "content": "Core measures: land revenue reforms, standard coinage (Rupiya), sarais & GT Road, efficient intelligence/administration; continuity into Mughal rule.",
+      "keyTakeaways": [
+        "Link Sher Shah's measures to Akbar's consolidation.",
+        "Mention coinage standardization and GT Road for MCQs.",
+        "Use balanced, source-backed specifics."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Sher Shah of Sūr",
+          "url": "https://www.britannica.com/biography/Sher-Shah-of-Sur",
+          "type": "article",
+          "description": "Overview"
+        },
+        {
+          "title": "IGNCA e-book chapter (Jadunath Sarkar, Mughal Administration)",
+          "url": "https://ignca.gov.in/Asi_data/35124.pdf",
+          "type": "pdf",
+          "description": "Administrative context"
+        }
+      ],
+      "importance": "high",
+      "category": "Mughal Empire",
+      "topics": ["Sher Shah Suri", "Administration", "Currency", "Roads"]
+    },
+    {
+      "id": "3",
+      "title": "Akbar's Rajput Policy & Dīn-i-Ilāhī",
+      "content": "Rajput accommodation through alliances/offices; synthesis and religious tolerance; Dīn-i-Ilāhī as elite ethical order (limited following).",
+      "keyTakeaways": [
+        "Differentiate broad sulh-i-kul from Dīn-i-Ilāhī.",
+        "Explain how Rajput policy stabilized frontiers.",
+        "Cite primary compendium (Ain-i-Akbari) for admin details."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Akbar",
+          "url": "https://www.britannica.com/biography/Akbar",
+          "type": "article",
+          "description": "Policy overview"
+        },
+        {
+          "title": "Ain-i-Akbari (Jarrett translation)",
+          "url": "https://archive.org/details/dli.ministry.00123",
+          "type": "pdf",
+          "description": "Primary source (Eng. trans.)"
+        }
+      ],
+      "importance": "high",
+      "category": "Mughal Empire",
+      "topics": ["Akbar", "Rajput Policy", "Din-i-Ilahi", "Sulh-i-kul"]
+    },
+    {
+      "id": "4",
+      "title": "Mansabdari System — Backbone of Mughal Administration",
+      "content": "Ranks (mansab), zat/sawar distinctions, jagir assignments, and its role in imperial cohesion and later stresses.",
+      "keyTakeaways": [
+        "Define zat vs sawar and why it matters for pay/contingents.",
+        "Link jagirdari pressures to Mughal decline debates.",
+        "Use Ain-i-Akbari as anchor reference."
+      ],
+      "resources": [
+        {
+          "title": "Ain-i-Akbari (Vol. II/III references)",
+          "url": "https://ignca.gov.in/Asi_data/63832.pdf",
+          "type": "pdf",
+          "description": "Notes on Ain-i-Akbari translations"
+        },
+        {
+          "title": "Cambridge History (context note on Tarikh-i Firoz Shahi & admin)",
+          "url": "https://www.cambridge.org/core/books/history-of-india-as-told-by-its-own-historians/note-to-the-translation-of-the-tarikhi-firoz-shahi-of-ziaud-din-barni/96D1B06C2D3F9CF2463CF66A7770BA04",
+          "type": "article",
+          "description": "Historiography note"
+        }
+      ],
+      "importance": "high",
+      "category": "Mughal Empire",
+      "topics": ["Mansabdari", "Jagirdari", "Administration"]
+    },
+    {
+      "id": "5",
+      "title": "Decline of the Mughals — Multi-Factor Explanations",
+      "content": "Court factionalism, jagirdari crisis, military overstretch (Deccan), succession wars, European maritime shift; use Jadunath Sarkar and case-based evidence.",
+      "keyTakeaways": [
+        "Avoid mono-causal answers; present interplay of fiscal/admin/military factors.",
+        "Quote Deccan campaigns and revenue strain.",
+        "Use late-Mughal source material where possible."
+      ],
+      "resources": [
+        {
+          "title": "Jadunath Sarkar — Fall of the Mughal Empire (Vol. I)",
+          "url": "https://archive.org/details/in.ernet.dli.2015.43007",
+          "type": "pdf",
+          "description": "Classic narrative"
+        },
+        {
+          "title": "StudyIQ (NCERT-based lectures on Mughal decline)",
+          "url": "https://www.youtube.com/watch?v=ASsY5Dnplkk",
+          "type": "video",
+          "description": "Lecture for exam prep"
+        }
+      ],
+      "importance": "high",
+      "category": "Mughal Empire",
+      "topics": ["Mughal Decline", "Deccan", "Fiscal Crisis"]
+    },
+    {
+      "id": "6",
+      "title": "Alauddin Khalji's Market & Price Controls",
+      "content": "Market regulation to keep army maintenance cheap: fixed prices, rationing, checks on hoarding, and strong intelligence.",
+      "keyTakeaways": [
+        "Explain linkage to military policy and revenue needs.",
+        "Cite Barani and modern analyses; note debates on feasibility.",
+        "Mention punishments/administrative apparatus."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — The Khaljīs (Market control)",
+          "url": "https://www.britannica.com/place/India/The-Khaljis",
+          "type": "article",
+          "description": "Concise overview"
+        },
+        {
+          "title": "Irfan Habib — Price Regulation of Alauddin Khalji (paper)",
+          "url": "https://ojs.unimal.ac.id/index.php/jma/article/download/12036/4970",
+          "type": "pdf",
+          "description": "Scholarly defense of Barani"
+        },
+        {
+          "title": "College handout — Market Policy of Alauddin",
+          "url": "https://magadhmahilacollege.org/wp-content/uploads/2020/09/Market-policy-of-Allauddin-Khilji.pdf",
+          "type": "pdf",
+          "description": "Summary notes"
+        }
+      ],
+      "importance": "high",
+      "category": "Delhi Sultanate",
+      "topics": ["Alauddin Khalji", "Price Control", "Market Regulations", "Barani"]
+    },
+    {
+      "id": "7",
+      "title": "Muhammad bin Tughluq — Reforms & Reversals",
+      "content": "Token currency, capital shift to Daulatabad, taxation; ambition vs execution and administrative capacity.",
+      "keyTakeaways": [
+        "Define why token currency failed (counterfeiting, trust).",
+        "Balance innovation with governance pitfalls.",
+        "Use a standard reference + quick academic reads."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Muhammad ibn Tughluq",
+          "url": "https://www.britannica.com/biography/Muhammad-ibn-Tughluq",
+          "type": "article",
+          "description": "Baseline reference"
+        },
+        {
+          "title": "Research note — Token Currency analysis",
+          "url": "https://www.researchgate.net/publication/372793570_THE_CONTROVERSIAL_TOKEN_CURRENCY_OF_MUHAMMAD_BIN_TUGHLUQ_A_HISTORICAL_ANALYSIS",
+          "type": "article",
+          "description": "Scholarly overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Delhi Sultanate",
+      "topics": ["Muhammad bin Tughluq", "Token Currency", "Daulatabad"]
+    },
+    {
+      "id": "8",
+      "title": "Balban's 'Blood & Iron' Consolidation",
+      "content": "Centralization, spy network, crushing of nobles/robber tribes, curbing the 'Chahalgani'.",
+      "keyTakeaways": [
+        "Connect policy to Mongol threat and internal stability.",
+        "Use neutral, fact-rich reference.",
+        "Name key institutions and measures."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ghiyāth al-Dīn Balban",
+          "url": "https://www.britannica.com/biography/Ghiyath-al-Din-Balban",
+          "type": "article",
+          "description": "Standard reference"
+        }
+      ],
+      "importance": "medium",
+      "category": "Delhi Sultanate",
+      "topics": ["Balban", "Centralization", "Chahalgani"]
+    },
+    {
+      "id": "9",
+      "title": "Indo-Islamic Culture — Amir Khusrau & Cultural Synthesis",
+      "content": "Persianate literary culture, music (qawwali lore), multilingual output; Khusrau as emblem of composite culture.",
+      "keyTakeaways": [
+        "Quote a couple of works/titles to ground answers.",
+        "Situate Khusrau within Sultanate court culture.",
+        "Use primary/secondary open sources."
+      ],
+      "resources": [
+        {
+          "title": "Archive — The Life and Works of Amir Khusrau (1935)",
+          "url": "https://ia800101.us.archive.org/25/items/in.ernet.dli.2015.81771/2015.81771.The-Life-And-Works-Of-Amir-Khusrau_text.pdf",
+          "type": "pdf",
+          "description": "Classic study"
+        },
+        {
+          "title": "Archive — Amir Khusrau (Memor) PDF",
+          "url": "https://archive.org/download/amirkhusraumemor00newd/amirkhusraumemor00newd.pdf",
+          "type": "pdf",
+          "description": "Biographical material"
+        }
+      ],
+      "importance": "medium",
+      "category": "Indo-Islamic Culture & Society",
+      "topics": ["Amir Khusrau", "Composite Culture", "Persianate"]
+    },
+    {
+      "id": "10",
+      "title": "Ain-i-Akbari & Mughal Administration (Source-based Answers)",
+      "content": "Use Ain-i-Akbari for mansabs, revenue admin, court protocols; cite specific books/sections where possible.",
+      "keyTakeaways": [
+        "Bring 1–2 concrete data points from Ain to score.",
+        "Pair with modern commentary where needed.",
+        "Keep brief quotes if allowed."
+      ],
+      "resources": [
+        {
+          "title": "Ain-i-Akbari (Jarrett, Vol. 2)",
+          "url": "https://ia801404.us.archive.org/1/items/in.ernet.dli.2015.502490/2015.502490.ain-i-akbari-of_text.pdf",
+          "type": "pdf",
+          "description": "English translation"
+        },
+        {
+          "title": "Ain-i-Akbari (Vol. 3 note)",
+          "url": "https://ignca.gov.in/Asi_data/63832.pdf",
+          "type": "pdf",
+          "description": "Editorial/translation context"
+        }
+      ],
+      "importance": "high",
+      "category": "Mughal Empire",
+      "topics": ["Ain-i-Akbari", "Administration", "Primary Source"]
+    },
+    {
+      "id": "11",
+      "title": "Two-Nation Theory — Origins & Debates",
+      "content": "Intellectual roots (Sir Syed, Muslim modernism), political articulation (Iqbal 1930), and evolving interpretations.",
+      "keyTakeaways": [
+        "Anchor with Iqbal's 1930 presidential address.",
+        "Contrast scholarly views; avoid teleology.",
+        "Tie to Partition outcomes cautiously."
+      ],
+      "resources": [
+        {
+          "title": "Iqbal's 1930 Allahabad Address (full text)",
+          "url": "https://franpritchett.com/00islamlinks/txt_iqbal_1930.html",
+          "type": "article",
+          "description": "Primary text (annotated)"
+        },
+        {
+          "title": "Aligarh Movement (core background)",
+          "url": "https://core.ac.uk/download/pdf/144509533.pdf",
+          "type": "pdf",
+          "description": "Scholarly chapter"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Movement & Partition",
+      "topics": ["Two-Nation Theory", "Iqbal 1930", "Sir Syed"]
+    },
+    {
+      "id": "12",
+      "title": "Aligarh Movement — Sir Syed's Educational & Political Vision",
+      "content": "MAO College, modern education, loyalist politics, communal representation arguments; impact on Muslim elite formation.",
+      "keyTakeaways": [
+        "Connect to Muslim League's later politics.",
+        "Use specific institutional milestones.",
+        "Add a crisp definition for MCQs."
+      ],
+      "resources": [
+        {
+          "title": "Scholarly paper on Sir Syed & elites",
+          "url": "https://ciencia.ucp.pt/files/37546732/document_2_.pdf",
+          "type": "pdf",
+          "description": "Academic analysis"
+        },
+        {
+          "title": "University article on Sir Syed (PU)",
+          "url": "https://pu.edu.pk/images/journal/HistoryPStudies/PDF-FILES/9-v29_2_16.pdf",
+          "type": "pdf",
+          "description": "Biographical study"
+        }
+      ],
+      "importance": "high",
+      "category": "Colonial Era & Reform Movements",
+      "topics": ["Aligarh Movement", "Sir Syed", "Education"]
+    },
+    {
+      "id": "13",
+      "title": "Partition of Bengal (1905) — Causes, Protest & Annulment",
+      "content": "Administrative rationale vs nationalist backlash; Swadeshi movement; annulment (1911).",
+      "keyTakeaways": [
+        "Quote the 1905 announcement and reactions.",
+        "Place in broader anti-colonial mobilization.",
+        "Useful for short notes + MCQs."
+      ],
+      "resources": [
+        {
+          "title": "Indian Culture portal — Curzon's declaration (1905)",
+          "url": "https://indianculture.gov.in/digital-district-repository/district-repository/lord-curzons-declaration-bengal-partition-1905",
+          "type": "article",
+          "description": "Govt. source"
+        },
+        {
+          "title": "Primary sources pack (curated excerpts)",
+          "url": "https://www.history21.com/wp-content/uploads/2023/05/Global-1905-5.2-Primary-Sources-The-partition-of-bengal.pdf",
+          "type": "pdf",
+          "description": "Excerpts bundle"
+        }
+      ],
+      "importance": "medium",
+      "category": "Colonial Era & Reform Movements",
+      "topics": ["Partition of Bengal", "Swadeshi", "Curzon"]
+    },
+    {
+      "id": "14",
+      "title": "Khilafat Movement (1919–24) — Pan-Islam & Indian Nationalism",
+      "content": "Goals (Caliphate), alliance with Non-Cooperation, abolition of Caliphate and decline; effects on Hindu-Muslim unity.",
+      "keyTakeaways": [
+        "Name key leaders and timeline.",
+        "Tie to Gandhi's program and outcomes.",
+        "Use concise, authoritative reference."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Khilafat Movement",
+          "url": "https://www.britannica.com/event/Khilafat-movement",
+          "type": "article",
+          "description": "Standard reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Colonial Era & Reform Movements",
+      "topics": ["Khilafat", "Non-Cooperation", "Pan-Islam"]
+    },
+    {
+      "id": "15",
+      "title": "Lucknow Pact (1916) — Congress–League Agreement",
+      "content": "Separate electorates, weightage, representation shares; brief window of cooperation.",
+      "keyTakeaways": [
+        "List 3–4 clauses verbatim for exam answers.",
+        "Explain why it mattered later (breakdown)."
+      ],
+      "resources": [
+        {
+          "title": "Lucknow Pact (clauses summary PDF)",
+          "url": "https://hostnezt.com/cssfiles/pakistanaffairs/The%20Lucknow%20Pact%20%5B1916%5D.pdf",
+          "type": "pdf",
+          "description": "Concise clauses"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Movement & Partition",
+      "topics": ["Lucknow Pact", "Separate Electorates"]
+    },
+    {
+      "id": "16",
+      "title": "Cabinet Mission Plan (1946) — Proposals & Outcome",
+      "content": "Three-tier federation, groupings A/B/C, central subjects limited; acceptance/rejection dynamics and path to Partition.",
+      "keyTakeaways": [
+        "Memorize members & date.",
+        "Understand grouping logic for essay diagrams.",
+        "Relate to Mountbatten Plan timeline."
+      ],
+      "resources": [
+        {
+          "title": "Cabinet Mission in India (1946) — primary material",
+          "url": "https://ia804609.us.archive.org/9/items/in.ernet.dli.2015.90388/2015.90388.The-Cabinet-Mission-In-India.pdf",
+          "type": "pdf",
+          "description": "Text & documents"
+        },
+        {
+          "title": "Lecture explainer (UPSC-oriented)",
+          "url": "https://www.youtube.com/watch?v=zQ0jg8bEwvo",
+          "type": "video",
+          "description": "Concept walkthrough"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Movement & Partition",
+      "topics": ["Cabinet Mission", "Grouping", "Federation"]
+    },
+    {
+      "id": "17",
+      "title": "Objective(s) Resolution (1949) — Constitutional Compass",
+      "content": "Sovereignty of Allah, democracy/justice/freedom, minorities' rights; later as preamble and substantive provisions.",
+      "keyTakeaways": [
+        "Date: 12 March 1949; mover: Liaquat Ali Khan.",
+        "Know its later incorporation in constitutional texts."
+      ],
+      "resources": [
+        {
+          "title": "Objectives Resolution (text PDF)",
+          "url": "https://hostnezt.com/cssfiles/pakistanaffairs/The%20Objectives%20Resolution%20%281949%29.pdf",
+          "type": "pdf",
+          "description": "Document"
+        },
+        {
+          "title": "JSTOR — The Objectives Resolution (context)",
+          "url": "https://www.jstor.org/stable/pdf/20839154.pdf",
+          "type": "article",
+          "description": "Historical analysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitutional Development of Pakistan",
+      "topics": ["Objectives Resolution", "Constitutional Principles"]
+    },
+    {
+      "id": "18",
+      "title": "Constitutions of Pakistan — 1956 & 1973 (Core Features)",
+      "content": "1956: first constitution, Islamic Republic, parliamentary; 1973: enduring framework with later amendments; center–province dynamics, fundamental rights.",
+      "keyTakeaways": [
+        "Quote 2–3 salient features for each.",
+        "Know amendment landscape at a high level.",
+        "Use official PDFs for citations."
+      ],
+      "resources": [
+        {
+          "title": "Constitution of 1956 (PDF)",
+          "url": "https://factfocus.com/wp-content/uploads/2021/03/The-Constitution-of-Islamic-Republic-of-Pakistan-1956.pdf",
+          "type": "pdf",
+          "description": "Full text"
+        },
+        {
+          "title": "Constitution of 1973 — National Assembly PDF",
+          "url": "https://na.gov.pk/uploads/documents/1333523681_951.pdf",
+          "type": "pdf",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "Constitute Project — Pakistan (2018 rev.)",
+          "url": "https://www.constituteproject.org/constitution/Pakistan_2018",
+          "type": "database",
+          "description": "Searchable comparative version"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitutional Development of Pakistan",
+      "topics": ["1956 Constitution", "1973 Constitution", "Federalism"]
+    },
+    {
+      "id": "19",
+      "title": "Indus Waters Treaty (1960) — Text & Exam Angles",
+      "content": "River allocation (Indus system), World Bank's role, dispute mechanisms; recurring in MCQs and essays (water security).",
+      "keyTakeaways": [
+        "Memorize date: 19 Sept 1960; parties & broker.",
+        "Know basic allocations (Western vs Eastern rivers).",
+        "Cite official treaty PDF."
+      ],
+      "resources": [
+        {
+          "title": "UN Treaty Series — Indus Waters Treaty (official)",
+          "url": "https://treaties.un.org/doc/Publication/UNTs/Volume%20419/volume-419-I-6032-English.pdf",
+          "type": "pdf",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "Indian MEA — Treaty page",
+          "url": "https://www.mea.gov.in/bilateral-documents.htm?dtl%2F6439%2FIndus=",
+          "type": "article",
+          "description": "Govt. reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Early Pakistan & Foreign Policy",
+      "topics": ["Indus Waters Treaty", "Water Security", "World Bank"]
+    },
+    {
+      "id": "20",
+      "title": "Simla Agreement (1972) — Post-War Framework",
+      "content": "Bilateralism principle, LoC recognition, normalization steps; shows up in MCQs/short notes.",
+      "keyTakeaways": [
+        "Date: 2 July 1972; know key clauses.",
+        "Understand why parties return to Simla in disputes."
+      ],
+      "resources": [
+        {
+          "title": "MEA India — Simla Agreement (PDF)",
+          "url": "https://www.mea.gov.in/Portal/LegalTreatiesDoc/PA72B1578.pdf",
+          "type": "pdf",
+          "description": "Official text"
+        },
+        {
+          "title": "USIP peace agreements copy",
+          "url": "https://www.usip.org/sites/default/files/file/resources/collections/peace_agreements/ip_simla_07021972.pdf",
+          "type": "pdf",
+          "description": "Secondary host"
+        }
+      ],
+      "importance": "high",
+      "category": "Early Pakistan & Foreign Policy",
+      "topics": ["Simla Agreement", "LoC", "Bilateralism"]
+    },
+    {
+      "id": "21",
+      "title": "1971: Separation of East Pakistan — Reports & Documents",
+      "content": "Causes and course of the conflict; use commission report + contemporaneous documentation for balanced answers.",
+      "keyTakeaways": [
+        "Reference Hamoodur Rahman Commission for inquiry findings.",
+        "Consult ICJ 1972 report for international law perspective.",
+        "Mention GOP White Paper (Aug 1971) as primary viewpoint."
+      ],
+      "resources": [
+        {
+          "title": "Hamoodur Rahman Commission Report (English PDF)",
+          "url": "https://img.dunyanews.tv/images/docss/hamoodur_rahman_commission_report.pdf",
+          "type": "pdf",
+          "description": "Inquiry report"
+        },
+        {
+          "title": "International Commission of Jurists — Events in East Pakistan (1972)",
+          "url": "https://www.icj.org/wp-content/uploads/1972/06/Bangladesh-events-East-Pakistan-1971-thematic-report-1972-eng.pdf",
+          "type": "pdf",
+          "description": "Contemporaneous legal analysis"
+        },
+        {
+          "title": "GOP White Paper (Aug 5, 1971)",
+          "url": "https://archive.org/details/white-paper-east-pakistan-crisis-19971",
+          "type": "pdf",
+          "description": "Primary document"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Movement & Partition",
+      "topics": ["1971 War", "East Pakistan", "Hamoodur Rahman"]
+    },
+    {
+      "id": "22",
+      "title": "Kashmir — UN Resolutions & Diplomatic Texts",
+      "content": "Essential to know early UNSC resolutions (e.g., Resolution 47, 1948) and ceasefire/plebiscite language.",
+      "keyTakeaways": [
+        "Quote Resolution 47's plebiscite principle.",
+        "Keep links to primary UN docs handy for answers."
+      ],
+      "resources": [
+        {
+          "title": "UN Digital Library — Resolution 47 (1948)",
+          "url": "https://digitallibrary.un.org/record/111955/",
+          "type": "article",
+          "description": "Official record"
+        },
+        {
+          "title": "UNSCR — Resolution 47 (plain text)",
+          "url": "https://unscr.com/en/resolutions/47",
+          "type": "article",
+          "description": "Readable text"
+        }
+      ],
+      "importance": "high",
+      "category": "Kashmir & Conflicts",
+      "topics": ["UNSC 47", "Kashmir", "Plebiscite"]
+    },
+    {
+      "id": "23",
+      "title": "Delhi Sultanate — Political Theory & Sources",
+      "content": "Barani's perspective on polity, social hierarchy; pair with Afif's Tarikh-i-Firoz Shahi and Elliot-Dowson translations.",
+      "keyTakeaways": [
+        "Understand authorial bias in Sultanate chronicles.",
+        "Use translations to quote administrative practices."
+      ],
+      "resources": [
+        {
+          "title": "Barani — Tarikh-i Firoz Shahi (translation, Afif version)",
+          "url": "https://ia801500.us.archive.org/15/items/in.ernet.dli.2015.116023/2015.116023.Tarikh-i-Firoz-Shahi-Of-Shams-i-Siraj-Afif.pdf",
+          "type": "pdf",
+          "description": "Translation"
+        },
+        {
+          "title": "The Political Theory of the Delhi Sultanate (study)",
+          "url": "https://ia904509.us.archive.org/7/items/in.ernet.dli.2015.120819/2015.120819.The-Political-Theory-Of-The-Delhi-Sultanate.pdf",
+          "type": "pdf",
+          "description": "Scholarly monograph"
+        }
+      ],
+      "importance": "medium",
+      "category": "Primary Sources & Texts",
+      "topics": ["Barani", "Afif", "Elliot & Dowson"]
+    },
+    {
+      "id": "24",
+      "title": "Primary Text — Bābur-Nāma (for Early Mughal Context)",
+      "content": "Use Beveridge translation for geography, warfare, and early Mughal statecraft; great for vivid quotes.",
+      "keyTakeaways": [
+        "Cite book & chapter for credibility.",
+        "Use sparingly to illustrate state formation."
+      ],
+      "resources": [
+        {
+          "title": "Babur-Nama (Beveridge trans., Vol. 1)",
+          "url": "https://archive.org/details/baburnamainengli01babuuoft",
+          "type": "article",
+          "description": "Archive page (PDF inside)"
+        },
+        {
+          "title": "Project Gutenberg — Babur-Nama (HTML)",
+          "url": "https://www.gutenberg.org/files/44608/44608-h/44608-h.htm",
+          "type": "article",
+          "description": "Easy to search"
+        }
+      ],
+      "importance": "medium",
+      "category": "Primary Sources & Texts",
+      "topics": ["Baburnama", "Primary Source", "Early Mughals"]
+    },
+    {
+      "id": "25",
+      "title": "Pakistan & the OIC — Roles & Statements",
+      "content": "Pakistan's activism within OIC platforms; useful for short, contemporary IR notes.",
+      "keyTakeaways": [
+        "Know OIC's structure and Pakistan's engagements.",
+        "Use official communiqués for quotes."
+      ],
+      "resources": [
+        {
+          "title": "OIC — Official portal",
+          "url": "https://www.oic-oci.org/",
+          "type": "website",
+          "description": "Institution site"
+        },
+        {
+          "title": "Pakistan MFA — Pakistan and OIC",
+          "url": "https://mofa.gov.pk/pakistan-and-oic",
+          "type": "article",
+          "description": "Official summary"
+        }
+      ],
+      "importance": "medium",
+      "category": "Early Pakistan & Foreign Policy",
+      "topics": ["OIC", "Pakistan Foreign Policy"]
+    },
+    {
+      "id": "26",
+      "title": "Exam-Focused Videos — Medieval & Partition",
+      "content": "Use curated UPSC-centric lectures for rapid revision; pair with primary/authoritative sources above.",
+      "keyTakeaways": [
+        "Watch for frameworks/diagrams (groupings, admin charts).",
+        "Cross-verify facts from videos with texts."
+      ],
+      "resources": [
+        {
+          "title": "StudyIQ IAS — Mughal Empire (Medieval Series)",
+          "url": "https://www.youtube.com/watch?v=Kz8bhhQ4OCA",
+          "type": "video",
+          "description": "UPSC-style lecture"
+        },
+        {
+          "title": "StudyIQ IAS — Delhi Sultanate (Medieval Series)",
+          "url": "https://www.youtube.com/watch?v=QxjQDXqSN5A",
+          "type": "video",
+          "description": "UPSC-style lecture"
+        },
+        {
+          "title": "BBC — Partition: The Day India Burned (2007)",
+          "url": "https://www.youtube.com/watch?v=u2cB-9uM90Y",
+          "type": "video",
+          "description": "Documentary"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Movement & Partition",
+      "topics": ["UPSC Lectures", "Partition Documentary", "Revision"]
+    }
+  ]
+}
+
+

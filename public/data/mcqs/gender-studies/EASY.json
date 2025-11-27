@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:34:25.626Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "6aed88c32dea476b6127e8f23bc17e4448221ef9",
+      "sectionIndex": 0,
+      "question": "Gender Studies as a discipline focuses on:",
+      "options": [
+        "A) Women only",
+        "B) Men only",
+        "C) All genders and their relationships",
+        "D) Children only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a44aa813529cb21fe5d136ce4c813a58154d92bd",
+      "sectionIndex": 0,
+      "question": "Women Studies primarily emerged to:",
+      "options": [
+        "A) Study men's issues",
+        "B) Address women's invisibility in academia",
+        "C) Replace all other disciplines",
+        "D) Study children"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6da5379667b0b1815ec0ba1dee4224e700074d13",
+      "sectionIndex": 0,
+      "question": "Gender Studies differs from Women Studies by:",
+      "options": [
+        "A) Being older",
+        "B) Including analysis of masculinity and gender relations",
+        "C) Focusing only on women",
+        "D) Being less academic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "539369f33c390a71bf770f1706a6df29248fa231",
+      "sectionIndex": 0,
+      "question": "The establishment of Gender Studies as a distinct discipline was needed to:",
+      "options": [
+        "A) Replace Women Studies",
+        "B) Study gender as a social construct affecting all",
+        "C) Focus on men only",
+        "D) Reduce academic programs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36978ebf5f757e7215ef9c62482582782fad3318",
+      "sectionIndex": 0,
+      "question": "Women Studies in Pakistan focuses on:",
+      "options": [
+        "A) Western women only",
+        "B) Pakistani women's issues and experiences",
+        "C) Men's issues",
+        "D) International politics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdd717e7c98cfa2e14d9e7eebdcb07ea4e2e91e1",
+      "sectionIndex": 0,
+      "question": "Gender Studies is considered:",
+      "options": [
+        "A) A single discipline",
+        "B) Multidisciplinary in nature",
+        "C) Only sociological",
+        "D) Only psychological"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0448947ee5b4564ebe103b328733c35095c61da",
+      "sectionIndex": 0,
+      "question": "The scope of Gender Studies includes:",
+      "options": [
+        "A) Only education",
+        "B) All aspects of social life",
+        "C) Only politics",
+        "D) Only economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c1b073ff8f691ae0a6f469fb52d9e204d9455db",
+      "sectionIndex": 0,
+      "question": "Women Studies emerged during which period?",
+      "options": [
+        "A) 1800s",
+        "B) 1960s-1970s",
+        "C) 2000s",
+        "D) Medieval times"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "193d759c47dcb90f2612938846ac6fbc833edbca",
+      "sectionIndex": 0,
+      "question": "Gender Studies examines:",
+      "options": [
+        "A) Biological differences only",
+        "B) Social construction of gender roles",
+        "C) Physical characteristics only",
+        "D) Age differences only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b7efd9a9deba086098fd4f50b5ff14da6b2f561",
+      "sectionIndex": 0,
+      "question": "The significance of Gender Studies in Pakistan relates to:",
+      "options": [
+        "A) Western influence only",
+        "B) Understanding local gender dynamics",
+        "C) Entertainment",
+        "D) Tourism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "414b3b80f2fc4775ac6813798c97035996453f1a",
+      "sectionIndex": 1,
+      "question": "Gender-based violence refers to:",
+      "options": [
+        "A) Violence between countries",
+        "B) Violence based on gender identity",
+        "C) Only physical fights",
+        "D) Sports violence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0314a357034211144aa3b96e3447a967fe9a3429",
+      "sectionIndex": 1,
+      "question": "Forms of violence against women include:",
+      "options": [
+        "A) Physical violence only",
+        "B) Physical, emotional, economic, and sexual violence",
+        "C) Verbal abuse only",
+        "D) No specific forms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8a85ea141775ba2c2dbf60d39c9f18036c5e5e1",
+      "sectionIndex": 1,
+      "question": "Structural violence against women means:",
+      "options": [
+        "A) Building collapse",
+        "B) Systematic discrimination in social structures",
+        "C) Architecture problems",
+        "D) Construction issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3435f21c600566aa82dd97d330bacd662ad35bec",
+      "sectionIndex": 1,
+      "question": "Direct violence includes:",
+      "options": [
+        "A) Physical assault and abuse",
+        "B) Economic policies",
+        "C) Education system",
+        "D) Healthcare system"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c47d34d9f8895a90f5a563d2d057818a4f1a2bb6",
+      "sectionIndex": 1,
+      "question": "The case of Mukhtaran Mai highlighted:",
+      "options": [
+        "A) Education issues",
+        "B) Sexual violence and justice system failures",
+        "C) Economic problems",
+        "D) Health concerns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d0a2ec389a5ed8ed21a8fb1cda29319a99534c2",
+      "sectionIndex": 1,
+      "question": "Power and control in gender-based violence involves:",
+      "options": [
+        "A) Electricity issues",
+        "B) Dominance and subjugation patterns",
+        "C) Government control",
+        "D) Remote control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d84f2d8dde43e516e358ad07d99b203a47684b11",
+      "sectionIndex": 1,
+      "question": "The Punjab Protection of Women Act was passed in:",
+      "options": [
+        "A) 2010",
+        "B) 2016",
+        "C) 2020",
+        "D) 2000"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fb0f0d72d6db59a7a6403748d4ff62f7d40b163",
+      "sectionIndex": 1,
+      "question": "Consequences of gender-based violence include:",
+      "options": [
+        "A) Only physical injury",
+        "B) Physical, psychological, and social impacts",
+        "C) No consequences",
+        "D) Economic benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "598489b6551de1723790e3e4e83cd85f4cde858c",
+      "sectionIndex": 1,
+      "question": "Strategies to eliminate gender-based violence require:",
+      "options": [
+        "A) Individual action only",
+        "B) Comprehensive societal changes",
+        "C) Ignoring the issue",
+        "D) International intervention only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "439e5f117f14249741bcd34f99e596b24a897d1f",
+      "sectionIndex": 1,
+      "question": "Gender-based violence affects:",
+      "options": [
+        "A) Only poor women",
+        "B) Women across all social classes",
+        "C) Only urban women",
+        "D) Only rural women"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46e1482061c8d569ce40676ea80bd0a0141c3b79",
+      "sectionIndex": 2,
+      "question": "Globalization refers to:",
+      "options": [
+        "A) Local changes only",
+        "B) Worldwide interconnectedness",
+        "C) National isolation",
+        "D) Village development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8258be7b86219fc58f85ed3b1a3e4041546953f5",
+      "sectionIndex": 2,
+      "question": "Globalization's impact on women includes:",
+      "options": [
+        "A) Only positive effects",
+        "B) Both opportunities and challenges",
+        "C) No impact",
+        "D) Only negative effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7fe16691bb0b703cb7e457948f7192846d1aada",
+      "sectionIndex": 2,
+      "question": "In developing countries, globalization has:",
+      "options": [
+        "A) No effect on women",
+        "B) Created new employment and challenges",
+        "C) Only helped men",
+        "D) Reduced all problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ebe8d06290ba4abfa9c7d00889ec162b6a95c66",
+      "sectionIndex": 2,
+      "question": "Global political economy affects Pakistani women through:",
+      "options": [
+        "A) No influence",
+        "B) Employment patterns and economic policies",
+        "C) Weather changes",
+        "D) Sports only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bee5356f80a5e2920dbae97a84cb49cd0f8d3ff",
+      "sectionIndex": 2,
+      "question": "Gendered inequalities from globalization include:",
+      "options": [
+        "A) Equal opportunities for all",
+        "B) Unequal access to resources and opportunities",
+        "C) No inequalities",
+        "D) Only age differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "689da76e95b529a0993f70c1e305e42bee25af98",
+      "sectionIndex": 2,
+      "question": "Globalization has highlighted gender issues:",
+      "options": [
+        "A) In one country only",
+        "B) Across cultures worldwide",
+        "C) Only in cities",
+        "D) Only in villages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8dfa3f6c1a8445478a904057cc5f5e96e33306ca",
+      "sectionIndex": 2,
+      "question": "Women in developing nations face:",
+      "options": [
+        "A) No challenges",
+        "B) Unique challenges from global changes",
+        "C) Only benefits",
+        "D) Same conditions as developed nations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f642937bc78a78730c4d7f39f4257bcc32f7392f",
+      "sectionIndex": 2,
+      "question": "Economic globalization impacts include:",
+      "options": [
+        "A) Only higher wages",
+        "B) Both job opportunities and exploitation",
+        "C) No economic change",
+        "D) Only unemployment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "defbb945c8fed57d45fdaa40a9937c8e33839cc9",
+      "sectionIndex": 2,
+      "question": "Cultural globalization affects:",
+      "options": [
+        "A) Food only",
+        "B) Gender roles and expectations",
+        "C) Climate only",
+        "D) Geography only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "362d366c91dce184b1a220e28609575447efa38a",
+      "sectionIndex": 2,
+      "question": "Contemporary societies show:",
+      "options": [
+        "A) No gender inequality",
+        "B) Persistent gender inequalities",
+        "C) Complete equality",
+        "D) Reverse discrimination only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27f2d35755c846a22f33f42ac5b7df5745912dc8",
+      "sectionIndex": 3,
+      "question": "Gender quota in politics means:",
+      "options": [
+        "A) Limiting women's participation",
+        "B) Reserved seats for women",
+        "C) Excluding women",
+        "D) Men-only positions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ccdf118eeadf00ccc8fac3c3e842fbeecf7a0a6",
+      "sectionIndex": 3,
+      "question": "The current women's quota in Pakistani parliament is:",
+      "options": [
+        "A) 5%",
+        "B) 17%",
+        "C) 50%",
+        "D) 75%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fe76dbff7fe91eef475c1b316c06b8e6c25db2d",
+      "sectionIndex": 3,
+      "question": "Women's political participation can:",
+      "options": [
+        "A) Harm democracy",
+        "B) Stabilize democracy",
+        "C) Have no effect",
+        "D) End democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38ce218f11b378177218d01371f1322f0028f306",
+      "sectionIndex": 3,
+      "question": "Political participation is considered:",
+      "options": [
+        "A) A privilege",
+        "B) A human right",
+        "C) Unnecessary",
+        "D) Harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01484715ea33ce866d811a8ac593275cfb52e2dd",
+      "sectionIndex": 3,
+      "question": "Obstacles for women politicians include:",
+      "options": [
+        "A) Too much support",
+        "B) Social and cultural barriers",
+        "C) No obstacles",
+        "D) Only legal barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6822a254dd9331ad0e8e09089aee384fd6fdd85",
+      "sectionIndex": 3,
+      "question": "The statement \"women cover half the sky\" means:",
+      "options": [
+        "A) Women control weather",
+        "B) Women constitute half of humanity",
+        "C) Women fly planes",
+        "D) Women study astronomy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f89afb830646374bb3fc57fb4293c16bbcaff949",
+      "sectionIndex": 3,
+      "question": "Women in leadership positions can:",
+      "options": [
+        "A) Only help themselves",
+        "B) Pull more women into leadership",
+        "C) Exclude other women",
+        "D) Have no influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66e5e2e1edbdc5155c96567afb4f946a27834dd1",
+      "sectionIndex": 3,
+      "question": "Political mainstreaming of women means:",
+      "options": [
+        "A) Sidelining women",
+        "B) Full integration in political processes",
+        "C) Separate politics",
+        "D) No participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ce4b7a84ac2c3cc9397f562244f9cc6c645fe68",
+      "sectionIndex": 3,
+      "question": "Issues for women representatives include:",
+      "options": [
+        "A) Too much power",
+        "B) Limited voice and influence",
+        "C) No issues",
+        "D) Only personal problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1d70167235b342bda9b4e74202160720666ef88",
+      "sectionIndex": 3,
+      "question": "The impact of quota system has been:",
+      "options": [
+        "A) Completely negative",
+        "B) Mixed with both progress and limitations",
+        "C) No impact",
+        "D) Only symbolic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b58c55271e2709970232518aa174bbb4fe06680",
+      "sectionIndex": 4,
+      "question": "Social construction of gender means:",
+      "options": [
+        "A) Building gender",
+        "B) Gender roles created by society",
+        "C) Biological determination",
+        "D) No construction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d9b36475a51ce4cdf69cc0aa4c5cc128f04da2a",
+      "sectionIndex": 4,
+      "question": "The sex versus gender debate involves:",
+      "options": [
+        "A) No difference",
+        "B) Biological versus social aspects",
+        "C) Age differences",
+        "D) Height differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc9466b5480f0bdf5a1631b3af3a9b46957bf756",
+      "sectionIndex": 4,
+      "question": "Nature versus nurture in gender refers to:",
+      "options": [
+        "A) Gardening",
+        "B) Biology versus socialization",
+        "C) Weather patterns",
+        "D) Food preferences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "baa6bb44983a4a1cdbbc4131b600857772075b4f",
+      "sectionIndex": 4,
+      "question": "The word \"gender\" can be deconstructed to show:",
+      "options": [
+        "A) Single meaning",
+        "B) Multiple meanings and constructions",
+        "C) No meaning",
+        "D) Only biological meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "769a7e8271e49e56b49a4ea0d6e3b76ff542c817",
+      "sectionIndex": 4,
+      "question": "\"Language is gendered\" means:",
+      "options": [
+        "A) Languages have gender",
+        "B) Language reflects and creates gender differences",
+        "C) Only women speak",
+        "D) Only men speak"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa40f2300a34e1561f600b5205038079a613f349",
+      "sectionIndex": 4,
+      "question": "Gender roles are:",
+      "options": [
+        "A) Fixed by nature",
+        "B) Socially learned behaviors",
+        "C) Unchangeable",
+        "D) Same everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d12f05b57454f1c5953f24628aa90508a312336b",
+      "sectionIndex": 4,
+      "question": "Masculinity refers to:",
+      "options": [
+        "A) Being male",
+        "B) Socially constructed male characteristics",
+        "C) Physical strength only",
+        "D) Age of males"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95d24c592ac473ae2d9f17457edfd96da30ad5c4",
+      "sectionIndex": 4,
+      "question": "Femininity refers to:",
+      "options": [
+        "A) Being female",
+        "B) Socially constructed female characteristics",
+        "C) Weakness only",
+        "D) Age of females"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b5d21d01fab400533c486579d8a7b6463062505",
+      "sectionIndex": 4,
+      "question": "Traditional gender roles come from:",
+      "options": [
+        "A) Biology only",
+        "B) Cultural and social traditions",
+        "C) Government laws",
+        "D) International rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84b4c435e385faece87c14726e10d9c629320aee",
+      "sectionIndex": 4,
+      "question": "Gender as a concept is:",
+      "options": [
+        "A) Simple and fixed",
+        "B) Complex and changing",
+        "C) Only about women",
+        "D) Only about men"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ab7668cd703f22cf56091347f26197be4db51b2",
+      "sectionIndex": 5,
+      "question": "Feminism is:",
+      "options": [
+        "A) Hatred of men",
+        "B) Movement for gender equality",
+        "C) Female superiority",
+        "D) Fashion trend"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abe03164a691a59879d011b66d4387ecc7bc77ea",
+      "sectionIndex": 5,
+      "question": "Radical feminism focuses on:",
+      "options": [
+        "A) Minor changes",
+        "B) Fundamental restructuring of society",
+        "C) No change",
+        "D) Men's rights only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "503369768f114a4657d7d5b019307b9d7c449915",
+      "sectionIndex": 5,
+      "question": "Socialist feminism combines:",
+      "options": [
+        "A) Capitalism and feminism",
+        "B) Marxism and feminism",
+        "C) Religion and feminism",
+        "D) Sports and feminism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2377dbeeb6e440168b399bec66e0d7a47af7a99",
+      "sectionIndex": 5,
+      "question": "The first wave of feminism focused on:",
+      "options": [
+        "A) Internet rights",
+        "B) Voting rights",
+        "C) Space travel",
+        "D) Sports participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eadd92072b565ebec7f3829120d5f28d44223b3d",
+      "sectionIndex": 5,
+      "question": "The second wave of feminism addressed:",
+      "options": [
+        "A) Only voting",
+        "B) Workplace and reproductive rights",
+        "C) Social media",
+        "D) Climate change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f281b4240f023a1de4a8bad84d2281af69f00dca",
+      "sectionIndex": 5,
+      "question": "The third wave of feminism emphasizes:",
+      "options": [
+        "A) Going backward",
+        "B) Diversity and intersectionality",
+        "C) Only white women",
+        "D) Only rich women"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e50d15d40ca65d351b5d2c12a2df10da63b134cc",
+      "sectionIndex": 5,
+      "question": "Postmodern feminism questions:",
+      "options": [
+        "A) Nothing",
+        "B) Universal categories of \"woman\"",
+        "C) Only modern art",
+        "D) Only architecture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "438d578a580b4ee01ea920206b3d0b4e63f4f5de",
+      "sectionIndex": 5,
+      "question": "Marxist feminism links:",
+      "options": [
+        "A) Religion and gender",
+        "B) Class oppression and gender oppression",
+        "C) Age and gender",
+        "D) Height and gender"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3797f4c02737e7895872cb37a5e0ef29621735e4",
+      "sectionIndex": 5,
+      "question": "Psychoanalytic feminism examines:",
+      "options": [
+        "A) Only dreams",
+        "B) Psychological roots of gender oppression",
+        "C) Only medication",
+        "D) Only therapy costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e449b19d8b9765ec9b3fe95ff77665c1e6581663",
+      "sectionIndex": 5,
+      "question": "Pakistani feminism has been influenced by:",
+      "options": [
+        "A) No external factors",
+        "B) Both local and global movements",
+        "C) Only Western ideas",
+        "D) Only Eastern ideas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3aa07b30145c84b07129e12b38ec175e0cf9daec",
+      "sectionIndex": 6,
+      "question": "WID stands for:",
+      "options": [
+        "A) World International Development",
+        "B) Women in Development",
+        "C) Western Industrial Design",
+        "D) Water in Drought"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e277011c6ea8426677162476edfa71f8ad70b8e",
+      "sectionIndex": 6,
+      "question": "WAD stands for:",
+      "options": [
+        "A) Women and Development",
+        "B) World Agriculture Department",
+        "C) Western Art Design",
+        "D) Water and Drainage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4f56251974aa46bab4692190d6e1dd68cc31f30",
+      "sectionIndex": 6,
+      "question": "GAD stands for:",
+      "options": [
+        "A) Global Agriculture Department",
+        "B) Gender and Development",
+        "C) General Administrative Department",
+        "D) Government and Democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd184542c8ca4112eb1fd3daf1388ccb116df66c",
+      "sectionIndex": 6,
+      "question": "WID approach focuses on:",
+      "options": [
+        "A) Excluding women",
+        "B) Including women in development",
+        "C) Only men's development",
+        "D) Children only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5a8ce5c617386c7b8e11f77c74169af161c3e98",
+      "sectionIndex": 6,
+      "question": "WAD approach recognizes:",
+      "options": [
+        "A) Women's existing contributions",
+        "B) Women have no role",
+        "C) Only men's work",
+        "D) Only paid work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d818f4c943415aa526efe92f748525fadf916623",
+      "sectionIndex": 6,
+      "question": "GAD approach examines:",
+      "options": [
+        "A) Only women",
+        "B) Gender relations and power structures",
+        "C) Only men",
+        "D) Only children"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "135fac3a32b854a41a602f7b54aa1ddecc68b355",
+      "sectionIndex": 6,
+      "question": "The evolution from WID to GAD shows:",
+      "options": [
+        "A) No progress",
+        "B) Deeper understanding of gender issues",
+        "C) Backward movement",
+        "D) Focus on men only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4cacc0b35045aacf650be121e36298fe4db550a",
+      "sectionIndex": 6,
+      "question": "Development approaches affect:",
+      "options": [
+        "A) Only economics",
+        "B) All aspects of social life",
+        "C) Only politics",
+        "D) Only education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5eebee65f199f80b088c83bbeb00cbf65525b41b",
+      "sectionIndex": 6,
+      "question": "Gender mainstreaming means:",
+      "options": [
+        "A) Separate programs",
+        "B) Integrating gender in all policies",
+        "C) Ignoring gender",
+        "D) Focus on streams"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2505374fbddfb25e29185426eb40d81648856f9",
+      "sectionIndex": 6,
+      "question": "Women's development requires:",
+      "options": [
+        "A) Charity only",
+        "B) Structural changes and empowerment",
+        "C) No special attention",
+        "D) International aid only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b503477f16c7f6b8789f1460624836200cc1a78b",
+      "sectionIndex": 7,
+      "question": "Women's health in Pakistan faces:",
+      "options": [
+        "A) No challenges",
+        "B) Multiple social and economic challenges",
+        "C) Only medical issues",
+        "D) Only urban problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bd0774962d56ddeb4c34ee4ed4f2d28ab4ae7dd",
+      "sectionIndex": 7,
+      "question": "Maternal mortality refers to:",
+      "options": [
+        "A) Child deaths",
+        "B) Deaths during pregnancy and childbirth",
+        "C) Elderly deaths",
+        "D) Accident deaths"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "653b750594cef926b405f35f4da323d4a29f753d",
+      "sectionIndex": 7,
+      "question": "\"Maternity death road\" describes:",
+      "options": [
+        "A) Actual road",
+        "B) Risks women face in childbirth",
+        "C) Hospital location",
+        "D) Transportation issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6fe42ba62fb385cd3623575d98031118c636482",
+      "sectionIndex": 7,
+      "question": "Women's health issues are influenced by:",
+      "options": [
+        "A) Biology only",
+        "B) Social, cultural, and economic factors",
+        "C) Weather only",
+        "D) Age only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d568976cf22e40d0612cfe7ebb90deaed4b13694",
+      "sectionIndex": 7,
+      "question": "Improving women's health requires:",
+      "options": [
+        "A) Medicine only",
+        "B) Comprehensive social and health interventions",
+        "C) No action",
+        "D) International doctors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e61d9070a272a3794c461e5890b389e5429ca9d7",
+      "sectionIndex": 7,
+      "question": "The women's movement in Pakistan has:",
+      "options": [
+        "A) Not existed",
+        "B) Long history of activism",
+        "C) Started yesterday",
+        "D) Only foreign members"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4c6fe13632d6b3dd1c9079f9bb43d16b6d8572f",
+      "sectionIndex": 7,
+      "question": "Strengths of Pakistani women's movement include:",
+      "options": [
+        "A) No strengths",
+        "B) Grassroots activism and resilience",
+        "C) Only weaknesses",
+        "D) International funding only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f28b4bef0b4a83e7decc2bbdd73853192b7525a",
+      "sectionIndex": 7,
+      "question": "Women's studies programs in Pakistan:",
+      "options": [
+        "A) Don't exist",
+        "B) Face various challenges and opportunities",
+        "C) Only study cooking",
+        "D) Only study fashion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90643ff3ec7c2631cdd0e5856e7d3878191368f2",
+      "sectionIndex": 7,
+      "question": "The autonomy debate in women's studies refers to:",
+      "options": [
+        "A) Car driving",
+        "B) Independent versus integrated programs",
+        "C) Living alone",
+        "D) Financial independence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50157694b18359291fe547e0314e95de812d595e",
+      "sectionIndex": 7,
+      "question": "Women's status in Pakistan is affected by:",
+      "options": [
+        "A) Only individual choices",
+        "B) Complex social, economic, and cultural factors",
+        "C) Only government policies",
+        "D) Only international pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "190773a0c0844b34969c4d28dcf9664db88deee7",
+      "sectionIndex": 8,
+      "question": "Colonial rule affected women by:",
+      "options": [
+        "A) No impact",
+        "B) Changing traditional roles and creating new inequalities",
+        "C) Only positive changes",
+        "D) Only affecting men"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8205f8a051f4cf1a58ce736c93634ffcc0454920",
+      "sectionIndex": 8,
+      "question": "The colonial era influenced gender through:",
+      "options": [
+        "A) Food only",
+        "B) Laws, education, and social structures",
+        "C) Climate change",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c19e77a27540ea07b4bf88e9d9b3e8c29f2da947",
+      "sectionIndex": 8,
+      "question": "Capitalist perspectives on gender involve:",
+      "options": [
+        "A) No connection",
+        "B) How market economy affects gender relations",
+        "C) Only socialism",
+        "D) Only communism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16108205de7142cb8e9283b34ad33430040a8525",
+      "sectionIndex": 8,
+      "question": "Structural Adjustment Policies (SAPs) are:",
+      "options": [
+        "A) Building adjustments",
+        "B) Economic reform programs",
+        "C) Exercise routines",
+        "D) Educational policies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c309b07c9e7734230661b22d7eef918c3c919d63",
+      "sectionIndex": 8,
+      "question": "SAPs affect women through:",
+      "options": [
+        "A) No impact",
+        "B) Cuts in social services and employment",
+        "C) Only benefits",
+        "D) Higher salaries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8e9a1b5280cd74c425d9bbdd2c373f3ca522f94",
+      "sectionIndex": 8,
+      "question": "\"Development as new colonialism\" means:",
+      "options": [
+        "A) Actual colonization",
+        "B) Development policies perpetuating dependencies",
+        "C) No development",
+        "D) Only infrastructure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fbb4b3bc32264bc4315a8697637e0cafb2f21ff",
+      "sectionIndex": 8,
+      "question": "Modernization theory claims women's subordination is due to:",
+      "options": [
+        "A) External factors only",
+        "B) Internal cultural factors",
+        "C) No factors",
+        "D) Weather patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "274ab42a07dc953db1943dfefcd7b3a58f718017",
+      "sectionIndex": 8,
+      "question": "Economic policies impact gender through:",
+      "options": [
+        "A) No effect",
+        "B) Different effects on men and women",
+        "C) Equal effects always",
+        "D) Only positive effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab2bce2184aeb5b656b9af24825c385a268e7454",
+      "sectionIndex": 8,
+      "question": "Colonial legacies in gender include:",
+      "options": [
+        "A) No lasting impact",
+        "B) Persistent structural inequalities",
+        "C) Only language",
+        "D) Only food habits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c26f20b6ecb07ecc6f7263c7a5c464a9a80ca9d",
+      "sectionIndex": 8,
+      "question": "Gender analysis of development reveals:",
+      "options": [
+        "A) No gender differences",
+        "B) Unequal impacts and opportunities",
+        "C) Perfect equality",
+        "D) Only class differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24c96cdad19435a9811b718abf980098fc552f09",
+      "sectionIndex": 9,
+      "question": "The autonomy versus integration debate is about:",
+      "options": [
+        "A) Driving",
+        "B) How gender studies should be organized",
+        "C) Living arrangements",
+        "D) Food choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eb763c3006fbab6236326bada88f9915290e6ea",
+      "sectionIndex": 9,
+      "question": "Gender-based violence legislation aims to:",
+      "options": [
+        "A) Increase violence",
+        "B) Protect victims and prevent violence",
+        "C) Ignore problems",
+        "D) Only punish"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b651a034e3e19b6096b3d0faec4bea5187c99930",
+      "sectionIndex": 9,
+      "question": "Women's labor force participation shows:",
+      "options": [
+        "A) No change",
+        "B) Increasing but with challenges",
+        "C) Decreasing everywhere",
+        "D) Only in agriculture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f80bd8949b72517168c38b919c0dc8eb35b71e8b",
+      "sectionIndex": 9,
+      "question": "The dual burden refers to:",
+      "options": [
+        "A) Carrying two bags",
+        "B) Paid work plus household responsibilities",
+        "C) Two jobs only",
+        "D) Double salary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00d9a6493eb3b643e594cef1171af28b28cd358a",
+      "sectionIndex": 9,
+      "question": "Media representation of gender issues:",
+      "options": [
+        "A) Has no impact",
+        "B) Shapes public perception",
+        "C) Only entertainment",
+        "D) Always accurate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78a7b7aeba56728d7ad5fd71dea498fc1b1beb0c",
+      "sectionIndex": 9,
+      "question": "Human rights and gender are:",
+      "options": [
+        "A) Unrelated",
+        "B) Interconnected issues",
+        "C) Opposing concepts",
+        "D) Only legal matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6652b657a54b88b9d80f3dd3f142f6dd8c110137",
+      "sectionIndex": 9,
+      "question": "Democratic welfare state ideals include:",
+      "options": [
+        "A) Excluding women",
+        "B) Gender equality and justice",
+        "C) Only economic welfare",
+        "D) Only men's welfare"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78bb77e512e1de487758c761e8902446393b5640",
+      "sectionIndex": 9,
+      "question": "Contemporary feminist activism shows:",
+      "options": [
+        "A) No activity",
+        "B) New forms and strategies",
+        "C) Only protests",
+        "D) Only online presence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f857ed9f288cfbe5b1697763f94888fa3b304479",
+      "sectionIndex": 9,
+      "question": "Gender studies contributes to:",
+      "options": [
+        "A) Only academic knowledge",
+        "B) Social change and policy",
+        "C) No contribution",
+        "D) Only women's issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1504cd17ee3ff280066c5255fbd6b6a292927d14",
+      "sectionIndex": 9,
+      "question": "The future of gender equality requires:",
+      "options": [
+        "A) No action",
+        "B) Continued efforts across all sectors",
+        "C) Only laws",
+        "D) Only education"
+      ],
+      "correct": "B"
+    }
+  ]
+}

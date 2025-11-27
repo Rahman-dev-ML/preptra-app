@@ -1,0 +1,828 @@
+{
+  "subject": "Journalism & Mass Communication",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 30,
+  "categories": [
+    "Foundations & Communication Theories",
+    "History of Pakistani Journalism",
+    "News, Reporting & Editing",
+    "Media Law, Ethics & Regulation (Pakistan)",
+    "Media Systems, Roles & Effects",
+    "Public Relations & Advertising",
+    "Development & Political Communication",
+    "Globalization, Digital Media & Data",
+    "Research Methods & Exam Skills",
+    "MCQ Staples & Terminologies"
+  ],
+  "notes": [
+    {
+      "id": "J-001",
+      "title": "Core Models: Lasswell, Shannon–Weaver, SMCR",
+      "content": "Master the linear models most frequently asked: Lasswell's 5W (Who says What, in Which channel, to Whom, with What effect), Shannon–Weaver's technical model (source–encoder–channel–noise–decoder–receiver) and Berlo's SMCR. Know strengths, limits, and typical exam contrasts (linear vs. interactive; engineering vs. socio-cultural views).",
+      "keyTakeaways": [
+        "Lasswell emphasizes effects and functions; great for propaganda/PR questions.",
+        "Shannon–Weaver introduces 'noise' and information capacity; cite 1948/49 papers.",
+        "SMCR expands on source/message/channel/receiver variables (skills, content)."
+      ],
+      "resources": [
+        {
+          "title": "Shannon (1948) — A Mathematical Theory of Communication",
+          "url": "https://ia803209.us.archive.org/27/items/bstj27-3-379/bstj27-3-379_text.pdf",
+          "type": "article",
+          "description": "Primary source; noise, channel capacity"
+        },
+        {
+          "title": "Shannon & Weaver (1949) book excerpt",
+          "url": "https://pure.mpg.de/pubman/item/item_2383164_3/component/file_2383163/Shannon_Weaver_1949_Mathematical.pdf",
+          "type": "article",
+          "description": "Book version used in curricula"
+        },
+        {
+          "title": "Lasswell model (overview)",
+          "url": "https://www.communicationtheory.org/lasswells-model/",
+          "type": "article",
+          "description": "Concise explainer for 5W model"
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Communication Theories",
+      "topics": ["Lasswell", "Shannon–Weaver", "SMCR", "Noise", "Linear vs. interactive"]
+    },
+    {
+      "id": "J-002",
+      "title": "Agenda-Setting, Framing & Priming (High-Yield Theory Set)",
+      "content": "Differentiate agenda-setting (media tell us what to think about) from framing (how to think about it) and priming (criteria for evaluation). Use classic Chapel Hill study and contemporary applications to elections and issue salience.",
+      "keyTakeaways": [
+        "Agenda-setting is repeatedly asked; support with 1972 McCombs & Shaw.",
+        "Tie to Pakistan: news agendas during elections/policy debates.",
+        "Contrast with uses and gratifications in application-style answers."
+      ],
+      "resources": [
+        {
+          "title": "McCombs & Shaw (1972) original article (POQ)",
+          "url": "https://fbaum.unc.edu/teaching/articles/POQ-1972-McCOMBS-176-87.pdf",
+          "type": "article",
+          "description": "Foundational agenda-setting study"
+        },
+        {
+          "title": "Agenda-setting overview",
+          "url": "https://academic.oup.com/poq/article-abstract/36/2/176/1853310",
+          "type": "article",
+          "description": "Journal abstract page"
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Communication Theories",
+      "topics": ["Agenda-setting", "Framing", "Priming", "Elections"]
+    },
+    {
+      "id": "J-003",
+      "title": "Two-Step Flow & Opinion Leadership",
+      "content": "Explain why media influence is often mediated by opinion leaders (Katz & Lazarsfeld). Use modern analogues (influencers, WhatsApp admins) for Pakistan-centric examples.",
+      "keyTakeaways": [
+        "Great for compare/contrast with hypodermic needle.",
+        "Use Decatur study as evidence; cite opinion leadership in digital networks.",
+        "Connect to misinformation correction via trusted intermediaries."
+      ],
+      "resources": [
+        {
+          "title": "Katz & Lazarsfeld — Personal Influence (overview)",
+          "url": "https://sk.sagepub.com/ency/edvol/download/communicationtheory/chpt/twostep-multistep-flow.pdf",
+          "type": "pdf",
+          "description": "Encyclopedia chapter"
+        },
+        {
+          "title": "Two-step flow explainer",
+          "url": "https://www.simplypsychology.org/two-step-flow-theory-of-communication.html",
+          "type": "article",
+          "description": "Updated summary with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Communication Theories",
+      "topics": ["Two-step flow", "Opinion leaders", "Influence"]
+    },
+    {
+      "id": "J-004",
+      "title": "'Global Village', Media Determinism & Cultural Imperialism",
+      "content": "Use McLuhan's 'medium is the message' and 'global village' in globalization answers; contrast with cultural imperialism critiques; bring local examples (Pakistani TV/streaming, TikTok bans, dubbing/subbing cultures).",
+      "keyTakeaways": [
+        "Define technological determinism vs. socio-cultural agency.",
+        "Relate to localization ('glocalisation') and resistance.",
+        "Tie to policy (PEMRA codes, streaming regulation debates)."
+      ],
+      "resources": [
+        {
+          "title": "RSF — 2024 & 2025 Press Freedom Index context",
+          "url": "https://rsf.org/en/index",
+          "type": "website",
+          "description": "Global press-freedom backdrop"
+        }
+      ],
+      "importance": "medium",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["McLuhan", "Global Village", "Cultural imperialism"]
+    },
+    {
+      "id": "J-005",
+      "title": "History of Pakistani Journalism: Muslim Press to PBC/PTV",
+      "content": "Trace key milestones: Muslim League papers; Dawn's founding by Jinnah; Nawa-i-Waqt and movement journalism; Radio Pakistan's 1947 broadcast; conversion to Pakistan Broadcasting Corporation in 1972; PBC Act, 1973; private channels after PEMRA (2002).",
+      "keyTakeaways": [
+        "Use names/dates: Dawn (1941 Delhi; Jinnah); Nawa-i-Waqt (1940; Hameed Nizami).",
+        "Radio Pakistan became PBC via 1972 ordinance and PBC Act 1973.",
+        "Anchor history answers with primary institutional sites."
+      ],
+      "resources": [
+        {
+          "title": "Dawn — 'Genesis of a Newspaper'",
+          "url": "https://www.dawn.com/news/1354278",
+          "type": "article",
+          "description": "Dawn's early history with Jinnah"
+        },
+        {
+          "title": "Radio Pakistan — Chronology of PBC",
+          "url": "https://www.radio.gov.pk/chronology-of-pbc",
+          "type": "website",
+          "description": "Key dates from 1947 to PBC"
+        },
+        {
+          "title": "Pakistan Broadcasting Corporation Act, 1973",
+          "url": "https://pakistancode.gov.pk/english/index.php/UY2FqaJw1-apaUY2Fqa-bpuUY2ho-sg-jjjjjjjjjjjjj",
+          "type": "pdf",
+          "description": "Primary statute"
+        },
+        {
+          "title": "Nawa-i-Waqt overview",
+          "url": "https://en.wikipedia.org/wiki/Nawa-i-waqt",
+          "type": "website",
+          "description": "Background & group history"
+        }
+      ],
+      "importance": "high",
+      "category": "History of Pakistani Journalism",
+      "topics": ["Dawn", "Nawa-i-Waqt", "PBC", "Media history"]
+    },
+    {
+      "id": "J-006",
+      "title": "News: Definitions, Values & Functions",
+      "content": "Cover news values (timeliness, significance, proximity, prominence, conflict, novelty, human interest), roles (inform, watchdog, mobilize), and structure (inverted pyramid vs. narrative leads).",
+      "keyTakeaways": [
+        "Use 'news as the soul of journalism' framing—asked repeatedly.",
+        "Give Pakistan examples (budget, SC verdicts, disaster coverage).",
+        "Always show headline/lead/nut-graf skills in answers."
+      ],
+      "resources": [
+        {
+          "title": "FPSC CSS Descriptive Papers (official)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "pdf",
+          "description": "Latest official past papers"
+        },
+        {
+          "title": "CSS Journalism Past Papers (archive)",
+          "url": "https://thecsspoint.com/css-past-papers/journalism-mass-communication-past-papers/",
+          "type": "website",
+          "description": "2000–2020 compilation"
+        }
+      ],
+      "importance": "high",
+      "category": "News, Reporting & Editing",
+      "topics": ["News values", "Inverted pyramid", "Leads"]
+    },
+    {
+      "id": "J-007",
+      "title": "Reporting & Editing Practice (Leads, Headlines, Backgrounders)",
+      "content": "Contrast straight vs. feature leads; banner headline conventions; backgrounders and explainers; ensure source triage and fact-checks in workflows.",
+      "keyTakeaways": [
+        "MCQ favorites: banner headline, byline, backgrounder, dateline.",
+        "Practice rewriting weak leads and condensing backgrounders.",
+        "Use credible sourcing (PID/ECP/Finance Division) for data stories."
+      ],
+      "resources": [
+        {
+          "title": "PID — Press releases & materials",
+          "url": "https://pid.gov.pk/press",
+          "type": "website",
+          "description": "Official govt source"
+        }
+      ],
+      "importance": "medium",
+      "category": "News, Reporting & Editing",
+      "topics": ["Leads", "Headlines", "Backgrounders", "Attribution"]
+    },
+    {
+      "id": "J-008",
+      "title": "Media Laws (Pakistan): PEMRA, PECA, PCP, Defamation",
+      "content": "Know core media statutes: PEMRA Ordinance (2002) for broadcast licensing/regulation; PECA (2016) for electronic crimes; Press Council of Pakistan Ordinance (2002) and Ethical Code; provincial/ICT defamation laws; Article 19 & 19-A (freedom & access to information).",
+      "keyTakeaways": [
+        "Quote exact law names and years; cite specific sections where relevant.",
+        "Differentiate content regulation (PEMRA) from cyber-crime (PECA).",
+        "Tie Article 19/19-A to RTI and public interest journalism."
+      ],
+      "resources": [
+        {
+          "title": "PEMRA Ordinance, 2002 (official PDF)",
+          "url": "https://pemra.gov.pk/assets/uploads/legal/Ordinance_2002.pdf",
+          "type": "pdf",
+          "description": "Primary statute for broadcast media"
+        },
+        {
+          "title": "PECA 2016 (official PDF)",
+          "url": "https://www.na.gov.pk/uploads/documents/1470910659_707.pdf",
+          "type": "pdf",
+          "description": "Cybercrime law text"
+        },
+        {
+          "title": "Press Council of Pakistan Ordinance (Code in Schedule)",
+          "url": "https://pid.gov.pk/uploads/media_laws/pcp_ordinance.pdf",
+          "type": "pdf",
+          "description": "Ethical Code authority"
+        },
+        {
+          "title": "Pakistan Code — PEMRA",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw2-apaUY2Fqa-apaUY2FrbZ8%3D-sg-jjjjjjjjjjjjj-con-9741",
+          "type": "website",
+          "description": "Consolidated legal reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["PEMRA", "PECA", "PCP", "Defamation", "Article 19"]
+    },
+    {
+      "id": "J-009",
+      "title": "Self-Regulation & Industry Bodies: APNS, CPNE, PID",
+      "content": "Understand roles: APNS (publishers; circulation, dues, ads), CPNE (editors; press freedom advocacy), PID (official information arm). Use them in ethics/industry structure answers.",
+      "keyTakeaways": [
+        "APNS notices and accreditation affect ad flows.",
+        "CPNE foregrounds editorial independence and safety.",
+        "PID is the government's principal information department."
+      ],
+      "resources": [
+        {
+          "title": "APNS — Official",
+          "url": "https://www.apns.com.pk/",
+          "type": "website",
+          "description": "Circulars & accreditation updates"
+        },
+        {
+          "title": "CPNE — Government–Press Relations",
+          "url": "https://www.cpne.pk/government-press-relations/",
+          "type": "website",
+          "description": "Editors' body overview"
+        },
+        {
+          "title": "PID — About/Press",
+          "url": "https://pid.gov.pk/",
+          "type": "website",
+          "description": "Govt info hub; press releases"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["APNS", "CPNE", "PID", "Self-regulation"]
+    },
+    {
+      "id": "J-010",
+      "title": "Press Freedom & Safety: RSF, CPJ, PPF",
+      "content": "Use RSF World Press Freedom Index and CPJ/PPF briefings for evidence on safety, impunity, and constraints; quote Pakistan's ranking/year trends when asked.",
+      "keyTakeaways": [
+        "Always date the index (e.g., RSF 2024/2025) and use exact rank when known.",
+        "Use CPJ country alerts for recent safety context.",
+        "PPF provides local documentation and training resources."
+      ],
+      "resources": [
+        {
+          "title": "RSF — Pakistan page / Index",
+          "url": "https://rsf.org/en/country/pakistan",
+          "type": "website",
+          "description": "National snapshot & ranking"
+        },
+        {
+          "title": "CPJ — Pakistan hub",
+          "url": "https://cpj.org/asia/pakistan/",
+          "type": "website",
+          "description": "Alerts & analyses"
+        },
+        {
+          "title": "Pakistan Press Foundation (PPF)",
+          "url": "https://pakistanpressfoundation.org/",
+          "type": "website",
+          "description": "Local press freedom documentation"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["Press freedom", "Safety", "Impunity"]
+    },
+    {
+      "id": "J-011",
+      "title": "Right of Access to Information (RTI) & Article 19-A",
+      "content": "Explain how RTI frameworks enable investigative reporting; tie to federal/provincial RTI laws and procedures for requests; combine with ethics (public interest tests).",
+      "keyTakeaways": [
+        "Use RTI case examples (budgets, procurement, environment).",
+        "Link to watchdog role and development journalism.",
+        "Integrate with newsroom source protection protocols."
+      ],
+      "resources": [
+        {
+          "title": "RSF/Index context for access climate",
+          "url": "https://rsf.org/en/map-2024-world-press-freedom-index",
+          "type": "website",
+          "description": "Regional access climate indicator"
+        }
+      ],
+      "importance": "medium",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["RTI", "Article 19-A", "Investigations"]
+    },
+    {
+      "id": "J-012",
+      "title": "Ethics: Codes, Defamation & Online Journalism",
+      "content": "Compare press codes (PCP Schedule) with platform policies; map defamation, privacy, contempt, hate-speech considerations; write exam-style 'ideal code' outlines.",
+      "keyTakeaways": [
+        "Use PCP Ethical Code language in answers for credibility.",
+        "Balance 'freedom vs. responsibility' with case examples.",
+        "Note online corrections/archives policy and transparency."
+      ],
+      "resources": [
+        {
+          "title": "PCP Ordinance (Code in Schedule)",
+          "url": "https://pid.gov.pk/uploads/media_laws/pcp_ordinance.pdf",
+          "type": "pdf",
+          "description": "Press ethics authority"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["Ethics", "Defamation", "Online journalism"]
+    },
+    {
+      "id": "J-013",
+      "title": "Broadcast & Electronic Media: From PTV/PBC to Private Channels",
+      "content": "Survey evolution of electronic media; regulatory environment (PEMRA); public service mandates vs. commercial imperatives; use development communication examples (PSAs, floods, polio).",
+      "keyTakeaways": [
+        "Use PBC timeline; distinguish statutory mandates from private regulation.",
+        "Discuss content quotas, licensing, and code enforcement.",
+        "Tie to social impact: education, health, disaster response."
+      ],
+      "resources": [
+        {
+          "title": "PEMRA Ordinance, 2002",
+          "url": "https://pemra.gov.pk/assets/uploads/legal/Ordinance_2002.pdf",
+          "type": "pdf",
+          "description": "Regulatory baseline"
+        },
+        {
+          "title": "PBC — Official",
+          "url": "https://pbc.gov.pk/",
+          "type": "website",
+          "description": "Public broadcasting context"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["PTV/PBC", "Private TV", "PEMRA"]
+    },
+    {
+      "id": "J-014",
+      "title": "Development Communication & DSC",
+      "content": "Differentiate classic 'development journalism' from Development Support Communication (problem-solving campaigns: health, education, climate). Integrate diffusion of innovations (adoption curve) in design answers.",
+      "keyTakeaways": [
+        "State objectives, stakeholders, channels, metrics.",
+        "Use Pakistan caselets (polio, dengue, floods).",
+        "Discuss audience segmentation & message testing."
+      ],
+      "resources": [
+        {
+          "title": "UNESCO — Model Curricula for Journalism Education",
+          "url": "https://www.unesco.org/en/articles/model-curricula-journalism-education-0",
+          "type": "pdf",
+          "description": "Frameworks for public-interest reporting courses"
+        }
+      ],
+      "importance": "high",
+      "category": "Development & Political Communication",
+      "topics": ["DSC", "Diffusion", "Campaign design"]
+    },
+    {
+      "id": "J-015",
+      "title": "Political Communication: Propaganda, PR & Spin",
+      "content": "Contrast propaganda models (hypodermic needle legacy) with contemporary political PR and media effects; explain agenda-building and media management in elections.",
+      "keyTakeaways": [
+        "Link to ethics (transparency, labeling, advertorials).",
+        "Use examples of pressers, manifestos, televised debates.",
+        "Discuss watchdog vs. access journalism tension."
+      ],
+      "resources": [
+        {
+          "title": "FPSC past papers (official)",
+          "url": "https://fpsc.gov.pk/category/css-2024-descriptive-papers-516644049-2024-06-27",
+          "type": "pdf",
+          "description": "Evidence of recurring questions"
+        }
+      ],
+      "importance": "medium",
+      "category": "Development & Political Communication",
+      "topics": ["Propaganda", "Agenda-building", "Campaigns"]
+    },
+    {
+      "id": "J-016",
+      "title": "Public Relations (PRO, PID) — Tools & Ethics",
+      "content": "Define PR vs. personal assistant roles; tools (press release, briefing, media kit, crisis comms, stakeholder mapping); discuss state PR (PID) vs. corporate PR; evaluate 'spin doctor' criticism.",
+      "keyTakeaways": [
+        "MCQs often test PRO duties and tools.",
+        "In essays, add measurement (outcomes vs. outputs).",
+        "Crisis comms templates score highly (holding statement, Q&A)."
+      ],
+      "resources": [
+        {
+          "title": "PID — Official",
+          "url": "https://pid.gov.pk/",
+          "type": "website",
+          "description": "Govt PR function & outputs"
+        }
+      ],
+      "importance": "medium",
+      "category": "Public Relations & Advertising",
+      "topics": ["PR tools", "Crisis comms", "Measurement"]
+    },
+    {
+      "id": "J-017",
+      "title": "Advertising: Principles, Formats & Regulation",
+      "content": "Cover creative brief, AIDA, media planning basics; distinguish print vs. electronic vs. digital units; discuss puffery, deception rules, and ad clearance in Pakistan (APNS).",
+      "keyTakeaways": [
+        "Integrate ethics and consumer protection.",
+        "Use examples (public service vs. commercial campaigns).",
+        "Know APNS role in agency/client accreditation and dues."
+      ],
+      "resources": [
+        {
+          "title": "APNS — Circulars/updates",
+          "url": "https://www.apns.com.pk/news/",
+          "type": "website",
+          "description": "Policy & accreditation notices"
+        }
+      ],
+      "importance": "medium",
+      "category": "Public Relations & Advertising",
+      "topics": ["AIDA", "Formats", "APNS", "Ad ethics"]
+    },
+    {
+      "id": "J-018",
+      "title": "Ethics, Safety & Social Media Regulation (Recent)",
+      "content": "Summarize recent debates on amendments/regulations affecting social media, disinformation, and journalist safety; cite watchdog reactions (PFUJ, CPJ, RSF).",
+      "keyTakeaways": [
+        "Support with current, dated examples from 2024–2025.",
+        "Balance harms (fake news) vs. free expression concerns.",
+        "Connect to PECA and due-process safeguards."
+      ],
+      "resources": [
+        {
+          "title": "Reuters — 2025 social media regulation coverage",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistani-journalism-body-criticises-new-law-regulating-social-media-2025-01-24/",
+          "type": "article",
+          "description": "PFUJ reaction; law details"
+        },
+        {
+          "title": "CPJ — Pakistan features/alerts",
+          "url": "https://cpj.org/features-and-analysis/asia/pakistan/",
+          "type": "website",
+          "description": "Impunity index & safety context"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["Social media", "Disinformation", "Safety"]
+    },
+    {
+      "id": "J-019",
+      "title": "Development Journalism vs. DSC (Compare & Contrast)",
+      "content": "Classic development journalism is reportage on development issues; DSC designs communication to solve specific problems. Use matrices (objectives, channels, metrics).",
+      "keyTakeaways": [
+        "Add diffusion/innovation adopters to DSC answers.",
+        "Show evaluation plan (baseline, KAP, outcome).",
+        "Localize with health/education/wash projects."
+      ],
+      "resources": [
+        {
+          "title": "UNESCO — Model Curricula",
+          "url": "https://www.unesco.org/en/articles/model-curricula-journalism-education",
+          "type": "pdf",
+          "description": "Syllabi guidance"
+        }
+      ],
+      "importance": "medium",
+      "category": "Development & Political Communication",
+      "topics": ["Development journalism", "DSC", "Evaluation"]
+    },
+    {
+      "id": "J-020",
+      "title": "Global News Agencies & International Media",
+      "content": "Review wire services (Reuters, AP, AFP), CNN effect, news flow and imbalance debates (MacBride Commission).",
+      "keyTakeaways": [
+        "MCQs test agency acronyms & origins.",
+        "Use MacBride to discuss NWICO & media flows.",
+        "Relate to Pakistan's reliance on wires for foreign news."
+      ],
+      "resources": [
+        {
+          "title": "MacBride Commission (context)",
+          "url": "https://cpj.org/asia/pakistan/",
+          "type": "website",
+          "description": "Use as entry to global media issues; pair with textbooks"
+        }
+      ],
+      "importance": "medium",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["Reuters/AP/AFP", "CNN effect", "MacBride"]
+    },
+    {
+      "id": "J-021",
+      "title": "Digital Journalism: Verification, Disinfo & OSINT Basics",
+      "content": "Outline verification checklists (provenance, source, date, location), reverse image/video basics, geolocation cues; apply to elections and crisis coverage.",
+      "keyTakeaways": [
+        "Always document source trails and corrections policy.",
+        "Include safety & legal considerations (PECA, defamation).",
+        "Use newsroom SOPs and checklists."
+      ],
+      "resources": [
+        {
+          "title": "CPJ — Safety & digital security resources",
+          "url": "https://cpj.org/asia/pakistan/",
+          "type": "website",
+          "description": "Safety context for digital reporting"
+        }
+      ],
+      "importance": "high",
+      "category": "Globalization, Digital Media & Data",
+      "topics": ["Verification", "OSINT", "Disinformation"]
+    },
+    {
+      "id": "J-022",
+      "title": "Data Journalism & Public Records (Pakistan)",
+      "content": "Show how to use public datasets (Finance Division budget PDFs, SBP, PBS, ECP) for explanatory and watchdog reporting; design simple story pitches from official numbers.",
+      "keyTakeaways": [
+        "Always cite and link the exact table/report version.",
+        "Include a small visualization plan in answers (chart type, caveat).",
+        "Build reproducible notes (date, source, method)."
+      ],
+      "resources": [
+        {
+          "title": "PID / Ministry links (primary docs hub)",
+          "url": "https://pid.gov.pk/press",
+          "type": "website",
+          "description": "Press releases; official stats pointers"
+        }
+      ],
+      "importance": "medium",
+      "category": "Globalization, Digital Media & Data",
+      "topics": ["Data journalism", "Public records", "FOI/RTI"]
+    },
+    {
+      "id": "J-023",
+      "title": "Normative Theories of the Press",
+      "content": "Summarize authoritarian, libertarian, social responsibility, Soviet/communist, development media, democratic-participant. Apply to Pakistan's mixed media environment.",
+      "keyTakeaways": [
+        "Map theory to policy tools (licensing, codes, market).",
+        "Use recent regulatory debates to illustrate social responsibility claims.",
+        "Include a critique (ownership, economics, capture)."
+      ],
+      "resources": [
+        {
+          "title": "RSF Index 2024/2025 — context",
+          "url": "https://rsf.org/en/2024-world-press-freedom-index-journalism-under-political-pressure",
+          "type": "website",
+          "description": "Political pressure indicator"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["Normative theories", "Social responsibility", "Ownership"]
+    },
+    {
+      "id": "J-024",
+      "title": "Media Economics & Commercialism in News",
+      "content": "Explain revenue models (ads, subscriptions, branded content), commercialization pressures, and impact on news values; discuss conflict of interest and transparency.",
+      "keyTakeaways": [
+        "Relate commercial pressures to sensationalism and 'ratings wars'.",
+        "Propose newsroom firewalls and disclosures.",
+        "Use APNS circulars to show ad-market governance."
+      ],
+      "resources": [
+        {
+          "title": "APNS — Official",
+          "url": "https://www.apns.com.pk/",
+          "type": "website",
+          "description": "Industry economics signals"
+        }
+      ],
+      "importance": "medium",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["Media economics", "Commercialism", "Conflicts"]
+    },
+    {
+      "id": "J-025",
+      "title": "Press Organizations & Movement History",
+      "content": "Revise Muslim Press role in Pakistan Movement; key editors and newspapers; link to state formation narrative.",
+      "keyTakeaways": [
+        "Use Dawn & Nawa-i-Waqt histories to cite specifics.",
+        "Tie to exam essays on 'freedom of press vs. responsibility'.",
+        "Connect early press roles to contemporary watchdog claims."
+      ],
+      "resources": [
+        {
+          "title": "Dawn history feature",
+          "url": "https://www.dawn.com/news/1354278",
+          "type": "article",
+          "description": "Primary narrative with images"
+        },
+        {
+          "title": "Nawa-i-Waqt overview",
+          "url": "https://en.wikipedia.org/wiki/Nawa-i-waqt",
+          "type": "website",
+          "description": "Founding and movement role"
+        }
+      ],
+      "importance": "high",
+      "category": "History of Pakistani Journalism",
+      "topics": ["Muslim Press", "Editors", "Movement"]
+    },
+    {
+      "id": "J-026",
+      "title": "Exam Skills: Model Answers, Comparatives & MCQ Bank",
+      "content": "Build outlines that compare theories (e.g., Hypodermic vs. Two-step; Agenda-setting vs. Framing). Maintain a running MCQ sheet of definitions, dates, laws, acronyms.",
+      "keyTakeaways": [
+        "Always date stats (index ranks, law years).",
+        "Use at least one primary law/report per long answer.",
+        "Practice 3–4 theory comparisons with Pakistan examples."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Journalism Descriptive Papers (2024/2025)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "pdf",
+          "description": "Latest official papers"
+        },
+        {
+          "title": "CSS Past Papers Archive (2000–2020)",
+          "url": "https://thecsspoint.com/css-past-papers/journalism-mass-communication-past-papers/",
+          "type": "website",
+          "description": "Year-wise questions"
+        }
+      ],
+      "importance": "high",
+      "category": "Research Methods & Exam Skills",
+      "topics": ["Comparatives", "Outlines", "MCQs"]
+    },
+    {
+      "id": "J-027",
+      "title": "PEMRA Codes & Content Standards",
+      "content": "Summarize content standards (news/current affairs, decency, children, hate speech, election coverage); explain complaints, show-cause, fines, and appeal routes.",
+      "keyTakeaways": [
+        "Distinguish license conditions vs. content code provisions.",
+        "Connect with due process and editorial SOPs.",
+        "Use examples (tickers, crawlers, tick-tock coverage)."
+      ],
+      "resources": [
+        {
+          "title": "PEMRA Ordinance (legal basis)",
+          "url": "https://pemra.gov.pk/assets/uploads/legal/Ordinance_2002.pdf",
+          "type": "pdf",
+          "description": "Legal framework"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["Codes", "Enforcement", "Appeals"]
+    },
+    {
+      "id": "J-028",
+      "title": "Cybercrime, Defamation & Online Harms: PECA in Practice",
+      "content": "Outline offences (unauthorised access, data interference, cyberstalking), procedures and safeguards; compare criminal PECA with civil defamation; add safety tips for reporters.",
+      "keyTakeaways": [
+        "Quote PECA sections sparingly but accurately.",
+        "Map jurisdiction, investigation (FIA) and trial processes.",
+        "Address chilling effects vs. legitimate harms."
+      ],
+      "resources": [
+        {
+          "title": "PECA 2016 (official PDF)",
+          "url": "https://www.na.gov.pk/uploads/documents/1470910659_707.pdf",
+          "type": "pdf",
+          "description": "Statute text"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Law, Ethics & Regulation (Pakistan)",
+      "topics": ["PECA", "Cybercrime", "Online harms"]
+    },
+    {
+      "id": "J-029",
+      "title": "Journalist Safety: Policy, Practice & Case Context",
+      "content": "Use CPJ alerts, RSF ranks, and PPF reports for up-to-date safety context; add field protocols (risk assessment, hostile environment awareness, digital hygiene).",
+      "keyTakeaways": [
+        "Cite recent, dated examples to demonstrate awareness.",
+        "Include safety checklist in practical answers.",
+        "Note legal support hotlines/networks where relevant."
+      ],
+      "resources": [
+        {
+          "title": "CPJ — Pakistan alerts & features",
+          "url": "https://cpj.org/asia/pakistan/",
+          "type": "website",
+          "description": "Country alerts; impunity index context"
+        },
+        {
+          "title": "PPF — Safety documentation",
+          "url": "https://pakistanpressfoundation.org/intimidation-on-all-fronts-press-freedom-and-media-safety-in-pakistan/",
+          "type": "website",
+          "description": "Media safety report (2025)"
+        }
+      ],
+      "importance": "high",
+      "category": "Media Systems, Roles & Effects",
+      "topics": ["Safety", "Impunity", "Field protocols"]
+    },
+    {
+      "id": "J-030",
+      "title": "Journalism Education: Curricula & Emerging Skills",
+      "content": "Align prep with UNESCO model curricula (ethics, data, AI literacy); propose personal learning plan for CSS: theory refreshers, law quick-ref, MCQ drills, and model answers.",
+      "keyTakeaways": [
+        "Integrate AI/verification modules (source evaluation).",
+        "Balance theory with Pakistan law and case content.",
+        "Use a revision grid mapping 'year×topic' repeats."
+      ],
+      "resources": [
+        {
+          "title": "UNESCO — Model Curricula (2023 update)",
+          "url": "https://www.unesco.org/en/articles/model-curricula-journalism-education-0",
+          "type": "pdf",
+          "description": "Course design anchor"
+        },
+        {
+          "title": "UNESCO/UK — Reporting on AI (2023)",
+          "url": "https://unesco.org.uk/site/assets/files/2266/reporting_on_artificial_intelligence-_a_handbook_for_journalism_educators_2023.pdf",
+          "type": "pdf",
+          "description": "Emerging skill area"
+        }
+      ],
+      "importance": "medium",
+      "category": "Research Methods & Exam Skills",
+      "topics": ["Curriculum", "AI literacy", "Study plan"]
+    }
+  ],
+  "extras": {
+    "reference_texts": [
+      {
+        "title": "PEMRA Ordinance, 2002 (Complete Text)",
+        "url": "https://pemra.gov.pk/assets/uploads/legal/Ordinance_2002.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "PECA 2016 (Prevention of Electronic Crimes Act)",
+        "url": "https://www.na.gov.pk/uploads/documents/1470910659_707.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "Press Council of Pakistan Ordinance & Ethical Code",
+        "url": "https://pid.gov.pk/uploads/media_laws/pcp_ordinance.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "UNESCO Model Curricula for Journalism Education",
+        "url": "https://www.unesco.org/en/articles/model-curricula-journalism-education-0",
+        "type": "pdf"
+      }
+    ],
+    "practice_sets": [
+      {
+        "title": "FPSC CSS Descriptive Papers (Latest)",
+        "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+        "type": "pdf"
+      },
+      {
+        "title": "CSS Journalism Past Papers Archive (2000-2020)",
+        "url": "https://thecsspoint.com/css-past-papers/journalism-mass-communication-past-papers/",
+        "type": "website"
+      }
+    ],
+    "watchdog_organizations": [
+      {
+        "title": "Reporters Without Borders (RSF) - Pakistan",
+        "url": "https://rsf.org/en/country/pakistan",
+        "type": "website"
+      },
+      {
+        "title": "Committee to Protect Journalists (CPJ) - Pakistan",
+        "url": "https://cpj.org/asia/pakistan/",
+        "type": "website"
+      },
+      {
+        "title": "Pakistan Press Foundation (PPF)",
+        "url": "https://pakistanpressfoundation.org/",
+        "type": "website"
+      }
+    ]
+  }
+}

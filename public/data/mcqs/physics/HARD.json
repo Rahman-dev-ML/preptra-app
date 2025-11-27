@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:34:27.552Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "4c3e4db1058299976a742dbf4d282be4c15afb38",
+      "sectionIndex": 0,
+      "question": "For a vector field V = xz3i - 2x2yj + 2yz4k, the curl at point (1, -1, 1) is:",
+      "options": [
+        "A) 8i + 3j - 4k",
+        "B) 8i - 3j + 4k",
+        "C) -8i + 3j - 4k",
+        "D) -8i - 3j + 4k"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6b4b79462d665a8fb66b3f401a8b6d193d73073b",
+      "sectionIndex": 0,
+      "question": "If F = ^?? where ? = x2y + y2z + z2x, then ^?-F equals:",
+      "options": [
+        "A) 2(xi + yj + zk)",
+        "B) Zero vector",
+        "C) 2(yi + zj + xk)",
+        "D) Cannot be determined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f7808eebd66655d614443d1ac06f990c0fe89eb",
+      "sectionIndex": 0,
+      "question": "The divergence theorem relates a volume integral to a surface integral. For F = r3r, in spherical coordinates, ^^F-dS over a sphere of radius R equals:",
+      "options": [
+        "A) 4?R5",
+        "B) 20?R5/3",
+        "C) 4?R6/3",
+        "D) 20?R4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a5a89a59b0aa215e98fe63e70c57fb0f2fea9a4",
+      "sectionIndex": 0,
+      "question": "For the vector identity ^?-(^?-A) = ^?(^?-A) - ^?2A, if A = x2yi + y2zj + z2xk, then ^?-(^?-A) at origin is:",
+      "options": [
+        "A) Zero",
+        "B) -2(yi + zj + xk)",
+        "C) 2(xi + yj + zk)",
+        "D) Cannot evaluate at origin"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1c3ca658711caca20557cee9cd5c82b1e9315781",
+      "sectionIndex": 0,
+      "question": "In cylindrical coordinates, if A = ρ2?,, then ^?-A equals:",
+      "options": [
+        "A) 0",
+        "B) 2ρ",
+        "C) ρ",
+        "D) 2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7f9537a82a1afd68b2a351812828939f6f2fde2a",
+      "sectionIndex": 0,
+      "question": "The vector field F = (y2 - z2)i + 2xyj - 2xzk is:",
+      "options": [
+        "A) Conservative with potential ? = xy2 - xz2",
+        "B) Non-conservative",
+        "C) Conservative with potential ? = x2y - xz2",
+        "D) Solenoidal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d2ffbf2585d99986a1fda077b4aa51facaece5fc",
+      "sectionIndex": 0,
+      "question": "For a scalar field ? = 1/r in spherical coordinates, ^?2? equals:",
+      "options": [
+        "A) 0 everywhere",
+        "B) 0 except at origin",
+        "C) -4?δ(r)",
+        "D) 1/r3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1c4c507019bce12f7b9f1cbc07ce23803e27214a",
+      "sectionIndex": 0,
+      "question": "If A-(B-C) = 6 and A-B = 2i - j + k, then (A-B)-C cannot be determined unless:",
+      "options": [
+        "A) C is known",
+        "B) A and B are known individually",
+        "C) The angle between A and B is known",
+        "D) No additional information needed"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "836689b0164095d1ff12d611e4e201eabe4be35c",
+      "sectionIndex": 0,
+      "question": "The line integral ^C F-dl around a closed curve C equals zero if and only if:",
+      "options": [
+        "A) F is constant",
+        "B) F is conservative",
+        "C) Curve C is circular",
+        "D) F is perpendicular to dl"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "258dd22284d8db5b784f9585a950a160c2c77089",
+      "sectionIndex": 0,
+      "question": "In tensor notation, the vector triple product [A-(B-C)]i equals:",
+      "options": [
+        "A) εij,-Ajε,-,-,~B,-C,~",
+        "B) AjBiCj - AjBjCi",
+        "C) εij,-εj,-,~A,-B,-C,~",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "cc836729a153031b8a348674421d748689682c4c",
+      "sectionIndex": 1,
+      "question": "A particle moves under central force F = -k/r3. Its trajectory equation is:",
+      "options": [
+        "A) r = l2/[mk(1 + e cos θ)]",
+        "B) r = a(1 - e2)/(1 + e cos θ)",
+        "C) r2 = 2l2θ/mk + r,?2",
+        "D) r = r,? sec(θ - θ,?)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "69dfe38ee282de7e8e0d023df60779f5d4a93da4",
+      "sectionIndex": 1,
+      "question": "For a symmetric top with I, = I,, ? I,f, precessing with angular velocity Ω, the nutation frequency is:",
+      "options": [
+        "A) Ω(I,f - I,)/I,",
+        "B) ΩI,f/I,",
+        "C) Ω(I,f/I, - 1)",
+        "D) Ω^s(I,f/I,)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ca31be9aaee7c20367e37f5937466b0bb534f7ca",
+      "sectionIndex": 1,
+      "question": "In Lagrangian mechanics, for a particle on a rotating parabolic wire z = ar2, the effective potential is:",
+      "options": [
+        "A) mgaz2 + 1⁄2m?2r2",
+        "B) mgar2 - 1⁄2m?2r2",
+        "C) mgar2 + 1⁄2m?2r2(1 + 4a2r2)",
+        "D) mga2r4 - 1⁄2m?2r2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "025df4daa2e8a366d791b08a24ba5045fca8469b",
+      "sectionIndex": 1,
+      "question": "The Routhian for a system with cyclic coordinate q,f is R = L - p,fq?,f. For a spinning top, this reduces the problem by:",
+      "options": [
+        "A) Eliminating precession angle",
+        "B) Eliminating nutation angle",
+        "C) Fixing total angular momentum",
+        "D) Setting spin angular momentum constant"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5cf7b7e2e17d021b1df95c22233da5f23e1cc4a9",
+      "sectionIndex": 1,
+      "question": "A chain of length L and mass M slides off a frictionless table. When length x hangs over, acceleration is:",
+      "options": [
+        "A) gx/L",
+        "B) gx2/L2",
+        "C) g(2x - L)/L",
+        "D) gx/(L - x)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "538d80f4b23ac1c13b401f7da6ccbd09931b6c15",
+      "sectionIndex": 1,
+      "question": "For small oscillations of a double pendulum with equal masses and lengths, the normal mode frequencies are:",
+      "options": [
+        "A) ?,,,, = ^s(g/l)(2 ± ^s2)",
+        "B) ?,,,, = ^s(g/l)(1 ± 1/^s2)",
+        "C) ?,,,, = ^s(g/l)^s(2 ± ^s2)",
+        "D) ?,,,, = ^s(g/l)(^s2 ± 1)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d652ea77daea65a1ce5cd11f9ea75554bc4f1f90",
+      "sectionIndex": 1,
+      "question": "The Poisson bracket {H, L2} for a particle in a central potential equals:",
+      "options": [
+        "A) 0",
+        "B) 2L-(^,H/^,p)",
+        "C) -2L-(^,V/^,r)",
+        "D) Cannot be determined"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "162b02e3ad74b35b5ab938988be9763244b02f10",
+      "sectionIndex": 1,
+      "question": "For a relativistic particle in a constant magnetic field B, the radius of curvature is:",
+      "options": [
+        "A) mv/qB",
+        "B) p/qB",
+        "C) γmv/qB",
+        "D) E/qBc"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "949608df29083b64ac9b1903a6cf4f7c67da25cc",
+      "sectionIndex": 1,
+      "question": "The Hamilton-Jacobi equation for a free particle in spherical coordinates separates into how many ordinary differential equations?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c22cb451f9a8b47e4e5d736fc5de9dbaffa3aadb",
+      "sectionIndex": 1,
+      "question": "In a non-inertial rotating frame, the equation of motion includes fictitious forces. For angular velocity ?, which term represents the Coriolis force?",
+      "options": [
+        "A) -m? - (? - r)",
+        "B) -2m? - v",
+        "C) -m(d?/dt) - r",
+        "D) All of the above"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b1fffa0299a34ff5dd626bec40ebe4c0a7b2c54",
+      "sectionIndex": 2,
+      "question": "For a uniformly polarized sphere with polarization P, the electric field inside is:",
+      "options": [
+        "A) P/3ε,?",
+        "B) -P/3ε,?",
+        "C) 2P/3ε,?",
+        "D) -2P/3ε,?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8dd8e7df995c23aa47df15359cf63170a2f4bdfa",
+      "sectionIndex": 2,
+      "question": "The magnetic vector potential A for a magnetic dipole m at the origin is:",
+      "options": [
+        "A) (μ,?/4?)(m - r)/r3",
+        "B) (μ,?/4?)(m - r,)/r2",
+        "C) (μ,?/4?)m/r2",
+        "D) (μ,?/4?)(m-r,)r,/r2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da6563063c5b6d234689cd617a3348831cf139da",
+      "sectionIndex": 2,
+      "question": "In the Coulomb gauge, ^?-A = 0. The wave equation for A in this gauge is:",
+      "options": [
+        "A) ^?2A = μ,?J",
+        "B) ^?2A - (1/c2)^,2A/^,t2 = -μ,?J",
+        "C) ^?2A - (1/c2)^,2A/^,t2 = -μ,?(J - ε,?^,E/^,t)",
+        "D) ^?2A - (1/c2)^,2A/^,t2 = -μ,?J_transverse"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b4bde8933eabaaa5837d6c730d93ce3b7a0415bf",
+      "sectionIndex": 2,
+      "question": "The skin depth δ for a good conductor at frequency ? is:",
+      "options": [
+        "A) ^s(2/μf?)",
+        "B) ^s(2μf?)",
+        "C) 1/^s(μf?)",
+        "D) ^s(μ/f?)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "983145ba72026fc10f1c3e6efbf71b6d1cd18983",
+      "sectionIndex": 2,
+      "question": "For a dielectric sphere in a uniform field E,?, the field inside is:",
+      "options": [
+        "A) E,?",
+        "B) 3E,?/(εr + 2)",
+        "C) εrE,?/(εr + 2)",
+        "D) 3εrE,?/(2εr + 1)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b3b9ece2a17033235df052f4601f0ae4b08b508",
+      "sectionIndex": 2,
+      "question": "The radiation resistance of a half-wave dipole antenna is approximately:",
+      "options": [
+        "A) 36.5 Ω",
+        "B) 73 Ω",
+        "C) 146 Ω",
+        "D) 292 Ω"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ad8117864b3b4e4515f6b73c3816f2be0230d3c",
+      "sectionIndex": 2,
+      "question": "In a rectangular waveguide with dimensions a > b, the cutoff frequency for TE,,? mode is:",
+      "options": [
+        "A) c/2a",
+        "B) c/2b",
+        "C) c/^s(a2 + b2)",
+        "D) c^s(1/a2 + 1/b2)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "991ea2761721062400a89a694ad1fbc67b3915ec",
+      "sectionIndex": 2,
+      "question": "The retarded potential ?(r,t) due to a moving point charge is given by:",
+      "options": [
+        "A) q/4?ε,?|r - r'(t)|",
+        "B) q/4?ε,?|r - r'(t - |r - r'|/c)|",
+        "C) q/4?ε,?[|r - r'| - (r - r')-v/c]",
+        "D) q/4?ε,?R(1 - n,-β)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "49f96180d5aae204b6a1cde1f8ee853a3d57c5e9",
+      "sectionIndex": 2,
+      "question": "The Abraham-Lorentz equation for radiation reaction force on an accelerated charge includes a term proportional to:",
+      "options": [
+        "A) da/dt",
+        "B) d2a/dt2",
+        "C) d3r/dt3",
+        "D) v - a"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f223008534499de44a7cfc7079a24e093f31f0a2",
+      "sectionIndex": 2,
+      "question": "For a plasma with electron density n and frequency ? < ?,s (plasma frequency), the refractive index is:",
+      "options": [
+        "A) Real and less than 1",
+        "B) Real and greater than 1",
+        "C) Pure imaginary",
+        "D) Complex with real part less than 1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "18d5b1e3eccb95612d4bc8e81529fca9d5a057b0",
+      "sectionIndex": 3,
+      "question": "In a Fabry-Perot interferometer with finesse F, the ratio of peak transmission to minimum transmission is approximately:",
+      "options": [
+        "A) F",
+        "B) F2",
+        "C) 4F2/?2",
+        "D) ?2F2/4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3a3c694485b81f1d38f5f8898e09d578bc4d9cee",
+      "sectionIndex": 3,
+      "question": "For a Gaussian beam with waist w,?, the Rayleigh range z_R is:",
+      "options": [
+        "A) ?w,?2/λ",
+        "B) 2?w,?2/λ",
+        "C) λ/?w,?2",
+        "D) w,?/λ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "029a41eaec059d7f5e3cd40583cc366e491598f5",
+      "sectionIndex": 3,
+      "question": "In nonlinear optics, second harmonic generation requires:",
+      "options": [
+        "A) Any material",
+        "B) Non-centrosymmetric crystal",
+        "C) High intensity only",
+        "D) Metallic medium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58a02311c9becfaa6fb8944bb3c02f49eaab86b1",
+      "sectionIndex": 3,
+      "question": "The Gouy phase shift for a Gaussian beam passing through focus is:",
+      "options": [
+        "A) ?/4",
+        "B) ?/2",
+        "C) ?",
+        "D) 2?"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a4769ba3dbb419bd7a31303822d60eed2b143ec6",
+      "sectionIndex": 3,
+      "question": "For a zone plate with N zones, the primary focal length is:",
+      "options": [
+        "A) r,2/λ",
+        "B) r,2/2λ",
+        "C) r,2/Nλ",
+        "D) Nr,2/λ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e466812a0e5b6e24324547f6959e56cfcc7ae8b4",
+      "sectionIndex": 3,
+      "question": "In holography, the minimum angle between object and reference beams to avoid overlap of real and virtual images is:",
+      "options": [
+        "A) sin-1(λ/2d)",
+        "B) sin-1(λ/d)",
+        "C) sin-1(2λ/d)",
+        "D) sin-1(3λ/2d)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "80cc5eea156861e859cf2a298be26376df9c7fbe",
+      "sectionIndex": 3,
+      "question": "The coherence time \"c and spectral width \"ν are related by:",
+      "options": [
+        "A) \"c-\"ν ?^ 1",
+        "B) \"c-\"ν ?^ 1/2?",
+        "C) \"c-\"ν ?^ 2?",
+        "D) \"c-\"ν ?^ ?"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "24775e266e983d22d207d708f9aa844aacbc3624",
+      "sectionIndex": 3,
+      "question": "For a multi-mode optical fiber with core index n, and cladding index n,,, the V-parameter is:",
+      "options": [
+        "A) 2?a(n, - n,,)/λ",
+        "B) 2?a^s(n,2 - n,,2)/λ",
+        "C) ?a(n,2 - n,,2)/λ",
+        "D) 2?a(n,2 - n,,2)/λn,"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d83e5d7ef6b9b8394952e94f46e7e52a73905887",
+      "sectionIndex": 3,
+      "question": "The Airy disk radius for a circular aperture of diameter D is:",
+      "options": [
+        "A) 0.61λ/D",
+        "B) 1.22λ/D",
+        "C) 2.44λ/D",
+        "D) 3.66λ/D"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "293aa081e32acb1437632b9adc107a70f7a2cd67",
+      "sectionIndex": 3,
+      "question": "In parametric down-conversion, energy conservation requires ?,s = ?, + ?,,. Phase matching additionally requires:",
+      "options": [
+        "A) k,s = k, - k,,",
+        "B) k,s = k, + k,,",
+        "C) k,s2 = k,2 + k,,2",
+        "D) k,s = (k, + k,,)/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b33b32e862f04513c1ee40e7532549def3121b7a",
+      "sectionIndex": 4,
+      "question": "For a van der Waals gas, the critical temperature in terms of constants a and b is:",
+      "options": [
+        "A) 8a/27Rb",
+        "B) a/27Rb2",
+        "C) 27a/8Rb",
+        "D) a/Rb"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "058429ae68a6ac900e18874fe55666af3ecab267",
+      "sectionIndex": 4,
+      "question": "The partition function for a quantum harmonic oscillator at temperature T is:",
+      "options": [
+        "A) 1/(1 - e^(-\"?/kT))",
+        "B) e^(-\"?/2kT)/(1 - e^(-\"?/kT))",
+        "C) (1 - e^(-\"?/kT))/e^(-\"?/2kT)",
+        "D) 1/(1 - e^(-\"?/2kT))2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b46525b9a290159916a9417e5d88d7c00fe5827",
+      "sectionIndex": 4,
+      "question": "For an ideal Bose gas below the critical temperature, the fraction in the ground state is:",
+      "options": [
+        "A) 1 - (T/Tc)^(3/2)",
+        "B) 1 - (T/Tc)^(5/2)",
+        "C) (1 - T/Tc)^(3/2)",
+        "D) (Tc/T - 1)^(3/2)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3168c7a916cc2af6776ee6e2478ec9b92c1187ce",
+      "sectionIndex": 4,
+      "question": "The chemical potential μ for a classical ideal gas at temperature T and pressure P is:",
+      "options": [
+        "A) kT ln(P/P,?)",
+        "B) -kT ln(nQ/N)",
+        "C) kT ln(nλ3)",
+        "D) All of the above with appropriate constants"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1d7aabbb84bba8f53e4dfc3bd152cdeb8b8de735",
+      "sectionIndex": 4,
+      "question": "For a two-level system with energy separation ε, the heat capacity peaks at temperature:",
+      "options": [
+        "A) T = ε/k",
+        "B) T = ε/2k",
+        "C) T = ε/2.4k",
+        "D) T = 2ε/k"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ec9477ec00e50d5470c2ee805daa6462fa4d8c93",
+      "sectionIndex": 4,
+      "question": "The Fermi-Dirac distribution at T = 0 becomes:",
+      "options": [
+        "A) Exponential",
+        "B) Gaussian",
+        "C) Step function",
+        "D) Delta function"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b725444bf70a56a1ab08c5f794dd444486453a23",
+      "sectionIndex": 4,
+      "question": "For a relativistic gas, the equation of state is:",
+      "options": [
+        "A) PV = NkT",
+        "B) PV = NkT/3",
+        "C) PV = E/3",
+        "D) PV = 2E/3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "35b8a7d63ec05d60236770721bd23d178c7f5fec",
+      "sectionIndex": 4,
+      "question": "The entropy of mixing for two ideal gases with N, and N,, molecules is:",
+      "options": [
+        "A) k[N,ln(V/V,) + N,,ln(V/V,,)]",
+        "B) -k[N,ln(N,/N) + N,,ln(N,,/N)]",
+        "C) k(N, + N,,)ln2",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8553e7da15730b3b18a658b4f5735b3bcdaa754c",
+      "sectionIndex": 4,
+      "question": "The virial expansion for real gases has the form PV/NkT = 1 + B(T)n + C(T)n2 + ... The second virial coefficient B(T) for hard spheres is:",
+      "options": [
+        "A) 2?d3/3",
+        "B) 4?d3/3",
+        "C) 2?d3",
+        "D) ?d3/6"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "81bbb7f1807fc81da79c77259437b142772a83b8",
+      "sectionIndex": 4,
+      "question": "In the Ising model, the critical temperature in 2D for the square lattice is:",
+      "options": [
+        "A) kTc = J/ln2",
+        "B) kTc = 2J/ln(1 + ^s2)",
+        "C) kTc = 2J",
+        "D) kTc = 4J"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85d6d757d7f3f74af129bd074a322286132422a6",
+      "sectionIndex": 5,
+      "question": "For the hydrogen atom, the expectation value Y1/rY in the state |nlmY is:",
+      "options": [
+        "A) 1/na,?",
+        "B) Z/n2a,?",
+        "C) Z2/n2a,?",
+        "D) 1/n2a,?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dd5f6a5b37410c64635368819d9166474668098",
+      "sectionIndex": 5,
+      "question": "The WKB approximation gives the energy levels of a particle in potential V(x) as:",
+      "options": [
+        "A) ^p dx = 2?n\"",
+        "B) ^p dx = ?n\"",
+        "C) ^p dx = (n + 1/2)?\"",
+        "D) ^p dx = 2?(n + 1/2)\""
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8770175acfc8329c8069d24db04cd05457609698",
+      "sectionIndex": 5,
+      "question": "For two spin-1/2 particles, the singlet state is:",
+      "options": [
+        "A) |?'?'Y",
+        "B) (|?'?\"Y + |?\"?'Y)/^s2",
+        "C) (|?'?\"Y - |?\"?'Y)/^s2",
+        "D) |?\"?\"Y"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d9d8603f9e5d0cc9e4863a3420415acd04160521",
+      "sectionIndex": 5,
+      "question": "The Berry phase for a spin-1/2 particle in a slowly rotating magnetic field after one complete cycle is:",
+      "options": [
+        "A) 0",
+        "B) ?",
+        "C) 2?",
+        "D) ?(1 - cos θ)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6116907fcdb908937a0bc7fb7c82af21dcf58faa",
+      "sectionIndex": 5,
+      "question": "In the Dirac equation, the antiparticle solutions have:",
+      "options": [
+        "A) Negative energy only",
+        "B) Positive energy only",
+        "C) Negative frequency",
+        "D) Imaginary mass"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "edd2a85605e65b98fba78374dfbc4036485739ae",
+      "sectionIndex": 5,
+      "question": "The Lamb shift in hydrogen is primarily due to:",
+      "options": [
+        "A) Spin-orbit coupling",
+        "B) Vacuum fluctuations",
+        "C) Nuclear finite size",
+        "D) Relativistic corrections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe1c079e7eddda7cd7d339c565f43a9fbc968b87",
+      "sectionIndex": 5,
+      "question": "For a particle in a spherical infinite well, the ground state has quantum numbers:",
+      "options": [
+        "A) n=1, l=0",
+        "B) n=0, l=0",
+        "C) n=1, l=1",
+        "D) n=0, l=1"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "14a2ccf1e4171eca10b3489a3a29220399d93e03",
+      "sectionIndex": 5,
+      "question": "The Clebsch-Gordan coefficient Yj,j,,m,m,,|JMY vanishes unless:",
+      "options": [
+        "A) m, + m,, = M",
+        "B) |j, - j,,| ? J ? j, + j,,",
+        "C) Both A and B",
+        "D) J = j, + j,, only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a264394903735fa600744c02dc81a6ac547aac8e",
+      "sectionIndex": 5,
+      "question": "In second quantization, the commutator [a?,-, a,-'] for bosons equals:",
+      "options": [
+        "A) 0",
+        "B) δ,-,-'",
+        "C) -δ,-,-'",
+        "D) 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "109dc10b1a051ec011e8caee9bf5c4d6b52ad256",
+      "sectionIndex": 5,
+      "question": "The Aharonov-Bohm effect demonstrates that:",
+      "options": [
+        "A) Magnetic field affects charged particles",
+        "B) Vector potential has physical significance",
+        "C) Quantum mechanics is incomplete",
+        "D) Electrons have wave nature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ead995d8657550c422b0bcf1d9e2f077090957a",
+      "sectionIndex": 6,
+      "question": "The Schwarzschild radius for a mass M is:",
+      "options": [
+        "A) GM/c2",
+        "B) 2GM/c2",
+        "C) GM/2c2",
+        "D) 3GM/c2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3b7b5e9324e50c0bd6ec7533da049ba4be603ec",
+      "sectionIndex": 6,
+      "question": "In general relativity, the Ricci tensor Rμν is related to the Einstein tensor Gμν by:",
+      "options": [
+        "A) Gμν = Rμν - 1⁄2gμνR",
+        "B) Gμν = Rμν + 1⁄2gμνR",
+        "C) Gμν = Rμν - gμνR",
+        "D) Gμν = Rμν"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cc30133403b2973c8f476cbf54139cebeb02c21c",
+      "sectionIndex": 6,
+      "question": "For a photon passing near the sun, the deflection angle is approximately:",
+      "options": [
+        "A) 2GM/Rc2",
+        "B) 4GM/Rc2",
+        "C) GM/Rc2",
+        "D) 3GM/Rc2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9056ecddf7fc9766e1e1769657ac66d2f006acf1",
+      "sectionIndex": 6,
+      "question": "The precession of Mercury's perihelion per century due to GR is:",
+      "options": [
+        "A) 43 arcseconds",
+        "B) 430 arcseconds",
+        "C) 4.3 arcseconds",
+        "D) 0.43 arcseconds"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "045abcea0369cf36131576c3c8f74d68f6585efc",
+      "sectionIndex": 6,
+      "question": "In the twin paradox, if the traveling twin moves at 0.8c for 10 years (ship time), Earth time elapsed is:",
+      "options": [
+        "A) 6 years",
+        "B) 8 years",
+        "C) 16.7 years",
+        "D) 12.5 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "651f560371af46e6e9c0dd6d1cc940822ecf3e03",
+      "sectionIndex": 6,
+      "question": "The four-momentum pμ = (E/c, pf-) satisfies pμpμ = :",
+      "options": [
+        "A) m2c2",
+        "B) -m2c2",
+        "C) E2/c2",
+        "D) 0 for photons only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b382b74d06140dbc8ea6da36400a81c93abc1e99",
+      "sectionIndex": 6,
+      "question": "The Thomas precession frequency for an electron in hydrogen is:",
+      "options": [
+        "A) ?L/2",
+        "B) ?L/3",
+        "C) ?L/4",
+        "D) 2?L/3"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "59de261d5e9136c310d4a47b09e50f100d6ff4c4",
+      "sectionIndex": 6,
+      "question": "Gravitational time dilation near Earth's surface gives \"t/t ?^:",
+      "options": [
+        "A) gh/c2",
+        "B) 2gh/c2",
+        "C) gh/2c2",
+        "D) 3gh/2c2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4de4fcb6b6cf3eced5402ebe751491e874fcf911",
+      "sectionIndex": 6,
+      "question": "The metric for flat spacetime in spherical coordinates is:",
+      "options": [
+        "A) ds2 = -c2dt2 + dr2 + r2dθ2",
+        "B) ds2 = -c2dt2 + dr2 + r2(dθ2 + sin2θd?2)",
+        "C) ds2 = -c2dt2 + dr2 + r2dθ2 + r2sin2θd?2",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9c2daac176190d3ddd5de0f39886f701a6d7dcc6",
+      "sectionIndex": 6,
+      "question": "For gravitational waves, the strain h ~ :",
+      "options": [
+        "A) GM/rc4",
+        "B) G2M2/r2c4",
+        "C) GM2/rc4",
+        "D) G2M/rc4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "74b15e2d1ee97e32f968ac72882ab405f22fd29a",
+      "sectionIndex": 7,
+      "question": "The Navier-Stokes equation for incompressible flow includes the term:",
+      "options": [
+        "A) ρ(^,v/^,t + v-^?v) = -^?p + μ^?2v",
+        "B) ρ(^,v/^,t + v-^?v) = -^?p + μ^?v",
+        "C) ρ(^,v/^,t) = -^?p + μ^?2v",
+        "D) ρv-^?v = -^?p + μ^?2v"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "83e012e1da3843e39201360818373254dbe48f32",
+      "sectionIndex": 7,
+      "question": "For flow past a sphere at low Reynolds number, the drag coefficient CD ~ :",
+      "options": [
+        "A) 24/Re",
+        "B) 48/Re",
+        "C) 12/Re",
+        "D) 6/Re"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "dd1769cdfdbb5df16f8d6dc58cb7618ebfa6e79a",
+      "sectionIndex": 7,
+      "question": "The Blasius solution for boundary layer thickness δ over a flat plate varies as:",
+      "options": [
+        "A) ^s(x/U)",
+        "B) ^s(νx/U)",
+        "C) x/^sRe_x",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ac545880cbcc78b79ee88a2365055447ba575c76",
+      "sectionIndex": 7,
+      "question": "In turbulent flow, the Kolmogorov length scale η is:",
+      "options": [
+        "A) (ν3/ε)^(1/4)",
+        "B) (ν/ε)^(1/2)",
+        "C) (ν2/ε)^(1/3)",
+        "D) ν/ε"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6e2707da97ed55a3d732450aad9197f93a1e4461",
+      "sectionIndex": 7,
+      "question": "The critical Rayleigh number for onset of convection between horizontal plates is approximately:",
+      "options": [
+        "A) 657",
+        "B) 1708",
+        "C) 2520",
+        "D) 5000"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ebb9a8ce0c11718061ebd031b007e1e01bc95f3",
+      "sectionIndex": 7,
+      "question": "For potential flow around a cylinder with circulation \", the lift per unit length is:",
+      "options": [
+        "A) ρU\"/2",
+        "B) ρU\"",
+        "C) 2ρU\"",
+        "D) ρU2\""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fa8dc2c1acaaf14e0203781a560d9cd67a64ac5",
+      "sectionIndex": 7,
+      "question": "The Strouhal number St = fD/U for vortex shedding behind a cylinder is approximately:",
+      "options": [
+        "A) 0.1",
+        "B) 0.2",
+        "C) 0.5",
+        "D) 1.0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e75c86dc525681e2eccefb93447646e23335b5f",
+      "sectionIndex": 7,
+      "question": "In magnetohydrodynamics, the Alfvén wave speed is:",
+      "options": [
+        "A) B/^s(μ,?ρ)",
+        "B) B2/μ,?ρ",
+        "C) ^s(B/μ,?ρ)",
+        "D) B/^s(2μ,?ρ)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f707930c32ca9920922ce700ffe6dcb6d61aeb38",
+      "sectionIndex": 7,
+      "question": "The Prandtl number Pr = ν/α relates:",
+      "options": [
+        "A) Inertial to viscous forces",
+        "B) Momentum to thermal diffusivity",
+        "C) Convection to conduction",
+        "D) Pressure to viscous forces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a75d27f7c6a11356763d0e6b15c245fe4e9cfca",
+      "sectionIndex": 7,
+      "question": "For Couette flow between parallel plates with one moving, the velocity profile is:",
+      "options": [
+        "A) Parabolic",
+        "B) Linear",
+        "C) Exponential",
+        "D) Logarithmic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "395511dda437fac0b3ad95370fec97028b2aa690",
+      "sectionIndex": 8,
+      "question": "The semi-empirical mass formula (SEMF) includes a pairing term ~ :",
+      "options": [
+        "A) ±δA^(-1/2)",
+        "B) ±δA^(-3/4)",
+        "C) ±δA^(-1)",
+        "D) ±δA^(-1/4)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bdd8874090b051cbed41ea5f86912614a7160b2",
+      "sectionIndex": 8,
+      "question": "In the shell model, the magic number 28 arises from filling up to:",
+      "options": [
+        "A) 1f,?/,,",
+        "B) 2p,f/,,",
+        "C) 1f,./,,",
+        "D) 2p,/,,"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6cde5995035ff2ee5e5c347cceb9c00114e022d1",
+      "sectionIndex": 8,
+      "question": "The Gamow factor for alpha decay gives transmission probability ~ :",
+      "options": [
+        "A) exp(-2?ZZ'e2/\"v)",
+        "B) exp(-4?ZZ'e2/\"v)",
+        "C) exp(-?ZZ'e2/\"v)",
+        "D) exp(-8?ZZ'e2/\"v)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5fb03b40ec22df4bf0eadde0acaf0acac1eed2ad",
+      "sectionIndex": 8,
+      "question": "For thermal neutrons in water, the diffusion length L is approximately:",
+      "options": [
+        "A) 0.3 cm",
+        "B) 3 cm",
+        "C) 30 cm",
+        "D) 300 cm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfacec5dd5013c6cebdd8b97e201d30172132f4f",
+      "sectionIndex": 8,
+      "question": "The four-factor formula for reactor criticality k^z = ηfpε does NOT include:",
+      "options": [
+        "A) Fast fission factor",
+        "B) Resonance escape probability",
+        "C) Thermal utilization",
+        "D) Neutron leakage"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "496eed6e5d841a3770a17ec14a9a72ad3254ee3c",
+      "sectionIndex": 8,
+      "question": "In beta decay, the Fermi function F(Z,E) accounts for:",
+      "options": [
+        "A) Nuclear matrix elements",
+        "B) Coulomb interaction of beta particle",
+        "C) Recoil effects",
+        "D) Spin factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "414d286e62d7a9c060ab5d21f9adafae74c1cfa9",
+      "sectionIndex": 8,
+      "question": "The liquid drop model predicts fission barrier height ~ :",
+      "options": [
+        "A) A^(1/3)",
+        "B) A^(2/3)",
+        "C) A",
+        "D) A^(5/3)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "728f6efd74a429c9f843ef77e9957bbcad2571d8",
+      "sectionIndex": 8,
+      "question": "For neutron scattering, the s-wave scattering length for 1H is approximately:",
+      "options": [
+        "A) -2.4 fm",
+        "B) -23.7 fm",
+        "C) +5.4 fm",
+        "D) +10.8 fm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d7e73990252058e1a96251d636b696340871d64",
+      "sectionIndex": 8,
+      "question": "The Giant Dipole Resonance energy scales as:",
+      "options": [
+        "A) A^(-1/6)",
+        "B) A^(-1/3)",
+        "C) A^(-1/2)",
+        "D) A^(-2/3)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f2089e46f9976c1f080c49db5ccf3703fc134b3",
+      "sectionIndex": 8,
+      "question": "In the compound nucleus model, the level density ρ(E) ~ :",
+      "options": [
+        "A) exp(E/T)",
+        "B) exp(^sE)",
+        "C) exp(2^saE)",
+        "D) E2exp(-E/T)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "db1539c6f030b19cf6487616f643bab1c216dee4",
+      "sectionIndex": 9,
+      "question": "The Debye cutoff frequency ?D is related to the number density n by:",
+      "options": [
+        "A) ?D = (6?2n)^(1/3)vs",
+        "B) ?D = (6?2n)^(1/2)vs",
+        "C) ?D = (3?2n)^(1/3)vs",
+        "D) ?D = (3?n)^(1/3)vs"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "159d113973771ec94699ea48090ef66a42577779",
+      "sectionIndex": 9,
+      "question": "In the tight-binding model for a 1D lattice, the dispersion relation is:",
+      "options": [
+        "A) E = -2t cos(ka)",
+        "B) E = E,? - 2t cos(ka)",
+        "C) E = 2t sin(ka)",
+        "D) E = E,? + 2t cos(ka)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a30ad27dd310e3f4af073bfcdba02762cae0979a",
+      "sectionIndex": 9,
+      "question": "The RKKY interaction between magnetic impurities varies with distance R as:",
+      "options": [
+        "A) 1/R3",
+        "B) cos(2kFR)/R3",
+        "C) exp(-R/λ)/R",
+        "D) 1/R6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42ff1356f245d81792676694dca4323aa9105da1",
+      "sectionIndex": 9,
+      "question": "For a BCS superconductor at T=0, the energy gap \",? relates to Tc by:",
+      "options": [
+        "A) 2\",? = 3.5kBTc",
+        "B) 2\",? = 2.14kBTc",
+        "C) \",? = 1.76kBTc",
+        "D) \",? = ?kBTc"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9cc6a59bbdd5fc0b6bec49ea7b2f0ec4c07d84d4",
+      "sectionIndex": 9,
+      "question": "The Hall coefficient for a metal with carrier density n is:",
+      "options": [
+        "A) RH = 1/ne",
+        "B) RH = -1/ne",
+        "C) RH = 1/n2e",
+        "D) RH = -1/n2e"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f337afea66a90b6bac965496cb62c9b27374c8a4",
+      "sectionIndex": 9,
+      "question": "In the quantum Hall effect, the Hall conductivity is quantized as:",
+      "options": [
+        "A) fxy = ne2/h",
+        "B) fxy = ne2/2?\"",
+        "C) fxy = n2e2/h",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f4acd6ab67276aca102ed5415397f38cc009c1c7",
+      "sectionIndex": 9,
+      "question": "The Kondo temperature TK for a magnetic impurity is:",
+      "options": [
+        "A) TK ~ D exp(-1/Jρ)",
+        "B) TK ~ J2ρ",
+        "C) TK ~ 1/Jρ",
+        "D) TK ~ Jρ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "dcecf35408d68f68e168a3a972388a3559140e5b",
+      "sectionIndex": 9,
+      "question": "For a 2D electron gas, the density of states is:",
+      "options": [
+        "A) Proportional to ^sE",
+        "B) Constant",
+        "C) Proportional to E",
+        "D) Proportional to 1/E"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6569c68344d7a0615730bcc06634f181af117ab",
+      "sectionIndex": 9,
+      "question": "The coherence length ξ in a superconductor is related to the penetration depth λ by:",
+      "options": [
+        "A) ξ/λ = κ (Ginzburg-Landau parameter)",
+        "B) λ/ξ = κ",
+        "C) ξλ = constant",
+        "D) ξ + λ = constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc08124f13d2fe3f0c39afad96aeb4a88a08ad67",
+      "sectionIndex": 9,
+      "question": "Anderson localization occurs when:",
+      "options": [
+        "A) Disorder is weak",
+        "B) W/B > critical value (W=disorder, B=bandwidth)",
+        "C) Temperature is high",
+        "D) System is 1D regardless of disorder"
+      ],
+      "correct": "B"
+    }
+  ]
+}

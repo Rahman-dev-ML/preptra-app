@@ -1,0 +1,729 @@
+## Section 1: Vector Calculus & Differential Operators
+
+1. Vector Calculus & Differential Operators (Easy)
+1. The gradient of a scalar function φ is:
+A) A scalar
+B) A vector
+C) A tensor
+D) A matrix
+Answer: B
+
+2. The divergence of a vector field results in:
+A) A vector
+B) A scalar
+C) A tensor
+D) A matrix
+Answer: B
+
+3. The curl of a vector field produces:
+A) A scalar
+B) A vector
+C) A constant
+D) A function
+Answer: B
+
+4. Which operator is denoted by ∇²?
+A) Gradient
+B) Divergence
+C) Laplacian
+D) Curl
+Answer: C
+
+5. Green's theorem relates:
+A) Line integrals to surface integrals
+B) Line integrals to double integrals
+C) Surface integrals to volume integrals
+D) Single integrals to triple integrals
+Answer: B
+
+6. Stokes' theorem connects:
+A) Line integrals to surface integrals
+B) Surface integrals to volume integrals
+C) Double integrals to triple integrals
+D) Single integrals to double integrals
+Answer: A
+
+7. The divergence theorem is also known as:
+A) Green's theorem
+B) Stokes' theorem
+C) Gauss's theorem
+D) Newton's theorem
+Answer: C
+
+8. For a conservative vector field, the curl equals:
+A) 1
+B) 0
+C) ∞
+D) -1
+Answer: B
+
+9. The gradient always points in the direction of:
+A) Minimum increase
+B) Maximum increase
+C) No change
+D) Constant value
+Answer: B
+
+10. In cylindrical coordinates, the coordinate variables are:
+A) x, y, z
+B) r, θ, z
+C) r, θ, φ
+D) ρ, φ, z
+Answer: B
+
+## Section 2: Differential Equations
+
+2. Differential Equations (Easy)
+11. A first-order differential equation has highest derivative of order:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+
+12. The general solution of dy/dx = 2x is:
+A) y = x² + C
+B) y = 2x + C
+C) y = x³ + C
+D) y = 2x²
+Answer: A
+
+13. A homogeneous differential equation has:
+A) Constant coefficients
+B) Variable coefficients
+C) Zero on right side
+D) Non-zero right side
+Answer: C
+
+14. The integrating factor for dy/dx + P(x)y = Q(x) is:
+A) e^∫P(x)dx
+B) e^-∫P(x)dx
+C) ∫P(x)dx
+D) P(x)
+Answer: A
+
+15. The characteristic equation is used to solve:
+A) First-order ODEs
+B) Linear ODEs with constant coefficients
+C) Non-linear ODEs
+D) Partial differential equations
+Answer: B
+
+16. For the equation y'' + 4y = 0, the general solution involves:
+A) Exponential functions
+B) Polynomial functions
+C) Trigonometric functions
+D) Logarithmic functions
+Answer: C
+
+17. The method of variation of parameters is used when:
+A) Equation is homogeneous
+B) Equation is non-homogeneous
+C) Coefficients are constant
+D) Initial conditions are zero
+Answer: B
+
+18. A particular solution satisfies:
+A) Only the homogeneous equation
+B) Only the non-homogeneous equation
+C) Both equations
+D) Neither equation
+Answer: B
+
+19. The order of a PDE is determined by:
+A) Number of variables
+B) Highest derivative order
+C) Number of terms
+D) Type of coefficients
+Answer: B
+
+20. Separation of variables works when:
+A) PDE can be split into ODEs
+B) Coefficients are constant
+C) Boundary conditions are zero
+D) Initial conditions are given
+Answer: A
+
+## Section 3: Mechanics and Kinematics
+
+3. Mechanics and Kinematics (Easy)
+21. Newton's second law states F equals:
+A) mv
+B) ma
+C) m/a
+D) a/m
+Answer: B
+
+22. Simple harmonic motion has acceleration proportional to:
+A) Velocity
+B) Time
+C) Displacement
+D) Mass
+Answer: C
+
+23. The center of mass of a uniform rod lies at:
+A) One end
+B) Midpoint
+C) One-third point
+D) Two-thirds point
+Answer: B
+
+24. In projectile motion, horizontal velocity is:
+A) Constant
+B) Increasing
+C) Decreasing
+D) Zero
+Answer: A
+
+25. Angular momentum L equals:
+A) mv
+B) Iω
+C) r × p
+D) ma
+Answer: C
+
+26. For circular motion, centripetal acceleration equals:
+A) v/r
+B) v²/r
+C) vr
+D) r/v
+Answer: B
+
+27. The time period of a simple pendulum depends on:
+A) Mass only
+B) Length only
+C) Length and gravity
+D) Mass and length
+Answer: C
+
+28. Work done equals force times:
+A) Time
+B) Velocity
+C) Displacement
+D) Acceleration
+Answer: C
+
+29. Kinetic energy equals:
+A) mv
+B) ½mv²
+C) mv²
+D) 2mv²
+Answer: B
+
+30. In equilibrium, the sum of forces equals:
+A) 1
+B) 0
+C) -1
+D) ∞
+Answer: B
+
+## Section 4: Tensor Analysis
+
+4. Tensor Analysis (Easy)
+31. A scalar is a tensor of order:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: A
+
+32. A vector is a tensor of order:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+
+33. The Kronecker delta δᵢⱼ equals 1 when:
+A) i > j
+B) i < j
+C) i = j
+D) i ≠ j
+Answer: C
+
+34. The number of components in a second-order tensor in 3D is:
+A) 3
+B) 6
+C) 9
+D) 27
+Answer: C
+
+35. An orthogonal transformation preserves:
+A) Angles only
+B) Lengths only
+C) Both angles and lengths
+D) Neither
+Answer: C
+
+36. The determinant of an orthogonal matrix is:
+A) 0
+B) ±1
+C) 2
+D) Any value
+Answer: B
+
+37. The Einstein summation convention implies:
+A) Sum over repeated indices
+B) No summation
+C) Sum over all indices
+D) Multiply indices
+Answer: A
+
+38. A symmetric tensor satisfies:
+A) Aᵢⱼ = -Aⱼᵢ
+B) Aᵢⱼ = Aⱼᵢ
+C) Aᵢⱼ = 0
+D) Aᵢᵢ = 0
+Answer: B
+
+39. The metric tensor is used to:
+A) Find derivatives
+B) Measure distances
+C) Calculate forces
+D) Define coordinates
+Answer: B
+
+40. Covariant derivatives account for:
+A) Coordinate changes
+B) Time changes
+C) Temperature changes
+D) Pressure changes
+Answer: A
+
+## Section 5: Numerical Methods
+
+5. Numerical Methods (Easy)
+41. The Newton-Raphson method uses:
+A) Linear approximation
+B) Quadratic approximation
+C) Cubic approximation
+D) Exponential approximation
+Answer: A
+
+42. The bisection method requires:
+A) One initial guess
+B) Two initial guesses
+C) Three initial guesses
+D) No initial guess
+Answer: B
+
+43. Simpson's rule uses:
+A) Linear interpolation
+B) Quadratic interpolation
+C) Cubic interpolation
+D) No interpolation
+Answer: B
+
+44. The trapezoidal rule approximates area using:
+A) Rectangles
+B) Trapezoids
+C) Triangles
+D) Circles
+Answer: B
+
+45. Gauss-Seidel method is used to solve:
+A) Non-linear equations
+B) Linear systems
+C) Differential equations
+D) Integrals
+Answer: B
+
+46. The order of convergence of Newton's method is:
+A) Linear
+B) Quadratic
+C) Cubic
+D) Exponential
+Answer: B
+
+47. Lagrange interpolation produces:
+A) A unique polynomial
+B) Multiple polynomials
+C) A trigonometric function
+D) An exponential function
+Answer: A
+
+48. The forward difference formula approximates:
+A) Integrals
+B) Derivatives
+C) Roots
+D) Matrices
+Answer: B
+
+49. Fixed-point iteration requires:
+A) f(x) = 0
+B) f(x) = x
+C) g(x) = x
+D) g(x) = 0
+Answer: C
+
+50. Euler's method is a numerical method for:
+A) Integration
+B) Differentiation
+C) Solving ODEs
+D) Finding roots
+Answer: C
+
+## Section 6: Integration and Multiple Integrals
+
+6. Integration and Multiple Integrals (Easy)
+51. A double integral represents:
+A) Length
+B) Area
+C) Volume
+D) Hypervolume
+Answer: C
+
+52. The order of integration in a double integral:
+A) Cannot be changed
+B) Can sometimes be changed
+C) Can always be changed if continuous
+D) Must be alphabetical
+Answer: C
+
+53. A line integral is evaluated along:
+A) A surface
+B) A curve
+C) A volume
+D) A point
+Answer: B
+
+54. The Jacobian is used when:
+A) Changing variables
+B) Finding derivatives
+C) Solving equations
+D) Computing limits
+Answer: A
+
+55. In polar coordinates, dA equals:
+A) dr dθ
+B) r dr dθ
+C) r² dr dθ
+D) dr/dθ
+Answer: B
+
+56. A surface integral is denoted by:
+A) ∫
+B) ∬
+C) ∬_S
+D) ∫∫∫
+Answer: C
+
+57. The fundamental theorem of calculus relates:
+A) Derivatives to integrals
+B) Integrals to derivatives
+C) Both A and B
+D) Neither A nor B
+Answer: C
+
+58. Integration by parts formula is:
+A) ∫u dv = uv + ∫v du
+B) ∫u dv = uv - ∫v du
+C) ∫u dv = -uv + ∫v du
+D) ∫u dv = -uv - ∫v du
+Answer: B
+
+59. The area element in spherical coordinates includes:
+A) r sin θ
+B) r² sin θ
+C) r cos θ
+D) r² cos θ
+Answer: B
+
+60. A triple integral gives:
+A) Area
+B) Volume
+C) Hypervolume
+D) Length
+Answer: B
+
+## Section 7: Linear Algebra and Matrices
+
+7. Linear Algebra and Matrices (Easy)
+61. The determinant of a 2×2 matrix [[a,b],[c,d]] is:
+A) ac - bd
+B) ad - bc
+C) ab - cd
+D) ad + bc
+Answer: B
+
+62. A square matrix with determinant zero is:
+A) Orthogonal
+B) Singular
+C) Identity
+D) Diagonal
+Answer: B
+
+63. The inverse of a matrix A is denoted:
+A) A*
+B) A^T
+C) A^(-1)
+D) |A|
+Answer: C
+
+64. The transpose of a matrix interchanges:
+A) Signs
+B) Rows and columns
+C) Diagonal elements
+D) Determinant
+Answer: B
+
+65. An identity matrix has:
+A) All elements 1
+B) All elements 0
+C) 1s on diagonal, 0s elsewhere
+D) 0s on diagonal, 1s elsewhere
+Answer: C
+
+66. Two matrices can be multiplied if:
+A) They have same size
+B) Columns of first = rows of second
+C) Rows of first = columns of second
+D) They are square
+Answer: B
+
+67. The rank of a matrix is:
+A) Number of rows
+B) Number of columns
+C) Number of independent rows
+D) Determinant value
+Answer: C
+
+68. Eigenvalues satisfy:
+A) Ax = x
+B) Ax = λx
+C) Ax = 0
+D) Ax = I
+Answer: B
+
+69. A symmetric matrix has:
+A) A = -A^T
+B) A = A^T
+C) A = A^(-1)
+D) A = 0
+Answer: B
+
+70. The trace of a matrix is:
+A) Sum of all elements
+B) Sum of diagonal elements
+C) Product of diagonal elements
+D) Determinant
+Answer: B
+
+## Section 8: Fourier Series and Transforms
+
+8. Fourier Series and Transforms (Easy)
+71. Fourier series represents periodic functions using:
+A) Polynomials
+B) Exponentials
+C) Sines and cosines
+D) Logarithms
+Answer: C
+
+72. The period of sin(x) + cos(x) is:
+A) π
+B) 2π
+C) π/2
+D) 4π
+Answer: B
+
+73. An even function satisfies:
+A) f(-x) = -f(x)
+B) f(-x) = f(x)
+C) f(-x) = 0
+D) f(x) = 0
+Answer: B
+
+74. An odd function satisfies:
+A) f(-x) = f(x)
+B) f(-x) = -f(x)
+C) f(-x) = 1
+D) f(x) = -1
+Answer: B
+
+75. The Fourier series of an even function contains only:
+A) Sines
+B) Cosines
+C) Both
+D) Neither
+Answer: B
+
+76. The fundamental frequency of a Fourier series is:
+A) 2π/T
+B) T/2π
+C) 2πT
+D) 1/T
+Answer: A
+
+77. Parseval's theorem relates:
+A) Time and frequency domains
+B) Real and imaginary parts
+C) Amplitude and phase
+D) Period and frequency
+Answer: A
+
+78. The DC component of a Fourier series is:
+A) a₀
+B) a₀/2
+C) 2a₀
+D) a₁
+Answer: B
+
+79. Gibbs phenomenon occurs at:
+A) Smooth points
+B) Discontinuities
+C) Maxima
+D) Minima
+Answer: B
+
+80. A periodic function with period T satisfies:
+A) f(x+T) = -f(x)
+B) f(x+T) = f(x)
+C) f(x+T) = 0
+D) f(x+T) = T
+Answer: B
+
+## Section 9: Partial Differential Equations
+
+9. Partial Differential Equations (Easy)
+81. The heat equation is:
+A) Elliptic
+B) Parabolic
+C) Hyperbolic
+D) None
+Answer: B
+
+82. The wave equation is:
+A) Elliptic
+B) Parabolic
+C) Hyperbolic
+D) None
+Answer: C
+
+83. Laplace's equation is:
+A) Elliptic
+B) Parabolic
+C) Hyperbolic
+D) None
+Answer: A
+
+84. The heat equation involves derivatives with respect to:
+A) Space only
+B) Time only
+C) Space and time
+D) Neither
+Answer: C
+
+85. Boundary conditions specify values at:
+A) Initial time
+B) Boundaries of domain
+C) Interior points
+D) Final time
+Answer: B
+
+86. Initial conditions specify values at:
+A) t = 0
+B) Boundaries
+C) t = ∞
+D) Random points
+Answer: A
+
+87. The method of separation of variables assumes solution form:
+A) u = X + T
+B) u = X - T
+C) u = X(x)T(t)
+D) u = X/T
+Answer: C
+
+88. D'Alembert's solution applies to:
+A) Heat equation
+B) Wave equation
+C) Laplace equation
+D) Poisson equation
+Answer: B
+
+89. The maximum principle applies to:
+A) Wave equation
+B) Heat equation
+C) Both
+D) Neither
+Answer: B
+
+90. A well-posed problem requires:
+A) Solution exists
+B) Solution is unique
+C) Solution depends continuously on data
+D) All of the above
+Answer: D
+
+## Section 10: Optimization and Statics
+
+10. Optimization and Statics (Easy)
+91. At a local minimum, the first derivative is:
+A) Positive
+B) Negative
+C) Zero
+D) Undefined
+Answer: C
+
+92. The second derivative test checks for:
+A) Existence
+B) Continuity
+C) Maximum or minimum
+D) Inflection points
+Answer: C
+
+93. In linear programming, the feasible region is:
+A) Always unbounded
+B) Always bounded
+C) Set of all feasible solutions
+D) Empty set
+Answer: C
+
+94. The objective function in optimization is:
+A) A constraint
+B) Function to maximize/minimize
+C) Always linear
+D) Always quadratic
+Answer: B
+
+95. Lagrange multipliers are used for:
+A) Unconstrained optimization
+B) Constrained optimization
+C) Integration
+D) Differentiation
+Answer: B
+
+96. In statics, moment equals:
+A) Force × time
+B) Force × distance
+C) Mass × velocity
+D) Mass × acceleration
+Answer: B
+
+97. For a body in equilibrium, sum of moments equals:
+A) 1
+B) 0
+C) -1
+D) Force
+Answer: B
+
+98. The centroid of a triangle is located at:
+A) Vertex
+B) Midpoint of side
+C) Intersection of medians
+D) Center of circumcircle
+Answer: C
+
+99. Friction force is proportional to:
+A) Area of contact
+B) Normal force
+C) Velocity
+D) Acceleration
+Answer: B
+
+100. The coefficient of static friction is:
+A) Less than kinetic friction
+B) Greater than kinetic friction
+C) Equal to kinetic friction
+D) Always 1
+Answer: B

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:25:35.811Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "5a760a9518666488493c9567cdda22c9cd0e799b",
+      "sectionIndex": 0,
+      "question": "The main difference between Taylor's Scientific Management and Weber's Bureaucracy is:",
+      "options": [
+        "A) Taylor focused on efficiency, Weber on authority structure",
+        "B) Both focused on the same aspects",
+        "C) Taylor emphasized authority, Weber efficiency",
+        "D) Neither addressed organizational issues"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6a19c14bb72b8d2e63ddd0ec3815417e229b93b1",
+      "sectionIndex": 0,
+      "question": "When Elton Mayo's Human Relations approach contradicts Taylor's principles, it suggests:",
+      "options": [
+        "A) Technical efficiency alone ensures productivity",
+        "B) Social factors significantly impact productivity",
+        "C) Workers are purely economic beings",
+        "D) Supervision should be eliminated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cda95929a6f4296dd6ebec3939ccbd6fb22b84a0",
+      "sectionIndex": 0,
+      "question": "McGregor's Theory Y assumes employees:",
+      "options": [
+        "A) Inherently dislike work",
+        "B) Are self-motivated and creative",
+        "C) Need constant supervision",
+        "D) Avoid responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d0f264fe57f837c468979648193ca31cf618825",
+      "sectionIndex": 0,
+      "question": "Herbert Simon's concept of \"satisficing\" challenges the assumption of:",
+      "options": [
+        "A) Bounded rationality",
+        "B) Complete rationality in decision-making",
+        "C) Organizational hierarchy",
+        "D) Human relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9984d974fb5e97aec9d85e00f31e3c577e645229",
+      "sectionIndex": 0,
+      "question": "The Systems Theory views organizational problems as:",
+      "options": [
+        "A) Isolated incidents",
+        "B) Interconnected with multiple factors",
+        "C) Simple cause-effect relationships",
+        "D) Unrelated to environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec418a2b261477f77a7303387755b65b655447d1",
+      "sectionIndex": 0,
+      "question": "Chester Barnard's \"zone of indifference\" explains why subordinates:",
+      "options": [
+        "A) Always resist orders",
+        "B) Accept certain orders without question",
+        "C) Never follow instructions",
+        "D) Question everything"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31cd87289acd20bcb185697dbf0dc97e8112d993",
+      "sectionIndex": 0,
+      "question": "The Contingency Theory suggests organizational structure depends on:",
+      "options": [
+        "A) Universal best practices",
+        "B) Environmental and situational factors",
+        "C) Manager's preference only",
+        "D) Traditional methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "531e162f5cd9bc9f627bd06c9135c0c9459f69d5",
+      "sectionIndex": 0,
+      "question": "New Public Management differs from traditional administration by emphasizing:",
+      "options": [
+        "A) More rules and procedures",
+        "B) Market mechanisms and performance",
+        "C) Larger government size",
+        "D) Less accountability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9b33add106d7a72626919fc6bc891e19cd373a3",
+      "sectionIndex": 0,
+      "question": "The Politics-Administration Dichotomy has been criticized because:",
+      "options": [
+        "A) It's too practical",
+        "B) Policy and implementation are interrelated",
+        "C) Politicians never interfere",
+        "D) Administrators don't make decisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f572ad575ec3979de251100ce7872069bd0be72c",
+      "sectionIndex": 0,
+      "question": "Herzberg's Two-Factor Theory suggests salary is:",
+      "options": [
+        "A) A motivator",
+        "B) A hygiene factor",
+        "C) Irrelevant",
+        "D) The only motivator"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "111c5c1749904ee1dcfaa669eb6950f2827c903e",
+      "sectionIndex": 1,
+      "question": "Bureaucratic dysfunction occurs when:",
+      "options": [
+        "A) Rules become ends in themselves",
+        "B) Efficiency increases",
+        "C) Innovation thrives",
+        "D) Flexibility improves"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "28630f63cad7314bde30707f62c80f75db2e002f",
+      "sectionIndex": 1,
+      "question": "The concept of \"street-level bureaucracy\" highlights:",
+      "options": [
+        "A) Top management decisions",
+        "B) Frontline workers' discretionary power",
+        "C) Policy formulation",
+        "D) Budget allocation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3962bccabba5d012a1498719b35d519a1df7b19",
+      "sectionIndex": 1,
+      "question": "Representative bureaucracy argues for:",
+      "options": [
+        "A) Bureaucratic elitism",
+        "B) Demographic diversity reflecting society",
+        "C) Only merit-based recruitment",
+        "D) Political appointments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4993edaa24bcb780bfb771fa3b405498b2ad758",
+      "sectionIndex": 1,
+      "question": "The iron triangle in bureaucracy consists of:",
+      "options": [
+        "A) Three government branches",
+        "B) Bureaucrats, legislators, and interest groups",
+        "C) Federal, state, and local levels",
+        "D) Planning, implementation, evaluation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a75f8abc93d6fa19b5bc8039651b741758a1d79e",
+      "sectionIndex": 1,
+      "question": "Parkinson's Law suggests bureaucracies:",
+      "options": [
+        "A) Shrink over time",
+        "B) Expand regardless of work amount",
+        "C) Remain constant",
+        "D) Adapt to workload"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71b3e2915b59994e9b6952fbd3c6102954ae6c2b",
+      "sectionIndex": 1,
+      "question": "The Peter Principle states employees:",
+      "options": [
+        "A) Always perform well",
+        "B) Rise to their level of incompetence",
+        "C) Never get promoted",
+        "D) Remain at entry level"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1535095f9f9300747669f8ebb8b63bcf857250ca",
+      "sectionIndex": 1,
+      "question": "Bureaucratic accountability becomes problematic when:",
+      "options": [
+        "A) Rules are clear",
+        "B) Multiple principals give conflicting directions",
+        "C) Single chain of command exists",
+        "D) Transparency increases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6fe71c25474123434e51322a524c5e416f4329a",
+      "sectionIndex": 1,
+      "question": "The concept of \"regulatory capture\" means:",
+      "options": [
+        "A) Effective regulation",
+        "B) Agencies serving interests they should regulate",
+        "C) Increased government control",
+        "D) Deregulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1d7529095938680f2ead4b6649923e6bdca5866",
+      "sectionIndex": 1,
+      "question": "Matrix organizations challenge bureaucracy by:",
+      "options": [
+        "A) Reinforcing hierarchy",
+        "B) Creating dual reporting relationships",
+        "C) Eliminating all structure",
+        "D) Centralizing authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "324cc98db90bfc933a9611084f300603544aba76",
+      "sectionIndex": 1,
+      "question": "Post-bureaucratic organizations emphasize:",
+      "options": [
+        "A) Rigid rules",
+        "B) Flexibility and networks",
+        "C) More hierarchy",
+        "D) Less communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43ff8e1527a20d2c30d4718cea38f272b37c454b",
+      "sectionIndex": 2,
+      "question": "The principal-agent problem in governance occurs when:",
+      "options": [
+        "A) Interests perfectly align",
+        "B) Agents' interests differ from principals'",
+        "C) No delegation exists",
+        "D) Communication is perfect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68dcda4e4804371111e321d62ab2936c0dd94fc1",
+      "sectionIndex": 2,
+      "question": "Network governance differs from hierarchical governance by:",
+      "options": [
+        "A) More centralization",
+        "B) Horizontal coordination among actors",
+        "C) Single authority",
+        "D) Less stakeholder involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2acbdaf1d99584b0e01381ed033b711bad6cddae",
+      "sectionIndex": 2,
+      "question": "Good governance indicators struggle with:",
+      "options": [
+        "A) Objective measurement",
+        "B) Cultural context and subjectivity",
+        "C) Too much data",
+        "D) Universal agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96c45d61e662d0d14cee4b8ded04debc64ec704d",
+      "sectionIndex": 2,
+      "question": "Collaborative governance requires:",
+      "options": [
+        "A) Government dominance",
+        "B) Shared decision-making among stakeholders",
+        "C) Excluding citizens",
+        "D) Top-down approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a42e5e4e1da06b4b11626ab6688680c87ffa21b",
+      "sectionIndex": 2,
+      "question": "The concept of \"hollow state\" refers to:",
+      "options": [
+        "A) Strong government",
+        "B) Government contracting out core functions",
+        "C) No government",
+        "D) Centralized services"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7641c8f9754f99c3d382a970b3cd6d81ef86567",
+      "sectionIndex": 2,
+      "question": "Meta-governance means:",
+      "options": [
+        "A) No governance",
+        "B) Governance of governance networks",
+        "C) Single-level governance",
+        "D) Traditional hierarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cacd37a65d5f67beceb425031ad489dce522d376",
+      "sectionIndex": 2,
+      "question": "Democratic deficit in administration occurs when:",
+      "options": [
+        "A) Too much participation",
+        "B) Bureaucratic decisions lack democratic input",
+        "C) Elections are frequent",
+        "D) Transparency is high"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b03cf6a9f43ecb9218542b11748eecc6b741d7ec",
+      "sectionIndex": 2,
+      "question": "Wicked problems in public administration are characterized by:",
+      "options": [
+        "A) Simple solutions",
+        "B) Complex, interconnected challenges",
+        "C) Clear problem definition",
+        "D) Single stakeholder"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5bb1329f63a96268ffc092485e997cf9dfd4815",
+      "sectionIndex": 2,
+      "question": "Evidence-based policy making faces challenges due to:",
+      "options": [
+        "A) Too much evidence",
+        "B) Political pressures and value conflicts",
+        "C) Clear causation",
+        "D) Unanimous agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f12f0c9c5fc4c446951181fe5d2bdc8abd593484",
+      "sectionIndex": 2,
+      "question": "Multi-level governance complexity increases with:",
+      "options": [
+        "A) Centralization",
+        "B) Multiple overlapping jurisdictions",
+        "C) Single authority",
+        "D) Clear boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8c0e74f2a3b112b404fb43193d034ed2ae06d0c",
+      "sectionIndex": 3,
+      "question": "Zero-based budgeting differs from incremental budgeting by:",
+      "options": [
+        "A) Starting from previous year's base",
+        "B) Justifying all expenses from zero",
+        "C) Never changing",
+        "D) Automatic increases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd90a385c149815c64e9bac442a6082a52915ad3",
+      "sectionIndex": 3,
+      "question": "Performance-based budgeting links:",
+      "options": [
+        "A) Inputs to politics",
+        "B) Resources to results",
+        "C) Budgets to tradition",
+        "D) Spending to seniority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c40d63fa3c4aeb67a986821d9f606441b290a9ba",
+      "sectionIndex": 3,
+      "question": "The problem with line-item budgeting is:",
+      "options": [
+        "A) Too much flexibility",
+        "B) Focus on inputs rather than outcomes",
+        "C) Performance measurement",
+        "D) Results orientation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96aef2c08222f05350eacd8c1d4cd5414e1df943",
+      "sectionIndex": 3,
+      "question": "Program budgeting groups expenses by:",
+      "options": [
+        "A) Administrative units",
+        "B) Objectives and programs",
+        "C) Line items only",
+        "D) Random categories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08fea055a1109d7fe7644f5f405931aae76459ec",
+      "sectionIndex": 3,
+      "question": "Capital budgets differ from operating budgets in:",
+      "options": [
+        "A) No difference",
+        "B) Long-term asset focus",
+        "C) Daily expenses only",
+        "D) Revenue generation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5da10004f86e11fd31d1cded49cff6218daa3333",
+      "sectionIndex": 3,
+      "question": "Off-budget expenditures pose problems for:",
+      "options": [
+        "A) Increasing transparency",
+        "B) Fiscal control and accountability",
+        "C) Budget surplus",
+        "D) Revenue collection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1145a1b08db7c66e56ae4d185e1ef9a66ce74d50",
+      "sectionIndex": 3,
+      "question": "Fiscal federalism involves:",
+      "options": [
+        "A) Central control only",
+        "B) Revenue and expenditure division among levels",
+        "C) No local autonomy",
+        "D) Single tax system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5b98b3429f831ed8428fda89b5563cd6852c6e4",
+      "sectionIndex": 3,
+      "question": "The tragedy of the commons in budgeting occurs when:",
+      "options": [
+        "A) Saving is rewarded",
+        "B) Individual units maximize claims on common resources",
+        "C) Cooperation increases",
+        "D) Resources are unlimited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43398dc83fe25338c68153e37a40e5d1f438df39",
+      "sectionIndex": 3,
+      "question": "Medium-term expenditure frameworks help:",
+      "options": [
+        "A) Short-term planning",
+        "B) Link policies to multi-year resources",
+        "C) Daily decisions",
+        "D) Avoid planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc9b031021f9b0157a737a735081a002c5b490c8",
+      "sectionIndex": 3,
+      "question": "Participatory budgeting increases:",
+      "options": [
+        "A) Secrecy",
+        "B) Citizen involvement in allocation decisions",
+        "C) Bureaucratic control",
+        "D) Centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e32b13ac664b3827a5d96eaec71ef7b3b2cea791",
+      "sectionIndex": 4,
+      "question": "The shift from position classification to competency-based systems reflects:",
+      "options": [
+        "A) Static job requirements",
+        "B) Need for flexible skill sets",
+        "C) Reduced complexity",
+        "D) Traditional approaches"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3f1baef2f86c81be9f38af1501588f0a2035a29",
+      "sectionIndex": 4,
+      "question": "Pay-for-performance in public sector faces challenges because:",
+      "options": [
+        "A) Performance is easy to measure",
+        "B) Multiple goals and measurement difficulties",
+        "C) Private sector methods work perfectly",
+        "D) Objectives are always clear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae9d3f6739e385c8e28d01d036e578c6faa26f18",
+      "sectionIndex": 4,
+      "question": "The \"brain drain\" from public to private sector indicates:",
+      "options": [
+        "A) Public sector superiority",
+        "B) Compensation and opportunity gaps",
+        "C) Too many public employees",
+        "D) No mobility between sectors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b3adee3b3fd000b2841aca7c5ae682f41a75c3a",
+      "sectionIndex": 4,
+      "question": "Succession planning in bureaucracies is difficult due to:",
+      "options": [
+        "A) Too many candidates",
+        "B) Rigid rules and political considerations",
+        "C) Clear career paths",
+        "D) Abundant training"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34a93374ab1aba69a9468726d02d6febc50ac5b5",
+      "sectionIndex": 4,
+      "question": "Diversity management goes beyond equal opportunity by:",
+      "options": [
+        "A) Maintaining status quo",
+        "B) Actively leveraging differences for organizational benefit",
+        "C) Focusing on numbers only",
+        "D) Ignoring cultural differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00d06988515773588ff0ff42559c7357763c223f",
+      "sectionIndex": 4,
+      "question": "The psychological contract between employees and government includes:",
+      "options": [
+        "A) Only formal agreements",
+        "B) Unwritten expectations about job security and purpose",
+        "C) No expectations",
+        "D) Purely financial terms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c165ec17babe5979f5682a3a90dcae42dbd07bc3",
+      "sectionIndex": 4,
+      "question": "Whistle-blower protection is crucial for:",
+      "options": [
+        "A) Hiding problems",
+        "B) Exposing wrongdoing without retaliation fear",
+        "C) Reducing transparency",
+        "D) Protecting management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c108c25f601c411bc8bd2411d81f7fec99dd9034",
+      "sectionIndex": 4,
+      "question": "Work-life balance in public service is challenged by:",
+      "options": [
+        "A) Short hours",
+        "B) Increasing demands with limited resources",
+        "C) Too many employees",
+        "D) Simple tasks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dd0e292ad8b8d808fca3119deb3514951bba1bd",
+      "sectionIndex": 4,
+      "question": "Lateral entry into civil service can:",
+      "options": [
+        "A) Reduce expertise",
+        "B) Bring specialized skills but face resistance",
+        "C) Always succeed",
+        "D) Replace all permanent staff"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a614c073e13ec0b08b3a098660350e57d4fb3cf",
+      "sectionIndex": 4,
+      "question": "Performance management systems often fail when:",
+      "options": [
+        "A) Goals are clear",
+        "B) Political interference and poor implementation occur",
+        "C) Employees participate",
+        "D) Rewards are fair"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a42d0d52dbb510b12e8355cd361bbee6ec5ab153",
+      "sectionIndex": 5,
+      "question": "The implementation gap occurs when:",
+      "options": [
+        "A) Policies perfectly match outcomes",
+        "B) Policy intentions differ from actual results",
+        "C) No policy exists",
+        "D) Implementation is easy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98e98b260e10eea145c38289be8d74c2e7d98f07",
+      "sectionIndex": 5,
+      "question": "Bottom-up implementation approach emphasizes:",
+      "options": [
+        "A) Central control",
+        "B) Local discretion and adaptation",
+        "C) No flexibility",
+        "D) Strict compliance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "180eb0e351ffce1ce44c7aa42a1b1c8f1369ca6d",
+      "sectionIndex": 5,
+      "question": "Policy networks affect implementation through:",
+      "options": [
+        "A) Single actor control",
+        "B) Multiple stakeholder interactions and negotiations",
+        "C) No influence",
+        "D) Central command"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b6d45e0693b4bbd75c36c9925114cfaa3079538",
+      "sectionIndex": 5,
+      "question": "Street-level bureaucrats' discretion can:",
+      "options": [
+        "A) Always harm policy",
+        "B) Both help adapt and distort policy intentions",
+        "C) Be eliminated",
+        "D) Never affect outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f96eae9fcac1ee52783cbcc1ecdbad230bca967",
+      "sectionIndex": 5,
+      "question": "Backward mapping in implementation starts with:",
+      "options": [
+        "A) Policy goals",
+        "B) Desired behavior at delivery level",
+        "C) Budget allocation",
+        "D) Political approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e9108723530d4830bac5b7e37b931b8e54333a3",
+      "sectionIndex": 5,
+      "question": "Implementation failure often results from:",
+      "options": [
+        "A) Too much planning",
+        "B) Inadequate resources and conflicting goals",
+        "C) Clear objectives",
+        "D) Strong support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f508c24b81cfc9e21e71bd2ef3dff16fa9e20f4",
+      "sectionIndex": 5,
+      "question": "Intergovernmental relations complicate implementation when:",
+      "options": [
+        "A) Single level involved",
+        "B) Multiple levels have different priorities",
+        "C) Perfect coordination exists",
+        "D) Resources are unlimited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "822ea209e75058b05ac65c10094549a3f8d42d08",
+      "sectionIndex": 5,
+      "question": "The role of \"fixers\" in implementation involves:",
+      "options": [
+        "A) Creating problems",
+        "B) Solving unexpected implementation challenges",
+        "C) Following rules strictly",
+        "D) Avoiding responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56d55cd1c979d4d1d137d97e77a1e421c5af51b7",
+      "sectionIndex": 5,
+      "question": "Symbolic implementation occurs when:",
+      "options": [
+        "A) Real change happens",
+        "B) Appearance of action without substance",
+        "C) Full compliance exists",
+        "D) Resources are adequate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a8bb6ddfba383c212b8b90ea3546b985f213927",
+      "sectionIndex": 5,
+      "question": "Learning from implementation requires:",
+      "options": [
+        "A) Ignoring failures",
+        "B) Systematic feedback and adaptation mechanisms",
+        "C) Rigid adherence",
+        "D) No evaluation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f70b3c9e2e725d63ef6f59698f42c81761e7c352",
+      "sectionIndex": 6,
+      "question": "Digital divide in e-governance affects:",
+      "options": [
+        "A) Only urban areas",
+        "B) Service accessibility for marginalized groups",
+        "C) No one",
+        "D) Only government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff35e3c8793bbda1a13d14947330d47d5bb237dc",
+      "sectionIndex": 6,
+      "question": "Agile governance differs from traditional approaches by:",
+      "options": [
+        "A) More rigidity",
+        "B) Adaptive and iterative responses",
+        "C) Slower decisions",
+        "D) Less flexibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "412b9e67f697c3550ca2c3547d1ad1c56e8f6b80",
+      "sectionIndex": 6,
+      "question": "Public value creation goes beyond efficiency to include:",
+      "options": [
+        "A) Only cost reduction",
+        "B) Social outcomes and citizen satisfaction",
+        "C) Profit maximization",
+        "D) Individual benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7640efc8ab43ddbf9a3497faa970128f705dcb34",
+      "sectionIndex": 6,
+      "question": "Co-production of public services means:",
+      "options": [
+        "A) Government does everything",
+        "B) Citizens participate in service delivery",
+        "C) Private sector exclusion",
+        "D) No citizen involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccf5be020790af1aec5ebee75d257c8e9716ac5e",
+      "sectionIndex": 6,
+      "question": "Behavioral insights in public administration use:",
+      "options": [
+        "A) Only rational choice theory",
+        "B) Psychology to improve policy effectiveness",
+        "C) Traditional economics",
+        "D) Coercion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "add5d1471da683617cc8ac67b94ae3e3f274cbd3",
+      "sectionIndex": 6,
+      "question": "Open government data initiatives face challenges of:",
+      "options": [
+        "A) Too little data",
+        "B) Privacy, quality, and usability issues",
+        "C) No public interest",
+        "D) Perfect transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cddb0a97e80280c6e0e8c39282df4437b5e9a82c",
+      "sectionIndex": 6,
+      "question": "Crisis management in modern administration requires:",
+      "options": [
+        "A) Rigid procedures only",
+        "B) Flexibility and multi-agency coordination",
+        "C) Single department response",
+        "D) No preparation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f63c353de3adee95c7b7fb45d2f19dfe10fa8c7e",
+      "sectionIndex": 6,
+      "question": "Social media governance challenges include:",
+      "options": [
+        "A) No impact",
+        "B) Misinformation and rapid response demands",
+        "C) Complete control",
+        "D) One-way communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e90d806fb77db8ab15725a670e48d8e5edf6ab9",
+      "sectionIndex": 6,
+      "question": "Artificial intelligence in public services raises:",
+      "options": [
+        "A) No concerns",
+        "B) Ethical and accountability questions",
+        "C) Only benefits",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc68c5cb2e5ef0c05fe74548206575e1915b9488",
+      "sectionIndex": 6,
+      "question": "Climate change adaptation requires public administration to:",
+      "options": [
+        "A) Maintain status quo",
+        "B) Integrate long-term resilience in all policies",
+        "C) Ignore environmental factors",
+        "D) Focus on short-term only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95c23061c7f3f85f57af0648f2b9374e93dcf140",
+      "sectionIndex": 7,
+      "question": "Colonial legacy in Pakistan's bureaucracy manifests as:",
+      "options": [
+        "A) Complete modernization",
+        "B) Elitist attitudes and procedural rigidity",
+        "C) No influence",
+        "D) Perfect efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deff19f43c9b6f05934a8c042f198ee1e12e8ff2",
+      "sectionIndex": 7,
+      "question": "Federal-provincial coordination in Pakistan is complicated by:",
+      "options": [
+        "A) Perfect harmony",
+        "B) Concurrent list and resource disputes",
+        "C) No overlap",
+        "D) Clear boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9af5415e26cd552f0f429a914119271b556a27d0",
+      "sectionIndex": 7,
+      "question": "The 18th Amendment impacted administration through:",
+      "options": [
+        "A) Centralization",
+        "B) Significant devolution to provinces",
+        "C) No change",
+        "D) Military control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc6246281e20412c24c916ad713279f8b872ddb3",
+      "sectionIndex": 7,
+      "question": "Sifarish culture in Pakistani bureaucracy refers to:",
+      "options": [
+        "A) Merit-based selection",
+        "B) Recommendation-based favors",
+        "C) Transparent processes",
+        "D) Equal opportunity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c94f91855573a75e8a9ad5b502af11c08a64248",
+      "sectionIndex": 7,
+      "question": "Political interference in Pakistani civil service results in:",
+      "options": [
+        "A) Better performance",
+        "B) Compromised neutrality and efficiency",
+        "C) No impact",
+        "D) Improved morale"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f86588939215a66be292a29b266204fd0a7b88ff",
+      "sectionIndex": 7,
+      "question": "The National Finance Commission (NFC) award affects:",
+      "options": [
+        "A) Only federal government",
+        "B) Resource distribution between federation and provinces",
+        "C) International relations",
+        "D) Private sector"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "489ac2af8b39e15a348e1e91da6b393c1efd5270",
+      "sectionIndex": 7,
+      "question": "Local government in Pakistan faces challenges of:",
+      "options": [
+        "A) Too much autonomy",
+        "B) Limited fiscal and administrative powers",
+        "C) No provincial control",
+        "D) Excessive resources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "418cdf290b3e152cd73b3b677acea7743144b4b6",
+      "sectionIndex": 7,
+      "question": "Pakistan's planning process suffers from:",
+      "options": [
+        "A) Too much continuity",
+        "B) Political discontinuity and short-term focus",
+        "C) Long-term vision",
+        "D) Perfect implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25e7bf1211eb959a1c4469f80ab8a2b561cfc0cc",
+      "sectionIndex": 7,
+      "question": "Civil service reforms in Pakistan repeatedly fail due to:",
+      "options": [
+        "A) Too much support",
+        "B) Resistance and lack of political will",
+        "C) Rapid implementation",
+        "D) Universal acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c01e31e540146492c2a14b22e65d941bbb1b628",
+      "sectionIndex": 7,
+      "question": "The role of military in Pakistani administration creates:",
+      "options": [
+        "A) Clear boundaries",
+        "B) Civil-military imbalance issues",
+        "C) No influence",
+        "D) Democratic strengthening"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff30ff5370e13568f392ee8eadedbb56dad89642",
+      "sectionIndex": 8,
+      "question": "Developing country administrative challenges differ from developed ones in:",
+      "options": [
+        "A) No difference",
+        "B) Capacity, resources, and institutional maturity",
+        "C) Having more resources",
+        "D) Better systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9211b568a2bc06217c88bacdbc56dc3c14f4ed9",
+      "sectionIndex": 8,
+      "question": "The \"Asian values\" debate in public administration concerns:",
+      "options": [
+        "A) Universal application",
+        "B) Cultural adaptation versus Western models",
+        "C) No cultural relevance",
+        "D) Complete rejection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e844a67b8b22a7efad2e51ee04cce53bfa191420",
+      "sectionIndex": 8,
+      "question": "Post-colonial administrative systems struggle with:",
+      "options": [
+        "A) Too much indigenous influence",
+        "B) Balancing inherited structures with local needs",
+        "C) No historical impact",
+        "D) Perfect adaptation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49ce5c26d14baa420321a72bbf97ec645a14a2f1",
+      "sectionIndex": 8,
+      "question": "Transitional democracies face administrative challenges of:",
+      "options": [
+        "A) Too much stability",
+        "B) Building institutions while democratizing",
+        "C) No change needed",
+        "D) Automatic success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ba5415a374317205a73b13239621c669d17b7a7",
+      "sectionIndex": 8,
+      "question": "The Nordic model of administration emphasizes:",
+      "options": [
+        "A) Minimal government",
+        "B) High trust and comprehensive welfare",
+        "C) Authoritarian control",
+        "D) No transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b73dd1069da96a6359c39292cb1afcb22cc0b90b",
+      "sectionIndex": 8,
+      "question": "French administrative tradition differs from Anglo-American by:",
+      "options": [
+        "A) No difference",
+        "B) Stronger state role and administrative law",
+        "C) Weaker government",
+        "D) Less centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e46495bb629458085c113b5e7ec6664d8509842",
+      "sectionIndex": 8,
+      "question": "Developmental state model requires bureaucracy to:",
+      "options": [
+        "A) Avoid economic planning",
+        "B) Lead economic transformation actively",
+        "C) Remain passive",
+        "D) Focus on routine only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edba93917f91619745c59d0dea428917b3f49d3d",
+      "sectionIndex": 8,
+      "question": "Post-conflict administration faces unique challenges of:",
+      "options": [
+        "A) Normal operations",
+        "B) Rebuilding legitimacy and capacity simultaneously",
+        "C) No special needs",
+        "D) Immediate success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ad86f1735ca61a7416a7402f301437ae0beb4e4",
+      "sectionIndex": 8,
+      "question": "Small state administration differs in:",
+      "options": [
+        "A) Having more resources",
+        "B) Scale constraints and personalization",
+        "C) No differences",
+        "D) Greater complexity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59dd5db530100002a0d9bba55e8cd89187ddc538",
+      "sectionIndex": 8,
+      "question": "Global administrative networks impact national administration through:",
+      "options": [
+        "A) No influence",
+        "B) Policy transfer and standard harmonization",
+        "C) Complete independence",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e77b48b0f08830cccdd68c5f189730c6260cbe8",
+      "sectionIndex": 9,
+      "question": "Blockchain in public administration could improve:",
+      "options": [
+        "A) Corruption opportunities",
+        "B) Transparency and transaction integrity",
+        "C) Bureaucratic delays",
+        "D) Centralized control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2ea1026b03d2dee8842f494f4802b9cb4526e4b",
+      "sectionIndex": 9,
+      "question": "Design thinking in public services emphasizes:",
+      "options": [
+        "A) Traditional approaches",
+        "B) User-centered innovation",
+        "C) Bureaucratic processes",
+        "D) Standard solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47cc302a8a79611b63162780a406a2fbba928361",
+      "sectionIndex": 9,
+      "question": "Predictive analytics in government can:",
+      "options": [
+        "A) Replace all decisions",
+        "B) Improve resource allocation but raise privacy concerns",
+        "C) Eliminate uncertainty",
+        "D) Work without data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82b4b203ee530e19b432b57cbc0df2287eed24d7",
+      "sectionIndex": 9,
+      "question": "The concept of \"government as a platform\" means:",
+      "options": [
+        "A) Government does everything",
+        "B) Enabling others to build on government data/services",
+        "C) Eliminating private sector",
+        "D) No collaboration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7571b2e0c8ecc855d2c9212b757a22a4ceb310a9",
+      "sectionIndex": 9,
+      "question": "Nudge techniques in public policy:",
+      "options": [
+        "A) Force compliance",
+        "B) Influence behavior through choice architecture",
+        "C) Remove all choices",
+        "D) Use only penalties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1ae95435b03902151a0506be0e75a9ad38c197b",
+      "sectionIndex": 9,
+      "question": "Resilience in public administration requires:",
+      "options": [
+        "A) Rigid structures",
+        "B) Adaptive capacity for disruptions",
+        "C) No change ability",
+        "D) Single solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe589ac61fd84f0de85272ddf6bc3199199f4ce8",
+      "sectionIndex": 9,
+      "question": "Circular economy principles challenge administration to:",
+      "options": [
+        "A) Maintain linear processes",
+        "B) Redesign systems for sustainability",
+        "C) Increase waste",
+        "D) Ignore environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "044ccd641dffd1a53e139821d0121d777313ce23",
+      "sectionIndex": 9,
+      "question": "Anticipatory governance involves:",
+      "options": [
+        "A) Reactive responses only",
+        "B) Proactive future scenario planning",
+        "C) No planning",
+        "D) Historical focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37626ff9245dbd2e712fcb16ce975baff7ba2940",
+      "sectionIndex": 9,
+      "question": "The \"commons\" approach to public resources emphasizes:",
+      "options": [
+        "A) Private ownership",
+        "B) Collective management and stewardship",
+        "C) Government monopoly",
+        "D) No management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "171f73c25ac7d339482cb24728542b46bb3cf8a6",
+      "sectionIndex": 9,
+      "question": "Post-pandemic administration lessons include:",
+      "options": [
+        "A) Return to old normal",
+        "B) Digital transformation and flexibility needs",
+        "C) Reduce technology",
+        "D) Centralize everything"
+      ],
+      "correct": "B"
+    }
+  ]
+}

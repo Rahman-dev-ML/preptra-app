@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:55:33.527Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "2e607df0deca763ae85f064153c7c40225343393",
+      "sectionIndex": 0,
+      "question": "Tawheed means:",
+      "options": [
+        "A) Prayer",
+        "B) Unity of Allah",
+        "C) Fasting",
+        "D) Pilgrimage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51f99e0d4772ecfce6045532c0d1ba2abaa56029",
+      "sectionIndex": 0,
+      "question": "How many articles of faith are there in Islam?",
+      "options": [
+        "A) 4",
+        "B) 5",
+        "C) 6",
+        "D) 7"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d09b125f7aae9ee2b2ac09a9a7b17261e85bbcc7",
+      "sectionIndex": 0,
+      "question": "The Day of Judgment in Arabic is called:",
+      "options": [
+        "A) Yawm al-Qiyamah",
+        "B) Yawm al-Jumu'ah",
+        "C) Yawm al-Eid",
+        "D) Yawm al-Arafah"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fef21d039103736f1f461091989f8eae462d3b25",
+      "sectionIndex": 0,
+      "question": "Belief in the Books includes belief in:",
+      "options": [
+        "A) Quran only",
+        "B) Torah, Injeel, Zabur, and Quran",
+        "C) Hadith books",
+        "D) History books"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ba4d9eb39cbfb03ea626a297f57a0157ab00ca6",
+      "sectionIndex": 0,
+      "question": "The concept of Risalah refers to:",
+      "options": [
+        "A) Angels",
+        "B) Prophethood",
+        "C) Books",
+        "D) Destiny"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2384e32409e0224bd337eda8280147ecd08f62b4",
+      "sectionIndex": 0,
+      "question": "How many prophets are mentioned by name in the Quran?",
+      "options": [
+        "A) 15",
+        "B) 20",
+        "C) 25",
+        "D) 30"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "153764bff39156459879548d0890892bc0b46194",
+      "sectionIndex": 0,
+      "question": "The first prophet was:",
+      "options": [
+        "A) Ibrahim (AS)",
+        "B) Nuh (AS)",
+        "C) Adam (AS)",
+        "D) Musa (AS)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cdced2c5243b5833c2f959c4b148468ada84a266",
+      "sectionIndex": 0,
+      "question": "The last prophet is:",
+      "options": [
+        "A) Isa (AS)",
+        "B) Muhammad (PBUH)",
+        "C) Musa (AS)",
+        "D) Ibrahim (AS)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af702c921e7b500e0218ecbd0bdced32cbf00cdd",
+      "sectionIndex": 0,
+      "question": "Angels are created from:",
+      "options": [
+        "A) Fire",
+        "B) Clay",
+        "C) Light",
+        "D) Water"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0c097f0d603997a7fbd622c97b258279c1e7a877",
+      "sectionIndex": 0,
+      "question": "Iman means:",
+      "options": [
+        "A) Prayer",
+        "B) Faith",
+        "C) Charity",
+        "D) Fasting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e38806fbf89529ffcdb083f2581c51bf472b780c",
+      "sectionIndex": 1,
+      "question": "How many pillars of Islam are there?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 6"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "079f6e01f6d8aee021d7597d5ce91edc6e367d8f",
+      "sectionIndex": 1,
+      "question": "The first pillar of Islam is:",
+      "options": [
+        "A) Prayer",
+        "B) Shahada",
+        "C) Zakat",
+        "D) Hajj"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "862758757f197c0501eba6cdc92585860284ab98",
+      "sectionIndex": 1,
+      "question": "Muslims pray how many times daily?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 6"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7a31147288127d719dcf41ed3fd1d0148e8b844d",
+      "sectionIndex": 1,
+      "question": "Zakat is obligatory on:",
+      "options": [
+        "A) All Muslims",
+        "B) Poor Muslims",
+        "C) Wealthy Muslims who meet nisab",
+        "D) Government only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "89f0f9cdc05205c17e29235cb367b98554a95d57",
+      "sectionIndex": 1,
+      "question": "The month of fasting is:",
+      "options": [
+        "A) Muharram",
+        "B) Rajab",
+        "C) Ramadan",
+        "D) Shawwal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ba3f853a2c0d28fc4a55a29198908330aa80842a",
+      "sectionIndex": 1,
+      "question": "Hajj is performed in the month of:",
+      "options": [
+        "A) Ramadan",
+        "B) Dhul Hijjah",
+        "C) Muharram",
+        "D) Rajab"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09f1281e92556a6493c80adb4181681093687c99",
+      "sectionIndex": 1,
+      "question": "The nisab of Zakat on gold is:",
+      "options": [
+        "A) 52.5 tolas",
+        "B) 7.5 tolas",
+        "C) 10 tolas",
+        "D) 15 tolas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d113a4652609a741d748073d703ceb5efe3adc63",
+      "sectionIndex": 1,
+      "question": "Fajr prayer consists of:",
+      "options": [
+        "A) 2 rakats",
+        "B) 3 rakats",
+        "C) 4 rakats",
+        "D) 5 rakats"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ea4af7552f920e3c568100433491b95b468748c1",
+      "sectionIndex": 1,
+      "question": "The direction of prayer is called:",
+      "options": [
+        "A) Qibla",
+        "B) Mihrab",
+        "C) Minbar",
+        "D) Minaret"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f358a1db6584c968ce21bcfe4af86991085cff37",
+      "sectionIndex": 1,
+      "question": "Umrah is also known as:",
+      "options": [
+        "A) Major pilgrimage",
+        "B) Minor pilgrimage",
+        "C) Optional prayer",
+        "D) Friday prayer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b2cbf8a40541e8c23eef41d9c2aa68aeb0aeca3",
+      "sectionIndex": 2,
+      "question": "The Quran was revealed over a period of:",
+      "options": [
+        "A) 10 years",
+        "B) 15 years",
+        "C) 23 years",
+        "D) 30 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a63cabab557f7f963bca34d437f2e01e9134c706",
+      "sectionIndex": 2,
+      "question": "How many Surahs are in the Quran?",
+      "options": [
+        "A) 99",
+        "B) 100",
+        "C) 114",
+        "D) 120"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ebe3e506a3b9138e37dd2cebae11b885368d2a75",
+      "sectionIndex": 2,
+      "question": "The longest Surah in the Quran is:",
+      "options": [
+        "A) Surah Yaseen",
+        "B) Surah Al-Baqarah",
+        "C) Surah Al-Fatiha",
+        "D) Surah Al-Ikhlas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "863d3fc53f7d4574a01415f5e7f1a3f1f0d6fd2a",
+      "sectionIndex": 2,
+      "question": "The first revelation came in the cave of:",
+      "options": [
+        "A) Thawr",
+        "B) Hira",
+        "C) Uhud",
+        "D) Badr"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17f2a2d3106b7512e386a60c2bb72671def67cfb",
+      "sectionIndex": 2,
+      "question": "Hadith means:",
+      "options": [
+        "A) Quran",
+        "B) Sayings and actions of Prophet",
+        "C) Islamic law",
+        "D) Prayer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea63d5c35db3cb78b9a94672f6e7df2aa6202e13",
+      "sectionIndex": 2,
+      "question": "The six authentic books of Hadith are called:",
+      "options": [
+        "A) Sihah Sitta",
+        "B) Kutub Arba",
+        "C) Sahihain",
+        "D) Muwatta"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0f27e6343a2aee2e00c49a9637b307d1255fc374",
+      "sectionIndex": 2,
+      "question": "Sahih Bukhari was compiled by:",
+      "options": [
+        "A) Imam Muslim",
+        "B) Imam Bukhari",
+        "C) Imam Tirmidhi",
+        "D) Imam Abu Hanifa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08af77256a3ee0a1b18c9dc8adffff25f25b4036",
+      "sectionIndex": 2,
+      "question": "The shortest Surah is:",
+      "options": [
+        "A) Al-Fatiha",
+        "B) Al-Ikhlas",
+        "C) Al-Kawthar",
+        "D) Al-Nasr"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ccb67be9909cda49f6913c454f3ce48a98c68410",
+      "sectionIndex": 2,
+      "question": "Makki Surahs primarily focus on:",
+      "options": [
+        "A) Laws",
+        "B) Faith and beliefs",
+        "C) Stories only",
+        "D) Wars"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6771b9282947ec15333ed7b6a24e5fbf18bfafbf",
+      "sectionIndex": 2,
+      "question": "The night of the first revelation is called:",
+      "options": [
+        "A) Laylat al-Miraj",
+        "B) Laylat al-Qadr",
+        "C) Laylat al-Bara'at",
+        "D) Laylat al-Jumu'ah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea8f907c8e94420f7169fa3e2b1880529964991f",
+      "sectionIndex": 3,
+      "question": "Shariah literally means:",
+      "options": [
+        "A) Law",
+        "B) Path to water",
+        "C) Rules",
+        "D) Judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84218dd33b5571f5f3df97b1f21fb590be006e4d",
+      "sectionIndex": 3,
+      "question": "The primary source of Islamic law is:",
+      "options": [
+        "A) Ijma",
+        "B) Qiyas",
+        "C) Quran",
+        "D) Custom"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5e6ccc6566f04c1c63e0c38016607684c083548f",
+      "sectionIndex": 3,
+      "question": "Sunnah is the:",
+      "options": [
+        "A) First source",
+        "B) Second source",
+        "C) Third source",
+        "D) Fourth source"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d25462c6322aee0d9a24cc5c0b559678b9bacc58",
+      "sectionIndex": 3,
+      "question": "Ijma means:",
+      "options": [
+        "A) Analogy",
+        "B) Consensus",
+        "C) Opinion",
+        "D) Custom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3042c5a87e76acc25ac98046e64f23007de1646",
+      "sectionIndex": 3,
+      "question": "Qiyas means:",
+      "options": [
+        "A) Consensus",
+        "B) Analogy",
+        "C) Opinion",
+        "D) Tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcc6ab473e00e3fe425c7a26ffd1a97b0b57ba54",
+      "sectionIndex": 3,
+      "question": "Fiqh refers to:",
+      "options": [
+        "A) Theology",
+        "B) Islamic jurisprudence",
+        "C) Philosophy",
+        "D) History"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85d70e269aaf63eafa409ac08892b6e8ff3d2339",
+      "sectionIndex": 3,
+      "question": "How many schools of Islamic jurisprudence are widely recognized?",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "998bcc516db2e58abc33c7f0d7c83d42a35ae03d",
+      "sectionIndex": 3,
+      "question": "The Hanafi school was founded by:",
+      "options": [
+        "A) Imam Malik",
+        "B) Imam Abu Hanifa",
+        "C) Imam Shafi'i",
+        "D) Imam Ahmad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "faef2568be4373c4faf74ba96e37f231b73b22e3",
+      "sectionIndex": 3,
+      "question": "Ijtihad means:",
+      "options": [
+        "A) Following blindly",
+        "B) Independent reasoning",
+        "C) Consensus",
+        "D) Analogy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b023dd23a3de1179c311fd1f8e1ca85b0ca5176",
+      "sectionIndex": 3,
+      "question": "A Mujtahid is one who:",
+      "options": [
+        "A) Leads prayer",
+        "B) Performs Ijtihad",
+        "C) Gives Zakat",
+        "D) Goes for Hajj"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cac1b87c9c8b5bd09b003aad4375c9c012dcb646",
+      "sectionIndex": 4,
+      "question": "Prophet Muhammad (PBUH) was born in:",
+      "options": [
+        "A) 570 CE",
+        "B) 580 CE",
+        "C) 590 CE",
+        "D) 600 CE"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "60675b878df9febe60e20ec9a90d772bb2fe4622",
+      "sectionIndex": 4,
+      "question": "The Prophet's father's name was:",
+      "options": [
+        "A) Abdul Muttalib",
+        "B) Abdullah",
+        "C) Abu Talib",
+        "D) Hamza"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f734424a4f1f21199f15efd52deb9104f255898",
+      "sectionIndex": 4,
+      "question": "The Prophet's mother's name was:",
+      "options": [
+        "A) Fatima",
+        "B) Khadija",
+        "C) Aminah",
+        "D) Halima"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "401ea50d6255cd286eec15b74d617bf16c8a308f",
+      "sectionIndex": 4,
+      "question": "The year of the Elephant refers to:",
+      "options": [
+        "A) Migration year",
+        "B) Prophet's birth year",
+        "C) First revelation",
+        "D) Conquest of Makkah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b79150ac43af8d812547b79d9335368f60b2114",
+      "sectionIndex": 4,
+      "question": "The Prophet received his first revelation at age:",
+      "options": [
+        "A) 25",
+        "B) 30",
+        "C) 40",
+        "D) 45"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "eef7fab60d2c6b920a71a00b329c69acab794e58",
+      "sectionIndex": 4,
+      "question": "The Hijrah took place in:",
+      "options": [
+        "A) 620 CE",
+        "B) 622 CE",
+        "C) 624 CE",
+        "D) 626 CE"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6614928f8181294cdb6f38a8864b3d552e5b665f",
+      "sectionIndex": 4,
+      "question": "The first mosque built by the Prophet was:",
+      "options": [
+        "A) Masjid al-Haram",
+        "B) Masjid Quba",
+        "C) Masjid an-Nabawi",
+        "D) Masjid al-Aqsa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b209fb68c72f090982771f1ff911239e285342f",
+      "sectionIndex": 4,
+      "question": "The Treaty of Hudaybiyyah was signed in:",
+      "options": [
+        "A) 6 AH",
+        "B) 7 AH",
+        "C) 8 AH",
+        "D) 9 AH"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a9a96938c82ad21424e1fb367eec392aaa17f3a3",
+      "sectionIndex": 4,
+      "question": "Makkah was conquered in:",
+      "options": [
+        "A) 6 AH",
+        "B) 7 AH",
+        "C) 8 AH",
+        "D) 9 AH"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "00e5f6bdb6f564a55a27db19ec151ccfbb25365c",
+      "sectionIndex": 4,
+      "question": "The Farewell Sermon was delivered in:",
+      "options": [
+        "A) 9 AH",
+        "B) 10 AH",
+        "C) 11 AH",
+        "D) 12 AH"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52bc9c9bf2d12908f00b70c2e79f1a30312ae34b",
+      "sectionIndex": 5,
+      "question": "Khilafah means:",
+      "options": [
+        "A) Kingdom",
+        "B) Caliphate",
+        "C) Democracy",
+        "D) Dictatorship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e810a010a6ef60434781158962cf0ac94b8dad2",
+      "sectionIndex": 5,
+      "question": "The first Caliph of Islam was:",
+      "options": [
+        "A) Umar (RA)",
+        "B) Abu Bakr (RA)",
+        "C) Uthman (RA)",
+        "D) Ali (RA)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c16e6813b6b2e847e27ea9e31c9361bc4cdc37d7",
+      "sectionIndex": 5,
+      "question": "How many Rightly Guided Caliphs were there?",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4748cc8a142d4e4bb4341dffdd625506e6d02838",
+      "sectionIndex": 5,
+      "question": "The concept of Shura means:",
+      "options": [
+        "A) Law",
+        "B) Consultation",
+        "C) Justice",
+        "D) Equality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dece3fa2c470bb739d8a2f21dd4a609992756867",
+      "sectionIndex": 5,
+      "question": "Bayt al-Mal refers to:",
+      "options": [
+        "A) House of worship",
+        "B) Public treasury",
+        "C) Court of law",
+        "D) Educational institution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "775a9e63a5da8c982e9a1fc8a77ad8f26f3e3ff2",
+      "sectionIndex": 5,
+      "question": "The Caliph Umar (RA) ruled for:",
+      "options": [
+        "A) 2 years",
+        "B) 5 years",
+        "C) 10 years",
+        "D) 15 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0648d8bf90a3b19b48eeaf10d19f6475d212efae",
+      "sectionIndex": 5,
+      "question": "The compilation of Quran in book form was completed under:",
+      "options": [
+        "A) Abu Bakr (RA)",
+        "B) Umar (RA)",
+        "C) Uthman (RA)",
+        "D) Ali (RA)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6e8ff42ebb786764d0210e00414ac2b72e90850b",
+      "sectionIndex": 5,
+      "question": "An Islamic state is based on:",
+      "options": [
+        "A) Monarchy",
+        "B) Democracy only",
+        "C) Shariah principles",
+        "D) Secular law"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e4c4904ec07dd5d99b9bd17cf838dd5ee3780522",
+      "sectionIndex": 5,
+      "question": "The head of an Islamic state is called:",
+      "options": [
+        "A) King",
+        "B) President",
+        "C) Caliph/Amir",
+        "D) Prime Minister"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0c09b5728da1a45ea43d3ce8d5f268a4e06b8c04",
+      "sectionIndex": 5,
+      "question": "Justice in Arabic is called:",
+      "options": [
+        "A) Adl",
+        "B) Ihsan",
+        "C) Taqwa",
+        "D) Sabr"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "02cbe732f490908a2668ff9cf4c61b1ce4edf899",
+      "sectionIndex": 6,
+      "question": "Islam gave women the right to inheritance:",
+      "options": [
+        "A) Recently",
+        "B) 1400 years ago",
+        "C) 100 years ago",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4a1ab55eb0a650de60f2e051b469764b94701da",
+      "sectionIndex": 6,
+      "question": "A woman's consent is required for:",
+      "options": [
+        "A) Education only",
+        "B) Marriage",
+        "C) Work only",
+        "D) Travel only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c602787b0bb340a37927d210d8f310116874423",
+      "sectionIndex": 6,
+      "question": "The first person to accept Islam was:",
+      "options": [
+        "A) Abu Bakr (RA)",
+        "B) Ali (RA)",
+        "C) Khadija (RA)",
+        "D) Umar (RA)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e562fa62ede6785452130ffadc96086b741113f1",
+      "sectionIndex": 6,
+      "question": "Hijab literally means:",
+      "options": [
+        "A) Scarf",
+        "B) Barrier/covering",
+        "C) Face veil",
+        "D) Dress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f93bf8d8a410e3e300311b6e82d2a29a5de2228f",
+      "sectionIndex": 6,
+      "question": "In Islam, seeking knowledge is:",
+      "options": [
+        "A) Optional for women",
+        "B) Forbidden for women",
+        "C) Obligatory for all Muslims",
+        "D) Only for men"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d98232d0a23b3cc60d96567382444d4a0115fadb",
+      "sectionIndex": 6,
+      "question": "The mother's status in Islam is:",
+      "options": [
+        "A) Equal to father",
+        "B) Three times higher than father",
+        "C) Lower than father",
+        "D) Not specified"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b0bb3065019bc57e9393598ccce9561b494ec50",
+      "sectionIndex": 6,
+      "question": "Mahr (dower) is the right of:",
+      "options": [
+        "A) Husband",
+        "B) Wife",
+        "C) Parents",
+        "D) Children"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebdad72a8c0e5bf49d078e2513b9260a240a9cff",
+      "sectionIndex": 6,
+      "question": "A Muslim woman can work:",
+      "options": [
+        "A) Never",
+        "B) With Islamic guidelines",
+        "C) Only at home",
+        "D) Only in teaching"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a19cbdaf9b49603a06ae322905049b6dcfb6196",
+      "sectionIndex": 6,
+      "question": "The Paradise lies under the feet of:",
+      "options": [
+        "A) Fathers",
+        "B) Mothers",
+        "C) Teachers",
+        "D) Scholars"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1ca99ed9971d985c90557d063e329b25ce8c3af",
+      "sectionIndex": 6,
+      "question": "Islam allows women to own:",
+      "options": [
+        "A) Nothing",
+        "B) Property and business",
+        "C) Only jewelry",
+        "D) Only inheritance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d8e1d5e13ee69b3a6cae76f718d2d5c380196da",
+      "sectionIndex": 7,
+      "question": "The OIC stands for:",
+      "options": [
+        "A) Organization of Islamic Countries",
+        "B) Organization of Islamic Cooperation",
+        "C) Organization of Islamic Conference",
+        "D) Organization of Islamic Community"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50ab72fd231652639d57b001f4f328a73d1be6bd",
+      "sectionIndex": 7,
+      "question": "How many member countries are in the OIC?",
+      "options": [
+        "A) 47",
+        "B) 52",
+        "C) 57",
+        "D) 62"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "09dd8ea365c14785437b1bf7aaa3ee870200b9fc",
+      "sectionIndex": 7,
+      "question": "Islamophobia means:",
+      "options": [
+        "A) Love of Islam",
+        "B) Fear or hatred of Islam",
+        "C) Study of Islam",
+        "D) Teaching Islam"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76d4071faabe04096d3073dc52af4aa444ba05d0",
+      "sectionIndex": 7,
+      "question": "The difference between Jihad and terrorism is:",
+      "options": [
+        "A) No difference",
+        "B) Jihad is just struggle; terrorism targets innocents",
+        "C) Only the name",
+        "D) Regional variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51b5a46d0984e22adf6b1008a261c34bbdd8a73b",
+      "sectionIndex": 7,
+      "question": "Islamic banking prohibits:",
+      "options": [
+        "A) Profit",
+        "B) Interest (Riba)",
+        "C) Trade",
+        "D) Investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "101155875e76be2d24957b2f1823c95a3c154bd5",
+      "sectionIndex": 7,
+      "question": "Muslim Ummah refers to:",
+      "options": [
+        "A) Arab nations only",
+        "B) Global Muslim community",
+        "C) Scholars only",
+        "D) Clerics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f523c224dfefef992ecc6a987ab1f27ef3a6155",
+      "sectionIndex": 7,
+      "question": "The concept of Halal applies to:",
+      "options": [
+        "A) Food only",
+        "B) All aspects of life",
+        "C) Meat only",
+        "D) Drinks only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21b3c021be9e19a53d360d33a71691ba48a72e90",
+      "sectionIndex": 7,
+      "question": "Extremism in Islam is:",
+      "options": [
+        "A) Encouraged",
+        "B) Forbidden",
+        "C) Optional",
+        "D) Recommended"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05da10a48eb100241ba30f9f752685904936e91a",
+      "sectionIndex": 7,
+      "question": "Islam promotes peace through:",
+      "options": [
+        "A) War only",
+        "B) Justice and compassion",
+        "C) Isolation",
+        "D) Domination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95e1727dd08f0946588ab14f3f90ae5985b4346b",
+      "sectionIndex": 7,
+      "question": "The Muslim population worldwide is approximately:",
+      "options": [
+        "A) 500 million",
+        "B) 1 billion",
+        "C) 1.8 billion",
+        "D) 3 billion"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "181167808a8adfa78736e3c0f2b23ba1466bcac9",
+      "sectionIndex": 8,
+      "question": "Taqwa means:",
+      "options": [
+        "A) Prayer",
+        "B) God-consciousness",
+        "C) Charity",
+        "D) Fasting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4fabdb867007f97e19d367c1fa97717286a136a",
+      "sectionIndex": 8,
+      "question": "Ihsan means:",
+      "options": [
+        "A) Faith",
+        "B) Excellence/perfection",
+        "C) Justice",
+        "D) Patience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99655e710b3fffaa1fadce62e70639025a7e7f71",
+      "sectionIndex": 8,
+      "question": "Honesty in Arabic is called:",
+      "options": [
+        "A) Sidq",
+        "B) Sabr",
+        "C) Shukr",
+        "D) Ihsan"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b1ba8cdd1128474225185fef86f73928558ee369",
+      "sectionIndex": 8,
+      "question": "Patience in Arabic is:",
+      "options": [
+        "A) Shukr",
+        "B) Sabr",
+        "C) Tawakkul",
+        "D) Ihsan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07a444dcf3e6a72a5108ef54ef16cfdbe9a3c173",
+      "sectionIndex": 8,
+      "question": "Lying is considered:",
+      "options": [
+        "A) Minor sin",
+        "B) Major sin",
+        "C) Permissible",
+        "D) Recommended"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "176f35d8f56108838f0b77da7f4a4b09aa8d7fe4",
+      "sectionIndex": 8,
+      "question": "Backbiting (Gheebah) is compared to:",
+      "options": [
+        "A) Stealing",
+        "B) Eating dead brother's flesh",
+        "C) Minor mistake",
+        "D) Normal talk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf528d3c53facb3933e0e5f2348c59400d01fd05",
+      "sectionIndex": 8,
+      "question": "Helping neighbors is:",
+      "options": [
+        "A) Optional",
+        "B) Highly emphasized",
+        "C) Not important",
+        "D) Cultural only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b166793adc67163adf016e6760815d51db1f3ddf",
+      "sectionIndex": 8,
+      "question": "Respect for parents is:",
+      "options": [
+        "A) Cultural value",
+        "B) Religious obligation",
+        "C) Optional",
+        "D) Conditional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c3c757453d5d055a50b3b43255e03824f044867",
+      "sectionIndex": 8,
+      "question": "Tazkiyah means:",
+      "options": [
+        "A) Prayer",
+        "B) Self-purification",
+        "C) Charity",
+        "D) Fasting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc54cdf6f9e3a9173da4bd993970c47fef15a50d",
+      "sectionIndex": 8,
+      "question": "Islamic ethics are based on:",
+      "options": [
+        "A) Culture only",
+        "B) Quran and Sunnah",
+        "C) Personal opinion",
+        "D) Regional customs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4fbcb712dc9865b2820fc075d4337eaa41e9b8d",
+      "sectionIndex": 9,
+      "question": "The Islamic calendar is:",
+      "options": [
+        "A) Solar",
+        "B) Lunar",
+        "C) Solar-lunar",
+        "D) Seasonal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4cf27eb067157f9c4c2e0fdad5ad0d3c03159dc6",
+      "sectionIndex": 9,
+      "question": "The first year of Islamic calendar marks:",
+      "options": [
+        "A) Prophet's birth",
+        "B) First revelation",
+        "C) Hijrah to Madinah",
+        "D) Conquest of Makkah"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9b75e8d9c6dedad96f0029f3b86cfba3a5632466",
+      "sectionIndex": 9,
+      "question": "How many months are in the Islamic calendar?",
+      "options": [
+        "A) 10",
+        "B) 11",
+        "C) 12",
+        "D) 13"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3246eceba760ff385f837b0c92808be68ab0f0ad",
+      "sectionIndex": 9,
+      "question": "The sacred months in Islam are:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "88a1dfd0797323eec3060855d50c14364955e4ca",
+      "sectionIndex": 9,
+      "question": "Eid al-Fitr comes after:",
+      "options": [
+        "A) Hajj",
+        "B) Ramadan",
+        "C) Muharram",
+        "D) Rajab"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff53006d343dab5807af5fbdccec620b15be01a0",
+      "sectionIndex": 9,
+      "question": "Eid al-Adha commemorates:",
+      "options": [
+        "A) End of Ramadan",
+        "B) Prophet's birthday",
+        "C) Ibrahim's sacrifice",
+        "D) Hijrah"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cbef356f172cb8b2a426a12e86b0206bc6688d0d",
+      "sectionIndex": 9,
+      "question": "The Battle of Badr took place in:",
+      "options": [
+        "A) 2 AH",
+        "B) 3 AH",
+        "C) 4 AH",
+        "D) 5 AH"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "395e49aee85ecb1a6c60996647e33a3f719b057f",
+      "sectionIndex": 9,
+      "question": "The Battle of Uhud resulted in:",
+      "options": [
+        "A) Clear victory",
+        "B) Temporary setback",
+        "C) Treaty",
+        "D) No result"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78ae72d7052ad25b19ab887a3722b56dc1014c4c",
+      "sectionIndex": 9,
+      "question": "The number of companions who pledged at Aqabah was:",
+      "options": [
+        "A) 10",
+        "B) 12",
+        "C) 14",
+        "D) 16"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85bcf93fe3b457e752dc1602b8e34ea2c083cbe5",
+      "sectionIndex": 9,
+      "question": "Islamic civilization's golden age contributed to:",
+      "options": [
+        "A) War only",
+        "B) Science and knowledge",
+        "C) Trade only",
+        "D) Politics only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

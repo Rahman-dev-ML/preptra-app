@@ -1,0 +1,281 @@
+{
+  "subject": "Applied Mathematics",
+  "lastUpdated": "2025-01-07",
+  "totalNotes": 8,
+  "categories": ["Vector Calculus", "Differential Equations", "Mechanics", "Tensor Analysis", "Numerical Methods", "Integration", "Linear Algebra", "Optimization"],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Vector Calculus & Differential Operators",
+      "content": "Master the fundamental concepts of vector calculus essential for CSS Applied Mathematics. This includes gradient, divergence, and curl operations in various coordinate systems.\n\nKey theorems include Green's theorem for line integrals, Stokes' theorem for surface integrals, and the divergence theorem (Gauss's theorem) for volume integrals.\n\nCSS-specific emphasis includes: Green's theorem region problems (e.g., regions bounded by y = x and y = x²), Stokes' theorem verification, divergence calculations over cylinders and planes, and curvilinear coordinate identities like ∇(rⁿ) and ∇·[f(r) r̂].\n\nPractice converting between Cartesian, cylindrical, and spherical coordinate systems, as CSS exams frequently test these transformations.",
+      "keyTakeaways": [
+        "Practice CSS past paper problems (e.g., Green's theorem over y = x and y = x²).",
+        "Memorize standard curvilinear coordinate formulas (cylindrical and spherical).",
+        "Proof skeletons for theorems: link curl circulation to surface integrals."
+      ],
+      "resources": [
+        {
+          "title": "CSS Applied Mathematics Syllabus (Dogar Brothers)",
+          "url": "https://dogar.com.pk/applied-mathematics-css-syllabus/",
+          "type": "pdf",
+          "description": "Official sector-wise weightage confirming Vector Calculus is 10% of paper."
+        },
+        {
+          "title": "CSS-style Green's Theorem problem explained (YouTube)",
+          "url": "https://www.youtube.com/watch?v=1Xqnb2A4AmU",
+          "type": "video",
+          "description": "Solves CSS 2023 line integral using Green's theorem over classic region."
+        },
+        {
+          "title": "MIT OCW 18.02 Multivariable Calculus",
+          "url": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/",
+          "type": "other",
+          "description": "Lecture notes & problem sets on theorems and integrals."
+        },
+        {
+          "title": "Paul's Online Math Notes — Vector Calculus",
+          "url": "https://tutorial.math.lamar.edu/",
+          "type": "website",
+          "description": "Clean derivations of Green's, Stokes', Divergence; perfect for revision."
+        },
+        {
+          "title": "3Blue1Brown — Divergence and curl visualization",
+          "url": "https://www.youtube.com/watch?v=rB83DpBJQsE",
+          "type": "video",
+          "description": "Visual, intuitive explanation of div/curl to aid conceptual clarity."
+        }
+      ],
+      "importance": "high",
+      "category": "Vector Calculus",
+      "topics": ["Gradient", "Divergence", "Curl", "Green's Theorem", "Stokes' Theorem", "Gauss's Theorem", "Curvilinear Coordinates"]
+    },
+    {
+      "id": "2",
+      "title": "Differential Equations (ODE/PDE/Fourier)",
+      "content": "Comprehensive coverage of differential equations as tested in CSS Applied Mathematics. This includes both ordinary differential equations (ODEs) and partial differential equations (PDEs).\n\nODE methods include: variation of parameters, Bernoulli equations, Riccati equations, series solutions using Frobenius method, and special functions like Bessel and Legendre.\n\nPDE topics cover: classification of PDEs, separation of variables technique, heat equation, wave equation, and Laplace equation solutions using Fourier series.\n\nCSS exams emphasize practical problem-solving over theoretical proofs. Focus on recognizing equation types and selecting appropriate solution methods quickly.",
+      "keyTakeaways": [
+        "Memorize table of RHS vs Particular Integral.",
+        "Practice series method on CSS sample questions (e.g. 2024 Q2b).",
+        "Have Fourier expansions at your fingertips for essay-level PDEs."
+      ],
+      "resources": [
+        {
+          "title": "CSS Applied Maths 2024 Q2(b) solution (YouTube)",
+          "url": "https://www.youtube.com/watch?v=eDJRKMntGCo",
+          "type": "video",
+          "description": "Walks through CSS 2024 problem using variation of parameters."
+        },
+        {
+          "title": "CSS Applied Mathematics Playlist by Zahfran",
+          "url": "https://www.youtube.com/playlist?list=PLzl72Jd1fCWrQWRHA4eYSulknnXoLaQnK",
+          "type": "video",
+          "description": "Series of CSS applied math topic-wise tutorials."
+        },
+        {
+          "title": "MIT OCW 18.03 — Differential Equations",
+          "url": "https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/",
+          "type": "other",
+          "description": "Comprehensive ODE resources including series techniques."
+        },
+        {
+          "title": "Paul's Online Math Notes — DE & PDE",
+          "url": "https://tutorial.math.lamar.edu/",
+          "type": "website",
+          "description": "Covers Frobenius, Bessel, Legendre, heat/wave equation separation."
+        },
+        {
+          "title": "NPTEL — Partial Differential Equations",
+          "url": "https://nptel.ac.in/courses/111/104/111104025/",
+          "type": "other",
+          "description": "Lecture series from an Indian institute with similar CSS approach."
+        }
+      ],
+      "importance": "high",
+      "category": "Differential Equations",
+      "topics": ["Variation of Parameters", "Bernoulli Equations", "Series Methods", "Fourier Series", "Heat Equation", "Wave Equation", "PDEs"]
+    },
+    {
+      "id": "3",
+      "title": "Mechanics, Kinematics & Dynamics",
+      "content": "Classical mechanics forms a significant portion of CSS Applied Mathematics. Topics include particle dynamics, rigid body motion, and orbital mechanics.\n\nKey areas cover: center of mass calculations for standard shapes (cone, sphere, hemisphere), simple harmonic motion in various forms, radial and transverse components of velocity and acceleration, and central force problems.\n\nOrbital mechanics includes: Kepler's laws, areal velocity, Binet's formula for deriving force laws from orbital equations r(θ), and energy considerations in conservative force fields.\n\nCSS questions often combine mechanics with vector calculus, requiring clear understanding of both domains.",
+      "keyTakeaways": [
+        "Learn how CSS frames COM and SHM questions; practice 2019/2020 examples.",
+        "Use Binet's formula for proving force laws from r(θ).",
+        "Emphasize conceptual clarity (energy, torque) for derivation parts."
+      ],
+      "resources": [
+        {
+          "title": "CSS Applied Mathematics 2023 Q3(b) solution (YouTube)",
+          "url": "https://www.youtube.com/watch?v=BGIZWgTWKwQ",
+          "type": "video",
+          "description": "Covers line integral usage in a mechanics-style question."
+        },
+        {
+          "title": "MIT OCW 8.01SC — Classical Mechanics",
+          "url": "https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/",
+          "type": "other",
+          "description": "Core mechanics topics (SHM, orbits, energy, COM)."
+        },
+        {
+          "title": "List of moments of inertia (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/List_of_moments_of_inertia",
+          "type": "website",
+          "description": "Quick reference for cone, sphere, lamina MOI values."
+        }
+      ],
+      "importance": "high",
+      "category": "Mechanics",
+      "topics": ["Center of Mass", "Moment of Inertia", "Simple Harmonic Motion", "Central Forces", "Orbital Motion", "Kepler's Laws"]
+    },
+    {
+      "id": "4",
+      "title": "Tensor Analysis & Curvilinear Coordinates",
+      "content": "Tensor analysis provides the mathematical framework for expressing physical laws in coordinate-independent form. Essential for advanced mechanics and field theory.\n\nTopics include: covariant and contravariant components, metric tensor, Christoffel symbols, and tensor transformations. Applications in curvilinear coordinates are emphasized.\n\nCSS focus areas: converting between coordinate systems, calculating scale factors, expressing differential operators in cylindrical and spherical coordinates, and solving problems involving non-Cartesian geometries.\n\nWhile pure tensor notation questions are rare, understanding curvilinear coordinates is essential for vector calculus problems.",
+      "keyTakeaways": [
+        "Master coordinate transformations and scale factors.",
+        "Practice expressing grad, div, curl in cylindrical/spherical coordinates.",
+        "Understand metric tensor basics for coordinate system problems."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW 8.962 — General Relativity (Tensor Introduction)",
+          "url": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/",
+          "type": "other",
+          "description": "First few lectures cover tensor basics clearly."
+        },
+        {
+          "title": "Introduction to Tensor Calculus (PDF)",
+          "url": "https://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf",
+          "type": "pdf",
+          "description": "Concise introduction to tensors with physics applications."
+        }
+      ],
+      "importance": "medium",
+      "category": "Tensor Analysis",
+      "topics": ["Tensors", "Curvilinear Coordinates", "Metric Tensor", "Coordinate Transformations"]
+    },
+    {
+      "id": "5",
+      "title": "Numerical Methods",
+      "content": "Numerical analysis techniques for solving mathematical problems computationally. CSS emphasizes practical algorithms over theoretical convergence proofs.\n\nRoot finding methods: Newton-Raphson, bisection, and fixed-point iteration. System solving: Jacobi and Gauss-Seidel iterative methods with convergence conditions (diagonal dominance).\n\nInterpolation techniques: Newton's forward/backward differences, Lagrange interpolation, and Gauss interpolation formulas. Numerical integration: trapezoidal rule, Simpson's 1/3 and 3/8 rules with error estimates.\n\nNumerical solutions of ODEs: Euler's method, modified Euler, and Runge-Kutta methods (2nd and 4th order). Always state truncation errors and stability conditions.",
+      "keyTakeaways": [
+        "Always state convergence conditions (dominant diagonal).",
+        "Show truncation error for Simpson/Trapezoid.",
+        "Keep clear format of method steps (iterate, stop criteria)."
+      ],
+      "resources": [
+        {
+          "title": "CSS Applied Maths 2019 Q4(b) solution",
+          "url": "https://www.youtube.com/watch?v=iK4R7L1G_Ag",
+          "type": "video",
+          "description": "Undetermined coefficients example, but channel includes numeric method playlists."
+        },
+        {
+          "title": "MIT OCW 18.330 — Numerical Analysis",
+          "url": "https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/",
+          "type": "other",
+          "description": "Full coverage of convergence, interpolation, quadrature, ODE solving."
+        },
+        {
+          "title": "NPTEL — Numerical Methods course",
+          "url": "https://nptel.ac.in/courses/111/105/111105038/",
+          "type": "other",
+          "description": "Indian institute video lectures on numeric methods with examples."
+        },
+        {
+          "title": "Diagonally dominant matrix overview",
+          "url": "https://en.wikipedia.org/wiki/Diagonally_dominant_matrix",
+          "type": "website",
+          "description": "Definition and relevance for convergence (Gauss–Seidel)."
+        }
+      ],
+      "importance": "high",
+      "category": "Numerical Methods",
+      "topics": ["Newton-Raphson", "Jacobi Method", "Gauss-Seidel", "Interpolation", "Numerical Integration", "Runge-Kutta"]
+    },
+    {
+      "id": "6",
+      "title": "Multiple & Line/Surface Integrals",
+      "content": "Integration techniques in multiple dimensions form the computational backbone of vector calculus applications. CSS tests both setup and evaluation skills.\n\nDouble and triple integrals: setting up limits in Cartesian and polar coordinates, changing order of integration, and Jacobian transformations for general coordinate changes.\n\nLine integrals: parametrization of curves (including piecewise smooth paths), work integrals, and circulation. Surface integrals: parametric surfaces, flux calculations, and orientation considerations.\n\nCSS emphasis: Always sketch the region/curve/surface, clearly show parametrization, and verify differential elements (dA, ds, normal vectors).",
+      "keyTakeaways": [
+        "Always sketch region; parameterize path/surface clearly.",
+        "Double-check differential elements (dA, ds, n-vector)."
+      ],
+      "resources": [
+        {
+          "title": "CSS Applied Maths Past Paper PDF (2016-2025 archive)",
+          "url": "https://zicosh.com/css-applied-mathematics-past-papers/",
+          "type": "pdf",
+          "description": "Source for CSS past papers for practice."
+        },
+        {
+          "title": "Paul's Notes — Multiple Integrals & Surface Integrals",
+          "url": "https://tutorial.math.lamar.edu/",
+          "type": "website",
+          "description": "Straightforward examples to mirror CSS problem styles."
+        },
+        {
+          "title": "MIT OCW 18.02SC — Integrals & Change of Variables",
+          "url": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/",
+          "type": "other",
+          "description": "Includes surface and flux integral exercises."
+        }
+      ],
+      "importance": "medium",
+      "category": "Integration",
+      "topics": ["Double Integrals", "Triple Integrals", "Line Integrals", "Surface Integrals", "Flux Integrals", "Change of Variables"]
+    },
+    {
+      "id": "7",
+      "title": "Linear Algebra & Matrix Methods",
+      "content": "Matrix methods provide efficient tools for solving systems of equations and analyzing linear transformations. CSS focuses on computational aspects.\n\nKey topics: matrix operations, determinants (especially 3×3 using cofactor expansion), inverse matrices using adjugate method, and solving linear systems.\n\nEigenvalue problems: characteristic polynomial, eigenvectors, and diagonalization. Applications to systems of differential equations and stability analysis.\n\nCSS tips: For time efficiency, use adjugate formula for 3×3 inverses. Always verify determinant calculations as sign errors are common under exam pressure.",
+      "keyTakeaways": [
+        "Use adjugate matrix formula under time constraints.",
+        "Check determinant sign to avoid errors."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW 18.06 — Linear Algebra",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+          "type": "other",
+          "description": "Foundational methods (inverses, LU decomposition, determinants)."
+        },
+        {
+          "title": "Khan Academy — Linear Algebra",
+          "url": "https://www.khanacademy.org/math/linear-algebra",
+          "type": "video",
+          "description": "Quick video refreshers for matrix operations."
+        }
+      ],
+      "importance": "low",
+      "category": "Linear Algebra",
+      "topics": ["Matrix Inverse", "Determinants", "Linear Systems", "Eigenvalues", "LU Decomposition"]
+    },
+    {
+      "id": "8",
+      "title": "Optimization / Linear Programming",
+      "content": "Optimization techniques for finding maxima and minima of functions subject to constraints. CSS occasionally includes basic linear programming problems.\n\nUnconstrained optimization: critical points, second derivative test, and optimization in multiple variables using partial derivatives and Hessian matrix.\n\nLinear programming: graphical method for two variables, identifying feasible regions, corner point evaluation, and interpreting results in context.\n\nCSS approach: Focus on graphical solutions. Plot constraints accurately, identify all intersection points, evaluate objective function at vertices, and clearly state the optimal solution with feasibility check.",
+      "keyTakeaways": [
+        "Plot constraints accurately and enumerate all intersection points.",
+        "Evaluate objective function at vertices, mention feasibility."
+      ],
+      "resources": [
+        {
+          "title": "Purdue NW — Graphical Linear Programming",
+          "url": "https://www.pnw.edu/sites/default/files/2021-05/LinearProgramming.pdf",
+          "type": "pdf",
+          "description": "Worked examples step-by-step."
+        },
+        {
+          "title": "Khan Academy — Linear Programming playlist",
+          "url": "https://www.youtube.com/playlist?list=PLSQl0a2vh4HB0uGZk-Jt4V8iDSHPsuU2P",
+          "type": "video",
+          "description": "Visual walkthroughs of feasible regions and solution points."
+        }
+      ],
+      "importance": "low",
+      "category": "Optimization",
+      "topics": ["Linear Programming", "Graphical Method", "Feasible Region", "Optimization", "Constraints"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:18:07.231Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "0b320c38594215798a5322f5383fa5cd4cc94c38",
+      "sectionIndex": 0,
+      "question": "What is logic primarily concerned with?",
+      "options": [
+        "A) Emotions",
+        "B) Valid reasoning",
+        "C) Art",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db4036314d0758da2ad3ffe2d1936ae542d7f314",
+      "sectionIndex": 0,
+      "question": "A proposition is a statement that is:",
+      "options": [
+        "A) Always true",
+        "B) Always false",
+        "C) Either true or false",
+        "D) Neither true nor false"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6e5f257023899f43fd68736228de3bc89344b654",
+      "sectionIndex": 0,
+      "question": "Which symbol represents conjunction in symbolic logic?",
+      "options": [
+        "A) ^",
+        "B) ^",
+        "C) ¬",
+        "D) ?'"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26f89fb219a6a4113412a93253ab71178ec0b9ad",
+      "sectionIndex": 0,
+      "question": "The symbol '^' represents:",
+      "options": [
+        "A) Negation",
+        "B) Conjunction",
+        "C) Disjunction",
+        "D) Implication"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7939be540a62071835672980e37fe8fcdcc3097a",
+      "sectionIndex": 0,
+      "question": "A simple proposition contains:",
+      "options": [
+        "A) Multiple subjects",
+        "B) One subject and one predicate",
+        "C) No predicate",
+        "D) Multiple predicates only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9e59bd8b021edee0bb7578805c9e813d5fe6dd6",
+      "sectionIndex": 0,
+      "question": "Which of the following is NOT a proposition?",
+      "options": [
+        "A) The sky is blue",
+        "B) 2 + 2 = 4",
+        "C) Please close the door",
+        "D) Paris is in France"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "13a261e96c801b0f9e298b966b0243df805651c7",
+      "sectionIndex": 0,
+      "question": "The negation symbol in logic is:",
+      "options": [
+        "A) ^",
+        "B) ^",
+        "C) ¬",
+        "D) ?'"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2a7f8312fe4aad7bb645583cf9d00e4b5e8a60e0",
+      "sectionIndex": 0,
+      "question": "\"If P then Q\" is an example of:",
+      "options": [
+        "A) Conjunction",
+        "B) Disjunction",
+        "C) Negation",
+        "D) Implication"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "eab338e023c0c6dce346dcbedf2d0933b55bb32a",
+      "sectionIndex": 0,
+      "question": "A compound proposition contains:",
+      "options": [
+        "A) Only one simple proposition",
+        "B) Two or more simple propositions",
+        "C) No propositions",
+        "D) Only predicates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc2f898566d33662c73661ba3d22c73be055b59a",
+      "sectionIndex": 0,
+      "question": "Logic helps us distinguish between:",
+      "options": [
+        "A) Good and bad arguments",
+        "B) Beautiful and ugly things",
+        "C) Rich and poor people",
+        "D) Young and old ideas"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4932d53cf88308c1a0f8ca4973250d4d3f607d7a",
+      "sectionIndex": 1,
+      "question": "What is the main purpose of definitions?",
+      "options": [
+        "A) To confuse readers",
+        "B) To reduce ambiguity",
+        "C) To increase vagueness",
+        "D) To create fallacies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "100fb331f4100ba25e919cd60755ddd5615aa072",
+      "sectionIndex": 1,
+      "question": "Vague language is language that is:",
+      "options": [
+        "A) Clear and precise",
+        "B) Unclear or imprecise",
+        "C) Always false",
+        "D) Always true"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "883b07785b46f2234fe903931af496b433ecc9d1",
+      "sectionIndex": 1,
+      "question": "Emotive language appeals to:",
+      "options": [
+        "A) Logic only",
+        "B) Facts only",
+        "C) Emotions",
+        "D) Numbers"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "89d34e295fe82603d99145163d80d5064563f82d",
+      "sectionIndex": 1,
+      "question": "Ambiguity in language means:",
+      "options": [
+        "A) Having one clear meaning",
+        "B) Having multiple possible meanings",
+        "C) Having no meaning",
+        "D) Being false"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1fe7be194737c6dfa7fa3020e069118b293fc192",
+      "sectionIndex": 1,
+      "question": "Which type of definition explains how a word is commonly used?",
+      "options": [
+        "A) Stipulative",
+        "B) Lexical",
+        "C) Persuasive",
+        "D) Theoretical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0ccb5feb205ebb50187a7d19a968cc4432fab61",
+      "sectionIndex": 1,
+      "question": "A stipulative definition:",
+      "options": [
+        "A) Reports existing usage",
+        "B) Assigns a new meaning to a term",
+        "C) Is always wrong",
+        "D) Cannot be created"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05345c1afe588bfb1c3e9e23811a1d983ca4236e",
+      "sectionIndex": 1,
+      "question": "Clear thinking requires avoiding:",
+      "options": [
+        "A) True statements",
+        "B) Valid arguments",
+        "C) Emotive language",
+        "D) Logical symbols"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d7632458469b332afc38d2ac545d7c26c1257a55",
+      "sectionIndex": 1,
+      "question": "The primary function of language in logic is:",
+      "options": [
+        "A) Entertainment",
+        "B) Clear communication",
+        "C) Poetry",
+        "D) Confusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5430bff647fad7f748f578c489e5818a1e9f655d",
+      "sectionIndex": 1,
+      "question": "Which of the following makes an argument unclear?",
+      "options": [
+        "A) Precise definitions",
+        "B) Logical structure",
+        "C) Ambiguous terms",
+        "D) Valid reasoning"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c2099cefca3b9f09b1f88ea3f1034395b00502fb",
+      "sectionIndex": 1,
+      "question": "Reducing vagueness in language helps:",
+      "options": [
+        "A) Create more fallacies",
+        "B) Improve understanding",
+        "C) Increase confusion",
+        "D) Eliminate all meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "afa29459050d2882139d51dabba459a25df4f192",
+      "sectionIndex": 2,
+      "question": "A fallacy is:",
+      "options": [
+        "A) A valid argument",
+        "B) An error in reasoning",
+        "C) A true statement",
+        "D) A mathematical proof"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64ae7a37afa8b09c14d13279babb706023dd0160",
+      "sectionIndex": 2,
+      "question": "Ad hominem fallacy attacks:",
+      "options": [
+        "A) The argument",
+        "B) The evidence",
+        "C) The person",
+        "D) The conclusion"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "da5241017d3f5ca90797da0e1c7a47d1aa5f1e73",
+      "sectionIndex": 2,
+      "question": "Which fallacy appeals to popular opinion?",
+      "options": [
+        "A) Ad hominem",
+        "B) Ad populum",
+        "C) Straw man",
+        "D) False cause"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3fcc7750e3997547af0d11318e986ccbee7c6b6",
+      "sectionIndex": 2,
+      "question": "A hasty generalization is based on:",
+      "options": [
+        "A) Too much evidence",
+        "B) Insufficient evidence",
+        "C) Perfect logic",
+        "D) Mathematical proof"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b3e198d3ee1fcf4fc9adc1c7e6b337ef5a223db",
+      "sectionIndex": 2,
+      "question": "The straw man fallacy involves:",
+      "options": [
+        "A) Strengthening an opponent's argument",
+        "B) Misrepresenting an opponent's argument",
+        "C) Agreeing with everyone",
+        "D) Using valid logic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0869f560598b58358c8ec7d7cadc72155fea237e",
+      "sectionIndex": 2,
+      "question": "Circular reasoning is when:",
+      "options": [
+        "A) The conclusion proves the premise",
+        "B) The premise assumes the conclusion",
+        "C) Arguments are valid",
+        "D) Logic is sound"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d27b5ac16a349fea21567820acedde7d4328075",
+      "sectionIndex": 2,
+      "question": "False cause fallacy assumes:",
+      "options": [
+        "A) No relationship exists",
+        "B) Correlation equals causation",
+        "C) All causes are true",
+        "D) Effects precede causes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7234b41def8774435d36a418ab0abc1d116d66a",
+      "sectionIndex": 2,
+      "question": "Appeal to authority becomes a fallacy when:",
+      "options": [
+        "A) The authority is an expert",
+        "B) The authority is not an expert in the relevant field",
+        "C) Evidence is provided",
+        "D) Logic is used"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f69089de72df5058d6af46b0d8dad33965f02ec",
+      "sectionIndex": 2,
+      "question": "Which of the following is an informal fallacy?",
+      "options": [
+        "A) Valid syllogism",
+        "B) Mathematical proof",
+        "C) Ad hominem attack",
+        "D) Logical deduction"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f3fc74c0dfcec0da211af828f1a25b27da9bef8c",
+      "sectionIndex": 2,
+      "question": "Fallacies of ambiguity arise from:",
+      "options": [
+        "A) Clear language",
+        "B) Unclear language",
+        "C) Valid reasoning",
+        "D) Sound arguments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70d324d0ac3be012253926b18545db8e298460cb",
+      "sectionIndex": 3,
+      "question": "Philosophy literally means:",
+      "options": [
+        "A) Love of wisdom",
+        "B) Study of nature",
+        "C) Religious thought",
+        "D) Scientific method"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b50e488333ef505c3a45ff254543b9041acca121",
+      "sectionIndex": 3,
+      "question": "The main branches of philosophy include:",
+      "options": [
+        "A) Physics and chemistry",
+        "B) Metaphysics, epistemology, and ethics",
+        "C) Biology and geology",
+        "D) History and geography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a43d0e87ea2547d3a31fab0bff6a24bc34838ec",
+      "sectionIndex": 3,
+      "question": "Metaphysics studies:",
+      "options": [
+        "A) Physical objects only",
+        "B) The nature of reality",
+        "C) Only scientific facts",
+        "D) Mathematical equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b4fdad14ea60bdc812eeb546828d996496bbf99",
+      "sectionIndex": 3,
+      "question": "Epistemology is the study of:",
+      "options": [
+        "A) Ethics",
+        "B) Knowledge",
+        "C) Beauty",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7bfaaf98af4b48cd3948aec0665e8b6cd221465",
+      "sectionIndex": 3,
+      "question": "Ethics is concerned with:",
+      "options": [
+        "A) Facts about nature",
+        "B) Right and wrong",
+        "C) Mathematical truth",
+        "D) Physical laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70b990f4694c203b04e8824a2b0016f10be2bfd7",
+      "sectionIndex": 3,
+      "question": "Philosophy differs from science in that it:",
+      "options": [
+        "A) Uses experiments only",
+        "B) Asks fundamental questions",
+        "C) Avoids all reasoning",
+        "D) Rejects all evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af93917f26a267e8c145b08724d0a3b396b4ac52",
+      "sectionIndex": 3,
+      "question": "Aesthetics is the philosophical study of:",
+      "options": [
+        "A) Knowledge",
+        "B) Reality",
+        "C) Beauty and art",
+        "D) Logic"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b999c5ccc81e22ddc3eedbc92d5505c48f9342f7",
+      "sectionIndex": 3,
+      "question": "Political philosophy examines:",
+      "options": [
+        "A) Only democracies",
+        "B) The nature of government and justice",
+        "C) Only dictatorships",
+        "D) Only economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1540f811f0d175a2e47e783e6fd74f88a95bca93",
+      "sectionIndex": 3,
+      "question": "Philosophy began in ancient:",
+      "options": [
+        "A) Egypt",
+        "B) China",
+        "C) Greece",
+        "D) Rome"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "60ae11705222478788f7c061ef6d9170deb3591a",
+      "sectionIndex": 3,
+      "question": "The relationship between philosophy and religion involves:",
+      "options": [
+        "A) Complete opposition",
+        "B) Examining fundamental questions",
+        "C) Ignoring each other",
+        "D) Only conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdc4a82099ff4c4ddcc05464613086eb981c19f6",
+      "sectionIndex": 4,
+      "question": "Socrates is famous for saying:",
+      "options": [
+        "A) \"God is dead\"",
+        "B) \"I think therefore I am\"",
+        "C) \"The unexamined life is not worth living\"",
+        "D) \"Knowledge is power\""
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "24ed50e5896901ab13a8b31353733b371537feba",
+      "sectionIndex": 4,
+      "question": "Plato was the student of:",
+      "options": [
+        "A) Aristotle",
+        "B) Socrates",
+        "C) Descartes",
+        "D) Kant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bf530ec4449fe90faf2da848b8d07c483f6e390",
+      "sectionIndex": 4,
+      "question": "Aristotle was the teacher of:",
+      "options": [
+        "A) Plato",
+        "B) Socrates",
+        "C) Alexander the Great",
+        "D) Descartes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9b1ca149a90149a6e129d15e5ba1c28a3086e2e2",
+      "sectionIndex": 4,
+      "question": "Descartes said \"I think therefore I am\" in:",
+      "options": [
+        "A) Greek",
+        "B) English",
+        "C) Latin (Cogito ergo sum)",
+        "D) German"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3a2b5f4c6b0ff5b1e182742be893977322e46641",
+      "sectionIndex": 4,
+      "question": "Kant was a philosopher from:",
+      "options": [
+        "A) France",
+        "B) Germany",
+        "C) England",
+        "D) Greece"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af6aa0a0c58f63bf923c2bca0012be4be7eaa8ad",
+      "sectionIndex": 4,
+      "question": "Hegel is associated with:",
+      "options": [
+        "A) Empiricism",
+        "B) Dialectical idealism",
+        "C) Logical positivism",
+        "D) Existentialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22ea4db724014a70a2b907918f056ebe4b99f734",
+      "sectionIndex": 4,
+      "question": "Karl Marx is known for:",
+      "options": [
+        "A) Idealism",
+        "B) Dialectical materialism",
+        "C) Rationalism",
+        "D) Mysticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bc679b1f05d1ce5b24b2efff0658a7f400a0ce8",
+      "sectionIndex": 4,
+      "question": "John Locke is associated with:",
+      "options": [
+        "A) Rationalism",
+        "B) Empiricism",
+        "C) Idealism",
+        "D) Marxism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad8385135a1a218e1544181cab5f524639ec700c",
+      "sectionIndex": 4,
+      "question": "David Hume was from:",
+      "options": [
+        "A) Germany",
+        "B) France",
+        "C) Scotland",
+        "D) Greece"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "797dc1d677617c52b1c333b61d12c410bb47500c",
+      "sectionIndex": 4,
+      "question": "William James is associated with:",
+      "options": [
+        "A) Idealism",
+        "B) Pragmatism",
+        "C) Marxism",
+        "D) Rationalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac010b60a905a0fbefdb6de61c9ff3068513edee",
+      "sectionIndex": 5,
+      "question": "Al-Farabi is known as:",
+      "options": [
+        "A) The First Teacher",
+        "B) The Second Teacher",
+        "C) The Final Prophet",
+        "D) The Great Scientist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ba2837de6d8a32282d3ae78c9d41edb5142c9a8",
+      "sectionIndex": 5,
+      "question": "Al-Ghazali wrote a famous critique called:",
+      "options": [
+        "A) The Republic",
+        "B) The Incoherence of the Philosophers",
+        "C) The Prince",
+        "D) Being and Time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6e4d43cf0795cef9cc42d7d895cf329922b8146",
+      "sectionIndex": 5,
+      "question": "Ibn Rushd (Averroes) defended:",
+      "options": [
+        "A) Mysticism only",
+        "B) Philosophy against Al-Ghazali",
+        "C) Poetry only",
+        "D) Mathematics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b65e3f1cd1d746dbdaa6c7ff68b8fd9bf339e82",
+      "sectionIndex": 5,
+      "question": "Ibn Sina is also known as:",
+      "options": [
+        "A) Averroes",
+        "B) Avicenna",
+        "C) Al-Farabi",
+        "D) Al-Kindi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23963cf19c21234dafa886785551e54251b98546",
+      "sectionIndex": 5,
+      "question": "Iqbal's famous philosophical work is:",
+      "options": [
+        "A) The Republic",
+        "B) The Reconstruction of Religious Thought in Islam",
+        "C) The Prince",
+        "D) Critique of Pure Reason"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1fe3258c1578efe3ce658a9077590c32a85a1c66",
+      "sectionIndex": 5,
+      "question": "Sir Syed Ahmad Khan promoted:",
+      "options": [
+        "A) Fatalism",
+        "B) Rationalism",
+        "C) Mysticism only",
+        "D) Superstition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fe93f220249e30e2b3f235522e80ddc3b95c5a7",
+      "sectionIndex": 5,
+      "question": "Ibn Khaldun is famous for his:",
+      "options": [
+        "A) Poetry",
+        "B) Muqaddimah",
+        "C) Medical texts",
+        "D) Mathematical proofs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95bceda741c4fa0397b4a2aeac9f6bae21b82cdc",
+      "sectionIndex": 5,
+      "question": "Al-Kindi was the first major:",
+      "options": [
+        "A) Muslim scientist",
+        "B) Muslim philosopher",
+        "C) Muslim poet",
+        "D) Muslim historian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44cbf2aa9f052d4a65a2854c58949ef1b78c2819",
+      "sectionIndex": 5,
+      "question": "Islamic philosophy often tried to reconcile:",
+      "options": [
+        "A) Science and art",
+        "B) Reason and revelation",
+        "C) East and West",
+        "D) Past and future"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eeec99a132e902c2674a9aeb0a9a3c8904912870",
+      "sectionIndex": 5,
+      "question": "The concept of 'Ijtihad' in Iqbal refers to:",
+      "options": [
+        "A) Blind faith",
+        "B) Independent reasoning",
+        "C) Complete rejection",
+        "D) Pure mysticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af559d62cb5a7a67c66a9136cabd67adcdd7fe99",
+      "sectionIndex": 6,
+      "question": "Ethics is the study of:",
+      "options": [
+        "A) Natural laws",
+        "B) Moral principles",
+        "C) Physical objects",
+        "D) Mathematical proofs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67246a67c8860e8653403f5f687fa79dc928df02",
+      "sectionIndex": 6,
+      "question": "Utilitarianism judges actions by:",
+      "options": [
+        "A) Intentions only",
+        "B) Consequences",
+        "C) Divine commands",
+        "D) Social status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c8235f043e48e21222e3c95bbcc925a912f6f18",
+      "sectionIndex": 6,
+      "question": "The Golden Rule states:",
+      "options": [
+        "A) Might makes right",
+        "B) Do unto others as you would have them do unto you",
+        "C) The end justifies the means",
+        "D) Knowledge is power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e004e3439ef51a77e997af179c909771f1063be4",
+      "sectionIndex": 6,
+      "question": "Virtue ethics focuses on:",
+      "options": [
+        "A) Rules only",
+        "B) Character",
+        "C) Consequences only",
+        "D) Contracts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ff0211789028fe341e1d6f635eb5a3d4080aa27",
+      "sectionIndex": 6,
+      "question": "Kant's categorical imperative emphasizes:",
+      "options": [
+        "A) Consequences",
+        "B) Universal moral laws",
+        "C) Personal pleasure",
+        "D) Social contracts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14fd4f1d806d213d8c88425dd447c1e27e69c310",
+      "sectionIndex": 6,
+      "question": "\"The greatest good for the greatest number\" is associated with:",
+      "options": [
+        "A) Deontology",
+        "B) Utilitarianism",
+        "C) Virtue ethics",
+        "D) Existentialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c0948220a8b9e2933279d6bbaf33df1d1a5657b",
+      "sectionIndex": 6,
+      "question": "Moral relativism claims that:",
+      "options": [
+        "A) All morals are absolute",
+        "B) Morals vary by culture",
+        "C) There are no morals",
+        "D) Only one moral system is correct"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34dca0a093c7e065b659b37160d7567040355333",
+      "sectionIndex": 6,
+      "question": "Duty-based ethics is also called:",
+      "options": [
+        "A) Consequentialism",
+        "B) Deontology",
+        "C) Hedonism",
+        "D) Nihilism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58fad966fc0562a49db58d9e064e3966a766f735",
+      "sectionIndex": 6,
+      "question": "The study of what makes actions right or wrong is:",
+      "options": [
+        "A) Metaphysics",
+        "B) Epistemology",
+        "C) Ethics",
+        "D) Logic"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c9344942b3ed0a05f47f5af0541cf1a5cda22e81",
+      "sectionIndex": 6,
+      "question": "Aristotle's ethics emphasized:",
+      "options": [
+        "A) Strict rules",
+        "B) The golden mean",
+        "C) Pure pleasure",
+        "D) Complete asceticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "798ef99544514946dad75d6d1c7494a7353e98c9",
+      "sectionIndex": 7,
+      "question": "Deductive reasoning moves from:",
+      "options": [
+        "A) Specific to general",
+        "B) General to specific",
+        "C) Effect to cause",
+        "D) Present to past"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fb84a949f7c275f9c58dc9c350fa4e804a94212",
+      "sectionIndex": 7,
+      "question": "Inductive reasoning moves from:",
+      "options": [
+        "A) General to specific",
+        "B) Specific to general",
+        "C) Cause to effect",
+        "D) Future to present"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a263b42ac5102ea88a23d98a322e0bf6e5ade67",
+      "sectionIndex": 7,
+      "question": "A syllogism contains:",
+      "options": [
+        "A) One premise",
+        "B) Two premises and a conclusion",
+        "C) No conclusion",
+        "D) Only a conclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34ea688a67252f0fc5d394c5244194c7df29e9f9",
+      "sectionIndex": 7,
+      "question": "The scientific method primarily uses:",
+      "options": [
+        "A) Deduction only",
+        "B) Induction only",
+        "C) Both induction and deduction",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "772a9be09a6ff26bc651eca5452d61046233a372",
+      "sectionIndex": 7,
+      "question": "Empiricism emphasizes:",
+      "options": [
+        "A) Pure reason",
+        "B) Experience and observation",
+        "C) Intuition only",
+        "D) Divine revelation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dce2bd136704689c18742f0b19a6c91ee38629c",
+      "sectionIndex": 7,
+      "question": "Rationalism emphasizes:",
+      "options": [
+        "A) Experience only",
+        "B) Reason",
+        "C) Faith only",
+        "D) Emotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef40ba9cd7ce6c8ffba84f6c5393b37f7a83eb84",
+      "sectionIndex": 7,
+      "question": "A hypothesis is:",
+      "options": [
+        "A) A proven fact",
+        "B) A tentative explanation",
+        "C) Always false",
+        "D) Never testable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7eabe90860f27031692cf60e177f07f217d29027",
+      "sectionIndex": 7,
+      "question": "Critical thinking involves:",
+      "options": [
+        "A) Accepting all claims",
+        "B) Analyzing and evaluating arguments",
+        "C) Rejecting all claims",
+        "D) Avoiding all reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "677943c806f715e63aad2bc5cbad5d5af4e1eb7b",
+      "sectionIndex": 7,
+      "question": "The Socratic method uses:",
+      "options": [
+        "A) Lectures only",
+        "B) Questions and dialogue",
+        "C) Experiments only",
+        "D) Meditation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c90f626e3ebc4234d5437b69e78790829ef1a2f",
+      "sectionIndex": 7,
+      "question": "Philosophical analysis aims to:",
+      "options": [
+        "A) Confuse concepts",
+        "B) Clarify concepts",
+        "C) Ignore concepts",
+        "D) Destroy concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1fb58dca722fe70ee3c322db5ea1eff76a6b1fa1",
+      "sectionIndex": 8,
+      "question": "The Enlightenment emphasized:",
+      "options": [
+        "A) Superstition",
+        "B) Reason",
+        "C) Tradition only",
+        "D) Mysticism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ab8c06e42e7cd3a635396535ce72b13a74be5b7",
+      "sectionIndex": 8,
+      "question": "Existentialism focuses on:",
+      "options": [
+        "A) Abstract systems",
+        "B) Individual existence",
+        "C) Universal laws only",
+        "D) Group identity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5ffffd45598c5775e98511931dab5c812768920",
+      "sectionIndex": 8,
+      "question": "Pragmatism judges ideas by:",
+      "options": [
+        "A) Their beauty",
+        "B) Their practical consequences",
+        "C) Their age",
+        "D) Their complexity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06b21302692fd943730fa2859db233f312f1ec8b",
+      "sectionIndex": 8,
+      "question": "Logical positivism rejected:",
+      "options": [
+        "A) Science",
+        "B) Metaphysics",
+        "C) Logic",
+        "D) Mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37a96d1d68406b4933b23b72320f328e3b5c1a93",
+      "sectionIndex": 8,
+      "question": "Phenomenology studies:",
+      "options": [
+        "A) Physical phenomena only",
+        "B) Consciousness and experience",
+        "C) Logic only",
+        "D) Language only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c39254822c6145176773da610e153c2bb4e04a16",
+      "sectionIndex": 8,
+      "question": "Postmodernism questions:",
+      "options": [
+        "A) Nothing",
+        "B) Grand narratives",
+        "C) Only science",
+        "D) Only religion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "246eeb8db5ff817704cee4d9dbba642f90eea8c5",
+      "sectionIndex": 8,
+      "question": "Analytic philosophy emphasizes:",
+      "options": [
+        "A) Mysticism",
+        "B) Language and logic",
+        "C) Poetry",
+        "D) Emotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "820372a964927f916cf53cac8473d5710868c944",
+      "sectionIndex": 8,
+      "question": "Continental philosophy is associated with:",
+      "options": [
+        "A) Only logic",
+        "B) Human experience and culture",
+        "C) Only science",
+        "D) Only mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a342ded2921d8da4dee9927df54c8d414786b66",
+      "sectionIndex": 8,
+      "question": "Sartre is associated with:",
+      "options": [
+        "A) Logical positivism",
+        "B) Existentialism",
+        "C) Behaviorism",
+        "D) Idealism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8087ccb0a1466f576706d047a572ce4d74e2c81e",
+      "sectionIndex": 8,
+      "question": "Foucault studied:",
+      "options": [
+        "A) Only ancient philosophy",
+        "B) Power and knowledge",
+        "C) Only logic",
+        "D) Only ethics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f8b5d237a35e5d97a08801c4c4937ed6b513e04",
+      "sectionIndex": 9,
+      "question": "Political philosophy studies:",
+      "options": [
+        "A) Only voting",
+        "B) Justice and government",
+        "C) Only war",
+        "D) Only peace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba8253df69a580d7c200efcb45858e37a4764c54",
+      "sectionIndex": 9,
+      "question": "Philosophy of science examines:",
+      "options": [
+        "A) Only experiments",
+        "B) The nature of scientific knowledge",
+        "C) Only technology",
+        "D) Only mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e71f1d0911b6282cf752cc59313a5c6f02b02687",
+      "sectionIndex": 9,
+      "question": "Philosophy of mind explores:",
+      "options": [
+        "A) Only the brain",
+        "B) Consciousness and mental states",
+        "C) Only behavior",
+        "D) Only neurology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "748ffa542dbbc45684f6d01b09e82319d10fa772",
+      "sectionIndex": 9,
+      "question": "Philosophy of language studies:",
+      "options": [
+        "A) Only grammar",
+        "B) Meaning and communication",
+        "C) Only vocabulary",
+        "D) Only pronunciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b32cb1659570da40bdb1acbf73e437cfab232ffd",
+      "sectionIndex": 9,
+      "question": "Medical ethics deals with:",
+      "options": [
+        "A) Only doctors",
+        "B) Moral issues in healthcare",
+        "C) Only patients",
+        "D) Only hospitals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "718165279cdb662c11ab7d3d7033ce3bbe904bb9",
+      "sectionIndex": 9,
+      "question": "Environmental ethics considers:",
+      "options": [
+        "A) Only humans",
+        "B) Our moral relationship with nature",
+        "C) Only animals",
+        "D) Only plants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a5c62ab93917ede3132624c41826112bd377032",
+      "sectionIndex": 9,
+      "question": "Business ethics examines:",
+      "options": [
+        "A) Only profits",
+        "B) Moral issues in commerce",
+        "C) Only losses",
+        "D) Only accounting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a028b070dd2b03b0a462556bd676a41dcce2872c",
+      "sectionIndex": 9,
+      "question": "Philosophy of religion explores:",
+      "options": [
+        "A) Only one religion",
+        "B) The nature of religious belief",
+        "C) Only atheism",
+        "D) Only rituals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "151ca37ef1eb73162c28c536283c27c43ab04a22",
+      "sectionIndex": 9,
+      "question": "Social philosophy studies:",
+      "options": [
+        "A) Only individuals",
+        "B) Society and social institutions",
+        "C) Only families",
+        "D) Only governments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17557f902d8769799dfaa38773d804a68986bc47",
+      "sectionIndex": 9,
+      "question": "Philosophy of education examines:",
+      "options": [
+        "A) Only teaching methods",
+        "B) The nature and aims of education",
+        "C) Only students",
+        "D) Only schools"
+      ],
+      "correct": "B"
+    }
+  ]
+}

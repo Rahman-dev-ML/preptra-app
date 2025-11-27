@@ -1,0 +1,539 @@
+{
+  "subject": "Town Planning & Urban Management",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 20,
+  "categories": [
+    "Master Planning & Development Strategy",
+    "Planner's Role & Multidisciplinary Teams",
+    "Urbanization & Growth Management",
+    "Zoning, Land Use & Development Control",
+    "Transport & Intelligent Transport Systems (ITS)",
+    "Housing, Affordability & Urban Equity",
+    "Sustainable Cities, Climate & SDG-11",
+    "GIS, Remote Sensing & Quant Methods",
+    "Historical & Comparative Planning",
+    "Urban Policy, Governance & Legal Frameworks",
+    "Public Participation & Stakeholder Engagement",
+    "Urban Design & Place-Making",
+    "Informality, Encroachments & Regularization",
+    "Disaster Risk, Health & External Shocks",
+    "Data, Indicators & Monitoring",
+    "Finance, PPPs & Project Delivery",
+    "Pakistan Context: Islamabad, Lahore, Karachi",
+    "Smart Cities & Digital Transformation",
+    "Implementation Challenges & Reform",
+    "Exam Strategy & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Master Planning: Concepts, Process & Critique",
+      "content": "Define master plan (vision, land use, infrastructure, phasing, implementation). Explain plan-making cycle: baseline diagnostics → vision/scenarios → structure plan → detailed zoning & codes → infrastructure/finance plan → implementation & monitoring. Critically evaluate limits of static master plans vs. flexible, incremental and performance-based frameworks.",
+      "keyTakeaways": [
+        "Use scenario planning and implementation toolkits (phasing, financing, PPPs).",
+        "Contrast conventional blueprint planning with adaptive, data-driven approaches.",
+        "Common Pakistan pitfalls: weak enforcement, fragmented institutions, financing gaps."
+      ],
+      "resources": [
+        {
+          "title": "CDA Planning & Design Wing (Islamabad Master Plan context)",
+          "url": "https://www.cda.gov.pk/planningAndDesignWing",
+          "type": "official",
+          "description": "Mandate & planning functions"
+        },
+        {
+          "title": "Islamabad Master Plan — overview & review paper (PIDE)",
+          "url": "https://file.pide.org.pk/pdfpideresearch/pv-21-the-islamabad-master-plan.pdf",
+          "type": "paper",
+          "description": "Strengths, failures, lessons"
+        },
+        {
+          "title": "Lahore Master Plan 2050 (Draft/Final PDFs)",
+          "url": "https://lda.gop.pk/website/images/Draft_Master_Plan_of_Lahore_02_11_2022.pdf",
+          "type": "plan",
+          "description": "District-wide strategy and maps"
+        }
+      ],
+      "importance": "high",
+      "category": "Master Planning & Development Strategy",
+      "topics": ["Master Plan", "Structure Plan", "Phasing", "Implementation"]
+    },
+    {
+      "id": "2",
+      "title": "Project Team & Multidisciplinary Leadership",
+      "content": "Planner leads a team including transport engineers, architects/urban designers, environmental scientists, economists, sociologists, demographers, GIS analysts, legal experts and finance/PPP specialists. Leadership traits: integrative thinking, systems view, participatory methods, ethical practice.",
+      "keyTakeaways": [
+        "Justify why planners (not single-discipline engineers/architects) should lead strategy.",
+        "Show RACI roles across plan stages; cite Pakistan case teams (CDA/LDA).",
+        "Link leadership to stakeholder engagement and conflict mediation."
+      ],
+      "resources": [
+        {
+          "title": "CDA Planning Wing (roles & structure)",
+          "url": "https://www.cda.gov.pk/planningAndDesignWing",
+          "type": "official",
+          "description": "Directorates & responsibilities"
+        }
+      ],
+      "importance": "high",
+      "category": "Planner's Role & Multidisciplinary Teams",
+      "topics": ["Leadership", "Team Composition", "Stakeholders"]
+    },
+    {
+      "id": "3",
+      "title": "Urbanization, Migration & Growth Management",
+      "content": "Explain drivers (demographic transition, rural-urban migration, economic clustering), pros/cons, and tools (growth boundaries, TOD, densification with services, regional planning).",
+      "keyTakeaways": [
+        "Differentiate urbanization vs. sprawl; diagnose Pakistani metro patterns.",
+        "Pair densification with transit, utilities and open space standards.",
+        "Balance metropolitan core and peripheral tehsils through regional coordination."
+      ],
+      "resources": [
+        {
+          "title": "UN SDG-11 Key Facts & Targets",
+          "url": "https://sdgs.un.org/goals/goal11",
+          "type": "portal",
+          "description": "Global urbanization indicators"
+        },
+        {
+          "title": "UN Sustainable Development — Goal 11 overview",
+          "url": "https://www.un.org/sustainabledevelopment/cities/",
+          "type": "portal",
+          "description": "Narrative & data points"
+        }
+      ],
+      "importance": "high",
+      "category": "Urbanization & Growth Management",
+      "topics": ["Urbanization", "Sprawl", "Regional Planning", "TOD"]
+    },
+    {
+      "id": "4",
+      "title": "Zoning, Land Use & Development Control",
+      "content": "Explain zoning purpose, types (use, form-based, performance), overlays (heritage, floodplains), subdivision rules and building bylaws. Discuss Pakistan's varied provincial/municipal regimes and enforcement issues.",
+      "keyTakeaways": [
+        "Compare Euclidean vs. form-based codes; when to use each.",
+        "Pakistan practice: SBCA (Karachi) & LDA (Lahore) regulations as exemplars.",
+        "Development control works only with monitoring and appeal mechanisms."
+      ],
+      "resources": [
+        {
+          "title": "Karachi Building & Town Planning Regulations, 2002 (KBTPR)",
+          "url": "https://www.shehri.org/publications_html/building%20bye-laws/KBTPR2002.pdf",
+          "type": "law-pdf",
+          "description": "Full text (amended)"
+        },
+        {
+          "title": "LDA Building & Zoning Regulations 2019",
+          "url": "https://lda.gop.pk/website/images/Amended_Building_Regulations_2019_with_amendment_approved_till_28_01_2020.pdf",
+          "type": "law-pdf",
+          "description": "Lahore rules & standards"
+        },
+        {
+          "title": "Punjab Development of Cities Act (1976) & Amendments",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/PUNJAB_DEVELOPMENT_OF_CITIES_%28AMENDMENT%29_ACT_2014.doc.pdf",
+          "type": "law-pdf",
+          "description": "Statutory basis for master plans"
+        }
+      ],
+      "importance": "high",
+      "category": "Zoning, Land Use & Development Control",
+      "topics": ["Zoning", "Subdivision", "Bylaws", "Enforcement"]
+    },
+    {
+      "id": "5",
+      "title": "Transport Planning & ITS",
+      "content": "Define ITS and its components: signal control, AVL/RTPI, incident management, integrated fare & ticketing, traveler information, data platforms. Link to safety, efficiency, environment (mode shift to PT/NMT).",
+      "keyTakeaways": [
+        "Use indicators: VKT per capita, PT mode share, travel time reliability.",
+        "For Pakistan: prioritize BRT integration, traffic management centers, low-cost ITS pilots.",
+        "Tie ITS to street design (NMT) and parking management, not tech alone."
+      ],
+      "resources": [
+        {
+          "title": "USDOT ITS Joint Program Office (ITS JPO)",
+          "url": "https://www.its.dot.gov/",
+          "type": "portal",
+          "description": "Authoritative definitions & programs"
+        },
+        {
+          "title": "ITS Program — USDOT (overview PDF)",
+          "url": "https://www.transportation.gov/sites/dot.gov/files/2022-02/AMRP%20FY2022-2023%20ITSJPO%20FINAL.pdf",
+          "type": "report-pdf",
+          "description": "Scope & outcomes"
+        },
+        {
+          "title": "FHWA: ITS Security & Systems (classic technical brief)",
+          "url": "https://www.fhwa.dot.gov/publications/research/operations/its/jpo98009/itssecanalysis.pdf",
+          "type": "tech-pdf",
+          "description": "ITS components & considerations"
+        }
+      ],
+      "importance": "high",
+      "category": "Transport & Intelligent Transport Systems (ITS)",
+      "topics": ["ITS", "Mobility", "Traffic Management", "BRT/NMT"]
+    },
+    {
+      "id": "6",
+      "title": "Housing Affordability & Policy Options",
+      "content": "Define affordability (price-to-income, rent burden). Discuss supply-side (land readjustment, density bonuses, micro-units) and demand-side tools (subsidies, concessional mortgages), plus serviced land/site-and-services and rental housing strategies.",
+      "keyTakeaways": [
+        "Pakistan faces both stock shortage and poor quality; beyond mortgages, boost serviced land & incremental housing.",
+        "Target low-income with cross-subsidies, inclusionary zoning and rental vouchers.",
+        "Strengthen cadastre, titling and building approval reforms to cut costs/time."
+      ],
+      "resources": [
+        {
+          "title": "World Bank — Pakistan Housing Finance (diagnostics)",
+          "url": "https://documents1.worldbank.org/curated/en/099946508092234254/pdf/IDU0500756780bb12042020b47c0dcd89977c67a.pdf",
+          "type": "report-pdf",
+          "description": "Affordability & supply constraints"
+        },
+        {
+          "title": "Pakistan Mortgage Refinance Company — Housing Market (2025)",
+          "url": "https://pmrc.com.pk/wp-content/uploads/2025/01/A-Comprehensive-Analysis-of-Pakistans-Housing-Market-Summarized-Report.pdf",
+          "type": "report-pdf",
+          "description": "Recent market analysis"
+        },
+        {
+          "title": "NAPHDA — Policy & Low-Cost Housing Models",
+          "url": "https://naphda.gov.pk/HousingPolicies.aspx",
+          "type": "official",
+          "description": "Government programs & SOPs"
+        }
+      ],
+      "importance": "high",
+      "category": "Housing, Affordability & Urban Equity",
+      "topics": ["Affordability", "Incremental Housing", "Inclusionary Zoning"]
+    },
+    {
+      "id": "7",
+      "title": "Sustainable Urban Development & SDG-11",
+      "content": "Link compact, mixed-use, transit-oriented urban form with climate resilience (UHI mitigation, blue-green infrastructure), waste & water management, and disaster risk reduction. Explain SDG-11 targets and localizing them in Pakistani cities.",
+      "keyTakeaways": [
+        "Use green/blue networks, heat-resilient street sections and nature-based solutions.",
+        "Pair climate actions with equity (cooling access, safe PT/NMT).",
+        "Report progress with SDG-aligned indicators."
+      ],
+      "resources": [
+        {
+          "title": "UN DESA — SDG-11 official target page",
+          "url": "https://sdgs.un.org/goals/goal11",
+          "type": "portal",
+          "description": "Targets & global stats"
+        },
+        {
+          "title": "UN-Habitat SDG-11 Synthesis Report",
+          "url": "https://unhabitat.org/sdg-11-synthesis-report",
+          "type": "report",
+          "description": "Progress, challenges, opportunities"
+        }
+      ],
+      "importance": "high",
+      "category": "Sustainable Cities, Climate & SDG-11",
+      "topics": ["Compact City", "NBS", "UHI", "SDG-11"]
+    },
+    {
+      "id": "8",
+      "title": "GIS, Remote Sensing & Quantitative Tools",
+      "content": "Core skills: land-use/transport modeling, network analysis, accessibility indices, density/coverage mapping, suitability analysis, slum/informal settlement mapping; data governance & open data.",
+      "keyTakeaways": [
+        "Combine RS (change detection) with parcel-level permits for enforcement.",
+        "Dashboard KPIs for live monitoring.",
+        "Discuss limitations (data quality, skills, institutional uptake)."
+      ],
+      "resources": [
+        {
+          "title": "LDA & CDA datasets within plan documents",
+          "url": "https://lda.gop.pk/website/images/master_plan_PDF/master_plan_Page_01.pdf",
+          "type": "plan",
+          "description": "Map layers & legends (example)"
+        }
+      ],
+      "importance": "medium",
+      "category": "GIS, Remote Sensing & Quant Methods",
+      "topics": ["GIS", "RS", "Accessibility", "Suitability"]
+    },
+    {
+      "id": "9",
+      "title": "Historical & Comparative Urban Forms",
+      "content": "Relate grid systems, sanitation and civic planning in Indus Valley to contemporary infrastructure corridors; compare with Mesopotamia and European medieval/renaissance structures to draw modern lessons (block size, public realm, water management).",
+      "keyTakeaways": [
+        "Use historical cases to justify block sizes, drainage, and redundancy.",
+        "Argue continuity of planning principles across eras.",
+        "Bridge archaeology and modern urban design."
+      ],
+      "resources": [
+        {
+          "title": "UN & academic summaries within SDG-11 context",
+          "url": "https://www.un.org/sustainabledevelopment/cities/",
+          "type": "portal",
+          "description": "Comparative framing & references"
+        }
+      ],
+      "importance": "medium",
+      "category": "Historical & Comparative Planning",
+      "topics": ["Indus Valley", "Mesopotamia", "European Cities"]
+    },
+    {
+      "id": "10",
+      "title": "Urban Policy, Governance & Legal Architecture",
+      "content": "Explain vertical (federal–provincial–local) allocation, statutory instruments (master plan approval, zoning by-laws), appeals and enforcement. Discuss capacity, political economy, and reform levers.",
+      "keyTakeaways": [
+        "Cite enabling acts and regulations (Punjab Cities Act, SBCA regs).",
+        "Stress consistency across plans, budgets and permits.",
+        "Propose digitized approvals and independent appeals boards."
+      ],
+      "resources": [
+        {
+          "title": "Punjab Development of Cities Act (1976/2014 amendment)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/PUNJAB_DEVELOPMENT_OF_CITIES_%28AMENDMENT%29_ACT_2014.doc.pdf",
+          "type": "law-pdf",
+          "description": "Statutory powers & offences"
+        },
+        {
+          "title": "KBTPR-2002 (Karachi) — legal framework",
+          "url": "https://www.shehri.org/publications_html/building%20bye-laws/KBTPR2002.pdf",
+          "type": "law-pdf",
+          "description": "Bylaws & procedures"
+        }
+      ],
+      "importance": "high",
+      "category": "Urban Policy, Governance & Legal Frameworks",
+      "topics": ["Governance", "Statutes", "Enforcement", "Appeals"]
+    },
+    {
+      "id": "11",
+      "title": "Public Participation & Inclusive Planning",
+      "content": "Design participatory processes (scoping, charrettes, ward committees, grievance redress). Address equity (gender, elderly, PWD, informal workers).",
+      "keyTakeaways": [
+        "Participation improves legitimacy and compliance.",
+        "Use multilingual, accessible tools and transparent feedback loops.",
+        "Pair participation with legal/administrative follow-through."
+      ],
+      "resources": [
+        {
+          "title": "UN-Habitat SDG-11 guidance (participation indicators)",
+          "url": "https://unhabitat.org/sdg-11-synthesis-report",
+          "type": "report",
+          "description": "Participation & inclusivity metrics"
+        }
+      ],
+      "importance": "medium",
+      "category": "Public Participation & Stakeholder Engagement",
+      "topics": ["Participation", "Inclusion", "GRM"]
+    },
+    {
+      "id": "12",
+      "title": "Urban Design, Public Realm & Place-Making",
+      "content": "Key elements: block size, frontage, active edges, street sections prioritizing NMT/PT, open space standards, heritage integration, tactical urbanism.",
+      "keyTakeaways": [
+        "Tie urban design to health, safety and economic vibrancy.",
+        "Measure with walkability/accessibility indicators.",
+        "Design codes must align with bylaws and transport strategy."
+      ],
+      "resources": [
+        {
+          "title": "LDA Zoning/Building Regs — dimensional standards",
+          "url": "https://lda.gop.pk/website/images/Amended_Building_Regulations_2019_with_amendment_approved_till_28_01_2020.pdf",
+          "type": "law-pdf",
+          "description": "Heights, setbacks, land subdivision"
+        }
+      ],
+      "importance": "medium",
+      "category": "Urban Design & Place-Making",
+      "topics": ["Street Design", "Open Space", "Form-based Ideas"]
+    },
+    {
+      "id": "13",
+      "title": "Informality, Encroachments & Regularization",
+      "content": "Examine causes (housing deficit, weak land markets), policy responses (upgrading, tenure security, services, livelihood support) and legal/administrative constraints around removals and rights.",
+      "keyTakeaways": [
+        "Prefer in-situ upgrading with infrastructure and tenure options.",
+        "Coordinate with social protection and transport access.",
+        "Use evidence and due process to balance rights and public realm."
+      ],
+      "resources": [
+        {
+          "title": "SDG-11 housing target context (slums)",
+          "url": "https://sdgs.un.org/goals/goal11",
+          "type": "portal",
+          "description": "Global figures & targets"
+        }
+      ],
+      "importance": "high",
+      "category": "Informality, Encroachments & Regularization",
+      "topics": ["Informal Settlements", "Tenure", "Upgrading"]
+    },
+    {
+      "id": "14",
+      "title": "Disaster Risk, Health & External Shocks",
+      "content": "Integrate pandemic-resilient urban design (public space, ventilation, crowding), flood/heat risk mapping, emergency routes, shelters, and continuity planning.",
+      "keyTakeaways": [
+        "Combine blue-green infra with emergency management plans.",
+        "Assess health access and environmental justice gaps.",
+        "Use heat action plans and resilient shelter standards."
+      ],
+      "resources": [
+        {
+          "title": "UN-Habitat/UN SDG-11 materials",
+          "url": "https://unhabitat.org/sdg-11-synthesis-report",
+          "type": "report",
+          "description": "City resilience & health linkages"
+        }
+      ],
+      "importance": "medium",
+      "category": "Disaster Risk, Health & External Shocks",
+      "topics": ["Pandemic", "Heat", "Flood", "Resilience"]
+    },
+    {
+      "id": "15",
+      "title": "Data, Indicators & Monitoring Framework",
+      "content": "Define KPIs tied to SDG-11 and national goals: housing adequacy, slum share, PT access within 500–800m, VKT, crash rates, UHI intensity, green space per capita, permit times, compliance rates.",
+      "keyTakeaways": [
+        "Build dashboards tied to plan actions and budget lines.",
+        "Use open data and periodic audits to improve compliance.",
+        "Link KPIs to incentives and citizen reporting."
+      ],
+      "resources": [
+        {
+          "title": "UN SDG-11 indicators (official)",
+          "url": "https://sdgs.un.org/goals/goal11",
+          "type": "portal",
+          "description": "Definitions & metadata"
+        }
+      ],
+      "importance": "medium",
+      "category": "Data, Indicators & Monitoring",
+      "topics": ["KPIs", "Dashboards", "Audits"]
+    },
+    {
+      "id": "16",
+      "title": "Finance, PPPs & Delivery",
+      "content": "Map capex/opex, land value capture (betterment levies, impact fees), PPP structures for transit & utilities, and municipal creditworthiness.",
+      "keyTakeaways": [
+        "Phasing plans must match financing sources and procurement.",
+        "Use LVC around transit and serviced land programs.",
+        "Strengthen PFM, user charges and subsidy design."
+      ],
+      "resources": [
+        {
+          "title": "World Bank Housing/Urban finance insights (Pakistan)",
+          "url": "https://documents1.worldbank.org/curated/en/099946508092234254/pdf/IDU0500756780bb12042020b47c0dcd89977c67a.pdf",
+          "type": "report-pdf",
+          "description": "Financing constraints & options"
+        }
+      ],
+      "importance": "medium",
+      "category": "Finance, PPPs & Project Delivery",
+      "topics": ["LVC", "PPPs", "Creditworthiness"]
+    },
+    {
+      "id": "17",
+      "title": "Pakistan Case Studies: Islamabad, Lahore, Karachi",
+      "content": "Use these as anchors for essays: Islamabad (Doxiadis plan; review issues and reforms), Lahore (2050 district master plan; peri-urban growth, water, air quality), Karachi (KBTPR, informality, port logistics, density and services).",
+      "keyTakeaways": [
+        "Compare plan intent vs. outcomes; list implementation gaps.",
+        "Cite legal underpinnings (Acts, bylaws) and institutional roles.",
+        "Use maps/tables from official PDFs for evidence."
+      ],
+      "resources": [
+        {
+          "title": "Islamabad Master Plan — PIDE review",
+          "url": "https://file.pide.org.pk/pdfpideresearch/pv-21-the-islamabad-master-plan.pdf",
+          "type": "paper",
+          "description": "Critical analysis"
+        },
+        {
+          "title": "Lahore Master Plan 2050 (maps)",
+          "url": "https://lda.gop.pk/website/images/master_plan_PDF/master_plan_Page_01.pdf",
+          "type": "plan",
+          "description": "Map pages & legends"
+        },
+        {
+          "title": "KBTPR-2002 (Karachi)",
+          "url": "https://www.shehri.org/publications_html/building%20bye-laws/KBTPR2002.pdf",
+          "type": "law-pdf",
+          "description": "Regulatory framework"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context: Islamabad, Lahore, Karachi",
+      "topics": ["Islamabad", "Lahore", "Karachi", "Implementation"]
+    },
+    {
+      "id": "18",
+      "title": "Smart Cities & Digital Transformation",
+      "content": "Define smart city beyond gadgets: integrated data platforms, open data, sensor networks supporting core outcomes (mobility, utilities, safety, environment) with governance and privacy.",
+      "keyTakeaways": [
+        "Prioritize outcomes over tech procurement.",
+        "Use ITS, smart metering and e-permitting to cut losses and delays.",
+        "Ensure cybersecurity and data governance."
+      ],
+      "resources": [
+        {
+          "title": "USDOT ITS JPO (digital mobility systems)",
+          "url": "https://www.its.dot.gov/",
+          "type": "portal",
+          "description": "Architecture & deployments"
+        }
+      ],
+      "importance": "medium",
+      "category": "Smart Cities & Digital Transformation",
+      "topics": ["Smart City", "e-Governance", "Data Platforms"]
+    },
+    {
+      "id": "19",
+      "title": "Implementation Challenges & Reform Agenda",
+      "content": "Tackle fragmentation, political interference, land records opacity, weak revenue autonomy, limited M&E. Prioritize permitting reform, one-window systems, e-inspections, anti-encroachment policy with resettlement, and capacity building.",
+      "keyTakeaways": [
+        "Institutional reforms matter as much as technical fixes.",
+        "Budget-plan alignment and strong M&E are non-negotiable.",
+        "Legal clarity + digital systems improve compliance."
+      ],
+      "resources": [
+        {
+          "title": "Islamabad Master Plan review — governance gaps",
+          "url": "https://file.pide.org.pk/pdfpideresearch/pv-21-the-islamabad-master-plan.pdf",
+          "type": "paper",
+          "description": "Implementation issues"
+        }
+      ],
+      "importance": "high",
+      "category": "Implementation Challenges & Reform",
+      "topics": ["Permits", "Monitoring", "Capacity", "Land Records"]
+    },
+    {
+      "id": "20",
+      "title": "Exam Strategy & Past Papers",
+      "content": "Structure 20-mark answers with: intro (definition + context), analytical core (data/maps/cases), local law references, and reform proposals. Prepare short notes (ITS, GIS, affordable housing, zoning types). Build a personal atlas (key maps of Islamabad/Lahore/Karachi).",
+      "keyTakeaways": [
+        "Always ground theory in Pakistan cases and laws.",
+        "Quote SDG-11 targets and local bylaws where relevant.",
+        "Use diagrams: land-use hierarchy, TOD section, blue-green network."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Previous Question Papers",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "official",
+          "description": "Primary source of CSS papers"
+        },
+        {
+          "title": "Lahore Master Plan 2050 (alt link)",
+          "url": "https://eproperty.pk/wp-content/uploads/2022/11/Lahore-Master-Plan-2050.pdf",
+          "type": "plan",
+          "description": "Accessible mirror (for maps)"
+        },
+        {
+          "title": "CDA — Master Plan references & notices",
+          "url": "https://www.cda.gov.pk/planningAndDesignWing",
+          "type": "official",
+          "description": "Official planning context"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Answer Structure", "Maps/Diagrams", "Short Notes"]
+    }
+  ]
+}

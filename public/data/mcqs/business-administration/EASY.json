@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:49:44.388Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "91c623453db50e062625681c508511ec970e88c8",
+      "sectionIndex": 0,
+      "question": "Management is best defined as:",
+      "options": [
+        "A) Doing work yourself",
+        "B) Getting work done through others",
+        "C) Avoiding work",
+        "D) Only planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c72aa1eac75184523e81318e49cadb8f55dc6e17",
+      "sectionIndex": 0,
+      "question": "The four basic functions of management are:",
+      "options": [
+        "A) Planning, Organizing, Leading, Controlling",
+        "B) Hiring, Firing, Training, Paying",
+        "C) Buying, Selling, Marketing, Accounting",
+        "D) Research, Development, Production, Sales"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "001ea91eb8a6bf2e1943faead9d5f38fb57740f4",
+      "sectionIndex": 0,
+      "question": "Theory X assumes that employees:",
+      "options": [
+        "A) Love to work",
+        "B) Are lazy and need supervision",
+        "C) Are self-motivated",
+        "D) Work without pay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee56d98af3acf1ee1e30b2ddc38af183c294aa88",
+      "sectionIndex": 0,
+      "question": "Theory Y assumes that employees:",
+      "options": [
+        "A) Hate work",
+        "B) Are self-directed and creative",
+        "C) Need constant supervision",
+        "D) Avoid responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "576c6382fe545629011c537aa7b7638c688770e8",
+      "sectionIndex": 0,
+      "question": "The father of scientific management is:",
+      "options": [
+        "A) Henri Fayol",
+        "B) Frederick Taylor",
+        "C) Max Weber",
+        "D) Elton Mayo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "587134a2b3b7772b29e8a2e01e5cee3a988b9fe9",
+      "sectionIndex": 0,
+      "question": "Maslow's hierarchy of needs starts with:",
+      "options": [
+        "A) Self-actualization",
+        "B) Esteem needs",
+        "C) Physiological needs",
+        "D) Safety needs"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4ba0af4532705a344ac210a364898144ca2a44ad",
+      "sectionIndex": 0,
+      "question": "In Herzberg's theory, hygiene factors include:",
+      "options": [
+        "A) Achievement",
+        "B) Recognition",
+        "C) Salary",
+        "D) Growth"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "35bac4ee0d864b8ac79cc21029defdba40013bc9",
+      "sectionIndex": 0,
+      "question": "In Herzberg's theory, motivators include:",
+      "options": [
+        "A) Company policy",
+        "B) Working conditions",
+        "C) Achievement",
+        "D) Supervision"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6e5f99b9fff3c11c2e0e13088b1bc0bb67e37ede",
+      "sectionIndex": 0,
+      "question": "Decentralization means:",
+      "options": [
+        "A) All decisions at top",
+        "B) Delegation of authority to lower levels",
+        "C) No decision making",
+        "D) Central location only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "390a6c445c9d0fd80368e755adc19b689a0f9790",
+      "sectionIndex": 0,
+      "question": "Span of control refers to:",
+      "options": [
+        "A) Physical reach",
+        "B) Number of subordinates reporting to a manager",
+        "C) Control systems",
+        "D) Time period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de7c161b6fbbf9532f64788edfaeb0f31f498e47",
+      "sectionIndex": 1,
+      "question": "A leader differs from a manager in that a leader:",
+      "options": [
+        "A) Only gives orders",
+        "B) Inspires and influences others",
+        "C) Focuses only on tasks",
+        "D) Avoids people"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc63851bc5f87bafb7b4bc414fdeca27727643f2",
+      "sectionIndex": 1,
+      "question": "Autocratic leadership style means:",
+      "options": [
+        "A) Group decisions",
+        "B) Leader makes all decisions",
+        "C) No decisions",
+        "D) Random decisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4f379cf7d2624c8d3cff3c7064494ba24d2a6a7",
+      "sectionIndex": 1,
+      "question": "Democratic leadership involves:",
+      "options": [
+        "A) No leadership",
+        "B) Participative decision making",
+        "C) Dictatorship",
+        "D) Avoiding decisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f558eb00db92edff0843be73a63e50914814a4e5",
+      "sectionIndex": 1,
+      "question": "Laissez-faire leadership means:",
+      "options": [
+        "A) Strict control",
+        "B) Hands-off approach",
+        "C) Democratic voting",
+        "D) Military style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d5949e84ca179712345fe0bf2895f78f2c1b137",
+      "sectionIndex": 1,
+      "question": "Motivation is best described as:",
+      "options": [
+        "A) Force that energizes behavior",
+        "B) Punishment",
+        "C) Money only",
+        "D) Fear"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ea40b7767e6dcee11e70d9026280f75341152cef",
+      "sectionIndex": 1,
+      "question": "Intrinsic motivation comes from:",
+      "options": [
+        "A) External rewards",
+        "B) Internal satisfaction",
+        "C) Punishment",
+        "D) Peer pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "454c4fe42cfb8be76893290b65976be6e02a8cd0",
+      "sectionIndex": 1,
+      "question": "Extrinsic motivation comes from:",
+      "options": [
+        "A) Internal feelings",
+        "B) External rewards",
+        "C) Self-satisfaction",
+        "D) Personal growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6fc5ae84638631f87d3cb0ab36ede3d38ad4cc6",
+      "sectionIndex": 1,
+      "question": "The highest level in Maslow's hierarchy is:",
+      "options": [
+        "A) Safety",
+        "B) Social needs",
+        "C) Self-actualization",
+        "D) Physiological"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "547e1fa104d8491d8eb4532d8058da31841d8909",
+      "sectionIndex": 1,
+      "question": "According to McGregor, managers who believe in Theory X will:",
+      "options": [
+        "A) Give freedom",
+        "B) Use tight control",
+        "C) Trust employees",
+        "D) Delegate fully"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e279ee5cdaa5861c41127f27f2f3e3748cf5471f",
+      "sectionIndex": 1,
+      "question": "Transformational leadership focuses on:",
+      "options": [
+        "A) Maintaining status quo",
+        "B) Inspiring change and innovation",
+        "C) Transactions only",
+        "D) Punishment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "918c7e4786e75696fb822df99a453e01c4c8d418",
+      "sectionIndex": 2,
+      "question": "Organizational structure defines:",
+      "options": [
+        "A) Building design",
+        "B) Formal arrangement of jobs and tasks",
+        "C) Informal groups",
+        "D) Physical layout"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac911cb06b014f5cf85d2ad9b9b9e839d397c7c5",
+      "sectionIndex": 2,
+      "question": "Chain of command refers to:",
+      "options": [
+        "A) Military only",
+        "B) Line of authority from top to bottom",
+        "C) Informal communication",
+        "D) Horizontal relationships"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c61c20e9283956c258cf4e508ddde68efd6852de",
+      "sectionIndex": 2,
+      "question": "Functional structure groups employees by:",
+      "options": [
+        "A) Products",
+        "B) Geographic location",
+        "C) Similar activities or expertise",
+        "D) Customer type"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3b34236b801ddaa7d63bed126984adf476e5b687",
+      "sectionIndex": 2,
+      "question": "Matrix structure combines:",
+      "options": [
+        "A) Only functional",
+        "B) Functional and project-based reporting",
+        "C) Only divisional",
+        "D) No structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6260aeca9c16a23e5b79c503c14e205239668db",
+      "sectionIndex": 2,
+      "question": "Organizational culture is:",
+      "options": [
+        "A) National culture",
+        "B) Shared values and beliefs in organization",
+        "C) Building architecture",
+        "D) Government rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e451fe29ca05fe4e8c38164182ad074712c27363",
+      "sectionIndex": 2,
+      "question": "Formal organization refers to:",
+      "options": [
+        "A) Dress code",
+        "B) Official structure and relationships",
+        "C) Social groups",
+        "D) Parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "689353462138e184933874adf92e5ff4c3c42ee5",
+      "sectionIndex": 2,
+      "question": "Informal organization consists of:",
+      "options": [
+        "A) Official hierarchy",
+        "B) Unofficial relationships and groups",
+        "C) Written rules",
+        "D) Job descriptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ba507474c625a55277ea82f3ef28d2dea47a7a8",
+      "sectionIndex": 2,
+      "question": "Delegation means:",
+      "options": [
+        "A) Avoiding work",
+        "B) Assigning authority to subordinates",
+        "C) Taking all decisions",
+        "D) Hiring people"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fb4f3e2b6f813dce3849636e9a07b0f0d4c8b65",
+      "sectionIndex": 2,
+      "question": "Unity of command principle states:",
+      "options": [
+        "A) Many bosses better",
+        "B) Employee should report to only one supervisor",
+        "C) No supervision needed",
+        "D) Committees decide"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80ee67f6b5f1393c481d6caff4b291dd06d1109b",
+      "sectionIndex": 2,
+      "question": "Departmentalization can be based on:",
+      "options": [
+        "A) Function only",
+        "B) Function, product, geography, or customer",
+        "C) Random grouping",
+        "D) Size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56a81eeefa0c06d5e00936656fb2311e472cac6e",
+      "sectionIndex": 3,
+      "question": "Marketing is best defined as:",
+      "options": [
+        "A) Just selling",
+        "B) Creating value for customers",
+        "C) Advertising only",
+        "D) Distribution only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1fd317f61de302102ff91ba21685b1d87ab4b3a3",
+      "sectionIndex": 3,
+      "question": "The marketing concept focuses on:",
+      "options": [
+        "A) Product features only",
+        "B) Customer needs and wants",
+        "C) Company profits only",
+        "D) Competition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa8358c2d95b88112630b73b26921b05172f6ff2",
+      "sectionIndex": 3,
+      "question": "The selling concept emphasizes:",
+      "options": [
+        "A) Customer needs",
+        "B) Aggressive selling and promotion",
+        "C) Product quality",
+        "D) Long-term relationships"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9317ad21b22473ae71e2cfccfc333188c96b6ae9",
+      "sectionIndex": 3,
+      "question": "Marketing mix consists of:",
+      "options": [
+        "A) 2 Ps",
+        "B) 4 Ps",
+        "C) 6 Ps",
+        "D) 8 Ps"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad5a95792806de9717b84533300c7f4a2b82e4e1",
+      "sectionIndex": 3,
+      "question": "The 4 Ps of marketing are:",
+      "options": [
+        "A) People, Process, Physical, Promotion",
+        "B) Product, Price, Place, Promotion",
+        "C) Planning, Producing, Pricing, Promoting",
+        "D) Profit, Product, People, Place"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3a90ad0d321423617295ebac8c36f2509b0ccec",
+      "sectionIndex": 3,
+      "question": "Product in marketing mix includes:",
+      "options": [
+        "A) Only physical goods",
+        "B) Goods, services, and ideas",
+        "C) Price only",
+        "D) Location only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1fc7672f756e482e646ba6b1ec00b41e1189284",
+      "sectionIndex": 3,
+      "question": "Place in marketing mix refers to:",
+      "options": [
+        "A) Geography only",
+        "B) Distribution channels",
+        "C) Factory location",
+        "D) Office space"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64d5aeb3c2de942ba996345707aaca586ee41453",
+      "sectionIndex": 3,
+      "question": "Market segmentation means:",
+      "options": [
+        "A) Cutting the market",
+        "B) Dividing market into distinct groups",
+        "C) Ignoring differences",
+        "D) Mass marketing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ed13336ce36f6afb2b75b1f36065f0b0d2bebb6",
+      "sectionIndex": 3,
+      "question": "Target marketing involves:",
+      "options": [
+        "A) Shooting targets",
+        "B) Selecting specific segments to serve",
+        "C) Serving everyone",
+        "D) Random selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "578bf512de7c5218e9ea8c89bd8f6d692b31b0ee",
+      "sectionIndex": 3,
+      "question": "Positioning refers to:",
+      "options": [
+        "A) Physical location",
+        "B) Creating distinct image in customer's mind",
+        "C) Shelf space",
+        "D) Geographic position"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ecee88f0977bac91423af2b49fe08764a3a35af",
+      "sectionIndex": 4,
+      "question": "Finance function primarily deals with:",
+      "options": [
+        "A) Only accounting",
+        "B) Managing money and investments",
+        "C) Only budgeting",
+        "D) Only reporting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ccdbdf7ec2dc4221771f00d9cbd0c4fd226e6e7",
+      "sectionIndex": 4,
+      "question": "Current assets include:",
+      "options": [
+        "A) Buildings",
+        "B) Cash and inventory",
+        "C) Land",
+        "D) Equipment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f129f0cfd049abf7d89f32eb1ef33774af034f96",
+      "sectionIndex": 4,
+      "question": "Current liabilities are debts due within:",
+      "options": [
+        "A) 5 years",
+        "B) 1 year",
+        "C) 10 years",
+        "D) 20 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c976197e4d0aa8a505a665c041d887138766033a",
+      "sectionIndex": 4,
+      "question": "Working capital equals:",
+      "options": [
+        "A) Total assets",
+        "B) Current assets minus current liabilities",
+        "C) Fixed assets",
+        "D) Total liabilities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "570f1c380042bcb344df62b4b029b4efb5a553ec",
+      "sectionIndex": 4,
+      "question": "Liquidity refers to:",
+      "options": [
+        "A) Water content",
+        "B) Ability to meet short-term obligations",
+        "C) Profitability",
+        "D) Long-term solvency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50b70bf1ca2e2085ef57e128c3095278462a637e",
+      "sectionIndex": 4,
+      "question": "The current ratio formula is:",
+      "options": [
+        "A) Current Assets ÷ Current Liabilities",
+        "B) Quick Assets ÷ Current Liabilities",
+        "C) Total Assets ÷ Total Liabilities",
+        "D) Cash ÷ Liabilities"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a5f068e30eece394d455c7c3ab983ad3571ee3a1",
+      "sectionIndex": 4,
+      "question": "A current ratio of 2:1 means:",
+      "options": [
+        "A) Two liabilities for each asset",
+        "B) Two dollars of current assets for each dollar of current liability",
+        "C) Equal assets and liabilities",
+        "D) Negative working capital"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "450462e29ab08d2c54d35692c17afd676fe7013e",
+      "sectionIndex": 4,
+      "question": "Quick ratio excludes:",
+      "options": [
+        "A) Cash",
+        "B) Inventory",
+        "C) Receivables",
+        "D) Marketable securities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7559d87395fd3454f95ebc80c95b7b0d118eb97",
+      "sectionIndex": 4,
+      "question": "ROI stands for:",
+      "options": [
+        "A) Return on Investment",
+        "B) Rate of Interest",
+        "C) Risk of Investment",
+        "D) Ratio of Income"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1e5c6dff0f94a2d5eb1322858e538bb34ef0539b",
+      "sectionIndex": 4,
+      "question": "ROE stands for:",
+      "options": [
+        "A) Return on Expenses",
+        "B) Return on Equity",
+        "C) Rate of Exchange",
+        "D) Ratio of Earnings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1df9c96a7aa8dfd23682c0eda92cc716c6c4ee70",
+      "sectionIndex": 5,
+      "question": "Financial statements include all EXCEPT:",
+      "options": [
+        "A) Balance sheet",
+        "B) Income statement",
+        "C) Employee list",
+        "D) Cash flow statement"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1c66bd18fdf52f5d87b69f0f5fa3c607bef9896a",
+      "sectionIndex": 5,
+      "question": "Balance sheet shows:",
+      "options": [
+        "A) Only profits",
+        "B) Financial position at a point in time",
+        "C) Only cash",
+        "D) Future projections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dce056c575372eaa72fc95978612e13433d88d1d",
+      "sectionIndex": 5,
+      "question": "Income statement shows:",
+      "options": [
+        "A) Only revenue",
+        "B) Revenues and expenses over a period",
+        "C) Only expenses",
+        "D) Asset values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ca659c8598c1afdeeb2c9c8d49997823a123d31",
+      "sectionIndex": 5,
+      "question": "Depreciation is:",
+      "options": [
+        "A) Increase in value",
+        "B) Allocation of asset cost over time",
+        "C) Cash expense",
+        "D) Liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a996fb71709b7d53a3116604dc8e0fcbb1792bc",
+      "sectionIndex": 5,
+      "question": "Gross profit equals:",
+      "options": [
+        "A) Total revenue",
+        "B) Sales minus cost of goods sold",
+        "C) Net income",
+        "D) Operating expenses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f41c217d78cb36edf1037df52de1aaab1cd2eb57",
+      "sectionIndex": 5,
+      "question": "Net profit equals:",
+      "options": [
+        "A) Gross profit only",
+        "B) Revenue minus all expenses",
+        "C) Sales only",
+        "D) Gross margin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14284bafbf2c3e395946ee1c21dbe5d841cdd440",
+      "sectionIndex": 5,
+      "question": "Break-even point is where:",
+      "options": [
+        "A) Losses maximum",
+        "B) Total revenue equals total cost",
+        "C) Profit maximum",
+        "D) Sales zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40e22a7dc7cb5c45d114a4de57142b2460d1986e",
+      "sectionIndex": 5,
+      "question": "Fixed costs:",
+      "options": [
+        "A) Change with production",
+        "B) Remain constant regardless of output",
+        "C) Always increase",
+        "D) Equal variable costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f90a2da6c5f938bd28c00390a57bdee63607501",
+      "sectionIndex": 5,
+      "question": "Variable costs:",
+      "options": [
+        "A) Never change",
+        "B) Change with production level",
+        "C) Are fixed",
+        "D) Don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c36a5dc4ae4574f3ee87ed7fe96f54713deee5be",
+      "sectionIndex": 5,
+      "question": "Profit margin is calculated as:",
+      "options": [
+        "A) Profit ÷ Sales",
+        "B) Sales ÷ Profit",
+        "C) Cost ÷ Sales",
+        "D) Sales ÷ Cost"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "68c4de7055e4a4277362ebc01edbfe39ad491504",
+      "sectionIndex": 6,
+      "question": "Supply chain includes:",
+      "options": [
+        "A) Only suppliers",
+        "B) All parties involved in fulfilling customer requests",
+        "C) Only transportation",
+        "D) Only warehouses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60d521e494c024847d3681f1d443f364baad90a3",
+      "sectionIndex": 6,
+      "question": "Operations management deals with:",
+      "options": [
+        "A) Only manufacturing",
+        "B) Managing processes that create goods and services",
+        "C) Only services",
+        "D) Only quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d605181b24fee218f785174d5b8fb06feabc11b5",
+      "sectionIndex": 6,
+      "question": "Inventory serves to:",
+      "options": [
+        "A) Waste space",
+        "B) Buffer against uncertainty",
+        "C) Increase costs only",
+        "D) Reduce efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fc2ba9d0b95c177f0b2341568dc390aa1671892",
+      "sectionIndex": 6,
+      "question": "EOQ stands for:",
+      "options": [
+        "A) Equal Order Quantity",
+        "B) Economic Order Quantity",
+        "C) Emergency Order Quick",
+        "D) Estimated Operational Quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db63000cfbc9e9749ec1e4a7f6453c14766b9ef1",
+      "sectionIndex": 6,
+      "question": "Just-in-Time (JIT) aims to:",
+      "options": [
+        "A) Increase inventory",
+        "B) Minimize inventory",
+        "C) Delay production",
+        "D) Stock excess"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff8c3b0f8f312ba1de95dc72e7f42b5fa1efe610",
+      "sectionIndex": 6,
+      "question": "Quality control focuses on:",
+      "options": [
+        "A) Increasing defects",
+        "B) Ensuring products meet standards",
+        "C) Reducing quality",
+        "D) Ignoring standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b368eb8a01f50001c00148a95ca20f93d89b6dd4",
+      "sectionIndex": 6,
+      "question": "Productivity is measured as:",
+      "options": [
+        "A) Input only",
+        "B) Output divided by input",
+        "C) Time only",
+        "D) Cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d631b4bf01e11e791ed7511eaedff6d8120530af",
+      "sectionIndex": 6,
+      "question": "Lead time refers to:",
+      "options": [
+        "A) Leading position",
+        "B) Time between order and delivery",
+        "C) Management time",
+        "D) Break time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e03a229004a95905b10b91bb475e6e69d85aacdb",
+      "sectionIndex": 6,
+      "question": "Capacity planning determines:",
+      "options": [
+        "A) Storage space only",
+        "B) Maximum output capability",
+        "C) Minimum production",
+        "D) Employee capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77e4325622d809c0cb2791db2a99a2142af3845a",
+      "sectionIndex": 6,
+      "question": "Forecasting helps in:",
+      "options": [
+        "A) Predicting future demand",
+        "B) Historical analysis only",
+        "C) Current sales only",
+        "D) Past performance only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "178b4eb8bf52152847bcca336125b3166820bac8",
+      "sectionIndex": 7,
+      "question": "HRM stands for:",
+      "options": [
+        "A) Human Relations Management",
+        "B) Human Resource Management",
+        "C) High Risk Management",
+        "D) Human Rights Management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4ce20de52652c69bab81f57764a71c63debd0fd",
+      "sectionIndex": 7,
+      "question": "Recruitment means:",
+      "options": [
+        "A) Training employees",
+        "B) Attracting qualified candidates",
+        "C) Firing employees",
+        "D) Paying salaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43ffe20a5351705887a721773fac3c6686700e4d",
+      "sectionIndex": 7,
+      "question": "Selection involves:",
+      "options": [
+        "A) Attracting candidates",
+        "B) Choosing the best candidate",
+        "C) Training everyone",
+        "D) Promoting employees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e3be0bf34a2aa1f85413daa2be551e8650ffcd0",
+      "sectionIndex": 7,
+      "question": "Performance appraisal evaluates:",
+      "options": [
+        "A) Company performance",
+        "B) Employee job performance",
+        "C) Market performance",
+        "D) Product performance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "705b301e8f52b00074e1148f36d6abf6b7ca212b",
+      "sectionIndex": 7,
+      "question": "Training focuses on:",
+      "options": [
+        "A) Current job skills",
+        "B) Future positions",
+        "C) Past performance",
+        "D) Competitor skills"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9ad379bb1f57f0a18748a29bb73b41f40c8c47a1",
+      "sectionIndex": 7,
+      "question": "Development prepares employees for:",
+      "options": [
+        "A) Current job only",
+        "B) Future responsibilities",
+        "C) Past roles",
+        "D) Retirement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69e848f2a29b34a4622b89bb918b16ebb1735a5a",
+      "sectionIndex": 7,
+      "question": "Compensation includes:",
+      "options": [
+        "A) Salary only",
+        "B) Salary and benefits",
+        "C) Benefits only",
+        "D) Praise only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91c221d412bd46139cb585ef37e74cbd9caba03f",
+      "sectionIndex": 7,
+      "question": "Job analysis determines:",
+      "options": [
+        "A) Company profits",
+        "B) Job duties and requirements",
+        "C) Market analysis",
+        "D) Competitor analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a8b7968ec8385f9a5eb220c9d464d03f2487c77",
+      "sectionIndex": 7,
+      "question": "Orientation helps new employees:",
+      "options": [
+        "A) Leave quickly",
+        "B) Understand organization and role",
+        "C) Avoid work",
+        "D) Find other jobs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6a109e1bc24ac8bc2574334cee5082a28135770",
+      "sectionIndex": 7,
+      "question": "Employee retention refers to:",
+      "options": [
+        "A) Hiring new employees",
+        "B) Keeping valuable employees",
+        "C) Firing employees",
+        "D) Rotating employees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66e43e4e9c4aa60fbb9e467bcaf324d773b7709a",
+      "sectionIndex": 8,
+      "question": "Strategy is:",
+      "options": [
+        "A) Daily operations",
+        "B) Long-term plan to achieve goals",
+        "C) Short-term tactics",
+        "D) Random actions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3665c6baba11fc828de958f09394219642fc6ce",
+      "sectionIndex": 8,
+      "question": "Strategic planning involves:",
+      "options": [
+        "A) Only top management",
+        "B) Setting long-term direction",
+        "C) Daily schedules",
+        "D) Operational details"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6649b001157d57f05a1e091ce3228c66aed9d132",
+      "sectionIndex": 8,
+      "question": "SWOT stands for:",
+      "options": [
+        "A) Sales, Work, Operations, Time",
+        "B) Strengths, Weaknesses, Opportunities, Threats",
+        "C) Systems, Workers, Organization, Technology",
+        "D) Strategy, Wins, Objectives, Tactics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a00141a3dc8f355c299c4efc8b8860b773af9847",
+      "sectionIndex": 8,
+      "question": "Mission statement describes:",
+      "options": [
+        "A) Daily tasks",
+        "B) Organization's purpose and values",
+        "C) Financial goals only",
+        "D) Competition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8838b63339ea59f133fd73f028916bcbfb44c537",
+      "sectionIndex": 8,
+      "question": "Vision statement describes:",
+      "options": [
+        "A) Current state",
+        "B) Desired future state",
+        "C) Past performance",
+        "D) Daily operations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "783f1ba7913105d31f7349236d6f698575d635c3",
+      "sectionIndex": 8,
+      "question": "Competitive advantage means:",
+      "options": [
+        "A) Being the same",
+        "B) Superior position over competitors",
+        "C) Copying competitors",
+        "D) Avoiding competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d54fcc73b3e12cfbbc66b9c35487c4b1a1e24a0a",
+      "sectionIndex": 8,
+      "question": "Core competencies are:",
+      "options": [
+        "A) Basic skills",
+        "B) Unique strengths that provide advantage",
+        "C) Weaknesses",
+        "D) Common abilities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1eccdac3b4ebecd9ef35cdf1947cbe0d1d5c3cc",
+      "sectionIndex": 8,
+      "question": "Strategic fit refers to:",
+      "options": [
+        "A) Clothing size",
+        "B) Alignment between strategy and capabilities",
+        "C) Physical fitness",
+        "D) Random matching"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38e16c60528fae551ce16d1a74fb33a441496219",
+      "sectionIndex": 8,
+      "question": "Market share represents:",
+      "options": [
+        "A) Stock market value",
+        "B) Percentage of total market sales",
+        "C) Share price",
+        "D) Dividend amount"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13e956ebbe5bcdcee01663757556b601683c832a",
+      "sectionIndex": 8,
+      "question": "Diversification strategy means:",
+      "options": [
+        "A) Focusing on one product",
+        "B) Entering new markets or products",
+        "C) Reducing products",
+        "D) Maintaining status quo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70eb6776f73dcaf1431837092a9ffd3c0d423920",
+      "sectionIndex": 9,
+      "question": "Business ethics refers to:",
+      "options": [
+        "A) Legal requirements only",
+        "B) Moral principles in business",
+        "C) Profit maximization",
+        "D) Government rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d76dc0f329cf9ac4a2081fa8d5ccbabf3f5965c",
+      "sectionIndex": 9,
+      "question": "Corporate social responsibility means:",
+      "options": [
+        "A) Profit only focus",
+        "B) Obligation to society beyond profit",
+        "C) Legal compliance only",
+        "D) Shareholder focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06dd50441aaba485eb27cd214a6a2b72b25dc83a",
+      "sectionIndex": 9,
+      "question": "Stakeholders include:",
+      "options": [
+        "A) Shareholders only",
+        "B) All parties affected by business",
+        "C) Employees only",
+        "D) Customers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d797ce95c068f46772c47e8604e30d8dc0e69802",
+      "sectionIndex": 9,
+      "question": "Globalization refers to:",
+      "options": [
+        "A) Local focus",
+        "B) Integration of world economies",
+        "C) Isolation",
+        "D) Nationalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4c2bdaeeafb749aa2b894ab56ed37a1e7bced37",
+      "sectionIndex": 9,
+      "question": "E-commerce means:",
+      "options": [
+        "A) Electronic commerce",
+        "B) Easy commerce",
+        "C) European commerce",
+        "D) Efficient commerce"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a2dacc88688a0e0dcb432778ffae4d493e831910",
+      "sectionIndex": 9,
+      "question": "B2B stands for:",
+      "options": [
+        "A) Back to Business",
+        "B) Business to Business",
+        "C) Business to Buyer",
+        "D) Buyer to Business"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3bcad4f40e71675fab41ea47e2356e5891fb213",
+      "sectionIndex": 9,
+      "question": "B2C stands for:",
+      "options": [
+        "A) Business to Company",
+        "B) Business to Consumer",
+        "C) Buyer to Company",
+        "D) Business to Corporation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10829cad3222475292dc0ed7709cdaa4ccf54bfb",
+      "sectionIndex": 9,
+      "question": "Outsourcing means:",
+      "options": [
+        "A) Doing everything internally",
+        "B) Contracting work to external parties",
+        "C) Hiring more employees",
+        "D) Expanding facilities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42156e95812e18c33d076be4af71327251ccd628",
+      "sectionIndex": 9,
+      "question": "Merger involves:",
+      "options": [
+        "A) Splitting companies",
+        "B) Combining two companies",
+        "C) Closing business",
+        "D) Reducing size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dd26c820532a16b661fe1d58263fa944533feb1",
+      "sectionIndex": 9,
+      "question": "Acquisition means:",
+      "options": [
+        "A) Learning new skills",
+        "B) One company buying another",
+        "C) Selling assets",
+        "D) Borrowing money"
+      ],
+      "correct": "B"
+    }
+  ]
+}

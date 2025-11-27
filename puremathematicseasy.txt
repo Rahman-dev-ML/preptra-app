@@ -1,0 +1,729 @@
+## Section 1: Group Theory Basics
+
+1. Group Theory Fundamentals (Easy)
+1. A group (G, *) must satisfy all properties EXCEPT:
+A) Closure
+B) Associativity
+C) Commutativity
+D) Identity element
+Answer: C
+
+2. The order of a group G is:
+A) The smallest element
+B) The number of elements in G
+C) The identity element
+D) The inverse operation
+Answer: B
+
+3. In the symmetric group S₃, the total number of elements is:
+A) 3
+B) 6
+C) 9
+D) 12
+Answer: B
+
+4. A subgroup H of G must contain:
+A) All elements of G
+B) The identity element of G
+C) Only prime order elements
+D) Exactly half the elements
+Answer: B
+
+5. The kernel of a homomorphism is always:
+A) Empty
+B) The whole group
+C) A normal subgroup
+D) A cyclic group
+Answer: C
+
+6. A group of prime order p is always:
+A) Abelian
+B) Non-abelian
+C) Infinite
+D) Simple and cyclic
+Answer: D
+
+7. The center Z(G) of a group G contains:
+A) Elements that commute with all elements
+B) Only the identity
+C) Half the elements
+D) No elements
+Answer: A
+
+8. In a cyclic group of order n:
+A) All elements have order n
+B) There exists an element of order n
+C) No element has order n
+D) All elements are identity
+Answer: B
+
+9. The identity element in a group is:
+A) Not unique
+B) Its own inverse
+C) Always 0
+D) Always 1
+Answer: B
+
+10. Two groups with the same order are:
+A) Always isomorphic
+B) Never isomorphic
+C) Not necessarily isomorphic
+D) Always equal
+Answer: C
+
+## Section 2: Ring Theory Basics
+
+2. Ring Theory Fundamentals (Easy)
+11. A ring must have which operations?
+A) Addition only
+B) Multiplication only
+C) Addition and multiplication
+D) Division
+Answer: C
+
+12. In a ring, multiplication must be:
+A) Commutative
+B) Associative
+C) Invertible
+D) Idempotent
+Answer: B
+
+13. An integral domain has no:
+A) Unity
+B) Zero divisors
+C) Additive identity
+D) Multiplicative identity
+Answer: B
+
+14. The ring Z₆ has how many zero divisors?
+A) 0
+B) 2
+C) 4
+D) 5
+Answer: C
+
+15. A field is a commutative ring where:
+A) Every element has additive inverse
+B) Every non-zero element has multiplicative inverse
+C) Multiplication is not defined
+D) Addition is not commutative
+Answer: B
+
+16. Z_n is a field if and only if:
+A) n is even
+B) n is odd
+C) n is prime
+D) n is composite
+Answer: C
+
+17. The characteristic of a ring is:
+A) Its size
+B) The smallest positive n where n·1 = 0
+C) Always infinite
+D) Always zero
+Answer: B
+
+18. In the ring Z₅, the element 3 has multiplicative inverse:
+A) 2
+B) 3
+C) 4
+D) Does not exist
+Answer: A
+
+19. An ideal I of a ring R must be:
+A) A subgroup under addition
+B) A subring
+C) Closed under multiplication by R
+D) Both A and C
+Answer: D
+
+20. The zero ring contains:
+A) No elements
+B) Only one element
+C) Two elements
+D) Infinite elements
+Answer: B
+
+## Section 3: Vector Spaces
+
+3. Vector Space Basics (Easy)
+21. A vector space must be defined over:
+A) Real numbers only
+B) Complex numbers only
+C) A field
+D) Any set
+Answer: C
+
+22. The dimension of R³ is:
+A) 1
+B) 2
+C) 3
+D) Infinite
+Answer: C
+
+23. Linear independence means:
+A) All vectors are equal
+B) No vector is a linear combination of others
+C) All coefficients are 1
+D) Vectors are orthogonal
+Answer: B
+
+24. A basis of a vector space must be:
+A) Linearly independent only
+B) Spanning only
+C) Both linearly independent and spanning
+D) Orthogonal
+Answer: C
+
+25. The zero vector:
+A) Can be in a basis
+B) Cannot be in a linearly independent set
+C) Has norm 1
+D) Does not exist
+Answer: B
+
+26. A subspace of a vector space must contain:
+A) All vectors
+B) The zero vector
+C) Unit vectors only
+D) Exactly half the vectors
+Answer: B
+
+27. The dimension of the zero vector space is:
+A) 0
+B) 1
+C) Undefined
+D) Infinite
+Answer: A
+
+28. Two finite-dimensional vector spaces are isomorphic if:
+A) They have the same field
+B) They have the same dimension
+C) They are equal
+D) They have the same basis
+Answer: B
+
+29. In R², the standard basis consists of:
+A) {(1,0), (0,1)}
+B) {(1,1), (1,1)}
+C) {(1,0), (1,0)}
+D) {(0,0), (1,1)}
+Answer: A
+
+30. A linear transformation preserves:
+A) Distances
+B) Angles
+C) Linear combinations
+D) All of the above
+Answer: C
+
+## Section 4: Basic Calculus
+
+4. Limits and Continuity (Easy)
+31. The limit of sin(x)/x as x approaches 0 is:
+A) 0
+B) 1
+C) ∞
+D) Undefined
+Answer: B
+
+32. A function is continuous at a point if:
+A) It is defined there
+B) Its limit exists there
+C) Its limit equals its value there
+D) It is differentiable there
+Answer: C
+
+33. The derivative of x² is:
+A) x
+B) 2x
+C) x²
+D) 2
+Answer: B
+
+34. If f'(x) = 0 at x = a, then x = a is:
+A) Always a maximum
+B) Always a minimum
+C) A critical point
+D) An inflection point
+Answer: C
+
+35. The integral of 1/x is:
+A) x
+B) ln|x| + C
+C) -1/x² + C
+D) e^x + C
+Answer: B
+
+36. By the Mean Value Theorem, if f is continuous on [a,b] and differentiable on (a,b), then:
+A) f(a) = f(b)
+B) There exists c where f'(c) = [f(b)-f(a)]/(b-a)
+C) f'(x) = 0 somewhere
+D) f is constant
+Answer: B
+
+37. A function has a vertical asymptote at x = a if:
+A) f(a) = 0
+B) f'(a) = 0
+C) lim f(x) = ∞ as x→a
+D) f is continuous at a
+Answer: C
+
+38. The Fundamental Theorem of Calculus relates:
+A) Limits and continuity
+B) Differentiation and integration
+C) Algebra and geometry
+D) Series and sequences
+Answer: B
+
+39. A differentiable function is always:
+A) Integrable
+B) Continuous
+C) Linear
+D) Bounded
+Answer: B
+
+40. The second derivative test checks for:
+A) Continuity
+B) Differentiability
+C) Concavity
+D) Integrability
+Answer: C
+
+## Section 5: Complex Numbers
+
+5. Complex Analysis Basics (Easy)
+41. The complex number i² equals:
+A) 1
+B) -1
+C) i
+D) -i
+Answer: B
+
+42. The modulus of 3 + 4i is:
+A) 3
+B) 4
+C) 5
+D) 7
+Answer: C
+
+43. The complex conjugate of a + bi is:
+A) a + bi
+B) a - bi
+C) -a + bi
+D) -a - bi
+Answer: B
+
+44. De Moivre's theorem is used to find:
+A) Derivatives
+B) Powers of complex numbers
+C) Real numbers
+D) Matrices
+Answer: B
+
+45. A function f(z) is analytic if:
+A) It is continuous
+B) It satisfies Cauchy-Riemann equations
+C) It is real-valued
+D) It is bounded
+Answer: B
+
+46. The argument of -1 is:
+A) 0
+B) π/2
+C) π
+D) 2π
+Answer: C
+
+47. e^(iπ) equals:
+A) 1
+B) -1
+C) i
+D) -i
+Answer: B
+
+48. The Cauchy integral formula applies to:
+A) All functions
+B) Analytic functions
+C) Real functions only
+D) Discontinuous functions
+Answer: B
+
+49. A pole of order 1 is called:
+A) Essential singularity
+B) Simple pole
+C) Removable singularity
+D) Branch point
+Answer: B
+
+50. The residue at a simple pole z = a of f(z) = g(z)/(z-a) is:
+A) 0
+B) g(a)
+C) 1
+D) ∞
+Answer: B
+
+## Section 6: Coordinate Geometry
+
+6. Curves and Surfaces (Easy)
+51. The equation x² + y² = r² represents:
+A) A line
+B) A parabola
+C) A circle
+D) An ellipse
+Answer: C
+
+52. The standard form of a parabola with vertex at origin is:
+A) x² + y² = 1
+B) y² = 4ax
+C) x²/a² + y²/b² = 1
+D) xy = 1
+Answer: B
+
+53. An ellipse has how many foci?
+A) 0
+B) 1
+C) 2
+D) 4
+Answer: C
+
+54. The asymptotes of a hyperbola x²/a² - y²/b² = 1 are:
+A) x = ±a
+B) y = ±b
+C) y = ±(b/a)x
+D) x = ±(a/b)y
+Answer: C
+
+55. A tangent to a curve at a point has slope equal to:
+A) 0
+B) 1
+C) The derivative at that point
+D) The second derivative
+Answer: C
+
+56. The distance between two points (x₁,y₁) and (x₂,y₂) is:
+A) |x₂ - x₁| + |y₂ - y₁|
+B) √[(x₂-x₁)² + (y₂-y₁)²]
+C) (x₂-x₁)(y₂-y₁)
+D) x₂ + y₂ - x₁ - y₁
+Answer: B
+
+57. A normal to a curve is:
+A) Parallel to the tangent
+B) Perpendicular to the tangent
+C) Equal to the tangent
+D) Half the tangent
+Answer: B
+
+58. The equation of a sphere centered at origin is:
+A) x² + y² = r²
+B) x² + y² + z² = r²
+C) x + y + z = r
+D) xyz = r³
+Answer: B
+
+59. Two lines in 3D space can be:
+A) Only parallel or intersecting
+B) Parallel, intersecting, or skew
+C) Only intersecting
+D) Only parallel
+Answer: B
+
+60. The parametric form x = a cos t, y = b sin t represents:
+A) A circle
+B) An ellipse
+C) A parabola
+D) A hyperbola
+Answer: B
+
+## Section 7: Series and Sequences
+
+7. Sequences and Series (Easy)
+61. A geometric series has:
+A) Constant difference
+B) Constant ratio
+C) Constant sum
+D) No pattern
+Answer: B
+
+62. The series 1 + 1/2 + 1/4 + 1/8 + ... converges to:
+A) 1
+B) 2
+C) ∞
+D) 0
+Answer: B
+
+63. The harmonic series 1 + 1/2 + 1/3 + 1/4 + ...:
+A) Converges to 2
+B) Converges to π
+C) Diverges
+D) Equals 0
+Answer: C
+
+64. For convergence, the ratio test requires the limit to be:
+A) Equal to 1
+B) Less than 1
+C) Greater than 1
+D) Equal to 0
+Answer: B
+
+65. An absolutely convergent series:
+A) May not converge
+B) Always converges
+C) Always diverges
+D) Oscillates
+Answer: B
+
+66. A power series has the form:
+A) Σ aₙ
+B) Σ aₙxⁿ
+C) Σ n
+D) Σ 1/n
+Answer: B
+
+67. The radius of convergence can be found using:
+A) Ratio test
+B) Divergence test
+C) Integral test
+D) Comparison test
+Answer: A
+
+68. Taylor series expansion is around:
+A) Infinity
+B) Zero only
+C) A specific point
+D) All points
+Answer: C
+
+69. The Maclaurin series is a Taylor series around:
+A) x = 1
+B) x = 0
+C) x = ∞
+D) x = -1
+Answer: B
+
+70. If Σ aₙ converges, then lim aₙ =:
+A) 1
+B) ∞
+C) 0
+D) May not exist
+Answer: C
+
+## Section 8: Linear Transformations
+
+8. Linear Maps (Easy)
+71. A linear transformation T satisfies:
+A) T(u + v) = T(u) + T(v)
+B) T(cu) = cT(u)
+C) Both A and B
+D) Neither A nor B
+Answer: C
+
+72. The kernel of a linear transformation is:
+A) Its range
+B) The set mapped to zero
+C) The entire domain
+D) Always empty
+Answer: B
+
+73. The rank of a linear transformation is:
+A) The dimension of its kernel
+B) The dimension of its range
+C) The size of the matrix
+D) Always zero
+Answer: B
+
+74. An injective linear transformation has:
+A) Trivial kernel
+B) Full range
+C) Square matrix
+D) No inverse
+Answer: A
+
+75. The rank-nullity theorem states:
+A) rank + nullity = dimension of domain
+B) rank = nullity
+C) rank × nullity = dimension
+D) rank - nullity = 0
+Answer: A
+
+76. An isomorphism is:
+A) Injective only
+B) Surjective only
+C) Bijective linear map
+D) Any function
+Answer: C
+
+77. The matrix of a linear transformation depends on:
+A) The transformation only
+B) The choice of basis
+C) The field only
+D) Nothing
+Answer: B
+
+78. Eigenvalues satisfy:
+A) Av = v
+B) Av = λv
+C) Av = 0
+D) A + v = λ
+Answer: B
+
+79. The characteristic polynomial has degree:
+A) 1
+B) Equal to matrix size
+C) Infinite
+D) 0
+Answer: B
+
+80. Similar matrices have:
+A) Same entries
+B) Same eigenvalues
+C) Same eigenvectors
+D) Different determinants
+Answer: B
+
+## Section 9: Differential Equations
+
+9. Basic ODEs (Easy)
+81. A first-order ODE has highest derivative of order:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+
+82. The general solution of dy/dx = y is:
+A) y = x + C
+B) y = Ce^x
+C) y = Cx
+D) y = ln x + C
+Answer: B
+
+83. A homogeneous linear ODE has:
+A) Constant coefficients only
+B) Zero on the right side
+C) Variable coefficients only
+D) No solution
+Answer: B
+
+84. Separation of variables applies when:
+A) ODE can be written as g(y)dy = f(x)dx
+B) Coefficients are constant
+C) Order is 2
+D) Initial conditions are given
+Answer: A
+
+85. The integrating factor for dy/dx + P(x)y = Q(x) is:
+A) e^∫P(x)dx
+B) e^-∫P(x)dx
+C) ∫P(x)dx
+D) P(x)
+Answer: A
+
+86. A particular solution:
+A) Contains arbitrary constants
+B) Satisfies initial conditions
+C) Is always zero
+D) Does not exist
+Answer: B
+
+87. The Wronskian tests for:
+A) Convergence
+B) Linear independence of solutions
+C) Stability
+D) Existence
+Answer: B
+
+88. For constant coefficient ODEs, we assume solution of form:
+A) y = x^r
+B) y = e^rx
+C) y = sin(rx)
+D) y = ln(rx)
+Answer: B
+
+89. A second-order linear ODE has how many linearly independent solutions?
+A) 0
+B) 1
+C) 2
+D) Infinite
+Answer: C
+
+90. The method of undetermined coefficients works for:
+A) All ODEs
+B) Special right-hand sides
+C) Nonlinear ODEs
+D) Partial DEs
+Answer: B
+
+## Section 10: Metric Spaces
+
+10. Metric Space Basics (Easy)
+91. A metric d must satisfy all EXCEPT:
+A) d(x,y) ≥ 0
+B) d(x,y) = d(y,x)
+C) d(x,y) ≤ d(x,z) + d(z,y)
+D) d(x,y) = |x - y|²
+Answer: D
+
+92. In a metric space, d(x,x) equals:
+A) 1
+B) 0
+C) ∞
+D) Undefined
+Answer: B
+
+93. An open ball B(x,r) contains:
+A) Points at distance exactly r
+B) Points at distance less than r
+C) Points at distance at most r
+D) Only the center
+Answer: B
+
+94. A set is closed if:
+A) It contains its boundary
+B) Its complement is open
+C) Both A and B
+D) It is finite
+Answer: C
+
+95. Every metric space is:
+A) Complete
+B) Compact
+C) Hausdorff
+D) Finite
+Answer: C
+
+96. A Cauchy sequence:
+A) Always converges
+B) Has terms getting arbitrarily close
+C) Is always bounded
+D) Both B and C
+Answer: D
+
+97. A complete metric space:
+A) Is always compact
+B) Has all Cauchy sequences converge
+C) Is always bounded
+D) Is finite
+Answer: B
+
+98. The discrete metric d(x,y) equals:
+A) |x - y|
+B) 0 if x = y, 1 if x ≠ y
+C) (x - y)²
+D) max(x,y)
+Answer: B
+
+99. Compactness in metric spaces means:
+A) Closed only
+B) Bounded only
+C) Every open cover has finite subcover
+D) Finite set
+Answer: C
+
+100. Continuous functions on metric spaces preserve:
+A) Distances
+B) Open sets (inverse image)
+C) Cauchy sequences
+D) Completeness
+Answer: B

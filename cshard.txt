@@ -1,0 +1,729 @@
+## Section 1: Operating Systems
+
+1. Operating Systems (Hard)
+1. A system has 4 processes and 5 available resources. Current allocation is P1:2, P2:1, P3:1, P4:1. Maximum needs are P1:3, P2:3, P3:4, P4:2. Using Banker's algorithm, which allocation request would be safe?
+A) P3 requests 2 resources
+B) P1 requests 1 resource
+C) P2 requests 2 resources
+D) P4 requests 1 resource
+Answer: D
+
+2. In a system using virtual memory with 3 page frames, given page reference string: 1,2,3,4,2,1,5,6,2,1,2,3,7,6,3, which replacement algorithm produces the fewest page faults?
+A) FIFO (9 faults)
+B) LRU (10 faults)
+C) Optimal (7 faults)
+D) Clock (11 faults)
+Answer: C
+
+3. A CPU scheduling algorithm has processes: P1(burst=8,arrival=0), P2(burst=4,arrival=1), P3(burst=9,arrival=2), P4(burst=5,arrival=3). Using preemptive SJF, what is the average waiting time?
+A) 6.5
+B) 7.0
+C) 7.5
+D) 8.0
+Answer: A
+
+4. In a system with TLB hit ratio of 80% and TLB access time of 20ns, memory access time of 100ns, what is the effective memory access time?
+A) 120ns
+B) 140ns
+C) 160ns
+D) 180ns
+Answer: B
+
+5. For preventing deadlock using resource ordering, if a process holding resource Ri wants Rj, which condition must be satisfied?
+A) i < j
+B) i > j
+C) i = j
+D) No condition needed
+Answer: A
+
+6. In segmentation with paging, if segment table entry contains page table base, and logical address is (s,p,d) where s=segment, p=page, d=offset, how many memory accesses are needed?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+
+7. A disk scheduling algorithm services requests in order: 98,183,37,122,14,124,65,67 with head initially at 53. Which algorithm gives minimum head movement?
+A) FCFS (640)
+B) SSTF (236)
+C) SCAN (236)
+D) C-SCAN (382)
+Answer: B
+
+8. In a multiprocessor system using test-and-set for mutual exclusion, what causes performance degradation with many processors?
+A) Cache coherence overhead
+B) Bus contention from spinning
+C) Context switch overhead
+D) Memory fragmentation
+Answer: B
+
+9. Given Belady's anomaly, which statement is correct about page replacement algorithms?
+A) LRU never suffers from it
+B) FIFO always suffers from it
+C) Optimal algorithm suffers from it
+D) Stack algorithms don't suffer from it
+Answer: D
+
+10. In priority inversion problem, what mechanism allows low-priority process to execute before high-priority process?
+A) Priority inheritance protocol
+B) Priority ceiling protocol
+C) Resource holding by medium priority
+D) Both A and B can solve it
+Answer: D
+
+## Section 2: Data Structures and Algorithms
+
+2. Data Structures and Algorithms (Hard)
+11. For building a Binary Search Tree from preorder traversal [50,30,20,40,70,60,80], how many different inorder traversals are possible?
+A) 1
+B) 7
+C) 14
+D) 42
+Answer: A
+
+12. In a B-tree of order 5, what is the maximum number of keys in a tree of height 3?
+A) 124
+B) 624
+C) 3124
+D) 15624
+Answer: C
+
+13. Using dynamic programming for matrix chain multiplication with dimensions 10×20, 20×30, 30×40, what is the minimum scalar multiplications?
+A) 18000
+B) 24000
+C) 30000
+D) 36000
+Answer: A
+
+14. In a hash table using quadratic probing with table size 11, if h(k)=k%11 and collision occurs at index 4, what is the 4th probe location?
+A) 8
+B) 9
+C) 10
+D) 3
+Answer: B
+
+15. For the string "ABABCABAB", the failure function in KMP algorithm has value 4 at which index?
+A) 6
+B) 7
+C) 8
+D) 9
+Answer: C
+
+16. A Red-Black tree with n internal nodes has height at most:
+A) log n
+B) 2 log n
+C) 2 log(n+1)
+D) log(n+1)
+Answer: C
+
+17. In Floyd-Warshall algorithm for a graph with negative edge but no negative cycle, which statement is true?
+A) Algorithm fails
+B) Gives correct shortest paths
+C) Detects negative cycle
+D) Time complexity increases
+Answer: B
+
+18. For Huffman coding of symbols with frequencies 5,9,12,13,16,45, what is the length of encoded message with 100 symbols?
+A) 224 bits
+B) 230 bits
+C) 236 bits
+D) 242 bits
+Answer: A
+
+19. In a suffix array for string "banana$", what is the lexicographic rank of suffix "ana$"?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+
+20. Using master theorem, T(n) = 4T(n/2) + n² has complexity:
+A) O(n²)
+B) O(n² log n)
+C) O(n³)
+D) O(2^n)
+Answer: B
+
+## Section 3: Programming Concepts and Design
+
+3. Programming Concepts and Design (Hard)
+21. In C++, if virtual inheritance is used in diamond problem with classes A->B,C->D, how many instances of A exist in D?
+A) 0
+B) 1
+C) 2
+D) 4
+Answer: B
+
+22. Which design pattern is most suitable for implementing undo/redo functionality in a text editor?
+A) Strategy
+B) Command
+C) Observer
+D) Decorator
+Answer: B
+
+23. In Java, if a synchronized method calls another synchronized method of the same object, what happens?
+A) Deadlock occurs
+B) Runtime exception
+C) Reentrant lock allows it
+D) Compilation error
+Answer: C
+
+24. For exception safety in C++, which guarantee ensures no resources are leaked but state might change?
+A) No-throw guarantee
+B) Basic guarantee
+C) Strong guarantee
+D) No guarantee
+Answer: B
+
+25. In template metaprogramming, factorial<5>::value is computed at:
+A) Runtime
+B) Compile time
+C) Link time
+D) Load time
+Answer: B
+
+26. Which SOLID principle is violated when a class has multiple reasons to change?
+A) Single Responsibility
+B) Open/Closed
+C) Liskov Substitution
+D) Interface Segregation
+Answer: A
+
+27. In C++11, what does std::move() actually do?
+A) Moves memory
+B) Copies object
+C) Casts to rvalue reference
+D) Deallocates memory
+Answer: C
+
+28. For implementing a thread-safe singleton in C++, which approach is most efficient?
+A) Double-checked locking
+B) Eager initialization
+C) Meyers' singleton
+D) Synchronized method
+Answer: C
+
+29. In aspect-oriented programming, cross-cutting concerns are addressed using:
+A) Inheritance
+B) Composition
+C) Pointcuts and advices
+D) Templates
+Answer: C
+
+30. Type erasure in Java generics causes which limitation?
+A) Cannot use primitive types
+B) Cannot create arrays of generic type
+C) Runtime type information is lost
+D) All of the above
+Answer: D
+
+## Section 4: Database Systems
+
+4. Database Systems (Hard)
+31. In a database with relations R(A,B,C) and S(C,D,E), what is the result cardinality of R ⋈ S if |R|=1000, |S|=2000, and C values in R are subset of C values in S with 50 distinct values?
+A) 20,000
+B) 40,000
+C) 100,000
+D) 2,000,000
+Answer: B
+
+32. For functional dependencies AB→C, C→D, D→E, E→A, what is the canonical cover?
+A) AB→C, C→D, D→E, E→A
+B) AB→CDE, C→A
+C) AB→C, C→A, D→E
+D) B→ACDE
+Answer: A
+
+33. In MVCC (Multiversion Concurrency Control), a transaction reading a data item:
+A) Always reads latest version
+B) Reads version valid at transaction start
+C) Waits for write locks
+D) Creates new version
+Answer: B
+
+34. Which isolation level allows phantom reads but prevents dirty and non-repeatable reads?
+A) Read Uncommitted
+B) Read Committed
+C) Repeatable Read
+D) Serializable
+Answer: C
+
+35. In B+ tree index with order 4, minimum number of keys in non-root internal node is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+
+36. For query optimization, which join order minimizes intermediate result size for R(A,B)|R|=1000, S(B,C)|S|=2000, T(C,D)|T|=500 with selectivity σ(R.B=S.B)=0.1, σ(S.C=T.C)=0.2?
+A) (R ⋈ S) ⋈ T
+B) R ⋈ (S ⋈ T)
+C) (R ⋈ T) ⋈ S
+D) Order doesn't matter
+Answer: B
+
+37. In two-phase commit protocol, what happens if coordinator fails after prepare phase?
+A) Transaction aborts
+B) Transaction commits
+C) Participants wait indefinitely
+D) Automatic recovery
+Answer: C
+
+38. Which statement about CAP theorem in distributed databases is correct?
+A) Can achieve all three properties
+B) Must sacrifice one property
+C) Applies only to NoSQL
+D) Only about network partitions
+Answer: B
+
+39. In timestamp-based concurrency control, Thomas Write Rule allows:
+A) Younger transaction to read
+B) Older transaction to write
+C) Ignoring obsolete writes
+D) Cascading rollback
+Answer: C
+
+40. For horizontal fragmentation of Employee(ID,Name,Dept,Salary) by Dept∈{'IT','HR','Finance'}, how many fragments for complete and disjoint fragmentation?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+
+## Section 5: Computer Networks
+
+5. Computer Networks (Hard)
+41. In TCP congestion control, if cwnd=32KB, ssthresh=16KB, and 3 duplicate ACKs are received, what is the new cwnd after fast recovery?
+A) 1 MSS
+B) 16 KB
+C) 17 KB
+D) 32 KB
+Answer: C
+
+42. For CIDR address 192.168.1.0/28, how many subnets can be created from 192.168.1.0/24?
+A) 8
+B) 16
+C) 32
+D) 64
+Answer: B
+
+43. In BGP, if AS1-AS2-AS3 and AS1-AS4-AS3 paths exist, AS3 advertises to AS5 using:
+A) Shortest AS path
+B) Both paths
+C) Local preference
+D) One path based on policy
+Answer: D
+
+44. In 802.11 CSMA/CA, if station has data to send after DIFS and backoff, but medium becomes busy, what happens to backoff counter?
+A) Reset to zero
+B) Frozen at current value
+C) Doubled
+D) Incremented by one
+Answer: B
+
+45. For IPv6 address 2001:0db8:0000:0000:0001:0000:0000:0001, the compressed form is:
+A) 2001:db8::1:0:0:1
+B) 2001:db8:0:0:1::1
+C) 2001:db8::1:0:0:1
+D) 2001:db8:0:0:1:0:0:1
+Answer: A
+
+46. In OSPF, what triggers immediate LSA flooding?
+A) Periodic timer only
+B) Topology change
+C) Every packet
+D) Manual command only
+Answer: B
+
+47. TCP Reno differs from TCP Tahoe in handling:
+A) Slow start
+B) Fast retransmit
+C) Fast recovery
+D) Connection setup
+Answer: C
+
+48. In Ethernet, minimum frame size of 64 bytes is related to:
+A) Maximum cable length
+B) Collision detection
+C) Header size
+D) CRC calculation
+Answer: B
+
+49. For reliable multicast using NACK-based protocol, implosion problem occurs when:
+A) Sender sends too fast
+B) Many receivers send NACKs
+C) Packet order changes
+D) TTL expires
+Answer: B
+
+50. In MPLS, label switching decision is based on:
+A) Full IP header lookup
+B) Port numbers
+C) Label value only
+D) Application data
+Answer: C
+
+## Section 6: Software Engineering
+
+6. Software Engineering (Hard)
+51. In function point analysis, if UFP=350 and TCF=1.2, what is the final function point count?
+A) 292
+B) 350
+C) 420
+D) 500
+Answer: C
+
+52. Using COCOMO II, if effort = 2.94 × (KLOC)^1.0997 and KLOC=50, what is the effort in person-months?
+A) 195
+B) 215
+C) 235
+D) 255
+Answer: B
+
+53. In software reliability growth model, if current failure rate is λ=0.02 and 50 faults remain, what is the failure intensity after removing 10 faults?
+A) 0.012
+B) 0.016
+C) 0.018
+D) 0.020
+Answer: B
+
+54. For cyclomatic complexity of a module with 25 nodes and 30 edges in control flow graph, the complexity is:
+A) 5
+B) 6
+C) 7
+D) 8
+Answer: C
+
+55. In risk management, if risk probability is 0.3 and impact is $50,000, what is the risk exposure?
+A) $15,000
+B) $35,000
+C) $50,000
+D) $65,000
+Answer: A
+
+56. Which software metric indicates high coupling between modules?
+A) High fan-in
+B) High fan-out
+C) Low cohesion
+D) High cyclomatic complexity
+Answer: B
+
+57. In earned value analysis, if PV=$100k, EV=$90k, AC=$95k, what is the schedule performance index?
+A) 0.90
+B) 0.95
+C) 1.05
+D) 1.11
+Answer: A
+
+58. For mutation testing, if 100 mutants are created and test suite kills 85, what is the mutation score?
+A) 0.15
+B) 0.85
+C) 1.0
+D) 1.15
+Answer: B
+
+59. In formal methods, which property ensures "something good eventually happens"?
+A) Safety
+B) Liveness
+C) Fairness
+D) Invariance
+Answer: B
+
+60. Using decision tree for cost estimation with EMV, if success (0.7) gives $100k profit and failure (0.3) gives $50k loss, what is EMV?
+A) $55k
+B) $65k
+C) $75k
+D) $85k
+Answer: A
+
+## Section 7: Web Technologies and Security
+
+7. Web Technologies and Security (Hard)
+61. In OAuth 2.0, which grant type is most suitable for server-side web applications?
+A) Implicit
+B) Authorization Code
+C) Password
+D) Client Credentials
+Answer: B
+
+62. For preventing CSRF attacks, which mechanism is most effective?
+A) CAPTCHA
+B) SSL/TLS
+C) Synchronizer tokens
+D) Input validation
+Answer: C
+
+63. In Content Security Policy, 'unsafe-inline' directive poses risk for:
+A) XSS attacks
+B) SQL injection
+C) CSRF attacks
+D) DDoS attacks
+Answer: A
+
+64. WebSocket protocol upgrade from HTTP uses which status code?
+A) 100
+B) 101
+C) 200
+D) 301
+Answer: B
+
+65. In JWT tokens, which part contains the actual claims?
+A) Header
+B) Payload
+C) Signature
+D) All parts
+Answer: B
+
+66. For REST API versioning, which approach provides best backward compatibility?
+A) URI versioning
+B) Header versioning
+C) Query parameter
+D) Media type versioning
+Answer: B
+
+67. In Single Page Applications, which security concern is most critical?
+A) SQL injection
+B) XSS in client-side templates
+C) Buffer overflow
+D) Integer overflow
+Answer: B
+
+68. CORS preflight request is triggered when:
+A) GET request is made
+B) Custom headers are used
+C) Same origin request
+D) HTTP only
+Answer: B
+
+69. In HTTPS, perfect forward secrecy ensures:
+A) Faster connection
+B) Past sessions remain secure if private key compromised
+C) No encryption needed
+D) Client authentication
+Answer: B
+
+70. Browser same-origin policy restricts based on:
+A) Protocol only
+B) Domain only
+C) Port only
+D) Protocol, domain, and port
+Answer: D
+
+## Section 8: Computer Graphics and Visualization
+
+8. Computer Graphics and Visualization (Hard)
+71. In Phong shading model with ambient=0.2, diffuse=0.5, specular=0.3, light intensity=1.0, if angle between normal and light is 60°, what is diffuse contribution?
+A) 0.25
+B) 0.35
+C) 0.45
+D) 0.50
+Answer: A
+
+72. For perspective projection with focal length f=10 and point at (20,30,40), the projected x-coordinate is:
+A) 5
+B) 10
+C) 15
+D) 20
+Answer: A
+
+73. In ray tracing, if ray intersects sphere at parameter t1=2 and t2=5, where is the entry point for ray origin at (0,0,0) and direction (1,0,0)?
+A) (2,0,0)
+B) (5,0,0)
+C) (3.5,0,0)
+D) (7,0,0)
+Answer: A
+
+74. Bezier curve with control points (0,0), (1,4), (3,2), (4,0) at parameter t=0.5 has which property?
+A) Passes through (2,2)
+B) Tangent parallel to x-axis
+C) Maximum curvature
+D) Inflection point
+Answer: D
+
+75. In texture mapping with bilinear interpolation, if corners have values 10,20,30,40 at (0,0),(1,0),(0,1),(1,1), value at (0.5,0.5) is:
+A) 20
+B) 25
+C) 30
+D) 35
+Answer: B
+
+76. For anti-aliasing using 4x supersampling, how many samples per pixel?
+A) 4
+B) 8
+C) 16
+D) 32
+Answer: C
+
+77. In BSP tree for hidden surface removal, polygons are split when:
+A) Too large
+B) Crossing partition plane
+C) Too small
+D) Never split
+Answer: B
+
+78. Octree subdivision for 3D space with depth 4 can have maximum how many leaf nodes?
+A) 64
+B) 512
+C) 4096
+D) 32768
+Answer: C
+
+79. In radiosity method, form factor between two surfaces depends on:
+A) Color only
+B) Material only
+C) Geometry and orientation
+D) Light intensity only
+Answer: C
+
+80. For level-of-detail in real-time rendering, switching distance is based on:
+A) Time only
+B) Screen-space error
+C) Polygon count only
+D) Texture size only
+Answer: B
+
+## Section 9: Advanced Security and Cryptography
+
+9. Advanced Security and Cryptography (Hard)
+81. In RSA with p=17, q=11, e=7, what is the decryption exponent d?
+A) 23
+B) 43
+C) 63
+D) 83
+Answer: A
+
+82. For Diffie-Hellman with p=23, g=5, if Alice's private key is 6 and Bob's is 15, what is their shared secret?
+A) 2
+B) 8
+C) 16
+D) 19
+Answer: A
+
+83. In AES-128, how many rounds of encryption are performed?
+A) 8
+B) 10
+C) 12
+D) 14
+Answer: B
+
+84. Which attack on block ciphers exploits mathematical structure rather than brute force?
+A) Dictionary attack
+B) Differential cryptanalysis
+C) Phishing
+D) Social engineering
+Answer: B
+
+85. In digital certificates, what prevents man-in-the-middle attacks during initial exchange?
+A) Symmetric key
+B) Certificate pinning
+C) Hash function
+D) Random number
+Answer: B
+
+86. For blockchain proof-of-work, if network hash rate doubles, what happens to difficulty?
+A) Halves
+B) Doubles
+C) Stays same
+D) Becomes zero
+Answer: B
+
+87. In zero-knowledge proofs, the prover demonstrates knowledge without revealing:
+A) Identity
+B) The actual information
+C) Computation time
+D) Communication channel
+Answer: B
+
+88. Side-channel attacks exploit:
+A) Weak passwords
+B) Physical implementation characteristics
+C) Network protocols
+D) Software bugs
+Answer: B
+
+89. In homomorphic encryption, operations on ciphertext produce:
+A) Plain text
+B) Random data
+C) Encrypted result of operations
+D) Hash values
+Answer: C
+
+90. Quantum computers threaten which cryptographic assumption?
+A) One-way functions
+B) Factoring large numbers
+C) Hash collisions
+D) Symmetric encryption
+Answer: B
+
+## Section 10: Emerging Technologies
+
+10. Emerging Technologies (Hard)
+91. In MapReduce, if map phase produces 1TB intermediate data with 100 unique keys uniformly distributed, and we have 10 reducers, what is the data transfer per reducer?
+A) 10GB
+B) 100GB
+C) 1TB
+D) 10TB
+Answer: B
+
+92. For a neural network with input layer (784 nodes), hidden layer (128 nodes), output layer (10 nodes), how many weights need training?
+A) 100,480
+B) 101,770
+C) 102,400
+D) 103,690
+Answer: B
+
+93. In Docker container orchestration with Kubernetes, a pod represents:
+A) Single container only
+B) Group of containers sharing network/storage
+C) Virtual machine
+D) Physical server
+Answer: B
+
+94. For eventual consistency in distributed systems, which guarantee is provided?
+A) Immediate consistency
+B) All nodes see same data eventually
+C) No consistency
+D) Strong consistency
+Answer: B
+
+95. In microservices architecture, which pattern handles cascading failures?
+A) Singleton
+B) Factory
+C) Circuit breaker
+D) Observer
+Answer: C
+
+96. GraphQL differs from REST in:
+A) Using HTTP only
+B) Client specifies exact data needs
+C) Server-side only
+D) No difference
+Answer: B
+
+97. In fog computing, processing happens:
+A) Only in cloud
+B) Edge of network
+C) Client only
+D) Centralized servers
+Answer: B
+
+98. For handling big data's 3Vs, which is NOT a V?
+A) Volume
+B) Velocity
+C) Variety
+D) Vulnerability
+Answer: D
+
+99. In quantum error correction, logical qubit requires multiple physical qubits due to:
+A) Speed requirements
+B) Decoherence and noise
+C) Cost factors
+D) Power consumption
+Answer: B
+
+100. Edge AI inference differs from cloud AI in:
+A) Accuracy only
+B) Local processing without cloud connectivity
+C) Training capability
+D) No difference
+Answer: B

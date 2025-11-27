@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T10:59:49.886Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1eecccc21836344bf9224d4288e9a549c562832a",
+      "sectionIndex": 0,
+      "question": "The genetic classification of faults distinguishes between:",
+      "options": [
+        "A) Size only",
+        "B) Stress regime and resultant movement",
+        "C) Age of faulting",
+        "D) Geographic location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3d9e0f5d6a430f5d4a5fdeb6962f5d0e4e5b672",
+      "sectionIndex": 0,
+      "question": "Chevron folds typically form in:",
+      "options": [
+        "A) Homogeneous rocks",
+        "B) Alternating competent and incompetent layers",
+        "C) Granite only",
+        "D) Volcanic rocks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6959433d410ace72dd01c90254173b6843fa45e",
+      "sectionIndex": 0,
+      "question": "The relationship between joints and regional stress fields indicates:",
+      "options": [
+        "A) Random orientation",
+        "B) Systematic patterns reflecting paleostress",
+        "C) No correlation",
+        "D) Surface effects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e594978ecefd2f014aafeac0778193cddc9c8b0",
+      "sectionIndex": 0,
+      "question": "Transform faults differ from transcurrent faults in:",
+      "options": [
+        "A) Movement direction only",
+        "B) Plate boundary association and length",
+        "C) Age only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e1b7c01283cded0e74bbaee2ce6bb6644b7acf1",
+      "sectionIndex": 0,
+      "question": "Horst and graben structures result from:",
+      "options": [
+        "A) Compressional tectonics",
+        "B) Extensional tectonics",
+        "C) Strike-slip motion",
+        "D) Volcanic activity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2c50929be30de59d3bb2fcc72f4a8e39fb20e3f",
+      "sectionIndex": 0,
+      "question": "The recognition of unconformities in the field relies on:",
+      "options": [
+        "A) Color changes only",
+        "B) Angular relationships and weathering surfaces",
+        "C) Fossil content only",
+        "D) Thickness variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "234cd253c2e2e780ec886cf19c5d297a36ae150b",
+      "sectionIndex": 0,
+      "question": "Balochistan's fold belt exhibits characteristics of:",
+      "options": [
+        "A) Cratonic deformation",
+        "B) Thin-skinned tectonics",
+        "C) Metamorphic core complexes",
+        "D) Rift zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91e99e0da6fbc3a0fe20f4fd71b7dd131b902aa6",
+      "sectionIndex": 0,
+      "question": "Duplex structures in thrust systems indicate:",
+      "options": [
+        "A) Single fault surface",
+        "B) Imbricate thrust stacking",
+        "C) Normal faulting",
+        "D) Strike-slip zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "232555984c4f0246f3377fe5b93f1d86298aa121",
+      "sectionIndex": 0,
+      "question": "The concept of rock failure involves:",
+      "options": [
+        "A) Temperature only",
+        "B) Stress, strain, and material properties",
+        "C) Time only",
+        "D) Fluid pressure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e894c8c69be04c00d9a695e21c28540471bd7b58",
+      "sectionIndex": 0,
+      "question": "Structural analysis of polydeformed terranes requires:",
+      "options": [
+        "A) Single measurement",
+        "B) Overprinting relationships and chronology",
+        "C) Surface mapping only",
+        "D) Seismic data only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "808da24ddda8d7af7c7b4d7400fbc9a7ef38bd3f",
+      "sectionIndex": 1,
+      "question": "The substitution of Al for Si in feldspars is controlled by:",
+      "options": [
+        "A) Temperature only",
+        "B) Charge balance and ionic radius",
+        "C) Pressure only",
+        "D) Water content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "327b6c889b605f2aecbd42110ed3a777470883ff",
+      "sectionIndex": 1,
+      "question": "Bowen's Reaction Series demonstrates:",
+      "options": [
+        "A) Random crystallization",
+        "B) Systematic crystallization sequence from melt",
+        "C) Metamorphic reactions",
+        "D) Weathering sequence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2b5accc7dfd9e704ded94cc54508964074356ba",
+      "sectionIndex": 1,
+      "question": "The difference between alkali and tholeiitic basalt reflects:",
+      "options": [
+        "A) Color only",
+        "B) Source composition and melting conditions",
+        "C) Age differences",
+        "D) Geographic origin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a21d5ff4e7da8f943966a6ea81bb385278a987d",
+      "sectionIndex": 1,
+      "question": "Perthitic texture in feldspars results from:",
+      "options": [
+        "A) Primary crystallization",
+        "B) Exsolution during cooling",
+        "C) Weathering",
+        "D) Metamorphism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef62f6f4ecccda7b89bdc046af9b40180be5d066",
+      "sectionIndex": 1,
+      "question": "The coordination of silicon in silicates affects:",
+      "options": [
+        "A) Color only",
+        "B) Structure and physical properties",
+        "C) Age dating",
+        "D) Geographic distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdfc642ade1b35acb4e7416a4ee5157de7c8fbf4",
+      "sectionIndex": 1,
+      "question": "Syenite differs from granite in:",
+      "options": [
+        "A) Grain size only",
+        "B) Quartz content and alkali feldspar dominance",
+        "C) Color only",
+        "D) Age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cf490504701e01d969380a461565b5f3498f192",
+      "sectionIndex": 1,
+      "question": "Eclogite facies rocks indicate:",
+      "options": [
+        "A) Low pressure conditions",
+        "B) High pressure metamorphism",
+        "C) Surface weathering",
+        "D) Contact metamorphism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71785d8a893f15a13a789a45435ba42ec92bed27",
+      "sectionIndex": 1,
+      "question": "Magmatic differentiation processes include:",
+      "options": [
+        "A) Weathering only",
+        "B) Fractional crystallization and assimilation",
+        "C) Erosion",
+        "D) Sedimentation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6239283e5b39a92613db51a637d2defa6ecc265",
+      "sectionIndex": 1,
+      "question": "The IUGS classification of igneous rocks is based on:",
+      "options": [
+        "A) Color only",
+        "B) Modal mineral proportions",
+        "C) Age",
+        "D) Location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ddc4e5a4bd023d14033ff4805d14f9b99023c82",
+      "sectionIndex": 1,
+      "question": "Ophiolite sequences represent:",
+      "options": [
+        "A) Continental crust",
+        "B) Oceanic crust and upper mantle",
+        "C) River deposits",
+        "D) Glacial deposits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ece6bcc7526f098a8cc772c19aa888685236bea",
+      "sectionIndex": 2,
+      "question": "Chronostratigraphic units differ from lithostratigraphic units in:",
+      "options": [
+        "A) Rock type only",
+        "B) Time significance versus rock character",
+        "C) Thickness only",
+        "D) Geographic extent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a784571af29aadd5d3ef70d918389bd329772aa",
+      "sectionIndex": 2,
+      "question": "The concept of facies in stratigraphy refers to:",
+      "options": [
+        "A) Age only",
+        "B) Lateral variations in depositional environment",
+        "C) Thickness only",
+        "D) Color variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebbc4c5cf99ba967e73a012b423588d2e493bdef",
+      "sectionIndex": 2,
+      "question": "Sequence stratigraphy integrates:",
+      "options": [
+        "A) Fossils only",
+        "B) Sea level changes, sedimentation, and tectonics",
+        "C) Age dating only",
+        "D) Structural features"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8132ca670b4e81d85fcde3a29fbbcaf3f427ecab",
+      "sectionIndex": 2,
+      "question": "Index fossils must have:",
+      "options": [
+        "A) Large size",
+        "B) Short range and wide geographic distribution",
+        "C) Long range",
+        "D) Local occurrence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c398521a811a73fe48feb4e97c239e9d8dfd10b6",
+      "sectionIndex": 2,
+      "question": "The Paleozoic stratigraphy of Salt Range reveals:",
+      "options": [
+        "A) Continuous deposition",
+        "B) Multiple unconformities and marine transgressions",
+        "C) Only terrestrial deposits",
+        "D) Volcanic sequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d847ab91dca06b4e7f70aa4c75c960526d4440c0",
+      "sectionIndex": 2,
+      "question": "Foraminifera biostratigraphy is particularly useful in:",
+      "options": [
+        "A) Continental deposits",
+        "B) Marine carbonate sequences",
+        "C) Volcanic rocks",
+        "D) Metamorphic terranes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fce22601cb5e82af05cf7572f5862e3ba7c8ccf7",
+      "sectionIndex": 2,
+      "question": "The Cephalopod morphology reflects:",
+      "options": [
+        "A) Random shapes",
+        "B) Adaptation to swimming and buoyancy",
+        "C) Terrestrial lifestyle",
+        "D) Plant affinity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71d42747a363b07792a22b88bb4f2b78b89e286e",
+      "sectionIndex": 2,
+      "question": "Tertiary stratigraphy of Lower Indus Basin shows:",
+      "options": [
+        "A) Only marine deposits",
+        "B) Alternating marine and continental sequences",
+        "C) Only continental deposits",
+        "D) Glacial deposits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23b7172cb4774612722c62a032f196e94e2e5edf",
+      "sectionIndex": 2,
+      "question": "Magnetostratigraphy provides:",
+      "options": [
+        "A) Rock composition",
+        "B) Correlation using magnetic reversals",
+        "C) Fossil content",
+        "D) Structural data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f892651898e2bf9043c5d0c41ce29cf1e677b596",
+      "sectionIndex": 2,
+      "question": "The concept of diachronous formations indicates:",
+      "options": [
+        "A) Same age everywhere",
+        "B) Time-transgressive depositional units",
+        "C) Missing sections",
+        "D) Volcanic interruptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef82d966ca0dcd9096f6d8efd5ebf590e3c2cebf",
+      "sectionIndex": 3,
+      "question": "Hydrocarbon migration requires:",
+      "options": [
+        "A) Source rocks only",
+        "B) Source, pathway, and seal configuration",
+        "C) High temperature only",
+        "D) Surface exposure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f26321b713efb378233e5fa8bc6a6230d00c8873",
+      "sectionIndex": 3,
+      "question": "The quality of Thar coal is significant for:",
+      "options": [
+        "A) Export only",
+        "B) Power generation despite high moisture",
+        "C) Steel making",
+        "D) Domestic heating only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1d888f15e01c5b03a61cf45d71a003ae45e7d13",
+      "sectionIndex": 3,
+      "question": "Porphyry copper deposits form through:",
+      "options": [
+        "A) Surface weathering",
+        "B) Hydrothermal alteration around intrusions",
+        "C) River deposition",
+        "D) Metamorphism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a7b1fadef6d424db3e1ceebf5f7b1ce92afaaed",
+      "sectionIndex": 3,
+      "question": "The Saindak copper-gold project utilizes:",
+      "options": [
+        "A) Underground mining only",
+        "B) Open pit mining and heap leaching",
+        "C) Placer mining",
+        "D) Solution mining"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "385027daee3a84ae078567f673335cef61ef989a",
+      "sectionIndex": 3,
+      "question": "Chromite deposits in Muslim Bagh formed in:",
+      "options": [
+        "A) River channels",
+        "B) Ophiolitic ultramafic rocks",
+        "C) Limestone",
+        "D) Sandstone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "971e8da7ff315b8b10b26eddc9471ad754d1da61",
+      "sectionIndex": 3,
+      "question": "Petroleum system elements include:",
+      "options": [
+        "A) Source rock only",
+        "B) Source, reservoir, seal, trap, and timing",
+        "C) Temperature only",
+        "D) Depth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c6a06f1c3b2aba1f809313f07ccd346953f95e6",
+      "sectionIndex": 3,
+      "question": "The expulsion of hydrocarbons from source rocks depends on:",
+      "options": [
+        "A) Time only",
+        "B) Maturation and pressure buildup",
+        "C) Rock color",
+        "D) Surface temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7220e921a7975b143db6c9ec2590ed3f6e3289c0",
+      "sectionIndex": 3,
+      "question": "Salt Range coal seams are associated with:",
+      "options": [
+        "A) Marine deposits only",
+        "B) Permian continental sequences",
+        "C) Recent deposits",
+        "D) Volcanic rocks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7de5fa812ca98ef0996335e8fb46d69a50a4956",
+      "sectionIndex": 3,
+      "question": "Gemstone formation in Pakistan involves:",
+      "options": [
+        "A) Surface processes only",
+        "B) Pegmatitic and metamorphic processes",
+        "C) Sedimentary deposition",
+        "D) Weathering only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8749a2adc1654fa89a0dd1c86e87df3b58d325d2",
+      "sectionIndex": 3,
+      "question": "MVT (Mississippi Valley Type) deposits form through:",
+      "options": [
+        "A) Igneous processes",
+        "B) Low temperature hydrothermal fluids in carbonates",
+        "C) High grade metamorphism",
+        "D) Surface oxidation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59a5ae478277c31da989633ded87732888130189",
+      "sectionIndex": 4,
+      "question": "Gravity anomaly interpretation requires understanding of:",
+      "options": [
+        "A) Color variations",
+        "B) Density contrasts and depth relationships",
+        "C) Temperature only",
+        "D) Age of rocks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf77da85e8f2cdb2bc3bfa2d2db243e7a6404f58",
+      "sectionIndex": 4,
+      "question": "Seismic refraction versus reflection methods differ in:",
+      "options": [
+        "A) Equipment only",
+        "B) Wave paths and depth of investigation",
+        "C) Cost only",
+        "D) Time required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c2235807d190118b79ce84537ff55d808aa517c",
+      "sectionIndex": 4,
+      "question": "Magnetic survey interpretation must consider:",
+      "options": [
+        "A) Surface features only",
+        "B) Induced and remanent magnetization",
+        "C) Rock color",
+        "D) Weathering degree"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8945e15b7583a6179d926cf725e6a51b4a5ab910",
+      "sectionIndex": 4,
+      "question": "Resistivity variations in rocks depend on:",
+      "options": [
+        "A) Color only",
+        "B) Porosity, fluid content, and mineralization",
+        "C) Age only",
+        "D) Grain size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c60981b5ee3d95c663871a32392f344879af2af",
+      "sectionIndex": 4,
+      "question": "Wireline logs integration provides:",
+      "options": [
+        "A) Surface information",
+        "B) Continuous subsurface formation evaluation",
+        "C) Weather data",
+        "D) Earthquake prediction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bb5249eaf2990ca942cebf7aa9160b2ce468d5d",
+      "sectionIndex": 4,
+      "question": "Electromagnetic methods are particularly effective for:",
+      "options": [
+        "A) All minerals equally",
+        "B) Conductive ore bodies",
+        "C) Insulating materials",
+        "D) Water depth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00f31c6d3c6867a00ba628f781d92dcf994b3c75",
+      "sectionIndex": 4,
+      "question": "The resolution of geophysical methods decreases with:",
+      "options": [
+        "A) Better equipment",
+        "B) Increasing depth of investigation",
+        "C) Smaller targets",
+        "D) Higher frequency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cc24e53611c6e39a3847f18e07911d5cf6ea01f",
+      "sectionIndex": 4,
+      "question": "Induced polarization surveys detect:",
+      "options": [
+        "A) Temperature only",
+        "B) Disseminated sulfide mineralization",
+        "C) Rock age",
+        "D) Fossil content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae7763341d72364de1fc1da3ee93abf1a776c6c9",
+      "sectionIndex": 4,
+      "question": "Seismic attribute analysis helps identify:",
+      "options": [
+        "A) Surface features only",
+        "B) Hydrocarbon indicators and structural features",
+        "C) Weather patterns",
+        "D) Magnetic fields"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15fd1fb63c133bfea21a123c9686be7754cde6cd",
+      "sectionIndex": 4,
+      "question": "Ground Penetrating Radar (GPR) is limited by:",
+      "options": [
+        "A) Antenna size only",
+        "B) Conductive materials and depth penetration",
+        "C) Operator skill only",
+        "D) Time of day"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d32792fa31284b920cc204a2e158d3acb364d8cd",
+      "sectionIndex": 5,
+      "question": "Landslide susceptibility assessment integrates:",
+      "options": [
+        "A) Rainfall data only",
+        "B) Slope, geology, hydrology, and land use",
+        "C) Temperature only",
+        "D) Vegetation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f83b7e9d33694b5c8c9bfadeced84bb582b8fa0",
+      "sectionIndex": 5,
+      "question": "Dam site selection criteria prioritize:",
+      "options": [
+        "A) Scenic beauty",
+        "B) Foundation stability and watertightness",
+        "C) Distance from cities",
+        "D) Construction cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd223f4246f6b16afdd702ff0c2954d49587581b",
+      "sectionIndex": 5,
+      "question": "The relationship between permeability and porosity shows:",
+      "options": [
+        "A) Direct correlation always",
+        "B) Complex relationship depending on connectivity",
+        "C) No relationship",
+        "D) Inverse relationship always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1d92dbacfa4137d4617a1ba6920636bea2f934c",
+      "sectionIndex": 5,
+      "question": "Grouting in dam foundations serves to:",
+      "options": [
+        "A) Increase permeability",
+        "B) Reduce seepage and improve strength",
+        "C) Add weight",
+        "D) Improve appearance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e8a26913e319ed473ab88c364a47ace2fd35232",
+      "sectionIndex": 5,
+      "question": "Tarbela Dam siltation problems result from:",
+      "options": [
+        "A) Design flaws only",
+        "B) High sediment load in Indus River",
+        "C) Earthquake damage",
+        "D) Poor maintenance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1cd08c640a64f83164c6defba1e6c355d6f59c4",
+      "sectionIndex": 5,
+      "question": "Aquifer testing provides data on:",
+      "options": [
+        "A) Water quality only",
+        "B) Transmissivity and storage coefficients",
+        "C) Temperature only",
+        "D) Age of water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7fdcb562ad6335a5f1cb4d7385fc30795d7cdf4",
+      "sectionIndex": 5,
+      "question": "Land subsidence due to groundwater extraction involves:",
+      "options": [
+        "A) Elastic rebound only",
+        "B) Compaction of compressible layers",
+        "C) Tectonic movement",
+        "D) Surface erosion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01a1c4fb5ad5991d3d50224ceceda6be764c7cdc",
+      "sectionIndex": 5,
+      "question": "Slope stabilization techniques must consider:",
+      "options": [
+        "A) Aesthetics only",
+        "B) Failure mechanism and site conditions",
+        "C) Cost only",
+        "D) Speed of construction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43e0c7f0e1bf467fcdf12e4220cc9dd8f44e4b2c",
+      "sectionIndex": 5,
+      "question": "Environmental impact of mining includes:",
+      "options": [
+        "A) Economic benefits only",
+        "B) Acid drainage, habitat loss, and pollution",
+        "C) Employment only",
+        "D) Infrastructure development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b38b0702b2e61aee8bd4187e14619f6f1f34737",
+      "sectionIndex": 5,
+      "question": "Tunneling through fault zones requires:",
+      "options": [
+        "A) Standard procedures",
+        "B) Special support and drainage measures",
+        "C) No special precautions",
+        "D) Faster excavation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27e0a0c11bb4a06ca9af7f8164f90c4aca274b40",
+      "sectionIndex": 6,
+      "question": "The Main Boundary Thrust represents:",
+      "options": [
+        "A) Recent faulting",
+        "B) Major Himalayan structural discontinuity",
+        "C) Volcanic boundary",
+        "D) Sedimentary contact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "812ba8b181ea004e2a0276ba76fbc3dc24bcd24a",
+      "sectionIndex": 6,
+      "question": "The Karakoram Block's geological significance includes:",
+      "options": [
+        "A) Only mountains",
+        "B) Cretaceous-Tertiary magmatism and collision",
+        "C) Sedimentary basin",
+        "D) Recent volcanism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "223716737bd9d78a57ebfaafc892834c4f2d3c15",
+      "sectionIndex": 6,
+      "question": "The Indus Suture Zone marks:",
+      "options": [
+        "A) River boundary",
+        "B) India-Asia collision boundary",
+        "C) Provincial boundary",
+        "D) Climatic boundary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67dfc5e9a0d2a5fec97592d93c1ac50e80c0d8da",
+      "sectionIndex": 6,
+      "question": "Potwar Basin hydrocarbons occur in:",
+      "options": [
+        "A) Basement rocks",
+        "B) Tertiary molasse deposits",
+        "C) Recent sediments",
+        "D) Volcanic rocks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e98f6a464cbc4f282eff08b630cf7b94e0691709",
+      "sectionIndex": 6,
+      "question": "The Makran accretionary wedge formed through:",
+      "options": [
+        "A) River deposition",
+        "B) Subduction of Arabian oceanic plate",
+        "C) Continental rifting",
+        "D) Glacial processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6072a02f1f397d7c42b82be81798ea683d849ed9",
+      "sectionIndex": 6,
+      "question": "Khewra Gorge stratigraphy provides evidence for:",
+      "options": [
+        "A) Continuous deposition",
+        "B) Multiple Paleozoic transgressions",
+        "C) Only Mesozoic rocks",
+        "D) Cenozoic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e9ba64c93ed0ba4747d6eeacad9c92b9daf31c3",
+      "sectionIndex": 6,
+      "question": "The Bela Ophiolite represents:",
+      "options": [
+        "A) Continental crust",
+        "B) Obducted oceanic lithosphere",
+        "C) River deposits",
+        "D) Glacial deposits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2f9780c4a461b7e7a918aa8a826dd7634e657c9",
+      "sectionIndex": 6,
+      "question": "Balochistan's geological complexity results from:",
+      "options": [
+        "A) Simple structure",
+        "B) Multiple terranes and suture zones",
+        "C) Uniform stratigraphy",
+        "D) Recent deposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fbd23810e2cf0fbfdff9617fb4dd004d04dce2e",
+      "sectionIndex": 6,
+      "question": "The Peshawar Basin contains:",
+      "options": [
+        "A) Only old rocks",
+        "B) Quaternary intermontane deposits",
+        "C) Marine deposits only",
+        "D) Volcanic rocks only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd0a00874e3b3b96f3aafe69702da6f399eb4a09",
+      "sectionIndex": 6,
+      "question": "Reko Diq mineralization is associated with:",
+      "options": [
+        "A) Sedimentary processes",
+        "B) Calc-alkaline porphyry systems",
+        "C) Metamorphism only",
+        "D) Surface weathering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "008b1f2a5d13904422625863341dd72e5bfc3e1a",
+      "sectionIndex": 7,
+      "question": "Walther's Law relates:",
+      "options": [
+        "A) Grain size only",
+        "B) Vertical and lateral facies relationships",
+        "C) Age of sediments",
+        "D) Chemical composition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aee082a1d56dd85138d4b5f0b70de1f64d1cbbb8",
+      "sectionIndex": 7,
+      "question": "Turbidite sequences (Bouma sequences) indicate:",
+      "options": [
+        "A) Shallow water",
+        "B) Deep marine gravity flows",
+        "C) Desert conditions",
+        "D) Glacial environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1e5aa1a7306d51f25679bfb147dadda98388a9d",
+      "sectionIndex": 7,
+      "question": "Diagenetic processes in sandstones include:",
+      "options": [
+        "A) Deposition only",
+        "B) Cementation, compaction, and alteration",
+        "C) Erosion only",
+        "D) Transportation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80451a34e8310a4e3f7d066cddc1ee9a05d5f264",
+      "sectionIndex": 7,
+      "question": "Sequence boundaries in stratigraphy represent:",
+      "options": [
+        "A) Continuous deposition",
+        "B) Erosion or non-deposition surfaces",
+        "C) Fault surfaces",
+        "D) Fold axes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cca457091a5f141cdb62470fa6597e2cf9ea359c",
+      "sectionIndex": 7,
+      "question": "Deltaic progradation patterns reflect:",
+      "options": [
+        "A) Random deposition",
+        "B) Sediment supply and accommodation space",
+        "C) Wave action only",
+        "D) Tidal influence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e50a283caeb4d6df444d704ea93be935e42cacc2",
+      "sectionIndex": 7,
+      "question": "Carbonate platform development requires:",
+      "options": [
+        "A) Cold water",
+        "B) Warm, clear water and minimal clastic input",
+        "C) Deep water only",
+        "D) High energy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd7c5a60854affde963fb23591b5aedc474e9324",
+      "sectionIndex": 7,
+      "question": "Transgressive versus regressive sequences show:",
+      "options": [
+        "A) Same grain size trends",
+        "B) Opposite grain size and facies trends",
+        "C) No systematic changes",
+        "D) Random patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dc8528cea9e14da53ba97f2b3476b3fd282d52f",
+      "sectionIndex": 7,
+      "question": "Provenance studies of sediments reveal:",
+      "options": [
+        "A) Age only",
+        "B) Source area composition and tectonic setting",
+        "C) Depositional environment only",
+        "D) Climate only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "633dc5594397a9fa87189308db288613d9148c90",
+      "sectionIndex": 7,
+      "question": "Paleocurrent analysis provides information on:",
+      "options": [
+        "A) Age of rocks",
+        "B) Ancient flow directions and basin geometry",
+        "C) Rock composition only",
+        "D) Fossil content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "107c92061a536c946e56db34e20cb29c2501a612",
+      "sectionIndex": 7,
+      "question": "Storm deposits (tempestites) are characterized by:",
+      "options": [
+        "A) Fine lamination",
+        "B) Hummocky cross-stratification",
+        "C) Uniform grain size",
+        "D) No sedimentary structures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b50ebc98fee7ec40b644ac4807c61d3a25375bb",
+      "sectionIndex": 8,
+      "question": "Metamorphic facies concept relates:",
+      "options": [
+        "A) Rock types only",
+        "B) P-T conditions and mineral assemblages",
+        "C) Age of metamorphism",
+        "D) Geographic location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad9794762309810a63e100031fd8145abfc23906",
+      "sectionIndex": 8,
+      "question": "Barrovian metamorphic zones indicate:",
+      "options": [
+        "A) Contact effects",
+        "B) Regional temperature gradient",
+        "C) Pressure only",
+        "D) Time progression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "533cafacb938854729479a92c1b287a6e2c6401d",
+      "sectionIndex": 8,
+      "question": "Retrograde metamorphism involves:",
+      "options": [
+        "A) Increasing grade",
+        "B) Adjustment to lower P-T conditions",
+        "C) No change",
+        "D) Melting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13c9b948d56a30aca7d56d1518a9f86dcdd5051b",
+      "sectionIndex": 8,
+      "question": "Pressure solution in metamorphic rocks produces:",
+      "options": [
+        "A) Random fabric",
+        "B) Cleavage and preferred orientation",
+        "C) No visible effects",
+        "D) Melting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a466b37f995b6169e6e87fed0894d8e7f8fa45c0",
+      "sectionIndex": 8,
+      "question": "The presence of garnet-kyanite assemblages indicates:",
+      "options": [
+        "A) Low pressure",
+        "B) Medium to high pressure conditions",
+        "C) Surface conditions",
+        "D) Contact metamorphism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adfe3209a17fe7df2e09d151f15cfce73bef8650",
+      "sectionIndex": 8,
+      "question": "Migmatites represent:",
+      "options": [
+        "A) Low grade metamorphism",
+        "B) Partial melting conditions",
+        "C) Sedimentary rocks",
+        "D) Weathering products"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d9afb8d35a81db8658ec40a98d5d1b7e2bba00b",
+      "sectionIndex": 8,
+      "question": "Blueschist facies rocks indicate:",
+      "options": [
+        "A) High temperature only",
+        "B) High pressure, low temperature subduction",
+        "C) Surface conditions",
+        "D) Contact effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3153028e1eb59d100ec253a745e3b932a924675d",
+      "sectionIndex": 8,
+      "question": "Metamorphic differentiation produces:",
+      "options": [
+        "A) Homogeneous rocks",
+        "B) Compositional banding",
+        "C) No changes",
+        "D) Random textures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9f417529537683055bbf634de1e30dc48e36f01",
+      "sectionIndex": 8,
+      "question": "The concept of metamorphic grade integrates:",
+      "options": [
+        "A) Temperature only",
+        "B) Peak metamorphic conditions",
+        "C) Pressure only",
+        "D) Time only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5f2248c1f9548b968627e904703126821d5279f",
+      "sectionIndex": 8,
+      "question": "Pseudomorphs in metamorphic rocks indicate:",
+      "options": [
+        "A) Original minerals",
+        "B) Replacement while maintaining shape",
+        "C) No change",
+        "D) Melting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91f391fa8a936cd906204543384cced5b67e5b44",
+      "sectionIndex": 9,
+      "question": "Darcy's Law quantifies:",
+      "options": [
+        "A) Rock strength",
+        "B) Groundwater flow through porous media",
+        "C) Surface runoff",
+        "D) Evaporation rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc84c9c62871314ed7d0ba9d4b52d28a7665be20",
+      "sectionIndex": 9,
+      "question": "The cone of depression around pumping wells depends on:",
+      "options": [
+        "A) Well depth only",
+        "B) Pumping rate and aquifer properties",
+        "C) Weather only",
+        "D) Well diameter only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ee27c53902620ea7ff5c55220b0f7246d5215b6",
+      "sectionIndex": 9,
+      "question": "Geothermal gradients vary due to:",
+      "options": [
+        "A) Latitude only",
+        "B) Tectonic setting and heat flow",
+        "C) Surface temperature",
+        "D) Rainfall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44b38f50db34d1648ca54e6c2f45bc3093855a26",
+      "sectionIndex": 9,
+      "question": "Rock mass rating (RMR) systems integrate:",
+      "options": [
+        "A) Color only",
+        "B) Multiple parameters for engineering classification",
+        "C) Age only",
+        "D) Mineral content only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b34ca4ac1146746e26b8745446027b7491a4be3d",
+      "sectionIndex": 9,
+      "question": "Acid mine drainage mitigation requires:",
+      "options": [
+        "A) Dilution only",
+        "B) Neutralization and prevention strategies",
+        "C) Covering only",
+        "D) Ignoring the problem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd698b614ddb513b735ea59c60a1fbbde3cf2bfc",
+      "sectionIndex": 9,
+      "question": "Grouting effectiveness depends on:",
+      "options": [
+        "A) Grout color",
+        "B) Rock fracture patterns and grout properties",
+        "C) Time of day",
+        "D) Weather conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b961cf95c50f356460256ae00d8a3c36b985f7c",
+      "sectionIndex": 9,
+      "question": "Seismic microzonation provides:",
+      "options": [
+        "A) Earthquake prediction",
+        "B) Site-specific hazard assessment",
+        "C) General information only",
+        "D) Historical data only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb9fba558a9016ae781482ca0b8ba4f97fe5f0fe",
+      "sectionIndex": 9,
+      "question": "Coastal erosion management requires understanding of:",
+      "options": [
+        "A) Wave height only",
+        "B) Sediment transport and coastal processes",
+        "C) Tides only",
+        "D) Temperature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3145c9d8cf24c7715d953e2e506962accd0256f",
+      "sectionIndex": 9,
+      "question": "Waste disposal site selection must consider:",
+      "options": [
+        "A) Distance only",
+        "B) Hydrogeology and containment potential",
+        "C) Cost only",
+        "D) Politics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c2db9c554169b4ff5db0e02d6613bccd78592ff",
+      "sectionIndex": 9,
+      "question": "Engineering properties of rocks correlate with:",
+      "options": [
+        "A) Color only",
+        "B) Mineralogy, texture, and discontinuities",
+        "C) Age only",
+        "D) Location only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

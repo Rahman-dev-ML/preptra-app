@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:51:11.369Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "a9c37f40d6fb4faf281393f99d80d843130b34a9",
+      "sectionIndex": 0,
+      "question": "The Glorious Revolution took place in which year?",
+      "options": [
+        "A) 1666",
+        "B) 1688",
+        "C) 1707",
+        "D) 1714"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfc2e0904ab59d5c58c6eb466c3e4c888ad77744",
+      "sectionIndex": 0,
+      "question": "Who was invited to take the English throne during the Glorious Revolution?",
+      "options": [
+        "A) James II",
+        "B) Charles II",
+        "C) William III and Mary II",
+        "D) George I"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bf0df52fcab581e70641d32157ae167010089d76",
+      "sectionIndex": 0,
+      "question": "Which king was overthrown during the Glorious Revolution?",
+      "options": [
+        "A) Charles I",
+        "B) James II",
+        "C) Charles II",
+        "D) George III"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1855594e4eb4bb69e30f1726ea5bacd1709d3f5a",
+      "sectionIndex": 0,
+      "question": "The Glorious Revolution is called \"glorious\" because it was:",
+      "options": [
+        "A) Very expensive",
+        "B) Largely bloodless",
+        "C) Led by nobles",
+        "D) Supported by France"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfc7f3dc4a907d0caa45ef011304da78976a26f4",
+      "sectionIndex": 0,
+      "question": "William III was also known as:",
+      "options": [
+        "A) William of Orange",
+        "B) William the Conqueror",
+        "C) William the Silent",
+        "D) William the Great"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0261950616a61f5cf7578bd3199a9e7dd5ab59aa",
+      "sectionIndex": 0,
+      "question": "The Bill of Rights was passed in which year?",
+      "options": [
+        "A) 1688",
+        "B) 1689",
+        "C) 1690",
+        "D) 1701"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97cc0210c8f96712d52a5bd5be2ed3b62c40c7df",
+      "sectionIndex": 0,
+      "question": "The Glorious Revolution established the principle of:",
+      "options": [
+        "A) Absolute monarchy",
+        "B) Parliamentary supremacy",
+        "C) Divine right of kings",
+        "D) Military rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88b9b529e59decee9b96808a7bcc1a528c4be70a",
+      "sectionIndex": 0,
+      "question": "Mary II was the daughter of:",
+      "options": [
+        "A) Charles II",
+        "B) James II",
+        "C) William III",
+        "D) George I"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b5231b7f0a7e6e0fa97b690fab86fadc7037b72",
+      "sectionIndex": 0,
+      "question": "The Glorious Revolution primarily protected which religion?",
+      "options": [
+        "A) Catholicism",
+        "B) Protestantism",
+        "C) Judaism",
+        "D) Islam"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb161e72b6791e9ff5c55c83c5ebb1cc5ec3d868",
+      "sectionIndex": 0,
+      "question": "The Glorious Revolution marked the end of:",
+      "options": [
+        "A) Parliament",
+        "B) Monarchy",
+        "C) Absolute monarchy",
+        "D) Democracy"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7b0ccedb65b9de35b9c30de3aacd8e2a989384a2",
+      "sectionIndex": 1,
+      "question": "The Industrial Revolution began in which country?",
+      "options": [
+        "A) France",
+        "B) Germany",
+        "C) England",
+        "D) United States"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0c16e2221c259fcb0d69608b357fd8825c25d433",
+      "sectionIndex": 1,
+      "question": "The Industrial Revolution started approximately in:",
+      "options": [
+        "A) 1650",
+        "B) 1750",
+        "C) 1850",
+        "D) 1900"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09167e88415a99a4650f9bea68dbf928dc4784bd",
+      "sectionIndex": 1,
+      "question": "Which invention is associated with James Watt?",
+      "options": [
+        "A) Spinning Jenny",
+        "B) Steam Engine",
+        "C) Power Loom",
+        "D) Cotton Gin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc149fca81f9cb5673631dae8245aa41024a7784",
+      "sectionIndex": 1,
+      "question": "The first industry to be revolutionized was:",
+      "options": [
+        "A) Steel",
+        "B) Coal mining",
+        "C) Textiles",
+        "D) Railways"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4cb171eda4b218f2d8257e1ca440d8dae05942e5",
+      "sectionIndex": 1,
+      "question": "The Spinning Jenny was invented by:",
+      "options": [
+        "A) James Watt",
+        "B) James Hargreaves",
+        "C) George Stephenson",
+        "D) Richard Arkwright"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7db0cdf58028ffe463587df2c06d265aa0156020",
+      "sectionIndex": 1,
+      "question": "Which city became known as \"Cottonopolis\"?",
+      "options": [
+        "A) London",
+        "B) Birmingham",
+        "C) Manchester",
+        "D) Liverpool"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5bf74d8ed72696a5ace48cf228a18fd676fe4557",
+      "sectionIndex": 1,
+      "question": "The first passenger railway connected which two cities?",
+      "options": [
+        "A) London and Birmingham",
+        "B) Liverpool and Manchester",
+        "C) London and Edinburgh",
+        "D) Manchester and Leeds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6aa1938d9138ba9f43b162fed809c648de065b4",
+      "sectionIndex": 1,
+      "question": "Coal was primarily used for:",
+      "options": [
+        "A) Heating homes only",
+        "B) Powering steam engines",
+        "C) Making jewelry",
+        "D) Building roads"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb6009156441242b5e344cbf9b127eccb3e23560",
+      "sectionIndex": 1,
+      "question": "The Factory Act of 1833 was passed to:",
+      "options": [
+        "A) Increase production",
+        "B) Regulate child labor",
+        "C) Close factories",
+        "D) Increase wages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78bb0301297a29fd3337b1832236d836fd1c0e75",
+      "sectionIndex": 1,
+      "question": "The Industrial Revolution led to the growth of:",
+      "options": [
+        "A) Farming",
+        "B) Cities",
+        "C) Forests",
+        "D) Small villages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7cdfcb608c383c770b31397eb90a5fda28336e6",
+      "sectionIndex": 2,
+      "question": "Who is considered Britain's first Prime Minister?",
+      "options": [
+        "A) William Pitt",
+        "B) Robert Walpole",
+        "C) Robert Peel",
+        "D) Lord North"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21fad66c6e22c7e91e1bfd7320f8c62fc1824922",
+      "sectionIndex": 2,
+      "question": "William Gladstone belonged to which political party?",
+      "options": [
+        "A) Conservative",
+        "B) Liberal",
+        "C) Labour",
+        "D) Whig"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69732b8079429c853a58d78d1258140f84db092c",
+      "sectionIndex": 2,
+      "question": "Benjamin Disraeli was a leader of which party?",
+      "options": [
+        "A) Liberal",
+        "B) Labour",
+        "C) Conservative",
+        "D) Whig"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9a0c9106daa69defa659f440a4360e52c6dcd630",
+      "sectionIndex": 2,
+      "question": "Winston Churchill was Prime Minister during:",
+      "options": [
+        "A) World War I",
+        "B) World War II",
+        "C) Crimean War",
+        "D) Boer War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9a0759f9f136ff7e86f714b5213b1479ebe539e",
+      "sectionIndex": 2,
+      "question": "Margaret Thatcher was known as the:",
+      "options": [
+        "A) Iron Lady",
+        "B) Steel Queen",
+        "C) Bronze Leader",
+        "D) Golden Premier"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d4439e94889050138bf2b66801e0f5ae5e88b6df",
+      "sectionIndex": 2,
+      "question": "Robert Peel founded which modern institution?",
+      "options": [
+        "A) Bank of England",
+        "B) Metropolitan Police",
+        "C) NHS",
+        "D) BBC"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ce5e4e8f6cb1f422267540b9af2ee595c93a10f",
+      "sectionIndex": 2,
+      "question": "Which Prime Minister repealed the Corn Laws?",
+      "options": [
+        "A) Gladstone",
+        "B) Disraeli",
+        "C) Robert Peel",
+        "D) Palmerston"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "73cd8418c35efae0a709d71684a0cb6a572568e3",
+      "sectionIndex": 2,
+      "question": "Tony Blair belonged to which party?",
+      "options": [
+        "A) Conservative",
+        "B) Liberal Democrat",
+        "C) Labour",
+        "D) UKIP"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c4e3f9eeaebc04c2940298fe9eb3a85b4932b8ba",
+      "sectionIndex": 2,
+      "question": "Who was Prime Minister during the American Revolution?",
+      "options": [
+        "A) William Pitt the Elder",
+        "B) Lord North",
+        "C) Robert Walpole",
+        "D) George Grenville"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ebe3c83ec1eda7f00acc7286142b9e90e74190b",
+      "sectionIndex": 2,
+      "question": "Which Prime Minister served the longest continuous term?",
+      "options": [
+        "A) Margaret Thatcher",
+        "B) Tony Blair",
+        "C) Robert Walpole",
+        "D) William Gladstone"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2a9612819aecc017b82dc50db35ff98a201cbbb6",
+      "sectionIndex": 3,
+      "question": "The Act of Union between England and Scotland was passed in:",
+      "options": [
+        "A) 1603",
+        "B) 1707",
+        "C) 1801",
+        "D) 1832"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28a17b3767a15016a34db57b55e77b471ae16c87",
+      "sectionIndex": 3,
+      "question": "The Reform Act of 1832 primarily:",
+      "options": [
+        "A) Gave women the vote",
+        "B) Extended voting rights to middle class",
+        "C) Abolished monarchy",
+        "D) Created House of Lords"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35c7cafde13f318abf366d79a5c4c72dec3691c1",
+      "sectionIndex": 3,
+      "question": "The Act of Union with Ireland was passed in:",
+      "options": [
+        "A) 1707",
+        "B) 1750",
+        "C) 1801",
+        "D) 1832"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7a953dbe996c564850614a0bdce88407fe6873de",
+      "sectionIndex": 3,
+      "question": "Catholic Emancipation Act was passed in:",
+      "options": [
+        "A) 1807",
+        "B) 1819",
+        "C) 1829",
+        "D) 1832"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2102617f527a3ce84f820f6963587ac64c2afbdc",
+      "sectionIndex": 3,
+      "question": "The Parliament Act of 1911 limited the power of:",
+      "options": [
+        "A) House of Commons",
+        "B) House of Lords",
+        "C) Prime Minister",
+        "D) Monarch"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ed7e143f016b32a35fed706c310b99d980d733c",
+      "sectionIndex": 3,
+      "question": "Women over 30 got the right to vote in:",
+      "options": [
+        "A) 1918",
+        "B) 1928",
+        "C) 1945",
+        "D) 1969"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d071dbcc3d2381ddab7c65cd52110509a0103969",
+      "sectionIndex": 3,
+      "question": "All women got equal voting rights in:",
+      "options": [
+        "A) 1918",
+        "B) 1928",
+        "C) 1945",
+        "D) 1969"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37d699f02d9d3af4da3c9b54660dd108df0a5002",
+      "sectionIndex": 3,
+      "question": "The Great Reform Act is another name for:",
+      "options": [
+        "A) Act of Union 1707",
+        "B) Reform Act 1832",
+        "C) Parliament Act 1911",
+        "D) Reform Act 1867"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2549e5305e823d6e6f4ed02512fc9cd9011903e",
+      "sectionIndex": 3,
+      "question": "The Chartist Movement demanded:",
+      "options": [
+        "A) Women's rights",
+        "B) Universal male suffrage",
+        "C) Abolition of monarchy",
+        "D) Irish independence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3007b44f4f62f8d3c330842583f24f637577c23",
+      "sectionIndex": 3,
+      "question": "The Representation of the People Act 1918 gave vote to:",
+      "options": [
+        "A) All men only",
+        "B) Women over 30 and all men over 21",
+        "C) Everyone over 18",
+        "D) Property owners only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a648aacbad8db5a418ecaa1bc22de8f1a4cbe709",
+      "sectionIndex": 4,
+      "question": "The Battle of Waterloo took place in:",
+      "options": [
+        "A) 1805",
+        "B) 1815",
+        "C) 1825",
+        "D) 1835"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f1acc41b618d22d450951efed483ea8ad4a530e",
+      "sectionIndex": 4,
+      "question": "Napoleon was defeated at Waterloo by:",
+      "options": [
+        "A) Nelson",
+        "B) Wellington",
+        "C) Marlborough",
+        "D) Montgomery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "325ca9f2254224eb0b1cac1d217445a1629cdb75",
+      "sectionIndex": 4,
+      "question": "The Crimean War was fought primarily against:",
+      "options": [
+        "A) France",
+        "B) Germany",
+        "C) Russia",
+        "D) Turkey"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "978d87f4d9a3d6c90ed397bbb60b600c3b28b4f3",
+      "sectionIndex": 4,
+      "question": "Florence Nightingale became famous during:",
+      "options": [
+        "A) Napoleonic Wars",
+        "B) Crimean War",
+        "C) World War I",
+        "D) Boer War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46fa0aca40208ab6b886f26d41a196afe83e5b8f",
+      "sectionIndex": 4,
+      "question": "World War I lasted from:",
+      "options": [
+        "A) 1912-1916",
+        "B) 1914-1918",
+        "C) 1916-1920",
+        "D) 1918-1922"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "401fd8c08532111f9548b1b3f15ff1c4e6fa0ffe",
+      "sectionIndex": 4,
+      "question": "The Treaty of Versailles was signed in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47e70ffe5f915c12da33f3912d797e1ea667bc02",
+      "sectionIndex": 4,
+      "question": "The Falklands War was fought in:",
+      "options": [
+        "A) 1972",
+        "B) 1982",
+        "C) 1992",
+        "D) 2002"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c55914b3975e9fa7634bc824f14c7844b3216fa",
+      "sectionIndex": 4,
+      "question": "The Falklands War was against:",
+      "options": [
+        "A) Spain",
+        "B) Chile",
+        "C) Argentina",
+        "D) Brazil"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6a0171401f96e00c1acaf9d7fdcf49fcebbe5ba6",
+      "sectionIndex": 4,
+      "question": "The Suez Crisis occurred in:",
+      "options": [
+        "A) 1946",
+        "B) 1956",
+        "C) 1966",
+        "D) 1976"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db5eeb029debef7e14cfecf03d41191c7d282ee4",
+      "sectionIndex": 4,
+      "question": "The Battle of Britain took place in:",
+      "options": [
+        "A) 1939",
+        "B) 1940",
+        "C) 1941",
+        "D) 1942"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f7b8917604d4ebf5ec887bd4608214353ffd8e6",
+      "sectionIndex": 5,
+      "question": "The American colonies declared independence in:",
+      "options": [
+        "A) 1766",
+        "B) 1776",
+        "C) 1786",
+        "D) 1796"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b4052fba6ae80fc3dafc3160b0fe9034ed3eb94",
+      "sectionIndex": 5,
+      "question": "India gained independence from Britain in:",
+      "options": [
+        "A) 1937",
+        "B) 1947",
+        "C) 1957",
+        "D) 1967"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f91f9a6cc78027a997922c4cfe55d7e1a54dce7",
+      "sectionIndex": 5,
+      "question": "The Commonwealth of Nations was formerly known as:",
+      "options": [
+        "A) British Empire",
+        "B) British Commonwealth",
+        "C) Imperial Federation",
+        "D) Colonial Union"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3052461adcde3e91093b154373554bcff3c682c6",
+      "sectionIndex": 5,
+      "question": "The Thirteen Colonies were located in:",
+      "options": [
+        "A) Canada",
+        "B) America",
+        "C) Australia",
+        "D) India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc9d3cafb3e56292f19e9d956e7681bcdb177340",
+      "sectionIndex": 5,
+      "question": "The Boston Tea Party occurred in:",
+      "options": [
+        "A) 1770",
+        "B) 1773",
+        "C) 1776",
+        "D) 1780"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a9e126f0ce904f44b77774decbc1708aba0624a",
+      "sectionIndex": 5,
+      "question": "The Slavery Abolition Act was passed in:",
+      "options": [
+        "A) 1807",
+        "B) 1833",
+        "C) 1865",
+        "D) 1888"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4320e7d1a66f24d6b447d73a8b96878979936b31",
+      "sectionIndex": 5,
+      "question": "Hong Kong was returned to China in:",
+      "options": [
+        "A) 1987",
+        "B) 1997",
+        "C) 2007",
+        "D) 2017"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96e08cd652008b5d54dec390f607f6b341d7aff5",
+      "sectionIndex": 5,
+      "question": "The Raj refers to British rule in:",
+      "options": [
+        "A) America",
+        "B) Australia",
+        "C) India",
+        "D) Canada"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e600c61b061559ec441090e4856ba1de62223ec",
+      "sectionIndex": 5,
+      "question": "The Statute of Westminster was passed in:",
+      "options": [
+        "A) 1901",
+        "B) 1921",
+        "C) 1931",
+        "D) 1941"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b53e86bafffb4ec263d99dcac0938f3786a198db",
+      "sectionIndex": 5,
+      "question": "Which country was NOT part of the original dominions?",
+      "options": [
+        "A) Canada",
+        "B) Australia",
+        "C) India",
+        "D) New Zealand"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "176f154906afecbf36c6d8d621cb99983059202e",
+      "sectionIndex": 6,
+      "question": "The Chartist Movement was active in the:",
+      "options": [
+        "A) 1820s-1830s",
+        "B) 1830s-1840s",
+        "C) 1840s-1850s",
+        "D) 1850s-1860s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41ad4bd79d94330d834d7b2e5b591c179514ffe2",
+      "sectionIndex": 6,
+      "question": "The suffragettes fought for:",
+      "options": [
+        "A) Workers' rights",
+        "B) Women's voting rights",
+        "C) Children's education",
+        "D) Religious freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ccfbd7f55ba22428878368c5223d37fe0f90cd8",
+      "sectionIndex": 6,
+      "question": "Emmeline Pankhurst founded:",
+      "options": [
+        "A) Labour Party",
+        "B) WSPU (Women's Social and Political Union)",
+        "C) Trade Union Congress",
+        "D) Fabian Society"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "463b6202a50c4156b13a484bbb7ec6866a8cc632",
+      "sectionIndex": 6,
+      "question": "The Labour Party was founded in:",
+      "options": [
+        "A) 1880",
+        "B) 1900",
+        "C) 1920",
+        "D) 1940"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d37125d046793ba5320fa09f0bcb2033d43a1a4c",
+      "sectionIndex": 6,
+      "question": "The Methodist movement was started by:",
+      "options": [
+        "A) John Calvin",
+        "B) Martin Luther",
+        "C) John Wesley",
+        "D) John Knox"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8c3fc4adb5e77786e4db10d6f6078fbb4e39005f",
+      "sectionIndex": 6,
+      "question": "The Tolpuddle Martyrs were:",
+      "options": [
+        "A) Religious reformers",
+        "B) Farm laborers",
+        "C) Factory owners",
+        "D) Politicians"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a963eba1ce35d8b9051a0b6e817144832b476b7",
+      "sectionIndex": 6,
+      "question": "The Fabian Society promoted:",
+      "options": [
+        "A) Revolution",
+        "B) Gradual socialism",
+        "C) Conservatism",
+        "D) Anarchism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5472f4ff44360f156ebf4a8baaae4497df56718",
+      "sectionIndex": 6,
+      "question": "The Poor Law Amendment Act was passed in:",
+      "options": [
+        "A) 1814",
+        "B) 1824",
+        "C) 1834",
+        "D) 1844"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "321086a5bc69b08e31fd94cae7df4e31c3d15e0c",
+      "sectionIndex": 6,
+      "question": "The workhouse system was associated with:",
+      "options": [
+        "A) Industrial success",
+        "B) Poor relief",
+        "C) Education",
+        "D) Healthcare"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d76a1d9bff56c1d437c2df4fb0abf78c42ce751",
+      "sectionIndex": 6,
+      "question": "Trade unions were legalized in:",
+      "options": [
+        "A) 1824",
+        "B) 1834",
+        "C) 1844",
+        "D) 1854"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "092e4cec570a365760cbbf778a842c9cc05e6bee",
+      "sectionIndex": 7,
+      "question": "\"Splendid Isolation\" refers to British policy in the:",
+      "options": [
+        "A) 18th century",
+        "B) Late 19th century",
+        "C) Early 20th century",
+        "D) Mid-20th century"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0decd6a8d625b35d4ef543a8b9a6498e31a5c56",
+      "sectionIndex": 7,
+      "question": "The Entente Cordiale was signed with:",
+      "options": [
+        "A) Germany",
+        "B) Russia",
+        "C) France",
+        "D) Italy"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3c3425d8adabb6290fa04674690efec17ef012e3",
+      "sectionIndex": 7,
+      "question": "The Entente Cordiale was signed in:",
+      "options": [
+        "A) 1894",
+        "B) 1904",
+        "C) 1914",
+        "D) 1924"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "414e777e24a9d283bb0b57c7cac10f7d43f17eb9",
+      "sectionIndex": 7,
+      "question": "The Eastern Question concerned:",
+      "options": [
+        "A) India",
+        "B) China",
+        "C) Ottoman Empire",
+        "D) Japan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8f7f6a10904c3ba314090eaffc038ef77c54fd15",
+      "sectionIndex": 7,
+      "question": "Britain joined the EEC (now EU) in:",
+      "options": [
+        "A) 1963",
+        "B) 1973",
+        "C) 1983",
+        "D) 1993"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d057711f2b2b41b85a7d244ef684051e0225352f",
+      "sectionIndex": 7,
+      "question": "Brexit referendum took place in:",
+      "options": [
+        "A) 2014",
+        "B) 2015",
+        "C) 2016",
+        "D) 2017"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f751928d740b3b8613b3a8e4bd98bb95757697c4",
+      "sectionIndex": 7,
+      "question": "The special relationship refers to ties with:",
+      "options": [
+        "A) France",
+        "B) Germany",
+        "C) United States",
+        "D) Australia"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ecb7053cf4e719c498eab45a9ed369381427d3f8",
+      "sectionIndex": 7,
+      "question": "The Munich Agreement was signed in:",
+      "options": [
+        "A) 1936",
+        "B) 1937",
+        "C) 1938",
+        "D) 1939"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "71a40b8e3e5498fff4dd168d7d4d40c11e181415",
+      "sectionIndex": 7,
+      "question": "NATO was formed in:",
+      "options": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1949",
+        "D) 1951"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ae7570452f1632b6509959db9a0cffd629a7096f",
+      "sectionIndex": 7,
+      "question": "The Berlin Congress was held in:",
+      "options": [
+        "A) 1868",
+        "B) 1878",
+        "C) 1888",
+        "D) 1898"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5aa76834a223ce030f693e7fda1153e7fb3e4b37",
+      "sectionIndex": 8,
+      "question": "The Corn Laws were repealed in:",
+      "options": [
+        "A) 1836",
+        "B) 1846",
+        "C) 1856",
+        "D) 1866"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e9c53f9ec3f2bf3170df0e611b737376de28f73",
+      "sectionIndex": 8,
+      "question": "The National Health Service (NHS) was established in:",
+      "options": [
+        "A) 1938",
+        "B) 1948",
+        "C) 1958",
+        "D) 1968"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdeb377316b4d8a575e0733e6bbe32937d8f337b",
+      "sectionIndex": 8,
+      "question": "The welfare state was largely created by:",
+      "options": [
+        "A) Conservative government",
+        "B) Labour government",
+        "C) Liberal government",
+        "D) Coalition government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48c93f0f7cbf9f5856c9465803c5444e32d61dd7",
+      "sectionIndex": 8,
+      "question": "Clement Attlee was Prime Minister from:",
+      "options": [
+        "A) 1935-1940",
+        "B) 1940-1945",
+        "C) 1945-1951",
+        "D) 1951-1955"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0e15b2f410e767a48e56f257c55573419b1ca7a0",
+      "sectionIndex": 8,
+      "question": "The Bank of England was nationalized in:",
+      "options": [
+        "A) 1936",
+        "B) 1946",
+        "C) 1956",
+        "D) 1966"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77747e79df0f4c085e1689c4411ceb4a8f85f57b",
+      "sectionIndex": 8,
+      "question": "The Great Depression began in:",
+      "options": [
+        "A) 1919",
+        "B) 1929",
+        "C) 1939",
+        "D) 1949"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1ff37d836c07c20bfcc01658e0e533ca941d272",
+      "sectionIndex": 8,
+      "question": "Thatcherism promoted:",
+      "options": [
+        "A) State control",
+        "B) Free market",
+        "C) Socialism",
+        "D) Protectionism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2aa4790b948f48e0861004b304bd8d8889006852",
+      "sectionIndex": 8,
+      "question": "The coal mines were nationalized in:",
+      "options": [
+        "A) 1937",
+        "B) 1947",
+        "C) 1957",
+        "D) 1967"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e55bcce4225ec1df8874bb93b6201467372061a8",
+      "sectionIndex": 8,
+      "question": "The pound sterling decimalized in:",
+      "options": [
+        "A) 1961",
+        "B) 1971",
+        "C) 1981",
+        "D) 1991"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d0ccc344a6b657852041da9b28f2df7cb71883e",
+      "sectionIndex": 8,
+      "question": "The Beveridge Report was published in:",
+      "options": [
+        "A) 1942",
+        "B) 1945",
+        "C) 1948",
+        "D) 1951"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a62fb1620203bedff3155f3a11ed5121deb3cfd1",
+      "sectionIndex": 9,
+      "question": "Elizabeth II became Queen in:",
+      "options": [
+        "A) 1952",
+        "B) 1953",
+        "C) 1954",
+        "D) 1955"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7652bee51a8f37287a9b1ef7b6dc79bd667f7cc4",
+      "sectionIndex": 9,
+      "question": "The Good Friday Agreement was signed in:",
+      "options": [
+        "A) 1988",
+        "B) 1998",
+        "C) 2008",
+        "D) 2018"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91ba91fea5ee64db9d19d340e74bee2a453b747d",
+      "sectionIndex": 9,
+      "question": "Scottish devolution referendum first succeeded in:",
+      "options": [
+        "A) 1979",
+        "B) 1989",
+        "C) 1997",
+        "D) 2014"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "060e8d2a0d28112227e2f3d69782c202a0ac5e91",
+      "sectionIndex": 9,
+      "question": "The Channel Tunnel opened in:",
+      "options": [
+        "A) 1984",
+        "B) 1994",
+        "C) 2004",
+        "D) 2014"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "794a7cd874ffeceb778e9ceca9c371285e6ac844",
+      "sectionIndex": 9,
+      "question": "London hosted the Olympics in:",
+      "options": [
+        "A) 2008",
+        "B) 2010",
+        "C) 2012",
+        "D) 2016"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4fb0759c263a349738405160b2a52c6456ceff92",
+      "sectionIndex": 9,
+      "question": "The Scottish independence referendum was held in:",
+      "options": [
+        "A) 2012",
+        "B) 2013",
+        "C) 2014",
+        "D) 2015"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "59e5aa72d9c37d5e78dd1ae734aa303ddb77b895",
+      "sectionIndex": 9,
+      "question": "The Millennium Dome was built to celebrate:",
+      "options": [
+        "A) 1900",
+        "B) 2000",
+        "C) 2010",
+        "D) 2020"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "add4132fdf85756792f172eb166976e4914951e9",
+      "sectionIndex": 9,
+      "question": "The Human Rights Act was passed in:",
+      "options": [
+        "A) 1988",
+        "B) 1998",
+        "C) 2008",
+        "D) 2018"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c6a7e5adc55db47d8bd791c877442c065e1414b",
+      "sectionIndex": 9,
+      "question": "The Freedom of Information Act was passed in:",
+      "options": [
+        "A) 1990",
+        "B) 2000",
+        "C) 2010",
+        "D) 2020"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4846a86274ae4c00d9a503d2048b333ca664a6e5",
+      "sectionIndex": 9,
+      "question": "Boris Johnson became Prime Minister in:",
+      "options": [
+        "A) 2017",
+        "B) 2018",
+        "C) 2019",
+        "D) 2020"
+      ],
+      "correct": "C"
+    }
+  ]
+}

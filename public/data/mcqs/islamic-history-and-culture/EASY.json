@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:48:40.530Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "7d8585ddb4b66f1ac740e02164dc1f007f80d38d",
+      "sectionIndex": 0,
+      "question": "The period before Islam in Arabia is known as:",
+      "options": [
+        "A) Jahiliyyah",
+        "B) Renaissance",
+        "C) Golden Age",
+        "D) Medieval Period"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a455f1ff6e18b407f0658bdd69e75e23a928faff",
+      "sectionIndex": 0,
+      "question": "The first mosque built in Islam was:",
+      "options": [
+        "A) Masjid al-Haram",
+        "B) Masjid Quba",
+        "C) Masjid al-Nabawi",
+        "D) Masjid al-Aqsa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c6c74769113bbde6dcd841c608c046f445ef8f8",
+      "sectionIndex": 0,
+      "question": "The year of the Prophet's birth is known as:",
+      "options": [
+        "A) Year of Victory",
+        "B) Year of the Elephant",
+        "C) Year of Sorrow",
+        "D) Year of Peace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90c3c52ba60072ac5774d2107f4ae440127e19d4",
+      "sectionIndex": 0,
+      "question": "The Prophet Muhammad (PBUH) received his first revelation at the age of:",
+      "options": [
+        "A) 25",
+        "B) 35",
+        "C) 40",
+        "D) 45"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ca7485a64fc507bed85a36edbdc90b77b964d955",
+      "sectionIndex": 0,
+      "question": "The migration from Makkah to Madinah is called:",
+      "options": [
+        "A) Isra",
+        "B) Hijrah",
+        "C) Miraj",
+        "D) Umrah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "becde599ad89fadba70c3d09870794f31bf315dd",
+      "sectionIndex": 0,
+      "question": "The cave where the Prophet received his first revelation was:",
+      "options": [
+        "A) Cave Thawr",
+        "B) Cave Hira",
+        "C) Cave Uhud",
+        "D) Cave Badr"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9b9254b57fbf9cc4d8764cc58d2fa71dc030936",
+      "sectionIndex": 0,
+      "question": "The first martyr in Islam was:",
+      "options": [
+        "A) Hamza (RA)",
+        "B) Sumayyah (RA)",
+        "C) Yasir (RA)",
+        "D) Bilal (RA)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b209fb68c72f090982771f1ff911239e285342f",
+      "sectionIndex": 0,
+      "question": "The Treaty of Hudaybiyyah was signed in:",
+      "options": [
+        "A) 6 AH",
+        "B) 7 AH",
+        "C) 8 AH",
+        "D) 9 AH"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0326df1db076e3e0cda3b68670d17c905f0def83",
+      "sectionIndex": 0,
+      "question": "The Charter of Madinah was:",
+      "options": [
+        "A) A military treaty",
+        "B) A constitution for governance",
+        "C) A trade agreement",
+        "D) A religious decree"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a0a860a8da86b3a645c5a59bf8c5a17c3147789",
+      "sectionIndex": 0,
+      "question": "The last sermon of the Prophet was delivered at:",
+      "options": [
+        "A) Madinah",
+        "B) Makkah",
+        "C) Arafat",
+        "D) Mina"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b79db6da8c9f79dd6fbf0a4f6024b5a96b1151f",
+      "sectionIndex": 1,
+      "question": "The first Caliph of Islam was:",
+      "options": [
+        "A) Umar ibn al-Khattab",
+        "B) Abu Bakr as-Siddiq",
+        "C) Uthman ibn Affan",
+        "D) Ali ibn Abi Talib"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c5091460e16e248b970100d167f86469d58cf39",
+      "sectionIndex": 1,
+      "question": "How many years did Abu Bakr (RA) rule as Caliph?",
+      "options": [
+        "A) 2 years",
+        "B) 5 years",
+        "C) 10 years",
+        "D) 15 years"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6e303ddc730ba5f65550cce4a8bc63432d77b0aa",
+      "sectionIndex": 1,
+      "question": "Hazrat Umar (RA) was known by the title:",
+      "options": [
+        "A) As-Siddiq",
+        "B) Al-Farooq",
+        "C) Dhun-Nurain",
+        "D) Asadullah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98fe723af2fa4dd577711bb4c598a38b283968a6",
+      "sectionIndex": 1,
+      "question": "The compilation of the Quran in book form was completed during the caliphate of:",
+      "options": [
+        "A) Abu Bakr",
+        "B) Umar",
+        "C) Uthman",
+        "D) Ali"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aaef2547bc7b85fbe0575b874a7147a6b9854836",
+      "sectionIndex": 1,
+      "question": "Hazrat Ali (RA) was the cousin and son-in-law of:",
+      "options": [
+        "A) Abu Bakr",
+        "B) Prophet Muhammad (PBUH)",
+        "C) Umar",
+        "D) Uthman"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6056ebaf34201c6e2f8c235149fde024290fe6d",
+      "sectionIndex": 1,
+      "question": "The institution of Bait al-Mal was organized by:",
+      "options": [
+        "A) Abu Bakr",
+        "B) Umar",
+        "C) Uthman",
+        "D) Ali"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ff2975207cd46df34a75c89acbcc5bd754fe3f2",
+      "sectionIndex": 1,
+      "question": "The title \"Dhun-Nurain\" (Possessor of Two Lights) was given to:",
+      "options": [
+        "A) Abu Bakr",
+        "B) Umar",
+        "C) Uthman",
+        "D) Ali"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f68dd04d54c662d957bdfa37a34bd4b0838a999d",
+      "sectionIndex": 1,
+      "question": "The Battle of Siffin was fought during the caliphate of:",
+      "options": [
+        "A) Abu Bakr",
+        "B) Umar",
+        "C) Uthman",
+        "D) Ali"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5f53ddad71c00d34e4d8816db57b2b07f6e94271",
+      "sectionIndex": 1,
+      "question": "The Islamic calendar was introduced by:",
+      "options": [
+        "A) Prophet Muhammad",
+        "B) Abu Bakr",
+        "C) Umar",
+        "D) Uthman"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "12a77279ae9f8434853d8f8ffb7b685ce7a7eea4",
+      "sectionIndex": 1,
+      "question": "The total period of the Rightly Guided Caliphs was approximately:",
+      "options": [
+        "A) 20 years",
+        "B) 30 years",
+        "C) 40 years",
+        "D) 50 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38a8ef5dc9b8db087ba75cc278106251411e2ec1",
+      "sectionIndex": 2,
+      "question": "The founder of the Umayyad Dynasty was:",
+      "options": [
+        "A) Yazid I",
+        "B) Muawiyah I",
+        "C) Abdul Malik",
+        "D) Walid I"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16729036a17e1005d301c7a3a3e634253ddb8df3",
+      "sectionIndex": 2,
+      "question": "The capital of the Umayyad Empire was:",
+      "options": [
+        "A) Makkah",
+        "B) Madinah",
+        "C) Damascus",
+        "D) Baghdad"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "75e3589ab678afd84f058850b4e7a80fbad37554",
+      "sectionIndex": 2,
+      "question": "The Umayyad Dynasty lasted from:",
+      "options": [
+        "A) 661-750 CE",
+        "B) 750-850 CE",
+        "C) 850-950 CE",
+        "D) 950-1050 CE"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f5645809291cb659a68486966bad7a4696046134",
+      "sectionIndex": 2,
+      "question": "The official language of administration under the Umayyads was changed to:",
+      "options": [
+        "A) Persian",
+        "B) Greek",
+        "C) Arabic",
+        "D) Latin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "92d3ea9dc34279106e381ae0570243ba3a26809b",
+      "sectionIndex": 2,
+      "question": "Abdul Malik bin Marwan introduced:",
+      "options": [
+        "A) Islamic calendar",
+        "B) Islamic coinage",
+        "C) Islamic navy",
+        "D) Islamic architecture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0eda05aa1391f83fa1e670f57d085f5d799733aa",
+      "sectionIndex": 2,
+      "question": "The last Umayyad Caliph was:",
+      "options": [
+        "A) Yazid III",
+        "B) Marwan II",
+        "C) Hisham",
+        "D) Walid II"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e1e8391c98bd4b659a023aa8c81f18ec6e481e0",
+      "sectionIndex": 2,
+      "question": "The Dome of the Rock was built by:",
+      "options": [
+        "A) Muawiyah I",
+        "B) Abdul Malik",
+        "C) Walid I",
+        "D) Sulayman"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b7222ef83efacd0f4fa12a85db9ec59e772e8c1",
+      "sectionIndex": 2,
+      "question": "The Umayyad expansion reached up to:",
+      "options": [
+        "A) Egypt only",
+        "B) Syria only",
+        "C) Spain and Central Asia",
+        "D) Arabia only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c8b8574d035eeb633dcf272db5b1b8c249d40892",
+      "sectionIndex": 2,
+      "question": "Umar bin Abdul Aziz is known for his:",
+      "options": [
+        "A) Military conquests",
+        "B) Piety and justice",
+        "C) Architecture",
+        "D) Poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59cdf69b25241246b5fa8b8b9a684efbb6479801",
+      "sectionIndex": 2,
+      "question": "The Battle of Karbala occurred during the rule of:",
+      "options": [
+        "A) Muawiyah I",
+        "B) Yazid I",
+        "C) Abdul Malik",
+        "D) Walid I"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d9397b2ada2a727718c31cedbcba06a154c0840",
+      "sectionIndex": 3,
+      "question": "The Abbasid Dynasty was founded in:",
+      "options": [
+        "A) 650 CE",
+        "B) 700 CE",
+        "C) 750 CE",
+        "D) 800 CE"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "408384d7ed346dadbf7517fec0d8568910906e41",
+      "sectionIndex": 3,
+      "question": "The capital of the Abbasid Empire was:",
+      "options": [
+        "A) Damascus",
+        "B) Baghdad",
+        "C) Cairo",
+        "D) Cordoba"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a7d3dc2a63e65523af2db4b017d38e38222299e",
+      "sectionIndex": 3,
+      "question": "The founder of Baghdad was:",
+      "options": [
+        "A) Abu al-Abbas",
+        "B) Al-Mansur",
+        "C) Harun al-Rashid",
+        "D) Al-Ma'mun"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2858bb04b6cb552f6f8126403d711fabb92c163",
+      "sectionIndex": 3,
+      "question": "The official color of the Abbasids was:",
+      "options": [
+        "A) White",
+        "B) Green",
+        "C) Black",
+        "D) Red"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cc8f4475395f8fa23c8a204ceb4c3a9e412eeda8",
+      "sectionIndex": 3,
+      "question": "Bait al-Hikmah (House of Wisdom) was established by:",
+      "options": [
+        "A) Al-Mansur",
+        "B) Harun al-Rashid",
+        "C) Al-Ma'mun",
+        "D) Al-Mutawakkil"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4c103a4f8624c0ac281f5f19a41043fa821d41af",
+      "sectionIndex": 3,
+      "question": "The Golden Age of Islam is associated with:",
+      "options": [
+        "A) Umayyad period",
+        "B) Abbasid period",
+        "C) Ottoman period",
+        "D) Fatimid period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b63bcd167e805df9faefb0c555a479ef6127105",
+      "sectionIndex": 3,
+      "question": "The famous \"One Thousand and One Nights\" is associated with:",
+      "options": [
+        "A) Al-Mansur",
+        "B) Harun al-Rashid",
+        "C) Al-Ma'mun",
+        "D) Al-Mutasim"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cad3b11b50dc13aba6747e7688226e826b26ef06",
+      "sectionIndex": 3,
+      "question": "The Abbasids were overthrown in Baghdad by:",
+      "options": [
+        "A) Crusaders",
+        "B) Mongols",
+        "C) Turks",
+        "D) Persians"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b7197c319976e104a1806d46f0c7eac4e65e37f",
+      "sectionIndex": 3,
+      "question": "The year Baghdad fell to the Mongols was:",
+      "options": [
+        "A) 1158 CE",
+        "B) 1258 CE",
+        "C) 1358 CE",
+        "D) 1458 CE"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17663ec12bdab8bc186e1f6af6ef57e72b486d27",
+      "sectionIndex": 3,
+      "question": "The Abbasid caliphate claimed descent from:",
+      "options": [
+        "A) Ali ibn Abi Talib",
+        "B) Abbas ibn Abdul Muttalib",
+        "C) Abu Bakr",
+        "D) Umar ibn al-Khattab"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69e042699d728f5db47f0308fdc3bad37318fa26",
+      "sectionIndex": 4,
+      "question": "Muslim conquest of Spain began in:",
+      "options": [
+        "A) 611 CE",
+        "B) 711 CE",
+        "C) 811 CE",
+        "D) 911 CE"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6983189466cf883f105f66f8b15c33580359bb2a",
+      "sectionIndex": 4,
+      "question": "The Muslim general who conquered Spain was:",
+      "options": [
+        "A) Khalid bin Walid",
+        "B) Tariq bin Ziyad",
+        "C) Sa'd bin Abi Waqqas",
+        "D) Amr ibn al-As"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c58d32360bf42ed996cd525f6a2b99cd1bbedb7",
+      "sectionIndex": 4,
+      "question": "The strait between Spain and Africa is named after:",
+      "options": [
+        "A) Musa bin Nusair",
+        "B) Abdul Rahman I",
+        "C) Tariq bin Ziyad",
+        "D) Al-Hakam"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ceb97be5c9357ddd2a72402a284f43ece0515f96",
+      "sectionIndex": 4,
+      "question": "The capital of Muslim Spain was:",
+      "options": [
+        "A) Madrid",
+        "B) Barcelona",
+        "C) Cordoba",
+        "D) Seville"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "18c5d841d1ac5bcf1945192fad29e38a4b7a94ae",
+      "sectionIndex": 4,
+      "question": "The founder of the Umayyad Dynasty in Spain was:",
+      "options": [
+        "A) Abdul Rahman I",
+        "B) Abdul Rahman II",
+        "C) Abdul Rahman III",
+        "D) Al-Hakam II"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "761f5bfd8f5deb52b94df7063342bd2651b4451a",
+      "sectionIndex": 4,
+      "question": "The Great Mosque of Cordoba was built during:",
+      "options": [
+        "A) 7th century",
+        "B) 8th century",
+        "C) 9th century",
+        "D) 10th century"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40c10be81c2c8c15bd970710290c4b7a587b74db",
+      "sectionIndex": 4,
+      "question": "The Alhambra Palace is located in:",
+      "options": [
+        "A) Cordoba",
+        "B) Seville",
+        "C) Granada",
+        "D) Toledo"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ce10c205c34e4c6d21cf1c225c6328b8c7becbd1",
+      "sectionIndex": 4,
+      "question": "The last Muslim kingdom in Spain was:",
+      "options": [
+        "A) Cordoba",
+        "B) Seville",
+        "C) Valencia",
+        "D) Granada"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "93981cab8fdbe01075974cb07cb19144876cdebb",
+      "sectionIndex": 4,
+      "question": "Muslim rule in Spain ended in:",
+      "options": [
+        "A) 1392",
+        "B) 1492",
+        "C) 1592",
+        "D) 1692"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b0459a8819ac53c88f18eb91ca5360cc1afa9f2",
+      "sectionIndex": 4,
+      "question": "The period of small Muslim kingdoms in Spain is called:",
+      "options": [
+        "A) Taifa",
+        "B) Emirate",
+        "C) Caliphate",
+        "D) Sultanate"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5eb0ef43293699a814cb81d01e0ba6c71d7312ec",
+      "sectionIndex": 5,
+      "question": "The Ottoman Empire was founded by:",
+      "options": [
+        "A) Osman I",
+        "B) Orhan",
+        "C) Murad I",
+        "D) Bayezid I"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a8343ea768c98e5f3511a47b4507601c86436c99",
+      "sectionIndex": 5,
+      "question": "Constantinople was conquered by the Ottomans in:",
+      "options": [
+        "A) 1353",
+        "B) 1453",
+        "C) 1553",
+        "D) 1653"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8894dbce1bc351f4ce058180b09e7582150771fd",
+      "sectionIndex": 5,
+      "question": "The conqueror of Constantinople was:",
+      "options": [
+        "A) Osman I",
+        "B) Mehmed II",
+        "C) Selim I",
+        "D) Suleiman I"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cd5716e102a8c071a04cef276e589d4a434a939",
+      "sectionIndex": 5,
+      "question": "The Ottoman Empire reached its peak under:",
+      "options": [
+        "A) Mehmed II",
+        "B) Selim I",
+        "C) Suleiman the Magnificent",
+        "D) Murad IV"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a60692f34712d78f1a048d3fccadbef5cf76dad3",
+      "sectionIndex": 5,
+      "question": "The Ottoman capital after Constantinople was:",
+      "options": [
+        "A) Bursa",
+        "B) Edirne",
+        "C) Istanbul",
+        "D) Ankara"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6ac67e89401b5d0f688ec40f01686f8ce0a36d7b",
+      "sectionIndex": 5,
+      "question": "The elite military unit of the Ottoman Empire was:",
+      "options": [
+        "A) Mamluks",
+        "B) Janissaries",
+        "C) Sipahis",
+        "D) Ghazis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc8d714d1e9d825cbdd637597f93ddc1efd52476",
+      "sectionIndex": 5,
+      "question": "The Ottoman Empire ended in:",
+      "options": [
+        "A) 1824",
+        "B) 1924",
+        "C) 1934",
+        "D) 1944"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8c416c9020db10112bb25424a4bd3c1ec66685d",
+      "sectionIndex": 5,
+      "question": "The last Ottoman Sultan was:",
+      "options": [
+        "A) Abdul Hamid II",
+        "B) Mehmed V",
+        "C) Mehmed VI",
+        "D) Abdul Majid II"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b0d861d0dbf9deb9794d1a4651fd653052befb23",
+      "sectionIndex": 5,
+      "question": "The Tanzimat reforms were introduced in the:",
+      "options": [
+        "A) 17th century",
+        "B) 18th century",
+        "C) 19th century",
+        "D) 20th century"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1b284084cd5a0ff881880cbdf158889b7ec3f839",
+      "sectionIndex": 5,
+      "question": "The title of the Ottoman ruler was:",
+      "options": [
+        "A) Shah",
+        "B) Emir",
+        "C) Sultan",
+        "D) Malik"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e6951ce7460598b72c8f19f175ba3401c22cef2a",
+      "sectionIndex": 6,
+      "question": "The \"Father of Chemistry\" in the Islamic world was:",
+      "options": [
+        "A) Al-Razi",
+        "B) Jabir ibn Hayyan",
+        "C) Ibn Sina",
+        "D) Al-Biruni"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76a19120a178716b5073461d11235d61a608b8d1",
+      "sectionIndex": 6,
+      "question": "Ibn Sina is known in the West as:",
+      "options": [
+        "A) Averroes",
+        "B) Avicenna",
+        "C) Rhazes",
+        "D) Alhazen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da25b8d9a0cea749b20cbba26b926d27dfdcf4ce",
+      "sectionIndex": 6,
+      "question": "The author of \"Muqaddimah\" was:",
+      "options": [
+        "A) Ibn Rushd",
+        "B) Ibn Khaldun",
+        "C) Al-Ghazali",
+        "D) Ibn Battuta"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e09248a1a1b27fe91d8f0cd55886386306736bd",
+      "sectionIndex": 6,
+      "question": "Al-Khwarizmi is famous for his work in:",
+      "options": [
+        "A) Medicine",
+        "B) Mathematics",
+        "C) Astronomy",
+        "D) Chemistry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d619ca8e00319dc5a421ed961fb89f3c9972e1f4",
+      "sectionIndex": 6,
+      "question": "The word \"algebra\" comes from the work of:",
+      "options": [
+        "A) Al-Razi",
+        "B) Al-Khwarizmi",
+        "C) Ibn Sina",
+        "D) Al-Biruni"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "858fd8992e2a2d991c485c8c09bc57aa69bc4714",
+      "sectionIndex": 6,
+      "question": "Ibn Rushd is known in the West as:",
+      "options": [
+        "A) Averroes",
+        "B) Avicenna",
+        "C) Rhazes",
+        "D) Alhazen"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a4187737835f40d87b7f522ef35cf8e7ab76dac8",
+      "sectionIndex": 6,
+      "question": "The Canon of Medicine was written by:",
+      "options": [
+        "A) Al-Razi",
+        "B) Ibn Sina",
+        "C) Al-Zahrawi",
+        "D) Ibn Nafis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6591b27215dcdb22e2de14f566256b5ea83b3e16",
+      "sectionIndex": 6,
+      "question": "The first known world map was created by:",
+      "options": [
+        "A) Al-Idrisi",
+        "B) Ibn Battuta",
+        "C) Al-Biruni",
+        "D) Al-Mas'udi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f85fb6575572d35e7500bc8a0a03d26e7d5d1ba7",
+      "sectionIndex": 6,
+      "question": "The House of Wisdom was a center for:",
+      "options": [
+        "A) Military training",
+        "B) Translation and learning",
+        "C) Trade",
+        "D) Administration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db1b75faeb591fb961e5167b9cfe3f9926a1165d",
+      "sectionIndex": 6,
+      "question": "Islamic hospitals were called:",
+      "options": [
+        "A) Maristan",
+        "B) Madrasah",
+        "C) Khanqah",
+        "D) Ribat"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3e12382b3eee0076d8a8b7b953939af333372a05",
+      "sectionIndex": 7,
+      "question": "The concept of Pan-Islamism was promoted by:",
+      "options": [
+        "A) Sir Syed Ahmad Khan",
+        "B) Jamaluddin Afghani",
+        "C) Muhammad Abduh",
+        "D) Rashid Rida"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c140954ff3da33d49ac839a1968bdda29dc38e4",
+      "sectionIndex": 7,
+      "question": "The Young Turks movement was in:",
+      "options": [
+        "A) Egypt",
+        "B) Iran",
+        "C) Ottoman Empire",
+        "D) India"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "befedc2ee2e2ee892ff8e94e42fc9c3b34f947e4",
+      "sectionIndex": 7,
+      "question": "The Wahhabi movement originated in:",
+      "options": [
+        "A) Egypt",
+        "B) Arabia",
+        "C) India",
+        "D) Turkey"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53dc0fb7cdcce450d402c828ccc77503461e5238",
+      "sectionIndex": 7,
+      "question": "The founder of modern Egypt was considered to be:",
+      "options": [
+        "A) Muhammad Ali Pasha",
+        "B) Gamal Abdel Nasser",
+        "C) Anwar Sadat",
+        "D) King Farouk"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7f1124bc2c549f1f70cf7ca346de3c2c1c168dab",
+      "sectionIndex": 7,
+      "question": "The Aligarh Movement was started by:",
+      "options": [
+        "A) Allama Iqbal",
+        "B) Sir Syed Ahmad Khan",
+        "C) Shibli Nomani",
+        "D) Altaf Hussain Hali"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6a189c1341c61727bc55c706afae7da0d631a93",
+      "sectionIndex": 7,
+      "question": "The Ottoman Caliphate was abolished in:",
+      "options": [
+        "A) 1920",
+        "B) 1922",
+        "C) 1924",
+        "D) 1926"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "27a83eada69bf3b7511dfa3724e48fa23553e8e5",
+      "sectionIndex": 7,
+      "question": "The founder of modern Turkey was:",
+      "options": [
+        "A) Enver Pasha",
+        "B) Mustafa Kemal Ataturk",
+        "C) Ismet Inonu",
+        "D) Adnan Menderes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03ffc56819c0b6c2a39d9a049d889783eeda3b0c",
+      "sectionIndex": 7,
+      "question": "The Organization of Islamic Cooperation (OIC) was founded in:",
+      "options": [
+        "A) 1965",
+        "B) 1969",
+        "C) 1973",
+        "D) 1977"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21c01f618074c30d617ebd865357b4e0983280b5",
+      "sectionIndex": 7,
+      "question": "The first Muslim Nobel Prize winner in science was:",
+      "options": [
+        "A) Abdus Salam",
+        "B) Ahmed Zewail",
+        "C) Aziz Sancar",
+        "D) Mohamed ElBaradei"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a840ada1c1356f6a80c390f0bb64004af0592076",
+      "sectionIndex": 7,
+      "question": "The Arab Spring began in:",
+      "options": [
+        "A) 2009",
+        "B) 2010",
+        "C) 2011",
+        "D) 2012"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4554828f51e591ba2353876b1451034afeccfa10",
+      "sectionIndex": 8,
+      "question": "The concept of Shura means:",
+      "options": [
+        "A) Law",
+        "B) Consultation",
+        "C) Prayer",
+        "D) Charity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68a63a9c4bd6d14f55342245c41a973185d7b8f0",
+      "sectionIndex": 8,
+      "question": "The first Sufi order was:",
+      "options": [
+        "A) Qadiriyya",
+        "B) Naqshbandiyya",
+        "C) Chishtiyya",
+        "D) Suhrawardiyya"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d47a7d7841c47bf2220f597cde878be71ee36d2b",
+      "sectionIndex": 8,
+      "question": "Al-Ghazali's famous work is:",
+      "options": [
+        "A) The Muqaddimah",
+        "B) Revival of Religious Sciences",
+        "C) The Incoherence",
+        "D) The Canon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b39013d566bab254a4fbbae81dd51c908a702c2d",
+      "sectionIndex": 8,
+      "question": "The concept of Ijtihad means:",
+      "options": [
+        "A) Consensus",
+        "B) Independent reasoning",
+        "C) Imitation",
+        "D) Tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5475371f4a8b86f390dd971335efe8b3cd62bf3",
+      "sectionIndex": 8,
+      "question": "The Millet system was used in:",
+      "options": [
+        "A) Abbasid Empire",
+        "B) Ottoman Empire",
+        "C) Mughal Empire",
+        "D) Umayyad Empire"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "856e62cb0fa323e8f18d38095505b058798330c0",
+      "sectionIndex": 8,
+      "question": "The concept of Dhimmi refers to:",
+      "options": [
+        "A) Muslim scholars",
+        "B) Non-Muslim subjects",
+        "C) Military leaders",
+        "D) Merchants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6158b10a1a5d8f6a8deda7f1d62abb40e360a735",
+      "sectionIndex": 8,
+      "question": "Islamic law is called:",
+      "options": [
+        "A) Fiqh",
+        "B) Hadith",
+        "C) Sunnah",
+        "D) Shariah"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "661b4cdda547914e567e8b92ee9f1efc33c55d74",
+      "sectionIndex": 8,
+      "question": "The science of Hadith criticism is called:",
+      "options": [
+        "A) Tafsir",
+        "B) Ilm al-Hadith",
+        "C) Kalam",
+        "D) Usul"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e6f3dce4670abb9fa1e9ec1f4c54b3833e4c59a",
+      "sectionIndex": 8,
+      "question": "The Waqf system is related to:",
+      "options": [
+        "A) Military service",
+        "B) Religious endowments",
+        "C) Trade guilds",
+        "D) Educational degrees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6fdf44484189bd18dc01e37391a8dc0163bcbea",
+      "sectionIndex": 8,
+      "question": "The Qadi is a:",
+      "options": [
+        "A) Military commander",
+        "B) Religious judge",
+        "C) Tax collector",
+        "D) Market inspector"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d5d29136867e25abe6ae6a6ed951a285f29b671",
+      "sectionIndex": 9,
+      "question": "The Blue Mosque is located in:",
+      "options": [
+        "A) Cairo",
+        "B) Istanbul",
+        "C) Isfahan",
+        "D) Delhi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "826768a498ed7887401f120a9bd77aecef8146b1",
+      "sectionIndex": 9,
+      "question": "Islamic calligraphy primarily uses:",
+      "options": [
+        "A) Latin script",
+        "B) Arabic script",
+        "C) Persian script",
+        "D) Turkish script"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac19e219578f5b6e33b7a54c7f6e2e78e7afe367",
+      "sectionIndex": 9,
+      "question": "The Taj Mahal was built by:",
+      "options": [
+        "A) Akbar",
+        "B) Jahangir",
+        "C) Shah Jahan",
+        "D) Aurangzeb"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "810c03faf2d158c98d3555d5240bdfc77f554624",
+      "sectionIndex": 9,
+      "question": "The minaret is used for:",
+      "options": [
+        "A) Storage",
+        "B) Call to prayer",
+        "C) Defense",
+        "D) Observation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27816072ef84f1dc16362798e151338d0deb4fe1",
+      "sectionIndex": 9,
+      "question": "The mihrab indicates the direction of:",
+      "options": [
+        "A) Madinah",
+        "B) Jerusalem",
+        "C) Makkah",
+        "D) Damascus"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d86ecc73f11a1e5603bf9072216602506e821dbb",
+      "sectionIndex": 9,
+      "question": "Arabesque in Islamic art refers to:",
+      "options": [
+        "A) Human figures",
+        "B) Geometric patterns",
+        "C) Animal forms",
+        "D) Landscapes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3e79385cc06fdae7cd778602313bfee90e7a812",
+      "sectionIndex": 9,
+      "question": "The traditional Islamic garden design is called:",
+      "options": [
+        "A) Charbagh",
+        "B) Riad",
+        "C) Courtyard",
+        "D) Oasis"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8444bd5628538ef2ae5eaca000851ea909250b03",
+      "sectionIndex": 9,
+      "question": "The art of inlaying wood is called:",
+      "options": [
+        "A) Calligraphy",
+        "B) Marquetry",
+        "C) Tilework",
+        "D) Stucco"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17eaff1da1cfb1c478eb621701a9e4a5d8b990e7",
+      "sectionIndex": 9,
+      "question": "The Friday mosque is called:",
+      "options": [
+        "A) Masjid al-Haram",
+        "B) Jami Masjid",
+        "C) Musalla",
+        "D) Zawiya"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3b510a6245b1e6fa4810d349312c85160dc0b7e",
+      "sectionIndex": 9,
+      "question": "Islamic months are based on:",
+      "options": [
+        "A) Solar calendar",
+        "B) Lunar calendar",
+        "C) Seasonal calendar",
+        "D) Julian calendar"
+      ],
+      "correct": "B"
+    }
+  ]
+}

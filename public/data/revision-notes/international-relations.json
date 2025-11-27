@@ -1,0 +1,509 @@
+{
+  "subject": "International Relations (CSS)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 18,
+  "categories": [
+    "Foundations & Theories",
+    "Security & Use of Force",
+    "International Political Economy",
+    "Foreign Policy & Regional Dynamics",
+    "International Law & Organizations",
+    "History & Treaties (MCQ Focus)",
+    "Contemporary Issues",
+    "Pakistan Context"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Definition & Scope of IR (What examiners expect)",
+      "content": "Precisely define IR, distinguish it from International Politics and Foreign Policy, and outline scope: state and non-state actors, conflict & cooperation, international institutions, law, economics, and normative issues. Use this as a framing paragraph in any essay.",
+      "keyTakeaways": [
+        "Start answers with a crisp definition + scope map.",
+        "Name the main actors (states, IGOs, NGOs, MNCs, epistemic communities).",
+        "Show evolution: from state-centric realism to pluralist and critical approaches."
+      ],
+      "resources": [
+        {
+          "title": "OUP — The Globalization of World Politics (student resources)",
+          "url": "https://learninglink.oup.com/access/baylis9e-student-resources",
+          "type": "website",
+          "description": "Glossary, MCQs, timelines tied to the standard IR textbook."
+        },
+        {
+          "title": "OUP — The Globalization of World Politics (book info)",
+          "url": "https://learninglink.oup.com/access/baylis9e",
+          "type": "website",
+          "description": "Overview of the text used worldwide in IR 101."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Theories",
+      "topics": ["Definition of IR", "Scope", "Actors"]
+    },
+    {
+      "id": "2",
+      "title": "National Power: Ingredients & Measurement",
+      "content": "Break power into tangible (population, economy, military, technology) and intangible (legitimacy, morale, leadership, diplomacy). Link to capability vs. influence debates and soft power. Use South Asia examples for application.",
+      "keyTakeaways": [
+        "Power = capabilities + successful conversion to outcomes.",
+        "Cite both material and ideational components in essays.",
+        "Use SIPRI and World Bank figures for currency."
+      ],
+      "resources": [
+        {
+          "title": "SIPRI Yearbook 2024 — World Nuclear Forces (sample chapter)",
+          "url": "https://www.sipri.org/yearbook/2024/07",
+          "type": "report",
+          "description": "Current nuclear forces data for state power comparisons."
+        },
+        {
+          "title": "SIPRI Press Release 2024 (trends)",
+          "url": "https://www.sipri.org/media/press-release/2024/role-nuclear-weapons-grows-geopolitical-relations-deteriorate-new-sipri-yearbook-out-now",
+          "type": "article",
+          "description": "Digestible trends for exam intros."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Theories",
+      "topics": ["Power", "Soft Power", "SIPRI data"]
+    },
+    {
+      "id": "3",
+      "title": "Realism vs. Neorealism (Classical vs. Structural)",
+      "content": "Contrast classical Realism's focus on human nature and statecraft with Neorealism's systemic structure, anarchy, and distribution of capabilities. Add Waltz's levels of analysis and polarity debates; mention offensive vs defensive realism.",
+      "keyTakeaways": [
+        "Classical: human nature, prudence (Morgenthau).",
+        "Neorealism: structure and relative gains (Waltz).",
+        "Use post–Cold War cases to show limits (institutions & norms matter)."
+      ],
+      "resources": [
+        {
+          "title": "Baylis/Smith/Owens — Theories overview (student hub)",
+          "url": "https://learninglink.oup.com/access/baylis9e-student-resources",
+          "type": "website",
+          "description": "Theory summaries, cases, quizzes."
+        },
+        {
+          "title": "Harvard Kennedy School — Realism in IR (course page)",
+          "url": "https://www.hks.harvard.edu/courses/realism-international-relations",
+          "type": "course",
+          "description": "Syllabus-level framing for realist arguments."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Theories",
+      "topics": ["Realism", "Neorealism", "Polarity"]
+    },
+    {
+      "id": "4",
+      "title": "Liberalism vs. Neoliberal Institutionalism",
+      "content": "Trace Liberal roots (commercial peace, democracy, law) to Neoliberalism's regimes & complex interdependence. Compare with Neorealism on absolute vs relative gains; use trade/IO examples.",
+      "keyTakeaways": [
+        "Cooperation possible under anarchy via regimes and reciprocity.",
+        "Absolute gains logic underpins trade & institutions.",
+        "Interdependence changes costs of conflict."
+      ],
+      "resources": [
+        {
+          "title": "Keohane & Nye — Power and Interdependence (Ch.1–3 PDF)",
+          "url": "https://slantchev.ucsd.edu/courses/ps240/05%20Cooperation%20with%20States%20as%20Unitary%20Actors/Keohane%20%26%20Nye%20-%20Power%20and%20interdependence%20%5BCh%201-3%5D.pdf",
+          "type": "pdf",
+          "description": "Core reading on complex interdependence."
+        },
+        {
+          "title": "Alternate PDF mirror (if blocked)",
+          "url": "https://is.cuni.cz/studium/predmety/index.php?did=231748&do=download&kod=JPM033",
+          "type": "pdf",
+          "description": "Backup access."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Theories",
+      "topics": ["Neoliberalism", "Institutions", "Interdependence"]
+    },
+    {
+      "id": "5",
+      "title": "Constructivism vs. Realism (Ideas, Norms & Identity)",
+      "content": "Show how identities and norms shape interests and behavior. Contrast material power arguments with socially constructed meanings. Use examples like NATO's identity, R2P norms, and norm diffusion.",
+      "keyTakeaways": [
+        "'Anarchy is what states make of it' (Wendt).",
+        "Interests and identities are not fixed; they evolve via social interaction.",
+        "Use norm cascades and constitutive rules in answers."
+      ],
+      "resources": [
+        {
+          "title": "E-International Relations — Overview of Wendt's Constructivism",
+          "url": "https://www.e-ir.info/2020/05/19/a-brief-overview-of-alexander-wendts-constructivism/",
+          "type": "article",
+          "description": "Clear primer for exam writing."
+        },
+        {
+          "title": "Wikipedia Overview (quick revision)",
+          "url": "https://en.wikipedia.org/wiki/Constructivism_%28international_relations%29",
+          "type": "reference",
+          "description": "High-level map of the approach (verify with scholarly sources)."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Theories",
+      "topics": ["Constructivism", "Norms", "Identity"]
+    },
+    {
+      "id": "6",
+      "title": "Changing Dimensions of Security (From State to Human Security)",
+      "content": "Contrast classical (state-centric, military) with widened security (economic, environmental, human security). Use post–Cold War and climate/conflict links.",
+      "keyTakeaways": [
+        "Security has broadened (sectors) and deepened (referents).",
+        "Human Security reframes threats: poverty, health, climate.",
+        "Use UNDP framing and SIPRI human security chapter to update stats."
+      ],
+      "resources": [
+        {
+          "title": "SIPRI Yearbook 2024 portal",
+          "url": "https://www.sipri.org/yearbook/2024",
+          "type": "report",
+          "description": "Sample chapters on international stability & human security."
+        }
+      ],
+      "importance": "high",
+      "category": "Security & Use of Force",
+      "topics": ["Human Security", "Environmental Security"]
+    },
+    {
+      "id": "7",
+      "title": "Pre-emptive Self-Defence & Iraq 2003 (Law & Legitimacy)",
+      "content": "Anchor legal discussion in Article 51 and customary law (Caroline standard: necessity & proportionality). Evaluate US arguments on anticipatory self-defence and collective security vs. unilateral action.",
+      "keyTakeaways": [
+        "Quote UN Charter Art. 51 and discuss 'armed attack' threshold.",
+        "Distinguish pre-emptive vs. preventive force.",
+        "Conclude with legitimacy vs. legality and UNSC role."
+      ],
+      "resources": [
+        {
+          "title": "UN Charter — Full Text (Article 51)",
+          "url": "https://www.un.org/en/about-us/un-charter/full-text",
+          "type": "primary",
+          "description": "Authoritative article text."
+        },
+        {
+          "title": "UN Repertory — Article 51 analysis",
+          "url": "https://legal.un.org/repertory/art51.shtml",
+          "type": "reference",
+          "description": "Interpretive notes and practice."
+        },
+        {
+          "title": "Harvard PILAC — Catalogue of Article 51 Communications",
+          "url": "https://pilac.law.harvard.edu/quantum-of-silence-paper-and-annex/annex-hls-pilac-catalogue-of-apparent-article-51-communications",
+          "type": "dataset",
+          "description": "State practice corpus for examples."
+        }
+      ],
+      "importance": "high",
+      "category": "Security & Use of Force",
+      "topics": ["Article 51", "Pre-emptive self-defence", "Iraq 2003"]
+    },
+    {
+      "id": "8",
+      "title": "Responsibility to Protect (R2P): Norm Emergence",
+      "content": "Explain shift from non-intervention to responsibility-based sovereignty. Outline pillars and criteria for intervention; discuss mixed record in practice.",
+      "keyTakeaways": [
+        "Sovereignty entails responsibilities to populations.",
+        "Three pillars: state duty, international assistance, timely and decisive response.",
+        "Contestation remains over authorization and selectivity."
+      ],
+      "resources": [
+        {
+          "title": "ICISS — The Responsibility to Protect (2001) PDF",
+          "url": "https://www.walterdorn.net/pdf/Responsibility-to-Protect_ICISS-Report_Dec2001.pdf",
+          "type": "pdf",
+          "description": "Foundational text."
+        },
+        {
+          "title": "Global Centre for R2P — ICISS report page",
+          "url": "https://www.globalr2p.org/resources/the-responsibility-to-protect-report-of-the-international-commission-on-intervention-and-state-sovereignty-2001/",
+          "type": "website",
+          "description": "Context & follow-ups."
+        }
+      ],
+      "importance": "medium",
+      "category": "International Law & Organizations",
+      "topics": ["R2P", "Sovereignty", "UNSC"]
+    },
+    {
+      "id": "9",
+      "title": "International Political Economy: Liberalism, Dependency & Neo-imperialism",
+      "content": "Cover liberal trade gains vs. dependency/neo-imperial critiques. Use examples of conditionality, debt, and supply-chain asymmetries.",
+      "keyTakeaways": [
+        "Absolute gains vs. dependency & structural power.",
+        "IMF/World Bank conditionalities as case material.",
+        "Tie back to national power & strategic culture."
+      ],
+      "resources": [
+        {
+          "title": "Keohane & Nye — Interdependence (core chapters)",
+          "url": "https://slantchev.ucsd.edu/courses/ps240/05%20Cooperation%20with%20States%20as%20Unitary%20Actors/Keohane%20%26%20Nye%20-%20Power%20and%20interdependence%20%5BCh%201-3%5D.pdf",
+          "type": "pdf",
+          "description": "Liberal view of gains/cooperation."
+        },
+        {
+          "title": "Alternate mirror",
+          "url": "https://hostnezt.com/cssfiles/internationalrelations/Power%20and%20Interdependency%20Keohane%20and%20Nye.pdf",
+          "type": "pdf",
+          "description": "Backup access."
+        }
+      ],
+      "importance": "high",
+      "category": "International Political Economy",
+      "topics": ["IPE", "Dependency", "Neo-imperialism"]
+    },
+    {
+      "id": "10",
+      "title": "Non-Aligned Movement (History, Relevance, Current Positions)",
+      "content": "Define NAM's origins, Bandung & Belgrade, and role after Cold War. Use recent NAM communiqués to show contemporary stances.",
+      "keyTakeaways": [
+        "NAM evolved from decolonization to broad Global South platform.",
+        "Still influential in UN diplomacy & norm signaling.",
+        "Use Kampala 2024 summit statements for current examples."
+      ],
+      "resources": [
+        {
+          "title": "AP News — NAM Kampala Summit coverage (2024)",
+          "url": "https://apnews.com/article/22c852bd408cda0a904431d913728f32",
+          "type": "news",
+          "description": "Recent NAM positions for contemporary references."
+        }
+      ],
+      "importance": "medium",
+      "category": "International Law & Organizations",
+      "topics": ["NAM", "Decolonization", "Global South"]
+    },
+    {
+      "id": "11",
+      "title": "Pakistan's Strategic Culture (Determinants & Evolution)",
+      "content": "Map traditional vs. non-traditional threat perceptions; civil-military dynamics; geography; identity; India factor; nuclear doctrine; shift toward complex security.",
+      "keyTakeaways": [
+        "Historical legacies and regional rivalries shape doctrine.",
+        "Scholarly debate on moving beyond 'tunnel vision' to NTS.",
+        "Use recent Pakistani scholarship + external think-tank reports."
+      ],
+      "resources": [
+        {
+          "title": "Marines Corps Univ. — Foundations of Pakistan's Strategic Culture",
+          "url": "https://www.usmcu.edu/Portals/218/Foundations%20of%20Pakistans%20Stratculture.pdf",
+          "type": "pdf",
+          "description": "Historical underpinnings."
+        },
+        {
+          "title": "Pakistan Journal of International Affairs — Evolution of Pakistan's Strategic Culture",
+          "url": "https://www.pjia.com.pk/index.php/pjia/article/download/685/495",
+          "type": "pdf",
+          "description": "Traditional vs. non-traditional threats."
+        },
+        {
+          "title": "Annals of Human & Social Sciences — Paradigm Shifts",
+          "url": "https://ojs.ahss.org.pk/journal/article/download/36/62",
+          "type": "pdf",
+          "description": "Contemporary reframing."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context",
+      "topics": ["Strategic Culture", "Doctrine", "Non-traditional Security"]
+    },
+    {
+      "id": "12",
+      "title": "Deterrence & Nuclear Stability in South Asia",
+      "content": "Explain stability–instability paradox, escalation risks, and CBMs. Use Kargil–Balakot–crisis literature and current force estimates.",
+      "keyTakeaways": [
+        "Offsetting capabilities deter major war but allow lower-level conflict.",
+        "Escalation control and communication channels are vital.",
+        "Use SIPRI numbers carefully with dates."
+      ],
+      "resources": [
+        {
+          "title": "Stimson — Deterrence Stability & Escalation Control (book)",
+          "url": "https://www.stimson.org/wp-content/files/file-attachments/Deterrence_Stability_Dec_2013_web_1.pdf",
+          "type": "pdf",
+          "description": "Frameworks for South Asia."
+        },
+        {
+          "title": "Stimson — Nuclear Risk Reduction Between India & Pakistan (2024 memo)",
+          "url": "https://www.stimson.org/2024/nuclear-risk-reduction-between-india-and-pakistan/",
+          "type": "article",
+          "description": "Updated CBM discussion."
+        },
+        {
+          "title": "SIPRI — Indian & Pakistani Nuclear Forces (2024)",
+          "url": "https://www.sipriyearbook.org/view/9780198930570/sipri-9780198930570-chapter-007-div1-044.xml",
+          "type": "database",
+          "description": "India stockpile estimate (link to Pakistan chapter from sidebar)."
+        },
+        {
+          "title": "SIPRI — Pakistani Nuclear Forces (2024)",
+          "url": "https://www.sipriyearbook.org/view/9780198930570/sipri-9780198930570-chapter-007-div1-045.xml",
+          "type": "database",
+          "description": "Pakistan stockpile estimate."
+        }
+      ],
+      "importance": "high",
+      "category": "Security & Use of Force",
+      "topics": ["Deterrence", "CBMs", "Escalation"]
+    },
+    {
+      "id": "13",
+      "title": "US Indo-Pacific Strategy & Great-Power Competition",
+      "content": "Summarize the 2022 US Indo-Pacific Strategy pillars (free & open, connected, prosperous, secure, resilient). Link to China's rise and regional alignments.",
+      "keyTakeaways": [
+        "Quote the official document for pillars and action plan.",
+        "Use for essays on containment/engagement and balancing.",
+        "Connect to Quad, ASEAN centrality debates."
+      ],
+      "resources": [
+        {
+          "title": "White House — U.S. Indo-Pacific Strategy (Feb 2022) PDF",
+          "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf",
+          "type": "pdf",
+          "description": "Primary source."
+        },
+        {
+          "title": "Research commentary — Analysis of the 2022 strategy",
+          "url": "https://www.researchgate.net/publication/360997330_The_US_Indo-Pacific_Strategy_2022_An_Analysis",
+          "type": "article",
+          "description": "Secondary analysis for critique."
+        }
+      ],
+      "importance": "high",
+      "category": "Foreign Policy & Regional Dynamics",
+      "topics": ["Indo-Pacific", "US–China", "Balancing"]
+    },
+    {
+      "id": "14",
+      "title": "Diplomacy & Dispute Settlement (UN, ICJ, Bilateralism)",
+      "content": "Define diplomacy types (track 1/2/1.5), negotiation–mediation–arbitration, and link to Pakistan–India cases (Simla Agreement, Indus Waters as cooperative success).",
+      "keyTakeaways": [
+        "In essays, structure by diplomatic instruments + case studies.",
+        "Explain when bilateralism vs. multilateralism is chosen.",
+        "Always add feasibility & limitations."
+      ],
+      "resources": [
+        {
+          "title": "OUP — GWP student hub (cases & timelines)",
+          "url": "https://learninglink.oup.com/access/baylis9e-student-resources",
+          "type": "website",
+          "description": "Case studies to cite."
+        }
+      ],
+      "importance": "medium",
+      "category": "International Law & Organizations",
+      "topics": ["Diplomacy", "Mediation", "ICJ"]
+    },
+    {
+      "id": "15",
+      "title": "Historical Conferences & Treaties (MCQ Revision Pack)",
+      "content": "Keep a ready MCQ sheet for Yalta, Versailles, Cuban Missile Crisis, Westphalia, NPT dates, NATO/SEATO/NAM formation years.",
+      "keyTakeaways": [
+        "Memorize dates with one-line significance.",
+        "Tie facts to analytical essays when possible.",
+        "Use FPSC past papers to target repeats."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — IR Paper-I (2024 PDF)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-07-02-10-09-16-IR-1.pdf",
+          "type": "pdf",
+          "description": "Latest official Paper-I."
+        },
+        {
+          "title": "FPSC — IR Paper-II (2024 PDF)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-06-27-05-06-15-IR-II.pdf",
+          "type": "pdf",
+          "description": "Latest official Paper-II."
+        },
+        {
+          "title": "FPSC — Descriptive Papers hub (2025 category)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "website",
+          "description": "Central page for paper PDFs."
+        }
+      ],
+      "importance": "high",
+      "category": "History & Treaties (MCQ Focus)",
+      "topics": ["Yalta", "Versailles", "NPT", "NATO", "SEATO", "NAM"]
+    },
+    {
+      "id": "16",
+      "title": "Hybrid Warfare & Social Media (Information Operations)",
+      "content": "Define hybrid warfare and map information operations, cyber, economic coercion, and lawfare. Provide Pakistan-relevant examples and safeguards.",
+      "keyTakeaways": [
+        "Hybrid blends kinetic and non-kinetic tools.",
+        "Social media manipulation is an IR & security issue.",
+        "Policy responses: literacy, regulation, resilience."
+      ],
+      "resources": [
+        {
+          "title": "SIPRI Yearbook 2024 — International stability & human security (sample)",
+          "url": "https://www.sipri.org/yearbook/2024",
+          "type": "report",
+          "description": "Context on modern threats."
+        }
+      ],
+      "importance": "medium",
+      "category": "Contemporary Issues",
+      "topics": ["Hybrid warfare", "Cyber", "Information ops"]
+    },
+    {
+      "id": "17",
+      "title": "US–China: Thucydides Trap? Competing Interpretations",
+      "content": "Explain Allison's 'trap' thesis vs. critics; discuss balancing, economic interdependence, and issue-specific cooperation. Use Indo-Pacific strategy as a primary source.",
+      "keyTakeaways": [
+        "Avoid deterministic claims; provide structural + domestic factors.",
+        "Combine power transition theory with interdependence.",
+        "Cite official strategies + academic critiques."
+      ],
+      "resources": [
+        {
+          "title": "U.S. Indo-Pacific Strategy (primary)",
+          "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf",
+          "type": "pdf",
+          "description": "Use direct quotes for accuracy."
+        }
+      ],
+      "importance": "medium",
+      "category": "Contemporary Issues",
+      "topics": ["Thucydides trap", "Power transition", "US–China"]
+    },
+    {
+      "id": "18",
+      "title": "Video Learning Playlists (Fast Revision & Concept Clarity)",
+      "content": "Use concise, structured playlists to revise theory, foreign policy, and levels of analysis. Pair with textbook chapters for depth.",
+      "keyTakeaways": [
+        "Watch with a note-taking grid (theory | assumptions | policy implications).",
+        "Use for last-week revision + examples.",
+        "Supplement with OUP chapter MCQs."
+      ],
+      "resources": [
+        {
+          "title": "CrashCourse — International Relations (Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLks3YJWhpqK_dFH_xcy8MdA6ugDwawDjJ",
+          "type": "video",
+          "description": "Quick theory & policy primers."
+        },
+        {
+          "title": "IR Theory Playlists (UPSC/UGC level — transferable to CSS)",
+          "url": "https://www.youtube.com/playlist?list=PLwsLMzG8rnWNDXihlX3LiRvKgND49ecVK",
+          "type": "video",
+          "description": "Theory-centric crash course."
+        },
+        {
+          "title": "Foreign Policy & IR Lectures (general playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLxzz0tls2X9APUuHYlec0xIDmqYVL5wyX",
+          "type": "video",
+          "description": "Levels of analysis & cases."
+        }
+      ],
+      "importance": "medium",
+      "category": "Foundations & Theories",
+      "topics": ["Playlists", "Revision", "Concepts"]
+    }
+  ]
+}

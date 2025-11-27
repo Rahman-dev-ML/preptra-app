@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:06:34.141Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "28e899cdd19859329b84007dfd32385a1d4a870d",
+      "sectionIndex": 0,
+      "question": "The Progressive Writers' Movement (Taraqqi Pasand Tehreek) in Urdu literature started in:",
+      "options": [
+        "A) 1920",
+        "B) 1936",
+        "C) 1947",
+        "D) 1950"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ca664a1dd22452da70c0d5e65e2f6f99a49fe36",
+      "sectionIndex": 0,
+      "question": "The founder of the Progressive Writers' Movement was:",
+      "options": [
+        "A) Allama Iqbal",
+        "B) Sajjad Zaheer",
+        "C) Faiz Ahmed Faiz",
+        "D) Ahmed Nadeem Qasmi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3630b903e210147a26022c7f2bc8908c6f987acf",
+      "sectionIndex": 0,
+      "question": "The Sir Syed Movement primarily focused on:",
+      "options": [
+        "A) Poetry only",
+        "B) Educational and social reform",
+        "C) Fiction writing",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef220ae76793bbdd4f6a09238a7ceea60a024fa9",
+      "sectionIndex": 0,
+      "question": "The Aligarh Movement was started by:",
+      "options": [
+        "A) Altaf Hussain Hali",
+        "B) Sir Syed Ahmed Khan",
+        "C) Shibli Nomani",
+        "D) Maulana Azad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bf891d1f914bb9a718a37e2c851424dbe0a09bb",
+      "sectionIndex": 0,
+      "question": "The Fort William College was established in:",
+      "options": [
+        "A) 1600",
+        "B) 1700",
+        "C) 1800",
+        "D) 1900"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4615be4a53f2e90ce731cb39d094f4bc9aadc8e0",
+      "sectionIndex": 0,
+      "question": "The romantic movement in Urdu poetry is called:",
+      "options": [
+        "A) Realism",
+        "B) Romanticism (Romanvi Tehreek)",
+        "C) Modernism",
+        "D) Classicism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1bb4059ddff112d77f6d5f269319a5ad22d6aba",
+      "sectionIndex": 0,
+      "question": "Halqa-e-Arbab-e-Zauq was a literary circle promoting:",
+      "options": [
+        "A) Classical poetry",
+        "B) Modern literature",
+        "C) Religious writing",
+        "D) Political essays"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d364219afe9444951f858b2cedf3656480d16ee0",
+      "sectionIndex": 0,
+      "question": "The modernist movement in Urdu poetry started around:",
+      "options": [
+        "A) 1900",
+        "B) 1920",
+        "C) 1960",
+        "D) 1980"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bfd3ddae49204e4538f64f80a1bf64d0a77df56f",
+      "sectionIndex": 0,
+      "question": "Afsana (short story) as a genre developed in Urdu during:",
+      "options": [
+        "A) 18th century",
+        "B) Early 20th century",
+        "C) 15th century",
+        "D) 21st century"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "556602739e5093db948354dea58ecd3e882b599b",
+      "sectionIndex": 0,
+      "question": "The influence of Western literature on Urdu began prominently in:",
+      "options": [
+        "A) 16th century",
+        "B) 17th century",
+        "C) 19th century",
+        "D) 21st century"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a2d4db7bc00d58af1c10a04256d2dd052566507e",
+      "sectionIndex": 1,
+      "question": "Mirza Ghalib is known primarily for his:",
+      "options": [
+        "A) Novels",
+        "B) Ghazals",
+        "C) Short stories",
+        "D) Dramas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9c13c2972e0c511e6680fc6ff8c18b034f931f0",
+      "sectionIndex": 1,
+      "question": "Allama Iqbal is called the:",
+      "options": [
+        "A) Poet of the East",
+        "B) Poet of the West",
+        "C) Romantic poet",
+        "D) Classical poet"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ea275fc2ba88e81194688f5a2a4707f1464c2c38",
+      "sectionIndex": 1,
+      "question": "Altaf Hussain Hali wrote the famous:",
+      "options": [
+        "A) Gulistan",
+        "B) Musaddas-e-Hali",
+        "C) Shahnamah",
+        "D) Masnavi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bc50fc1fbcbaa7471b76eb92719af70147732ab",
+      "sectionIndex": 1,
+      "question": "Saadat Hasan Manto is famous for his:",
+      "options": [
+        "A) Poetry",
+        "B) Short stories",
+        "C) Novels",
+        "D) Essays only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07d7cb6f9c4251dfc0f3ef3f66ddd24df0eb5401",
+      "sectionIndex": 1,
+      "question": "Ahmed Nadeem Qasmi was known for:",
+      "options": [
+        "A) Poetry and short stories",
+        "B) Novels only",
+        "C) Drama only",
+        "D) Criticism only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c64669ce9021acfc549039ce16cf596e4f4be28b",
+      "sectionIndex": 1,
+      "question": "Faiz Ahmed Faiz belonged to which movement?",
+      "options": [
+        "A) Classical",
+        "B) Progressive",
+        "C) Religious",
+        "D) Romantic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0697efff947ecccdd9643fe398f278e7f589b5b",
+      "sectionIndex": 1,
+      "question": "Mir Taqi Mir is considered the:",
+      "options": [
+        "A) Last classical poet",
+        "B) Khuda-e-Sukhan (God of Poetry)",
+        "C) Modern poet",
+        "D) Prose writer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fcc1f14f04e6f7d4aae3ac6ab91fccb4f8aeb35",
+      "sectionIndex": 1,
+      "question": "Josh Malihabadi was known for his:",
+      "options": [
+        "A) Romantic poetry",
+        "B) Revolutionary poetry",
+        "C) Religious poetry",
+        "D) Nature poetry only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce40db3e5c19a4adb432e178fa0c75b1bbe0c8c0",
+      "sectionIndex": 1,
+      "question": "Ismat Chughtai was a prominent:",
+      "options": [
+        "A) Poet",
+        "B) Fiction writer",
+        "C) Dramatist only",
+        "D) Critic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef68c1b0c8b3d865a8b0779985d7137ca479a144",
+      "sectionIndex": 1,
+      "question": "Majeed Amjad is known for his:",
+      "options": [
+        "A) Classical ghazals",
+        "B) Modern nazms",
+        "C) Short stories",
+        "D) Novels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c4c6eebd4fa4baea16714e8e33b09d37e990451",
+      "sectionIndex": 2,
+      "question": "Ghazal is a form of:",
+      "options": [
+        "A) Prose",
+        "B) Poetry",
+        "C) Drama",
+        "D) Essay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e52e1c601eac6aca091aaabc509e3e7571ea8bb",
+      "sectionIndex": 2,
+      "question": "A ghazal typically consists of:",
+      "options": [
+        "A) 2 lines",
+        "B) 5-15 couplets",
+        "C) 100 lines",
+        "D) No fixed length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "caf2cff5eb1635118b8c85bfe4c10c79343b922d",
+      "sectionIndex": 2,
+      "question": "Nazm differs from ghazal in:",
+      "options": [
+        "A) Language used",
+        "B) Unity of theme",
+        "C) No difference",
+        "D) Length only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0a5c6aa4ef5221f012bb1320c32f768d5f68241",
+      "sectionIndex": 2,
+      "question": "Marsiya is an elegiac poem about:",
+      "options": [
+        "A) Love",
+        "B) Karbala tragedy",
+        "C) Nature",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29a1435d86c89fdf8a917b09b41ac87de0c0f8e9",
+      "sectionIndex": 2,
+      "question": "Qasida is a poem of:",
+      "options": [
+        "A) Satire",
+        "B) Praise",
+        "C) Love",
+        "D) Humor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deb29b02e777f325c51f633985b3bbcfc8e2b274",
+      "sectionIndex": 2,
+      "question": "Masnavi is a:",
+      "options": [
+        "A) Short poem",
+        "B) Long narrative poem",
+        "C) Prose work",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8e00def68203f9c4b0a3ba796fe9dc2a01c7be8",
+      "sectionIndex": 2,
+      "question": "Rubai consists of:",
+      "options": [
+        "A) Two lines",
+        "B) Four lines",
+        "C) Six lines",
+        "D) Eight lines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f4891c0046c0ea5d76e7961ecb209672c25d3ac",
+      "sectionIndex": 2,
+      "question": "Afsana refers to:",
+      "options": [
+        "A) Novel",
+        "B) Short story",
+        "C) Essay",
+        "D) Poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56c80df014f62e218680f9c943cfc69b73ee1881",
+      "sectionIndex": 2,
+      "question": "Dastan is a form of:",
+      "options": [
+        "A) Poetry",
+        "B) Long prose narrative",
+        "C) Drama",
+        "D) Biography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "766269f027783cb94aafaa3fa64b801645b315e2",
+      "sectionIndex": 2,
+      "question": "Inshaiya is a type of:",
+      "options": [
+        "A) Light essay",
+        "B) Heavy criticism",
+        "C) Poetry",
+        "D) Novel"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4f255a28c378b3b734968df316f99571b6ee7ccf",
+      "sectionIndex": 3,
+      "question": "Tashbih means:",
+      "options": [
+        "A) Metaphor",
+        "B) Simile",
+        "C) Irony",
+        "D) Allegory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29e6524d8504639ae1c8edb7cac209ef2879d8b3",
+      "sectionIndex": 3,
+      "question": "Istiara refers to:",
+      "options": [
+        "A) Simile",
+        "B) Metaphor",
+        "C) Personification",
+        "D) Hyperbole"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24ffc7ee1f455b1e231269d7cd79ef001f5e1547",
+      "sectionIndex": 3,
+      "question": "Radif in ghazal is:",
+      "options": [
+        "A) First word",
+        "B) Repeated word/phrase after rhyme",
+        "C) Title",
+        "D) Signature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "30500362f39134d70e4c4dfe33893672dee474b3",
+      "sectionIndex": 3,
+      "question": "Qafiya means:",
+      "options": [
+        "A) Meter",
+        "B) Rhyme",
+        "C) Theme",
+        "D) Stanza"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24362baca6be1c57c20c2d6364b978f10488724e",
+      "sectionIndex": 3,
+      "question": "Matla is the:",
+      "options": [
+        "A) Last couplet",
+        "B) First couplet",
+        "C) Middle couplet",
+        "D) Title"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81588ac4a9bd455d8993a3b0773d990502b87f38",
+      "sectionIndex": 3,
+      "question": "Maqta contains the poet's:",
+      "options": [
+        "A) Address",
+        "B) Pen name (takhallus)",
+        "C) Real name",
+        "D) Date"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "099a6dbb7f74c3c6d5d561a37d876f7ae5702d61",
+      "sectionIndex": 3,
+      "question": "Bahr refers to:",
+      "options": [
+        "A) Theme",
+        "B) Meter",
+        "C) Rhyme",
+        "D) Style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bea13bdd3a5a979a75df635e11993db2359e8cb0",
+      "sectionIndex": 3,
+      "question": "Misra means:",
+      "options": [
+        "A) Complete couplet",
+        "B) One line of a couplet",
+        "C) Stanza",
+        "D) Poem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3555b0b8532039b5a31e6b5e9745b2fa50b68e0e",
+      "sectionIndex": 3,
+      "question": "Sher is a:",
+      "options": [
+        "A) Line",
+        "B) Couplet",
+        "C) Stanza",
+        "D) Poem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd75f7e01cbd35fb7fb2cf3c6ae825d300227166",
+      "sectionIndex": 3,
+      "question": "Hamd is praise of:",
+      "options": [
+        "A) Prophet",
+        "B) Allah",
+        "C) King",
+        "D) Beloved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "086a1aac454627a62669c4326897535c7343d6fb",
+      "sectionIndex": 4,
+      "question": "The earliest form of Urdu was called:",
+      "options": [
+        "A) Hindi",
+        "B) Rekhta",
+        "C) Persian",
+        "D) Arabic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15665e02357e9fff8fe5ed4a6512a71455bd50ec",
+      "sectionIndex": 4,
+      "question": "Dakhni Urdu developed in:",
+      "options": [
+        "A) North India",
+        "B) South India",
+        "C) East India",
+        "D) West India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce82db025f0f324ff9f3d5ba8fd57465824a5a8a",
+      "sectionIndex": 4,
+      "question": "The first Urdu poet is considered to be:",
+      "options": [
+        "A) Mir",
+        "B) Ghalib",
+        "C) Wali Dakhni",
+        "D) Amir Khusro"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8d4e0452da23729539afb7c4adc6cfc16f6b6bc4",
+      "sectionIndex": 4,
+      "question": "Bagh-o-Bahar was written by:",
+      "options": [
+        "A) Mir Amman",
+        "B) Ghalib",
+        "C) Iqbal",
+        "D) Hali"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4dc9dd3a7e4d14a22b26b25471eb256d6645154b",
+      "sectionIndex": 4,
+      "question": "Fort William College played a role in:",
+      "options": [
+        "A) Urdu poetry",
+        "B) Urdu prose development",
+        "C) Drama only",
+        "D) Criticism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ebf99d2d3eda5dba8b1f357f744cfbd0397b1b8",
+      "sectionIndex": 4,
+      "question": "Sab Ras was written by:",
+      "options": [
+        "A) Wali",
+        "B) Wajhi",
+        "C) Mir",
+        "D) Sauda"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a5a8ed3400fd87756f5cff72044a00c99e878d1",
+      "sectionIndex": 4,
+      "question": "The Delhi school of poetry was led by:",
+      "options": [
+        "A) Wali",
+        "B) Mir and Sauda",
+        "C) Ghalib only",
+        "D) Iqbal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81d40905b06025539ba5e31901d62fe0a4ba99e4",
+      "sectionIndex": 4,
+      "question": "The Lucknow school emphasized:",
+      "options": [
+        "A) Simplicity",
+        "B) External beauty and sophistication",
+        "C) Political themes",
+        "D) Religious topics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34a067b656f3fc4166bed348f68d7c749ae021c5",
+      "sectionIndex": 4,
+      "question": "Fasana-e-Azad was written by:",
+      "options": [
+        "A) Rajab Ali Beg Suroor",
+        "B) Nazir Ahmad",
+        "C) Hali",
+        "D) Shibli"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4a40df015723cefb46b8e8000fb70d93b9e66343",
+      "sectionIndex": 4,
+      "question": "The language of early Urdu poetry was influenced by:",
+      "options": [
+        "A) English",
+        "B) Persian",
+        "C) French",
+        "D) Russian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc5d81430f53f60b987b939ee43a380c065c15ba",
+      "sectionIndex": 5,
+      "question": "The partition of India in 1947 led to literature about:",
+      "options": [
+        "A) Romance",
+        "B) Migration and trauma",
+        "C) Nature",
+        "D) Ancient history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25b8203ed66d6aba0de04656d203682ded21bde1",
+      "sectionIndex": 5,
+      "question": "Modernism in Urdu literature emphasized:",
+      "options": [
+        "A) Traditional forms",
+        "B) Experimentation and new themes",
+        "C) Religious topics only",
+        "D) Classical meters only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "539f4c2cbd3828a7df21824d9a557bb4dc8b0731",
+      "sectionIndex": 5,
+      "question": "The New Poetry Movement (Nai Nazm) started in:",
+      "options": [
+        "A) 1920s",
+        "B) 1940s",
+        "C) 1960s",
+        "D) 1980s"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4fd3661bf8ffa822bfe3ae29db6b7ab9bad72532",
+      "sectionIndex": 5,
+      "question": "Existentialism in Urdu fiction deals with:",
+      "options": [
+        "A) Social issues only",
+        "B) Individual existence and meaning",
+        "C) Politics only",
+        "D) History only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dbca46ad52793722178202ebf402907b5fde534",
+      "sectionIndex": 5,
+      "question": "Symbolism in modern Urdu poetry uses:",
+      "options": [
+        "A) Direct statements",
+        "B) Symbols and imagery",
+        "C) No metaphors",
+        "D) Only reality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "982b255e2cbd36bc00f44ea862e6a70c89a16792",
+      "sectionIndex": 5,
+      "question": "Stream of consciousness technique is used in:",
+      "options": [
+        "A) Classical poetry",
+        "B) Modern fiction",
+        "C) Old dramas",
+        "D) Religious texts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9bdd7ab794f6df58515ddee39a65ca2cbf1a86b",
+      "sectionIndex": 5,
+      "question": "Blank verse (Azad Nazm) means poetry without:",
+      "options": [
+        "A) Meaning",
+        "B) Regular meter and rhyme",
+        "C) Words",
+        "D) Theme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "572441761bffdbee41a3c1bcd259e7f76407addc",
+      "sectionIndex": 5,
+      "question": "Contemporary Urdu literature often addresses:",
+      "options": [
+        "A) Only classical themes",
+        "B) Current social issues",
+        "C) Ancient stories only",
+        "D) No specific themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93e20b8b85c86aebb703e14c124da533fe61e7a5",
+      "sectionIndex": 5,
+      "question": "Feminist themes in Urdu literature emerged prominently in:",
+      "options": [
+        "A) 18th century",
+        "B) 20th century",
+        "C) 15th century",
+        "D) 13th century"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82f05ce12f3d5f5752fb5412c15c69a5231833e6",
+      "sectionIndex": 5,
+      "question": "Digital age has brought Urdu literature to:",
+      "options": [
+        "A) Books only",
+        "B) Online platforms",
+        "C) Manuscripts only",
+        "D) Oral tradition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91109bfdffb2550255028c0329d6722cbe4f13b0",
+      "sectionIndex": 6,
+      "question": "Tanqeed means:",
+      "options": [
+        "A) Poetry",
+        "B) Literary criticism",
+        "C) Fiction",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "990c6767e923076321f61a4ef628b3614c60d538",
+      "sectionIndex": 6,
+      "question": "The purpose of literary criticism is to:",
+      "options": [
+        "A) Write poetry",
+        "B) Analyze and evaluate literature",
+        "C) Create stories",
+        "D) Translate works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f93b8ce6b3ee071ddf2116839dc6d1f914329b4",
+      "sectionIndex": 6,
+      "question": "Biographical criticism focuses on:",
+      "options": [
+        "A) Text only",
+        "B) Author's life and work connection",
+        "C) Reader response",
+        "D) Language only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be2c031498afa5699cf0d5b060d146becf1c41a7",
+      "sectionIndex": 6,
+      "question": "Formalist criticism emphasizes:",
+      "options": [
+        "A) History",
+        "B) Form and structure",
+        "C) Author's life",
+        "D) Politics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbc34d1e20f4087f514b383fe57296504571b95e",
+      "sectionIndex": 6,
+      "question": "Marxist criticism in Urdu literature examines:",
+      "options": [
+        "A) Religious themes",
+        "B) Class struggle",
+        "C) Nature only",
+        "D) Love only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0003756f8e6d867b3779041fdf9bacfe7912f6e3",
+      "sectionIndex": 6,
+      "question": "Feminist criticism analyzes:",
+      "options": [
+        "A) Male writers only",
+        "B) Gender representation",
+        "C) Classical forms only",
+        "D) Meter only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f05704b702fb8a0bdc0085c9cff210c5b36b0143",
+      "sectionIndex": 6,
+      "question": "Post-colonial criticism in Urdu deals with:",
+      "options": [
+        "A) Pre-Islamic period",
+        "B) Colonial impact and aftermath",
+        "C) Ancient texts only",
+        "D) Medieval period only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "681948848075302cc0fe600a49cecfb7a5d4fe31",
+      "sectionIndex": 6,
+      "question": "Structuralism looks at:",
+      "options": [
+        "A) Surface meaning",
+        "B) Underlying structures",
+        "C) Author's intention only",
+        "D) Historical context only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48a07f2123f9d6392687afd5f7b7f00fbe2d1470",
+      "sectionIndex": 6,
+      "question": "Reader response criticism focuses on:",
+      "options": [
+        "A) Author's intention",
+        "B) Reader's interpretation",
+        "C) Text alone",
+        "D) Historical facts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc6ff31c02191500e191b6a01f5bc13c913d1380",
+      "sectionIndex": 6,
+      "question": "New Criticism emphasizes:",
+      "options": [
+        "A) Author's biography",
+        "B) Close reading of text",
+        "C) Historical context only",
+        "D) Political meaning only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24381ffac8a7eb6f9f1e136fff5e4fba3b715c2a",
+      "sectionIndex": 7,
+      "question": "Urdu prose developed later than:",
+      "options": [
+        "A) Drama",
+        "B) Poetry",
+        "C) Fiction",
+        "D) Criticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d191e41360ce611198be9803b18378570f74873",
+      "sectionIndex": 7,
+      "question": "The first Urdu novel is considered to be:",
+      "options": [
+        "A) Umrao Jan Ada",
+        "B) Mirat-ul-Uroos",
+        "C) Bagh-o-Bahar",
+        "D) Fasana-e-Azad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a343aa596df0b37549564649a562b35f5afdaaa4",
+      "sectionIndex": 7,
+      "question": "Deputy Nazir Ahmad wrote novels about:",
+      "options": [
+        "A) Adventure",
+        "B) Social reform",
+        "C) Fantasy",
+        "D) Science fiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f89ec781af9e092c23ffe9ff467b85857f93322",
+      "sectionIndex": 7,
+      "question": "Umrao Jan Ada was written by:",
+      "options": [
+        "A) Nazir Ahmad",
+        "B) Mirza Hadi Ruswa",
+        "C) Premchand",
+        "D) Manto"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80b2972888fbc5d08a610ff6bbe26728ce83280f",
+      "sectionIndex": 7,
+      "question": "The essay form in Urdu is called:",
+      "options": [
+        "A) Afsana",
+        "B) Mazmoon",
+        "C) Nazm",
+        "D) Ghazal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbd7f65d1afbf821ed99343510bf986619944046",
+      "sectionIndex": 7,
+      "question": "Travel writing in Urdu is called:",
+      "options": [
+        "A) Safarnama",
+        "B) Roznamcha",
+        "C) Tarjuma",
+        "D) Tazkira"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "532bbea1cbc8a950b2e746b60932164f1f3a7e64",
+      "sectionIndex": 7,
+      "question": "Biography in Urdu is termed:",
+      "options": [
+        "A) Khudnawisht",
+        "B) Sawaneh",
+        "C) Mazmoon",
+        "D) Afsana"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21014cf1a9f36106665d4639f1994f5252240a04",
+      "sectionIndex": 7,
+      "question": "Autobiography is called:",
+      "options": [
+        "A) Sawaneh",
+        "B) Khudnawisht/Aap Beeti",
+        "C) Tazkira",
+        "D) Mazmoon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1ae7662f2aed182faacddb44621437dfaa3b2a9",
+      "sectionIndex": 7,
+      "question": "Literary history in Urdu is:",
+      "options": [
+        "A) Tareekh-e-Adab",
+        "B) Afsana",
+        "C) Novel",
+        "D) Drama"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c196c40f11c6a420200f3dc692a9a35fabe59069",
+      "sectionIndex": 7,
+      "question": "Letters as a literary form are called:",
+      "options": [
+        "A) Khat",
+        "B) Maktoob",
+        "C) Both A and B",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b9681838b83566ffd1ad4308bbf4f6650a4afb88",
+      "sectionIndex": 8,
+      "question": "Urdu drama was influenced initially by:",
+      "options": [
+        "A) Chinese theater",
+        "B) Parsi theater",
+        "C) Japanese theater",
+        "D) African theater"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "510110dba1ad3fee1cf8c66445a4aefb278b198c",
+      "sectionIndex": 8,
+      "question": "Agha Hashar Kashmiri is known as the:",
+      "options": [
+        "A) Father of Urdu drama",
+        "B) Shakespeare of Urdu",
+        "C) Both A and B",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f495bc12419734874de312ff1824828e3e342b5f",
+      "sectionIndex": 8,
+      "question": "Early Urdu dramas were mostly:",
+      "options": [
+        "A) Original works",
+        "B) Adaptations from English",
+        "C) Religious plays only",
+        "D) Comedy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6aecc2a3975f9905096a2a3783eff95f9e5c2601",
+      "sectionIndex": 8,
+      "question": "Radio drama in Urdu became popular in:",
+      "options": [
+        "A) 1920s-1930s",
+        "B) 1980s",
+        "C) 2000s",
+        "D) 2010s"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cc2cb6153d69cb635209577047f5225ee70c0f3a",
+      "sectionIndex": 8,
+      "question": "Television drama in Urdu began in:",
+      "options": [
+        "A) 1940s",
+        "B) 1960s",
+        "C) 1990s",
+        "D) 2000s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e745c32ede45b54407b225daefd0d00fed7db4ea",
+      "sectionIndex": 8,
+      "question": "One-act play in Urdu is called:",
+      "options": [
+        "A) Aik Anki",
+        "B) Do Anki",
+        "C) Teen Anki",
+        "D) Char Anki"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2243965613e9989220b806b017e3c3f0775139d8",
+      "sectionIndex": 8,
+      "question": "Tragedy in Urdu drama deals with:",
+      "options": [
+        "A) Comedy",
+        "B) Sad/serious themes",
+        "C) Romance only",
+        "D) Adventure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cea26c82ad29d6524a46487a6a8f70199b5a0cf6",
+      "sectionIndex": 8,
+      "question": "Comedy in Urdu is called:",
+      "options": [
+        "A) Almiya",
+        "B) Mazahiya/Taliya",
+        "C) Romanvi",
+        "D) Tareekhi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa0d6c72ddbe5ba72105081956e001476ca4bce7",
+      "sectionIndex": 8,
+      "question": "Street theater in Urdu addresses:",
+      "options": [
+        "A) Classical themes only",
+        "B) Social issues",
+        "C) Entertainment only",
+        "D) Historical events only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a745f732719062b42c82bfd798b32dc02067efc",
+      "sectionIndex": 8,
+      "question": "Dialogue in drama is called:",
+      "options": [
+        "A) Makalma",
+        "B) Guftagu",
+        "C) Both A and B",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d57b4412f7a9486c336c9d90f3795ca88a188743",
+      "sectionIndex": 9,
+      "question": "Ecology and literature (Mahauliyat aur Adab) is a:",
+      "options": [
+        "A) Old theme",
+        "B) Recent concern",
+        "C) Medieval topic",
+        "D) Classical subject"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ba7ddeb63433a734b3d18e0842d38dfc33fdb2d",
+      "sectionIndex": 9,
+      "question": "Social consciousness in poetry means:",
+      "options": [
+        "A) Personal themes only",
+        "B) Awareness of social issues",
+        "C) Nature poetry",
+        "D) Love poetry only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd70b738a52c095942034b46ed74dfc19f353118",
+      "sectionIndex": 9,
+      "question": "Diaspora literature in Urdu deals with:",
+      "options": [
+        "A) Local issues only",
+        "B) Immigrant experiences",
+        "C) Ancient history",
+        "D) Mythology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7b84eaee9fbb6095c477f482ed0c005015a07b4",
+      "sectionIndex": 9,
+      "question": "Digital humanities in Urdu involves:",
+      "options": [
+        "A) Print only",
+        "B) Technology and literature",
+        "C) Oral tradition only",
+        "D) Manuscripts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fee4ba174e56336026b09a29d56c3642dfe6713",
+      "sectionIndex": 9,
+      "question": "Translation studies in Urdu focus on:",
+      "options": [
+        "A) Original works only",
+        "B) Cross-cultural exchange",
+        "C) Poetry only",
+        "D) Prose only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78d631d6fa20f8f3db2869942e3a737a8e1577fb",
+      "sectionIndex": 9,
+      "question": "Comparative literature examines:",
+      "options": [
+        "A) One language only",
+        "B) Multiple literatures",
+        "C) Poetry only",
+        "D) Fiction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d40dc567df1e639addcc16e3ef28ac2cb4fb2eff",
+      "sectionIndex": 9,
+      "question": "Children's literature in Urdu:",
+      "options": [
+        "A) Doesn't exist",
+        "B) Is growing field",
+        "C) Only includes poetry",
+        "D) Only includes stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "183a3b2f3c47c443c3b4023dc81b05fd4c960e17",
+      "sectionIndex": 9,
+      "question": "Popular literature includes:",
+      "options": [
+        "A) Only classics",
+        "B) Detective/romantic fiction",
+        "C) Academic works only",
+        "D) Poetry only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e35e2775f1c3337b0b093e2afad9696907599ad",
+      "sectionIndex": 9,
+      "question": "Literary festivals promote:",
+      "options": [
+        "A) Books sales only",
+        "B) Literary culture",
+        "C) Poetry only",
+        "D) Fiction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc88b4e43f2ef30e2ee639ab51c72ce9446c8de8",
+      "sectionIndex": 9,
+      "question": "Future of Urdu literature involves:",
+      "options": [
+        "A) Print only",
+        "B) Multi-media platforms",
+        "C) Decline",
+        "D) No change"
+      ],
+      "correct": "B"
+    }
+  ]
+}

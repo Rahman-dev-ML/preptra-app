@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:27:08.082Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "37f8f21091a05bad723f0c26fbb09cf20c10b12a",
+      "sectionIndex": 0,
+      "question": "What is the primary script used for writing Balochi?",
+      "options": [
+        "A) Devanagari",
+        "B) Arabic",
+        "C) Roman",
+        "D) Gurmukhi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6fd3c80467bff3e63fe97f74be09aa5e3f77971",
+      "sectionIndex": 0,
+      "question": "Balochi is primarily spoken in which regions?",
+      "options": [
+        "A) Only Pakistan",
+        "B) Pakistan, Iran, and Afghanistan",
+        "C) Only Iran",
+        "D) Only Afghanistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0049c20edef24b858e04cb614813d325d605c879",
+      "sectionIndex": 0,
+      "question": "The term \".اتO زبا?\" (maati zubaan) refers to:",
+      "options": [
+        "A) Foreign language",
+        "B) Mother tongue",
+        "C) Official language",
+        "D) Written language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3e7926d164eab2edd82484d0d6dbec1779b92dc",
+      "sectionIndex": 0,
+      "question": "Pakistan is a country with:",
+      "options": [
+        "A) One language only",
+        "B) Multiple languages and ethnicities",
+        "C) Only Urdu speakers",
+        "D) No linguistic diversity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca31e71dd0990a407251ecf4545b744854533f02",
+      "sectionIndex": 0,
+      "question": "The responsibility to preserve Pakistani languages lies with:",
+      "options": [
+        "A) Government only",
+        "B) Schools only",
+        "C) Society as a whole",
+        "D) Foreign organizations"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f3d12a859f629d281f97bde24596846b20bf7f7e",
+      "sectionIndex": 0,
+      "question": "Balochi language belongs to which language family?",
+      "options": [
+        "A) Semitic",
+        "B) Dravidian",
+        "C) Indo-European",
+        "D) Sino-Tibetan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6b68e761eac13ab5c48ce5c227ea045f2eb78703",
+      "sectionIndex": 0,
+      "question": "What does \"پہرOزگ\" (pahrezag) mean in the context of language?",
+      "options": [
+        "A) Learning",
+        "B) Writing",
+        "C) Protection/preservation",
+        "D) Translation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4d78bd708e298b536e2757148acc82b0eed1a3e1",
+      "sectionIndex": 0,
+      "question": "The Baloch people's cultural identity is primarily expressed through:",
+      "options": [
+        "A) Dance only",
+        "B) Language and literature",
+        "C) Food only",
+        "D) Dress only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6743191b37ee5f93d7ab22b283afea399c66cdb5",
+      "sectionIndex": 0,
+      "question": "National responsibility towards regional languages includes:",
+      "options": [
+        "A) Ignoring them",
+        "B) Promoting and preserving them",
+        "C) Replacing them with English",
+        "D) Using only in homes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dd1078acc5b919e437378938f9e9ae60d3754a6",
+      "sectionIndex": 0,
+      "question": "Balochi language preservation is important for:",
+      "options": [
+        "A) Tourism only",
+        "B) Cultural identity and heritage",
+        "C) Economic reasons only",
+        "D) International relations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8384ced66f4ea525de07f9a85696b77701df9bd",
+      "sectionIndex": 1,
+      "question": "What is \"شاعرO\" (shairi) in Balochi literature?",
+      "options": [
+        "A) Prose",
+        "B) Poetry",
+        "C) Drama",
+        "D) Novel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fe16d6ce012c1d5115cb9e47ec0d7e19032d5f4",
+      "sectionIndex": 1,
+      "question": "The term \"گدار\" (gadaar) in Balochi refers to:",
+      "options": [
+        "A) Poetry",
+        "B) Prose/Novel",
+        "C) Drama",
+        "D) Folk song"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80728eb7b943664bf44c06e1cfd1926741df6fdd",
+      "sectionIndex": 1,
+      "question": "Traditional Balochi literature was primarily transmitted through:",
+      "options": [
+        "A) Books only",
+        "B) Oral tradition",
+        "C) Newspapers",
+        "D) Internet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7914406b54c285b1889df16cc67c9b83f61def0a",
+      "sectionIndex": 1,
+      "question": "What is \"داستا?\" (dastaan) in Balochi literature?",
+      "options": [
+        "A) Poem",
+        "B) Story/narrative",
+        "C) Essay",
+        "D) Letter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be9d3b79d08028dacb44135b63b4a40cbcf80f0e",
+      "sectionIndex": 1,
+      "question": "Balochi folk literature includes:",
+      "options": [
+        "A) Only modern novels",
+        "B) Folk tales, proverbs, and songs",
+        "C) Only written texts",
+        "D) Only religious texts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61fafa964c94b0480482f094f0690f874a9da2fc",
+      "sectionIndex": 1,
+      "question": "The term \"\"^ک شاعرO\" (lok shairi) refers to:",
+      "options": [
+        "A) Modern poetry",
+        "B) Folk poetry",
+        "C) Religious poetry",
+        "D) War poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b10ff4127850a4386a02dbb32396886b1d5f364",
+      "sectionIndex": 1,
+      "question": "Balochi proverbs are called:",
+      "options": [
+        "A) Dastaan",
+        "B) Battal",
+        "C) Shairi",
+        "D) Gadaar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9986ebd2944576d10e52352a98972660d7a83643",
+      "sectionIndex": 1,
+      "question": "Traditional Balochi poetry often deals with themes of:",
+      "options": [
+        "A) Only modern life",
+        "B) Love, bravery, and honor",
+        "C) Only religious topics",
+        "D) Only politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4d1362a30b85034c31a519bf1576965abd0f43b",
+      "sectionIndex": 1,
+      "question": "What is \"?بشتہ\" (nabashta) in Balochi?",
+      "options": [
+        "A) Speaking",
+        "B) Writing",
+        "C) Reading",
+        "D) Listening"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc700a88ca635711e91eb5ebc3b96b664a555e87",
+      "sectionIndex": 1,
+      "question": "The primary purpose of early Balochi literature was:",
+      "options": [
+        "A) Entertainment only",
+        "B) Preserving history and culture",
+        "C) Commercial gain",
+        "D) Political propaganda"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c2d977321232e1547b00bb72ffef5fc998944a0",
+      "sectionIndex": 2,
+      "question": "Ata Shad is known as a famous Balochi:",
+      "options": [
+        "A) Novelist only",
+        "B) Poet",
+        "C) Historian only",
+        "D) Politician only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "477c6cc8887cfb4e149995ee7ac361a5941f9121",
+      "sectionIndex": 2,
+      "question": "Gul Khan Nasir was a prominent:",
+      "options": [
+        "A) Singer only",
+        "B) Poet and political figure",
+        "C) Novelist only",
+        "D) Translator only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bebe2b326dc9e94299ca09b7e7c47a79001f58bc",
+      "sectionIndex": 2,
+      "question": "The first Balochi novel \"Nazuk\" was written by:",
+      "options": [
+        "A) Ata Shad",
+        "B) Gul Khan Nasir",
+        "C) Syed Hashmi",
+        "D) Mubarak Qazi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "42998c9d390e50597b505df74d24ec98fee9cfaa",
+      "sectionIndex": 2,
+      "question": "Mubarak Qazi is remembered for his contributions to:",
+      "options": [
+        "A) Music only",
+        "B) Balochi literature and language",
+        "C) Politics only",
+        "D) Sports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f907c18d0cb1b83f44c7d0b850a2ebd95884fe31",
+      "sectionIndex": 2,
+      "question": "\"ج^ ا?سا\" بگٹO\" (Joo Insaal Bugti) mentioned in the papers is a:",
+      "options": [
+        "A) Politician only",
+        "B) Writer/Poet",
+        "C) Singer only",
+        "D) Teacher only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3ceee8f1b50abf94b6dc5aae782dcd1d648cb3e",
+      "sectionIndex": 2,
+      "question": "\"غ\"ا. حسO? ش^باز\" (Ghulam Hussain Shobaz) contributed to:",
+      "options": [
+        "A) Balochi literature",
+        "B) Mathematics",
+        "C) Medicine",
+        "D) Engineering"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6c26623157ed82bb085f8084cb7a97449822f25a",
+      "sectionIndex": 2,
+      "question": "Hassan Darpashad is known for:",
+      "options": [
+        "A) Political work only",
+        "B) Literary contributions",
+        "C) Military service",
+        "D) Business"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69e2ce7b54d1c4e0fcf9108c635245a480a423de",
+      "sectionIndex": 2,
+      "question": "The title \"شاعر\" (sha'ir) means:",
+      "options": [
+        "A) Writer",
+        "B) Poet",
+        "C) Singer",
+        "D) Teacher"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36f623858481dd48230e4c1fc1bc64a986f8b5ab",
+      "sectionIndex": 2,
+      "question": "Modern Balochi writers often write about:",
+      "options": [
+        "A) Only ancient history",
+        "B) Contemporary social issues",
+        "C) Only foreign topics",
+        "D) Only entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f00532d24a4d40b69b9bcc6c60116622b61439f9",
+      "sectionIndex": 2,
+      "question": "Balochi literary figures often played roles as:",
+      "options": [
+        "A) Only writers",
+        "B) Cultural and political leaders",
+        "C) Only teachers",
+        "D) Only entertainers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a231bd09aa9a0316fa66fc884cc082d808ee0e78",
+      "sectionIndex": 3,
+      "question": "Balochi belongs to which branch of Indo-European languages?",
+      "options": [
+        "A) Germanic",
+        "B) Iranian",
+        "C) Slavic",
+        "D) Celtic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eac91d56dc2aff6c98c41f303fc247489fbe5ae4",
+      "sectionIndex": 3,
+      "question": "The closest linguistic relatives of Balochi are:",
+      "options": [
+        "A) Arabic and Turkish",
+        "B) Persian and Kurdish",
+        "C) Hindi and Urdu",
+        "D) Chinese and Japanese"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c1d2e9746a34945a6efbd56977ed5370fe12816",
+      "sectionIndex": 3,
+      "question": "How many major dialects does Balochi have?",
+      "options": [
+        "A) One",
+        "B) Two to three main dialects",
+        "C) Ten",
+        "D) Twenty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "962051f7921254cff61ec73610a7d1835f6c6e9a",
+      "sectionIndex": 3,
+      "question": "The term \"\"سا?O گر^ہ\" (lisaani guroh) means:",
+      "options": [
+        "A) Language teacher",
+        "B) Linguistic group",
+        "C) Grammar book",
+        "D) Dictionary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae6ad5b5587cc231df14317e283365302961e250",
+      "sectionIndex": 3,
+      "question": "Balochi script is written from:",
+      "options": [
+        "A) Left to right",
+        "B) Right to left",
+        "C) Top to bottom",
+        "D) Bottom to top"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcd02e2bbf26848faf49d71bf796d9ab55ed266e",
+      "sectionIndex": 3,
+      "question": "The influence of Persian on Balochi is seen in:",
+      "options": [
+        "A) Script only",
+        "B) Vocabulary and literary forms",
+        "C) Grammar only",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e21d3ca0da0697c0c5d534845eef1f3557ffbc0",
+      "sectionIndex": 3,
+      "question": "Balochi language classification places it as:",
+      "options": [
+        "A) Semitic language",
+        "B) Northwestern Iranian language",
+        "C) Dravidian language",
+        "D) Turkic language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3583a464cc42179e8b4cf588e318bf36231db6a",
+      "sectionIndex": 3,
+      "question": "The term \"زبا?\" (zubaan) means:",
+      "options": [
+        "A) Book",
+        "B) Language",
+        "C) Culture",
+        "D) History"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "509cd12e86015a702a52f89566af58653f0b36df",
+      "sectionIndex": 3,
+      "question": "Balochi has borrowed words from:",
+      "options": [
+        "A) No languages",
+        "B) Arabic, Persian, and Urdu",
+        "C) Only English",
+        "D) Only Sanskrit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee0a659b8d27c5314d98a53c81d164465619b34d",
+      "sectionIndex": 3,
+      "question": "The study of Balochi language structure is called:",
+      "options": [
+        "A) History",
+        "B) Linguistics",
+        "C) Geography",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2133a7b3cab89ec5f50f19944a78bec7214a848",
+      "sectionIndex": 4,
+      "question": "\"شہداد ^ .ہ?از\" (Shahdad o Mahnaz) is a famous Balochi:",
+      "options": [
+        "A) Historical text",
+        "B) Love story",
+        "C) Religious book",
+        "D) Grammar book"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b9c27cf2db9ffc726676d016c81135caddb3039",
+      "sectionIndex": 4,
+      "question": "The Balochi epic tradition includes stories of:",
+      "options": [
+        "A) Only love",
+        "B) Heroes and battles",
+        "C) Only comedy",
+        "D) Only tragedy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9426848e42a757b2a8eb19b8f5e4b776b848ba43",
+      "sectionIndex": 4,
+      "question": "\"ر?د ^ \"اشار\" (Rind o Lashar) refers to:",
+      "options": [
+        "A) Two poets",
+        "B) Two tribal confederations",
+        "C) Two cities",
+        "D) Two books"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cde1ac98f4e17eacd39cc546ef0a871cf9e01c81",
+      "sectionIndex": 4,
+      "question": "The thirty-year war between Rind and Lashar is:",
+      "options": [
+        "A) Fiction only",
+        "B) Part of Baloch history",
+        "C) Modern event",
+        "D) Foreign story"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a10a643cc1ba04ce38358bef007861359f84b67",
+      "sectionIndex": 4,
+      "question": "Traditional Balochi music is called:",
+      "options": [
+        "A) Zaheerok",
+        "B) Qawwali",
+        "C) Bhangra",
+        "D) Garba"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f8ca036e67df6d49512a8241ebe129b6fc5a356e",
+      "sectionIndex": 4,
+      "question": "\"ح.اسہ\" (hamaasa) in Balochi literature means:",
+      "options": [
+        "A) Comedy",
+        "B) Epic",
+        "C) Tragedy",
+        "D) Romance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fa474e258f90685b6af4be7ffbd319dfbd4b9ab",
+      "sectionIndex": 4,
+      "question": "Balochi folk tales often feature:",
+      "options": [
+        "A) Only animals",
+        "B) Heroes, love, and moral lessons",
+        "C) Only ghosts",
+        "D) Only kings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e8729eb27dce8c69af41691cddce6d8e159e881",
+      "sectionIndex": 4,
+      "question": "The term \"گOدO شاعرO\" (geedi shairi) refers to:",
+      "options": [
+        "A) Written poetry",
+        "B) Traditional/folk poetry",
+        "C) Modern poetry",
+        "D) Foreign poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05fd255fc81cad6b6050b9e321e5a39c9c2a66d5",
+      "sectionIndex": 4,
+      "question": "Balochi wedding songs are called:",
+      "options": [
+        "A) Naaz",
+        "B) Halo",
+        "C) Ghazal",
+        "D) Rubai"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1b3c850e58888109bf794657169aceecd7e28b3",
+      "sectionIndex": 4,
+      "question": "Traditional Balochi literature preserves:",
+      "options": [
+        "A) Only stories",
+        "B) History, culture, and values",
+        "C) Only songs",
+        "D) Only proverbs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0cf61fa41db272914be2f9baa14db4ed46f13bb",
+      "sectionIndex": 5,
+      "question": "Modern Balochi literature began developing significantly in:",
+      "options": [
+        "A) 10th century",
+        "B) 20th century",
+        "C) 5th century",
+        "D) 1st century"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae7f40f288f124acf8025ac7596e59b9fb014880",
+      "sectionIndex": 5,
+      "question": "The first Balochi magazine was:",
+      "options": [
+        "A) Balochi Times",
+        "B) Balochi",
+        "C) Baloch Voice",
+        "D) Baloch News"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e606826a58d2b074abbc07f81441af36a46bf4e",
+      "sectionIndex": 5,
+      "question": "Modern Balochi novels discuss:",
+      "options": [
+        "A) Only historical events",
+        "B) Contemporary social issues",
+        "C) Only romance",
+        "D) Only war"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a69d40b6361fe0aee59a0931e67a116afe201c5",
+      "sectionIndex": 5,
+      "question": "\"?^کOں شاعرO\" (nokeen shairi) means:",
+      "options": [
+        "A) Old poetry",
+        "B) Modern/new poetry",
+        "C) Religious poetry",
+        "D) War poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6fc7a0c7606f493997f552410fba361166b56cf",
+      "sectionIndex": 5,
+      "question": "The development of Balochi prose was influenced by:",
+      "options": [
+        "A) Isolation",
+        "B) Contact with other literatures",
+        "C) Government decree",
+        "D) Economic factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7699f2ffcf8d28f38ff17aa8a09aa8093829e87",
+      "sectionIndex": 5,
+      "question": "Modern Balochi writers use:",
+      "options": [
+        "A) Only traditional forms",
+        "B) Both traditional and modern forms",
+        "C) Only foreign forms",
+        "D) No specific forms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7f58d662c88c44a06b3906019e7ea072b548741",
+      "sectionIndex": 5,
+      "question": "Balochi literary criticism is called:",
+      "options": [
+        "A) Tanqeed",
+        "B) Tareekh",
+        "C) Falsafa",
+        "D) Ilm"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e17e163cf5263dda335a7a7f35fac7d93ba53117",
+      "sectionIndex": 5,
+      "question": "Contemporary Balochi literature addresses:",
+      "options": [
+        "A) Only rural life",
+        "B) Both rural and urban experiences",
+        "C) Only urban life",
+        "D) Only foreign topics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "706d066c58d0691b8878082c7933c338ca3e0e1f",
+      "sectionIndex": 5,
+      "question": "The term \"ادب\" (adab) means:",
+      "options": [
+        "A) History",
+        "B) Literature",
+        "C) Science",
+        "D) Mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7de51198a7bb8fa732baa02c501ba742a10d1419",
+      "sectionIndex": 5,
+      "question": "Modern Balochi literature is published in:",
+      "options": [
+        "A) Only Pakistan",
+        "B) Multiple countries",
+        "C) Only Iran",
+        "D) Only Afghanistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d41b6e5d983f1b2315562df1982c3b0c5369aca",
+      "sectionIndex": 6,
+      "question": "\".ض.^?\" (mazmoon) in Balochi means:",
+      "options": [
+        "A) Poem",
+        "B) Essay/article",
+        "C) Novel",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdf01286c869d9269cc53a4ab508e76a4c80f836",
+      "sectionIndex": 6,
+      "question": "The term \"بOت\" (bait) refers to:",
+      "options": [
+        "A) Paragraph",
+        "B) Verse/couplet",
+        "C) Chapter",
+        "D) Page"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "133222579c723e7308586ecdb3645241e52c52f4",
+      "sectionIndex": 6,
+      "question": "\",افOہ\" (qaafia) in poetry means:",
+      "options": [
+        "A) Meter",
+        "B) Rhyme",
+        "C) Theme",
+        "D) Title"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb5ea541df0aa4a9c874b257c89ef8ab7febfa94",
+      "sectionIndex": 6,
+      "question": "\"کردار\" (kirdaar) in literature means:",
+      "options": [
+        "A) Author",
+        "B) Character",
+        "C) Reader",
+        "D) Publisher"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94071b2e352d2d11eaeb0faf10129cd839df4c2b",
+      "sectionIndex": 6,
+      "question": "The term \"پOراگراف\" (paragraph) in Balochi is:",
+      "options": [
+        "A) A type of poem",
+        "B) A section of prose",
+        "C) A type of song",
+        "D) A literary award"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d339352e1de5ccfe8d060cda360fb28c7ec53fd0",
+      "sectionIndex": 6,
+      "question": "\"ترج.ہ\" (tarjuma) means:",
+      "options": [
+        "A) Writing",
+        "B) Translation",
+        "C) Reading",
+        "D) Speaking"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f84e1bed054b675d7fdcdd643e93783cd1b208b0",
+      "sectionIndex": 6,
+      "question": "\"ت?,Oد\" (tanqeed) in literature means:",
+      "options": [
+        "A) Praise",
+        "B) Criticism/analysis",
+        "C) Summary",
+        "D) Translation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1680ec8b9eb73df64697fe3cbcf83b49c948769d",
+      "sectionIndex": 6,
+      "question": "The term \"استعارہ\" (istiara) refers to:",
+      "options": [
+        "A) Reality",
+        "B) Metaphor",
+        "C) History",
+        "D) Grammar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efc38c337fa521c01d2267f9a5ea8b8ac491bd6e",
+      "sectionIndex": 6,
+      "question": "\".^ض^ع\" (mozoo) means:",
+      "options": [
+        "A) Writer",
+        "B) Topic/theme",
+        "C) Reader",
+        "D) Publisher"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6007e8ea477c7a445c7b5b7cbd35f7472104e0c8",
+      "sectionIndex": 6,
+      "question": "\"ا,تباس\" (iqtibaas) means:",
+      "options": [
+        "A) Question",
+        "B) Quotation",
+        "C) Answer",
+        "D) Title"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbd4d6cc29906f1443b69fd59dc80edf45e09a04",
+      "sectionIndex": 7,
+      "question": "The Baloch people traditionally lived as:",
+      "options": [
+        "A) Only farmers",
+        "B) Nomads and pastoralists",
+        "C) Only traders",
+        "D) Only fishermen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62b5289fade2b6c75502ec1196c33186663b2798",
+      "sectionIndex": 7,
+      "question": "Balochistan is geographically located in:",
+      "options": [
+        "A) Only mountains",
+        "B) Diverse terrain including deserts and coasts",
+        "C) Only plains",
+        "D) Only forests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "935e349d5b0ad7fd0e606e853d7905615149f8ab",
+      "sectionIndex": 7,
+      "question": "The traditional Baloch social system is based on:",
+      "options": [
+        "A) Caste system",
+        "B) Tribal structure",
+        "C) Monarchy only",
+        "D) Democracy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd168665e60b7a1f78af6978aee7ee2b9f06a05a",
+      "sectionIndex": 7,
+      "question": "\"سردار\" (sardaar) in Baloch society means:",
+      "options": [
+        "A) Farmer",
+        "B) Tribal chief",
+        "C) Teacher",
+        "D) Merchant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73eedf11d3c03c622634a396c48de51d1ababd96",
+      "sectionIndex": 7,
+      "question": "Baloch cultural values emphasize:",
+      "options": [
+        "A) Only wealth",
+        "B) Honor, hospitality, and bravery",
+        "C) Only education",
+        "D) Only religion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea9b0ac463a9b3bac1c3fae553910197505eac8f",
+      "sectionIndex": 7,
+      "question": "The term \"جرگہ\" (jirga) refers to:",
+      "options": [
+        "A) Festival",
+        "B) Tribal council",
+        "C) Market",
+        "D) School"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e25b7c450f880aa0da22f04d95d104e2b7671ea",
+      "sectionIndex": 7,
+      "question": "Traditional Baloch dress for men includes:",
+      "options": [
+        "A) Only Western clothes",
+        "B) Shalwar kameez and turban",
+        "C) Only robes",
+        "D) Only suits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7e3ae2fb3cf125c586b463f9d772b968b34978a",
+      "sectionIndex": 7,
+      "question": "Balochi culture has been influenced by:",
+      "options": [
+        "A) No other cultures",
+        "B) Persian, Arab, and Indian cultures",
+        "C) Only Western culture",
+        "D) Only Chinese culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e2e51f05bce4a39c90cad3d38929395d739166d",
+      "sectionIndex": 7,
+      "question": "The Baloch calendar traditionally follows:",
+      "options": [
+        "A) Only Gregorian calendar",
+        "B) Solar and lunar cycles",
+        "C) Only Chinese calendar",
+        "D) No calendar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca187953875ee31aa983773b5452f8507e2f1b3d",
+      "sectionIndex": 7,
+      "question": "\"ب\"^? راج\" (Baloch Raj) refers to:",
+      "options": [
+        "A) A book",
+        "B) Historical Baloch governance",
+        "C) A festival",
+        "D) A dance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bf5a8727c3ea277fa768953a05dc61b530ca95d",
+      "sectionIndex": 8,
+      "question": "Language preservation requires:",
+      "options": [
+        "A) Government action only",
+        "B) Community effort",
+        "C) Individual effort only",
+        "D) No effort"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cddd13e191016dd65ca123dcef5005badba1954",
+      "sectionIndex": 8,
+      "question": "\".کتبہ\" (maktaba) in the context of language means:",
+      "options": [
+        "A) Market",
+        "B) School/educational institution",
+        "C) Hospital",
+        "D) Court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ae96cceaa82536353859772007fc6ee12e6435b",
+      "sectionIndex": 8,
+      "question": "The role of education in language preservation is:",
+      "options": [
+        "A) Harmful",
+        "B) Essential",
+        "C) Unnecessary",
+        "D) Minimal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ded2af5df9b4b5121e6382433193a85453418f98",
+      "sectionIndex": 8,
+      "question": "Digital technology can help preserve languages by:",
+      "options": [
+        "A) Replacing them",
+        "B) Documentation and accessibility",
+        "C) Eliminating them",
+        "D) No effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "948979f360ed048635c1936e9b98f496e4ade8d9",
+      "sectionIndex": 8,
+      "question": "\"^OجOٹ\" .ع\"^.ات\" (digital maloomaat) means:",
+      "options": [
+        "A) Old books",
+        "B) Digital information",
+        "C) Handwritten texts",
+        "D) Oral stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0670a6e08e3963620eb51479767e1ad964f115d0",
+      "sectionIndex": 8,
+      "question": "Language rights are considered:",
+      "options": [
+        "A) Unnecessary",
+        "B) Human rights",
+        "C) Only political rights",
+        "D) Only economic rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "300fca2e7d9577306da754f62f8da5348a1346b0",
+      "sectionIndex": 8,
+      "question": "Mother tongue education is important for:",
+      "options": [
+        "A) Confusion",
+        "B) Better learning outcomes",
+        "C) Slower progress",
+        "D) No benefit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3539e58b62b9fb20ec5c969b26b7ca0c7c854b5",
+      "sectionIndex": 8,
+      "question": "Language diversity in Pakistan should be:",
+      "options": [
+        "A) Eliminated",
+        "B) Celebrated and preserved",
+        "C) Ignored",
+        "D) Hidden"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1208b171e8491b82e9f3e658a1b24db9c7fa5ef",
+      "sectionIndex": 8,
+      "question": "The media's role in language preservation is:",
+      "options": [
+        "A) Destructive",
+        "B) Supportive through content creation",
+        "C) Neutral",
+        "D) Harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2649b277fa0cd5f58ceba6945c4e8de98764c793",
+      "sectionIndex": 8,
+      "question": "Young people's involvement in language preservation is:",
+      "options": [
+        "A) Unnecessary",
+        "B) Crucial for continuity",
+        "C) Harmful",
+        "D) Impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3ea32326c335d867d134fefd7f2f81bc7911fd5",
+      "sectionIndex": 9,
+      "question": "When translating from Balochi to English, one must consider:",
+      "options": [
+        "A) Word-for-word only",
+        "B) Cultural context and meaning",
+        "C) Grammar only",
+        "D) Nothing special"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "088d196c9008658320e2ac71cffdfc5694d7755b",
+      "sectionIndex": 9,
+      "question": "The term \"در جا?ک\" (dar jaanak) means:",
+      "options": [
+        "A) To write",
+        "B) To translate",
+        "C) To read",
+        "D) To speak"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b09622baf849b1ecbeaa7e11dee0eecc1956c01",
+      "sectionIndex": 9,
+      "question": "Translation of idioms requires:",
+      "options": [
+        "A) Literal translation",
+        "B) Cultural equivalent",
+        "C) Omission",
+        "D) No special attention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c578c276649b094772617a8023e6d7c40f4d46e9",
+      "sectionIndex": 9,
+      "question": "\"ا?گرOزO\" (angrezi) refers to:",
+      "options": [
+        "A) American",
+        "B) English language",
+        "C) British people",
+        "D) European"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f39caa01e074e0aafb561b2b11c890ef626069b9",
+      "sectionIndex": 9,
+      "question": "Good translation maintains:",
+      "options": [
+        "A) Only words",
+        "B) Meaning and spirit",
+        "C) Only grammar",
+        "D) Only structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18f419d1630ea41dfd7cf4e26abd7ed8caefb434",
+      "sectionIndex": 9,
+      "question": "Technical terms in translation should be:",
+      "options": [
+        "A) Ignored",
+        "B) Accurately rendered",
+        "C) Changed freely",
+        "D) Omitted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db911df854f09443569cbc5cccf91fa71adb5bb9",
+      "sectionIndex": 9,
+      "question": "The purpose of translation is:",
+      "options": [
+        "A) To confuse",
+        "B) To facilitate understanding",
+        "C) To show superiority",
+        "D) To complicate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b17ab9b402fd82b001a4c395c12f1b2fb7144409",
+      "sectionIndex": 9,
+      "question": "Bilingual competence means:",
+      "options": [
+        "A) Speaking loudly",
+        "B) Proficiency in two languages",
+        "C) Writing only",
+        "D) Reading only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6054e3fecd63771b7a6397846c523767e9818893",
+      "sectionIndex": 9,
+      "question": "Translation helps in:",
+      "options": [
+        "A) Creating barriers",
+        "B) Cultural exchange",
+        "C) Isolation",
+        "D) Confusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "944e4946918038890d24a0bc6f8e6ef01d659fe6",
+      "sectionIndex": 9,
+      "question": "The skill of translation requires:",
+      "options": [
+        "A) Dictionary only",
+        "B) Language and cultural knowledge",
+        "C) Computer only",
+        "D) No special skills"
+      ],
+      "correct": "B"
+    }
+  ]
+}

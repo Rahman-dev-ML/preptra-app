@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T22:11:21.790Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "b6ea0d89f2b2ca5d7786d5e0952f36b63254bb09",
+      "sectionIndex": 0,
+      "question": "International Relations as a discipline primarily studies:",
+      "options": [
+        "A) Domestic politics",
+        "B) Relations between states",
+        "C) Individual psychology",
+        "D) Local government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cdd2e55490bd609a127c3e0b4d3e2609249bf0a",
+      "sectionIndex": 0,
+      "question": "The scope of International Relations includes:",
+      "options": [
+        "A) Only political relations",
+        "B) Political, economic, and social relations between states",
+        "C) Only military affairs",
+        "D) Only trade relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da80c202ddf8ce55744485f90cb5160c8067fbac",
+      "sectionIndex": 0,
+      "question": "National Power consists of:",
+      "options": [
+        "A) Only military strength",
+        "B) Both tangible and intangible elements",
+        "C) Only economic resources",
+        "D) Only territory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55243fa8f1f5c01a03c0615dce450887c0cbfe65",
+      "sectionIndex": 0,
+      "question": "Tangible elements of national power include:",
+      "options": [
+        "A) National morale",
+        "B) Geography and natural resources",
+        "C) Leadership quality",
+        "D) Ideology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d1681839ceff85ecec5090aabe864d4755aad20",
+      "sectionIndex": 0,
+      "question": "Neo-Realism differs from Classical Realism by:",
+      "options": [
+        "A) Rejecting power politics",
+        "B) Focusing on system structure rather than human nature",
+        "C) Promoting cooperation",
+        "D) Ignoring state interests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "121b7fdc3cb8dd51aaf5bf2a225762b5d8e18b6b",
+      "sectionIndex": 0,
+      "question": "Neo-Liberalism emphasizes:",
+      "options": [
+        "A) Military power only",
+        "B) International cooperation and institutions",
+        "C) State conflict",
+        "D) Anarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f240c2073b86e10aa0b335eb45b4c4958a6fac6d",
+      "sectionIndex": 0,
+      "question": "The author of \"The End of History and the Last Man\" is:",
+      "options": [
+        "A) Huntington",
+        "B) Fukuyama",
+        "C) Morgenthau",
+        "D) Waltz"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b66a1b851adef4edc19f7de7ebec40cd460468d9",
+      "sectionIndex": 0,
+      "question": "Classical Realism believes conflict arises from:",
+      "options": [
+        "A) Economic factors",
+        "B) Human nature",
+        "C) International law",
+        "D) Democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dad27df579002f9592a392e7bfc2abefd5ef0220",
+      "sectionIndex": 0,
+      "question": "Constructivism in IR focuses on:",
+      "options": [
+        "A) Material power only",
+        "B) Ideas and social construction",
+        "C) Military capabilities",
+        "D) Economic determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42e0941e4f78e4aacf423e6c1214ae74a7c401ac",
+      "sectionIndex": 0,
+      "question": "The principle of sovereignty was established by:",
+      "options": [
+        "A) UN Charter",
+        "B) Treaty of Westphalia",
+        "C) Congress of Vienna",
+        "D) Yalta Conference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "614c2a46baec8e0ff29ad1b5ee5e864a26e274c7",
+      "sectionIndex": 1,
+      "question": "Liberalism in IR promotes:",
+      "options": [
+        "A) Conflict",
+        "B) Cooperation through institutions",
+        "C) Power politics",
+        "D) Isolationism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5805bd777830c8b4796cb1a1b0e5b0fa480eaa2",
+      "sectionIndex": 1,
+      "question": "Realism views international system as:",
+      "options": [
+        "A) Harmonious",
+        "B) Anarchic",
+        "C) Democratic",
+        "D) Regulated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdf74e48c238186201fef1d9b74084f6ea87620a",
+      "sectionIndex": 1,
+      "question": "The feminist theory in IR emphasizes:",
+      "options": [
+        "A) Military strategy",
+        "B) Gender perspectives in global politics",
+        "C) Economic policy only",
+        "D) State sovereignty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "735f4b5fce29dd4ac7caad1d8bfa3543fc2061d7",
+      "sectionIndex": 1,
+      "question": "Imperialism refers to:",
+      "options": [
+        "A) International cooperation",
+        "B) Extension of power over other territories",
+        "C) Isolationist policy",
+        "D) Free trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1749a8348857b1baccc42085d3eb3be3329662f5",
+      "sectionIndex": 1,
+      "question": "Economic theories of imperialism focus on:",
+      "options": [
+        "A) Cultural factors",
+        "B) Capitalist expansion and exploitation",
+        "C) Religious motives",
+        "D) Humanitarian concerns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5951f118eaf6473179b487dc8789675abe7df41f",
+      "sectionIndex": 1,
+      "question": "Modernist IR theories include:",
+      "options": [
+        "A) Feminism and Constructivism",
+        "B) Realism and Liberalism",
+        "C) Post-colonialism",
+        "D) Critical theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "faf5109ed47e878e1a9c202dfc0f60bf316f1ba4",
+      "sectionIndex": 1,
+      "question": "Post-modernist IR theories include:",
+      "options": [
+        "A) Classical Realism",
+        "B) Feminism and Constructivism",
+        "C) Neo-realism only",
+        "D) Traditional liberalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3999df920ec555db5be78e08536ce1795cbd8918",
+      "sectionIndex": 1,
+      "question": "The balance of power concept is central to:",
+      "options": [
+        "A) Liberal theory",
+        "B) Realist theory",
+        "C) Marxist theory",
+        "D) Feminist theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8e4f4a86e6e72f0642038d90e69d2b98ad52782",
+      "sectionIndex": 1,
+      "question": "Interdependence theory is associated with:",
+      "options": [
+        "A) Realism",
+        "B) Liberalism",
+        "C) Marxism",
+        "D) Fascism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6a4544e13d5c4e0838c51692e767591180882af",
+      "sectionIndex": 1,
+      "question": "The democratic peace theory suggests:",
+      "options": [
+        "A) Democracies never fight",
+        "B) Democracies rarely fight each other",
+        "C) Democracy causes war",
+        "D) Democracy is impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d61aa695b649979981f4ad21512a7aad1087f68f",
+      "sectionIndex": 2,
+      "question": "The United Nations was formed in:",
+      "options": [
+        "A) 1944",
+        "B) 1945",
+        "C) 1946",
+        "D) 1947"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7107c26126a0be2e90f60a76cfd3fa97cee070f5",
+      "sectionIndex": 2,
+      "question": "NATO was formed in:",
+      "options": [
+        "A) 1948",
+        "B) 1949",
+        "C) 1950",
+        "D) 1951"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10d44a78812dac9a7c26983e081a81a159a6317c",
+      "sectionIndex": 2,
+      "question": "SEATO stands for:",
+      "options": [
+        "A) South East Asian Treaty Organization",
+        "B) South Eastern Alliance Treaty Organization",
+        "C) Southeast Asia Treaty Organization",
+        "D) Southern Eastern Asian Treaty Organization"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "85d13cf74b6cac80934ef47d8ca12b21d765c567",
+      "sectionIndex": 2,
+      "question": "The Non-Aligned Movement (NAM) was formed in:",
+      "options": [
+        "A) 1955",
+        "B) 1961",
+        "C) 1962",
+        "D) 1965"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ba68688c4ff4ba2e04d499b847a9baa4bd57052",
+      "sectionIndex": 2,
+      "question": "The headquarters of the UN is located in:",
+      "options": [
+        "A) Geneva",
+        "B) New York",
+        "C) Paris",
+        "D) London"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef5936b238febda51a99cc79c779fa7dec9b309a",
+      "sectionIndex": 2,
+      "question": "The Security Council has how many permanent members?",
+      "options": [
+        "A) 3",
+        "B) 5",
+        "C) 7",
+        "D) 10"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eed7855068df1a6b5d36733670ef2637662b7504",
+      "sectionIndex": 2,
+      "question": "The OIC stands for:",
+      "options": [
+        "A) Organization of Islamic Countries",
+        "B) Organization of Islamic Cooperation",
+        "C) Organization of International Cooperation",
+        "D) Organization of Islamic Conference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03ba47d1d13b724dd8622fe795ee6d6ed09c47cd",
+      "sectionIndex": 2,
+      "question": "The European Union evolved from:",
+      "options": [
+        "A) NATO",
+        "B) European Economic Community",
+        "C) Warsaw Pact",
+        "D) SEATO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bdc27781cda9eda669f7b875d421172d62c2c3d",
+      "sectionIndex": 2,
+      "question": "SAARC was established in:",
+      "options": [
+        "A) 1980",
+        "B) 1985",
+        "C) 1990",
+        "D) 1995"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "618a810df73dbe05ea1ce265310d6315ec2e18cf",
+      "sectionIndex": 2,
+      "question": "The World Bank is headquartered in:",
+      "options": [
+        "A) New York",
+        "B) Washington D.C.",
+        "C) Geneva",
+        "D) London"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fc596ef06f129c2a561ea3a16aa565a85a5e867",
+      "sectionIndex": 3,
+      "question": "The Yalta Conference was held in:",
+      "options": [
+        "A) 1944",
+        "B) 1945",
+        "C) 1946",
+        "D) 1947"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6da85ef6e29a9cbbf061acc8f0b24cacb09e0b4",
+      "sectionIndex": 3,
+      "question": "The Cuban Missile Crisis occurred in:",
+      "options": [
+        "A) 1960",
+        "B) 1961",
+        "C) 1962",
+        "D) 1963"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e2e3325aed271f633911c928ecbbb8cf3569d21",
+      "sectionIndex": 3,
+      "question": "The Cold War between USA and USSR started in:",
+      "options": [
+        "A) 1942",
+        "B) 1945",
+        "C) 1946",
+        "D) 1947"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "15b284449310d13ad9cb631541359cdfd94d204d",
+      "sectionIndex": 3,
+      "question": "The Berlin Wall fell in:",
+      "options": [
+        "A) 1987",
+        "B) 1988",
+        "C) 1989",
+        "D) 1990"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "10d66000c942f703c64cca405a3075bb665be2dc",
+      "sectionIndex": 3,
+      "question": "German reunification occurred in:",
+      "options": [
+        "A) 1989",
+        "B) 1990",
+        "C) 1991",
+        "D) 1992"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae1b5f74b23c883e426a14554e12d352697ecd28",
+      "sectionIndex": 3,
+      "question": "The USSR disintegrated in:",
+      "options": [
+        "A) 1989",
+        "B) 1990",
+        "C) 1991",
+        "D) 1992"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bf37c143ff2dc03f5446faa5db3d400131744d84",
+      "sectionIndex": 3,
+      "question": "The NPT (Non-Proliferation Treaty) was signed in:",
+      "options": [
+        "A) 1966",
+        "B) 1968",
+        "C) 1970",
+        "D) 1972"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85556671cccbf41fb7e27e1ee6e13150c7350809",
+      "sectionIndex": 3,
+      "question": "The Congress of Vienna was held in:",
+      "options": [
+        "A) 1814-1815",
+        "B) 1820-1821",
+        "C) 1830-1831",
+        "D) 1848-1849"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "401fd8c08532111f9548b1b3f15ff1c4e6fa0ffe",
+      "sectionIndex": 3,
+      "question": "The Treaty of Versailles was signed in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d119892910471d16d131bcbae8a13bedba99e455",
+      "sectionIndex": 3,
+      "question": "World War I ended in:",
+      "options": [
+        "A) 1916",
+        "B) 1917",
+        "C) 1918",
+        "D) 1919"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a1cb2f7eff6da5609c0ab1c6d64561e9d3aad4f9",
+      "sectionIndex": 4,
+      "question": "The first Secretary-General of the UN was:",
+      "options": [
+        "A) Dag Hammarskjöld",
+        "B) Trygve Lie",
+        "C) U Thant",
+        "D) Kurt Waldheim"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c5b9a5281926f46089dc24b8d28bf0b50dfa33c",
+      "sectionIndex": 4,
+      "question": "U Thant was from:",
+      "options": [
+        "A) Thailand",
+        "B) Myanmar (Burma)",
+        "C) Cambodia",
+        "D) Vietnam"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "530d06c0e4176c685e20bc398ab0985cf8568a69",
+      "sectionIndex": 4,
+      "question": "The author of \"The Clash of Civilizations\" is:",
+      "options": [
+        "A) Fukuyama",
+        "B) Huntington",
+        "C) Kissinger",
+        "D) Brzezinski"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de7a42c9cf8fadea37c9f3a35746ee61619dc3c2",
+      "sectionIndex": 4,
+      "question": "Hans Morgenthau is associated with:",
+      "options": [
+        "A) Liberalism",
+        "B) Classical Realism",
+        "C) Marxism",
+        "D) Constructivism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72d58de51c7d338b9b0daf97d142d21610481dc0",
+      "sectionIndex": 4,
+      "question": "Kenneth Waltz is known for:",
+      "options": [
+        "A) Classical Realism",
+        "B) Neo-Realism",
+        "C) Liberalism",
+        "D) Marxism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b84060b230e5bf596b3ae082fd854c5417f611e",
+      "sectionIndex": 4,
+      "question": "Woodrow Wilson promoted:",
+      "options": [
+        "A) Realism",
+        "B) Liberal internationalism",
+        "C) Isolationism",
+        "D) Imperialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78453fb3d88d3ff2cdae9aeac4199d9bed8fd6c2",
+      "sectionIndex": 4,
+      "question": "The Marshall Plan was named after:",
+      "options": [
+        "A) John Marshall",
+        "B) George Marshall",
+        "C) Alfred Marshall",
+        "D) Thomas Marshall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7b69c694f1bea62caf6d30f85297b3775e9dc78",
+      "sectionIndex": 4,
+      "question": "Fidel Castro was the leader of:",
+      "options": [
+        "A) Venezuela",
+        "B) Cuba",
+        "C) Nicaragua",
+        "D) Bolivia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69b4165130f29cff295b8e533a772678c8863a47",
+      "sectionIndex": 4,
+      "question": "Mikhail Gorbachev introduced:",
+      "options": [
+        "A) Stalinism",
+        "B) Glasnost and Perestroika",
+        "C) Communism",
+        "D) Capitalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "784e905c8e7dd3a853b464c0d4a4591efa67954e",
+      "sectionIndex": 4,
+      "question": "Henry Kissinger served as:",
+      "options": [
+        "A) US President",
+        "B) US Secretary of State",
+        "C) UN Secretary-General",
+        "D) NATO Chief"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b4e5e5a5b0af2a186e13aa44cd0c83fb251f61e",
+      "sectionIndex": 5,
+      "question": "The first country to develop nuclear weapons was:",
+      "options": [
+        "A) USSR",
+        "B) United States",
+        "C) Britain",
+        "D) France"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "214b76636ce765543f0faef56872df9b9563c136",
+      "sectionIndex": 5,
+      "question": "India conducted its first nuclear test in:",
+      "options": [
+        "A) 1972",
+        "B) 1974",
+        "C) 1976",
+        "D) 1978"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f874878d77f36548d0c736142e2a756fc65f3ba",
+      "sectionIndex": 5,
+      "question": "Pakistan conducted its nuclear tests in:",
+      "options": [
+        "A) 1996",
+        "B) 1998",
+        "C) 2000",
+        "D) 2002"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "556cd1d23c7113bea9b16a934642d60e95842969",
+      "sectionIndex": 5,
+      "question": "The doctrine of Mutually Assured Destruction (MAD) relates to:",
+      "options": [
+        "A) Conventional war",
+        "B) Nuclear deterrence",
+        "C) Economic sanctions",
+        "D) Diplomatic relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d98c873e0b7c6f5d3149cd9181817a37def001a5",
+      "sectionIndex": 5,
+      "question": "The NPT aims to:",
+      "options": [
+        "A) Increase nuclear weapons",
+        "B) Prevent nuclear proliferation",
+        "C) Share nuclear technology freely",
+        "D) Eliminate all weapons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6cbcf6813343490a5eda7acadbbdfedc1caa774",
+      "sectionIndex": 5,
+      "question": "Nuclear deterrence theory suggests:",
+      "options": [
+        "A) Nuclear weapons cause war",
+        "B) Nuclear weapons prevent major wars",
+        "C) Nuclear weapons are ineffective",
+        "D) Nuclear weapons should be used"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0c23815d9b2b877f61ef928f9d47f7549062c90",
+      "sectionIndex": 5,
+      "question": "The P5 nations in the UN Security Council all possess:",
+      "options": [
+        "A) Large armies",
+        "B) Nuclear weapons",
+        "C) Space programs",
+        "D) Aircraft carriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "071c412aeaabcf44619f74913956d4d255b57335",
+      "sectionIndex": 5,
+      "question": "START treaties deal with:",
+      "options": [
+        "A) Space exploration",
+        "B) Nuclear arms reduction",
+        "C) Trade agreements",
+        "D) Climate change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61b9e5b9cb8b390253bcd1925e89d61e67091c92",
+      "sectionIndex": 5,
+      "question": "The CTBT stands for:",
+      "options": [
+        "A) Complete Test Ban Treaty",
+        "B) Comprehensive Test Ban Treaty",
+        "C) Central Test Ban Treaty",
+        "D) Collective Test Ban Treaty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf870c783b836c68935bbe96ca70acf21abdd360",
+      "sectionIndex": 5,
+      "question": "Nuclear proliferation refers to:",
+      "options": [
+        "A) Reducing nuclear weapons",
+        "B) Spread of nuclear weapons",
+        "C) Nuclear energy development",
+        "D) Nuclear disarmament"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13386db12d664364f5764e62f09c2537e20ecd8c",
+      "sectionIndex": 6,
+      "question": "ASEAN stands for:",
+      "options": [
+        "A) Asian Southeast Economic Area Network",
+        "B) Association of Southeast Asian Nations",
+        "C) Alliance of Southeast Asian Nations",
+        "D) Asian Southern Economic Alliance Network"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb877a7a829193dda7dca08272c1301e376468be",
+      "sectionIndex": 6,
+      "question": "The Kashmir dispute is between:",
+      "options": [
+        "A) India and China",
+        "B) India and Pakistan",
+        "C) Pakistan and Afghanistan",
+        "D) India and Bangladesh"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a064d5a041fa0964484f0cbf3f84f1a0d38a1d67",
+      "sectionIndex": 6,
+      "question": "The Durand Line is the border between:",
+      "options": [
+        "A) India and Pakistan",
+        "B) Pakistan and Afghanistan",
+        "C) India and China",
+        "D) Iran and Pakistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af4368f91faa996d44c9e18c7cbfc67d079f52ad",
+      "sectionIndex": 6,
+      "question": "The One China Policy relates to:",
+      "options": [
+        "A) Hong Kong",
+        "B) Taiwan",
+        "C) Tibet",
+        "D) Macau"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3524f7ae098db5c4365e50a12ff1ddaf785e9b24",
+      "sectionIndex": 6,
+      "question": "The Arab-Israeli conflict began in:",
+      "options": [
+        "A) 1945",
+        "B) 1948",
+        "C) 1950",
+        "D) 1967"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ad0c7a2d4238a851264ae48af919c01d1fdd11a",
+      "sectionIndex": 6,
+      "question": "The Camp David Accords were between:",
+      "options": [
+        "A) Israel and Jordan",
+        "B) Israel and Egypt",
+        "C) Israel and Syria",
+        "D) Israel and Lebanon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18a79ec6da99b34da8de201b401eae3bafe49222",
+      "sectionIndex": 6,
+      "question": "Brexit refers to:",
+      "options": [
+        "A) Britain exiting NATO",
+        "B) Britain exiting the EU",
+        "C) Britain exiting the UN",
+        "D) Britain exiting the Commonwealth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "326af9773643d83803244d45cc7be0d663ced3f0",
+      "sectionIndex": 6,
+      "question": "The Indo-Pacific strategy primarily concerns:",
+      "options": [
+        "A) Russia",
+        "B) China",
+        "C) Japan",
+        "D) Australia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3d08087ccdc1525d075727c512763aec63322d6",
+      "sectionIndex": 6,
+      "question": "The Belt and Road Initiative is led by:",
+      "options": [
+        "A) USA",
+        "B) China",
+        "C) Russia",
+        "D) India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df17a8cdc534f4cacd72f74e7b673777263e53f3",
+      "sectionIndex": 6,
+      "question": "CPEC stands for:",
+      "options": [
+        "A) China-Pakistan Economic Conference",
+        "B) China-Pakistan Economic Corridor",
+        "C) Central Pakistan Economic Corridor",
+        "D) China-Pakistan Export Corridor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d989e344eec8d51c6d9468c1e24a0208491f795",
+      "sectionIndex": 7,
+      "question": "International law is primarily based on:",
+      "options": [
+        "A) Force",
+        "B) Consent of states",
+        "C) UN decisions only",
+        "D) Regional agreements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b8bbf6ff5959968c96c19bbc4558ff8085f73d3",
+      "sectionIndex": 7,
+      "question": "The International Court of Justice is located in:",
+      "options": [
+        "A) Geneva",
+        "B) The Hague",
+        "C) New York",
+        "D) Vienna"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c40700c48371c4031aa0622b4eef6ee254ee05c1",
+      "sectionIndex": 7,
+      "question": "Diplomatic immunity protects:",
+      "options": [
+        "A) All foreigners",
+        "B) Diplomats from prosecution",
+        "C) International organizations",
+        "D) Tourists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6703d199b54a203886d51c52cccbb7bf4a3b0ef3",
+      "sectionIndex": 7,
+      "question": "The Geneva Conventions deal with:",
+      "options": [
+        "A) Trade",
+        "B) Laws of war",
+        "C) Climate change",
+        "D) Space law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "666947d7f5abddd8b4aefc6f41b1653fba0017a0",
+      "sectionIndex": 7,
+      "question": "State sovereignty means:",
+      "options": [
+        "A) Unlimited power",
+        "B) Supreme authority within territory",
+        "C) International control",
+        "D) Economic independence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28c4dc604ec5b069554d9fafe20dd467cd0ef66b",
+      "sectionIndex": 7,
+      "question": "The principle of non-interference relates to:",
+      "options": [
+        "A) Trade policy",
+        "B) State sovereignty",
+        "C) Military alliances",
+        "D) Cultural exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b284a72d0a4109ca35782e7f1e4a0ec2a706dce4",
+      "sectionIndex": 7,
+      "question": "Extradition refers to:",
+      "options": [
+        "A) Granting citizenship",
+        "B) Transferring criminals between states",
+        "C) Diplomatic relations",
+        "D) Trade agreements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4389436b8fdaebc5e24fe62fa996d5e3c1b0b00",
+      "sectionIndex": 7,
+      "question": "The Vienna Convention primarily deals with:",
+      "options": [
+        "A) Human rights",
+        "B) Diplomatic relations",
+        "C) Trade",
+        "D) Environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b328846d3bdde2998c8efb86135944025050aed",
+      "sectionIndex": 7,
+      "question": "Asylum in international law means:",
+      "options": [
+        "A) Mental health facility",
+        "B) Protection for refugees",
+        "C) Embassy grounds",
+        "D) International waters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4c3f0a283a93c59ed80a342103562de66dd2c70",
+      "sectionIndex": 7,
+      "question": "The concept of jus cogens refers to:",
+      "options": [
+        "A) Optional laws",
+        "B) Fundamental principles of international law",
+        "C) Regional laws",
+        "D) Bilateral agreements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2a3e151d04dbb30b64b9e6b48f59ebb7548ea54",
+      "sectionIndex": 8,
+      "question": "Globalization primarily refers to:",
+      "options": [
+        "A) Americanization",
+        "B) Increased global interconnectedness",
+        "C) Environmental issues",
+        "D) Population growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35d007b8b132bb9f82af01b4114bb2c25e6c1a28",
+      "sectionIndex": 8,
+      "question": "The War on Terror began after:",
+      "options": [
+        "A) Gulf War",
+        "B) 9/11 attacks",
+        "C) Cold War",
+        "D) Vietnam War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "813ffc3fddc74111447c107bf41bfade57abc8b4",
+      "sectionIndex": 8,
+      "question": "Climate change negotiations often occur under:",
+      "options": [
+        "A) NATO",
+        "B) UNFCCC",
+        "C) WTO",
+        "D) IMF"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c2553d5aa00bed1aee792fe2158ae4763b6419d",
+      "sectionIndex": 8,
+      "question": "The Kyoto Protocol deals with:",
+      "options": [
+        "A) Nuclear weapons",
+        "B) Climate change",
+        "C) Trade barriers",
+        "D) Human rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e61172bfd5fd67991465d85309a7bcb586a55750",
+      "sectionIndex": 8,
+      "question": "Humanitarian intervention refers to:",
+      "options": [
+        "A) Food aid",
+        "B) Military action for human rights protection",
+        "C) Economic assistance",
+        "D) Cultural exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6dee6c1cd8ba3e457e4d97344c6960052b6fa24",
+      "sectionIndex": 8,
+      "question": "R2P stands for:",
+      "options": [
+        "A) Right to Privacy",
+        "B) Responsibility to Protect",
+        "C) Right to Peace",
+        "D) Responsibility to Prevent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad3ac376a6fd36c7689699d3c09d02f9eee9e7a1",
+      "sectionIndex": 8,
+      "question": "Economic sanctions are:",
+      "options": [
+        "A) Military actions",
+        "B) Economic penalties",
+        "C) Diplomatic meetings",
+        "D) Trade agreements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "590e75a1200f558593319e3d3c3e96d808a0daa9",
+      "sectionIndex": 8,
+      "question": "Soft power refers to:",
+      "options": [
+        "A) Military weakness",
+        "B) Influence through attraction",
+        "C) Economic aid",
+        "D) Nuclear weapons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c0a523de40dfb53f469047854c8a2a2a5c9b35f",
+      "sectionIndex": 8,
+      "question": "Hard power refers to:",
+      "options": [
+        "A) Diplomacy",
+        "B) Military and economic coercion",
+        "C) Cultural influence",
+        "D) International law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbf87fa23bac506ea03764ddd93e13f12ac0fb6b",
+      "sectionIndex": 8,
+      "question": "Public diplomacy involves:",
+      "options": [
+        "A) Secret negotiations",
+        "B) Engaging foreign publics",
+        "C) Military operations",
+        "D) Economic sanctions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1d22dbab01f2c867f402b8d114e66800394ac27",
+      "sectionIndex": 9,
+      "question": "The Bretton Woods system established:",
+      "options": [
+        "A) UN and NATO",
+        "B) IMF and World Bank",
+        "C) EU and ASEAN",
+        "D) WTO and UNCTAD"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "695b824ab35dbdf19655583fdbb6f489f48797ee",
+      "sectionIndex": 9,
+      "question": "The WTO replaced:",
+      "options": [
+        "A) IMF",
+        "B) GATT",
+        "C) World Bank",
+        "D) UNCTAD"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c2aac01d40805f61372b85ca99c92c39edf8bc1",
+      "sectionIndex": 9,
+      "question": "Free trade means:",
+      "options": [
+        "A) No cost trade",
+        "B) Trade without barriers",
+        "C) Charity trade",
+        "D) Illegal trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf9b65d6eedc8549faf59a4d461dfdedbf035e86",
+      "sectionIndex": 9,
+      "question": "Protectionism involves:",
+      "options": [
+        "A) Environmental protection",
+        "B) Trade barriers to protect domestic industry",
+        "C) Military protection",
+        "D) Diplomatic immunity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "921d38540f4a99c08f295d6732067e7b976eb344",
+      "sectionIndex": 9,
+      "question": "Foreign Direct Investment (FDI) means:",
+      "options": [
+        "A) Foreign aid",
+        "B) Investment in foreign countries",
+        "C) Currency exchange",
+        "D) International loans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68c58b8b0a95f40ce8d4699eb59f5dfe9a07e2c7",
+      "sectionIndex": 9,
+      "question": "The IMF primarily deals with:",
+      "options": [
+        "A) Trade disputes",
+        "B) Monetary cooperation and financial stability",
+        "C) Development projects",
+        "D) Military aid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a505781c403bbb0e78a9cd55156e3cc8ed8952f",
+      "sectionIndex": 9,
+      "question": "Trade deficit occurs when:",
+      "options": [
+        "A) Exports exceed imports",
+        "B) Imports exceed exports",
+        "C) Trade is balanced",
+        "D) No trade occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b569b83a56e526c2ed4e7c2b366510367ae0bc0b",
+      "sectionIndex": 9,
+      "question": "Economic imperialism refers to:",
+      "options": [
+        "A) Fair trade",
+        "B) Economic domination of weaker states",
+        "C) Economic cooperation",
+        "D) Free markets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "453979a927100dc06e9d7c738101b85bbd4b87ce",
+      "sectionIndex": 9,
+      "question": "Neoliberalism in economics promotes:",
+      "options": [
+        "A) State control",
+        "B) Free markets and minimal state intervention",
+        "C) Socialism",
+        "D) Protectionism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3478548cbe79185e647ed338a5ce70c81ed0153a",
+      "sectionIndex": 9,
+      "question": "The concept of economic interdependence suggests:",
+      "options": [
+        "A) Independence",
+        "B) Mutual economic reliance between states",
+        "C) Economic isolation",
+        "D) Self-sufficiency"
+      ],
+      "correct": "B"
+    }
+  ]
+}

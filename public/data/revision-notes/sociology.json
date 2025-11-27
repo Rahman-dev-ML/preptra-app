@@ -1,0 +1,732 @@
+{
+  "subject": "Sociology (CSS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Classical Theories",
+    "Contemporary & Interactionist Theories",
+    "Research Methods & Design",
+    "Sampling, Variables & Measurement",
+    "Culture & Socialization",
+    "Deviance, Crime & Social Control",
+    "Social Stratification & Mobility",
+    "Family, Gender & Education",
+    "Religion & Society",
+    "Demography & Population",
+    "Urbanization, Migration & Industrialization",
+    "Poverty & Inequality (Pakistan)",
+    "Pakistan-Specific Institutions & Politics",
+    "Health, Drugs & Juvenile Justice (Pakistan)",
+    "Exam Strategy & Official FPSC Resources"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Karl Marx: Class Conflict & Alienation",
+      "content": "Master Marx's materialist conception of history, class struggle, surplus value, and alienation; link to contemporary inequality and labor precarity.",
+      "keyTakeaways": [
+        "Conflict over control of means of production drives social change.",
+        "Alienation: from product, process, species-being, and others.",
+        "Use for critical analysis of capitalist stratification in Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Karl Marx",
+          "url": "https://plato.stanford.edu/entries/marx/",
+          "type": "reference",
+          "description": "Authoritative overview of Marx's thought"
+        },
+        {
+          "title": "Britannica — Karl Marx",
+          "url": "https://www.britannica.com/biography/Karl-Marx",
+          "type": "article",
+          "description": "Concise biography & key ideas"
+        },
+        {
+          "title": "Britannica — Alienation (Sociology)",
+          "url": "https://www.britannica.com/topic/alienation-society",
+          "type": "article",
+          "description": "Alienation concept beyond Marx"
+        },
+        {
+          "title": "Crash Course — Karl Marx & Conflict Theory (Video)",
+          "url": "https://thecrashcourse.com/courses/karl-marx-conflict-theory-crash-course-sociology-6/",
+          "type": "video",
+          "description": "Fast review for exam prep"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Theories",
+      "topics": ["Marx", "Class", "Alienation", "Conflict Theory"]
+    },
+    {
+      "id": "2",
+      "title": "Émile Durkheim: Solidarity, Anomie & Suicide",
+      "content": "Cover mechanical vs. organic solidarity, social facts, anomie, and typology of suicide; apply to rapid change, extremism, and regulation/integration debates.",
+      "keyTakeaways": [
+        "Social facts constrain individuals; cohesion via solidarity.",
+        "Anomie from normlessness during rapid change.",
+        "Use suicide typology conceptually (exam essays)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Émile Durkheim",
+          "url": "https://www.britannica.com/biography/Emile-Durkheim",
+          "type": "article",
+          "description": "Life & key theories"
+        },
+        {
+          "title": "Britannica — Anomie",
+          "url": "https://www.britannica.com/topic/anomie",
+          "type": "article",
+          "description": "Definition & significance"
+        },
+        {
+          "title": "Crash Course — Durkheim on Suicide (Video)",
+          "url": "https://thecrashcourse.com/topic/sociology/",
+          "type": "video",
+          "description": "Playlist includes Suicide & Society #5"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Theories",
+      "topics": ["Durkheim", "Solidarity", "Anomie", "Suicide"]
+    },
+    {
+      "id": "3",
+      "title": "Max Weber: Bureaucracy, Authority & Verstehen",
+      "content": "Differentiate traditional, charismatic, and legal-rational authority; bureaucracy's features and iron cage; interpretive understanding (Verstehen).",
+      "keyTakeaways": [
+        "Bureaucracy = efficiency + rational-legal authority, but risks rigidity.",
+        "Power/legitimacy distinct; link to state and economy.",
+        "Use for public administration, education, and Pakistani civil service contexts."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Max Weber",
+          "url": "https://plato.stanford.edu/entries/weber/",
+          "type": "reference",
+          "description": "Core concepts and debates"
+        },
+        {
+          "title": "Britannica — Bureaucracy",
+          "url": "https://www.britannica.com/topic/bureaucracy",
+          "type": "article",
+          "description": "Definition & critique"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Theories",
+      "topics": ["Weber", "Bureaucracy", "Authority", "Verstehen"]
+    },
+    {
+      "id": "4",
+      "title": "Ibn Khaldun: 'Asabiyyah, Rise–Decline Cycles",
+      "content": "Ground Islamic sociological heritage via Muqaddimah: group solidarity ('asabiyyah), state formation, and cyclical theory of dynasties.",
+      "keyTakeaways": [
+        "'Asabiyyah underpins state formation and decay.",
+        "Comparative links to Durkheim's solidarity & elite circulation.",
+        "Useful for Pakistan's kinship, biradari, tribal politics essays."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ibn Khaldun",
+          "url": "https://www.britannica.com/biography/Ibn-Khaldun",
+          "type": "article",
+          "description": "Biography & ideas"
+        },
+        {
+          "title": "Internet Archive — Muqaddimah (Arabic edition)",
+          "url": "https://archive.org/details/muqaddimah-ibn-khaldun-beirut-edition-arabic",
+          "type": "primary",
+          "description": "Classical text"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Theories",
+      "topics": ["Ibn Khaldun", "Asabiyyah", "State", "Cycles"]
+    },
+    {
+      "id": "5",
+      "title": "Auguste Comte & Positivism",
+      "content": "Understand the Law of Three Stages and positivist method; contrast with interpretivist approaches.",
+      "keyTakeaways": [
+        "Theological → Metaphysical → Positive stages.",
+        "Positivism prioritizes observation & prediction.",
+        "Exam often asks Comte vs. later sociologists."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Auguste Comte",
+          "url": "https://www.britannica.com/biography/Auguste-Comte",
+          "type": "article",
+          "description": "Background & law of stages"
+        },
+        {
+          "title": "Britannica — Positivism",
+          "url": "https://www.britannica.com/topic/positivism",
+          "type": "article",
+          "description": "Concept & critiques"
+        }
+      ],
+      "importance": "medium",
+      "category": "Classical Theories",
+      "topics": ["Comte", "Positivism", "Three Stages"]
+    },
+    {
+      "id": "6",
+      "title": "Symbolic Interactionism: Mead, Goffman & Cooley",
+      "content": "Micro-level focus on meanings, self, and interaction; Mead's 'I'/'Me', role-taking; Goffman's dramaturgy; Cooley's looking-glass self.",
+      "keyTakeaways": [
+        "Society constructed through shared symbols & roles.",
+        "Great for analyzing identity, stigma, media, and everyday life.",
+        "Use examples from Pakistani urban youth/social media."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — George Herbert Mead",
+          "url": "https://plato.stanford.edu/entries/mead/",
+          "type": "reference",
+          "description": "Foundations of interactionism"
+        },
+        {
+          "title": "Britannica — George Herbert Mead",
+          "url": "https://www.britannica.com/biography/George-Herbert-Mead",
+          "type": "article",
+          "description": "Self & society"
+        },
+        {
+          "title": "Britannica — Erving Goffman",
+          "url": "https://www.britannica.com/biography/Erving-Goffman",
+          "type": "article",
+          "description": "Dramaturgy & stigma"
+        }
+      ],
+      "importance": "high",
+      "category": "Contemporary & Interactionist Theories",
+      "topics": ["Symbolic Interactionism", "Mead", "Goffman", "Cooley"]
+    },
+    {
+      "id": "7",
+      "title": "Functionalism vs. Conflict vs. Interactionism (Compare & Apply)",
+      "content": "Triangulate macro vs. micro perspectives; apply to education, family, religion, media, and Pakistani social issues in essays.",
+      "keyTakeaways": [
+        "Functionalism: order & equilibrium; Conflict: power & inequality; Interactionism: meanings & identity.",
+        "Use comparative table in exam answers.",
+        "Blend with local data (PSLM, PDHS)."
+      ],
+      "resources": [
+        {
+          "title": "Crash Course Sociology — Playlist",
+          "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtMJ-AfB_7J1538YKWkZAnGA",
+          "type": "video",
+          "description": "Short videos on core theories"
+        },
+        {
+          "title": "Saylor Text — Research Design & Methods (context)",
+          "url": "https://saylordotorg.github.io/text_sociology-understanding-and-changing-the-social-world-comprehensive-edition/s05-03-research-design-in-sociology.html",
+          "type": "textbook",
+          "description": "Free text, theory applications"
+        }
+      ],
+      "importance": "high",
+      "category": "Contemporary & Interactionist Theories",
+      "topics": ["Functionalism", "Conflict", "Interactionism"]
+    },
+    {
+      "id": "8",
+      "title": "Research Designs: Qualitative, Quantitative & Mixed Methods",
+      "content": "Know when to use surveys, experiments, ethnography, and mixed designs; discuss validity, reliability, ethics, and ontology/epistemology.",
+      "keyTakeaways": [
+        "Design matches question; justify trade-offs.",
+        "Discuss internal/external validity & reflexivity.",
+        "Ethics & consent crucial for Pakistan fieldwork."
+      ],
+      "resources": [
+        {
+          "title": "Social Research Methods — Trochim",
+          "url": "https://conjointly.com/kb/",
+          "type": "reference",
+          "description": "Classic, accessible methods guide"
+        },
+        {
+          "title": "Viva Pressbooks — Survey strengths/weaknesses",
+          "url": "https://viva.pressbooks.pub/sociology-research-methods/chapter/13-1-the-strengths-and-weaknesses-of-survey-research/",
+          "type": "textbook",
+          "description": "Free OER chapter"
+        },
+        {
+          "title": "PMC — Quick Guide to Survey Research",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3964639/",
+          "type": "article",
+          "description": "Peer-reviewed overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Research Methods & Design",
+      "topics": ["Surveys", "Experiments", "Ethnography", "Validity"]
+    },
+    {
+      "id": "9",
+      "title": "Sampling Techniques",
+      "content": "Differentiate probability vs. non-probability sampling; know SRS, stratified, cluster, systematic, snowball; justify in exam scenarios.",
+      "keyTakeaways": [
+        "Sampling drives generalizability & bias.",
+        "Stratified sampling frequently examined.",
+        "Explain sample size logic & trade-offs."
+      ],
+      "resources": [
+        {
+          "title": "UCA — Sampling Techniques (PDF)",
+          "url": "https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf",
+          "type": "pdf",
+          "description": "Clear primer"
+        },
+        {
+          "title": "SSRN — Sampling Methods (Taherdoost)",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3205035",
+          "type": "preprint",
+          "description": "Widely cited overview"
+        },
+        {
+          "title": "PMC — Sampling in Clinical Research",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5325924/",
+          "type": "article",
+          "description": "Good concepts refresher"
+        }
+      ],
+      "importance": "high",
+      "category": "Sampling, Variables & Measurement",
+      "topics": ["Probability Sampling", "Stratified", "Snowball"]
+    },
+    {
+      "id": "10",
+      "title": "Variables & Levels of Measurement",
+      "content": "Master nominal, ordinal, interval/ratio; operationalization; hypothesis formation; measurement error.",
+      "keyTakeaways": [
+        "Correct level → correct statistics.",
+        "Define IVs/DVs; avoid common mistakes.",
+        "Cite examples from Pakistan datasets."
+      ],
+      "resources": [
+        {
+          "title": "Buffalo State — Levels of Measurement",
+          "url": "https://library.buffalostate.edu/measurements/overview",
+          "type": "guide",
+          "description": "Concise explainer"
+        },
+        {
+          "title": "UTHealth — Variables & Measures",
+          "url": "https://www.uth.tmc.edu/uth_orgs/educ_dev/oser/L1_2.HTM",
+          "type": "guide",
+          "description": "Quick reference with examples"
+        },
+        {
+          "title": "Univ. of Utah — Basics (nominal/ordinal/ratio)",
+          "url": "https://soc.utah.edu/sociology3112/basics.php",
+          "type": "course",
+          "description": "Course notes & practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Sampling, Variables & Measurement",
+      "topics": ["Levels of Measurement", "Operationalization", "Hypothesis"]
+    },
+    {
+      "id": "11",
+      "title": "Survey vs. Experimental vs. Observational Methods",
+      "content": "Compare strengths/limits; causality vs. external validity; ethics; when Pakistan field constraints favor surveys or secondary data.",
+      "keyTakeaways": [
+        "Experiments → causality; surveys → breadth.",
+        "Observational/secondary data → feasibility.",
+        "Always discuss biases & controls."
+      ],
+      "resources": [
+        {
+          "title": "Saylor — Research Design in Sociology",
+          "url": "https://saylordotorg.github.io/text_sociology-understanding-and-changing-the-social-world-comprehensive-edition/s05-03-research-design-in-sociology.html",
+          "type": "textbook",
+          "description": "Comparative table"
+        },
+        {
+          "title": "Pressbooks — Doing Research on Social Problems",
+          "url": "https://pressbooks.howardcc.edu/soci102/chapter/1-4-doing-research-on-social-problems/",
+          "type": "textbook",
+          "description": "Applied orientation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Research Methods & Design",
+      "topics": ["Surveys", "Experiments", "Observation"]
+    },
+    {
+      "id": "12",
+      "title": "Culture, Norms & Socialization",
+      "content": "Define culture, values, norms; agents of socialization; cultural change and lag.",
+      "keyTakeaways": [
+        "Culture shapes identity, roles, and expectations.",
+        "Cultural lag: material vs. non-material change rates.",
+        "Link to education, media, and migration."
+      ],
+      "resources": [
+        {
+          "title": "OpenEd CUNY — Culture (Intro to Sociology 2e)",
+          "url": "https://opened.cuny.edu/courseware/lesson/123/overview",
+          "type": "textbook",
+          "description": "Free OER chapter"
+        }
+      ],
+      "importance": "high",
+      "category": "Culture & Socialization",
+      "topics": ["Culture", "Socialization", "Cultural Lag"]
+    },
+    {
+      "id": "13",
+      "title": "Ethnocentrism, Xenocentrism & Cultural Relativism",
+      "content": "Define and illustrate ethnocentrism vs. xenocentrism; argue for cultural relativism in analysis with care.",
+      "keyTakeaways": [
+        "Ethnocentrism biases research & policy.",
+        "Xenocentrism = preference for foreign cultural elements.",
+        "Relativism aids fair comparative analysis."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ethnocentrism",
+          "url": "https://www.britannica.com/topic/ethnocentrism",
+          "type": "article",
+          "description": "Reliable definition"
+        },
+        {
+          "title": "ECPS — Xenocentrism (Glossary)",
+          "url": "https://www.populismstudies.org/Vocabulary/xenocentrism/",
+          "type": "glossary",
+          "description": "Term overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Culture & Socialization",
+      "topics": ["Ethnocentrism", "Xenocentrism", "Relativism"]
+    },
+    {
+      "id": "14",
+      "title": "Deviance & Social Control: Strain, Labeling, Control Theories",
+      "content": "Use Merton's strain, Becker's labeling, Hirschi's control; discuss formal/informal social control and Pakistan examples.",
+      "keyTakeaways": [
+        "Deviance is socially constructed and patterned.",
+        "Labeling can amplify deviance via stigma.",
+        "Policy analysis: deterrence vs. rehabilitation."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Labeling Theory",
+          "url": "https://www.britannica.com/topic/labeling-theory",
+          "type": "article",
+          "description": "Core idea & implications"
+        },
+        {
+          "title": "Britannica — Sociology of Social Control",
+          "url": "https://www.britannica.com/topic/social-control",
+          "type": "article",
+          "description": "Mechanisms & institutions"
+        }
+      ],
+      "importance": "high",
+      "category": "Deviance, Crime & Social Control",
+      "topics": ["Labeling", "Strain", "Control Theory"]
+    },
+    {
+      "id": "15",
+      "title": "Social Stratification & Mobility (with Pakistan Examples)",
+      "content": "Discuss class, status, party; caste/biradari influences; mobility barriers.",
+      "keyTakeaways": [
+        "Multidimensional inequality (class, education, gender).",
+        "Biradari & patronage affect political participation.",
+        "Use rural/urban, province-wise illustrations."
+      ],
+      "resources": [
+        {
+          "title": "PU Journal — Impact of Caste & Biradari on Voting (PDF)",
+          "url": "https://pu.edu.pk/images/journal/studies/PDF-FILES/14_v20_2_19.pdf",
+          "type": "paper",
+          "description": "Southern Punjab case study"
+        },
+        {
+          "title": "White Rose Theses — Social Stratification in a Punjabi Village",
+          "url": "https://etheses.whiterose.ac.uk/id/eprint/21130/1/582096.pdf",
+          "type": "thesis",
+          "description": "In-depth village study"
+        }
+      ],
+      "importance": "high",
+      "category": "Social Stratification & Mobility",
+      "topics": ["Class", "Status", "Biradari", "Mobility"]
+    },
+    {
+      "id": "16",
+      "title": "Family & Gender in Pakistan",
+      "content": "Patriarchal structures, changing family forms, gendered labor, and GBV trends.",
+      "keyTakeaways": [
+        "Modernization reshapes family roles but kinship remains strong.",
+        "GBV persists; policy & social movements matter.",
+        "Use national surveys for evidence."
+      ],
+      "resources": [
+        {
+          "title": "PDHS 2017–18 — Key Indicators",
+          "url": "https://dhsprogram.com/pubs/pdf/FR354/FR354.pdf",
+          "type": "report",
+          "description": "National demographic & health data"
+        },
+        {
+          "title": "UN Women Pakistan — Country Resources",
+          "url": "https://asiapacific.unwomen.org/en/countries/pakistan",
+          "type": "portal",
+          "description": "Gender equality updates"
+        }
+      ],
+      "importance": "high",
+      "category": "Family, Gender & Education",
+      "topics": ["Family", "Gender", "GBV", "Roles"]
+    },
+    {
+      "id": "17",
+      "title": "Education & Social Change (Functionalist vs. Conflict in Pakistan)",
+      "content": "Credentialing, hidden curriculum, meritocracy debates; inequality of access and outcomes.",
+      "keyTakeaways": [
+        "Functionalist: integration & skills; Conflict: reproduction of inequality.",
+        "Policy failures and regional disparities.",
+        "Cite OOSC figures and reforms."
+      ],
+      "resources": [
+        {
+          "title": "UNICEF Pakistan — Education",
+          "url": "https://www.unicef.org/pakistan/education",
+          "type": "brief",
+          "description": "Out-of-school children & policy"
+        }
+      ],
+      "importance": "high",
+      "category": "Family, Gender & Education",
+      "topics": ["Education", "Inequality", "Policy"]
+    },
+    {
+      "id": "18",
+      "title": "Religion & Society (Durkheim's Functional View)",
+      "content": "Religion as social cohesion and meaning; discuss pluralism, sectarianism, and civic implications in Pakistan.",
+      "keyTakeaways": [
+        "Rituals reinforce collective conscience.",
+        "Religion can integrate or divide.",
+        "Use measured tone in essays; cite theory first."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Émile Durkheim",
+          "url": "https://www.britannica.com/biography/Emile-Durkheim",
+          "type": "article",
+          "description": "Functional analysis background"
+        }
+      ],
+      "importance": "medium",
+      "category": "Religion & Society",
+      "topics": ["Religion", "Cohesion", "Ritual"]
+    },
+    {
+      "id": "19",
+      "title": "Demography: Fertility, Mortality, Migration (Pakistan Data)",
+      "content": "Use national surveys for fertility/mortality; internal & international migration impacts; DTM stages.",
+      "keyTakeaways": [
+        "Demographic trends shape education, health, labor markets.",
+        "Migration redistributes skills and remittances.",
+        "Always include recent official stats."
+      ],
+      "resources": [
+        {
+          "title": "PBS — Population Census 2023 (Highlights)",
+          "url": "https://www.pbs.gov.pk/",
+          "type": "portal",
+          "description": "Official stats; see Census & PSLM sections"
+        },
+        {
+          "title": "PBS — PSLM 2022–23 Press Release",
+          "url": "https://www.pbs.gov.pk/press-releases/pslm-2022-23",
+          "type": "press",
+          "description": "Household social indicators"
+        },
+        {
+          "title": "Population Education — Demographic Transition Model",
+          "url": "https://populationeducation.org/what-demographic-transition-model/",
+          "type": "explainer",
+          "description": "DTM recap"
+        }
+      ],
+      "importance": "high",
+      "category": "Demography & Population",
+      "topics": ["Fertility", "Mortality", "Migration", "DTM"]
+    },
+    {
+      "id": "20",
+      "title": "Urbanization, Slums & Megacity Challenges (Pakistan)",
+      "content": "Analyze drivers of urban growth, informal settlements, service deficits, and policy responses.",
+      "keyTakeaways": [
+        "Urban population share rising; infrastructure lags.",
+        "Informality and sprawl challenge governance.",
+        "Use city-specific examples (Karachi, Lahore, Islamabad)."
+      ],
+      "resources": [
+        {
+          "title": "World Bank — Urban Population (Pakistan)",
+          "url": "https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PK",
+          "type": "data",
+          "description": "Urban population trend"
+        },
+        {
+          "title": "PIDE Blog — Slums & Urban Sprawl (Islamabad)",
+          "url": "https://pide.org.pk/blog/islamabad-the-capitals-king-sized-slums/",
+          "type": "article",
+          "description": "Local case perspective"
+        }
+      ],
+      "importance": "high",
+      "category": "Urbanization, Migration & Industrialization",
+      "topics": ["Urbanization", "Slums", "Governance"]
+    },
+    {
+      "id": "21",
+      "title": "Poverty & Inequality Trends (Current Affairs Angle)",
+      "content": "Track poverty headcount swings, inflation shocks, and social protection debates; link to class and policy frameworks.",
+      "keyTakeaways": [
+        "Recent macro shocks reversed poverty gains.",
+        "Use credible data & cautious interpretation.",
+        "Connect to Marx/Weber analyses in essays."
+      ],
+      "resources": [
+        {
+          "title": "Reuters — Pakistan Poverty Reversal (2025)",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-poverty-reversal-2025-06-28/",
+          "type": "news",
+          "description": "Current affairs context"
+        },
+        {
+          "title": "World Bank Data — Pakistan Poverty",
+          "url": "https://data.worldbank.org/country/pakistan",
+          "type": "data",
+          "description": "Macro indicators & poverty series"
+        }
+      ],
+      "importance": "high",
+      "category": "Poverty & Inequality (Pakistan)",
+      "topics": ["Poverty", "Inequality", "Inflation"]
+    },
+    {
+      "id": "22",
+      "title": "Pakistan Institutions: Feudalism, Biradari & Patronage",
+      "content": "Critically assess land, kinship, and patronage structures and their political effects.",
+      "keyTakeaways": [
+        "Feudal legacies intersect with modern politics.",
+        "Biradari shapes mobilization and voting.",
+        "Support with district/province case studies."
+      ],
+      "resources": [
+        {
+          "title": "PIDE/ PDR — Poverty, Feudalism & Land Reform",
+          "url": "https://pide.org.pk/research/poverty-feudalism-and-land-reform-the-continued-relevance-of-iqbal/",
+          "type": "paper",
+          "description": "Historical-policy lens"
+        },
+        {
+          "title": "PU — Feudalism in Pakistan: Myth or Reality (PDF)",
+          "url": "https://pu.edu.pk/images/journal/history/PDF-FILES/15_54_1_17.pdf",
+          "type": "paper",
+          "description": "Analytical view"
+        },
+        {
+          "title": "PU — Caste & Biradari Voting (PDF)",
+          "url": "https://pu.edu.pk/images/journal/studies/PDF-FILES/14_v20_2_19.pdf",
+          "type": "paper",
+          "description": "Electoral behavior case"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan-Specific Institutions & Politics",
+      "topics": ["Feudalism", "Biradari", "Patronage", "Voting"]
+    },
+    {
+      "id": "23",
+      "title": "Health, Drugs & Juvenile Justice (Pakistan Evidence)",
+      "content": "Use credible reports on substance use, youth, prisons, and juvenile justice for applied questions.",
+      "keyTakeaways": [
+        "UNODC provides trend baselines; new national survey 2022–24 launched.",
+        "Juvenile justice implementation gaps persist.",
+        "Link family/community reintegration to control theory."
+      ],
+      "resources": [
+        {
+          "title": "UNODC — National Drug Use Survey 2022–24 (Launch Note)",
+          "url": "https://www.unodc.org/copak/en/PR/national-drug-use-survey-pakistan-2022-24--launched.html",
+          "type": "news",
+          "description": "Latest survey initiative"
+        },
+        {
+          "title": "UNODC — World Drug Report 2025 (Key Findings PDF)",
+          "url": "https://www.unodc.org/documents/data-and-analysis/WDR_2025/WDR25_B1_Key_findings.pdf",
+          "type": "report",
+          "description": "Global trends"
+        },
+        {
+          "title": "NCHR Pakistan — Annual Report 2024 (PDF)",
+          "url": "https://nchr.gov.pk/wp-content/uploads/2025/04/Annual-Report-2024.pdf",
+          "type": "report",
+          "description": "Rights & justice overview incl. juveniles"
+        },
+        {
+          "title": "KP Journal — Juvenile Justice (Punjab) 2021 (PDF)",
+          "url": "https://nipapeshawar.gov.pk/KJPPM/PDF/P25.pdf",
+          "type": "paper",
+          "description": "Provincial data snapshot"
+        }
+      ],
+      "importance": "medium",
+      "category": "Health, Drugs & Juvenile Justice (Pakistan)",
+      "topics": ["Drugs", "Juvenile Justice", "Reintegration"]
+    },
+    {
+      "id": "24",
+      "title": "Exam Strategy: Official FPSC Syllabus, Books & Past Papers",
+      "content": "Anchor prep to official outlines; map your notes to FPSC taxonomy; practice with recent papers.",
+      "keyTakeaways": [
+        "Always align with latest FPSC syllabus PDF.",
+        "Skim recommended books list; combine with OERs.",
+        "Practice time-bound answers using past papers."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Syllabi for CSS Competitive Examination (Sociology included)",
+          "url": "https://fpsc.gov.pk/css/scheme-and-syllabi",
+          "type": "official",
+          "description": "Scheme & Syllabi page"
+        },
+        {
+          "title": "FPSC — CSS Comp. Examination Syllabus (PDF Booklet)",
+          "url": "https://fpsc.gov.pk/Pages/Docs/CSS/CSS_Comp_Examination_Syllabus_Combined_Books_Updated-28-12-2021.pdf",
+          "type": "official",
+          "description": "Combined syllabus & recommended texts"
+        },
+        {
+          "title": "FPSC — CSS Descriptive Paper 2024 (Sociology)",
+          "url": "https://fpsc.gov.pk/Pages/Details/2024/24.css.desc/paper.PDF",
+          "type": "official",
+          "description": "Recent paper sample"
+        },
+        {
+          "title": "FPSC — CSS Descriptive Paper 2021 (Sociology) PDF",
+          "url": "https://fpsc.gov.pk/sites/default/files/CSS-2021-Sociology.pdf",
+          "type": "official",
+          "description": "Past paper PDF"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Official FPSC Resources",
+      "topics": ["Syllabus", "Past Papers", "Recommended Books"]
+    }
+  ]
+}

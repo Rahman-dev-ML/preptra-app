@@ -1,0 +1,449 @@
+{
+  "subject": "Persian (Farsi) — CSS",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 14,
+  "categories": [
+    "Literary Criticism & Authors",
+    "Genres & Evolution (Sabk-e Khorasani/Iraqi/Hindi & Modernism)",
+    "Textual Sources & Anthologies",
+    "Translation (EN↔FA)",
+    "Language History (Old/Middle/New Persian)",
+    "Grammar & Composition",
+    "Classics & Epics",
+    "Mysticism & Philosophical Poetry",
+    "Modern Persian Poetry & Free Verse",
+    "Iqbal–Rumi Nexus",
+    "Indo-Persian (South Asia) Context",
+    "MCQs & Quick Facts",
+    "Digital Libraries & Tools",
+    "Syllabus & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Sabk (Style) Overview: Khorasani, Iraqi, Hindi",
+      "content": "Understand the historical shifts in Persian poetics from the early epic/straightforward diction (Khorasani) to refined mystical/lyrical expression (Iraqi) and later intricate imagery and intellectual conceit (Hindi). Link these to dynastic/courtly shifts and Indo-Persian patronage.",
+      "keyTakeaways": [
+        "Khorasani: clarity, epic tone; early courts (Ghaznavids, Seljuqs).",
+        "Iraqi: Sufi lyricism; Saʿdi, Hafez peak ghazal polish.",
+        "Hindi (sabk-e hindī): complex metaphors, intellectualism; Mughal India."
+      ],
+      "resources": [
+        {
+          "title": "Encyclopaedia Iranica — Classical Persian Literature",
+          "url": "https://www.iranicaonline.org/articles/iran-viii2-classical-persian-literature/",
+          "type": "article",
+          "description": "Authoritative overview incl. sabk-e hindī"
+        },
+        {
+          "title": "Encyclopaedia Iranica — Sabkshenasi (Bahār)",
+          "url": "https://www.iranicaonline.org/articles/sabk-shenasi/",
+          "type": "article",
+          "description": "Bahār's seminal stylistics work"
+        },
+        {
+          "title": "Browne — A Literary History of Persia (Vols.)",
+          "url": "https://archive.org/details/literaryhistoryo01browiala",
+          "type": "book",
+          "description": "Classic multi-volume history"
+        }
+      ],
+      "importance": "high",
+      "category": "Genres & Evolution (Sabk-e Khorasani/Iraqi/Hindi & Modernism)",
+      "topics": ["Sabk", "Khorasani", "Iraqi", "Hindi", "Stylistics"]
+    },
+    {
+      "id": "2",
+      "title": "Ferdowsi & the Shahnameh",
+      "content": "Epic foundation text; national mytho-history; language revival. Know composition date, scope (~50–60k distichs), sources (Khwadāy-Nāmag), and its influence on later romance epics.",
+      "keyTakeaways": [
+        "Completed ~1010 CE; cornerstone of New Persian.",
+        "Themes: heroism, kingship, moral order (farr).",
+        "Influence on Nezami's romantic masnavis and visual arts."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ferdowsi",
+          "url": "https://www.britannica.com/biography/Ferdowsi",
+          "type": "article",
+          "description": "Biographical anchor"
+        },
+        {
+          "title": "Britannica — Shahnameh",
+          "url": "https://www.britannica.com/topic/Shah-nameh",
+          "type": "article",
+          "description": "Work overview"
+        },
+        {
+          "title": "Wikipedia — Shahnameh",
+          "url": "https://en.wikipedia.org/wiki/Shahnameh",
+          "type": "article",
+          "description": "Detailed structure & data points"
+        }
+      ],
+      "importance": "high",
+      "category": "Classics & Epics",
+      "topics": ["Ferdowsi", "Shahnameh", "Epic", "Khwadāy-Nāmag"]
+    },
+    {
+      "id": "3",
+      "title": "Nezami's Khamsa (Five Treasures)",
+      "content": "Master of narrative mathnavi; five long poems blending ethics, romance, and politics. Frequently compared/imitated by later poets (e.g., Amir Khusrau).",
+      "keyTakeaways": [
+        "Core works: Makhzan-al-Asrār, Khosrow o Shirin, Leyli o Majnun, Haft Peykar, Eskandar-Nāmeh.",
+        "Blueprint for Persian romance & courtly ethos.",
+        "Iconic for manuscript illustration traditions."
+      ],
+      "resources": [
+        {
+          "title": "World History Encyclopedia — Khamsa of Nizami",
+          "url": "https://www.worldhistory.org/Khamsa_of_Nizami/",
+          "type": "article",
+          "description": "Readable overview"
+        },
+        {
+          "title": "Wikipedia — Khamsa of Nizami",
+          "url": "https://en.wikipedia.org/wiki/Khamsa_of_Nizami",
+          "type": "article",
+          "description": "Dates & components"
+        }
+      ],
+      "importance": "high",
+      "category": "Classics & Epics",
+      "topics": ["Nezami", "Khamsa", "Mathnavi", "Romance"]
+    },
+    {
+      "id": "4",
+      "title": "Jami's Haft Awrang (Seven Thrones)",
+      "content": "Late-classical synthesis across didactic and romantic masnavis; core texts like Yūsuf o Zulaykhā are standard exam references.",
+      "keyTakeaways": [
+        "Seven masnavis combining ethics, mysticism, romance.",
+        "Extensively illustrated under Safavids/Timurids.",
+        "Bridges classical canon to early modern tastes."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — Haft Awrang",
+          "url": "https://en.wikipedia.org/wiki/Haft_Awrang",
+          "type": "article",
+          "description": "Structure & summaries"
+        },
+        {
+          "title": "Smithsonian (Freer/Sackler) — Haft Awrang folio",
+          "url": "https://asia-archive.si.edu/object/F1946.12.105",
+          "type": "museum",
+          "description": "Art-historical context"
+        }
+      ],
+      "importance": "medium",
+      "category": "Classics & Epics",
+      "topics": ["Jami", "Haft Awrang", "Masnavi"]
+    },
+    {
+      "id": "5",
+      "title": "Saʿdi's Golestan (Structure & Themes)",
+      "content": "Eight-chapter prose-poetry classic; ethics, statecraft, education, social mores. Frequent translation/summary tasks appear in papers.",
+      "keyTakeaways": [
+        "Golestan has 8 chapters after the introduction.",
+        "Style: moral anecdotes + embedded verse.",
+        "Pairs with Būstān for didactic corpus."
+      ],
+      "resources": [
+        {
+          "title": "Encyclopaedia Iranica — Golestan-e Saʿdi",
+          "url": "https://www.iranicaonline.org/articles/golestan-e-sadi/",
+          "type": "article",
+          "description": "Critical editions & chaptering"
+        },
+        {
+          "title": "Wikipedia — Gulistan",
+          "url": "https://en.wikipedia.org/wiki/Gulistan_%28book%29",
+          "type": "article",
+          "description": "Chapter list & overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Mysticism & Philosophical Poetry",
+      "topics": ["Saadi", "Golestan", "Ethics", "Prose-Poetry"]
+    },
+    {
+      "id": "6",
+      "title": "Rumi's Divan-e Shams & the Ghazal Zenith",
+      "content": "High Sufi lyricism; trance-like ecstatic diction; key for theme & imagery questions. Know difference between Masnavi-ye Maʿnavi and Divan-e Shams.",
+      "keyTakeaways": [
+        "Divan contains thousands of ghazals; dedicated to Shams.",
+        "Exam angles: love, divine longing, paradox, intoxication.",
+        "Influence on Iqbal & later Persianate traditions."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — Divan-e Shams-e Tabrizi",
+          "url": "https://en.wikipedia.org/wiki/Divan-i_Shams-i_Tabrizi",
+          "type": "article",
+          "description": "Scope & themes"
+        },
+        {
+          "title": "Book — Selected Poems, Divan-e Shams (English tr.)",
+          "url": "https://www.amazon.com/Selected-Poems-Divan-Shams-Tabrizi/dp/0936347619",
+          "type": "book",
+          "description": "Study translation (English)"
+        }
+      ],
+      "importance": "high",
+      "category": "Mysticism & Philosophical Poetry",
+      "topics": ["Rumi", "Divan-e Shams", "Ghazal", "Sufism"]
+    },
+    {
+      "id": "7",
+      "title": "Nima Yushij & She'r-e Nima'i (Modern Free-Verse)",
+      "content": "Pivot to modern Persian poetry; flexible meter, colloquial diction, new imagery. Foundational for Sepehri, Forugh, Akhavan-Sales, Shamlu.",
+      "keyTakeaways": [
+        "Manifesto poem: \"Afsāneh\".",
+        "Break from classical metrics; narrative/visual modernity.",
+        "Anchor for questions on modernist poetics."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — She'r-e Nima'i",
+          "url": "https://en.wikipedia.org/wiki/She%27r-e_Nimaa%27i",
+          "type": "article",
+          "description": "School & impact"
+        },
+        {
+          "title": "Tehran Times — Yushij 'Father of modern Persian poetry'",
+          "url": "https://www.tehrantimes.com/news/304733/Yushij-Father-of-modern-Persian-poetry",
+          "type": "news",
+          "description": "Contextual article"
+        },
+        {
+          "title": "TapPersia — Nima Yooshij profile",
+          "url": "https://www.tappersia.com/blog/nima-yooshij/",
+          "type": "article",
+          "description": "Lay summary & examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Modern Persian Poetry & Free Verse",
+      "topics": ["Nima Yushij", "Afsaneh", "Modernism", "Free verse"]
+    },
+    {
+      "id": "8",
+      "title": "Indo-Persian Literature in South Asia",
+      "content": "Massive Persian output in the subcontinent (Delhi, Deccan, Mughal courts); sabk-e hindī; translations & histories; links to Urdu literary evolution.",
+      "keyTakeaways": [
+        "Indo-Persian corpus exceeds Iran's output in some periods.",
+        "Patronage systems shaped style & themes.",
+        "Essential for Pakistan-context questions."
+      ],
+      "resources": [
+        {
+          "title": "Encyclopaedia Iranica — Persian Literature in India",
+          "url": "https://www.iranicaonline.org/articles/india-xiv-persian-literature-in-india/",
+          "type": "article",
+          "description": "Scope & genres"
+        }
+      ],
+      "importance": "medium",
+      "category": "Indo-Persian (South Asia) Context",
+      "topics": ["Mughal", "Sabk-e Hindi", "Indo-Persian", "Urdu interface"]
+    },
+    {
+      "id": "9",
+      "title": "Language Stages & Scripts: Old, Middle, New Persian",
+      "content": "Map epigraphic/linguistic stages (Achaemenid Old Persian → Sasanian Middle Persian/Pahlavi → New Persian); scripts and key corpora.",
+      "keyTakeaways": [
+        "Only Persian attested in all three chronological stages.",
+        "Pahlavi literature preserves Sasanian-era material.",
+        "Exam tasks often ask brief definitional contrasts."
+      ],
+      "resources": [
+        {
+          "title": "Encyclopaedia Iranica — Iranian Languages & Scripts",
+          "url": "https://www.iranicaonline.org/articles/iran-vi-iranian-languages-and-scripts/",
+          "type": "article",
+          "description": "Stage overview"
+        },
+        {
+          "title": "Iranica — Pahlavi/Middle Persian Literature",
+          "url": "https://www.iranicaonline.org/articles/middle-persian-literature-1-pahlavi/",
+          "type": "article",
+          "description": "Literature corpus"
+        },
+        {
+          "title": "Iranica — Epigraphy (Old & Middle Iranian)",
+          "url": "https://www.iranicaonline.org/articles/epigraphy-i/",
+          "type": "article",
+          "description": "Inscriptions survey"
+        }
+      ],
+      "importance": "high",
+      "category": "Language History (Old/Middle/New Persian)",
+      "topics": ["Old Persian", "Pahlavi", "New Persian", "Scripts"]
+    },
+    {
+      "id": "10",
+      "title": "Grammar Essentials for Composition & Translation",
+      "content": "Target exam-relevant points: ezāfe, direct object marker (rā), demonstratives vs. adjectives, verb transitivity, common compound verbs.",
+      "keyTakeaways": [
+        "Master ezāfe chains in prose translation.",
+        "Track rā for definitive/direct objects.",
+        "Practice verb paradigms for past/past-perfect."
+      ],
+      "resources": [
+        {
+          "title": "UT Austin — Persian Online Grammar",
+          "url": "https://sites.la.utexas.edu/persian_online_resources/",
+          "type": "textbook",
+          "description": "Free structured lessons"
+        },
+        {
+          "title": "UT Austin — Persian-Specific Grammar (ezāfe etc.)",
+          "url": "https://sites.la.utexas.edu/persian_online_resources/language-specific-grammar/",
+          "type": "article",
+          "description": "Focused topics"
+        },
+        {
+          "title": "UBC Library — Persian Grammar Guide",
+          "url": "https://guides.library.ubc.ca/PersianLanguage/persiangrammar",
+          "type": "guide",
+          "description": "Consolidated references"
+        }
+      ],
+      "importance": "high",
+      "category": "Grammar & Composition",
+      "topics": ["Ezāfe", "Rā", "Demonstratives", "Transitivity", "Compound verbs"]
+    },
+    {
+      "id": "11",
+      "title": "Translation (English → Persian) Practice Sets",
+      "content": "Art/architecture/history passages are common. Build a bank of cultural-lexicon equivalents and syntactic reshaping techniques (nominalization, relative clauses).",
+      "keyTakeaways": [
+        "Retain semantic density; avoid word-for-word calque.",
+        "Prefer Persian idiom; watch register & cohesion.",
+        "Keep term glossaries (e.g., illumination/tazhib)."
+      ],
+      "resources": [
+        {
+          "title": "CSS Syllabus (General, Translation rubric)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "syllabus",
+          "description": "Scheme & translation marks"
+        },
+        {
+          "title": "Easy Persian — Lessons",
+          "url": "https://easypersian.com/",
+          "type": "course",
+          "description": "Practice & drills"
+        }
+      ],
+      "importance": "high",
+      "category": "Translation (EN↔FA)",
+      "topics": ["Translation", "Register", "Culture terms"]
+    },
+    {
+      "id": "12",
+      "title": "Iqbal & Rumi: Influence Mapping (Essay Topic)",
+      "content": "Trace Rumi's metaphysics, love, self-annihilation/baqā, and didactic method into Iqbal's reconstruction (khudi, action, prophetic vitality). Use textual pairings.",
+      "keyTakeaways": [
+        "Validate with Jāvid-Nāma & Rumi intertexts.",
+        "Cite Iqbal's Persian works (Zabūr-e ʿAjam, Asrār-e Khudi).",
+        "Contrast mystical quietism vs. Iqbalian activism."
+      ],
+      "resources": [
+        {
+          "title": "Encyclopaedia Iranica — Jāvid-Nāma",
+          "url": "https://www.iranicaonline.org/articles/javid-nama/",
+          "type": "article",
+          "description": "Context & Rumi's role"
+        },
+        {
+          "title": "Iranica — Muhammad Iqbal",
+          "url": "https://www.iranicaonline.org/articles/iqbal-muhammad/",
+          "type": "article",
+          "description": "Philosophical influences"
+        },
+        {
+          "title": "Research Article — Rumi's Spiritual Legacy in Iqbal",
+          "url": "https://journals.internationalrasd.org/index.php/pjhss/article/download/2729/1814/14846",
+          "type": "paper",
+          "description": "Recent academic study (2025)"
+        }
+      ],
+      "importance": "high",
+      "category": "Iqbal–Rumi Nexus",
+      "topics": ["Iqbal", "Rumi", "Khudi", "Masnavi", "Jāvid-Nāma"]
+    },
+    {
+      "id": "13",
+      "title": "MCQ Staples & Quick Facts",
+      "content": "High-yield facts often asked in Part-I MCQs: founder of modern Persian short story, Golestan chapters, founders of modern poetry, earliest mystical mathnavi influences, etc.",
+      "keyTakeaways": [
+        "Golestan has 8 chapters.",
+        "Jamalzadeh = pioneer of Persian short story.",
+        "Nima Yushij = father of modern Persian poetry/free-verse school."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — Gulistan (chapters)",
+          "url": "https://en.wikipedia.org/wiki/Gulistan_%28book%29",
+          "type": "article",
+          "description": "Chapter count"
+        },
+        {
+          "title": "Iranica — Jamalzadeh (Works)",
+          "url": "https://www.iranicaonline.org/articles/jamalzadeh-ii/",
+          "type": "article",
+          "description": "Short story pioneer"
+        },
+        {
+          "title": "Wikipedia — She'r-e Nima'i",
+          "url": "https://en.wikipedia.org/wiki/She%27r-e_Nimaa%27i",
+          "type": "article",
+          "description": "Modern poetry school & influence"
+        }
+      ],
+      "importance": "high",
+      "category": "MCQs & Quick Facts",
+      "topics": ["MCQs", "Jamalzadeh", "Golestan=8", "Nima"]
+    },
+    {
+      "id": "14",
+      "title": "Digital Libraries & Sourcing Primary Texts",
+      "content": "Use reputable online repositories for original verses, critical editions, and bilingual aids to support quotations and translations.",
+      "keyTakeaways": [
+        "Ganjoor: authoritative open archive for classical poets.",
+        "Browne's 'Literary History': canonical historical survey.",
+        "University guides aggregate grammar & readings."
+      ],
+      "resources": [
+        {
+          "title": "Ganjoor (Persian Poetry Archive)",
+          "url": "https://ganjoor.net/",
+          "type": "library",
+          "description": "Primary texts (classical)"
+        },
+        {
+          "title": "McGill Islamic Studies Library Blog — Ganjoor intro",
+          "url": "https://blogs.library.mcgill.ca/islamicstudieslibrary/ganjoor/",
+          "type": "article",
+          "description": "Overview of Ganjoor"
+        },
+        {
+          "title": "Browne — A Literary History of Persia (Vol. 1 PDF)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/A_literary_history_of_Persia_%28IA_literaryhistoryo01brow%29.pdf",
+          "type": "book",
+          "description": "Open PDF (foundational)"
+        },
+        {
+          "title": "UT Austin — Persian Online Resources",
+          "url": "https://sites.la.utexas.edu/persian_online_resources/",
+          "type": "textbook",
+          "description": "Grammar & readings"
+        }
+      ],
+      "importance": "high",
+      "category": "Digital Libraries & Tools",
+      "topics": ["Ganjoor", "Browne", "University guides"]
+    }
+  ]
+}

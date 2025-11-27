@@ -1,0 +1,729 @@
+## Section 1: Probability Theory
+
+1. Probability Theory (Hard)
+1. For three events A, B, C with P(A) = P(B) = P(C) = 1/2, P(A∩B) = P(B∩C) = P(A∩C) = 1/4, and P(A∩B∩C) = 1/8, the events are:
+A) Mutually independent
+B) Pairwise independent but not mutually independent
+C) Not pairwise independent
+D) Mutually exclusive
+Answer: A
+
+2. In a factory defect problem with Poisson arrivals, if defects occur at rate λ and are independently Type A with probability p, then Type A defects follow:
+A) Binomial(n, p)
+B) Poisson(λp)
+C) Poisson(λ/p)
+D) Exponential(λp)
+Answer: B
+
+3. For continuous random variables X and Y with joint density f(x,y), the conditional expectation E[X|Y=y] is:
+A) ∫xf(x,y)dx
+B) ∫xf(x|y)dx
+C) ∫xf(x,y)/f_Y(y)dx
+D) Both B and C
+Answer: D
+
+4. The probability generating function of the sum of independent random variables is:
+A) Sum of individual PGFs
+B) Product of individual PGFs
+C) Convolution of PGFs
+D) Maximum of PGFs
+Answer: B
+
+5. For a Markov chain with transition matrix P, the n-step transition probability is given by:
+A) nP
+B) P^n
+C) P + P +...+ P (n times)
+D) exp(nP)
+Answer: B
+
+6. The Borel-Cantelli lemma states that if ΣP(A_n) < ∞, then:
+A) P(lim sup A_n) = 0
+B) P(lim inf A_n) = 1
+C) P(∪A_n) = 1
+D) Events are independent
+Answer: A
+
+7. For a branching process with offspring distribution having mean μ, extinction is certain if:
+A) μ < 1
+B) μ = 1
+C) μ ≤ 1
+D) μ > 1
+Answer: C
+
+8. The Radon-Nikodym theorem relates:
+A) Probability and measure
+B) Absolute continuity of measures
+C) Independence of events
+D) Convergence of series
+Answer: B
+
+9. In optimal stopping theory, the secretary problem with n candidates has optimal stopping rule to reject first:
+A) n/2 candidates
+B) n/e candidates
+C) √n candidates
+D) n/π candidates
+Answer: B
+
+10. For exchangeable random variables X₁, X₂,..., de Finetti's theorem states they are:
+A) Independent
+B) Conditionally independent given some σ-algebra
+C) Identically distributed
+D) Martingales
+Answer: B
+
+## Section 2: Probability Distributions
+
+2. Probability Distributions (Hard)
+11. The Conway-Maxwell-Poisson distribution generalizes Poisson by adding parameter ν that controls:
+A) Mean only
+B) Variance only
+C) Dispersion
+D) Skewness only
+Answer: C
+
+12. For a multivariate normal distribution, zero correlation implies independence if and only if:
+A) Always true
+B) Distribution is bivariate
+C) Marginals are standard normal
+D) Joint distribution is normal
+Answer: D
+
+13. The Wishart distribution is the sampling distribution of:
+A) Sample mean
+B) Sample covariance matrix
+C) Sample correlation
+D) Sample median
+Answer: B
+
+14. The relationship between chi-square, t, and F distributions is:
+A) χ²/n → N(0,1) as n→∞
+B) t² ~ F(1,n)
+C) F(m,n) = (χ²_m/m)/(χ²_n/n)
+D) All of the above
+Answer: D
+
+15. The stable distributions are characterized by the property that:
+A) Mean equals variance
+B) Linear combinations have same distribution type
+C) All moments exist
+D) Support is bounded
+Answer: B
+
+16. The inverse Gaussian distribution arises as:
+A) Reciprocal of normal
+B) First passage time of Brownian motion
+C) Limit of binomial
+D) Maximum of exponentials
+Answer: B
+
+17. For the beta-binomial distribution, the overdispersion parameter affects:
+A) Mean only
+B) Variance relative to binomial
+C) Support of distribution
+D) Number of trials
+Answer: B
+
+18. The Dirichlet distribution is conjugate prior for:
+A) Normal mean
+B) Poisson rate
+C) Multinomial probabilities
+D) Exponential rate
+Answer: C
+
+19. The generalized extreme value distribution has three types depending on:
+A) Location parameter
+B) Scale parameter
+C) Shape parameter
+D) Sample size
+Answer: C
+
+20. The copula of a multivariate distribution:
+A) Determines marginal distributions
+B) Captures dependence structure
+C) Is always Gaussian
+D) Requires independence
+Answer: B
+
+## Section 3: Hypothesis Testing
+
+3. Hypothesis Testing (Hard)
+21. The Neyman-Pearson lemma provides the most powerful test for:
+A) Any composite hypothesis
+B) Simple versus simple hypotheses
+C) Multiple comparisons
+D) Nonparametric tests
+Answer: B
+
+22. The likelihood ratio test statistic -2log(λ) asymptotically follows:
+A) Normal distribution
+B) t-distribution
+C) Chi-square distribution
+D) F-distribution
+Answer: C
+
+23. In sequential probability ratio test (SPRT), the stopping boundaries depend on:
+A) Sample size only
+B) Desired Type I and II errors
+C) Population variance
+D) Test statistic distribution
+Answer: B
+
+24. The Wald, Score, and Likelihood Ratio tests are asymptotically equivalent but differ in:
+A) Null hypothesis
+B) Alternative hypothesis
+C) Finite sample properties
+D) Asymptotic distribution
+Answer: C
+
+25. For testing homogeneity of variances, Bartlett's test is sensitive to:
+A) Sample size
+B) Non-normality
+C) Unequal means
+D) Correlation
+Answer: B
+
+26. The false discovery rate (FDR) controls:
+A) Type I error for each test
+B) Expected proportion of false positives among rejections
+C) Family-wise error rate
+D) Type II error
+Answer: B
+
+27. In permutation tests, the p-value is exact when:
+A) Sample is large
+B) Distribution is normal
+C) Exchangeability holds under null
+D) Variances are equal
+Answer: C
+
+28. The uniformly most powerful unbiased (UMPU) test exists for:
+A) All testing problems
+B) Exponential family with nuisance parameters
+C) Nonparametric tests
+D) Composite alternatives
+Answer: B
+
+29. The Behrens-Fisher problem deals with:
+A) Testing correlation
+B) Comparing means with unequal variances
+C) Multiple comparisons
+D) Goodness of fit
+Answer: B
+
+30. The optimal α level in Neyman-Pearson framework depends on:
+A) Sample size only
+B) Loss function and prior probabilities
+C) Always 0.05
+D) Type II error only
+Answer: B
+
+## Section 4: Regression and Correlation
+
+4. Regression and Correlation (Hard)
+31. In the presence of heteroscedasticity, OLS estimators are:
+A) Biased and inconsistent
+B) Unbiased but inefficient
+C) Efficient but biased
+D) Neither unbiased nor consistent
+Answer: B
+
+32. The Gauss-Markov theorem states OLS estimators are BLUE when:
+A) Errors are normal
+B) Classical assumptions hold
+C) Sample is large
+D) No multicollinearity
+Answer: B
+
+33. Ridge regression shrinks coefficients by:
+A) Adding penalty to likelihood
+B) Adding L2 penalty to sum of squares
+C) Removing predictors
+D) Transforming variables
+Answer: B
+
+34. The variance inflation factor (VIF) for predictor j equals:
+A) 1/(1-R²_j)
+B) R²_j
+C) 1-R²_j
+D) √(1-R²_j)
+Answer: A
+
+35. In instrumental variables regression, a valid instrument must be:
+A) Correlated with Y
+B) Uncorrelated with error term
+C) Highly correlated with X
+D) Both B and C
+Answer: D
+
+36. The Hausman test in panel data compares:
+A) OLS and GLS
+B) Fixed and random effects
+C) Between and within estimators
+D) Pooled and unpooled models
+Answer: B
+
+37. Quantile regression minimizes:
+A) Squared errors
+B) Absolute errors
+C) Weighted absolute errors
+D) Maximum error
+Answer: C
+
+38. The partial R² in multiple regression represents:
+A) Total variation explained
+B) Additional variation explained by one predictor
+C) Correlation between predictors
+D) Goodness of fit
+Answer: B
+
+39. In seemingly unrelated regression (SUR), efficiency gains occur when:
+A) Equations are independent
+B) Cross-equation errors are correlated
+C) Same predictors in all equations
+D) Large sample size
+Answer: B
+
+40. The Box-Cox transformation parameter λ is estimated to:
+A) Minimize residual sum of squares
+B) Achieve normality
+C) Maximize likelihood
+D) Reduce multicollinearity
+Answer: C
+
+## Section 5: Sampling Techniques
+
+5. Sampling Techniques (Hard)
+41. The Horvitz-Thompson estimator in unequal probability sampling is:
+A) Always biased
+B) Unbiased with proper weights
+C) More efficient than SRS
+D) Requires equal probabilities
+Answer: B
+
+42. In adaptive cluster sampling, the final sample size is:
+A) Fixed in advance
+B) Random variable
+C) Always larger than initial
+D) Minimized
+Answer: B
+
+43. The optimal allocation in stratified sampling considering costs minimizes:
+A) Total cost
+B) Variance for fixed cost
+C) Cost for fixed variance
+D) Both B and C possible
+Answer: D
+
+44. Balanced repeated replication (BRR) is used for:
+A) Increasing sample size
+B) Variance estimation in complex surveys
+C) Reducing bias
+D) Improving response rate
+Answer: B
+
+45. The design-based approach to survey inference relies on:
+A) Model assumptions
+B) Randomization distribution
+C) Normal approximation
+D) Bayesian principles
+Answer: B
+
+46. Calibration estimation in surveys adjusts weights to:
+A) Reduce variance
+B) Match known population totals
+C) Correct for non-response
+D) All of the above
+Answer: D
+
+47. The ultimate cluster method is used when:
+A) Clusters are large
+B) Element-level sampling is difficult
+C) High precision needed
+D) Cost is not a factor
+Answer: B
+
+48. Network sampling is particularly useful for:
+A) General populations
+B) Rare or hidden populations
+C) Large populations
+D) Homogeneous populations
+Answer: B
+
+49. The finite population correction becomes negligible when:
+A) n/N < 0.05
+B) n > 30
+C) N > 1000
+D) Population is normal
+Answer: A
+
+50. Capture-recapture methods estimate population size using:
+A) Single sample
+B) Multiple samples with marking
+C) Census data
+D) Administrative records
+Answer: B
+
+## Section 6: Statistical Inference
+
+6. Statistical Inference (Hard)
+51. The Fisher information I(θ) represents:
+A) Sample information
+B) Expected curvature of log-likelihood
+C) Observed information
+D) Prior information
+Answer: B
+
+52. For location-scale families, the best equivariant estimator is:
+A) Always MLE
+B) Sample mean and variance
+C) Depends on loss function
+D) Method of moments
+Answer: C
+
+53. The Jeffreys prior is proportional to:
+A) Uniform distribution
+B) Square root of Fisher information
+C) Likelihood function
+D) Posterior mean
+Answer: B
+
+54. Empirical Bayes methods estimate prior parameters using:
+A) Subjective beliefs
+B) The data itself
+C) External information
+D) Uniform prior
+Answer: B
+
+55. The profile likelihood for parameter θ₁ when nuisance parameter θ₂ exists is:
+A) L(θ₁, θ̂₂)
+B) max_θ₂ L(θ₁, θ₂)
+C) ∫L(θ₁, θ₂)dθ₂
+D) L(θ₁, 0)
+Answer: B
+
+56. U-statistics are used because they are:
+A) Always unbiased
+B) Minimum variance unbiased estimators
+C) Easy to compute
+D) Robust
+Answer: B
+
+57. The sandwich estimator corrects standard errors for:
+A) Small samples
+B) Model misspecification
+C) Missing data
+D) Measurement error
+Answer: B
+
+58. In empirical likelihood, the likelihood is:
+A) Parametric
+B) Based on empirical distribution
+C) Always normal
+D) Requires large samples
+Answer: B
+
+59. The bootstrap bias correction uses:
+A) 2θ̂ - E*(θ̂*)
+B) θ̂ - E*(θ̂*)
+C) E*(θ̂*)
+D) θ̂ + E*(θ̂*)
+Answer: A
+
+60. Edgeworth expansions improve on normal approximation by:
+A) Adding polynomial terms
+B) Using different distribution
+C) Increasing sample size
+D) Transforming data
+Answer: A
+
+## Section 7: Descriptive Statistics
+
+7. Descriptive Statistics (Hard)
+61. L-moments are linear combinations of order statistics that are:
+A) More sensitive to outliers than conventional moments
+B) Less sensitive to outliers than conventional moments
+C) Equivalent to conventional moments
+D) Only defined for normal distribution
+Answer: B
+
+62. The Winsorized mean addresses outliers by:
+A) Removing them
+B) Replacing extreme values with less extreme ones
+C) Using median instead
+D) Weighting observations
+Answer: B
+
+63. For multimodal distributions, the dip test tests:
+A) Number of modes
+B) Unimodality versus multimodality
+C) Location of modes
+D) Height of modes
+Answer: B
+
+64. The Gini coefficient can be computed from the Lorenz curve as:
+A) Maximum distance from diagonal
+B) Twice the area between curve and diagonal
+C) Slope at median
+D) Area under curve
+Answer: B
+
+65. Robust measures of scale include all except:
+A) MAD (median absolute deviation)
+B) Interquartile range
+C) Standard deviation
+D) Biweight midvariance
+Answer: C
+
+66. The breakdown point of an estimator is:
+A) Where it fails computationally
+B) Proportion of contamination it can tolerate
+C) Sample size where it becomes biased
+D) Asymptotic variance
+Answer: B
+
+67. M-estimators generalize:
+A) Maximum likelihood only
+B) Least squares only
+C) Both ML and LS
+D) Method of moments
+Answer: C
+
+68. The influence function measures:
+A) Sample size effect
+B) Effect of infinitesimal contamination
+C) Correlation between variables
+D) Prediction accuracy
+Answer: B
+
+69. For directional data, the circular mean requires:
+A) Arithmetic average
+B) Vector addition approach
+C) Median direction
+D) Mode direction
+Answer: B
+
+70. The Mahalanobis distance accounts for:
+A) Euclidean distance only
+B) Correlation structure in multivariate data
+C) Missing values
+D) Time dependence
+Answer: B
+
+## Section 8: Experimental Design
+
+8. Experimental Design (Hard)
+71. Optimal design theory seeks designs that:
+A) Minimize cost
+B) Maximize information matrix determinant
+C) Use fewest runs
+D) Are easiest to analyze
+Answer: B
+
+72. In response surface methodology, the central composite design includes:
+A) Factorial points only
+B) Factorial, axial, and center points
+C) Random points
+D) Equally spaced points
+Answer: B
+
+73. Crossover designs must account for:
+A) Treatment effects only
+B) Carryover effects
+C) Period effects only
+D) Subject effects only
+Answer: B
+
+74. The alias structure in fractional factorial designs determines:
+A) Main effects only
+B) Confounding pattern
+C) Run order
+D) Block structure
+Answer: B
+
+75. D-efficiency of a design measures:
+A) Cost efficiency
+B) Relative determinant of information matrix
+C) Power of tests
+D) Ease of implementation
+Answer: B
+
+76. In mixture experiments, the constraint ΣXᵢ = 1 requires:
+A) Standard designs
+B) Simplex-based designs
+C) Factorial designs
+D) No special consideration
+Answer: B
+
+77. Supersaturated designs have:
+A) More runs than factors
+B) Fewer runs than factors
+C) Equal runs and factors
+D) Replicated runs
+Answer: B
+
+78. The minimum aberration criterion selects designs with:
+A) Fewest factors
+B) Least confounding of low-order effects
+C) Maximum resolution
+D) Minimum runs
+Answer: B
+
+79. In split-split-plot designs, the hierarchy of experimental units creates:
+A) Single error term
+B) Multiple error terms
+C) No error term
+D) Infinite error terms
+Answer: B
+
+80. Robust parameter design (Taguchi methods) emphasizes:
+A) Mean optimization only
+B) Variance reduction only
+C) Signal-to-noise ratio
+D) Cost minimization
+Answer: C
+
+## Section 9: Index Numbers
+
+9. Index Numbers (Hard)
+81. The economic approach to index numbers is based on:
+A) Statistical averages
+B) Consumer theory and preferences
+C) Time series only
+D) Fixed baskets
+Answer: B
+
+82. Superlative index numbers have the property that they:
+A) Are always highest
+B) Approximate economic theoretic indices
+C) Use current weights
+D) Satisfy all tests
+Answer: B
+
+83. The Törnqvist index is the geometric mean of:
+A) Price relatives
+B) Expenditure share weighted price relatives
+C) Quantity relatives
+D) Simple indices
+Answer: B
+
+84. Hedonic price indices address quality change by:
+A) Ignoring it
+B) Regression on characteristics
+C) Using matched samples
+D) Expert judgment
+Answer: B
+
+85. The GEKS method for multilateral comparisons ensures:
+A) Transitivity only
+B) Base invariance only
+C) Both transitivity and base invariance
+D) Neither property
+Answer: C
+
+86. Scanner data challenges for index construction include:
+A) High frequency only
+B) Product churn and zero quantities
+C) Too much accuracy
+D) Lack of prices
+Answer: B
+
+87. The Lloyd-Moulton index accounts for:
+A) Substitution bias
+B) Quality change
+C) New products
+D) Outlet substitution
+Answer: A
+
+88. Democratic vs plutocratic indices differ in:
+A) Formula used
+B) Household weighting
+C) Time period
+D) Items included
+Answer: B
+
+89. The CPI-U versus CPI-W distinction reflects:
+A) Urban vs rural
+B) All urban vs wage earners
+C) Upper vs lower class
+D) Unweighted vs weighted
+Answer: B
+
+90. Spatial price indices face the challenge of:
+A) No time dimension
+B) Different consumption patterns
+C) Currency differences
+D) All of the above
+Answer: D
+
+## Section 10: Vital Statistics
+
+10. Vital Statistics (Hard)
+91. The Brass logit life table system models mortality using:
+A) Linear transformation of standard
+B) Exponential functions
+C) Polynomial fitting
+D) Spline smoothing
+Answer: A
+
+92. Lee-Carter mortality forecasting uses:
+A) Simple extrapolation
+B) Singular value decomposition
+C) Moving averages
+D) Expert opinion
+Answer: B
+
+93. The synthetic cohort assumption in TFR calculation assumes:
+A) Constant mortality
+B) Age-specific rates apply to cohort
+C) No migration
+D) Stable population
+Answer: B
+
+94. Multiple decrement life tables account for:
+A) Single cause of death
+B) Competing risks
+C) Birth rates
+D) Migration only
+Answer: B
+
+95. The Lexis diagram represents:
+A) Population pyramid
+B) Age-period-cohort effects
+C) Fertility patterns
+D) Migration flows
+Answer: B
+
+96. Model life tables (Coale-Demeny) are used when:
+A) Complete data exists
+B) Data is limited or unreliable
+C) Population is stable
+D) Mortality is constant
+Answer: B
+
+97. The singulate mean age at marriage (SMAM) assumes:
+A) All eventually marry
+B) No mortality effect
+C) First marriages only
+D) All of the above
+Answer: D
+
+98. Indirect standardization is preferred when:
+A) Age-specific rates unreliable
+B) Large population
+C) Direct method fails
+D) Rates are stable
+Answer: A
+
+99. The intrinsic rate of increase r satisfies:
+A) ∫e^(-rx)l(x)m(x)dx = 1
+B) r = b - d
+C) r = ln(R₀)/T
+D) All under different conditions
+Answer: D
+
+100. Tempo effects in fertility refer to:
+A) Seasonal patterns
+B) Timing shifts affecting period measures
+C) Cohort differences
+D) Sampling variation
+Answer: B

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:21:05.552Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "97b8e9221ed176ebba75f8ecdd3241d034256b72",
+      "sectionIndex": 0,
+      "question": "The marginal rate of substitution (MRS) represents:",
+      "options": [
+        "A) Total utility change",
+        "B) The rate at which a consumer trades one good for another while maintaining same utility",
+        "C) Marginal cost ratio",
+        "D) Production efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "943c97ad01adf4ce47aa61b39f463241413291b7",
+      "sectionIndex": 0,
+      "question": "In the long run under perfect competition, firms earn:",
+      "options": [
+        "A) Supernormal profits",
+        "B) Normal profits only",
+        "C) Losses",
+        "D) Variable profits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da32e0181d585aa3f2ce146e3d7d36c44de58d67",
+      "sectionIndex": 0,
+      "question": "Price discrimination is profitable when:",
+      "options": [
+        "A) Markets have same elasticity",
+        "B) Markets have different price elasticities",
+        "C) There is perfect competition",
+        "D) Costs are constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "655aad625d3eb603471c120601255021217367ec",
+      "sectionIndex": 0,
+      "question": "The kinked demand curve model explains:",
+      "options": [
+        "A) Perfect competition pricing",
+        "B) Price rigidity in oligopolistic markets",
+        "C) Monopoly pricing",
+        "D) Competitive markets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84e934f52599c58e1ef147080ccce5c2c0b2ead1",
+      "sectionIndex": 0,
+      "question": "Consumer surplus represents:",
+      "options": [
+        "A) Extra income",
+        "B) Difference between willingness to pay and actual price",
+        "C) Producer profit",
+        "D) Government revenue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de061f4876405240d28761c3f8bef97be323f568",
+      "sectionIndex": 0,
+      "question": "The income effect of a price change:",
+      "options": [
+        "A) Always reinforces substitution effect",
+        "B) May work opposite to substitution effect for inferior goods",
+        "C) Is always positive",
+        "D) Doesn't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16a1f294346469e46de4c30e69b66f26d9dc7119",
+      "sectionIndex": 0,
+      "question": "Cross-price elasticity of complementary goods is:",
+      "options": [
+        "A) Positive",
+        "B) Negative",
+        "C) Zero",
+        "D) Infinite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfb30d1643054db2b88bc93e3b1f2a749a73d666",
+      "sectionIndex": 0,
+      "question": "A firm should shut down in short run when:",
+      "options": [
+        "A) Price falls below average total cost",
+        "B) Price falls below average variable cost",
+        "C) There are losses",
+        "D) Revenue declines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60d828196dcdcde9dda94bd7aa7b87a9a712476c",
+      "sectionIndex": 0,
+      "question": "The backward-bending labor supply curve occurs when:",
+      "options": [
+        "A) Wages are low",
+        "B) Income effect dominates substitution effect at high wages",
+        "C) There is unemployment",
+        "D) Labor demand falls"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11b16a2c7e514acea23d65e2fa515cdcf41fb956",
+      "sectionIndex": 0,
+      "question": "Game theory in oligopoly suggests:",
+      "options": [
+        "A) Cooperation is always optimal",
+        "B) Nash equilibrium may not maximize joint profits",
+        "C) Competition is impossible",
+        "D) Prices are always stable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe7fc250c3fcbf8ac4240f0a0202184ba0cbfbda",
+      "sectionIndex": 1,
+      "question": "The IS-LM model shows simultaneous equilibrium in:",
+      "options": [
+        "A) Labor and goods markets",
+        "B) Goods and money markets",
+        "C) Money and foreign exchange markets",
+        "D) All markets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd50f8fb135efbc3a1c8a22471416c65ec979704",
+      "sectionIndex": 1,
+      "question": "In the Keynesian cross model, equilibrium occurs where:",
+      "options": [
+        "A) Savings equal zero",
+        "B) Planned expenditure equals actual output",
+        "C) Investment is maximum",
+        "D) Consumption is minimum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f46e984ec2dc4529857f5b6a7a3f43cbf74d89b",
+      "sectionIndex": 1,
+      "question": "The multiplier effect is larger when:",
+      "options": [
+        "A) MPC is smaller",
+        "B) MPC is larger",
+        "C) MPS is larger",
+        "D) Taxes are higher"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "428d3ae4908f89be1d8bdd3bc46e89821392b608",
+      "sectionIndex": 1,
+      "question": "Crowding out occurs when:",
+      "options": [
+        "A) Population increases",
+        "B) Government spending reduces private investment",
+        "C) Exports increase",
+        "D) Money supply falls"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d7c1e2a1bef98a275d59f78f19fa456a4d916bd",
+      "sectionIndex": 1,
+      "question": "The Phillips curve relationship breaks down in the presence of:",
+      "options": [
+        "A) Low inflation",
+        "B) Supply shocks and expectations",
+        "C) High employment",
+        "D) Fixed exchange rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff41370eebb60431a8a2fbc90d4d18b9a542c229",
+      "sectionIndex": 1,
+      "question": "Ricardian equivalence suggests:",
+      "options": [
+        "A) Trade is beneficial",
+        "B) Government debt doesn't affect consumption",
+        "C) All goods are equivalent",
+        "D) Money is neutral"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a00e5641d4e12e402ed66f5721c14d60a64034b1",
+      "sectionIndex": 1,
+      "question": "The natural rate of unemployment includes:",
+      "options": [
+        "A) Only cyclical unemployment",
+        "B) Frictional and structural unemployment",
+        "C) Zero unemployment",
+        "D) Seasonal unemployment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9efde4dca097959c135db8bd1758f161cafaae5c",
+      "sectionIndex": 1,
+      "question": "Stagflation can be caused by:",
+      "options": [
+        "A) Demand increase",
+        "B) Adverse supply shocks",
+        "C) Money supply decrease",
+        "D) Export boom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "515f2596d2defe3dec9060c2a30e30959c5ac3ee",
+      "sectionIndex": 1,
+      "question": "The accelerator principle relates:",
+      "options": [
+        "A) Consumption to income",
+        "B) Investment to output changes",
+        "C) Money to prices",
+        "D) Exports to imports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0452bcb994609b610dccb71edec8f2b30b25b94",
+      "sectionIndex": 1,
+      "question": "Automatic stabilizers include:",
+      "options": [
+        "A) Discretionary spending",
+        "B) Progressive taxes and unemployment benefits",
+        "C) Money supply changes",
+        "D) Exchange rate adjustments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66d947575693a82228b9f76b1e057ec5d9765d3c",
+      "sectionIndex": 2,
+      "question": "The money multiplier is reduced by:",
+      "options": [
+        "A) Lower reserve requirements",
+        "B) Currency drain and excess reserves",
+        "C) More lending",
+        "D) Economic growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fe167c8f452086d85745397f1c08c726f974de5",
+      "sectionIndex": 2,
+      "question": "Liquidity trap occurs when:",
+      "options": [
+        "A) Interest rates are very high",
+        "B) Interest rates near zero and monetary policy ineffective",
+        "C) Money supply is low",
+        "D) Banks don't lend"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a1effbc014792a6f03cecd3a13f56539a370968",
+      "sectionIndex": 2,
+      "question": "The Taylor rule suggests central banks should:",
+      "options": [
+        "A) Keep rates fixed",
+        "B) Adjust rates based on inflation and output gaps",
+        "C) Follow gold standard",
+        "D) Ignore inflation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "598425eefc80a065dc1250ae5a4aa734ea9b0d70",
+      "sectionIndex": 2,
+      "question": "Quantitative easing involves:",
+      "options": [
+        "A) Raising interest rates",
+        "B) Central bank buying long-term securities",
+        "C) Reducing money supply",
+        "D) Increasing reserve requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14aba92409e98b6312df0933c3409c18cafaf6b5",
+      "sectionIndex": 2,
+      "question": "The transmission mechanism of monetary policy works through:",
+      "options": [
+        "A) Direct government orders",
+        "B) Interest rates, exchange rates, and wealth effects",
+        "C) Fiscal policy only",
+        "D) International trade only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04840ef378f8ed824a99c154a76a17cb2331367f",
+      "sectionIndex": 2,
+      "question": "Real interest rate equals:",
+      "options": [
+        "A) Nominal rate plus inflation",
+        "B) Nominal rate minus expected inflation",
+        "C) Inflation rate only",
+        "D) Zero in equilibrium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8290dfdb33c89877cc582485fd9ab1fb4a2ccddb",
+      "sectionIndex": 2,
+      "question": "Currency substitution occurs when:",
+      "options": [
+        "A) Money supply increases",
+        "B) Domestic currency loses credibility",
+        "C) Trade increases",
+        "D) Interest rates rise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "816f20e061dca5ca7e1d8d750d487eb4905e55ae",
+      "sectionIndex": 2,
+      "question": "Sterilization in monetary policy means:",
+      "options": [
+        "A) Cleaning currency",
+        "B) Offsetting foreign exchange intervention effects",
+        "C) Reducing corruption",
+        "D) Increasing transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fafa934d3b01e094a5a2579ab667cce1082af4b2",
+      "sectionIndex": 2,
+      "question": "The impossible trinity states you cannot have:",
+      "options": [
+        "A) Growth, employment, and stability",
+        "B) Fixed exchange rate, independent monetary policy, and free capital flows",
+        "C) Low inflation, high growth, and full employment",
+        "D) Trade surplus, budget surplus, and growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc260dc71772e2c02a87636c03b14de64fe12780",
+      "sectionIndex": 2,
+      "question": "Inflation targeting requires:",
+      "options": [
+        "A) Price controls",
+        "B) Central bank independence and transparency",
+        "C) Fixed money supply",
+        "D) Government intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47de7e84e7501a409cffd072f238a123b3e43d0b",
+      "sectionIndex": 3,
+      "question": "The Heckscher-Ohlin theory predicts countries export goods that:",
+      "options": [
+        "A) They like most",
+        "B) Use their abundant factors intensively",
+        "C) Have absolute advantage",
+        "D) Are most expensive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "320b0c40722396fe84802784959fa4ab4cdb28c7",
+      "sectionIndex": 3,
+      "question": "The Leontief paradox found that the US:",
+      "options": [
+        "A) Had no comparative advantage",
+        "B) Exported labor-intensive goods despite being capital-abundant",
+        "C) Didn't trade",
+        "D) Only imported raw materials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8becc619f3cb2875d4991a33275713e60c7faba7",
+      "sectionIndex": 3,
+      "question": "Terms of trade deterioration for developing countries results from:",
+      "options": [
+        "A) Increased productivity",
+        "B) Price inelastic demand for primary products",
+        "C) Technology advancement",
+        "D) Trade liberalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0358393a89c061261254199f002a6f1ab4c8a9f2",
+      "sectionIndex": 3,
+      "question": "The J-curve effect suggests devaluation:",
+      "options": [
+        "A) Immediately improves trade balance",
+        "B) Initially worsens then improves trade balance",
+        "C) Has no effect",
+        "D) Permanently worsens trade balance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb85a98e84421bdee9c841a36fc680475fb8f643",
+      "sectionIndex": 3,
+      "question": "Effective rate of protection measures:",
+      "options": [
+        "A) Nominal tariff rates",
+        "B) Protection of value added in production",
+        "C) Consumer prices",
+        "D) Export subsidies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db3dd674b4971766fa3dc0936ae3a315dfb6bde8",
+      "sectionIndex": 3,
+      "question": "Trade creation occurs when:",
+      "options": [
+        "A) New countries start trading",
+        "B) Customs union replaces high-cost with low-cost suppliers",
+        "C) Tariffs increase",
+        "D) Trade stops"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53a144f8d484cd8fb6b0a6e9b07b8aeec55d93c1",
+      "sectionIndex": 3,
+      "question": "The Marshall-Lerner condition states devaluation improves trade balance if:",
+      "options": [
+        "A) Inflation is low",
+        "B) Sum of export and import elasticities exceeds one",
+        "C) Interest rates are high",
+        "D) Capital flows are restricted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9a30173e8dd2c48e25f2479a5804540c1733eb8",
+      "sectionIndex": 3,
+      "question": "Strategic trade policy argues for:",
+      "options": [
+        "A) Free trade always",
+        "B) Government support in oligopolistic industries",
+        "C) No government role",
+        "D) Import substitution only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e155fe878d55d17ce30eb753ca7e54b0035c61ce",
+      "sectionIndex": 3,
+      "question": "The gravity model of trade predicts trade flows based on:",
+      "options": [
+        "A) Comparative advantage only",
+        "B) Economic size and distance",
+        "C) Factor endowments",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cd697654d83702a07c69b517feecd8e29bcc405",
+      "sectionIndex": 3,
+      "question": "Dutch disease refers to:",
+      "options": [
+        "A) Agricultural problem",
+        "B) Resource boom harming manufacturing",
+        "C) Trade deficit",
+        "D) Inflation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "954322d5f267e9420545fb04471e76d63320d201",
+      "sectionIndex": 4,
+      "question": "The Lewis dual-sector model assumes:",
+      "options": [
+        "A) No surplus labor",
+        "B) Unlimited labor supply at subsistence wage",
+        "C) Full employment",
+        "D) No wage differential"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d6dc9582ba0a2b76cf8efca698ed8e2376d9e4d",
+      "sectionIndex": 4,
+      "question": "Rostow's stages of growth theory identifies takeoff as requiring:",
+      "options": [
+        "A) Foreign aid only",
+        "B) Investment rate of 10-12% of GDP",
+        "C) Democracy",
+        "D) Free trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6257a075d237656bb5a0730f965251e67a6b0353",
+      "sectionIndex": 4,
+      "question": "The Harrod-Domar model emphasizes:",
+      "options": [
+        "A) Labor supply only",
+        "B) Savings and capital-output ratio",
+        "C) Technology only",
+        "D) Natural resources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ec5fafc99f72b9e8d11e78487c8cfce25c6a9a1",
+      "sectionIndex": 4,
+      "question": "Balanced growth theory (Nurkse) advocates:",
+      "options": [
+        "A) Focus on one sector",
+        "B) Simultaneous development of multiple sectors",
+        "C) Agriculture first",
+        "D) Industry only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7b9188e711f47ae4f30aafaea91c3a9f3c64452",
+      "sectionIndex": 4,
+      "question": "Unbalanced growth theory (Hirschman) suggests:",
+      "options": [
+        "A) Equal development",
+        "B) Strategic imbalances to induce investment",
+        "C) No planning",
+        "D) Rural focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c7da3b53e612886a5dcb6b284f780113d0ffb43",
+      "sectionIndex": 4,
+      "question": "The poverty trap exists when:",
+      "options": [
+        "A) Income is low",
+        "B) Low income prevents saving and investment",
+        "C) There is corruption",
+        "D) Education is poor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d410d73f09b52a6a5bf8022ba98a7f2f027fc779",
+      "sectionIndex": 4,
+      "question": "Import substitution industrialization failed mainly due to:",
+      "options": [
+        "A) Lack of resources",
+        "B) Inefficiency and limited domestic markets",
+        "C) Too much competition",
+        "D) Export focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38d37b43adde3e2eae316f07746975c25cf38a01",
+      "sectionIndex": 4,
+      "question": "The dependency theory argues:",
+      "options": [
+        "A) Trade benefits all",
+        "B) Periphery exploitation by center countries",
+        "C) Independence is bad",
+        "D) Aid solves problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3f049401f7ebb3ecdaf4229ce10abdd987f997d",
+      "sectionIndex": 4,
+      "question": "Microfinance effectiveness is limited by:",
+      "options": [
+        "A) Too much capital",
+        "B) High interest rates and limited business opportunities",
+        "C) Government support",
+        "D) Large loan sizes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c9d53a3a17aa5b9034e205408b88b13356f0ecc",
+      "sectionIndex": 4,
+      "question": "The resource curse suggests natural resources may:",
+      "options": [
+        "A) Always benefit economies",
+        "B) Lead to corruption and Dutch disease",
+        "C) Guarantee development",
+        "D) Reduce poverty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d59b384bda9c7c3573f5517719b5b8328957aa7",
+      "sectionIndex": 5,
+      "question": "The Laffer curve suggests:",
+      "options": [
+        "A) Higher tax rates always increase revenue",
+        "B) There's an optimal tax rate maximizing revenue",
+        "C) Taxes don't matter",
+        "D) Zero tax is optimal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7cd5a5740376c80cb04a711ed2d0e9f5ec452c3",
+      "sectionIndex": 5,
+      "question": "Tax incidence depends on:",
+      "options": [
+        "A) Who pays the tax",
+        "B) Relative elasticities of supply and demand",
+        "C) Government decision",
+        "D) Tax rate only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce175b5fb26d97f9ba5b7f369e132221c1208e04",
+      "sectionIndex": 5,
+      "question": "The crowding-in effect occurs when:",
+      "options": [
+        "A) Private investment falls",
+        "B) Government spending stimulates private investment",
+        "C) Interest rates rise",
+        "D) Taxes increase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b55c7c6b9339b00e89e81cc1689ef9cc594664c",
+      "sectionIndex": 5,
+      "question": "Fiscal sustainability requires:",
+      "options": [
+        "A) Balanced budget always",
+        "B) Debt-to-GDP ratio stabilization",
+        "C) No borrowing",
+        "D) Surplus every year"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "925e00071e5e329c42436217d4603b99a2213e11",
+      "sectionIndex": 5,
+      "question": "Automatic stabilizers are preferred because they:",
+      "options": [
+        "A) Require legislation",
+        "B) Work without discretionary action",
+        "C) Are more powerful",
+        "D) Cost nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f166e3d85c1540f6adbaa0be6f08821da288001",
+      "sectionIndex": 5,
+      "question": "The cyclically adjusted budget balance:",
+      "options": [
+        "A) Includes all spending",
+        "B) Removes business cycle effects",
+        "C) Is always zero",
+        "D) Equals actual balance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f68badeb2a1c2b2771e1d2bc5a616124c64a6ff",
+      "sectionIndex": 5,
+      "question": "Tax buoyancy measures:",
+      "options": [
+        "A) Tax rates",
+        "B) Tax revenue responsiveness to GDP growth",
+        "C) Tax evasion",
+        "D) Tax burden"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2637353ac3c3d65594468ecb6a0cf0fa344f2c28",
+      "sectionIndex": 5,
+      "question": "Debt sustainability analysis considers:",
+      "options": [
+        "A) Current debt only",
+        "B) Growth rate, interest rate, and primary balance",
+        "C) Foreign debt only",
+        "D) Short-term debt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb6e0e84573c5ed2789a23e3de6c26df94a44bae",
+      "sectionIndex": 5,
+      "question": "The golden rule of public finance states:",
+      "options": [
+        "A) No borrowing allowed",
+        "B) Borrow only for capital investment",
+        "C) Unlimited borrowing",
+        "D) Fixed debt ratio"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebc5822f0f8baa8b8e424c20a85d6a988da58c11",
+      "sectionIndex": 5,
+      "question": "Fiscal federalism involves:",
+      "options": [
+        "A) Central control only",
+        "B) Optimal assignment of functions across government levels",
+        "C) No local taxes",
+        "D) Equal spending everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02d010be81cc40b88fbdcca9e6454d9d4ffb40ac",
+      "sectionIndex": 6,
+      "question": "Pakistan's persistent fiscal deficit is primarily due to:",
+      "options": [
+        "A) High growth",
+        "B) Low tax revenue and high current expenditure",
+        "C) Export surplus",
+        "D) Low interest rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b33ffd2630433f54e6a2bc602fdb8bef0c25e22",
+      "sectionIndex": 6,
+      "question": "The energy crisis in Pakistan resulted from:",
+      "options": [
+        "A) Excess capacity",
+        "B) Circular debt and insufficient generation capacity",
+        "C) Low demand",
+        "D) Too many power plants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6912b1b1bc177389c16bbd1e76bc80281a596484",
+      "sectionIndex": 6,
+      "question": "Pakistan's low tax-to-GDP ratio reflects:",
+      "options": [
+        "A) Low tax rates only",
+        "B) Narrow tax base and weak enforcement",
+        "C) High compliance",
+        "D) Efficient collection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64aab06ca2412a98e9a357259d8b4314dc71c0bb",
+      "sectionIndex": 6,
+      "question": "IMF programs in Pakistan typically emphasize:",
+      "options": [
+        "A) Fiscal expansion",
+        "B) Fiscal consolidation and structural reforms",
+        "C) Currency appreciation",
+        "D) Import promotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20a9c4295324c3ab3b79b05c499b3c0f1e6f42d3",
+      "sectionIndex": 6,
+      "question": "Pakistan's export concentration in textiles creates vulnerability to:",
+      "options": [
+        "A) Domestic demand",
+        "B) Global market conditions and competition",
+        "C) Agricultural prices",
+        "D) Oil prices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e4129ec2cc5025d070e4242f6f16971ea4e8960",
+      "sectionIndex": 6,
+      "question": "The State Bank of Pakistan's autonomy is important for:",
+      "options": [
+        "A) Fiscal policy",
+        "B) Credible monetary policy and inflation control",
+        "C) Trade policy",
+        "D) Industrial policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb42429f794b1cb8fb1c836c7413d6b2ea030d96",
+      "sectionIndex": 6,
+      "question": "CPEC's potential benefits include:",
+      "options": [
+        "A) Only transit fees",
+        "B) Infrastructure development and regional connectivity",
+        "C) Debt reduction",
+        "D) Agricultural revolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0b982bc41c047d42a1bd9e0f6ca768301703654",
+      "sectionIndex": 6,
+      "question": "Pakistan's demographic dividend requires:",
+      "options": [
+        "A) Population control only",
+        "B) Investment in education and job creation",
+        "C) Reducing population",
+        "D) Immigration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01d27cf33d52a7bd93b0ab6fe8062577460869b5",
+      "sectionIndex": 6,
+      "question": "Financial inclusion in Pakistan is hindered by:",
+      "options": [
+        "A) Too many banks",
+        "B) Low literacy and limited access",
+        "C) High savings",
+        "D) Excess liquidity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a326568f30f95723a6ce2983e595b2355e9367b",
+      "sectionIndex": 6,
+      "question": "Agricultural productivity in Pakistan is constrained by:",
+      "options": [
+        "A) Excess water",
+        "B) Water scarcity and outdated farming methods",
+        "C) Too much mechanization",
+        "D) Export restrictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a106bb8a126db3c586930b207b3c3e7908902f37",
+      "sectionIndex": 7,
+      "question": "The Solow growth model predicts:",
+      "options": [
+        "A) Perpetual growth",
+        "B) Convergence to steady state",
+        "C) Divergence",
+        "D) No growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c30c208114be91c3d8df3de8612fbfa9f6f1dd79",
+      "sectionIndex": 7,
+      "question": "In the Mundell-Fleming model, fiscal policy is most effective under:",
+      "options": [
+        "A) Floating exchange rates",
+        "B) Fixed exchange rates with capital immobility",
+        "C) All conditions",
+        "D) No conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9dd501e49a36dddf94af2aa69bda019fb28a5a7",
+      "sectionIndex": 7,
+      "question": "The Balassa-Samuelson effect explains:",
+      "options": [
+        "A) Trade patterns",
+        "B) Higher prices in richer countries",
+        "C) Exchange rate volatility",
+        "D) Interest rate parity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0aa3c1622382a881427090e5e665c742cad1bf6d",
+      "sectionIndex": 7,
+      "question": "The Prebisch-Singer hypothesis predicts:",
+      "options": [
+        "A) Improving terms of trade",
+        "B) Declining terms of trade for primary producers",
+        "C) No change",
+        "D) Random fluctuations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fed611f5693896f42ac5a8bcc6fce4472a4c50b",
+      "sectionIndex": 7,
+      "question": "The Lucas critique argues:",
+      "options": [
+        "A) Models are perfect",
+        "B) Policy changes alter behavioral parameters",
+        "C) Expectations don't matter",
+        "D) History repeats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "109160441df8a0438a2d51732040bb891fbd35f6",
+      "sectionIndex": 7,
+      "question": "The efficient market hypothesis implies:",
+      "options": [
+        "A) Markets always rise",
+        "B) Prices reflect all available information",
+        "C) Bubbles are impossible",
+        "D) Regulation unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fdad7e7831b83eed8cee8f73a361247d237a313",
+      "sectionIndex": 7,
+      "question": "The Coase theorem suggests:",
+      "options": [
+        "A) Government must intervene",
+        "B) Private bargaining can solve externalities",
+        "C) Property rights don't matter",
+        "D) Transaction costs are zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2b6a0456a6ec0c390c302e160616554abd99383",
+      "sectionIndex": 7,
+      "question": "The median voter theorem predicts:",
+      "options": [
+        "A) Extreme policies win",
+        "B) Policies converge to median preference",
+        "C) Voting doesn't matter",
+        "D) Random outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5651914be4490daec8a499f629ce1dab23ebea2",
+      "sectionIndex": 7,
+      "question": "The Tiebout model suggests:",
+      "options": [
+        "A) Central planning optimal",
+        "B) People vote with their feet",
+        "C) Local government unnecessary",
+        "D) Taxes should be equal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f5daa0217db02dbfc4bf7247c86006714fe0ee4",
+      "sectionIndex": 7,
+      "question": "The Baumol cost disease affects:",
+      "options": [
+        "A) Manufacturing only",
+        "B) Service sectors with low productivity growth",
+        "C) All sectors equally",
+        "D) No sectors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e080f6c01995b571def19e37817b6f4126abb69",
+      "sectionIndex": 8,
+      "question": "Quantitative easing's main risk is:",
+      "options": [
+        "A) Deflation",
+        "B) Asset price bubbles and future inflation",
+        "C) Currency appreciation",
+        "D) Reduced lending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1d3f72109ed734e737e306da51af3459faeb1d5",
+      "sectionIndex": 8,
+      "question": "Secular stagnation hypothesis suggests:",
+      "options": [
+        "A) Temporary slowdown",
+        "B) Persistent low growth and interest rates",
+        "C) High inflation",
+        "D) Boom periods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ad8f31d88d906657197246af82b2b4f6114a00a",
+      "sectionIndex": 8,
+      "question": "Currency wars involve:",
+      "options": [
+        "A) Military conflict",
+        "B) Competitive devaluations",
+        "C) Trade agreements",
+        "D) Fixed rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4331662f6bf15540470b58d596b7a9b422d99fd",
+      "sectionIndex": 8,
+      "question": "Financial inclusion matters because it:",
+      "options": [
+        "A) Increases bank profits",
+        "B) Reduces poverty and promotes growth",
+        "C) Eliminates cash",
+        "D) Increases government control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e201b51c9a7ec3530256632d5ba16185dc5053ca",
+      "sectionIndex": 8,
+      "question": "The gig economy challenges traditional:",
+      "options": [
+        "A) Technology only",
+        "B) Labor markets and social protection",
+        "C) Education systems",
+        "D) Trade patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca64d19f9efa36df8a1f7833d2b4e508d51454bd",
+      "sectionIndex": 8,
+      "question": "Cryptocurrencies pose challenges for:",
+      "options": [
+        "A) Technology only",
+        "B) Monetary policy and financial stability",
+        "C) International trade only",
+        "D) Fiscal policy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd7e31ec701cd46e07a92f5d18a41d4f1380a82b",
+      "sectionIndex": 8,
+      "question": "Climate change economics involves:",
+      "options": [
+        "A) Weather forecasting",
+        "B) Intergenerational cost-benefit analysis",
+        "C) Agricultural policy only",
+        "D) Energy policy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26e62ba9c8de741abf0479afe0db148377602e50",
+      "sectionIndex": 8,
+      "question": "Universal basic income proposals aim to:",
+      "options": [
+        "A) Eliminate work",
+        "B) Provide income security in changing economy",
+        "C) Increase inequality",
+        "D) Reduce government spending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dd4b9dbecd2916402a4bc6faa1b80492dc40c86",
+      "sectionIndex": 8,
+      "question": "The middle-income trap occurs when:",
+      "options": [
+        "A) Income rises too fast",
+        "B) Countries cannot transition to high-income status",
+        "C) Inequality falls",
+        "D) Growth is too stable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ce1da9d5dbcf6f508e85639f429c3698bd800bf",
+      "sectionIndex": 8,
+      "question": "Behavioral economics challenges the assumption of:",
+      "options": [
+        "A) Scarcity",
+        "B) Perfect rationality",
+        "C) Market existence",
+        "D) Government role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "411e91c7f867bd0edcb4f661734d4cfd0a38cc04",
+      "sectionIndex": 9,
+      "question": "Policy trilemma in open economies involves tradeoffs between:",
+      "options": [
+        "A) Growth, inflation, and employment",
+        "B) Exchange rate stability, monetary autonomy, and capital mobility",
+        "C) Taxes, spending, and debt",
+        "D) Exports, imports, and investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "634b07827b9b1d9893dbf5cf111139b685d1a63c",
+      "sectionIndex": 9,
+      "question": "Supply-side policies focus on:",
+      "options": [
+        "A) Aggregate demand only",
+        "B) Productive capacity and efficiency",
+        "C) Money supply",
+        "D) Government spending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ccf1894c68cb4043e21183fadc91dfb916422c8",
+      "sectionIndex": 9,
+      "question": "The time inconsistency problem affects:",
+      "options": [
+        "A) All policies equally",
+        "B) Policies where short-term incentives differ from long-term goals",
+        "C) No policies",
+        "D) Only fiscal policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da5f4ee87deaaf40c98851b4aec543106d6e6f38",
+      "sectionIndex": 9,
+      "question": "Structural adjustment programs typically include:",
+      "options": [
+        "A) Expansionary policies",
+        "B) Market liberalization and fiscal austerity",
+        "C) Protectionism",
+        "D) Currency appreciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06b89cd48e8133e1ecbf7970653672c975f09d93",
+      "sectionIndex": 9,
+      "question": "Counter-cyclical policies require:",
+      "options": [
+        "A) Following the cycle",
+        "B) Acting opposite to business cycle",
+        "C) No action",
+        "D) Random intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e939ff53e3dc8122abd1feeb3dcf31b11642ef4",
+      "sectionIndex": 9,
+      "question": "The political economy of reform suggests:",
+      "options": [
+        "A) Economics alone matters",
+        "B) Political constraints affect policy implementation",
+        "C) Politics don't matter",
+        "D) Reforms always succeed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "067d25972e9f2634ee35521c93bca77e9c7b8479",
+      "sectionIndex": 9,
+      "question": "Evidence-based policy making requires:",
+      "options": [
+        "A) Theory only",
+        "B) Rigorous impact evaluation",
+        "C) Political support only",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb560ed9c3852f85a4a00329e586071a66cd5f2e",
+      "sectionIndex": 9,
+      "question": "Policy coordination matters because:",
+      "options": [
+        "A) Countries are isolated",
+        "B) Spillovers affect other economies",
+        "C) It doesn't matter",
+        "D) Trade is unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0863fc70be2d44f83e4bc8d7fbd3095ead48b37b",
+      "sectionIndex": 9,
+      "question": "The Lucas critique implies policy evaluation needs:",
+      "options": [
+        "A) Historical data only",
+        "B) Structural models accounting for behavioral changes",
+        "C) Simple correlations",
+        "D) No theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39248ad68f900e8dea31241e9848e3c1046722bc",
+      "sectionIndex": 9,
+      "question": "Optimal policy design considers:",
+      "options": [
+        "A) Objectives only",
+        "B) Objectives, constraints, and instruments",
+        "C) Politics only",
+        "D) History only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

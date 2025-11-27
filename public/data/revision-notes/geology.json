@@ -1,0 +1,570 @@
+{
+  "subject": "Geology",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 18,
+  "categories": [
+    "Structural Geology & Tectonics",
+    "Mineralogy & Petrology",
+    "Sedimentology & Stratigraphy",
+    "Paleontology & Biostratigraphy",
+    "Economic Geology (Hydrocarbons & Ore)",
+    "Geophysics & Exploration Methods",
+    "Engineering & Environmental Geology",
+    "Pakistan Geology & Regional Studies",
+    "Exam Skills & Syllabus"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "FPSC CSS Geology — Official Syllabus & Past Papers",
+      "content": "Know the exact scope and weightings before studying. Post-2016 CSS uses the revised single-paper Geology syllabus; past papers (2000→present) show repeated emphasis on structural geology, petroleum systems, mineralogy/silicates, Pakistan stratigraphy (Salt Range/Indus Basin), geophysical methods, landslides and dams.",
+      "keyTakeaways": [
+        "Use the official FPSC PDF to align topics and subheadings.",
+        "Mine past papers to spot recurring long questions and MCQs.",
+        "Plan diagrams for faults/folds, strat columns, facies, traps."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabus (Geology pages 82–85)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "syllabus",
+          "description": "Official scope for CE-2016 and onwards"
+        },
+        {
+          "title": "FPSC — CSS Descriptive Papers (recent years)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "past papers",
+          "description": "Direct PDFs incl. Geology"
+        },
+        {
+          "title": "CSS Geology Past Paper 2020 (PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/09/Geology-2020.pdf",
+          "type": "past paper",
+          "description": "Shows dams, radioactive deposits, etc."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Skills & Syllabus",
+      "topics": ["CSS", "syllabus", "past papers", "blueprint"]
+    },
+    {
+      "id": "2",
+      "title": "Structural Geology: Faults, Joints & Folds (with Pakistan examples)",
+      "content": "Master terminology (dip, strike, throw, heave), types (normal, reverse/thrust, strike-slip), joint vs. fracture, and fold geometry. Be ready to sketch and annotate map patterns and cross-sections; cite Chaman Fault as a regional strike-slip example.",
+      "keyTakeaways": [
+        "Differentiate fractures vs. joints; faults show displacement.",
+        "Relate stress regimes to fault type (extensional vs compressional).",
+        "Use Chaman fault system for exam's Pakistan-context answers."
+      ],
+      "resources": [
+        {
+          "title": "USGS — What is a fault?",
+          "url": "https://www.usgs.gov/faqs/what-fault",
+          "type": "article",
+          "description": "Plain-language definitions & basics"
+        },
+        {
+          "title": "USGS — Chaman Fault (Pakistan–Afghanistan) overview",
+          "url": "https://earthquake.usgs.gov/learn/topics/chaman_fault.php",
+          "type": "article",
+          "description": "Regional right-lateral strike-slip fault"
+        },
+        {
+          "title": "OpenGeology — Crustal Deformation & Earthquakes",
+          "url": "https://opengeology.org/textbook/",
+          "type": "textbook",
+          "description": "Free textbook chapters on deformation/structures"
+        }
+      ],
+      "importance": "high",
+      "category": "Structural Geology & Tectonics",
+      "topics": ["faults", "joints", "folds", "Chaman Fault", "map patterns"]
+    },
+    {
+      "id": "3",
+      "title": "Plate Tectonics & Wilson Cycle (Evidence + Pakistan)",
+      "content": "Connect plate boundaries, seafloor spreading, subduction and continent collision (India–Eurasia) to Himalayan orogeny and Pakistan's terranes. Use Wilson cycle to frame basin evolution questions.",
+      "keyTakeaways": [
+        "Memorize boundary types and typical features.",
+        "Tie Indian Plate collision to Himalaya–Kohistan–Karakoram evolution.",
+        "Use cycle to explain opening/closing oceans and basin fill."
+      ],
+      "resources": [
+        {
+          "title": "An Introduction to Geology (Open Textbook) — Plate Tectonics",
+          "url": "https://opengeology.org/textbook/",
+          "type": "textbook",
+          "description": "Free, exam-friendly figures"
+        },
+        {
+          "title": "Kazmi & Jan — Geology and Tectonics of Pakistan (PDF)",
+          "url": "https://lgc2016.files.wordpress.com/2016/03/geology-tectonics-of-pakistan-by-kazmi-qasimjan.pdf",
+          "type": "book",
+          "description": "Seminal Pakistan tectonics reference"
+        },
+        {
+          "title": "USGS — Potwar Plateau & Salt Range tectonics (Bulletin 2126)",
+          "url": "https://pubs.usgs.gov/bul/2126/report.pdf",
+          "type": "report",
+          "description": "Structures & thrust geometry"
+        }
+      ],
+      "importance": "high",
+      "category": "Structural Geology & Tectonics",
+      "topics": ["plate tectonics", "Wilson cycle", "India–Eurasia collision", "Himalayas"]
+    },
+    {
+      "id": "4",
+      "title": "Unconformities & Laws of Stratigraphy",
+      "content": "Identify angular, disconformity, and nonconformity in the field and on cross-sections. Apply Steno's principles and superposition; expect diagram-based questions.",
+      "keyTakeaways": [
+        "Practice drawing and labeling unconformity types.",
+        "Use fossils and facies to support correlation across gaps.",
+        "Combine with structural attitudes for full marks."
+      ],
+      "resources": [
+        {
+          "title": "OpenGeology — Geologic Time & Stratigraphy",
+          "url": "https://opengeology.org/textbook/7-geologic-time/",
+          "type": "textbook",
+          "description": "Steno's laws, time scale, unconformities"
+        },
+        {
+          "title": "BCcampus — Physical Geology 2e",
+          "url": "https://opentextbc.ca/physicalgeology2ed/",
+          "type": "textbook",
+          "description": "Open text with stratigraphy figures"
+        }
+      ],
+      "importance": "high",
+      "category": "Sedimentology & Stratigraphy",
+      "topics": ["unconformity", "Steno", "correlation", "time scale"]
+    },
+    {
+      "id": "5",
+      "title": "Pakistan Sedimentary Basins & Petroleum Geology",
+      "content": "Know basin names, tectono-stratigraphic frameworks, petroleum system elements and play types in Indus Basin (including Kohat–Potwar, Sulaiman, Kirthar, Offshore Indus).",
+      "keyTakeaways": [
+        "Source–reservoir–seal–trap sequencing in time and space.",
+        "Recall classic reservoirs (e.g., Goru, Pab) and seals.",
+        "Use official basin maps in answers."
+      ],
+      "resources": [
+        {
+          "title": "DGPC — Pakistan Onshore Sedimentary Basins (map/info)",
+          "url": "https://dgpc.gov.pk/",
+          "type": "portal",
+          "description": "Official regulator; basins & concessions"
+        },
+        {
+          "title": "AAPG Wiki — Petroleum System (elements & processes)",
+          "url": "https://wiki.aapg.org/Petroleum_system",
+          "type": "reference",
+          "description": "Source–reservoir–seal–overburden; timing"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Geology & Regional Studies",
+      "topics": ["Indus Basin", "Kohat–Potwar", "Goru", "Pab", "petroleum system"]
+    },
+    {
+      "id": "6",
+      "title": "Hydrocarbon Traps & Plays",
+      "content": "Differentiate structural, stratigraphic, combination and fluidic traps; sketch anticline/fault/stratigraphic pinch-out traps; tie to sequence stratigraphy.",
+      "keyTakeaways": [
+        "Levorsen's scheme: structural, stratigraphic, combination.",
+        "Trap size depends on geometry, dip, and seal continuity.",
+        "Relate plays to Pakistan basins for context."
+      ],
+      "resources": [
+        {
+          "title": "AAPG Wiki — Trap classification",
+          "url": "https://wiki.aapg.org/Trap_classification",
+          "type": "reference",
+          "description": "Core taxonomy of traps"
+        },
+        {
+          "title": "AAPG Wiki — Trap systems (structural/stratigraphic/fluidic)",
+          "url": "https://wiki.aapg.org/Trap_systems%3A_structural%2C_stratigraphic%2C_and_fluidic",
+          "type": "reference",
+          "description": "Systems approach to traps"
+        },
+        {
+          "title": "AAPG Wiki — Stratigraphic trap",
+          "url": "https://wiki.aapg.org/Stratigraphic_trap",
+          "type": "reference",
+          "description": "Depositional/erosional/diagenetic controls"
+        }
+      ],
+      "importance": "high",
+      "category": "Economic Geology (Hydrocarbons & Ore)",
+      "topics": ["traps", "plays", "anticline", "pinch-out", "sequence stratigraphy"]
+    },
+    {
+      "id": "7",
+      "title": "Wireline Logging & Log Interpretation (Exam-level Basics)",
+      "content": "Understand what logs measure (resistivity, density-neutron, sonic, gamma), how data are acquired, and how to infer lithology/porosity/fluid type.",
+      "keyTakeaways": [
+        "Define wireline vs. MWD/LWD; list common logs.",
+        "Use GR + resistivity + density-neutron cross-plots for quick lithology/fluid calls.",
+        "Know what a caliper or CBL indicates for well integrity."
+      ],
+      "resources": [
+        {
+          "title": "SLB Oilfield Glossary — Wireline log",
+          "url": "https://www.glossary.oilfield.slb.com/Terms/w/wireline_log",
+          "type": "reference",
+          "description": "Definition & scope"
+        },
+        {
+          "title": "SLB Oilfield Review — Intro to Wireline Logging",
+          "url": "https://www.slb.com/resource-library/oilfield-review/defining-series/defining-logging",
+          "type": "article",
+          "description": "What logs tell you & why"
+        },
+        {
+          "title": "SLB — Basic Well Log Interpretation",
+          "url": "https://www.slb.com/resource-library/oilfield-review/defining-series/defining-log-interpretation",
+          "type": "article",
+          "description": "Quick primer on reading logs"
+        }
+      ],
+      "importance": "high",
+      "category": "Geophysics & Exploration Methods",
+      "topics": ["wireline", "gamma ray", "resistivity", "density-neutron", "CBL"]
+    },
+    {
+      "id": "8",
+      "title": "Geophysical Methods: Gravity, Resistivity & Seismic (Intro)",
+      "content": "Be able to state principles, field layouts and typical targets for gravity, DC resistivity and basic seismic. Sketch a Bouguer anomaly, Wenner/Schlumberger arrays, and seismic refraction/reflection concepts.",
+      "keyTakeaways": [
+        "Gravity contrasts → density variations; exploration & basement mapping.",
+        "Resistivity contrasts → lithology, fluids, aquifers/contamination.",
+        "Seismic images structure/stratigraphy; selection depends on objective/cost."
+      ],
+      "resources": [
+        {
+          "title": "AAPG Wiki — Elements of Gravity",
+          "url": "https://wiki.aapg.org/Elements_of_gravity",
+          "type": "reference",
+          "description": "Gravity method fundamentals"
+        },
+        {
+          "title": "USGS — DC Resistivity Method (TWRI 2-D1)",
+          "url": "https://pubs.usgs.gov/twri/twri2-d1/pdf/twri_2-D1_b.pdf",
+          "type": "manual",
+          "description": "Theory & field procedures"
+        },
+        {
+          "title": "EPA CLU-IN — Geophysics Overview",
+          "url": "https://clu-in.org/characterization/technologies/geophysics/",
+          "type": "guide",
+          "description": "Applied introduction incl. seismic"
+        }
+      ],
+      "importance": "high",
+      "category": "Geophysics & Exploration Methods",
+      "topics": ["gravity", "resistivity", "seismic", "arrays", "anomalies"]
+    },
+    {
+      "id": "9",
+      "title": "Silicate Minerals & Mineral Groups (Neso–Soro–Ino–Phyllo–Tecto)",
+      "content": "CSS repeatedly asks for silicate classification and key rock-forming minerals (feldspars, pyroxenes, amphiboles, olivine, micas, quartz).",
+      "keyTakeaways": [
+        "Classify by SiO4 linkage; recall typical chemistries/structures.",
+        "Know plagioclase solid solution (albite–anorthite).",
+        "Link properties to hand-specimen identification."
+      ],
+      "resources": [
+        {
+          "title": "Open Textbook — Structure & Classification of Silicates",
+          "url": "https://opentextbc.ca/physicalgeology2ed/",
+          "type": "textbook",
+          "description": "Silicate subclasses & properties"
+        },
+        {
+          "title": "LibreTexts — Introduction to Mineralogy (Perkins)",
+          "url": "https://geo.libretexts.org/Bookshelves/Geology/Book%3A_An_Introduction_to_Geology_%28Johnson_Affolter_Inkenbrandt_and_Mosher%29",
+          "type": "textbook",
+          "description": "Open mineralogy content"
+        },
+        {
+          "title": "OpenGeology — Minerals chapter",
+          "url": "https://opengeology.org/textbook/",
+          "type": "textbook",
+          "description": "Free mineralogy chapter with figures"
+        }
+      ],
+      "importance": "high",
+      "category": "Mineralogy & Petrology",
+      "topics": ["silicates", "plagioclase", "olivine", "pyroxene", "quartz"]
+    },
+    {
+      "id": "10",
+      "title": "Igneous Rocks — IUGS/QAPF & TAS (nomenclature)",
+      "content": "Be able to classify plutonic rocks with QAPF and volcanic rocks with TAS; relate to Bowen's reaction series and tectonic setting.",
+      "keyTakeaways": [
+        "Use modal Q-A-P-F for phaneritic rocks; TAS for fine-grained/altered.",
+        "Remember alkaline vs tholeiitic trends and their settings.",
+        "Cite examples in Pakistan (e.g., Chagai magmatics)."
+      ],
+      "resources": [
+        {
+          "title": "BGS Rock Classification Scheme (overview & volumes)",
+          "url": "https://nora.nerc.ac.uk/id/eprint/536190/1/1-s2.0-S2590197423000290-main.pdf",
+          "type": "paper",
+          "description": "Summarizes RCS incl. igneous volume"
+        }
+      ],
+      "importance": "medium",
+      "category": "Mineralogy & Petrology",
+      "topics": ["QAPF", "TAS", "IUGS", "Bowen", "magmas"]
+    },
+    {
+      "id": "11",
+      "title": "Metamorphic Facies & Barrovian Metamorphism",
+      "content": "Link P–T conditions to facies (greenschist→amphibolite→granulite; blueschist/epidote-blueschist in subduction). Understand index minerals and Barrovian zones.",
+      "keyTakeaways": [
+        "Draw a facies diagram and place typical mineral assemblages.",
+        "Barrovian sequence: chlorite→biotite→garnet→staurolite→kyanite→sillimanite.",
+        "Relate facies to plate settings (collision vs subduction)."
+      ],
+      "resources": [
+        {
+          "title": "USGS — Metamorphic Facies (map & primer)",
+          "url": "https://education.usgs.gov/learn/diagrams/metamorphic-facies.html",
+          "type": "article",
+          "description": "Facies overview with visuals"
+        },
+        {
+          "title": "Smith College — Barrovian Metamorphism (lecture notes)",
+          "url": "https://www.science.smith.edu/~jbrady/barrovian/",
+          "type": "notes",
+          "description": "Zones & index minerals"
+        }
+      ],
+      "importance": "medium",
+      "category": "Mineralogy & Petrology",
+      "topics": ["metamorphic facies", "Barrovian", "index minerals", "P–T"]
+    },
+    {
+      "id": "12",
+      "title": "Sedimentology: Weathering → Transport → Deposition",
+      "content": "Differentiate weathering, erosion and transport; describe clastic textures, carbonate textures (Dunham), and common sedimentary structures (cross-bedding, ripple marks, graded bedding, turbidites).",
+      "keyTakeaways": [
+        "Relate grain size/rounding/sorting to energy and distance.",
+        "Know basic carbonate textures and allochems.",
+        "Use structures to infer flow directions and environments."
+      ],
+      "resources": [
+        {
+          "title": "OpenGeology — Weathering, Sedimentary Rocks",
+          "url": "https://slcc.pressbooks.pub/introgeology/",
+          "type": "textbook",
+          "description": "Open textbook chapter set"
+        },
+        {
+          "title": "BGS RCS — Sedimentary Rocks (RR 99-03)",
+          "url": "https://nora.nerc.ac.uk/id/eprint/3227/1/RR99003.pdf",
+          "type": "manual",
+          "description": "Systematic sedimentary naming"
+        }
+      ],
+      "importance": "medium",
+      "category": "Sedimentology & Stratigraphy",
+      "topics": ["weathering", "clastics", "carbonates", "structures"]
+    },
+    {
+      "id": "13",
+      "title": "Pakistan Stratigraphy Focus — Salt Range & Potwar",
+      "content": "High-yield locality spanning Precambrian evaporites to Siwalik molasse. Expect questions on successions, index fossils, coal horizons, thrust geometry and salt tectonics.",
+      "keyTakeaways": [
+        "Memorize a simplified strat column with key formations.",
+        "Use USGS/BGS and recent papers for updated interpretations.",
+        "Tie to hydrocarbon systems (e.g., Cambrian–Eocene reservoirs)."
+      ],
+      "resources": [
+        {
+          "title": "USGS Bulletin 2096 — Surghar & Salt Range coal fields",
+          "url": "https://pubs.usgs.gov/bul/b2096/B2096.pdf",
+          "type": "report",
+          "description": "Lithofacies & palynostratigraphy"
+        },
+        {
+          "title": "GSA Bulletin — Cambrian Geology of the Salt Range (open)",
+          "url": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/132/1-2/446/573348/Cambrian-geology-of-the-Salt-Range-of-Pakistan",
+          "type": "paper",
+          "description": "Updated Cambrian framework"
+        },
+        {
+          "title": "MDPI — Stratigraphic Controls in Salt Range (2021)",
+          "url": "https://www.mdpi.com/2077-1312/9/12/1372",
+          "type": "paper",
+          "description": "Facies & sequence stratigraphy"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Geology & Regional Studies",
+      "topics": ["Salt Range", "Potwar", "Siwalik", "stratigraphy", "coal"]
+    },
+    {
+      "id": "14",
+      "title": "Paleontology & Biostratigraphy (Forams, Trilobites & Index Fossils)",
+      "content": "Know what makes a good index fossil; use foraminifera in biostratigraphy and reservoir studies; cite trilobites for Paleozoic time slices.",
+      "keyTakeaways": [
+        "Index fossils: wide distribution, rapid evolution, easy ID.",
+        "Forams are central to marine biostratigraphy and paleo-environments.",
+        "Tie fossil data to sequence stratigraphy surfaces."
+      ],
+      "resources": [
+        {
+          "title": "BGS/NERC — Palynostratigraphy (Permian, Pakistan example)",
+          "url": "https://nora.nerc.ac.uk/id/eprint/9892/1/Palynostratigraphic_correlation_of_the_Sardhai_Formation_%28Permian%29_of_Pakistan.pdf",
+          "type": "paper",
+          "description": "Applied microfossil correlation"
+        },
+        {
+          "title": "Open Textbook — Earth History & Fossils (OpenGeology)",
+          "url": "https://opengeology.org/textbook/",
+          "type": "textbook",
+          "description": "Intro to fossils & time"
+        }
+      ],
+      "importance": "medium",
+      "category": "Paleontology & Biostratigraphy",
+      "topics": ["index fossil", "foraminifera", "trilobites", "biostratigraphy"]
+    },
+    {
+      "id": "15",
+      "title": "Engineering Geology of Dams & Tunnels (Site Investigation)",
+      "content": "CSS frequently tests dam site selection/investigation. Cover rock mass properties, discontinuities, permeability (Lugeon), seepage, slope stability, and instrumentation.",
+      "keyTakeaways": [
+        "Integrate geology, geotech testing, and geophysics.",
+        "Recognize karst/soluble horizons and faulted ground as risks.",
+        "Sketch a dam site investigation workflow."
+      ],
+      "resources": [
+        {
+          "title": "USBR — Design of Small Dams (PDF)",
+          "url": "https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/SmallDams.pdf",
+          "type": "manual",
+          "description": "Classic dam design/investigation guide"
+        },
+        {
+          "title": "USBR — Engineering Geology Field Manual",
+          "url": "https://www.usbr.gov/tsc/geology/egfm/",
+          "type": "manual",
+          "description": "Field logging, discontinuities, seepage"
+        },
+        {
+          "title": "USACE — Slope Stability (EM 1110-2-1902)",
+          "url": "https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM_1110-2-1902.pdf",
+          "type": "manual",
+          "description": "Stability analysis & mitigation"
+        }
+      ],
+      "importance": "high",
+      "category": "Engineering & Environmental Geology",
+      "topics": ["dam site", "Lugeon", "slope stability", "permeability"]
+    },
+    {
+      "id": "16",
+      "title": "Landslides (Northern Pakistan) — Causes & Mitigation",
+      "content": "Integrate lithology, structure, rainfall, seismicity and human factors; know monitoring and stabilization measures. Use Pakistan case studies (Hunza/Attabad, monsoon triggers).",
+      "keyTakeaways": [
+        "Map susceptibility: bedding–slope angle, faults, saturation.",
+        "Mitigation: drainage, retaining structures, bio-engineering.",
+        "Cite NDMA guidance and recent InSAR studies."
+      ],
+      "resources": [
+        {
+          "title": "NDMA Pakistan — Landslide/DRM Guidelines",
+          "url": "https://cms.ndma.gov.pk/",
+          "type": "guidance",
+          "description": "National disaster management resources"
+        },
+        {
+          "title": "ThinkHazard! — Pakistan Landslide Risk",
+          "url": "https://thinkhazard.org/en/report/195-pakistan/LS",
+          "type": "risk profile",
+          "description": "Country-level hazard overview"
+        },
+        {
+          "title": "Remote Sens. (MDPI) — Landslide Monitoring (Hunza, 2020)",
+          "url": "https://www.mdpi.com/2072-4292/12/2/271",
+          "type": "paper",
+          "description": "InSAR-based case study"
+        }
+      ],
+      "importance": "high",
+      "category": "Engineering & Environmental Geology",
+      "topics": ["landslides", "Hunza", "Attabad", "mitigation", "monsoon"]
+    },
+    {
+      "id": "17",
+      "title": "Groundwater & Aquifers (Darcy's Law; Resistivity in Hydrogeology)",
+      "content": "Differentiate confined vs unconfined aquifers, porosity vs permeability, and apply Darcy's Law. Know where resistivity profiling helps map aquifers and contamination.",
+      "keyTakeaways": [
+        "Interpret cone of depression and well interference.",
+        "Relate lithology to resistivity (clay vs sand/gravel).",
+        "Cite standard manuals when writing procedures."
+      ],
+      "resources": [
+        {
+          "title": "USBR — Ground Water Manual (PDF)",
+          "url": "https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/GndWater.pdf",
+          "type": "manual",
+          "description": "Aquifer hydraulics & well design"
+        },
+        {
+          "title": "USGS — Square-Array DC Resistivity (fracture orientation)",
+          "url": "https://water.usgs.gov/ogw/bgas/square/",
+          "type": "method note",
+          "description": "Example of resistivity in hydrogeology"
+        },
+        {
+          "title": "USGS — Electrical Resistivity (overview)",
+          "url": "https://pubs.usgs.gov/of/2000/ofr-00-0110/REPORT/ofr00110.pdf",
+          "type": "report",
+          "description": "Principles & data examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Engineering & Environmental Geology",
+      "topics": ["Darcy's law", "aquifers", "resistivity", "hydrogeology"]
+    },
+    {
+      "id": "18",
+      "title": "Video Learning — Fast Visuals for Exam Diagrams",
+      "content": "Use concise videos/playlists to reinforce structures, seismic/earthquakes and mapping skills; reproduce diagrams after watching.",
+      "keyTakeaways": [
+        "IRIS animations clarify seismic waves & faults.",
+        "MIT OCW lectures cover intro geology concepts.",
+        "GSP/Documentary videos give local context."
+      ],
+      "resources": [
+        {
+          "title": "IRIS Earthquake Science — YouTube Channel",
+          "url": "https://www.youtube.com/channel/UCo7diqNFmYbm8nrVUEPtTsQ",
+          "type": "video",
+          "description": "Animations on waves, faults, tectonics"
+        },
+        {
+          "title": "MIT OpenCourseWare — Intro Geology (playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_uJm7wvK",
+          "type": "video",
+          "description": "Full intro course, free"
+        },
+        {
+          "title": "Geological Survey of Pakistan — Documentary (YouTube)",
+          "url": "https://www.youtube.com/watch?v=2rSgP7c0F5Q",
+          "type": "video",
+          "description": "Pakistan geology overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Geophysics & Exploration Methods",
+      "topics": ["seismology", "faults", "diagrams", "visual learning"]
+    }
+  ]
+}

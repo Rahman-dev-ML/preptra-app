@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:22:34.615Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "e1fc0d651e95c0e7d8b2ca541bbc82508456022f",
+      "sectionIndex": 0,
+      "question": "The difference between a hypothesis and a theory is that:",
+      "options": [
+        "A) They are identical concepts",
+        "B) A hypothesis is a testable prediction while a theory is a broad explanation supported by evidence",
+        "C) Theories come before hypotheses",
+        "D) Hypotheses cannot be tested"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e13d89c5257d684e08c7950c0472685ac4950910",
+      "sectionIndex": 0,
+      "question": "In an experiment studying the effect of caffeine on memory, caffeine is the:",
+      "options": [
+        "A) Dependent variable",
+        "B) Independent variable",
+        "C) Confounding variable",
+        "D) Control variable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe6d8677d0778e0bd40d3bb0809a31dace4a1bb5",
+      "sectionIndex": 0,
+      "question": "A double-blind study is one where:",
+      "options": [
+        "A) Participants wear blindfolds",
+        "B) Neither participants nor researchers know who receives treatment",
+        "C) Only participants are unaware",
+        "D) The study is conducted twice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4373bdc23b449452232f4d0e447ff77bb7f84ed6",
+      "sectionIndex": 0,
+      "question": "External validity refers to:",
+      "options": [
+        "A) Whether results can be generalized to other populations",
+        "B) Internal consistency",
+        "C) Statistical significance",
+        "D) Ethical approval"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "954b10f0deb23b093e7e4c196cf24e565bbcd547",
+      "sectionIndex": 0,
+      "question": "The Hawthorne effect demonstrates that:",
+      "options": [
+        "A) Light improves productivity",
+        "B) People may change behavior when they know they're being observed",
+        "C) Rewards always increase performance",
+        "D) Groups work better than individuals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "399cc83847cddf695fe095982ce63cedace82283",
+      "sectionIndex": 0,
+      "question": "Informed consent requires all EXCEPT:",
+      "options": [
+        "A) Voluntary participation",
+        "B) Understanding of procedures",
+        "C) Deception about the study's purpose",
+        "D) Right to withdraw"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dfd564a5bc281f6d807896dbda384d43c7c6c48e",
+      "sectionIndex": 0,
+      "question": "The Stanford Prison Experiment raised ethical concerns about:",
+      "options": [
+        "A) Deception only",
+        "B) Psychological harm and role-playing effects",
+        "C) Informed consent only",
+        "D) Payment of participants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32333e22a095d4e177c21ac2f175c5bb76cd4de8",
+      "sectionIndex": 0,
+      "question": "A correlation coefficient of -0.85 indicates:",
+      "options": [
+        "A) No relationship",
+        "B) Strong positive relationship",
+        "C) Strong negative relationship",
+        "D) Measurement error"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bb1cfe2a10ed28cd10ecef3704a5053d89147994",
+      "sectionIndex": 0,
+      "question": "Random assignment helps to:",
+      "options": [
+        "A) Increase external validity",
+        "B) Control for participant differences",
+        "C) Ensure ethical treatment",
+        "D) Reduce sample size needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "364c3fb41b182917d3f6ca6924687fc6ae1ea562",
+      "sectionIndex": 0,
+      "question": "The replication crisis in psychology refers to:",
+      "options": [
+        "A) Too many studies being conducted",
+        "B) Difficulty in reproducing research findings",
+        "C) Lack of funding",
+        "D) Ethical violations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bedc23602b1a7d8fb872249a9d6bbed04244308d",
+      "sectionIndex": 1,
+      "question": "The action potential follows the principle of:",
+      "options": [
+        "A) Gradual increase",
+        "B) All-or-none response",
+        "C) Partial activation",
+        "D) Random firing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4caf606caf2f81638529a23b3ba03deba8788d2d",
+      "sectionIndex": 1,
+      "question": "Dopamine dysfunction is associated with:",
+      "options": [
+        "A) Only depression",
+        "B) Both Parkinson's disease and schizophrenia",
+        "C) Only anxiety",
+        "D) Sleep disorders only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed29084ab0db7b3963c54618074dcaedc6f0f524",
+      "sectionIndex": 1,
+      "question": "The hippocampus is crucial for:",
+      "options": [
+        "A) Motor control",
+        "B) Memory formation",
+        "C) Emotion regulation only",
+        "D) Vision processing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f05a54f8eb75e34178c5051ce45ea540eaefd8a5",
+      "sectionIndex": 1,
+      "question": "Split-brain research by Sperry demonstrated:",
+      "options": [
+        "A) The brain cannot be divided",
+        "B) Hemispheric specialization",
+        "C) All functions are bilateral",
+        "D) Corpus callosum has no function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "163005eda4e99761a8eaec040f057f5d6f345312",
+      "sectionIndex": 1,
+      "question": "Neuroplasticity refers to:",
+      "options": [
+        "A) Plastic surgery on the brain",
+        "B) The brain's ability to reorganize and form new connections",
+        "C) Brain damage",
+        "D) Fixed brain structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1def2776e8112952c5bd27e69d84ca2316af1961",
+      "sectionIndex": 1,
+      "question": "The sympathetic nervous system:",
+      "options": [
+        "A) Promotes rest and digestion",
+        "B) Activates fight-or-flight response",
+        "C) Only controls voluntary movement",
+        "D) Has no effect on emotions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "587dc79f5c67b01c4bcd95c2da9459f1dab06363",
+      "sectionIndex": 1,
+      "question": "Mirror neurons are significant because they:",
+      "options": [
+        "A) Reflect light",
+        "B) May underlie empathy and learning through observation",
+        "C) Only exist in mirrors",
+        "D) Control reflection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c87f68da240d3eec1ea08b98294eb3a3c67f31e",
+      "sectionIndex": 1,
+      "question": "The endocrine system influences behavior through:",
+      "options": [
+        "A) Electrical signals only",
+        "B) Hormones released into bloodstream",
+        "C) Direct neural connections",
+        "D) No behavioral influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24bd90bab72756432122a6e3be055022785477a1",
+      "sectionIndex": 1,
+      "question": "The amygdala's primary role involves:",
+      "options": [
+        "A) Language processing",
+        "B) Emotional processing, particularly fear",
+        "C) Motor coordination",
+        "D) Visual processing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ff448c89a290b8dd9a75c3754ac271a1124cbb8",
+      "sectionIndex": 1,
+      "question": "Broca's area damage typically results in:",
+      "options": [
+        "A) Inability to understand speech",
+        "B) Difficulty producing speech",
+        "C) Memory loss",
+        "D) Vision problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a03f66701f2eaca3223fbfa79f8649ed5ef4ae39",
+      "sectionIndex": 2,
+      "question": "The partial reinforcement extinction effect shows that:",
+      "options": [
+        "A) Partial reinforcement leads to faster extinction",
+        "B) Behaviors reinforced intermittently are more resistant to extinction",
+        "C) Continuous reinforcement is always better",
+        "D) Extinction is impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98fcea706d8b709566734ae470d57bcddaabdfc4",
+      "sectionIndex": 2,
+      "question": "Latent learning demonstrates that:",
+      "options": [
+        "A) Learning only occurs with reinforcement",
+        "B) Learning can occur without immediate performance",
+        "C) All learning is visible",
+        "D) Cognitive maps don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ed2a32e56ea2416f8799876b288e13dc4a25480",
+      "sectionIndex": 2,
+      "question": "The difference between escape and avoidance learning is:",
+      "options": [
+        "A) They are identical",
+        "B) Escape removes existing aversive stimulus; avoidance prevents it",
+        "C) Only timing differs",
+        "D) Neither involves negative reinforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b2f291e6ddaf467a05c65d43098d5e5a015fb0c",
+      "sectionIndex": 2,
+      "question": "Kohler's insight learning experiments showed:",
+      "options": [
+        "A) Only trial-and-error learning exists",
+        "B) Sudden understanding can solve problems",
+        "C) Animals cannot think",
+        "D) Reinforcement is always necessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb4baee7f357d9c01e5cf38db91a0a745e920f1f",
+      "sectionIndex": 2,
+      "question": "Tolman's cognitive maps research challenged:",
+      "options": [
+        "A) All learning theories",
+        "B) Strict behaviorist interpretations of learning",
+        "C) The existence of learning",
+        "D) Cognitive psychology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1d4b7c7734da5716143830b69058c251500e00c",
+      "sectionIndex": 2,
+      "question": "Learned helplessness occurs when:",
+      "options": [
+        "A) People are lazy",
+        "B) Repeated failure leads to belief that outcomes are uncontrollable",
+        "C) Learning is too easy",
+        "D) Help is always available"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "144f5b3f0084b259176b25f834fdab206c498acd",
+      "sectionIndex": 2,
+      "question": "The Garcia effect demonstrates:",
+      "options": [
+        "A) All associations are equally learnable",
+        "B) Biological preparedness affects conditioning",
+        "C) Taste aversion is impossible",
+        "D) Classical conditioning doesn't work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b997c4e9da05d6c9ed631e1acb334a56e3aa32df",
+      "sectionIndex": 2,
+      "question": "Metacognition refers to:",
+      "options": [
+        "A) Beyond cognition",
+        "B) Thinking about thinking",
+        "C) Absence of thought",
+        "D) Automatic processing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7528882a26adf5fb073a62b4045f8e4df59da6c",
+      "sectionIndex": 2,
+      "question": "The generation effect shows that:",
+      "options": [
+        "A) Different generations learn differently",
+        "B) Self-generated information is better remembered",
+        "C) Teaching doesn't work",
+        "D) Memory declines with age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ede26802f972a86b1b3191cf4791e0ded3eeabe9",
+      "sectionIndex": 2,
+      "question": "Priming effects demonstrate:",
+      "options": [
+        "A) Memory is always conscious",
+        "B) Prior exposure influences subsequent processing",
+        "C) First impressions don't matter",
+        "D) Memory is completely reliable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6f222fe8000466ec790b2b322e5e8709b793519",
+      "sectionIndex": 3,
+      "question": "The Strange Situation procedure assesses:",
+      "options": [
+        "A) Intelligence in children",
+        "B) Attachment styles between infant and caregiver",
+        "C) Language development",
+        "D) Motor skills"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4532f77abc8445a8ea975b71cd4143f7662b150c",
+      "sectionIndex": 3,
+      "question": "Vygotsky's scaffolding concept suggests:",
+      "options": [
+        "A) Children learn alone",
+        "B) Temporary support helps children reach higher developmental levels",
+        "C) Development is fixed",
+        "D) Social interaction hinders learning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7df9448d34871fa33e222ee0bcf872d3b0394b48",
+      "sectionIndex": 3,
+      "question": "Theory of mind typically develops around:",
+      "options": [
+        "A) Birth",
+        "B) Age 4-5 years",
+        "C) Adolescence",
+        "D) Adulthood"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "986fff1fbfdb88c2ac6a136e6f1f59f8d3233857",
+      "sectionIndex": 3,
+      "question": "Kohlberg's stages of moral development are criticized for:",
+      "options": [
+        "A) Being too simple",
+        "B) Cultural and gender bias",
+        "C) Having too many stages",
+        "D) Focusing on behavior only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9aa9db2ff4063359487386ff2eb6a9853b7eb2f",
+      "sectionIndex": 3,
+      "question": "The critical period hypothesis for language suggests:",
+      "options": [
+        "A) Language can be learned anytime",
+        "B) Optimal window exists for language acquisition",
+        "C) Adults learn language better",
+        "D) Critical periods don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc8ce29f831fbbf1cb5c5fba29d76fc3516e4d00",
+      "sectionIndex": 3,
+      "question": "Temperament research shows that:",
+      "options": [
+        "A) All babies are identical",
+        "B) Early temperamental differences may predict later personality",
+        "C) Environment has no effect",
+        "D) Temperament is unchangeable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cfe1bcfc24ec0b41d1b72ce6322081733974121",
+      "sectionIndex": 3,
+      "question": "Adolescent egocentrism includes:",
+      "options": [
+        "A) Selfishness only",
+        "B) Imaginary audience and personal fable",
+        "C) No social awareness",
+        "D) Complete maturity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d28985b6c030c08cca0c0ae7ef73bb77e384d86",
+      "sectionIndex": 3,
+      "question": "Emerging adulthood (18-25) is characterized by:",
+      "options": [
+        "A) Full independence",
+        "B) Identity exploration and instability",
+        "C) No development",
+        "D) Same as adolescence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "876a125a8e638e8a53c7e62a68b93aa8182a12d9",
+      "sectionIndex": 3,
+      "question": "The cohort effect in developmental research refers to:",
+      "options": [
+        "A) Group cooperation",
+        "B) Generational differences affecting results",
+        "C) Sample size",
+        "D) Research funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a177073cec2fd286d6a65fe979e23d31cec329ed",
+      "sectionIndex": 3,
+      "question": "Epigenetics in development shows:",
+      "options": [
+        "A) Genes are destiny",
+        "B) Environmental factors can influence gene expression",
+        "C) DNA never changes",
+        "D) Environment doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4fc5074286c87e6ac79ed3241efb397d07f3886",
+      "sectionIndex": 4,
+      "question": "The main criticism of Freud's psychoanalytic theory is:",
+      "options": [
+        "A) Too simple",
+        "B) Lack of empirical support and falsifiability",
+        "C) Too optimistic",
+        "D) Focuses too much on behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85d6f1d8912f02c4aa8fae227be4007cb0d50b01",
+      "sectionIndex": 4,
+      "question": "Factor analysis in personality research led to:",
+      "options": [
+        "A) Rejection of all theories",
+        "B) Identification of core personality dimensions",
+        "C) Proof that personality doesn't exist",
+        "D) Single personality type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e3545914ef5c323105408d85fce796970b2f5d5",
+      "sectionIndex": 4,
+      "question": "The person-situation debate concluded that:",
+      "options": [
+        "A) Only personality matters",
+        "B) Behavior results from interaction of personality and situation",
+        "C) Only situations matter",
+        "D) Neither matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95bcd8de014e9d10f4945b7b17ef38cad799ffc5",
+      "sectionIndex": 4,
+      "question": "Projective tests are criticized for:",
+      "options": [
+        "A) Being too structured",
+        "B) Low reliability and validity",
+        "C) Being too easy",
+        "D) High cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc472034102f270e53c0fc2616efe5604566bae7",
+      "sectionIndex": 4,
+      "question": "The Barnum effect in personality assessment refers to:",
+      "options": [
+        "A) Circus psychology",
+        "B) Accepting vague, general statements as personally meaningful",
+        "C) Test anxiety",
+        "D) Cultural bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "678f5b16305e3234dfdbe1803786846d529c501f",
+      "sectionIndex": 4,
+      "question": "Self-report personality measures assume:",
+      "options": [
+        "A) People always lie",
+        "B) Individuals have accurate self-knowledge",
+        "C) Objective observation is impossible",
+        "D) Personality cannot be measured"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01de9394632b927f7ebff905070686ed8eaebae9",
+      "sectionIndex": 4,
+      "question": "The Minnesota Multiphasic Personality Inventory (MMPI) includes:",
+      "options": [
+        "A) Only clinical scales",
+        "B) Validity scales to detect response patterns",
+        "C) Projective techniques",
+        "D) Intelligence measures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da1c0db6ce2cd5d99ad8603eee54f4366bef909a",
+      "sectionIndex": 4,
+      "question": "Cultural differences in personality assessment require:",
+      "options": [
+        "A) Same tests everywhere",
+        "B) Culturally adapted norms and interpretations",
+        "C) Avoiding assessment",
+        "D) English-only testing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90e1f637b23bef11447c138309363f98a1cbe692",
+      "sectionIndex": 4,
+      "question": "The Five-Factor Model emerged from:",
+      "options": [
+        "A) Theory alone",
+        "B) Lexical analysis and factor analysis across cultures",
+        "C) Clinical observation only",
+        "D) Animal studies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02792b08840e1582fc962648bc4aa4a23e749dc1",
+      "sectionIndex": 4,
+      "question": "Implicit personality theories affect:",
+      "options": [
+        "A) Test construction only",
+        "B) How we perceive and judge others' personalities",
+        "C) Nothing important",
+        "D) Only psychologists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57691c8fb45668ec93c77de68ba4344ef517e3e7",
+      "sectionIndex": 5,
+      "question": "The Schachter-Singer theory emphasizes:",
+      "options": [
+        "A) Physiology alone determines emotion",
+        "B) Cognitive appraisal of arousal determines emotional experience",
+        "C) Emotions occur without thought",
+        "D) Arousal is unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cda0c20dec2cf0e5f2fe0acca908a8202039520",
+      "sectionIndex": 5,
+      "question": "The misattribution of arousal studies show:",
+      "options": [
+        "A) Arousal is always correctly identified",
+        "B) People may mislabel the source of physiological arousal",
+        "C) Emotions are always accurate",
+        "D) Cognition plays no role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82436ec98a5992de0f60c2a43c4b318eb946c1b4",
+      "sectionIndex": 5,
+      "question": "Intrinsic motivation can be undermined by:",
+      "options": [
+        "A) Interest in the task",
+        "B) Excessive external rewards",
+        "C) Mastery goals",
+        "D) Autonomy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7022a09fefcd61e64a18d6240e98205d945a6b5c",
+      "sectionIndex": 5,
+      "question": "Self-Determination Theory identifies needs for:",
+      "options": [
+        "A) Food, water, shelter",
+        "B) Autonomy, competence, and relatedness",
+        "C) Money and fame",
+        "D) Power only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2e438b6a23c2653e6577cb53427265d24560583",
+      "sectionIndex": 5,
+      "question": "The Yerkes-Dodson law describes:",
+      "options": [
+        "A) Linear relationship between arousal and performance",
+        "B) Inverted U-shaped relationship between arousal and performance",
+        "C) No relationship exists",
+        "D) High arousal always improves performance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd73d249bef220b79c09d7ab00e708dff8bb5cf0",
+      "sectionIndex": 5,
+      "question": "Emotional intelligence differs from IQ in:",
+      "options": [
+        "A) No real difference",
+        "B) Focus on emotional awareness and regulation",
+        "C) Being less important",
+        "D) Being unmeasurable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6ce8e73f110daea280c1d7826fe25792ae33c23",
+      "sectionIndex": 5,
+      "question": "The broaden-and-build theory suggests positive emotions:",
+      "options": [
+        "A) Narrow focus",
+        "B) Expand awareness and build resources",
+        "C) Are less important than negative",
+        "D) Should be avoided"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c7e5fea522ba4b1f7d435297c9180e0a7d70743",
+      "sectionIndex": 5,
+      "question": "Display rules for emotions are:",
+      "options": [
+        "A) Universal across cultures",
+        "B) Culturally specific norms for emotional expression",
+        "C) Biologically determined",
+        "D) Absent in humans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1379c306ecef8d259390612942ec515282c56506",
+      "sectionIndex": 5,
+      "question": "The hedonic treadmill concept explains:",
+      "options": [
+        "A) Exercise and happiness",
+        "B) Adaptation to positive and negative events",
+        "C) Constant happiness",
+        "D) Permanent sadness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "749620fe980c5feb3cc1f99209a68b99b2e930ed",
+      "sectionIndex": 5,
+      "question": "Achievement motivation research distinguishes between:",
+      "options": [
+        "A) Success and failure only",
+        "B) Mastery and performance goal orientations",
+        "C) Intelligence levels",
+        "D) Gender differences only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e516ad6d14cceb715ed18934251e083b570d4774",
+      "sectionIndex": 6,
+      "question": "The Flynn effect refers to:",
+      "options": [
+        "A) Decreasing IQ scores",
+        "B) Rising IQ scores across generations",
+        "C) Gender differences in IQ",
+        "D) Cultural bias in testing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df1b26a4e61ddfcc8bd210ec92a550158c401d2a",
+      "sectionIndex": 6,
+      "question": "Sternberg's triarchic theory includes:",
+      "options": [
+        "A) One type of intelligence",
+        "B) Analytical, creative, and practical intelligence",
+        "C) Only academic intelligence",
+        "D) Seven intelligences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59ce9bdfd78171ac37e455e1751ee2eaf317bdf9",
+      "sectionIndex": 6,
+      "question": "The availability heuristic leads to:",
+      "options": [
+        "A) Always correct judgments",
+        "B) Overestimating likelihood of easily recalled events",
+        "C) Perfect memory",
+        "D) Logical thinking"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4dfabdc04fe38c8873e7cd455eddee0c7f3cbaf",
+      "sectionIndex": 6,
+      "question": "Confirmation bias involves:",
+      "options": [
+        "A) Seeking disconfirming evidence",
+        "B) Favoring information that confirms existing beliefs",
+        "C) No bias in thinking",
+        "D) Random information processing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0f273ed3a042e32c144a1c2089b64b36d0b3153",
+      "sectionIndex": 6,
+      "question": "Working memory differs from short-term memory in:",
+      "options": [
+        "A) Duration only",
+        "B) Active manipulation versus passive storage",
+        "C) No difference exists",
+        "D) Capacity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc7e3a70ff5ad6f27c192cae88ec575db623a5e5",
+      "sectionIndex": 6,
+      "question": "The encoding specificity principle states:",
+      "options": [
+        "A) All memories are encoded equally",
+        "B) Retrieval is best when context matches encoding",
+        "C) Context doesn't matter",
+        "D) Encoding is unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b237775f7c8becab6d9e4aba8e81e65bc02b1787",
+      "sectionIndex": 6,
+      "question": "Prospective memory involves:",
+      "options": [
+        "A) Remembering the past",
+        "B) Remembering to perform future actions",
+        "C) Forgetting everything",
+        "D) Only semantic memory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa75851d07e3eb9a9f847c57ee3df4189616ddb8",
+      "sectionIndex": 6,
+      "question": "The testing effect demonstrates:",
+      "options": [
+        "A) Tests cause anxiety",
+        "B) Retrieval practice enhances retention",
+        "C) Multiple choice is best",
+        "D) Testing harms learning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9b0c0e3aa5a6d9195497f127d5f9595ef0c0502",
+      "sectionIndex": 6,
+      "question": "Crystallized intelligence increases with age while fluid intelligence:",
+      "options": [
+        "A) Also increases",
+        "B) Tends to decline",
+        "C) Remains constant",
+        "D) Cannot be measured"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f42be0478d1a0f6520c40db945e6bcc6a1b08738",
+      "sectionIndex": 6,
+      "question": "Divergent thinking is associated with:",
+      "options": [
+        "A) Single correct answers",
+        "B) Creative problem solving",
+        "C) Convergent thinking",
+        "D) Low intelligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87086492f8e6d5ac074a308a5f113ea17690bb3f",
+      "sectionIndex": 7,
+      "question": "The diathesis-stress model suggests:",
+      "options": [
+        "A) Stress alone causes disorders",
+        "B) Disorders result from predisposition plus environmental triggers",
+        "C) Genetics determine everything",
+        "D) Environment is unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d7d4a0909e669912e5f7ab177a0cfa941c62e23",
+      "sectionIndex": 7,
+      "question": "Cognitive-behavioral therapy differs from psychoanalysis in:",
+      "options": [
+        "A) Length of treatment only",
+        "B) Focus on present thoughts/behaviors versus unconscious conflicts",
+        "C) Effectiveness",
+        "D) Cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "385df20a633fed0fa477a6ba2ce1efcc851850b7",
+      "sectionIndex": 7,
+      "question": "The effectiveness of psychotherapy is supported by:",
+      "options": [
+        "A) Anecdotal evidence only",
+        "B) Meta-analyses showing moderate to large effect sizes",
+        "C) No scientific evidence",
+        "D) Placebo effects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1c48c9ae5f82b421c131126b0d743ba0a297f0b",
+      "sectionIndex": 7,
+      "question": "The DSM-5's dimensional approach recognizes:",
+      "options": [
+        "A) Disorders are completely distinct",
+        "B) Symptoms exist on continua rather than categories",
+        "C) Only severe cases matter",
+        "D) Diagnosis is unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa5aae1dc3cfb02670be5ac9ce1590a8460e64a2",
+      "sectionIndex": 7,
+      "question": "Evidence-based practice integrates:",
+      "options": [
+        "A) Research only",
+        "B) Research evidence, clinical expertise, and patient values",
+        "C) Tradition only",
+        "D) Insurance requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7eb74808a7c976aa32b91dc6e7214bd78e73f98",
+      "sectionIndex": 7,
+      "question": "The therapeutic alliance refers to:",
+      "options": [
+        "A) Therapist networks",
+        "B) Collaborative relationship between therapist and client",
+        "C) Insurance agreements",
+        "D) Group therapy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc0640b18d6c51ea4fcde9b6b642ee72d112d815",
+      "sectionIndex": 7,
+      "question": "Comorbidity in mental disorders means:",
+      "options": [
+        "A) Single diagnosis only",
+        "B) Presence of multiple disorders simultaneously",
+        "C) Fatal conditions",
+        "D) No treatment needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba3657c37758ec4b9eafbddd28d585e6f1927237",
+      "sectionIndex": 7,
+      "question": "The biopsychosocial model emphasizes:",
+      "options": [
+        "A) Biology only",
+        "B) Integration of biological, psychological, and social factors",
+        "C) Social factors only",
+        "D) Psychological factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "062b1f37b29af0afb9818fc8f81e4ff8525ec25e",
+      "sectionIndex": 7,
+      "question": "Mindfulness-based therapies incorporate:",
+      "options": [
+        "A) Unconscious analysis",
+        "B) Present-moment awareness and acceptance",
+        "C) Past focus only",
+        "D) Behavioral techniques only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "791dfccc24114684667e13509b09c7017a9bcd78",
+      "sectionIndex": 7,
+      "question": "Cultural competence in therapy requires:",
+      "options": [
+        "A) Treating everyone identically",
+        "B) Understanding cultural influences on mental health",
+        "C) Avoiding cultural topics",
+        "D) One therapeutic approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e50465f2dfcb2bc994a29ef7226e341ef8c693c1",
+      "sectionIndex": 8,
+      "question": "The Stanford Prison Experiment demonstrated:",
+      "options": [
+        "A) Prisoners are inherently bad",
+        "B) Situational factors can override personality",
+        "C) Guards are naturally cruel",
+        "D) Roles don't affect behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91f626481ff8e12dd508f8aff95ef03227c2ec81",
+      "sectionIndex": 8,
+      "question": "Implicit bias differs from explicit prejudice in being:",
+      "options": [
+        "A) More harmful",
+        "B) Unconscious and automatically activated",
+        "C) Easier to change",
+        "D) Always accurate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61d881170209c1721e2c3b8224584065f9c33797",
+      "sectionIndex": 8,
+      "question": "The contact hypothesis for reducing prejudice requires:",
+      "options": [
+        "A) Any contact between groups",
+        "B) Equal status contact with common goals",
+        "C) Segregation",
+        "D) Avoiding interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87210cb823c6a6d6f8e3d60b914c770521223ded",
+      "sectionIndex": 8,
+      "question": "Groupthink can be prevented by:",
+      "options": [
+        "A) Strong leadership",
+        "B) Encouraging dissent and outside opinions",
+        "C) Quick decisions",
+        "D) Unanimous agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c5cbd195db4f036f92fac72d205c3a66b3f098a",
+      "sectionIndex": 8,
+      "question": "The false consensus effect leads people to:",
+      "options": [
+        "A) Disagree with everyone",
+        "B) Overestimate how many share their views",
+        "C) Accurately judge others",
+        "D) Have no opinions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1051ee368834b8aedf78db4b5dc3f381695dfc4",
+      "sectionIndex": 8,
+      "question": "Social facilitation theory predicts:",
+      "options": [
+        "A) Others always help performance",
+        "B) Others improve simple tasks but impair complex ones",
+        "C) Others always harm performance",
+        "D) No effect of others"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cac29727cc83ea83502db8630fce55b1f4b7fed",
+      "sectionIndex": 8,
+      "question": "The mere exposure effect shows:",
+      "options": [
+        "A) Exposure creates dislike",
+        "B) Repeated exposure increases liking",
+        "C) First impressions are permanent",
+        "D) Familiarity breeds contempt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2c14e040c4529e4ee88237deebcfade70fc1dee",
+      "sectionIndex": 8,
+      "question": "Deindividuation in groups can lead to:",
+      "options": [
+        "A) Increased self-awareness",
+        "B) Reduced self-awareness and increased antisocial behavior",
+        "C) Better decisions",
+        "D) Enhanced morality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "467e35e2ccb32115139fc3059df045fe18b969ca",
+      "sectionIndex": 8,
+      "question": "The foot-in-the-door technique works through:",
+      "options": [
+        "A) Force",
+        "B) Commitment and consistency principles",
+        "C) Threat",
+        "D) Random compliance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55a6dcec64a899932c320e038f243b3daae8e1e2",
+      "sectionIndex": 8,
+      "question": "System justification theory explains:",
+      "options": [
+        "A) Why systems fail",
+        "B) Why people defend unfair systems that disadvantage them",
+        "C) Perfect societies",
+        "D) Revolution inevitability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f6da9081c2ec1fcbc9ca3ad9ceeffbee9784085",
+      "sectionIndex": 9,
+      "question": "Industrial-organizational psychology applies psychological principles to:",
+      "options": [
+        "A) Industry only",
+        "B) Workplace behavior and organizational effectiveness",
+        "C) Manufacturing only",
+        "D) Computers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d594ceade715e69e322ad65cfc76c9693628131",
+      "sectionIndex": 9,
+      "question": "The relationship between job satisfaction and performance shows:",
+      "options": [
+        "A) Perfect correlation",
+        "B) Moderate positive correlation with bidirectional causation",
+        "C) No relationship",
+        "D) Negative correlation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d02b288d88510056a2a65343a4888627be25801",
+      "sectionIndex": 9,
+      "question": "Transformational leadership differs from transactional in:",
+      "options": [
+        "A) Pay structures",
+        "B) Inspiring vision versus reward/punishment focus",
+        "C) No real difference",
+        "D) Gender of leader"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be2a855965418b9671e4a96ec1e2a964c3dbc312",
+      "sectionIndex": 9,
+      "question": "Health psychology's biopsychosocial approach examines:",
+      "options": [
+        "A) Biology only",
+        "B) How biological, psychological, and social factors affect health",
+        "C) Mental health only",
+        "D) Physical health only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fc85fe195d0daaa984fa88c917a339582fa5b3b",
+      "sectionIndex": 9,
+      "question": "The placebo effect in medical treatment demonstrates:",
+      "options": [
+        "A) Medicines don't work",
+        "B) Psychological factors influence physical health",
+        "C) Deception is necessary",
+        "D) Treatment is unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e2b2941b8bd6054c504a37764051d0253daa14d",
+      "sectionIndex": 9,
+      "question": "Environmental psychology studies:",
+      "options": [
+        "A) Nature only",
+        "B) Reciprocal relationship between people and environments",
+        "C) Pollution only",
+        "D) Animals in nature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1594310df2180eedcfcc7cfbfe1ae4ab321924e9",
+      "sectionIndex": 9,
+      "question": "The digital divide in cyberpsychology refers to:",
+      "options": [
+        "A) Computer malfunctions",
+        "B) Inequalities in technology access and skills",
+        "C) Online gaming only",
+        "D) Social media addiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01ba4c9937abaf1abb8fd8ddea005975edf8d730",
+      "sectionIndex": 9,
+      "question": "Positive psychology differs from traditional psychology in:",
+      "options": [
+        "A) Methodology",
+        "B) Focus on strengths and well-being versus pathology",
+        "C) Scientific rigor",
+        "D) Rejection of problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75dc806afb1ea3ad0afe6e49d95325879d820789",
+      "sectionIndex": 9,
+      "question": "Evidence for stereotype threat shows:",
+      "options": [
+        "A) Stereotypes are accurate",
+        "B) Awareness of negative stereotypes can impair performance",
+        "C) No effect on behavior",
+        "D) Only positive effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7381d22073c45bb617c29c95bfe31c8aa8120426",
+      "sectionIndex": 9,
+      "question": "The reproducibility crisis has led psychology to:",
+      "options": [
+        "A) Abandon research",
+        "B) Emphasize larger samples, preregistration, and open science",
+        "C) Ignore the problem",
+        "D) Stop publishing"
+      ],
+      "correct": "B"
+    }
+  ]
+}

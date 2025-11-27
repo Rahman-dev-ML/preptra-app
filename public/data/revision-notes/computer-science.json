@@ -1,0 +1,466 @@
+{
+  "subject": "Computer Science",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 12,
+  "categories": [
+    "Operating Systems",
+    "Data Structures & Algorithms",
+    "Programming (OOP & Exceptions)",
+    "Databases",
+    "Networking",
+    "Software Engineering",
+    "Web Technologies",
+    "Computer Graphics & Image Processing",
+    "Security",
+    "Problem-Solving & Coding Practice",
+    "CSS Pakistan: Syllabus & Past Papers",
+    "Computer Architecture (DMA & CPU Basics)"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Operating Systems: VM, Scheduling, Deadlocks",
+      "content": "Core OS areas that repeat: virtual memory (paging/segmentation, TLB), CPU scheduling (FCFS, SJF, RR, priority), and deadlocks (Coffman conditions; prevention/avoidance/detection). Study kernel responsibilities (interrupts, exceptions, system calls) and DMA basics for I/O.",
+      "keyTakeaways": [
+        "Virtual memory lets processes see large contiguous address spaces; paging enables isolation and efficient memory use.",
+        "Know Gantt charts for FCFS, SJF/Preemptive SJF, Round-Robin; compute waiting/turnaround times.",
+        "Deadlock = mutual exclusion + hold & wait + no preemption + circular wait; break at least one to prevent.",
+        "Kernel handles interrupts/exceptions; user↔kernel mode transitions via system calls."
+      ],
+      "resources": [
+        {
+          "title": "MIT 6.828 Operating System Engineering (overview + materials)",
+          "url": "https://pdos.csail.mit.edu/6.828/2018/overview.html",
+          "type": "course",
+          "description": "Rigorous OS course: virtual memory, interrupts, syscalls."
+        },
+        {
+          "title": "CPU Scheduling (Intro + playlists)",
+          "url": "https://www.youtube.com/watch?v=EWkQl0n0w5M",
+          "type": "video",
+          "description": "Neso Academy scheduling series."
+        },
+        {
+          "title": "Scheduling Algorithms – Solved Problems",
+          "url": "https://www.youtube.com/watch?v=g6QjVDyGgSE",
+          "type": "video",
+          "description": "Worked examples for exam-style questions."
+        },
+        {
+          "title": "Deadlock Prevention in OS",
+          "url": "https://www.scaler.com/topics/operating-system/deadlock-prevention-in-operating-system/",
+          "type": "article",
+          "description": "Prevent/avoid/detect strategies explained."
+        },
+        {
+          "title": "Deadlock Characterization (Coffman conditions)",
+          "url": "https://www.tutorialspoint.com/deadlock-characterization",
+          "type": "article",
+          "description": "Concise recap of necessary conditions."
+        }
+      ],
+      "importance": "high",
+      "category": "Operating Systems",
+      "topics": ["Virtual Memory", "CPU Scheduling", "Deadlocks", "System Calls"]
+    },
+    {
+      "id": "2",
+      "title": "Data Structures & Algorithms (DSA): Searching, Sorting, Hashing, Trees/Graphs",
+      "content": "Master asymptotic analysis, sorting/searching, hash tables (collision resolution), trees (BST/AVL), graphs (BFS/DFS, shortest paths). Use visual tools for intuition; practice with progressively harder problems.",
+      "keyTakeaways": [
+        "Understand Big-O for time/space; compare algorithms under constraints.",
+        "Hashing: collisions are inevitable; master chaining and open addressing.",
+        "Traversal patterns (inorder/preorder/postorder) recur; be fluent converting recursive to iterative.",
+        "Graphs: BFS/DFS templates + Dijkstra/toposort pay off across problems."
+      ],
+      "resources": [
+        {
+          "title": "MIT 6.006 – Lecture 4: Hashing (video + notes)",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/lecture-4-hashing/",
+          "type": "course",
+          "description": "Formal treatment of hashing."
+        },
+        {
+          "title": "MIT 6.006 – Lecture 4 PDF",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/ce9e94705b914598ce78a00a70a1f734_MIT6_006S20_lec4.pdf",
+          "type": "pdf",
+          "description": "Hashing theory & practice notes."
+        },
+        {
+          "title": "VisuAlgo (interactive DSA visualizations)",
+          "url": "https://visualgo.net/",
+          "type": "tool",
+          "description": "Animations for lists, trees, hashing, graphs."
+        },
+        {
+          "title": "USF Data Structure Visualizations",
+          "url": "https://www.cs.usfca.edu/galles/visualization/Algorithms.html",
+          "type": "tool",
+          "description": "Classic DSA animations (BST/AVL/B-Trees/sorting)."
+        },
+        {
+          "title": "Big-O Guide (freeCodeCamp)",
+          "url": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
+          "type": "article",
+          "description": "Complexity cheat sheet + intuition."
+        }
+      ],
+      "importance": "high",
+      "category": "Data Structures & Algorithms",
+      "topics": ["Big-O", "Hashing", "Trees", "Graphs", "Sorting"]
+    },
+    {
+      "id": "3",
+      "title": "Programming Concepts: OOP, Virtual Functions, Exceptions",
+      "content": "Recurrent essay/code-trace topics: inheritance vs composition, runtime polymorphism (virtual/override), constructors/destructors and RAII (C++), Java exceptions and hierarchy.",
+      "keyTakeaways": [
+        "Polymorphism = call through base pointer, dispatch to derived via virtual functions.",
+        "Prefer composition over inheritance for flexibility; know when to use abstract classes/interfaces.",
+        "Exception handling: try/catch/finally; checked vs unchecked (Java); RAII for deterministic cleanup in C++."
+      ],
+      "resources": [
+        {
+          "title": "cppreference – virtual function specifier",
+          "url": "https://en.cppreference.com/w/cpp/language/virtual.html",
+          "type": "reference",
+          "description": "Authoritative C++ virtual dispatch reference."
+        },
+        {
+          "title": "cppreference – Destructors",
+          "url": "https://en.cppreference.com/w/cpp/language/destructor",
+          "type": "reference",
+          "description": "Object lifetime & cleanup."
+        },
+        {
+          "title": "Oracle Java Tutorials – Polymorphism",
+          "url": "https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html",
+          "type": "article",
+          "description": "Official Java OOP guide."
+        },
+        {
+          "title": "Java – Exceptions (official tutorial)",
+          "url": "https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html",
+          "type": "article",
+          "description": "When/how to use exceptions."
+        }
+      ],
+      "importance": "high",
+      "category": "Programming (OOP & Exceptions)",
+      "topics": ["OOP", "Polymorphism", "Virtual Functions", "Exceptions"]
+    },
+    {
+      "id": "4",
+      "title": "Databases: Normalization, ERD, Relational Model, SQL",
+      "content": "Be comfortable with 1NF/2NF/3NF (and BCNF), ER modeling, keys/relationships, and writing/optimizing SQL queries. Know merits/drawbacks of denormalization.",
+      "keyTakeaways": [
+        "Normalization reduces redundancy and anomalies; most schemas target 3NF/BCNF.",
+        "Design ERDs from narrative specs; map to relational schemas cleanly.",
+        "Practice SQL (joins, subqueries, GROUP BY/HAVING) and read official docs."
+      ],
+      "resources": [
+        {
+          "title": "Stanford (Ullman) – ER Model slides (PDF)",
+          "url": "https://infolab.stanford.edu/~ullman/fcdb/aut07/slides/er.pdf",
+          "type": "pdf",
+          "description": "Concrete ERD notation & examples."
+        },
+        {
+          "title": "Codd (1970) – Relational Model (PDF)",
+          "url": "https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf",
+          "type": "paper",
+          "description": "Foundational paper for relational DBs."
+        },
+        {
+          "title": "PostgreSQL Docs – SELECT",
+          "url": "https://www.postgresql.org/docs/current/sql-select.html",
+          "type": "docs",
+          "description": "Authoritative reference for SELECT."
+        },
+        {
+          "title": "SQLZoo – SELECT (basics & practice)",
+          "url": "https://sqlzoo.net/wiki/SELECT_basics",
+          "type": "tutorial",
+          "description": "Hands-on SQL exercises."
+        },
+        {
+          "title": "SQLZoo – SELECT within SELECT",
+          "url": "https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial",
+          "type": "tutorial",
+          "description": "Subqueries practice."
+        }
+      ],
+      "importance": "high",
+      "category": "Databases",
+      "topics": ["Normalization", "ERD", "SQL", "Relational Model"]
+    },
+    {
+      "id": "5",
+      "title": "Networking: OSI/TCP-IP, Protocols, Routing, NAT, IPv4 vs IPv6",
+      "content": "Map OSI layers to TCP/IP stack, know HTTP/TLS basics, and compare Link-State vs Distance-Vector routing. Understand NAT and header differences between IPv4 and IPv6.",
+      "keyTakeaways": [
+        "OSI is a model; TCP/IP is the practical stack used on the Internet.",
+        "Routing: Link-State (e.g., OSPF) vs Distance-Vector (e.g., RIP) – trade-offs in convergence/overhead.",
+        "IPv6 simplifies headers and expands address space; NAT mitigates IPv4 scarcity."
+      ],
+      "resources": [
+        {
+          "title": "Stanford CS144 – Computer Networking materials",
+          "url": "https://stanford.edu/class/cs144/",
+          "type": "course",
+          "description": "High-quality networking course site."
+        },
+        {
+          "title": "Routing: Link-State vs Distance-Vector (overview)",
+          "url": "https://www.geeksforgeeks.org/difference-between-link-state-and-distance-vector-routing-algorithms/",
+          "type": "article",
+          "description": "Concise comparison for exams."
+        },
+        {
+          "title": "MDN – HTTP & Networking (TLS/HTTPS intros)",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
+          "type": "docs",
+          "description": "Practical protocol explanations."
+        }
+      ],
+      "importance": "high",
+      "category": "Networking",
+      "topics": ["OSI Model", "TCP/IP", "Routing", "IPv6"]
+    },
+    {
+      "id": "6",
+      "title": "Software Engineering: SDLC, Agile/Spiral, Testing, Estimation",
+      "content": "Understand Waterfall, Incremental, Spiral, and Agile (Scrum/Kanban). Know unit/integration/system testing and SQA roles. Be able to outline cost estimation (COCOMO-level) in essays.",
+      "keyTakeaways": [
+        "Pick lifecycle models based on risk, scope, and volatility of requirements.",
+        "Testing pyramid: unit → integration → system; smoke tests for quick validation.",
+        "SQA builds processes that prevent defects, not just detect them."
+      ],
+      "resources": [
+        {
+          "title": "Agile Manifesto (official)",
+          "url": "https://agilemanifesto.org/",
+          "type": "article",
+          "description": "Values & principles."
+        },
+        {
+          "title": "Boehm's Spiral Model (classic paper)",
+          "url": "https://csse.usc.edu/csse/TECHRPTS/1988/usccse88-500/usccse88-500.pdf",
+          "type": "paper",
+          "description": "Risk-driven development model."
+        },
+        {
+          "title": "ISTQB Foundation Syllabus (testing levels/types)",
+          "url": "https://www.istqb.org/certification-path-root/foundation-level-2018.html",
+          "type": "article",
+          "description": "Industry-standard testing terminology."
+        }
+      ],
+      "importance": "high",
+      "category": "Software Engineering",
+      "topics": ["SDLC", "Agile", "Testing", "SQA"]
+    },
+    {
+      "id": "7",
+      "title": "Web Technologies: HTML Forms, JavaScript/DOM, REST & AJAX",
+      "content": "Be exam-ready on HTML form semantics, JS fundamentals and DOM events, REST principles and AJAX/XHR/fetch patterns. Know client vs server responsibilities.",
+      "keyTakeaways": [
+        "Use semantic HTML for accessibility and robustness.",
+        "DOM events + JS control client-side behavior; REST defines resource-oriented APIs.",
+        "AJAX enables partial page updates; understand fetch/XHR basics."
+      ],
+      "resources": [
+        {
+          "title": "MDN – HTML forms guide",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Forms",
+          "type": "docs",
+          "description": "Comprehensive forms tutorial."
+        },
+        {
+          "title": "MDN – JavaScript Guide",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+          "type": "docs",
+          "description": "Core JS concepts with examples."
+        },
+        {
+          "title": "MDN – AJAX guide",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX",
+          "type": "docs",
+          "description": "Asynchronous requests overview."
+        }
+      ],
+      "importance": "high",
+      "category": "Web Technologies",
+      "topics": ["HTML Forms", "JavaScript", "DOM", "AJAX", "REST"]
+    },
+    {
+      "id": "8",
+      "title": "Computer Graphics & Image Processing: Raster vs Vector, Transforms, Sobel/HistEq",
+      "content": "Understand rasterization vs ray tracing, color models, 2D transforms, and basic image processing tasks that often appear (Sobel edges, histogram equalization).",
+      "keyTakeaways": [
+        "Raster = pixel grid; vector = geometric primitives; ray tracing simulates light paths.",
+        "Image processing pipelines frequently ask for steps/intuition, not code.",
+        "Know use-cases for RGB vs HSI/HSV; CMY/CMYK for print."
+      ],
+      "resources": [
+        {
+          "title": "Scratchapixel – Rasterization vs Ray Tracing",
+          "url": "https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation",
+          "type": "article",
+          "description": "Clear, practical intros."
+        },
+        {
+          "title": "OpenCV Docs – Sobel Operator",
+          "url": "https://docs.opencv.org/4.x/d5/d0f/tutorial_py_gradients.html",
+          "type": "docs",
+          "description": "Edge detection tutorial."
+        },
+        {
+          "title": "OpenCV Docs – Histogram Equalization",
+          "url": "https://docs.opencv.org/4.x/d4/d1b/tutorial_histogram_equalization.html",
+          "type": "docs",
+          "description": "Contrast enhancement."
+        }
+      ],
+      "importance": "medium",
+      "category": "Computer Graphics & Image Processing",
+      "topics": ["Rasterization", "Ray Tracing", "Color Models", "Image Processing"]
+    },
+    {
+      "id": "9",
+      "title": "Security: Malware, HTTPS/TLS, AuthN/AuthZ, OWASP Top 10",
+      "content": "Essentials: types of malware; encryption/authentication basics; TLS/HTTPS in the web stack; database security (access control, SQL injection prevention); web risks from OWASP Top 10.",
+      "keyTakeaways": [
+        "TLS secures transport; HTTPS = HTTP over TLS with certificates.",
+        "Apply least-privilege, hashing+salting for passwords, parameterized queries for SQL.",
+        "OWASP Top 10 is a must-cite list for web risks in essays."
+      ],
+      "resources": [
+        {
+          "title": "MDN – HTTPS & TLS overview",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security",
+          "type": "docs",
+          "description": "TLS concepts for developers."
+        },
+        {
+          "title": "OWASP Top 10 (official)",
+          "url": "https://owasp.org/www-project-top-ten/",
+          "type": "article",
+          "description": "Most critical web application risks."
+        },
+        {
+          "title": "NIST SP 800-53 Rev.5 (controls catalog)",
+          "url": "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final",
+          "type": "article",
+          "description": "Security & privacy controls reference."
+        }
+      ],
+      "importance": "high",
+      "category": "Security",
+      "topics": ["HTTPS/TLS", "Authentication", "OWASP", "SQL Injection"]
+    },
+    {
+      "id": "10",
+      "title": "Problem-Solving & Coding Practice (MCQs + Implementations)",
+      "content": "Blend MCQs (to shore up facts) with coding drills. Use structured study plans and interactive judges.",
+      "keyTakeaways": [
+        "Follow a curated plan (Crash Course/Grind lists) to cover breadth efficiently.",
+        "Alternate topic study with 2–3 targeted problems the same day.",
+        "Review solutions and build a personal snippet library."
+      ],
+      "resources": [
+        {
+          "title": "LeetCode – Study Plans / Crash Course (Arrays→Graphs→DP)",
+          "url": "https://leetcode.com/studyplan/",
+          "type": "article",
+          "description": "Official structured paths."
+        },
+        {
+          "title": "HackerRank – Algorithms domain",
+          "url": "https://www.hackerrank.com/domains/algorithms",
+          "type": "article",
+          "description": "Timed challenges; MCQ quiz too."
+        },
+        {
+          "title": "Harvard CS50x (free)",
+          "url": "https://cs50.harvard.edu/x/2025/",
+          "type": "course",
+          "description": "End-to-end CS foundations with projects."
+        }
+      ],
+      "importance": "high",
+      "category": "Problem-Solving & Coding Practice",
+      "topics": ["LeetCode", "HackerRank", "Coding Practice", "MCQs"]
+    },
+    {
+      "id": "11",
+      "title": "CSS Pakistan: Syllabus & Past Papers (Computer Science)",
+      "content": "For FPSC CSS Computer Science, align prep with official syllabus and drill past papers (2016–2024 latest; earlier years too). Use these for MCQs and essays alike.",
+      "keyTakeaways": [
+        "Download the official syllabus PDF and map each topic to your notes.",
+        "Practice under timed conditions; write mini-essays and code by hand.",
+        "Cross-check changes each year on FPSC site."
+      ],
+      "resources": [
+        {
+          "title": "FPSC – Revised Scheme & Syllabus (official)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "pdf",
+          "description": "Official CSS syllabus (all subjects)."
+        },
+        {
+          "title": "FPSC – Previous Question Papers (official)",
+          "url": "https://www.fpsc.gov.pk/category/previous-question-papers",
+          "type": "article",
+          "description": "Official past papers index."
+        },
+        {
+          "title": "FPSC – CSS 2024 Descriptive (includes CS Paper-I/II)",
+          "url": "https://fpsc.gov.pk/category/css-2023-descriptive-papers-516644049-2024-06-27",
+          "type": "article",
+          "description": "Direct page for 2024 PDFs."
+        },
+        {
+          "title": "CSS Computer Science Past Papers (2016–2024) – CSSAspirants",
+          "url": "https://cssaspirants.pk/css-past-papers/computer-science/",
+          "type": "article",
+          "description": "Subject-wise downloads."
+        },
+        {
+          "title": "The CSS Point – Computer Science Past Papers (legacy years)",
+          "url": "https://thecsspoint.com/css-past-papers/computer-science-past-papers/",
+          "type": "article",
+          "description": "Older archives for broader practice."
+        }
+      ],
+      "importance": "high",
+      "category": "CSS Pakistan: Syllabus & Past Papers",
+      "topics": ["CSS Syllabus", "Past Papers", "FPSC", "Exam Strategy"]
+    },
+    {
+      "id": "12",
+      "title": "Computer Architecture & DMA (bonus refreshers for OS/IO questions)",
+      "content": "Understand the role of DMA in offloading CPU during I/O, and how interrupts/exceptions interplay with CPU pipelines.",
+      "keyTakeaways": [
+        "DMA is a bus master performing high-speed transfers between peripherals and memory.",
+        "Processor enables DMA channels and coordinates via interrupts upon completion."
+      ],
+      "resources": [
+        {
+          "title": "DMA Fundamentals (PDF)",
+          "url": "https://cires1.colorado.edu/jimenez-group/QAMSResources/Docs/DMAFundamentals.pdf",
+          "type": "pdf",
+          "description": "Architecture and flow of DMA controller."
+        },
+        {
+          "title": "STMicro – Getting started with DMA",
+          "url": "https://wiki.st.com/stm32mcu/wiki/Getting_started_with_DMA",
+          "type": "article",
+          "description": "Concise tutorial on DMA concepts."
+        }
+      ],
+      "importance": "medium",
+      "category": "Computer Architecture (DMA & CPU Basics)",
+      "topics": ["DMA", "Interrupts", "CPU Architecture", "I/O"]
+    }
+  ]
+}

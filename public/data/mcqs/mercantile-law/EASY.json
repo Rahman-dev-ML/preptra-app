@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T22:31:57.960Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "12d1d64d8eaba7de2a915f2668997973550ff5e1",
+      "sectionIndex": 0,
+      "question": "A contract is defined as:",
+      "options": [
+        "A) A promise",
+        "B) An agreement enforceable by law",
+        "C) A social arrangement",
+        "D) A written document"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f5beacebb0532c95c4e3788ec79f94c6371523b",
+      "sectionIndex": 0,
+      "question": "For a valid contract, free consent means consent not obtained by:",
+      "options": [
+        "A) Proper explanation",
+        "B) Coercion, undue influence, fraud, misrepresentation, or mistake",
+        "C) Written agreement",
+        "D) Witnesses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f8af8fc41a9fb80657b1405dc1cc4d93ee9b85b",
+      "sectionIndex": 0,
+      "question": "When consent is obtained by coercion, the contract is:",
+      "options": [
+        "A) Void",
+        "B) Voidable",
+        "C) Valid",
+        "D) Illegal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad91adca1f52498c764e8eb25e7845b7f8ac79db",
+      "sectionIndex": 0,
+      "question": "A void agreement is:",
+      "options": [
+        "A) Enforceable by law",
+        "B) Not enforceable by law",
+        "C) Partially enforceable",
+        "D) Criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b0d5bbf92f536bc41cdd1d5ff6bc1010d7ff091",
+      "sectionIndex": 0,
+      "question": "Consideration in a contract means:",
+      "options": [
+        "A) Thinking about the contract",
+        "B) Something in return",
+        "C) Kindness",
+        "D) Respect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "206aca706372284f6c4a14a112c19388a776f36b",
+      "sectionIndex": 0,
+      "question": "The general rule \"No consideration, no contract\" has exceptions including:",
+      "options": [
+        "A) Business agreements",
+        "B) Natural love and affection between near relatives",
+        "C) Commercial transactions",
+        "D) Verbal promises"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77031a1af205cf91c8cca997ef52146269bf9d2c",
+      "sectionIndex": 0,
+      "question": "A mistake of fact in a contract makes it:",
+      "options": [
+        "A) Valid",
+        "B) Void",
+        "C) Criminal",
+        "D) Permanent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c644033ddd30f108da270678bc2122fe9f2018fd",
+      "sectionIndex": 0,
+      "question": "Misrepresentation differs from fraud in that misrepresentation:",
+      "options": [
+        "A) Is always intentional",
+        "B) Lacks intent to deceive",
+        "C) Is more serious",
+        "D) Cannot be remedied"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "846bd9d251b8643c11a2a6c9b989514808b9618e",
+      "sectionIndex": 0,
+      "question": "Breach of contract occurs when:",
+      "options": [
+        "A) A party performs the contract",
+        "B) A party fails to perform obligations",
+        "C) Contract is signed",
+        "D) Contract expires naturally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbb870f7695fac0255c14e0aae8d4f3b5d97ab3e",
+      "sectionIndex": 0,
+      "question": "Quantum meruit means:",
+      "options": [
+        "A) Large amount",
+        "B) As much as earned",
+        "C) Fixed price",
+        "D) No payment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6dadbf0c870e88f9c18e894630ec0e969626170",
+      "sectionIndex": 1,
+      "question": "Partnership is defined as:",
+      "options": [
+        "A) A company",
+        "B) Relation between persons sharing profits of a business",
+        "C) A charity",
+        "D) Government organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86ed71f5e253afa75971de9b79644c56171c22a1",
+      "sectionIndex": 1,
+      "question": "The minimum number of partners in a partnership is:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 5"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "133692c0aa3164053e1a8bd8ca57edafa40a3308",
+      "sectionIndex": 1,
+      "question": "The maximum number of partners in a general partnership is:",
+      "options": [
+        "A) 10",
+        "B) 20",
+        "C) 50",
+        "D) 100"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48346b5583326e406cc5480ffa5b308bfa0101a3",
+      "sectionIndex": 1,
+      "question": "A partnership deed is:",
+      "options": [
+        "A) Mandatory by law",
+        "B) Optional but recommended",
+        "C) Prohibited",
+        "D) Only for large firms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbc9e4eac200eee60ef5d745784f9418d5daf921",
+      "sectionIndex": 1,
+      "question": "Partners' liability in a general partnership is:",
+      "options": [
+        "A) Limited",
+        "B) Unlimited",
+        "C) Zero",
+        "D) Fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "850ad3d8179ec10818f54453d3b48b2ced5898d5",
+      "sectionIndex": 1,
+      "question": "A minor in partnership:",
+      "options": [
+        "A) Can become full partner",
+        "B) Can be admitted to benefits only",
+        "C) Is prohibited",
+        "D) Must be majority partner"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1147d0c52b5137d8c856bdbcece90245a7de47c9",
+      "sectionIndex": 1,
+      "question": "Implied authority of a partner means:",
+      "options": [
+        "A) Written authority",
+        "B) Authority by conduct or necessity",
+        "C) No authority",
+        "D) Government authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "206f95b5459371aa289941e320ab22d75fb78643",
+      "sectionIndex": 1,
+      "question": "Partnership at will can be dissolved by:",
+      "options": [
+        "A) Court order only",
+        "B) Any partner giving notice",
+        "C) Government",
+        "D) Creditors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ed0235a5cdecc94153e3d3cb2e4f47837162068",
+      "sectionIndex": 1,
+      "question": "On dissolution of a partnership, assets are applied first to:",
+      "options": [
+        "A) Partners' capital",
+        "B) Outside debts",
+        "C) Partners' loans",
+        "D) Profits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27204c84ade89d22fc89294bdd398daa309f4af9",
+      "sectionIndex": 1,
+      "question": "A sleeping partner is one who:",
+      "options": [
+        "A) Works at night",
+        "B) Does not participate in management",
+        "C) Has no investment",
+        "D) Is temporary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b62b5cc173b02fcaae7de651d5190f86e756b519",
+      "sectionIndex": 2,
+      "question": "A company is a:",
+      "options": [
+        "A) Partnership",
+        "B) Separate legal entity",
+        "C) Sole proprietorship",
+        "D) Government body"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a75e10cce55f9fda0188dd12c40671720c9a3e89",
+      "sectionIndex": 2,
+      "question": "The minimum number of members in a private company is:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 7"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68cf0a5e548addd80f1efbb447458d09ea41b9ce",
+      "sectionIndex": 2,
+      "question": "The maximum number of members in a private company is:",
+      "options": [
+        "A) 20",
+        "B) 50",
+        "C) 100",
+        "D) 200"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab3fe9eaca839a7244ba72adb455871135a6db0f",
+      "sectionIndex": 2,
+      "question": "The minimum number of members in a public company is:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 7",
+        "D) 10"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "63d5de97cff01c0323e847a9737f353e7f9ccaa4",
+      "sectionIndex": 2,
+      "question": "Limited liability means shareholders are liable:",
+      "options": [
+        "A) For all company debts",
+        "B) Only to the extent of unpaid shares",
+        "C) Personally",
+        "D) Criminally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc8cad1ac2cc9167e96e0d075f1475a22d9dac04",
+      "sectionIndex": 2,
+      "question": "Memorandum of Association contains:",
+      "options": [
+        "A) Internal rules",
+        "B) Fundamental conditions of incorporation",
+        "C) Profit distribution only",
+        "D) Employee list"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "060e5624fb3cf76483b5ffa31b24c5290fa0e805",
+      "sectionIndex": 2,
+      "question": "Articles of Association contain:",
+      "options": [
+        "A) External objectives",
+        "B) Internal management rules",
+        "C) Government regulations",
+        "D) Tax provisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d5dd7a198297c1488c8efdc3a8068b2bd687df3",
+      "sectionIndex": 2,
+      "question": "The doctrine of ultra vires means:",
+      "options": [
+        "A) Within powers",
+        "B) Beyond powers",
+        "C) Supreme power",
+        "D) No power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1eb6d7686a7dddd79e4a27cf6cb19175b0c50cf",
+      "sectionIndex": 2,
+      "question": "A company's statutory meeting is held:",
+      "options": [
+        "A) Every month",
+        "B) Once within 1-6 months of business commencement",
+        "C) Every year",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7cdc2a507681a14e0397757c5058f5b8c37dfef",
+      "sectionIndex": 2,
+      "question": "Piercing the corporate veil means:",
+      "options": [
+        "A) Opening company secrets",
+        "B) Looking behind company's separate personality",
+        "C) Company liquidation",
+        "D) Changing company name"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "038261d636d71591f1cf8d451f6a03f3ed333d1a",
+      "sectionIndex": 3,
+      "question": "A negotiable instrument is:",
+      "options": [
+        "A) A contract",
+        "B) A document transferable by delivery or endorsement",
+        "C) Company share",
+        "D) Government bond"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cb023ee8bd038b746037752d63e51f844bf3e78",
+      "sectionIndex": 3,
+      "question": "A promissory note must be:",
+      "options": [
+        "A) Conditional",
+        "B) Unconditional",
+        "C) Verbal",
+        "D) Registered"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fbdcd885c9291a8e2a9bfd39f67205965bdc2e6",
+      "sectionIndex": 3,
+      "question": "A bill of exchange involves how many parties?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e49cde49e8f46d25e322d9b7d4e79d40ad6c1f1",
+      "sectionIndex": 3,
+      "question": "A cheque is a bill of exchange drawn on:",
+      "options": [
+        "A) Any person",
+        "B) A bank",
+        "C) Government",
+        "D) Company"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "365ab29b895f82184ad285deade89c61d7fd1aae",
+      "sectionIndex": 3,
+      "question": "Bearer instrument can be transferred by:",
+      "options": [
+        "A) Endorsement only",
+        "B) Delivery only",
+        "C) Registration",
+        "D) Court order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef59db1cb51d2460027b5bccc6708aa7ac94670e",
+      "sectionIndex": 3,
+      "question": "Order instrument can be transferred by:",
+      "options": [
+        "A) Delivery only",
+        "B) Endorsement and delivery",
+        "C) Registration only",
+        "D) Verbal agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fea57b2bbbabd71567c2957ebcfe53d99053a116",
+      "sectionIndex": 3,
+      "question": "A blank endorsement converts an order instrument into:",
+      "options": [
+        "A) Void instrument",
+        "B) Bearer instrument",
+        "C) Special instrument",
+        "D) Conditional instrument"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46ad17a77e9ab8395dd4ee55e417090d2f769307",
+      "sectionIndex": 3,
+      "question": "Dishonor of a negotiable instrument occurs when:",
+      "options": [
+        "A) It is paid",
+        "B) Payment is refused",
+        "C) It is lost",
+        "D) It is endorsed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74930b96bf73715ccdcd21795ff0efade1270e9b",
+      "sectionIndex": 3,
+      "question": "Notice of dishonor must be given to:",
+      "options": [
+        "A) Police",
+        "B) All prior parties",
+        "C) Government",
+        "D) Nobody"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6912ba495fe011a27eacac596ac426c5c59a9e5d",
+      "sectionIndex": 3,
+      "question": "The State Bank can issue:",
+      "options": [
+        "A) Shares",
+        "B) Currency notes",
+        "C) Property",
+        "D) Licenses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cef63fc74922ce9d1f749ac9d170b9990388681f",
+      "sectionIndex": 4,
+      "question": "In a sale, property in goods means:",
+      "options": [
+        "A) Physical possession",
+        "B) Ownership",
+        "C) Right to use",
+        "D) Right to destroy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56151bbc75caf35cc8622ebce6e5806bfbbac047",
+      "sectionIndex": 4,
+      "question": "Caveat emptor means:",
+      "options": [
+        "A) Seller beware",
+        "B) Buyer beware",
+        "C) Government beware",
+        "D) No one beware"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bfe547781a8ed107ca5adc085741adc1b41bfba",
+      "sectionIndex": 4,
+      "question": "An unpaid seller has rights against:",
+      "options": [
+        "A) Government",
+        "B) The goods",
+        "C) Third parties only",
+        "D) Future buyers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfe04d82518abd5783fb37cc0c2c5453131252d2",
+      "sectionIndex": 4,
+      "question": "Condition in a sale contract is:",
+      "options": [
+        "A) Minor term",
+        "B) Major term going to root of contract",
+        "C) Optional term",
+        "D) Illegal term"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82b75284dc1f0537e773a0efac4e041e50fee804",
+      "sectionIndex": 4,
+      "question": "Warranty in a sale contract is:",
+      "options": [
+        "A) Major term",
+        "B) Minor term not going to root",
+        "C) Void term",
+        "D) Criminal term"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2d4196fb33c400ce09bc29a9e591d5995ed58b6",
+      "sectionIndex": 4,
+      "question": "Property in goods passes when:",
+      "options": [
+        "A) Payment is made",
+        "B) Parties intend it to pass",
+        "C) Delivery occurs",
+        "D) Contract expires"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e4cf80185283f4ad2cb1558489c4ec23a1abeec",
+      "sectionIndex": 4,
+      "question": "Risk follows:",
+      "options": [
+        "A) Possession",
+        "B) Ownership",
+        "C) Payment",
+        "D) Delivery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3952f7cf8ac434ebb6755a8ac3becedaab2670c9",
+      "sectionIndex": 4,
+      "question": "Sale by auction is complete when:",
+      "options": [
+        "A) Bidding starts",
+        "B) Hammer falls",
+        "C) Payment made",
+        "D) Goods delivered"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e32fec943a0a58a2cc145ec4cd8868beff07003",
+      "sectionIndex": 4,
+      "question": "Breach of condition allows buyer to:",
+      "options": [
+        "A) Claim damages only",
+        "B) Reject goods and claim damages",
+        "C) Nothing",
+        "D) Criminal action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bb262e3aaadcd68e40d585f847d1708dbe4a257",
+      "sectionIndex": 4,
+      "question": "Breach of warranty allows buyer to:",
+      "options": [
+        "A) Reject goods",
+        "B) Claim damages only",
+        "C) Cancel contract",
+        "D) Criminal action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ee0f963bf5fd7b4402a5a5208bd1f4689a2c53a",
+      "sectionIndex": 5,
+      "question": "Arbitration is:",
+      "options": [
+        "A) Court proceeding",
+        "B) Alternative dispute resolution",
+        "C) Criminal trial",
+        "D) Government inquiry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e4297dce2c9f6fd49997f4872b5fb76abe472ca",
+      "sectionIndex": 5,
+      "question": "Arbitration agreement must be:",
+      "options": [
+        "A) Verbal",
+        "B) In writing",
+        "C) Registered",
+        "D) Notarized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e3c01b4ddee4203d376a477299228c75c287201",
+      "sectionIndex": 5,
+      "question": "Number of arbitrators must be:",
+      "options": [
+        "A) Even",
+        "B) Odd",
+        "C) One only",
+        "D) Five minimum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbd83216ea066b9e8f44222b68f73aec0e1af80d",
+      "sectionIndex": 5,
+      "question": "An arbitrator's decision is called:",
+      "options": [
+        "A) Judgment",
+        "B) Award",
+        "C) Decree",
+        "D) Order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8a533e6002c2d56befac9574b004cdb35f03286",
+      "sectionIndex": 5,
+      "question": "Arbitration award can be enforced as:",
+      "options": [
+        "A) Request",
+        "B) Court decree",
+        "C) Police order",
+        "D) Cannot be enforced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8562d458d2b1df3e1892ed12018cd0da045ac9cc",
+      "sectionIndex": 5,
+      "question": "An arbitrator can be removed for:",
+      "options": [
+        "A) Being efficient",
+        "B) Misconduct",
+        "C) Quick decisions",
+        "D) Experience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfc0b163a1aa909e3cac67ca5e326e6a27df56a3",
+      "sectionIndex": 5,
+      "question": "Time limit for making award is:",
+      "options": [
+        "A) 1 month",
+        "B) 4 months (extendable)",
+        "C) 1 year",
+        "D) No limit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d58dcca996c143152352c84ce951bea076f674e1",
+      "sectionIndex": 5,
+      "question": "Arbitration is governed by:",
+      "options": [
+        "A) Criminal law",
+        "B) Arbitration Act 1940",
+        "C) Company law",
+        "D) Tax law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "422807666ca34eb0a16b83e0b28615441af567a4",
+      "sectionIndex": 5,
+      "question": "Umpire is appointed when:",
+      "options": [
+        "A) One arbitrator exists",
+        "B) Two arbitrators disagree",
+        "C) Parties agree",
+        "D) Court orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01ee569ecf9491492f90e5cc557dbae7fb6f697c",
+      "sectionIndex": 5,
+      "question": "Court can set aside award on grounds of:",
+      "options": [
+        "A) Any reason",
+        "B) Misconduct or invalidity",
+        "C) Delay",
+        "D) Cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d7834349502b78a2ab4742bc27b523b1f54233e",
+      "sectionIndex": 6,
+      "question": "An agent acts on behalf of:",
+      "options": [
+        "A) Himself",
+        "B) Principal",
+        "C) Government",
+        "D) Public"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a251271c452dafc3084953743faa7791d8143cd",
+      "sectionIndex": 6,
+      "question": "Agency can be created by:",
+      "options": [
+        "A) Force",
+        "B) Agreement or ratification",
+        "C) Theft",
+        "D) Mistake"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80d50f8f18967a39b0b847ebf66a2d4873eb6407",
+      "sectionIndex": 6,
+      "question": "A minor as agent is:",
+      "options": [
+        "A) Void",
+        "B) Valid but minor not liable",
+        "C) Illegal",
+        "D) Criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a6cdcb4d0d0e060db0d24010090231b6ad217b8",
+      "sectionIndex": 6,
+      "question": "Agent's authority can be:",
+      "options": [
+        "A) Unlimited always",
+        "B) Express or implied",
+        "C) Only written",
+        "D) Only verbal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40a3c4ff56fbeeea82ef5a647b430164abb4b2f3",
+      "sectionIndex": 6,
+      "question": "An agent must act:",
+      "options": [
+        "A) For personal gain",
+        "B) In principal's interest",
+        "C) Against principal",
+        "D) Independently"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3428d6bc0b1cfc128f321319ae897368e539976a",
+      "sectionIndex": 6,
+      "question": "Sub-agent can be appointed:",
+      "options": [
+        "A) Never",
+        "B) With principal's consent",
+        "C) Always",
+        "D) By court only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59f036243dba72c9cf6ae41930fe82241ade6f2e",
+      "sectionIndex": 6,
+      "question": "Agent's duty includes:",
+      "options": [
+        "A) Working for competitor",
+        "B) Maintaining accounts",
+        "C) Personal profit",
+        "D) Secrecy from principal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf72203f0d3dbb811a28421582d1024f2c2246a4",
+      "sectionIndex": 6,
+      "question": "Principal is bound by agent's acts:",
+      "options": [
+        "A) Never",
+        "B) Within scope of authority",
+        "C) Always",
+        "D) Only if profitable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd09b49dbb22857212dc4d03916b3c16adb2db7a",
+      "sectionIndex": 6,
+      "question": "Agency terminates by:",
+      "options": [
+        "A) Success",
+        "B) Completion or revocation",
+        "C) Profit",
+        "D) Time passing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad8b0e59666abccb951e9cda3569026005964c09",
+      "sectionIndex": 6,
+      "question": "Ratification of agent's act must be:",
+      "options": [
+        "A) Partial",
+        "B) Of whole transaction",
+        "C) Conditional",
+        "D) Delayed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d757ed9c0474474350f40e3dcc11aaa5e6e600c",
+      "sectionIndex": 7,
+      "question": "Insurance contract is based on:",
+      "options": [
+        "A) Gambling",
+        "B) Utmost good faith",
+        "C) Deception",
+        "D) Speculation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f96e72c1848d5cfbb99c0d057bd427f2987dcf6",
+      "sectionIndex": 7,
+      "question": "Life insurance is a contract of:",
+      "options": [
+        "A) Indemnity",
+        "B) Benefit",
+        "C) Guarantee",
+        "D) Warranty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06ab8a84a01b0385adc25a3848f72550936cc2f6",
+      "sectionIndex": 7,
+      "question": "Non-life insurance is a contract of:",
+      "options": [
+        "A) Benefit",
+        "B) Indemnity",
+        "C) Speculation",
+        "D) Gambling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4485aa8ecbe7fe2bd07a8123529d656abb0b7e02",
+      "sectionIndex": 7,
+      "question": "Insurance premium is:",
+      "options": [
+        "A) Optional",
+        "B) Consideration for insurance",
+        "C) Penalty",
+        "D) Tax"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9995c3b34cd81ba76b8e39f7aa636f45c4ba9a2",
+      "sectionIndex": 7,
+      "question": "Competition Commission of Pakistan was established to:",
+      "options": [
+        "A) Create monopolies",
+        "B) Prevent anti-competitive practices",
+        "C) Increase prices",
+        "D) Reduce business"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9b63f88759ab03828d266f6094768df9a891700",
+      "sectionIndex": 7,
+      "question": "Merger under Competition Act requires:",
+      "options": [
+        "A) Secret dealing",
+        "B) Prior approval",
+        "C) No permission",
+        "D) Court order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bf5a3c3c16227eb382c24da1cd0a70bf004e246",
+      "sectionIndex": 7,
+      "question": "Abuse of dominant position is:",
+      "options": [
+        "A) Encouraged",
+        "B) Prohibited",
+        "C) Mandatory",
+        "D) Rewarded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc2bf1ba3ad1009634e6b87df49d6639998ea296",
+      "sectionIndex": 7,
+      "question": "Competition law aims to protect:",
+      "options": [
+        "A) Monopolies",
+        "B) Consumer welfare",
+        "C) Cartels",
+        "D) Price fixing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80d570f1c4b3cf73a6dd57188b34673351ac2934",
+      "sectionIndex": 7,
+      "question": "Prohibited agreements include:",
+      "options": [
+        "A) Fair competition",
+        "B) Price fixing cartels",
+        "C) Quality improvement",
+        "D) Customer service"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57cd426d5c891e588f18c67a87714820f4cb93d0",
+      "sectionIndex": 7,
+      "question": "Competition Commission can impose:",
+      "options": [
+        "A) Criminal sentences",
+        "B) Penalties and orders",
+        "C) Death penalty",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0df22297cdc2eed1d25d32ede213d49fca14c713",
+      "sectionIndex": 8,
+      "question": "Electronic signature is:",
+      "options": [
+        "A) Handwritten only",
+        "B) Data in electronic form used to sign",
+        "C) Stamp",
+        "D) Thumb impression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0d6c1b512de8bbfa4b3641fd1a4a04c4bc49ce7",
+      "sectionIndex": 8,
+      "question": "Electronic document has:",
+      "options": [
+        "A) No legal value",
+        "B) Same legal effect as paper",
+        "C) Less value",
+        "D) Criminal status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b23148b96b896a648c00297a51e1f0f8fef3623",
+      "sectionIndex": 8,
+      "question": "Certification Authority issues:",
+      "options": [
+        "A) Currency",
+        "B) Digital certificates",
+        "C) Passports",
+        "D) Licenses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5784c47cba3bdb944797af32b98480a40e5f8ef",
+      "sectionIndex": 8,
+      "question": "Electronic fund transfer is governed by:",
+      "options": [
+        "A) Cash rules",
+        "B) EFT Act 2007",
+        "C) No law",
+        "D) International law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00e9a871db3faeb022f5e814cb8b44a1c7a6d735",
+      "sectionIndex": 8,
+      "question": "Unauthorized electronic transfer liability depends on:",
+      "options": [
+        "A) Bank decision",
+        "B) Consumer's promptness in reporting",
+        "C) Amount only",
+        "D) No liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f741efbdcd443aaba11756708a50d24bb4ea89a2",
+      "sectionIndex": 8,
+      "question": "Electronic record is admissible as:",
+      "options": [
+        "A) Nothing",
+        "B) Evidence in court",
+        "C) Opinion only",
+        "D) Hearsay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7a1bbb8a9b12836a1076473b8faf2252c58cfd1",
+      "sectionIndex": 8,
+      "question": "Time of sending electronic message is when it:",
+      "options": [
+        "A) Is typed",
+        "B) Leaves sender's control",
+        "C) Is read",
+        "D) Is deleted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a894eb209b71c28748b1d2b145b7f0fccd5c258",
+      "sectionIndex": 8,
+      "question": "Acknowledgment of receipt means:",
+      "options": [
+        "A) Legal acceptance",
+        "B) Technical receipt only",
+        "C) Agreement",
+        "D) Contract formation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ea0c5c5671281dbe6fb680b93e974e037e99574",
+      "sectionIndex": 9,
+      "question": "Contract of indemnity involves:",
+      "options": [
+        "A) Three parties",
+        "B) Two parties",
+        "C) Four parties",
+        "D) One party"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60e6affb4b444bc67ae29762ac9313bc79271fed",
+      "sectionIndex": 9,
+      "question": "Contract of guarantee involves:",
+      "options": [
+        "A) Two parties",
+        "B) Three parties",
+        "C) One party",
+        "D) Four parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33d336bd51b9e22d09b71b807f63baa8686fabed",
+      "sectionIndex": 9,
+      "question": "In bailment, ownership:",
+      "options": [
+        "A) Transfers",
+        "B) Remains with bailor",
+        "C) Goes to government",
+        "D) Is destroyed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef0f59a049bb9cb7418990f0b8a54d2e4fcd2b8a",
+      "sectionIndex": 9,
+      "question": "Pledge is bailment for:",
+      "options": [
+        "A) Fun",
+        "B) Security for debt",
+        "C) Storage only",
+        "D) Display"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72a10a4f2c7f7de35380c6acfda88ad938c31c4b",
+      "sectionIndex": 9,
+      "question": "Goodwill is:",
+      "options": [
+        "A) Tangible asset",
+        "B) Intangible asset",
+        "C) Not an asset",
+        "D) Liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e759cfa6e33ee21243825f26207ecddec229874c",
+      "sectionIndex": 9,
+      "question": "Fiduciary relationship involves:",
+      "options": [
+        "A) Enemies",
+        "B) Trust and confidence",
+        "C) Competition",
+        "D) Conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85658f981a5afdc46a0fd32cf20eb8faaa05686e",
+      "sectionIndex": 9,
+      "question": "Statute of limitations provides:",
+      "options": [
+        "A) Unlimited time",
+        "B) Time limit for legal action",
+        "C) No time limit",
+        "D) Criminal penalties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac4491a537dc344e535d88ef43d16379be7c55c2",
+      "sectionIndex": 9,
+      "question": "Specific performance is granted when:",
+      "options": [
+        "A) Always",
+        "B) Damages inadequate",
+        "C) Never",
+        "D) Damages excessive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e18700007a6f46b13cf1b2ac0f80a9d7a8c5f9eb",
+      "sectionIndex": 9,
+      "question": "Injunction is:",
+      "options": [
+        "A) Medicine",
+        "B) Court order to do/not do",
+        "C) Contract",
+        "D) Agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6603268efa35b3c7edec5a792e690ed2592e0777",
+      "sectionIndex": 9,
+      "question": "Damages in contract are to:",
+      "options": [
+        "A) Punish",
+        "B) Compensate loss",
+        "C) Enrich plaintiff",
+        "D) Help court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61db513be26d67e5c5f96e8d58beb30c849fdf46",
+      "sectionIndex": 9,
+      "question": "Frustration of contract occurs when:",
+      "options": [
+        "A) Party is angry",
+        "B) Performance becomes impossible",
+        "C) Profit is made",
+        "D) Time passes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19311ec5e12c35a0a6dfd526797e38a5b127e588",
+      "sectionIndex": 9,
+      "question": "Novation means:",
+      "options": [
+        "A) New product",
+        "B) Substitution of new contract",
+        "C) Cancellation",
+        "D) Performance"
+      ],
+      "correct": "B"
+    }
+  ]
+}

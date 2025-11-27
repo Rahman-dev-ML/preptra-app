@@ -1,0 +1,729 @@
+## Section 1: Advanced Group Theory
+
+1. Group Theory Applications (Medium)
+1. If H is a subgroup of G with [G:H] = 2, then H is:
+A) Cyclic
+B) Abelian
+C) Normal in G
+D) Simple
+Answer: C
+
+2. For the group homomorphism φ: G → G', Im(φ) is isomorphic to:
+A) G
+B) G'
+C) ker(φ)
+D) G/ker(φ)
+Answer: D
+
+3. If G/Z(G) is cyclic, then G is:
+A) Cyclic
+B) Abelian
+C) Simple
+D) Infinite
+Answer: B
+
+4. The number of elements of order 2 in Z₂ × Z₂ is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+
+5. Inn(G) ≅ G/Z(G) where Inn(G) denotes:
+A) Internal automorphisms
+B) Inner automorphisms
+C) Inverse automorphisms
+D) Identity automorphisms
+Answer: B
+
+6. A group of order 15 must be:
+A) Non-abelian
+B) Simple
+C) Cyclic
+D) Has a subgroup of order 6
+Answer: C
+
+7. If N and M are normal subgroups of G, then NM/M ≅:
+A) N/M
+B) N/(N∩M)
+C) N∪M
+D) G/M
+Answer: B
+
+8. The alternating group A₄ has order:
+A) 6
+B) 12
+C) 24
+D) 48
+Answer: B
+
+9. Every group of order p² (p prime) is:
+A) Cyclic
+B) Simple
+C) Abelian
+D) Non-abelian
+Answer: C
+
+10. If H and K are subgroups with |H| = m, |K| = n, gcd(m,n) = 1, then |H∩K| =:
+A) 1
+B) mn
+C) m+n
+D) 0
+Answer: A
+
+## Section 2: Ring Theory Applications
+
+2. Advanced Ring Theory (Medium)
+11. In a finite integral domain D, every non-zero element:
+A) Is a zero divisor
+B) Has a multiplicative inverse
+C) Has order 2
+D) Is nilpotent
+Answer: B
+
+12. If R is a ring where (xy)² = x²y² for all x,y, then R is:
+A) A field
+B) An integral domain
+C) Commutative
+D) Without unity
+Answer: C
+
+13. The intersection of two ideals in a ring is:
+A) Not necessarily an ideal
+B) Always an ideal
+C) A subring but not ideal
+D) The whole ring
+Answer: B
+
+14. In Z₁₂, the principal ideal <4> contains:
+A) {0, 4, 8}
+B) {0, 1, 4}
+C) {4, 8}
+D) All of Z₁₂
+Answer: A
+
+15. A maximal ideal M in a commutative ring R satisfies:
+A) R/M is a field
+B) R/M is an integral domain
+C) M = R
+D) M = {0}
+Answer: A
+
+16. The characteristic of an integral domain must be:
+A) Any positive integer
+B) 0 or prime
+C) Composite
+D) 1
+Answer: B
+
+17. In the polynomial ring R[x], the ideal <x²+1> is:
+A) Principal
+B) Maximal if R = ℝ
+C) Prime if R = ℂ
+D) Both A and B
+Answer: D
+
+18. The units in Z₈ form a group of order:
+A) 2
+B) 4
+C) 6
+D) 7
+Answer: B
+
+19. If I and J are ideals, then I + J = {a + b : a ∈ I, b ∈ J} is:
+A) Not an ideal
+B) The smallest ideal containing I ∪ J
+C) Equal to I ∩ J
+D) The whole ring
+Answer: B
+
+20. A homomorphism between fields is:
+A) Always surjective
+B) Either injective or zero
+C) Always bijective
+D) Never injective
+Answer: B
+
+## Section 3: Linear Algebra Applications
+
+3. Advanced Linear Algebra (Medium)
+21. If T: V → V is linear with T³ = T, then eigenvalues of T can only be:
+A) 0, 1
+B) 0, 1, -1
+C) Any real number
+D) ±i
+Answer: B
+
+22. The dimension of the solution space of a homogeneous system Ax = 0 where A is m×n with rank r is:
+A) n
+B) m
+C) n - r
+D) m - r
+Answer: C
+
+23. If A is a 3×3 matrix with characteristic polynomial (λ-2)²(λ-3), then A is diagonalizable if:
+A) Always
+B) Geometric multiplicity of λ=2 is 2
+C) Never
+D) A is symmetric
+Answer: B
+
+24. For the Cayley-Hamilton theorem, if A² - 5A + 6I = 0, then A⁻¹ =:
+A) A - 5I
+B) (A - 5I)/6
+C) (5I - A)/6
+D) Does not exist
+Answer: C
+
+25. The dimension of the space of 2×2 symmetric matrices over ℝ is:
+A) 2
+B) 3
+C) 4
+D) 6
+Answer: B
+
+26. If V = U ⊕ W (direct sum), then dim(V) =:
+A) max{dim(U), dim(W)}
+B) dim(U) + dim(W)
+C) dim(U) × dim(W)
+D) dim(U) - dim(W)
+Answer: B
+
+27. Two n×n matrices are similar if and only if they have:
+A) Same determinant
+B) Same trace
+C) Same characteristic polynomial and minimal polynomial
+D) Same eigenvalues with same geometric multiplicities
+Answer: D
+
+28. The rank of a product AB (where multiplication is defined) satisfies:
+A) rank(AB) = rank(A) + rank(B)
+B) rank(AB) ≤ min{rank(A), rank(B)}
+C) rank(AB) = rank(A)rank(B)
+D) rank(AB) ≥ max{rank(A), rank(B)}
+Answer: B
+
+29. If W₁ and W₂ are subspaces of V with dimensions d₁ and d₂, then dim(W₁ ∩ W₂) is at least:
+A) 0
+B) d₁ + d₂ - dim(V)
+C) |d₁ - d₂|
+D) min{d₁, d₂}
+Answer: B
+
+30. The minimal polynomial of a matrix:
+A) Has degree n for n×n matrix
+B) Divides the characteristic polynomial
+C) Equals the characteristic polynomial
+D) Has degree 1
+Answer: B
+
+## Section 4: Real Analysis
+
+4. Analysis Applications (Medium)
+31. If f is differentiable on ℝ and |f'(x)| ≤ M for all x, then:
+A) f is bounded
+B) f is uniformly continuous
+C) f is constant
+D) f is linear
+Answer: B
+
+32. A function f: [a,b] → ℝ is Riemann integrable if and only if:
+A) f is continuous
+B) f is monotonic
+C) The set of discontinuities has measure zero
+D) f is differentiable
+Answer: C
+
+33. If Σaₙ converges absolutely and Σbₙ converges, then Σaₙbₙ:
+A) Always converges
+B) Converges if bₙ → 0
+C) May diverge
+D) Converges absolutely
+Answer: C
+
+34. The series Σ(sin n)/n²:
+A) Converges conditionally
+B) Converges absolutely
+C) Diverges
+D) Oscillates
+Answer: B
+
+35. If f''(x) > 0 for all x in (a,b), then f is:
+A) Increasing
+B) Decreasing
+C) Convex
+D) Concave
+Answer: C
+
+36. For the Beta function, B(p,q) equals:
+A) Γ(p)Γ(q)/Γ(p+q)
+B) Γ(p+q)/Γ(p)Γ(q)
+C) Γ(p)Γ(q)
+D) pq
+Answer: A
+
+37. A uniformly continuous function on (0,1):
+A) Must be bounded
+B) Must be continuous at 0
+C) Has a continuous extension to [0,1]
+D) Is differentiable
+Answer: C
+
+38. The radius of convergence of Σnxⁿ is:
+A) 0
+B) 1
+C) ∞
+D) e
+Answer: B
+
+39. If f is continuous and ∫ₐᵇ f(x)g(x)dx = 0 for all continuous g, then:
+A) f = 0
+B) f is constant
+C) f changes sign
+D) Nothing can be concluded
+Answer: A
+
+40. Taylor's theorem with Lagrange remainder states f(x) = Σ(from 0 to n) f⁽ᵏ⁾(a)/k! (x-a)ᵏ + :
+A) O((x-a)ⁿ)
+B) f⁽ⁿ⁺¹⁾(c)/(n+1)! (x-a)ⁿ⁺¹ for some c
+C) f⁽ⁿ⁾(x)/(n)! (x-a)ⁿ
+D) 0
+Answer: B
+
+## Section 5: Complex Analysis
+
+5. Complex Functions (Medium)
+41. If f(z) = u + iv is analytic and u = x² - y², then v =:
+A) 2xy + C
+B) x² + y² + C
+C) 2xy
+D) -2xy + C
+Answer: A
+
+42. The function f(z) = |z|² is differentiable:
+A) Everywhere
+B) Nowhere
+C) Only at z = 0
+D) Except at z = 0
+Answer: C
+
+43. ∮_C dz/(z-a)² where C is a simple closed curve containing a equals:
+A) 2πi
+B) 0
+C) 2πi(a)
+D) -2πi
+Answer: B
+
+44. The Laurent series of 1/(z²-1) around z = 1 has:
+A) Only positive powers
+B) Only negative powers
+C) Both positive and negative powers
+D) Is a Taylor series
+Answer: B
+
+45. The residue of f(z) = e^z/z³ at z = 0 is:
+A) 0
+B) 1
+C) 1/2
+D) 1/6
+Answer: C
+
+46. If f is entire and |f(z)| ≤ M|z|ⁿ for large |z|, then f is:
+A) Constant
+B) A polynomial of degree at most n
+C) Unbounded
+D) Not entire
+Answer: B
+
+47. The integral ∫₀^∞ sin x/x dx equals:
+A) 0
+B) π/2
+C) π
+D) 2π
+Answer: B
+
+48. A function with an essential singularity at z₀:
+A) Is bounded near z₀
+B) Has a Laurent series with finitely many negative powers
+C) Takes every value infinitely often near z₀ (except possibly one)
+D) Has a removable singularity
+Answer: C
+
+49. The Fourier series of |x| on [-π, π] contains:
+A) Only sines
+B) Only cosines
+C) Both sines and cosines
+D) Neither
+Answer: B
+
+50. If f(z) = 1/(z²+1), the sum of residues at all poles is:
+A) 0
+B) 1
+C) -1
+D) 2πi
+Answer: A
+
+## Section 6: Differential Geometry
+
+6. Curves and Surfaces (Medium)
+51. The curvature of the circle x² + y² = r² is:
+A) 0
+B) 1/r
+C) r
+D) 1/r²
+Answer: B
+
+52. For the cycloid x = a(t - sin t), y = a(1 - cos t), the arc length from t = 0 to t = 2π is:
+A) 2πa
+B) 4πa
+C) 8a
+D) 16a
+Answer: C
+
+53. The evolute of a parabola y² = 4ax is:
+A) Another parabola
+B) A semi-cubic parabola
+C) A circle
+D) A straight line
+Answer: B
+
+54. For an ellipse x²/a² + y²/b² = 1 with a > b, the eccentricity is:
+A) √(a² - b²)/a
+B) √(a² + b²)/a
+C) b/a
+D) a/b
+Answer: A
+
+55. The tangent to a curve r = f(θ) in polar coordinates makes angle ψ with radius where tan ψ =:
+A) r/(dr/dθ)
+B) (dr/dθ)/r
+C) r(dθ/dr)
+D) rdθ/dr
+Answer: A
+
+56. The surface area of revolution of y = f(x) from a to b about x-axis is:
+A) 2π∫ₐᵇ f(x)dx
+B) 2π∫ₐᵇ f(x)√(1 + [f'(x)]²)dx
+C) π∫ₐᵇ [f(x)]²dx
+D) 2π∫ₐᵇ xf(x)dx
+Answer: B
+
+57. Two surfaces intersect orthogonally if:
+A) Their tangent planes are parallel
+B) Their normal vectors are perpendicular
+C) They don't intersect
+D) Their tangent planes are identical
+Answer: B
+
+58. The geodesic on a sphere is:
+A) A straight line
+B) A parabola
+C) A great circle
+D) A small circle
+Answer: C
+
+59. For the astroid x^(2/3) + y^(2/3) = a^(2/3), the total arc length is:
+A) 4a
+B) 6a
+C) 8a
+D) 12a
+Answer: B
+
+60. The pedal equation of a curve relates:
+A) r and θ
+B) p and r where p is perpendicular distance
+C) x and y
+D) s and κ
+Answer: B
+
+## Section 7: Number Theory Applications
+
+7. Algebraic Number Theory (Medium)
+61. In a principal ideal domain, every ideal is generated by:
+A) Two elements
+B) One element
+C) Infinitely many elements
+D) A prime element
+Answer: B
+
+62. The Gaussian integers Z[i] form:
+A) A field
+B) An integral domain
+C) A Euclidean domain
+D) Both B and C
+Answer: D
+
+63. If p ≡ 1 (mod 4), then p can be written as:
+A) Sum of two squares
+B) Difference of two squares
+C) Sum of three squares
+D) Cannot be expressed as sum of squares
+Answer: A
+
+64. The units in Z[√2] are:
+A) ±1 only
+B) ±(1+√2)ⁿ for all integers n
+C) All non-zero elements
+D) ±1, ±√2
+Answer: B
+
+65. An irreducible element in an integral domain:
+A) Is always prime
+B) Is prime if the domain is a UFD
+C) Cannot be factored
+D) Has no inverse
+Answer: B
+
+66. The ring Z[x] is:
+A) A field
+B) A principal ideal domain
+C) Not a principal ideal domain
+D) Finite
+Answer: C
+
+67. Eisenstein's criterion checks:
+A) Primality of numbers
+B) Irreducibility of polynomials
+C) Convergence of series
+D) Solvability of equations
+Answer: B
+
+68. The ideal <2, x> in Z[x] is:
+A) Principal
+B) Maximal
+C) Prime but not maximal
+D) Not prime
+Answer: B
+
+69. In a Dedekind domain, every ideal can be:
+A) Generated by one element
+B) Uniquely factored into prime ideals
+C) Ignored
+D) Made maximal
+Answer: B
+
+70. The algebraic integers form:
+A) A field
+B) A ring
+C) A vector space only
+D) A group only
+Answer: B
+
+## Section 8: Topology
+
+8. Metric and Topological Spaces (Medium)
+71. In a metric space, every convergent sequence is:
+A) Bounded
+B) Cauchy
+C) Both A and B
+D) Neither A nor B
+Answer: C
+
+72. A subset of a complete metric space is complete if and only if it is:
+A) Open
+B) Closed
+C) Bounded
+D) Compact
+Answer: B
+
+73. In ℝⁿ with usual topology, a set is compact if and only if it is:
+A) Closed
+B) Bounded
+C) Closed and bounded
+D) Open and bounded
+Answer: C
+
+74. A continuous function from a compact space to a Hausdorff space is:
+A) Open
+B) Closed
+C) Bounded
+D) Uniformly continuous
+Answer: B
+
+75. The Cantor set is:
+A) Countable
+B) Has measure zero
+C) Dense in [0,1]
+D) Open
+Answer: B
+
+76. A metric space is separable if it contains:
+A) A countable dense subset
+B) An uncountable subset
+C) Only isolated points
+D) No limit points
+Answer: A
+
+77. Every metric induces a topology where the base consists of:
+A) Closed balls
+B) Open balls
+C) Singletons
+D) Complements
+Answer: B
+
+78. A space is connected if:
+A) It cannot be written as union of two disjoint open sets
+B) Every two points can be joined by a path
+C) It is compact
+D) It has no isolated points
+Answer: A
+
+79. The closure of a set A equals:
+A) Interior of A
+B) A ∪ (limit points of A)
+C) Boundary of A
+D) Complement of A
+Answer: B
+
+80. Total boundedness implies:
+A) Completeness
+B) Compactness
+C) Boundedness
+D) Separability
+Answer: C
+
+## Section 9: Functional Analysis
+
+9. Function Spaces (Medium)
+81. In L²[0,1], the inner product <f,g> equals:
+A) ∫₀¹ f(x)g(x)dx
+B) ∫₀¹ |f(x)-g(x)|dx
+C) max|f(x)-g(x)|
+D) f(0)g(0)
+Answer: A
+
+82. The space C[0,1] with sup norm is:
+A) Complete
+B) Compact
+C) Finite dimensional
+D) Not a vector space
+Answer: A
+
+83. An operator T is bounded if:
+A) T(0) = 0
+B) ||T(x)|| ≤ M||x|| for some M
+C) T is linear
+D) T is surjective
+Answer: B
+
+84. The Weierstrass approximation theorem states:
+A) Every function is a polynomial
+B) Continuous functions on [a,b] can be uniformly approximated by polynomials
+C) Polynomials are dense in L²
+D) Taylor series always converge
+Answer: B
+
+85. In a Hilbert space, every closed subspace has:
+A) Finite dimension
+B) An orthogonal complement
+C) Compact closure
+D) Countable basis
+Answer: B
+
+86. The dual space of ℓᵖ (1 < p < ∞) is:
+A) ℓᵖ
+B) ℓᵍ where 1/p + 1/q = 1
+C) ℓ∞
+D) ℓ¹
+Answer: B
+
+87. A linear functional is continuous if and only if:
+A) It is bounded
+B) Its kernel is closed
+C) Both A and B
+D) It is surjective
+Answer: C
+
+88. The Riesz representation theorem in Hilbert space states every continuous linear functional f satisfies:
+A) f(x) = 0
+B) f(x) = <x,y> for unique y
+C) f is not continuous
+D) f is unbounded
+Answer: B
+
+89. Compact operators map:
+A) Bounded sets to compact sets
+B) Bounded sets to relatively compact sets
+C) Open sets to open sets
+D) Closed sets to closed sets
+Answer: B
+
+90. The spectrum of a bounded operator contains:
+A) Only eigenvalues
+B) Eigenvalues and possibly more
+C) Only real numbers
+D) Only positive numbers
+Answer: B
+
+## Section 10: Differential Equations
+
+10. Advanced ODEs and PDEs (Medium)
+91. The Wronskian of solutions y₁, y₂ of a second-order linear ODE vanishes identically if and only if:
+A) y₁ = y₂
+B) y₁, y₂ are linearly dependent
+C) y₁y₂ = 0
+D) The ODE has constant coefficients
+Answer: B
+
+92. For the Sturm-Liouville problem, eigenvalues are:
+A) Complex
+B) Real and positive
+C) Real
+D) Purely imaginary
+Answer: C
+
+93. The heat equation uₜ = kuₓₓ is classified as:
+A) Elliptic
+B) Parabolic
+C) Hyperbolic
+D) None of these
+Answer: B
+
+94. Green's function for the operator d²/dx² on [0,1] with zero boundary conditions:
+A) Is symmetric
+B) Does not exist
+C) Is constant
+D) Is periodic
+Answer: A
+
+95. The method of characteristics applies to:
+A) All PDEs
+B) First-order PDEs
+C) Linear PDEs only
+D) Elliptic PDEs
+Answer: B
+
+96. Bessel's equation x²y'' + xy' + (x² - n²)y = 0 has:
+A) Polynomial solutions
+B) Exponential solutions
+C) Bessel functions as solutions
+D) No solutions
+Answer: C
+
+97. For Laplace's equation in a disk, solutions are:
+A) Polynomials only
+B) Harmonic functions
+C) Exponentials
+D) Constants only
+Answer: B
+
+98. The maximum principle for harmonic functions states:
+A) Maximum occurs in the interior
+B) Maximum occurs on the boundary
+C) There is no maximum
+D) Maximum is at the center
+Answer: B
+
+99. Variation of parameters works when:
+A) Coefficients are constant
+B) Homogeneous solution is known
+C) Equation is linear
+D) Both B and C
+Answer: D
+
+100. The fundamental solution of the Laplacian in ℝ² is proportional to:
+A) 1/r
+B) log r
+C) r²
+D) e^r
+Answer: B

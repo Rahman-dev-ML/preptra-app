@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:35:00.248Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "de5104ec15500959666a99ab9afed32a7b81a234",
+      "sectionIndex": 0,
+      "question": "The autonomy versus integration debate in Gender Studies fundamentally questions:",
+      "options": [
+        "A) Administrative efficiency",
+        "B) Whether gender as analytical category requires distinct epistemological frameworks or can be subsumed within existing disciplines",
+        "C) Funding mechanisms",
+        "D) Student enrollment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d6d5a832f2d3a0fafeec4557328437cefafa58a",
+      "sectionIndex": 0,
+      "question": "The shift from Women Studies to Gender Studies represents an epistemological transformation that:",
+      "options": [
+        "A) Simply broadened the scope",
+        "B) Challenged essentialist categories while risking depoliticization of feminist activism",
+        "C) Improved funding opportunities",
+        "D) Reduced theoretical complexity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61b0c0df529d099ba5c2fec1bc931c34dc458922",
+      "sectionIndex": 0,
+      "question": "The multidisciplinary nature of Gender Studies creates tensions between:",
+      "options": [
+        "A) Different departments",
+        "B) Methodological rigor within disciplines and transformative potential of transdisciplinary approaches",
+        "C) Faculty members",
+        "D) Research topics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a14ff511baa1184267e7cbc7eabd1296a81b1f34",
+      "sectionIndex": 0,
+      "question": "The establishment of Gender Studies in Pakistan faces the paradox of:",
+      "options": [
+        "A) Too much support",
+        "B) Needing institutional legitimacy while challenging the very structures that grant it",
+        "C) International funding",
+        "D) Student interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb109bd4f717bb1441878e002edf072b311384fc",
+      "sectionIndex": 0,
+      "question": "The knowledge production in Gender Studies challenges traditional academia by:",
+      "options": [
+        "A) Using different fonts",
+        "B) Questioning subject-object distinctions and valorizing experiential knowledge",
+        "C) Longer bibliographies",
+        "D) More conferences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54d3bbfccd2e8b8ea6e3a2ac49e878e9ac867a57",
+      "sectionIndex": 0,
+      "question": "The integration approach risks:",
+      "options": [
+        "A) Increased visibility",
+        "B) Dilution of radical feminist politics within disciplinary constraints",
+        "C) Better resources",
+        "D) More students"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "812876577faf91ac262e4321a53c5d3944398aa4",
+      "sectionIndex": 0,
+      "question": "The autonomy of Gender Studies is crucial for:",
+      "options": [
+        "A) Independent budgets",
+        "B) Developing counter-hegemonic knowledge that challenges patriarchal epistemologies",
+        "C) Separate buildings",
+        "D) Faculty promotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "332f318593dabc2a32260053614d308773d1fe60",
+      "sectionIndex": 0,
+      "question": "The historical evolution from Women Studies to Gender Studies in the West versus Pakistan shows:",
+      "options": [
+        "A) Identical trajectories",
+        "B) Different temporalities and contextual pressures shaping distinct institutional forms",
+        "C) No differences",
+        "D) Pakistan ahead"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "607159303117785693d700912b6fa6b2287519fe",
+      "sectionIndex": 0,
+      "question": "The contribution of Gender Studies to knowledge development lies in:",
+      "options": [
+        "A) Adding gender variable",
+        "B) Fundamentally reconceptualizing knowledge categories and methodologies",
+        "C) More publications",
+        "D) Gender balance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "945a2282a9b964c58f8af47fd650794a20ab9fc5",
+      "sectionIndex": 0,
+      "question": "The future of Gender Studies as a discipline depends on:",
+      "options": [
+        "A) More funding",
+        "B) Navigating between institutional legitimacy and transformative potential",
+        "C) Technology adoption",
+        "D) International rankings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "392261c65d9e01a3f6c8d3171c187073be31266c",
+      "sectionIndex": 1,
+      "question": "The power and control wheel in gender-based violence reveals:",
+      "options": [
+        "A) Individual pathology",
+        "B) Systematic tactics embedded in patriarchal structures maintaining dominance",
+        "C) Communication problems",
+        "D) Cultural misunderstandings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc7c92a0182687aa43f0302788da57a0b57d61e7",
+      "sectionIndex": 1,
+      "question": "The Mukhtaran Mai case demonstrates how violence operates through:",
+      "options": [
+        "A) Individual perpetrators",
+        "B) Intersections of tribal justice, state complicity, and global media dynamics",
+        "C) Legal failures only",
+        "D) Rural backwardness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac58aecd1f7df2d4e3efc6cb422001a1af00e5a6",
+      "sectionIndex": 1,
+      "question": "Structural violence against women in Pakistan manifests through:",
+      "options": [
+        "A) Direct physical harm only",
+        "B) Normalized inequalities in resource distribution, legal frameworks, and symbolic representations",
+        "C) Individual discrimination",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8be83589e6ec5ba37110e8904e1546280e32dba2",
+      "sectionIndex": 1,
+      "question": "The continuum of violence concept challenges:",
+      "options": [
+        "A) Legal definitions",
+        "B) Artificial distinctions between everyday sexism and extreme violence",
+        "C) Statistical methods",
+        "D) Media coverage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8ce148f22a7188cafc89eeec38dbf0f14052a63",
+      "sectionIndex": 1,
+      "question": "The Punjab Protection Act 2016's limitations stem from:",
+      "options": [
+        "A) Poor drafting",
+        "B) Embedding legal remedies within patriarchal state and social structures",
+        "C) Lack of funding",
+        "D) Translation issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0e0f8b0d2f596fc32456c26e4687de722f3af89",
+      "sectionIndex": 1,
+      "question": "Honor-based violence reveals:",
+      "options": [
+        "A) Cultural tradition",
+        "B) Patriarchal control mechanisms disguised as cultural authenticity",
+        "C) Individual deviance",
+        "D) Legal gaps only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2005eb8e4fbe0b4a98d9963c884e9e1c18fc2c19",
+      "sectionIndex": 1,
+      "question": "The relationship between state and gender-based violence shows:",
+      "options": [
+        "A) State as protector",
+        "B) State as both perpetrator and arbiter of justice",
+        "C) Neutral state",
+        "D) Progressive state"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1320591eb525a1997d92d5fe2711b5e679366438",
+      "sectionIndex": 1,
+      "question": "Elimination strategies' failures often result from:",
+      "options": [
+        "A) Lack of effort",
+        "B) Addressing symptoms while maintaining structures producing violence",
+        "C) Poor coordination",
+        "D) Insufficient laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1df5e1007db381aaa234c7cb061695de12579027",
+      "sectionIndex": 1,
+      "question": "The global attention to cases like Mukhtaran Mai creates:",
+      "options": [
+        "A) Simple awareness",
+        "B) Complex dynamics of representation, agency, and Western savior narratives",
+        "C) Immediate solutions",
+        "D) Legal reforms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0eff72b2f5970096653e6fab3e63a0009b3727c2",
+      "sectionIndex": 1,
+      "question": "Intersectional analysis of violence reveals:",
+      "options": [
+        "A) Universal women's experience",
+        "B) How class, caste, and religious identities shape differential vulnerabilities",
+        "C) Gender as primary factor",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a1f1d6e8f00f0b540398026ab7b78f0afda8363",
+      "sectionIndex": 2,
+      "question": "The feminization of labor under neoliberal globalization represents:",
+      "options": [
+        "A) Women's empowerment",
+        "B) Exploitation through flexible accumulation strategies targeting gendered labor",
+        "C) Equal opportunities",
+        "D) Natural progression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49d8f491446738d65745d4f5bceae8719a15d8c4",
+      "sectionIndex": 2,
+      "question": "Global care chains illustrate:",
+      "options": [
+        "A) International cooperation",
+        "B) Transnational extraction of emotional labor reproducing global inequalities",
+        "C) Women helping women",
+        "D) Efficient markets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19368a0631517d5888c48384d4270b096f14de14",
+      "sectionIndex": 2,
+      "question": "The impact of globalization on Pakistani women demonstrates:",
+      "options": [
+        "A) Uniform effects",
+        "B) Stratified integration where class mediates between opportunity and exploitation",
+        "C) Only benefits",
+        "D) Complete transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8501bc7dde06468e3479f5a04acfa713cf815c5",
+      "sectionIndex": 2,
+      "question": "Structural Adjustment Programs' gendered effects reveal:",
+      "options": [
+        "A) Technical economic policies",
+        "B) How macroeconomic policies rely on women's unpaid labor as shock absorber",
+        "C) Gender-neutral impacts",
+        "D) Temporary adjustments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cec81343813c8b0083ffbeb762c7a81407345c77",
+      "sectionIndex": 2,
+      "question": "The relationship between global capital and local patriarchies shows:",
+      "options": [
+        "A) Opposition",
+        "B) Mutual articulation creating new forms of gendered exploitation",
+        "C) Global liberation",
+        "D) Local resistance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "651c27fb2e36724b888c5eda3bdcb25540a0dc99",
+      "sectionIndex": 2,
+      "question": "Export-oriented industrialization's gender dynamics involve:",
+      "options": [
+        "A) Simple job creation",
+        "B) Nimble fingers narrative justifying women's concentration in low-wage sectors",
+        "C) Gender equality",
+        "D) Skill recognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "834d6e5a9826cb397c8e987fd3e5bc4d2eaaa3c5",
+      "sectionIndex": 2,
+      "question": "Globalization's cultural imperialism debate in gender terms reveals:",
+      "options": [
+        "A) Western feminism dominance",
+        "B) Complex negotiations between universal rights and cultural specificities",
+        "C) No cultural impact",
+        "D) Automatic progress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cdbd94c2862c746ad9f7a19f27e8323ad278292",
+      "sectionIndex": 2,
+      "question": "The global division of reproductive labor shows:",
+      "options": [
+        "A) Natural patterns",
+        "B) Racialized and classed hierarchies in care work distribution",
+        "C) Equal sharing",
+        "D) Disappearing differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f63c28be52460bdbff892c6625c79d4f2bce3d4",
+      "sectionIndex": 2,
+      "question": "Transnational feminist networks face the challenge of:",
+      "options": [
+        "A) Communication only",
+        "B) Building solidarity across vast power differentials",
+        "C) Too much agreement",
+        "D) Funding excess"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7e8c1b86a5b82c2d9530ed74e5fc13f2c9d2256",
+      "sectionIndex": 2,
+      "question": "The concept of \"glocalization\" in gender issues means:",
+      "options": [
+        "A) Local focus only",
+        "B) Dialectical process where global forces reshape and are reshaped by local gender orders",
+        "C) Rejecting global",
+        "D) Simple mixture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87226896a81727187331010da8df66876dbd0070",
+      "sectionIndex": 3,
+      "question": "The 17% quota's failure to achieve substantive representation reflects:",
+      "options": [
+        "A) Insufficient percentage",
+        "B) Distinction between descriptive and substantive representation within patriarchal parties",
+        "C) Women's incompetence",
+        "D) Legal barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba34ffcc7bb8bc06a243b1e33feb576237cdbe24",
+      "sectionIndex": 3,
+      "question": "The concept of \"critical mass\" in women's political participation assumes:",
+      "options": [
+        "A) Numbers guarantee change",
+        "B) Problematic assumption that overlooks institutional constraints and backlash",
+        "C) 30% threshold",
+        "D) Automatic transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7a09ce8dc09e2f98b9736a94ac1a3c3494e80e0",
+      "sectionIndex": 3,
+      "question": "Women politicians' strategies of \"pulling each other up\" confront:",
+      "options": [
+        "A) Simple networking",
+        "B) Structural barriers requiring collective action while risking essentialist assumptions",
+        "C) Individual advancement",
+        "D) Mentorship only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a162656a80048c23c4530f484841c4e181eca48a",
+      "sectionIndex": 3,
+      "question": "The legitimacy deficit of quota women stems from:",
+      "options": [
+        "A) Lack of merit",
+        "B) Patriarchal devaluation of alternative pathways challenging electoral gatekeeping",
+        "C) Poor performance",
+        "D) Media bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f7fb97bfacf0086031f3b54373b55744b9b1d87",
+      "sectionIndex": 3,
+      "question": "The relationship between women's political participation and democracy shows:",
+      "options": [
+        "A) Automatic improvement",
+        "B) Potential for transformation constrained by masculine political cultures",
+        "C) No connection",
+        "D) Women naturally democratic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6f8977f6928afe7280c3fc242bcff36b0fb4dce",
+      "sectionIndex": 3,
+      "question": "Reserved seats versus general seats debate reveals:",
+      "options": [
+        "A) Technical difference",
+        "B) How political institutions structure gendered access to power",
+        "C) Equal opportunities",
+        "D) Quota superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abe03823a4a440150186f9eb59c2d8a14c8a367f",
+      "sectionIndex": 3,
+      "question": "Women's political participation as human right confronts:",
+      "options": [
+        "A) Legal recognition",
+        "B) Tension between formal rights and substantive capabilities for political agency",
+        "C) Universal acceptance",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4b02ddff0f0028562565a0caeab816b20d832ea",
+      "sectionIndex": 3,
+      "question": "The impact of dynasty politics on women's representation shows:",
+      "options": [
+        "A) Family support helps",
+        "B) How class privilege intersects with patriarchal structures",
+        "C) Equal access",
+        "D) Merit-based entry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59dd2e7b199b397780ae32cad4f4a870b6564cc4",
+      "sectionIndex": 3,
+      "question": "Political mainstreaming requires:",
+      "options": [
+        "A) More quotas",
+        "B) Transforming political institutions' masculine cultures and practices",
+        "C) Training women",
+        "D) Patience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b94da63e28a32da9f61b1ec045fa1e667f0fdfc",
+      "sectionIndex": 3,
+      "question": "The evolution of women's political participation in Pakistan reveals:",
+      "options": [
+        "A) Linear progress",
+        "B) Cyclical patterns reflecting broader democratization struggles",
+        "C) Western influence",
+        "D) Steady improvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79e1a11a9cf6a73d7e54b82c3d5778707e74d007",
+      "sectionIndex": 4,
+      "question": "The sex/gender distinction's deconstruction by Butler and others reveals:",
+      "options": [
+        "A) Clear categories",
+        "B) How the supposedly natural \"sex\" is itself discursively produced",
+        "C) Biological facts",
+        "D) Simple binary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8eec6abb5e8c01754bb411536564153ba111ca8d",
+      "sectionIndex": 4,
+      "question": "The nature/nurture debate's persistence in gender discussions indicates:",
+      "options": [
+        "A) Unresolved question",
+        "B) Political stakes in essentialist versus constructionist positions",
+        "C) Scientific progress",
+        "D) Academic exercise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "536372df6fc2cd8e0af16d58612a880a5f92b2ca",
+      "sectionIndex": 4,
+      "question": "Language as gendered involves more than vocabulary; it includes:",
+      "options": [
+        "A) Grammar only",
+        "B) Discursive practices constituting gendered subjects and power relations",
+        "C) Pronunciation",
+        "D) Writing styles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3ddd45cb16749fff582869411bb32f1b4ef2eb8",
+      "sectionIndex": 4,
+      "question": "The social construction of gender thesis faces the challenge of:",
+      "options": [
+        "A) Proving construction",
+        "B) Accounting for materiality of bodies and constraints on reconstruction",
+        "C) Too much evidence",
+        "D) Lack of examples"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f12e6846df946e203405ab080aafc1b9c0250a2",
+      "sectionIndex": 4,
+      "question": "Deconstructing gender reveals:",
+      "options": [
+        "A) Empty category",
+        "B) Regulatory fiction with material effects requiring strategic navigation",
+        "C) Biological truth",
+        "D) Simple performance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c05bd3a56a99af1ac8215167b803eb697ba31fc6",
+      "sectionIndex": 4,
+      "question": "The masculinity/femininity binary operates through:",
+      "options": [
+        "A) Natural opposition",
+        "B) Hierarchical complementarity maintaining heteronormative order",
+        "C) Equal valuation",
+        "D) Separate spheres"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b792c212ce568458274dbca4b16e47dd6d760dbd",
+      "sectionIndex": 4,
+      "question": "Traditional gender roles' origin stories function to:",
+      "options": [
+        "A) Explain history",
+        "B) Naturalize contemporary power arrangements through selective tradition",
+        "C) Preserve culture",
+        "D) Guide behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "30dd0af0000c7ca8a8102d16502b53222a8b39bf",
+      "sectionIndex": 4,
+      "question": "Intersectionality as analytical framework reveals:",
+      "options": [
+        "A) Addition of oppressions",
+        "B) Qualitatively different experiences at intersections of multiple systems",
+        "C) Hierarchy of oppression",
+        "D) Identity politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a90ebccbde438a39b1f47c3c537dfc0844c333f5",
+      "sectionIndex": 4,
+      "question": "The performativity thesis suggests gender is:",
+      "options": [
+        "A) False consciousness",
+        "B) Constituted through regulatory repetition of acts",
+        "C) Individual choice",
+        "D) Theatrical only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef9fbce3e07785e9ee799b8a8abee9cdad0f0bf7",
+      "sectionIndex": 4,
+      "question": "The relationship between sex and gender increasingly shows:",
+      "options": [
+        "A) Clear distinction",
+        "B) Mutual constitution challenging nature/culture divide",
+        "C) Sex determines gender",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "397f4481934f663c4f63683fe99fbb96eb70d17e",
+      "sectionIndex": 5,
+      "question": "The tension between Radical and Socialist feminism reflects:",
+      "options": [
+        "A) Personal conflicts",
+        "B) Fundamental disagreement about primary contradiction and revolutionary strategy",
+        "C) Geographic differences",
+        "D) Generational gap"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb224e9d8c385fd8c099f8cad16485da7184a160",
+      "sectionIndex": 5,
+      "question": "Applying Western feminist theories to Pakistan requires:",
+      "options": [
+        "A) Direct translation",
+        "B) Critical adaptation recognizing colonial difference and specific patriarchal formations",
+        "C) Rejection of all",
+        "D) Selective copying"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "846f654dd19976deb616d7c6d0203e5e9d1a13b6",
+      "sectionIndex": 5,
+      "question": "The three waves metaphor for feminism increasingly appears:",
+      "options": [
+        "A) Historically accurate",
+        "B) Problematic in imposing Western temporality on diverse global feminisms",
+        "C) Universally applicable",
+        "D) Helpful framework"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5484cf96be8c2312b06fbd389ef074965d36796a",
+      "sectionIndex": 5,
+      "question": "Postmodern feminism's challenge to earlier feminisms lies in:",
+      "options": [
+        "A) Rejecting politics",
+        "B) Deconstructing \"woman\" as unified category while risking political paralysis",
+        "C) Embracing patriarchy",
+        "D) Academic jargon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "716b1c6de0ba84ac39a6ee8fc61b89a6b1a34563",
+      "sectionIndex": 5,
+      "question": "Marxist/Socialist feminism's development shows:",
+      "options": [
+        "A) Economic determinism",
+        "B) Sophisticated analyses of how capitalism and patriarchy mutually constitute each other",
+        "C) Class over gender",
+        "D) Failed project"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1eece3e7c5a292c19097df2f2f7f8b89a6073497",
+      "sectionIndex": 5,
+      "question": "Psychoanalytic feminism's insights about male dominance suggest:",
+      "options": [
+        "A) Biological inevitability",
+        "B) Deep psychic structures requiring fundamental reimagining of social relations",
+        "C) Individual therapy solution",
+        "D) Mother blame"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0567c16ad34767b9642f3c79aeaaf5467ba1ca5",
+      "sectionIndex": 5,
+      "question": "The influence of Western feminisms on Pakistan demonstrates:",
+      "options": [
+        "A) Colonial imposition",
+        "B) Complex translations producing hybrid forms addressing local conditions",
+        "C) Complete adoption",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bea6e0e19ca135c19d780fe1b562fe8e80cbf07b",
+      "sectionIndex": 5,
+      "question": "Different feminist approaches to transformation reveal:",
+      "options": [
+        "A) Consensus strategy",
+        "B) Fundamental tensions about reform versus revolution",
+        "C) No practical implications",
+        "D) Academic debates only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0b014202c4f91660ae90be45f78206f89eaefd3",
+      "sectionIndex": 5,
+      "question": "The relationship between feminist theory and women's movements shows:",
+      "options": [
+        "A) Theory leads",
+        "B) Dialectical relationship with movements generating theory and vice versa",
+        "C) Separate domains",
+        "D) Movement rejects theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "546433959f0ff2069a44de1cf4e430eb3d080653",
+      "sectionIndex": 5,
+      "question": "Contemporary feminist debates about difference center on:",
+      "options": [
+        "A) Celebrating diversity",
+        "B) How to build solidarity without erasing power differentials",
+        "C) No differences exist",
+        "D) Return to unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f80d2f72dff392de7cdcf85a7e11491a4839b5d9",
+      "sectionIndex": 6,
+      "question": "The WID approach's fundamental flaw was:",
+      "options": [
+        "A) Including women",
+        "B) Adding women to development without questioning development itself",
+        "C) Economic focus",
+        "D) Too radical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "470dee71f7fbf892b1262829814644c02e35c55f",
+      "sectionIndex": 6,
+      "question": "WAD's recognition of women's existing contributions still failed to:",
+      "options": [
+        "A) Count women's work",
+        "B) Challenge capitalist accumulation dependent on women's exploitation",
+        "C) Include men",
+        "D) Gather data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4cfa75be607130b251efd679a08f1882a3072bcc",
+      "sectionIndex": 6,
+      "question": "GAD's promise of transformation confronts:",
+      "options": [
+        "A) Theoretical clarity",
+        "B) Depoliticization through technocratic gender mainstreaming",
+        "C) Too many supporters",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55b39ff82fd7276e8d32c0d946c95f6502294633",
+      "sectionIndex": 6,
+      "question": "The progression from WID to GAD reveals:",
+      "options": [
+        "A) Linear improvement",
+        "B) Ongoing tensions between integration and transformation",
+        "C) Completed evolution",
+        "D) Return to WID"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "990b8c686cfd02a8e70f96d8b8a872b3bd677bcf",
+      "sectionIndex": 6,
+      "question": "Modernization theory's gender critique exposes:",
+      "options": [
+        "A) Cultural problems",
+        "B) How development discourse reproduces colonial civilizing missions",
+        "C) Need for tradition",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4feb80885cff378f08efda9f71d093179e067b5",
+      "sectionIndex": 6,
+      "question": "\"Development as new colonialism\" in gender terms means:",
+      "options": [
+        "A) Literal colonization",
+        "B) Imposing Western gender norms while extracting resources and labor",
+        "C) No development needed",
+        "D) Only economic exploitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df5ad68bbc60721d6541975c8304e9fcc2a64b2d",
+      "sectionIndex": 6,
+      "question": "Gender mainstreaming's failures often stem from:",
+      "options": [
+        "A) Poor planning",
+        "B) Bureaucratization emptying gender of political content",
+        "C) Lack of tools",
+        "D) Resistance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc561ad860f2f81bcc586e08c14e3650ad173ab1",
+      "sectionIndex": 6,
+      "question": "Critical analysis of development reveals:",
+      "options": [
+        "A) Technical problems",
+        "B) How development discourse constructs \"Third World women\" as objects",
+        "C) Need for more aid",
+        "D) Success stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "053c45c8caa0409dba759353c2fa78df86f54f30",
+      "sectionIndex": 6,
+      "question": "The relationship between gender and development shows:",
+      "options": [
+        "A) Separate issues",
+        "B) Co-constitution where development models assume and reproduce gender orders",
+        "C) Gender added later",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bcd0a0e4f1e62678fcad5290630e3e996a94565",
+      "sectionIndex": 6,
+      "question": "Alternative development paradigms from feminist perspectives require:",
+      "options": [
+        "A) Better indicators",
+        "B) Fundamental reimagining of progress beyond growth paradigms",
+        "C) More funding",
+        "D) Technical fixes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f83d6e1e69ca174f83c9ab200cf377fda6cfa226",
+      "sectionIndex": 7,
+      "question": "The \"maternity death road\" as analytical concept reveals:",
+      "options": [
+        "A) Medical failures",
+        "B) Cumulative structural violence throughout women's reproductive lives",
+        "C) Individual risks",
+        "D) Natural dangers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3e2da179d76cbc93df0e6882c8308227b641004",
+      "sectionIndex": 7,
+      "question": "Women's health in Pakistan demonstrates how:",
+      "options": [
+        "A) Biology is destiny",
+        "B) Social determinants of health are fundamentally gendered",
+        "C) Medical progress helps",
+        "D) Individual responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da6ae909b49bf8788c002c5ad330dd3cec10ec6d",
+      "sectionIndex": 7,
+      "question": "The medicalization of women's bodies represents:",
+      "options": [
+        "A) Scientific progress",
+        "B) Biopower operating through expert knowledge controlling women",
+        "C) Better health",
+        "D) Natural development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52d503510c39fdc4db5a330ecead36fff665bfcb",
+      "sectionIndex": 7,
+      "question": "Pakistani women's movement's class dynamics show:",
+      "options": [
+        "A) Unity across class",
+        "B) Middle-class leadership potentially alienating grassroots constituencies",
+        "C) No class issues",
+        "D) Working-class leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12133ec29c0aab8f862f279745541e2f3b9a00f1",
+      "sectionIndex": 7,
+      "question": "The autonomy versus integration debate for women's studies reflects:",
+      "options": [
+        "A) Administrative preference",
+        "B) Strategic tensions about maintaining critical edge versus institutional resources",
+        "C) No real issue",
+        "D) Solved problem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cf66a5759398541dc75f014b0dbc4da81332cdb",
+      "sectionIndex": 7,
+      "question": "Women's movements' relationship with the state reveals:",
+      "options": [
+        "A) Natural alliance",
+        "B) Paradox of seeking rights from patriarchal structures",
+        "C) No interaction",
+        "D) State feminism success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cbf2db1ce9d1dc67618670e683f18edc0f4ce8d",
+      "sectionIndex": 7,
+      "question": "The NGO-ization of women's movements shows:",
+      "options": [
+        "A) Increased resources",
+        "B) Depoliticization through donor-driven agendas and professionalization",
+        "C) Better organization",
+        "D) Grassroots empowerment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdebd724c2d67f51c41d2f2032ccc305ff491f48",
+      "sectionIndex": 7,
+      "question": "Contemporary health challenges require understanding:",
+      "options": [
+        "A) Medical advances",
+        "B) How neoliberal policies exacerbate gendered health inequalities",
+        "C) Individual behavior",
+        "D) Technology solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "031ed69a1d50b1ab311c8523fd0bf7df8412d476",
+      "sectionIndex": 7,
+      "question": "The body as site of political struggle means:",
+      "options": [
+        "A) Physical fitness",
+        "B) Control over women's bodies as central to patriarchal power",
+        "C) Health focus only",
+        "D) Individual rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "777874eac57ef447cc0afe00516eac1c2caa0904",
+      "sectionIndex": 7,
+      "question": "Movement fragmentation reflects:",
+      "options": [
+        "A) Failure",
+        "B) Necessary differentiation recognizing diverse women's interests",
+        "C) Need for unity",
+        "D) External manipulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ca638e78b30f08451ffa6544eeda6d83ad86ddd",
+      "sectionIndex": 8,
+      "question": "Colonial construction of gender in the subcontinent involved:",
+      "options": [
+        "A) Modernization",
+        "B) Reconstituting patriarchies through law while claiming to protect women",
+        "C) Liberation",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e017507aa11f6cfffef31e565d47df2c3196ddc",
+      "sectionIndex": 8,
+      "question": "The colonial \"woman question\" functioned to:",
+      "options": [
+        "A) Improve women's status",
+        "B) Justify colonial rule while deepening patriarchal controls",
+        "C) Promote equality",
+        "D) Challenge tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7728f321bfba971fffa612b5831709fe6723a687",
+      "sectionIndex": 8,
+      "question": "Capitalist development's gendered effects show:",
+      "options": [
+        "A) Automatic progress",
+        "B) Primitive accumulation dependent on women's unpaid reproductive labor",
+        "C) Equal opportunities",
+        "D) Gender irrelevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77812cf6362928bf0dedc0c762101d50646909e6",
+      "sectionIndex": 8,
+      "question": "SAPs as gendered governance reveal:",
+      "options": [
+        "A) Technical adjustments",
+        "B) Neoliberal restructuring intensifying women's labor while cutting support",
+        "C) Temporary measures",
+        "D) Gender-neutral policies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0be38a3e8329005a352aecc019707a7eb6e33bf7",
+      "sectionIndex": 8,
+      "question": "The relationship between colonialism and capitalism for women shows:",
+      "options": [
+        "A) Sequential phases",
+        "B) Mutually reinforcing systems of gendered exploitation",
+        "C) Opposition",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0aedf0969644386099a28439ef8e8ab521079123",
+      "sectionIndex": 8,
+      "question": "Development discourse's colonial continuities include:",
+      "options": [
+        "A) Language only",
+        "B) Constructing \"backward\" women needing Western feminist salvation",
+        "C) No similarities",
+        "D) Pure altruism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10c96b322f18318fb891b77c301c073b643106c0",
+      "sectionIndex": 8,
+      "question": "Women's double burden under capitalism reflects:",
+      "options": [
+        "A) Poor time management",
+        "B) Structural requirement for capital accumulation through unpaid labor",
+        "C) Individual choices",
+        "D) Temporary phase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec97290743dfee11f0ac75ea7c3ac5a1e3dcd229",
+      "sectionIndex": 8,
+      "question": "The feminization of poverty demonstrates:",
+      "options": [
+        "A) Women's failures",
+        "B) How capitalist crises systematically transferred to women",
+        "C) Natural outcome",
+        "D) Motivational issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a6bfcce0eadf5f5f51e16dc0153acfa1d1b556f",
+      "sectionIndex": 8,
+      "question": "Reproductive labor's devaluation serves:",
+      "options": [
+        "A) No purpose",
+        "B) Capital accumulation by externalizing costs of social reproduction",
+        "C) Efficiency",
+        "D) Women's interests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b546c38223f7b7b5b8847184472dacc3e54cf88c",
+      "sectionIndex": 8,
+      "question": "Decolonizing gender requires:",
+      "options": [
+        "A) Rejecting modernity",
+        "B) Disentangling emancipatory possibilities from colonial impositions",
+        "C) Return to tradition",
+        "D) Western feminism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "091d621bb5d5659c1b88ed54e694e2a9f9846324",
+      "sectionIndex": 9,
+      "question": "The future of Gender Studies in Pakistan depends on:",
+      "options": [
+        "A) International trends",
+        "B) Negotiating local relevance while maintaining critical edge",
+        "C) Government support",
+        "D) Western models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d7a1f4a84da461d6cf45cddc1cfde8152fd1b31",
+      "sectionIndex": 9,
+      "question": "Digital feminism's possibilities and limits include:",
+      "options": [
+        "A) Unlimited reach",
+        "B) Reproducing digital divides while creating new solidarities",
+        "C) Replacing real activism",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a6ad74ff9253b3db5c9b1630bb5402b2bee779d",
+      "sectionIndex": 9,
+      "question": "Intersectional approaches' implementation challenges involve:",
+      "options": [
+        "A) Too complex",
+        "B) Avoiding additive approaches while recognizing specific locations",
+        "C) No real challenge",
+        "D) Academic exercise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "890b3c3651ae72f64740ff0b9250ca9d5930f9f1",
+      "sectionIndex": 9,
+      "question": "The relationship between gender justice and social justice reveals:",
+      "options": [
+        "A) Separate struggles",
+        "B) Impossibility of achieving one without the other",
+        "C) Gender priority",
+        "D) Sequential approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df717dbcac408b515f638f0516575f2febb1e564",
+      "sectionIndex": 9,
+      "question": "Backlash against feminism indicates:",
+      "options": [
+        "A) Feminist failure",
+        "B) Patriarchal anxiety about shifting power relations",
+        "C) Natural correction",
+        "D) Media creation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b78967d680aef2660d0ee04b26abcf03d43586fe",
+      "sectionIndex": 9,
+      "question": "Transformative strategies must address:",
+      "options": [
+        "A) Attitudes only",
+        "B) Simultaneously changing structures, cultures, and subjectivities",
+        "C) Laws only",
+        "D) Individual behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "837e3f9c92b16c950b31d198c153d3eae359bb5f",
+      "sectionIndex": 9,
+      "question": "The limits of rights-based approaches show:",
+      "options": [
+        "A) Rights unnecessary",
+        "B) Need for substantive equality beyond formal recognition",
+        "C) Rights sufficient",
+        "D) Legal focus enough"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ee814d9132a9d6a8d7e6984e7c9443251912b77",
+      "sectionIndex": 9,
+      "question": "Building feminist futures requires:",
+      "options": [
+        "A) Blueprint",
+        "B) Prefigurative politics creating alternative relations now",
+        "C) Waiting",
+        "D) Expert leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7a539cd75342fa1f182546e104e0c80c4eba16a",
+      "sectionIndex": 9,
+      "question": "The decolonial turn in feminism demands:",
+      "options": [
+        "A) Rejecting feminism",
+        "B) Reconstituting feminism from experiences of colonized women",
+        "C) Western leadership",
+        "D) No theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a5a0f48184d5b40e9af47fcc93f02e8fc777db2",
+      "sectionIndex": 9,
+      "question": "Gender transformation ultimately requires:",
+      "options": [
+        "A) Time",
+        "B) Revolutionary change in all social relations of power",
+        "C) Education only",
+        "D) Legal reform"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+## Section 1: Vector Analysis and Operations
+
+1. Vector Analysis and Operations (Hard)
+1. For a vector field V = xz³i - 2x²yj + 2yz⁴k, the curl at point (1, -1, 1) is:
+A) 8i + 3j - 4k
+B) 8i - 3j + 4k
+C) -8i + 3j - 4k
+D) -8i - 3j + 4k
+Answer: A
+
+2. If F = ∇φ where φ = x²y + y²z + z²x, then ∇×F equals:
+A) 2(xi + yj + zk)
+B) Zero vector
+C) 2(yi + zj + xk)
+D) Cannot be determined
+Answer: B
+
+3. The divergence theorem relates a volume integral to a surface integral. For F = r³r̂ in spherical coordinates, ∫∫F·dS over a sphere of radius R equals:
+A) 4πR⁵
+B) 20πR⁵/3
+C) 4πR⁶/3
+D) 20πR⁴
+Answer: B
+
+4. For the vector identity ∇×(∇×A) = ∇(∇·A) - ∇²A, if A = x²yi + y²zj + z²xk, then ∇×(∇×A) at origin is:
+A) Zero
+B) -2(yi + zj + xk)
+C) 2(xi + yj + zk)
+D) Cannot evaluate at origin
+Answer: A
+
+5. In cylindrical coordinates, if A = ρ²φ̂, then ∇·A equals:
+A) 0
+B) 2ρ
+C) ρ
+D) 2
+Answer: C
+
+6. The vector field F = (y² - z²)i + 2xyj - 2xzk is:
+A) Conservative with potential φ = xy² - xz²
+B) Non-conservative
+C) Conservative with potential φ = x²y - xz²
+D) Solenoidal
+Answer: A
+
+7. For a scalar field φ = 1/r in spherical coordinates, ∇²φ equals:
+A) 0 everywhere
+B) 0 except at origin
+C) -4πδ(r)
+D) 1/r³
+Answer: C
+
+8. If A·(B×C) = 6 and A×B = 2i - j + k, then (A×B)·C cannot be determined unless:
+A) C is known
+B) A and B are known individually
+C) The angle between A and B is known
+D) No additional information needed
+Answer: D
+
+9. The line integral ∮C F·dl around a closed curve C equals zero if and only if:
+A) F is constant
+B) F is conservative
+C) Curve C is circular
+D) F is perpendicular to dl
+Answer: B
+
+10. In tensor notation, the vector triple product [A×(B×C)]ᵢ equals:
+A) εᵢⱼₖAⱼεₖₗₘBₗCₘ
+B) AⱼBᵢCⱼ - AⱼBⱼCᵢ
+C) εᵢⱼₖεⱼₗₘAₖBₗCₘ
+D) Both A and B
+Answer: D
+
+## Section 2: Mechanics and Dynamics
+
+2. Mechanics and Dynamics (Hard)
+11. A particle moves under central force F = -k/r³. Its trajectory equation is:
+A) r = l²/[mk(1 + e cos θ)]
+B) r = a(1 - e²)/(1 + e cos θ)
+C) r² = 2l²θ/mk + r₀²
+D) r = r₀ sec(θ - θ₀)
+Answer: D
+
+12. For a symmetric top with I₁ = I₂ ≠ I₃, precessing with angular velocity Ω, the nutation frequency is:
+A) Ω(I₃ - I₁)/I₁
+B) ΩI₃/I₁
+C) Ω(I₃/I₁ - 1)
+D) Ω√(I₃/I₁)
+Answer: C
+
+13. In Lagrangian mechanics, for a particle on a rotating parabolic wire z = ar², the effective potential is:
+A) mgaz² + ½mω²r²
+B) mgar² - ½mω²r²
+C) mgar² + ½mω²r²(1 + 4a²r²)
+D) mga²r⁴ - ½mω²r²
+Answer: C
+
+14. The Routhian for a system with cyclic coordinate q₃ is R = L - p₃q̇₃. For a spinning top, this reduces the problem by:
+A) Eliminating precession angle
+B) Eliminating nutation angle
+C) Fixing total angular momentum
+D) Setting spin angular momentum constant
+Answer: A
+
+15. A chain of length L and mass M slides off a frictionless table. When length x hangs over, acceleration is:
+A) gx/L
+B) gx²/L²
+C) g(2x - L)/L
+D) gx/(L - x)
+Answer: A
+
+16. For small oscillations of a double pendulum with equal masses and lengths, the normal mode frequencies are:
+A) ω₁,₂ = √(g/l)(2 ± √2)
+B) ω₁,₂ = √(g/l)(1 ± 1/√2)
+C) ω₁,₂ = √(g/l)√(2 ± √2)
+D) ω₁,₂ = √(g/l)(√2 ± 1)
+Answer: C
+
+17. The Poisson bracket {H, L²} for a particle in a central potential equals:
+A) 0
+B) 2L·(∂H/∂p)
+C) -2L·(∂V/∂r)
+D) Cannot be determined
+Answer: A
+
+18. For a relativistic particle in a constant magnetic field B, the radius of curvature is:
+A) mv/qB
+B) p/qB
+C) γmv/qB
+D) E/qBc
+Answer: C
+
+19. The Hamilton-Jacobi equation for a free particle in spherical coordinates separates into how many ordinary differential equations?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+
+20. In a non-inertial rotating frame, the equation of motion includes fictitious forces. For angular velocity ω, which term represents the Coriolis force?
+A) -mω × (ω × r)
+B) -2mω × v
+C) -m(dω/dt) × r
+D) All of the above
+Answer: B
+
+## Section 3: Electromagnetism and Electricity
+
+3. Electromagnetism and Electricity (Hard)
+21. For a uniformly polarized sphere with polarization P, the electric field inside is:
+A) P/3ε₀
+B) -P/3ε₀
+C) 2P/3ε₀
+D) -2P/3ε₀
+Answer: B
+
+22. The magnetic vector potential A for a magnetic dipole m at the origin is:
+A) (μ₀/4π)(m × r)/r³
+B) (μ₀/4π)(m × r̂)/r²
+C) (μ₀/4π)m/r²
+D) (μ₀/4π)(m·r̂)r̂/r²
+Answer: B
+
+23. In the Coulomb gauge, ∇·A = 0. The wave equation for A in this gauge is:
+A) ∇²A = μ₀J
+B) ∇²A - (1/c²)∂²A/∂t² = -μ₀J
+C) ∇²A - (1/c²)∂²A/∂t² = -μ₀(J - ε₀∂E/∂t)
+D) ∇²A - (1/c²)∂²A/∂t² = -μ₀J_transverse
+Answer: D
+
+24. The skin depth δ for a good conductor at frequency ω is:
+A) √(2/μσω)
+B) √(2μσω)
+C) 1/√(μσω)
+D) √(μ/σω)
+Answer: A
+
+25. For a dielectric sphere in a uniform field E₀, the field inside is:
+A) E₀
+B) 3E₀/(εᵣ + 2)
+C) εᵣE₀/(εᵣ + 2)
+D) 3εᵣE₀/(2εᵣ + 1)
+Answer: B
+
+26. The radiation resistance of a half-wave dipole antenna is approximately:
+A) 36.5 Ω
+B) 73 Ω
+C) 146 Ω
+D) 292 Ω
+Answer: B
+
+27. In a rectangular waveguide with dimensions a > b, the cutoff frequency for TE₁₀ mode is:
+A) c/2a
+B) c/2b
+C) c/√(a² + b²)
+D) c√(1/a² + 1/b²)
+Answer: A
+
+28. The retarded potential φ(r,t) due to a moving point charge is given by:
+A) q/4πε₀|r - r'(t)|
+B) q/4πε₀|r - r'(t - |r - r'|/c)|
+C) q/4πε₀[|r - r'| - (r - r')·v/c]
+D) q/4πε₀R(1 - n̂·β)
+Answer: D
+
+29. The Abraham-Lorentz equation for radiation reaction force on an accelerated charge includes a term proportional to:
+A) da/dt
+B) d²a/dt²
+C) d³r/dt³
+D) v × a
+Answer: A
+
+30. For a plasma with electron density n and frequency ω < ωₚ (plasma frequency), the refractive index is:
+A) Real and less than 1
+B) Real and greater than 1
+C) Pure imaginary
+D) Complex with real part less than 1
+Answer: C
+
+## Section 4: Waves and Optics
+
+4. Waves and Optics (Hard)
+31. In a Fabry-Perot interferometer with finesse F, the ratio of peak transmission to minimum transmission is approximately:
+A) F
+B) F²
+C) 4F²/π²
+D) π²F²/4
+Answer: C
+
+32. For a Gaussian beam with waist w₀, the Rayleigh range z_R is:
+A) πw₀²/λ
+B) 2πw₀²/λ
+C) λ/πw₀²
+D) w₀/λ
+Answer: A
+
+33. In nonlinear optics, second harmonic generation requires:
+A) Any material
+B) Non-centrosymmetric crystal
+C) High intensity only
+D) Metallic medium
+Answer: B
+
+34. The Gouy phase shift for a Gaussian beam passing through focus is:
+A) π/4
+B) π/2
+C) π
+D) 2π
+Answer: C
+
+35. For a zone plate with N zones, the primary focal length is:
+A) r₁²/λ
+B) r₁²/2λ
+C) r₁²/Nλ
+D) Nr₁²/λ
+Answer: A
+
+36. In holography, the minimum angle between object and reference beams to avoid overlap of real and virtual images is:
+A) sin⁻¹(λ/2d)
+B) sin⁻¹(λ/d)
+C) sin⁻¹(2λ/d)
+D) sin⁻¹(3λ/2d)
+Answer: D
+
+37. The coherence time τc and spectral width Δν are related by:
+A) τc·Δν ≈ 1
+B) τc·Δν ≈ 1/2π
+C) τc·Δν ≈ 2π
+D) τc·Δν ≈ π
+Answer: A
+
+38. For a multi-mode optical fiber with core index n₁ and cladding index n₂, the V-parameter is:
+A) 2πa(n₁ - n₂)/λ
+B) 2πa√(n₁² - n₂²)/λ
+C) πa(n₁² - n₂²)/λ
+D) 2πa(n₁² - n₂²)/λn₁
+Answer: B
+
+39. The Airy disk radius for a circular aperture of diameter D is:
+A) 0.61λ/D
+B) 1.22λ/D
+C) 2.44λ/D
+D) 3.66λ/D
+Answer: B
+
+40. In parametric down-conversion, energy conservation requires ωₚ = ω₁ + ω₂. Phase matching additionally requires:
+A) kₚ = k₁ - k₂
+B) kₚ = k₁ + k₂
+C) kₚ² = k₁² + k₂²
+D) kₚ = (k₁ + k₂)/2
+Answer: B
+
+## Section 5: Thermodynamics & Statistical Mechanics
+
+5. Thermodynamics & Statistical Mechanics (Hard)
+41. For a van der Waals gas, the critical temperature in terms of constants a and b is:
+A) 8a/27Rb
+B) a/27Rb²
+C) 27a/8Rb
+D) a/Rb
+Answer: A
+
+42. The partition function for a quantum harmonic oscillator at temperature T is:
+A) 1/(1 - e^(-ℏω/kT))
+B) e^(-ℏω/2kT)/(1 - e^(-ℏω/kT))
+C) (1 - e^(-ℏω/kT))/e^(-ℏω/2kT)
+D) 1/(1 - e^(-ℏω/2kT))²
+Answer: B
+
+43. For an ideal Bose gas below the critical temperature, the fraction in the ground state is:
+A) 1 - (T/Tc)^(3/2)
+B) 1 - (T/Tc)^(5/2)
+C) (1 - T/Tc)^(3/2)
+D) (Tc/T - 1)^(3/2)
+Answer: A
+
+44. The chemical potential μ for a classical ideal gas at temperature T and pressure P is:
+A) kT ln(P/P₀)
+B) -kT ln(nQ/N)
+C) kT ln(nλ³)
+D) All of the above with appropriate constants
+Answer: D
+
+45. For a two-level system with energy separation ε, the heat capacity peaks at temperature:
+A) T = ε/k
+B) T = ε/2k
+C) T = ε/2.4k
+D) T = 2ε/k
+Answer: C
+
+46. The Fermi-Dirac distribution at T = 0 becomes:
+A) Exponential
+B) Gaussian
+C) Step function
+D) Delta function
+Answer: C
+
+47. For a relativistic gas, the equation of state is:
+A) PV = NkT
+B) PV = NkT/3
+C) PV = E/3
+D) PV = 2E/3
+Answer: C
+
+48. The entropy of mixing for two ideal gases with N₁ and N₂ molecules is:
+A) k[N₁ln(V/V₁) + N₂ln(V/V₂)]
+B) -k[N₁ln(N₁/N) + N₂ln(N₂/N)]
+C) k(N₁ + N₂)ln2
+D) Both A and B
+Answer: D
+
+49. The virial expansion for real gases has the form PV/NkT = 1 + B(T)n + C(T)n² + ... The second virial coefficient B(T) for hard spheres is:
+A) 2πd³/3
+B) 4πd³/3
+C) 2πd³
+D) πd³/6
+Answer: A
+
+50. In the Ising model, the critical temperature in 2D for the square lattice is:
+A) kTc = J/ln2
+B) kTc = 2J/ln(1 + √2)
+C) kTc = 2J
+D) kTc = 4J
+Answer: B
+
+## Section 6: Modern Physics & Quantum Mechanics
+
+6. Modern Physics & Quantum Mechanics (Hard)
+51. For the hydrogen atom, the expectation value ⟨1/r⟩ in the state |nlm⟩ is:
+A) 1/na₀
+B) Z/n²a₀
+C) Z²/n²a₀
+D) 1/n²a₀
+Answer: B
+
+52. The WKB approximation gives the energy levels of a particle in potential V(x) as:
+A) ∮p dx = 2πnℏ
+B) ∮p dx = πnℏ
+C) ∮p dx = (n + 1/2)πℏ
+D) ∮p dx = 2π(n + 1/2)ℏ
+Answer: D
+
+53. For two spin-1/2 particles, the singlet state is:
+A) |↑↑⟩
+B) (|↑↓⟩ + |↓↑⟩)/√2
+C) (|↑↓⟩ - |↓↑⟩)/√2
+D) |↓↓⟩
+Answer: C
+
+54. The Berry phase for a spin-1/2 particle in a slowly rotating magnetic field after one complete cycle is:
+A) 0
+B) π
+C) 2π
+D) π(1 - cos θ)
+Answer: D
+
+55. In the Dirac equation, the antiparticle solutions have:
+A) Negative energy only
+B) Positive energy only
+C) Negative frequency
+D) Imaginary mass
+Answer: C
+
+56. The Lamb shift in hydrogen is primarily due to:
+A) Spin-orbit coupling
+B) Vacuum fluctuations
+C) Nuclear finite size
+D) Relativistic corrections
+Answer: B
+
+57. For a particle in a spherical infinite well, the ground state has quantum numbers:
+A) n=1, l=0
+B) n=0, l=0
+C) n=1, l=1
+D) n=0, l=1
+Answer: A
+
+58. The Clebsch-Gordan coefficient ⟨j₁j₂m₁m₂|JM⟩ vanishes unless:
+A) m₁ + m₂ = M
+B) |j₁ - j₂| ≤ J ≤ j₁ + j₂
+C) Both A and B
+D) J = j₁ + j₂ only
+Answer: C
+
+59. In second quantization, the commutator [a†ₖ, aₖ'] for bosons equals:
+A) 0
+B) δₖₖ'
+C) -δₖₖ'
+D) 1
+Answer: B
+
+60. The Aharonov-Bohm effect demonstrates that:
+A) Magnetic field affects charged particles
+B) Vector potential has physical significance
+C) Quantum mechanics is incomplete
+D) Electrons have wave nature
+Answer: B
+
+## Section 7: Relativity
+
+7. Relativity (Hard)
+61. The Schwarzschild radius for a mass M is:
+A) GM/c²
+B) 2GM/c²
+C) GM/2c²
+D) 3GM/c²
+Answer: B
+
+62. In general relativity, the Ricci tensor Rμν is related to the Einstein tensor Gμν by:
+A) Gμν = Rμν - ½gμνR
+B) Gμν = Rμν + ½gμνR
+C) Gμν = Rμν - gμνR
+D) Gμν = Rμν
+Answer: A
+
+63. For a photon passing near the sun, the deflection angle is approximately:
+A) 2GM/Rc²
+B) 4GM/Rc²
+C) GM/Rc²
+D) 3GM/Rc²
+Answer: B
+
+64. The precession of Mercury's perihelion per century due to GR is:
+A) 43 arcseconds
+B) 430 arcseconds
+C) 4.3 arcseconds
+D) 0.43 arcseconds
+Answer: A
+
+65. In the twin paradox, if the traveling twin moves at 0.8c for 10 years (ship time), Earth time elapsed is:
+A) 6 years
+B) 8 years
+C) 16.7 years
+D) 12.5 years
+Answer: C
+
+66. The four-momentum pμ = (E/c, p⃗) satisfies pμpμ = :
+A) m²c²
+B) -m²c²
+C) E²/c²
+D) 0 for photons only
+Answer: A
+
+67. The Thomas precession frequency for an electron in hydrogen is:
+A) ωL/2
+B) ωL/3
+C) ωL/4
+D) 2ωL/3
+Answer: A
+
+68. Gravitational time dilation near Earth's surface gives Δt/t ≈:
+A) gh/c²
+B) 2gh/c²
+C) gh/2c²
+D) 3gh/2c²
+Answer: A
+
+69. The metric for flat spacetime in spherical coordinates is:
+A) ds² = -c²dt² + dr² + r²dθ²
+B) ds² = -c²dt² + dr² + r²(dθ² + sin²θdφ²)
+C) ds² = -c²dt² + dr² + r²dθ² + r²sin²θdφ²
+D) Both B and C
+Answer: D
+
+70. For gravitational waves, the strain h ~ :
+A) GM/rc⁴
+B) G²M²/r²c⁴
+C) GM²/rc⁴
+D) G²M/rc⁴
+Answer: C
+
+## Section 8: Fluid Dynamics
+
+8. Fluid Dynamics (Hard)
+71. The Navier-Stokes equation for incompressible flow includes the term:
+A) ρ(∂v/∂t + v·∇v) = -∇p + μ∇²v
+B) ρ(∂v/∂t + v·∇v) = -∇p + μ∇v
+C) ρ(∂v/∂t) = -∇p + μ∇²v
+D) ρv·∇v = -∇p + μ∇²v
+Answer: A
+
+72. For flow past a sphere at low Reynolds number, the drag coefficient CD ~ :
+A) 24/Re
+B) 48/Re
+C) 12/Re
+D) 6/Re
+Answer: A
+
+73. The Blasius solution for boundary layer thickness δ over a flat plate varies as:
+A) √(x/U)
+B) √(νx/U)
+C) x/√Re_x
+D) Both B and C
+Answer: D
+
+74. In turbulent flow, the Kolmogorov length scale η is:
+A) (ν³/ε)^(1/4)
+B) (ν/ε)^(1/2)
+C) (ν²/ε)^(1/3)
+D) ν/ε
+Answer: A
+
+75. The critical Rayleigh number for onset of convection between horizontal plates is approximately:
+A) 657
+B) 1708
+C) 2520
+D) 5000
+Answer: B
+
+76. For potential flow around a cylinder with circulation Γ, the lift per unit length is:
+A) ρUΓ/2
+B) ρUΓ
+C) 2ρUΓ
+D) ρU²Γ
+Answer: B
+
+77. The Strouhal number St = fD/U for vortex shedding behind a cylinder is approximately:
+A) 0.1
+B) 0.2
+C) 0.5
+D) 1.0
+Answer: B
+
+78. In magnetohydrodynamics, the Alfvén wave speed is:
+A) B/√(μ₀ρ)
+B) B²/μ₀ρ
+C) √(B/μ₀ρ)
+D) B/√(2μ₀ρ)
+Answer: A
+
+79. The Prandtl number Pr = ν/α relates:
+A) Inertial to viscous forces
+B) Momentum to thermal diffusivity
+C) Convection to conduction
+D) Pressure to viscous forces
+Answer: B
+
+80. For Couette flow between parallel plates with one moving, the velocity profile is:
+A) Parabolic
+B) Linear
+C) Exponential
+D) Logarithmic
+Answer: B
+
+## Section 9: Nuclear Physics
+
+9. Nuclear Physics (Hard)
+81. The semi-empirical mass formula (SEMF) includes a pairing term ~ :
+A) ±δA^(-1/2)
+B) ±δA^(-3/4)
+C) ±δA^(-1)
+D) ±δA^(-1/4)
+Answer: B
+
+82. In the shell model, the magic number 28 arises from filling up to:
+A) 1f₇/₂
+B) 2p₃/₂
+C) 1f₅/₂
+D) 2p₁/₂
+Answer: A
+
+83. The Gamow factor for alpha decay gives transmission probability ~ :
+A) exp(-2πZZ'e²/ℏv)
+B) exp(-4πZZ'e²/ℏv)
+C) exp(-πZZ'e²/ℏv)
+D) exp(-8πZZ'e²/ℏv)
+Answer: A
+
+84. For thermal neutrons in water, the diffusion length L is approximately:
+A) 0.3 cm
+B) 3 cm
+C) 30 cm
+D) 300 cm
+Answer: B
+
+85. The four-factor formula for reactor criticality k∞ = ηfpε does NOT include:
+A) Fast fission factor
+B) Resonance escape probability
+C) Thermal utilization
+D) Neutron leakage
+Answer: D
+
+86. In beta decay, the Fermi function F(Z,E) accounts for:
+A) Nuclear matrix elements
+B) Coulomb interaction of beta particle
+C) Recoil effects
+D) Spin factors
+Answer: B
+
+87. The liquid drop model predicts fission barrier height ~ :
+A) A^(1/3)
+B) A^(2/3)
+C) A
+D) A^(5/3)
+Answer: B
+
+88. For neutron scattering, the s-wave scattering length for ¹H is approximately:
+A) -2.4 fm
+B) -23.7 fm
+C) +5.4 fm
+D) +10.8 fm
+Answer: B
+
+89. The Giant Dipole Resonance energy scales as:
+A) A^(-1/6)
+B) A^(-1/3)
+C) A^(-1/2)
+D) A^(-2/3)
+Answer: B
+
+90. In the compound nucleus model, the level density ρ(E) ~ :
+A) exp(E/T)
+B) exp(√E)
+C) exp(2√aE)
+D) E²exp(-E/T)
+Answer: C
+
+## Section 10: Solid State & Condensed Matter Physics
+
+10. Solid State & Condensed Matter Physics (Hard)
+91. The Debye cutoff frequency ωD is related to the number density n by:
+A) ωD = (6π²n)^(1/3)vs
+B) ωD = (6π²n)^(1/2)vs
+C) ωD = (3π²n)^(1/3)vs
+D) ωD = (3πn)^(1/3)vs
+Answer: A
+
+92. In the tight-binding model for a 1D lattice, the dispersion relation is:
+A) E = -2t cos(ka)
+B) E = E₀ - 2t cos(ka)
+C) E = 2t sin(ka)
+D) E = E₀ + 2t cos(ka)
+Answer: B
+
+93. The RKKY interaction between magnetic impurities varies with distance R as:
+A) 1/R³
+B) cos(2kFR)/R³
+C) exp(-R/λ)/R
+D) 1/R⁶
+Answer: B
+
+94. For a BCS superconductor at T=0, the energy gap Δ₀ relates to Tc by:
+A) 2Δ₀ = 3.5kBTc
+B) 2Δ₀ = 2.14kBTc
+C) Δ₀ = 1.76kBTc
+D) Δ₀ = πkBTc
+Answer: A
+
+95. The Hall coefficient for a metal with carrier density n is:
+A) RH = 1/ne
+B) RH = -1/ne
+C) RH = 1/n²e
+D) RH = -1/n²e
+Answer: B
+
+96. In the quantum Hall effect, the Hall conductivity is quantized as:
+A) σxy = ne²/h
+B) σxy = ne²/2πℏ
+C) σxy = n²e²/h
+D) Both A and B
+Answer: D
+
+97. The Kondo temperature TK for a magnetic impurity is:
+A) TK ~ D exp(-1/Jρ)
+B) TK ~ J²ρ
+C) TK ~ 1/Jρ
+D) TK ~ Jρ
+Answer: A
+
+98. For a 2D electron gas, the density of states is:
+A) Proportional to √E
+B) Constant
+C) Proportional to E
+D) Proportional to 1/E
+Answer: B
+
+99. The coherence length ξ in a superconductor is related to the penetration depth λ by:
+A) ξ/λ = κ (Ginzburg-Landau parameter)
+B) λ/ξ = κ
+C) ξλ = constant
+D) ξ + λ = constant
+Answer: B
+
+100. Anderson localization occurs when:
+A) Disorder is weak
+B) W/B > critical value (W=disorder, B=bandwidth)
+C) Temperature is high
+D) System is 1D regardless of disorder
+Answer: B

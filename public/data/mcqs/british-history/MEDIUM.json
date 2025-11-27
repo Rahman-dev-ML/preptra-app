@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:51:31.505Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "45f7ca8dcbaecbe5a89b3a7f380299ed679ca2ab",
+      "sectionIndex": 0,
+      "question": "The Glorious Revolution's most significant constitutional outcome was:",
+      "options": [
+        "A) Abolition of Parliament",
+        "B) Establishment of parliamentary sovereignty over the Crown",
+        "C) Creation of a republic",
+        "D) Divine right of kings reinforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94e42d76537bf8da77c4ff8f9aa006b1becc760d",
+      "sectionIndex": 0,
+      "question": "The Bill of Rights (1689) differed from Magna Carta (1215) primarily in:",
+      "options": [
+        "A) Both limited royal power equally",
+        "B) Bill of Rights established parliamentary supremacy while Magna Carta protected baronial privileges",
+        "C) Magna Carta was more comprehensive",
+        "D) Neither had lasting impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78a73fecac688f62085392ce4d15c64f983d9223",
+      "sectionIndex": 0,
+      "question": "The Hanoverian Succession (1714) was necessary because:",
+      "options": [
+        "A) Queen Anne died without Protestant heirs",
+        "B) Parliament wanted German rulers",
+        "C) Scotland demanded it",
+        "D) France threatened invasion"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a584ae8f9018dc96a29550284986972e9fc03bbe",
+      "sectionIndex": 0,
+      "question": "The Act of Settlement (1701) primarily aimed to:",
+      "options": [
+        "A) Settle colonial disputes",
+        "B) Ensure Protestant succession to the throne",
+        "C) Resolve parliamentary seats",
+        "D) End the civil war"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5edcaefa00f48e0766f83a794b90d7517bf50073",
+      "sectionIndex": 0,
+      "question": "The significance of the Glorious Revolution for American colonists was:",
+      "options": [
+        "A) It had no impact on colonies",
+        "B) It established precedent for resistance to arbitrary rule",
+        "C) It increased colonial taxation",
+        "D) It ended colonial self-government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b5846a18a42cdb6dc36857810f18b61fbebe66c",
+      "sectionIndex": 0,
+      "question": "The Whig interpretation of history viewed the Glorious Revolution as:",
+      "options": [
+        "A) A disaster for progress",
+        "B) The inevitable triumph of liberty and parliamentary democracy",
+        "C) Unimportant event",
+        "D) Foreign invasion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91adaaff77622568678f574d57bcce1a0e1917d4",
+      "sectionIndex": 0,
+      "question": "The financial settlement after 1689 gave Parliament control through:",
+      "options": [
+        "A) Complete abolition of royal income",
+        "B) Annual approval of military budgets",
+        "C) Eliminating all taxes",
+        "D) Creating the Bank of England immediately"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4a796eedab5be4f94a17292adb42c044fbdae89",
+      "sectionIndex": 0,
+      "question": "The Triennial Act (1694) was significant because it:",
+      "options": [
+        "A) Required Parliament to meet every three years",
+        "B) Limited monarchs to three-year reigns",
+        "C) Created three houses of Parliament",
+        "D) Established three-party system"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bcc619392f123e0bc53be83f0f2628a2f9e84104",
+      "sectionIndex": 0,
+      "question": "James II's downfall was primarily due to:",
+      "options": [
+        "A) Military weakness alone",
+        "B) Combination of Catholic policies and birth of Catholic heir",
+        "C) Economic failure",
+        "D) Scottish rebellion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccd8215b58605b4424e9cbeab31f1b2056ef319a",
+      "sectionIndex": 0,
+      "question": "The Convention Parliament of 1689 was unique because:",
+      "options": [
+        "A) It included women",
+        "B) It was summoned without royal writ",
+        "C) It met in Scotland",
+        "D) It had three houses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b2bf9845f38bd2d219f0e1c40b53a7602d3e91f",
+      "sectionIndex": 1,
+      "question": "The Industrial Revolution began in Britain rather than elsewhere primarily due to:",
+      "options": [
+        "A) Climate advantages only",
+        "B) Combination of capital, coal, colonies, and political stability",
+        "C) Superior intelligence",
+        "D) Divine providence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7057701f53fa122a6cc65669275c9f7f2e5c991f",
+      "sectionIndex": 1,
+      "question": "The social impact of industrialization included all EXCEPT:",
+      "options": [
+        "A) Urbanization",
+        "B) Rise of middle class",
+        "C) Improved working conditions initially",
+        "D) Changed family structures"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "585f60d912d3a7bbb6aba47b010c0a6092fcc01d",
+      "sectionIndex": 1,
+      "question": "The Factory Acts were passed primarily because:",
+      "options": [
+        "A) Factory owners demanded them",
+        "B) Public outcry over child labor conditions",
+        "C) Workers could vote",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c9f4294a093f44a1104bd264161a4a3e5586b2b",
+      "sectionIndex": 1,
+      "question": "The relationship between the Agricultural and Industrial Revolutions was:",
+      "options": [
+        "A) They were unconnected",
+        "B) Agricultural changes freed labor and capital for industry",
+        "C) Industry came first",
+        "D) Agriculture declined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b79b672c2e3a22c85981025e8fa3c97242f0f9d5",
+      "sectionIndex": 1,
+      "question": "The \"Condition of England\" question in the 1840s referred to:",
+      "options": [
+        "A) Foreign policy debates",
+        "B) Social problems created by industrialization",
+        "C) Scottish independence",
+        "D) Irish famine only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f806a8cf080670d7599412ba88bb761b33ef381f",
+      "sectionIndex": 1,
+      "question": "Engels and Marx studied Manchester because it:",
+      "options": [
+        "A) Had the best libraries",
+        "B) Exemplified industrial capitalism's contradictions",
+        "C) Was their birthplace",
+        "D) Offered them jobs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a20e04d6aadf6826c5bee269ba8e34a63bb0f87",
+      "sectionIndex": 1,
+      "question": "The Great Exhibition of 1851 demonstrated:",
+      "options": [
+        "A) British military might",
+        "B) Industrial and imperial supremacy",
+        "C) Agricultural prowess",
+        "D) Cultural achievements only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bff8490a285de2ceb7cf6a16f9eed27e679ce00d",
+      "sectionIndex": 1,
+      "question": "Railway development's most significant impact was:",
+      "options": [
+        "A) Faster travel only",
+        "B) Integration of national markets and transformation of time consciousness",
+        "C) Unemployment increase",
+        "D) Environmental damage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2f49ea8f78c058a811a4730b5b75ff14b5c17fd",
+      "sectionIndex": 1,
+      "question": "The \"workshop of the world\" concept meant Britain:",
+      "options": [
+        "A) Only made tools",
+        "B) Dominated global manufacturing and trade",
+        "C) Trained foreign workers",
+        "D) Held craft fairs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af3ae0e282959be9779114b16476e7ae1b68ca4b",
+      "sectionIndex": 1,
+      "question": "Industrial cities' growth created new challenges including:",
+      "options": [
+        "A) Only housing shortages",
+        "B) Public health crises, class tensions, and governance issues",
+        "C) Too much leisure time",
+        "D) Rural overpopulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edc667998d53f59e8d48e7bd8457754c5287d65b",
+      "sectionIndex": 2,
+      "question": "The Reform Act of 1832 was revolutionary because it:",
+      "options": [
+        "A) Gave everyone the vote",
+        "B) Broke the principle that Parliament could reform itself",
+        "C) Created democracy",
+        "D) Abolished the monarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a41d2f362608d3face34f00641522577e5fa5011",
+      "sectionIndex": 2,
+      "question": "Gladstone and Disraeli's rivalry represented:",
+      "options": [
+        "A) Personal animosity only",
+        "B) Competing visions of Britain's future and role",
+        "C) Regional differences",
+        "D) Religious conflict only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71b9ade035f3faf5946733e54ebdaa81b2b0944d",
+      "sectionIndex": 2,
+      "question": "The concept of \"One Nation Conservatism\" associated with Disraeli meant:",
+      "options": [
+        "A) Opposing all change",
+        "B) Bridging class divisions through paternalistic reform",
+        "C) Nationalism only",
+        "D) Isolationism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9455d9c9d0a421b3ea25613cc5fd56e563008be7",
+      "sectionIndex": 2,
+      "question": "Gladstone's approach to Ireland failed primarily because:",
+      "options": [
+        "A) He didn't care",
+        "B) He underestimated Protestant Unionist resistance",
+        "C) Ireland was peaceful",
+        "D) Parliament always supported him"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b714d45120eecf8779b1151c484489db75101f7",
+      "sectionIndex": 2,
+      "question": "The Whig oligarchy (1714-1760) maintained power through:",
+      "options": [
+        "A) Democratic elections",
+        "B) Patronage, corruption, and management of Parliament",
+        "C) Military force only",
+        "D) Popular support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8d3697abe52243eb42b0956e409f7ef784972e2",
+      "sectionIndex": 2,
+      "question": "George III's \"personal rule\" attempts failed because:",
+      "options": [
+        "A) He was lazy",
+        "B) Constitutional conventions had shifted power to Parliament",
+        "C) He never tried",
+        "D) America supported him"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f927fdb0d97eb805875b6ce9b37014206e22c4c",
+      "sectionIndex": 2,
+      "question": "The rise of party politics in the 18th century reflected:",
+      "options": [
+        "A) Democratic ideals",
+        "B) Need to manage parliamentary majorities and patronage",
+        "C) Royal commands",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07d5065c86513f8b53decdced33252e162651260",
+      "sectionIndex": 2,
+      "question": "Peel's Conservative Party differed from old Tories by:",
+      "options": [
+        "A) Being more reactionary",
+        "B) Accepting need for gradual reform to preserve stability",
+        "C) Opposing all change",
+        "D) Supporting revolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9d0c8e767909802ff204e24b67b5e45eb89e7ac",
+      "sectionIndex": 2,
+      "question": "The Parliament Act of 1911 was triggered by:",
+      "options": [
+        "A) Royal demand",
+        "B) Lords' rejection of Liberal budget",
+        "C) Irish independence",
+        "D) Women's suffrage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c6a20e852a22c865d3c6796ff2099b470af7ea8",
+      "sectionIndex": 2,
+      "question": "The emergence of Labour replaced the Liberals primarily due to:",
+      "options": [
+        "A) Liberal incompetence only",
+        "B) Structural changes in class politics and franchise extension",
+        "C) Conservative support",
+        "D) Royal preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94083d0c594bee1703ce918ed7291a077ac38dd1",
+      "sectionIndex": 3,
+      "question": "The transition from Empire to Commonwealth reflected:",
+      "options": [
+        "A) British strength",
+        "B) Accommodation to nationalist movements and changed power realities",
+        "C) American pressure only",
+        "D) UN demands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89a88560da809b1108b98190193637b029969ad3",
+      "sectionIndex": 3,
+      "question": "The loss of American colonies (1776-1783) led Britain to:",
+      "options": [
+        "A) Abandon empire",
+        "B) Shift focus to India and second empire",
+        "C) Become isolationist",
+        "D) Join with France"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97a7c0dcb35a442f602d6bdd3f9bcf1509664732",
+      "sectionIndex": 3,
+      "question": "The \"White Man's Burden\" concept justified imperialism through:",
+      "options": [
+        "A) Racial superiority only",
+        "B) Civilizing mission ideology combining race, religion, and progress",
+        "C) Economic needs",
+        "D) Military conquest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "550260c0a3294f041b3ba5e7736f1e4004171617",
+      "sectionIndex": 3,
+      "question": "Indian independence in 1947 was hastened by:",
+      "options": [
+        "A) British generosity",
+        "B) World War II's impact and nationalist pressure",
+        "C) American invasion",
+        "D) Soviet threats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69b6dd1b92324e9fc4eeec69b2c68bf69ce82e15",
+      "sectionIndex": 3,
+      "question": "The Suez Crisis (1956) marked:",
+      "options": [
+        "A) British victory",
+        "B) End of Britain's independent great power status",
+        "C) Beginning of empire",
+        "D) Strengthened position"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88b875a256d175f21deaaa1da3a3607b19ad71e0",
+      "sectionIndex": 3,
+      "question": "Decolonization accelerated after 1945 due to:",
+      "options": [
+        "A) British planning only",
+        "B) Economic exhaustion, changed values, and international pressure",
+        "C) Colonial contentment",
+        "D) Increased British power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "650c672286f2874c2e5ddb2397f21a663aef0ca4",
+      "sectionIndex": 3,
+      "question": "The Commonwealth differs from Empire in being:",
+      "options": [
+        "A) More powerful",
+        "B) Voluntary association of equals",
+        "C) British-controlled",
+        "D) Military alliance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3a29f9c956144a84105f1a347217ec0658eccf6",
+      "sectionIndex": 3,
+      "question": "The Balfour Declaration (1926) established:",
+      "options": [
+        "A) Israeli state",
+        "B) Dominion equality with Britain",
+        "C) Indian independence",
+        "D) African colonies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4d4c7bfe0117f82e0f58cb905e40ae81ae8f70b",
+      "sectionIndex": 3,
+      "question": "The economic impact of empire on Britain included:",
+      "options": [
+        "A) Only benefits",
+        "B) Both wealth extraction and defense/administration costs",
+        "C) No effect",
+        "D) Only losses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a071555df283fb2e564d373a8c59c2382c5915a",
+      "sectionIndex": 3,
+      "question": "Post-colonial immigration to Britain created:",
+      "options": [
+        "A) No changes",
+        "B) Multicultural society and identity questions",
+        "C) Economic collapse",
+        "D) Political unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ffd5bafb34bf12b7497ec7dbc4577a339ad3488f",
+      "sectionIndex": 4,
+      "question": "Britain's entry into WWI was triggered by:",
+      "options": [
+        "A) Austrian ultimatum",
+        "B) German invasion of Belgium",
+        "C) French request",
+        "D) Russian alliance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b9a86a1d1a87ad3d290763a358493e1da845c4c",
+      "sectionIndex": 4,
+      "question": "The \"Eastern Question\" persisted because:",
+      "options": [
+        "A) Turkey was strong",
+        "B) Ottoman decline created power vacuum affecting European balance",
+        "C) Britain loved Turkey",
+        "D) Russia was weak"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "069138e12dfeae737cf7d65b8ca37a0008202acd",
+      "sectionIndex": 4,
+      "question": "Splendid Isolation ended because:",
+      "options": [
+        "A) Britain felt lonely",
+        "B) German naval and economic challenge required allies",
+        "C) France demanded it",
+        "D) Colonies rebelled"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1776219b327e8d116fa3e49e363168b665d651cd",
+      "sectionIndex": 4,
+      "question": "The Crimean War's significance lay in:",
+      "options": [
+        "A) Territorial gains",
+        "B) Preventing Russian Mediterranean expansion",
+        "C) Allied with Russia",
+        "D) Conquering Turkey"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a05716d2ff5bc280cb7b8fbed43f4f5aa70a8879",
+      "sectionIndex": 4,
+      "question": "Appeasement policy of the 1930s reflected:",
+      "options": [
+        "A) Cowardice only",
+        "B) War trauma, strategic overstretch, and ideological factors",
+        "C) Love of Hitler",
+        "D) Military strength"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "792d1c31ab8f8878f9ce0ca7040013c80353ac61",
+      "sectionIndex": 4,
+      "question": "The Battle of Britain's importance was:",
+      "options": [
+        "A) Minor skirmish",
+        "B) Preventing German invasion and maintaining resistance base",
+        "C) Offensive victory",
+        "D) Naval battle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efce3cbb06d09858fc9dc0a367975e8e19dbb187",
+      "sectionIndex": 4,
+      "question": "The Falklands War's political impact included:",
+      "options": [
+        "A) Labour victory",
+        "B) Thatcher's strengthened position and national confidence",
+        "C) Economic collapse",
+        "D) Loss of prestige"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e80799a40591e87982f796600614284486e57d2a",
+      "sectionIndex": 4,
+      "question": "Post-WWII foreign policy shifted toward:",
+      "options": [
+        "A) Isolation",
+        "B) Atlantic alliance and European integration",
+        "C) Empire expansion",
+        "D) Neutrality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58f1b4a6a374c15d4e974c6d26336e6405d1b434",
+      "sectionIndex": 4,
+      "question": "The Special Relationship with America reflected:",
+      "options": [
+        "A) Equality",
+        "B) Britain's need for support in reduced circumstances",
+        "C) American weakness",
+        "D) Cultural similarity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10a41fc73c5a443c0f3a81ae579835ec461ad46e",
+      "sectionIndex": 4,
+      "question": "Britain's nuclear deterrent represented:",
+      "options": [
+        "A) Aggressive intent",
+        "B) Attempt to maintain great power status",
+        "C) Cheap defense",
+        "D) UN requirement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fdb590688f7b271ce5fc5f426661c2773f7c7c4",
+      "sectionIndex": 5,
+      "question": "The Chartist movement failed because:",
+      "options": [
+        "A) Weak leadership only",
+        "B) Economic improvement, internal divisions, and middle-class opposition",
+        "C) Government support",
+        "D) Achieved all goals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51c01dccc3764835d75e77d81551a68d045981e2",
+      "sectionIndex": 5,
+      "question": "Women's suffrage succeeded through:",
+      "options": [
+        "A) Violence only",
+        "B) Combination of militant tactics, war service, and changing attitudes",
+        "C) Male generosity",
+        "D) Royal decree"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebcee435a72cf31536e7fdbe333caa7c17ec1cf1",
+      "sectionIndex": 5,
+      "question": "The welfare state's creation reflected:",
+      "options": [
+        "A) Socialist revolution",
+        "B) Wartime solidarity and consensus on social reform",
+        "C) Conservative policy",
+        "D) American pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a789236a0b10c3f51288b721a003b1952254823",
+      "sectionIndex": 5,
+      "question": "Trade union development was shaped by:",
+      "options": [
+        "A) Government encouragement",
+        "B) Industrialization, legal struggles, and political action",
+        "C) Employer support",
+        "D) Foreign models only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14e7b2e3eeef3c33fe7987c930de39cfae0b4525",
+      "sectionIndex": 5,
+      "question": "The Poor Law Amendment Act (1834) was controversial because:",
+      "options": [
+        "A) Too generous",
+        "B) Harsh workhouse conditions violated traditional relief",
+        "C) Cost too much",
+        "D) Helped nobody"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd821b6222384919b9fa8b631b2981a777ba824d",
+      "sectionIndex": 5,
+      "question": "Methodist revival's social impact included:",
+      "options": [
+        "A) Revolution",
+        "B) Working-class organization and moral reform",
+        "C) Upper-class conversion only",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72f664e78df595bc107a972b806136732da6fae8",
+      "sectionIndex": 5,
+      "question": "The Fabian Society's significance was:",
+      "options": [
+        "A) Revolutionary violence",
+        "B) Intellectual foundation for democratic socialism",
+        "C) Conservative thought",
+        "D) Religious revival"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c5f5f60d366b6a25c0eca45460046eee5bc106e",
+      "sectionIndex": 5,
+      "question": "Victorian philanthropy reflected:",
+      "options": [
+        "A) Pure altruism",
+        "B) Mixture of genuine concern and social control",
+        "C) Government policy",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a35ef35fa4a3a0a68b962f6ddabe04c6fa567da1",
+      "sectionIndex": 5,
+      "question": "Education reform proceeded slowly because:",
+      "options": [
+        "A) No need existed",
+        "B) Religious conflicts and class interests",
+        "C) Too expensive only",
+        "D) Teacher shortage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbc75042546ea4aa1889e4d7b87b0d04ba918f07",
+      "sectionIndex": 5,
+      "question": "Public health improvements required:",
+      "options": [
+        "A) Individual effort only",
+        "B) State intervention overcoming laissez-faire ideology",
+        "C) Private charity",
+        "D) Foreign aid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf631df734b3c95ac94462c5c08af4a5379bba77",
+      "sectionIndex": 6,
+      "question": "The Corn Law repeal (1846) signified:",
+      "options": [
+        "A) Agricultural protection",
+        "B) Victory of free trade and industrial over landed interests",
+        "C) Famine relief only",
+        "D) Irish appeasement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9a138f009133bff0a3b7e5df064296b63bb0f8b",
+      "sectionIndex": 6,
+      "question": "Britain's economic decline from the 1870s resulted from:",
+      "options": [
+        "A) Laziness",
+        "B) Foreign competition, technological lag, and investment patterns",
+        "C) Too much success",
+        "D) Government interference only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "238ad2d7380ae8ebe27f54b82e75f5432a05d968",
+      "sectionIndex": 6,
+      "question": "The Gold Standard's abandonment (1931) marked:",
+      "options": [
+        "A) Temporary measure",
+        "B) End of sterling's global dominance",
+        "C) Economic boom",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "428af70e4b29d989079c8a1320c1013fb012f21d",
+      "sectionIndex": 6,
+      "question": "Nationalization post-1945 aimed to:",
+      "options": [
+        "A) Copy Soviet model",
+        "B) Modernize key industries and ensure full employment",
+        "C) Punish capitalists",
+        "D) Reduce efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8161074ee957114d1631dce189b0c5deb4c7d3a3",
+      "sectionIndex": 6,
+      "question": "Thatcherism's economic philosophy emphasized:",
+      "options": [
+        "A) State control",
+        "B) Monetarism, privatization, and market forces",
+        "C) Socialism",
+        "D) Protectionism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4c187ebb5b852d0a0c78e585f125c072125fbdb",
+      "sectionIndex": 6,
+      "question": "The City of London's importance reflected:",
+      "options": [
+        "A) Geographic location only",
+        "B) Historical financial expertise and global connections",
+        "C) Government subsidy",
+        "D) EU membership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "143f8a23df34539302ff5329910aeb61cf27bf30",
+      "sectionIndex": 6,
+      "question": "Deindustrialization's social impact included:",
+      "options": [
+        "A) Universal prosperity",
+        "B) Regional decline and community destruction",
+        "C) No change",
+        "D) Agricultural revival"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76a0c1593f35cb85f54917cecf4b480dc64fc751",
+      "sectionIndex": 6,
+      "question": "North Sea oil's discovery affected:",
+      "options": [
+        "A) Nothing",
+        "B) Balance of payments and political economy",
+        "C) Scottish diet",
+        "D) Irish relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9607c8a794eb994d954404be5b195399c6e18dc0",
+      "sectionIndex": 6,
+      "question": "EU membership's economic impact was:",
+      "options": [
+        "A) Wholly negative",
+        "B) Mixed, with trade benefits and sovereignty concerns",
+        "C) Transformative success",
+        "D) Negligible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0aa8fd76a8d3b75850ed5f7d3e1f2b26dfbdc224",
+      "sectionIndex": 6,
+      "question": "The 2008 financial crisis revealed:",
+      "options": [
+        "A) British immunity",
+        "B) Over-reliance on financial services",
+        "C) Manufacturing strength",
+        "D) Perfect regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4449837716bf7c8aff0514927822e3586937dc3d",
+      "sectionIndex": 7,
+      "question": "The Act of Union with Ireland (1801) resulted from:",
+      "options": [
+        "A) Irish request",
+        "B) Fear of French invasion through Ireland",
+        "C) Economic benefits",
+        "D) Religious unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b88f42d1910fb90c94cb949807063cae2e768bd",
+      "sectionIndex": 7,
+      "question": "Irish Home Rule's failure before 1914 stemmed from:",
+      "options": [
+        "A) Irish opposition",
+        "B) Ulster Protestant resistance and Conservative support",
+        "C) Liberal weakness only",
+        "D) International intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a71476ab9227a77e366092e9301bef7a897c6ecd",
+      "sectionIndex": 7,
+      "question": "The Easter Rising (1916) transformed Irish nationalism by:",
+      "options": [
+        "A) Military victory",
+        "B) Creating martyrs and shifting opinion",
+        "C) British approval",
+        "D) American intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67f3958411be0512ca7e35be889de503beea1b05",
+      "sectionIndex": 7,
+      "question": "Scottish nationalism's growth reflected:",
+      "options": [
+        "A) Ancient grievances only",
+        "B) Economic grievances and cultural revival",
+        "C) English encouragement",
+        "D) EU demands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b89524eb6e57128eb3dcda8c7722cd178b2bbad4",
+      "sectionIndex": 7,
+      "question": "Devolution succeeded in 1997-1999 because:",
+      "options": [
+        "A) Conservative support",
+        "B) Labour strategy and changed attitudes",
+        "C) Royal command",
+        "D) Economic crisis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cb4af604dcdc6e408752083909af8ad50c38597",
+      "sectionIndex": 7,
+      "question": "The West Lothian Question asks:",
+      "options": [
+        "A) About coal mining",
+        "B) Why Scottish MPs vote on English-only matters",
+        "C) About independence",
+        "D) About taxation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2759b488215a8e44365209b3e86f52c25ff84bca",
+      "sectionIndex": 7,
+      "question": "The Good Friday Agreement succeeded through:",
+      "options": [
+        "A) British force",
+        "B) War exhaustion, international pressure, and inclusive framework",
+        "C) Irish surrender",
+        "D) Protestant victory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0f8dbad89d72fcb35fe597e2f42778e85410a12",
+      "sectionIndex": 7,
+      "question": "Scottish independence referendum (2014) failed because:",
+      "options": [
+        "A) Military threat",
+        "B) Economic uncertainty and unionist campaign",
+        "C) Voter apathy",
+        "D) Legal prohibition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74a7b96d4ef1f01a320d20c27d5352541f6bf345",
+      "sectionIndex": 7,
+      "question": "Brexit's impact on the Union includes:",
+      "options": [
+        "A) Strengthening bonds",
+        "B) Reviving independence movements",
+        "C) No effect",
+        "D) Automatic dissolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39b6d9286e60e2102e54744cedd7275a3a166c08",
+      "sectionIndex": 7,
+      "question": "The Democratic Deficit argument claims:",
+      "options": [
+        "A) Too much democracy",
+        "B) Scotland/Wales governed by parties they didn't elect",
+        "C) Perfect representation",
+        "D) Over-representation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de87fe6d5b5a12775f7d6b619618f1fc4adeb1df",
+      "sectionIndex": 8,
+      "question": "The Victorian \"separate spheres\" ideology:",
+      "options": [
+        "A) Promoted gender equality",
+        "B) Confined middle-class women to domestic roles",
+        "C) Applied to all classes equally",
+        "D) Originated in law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07694738fb4b5deeb731678cf20f23ff234a682f",
+      "sectionIndex": 8,
+      "question": "The British class system's persistence reflects:",
+      "options": [
+        "A) Legal requirements",
+        "B) Educational, cultural, and economic reproduction",
+        "C) Genetic differences",
+        "D) Royal decree"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15d3c78466a0ed418e8912b5b0ef61e3b799b2fa",
+      "sectionIndex": 8,
+      "question": "The \"permissive society\" of the 1960s resulted from:",
+      "options": [
+        "A) Government policy alone",
+        "B) Affluence, education, and cultural change",
+        "C) American influence only",
+        "D) Church leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5cb7772f5d71804200e9f5e4a4bc4bb9c6e176e",
+      "sectionIndex": 8,
+      "question": "Multiculturalism debates center on:",
+      "options": [
+        "A) Food preferences",
+        "B) Integration versus diversity preservation",
+        "C) Language only",
+        "D) Sports teams"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd8dbb7a0f4f537f3a50a969aa07d8e57aef2678",
+      "sectionIndex": 8,
+      "question": "The BBC's creation reflected:",
+      "options": [
+        "A) Entertainment needs only",
+        "B) Public service ideals and national integration",
+        "C) Commercial opportunity",
+        "D) Foreign pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd263c50ae1984ba4e12ef41a9a065a8d9efc7be",
+      "sectionIndex": 8,
+      "question": "The Establishment's power rested on:",
+      "options": [
+        "A) Legal authority only",
+        "B) Networks of education, class, and institutional positions",
+        "C) Popular support",
+        "D) Military force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc9d30fd0f2ae20a93740906dbaf00ba38d8a754",
+      "sectionIndex": 8,
+      "question": "Post-war consensus included agreement on:",
+      "options": [
+        "A) Everything",
+        "B) Welfare state, mixed economy, and full employment",
+        "C) Foreign policy only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92bce5a646c9218adb3a46459550a581f9b6bd73",
+      "sectionIndex": 8,
+      "question": "Punk rock's significance went beyond music to:",
+      "options": [
+        "A) Fashion only",
+        "B) Challenge post-war settlement and express alienation",
+        "C) American imitation",
+        "D) Commercial success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "951420ae83cfd742899640d7272c83af4e195326",
+      "sectionIndex": 8,
+      "question": "The \"Brain Drain\" referred to:",
+      "options": [
+        "A) Education failures",
+        "B) Skilled emigration due to opportunities elsewhere",
+        "C) Medical condition",
+        "D) Plumbing problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00abcf5f759bbbbb9e03fb216e23261e6b5b6b4e",
+      "sectionIndex": 8,
+      "question": "Cool Britannia represented:",
+      "options": [
+        "A) Climate change",
+        "B) Attempt to rebrand Britain as modern and creative",
+        "C) Refrigeration technology",
+        "D) Anti-fever campaign"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc6fccd69aa3e680bec6b6632a578c1c14f41b87",
+      "sectionIndex": 9,
+      "question": "Brexit vote motivations included:",
+      "options": [
+        "A) Immigration only",
+        "B) Sovereignty, immigration, and economic grievances",
+        "C) EU popularity",
+        "D) Scottish pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5be7d0342df77fac272f3ff38c74c6ff5e64b0e1",
+      "sectionIndex": 9,
+      "question": "The 2008 financial crisis impacted Britain severely because:",
+      "options": [
+        "A) Bad luck",
+        "B) Over-sized financial sector and housing bubble",
+        "C) EU membership",
+        "D) Manufacturing weakness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a136972fa27b33ab532de2321ee32c9a84b91428",
+      "sectionIndex": 9,
+      "question": "Climate change policy tensions reflect:",
+      "options": [
+        "A) Scientific denial",
+        "B) Economic costs versus environmental necessity",
+        "C) Too much action",
+        "D) International isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a6d931559bec3afe00a55904d3d69bb2afa4f62",
+      "sectionIndex": 9,
+      "question": "The housing crisis stems from:",
+      "options": [
+        "A) Laziness",
+        "B) Supply constraints, financialization, and policy failures",
+        "C) Too many houses",
+        "D) Foreign ownership only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a5234dfeec9f621a19396c5dfecab811c1bf677",
+      "sectionIndex": 9,
+      "question": "NHS pressures include:",
+      "options": [
+        "A) Over-funding",
+        "B) Aging population, technology costs, and political constraints",
+        "C) Too many doctors",
+        "D) Lack of demand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "add619362bef02185c208ad2fe8f1b2d221e85ab",
+      "sectionIndex": 9,
+      "question": "Social media's political impact includes:",
+      "options": [
+        "A) No change",
+        "B) Echo chambers, misinformation, and polarization",
+        "C) Enhanced democracy only",
+        "D) Reduced participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebdd4f998eb117b55a94cc42117c44743cfdaf01",
+      "sectionIndex": 9,
+      "question": "Regional inequality persists due to:",
+      "options": [
+        "A) Natural differences only",
+        "B) Deindustrialization, London-centricity, and policy failures",
+        "C) Equal distribution",
+        "D) Too much investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d12282d03612226670703b9e2ec0ef379ff62ce3",
+      "sectionIndex": 9,
+      "question": "The gig economy reflects:",
+      "options": [
+        "A) Musical trends",
+        "B) Flexibility demands and weakened labour protections",
+        "C) Full employment",
+        "D) Government jobs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbaa70013d7f539427ab79a40a9d8ff74bd55aa1",
+      "sectionIndex": 9,
+      "question": "British identity questions arise from:",
+      "options": [
+        "A) Stability",
+        "B) Devolution, immigration, and European integration",
+        "C) Clear definition",
+        "D) Historical continuity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c83f294c86624e17f809d8868c0f887fcfcc3e3f",
+      "sectionIndex": 9,
+      "question": "Post-truth politics emerged through:",
+      "options": [
+        "A) Increased honesty",
+        "B) Social media, distrust, and polarization",
+        "C) Better education",
+        "D) Media accuracy"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "subject": "Statistics (CSS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 28,
+  "categories": [
+    "Probability Theory",
+    "Probability Distributions",
+    "Hypothesis Testing",
+    "Regression & Correlation",
+    "Sampling Techniques",
+    "Experimental Design & ANOVA",
+    "Index Numbers",
+    "Vital & Demographic Statistics",
+    "Descriptive Statistics",
+    "Time Series",
+    "Nonparametric Tests",
+    "Combinatorics & Counting",
+    "Bayesian Inference",
+    "Pakistan Context & Data",
+    "Exam Strategy & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Probability Axioms & Conditional Probability",
+      "content": "Master axiomatic definition, addition/multiplication rules, law of total probability, and conditional probability as foundations for all later topics.",
+      "keyTakeaways": [
+        "Kolmogorov axioms underpin all probability results.",
+        "Law of total probability decomposes events via partitions.",
+        "Conditioning changes the sample space; be precise with events."
+      ],
+      "resources": [
+        {
+          "title": "Penn State STAT 414 — Probability Basics",
+          "url": "https://online.stat.psu.edu/stat414/",
+          "type": "course",
+          "description": "Full online notes for probability theory"
+        },
+        {
+          "title": "NIST Handbook — Probability & EDA",
+          "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda36.htm",
+          "type": "reference",
+          "description": "Engineer-focused probability/EDA chapters"
+        },
+        {
+          "title": "Khan Academy — Statistics & Probability",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "description": "Concept videos + practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Probability Theory",
+      "topics": ["Axioms", "Law of Total Probability", "Conditional Probability"]
+    },
+    {
+      "id": "2",
+      "title": "Bayes' Theorem & Medical Test Paradox",
+      "content": "Use Bayes to invert conditionals and reason about posteriors; exam problems often feature diagnostics with sensitivity/specificity and low prevalence.",
+      "keyTakeaways": [
+        "Posterior ∝ Likelihood × Prior.",
+        "Base rates matter; small prevalence yields counter-intuitive PPV.",
+        "Tree/box methods help avoid algebra mistakes."
+      ],
+      "resources": [
+        {
+          "title": "StatQuest — Bayes' Theorem (Video)",
+          "url": "https://www.youtube.com/watch?v=9wCnvr7Xw4E",
+          "type": "video",
+          "description": "Clear walkthrough + examples"
+        },
+        {
+          "title": "3Blue1Brown — Bayes, Geometry of Belief",
+          "url": "https://www.youtube.com/watch?v=HZGCoVF3YvM",
+          "type": "video",
+          "description": "Visual intuition"
+        },
+        {
+          "title": "3Blue1Brown — Bayes (Article)",
+          "url": "https://www.3blue1brown.com/lessons/bayes-theorem",
+          "type": "article",
+          "description": "Visual derivation & pitfalls"
+        }
+      ],
+      "importance": "high",
+      "category": "Bayesian Inference",
+      "topics": ["Bayes", "Medical Testing", "PPV/NPV"]
+    },
+    {
+      "id": "3",
+      "title": "Mutually Exclusive vs. Independent Events",
+      "content": "Common trap: mutually exclusive events with positive probability cannot be independent. Exams ask for proofs/counterexamples.",
+      "keyTakeaways": [
+        "Mutual exclusivity ⇒ P(A∩B)=0; independence ⇒ P(A∩B)=P(A)P(B).",
+        "If P(A)>0, P(B)>0 and A,B are mutually exclusive ⇒ not independent.",
+        "Use simple numeric counterexamples."
+      ],
+      "resources": [
+        {
+          "title": "Penn State STAT 414 — Independence",
+          "url": "https://online.stat.psu.edu/stat414/lesson/2/2.5",
+          "type": "course",
+          "description": "Formal definitions & examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Probability Theory",
+      "topics": ["Mutual Exclusivity", "Independence"]
+    },
+    {
+      "id": "4",
+      "title": "Bernoulli & Binomial Distribution",
+      "content": "Binary trials; binomial counts successes across n i.i.d. Bernoulli trials.",
+      "keyTakeaways": [
+        "Parameters: n, p; mean np; variance np(1−p).",
+        "Use for with/without replacement approximations (when N large).",
+        "Normal approximation valid if np and n(1−p) are large."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Binomial Distribution",
+          "url": "https://online.stat.psu.edu/stat414/lesson/18",
+          "type": "course",
+          "description": "Derivations & properties"
+        },
+        {
+          "title": "OpenIntro Statistics — Discrete Distributions",
+          "url": "https://www.openintro.org/book/os/",
+          "type": "textbook",
+          "description": "Accessible intro with exercises"
+        }
+      ],
+      "importance": "high",
+      "category": "Probability Distributions",
+      "topics": ["Bernoulli", "Binomial", "Normal Approximation"]
+    },
+    {
+      "id": "5",
+      "title": "Poisson Distribution & Approximation",
+      "content": "Model counts in a fixed interval with rate lambda; also approximates Binomial(n,p) when n large, p small.",
+      "keyTakeaways": [
+        "Mean = Variance = lambda.",
+        "Approximation works if n>=20 and p<=0.05 (rule-of-thumb).",
+        "Useful for rare events: defects, arrivals, accidents."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Poisson Distribution",
+          "url": "https://online.stat.psu.edu/stat414/lesson/20",
+          "type": "course",
+          "description": "Theory + examples"
+        },
+        {
+          "title": "NIST Handbook — Poisson",
+          "url": "https://www.itl.nist.gov/div898/handbook/pmc/section3/pmc331.htm",
+          "type": "reference",
+          "description": "Engineering context"
+        }
+      ],
+      "importance": "high",
+      "category": "Probability Distributions",
+      "topics": ["Poisson", "Rare Events", "Approximation"]
+    },
+    {
+      "id": "6",
+      "title": "Normal Distribution & Standardization",
+      "content": "Symmetric, bell-shaped model central to inference; standardize to Z for probability lookups and CLT applications.",
+      "keyTakeaways": [
+        "Mean=Median=Mode; fully defined by mu, sigma.",
+        "Central Limit Theorem drives many approximations.",
+        "Use z-scores for probability and CI calculations."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Normal Distribution",
+          "url": "https://online.stat.psu.edu/stat414/lesson/24",
+          "type": "course",
+          "description": "Properties & use"
+        },
+        {
+          "title": "OpenIntro — Normal Models",
+          "url": "https://www.openintro.org/book/os/",
+          "type": "textbook",
+          "description": "Practice problems"
+        }
+      ],
+      "importance": "high",
+      "category": "Probability Distributions",
+      "topics": ["Normal", "Z-score", "CLT"]
+    },
+    {
+      "id": "7",
+      "title": "Hypergeometric & Negative Binomial",
+      "content": "Hypergeometric models sampling without replacement; Negative Binomial models trials until r successes.",
+      "keyTakeaways": [
+        "Hypergeometric mean = n(K/N), variance includes finite population correction.",
+        "Negative Binomial mean = r(1−p)/p for failures before rth success.",
+        "Use Hypergeometric for urn problems in recent CSS papers."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Hypergeometric",
+          "url": "https://online.stat.psu.edu/stat414/lesson/22/22.3",
+          "type": "course",
+          "description": "Formulas & solved examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Probability Distributions",
+      "topics": ["Hypergeometric", "Negative Binomial", "Urn Problems"]
+    },
+    {
+      "id": "8",
+      "title": "Joint, Marginal & Conditional PDFs",
+      "content": "Work with bivariate distributions; integrate/sum to obtain marginals; derive conditionals and expectations.",
+      "keyTakeaways": [
+        "Check joint PDF integrates to 1.",
+        "Covariance/correlation summarize linear dependence.",
+        "Conditional expectations often simplify computations."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Joint Distributions",
+          "url": "https://online.stat.psu.edu/stat414/lesson/33",
+          "type": "course",
+          "description": "Joint, marginal, conditional"
+        }
+      ],
+      "importance": "medium",
+      "category": "Probability Theory",
+      "topics": ["Joint PDF", "Marginals", "Covariance"]
+    },
+    {
+      "id": "9",
+      "title": "Point Estimators: Bias, Consistency, Efficiency",
+      "content": "Exams test definitions and comparisons among estimators; show unbiasedness/consistency with expectation/limit arguments.",
+      "keyTakeaways": [
+        "Bias = E(theta-hat) - theta; consistency: theta-hat -> theta in probability.",
+        "Efficiency compares variances of unbiased estimators.",
+        "CRLB provides lower bound under regularity conditions."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Properties of Estimators",
+          "url": "https://online.stat.psu.edu/stat414/lesson/27",
+          "type": "course",
+          "description": "Unbiasedness, consistency"
+        }
+      ],
+      "importance": "high",
+      "category": "Statistical Inference",
+      "topics": ["Bias", "Variance", "Consistency", "Efficiency"]
+    },
+    {
+      "id": "10",
+      "title": "Maximum Likelihood Estimation (MLE)",
+      "content": "Derive likelihood, log-likelihood; take derivative and solve; use for exponential/normal/Bernoulli etc.",
+      "keyTakeaways": [
+        "MLEs are often asymptotically normal and efficient.",
+        "Log-likelihood simplifies products to sums.",
+        "Regularity conditions matter for properties."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Maximum Likelihood",
+          "url": "https://online.stat.psu.edu/stat414/lesson/28",
+          "type": "course",
+          "description": "Step-by-step derivations"
+        },
+        {
+          "title": "StatLect — MLE",
+          "url": "https://www.statlect.com/fundamentals-of-statistics/maximum-likelihood",
+          "type": "article",
+          "description": "Concise theory notes"
+        }
+      ],
+      "importance": "high",
+      "category": "Statistical Inference",
+      "topics": ["Likelihood", "Score", "Fisher Information"]
+    },
+    {
+      "id": "11",
+      "title": "Confidence Intervals for Means & Proportions",
+      "content": "Compute CIs using z/t depending on σ known/unknown; for proportions use normal approximation or exact when needed.",
+      "keyTakeaways": [
+        "Use t with unknown σ and small n (normality assumed).",
+        "Two-proportion CI uses pooled/unpooled depending on test.",
+        "Interpret CI correctly: interval procedure coverage, not probability for parameter."
+      ],
+      "resources": [
+        {
+          "title": "OpenIntro — Inference Chapters",
+          "url": "https://www.openintro.org/book/os/",
+          "type": "textbook",
+          "description": "Single & two-sample CIs"
+        },
+        {
+          "title": "jbstatistics — Confidence Intervals (Playlist)",
+          "url": "https://www.youtube.com/@jbstatistics/playlists",
+          "type": "video",
+          "description": "Visual explanations with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Hypothesis Testing",
+      "topics": ["CI", "t-distribution", "Proportions"]
+    },
+    {
+      "id": "12",
+      "title": "Hypothesis Testing: z vs t (1-sample, 2-sample, Paired)",
+      "content": "Identify the correct test by data type, σ known/unknown, and pairing; show steps: hypotheses, test statistic, p-value/critical region, decision.",
+      "keyTakeaways": [
+        "z for known σ or large n; t for unknown σ small n.",
+        "Paired t uses differences; independent t uses pooled/unpooled.",
+        "State assumptions (normality/independence) explicitly."
+      ],
+      "resources": [
+        {
+          "title": "UCLA IDRE — Choosing the Right Test",
+          "url": "https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/",
+          "type": "guide",
+          "description": "Decision table for tests"
+        },
+        {
+          "title": "SciPy — stats (t/z/ANOVA)",
+          "url": "https://docs.scipy.org/doc/scipy/reference/stats.html",
+          "type": "docs",
+          "description": "Python implementations"
+        }
+      ],
+      "importance": "high",
+      "category": "Hypothesis Testing",
+      "topics": ["z-test", "t-test", "Paired vs Independent"]
+    },
+    {
+      "id": "13",
+      "title": "Chi-Square: Goodness-of-Fit & Independence",
+      "content": "GOF compares observed to expected; independence uses contingency tables; ensure expected counts large enough.",
+      "keyTakeaways": [
+        "df: k−1 for GOF; (r−1)(c−1) for independence.",
+        "Use Yates' correction sparingly (small 2×2 tables).",
+        "Report residuals to interpret cell contributions."
+      ],
+      "resources": [
+        {
+          "title": "NIST — Chi-Square Tests",
+          "url": "https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm",
+          "type": "reference",
+          "description": "Formulas & cautions"
+        },
+        {
+          "title": "UCLA IDRE — Chi-Square Tutorial",
+          "url": "https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/chi-square-test/",
+          "type": "guide",
+          "description": "Worked examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Hypothesis Testing",
+      "topics": ["GOF", "Independence", "Contingency Tables"]
+    },
+    {
+      "id": "14",
+      "title": "ANOVA (One-Way): Assumptions & Interpretation",
+      "content": "Compares multiple means; partition variance into between/within; follow up with post-hoc tests when significant.",
+      "keyTakeaways": [
+        "Assumptions: normality, homoscedasticity, independence.",
+        "F = MSB/MSW; significant F ⇒ not all means equal.",
+        "Use Tukey HSD/Dunnett for multiple comparisons."
+      ],
+      "resources": [
+        {
+          "title": "NIST — One-Way ANOVA",
+          "url": "https://www.itl.nist.gov/div898/handbook/prc/section4/prc431.htm",
+          "type": "reference",
+          "description": "Assumptions & diagnostics"
+        },
+        {
+          "title": "StatQuest — ANOVA (Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9",
+          "type": "video",
+          "description": "Intuitive videos with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Experimental Design & ANOVA",
+      "topics": ["ANOVA", "F-test", "Post-hoc"]
+    },
+    {
+      "id": "15",
+      "title": "RCBD, Latin Square & LSD Test",
+      "content": "Blocking increases precision by removing nuisance variation; Latin Square controls two blocking factors; LSD is a simple post-hoc procedure.",
+      "keyTakeaways": [
+        "RCBD: blocks × treatments; analyze via two-way ANOVA without interaction.",
+        "Latin Square: treatments arranged so each appears once per row/column.",
+        "LSD controls Type I error per pair; Tukey/Dunnett control family-wise error."
+      ],
+      "resources": [
+        {
+          "title": "Penn State STAT 502 — ANOVA & DOE",
+          "url": "https://online.stat.psu.edu/stat502/",
+          "type": "course",
+          "description": "RCBD, Latin Square, post-hoc tests"
+        },
+        {
+          "title": "NIST — Experimental Design: RCBD",
+          "url": "https://www.itl.nist.gov/div898/handbook/pri/section4/pri4.htm",
+          "type": "reference",
+          "description": "Designs & analyses"
+        }
+      ],
+      "importance": "high",
+      "category": "Experimental Design & ANOVA",
+      "topics": ["RCBD", "Latin Square", "LSD", "Tukey", "Dunnett"]
+    },
+    {
+      "id": "16",
+      "title": "Simple Linear Regression: OLS & r²",
+      "content": "Fit y=β0+β1x+ε; interpret slope, intercept, R²; check residuals for model adequacy.",
+      "keyTakeaways": [
+        "Add constant in software explicitly (statsmodels).",
+        "Diagnostics: residual plots, normality, leverage/influence.",
+        "Confidence vs prediction intervals differ."
+      ],
+      "resources": [
+        {
+          "title": "Penn State STAT 501 — Regression Methods",
+          "url": "https://online.stat.psu.edu/stat501/",
+          "type": "course",
+          "description": "Comprehensive OLS notes"
+        },
+        {
+          "title": "Statsmodels — OLS API",
+          "url": "https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.OLS.html",
+          "type": "docs",
+          "description": "Usage & parameters"
+        }
+      ],
+      "importance": "high",
+      "category": "Regression & Correlation",
+      "topics": ["OLS", "R²", "Diagnostics"]
+    },
+    {
+      "id": "17",
+      "title": "Multiple Regression & Diagnostics",
+      "content": "Extend to multiple predictors; watch multicollinearity; use partial slopes and adjusted R²; conduct global and partial F-tests.",
+      "keyTakeaways": [
+        "Check VIFs and condition indices.",
+        "Nested F-tests compare models.",
+        "Influence measures: Cook's distance, DFBetas."
+      ],
+      "resources": [
+        {
+          "title": "NIST — Regression Analysis",
+          "url": "https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd4.htm",
+          "type": "reference",
+          "description": "Modeling and diagnostics"
+        },
+        {
+          "title": "DataRobot — Multiple Regression with statsmodels",
+          "url": "https://www.datarobot.com/blog/multiple-regression-using-statsmodels/",
+          "type": "article",
+          "description": "Hands-on example"
+        }
+      ],
+      "importance": "high",
+      "category": "Regression & Correlation",
+      "topics": ["Multicollinearity", "VIF", "Influence"]
+    },
+    {
+      "id": "18",
+      "title": "Correlation vs. Causation; Partial/Multiple Correlation",
+      "content": "Interpret correlation carefully; compute partial correlations controlling for other variables; exams ask definitions and interpretations.",
+      "keyTakeaways": [
+        "Correlation ≠ causation; confounding can inflate/deflate r.",
+        "Partial r quantifies relationship net of other predictors.",
+        "Use r vs r² appropriately."
+      ],
+      "resources": [
+        {
+          "title": "STAT 501 — Correlation & Partial Correlation",
+          "url": "https://online.stat.psu.edu/stat501/lesson/4",
+          "type": "course",
+          "description": "Formulas & examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Regression & Correlation",
+      "topics": ["Pearson r", "Partial r", "Interpretation"]
+    },
+    {
+      "id": "19",
+      "title": "Sampling Methods: SRS, Stratified, Cluster, Systematic",
+      "content": "Design affects precision and logistics; exams ask comparisons and procedures.",
+      "keyTakeaways": [
+        "Stratified improves precision when strata are homogeneous within, heterogeneous between.",
+        "Cluster sampling reduces cost; increases design effect.",
+        "Systematic is simple but beware periodicity."
+      ],
+      "resources": [
+        {
+          "title": "Penn State STAT 506 — Sampling Theory",
+          "url": "https://online.stat.psu.edu/stat506/",
+          "type": "course",
+          "description": "Designs & estimators"
+        }
+      ],
+      "importance": "high",
+      "category": "Sampling Techniques",
+      "topics": ["Stratified", "Cluster", "Systematic", "Multistage"]
+    },
+    {
+      "id": "20",
+      "title": "Sampling Distributions & Finite Population Correction",
+      "content": "For sampling without replacement from finite N, adjust variance by (N-n)/(N-1).",
+      "keyTakeaways": [
+        "E(x-bar) = mu; Var(x-bar) = sigma²/n * (N-n)/(N-1).",
+        "Know when FPC applies (n/N > ~0.05).",
+        "CSS papers test derivations."
+      ],
+      "resources": [
+        {
+          "title": "STAT 414 — Sampling Distributions",
+          "url": "https://online.stat.psu.edu/stat414/lesson/31",
+          "type": "course",
+          "description": "Derivations & examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Sampling Techniques",
+      "topics": ["Sampling Distribution", "FPC", "Derivations"]
+    },
+    {
+      "id": "21",
+      "title": "Index Numbers: Laspeyres, Paasche, Fisher Ideal",
+      "content": "Core price index formulas; Fisher is geometric mean of Laspeyres & Paasche; common in CSS questions.",
+      "keyTakeaways": [
+        "Laspeyres uses base quantities; Paasche uses current.",
+        "Fisher (superlative) balances substitution bias.",
+        "Be able to compute and interpret with small tables."
+      ],
+      "resources": [
+        {
+          "title": "ILO/IMF — CPI Manual (Elementary & Bilateral Indices)",
+          "url": "https://www.imf.org/-/media/Files/Data/CPI/companion-publication/chapter-5-elementary-indices.ashx",
+          "type": "manual",
+          "description": "Index theory foundations"
+        },
+        {
+          "title": "Wikipedia — Price Index (Formulas Overview)",
+          "url": "https://en.wikipedia.org/wiki/Price_index",
+          "type": "reference",
+          "description": "Concise formula summary"
+        }
+      ],
+      "importance": "high",
+      "category": "Index Numbers",
+      "topics": ["Laspeyres", "Paasche", "Fisher"]
+    },
+    {
+      "id": "22",
+      "title": "Marshall–Edgeworth & Walsh Indices (Pakistan CPI Context)",
+      "content": "Advanced bilateral indices examined in CSS 2024/2025; know definitions and when used; connect to PBS CPI methodology.",
+      "keyTakeaways": [
+        "Marshall–Edgeworth weights by average of base/current quantities.",
+        "Walsh weights by geometric mean of quantities; close to Fisher.",
+        "Cite PBS methodology when discussing CPI construction in Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "IMF — Basic Index Number Theory (Walsh etc.)",
+          "url": "https://www.imf.org/external/np/sta/tegeipi/ch16.pdf",
+          "type": "manual",
+          "description": "Formal definitions & properties"
+        },
+        {
+          "title": "PBS — Methodology of Price Statistics (2015-16 Base)",
+          "url": "https://www.pbs.gov.pk/sites/default/files/price_statistics/methodology_of_price_statistics_base_year_2015-16.pdf",
+          "type": "methodology",
+          "description": "Official CPI methods (Pakistan)"
+        },
+        {
+          "title": "Price Index — Formula Overview",
+          "url": "https://en.wikipedia.org/wiki/Price_index",
+          "type": "reference",
+          "description": "Marshall–Edgeworth & Walsh forms"
+        }
+      ],
+      "importance": "high",
+      "category": "Index Numbers",
+      "topics": ["Marshall–Edgeworth", "Walsh", "CPI Pakistan"]
+    },
+    {
+      "id": "23",
+      "title": "Vital & Demographic Statistics: GFR, TFR, NRR",
+      "content": "Definitions and computation for fertility/reproduction rates commonly tested alongside index numbers.",
+      "keyTakeaways": [
+        "GFR: births per 1,000 women (15–49).",
+        "TFR: average births per woman given age-specific rates.",
+        "NRR adjusts for female births and mortality."
+      ],
+      "resources": [
+        {
+          "title": "UN — Demographic Concepts (TFR/NRR)",
+          "url": "https://unstats.un.org/unsd/demographic-social/products/dyb/dyb_2023/",
+          "type": "reference",
+          "description": "Demographic Yearbook/definitions"
+        }
+      ],
+      "importance": "medium",
+      "category": "Vital & Demographic Statistics",
+      "topics": ["GFR", "TFR", "NRR"]
+    },
+    {
+      "id": "24",
+      "title": "Descriptive Statistics: Skewness & Kurtosis",
+      "content": "Go beyond mean/variance to shape measures; exam MCQs ask sign interpretations and relationships among mean/median/mode.",
+      "keyTakeaways": [
+        "Positive skew: mean > median > mode.",
+        "Kurtosis describes tail weight (not just 'peakedness').",
+        "Use moment and quantile-based measures."
+      ],
+      "resources": [
+        {
+          "title": "NIST EDA — Skewness & Kurtosis",
+          "url": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda35b.htm",
+          "type": "reference",
+          "description": "Formulas and interpretation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Descriptive Statistics",
+      "topics": ["Skewness", "Kurtosis", "Moments"]
+    },
+    {
+      "id": "25",
+      "title": "Nonparametric Tests: Sign, Wilcoxon, K–S",
+      "content": "Distribution-free alternatives when normality fails; know when to use and how to interpret.",
+      "keyTakeaways": [
+        "Sign/Wilcoxon for paired/one-sample medians.",
+        "K–S compares distributions (continuous).",
+        "Less power than parametric when assumptions hold."
+      ],
+      "resources": [
+        {
+          "title": "Penn State STAT 508 — Nonparametrics",
+          "url": "https://online.stat.psu.edu/stat508/",
+          "type": "course",
+          "description": "Core NP procedures"
+        },
+        {
+          "title": "SciPy — Nonparametric Tests",
+          "url": "https://docs.scipy.org/doc/scipy/reference/stats.html",
+          "type": "docs",
+          "description": "Python implementations"
+        }
+      ],
+      "importance": "medium",
+      "category": "Nonparametric Tests",
+      "topics": ["Sign", "Wilcoxon", "KS"]
+    },
+    {
+      "id": "26",
+      "title": "Time Series Basics: ACF/PACF & ARIMA Overview",
+      "content": "Recognize autocorrelation; use ACF/PACF to suggest AR/MA orders; know ARIMA vs exponential smoothing.",
+      "keyTakeaways": [
+        "ACF tail-off & PACF cutoff → AR; reverse for MA (rule-of-thumb).",
+        "Difference to achieve stationarity before fitting ARIMA.",
+        "Use diagnostics: residual ACF, Ljung-Box."
+      ],
+      "resources": [
+        {
+          "title": "Hyndman — Forecasting: Principles and Practice (fpp3)",
+          "url": "https://otexts.com/fpp3/",
+          "type": "textbook",
+          "description": "Free, authoritative time series text"
+        },
+        {
+          "title": "Penn State STAT 510 — Applied Time Series",
+          "url": "https://online.stat.psu.edu/stat510/",
+          "type": "course",
+          "description": "ACF/PACF & ARIMA notes"
+        }
+      ],
+      "importance": "medium",
+      "category": "Time Series",
+      "topics": ["ACF", "PACF", "ARIMA", "Stationarity"]
+    },
+    {
+      "id": "27",
+      "title": "Pakistan Data Sources for Practice (CPI, Surveys, Bulletins)",
+      "content": "Use authentic Pakistani datasets to practice index numbers, regression, and time series.",
+      "keyTakeaways": [
+        "PBS publishes CPI methodology, monthly indices, and bulletins.",
+        "Use CPI time series to build index/forecast questions.",
+        "Cite source/series definitions in answers."
+      ],
+      "resources": [
+        {
+          "title": "PBS — Price Statistics Portal",
+          "url": "https://www.pbs.gov.pk/content/price-statistics",
+          "type": "portal",
+          "description": "CPI indices & methodology"
+        },
+        {
+          "title": "PBS — CPI Methodology (2015-16 Base)",
+          "url": "https://www.pbs.gov.pk/sites/default/files/price_statistics/methodology_of_price_statistics_base_year_2015-16.pdf",
+          "type": "methodology",
+          "description": "Weights, coverage, formulas"
+        },
+        {
+          "title": "PBS — Monthly CPI",
+          "url": "https://www.pbs.gov.pk/cpi",
+          "type": "data",
+          "description": "Latest CPI figures"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context & Data",
+      "topics": ["PBS", "CPI", "Practice Data"]
+    },
+    {
+      "id": "28",
+      "title": "CSS Statistics Exam Strategy: Syllabus Mapping & Past Papers",
+      "content": "Align prep with FPSC syllabus; practice with descriptive papers (2023–2025); simulate timed solutions with stepwise reasoning.",
+      "keyTakeaways": [
+        "Download official syllabus and past descriptive papers.",
+        "Map each topic here to past questions (2000–2024).",
+        "Show assumptions, steps, and final numerical answers."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabus (CE-2016 & Onwards)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "syllabus",
+          "description": "Official syllabus PDF"
+        },
+        {
+          "title": "FPSC — CSS Descriptive Papers (2025)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "past-papers",
+          "description": "Subject PDFs incl. Statistics"
+        },
+        {
+          "title": "FPSC — Previous Question Papers (Archive)",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "past-papers",
+          "description": "Older CSS papers"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Syllabus", "Past Papers", "Time Management"]
+    }
+  ]
+}

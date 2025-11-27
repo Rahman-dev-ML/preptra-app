@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:01:52.219Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "b5a46d5d601096b31f21104bc623d58ad558c839",
+      "sectionIndex": 0,
+      "question": "A system has 4 processes and 5 available resources. Current allocation is P1:2, P2:1, P3:1, P4:1. Maximum needs are P1:3, P2:3, P3:4, P4:2. Using Banker's algorithm, which allocation request would be safe?",
+      "options": [
+        "A) P3 requests 2 resources",
+        "B) P1 requests 1 resource",
+        "C) P2 requests 2 resources",
+        "D) P4 requests 1 resource"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "07ee6bc2ab8bb23119fe8556a28b13ce3a145bb5",
+      "sectionIndex": 0,
+      "question": "In a system using virtual memory with 3 page frames, given page reference string: 1,2,3,4,2,1,5,6,2,1,2,3,7,6,3, which replacement algorithm produces the fewest page faults?",
+      "options": [
+        "A) FIFO (9 faults)",
+        "B) LRU (10 faults)",
+        "C) Optimal (7 faults)",
+        "D) Clock (11 faults)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f7498cb0ab333908b9e2327a41c2f4f4e0741b58",
+      "sectionIndex": 0,
+      "question": "A CPU scheduling algorithm has processes: P1(burst=8,arrival=0), P2(burst=4,arrival=1), P3(burst=9,arrival=2), P4(burst=5,arrival=3). Using preemptive SJF, what is the average waiting time?",
+      "options": [
+        "A) 6.5",
+        "B) 7.0",
+        "C) 7.5",
+        "D) 8.0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f1b1f66a4366da9c6fa0e75be5577a55a8fac4ce",
+      "sectionIndex": 0,
+      "question": "In a system with TLB hit ratio of 80% and TLB access time of 20ns, memory access time of 100ns, what is the effective memory access time?",
+      "options": [
+        "A) 120ns",
+        "B) 140ns",
+        "C) 160ns",
+        "D) 180ns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9b1fb58723fe76661da1f349eefff210e70dfa8",
+      "sectionIndex": 0,
+      "question": "For preventing deadlock using resource ordering, if a process holding resource Ri wants Rj, which condition must be satisfied?",
+      "options": [
+        "A) i < j",
+        "B) i > j",
+        "C) i = j",
+        "D) No condition needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "98cb77f81b52bbce4094dffff2b7a091b4e131e6",
+      "sectionIndex": 0,
+      "question": "In segmentation with paging, if segment table entry contains page table base, and logical address is (s,p,d) where s=segment, p=page, d=offset, how many memory accesses are needed?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d8dba664e46282f52b76bc172160cd68f1f0e0b9",
+      "sectionIndex": 0,
+      "question": "A disk scheduling algorithm services requests in order: 98,183,37,122,14,124,65,67 with head initially at 53. Which algorithm gives minimum head movement?",
+      "options": [
+        "A) FCFS (640)",
+        "B) SSTF (236)",
+        "C) SCAN (236)",
+        "D) C-SCAN (382)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a4fcca5ebfc2b8ec8e1d5bef2c5a983eed04ee4",
+      "sectionIndex": 0,
+      "question": "In a multiprocessor system using test-and-set for mutual exclusion, what causes performance degradation with many processors?",
+      "options": [
+        "A) Cache coherence overhead",
+        "B) Bus contention from spinning",
+        "C) Context switch overhead",
+        "D) Memory fragmentation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e40b61b644cb5b7f054af50398493e9dd4e6b3aa",
+      "sectionIndex": 0,
+      "question": "Given Belady's anomaly, which statement is correct about page replacement algorithms?",
+      "options": [
+        "A) LRU never suffers from it",
+        "B) FIFO always suffers from it",
+        "C) Optimal algorithm suffers from it",
+        "D) Stack algorithms don't suffer from it"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c6afc60805d4cbe9f322fdb710a12ae8de656cff",
+      "sectionIndex": 0,
+      "question": "In priority inversion problem, what mechanism allows low-priority process to execute before high-priority process?",
+      "options": [
+        "A) Priority inheritance protocol",
+        "B) Priority ceiling protocol",
+        "C) Resource holding by medium priority",
+        "D) Both A and B can solve it"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2cc22b8dda2da9a624075d04e5f904c02ff60d05",
+      "sectionIndex": 1,
+      "question": "For building a Binary Search Tree from preorder traversal [50,30,20,40,70,60,80], how many different inorder traversals are possible?",
+      "options": [
+        "A) 1",
+        "B) 7",
+        "C) 14",
+        "D) 42"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c7bf6d2246c4910499734fa834dd9ae5395ae869",
+      "sectionIndex": 1,
+      "question": "In a B-tree of order 5, what is the maximum number of keys in a tree of height 3?",
+      "options": [
+        "A) 124",
+        "B) 624",
+        "C) 3124",
+        "D) 15624"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "19ac92a75aafb993b0731b798545ddabecdda1de",
+      "sectionIndex": 1,
+      "question": "Using dynamic programming for matrix chain multiplication with dimensions 10-20, 20-30, 30-40, what is the minimum scalar multiplications?",
+      "options": [
+        "A) 18000",
+        "B) 24000",
+        "C) 30000",
+        "D) 36000"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "05d08dfc53ac1ea81b3de9d26ea8cd881f0b379a",
+      "sectionIndex": 1,
+      "question": "In a hash table using quadratic probing with table size 11, if h(k)=k%11 and collision occurs at index 4, what is the 4th probe location?",
+      "options": [
+        "A) 8",
+        "B) 9",
+        "C) 10",
+        "D) 3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0422472b658cf30269e90e1bf453f0c8431c9c14",
+      "sectionIndex": 1,
+      "question": "For the string \"ABABCABAB\", the failure function in KMP algorithm has value 4 at which index?",
+      "options": [
+        "A) 6",
+        "B) 7",
+        "C) 8",
+        "D) 9"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "75949ea1d3e2439fa95fa1e1d4ca6b8274ca562a",
+      "sectionIndex": 1,
+      "question": "A Red-Black tree with n internal nodes has height at most:",
+      "options": [
+        "A) log n",
+        "B) 2 log n",
+        "C) 2 log(n+1)",
+        "D) log(n+1)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "05fe0b49af598e6b31870ab8d4e9b17bb58c4504",
+      "sectionIndex": 1,
+      "question": "In Floyd-Warshall algorithm for a graph with negative edge but no negative cycle, which statement is true?",
+      "options": [
+        "A) Algorithm fails",
+        "B) Gives correct shortest paths",
+        "C) Detects negative cycle",
+        "D) Time complexity increases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89de5c773cfdd5451f96f317a5eb5b96bb487273",
+      "sectionIndex": 1,
+      "question": "For Huffman coding of symbols with frequencies 5,9,12,13,16,45, what is the length of encoded message with 100 symbols?",
+      "options": [
+        "A) 224 bits",
+        "B) 230 bits",
+        "C) 236 bits",
+        "D) 242 bits"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3f87013681605a98196098adf15c5a9fd66b3ec4",
+      "sectionIndex": 1,
+      "question": "In a suffix array for string \"banana$\", what is the lexicographic rank of suffix \"ana$\"?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a5233b0ca1914078c78933f23463b8780e39e9b",
+      "sectionIndex": 1,
+      "question": "Using master theorem, T(n) = 4T(n/2) + n2 has complexity:",
+      "options": [
+        "A) O(n2)",
+        "B) O(n2 log n)",
+        "C) O(n3)",
+        "D) O(2^n)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cff6e36c49a0e958c87126c69d6374492707c6e5",
+      "sectionIndex": 2,
+      "question": "In C++, if virtual inheritance is used in diamond problem with classes A->B,C->D, how many instances of A exist in D?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f23a56f043374a4bfe4d51f37c0df7ea4d720e41",
+      "sectionIndex": 2,
+      "question": "Which design pattern is most suitable for implementing undo/redo functionality in a text editor?",
+      "options": [
+        "A) Strategy",
+        "B) Command",
+        "C) Observer",
+        "D) Decorator"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6fc15c0b5f6f18ed398013be786a15ea071019d",
+      "sectionIndex": 2,
+      "question": "In Java, if a synchronized method calls another synchronized method of the same object, what happens?",
+      "options": [
+        "A) Deadlock occurs",
+        "B) Runtime exception",
+        "C) Reentrant lock allows it",
+        "D) Compilation error"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "622633dbf0454c2a69e24fa5660f3c03d706369f",
+      "sectionIndex": 2,
+      "question": "For exception safety in C++, which guarantee ensures no resources are leaked but state might change?",
+      "options": [
+        "A) No-throw guarantee",
+        "B) Basic guarantee",
+        "C) Strong guarantee",
+        "D) No guarantee"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6742e3a631411c5b5b944dabfa36903876e32d3",
+      "sectionIndex": 2,
+      "question": "In template metaprogramming, factorial<5>::value is computed at:",
+      "options": [
+        "A) Runtime",
+        "B) Compile time",
+        "C) Link time",
+        "D) Load time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53e637a1ee6f5f2fbdc8814723a57d8adb24e64f",
+      "sectionIndex": 2,
+      "question": "Which SOLID principle is violated when a class has multiple reasons to change?",
+      "options": [
+        "A) Single Responsibility",
+        "B) Open/Closed",
+        "C) Liskov Substitution",
+        "D) Interface Segregation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4e345dd7c85cb2129e6cf1c8f32bd1bffcf9301f",
+      "sectionIndex": 2,
+      "question": "In C++11, what does std::move() actually do?",
+      "options": [
+        "A) Moves memory",
+        "B) Copies object",
+        "C) Casts to rvalue reference",
+        "D) Deallocates memory"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "269cc626a2abccdb6412a3ae285ebd284809db9e",
+      "sectionIndex": 2,
+      "question": "For implementing a thread-safe singleton in C++, which approach is most efficient?",
+      "options": [
+        "A) Double-checked locking",
+        "B) Eager initialization",
+        "C) Meyers' singleton",
+        "D) Synchronized method"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0d31aaf07687a99a9d279684bb047d3c99fdcdc3",
+      "sectionIndex": 2,
+      "question": "In aspect-oriented programming, cross-cutting concerns are addressed using:",
+      "options": [
+        "A) Inheritance",
+        "B) Composition",
+        "C) Pointcuts and advices",
+        "D) Templates"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "600f161f3cbe4462f57d3aa31132eeb5d0695e38",
+      "sectionIndex": 2,
+      "question": "Type erasure in Java generics causes which limitation?",
+      "options": [
+        "A) Cannot use primitive types",
+        "B) Cannot create arrays of generic type",
+        "C) Runtime type information is lost",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a50386e96a3ce8cfd4707283cb7caf098e2e9459",
+      "sectionIndex": 3,
+      "question": "In a database with relations R(A,B,C) and S(C,D,E), what is the result cardinality of R <^ S if |R|=1000, |S|=2000, and C values in R are subset of C values in S with 50 distinct values?",
+      "options": [
+        "A) 20,000",
+        "B) 40,000",
+        "C) 100,000",
+        "D) 2,000,000"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc5c3505b9f313a1aa482344e89f5230ef790cdc",
+      "sectionIndex": 3,
+      "question": "For functional dependencies AB?'C, C?'D, D?'E, E?'A, what is the canonical cover?",
+      "options": [
+        "A) AB?'C, C?'D, D?'E, E?'A",
+        "B) AB?'CDE, C?'A",
+        "C) AB?'C, C?'A, D?'E",
+        "D) B?'ACDE"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f2504844c52f09922630299220633396a310fbca",
+      "sectionIndex": 3,
+      "question": "In MVCC (Multiversion Concurrency Control), a transaction reading a data item:",
+      "options": [
+        "A) Always reads latest version",
+        "B) Reads version valid at transaction start",
+        "C) Waits for write locks",
+        "D) Creates new version"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6cde606ba96882370b128ce91d28a05f0167461",
+      "sectionIndex": 3,
+      "question": "Which isolation level allows phantom reads but prevents dirty and non-repeatable reads?",
+      "options": [
+        "A) Read Uncommitted",
+        "B) Read Committed",
+        "C) Repeatable Read",
+        "D) Serializable"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "22b11cbaf14499df4e6dfe684e32c86218b616f1",
+      "sectionIndex": 3,
+      "question": "In B+ tree index with order 4, minimum number of keys in non-root internal node is:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03ed39860f8779bbd575a9b2868accaca104e84c",
+      "sectionIndex": 3,
+      "question": "For query optimization, which join order minimizes intermediate result size for R(A,B)|R|=1000, S(B,C)|S|=2000, T(C,D)|T|=500 with selectivity f(R.B=S.B)=0.1, f(S.C=T.C)=0.2?",
+      "options": [
+        "A) (R <^ S) <^ T",
+        "B) R <^ (S <^ T)",
+        "C) (R <^ T) <^ S",
+        "D) Order doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8666be7dbd2d5c53dbfc33141f1bd6b463ae375",
+      "sectionIndex": 3,
+      "question": "In two-phase commit protocol, what happens if coordinator fails after prepare phase?",
+      "options": [
+        "A) Transaction aborts",
+        "B) Transaction commits",
+        "C) Participants wait indefinitely",
+        "D) Automatic recovery"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7546b6dbec7a13b104aebe7b09a9f6763d2dbace",
+      "sectionIndex": 3,
+      "question": "Which statement about CAP theorem in distributed databases is correct?",
+      "options": [
+        "A) Can achieve all three properties",
+        "B) Must sacrifice one property",
+        "C) Applies only to NoSQL",
+        "D) Only about network partitions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d558ab9f8f926e6965bdac72cb9f648beba6938",
+      "sectionIndex": 3,
+      "question": "In timestamp-based concurrency control, Thomas Write Rule allows:",
+      "options": [
+        "A) Younger transaction to read",
+        "B) Older transaction to write",
+        "C) Ignoring obsolete writes",
+        "D) Cascading rollback"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "14db6bc02bf8a62135b5eb693114c87952f9dd61",
+      "sectionIndex": 3,
+      "question": "For horizontal fragmentation of Employee(ID,Name,Dept,Salary) by Dept^^{'IT','HR','Finance'}, how many fragments for complete and disjoint fragmentation?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5091f282dab7e667db289c0a2926f76919a630a4",
+      "sectionIndex": 4,
+      "question": "In TCP congestion control, if cwnd=32KB, ssthresh=16KB, and 3 duplicate ACKs are received, what is the new cwnd after fast recovery?",
+      "options": [
+        "A) 1 MSS",
+        "B) 16 KB",
+        "C) 17 KB",
+        "D) 32 KB"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f699f3490cc64bdab7d649fabc25feee71e07254",
+      "sectionIndex": 4,
+      "question": "For CIDR address 192.168.1.0/28, how many subnets can be created from 192.168.1.0/24?",
+      "options": [
+        "A) 8",
+        "B) 16",
+        "C) 32",
+        "D) 64"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5ad2ff8d86a1d1c5524e6dfce9f4ce0d6b21017",
+      "sectionIndex": 4,
+      "question": "In BGP, if AS1-AS2-AS3 and AS1-AS4-AS3 paths exist, AS3 advertises to AS5 using:",
+      "options": [
+        "A) Shortest AS path",
+        "B) Both paths",
+        "C) Local preference",
+        "D) One path based on policy"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0c95b000d17c487a1b407810cca7b8aa5335c7f2",
+      "sectionIndex": 4,
+      "question": "In 802.11 CSMA/CA, if station has data to send after DIFS and backoff, but medium becomes busy, what happens to backoff counter?",
+      "options": [
+        "A) Reset to zero",
+        "B) Frozen at current value",
+        "C) Doubled",
+        "D) Incremented by one"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87a84dbebd20cb3e797c48b85f67775561d1912b",
+      "sectionIndex": 4,
+      "question": "For IPv6 address 2001:0db8:0000:0000:0001:0000:0000:0001, the compressed form is:",
+      "options": [
+        "A) 2001:db8::1:0:0:1",
+        "B) 2001:db8:0:0:1::1",
+        "C) 2001:db8::1:0:0:1",
+        "D) 2001:db8:0:0:1:0:0:1"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e276c866f4790a28ae5d7f58ac209c645953b9b9",
+      "sectionIndex": 4,
+      "question": "In OSPF, what triggers immediate LSA flooding?",
+      "options": [
+        "A) Periodic timer only",
+        "B) Topology change",
+        "C) Every packet",
+        "D) Manual command only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfb75d59703077ddfa670dd9ed0b42892cbe691a",
+      "sectionIndex": 4,
+      "question": "TCP Reno differs from TCP Tahoe in handling:",
+      "options": [
+        "A) Slow start",
+        "B) Fast retransmit",
+        "C) Fast recovery",
+        "D) Connection setup"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a43dfa0683e1d13cbecbfd25dc4c1b13ee794929",
+      "sectionIndex": 4,
+      "question": "In Ethernet, minimum frame size of 64 bytes is related to:",
+      "options": [
+        "A) Maximum cable length",
+        "B) Collision detection",
+        "C) Header size",
+        "D) CRC calculation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2500170b14967ccc29006fbbcc28c1870c26d31",
+      "sectionIndex": 4,
+      "question": "For reliable multicast using NACK-based protocol, implosion problem occurs when:",
+      "options": [
+        "A) Sender sends too fast",
+        "B) Many receivers send NACKs",
+        "C) Packet order changes",
+        "D) TTL expires"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da7bff4544f96730407371e92446a7f31a77835e",
+      "sectionIndex": 4,
+      "question": "In MPLS, label switching decision is based on:",
+      "options": [
+        "A) Full IP header lookup",
+        "B) Port numbers",
+        "C) Label value only",
+        "D) Application data"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a75c68148ab7842cf8beba63c74b11d332fc852d",
+      "sectionIndex": 5,
+      "question": "In function point analysis, if UFP=350 and TCF=1.2, what is the final function point count?",
+      "options": [
+        "A) 292",
+        "B) 350",
+        "C) 420",
+        "D) 500"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8bb1d7fd67f35f5d0855200295497dc7afd81464",
+      "sectionIndex": 5,
+      "question": "Using COCOMO II, if effort = 2.94 - (KLOC)^1.0997 and KLOC=50, what is the effort in person-months?",
+      "options": [
+        "A) 195",
+        "B) 215",
+        "C) 235",
+        "D) 255"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20a03d1bcc5b754dee91af87989128436c239685",
+      "sectionIndex": 5,
+      "question": "In software reliability growth model, if current failure rate is λ=0.02 and 50 faults remain, what is the failure intensity after removing 10 faults?",
+      "options": [
+        "A) 0.012",
+        "B) 0.016",
+        "C) 0.018",
+        "D) 0.020"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9367647d72ca4a0d051877326c4b5b9f5ccb4805",
+      "sectionIndex": 5,
+      "question": "For cyclomatic complexity of a module with 25 nodes and 30 edges in control flow graph, the complexity is:",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9fc410177f6e2501e9190b08018df289b8b49d9a",
+      "sectionIndex": 5,
+      "question": "In risk management, if risk probability is 0.3 and impact is $50,000, what is the risk exposure?",
+      "options": [
+        "A) $15,000",
+        "B) $35,000",
+        "C) $50,000",
+        "D) $65,000"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cf4fc1c03b053cc5e175ed1ca05980978cfe3a9d",
+      "sectionIndex": 5,
+      "question": "Which software metric indicates high coupling between modules?",
+      "options": [
+        "A) High fan-in",
+        "B) High fan-out",
+        "C) Low cohesion",
+        "D) High cyclomatic complexity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc863ba6ded4b9d9da2e28f480562af0a52fe570",
+      "sectionIndex": 5,
+      "question": "In earned value analysis, if PV=$100k, EV=$90k, AC=$95k, what is the schedule performance index?",
+      "options": [
+        "A) 0.90",
+        "B) 0.95",
+        "C) 1.05",
+        "D) 1.11"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "36e401342ae60c3bfbf4911613fffd1b50d78826",
+      "sectionIndex": 5,
+      "question": "For mutation testing, if 100 mutants are created and test suite kills 85, what is the mutation score?",
+      "options": [
+        "A) 0.15",
+        "B) 0.85",
+        "C) 1.0",
+        "D) 1.15"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9626486adfbccbf14b27c1063fe301a05a154cb",
+      "sectionIndex": 5,
+      "question": "In formal methods, which property ensures \"something good eventually happens\"?",
+      "options": [
+        "A) Safety",
+        "B) Liveness",
+        "C) Fairness",
+        "D) Invariance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa77a98f7de1a69fe419178abe4a462fb9f1bb68",
+      "sectionIndex": 5,
+      "question": "Using decision tree for cost estimation with EMV, if success (0.7) gives $100k profit and failure (0.3) gives $50k loss, what is EMV?",
+      "options": [
+        "A) $55k",
+        "B) $65k",
+        "C) $75k",
+        "D) $85k"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c83d440e614cbff1faecdce476fdb507fc61871a",
+      "sectionIndex": 6,
+      "question": "In OAuth 2.0, which grant type is most suitable for server-side web applications?",
+      "options": [
+        "A) Implicit",
+        "B) Authorization Code",
+        "C) Password",
+        "D) Client Credentials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d98e293851880f3e361b452880c9f0154ee92667",
+      "sectionIndex": 6,
+      "question": "For preventing CSRF attacks, which mechanism is most effective?",
+      "options": [
+        "A) CAPTCHA",
+        "B) SSL/TLS",
+        "C) Synchronizer tokens",
+        "D) Input validation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "89223868ed0e56b3bb2bfc01b4ba80b83fdeb268",
+      "sectionIndex": 6,
+      "question": "In Content Security Policy, 'unsafe-inline' directive poses risk for:",
+      "options": [
+        "A) XSS attacks",
+        "B) SQL injection",
+        "C) CSRF attacks",
+        "D) DDoS attacks"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "29bdb757b5f9845a5fa8f170637e01e03ed8103c",
+      "sectionIndex": 6,
+      "question": "WebSocket protocol upgrade from HTTP uses which status code?",
+      "options": [
+        "A) 100",
+        "B) 101",
+        "C) 200",
+        "D) 301"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "405a4e79c5aa426f97e3860215cb461cb0c66706",
+      "sectionIndex": 6,
+      "question": "In JWT tokens, which part contains the actual claims?",
+      "options": [
+        "A) Header",
+        "B) Payload",
+        "C) Signature",
+        "D) All parts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2113815d928010f8512130b7126b5206cd291021",
+      "sectionIndex": 6,
+      "question": "For REST API versioning, which approach provides best backward compatibility?",
+      "options": [
+        "A) URI versioning",
+        "B) Header versioning",
+        "C) Query parameter",
+        "D) Media type versioning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "633fdcc916e8a667e907975006137e2fcab6d428",
+      "sectionIndex": 6,
+      "question": "In Single Page Applications, which security concern is most critical?",
+      "options": [
+        "A) SQL injection",
+        "B) XSS in client-side templates",
+        "C) Buffer overflow",
+        "D) Integer overflow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b636e496bb5491d8eab4a337464854e19264d516",
+      "sectionIndex": 6,
+      "question": "CORS preflight request is triggered when:",
+      "options": [
+        "A) GET request is made",
+        "B) Custom headers are used",
+        "C) Same origin request",
+        "D) HTTP only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea6b9ffa82da288de086ed725b2548a111ec6ffe",
+      "sectionIndex": 6,
+      "question": "In HTTPS, perfect forward secrecy ensures:",
+      "options": [
+        "A) Faster connection",
+        "B) Past sessions remain secure if private key compromised",
+        "C) No encryption needed",
+        "D) Client authentication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a43349157e4e7aa5232be3403b5b3b1ac2c409ee",
+      "sectionIndex": 6,
+      "question": "Browser same-origin policy restricts based on:",
+      "options": [
+        "A) Protocol only",
+        "B) Domain only",
+        "C) Port only",
+        "D) Protocol, domain, and port"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "27e68b3b1cd3172ffa5311b41886a244613080b8",
+      "sectionIndex": 7,
+      "question": "In Phong shading model with ambient=0.2, diffuse=0.5, specular=0.3, light intensity=1.0, if angle between normal and light is 60°, what is diffuse contribution?",
+      "options": [
+        "A) 0.25",
+        "B) 0.35",
+        "C) 0.45",
+        "D) 0.50"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1ac39650391d0f9f5783791ec33e67a2969e75b2",
+      "sectionIndex": 7,
+      "question": "For perspective projection with focal length f=10 and point at (20,30,40), the projected x-coordinate is:",
+      "options": [
+        "A) 5",
+        "B) 10",
+        "C) 15",
+        "D) 20"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "469b43ca106d3843fbfbe756ee896be78787ddc0",
+      "sectionIndex": 7,
+      "question": "In ray tracing, if ray intersects sphere at parameter t1=2 and t2=5, where is the entry point for ray origin at (0,0,0) and direction (1,0,0)?",
+      "options": [
+        "A) (2,0,0)",
+        "B) (5,0,0)",
+        "C) (3.5,0,0)",
+        "D) (7,0,0)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "af362b1414382d77cbe8b5fd267543a62b6a4af9",
+      "sectionIndex": 7,
+      "question": "Bezier curve with control points (0,0), (1,4), (3,2), (4,0) at parameter t=0.5 has which property?",
+      "options": [
+        "A) Passes through (2,2)",
+        "B) Tangent parallel to x-axis",
+        "C) Maximum curvature",
+        "D) Inflection point"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9bb3929bdacda849b4e0cfe49cdbde5557a1e5fd",
+      "sectionIndex": 7,
+      "question": "In texture mapping with bilinear interpolation, if corners have values 10,20,30,40 at (0,0),(1,0),(0,1),(1,1), value at (0.5,0.5) is:",
+      "options": [
+        "A) 20",
+        "B) 25",
+        "C) 30",
+        "D) 35"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22061580d8677a4b474404ea0e1a0327914aabc4",
+      "sectionIndex": 7,
+      "question": "For anti-aliasing using 4x supersampling, how many samples per pixel?",
+      "options": [
+        "A) 4",
+        "B) 8",
+        "C) 16",
+        "D) 32"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ceedf31ea0321c814b0d8900df773a7971d22e73",
+      "sectionIndex": 7,
+      "question": "In BSP tree for hidden surface removal, polygons are split when:",
+      "options": [
+        "A) Too large",
+        "B) Crossing partition plane",
+        "C) Too small",
+        "D) Never split"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eceb9e47e2f8bb0de8abe5dc6c8eb8a2c0dddd9d",
+      "sectionIndex": 7,
+      "question": "Octree subdivision for 3D space with depth 4 can have maximum how many leaf nodes?",
+      "options": [
+        "A) 64",
+        "B) 512",
+        "C) 4096",
+        "D) 32768"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5d420ec59f7e8b0d37c7b2cf62a5113046d49910",
+      "sectionIndex": 7,
+      "question": "In radiosity method, form factor between two surfaces depends on:",
+      "options": [
+        "A) Color only",
+        "B) Material only",
+        "C) Geometry and orientation",
+        "D) Light intensity only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b42338406c20f89d841b88fecf01ea3c5571fadb",
+      "sectionIndex": 7,
+      "question": "For level-of-detail in real-time rendering, switching distance is based on:",
+      "options": [
+        "A) Time only",
+        "B) Screen-space error",
+        "C) Polygon count only",
+        "D) Texture size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8225e5fb92a92a1699a6e777be22ea8914b19351",
+      "sectionIndex": 8,
+      "question": "In RSA with p=17, q=11, e=7, what is the decryption exponent d?",
+      "options": [
+        "A) 23",
+        "B) 43",
+        "C) 63",
+        "D) 83"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c7d2f2f10c9dd05b8f7c89967e035a17e8f006f9",
+      "sectionIndex": 8,
+      "question": "For Diffie-Hellman with p=23, g=5, if Alice's private key is 6 and Bob's is 15, what is their shared secret?",
+      "options": [
+        "A) 2",
+        "B) 8",
+        "C) 16",
+        "D) 19"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "188d8453a2928750159ef69d7b892fdd09f2331a",
+      "sectionIndex": 8,
+      "question": "In AES-128, how many rounds of encryption are performed?",
+      "options": [
+        "A) 8",
+        "B) 10",
+        "C) 12",
+        "D) 14"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8f74e907cf53b6a5451c10fcf5232be7ba0336e",
+      "sectionIndex": 8,
+      "question": "Which attack on block ciphers exploits mathematical structure rather than brute force?",
+      "options": [
+        "A) Dictionary attack",
+        "B) Differential cryptanalysis",
+        "C) Phishing",
+        "D) Social engineering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7929709291e6185398361e62347c5c3703c019c",
+      "sectionIndex": 8,
+      "question": "In digital certificates, what prevents man-in-the-middle attacks during initial exchange?",
+      "options": [
+        "A) Symmetric key",
+        "B) Certificate pinning",
+        "C) Hash function",
+        "D) Random number"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16502023aa509541a1ef75e6cf2f105525ad7db8",
+      "sectionIndex": 8,
+      "question": "For blockchain proof-of-work, if network hash rate doubles, what happens to difficulty?",
+      "options": [
+        "A) Halves",
+        "B) Doubles",
+        "C) Stays same",
+        "D) Becomes zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7880cedceb719ceaeac7e1f352aa1919df80318c",
+      "sectionIndex": 8,
+      "question": "In zero-knowledge proofs, the prover demonstrates knowledge without revealing:",
+      "options": [
+        "A) Identity",
+        "B) The actual information",
+        "C) Computation time",
+        "D) Communication channel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d296d943a2daad7b24df59769949874e6bd6de8",
+      "sectionIndex": 8,
+      "question": "Side-channel attacks exploit:",
+      "options": [
+        "A) Weak passwords",
+        "B) Physical implementation characteristics",
+        "C) Network protocols",
+        "D) Software bugs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6715d5529a656436197cf4918bfe356b1f6c9c83",
+      "sectionIndex": 8,
+      "question": "In homomorphic encryption, operations on ciphertext produce:",
+      "options": [
+        "A) Plain text",
+        "B) Random data",
+        "C) Encrypted result of operations",
+        "D) Hash values"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a93de5c24c0b4626b1f6e986306a4c6d8602a0ac",
+      "sectionIndex": 8,
+      "question": "Quantum computers threaten which cryptographic assumption?",
+      "options": [
+        "A) One-way functions",
+        "B) Factoring large numbers",
+        "C) Hash collisions",
+        "D) Symmetric encryption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97c578bb22a446123230b6bf47d855b8021bae05",
+      "sectionIndex": 9,
+      "question": "In MapReduce, if map phase produces 1TB intermediate data with 100 unique keys uniformly distributed, and we have 10 reducers, what is the data transfer per reducer?",
+      "options": [
+        "A) 10GB",
+        "B) 100GB",
+        "C) 1TB",
+        "D) 10TB"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80c485ad1316fa5d5b60c47d1a817847ac36121e",
+      "sectionIndex": 9,
+      "question": "For a neural network with input layer (784 nodes), hidden layer (128 nodes), output layer (10 nodes), how many weights need training?",
+      "options": [
+        "A) 100,480",
+        "B) 101,770",
+        "C) 102,400",
+        "D) 103,690"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c4b2d55e2ec41a66d51fa72d66ca16fcf1f4805",
+      "sectionIndex": 9,
+      "question": "In Docker container orchestration with Kubernetes, a pod represents:",
+      "options": [
+        "A) Single container only",
+        "B) Group of containers sharing network/storage",
+        "C) Virtual machine",
+        "D) Physical server"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f5ab05fba7ce98087c1ab0940154570ecd5bd1a",
+      "sectionIndex": 9,
+      "question": "For eventual consistency in distributed systems, which guarantee is provided?",
+      "options": [
+        "A) Immediate consistency",
+        "B) All nodes see same data eventually",
+        "C) No consistency",
+        "D) Strong consistency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32e0d426772f4202c69c4f225ce4ad9f384ebabe",
+      "sectionIndex": 9,
+      "question": "In microservices architecture, which pattern handles cascading failures?",
+      "options": [
+        "A) Singleton",
+        "B) Factory",
+        "C) Circuit breaker",
+        "D) Observer"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c9737b38236c1c28481ced1a4a36cd9d5a21d4ee",
+      "sectionIndex": 9,
+      "question": "GraphQL differs from REST in:",
+      "options": [
+        "A) Using HTTP only",
+        "B) Client specifies exact data needs",
+        "C) Server-side only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "583cfb7a6a8dcefb759886092039ea6da16dafce",
+      "sectionIndex": 9,
+      "question": "In fog computing, processing happens:",
+      "options": [
+        "A) Only in cloud",
+        "B) Edge of network",
+        "C) Client only",
+        "D) Centralized servers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74fb85531840ee3d239f864d875f5325023ad128",
+      "sectionIndex": 9,
+      "question": "For handling big data's 3Vs, which is NOT a V?",
+      "options": [
+        "A) Volume",
+        "B) Velocity",
+        "C) Variety",
+        "D) Vulnerability"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2ee00b49f9502618b783212890a578120e5c0b3d",
+      "sectionIndex": 9,
+      "question": "In quantum error correction, logical qubit requires multiple physical qubits due to:",
+      "options": [
+        "A) Speed requirements",
+        "B) Decoherence and noise",
+        "C) Cost factors",
+        "D) Power consumption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec4f488ce031c1a1390f8f6bd55664e19618ea37",
+      "sectionIndex": 9,
+      "question": "Edge AI inference differs from cloud AI in:",
+      "options": [
+        "A) Accuracy only",
+        "B) Local processing without cloud connectivity",
+        "C) Training capability",
+        "D) No difference"
+      ],
+      "correct": "B"
+    }
+  ]
+}

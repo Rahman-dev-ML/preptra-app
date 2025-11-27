@@ -1,0 +1,813 @@
+{
+  "subject": "Islamic History & Culture",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 28,
+  "categories": [
+    "Prophetic Era & Early Community",
+    "Rashidun Caliphate & Governance",
+    "Umayyad Caliphate",
+    "Abbasid Caliphate & Golden Age",
+    "Muslim Spain (Al-Andalus)",
+    "Ottoman Empire",
+    "Key Battles & Treaties",
+    "Intellectual Tradition, Science & Philosophy",
+    "Sufism & the Subcontinent",
+    "Art, Architecture & Material Culture",
+    "Modern Reformers & Contemporary Relevance",
+    "High-Yield MCQs & Factual Recall"
+  ],
+  "notes": [
+    {
+      "id": "IH-1",
+      "title": "Treaty of Hudaybiyyah (628 CE): Strategy, Terms & Outcomes",
+      "content": "Seen initially as a 'loss', the 10-year truce enabled consolidation, outreach, and ultimately the peaceful Conquest of Makkah. Exams ask for clauses, political foresight, and Qur'anic framing (Fath).",
+      "keyTakeaways": [
+        "Core terms: ceasefire, delayed 'Umrah next year, alliance framework, return clauses.",
+        "Strategic dividend: space for da'wah, tribal diplomacy, and coalition-building.",
+        "Model case for conflict de-escalation and international treaty law analogies."
+      ],
+      "resources": [
+        {
+          "title": "Research paper — Political Impacts of Hudaybiyyah (2024)",
+          "url": "https://migrationletters.com/index.php/ml/article/download/10557/7050/26035",
+          "type": "paper",
+          "description": "Peer-reviewed analysis of political outcomes"
+        },
+        {
+          "title": "Academic article — 'Rereading the Hudaybiyyah Treaty' (2023)",
+          "url": "https://researchoutput.csu.edu.au/files/349003400/336217809_Published_article.pdf",
+          "type": "paper",
+          "description": "Strategic/expediency lens"
+        },
+        {
+          "title": "Tafsir/Seerah comparative study (2025)",
+          "url": "https://hrj.com.pk/index.php/hrj/article/view/84",
+          "type": "paper",
+          "description": "Bayan al-Qur'an & Ibn Hisham perspectives"
+        },
+        {
+          "title": "Primer slides (community resource)",
+          "url": "https://www.islamiccentre.org/presentations/TreatyofHudaibiyya.pdf",
+          "type": "slides",
+          "description": "Clause-level overview for quick revision"
+        },
+        {
+          "title": "Journal piece — Hudaybiyyah & Public Law",
+          "url": "https://jurnal.uinsyahada.ac.id/index.php/thawalib/article/download/17033/pdf",
+          "type": "paper",
+          "description": "Fiqh Siyasah & treaty principles"
+        }
+      ],
+      "importance": "high",
+      "category": "Prophetic Era & Early Community",
+      "topics": ["Hudaybiyyah", "Diplomacy", "Fiqh Siyasah", "Fath"]
+    },
+    {
+      "id": "IH-2",
+      "title": "Charter/Constitution of Madinah: Pluralism & Statecraft",
+      "content": "Foundational social contract defining rights/duties among Muslims and allied Jewish tribes; examined for clauses on security, dispute resolution, and ummah as a political community.",
+      "keyTakeaways": [
+        "Clauses cover collective defense, blood-money norms, and religious autonomy.",
+        "Used to derive principles of citizenship and rule of law in early Islam.",
+        "Know scholarly debates on dating, textual layers, and transmission."
+      ],
+      "resources": [
+        {
+          "title": "W.M. Watt — Muhammad at Medina (classic)",
+          "url": "https://almuslih.org/wp-content/uploads/Library/Watt%2C%20W%20M%20-%20Muhammad%20at%20Medina.pdf",
+          "type": "book (PDF)",
+          "description": "Context & text discussion"
+        },
+        {
+          "title": "Annotated translation (2021)",
+          "url": "https://f.hubspotusercontent10.net/hubfs/4713562/Website-Paper-PDFs/Medina%20Paper-Final.pdf",
+          "type": "paper",
+          "description": "Accessible translation w/ notes"
+        },
+        {
+          "title": "Overview — Constitution of Medina",
+          "url": "https://en.wikipedia.org/wiki/Constitution_of_Medina",
+          "type": "article",
+          "description": "Bibliography & clause numbering"
+        },
+        {
+          "title": "Scholarly note — Rubin (textual issues)",
+          "url": "https://almuslih.org/wp-content/uploads/Library/Rubin%2C%20U%20-%20The%20%E2%80%98Constitution%20of%20Medina%E2%80%99.pdf",
+          "type": "paper",
+          "description": "Textual criticism & structure"
+        }
+      ],
+      "importance": "high",
+      "category": "Prophetic Era & Early Community",
+      "topics": ["Mithaq", "Citizenship", "Pluralism", "Rule of law"]
+    },
+    {
+      "id": "IH-3",
+      "title": "Battle of Badr (624 CE): Turning Point",
+      "content": "Earliest decisive victory; questions emphasize causes, logistics, Qur'anic mention, and consequences for Meccan trade & Muslim morale.",
+      "keyTakeaways": [
+        "Only battle named in the Qur'an; moral and political boost.",
+        "Know commanders, numbers (ranges), and immediate aftermath.",
+        "Use for comparing early vs later Madinan battles."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Battle of Badr",
+          "url": "https://www.britannica.com/event/Battle-of-Badr",
+          "type": "article",
+          "description": "Authoritative summary"
+        },
+        {
+          "title": "Britannica — List of Battles (date quick-check)",
+          "url": "https://www.britannica.com/topic/list-of-battles-2084178",
+          "type": "reference",
+          "description": "Fast date verification"
+        }
+      ],
+      "importance": "high",
+      "category": "Key Battles & Treaties",
+      "topics": ["Badr", "Quraysh", "Qur'anic framing"]
+    },
+    {
+      "id": "IH-4",
+      "title": "Shūrā & Early Caliphal Selection",
+      "content": "Exam focus: Saqīfah, consultative precedent, and evolving mechanisms of leadership legitimation; compare ideals vs. later dynastic practice.",
+      "keyTakeaways": [
+        "Shūrā as principle of mutual consultation; early boards/electors.",
+        "Saqīfah context and contestations; Abu Bakr's bay'ah.",
+        "Link to contemporary debates on Islamic governance."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Shūrā",
+          "url": "https://www.britannica.com/topic/shura",
+          "type": "article",
+          "description": "Concept & early history"
+        },
+        {
+          "title": "Britannica — Abu Bakr",
+          "url": "https://www.britannica.com/biography/Abu-Bakr",
+          "type": "article",
+          "description": "Role and succession"
+        },
+        {
+          "title": "Overview — Saqīfah",
+          "url": "https://en.wikipedia.org/wiki/Saqifa",
+          "type": "article",
+          "description": "Event narrative & sources"
+        }
+      ],
+      "importance": "high",
+      "category": "Rashidun Caliphate & Governance",
+      "topics": ["Shūrā", "Saqīfah", "Legitimacy", "Bay'ah"]
+    },
+    {
+      "id": "IH-5",
+      "title": "'Umar ibn al-Khattāb: Administration & Welfare",
+      "content": "Frequently examined for judicial reforms, diwan/bayt al-māl organization, provincial oversight, and public welfare ethos.",
+      "keyTakeaways": [
+        "Institution-building: administrative districts, accountability.",
+        "Justice & welfare: stipends, market oversight, rule of law.",
+        "Use as model for governance case studies."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Abu Bakr (context) & 'Umar in related entries",
+          "url": "https://www.britannica.com/biography/Abu-Bakr",
+          "type": "article",
+          "description": "Succession to 'Umar's reforms via linked pages"
+        }
+      ],
+      "importance": "high",
+      "category": "Rashidun Caliphate & Governance",
+      "topics": ["Diwān", "Bayt al-māl", "Justice", "Accountability"]
+    },
+    {
+      "id": "IH-6",
+      "title": "Umayyads: Statecraft of ʿAbd al-Malik (r. 685–705)",
+      "content": "Arabicization of administration, coinage reform, consolidation, and monumental ideology (e.g., Dome of the Rock).",
+      "keyTakeaways": [
+        "Standardized coinage & Arabic as chancery language.",
+        "Centralization after civil wars; provincial control.",
+        "Exam-favorite for comparing to Abbasid policies."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — ʿAbd al-Malik ibn Marwān",
+          "url": "https://www.britannica.com/biography/Abd-al-Malik-ibn-Marwan",
+          "type": "article",
+          "description": "Reforms & legacy"
+        }
+      ],
+      "importance": "high",
+      "category": "Umayyad Caliphate",
+      "topics": ["Arabicization", "Coinage", "Administration"]
+    },
+    {
+      "id": "IH-7",
+      "title": "Umayyads vs Abbasids: Comparative Governance",
+      "content": "Compare political bases (Arab tribal elites vs. Khurasani coalition), capitals (Damascus vs. Baghdad), policies, and cultural orientations.",
+      "keyTakeaways": [
+        "Abbasid revolution (black banners), broader inclusivity of mawālī.",
+        "Shift in administrative culture; cosmopolitan Baghdad.",
+        "Use structured compare/contrast table in essays."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Abbasid Caliphate (overview)",
+          "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+          "type": "article",
+          "description": "Political arc & achievements"
+        },
+        {
+          "title": "Britannica — Iraq under Abbasids",
+          "url": "https://www.britannica.com/place/Iraq/The-Abbasid-Caliphate",
+          "type": "article",
+          "description": "Revolution & black banners"
+        },
+        {
+          "title": "Britannica — Umayyad Caliphate",
+          "url": "https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history",
+          "type": "article",
+          "description": "Preceding system & policies"
+        }
+      ],
+      "importance": "high",
+      "category": "Abbasid Caliphate & Golden Age",
+      "topics": ["Revolution", "Mawālī", "Capitals", "Administration"]
+    },
+    {
+      "id": "IH-8",
+      "title": "House of Wisdom (Bayt al-Hikma): Translation & Knowledge",
+      "content": "Icon of Abbasid intellectual life; exams test functions (translation, research), patronage, and cross-civilizational transmission.",
+      "keyTakeaways": [
+        "Greek, Persian, Indian works translated; new disciplines flourished.",
+        "Institutional learning (observatories, libraries) grew around it.",
+        "Note modern debates on exact institutional contours."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — House of Wisdom",
+          "url": "https://www.britannica.com/topic/House-of-Wisdom",
+          "type": "article",
+          "description": "Core reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Abbasid Caliphate & Golden Age",
+      "topics": ["Translation movement", "Institutions", "Patronage"]
+    },
+    {
+      "id": "IH-9",
+      "title": "Ibn Sīnā (Avicenna), al-Fārābī, Ibn Rushd: Philosophy & Science",
+      "content": "Know signature works (Canon of Medicine; political philosophy; commentaries on Aristotle) and influence on both Islamicate and European thought.",
+      "keyTakeaways": [
+        "Avicenna: medical encyclopedism; metaphysics.",
+        "al-Fārābī: political philosophy; virtuous city.",
+        "Averroes: Aristotelian commentary, Latin reception."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ibn Sīnā (Avicenna)",
+          "url": "https://www.britannica.com/biography/Avicenna",
+          "type": "article",
+          "description": "Bio & works"
+        },
+        {
+          "title": "Britannica — al-Fārābī",
+          "url": "https://www.britannica.com/biography/al-Farabi",
+          "type": "article",
+          "description": "Bio & political thought"
+        },
+        {
+          "title": "Britannica — Ibn Rushd (Averroes)",
+          "url": "https://www.britannica.com/biography/Ibn-Rushd",
+          "type": "article",
+          "description": "Bio & influence"
+        }
+      ],
+      "importance": "high",
+      "category": "Intellectual Tradition, Science & Philosophy",
+      "topics": ["Canon", "Aristotle", "Metaphysics", "Natural science"]
+    },
+    {
+      "id": "IH-10",
+      "title": "Sack of Baghdad (1258): End of Classical Abbasid Era",
+      "content": "Key turning point: Hulagu's siege, execution of al-Musta'sim, cultural devastation; frequently paired with causation and consequences for Islamic heartlands.",
+      "keyTakeaways": [
+        "Date and actors; Il-Khanate formation in Iran.",
+        "Intellectual & demographic shock; shift of centers (e.g., Cairo).",
+        "Use primary/secondary synthesis; avoid inflated casualty claims."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Later Abbasids & 1258",
+          "url": "https://www.britannica.com/place/Iraq/The-later-Abbasids-1152-1258",
+          "type": "article",
+          "description": "Event narrative"
+        },
+        {
+          "title": "Britannica — Hülegü",
+          "url": "https://www.britannica.com/biography/Hulegu",
+          "type": "article",
+          "description": "Profile & campaigns"
+        },
+        {
+          "title": "History Today — Baghdad Sacked",
+          "url": "https://www.historytoday.com/archive/months-past/baghdad-sacked-mongols",
+          "type": "article",
+          "description": "Readable overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Abbasid Caliphate & Golden Age",
+      "topics": ["Hulagu", "Il-Khanate", "Cultural loss"]
+    },
+    {
+      "id": "IH-11",
+      "title": "Conquest of Iberia (711) & Rise of al-Andalus",
+      "content": "Tāriq ibn Ziyād and Mūsā ibn Nuṣayr; exam ask for motives, rapid advance, administrative settlement, and cultural consequences.",
+      "keyTakeaways": [
+        "From entry at Gibraltar to consolidation under Umayyads of Córdoba.",
+        "Early convivencia patterns and frontier dynamics.",
+        "Set up for Emirate/Caliphate of Córdoba themes."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Tāriq ibn Ziyād",
+          "url": "https://www.britannica.com/biography/Tariq-ibn-Ziyad",
+          "type": "article",
+          "description": "Leader of 711 invasion"
+        },
+        {
+          "title": "Britannica — Al-Andalus overview",
+          "url": "https://www.britannica.com/place/al-Andalus",
+          "type": "article",
+          "description": "Political/cultural trajectory"
+        }
+      ],
+      "importance": "high",
+      "category": "Muslim Spain (Al-Andalus)",
+      "topics": ["711", "Gibraltar", "Umayyads of Córdoba"]
+    },
+    {
+      "id": "IH-12",
+      "title": "Córdoba & Granada: Architecture & Urban Culture",
+      "content": "Mosque–Cathedral of Córdoba and the Alhambra as case studies in Islamic art, politics of heritage, and aesthetics.",
+      "keyTakeaways": [
+        "Know phases of expansion (Córdoba) and Nasrid program (Alhambra).",
+        "UNESCO status and heritage debates (contested memory).",
+        "Use architectural vocabulary (hypostyle, muqarnas, epigraphy)."
+      ],
+      "resources": [
+        {
+          "title": "UNESCO — Alhambra, Generalife & Albayzín",
+          "url": "https://whc.unesco.org/en/list/314/",
+          "type": "heritage",
+          "description": "Official inscription"
+        },
+        {
+          "title": "UNESCO Atlas — Historic Centre of Córdoba (site info)",
+          "url": "https://whc.unesco.org/en/urban-heritage-atlas/cordoba/",
+          "type": "heritage",
+          "description": "Site context"
+        },
+        {
+          "title": "Contested heritage study (2023)",
+          "url": "https://inventculture.eu/wp-content/uploads/2023/10/ES_Case-study_Cordoba_Mosque.pdf",
+          "type": "paper",
+          "description": "Heritage politics & memory"
+        }
+      ],
+      "importance": "high",
+      "category": "Art, Architecture & Material Culture",
+      "topics": ["Córdoba", "Alhambra", "UNESCO", "Muqarnas"]
+    },
+    {
+      "id": "IH-13",
+      "title": "Taifas & Decline of Muslim Spain",
+      "content": "Fragmentation (Mulūk al-Ṭawā'if), Almoravids/Almohads, and Reconquista pressures; exams test chains of causation to 1492.",
+      "keyTakeaways": [
+        "Taifa politics invited external intervention and Christian advances.",
+        "Military vs. fiscal strains; social fragmentation.",
+        "Anchor with dates, rulers, and key battles (e.g., Las Navas, 1212)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ṭā'ifa Kingdoms",
+          "url": "https://www.britannica.com/topic/taifa",
+          "type": "article",
+          "description": "Overview of party kingdoms"
+        },
+        {
+          "title": "Britannica — Reconquista",
+          "url": "https://www.britannica.com/event/Reconquista",
+          "type": "article",
+          "description": "Long arc & key milestones"
+        }
+      ],
+      "importance": "medium",
+      "category": "Muslim Spain (Al-Andalus)",
+      "topics": ["Taifas", "Almoravids", "Almohads", "Reconquista"]
+    },
+    {
+      "id": "IH-14",
+      "title": "Ottomans: Süleyman the Magnificent (r. 1520–66)",
+      "content": "Empire at zenith; legislation (Qānūn), military expansion, and imperial culture; common compare/contrast with earlier caliphates.",
+      "keyTakeaways": [
+        "Kanuni's legal codification and administrative sophistication.",
+        "Balanced central authority with provincial governance.",
+        "Patronage of arts/architecture (Sinan)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Suleiman the Magnificent",
+          "url": "https://www.britannica.com/biography/Suleyman-the-Magnificent",
+          "type": "article",
+          "description": "Profile & policies"
+        }
+      ],
+      "importance": "high",
+      "category": "Ottoman Empire",
+      "topics": ["Kanun", "Expansion", "Sinan"]
+    },
+    {
+      "id": "IH-15",
+      "title": "Tanzimat Reforms (1839–76): Modernization & Centralization",
+      "content": "Key edicts (Gülhane, Hatt-ı Hümāyūn), legal equality, bureaucratic reform; often linked to debates on 'decline' vs. transformation.",
+      "keyTakeaways": [
+        "Aimed at legal rationalization and fiscal-military modernization.",
+        "Created new elites and educational institutions.",
+        "Set the stage for later constitutionalism."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Tanzimat",
+          "url": "https://www.britannica.com/event/Tanzimat",
+          "type": "article",
+          "description": "Reform sequence & content"
+        }
+      ],
+      "importance": "high",
+      "category": "Ottoman Empire",
+      "topics": ["Gülhane Edict", "Legal equality", "Reform"]
+    },
+    {
+      "id": "IH-16",
+      "title": "Fall of Constantinople (1453): Methods & Meaning",
+      "content": "Gunpowder siegecraft, naval blockade, and political ramifications; staple essay for Ottoman ascendancy.",
+      "keyTakeaways": [
+        "Artillery & strategy innovations under Mehmed II.",
+        "Shift in trade routes and prestige politics.",
+        "Use reliable maps/diagrams for siege narratives."
+      ],
+      "resources": [
+        {
+          "title": "YouTube — Kings & Generals documentary",
+          "url": "https://www.youtube.com/watch?v=vAlZ1v1ArVg",
+          "type": "video",
+          "description": "Animated operational overview"
+        },
+        {
+          "title": "Britannica — Fall of Constantinople",
+          "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+          "type": "article",
+          "description": "Reference summary"
+        }
+      ],
+      "importance": "high",
+      "category": "Ottoman Empire",
+      "topics": ["Mehmed II", "Siegecraft", "Artillery"]
+    },
+    {
+      "id": "IH-17",
+      "title": "Crusades: Contacts, Conflict & Consequences",
+      "content": "Beyond battles, exams probe economic/cultural exchanges, military orders, and impacts on both Europe and the Muslim world.",
+      "keyTakeaways": [
+        "Pilgrimage-war nexus and papal authority.",
+        "Trade/knowledge flows and military innovations.",
+        "Avoid one-sided narratives; present balanced causation."
+      ],
+      "resources": [
+        {
+          "title": "CrashCourse — The Crusades",
+          "url": "https://www.youtube.com/watch?v=X0zudTQelzI",
+          "type": "video",
+          "description": "Concise overview"
+        },
+        {
+          "title": "Britannica — Crusades",
+          "url": "https://www.britannica.com/event/Crusades",
+          "type": "article",
+          "description": "Deep reference (use sub-articles)"
+        }
+      ],
+      "importance": "high",
+      "category": "Key Battles & Treaties",
+      "topics": ["Pilgrimage", "Military orders", "Trade"]
+    },
+    {
+      "id": "IH-18",
+      "title": "Sufism & the Subcontinent: Spread & Social Embedment",
+      "content": "Role of Chishtis and other orders in urban/rural networks; exams emphasize method (langar, khānqāh), vernaculars, and inclusive ethics.",
+      "keyTakeaways": [
+        "Trade routes + Sufi lodges = durable conversion networks.",
+        "Accommodation of local idioms and social service.",
+        "Use case studies (e.g., Delhi/Deccan)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Sufism overview",
+          "url": "https://www.britannica.com/topic/Sufism",
+          "type": "article",
+          "description": "Concept & orders"
+        },
+        {
+          "title": "Britannica — Chishtī Order",
+          "url": "https://www.britannica.com/topic/Chishti",
+          "type": "article",
+          "description": "South Asian focus"
+        }
+      ],
+      "importance": "high",
+      "category": "Sufism & the Subcontinent",
+      "topics": ["Chishti", "Langar", "Khanqah", "Vernaculars"]
+    },
+    {
+      "id": "IH-19",
+      "title": "Jamāl al-Dīn al-Afghānī & Muḥammad ʿAbduh: Modern Reform",
+      "content": "Pan-Islamism, ijtihād vs. taqlīd, and educational/juridical reform; often asked to connect to colonial context and later movements.",
+      "keyTakeaways": [
+        "Afghānī's political mobilization and critique of imperialism.",
+        "ʿAbduh's legal-theological reform and Al-Azhar influence.",
+        "Trace influence on Riḍā and 20th-century reformist currents."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Jamāl al-Dīn al-Afghānī",
+          "url": "https://www.britannica.com/biography/Jamal-al-Din-al-Afghani",
+          "type": "article",
+          "description": "Biography & ideas"
+        },
+        {
+          "title": "Britannica — Muḥammad ʿAbduh",
+          "url": "https://www.britannica.com/biography/Muhammad-Abduh",
+          "type": "article",
+          "description": "Reform agenda"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Reformers & Contemporary Relevance",
+      "topics": ["Pan-Islamism", "Ijtihād", "Education", "Law reform"]
+    },
+    {
+      "id": "IH-20",
+      "title": "Ottoman 'Decline' Debates & Comparative Frames",
+      "content": "Causes attributed to fiscal strain, military lag, provincial autonomy, and European pressures; avoid 'decline' teleology—use nuanced periodization.",
+      "keyTakeaways": [
+        "Pair administrative reforms with structural constraints.",
+        "Consider world-system shifts and technology gaps.",
+        "Compare with Safavid/Mughal contemporaries where relevant."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ottoman Empire (late period & causes)",
+          "url": "https://www.britannica.com/place/Ottoman-Empire",
+          "type": "article",
+          "description": "Synthesis entry"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ottoman Empire",
+      "topics": ["Fiscal-military state", "Peripheralization", "Reform"]
+    },
+    {
+      "id": "IH-21",
+      "title": "Muslim Spain's Transmission to Europe",
+      "content": "From translation schools (Toledo) to agricultural/technological diffusion; exam favorites: medicine, philosophy, optics, and numerals.",
+      "keyTakeaways": [
+        "Routes of transmission: translation, trade, scholars' travel.",
+        "Case names: Ibn Rushd to Aquinas; Ibn al-Haytham's optics.",
+        "Argument structure: evidence of influence vs. parallel development."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — History of Spain (Medieval; Al-Andalus)",
+          "url": "https://www.britannica.com/place/Spain/Medieval-Spain",
+          "type": "article",
+          "description": "Context for knowledge transfer"
+        }
+      ],
+      "importance": "medium",
+      "category": "Muslim Spain (Al-Andalus)",
+      "topics": ["Toledo school", "Optics", "Translation"]
+    },
+    {
+      "id": "IH-22",
+      "title": "Key MCQs: Geography, Dates & Symbols",
+      "content": "High-frequency facts: Baghdad on the Tigris; Badr (624 CE); Abbasid black banners; Umayyad capital at Damascus; Qubāʾ as first mosque.",
+      "keyTakeaways": [
+        "Memorize city-river pairs and dynasty capitals.",
+        "Associate banners/colors with dynasties (e.g., Abbasid black).",
+        "Keep a one-page 'dates & places' crib."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Baghdad (location)",
+          "url": "https://www.britannica.com/place/Baghdad",
+          "type": "article",
+          "description": "On the Tigris; regional geography"
+        },
+        {
+          "title": "Britannica — Tigris-Euphrates system",
+          "url": "https://www.britannica.com/place/Tigris-Euphrates-river-system",
+          "type": "article",
+          "description": "Proximity facts"
+        },
+        {
+          "title": "Britannica — Iraq (Abbasid revolution & black banners)",
+          "url": "https://www.britannica.com/place/Iraq/The-Abbasid-Caliphate",
+          "type": "article",
+          "description": "Black banners note"
+        },
+        {
+          "title": "Qubāʾ Mosque overview",
+          "url": "https://en.wikipedia.org/wiki/Quba_Mosque",
+          "type": "article",
+          "description": "First mosque tradition"
+        }
+      ],
+      "importance": "high",
+      "category": "High-Yield MCQs & Factual Recall",
+      "topics": ["Rivers", "Dates", "Dynastic colors", "Capitals"]
+    },
+    {
+      "id": "IH-23",
+      "title": "Administrative Comparisons: Umayyad vs Abbasid vs Ottoman",
+      "content": "For long essays, structure around revenue systems, provincial control, law/courts, military, and ideological legitimation.",
+      "keyTakeaways": [
+        "Define metrics first, then compare consistently.",
+        "Note continuity (diwan) and innovation (Ottoman kanun).",
+        "Use 2–3 concrete policy examples per dynasty."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Umayyad dynasty",
+          "url": "https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history",
+          "type": "article",
+          "description": "Administrative basics"
+        },
+        {
+          "title": "Britannica — Abbasid caliphate",
+          "url": "https://www.britannica.com/topic/Abbasid-caliphate",
+          "type": "article",
+          "description": "Institutions & shifts"
+        },
+        {
+          "title": "Britannica — Ottoman Empire",
+          "url": "https://www.britannica.com/place/Ottoman-Empire",
+          "type": "article",
+          "description": "Kanun & centralization"
+        }
+      ],
+      "importance": "high",
+      "category": "Comparatives",
+      "topics": ["Revenue", "Provincial control", "Law", "Military"]
+    },
+    {
+      "id": "IH-24",
+      "title": "Treaty of Ḥudaybiyyah in Qur'anic Exegesis & Later Politics",
+      "content": "Pivot to show how 'manifest victory' (al-Fatḥ) frames later reconciliation politics; useful for contemporary analogies in essays.",
+      "keyTakeaways": [
+        "Cite exegetical readings & historical outcomes together.",
+        "Use as template for conflict settlement questions.",
+        "Ground in specific clauses to avoid generalities."
+      ],
+      "resources": [
+        {
+          "title": "RIS Journal — Truce of al-Hudaybiyyah",
+          "url": "https://ejournal.um.edu.my/index.php/RIS/article/download/15493/9269/30635",
+          "type": "paper",
+          "description": "Qur'an framing & victory"
+        },
+        {
+          "title": "Peer-reviewed (2023) — Hudaybiyyah readings",
+          "url": "https://www.mdpi.com/2077-1444/14/5/666",
+          "type": "paper",
+          "description": "Peacemaking lens"
+        }
+      ],
+      "importance": "medium",
+      "category": "Key Battles & Treaties",
+      "topics": ["Exegesis", "Peace", "Strategy"]
+    },
+    {
+      "id": "IH-25",
+      "title": "Al-Andalus: Documentary & Lecture Picks (Exam-friendly)",
+      "content": "Use curated videos for rapid visual recall of timelines, rulers, and monuments; always cross-check with a text source.",
+      "keyTakeaways": [
+        "Pair each video with at least one encyclopedia entry.",
+        "Extract 5–7 visual memory hooks (maps/art).",
+        "Make a one-page Al-Andalus timeline."
+      ],
+      "resources": [
+        {
+          "title": "AJ — Lessons from the Golden Era of Andalusia",
+          "url": "https://www.youtube.com/watch?v=GGotnIfQaQg",
+          "type": "video",
+          "description": "Narrative overview"
+        },
+        {
+          "title": "City focus — Córdoba documentary",
+          "url": "https://www.youtube.com/watch?v=kwtn0OD1aYU",
+          "type": "video",
+          "description": "Urban history of Córdoba"
+        },
+        {
+          "title": "UNESCO — Alhambra site page",
+          "url": "https://whc.unesco.org/en/list/314/",
+          "type": "heritage",
+          "description": "Authoritative site context"
+        }
+      ],
+      "importance": "medium",
+      "category": "Muslim Spain (Al-Andalus)",
+      "topics": ["Documentaries", "Timelines", "Visual recall"]
+    },
+    {
+      "id": "IH-26",
+      "title": "Ottoman Military & Legal Synthesis",
+      "content": "How shari'a (courts, muftis) coexisted with sultanic kanun; exam questions often ask for this duality and its administrative expression.",
+      "keyTakeaways": [
+        "Hierarchies: şeyhülislâm, qadis, provincial judges.",
+        "Kanun addressed taxation, land, and criminal matters.",
+        "Süleyman's codification as a peak example."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Suleiman (legal aspects)",
+          "url": "https://www.britannica.com/biography/Suleyman-the-Magnificent",
+          "type": "article",
+          "description": "Kanun & courts"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ottoman Empire",
+      "topics": ["Kanun", "Qadi", "Şeyhülislâm"]
+    },
+    {
+      "id": "IH-27",
+      "title": "CrashCourse & Survey Videos for Rapid Revision",
+      "content": "Use short videos to refresh big arcs before essays; follow up with reading for citations.",
+      "keyTakeaways": [
+        "Don't quote videos; extract structure and key names/dates.",
+        "Build 10-bullet 'storyline' for each era.",
+        "Rehearse out loud for timing."
+      ],
+      "resources": [
+        {
+          "title": "CrashCourse — Islam overview",
+          "url": "https://www.youtube.com/watch?v=TpcbfxtdoI8",
+          "type": "video",
+          "description": "Foundational sweep"
+        },
+        {
+          "title": "CrashCourse — Islam & Politics",
+          "url": "https://www.youtube.com/watch?v=ka8csjsmX6I",
+          "type": "video",
+          "description": "Governance themes"
+        },
+        {
+          "title": "CrashCourse — Islamicate World (History of Science)",
+          "url": "https://www.youtube.com/watch?v=bkVsus8Ehxs",
+          "type": "video",
+          "description": "Knowledge-making focus"
+        }
+      ],
+      "importance": "low",
+      "category": "Modern Reformers & Contemporary Relevance",
+      "topics": ["Survey", "Revision", "Storyline"]
+    },
+    {
+      "id": "IH-28",
+      "title": "Exam Writing Patterns: Compare/Contrast & Causation",
+      "content": "Common prompts: Treaty of Hudaybiyyah as statecraft; Umayyad vs Abbasid administration; reasons for Umayyad downfall; impact of Crusades; Ottoman decline vs reform.",
+      "keyTakeaways": [
+        "Always define terms & frame a thesis in first paragraph.",
+        "Use timelines, maps, and 3–4 evidence clusters per body section.",
+        "Close with 'significance' paragraph linking past to present."
+      ],
+      "resources": [
+        {
+          "title": "Reference spine — Britannica (topic hub)",
+          "url": "https://www.britannica.com",
+          "type": "reference",
+          "description": "Citeable starter for most topics"
+        }
+      ],
+      "importance": "high",
+      "category": "High-Yield MCQs & Factual Recall",
+      "topics": ["Essay structure", "Thesis", "Evidence clusters"]
+    }
+  ]
+}

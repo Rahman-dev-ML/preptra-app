@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T20:09:51.270Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "fde489ff52b6ccd820395182b15b2e6e0e042f86",
+      "sectionIndex": 0,
+      "question": "Who is known as \"Baba\" in Pashto literature?",
+      "options": [
+        "A) Khushal Khan Khattak",
+        "B) Rahman Baba",
+        "C) Hamza Baba",
+        "D) Qadir Khan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79f1330afc52737afab3244e82afa7af29231bb8",
+      "sectionIndex": 0,
+      "question": "Khushal Khan Khattak is famously known as the:",
+      "options": [
+        "A) Father of Pashto prose",
+        "B) Father of Pashto poetry",
+        "C) Father of Pashto drama",
+        "D) Father of Pashto language and literature"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "574419016f829a134c836723c1ea2e157f1ef3e1",
+      "sectionIndex": 0,
+      "question": "Rahman Baba's poetry is primarily known for its:",
+      "options": [
+        "A) War themes",
+        "B) Ethical and spiritual teachings",
+        "C) Romantic themes",
+        "D) Political commentary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bb2fc38752f9cfb6e81f68264147a6651b6b2e9",
+      "sectionIndex": 0,
+      "question": "Hamza Baba is a famous poet of which century?",
+      "options": [
+        "A) 17th century",
+        "B) 18th century",
+        "C) 19th century",
+        "D) 20th century"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "bc6415774e80893d16fe4d8551a5e0cac707894a",
+      "sectionIndex": 0,
+      "question": "Ghani Khan is known for his:",
+      "options": [
+        "A) Religious poetry only",
+        "B) War poetry only",
+        "C) Philosophical and romantic poetry",
+        "D) Children's poetry"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2d6e6a1e42b390f8df18d04842e124f80dee7af2",
+      "sectionIndex": 0,
+      "question": "Bayazid Ansari is also known as:",
+      "options": [
+        "A) Pir Baba",
+        "B) Pir Roshan",
+        "C) Shah Baba",
+        "D) Sultan Baba"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b103b78301656443c09ff2b7af2e6d66b7d849cc",
+      "sectionIndex": 0,
+      "question": "The Roshaniya movement was started by:",
+      "options": [
+        "A) Khushal Khan Khattak",
+        "B) Akhund Darweza",
+        "C) Bayazid Ansari",
+        "D) Rahman Baba"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a53074f5a6109d2397e219f200f98830453f5747",
+      "sectionIndex": 0,
+      "question": "Hameed Baba is famous for his:",
+      "options": [
+        "A) Prose writing",
+        "B) Ghazals with delicate emotions",
+        "C) War poetry",
+        "D) Drama writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fbda3053c933b2d1f760ca3dbb2d159f6ee80c6",
+      "sectionIndex": 0,
+      "question": "Ali Khan is known in classical Pashto poetry for:",
+      "options": [
+        "A) His unique style",
+        "B) Translating foreign works",
+        "C) Writing dramas",
+        "D) Historical accounts"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7dd9433d6a62de52aa0211987ec912bbab1192ee",
+      "sectionIndex": 0,
+      "question": "Kazim Khan Shaida was a prominent:",
+      "options": [
+        "A) 18th century poet",
+        "B) 19th century poet",
+        "C) 20th century poet",
+        "D) 21st century poet"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1f5fc26427dd73a2eab7803f3c3b88ab9a0fcf0f",
+      "sectionIndex": 1,
+      "question": "What is a Ghazal?",
+      "options": [
+        "A) A long narrative poem",
+        "B) A form of lyrical poetry",
+        "C) A type of prose",
+        "D) A dramatic form"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d41b2dcbebfc7af4c994efea929f96c48221d6d9",
+      "sectionIndex": 1,
+      "question": "Qasida is a form of:",
+      "options": [
+        "A) Short story",
+        "B) Drama",
+        "C) Long poem",
+        "D) Novel"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "efcbf267b51e5b42035a50128016a9a196bae207",
+      "sectionIndex": 1,
+      "question": "Rubai consists of how many lines?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5437f9e67761f8a641e9462e7cf3a925b2c58fe6",
+      "sectionIndex": 1,
+      "question": "Charbetta in Pashto poetry refers to:",
+      "options": [
+        "A) Two-line verses",
+        "B) Three-line verses",
+        "C) Four-line verses",
+        "D) Five-line verses"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9bcbc843847c8ab410cdcf2b2924fd5ef8cead46",
+      "sectionIndex": 1,
+      "question": "What is \"Tappa\" in Pashto literature?",
+      "options": [
+        "A) A long poem",
+        "B) A short folk song",
+        "C) A type of novel",
+        "D) A drama form"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "009e65af5cc380a7a10ced5ecc22a4fe5d636b03",
+      "sectionIndex": 1,
+      "question": "\"Badala\" in Pashto folk literature is:",
+      "options": [
+        "A) A wedding song",
+        "B) A song of revenge/retaliation",
+        "C) A lullaby",
+        "D) A religious hymn"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79be5dcd49252d34ed8b79448daf425a2db4d751",
+      "sectionIndex": 1,
+      "question": "\"Loba\" refers to:",
+      "options": [
+        "A) Folk games",
+        "B) Folk tales",
+        "C) Folk songs",
+        "D) Folk dances"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "27fad86e6c066d6dc6918332564268bf737d7f7a",
+      "sectionIndex": 1,
+      "question": "A \"Nawal\" (Novel) in Pashto is a:",
+      "options": [
+        "A) Short story",
+        "B) Long fictional narrative",
+        "C) Poetry collection",
+        "D) Historical account"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c394da3a3e229ea18399638c1857bb9f3357d75c",
+      "sectionIndex": 1,
+      "question": "\"Afsana\" in Pashto literature means:",
+      "options": [
+        "A) Poetry",
+        "B) Drama",
+        "C) Short story",
+        "D) Essay"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "13fffd3bb0f363ee5265c9a017534853d67401cf",
+      "sectionIndex": 1,
+      "question": "\"Safarnama\" is a:",
+      "options": [
+        "A) Love story",
+        "B) War account",
+        "C) Travelogue",
+        "D) Biography"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "503707bcad75aa4ea800387f7c914afa6c5748eb",
+      "sectionIndex": 2,
+      "question": "The Roshaniya movement was primarily a:",
+      "options": [
+        "A) Literary movement only",
+        "B) Political movement only",
+        "C) Religious-cum-political movement",
+        "D) Economic movement"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aecefa40035b6c0c9738e3f4dc0ccad8672d993d",
+      "sectionIndex": 2,
+      "question": "Akhund Darweza was known for opposing:",
+      "options": [
+        "A) Rahman Baba",
+        "B) Bayazid Ansari",
+        "C) Khushal Khan",
+        "D) Hamza Baba"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1b169fd985dd48f0e428f6602aaf222ea80b257",
+      "sectionIndex": 2,
+      "question": "The Roshaniya movement influenced:",
+      "options": [
+        "A) Only religion",
+        "B) Only politics",
+        "C) Pashto language and literature",
+        "D) Only economics"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b68f936a97f465480ea827550c66666cdfe96bcb",
+      "sectionIndex": 2,
+      "question": "Which Mughal emperor had conflicts with Khushal Khan Khattak?",
+      "options": [
+        "A) Akbar",
+        "B) Jahangir",
+        "C) Shah Jahan",
+        "D) Aurangzeb"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6ad9d214ec5a4134c7b7a8af58937eaf88c116a8",
+      "sectionIndex": 2,
+      "question": "Sher Shah Suri's period is known for:",
+      "options": [
+        "A) Literary decline",
+        "B) Administrative reforms",
+        "C) Religious conflicts",
+        "D) Cultural stagnation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ce33edbc1993cdd55c409f5b877ad921578eb95",
+      "sectionIndex": 2,
+      "question": "Modern Pashto literature began developing significantly in the:",
+      "options": [
+        "A) 16th century",
+        "B) 17th century",
+        "C) 18th century",
+        "D) 20th century"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "18be63b735cad5f026b2590f5ca07e171521bd6c",
+      "sectionIndex": 2,
+      "question": "The book \"Man and God\" (1976) featured letters between:",
+      "options": [
+        "A) Rahman Baba and Khushal Khan",
+        "B) Hamza Shinwari and Jafar Achakzai",
+        "C) Ghani Khan and Hameed Baba",
+        "D) Bayazid Ansari and Darweza"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0090699a94ba63843011485dd22a7c9ac0b2c672",
+      "sectionIndex": 2,
+      "question": "Pashto drama emerged as a response to:",
+      "options": [
+        "A) Religious needs",
+        "B) Educational requirements",
+        "C) Political circumstances",
+        "D) Economic factors"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "361a4a79cc1610ca672b7556d626c352703aa0b7",
+      "sectionIndex": 2,
+      "question": "Critical literature in Pashto began developing:",
+      "options": [
+        "A) In ancient times",
+        "B) In medieval period",
+        "C) In modern times",
+        "D) Has not developed yet"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "47704e01d17c95c6d3ea2fe33e2bbec941e11507",
+      "sectionIndex": 2,
+      "question": "Orientalists contributed to Pashto by:",
+      "options": [
+        "A) Destroying manuscripts",
+        "B) Research and documentation",
+        "C) Preventing its growth",
+        "D) Ignoring it completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "111ede382a6d1800462decead464f94697862f55",
+      "sectionIndex": 3,
+      "question": "Literary translation requires understanding of:",
+      "options": [
+        "A) Only source language",
+        "B) Only target language",
+        "C) Both source and target cultures",
+        "D) Only grammar"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b90cd93c4b4bfdf7f8288cfbc8463eeb54308d36",
+      "sectionIndex": 3,
+      "question": "Proverbs are important because they:",
+      "options": [
+        "A) Are easy to translate",
+        "B) Reflect cultural wisdom",
+        "C) Have no meaning",
+        "D) Are modern inventions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "672dd8c85b66e7d44bed7278a7f9059186397451",
+      "sectionIndex": 3,
+      "question": "\"To cast pearls before swine\" means:",
+      "options": [
+        "A) Feeding animals",
+        "B) Wasting valuable things on those who don't appreciate them",
+        "C) Making jewelry",
+        "D) Farming practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9951ccec8f089a3be59cba205171850e38389ad5",
+      "sectionIndex": 3,
+      "question": "Translation of poetry is challenging because of:",
+      "options": [
+        "A) Word count",
+        "B) Rhythm, meter, and cultural context",
+        "C) Simple vocabulary",
+        "D) Short length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0fc8996b730298b30a92db53138f2ccff9b42cd",
+      "sectionIndex": 3,
+      "question": "Standard Pashto refers to:",
+      "options": [
+        "A) Ancient Pashto",
+        "B) Formal, literary Pashto",
+        "C) Spoken dialects only",
+        "D) Mixed languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "119007c3a1025ea4f37ac7eec97e427785056950",
+      "sectionIndex": 3,
+      "question": "Idiomatic expressions:",
+      "options": [
+        "A) Translate word-for-word easily",
+        "B) Require cultural understanding",
+        "C) Have no importance",
+        "D) Are same in all languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c3b1b2003c14e5fa58877eeed094683c23e6855",
+      "sectionIndex": 3,
+      "question": "The purpose of literary translation is to:",
+      "options": [
+        "A) Change the original meaning",
+        "B) Convey meaning and style across languages",
+        "C) Show language superiority",
+        "D) Create new stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c5f74c21e09b02b812640406699784621a37d2c",
+      "sectionIndex": 3,
+      "question": "Proverbs in Pashto culture serve to:",
+      "options": [
+        "A) Entertain only",
+        "B) Preserve wisdom and values",
+        "C) Confuse people",
+        "D) Show off knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a82178253986fa233d9ff11a1f9df146b4d428c",
+      "sectionIndex": 3,
+      "question": "Translation involves:",
+      "options": [
+        "A) Only linguistic skills",
+        "B) Cultural and contextual knowledge",
+        "C) Dictionary use only",
+        "D) Word replacement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a52c638014edb9edf01915d6e95687de5172e4c2",
+      "sectionIndex": 3,
+      "question": "Metaphors in translation:",
+      "options": [
+        "A) Always translate directly",
+        "B) Often need cultural adaptation",
+        "C) Should be removed",
+        "D) Have no significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7b6e58c2ce6aa6f3698af846fafc974e0e59a97",
+      "sectionIndex": 4,
+      "question": "Pashtunwali refers to:",
+      "options": [
+        "A) Pashto language",
+        "B) Pashtun tribal code",
+        "C) Pashto literature",
+        "D) Pashtun food"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe9f8f91fc1d42e023e05c40f03578e051738307",
+      "sectionIndex": 4,
+      "question": "Folk literature includes:",
+      "options": [
+        "A) Only written texts",
+        "B) Oral traditions and stories",
+        "C) Only modern works",
+        "D) Foreign literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3262c083c0b62133ebd6adc36a3ef8d99564900d",
+      "sectionIndex": 4,
+      "question": "\"Aulasi Adab\" means:",
+      "options": [
+        "A) Classical literature",
+        "B) Folk/Popular literature",
+        "C) Modern literature",
+        "D) Foreign literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af4078e07e736d1e120033354fc4b9531d74d0a7",
+      "sectionIndex": 4,
+      "question": "Pashto proverbs are called:",
+      "options": [
+        "A) Shair",
+        "B) Mataloona",
+        "C) Ghazal",
+        "D) Qasida"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c1ba1827f00bfad46b18567f404de8fd30cb13c",
+      "sectionIndex": 4,
+      "question": "Folk tales serve to:",
+      "options": [
+        "A) Only entertain children",
+        "B) Preserve cultural values and history",
+        "C) Waste time",
+        "D) Copy other cultures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26773dd39880878b55ffd7b627daaa70a6c829dc",
+      "sectionIndex": 4,
+      "question": "The oral tradition in Pashto:",
+      "options": [
+        "A) Is unimportant",
+        "B) Preserves ancient wisdom",
+        "C) Has disappeared",
+        "D) Never existed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d64028b77482fd909fe2674a10870462cc84568a",
+      "sectionIndex": 4,
+      "question": "Folk songs often relate to:",
+      "options": [
+        "A) Only entertainment",
+        "B) Life events and social occasions",
+        "C) Foreign themes",
+        "D) Modern technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8faa9f725b9ed02a234047f4cd4071351024238f",
+      "sectionIndex": 4,
+      "question": "Traditional Pashto stories often feature:",
+      "options": [
+        "A) Only kings",
+        "B) Common people and their wisdom",
+        "C) Only animals",
+        "D) Science fiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a54ace5bf284aabd0793bf49f7c21ac4f007abd9",
+      "sectionIndex": 4,
+      "question": "Folk literature is important for understanding:",
+      "options": [
+        "A) Only language",
+        "B) Cultural identity and values",
+        "C) Grammar rules",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1052c951ca53cdb483b2ecd166b7d742010298ec",
+      "sectionIndex": 4,
+      "question": "Oral narratives in Pashto:",
+      "options": [
+        "A) Have no structure",
+        "B) Follow traditional patterns",
+        "C) Are random",
+        "D) Copy written forms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54310909b9660b8a9e8f1cd0404cba3c5c8b06bd",
+      "sectionIndex": 5,
+      "question": "The purpose of literature is to:",
+      "options": [
+        "A) Only entertain",
+        "B) Reflect and shape society",
+        "C) Make money",
+        "D) Show off"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4294978a9b5f3474d48dcf116f2f7844adb70a8",
+      "sectionIndex": 5,
+      "question": "Poetry differs from prose in:",
+      "options": [
+        "A) Length only",
+        "B) Structure, rhythm, and form",
+        "C) Topic only",
+        "D) Language used"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf731528922a6bc944983e3b5245901176e85889",
+      "sectionIndex": 5,
+      "question": "A literary critic:",
+      "options": [
+        "A) Only finds faults",
+        "B) Analyzes and evaluates literature",
+        "C) Writes poetry",
+        "D) Translates works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43f4251f0e6cea4f703bf63b327ba7cb267f9d4e",
+      "sectionIndex": 5,
+      "question": "Theme in literature refers to:",
+      "options": [
+        "A) The plot",
+        "B) The central idea or message",
+        "C) The characters",
+        "D) The setting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a163a15eaa37937fb54e9476e13786f26bbbdc0",
+      "sectionIndex": 5,
+      "question": "Literary language is often:",
+      "options": [
+        "A) Simple only",
+        "B) Rich in imagery and metaphor",
+        "C) Technical only",
+        "D) Foreign words only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cd74b908f365e3085fd89f4d0ce325d4039b9de",
+      "sectionIndex": 5,
+      "question": "Character development means:",
+      "options": [
+        "A) Drawing pictures",
+        "B) How characters change in a story",
+        "C) Naming characters",
+        "D) Counting characters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f338ca1a9a464b6b4eaed7e81ce3f43e8b325ff",
+      "sectionIndex": 5,
+      "question": "Setting in literature refers to:",
+      "options": [
+        "A) Only place",
+        "B) Time and place of the story",
+        "C) Only time",
+        "D) Book design"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f8d66c9f4d634078dd2f8e0be441d38b9fa3353",
+      "sectionIndex": 5,
+      "question": "Conflict in stories creates:",
+      "options": [
+        "A) Problems only",
+        "B) Interest and plot development",
+        "C) Confusion",
+        "D) Bad writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ce980f57fde95de153326ace115db14fc1a6761",
+      "sectionIndex": 5,
+      "question": "Symbolism uses:",
+      "options": [
+        "A) Direct statements",
+        "B) Objects/actions to represent ideas",
+        "C) Numbers only",
+        "D) Foreign words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b42a89cfc571b101cad8a5620a367daf95fb897b",
+      "sectionIndex": 5,
+      "question": "Narrative voice refers to:",
+      "options": [
+        "A) Loud speaking",
+        "B) Who tells the story",
+        "C) Sound effects",
+        "D) Music"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ce44e6dfd7e68c22bee9d0ca343242b3bb97949",
+      "sectionIndex": 6,
+      "question": "One theory suggests Pashtuns are descendants of:",
+      "options": [
+        "A) Arabs",
+        "B) Bani Israel",
+        "C) Chinese",
+        "D) Europeans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a1a6a0c0b08253278451e8b0c9037bec3ef2367",
+      "sectionIndex": 6,
+      "question": "Another theory claims Pashtuns are:",
+      "options": [
+        "A) Aryans",
+        "B) Africans",
+        "C) Americans",
+        "D) Australians"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4d7013b3b99a2eaad3476f523286c06b61c0991a",
+      "sectionIndex": 6,
+      "question": "Pashtun society is traditionally:",
+      "options": [
+        "A) Matriarchal",
+        "B) Tribal",
+        "C) Communist",
+        "D) Anarchist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "870d1fdbff236bd14e5afbee8618c2f22e3600a0",
+      "sectionIndex": 6,
+      "question": "The Pashtun homeland is primarily in:",
+      "options": [
+        "A) India only",
+        "B) Afghanistan and Pakistan",
+        "C) Iran only",
+        "D) Central Asia only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c5018588b5a3367ea66d58ed22b0990524f40f4",
+      "sectionIndex": 6,
+      "question": "Pashto language belongs to:",
+      "options": [
+        "A) Semitic family",
+        "B) Indo-European family",
+        "C) Sino-Tibetan family",
+        "D) African languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a019bbdd2a283ea6a043153c8101f0288a46c2d",
+      "sectionIndex": 6,
+      "question": "Pashtun culture emphasizes:",
+      "options": [
+        "A) Dishonor",
+        "B) Honor and hospitality",
+        "C) Isolation",
+        "D) Conflict only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "681319624768cd0069042707fbef3efed9a34860",
+      "sectionIndex": 6,
+      "question": "Traditional Pashtun society values:",
+      "options": [
+        "A) Only wealth",
+        "B) Courage, honor, and loyalty",
+        "C) Only education",
+        "D) Only power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc674d6afe89df882ad4c36a84bc44a334280c41",
+      "sectionIndex": 6,
+      "question": "Jirga in Pashtun society is:",
+      "options": [
+        "A) A dance",
+        "B) A tribal assembly",
+        "C) A food",
+        "D) A weapon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b356abe3263258d55b45aa8d2a3597d82d389146",
+      "sectionIndex": 6,
+      "question": "Pashtun oral history is preserved through:",
+      "options": [
+        "A) Books only",
+        "B) Stories, songs, and poetry",
+        "C) Videos",
+        "D) Paintings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ddf1277449dd1e94249df2458c8814a806dd35b",
+      "sectionIndex": 6,
+      "question": "The Pashtun belt extends across:",
+      "options": [
+        "A) One village",
+        "B) Afghanistan and Pakistan regions",
+        "C) All of Asia",
+        "D) Europe"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4192852748141d9c7d34ead49f42c3da8073b1e4",
+      "sectionIndex": 7,
+      "question": "Modern Pashto prose developed:",
+      "options": [
+        "A) In ancient times",
+        "B) In the 20th century",
+        "C) In medieval period",
+        "D) Has not developed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e6e1a1e50cbabddd11c896ce681361d3d9cf087",
+      "sectionIndex": 7,
+      "question": "Pashto journalism began:",
+      "options": [
+        "A) 500 years ago",
+        "B) In the modern period",
+        "C) In ancient times",
+        "D) Yesterday"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93fc9bfb5ed824fc45cfa945471a09e95750ec32",
+      "sectionIndex": 7,
+      "question": "Contemporary Pashto writers address:",
+      "options": [
+        "A) Only old themes",
+        "B) Modern social issues",
+        "C) Only romance",
+        "D) Only war"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d03388796c24a925c30ba714c39fbecb5a8a2433",
+      "sectionIndex": 7,
+      "question": "Women writers in Pashto:",
+      "options": [
+        "A) Don't exist",
+        "B) Are increasingly contributing",
+        "C) Only write poetry",
+        "D) Only translate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "087dfb4b93782523fbba3abb6e3692c49059c7d0",
+      "sectionIndex": 7,
+      "question": "Modern Pashto literature includes:",
+      "options": [
+        "A) Only poetry",
+        "B) All genres including novels and drama",
+        "C) Only folk tales",
+        "D) Only criticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "347317f33daae178ca108a3d03e2b5643582b908",
+      "sectionIndex": 7,
+      "question": "Research in Pashto literature:",
+      "options": [
+        "A) Is not important",
+        "B) Helps preserve and develop the language",
+        "C) Is banned",
+        "D) Is complete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d817c3b7c3d26133928b7ad29d837732bac2f15e",
+      "sectionIndex": 7,
+      "question": "Literary magazines in Pashto:",
+      "options": [
+        "A) Never existed",
+        "B) Promote new writing",
+        "C) Only publish old works",
+        "D) Are in English"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c49950a17b11e97dc87e9e3c007876be4afc15fc",
+      "sectionIndex": 7,
+      "question": "Modern themes in Pashto literature include:",
+      "options": [
+        "A) Only traditional topics",
+        "B) Contemporary social issues",
+        "C) Only historical events",
+        "D) Only religious topics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "966ceed7e68f4aae7a15ae0ce6cfc8429dc10bd3",
+      "sectionIndex": 7,
+      "question": "Translation into Pashto helps:",
+      "options": [
+        "A) Destroy the language",
+        "B) Enrich Pashto literature",
+        "C) Nothing",
+        "D) Only students"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8b18fed9c1226d7750619d3eb337f47a18bb479",
+      "sectionIndex": 7,
+      "question": "Digital media for Pashto:",
+      "options": [
+        "A) Is harmful",
+        "B) Provides new platforms",
+        "C) Doesn't exist",
+        "D) Is banned"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26228f9329037695352e1b1aabccb6d3b66d6e4e",
+      "sectionIndex": 8,
+      "question": "Analyzing poetry involves:",
+      "options": [
+        "A) Only counting words",
+        "B) Understanding meaning and form",
+        "C) Only rhyme",
+        "D) Only length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5d55f6fe0a95be8b0df9190610e6aab3805843c",
+      "sectionIndex": 8,
+      "question": "Literary comparison means:",
+      "options": [
+        "A) Finding only differences",
+        "B) Examining similarities and differences",
+        "C) Copying",
+        "D) Translating"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab2e35da7159b2744f975662c329d0f17b172845",
+      "sectionIndex": 8,
+      "question": "Context in literature includes:",
+      "options": [
+        "A) Only the text",
+        "B) Historical and cultural background",
+        "C) Only the author's name",
+        "D) Only the date"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b93e65ea99ccd8357a453ccd93595275bf9829c0",
+      "sectionIndex": 8,
+      "question": "Interpretation of literature:",
+      "options": [
+        "A) Has only one answer",
+        "B) Can vary based on perspective",
+        "C) Is not allowed",
+        "D) Is always wrong"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70794c61de064e17a3f00bd5033ca91fd6223b47",
+      "sectionIndex": 8,
+      "question": "Literary evidence includes:",
+      "options": [
+        "A) Guesses only",
+        "B) Quotes and examples from texts",
+        "C) Personal opinion only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c59bc740ae97c8207e3f8256dac8071c9642622",
+      "sectionIndex": 8,
+      "question": "Critical thinking in literature means:",
+      "options": [
+        "A) Being negative",
+        "B) Careful analysis and evaluation",
+        "C) Accepting everything",
+        "D) Rejecting everything"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc03bac4f8be70f88a93036cbeed12e86d973cdd",
+      "sectionIndex": 8,
+      "question": "Literary influence refers to:",
+      "options": [
+        "A) Money",
+        "B) How writers affect each other",
+        "C) Political power",
+        "D) Force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d819bef4d37ec5f64d30b111daee2243e9d5d39d",
+      "sectionIndex": 8,
+      "question": "Style in writing includes:",
+      "options": [
+        "A) Only handwriting",
+        "B) Word choice and sentence structure",
+        "C) Only spelling",
+        "D) Only punctuation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdef54ebede976466c82077a76be476c0637266c",
+      "sectionIndex": 8,
+      "question": "Tone in literature refers to:",
+      "options": [
+        "A) Musical notes",
+        "B) The author's attitude",
+        "C) Volume",
+        "D) Color"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60fa5736616afaa3570e939476523499fc8796c5",
+      "sectionIndex": 8,
+      "question": "Literary periods are:",
+      "options": [
+        "A) Random",
+        "B) Historical divisions of literature",
+        "C) Always 100 years",
+        "D) Unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73498c2ecd70f031954ad85dc075ee9e74a679ec",
+      "sectionIndex": 9,
+      "question": "Language preserves:",
+      "options": [
+        "A) Nothing",
+        "B) Cultural identity",
+        "C) Only sounds",
+        "D) Only writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58194bf98c33030f6a35a27672a13b75d5674cf6",
+      "sectionIndex": 9,
+      "question": "Dialects are:",
+      "options": [
+        "A) Wrong ways of speaking",
+        "B) Regional variations of a language",
+        "C) Foreign languages",
+        "D) Sign languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5abe7f8d216344b55784706f1bbb7556e427ca49",
+      "sectionIndex": 9,
+      "question": "Literary language differs from everyday speech in:",
+      "options": [
+        "A) Nothing",
+        "B) Formality and artistic expression",
+        "C) Being wrong",
+        "D) Being foreign"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "462a425f0c0b66cca3357ae01061ec1611d501bc",
+      "sectionIndex": 9,
+      "question": "Cultural context affects:",
+      "options": [
+        "A) Nothing",
+        "B) How we understand literature",
+        "C) Only food",
+        "D) Only clothes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b931f4b627c2fc71c88084f9d114c4d274f36ffc",
+      "sectionIndex": 9,
+      "question": "Borrowing words from other languages:",
+      "options": [
+        "A) Destroys Pashto",
+        "B) Enriches vocabulary",
+        "C) Is forbidden",
+        "D) Never happens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adaf6dcc93485363f10ac990cc867c895f9c5eda",
+      "sectionIndex": 9,
+      "question": "Script refers to:",
+      "options": [
+        "A) Drama only",
+        "B) Writing system",
+        "C) Speaking",
+        "D) Thinking"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c40c4075968d22b7e28c0ee03650ae0ff2d3a1b1",
+      "sectionIndex": 9,
+      "question": "Mother tongue literature is important for:",
+      "options": [
+        "A) Nothing",
+        "B) Cultural preservation",
+        "C) Confusion",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "442bdfe8883307cd0b6a0bb27da827d309a4a3e5",
+      "sectionIndex": 9,
+      "question": "Language evolution means:",
+      "options": [
+        "A) Languages never change",
+        "B) Languages change over time",
+        "C) Languages die immediately",
+        "D) Languages become animals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4321ee0728cac867163ec76050671aec31504ac4",
+      "sectionIndex": 9,
+      "question": "Multilingual societies:",
+      "options": [
+        "A) Are impossible",
+        "B) Are common and enriching",
+        "C) Cannot exist",
+        "D) Are illegal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5d748336b16d3376b44ea03099e5e1bb91d04f6",
+      "sectionIndex": 9,
+      "question": "Literature and society:",
+      "options": [
+        "A) Are unrelated",
+        "B) Influence each other",
+        "C) Never meet",
+        "D) Are enemies"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:18:25.023Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "0d229e4cedc4c89113d00a5f43f4dade2f8d75e3",
+      "sectionIndex": 0,
+      "question": "In the proposition \"If P then Q,\" if P is false, the compound proposition is:",
+      "options": [
+        "A) Always false",
+        "B) Always true",
+        "C) Depends on Q",
+        "D) Indeterminate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "066acff716799989140069175e0681a38c5b7ab8",
+      "sectionIndex": 0,
+      "question": "Which of the following represents the logical form of \"All philosophers are wise\"?",
+      "options": [
+        "A) ^fx(Px ?' Wx)",
+        "B) ^?x(Px ?' Wx)",
+        "C) ^?x(Px ^ Wx)",
+        "D) ^fx(Px ^ Wx)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9d67b90e07d98385fbed301330dca4fb0d580f7",
+      "sectionIndex": 0,
+      "question": "A tautology is a proposition that is:",
+      "options": [
+        "A) Always false",
+        "B) Sometimes true",
+        "C) Always true",
+        "D) Contradictory"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bff1f8c7ef8e0644dda0b0559f81391258343ae6",
+      "sectionIndex": 0,
+      "question": "In a valid argument, if the premises are true, then:",
+      "options": [
+        "A) The conclusion might be false",
+        "B) The conclusion must be true",
+        "C) The premises become false",
+        "D) Nothing can be determined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46166ee86b68f25c4862873bf52e9eb2ce1f0887",
+      "sectionIndex": 0,
+      "question": "The statement \"P ^ ¬P\" is an example of:",
+      "options": [
+        "A) Contradiction",
+        "B) Contingency",
+        "C) Tautology",
+        "D) Fallacy"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9cf88224b2ca937245f91da3965fead2c37e75ae",
+      "sectionIndex": 0,
+      "question": "Which rule of inference allows us to conclude Q from \"P ?' Q\" and \"P\"?",
+      "options": [
+        "A) Modus Tollens",
+        "B) Modus Ponens",
+        "C) Hypothetical Syllogism",
+        "D) Disjunctive Syllogism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36ee5285176b88c2bb7114b7d4ea7f8e561c24e8",
+      "sectionIndex": 0,
+      "question": "The logical equivalence of \"¬(P ^ Q)\" is:",
+      "options": [
+        "A) ¬P ^ ¬Q",
+        "B) ¬P ^ ¬Q",
+        "C) P ^ Q",
+        "D) P ?' Q"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9f4be26a0e0f316eb2f6ec95f94c2916b811304",
+      "sectionIndex": 0,
+      "question": "A syllogism with the form \"All M are P, All S are M, therefore All S are P\" is:",
+      "options": [
+        "A) Invalid",
+        "B) Valid (Barbara)",
+        "C) Fallacious",
+        "D) Incomplete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a565bed07165b4b1cc4b9355960bd4c41189ae60",
+      "sectionIndex": 0,
+      "question": "The difference between validity and soundness is:",
+      "options": [
+        "A) Validity concerns form, soundness concerns form and truth",
+        "B) They are identical",
+        "C) Soundness only concerns form",
+        "D) Validity only concerns truth"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "72fae5f8bd0182e023b561a8f8e331d1a060103c",
+      "sectionIndex": 0,
+      "question": "In categorical logic, a universal negative proposition is represented as:",
+      "options": [
+        "A) All S are P",
+        "B) No S are P",
+        "C) Some S are P",
+        "D) Some S are not P"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4777deb82a6969221309f8968a69183eb156fdee",
+      "sectionIndex": 1,
+      "question": "A persuasive definition differs from a lexical definition in that it:",
+      "options": [
+        "A) Reports common usage",
+        "B) Aims to influence attitudes",
+        "C) Is always neutral",
+        "D) Cannot be evaluated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f609bc4c32c96594d3367076a27ddc0a5aa7ef6",
+      "sectionIndex": 1,
+      "question": "The fallacy of equivocation involves:",
+      "options": [
+        "A) Using a term consistently",
+        "B) Shifting the meaning of a term within an argument",
+        "C) Clear definitions",
+        "D) Valid reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32cbdd5824d772e8019191fbf63eb22d8ccfe311",
+      "sectionIndex": 1,
+      "question": "Which type of ambiguity arises from unclear grammatical structure?",
+      "options": [
+        "A) Lexical ambiguity",
+        "B) Syntactic ambiguity",
+        "C) Semantic ambiguity",
+        "D) Pragmatic ambiguity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "30374029593c8ef05061a9ebd1814ab05f912246",
+      "sectionIndex": 1,
+      "question": "The fallacy of composition assumes:",
+      "options": [
+        "A) Parts have properties of the whole",
+        "B) The whole has properties of its parts",
+        "C) No relationship exists",
+        "D) All properties are different"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "550c74c731bf589935f7a042ce7221785ef60a64",
+      "sectionIndex": 1,
+      "question": "An operational definition:",
+      "options": [
+        "A) Gives the essence of a concept",
+        "B) Specifies procedures for identifying instances",
+        "C) Lists synonyms",
+        "D) Provides etymology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7b7ef7e087eba4faa51a09244689b11e2c9ea8e",
+      "sectionIndex": 1,
+      "question": "The difference between vagueness and ambiguity is:",
+      "options": [
+        "A) They are identical",
+        "B) Vagueness involves unclear boundaries, ambiguity involves multiple meanings",
+        "C) Ambiguity is always vague",
+        "D) Vagueness is always ambiguous"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36c3ec42fbd724a3d51522142c3643b8b309d826",
+      "sectionIndex": 1,
+      "question": "Emotive language in arguments often leads to:",
+      "options": [
+        "A) Greater clarity",
+        "B) Logical validity",
+        "C) Persuasion without proper reasoning",
+        "D) Mathematical precision"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "01c1dc48418a7fb67f1a2157bf425d1a86b89ea7",
+      "sectionIndex": 1,
+      "question": "A theoretical definition:",
+      "options": [
+        "A) Reports common usage",
+        "B) Provides a systematic account within a theory",
+        "C) Is always stipulative",
+        "D) Cannot be disputed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89496a01afa364f6dcc0e2404f56abe9a018307f",
+      "sectionIndex": 1,
+      "question": "The fallacy of division assumes:",
+      "options": [
+        "A) The whole has properties of its parts",
+        "B) Parts have properties of the whole",
+        "C) Division is impossible",
+        "D) Unity is essential"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6717c9303d9c15dd3b6794630d7e0f890712571e",
+      "sectionIndex": 1,
+      "question": "Context-dependent meaning demonstrates that language is:",
+      "options": [
+        "A) Always precise",
+        "B) Pragmatically complex",
+        "C) Mathematically exact",
+        "D) Culturally uniform"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "609e13a995b54a8e864cb7c8368ab03c8059bb72",
+      "sectionIndex": 2,
+      "question": "According to the traditional definition, knowledge is:",
+      "options": [
+        "A) True belief",
+        "B) Justified belief",
+        "C) Justified true belief",
+        "D) Any belief"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20589d1144a90da0aacb56b3cd3af2e23dce7134",
+      "sectionIndex": 2,
+      "question": "The Gettier problem challenges:",
+      "options": [
+        "A) The existence of knowledge",
+        "B) The traditional definition of knowledge",
+        "C) All beliefs",
+        "D) Scientific method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "352eaf7db6ee9e42ec5e738ebbbb27562d5cfe8d",
+      "sectionIndex": 2,
+      "question": "Empiricism holds that knowledge primarily comes from:",
+      "options": [
+        "A) Innate ideas",
+        "B) Pure reason",
+        "C) Sensory experience",
+        "D) Divine revelation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "954ca294bdfa3f4961fb50eda254b77b485daf93",
+      "sectionIndex": 2,
+      "question": "Descartes's method of doubt aims to:",
+      "options": [
+        "A) Prove nothing exists",
+        "B) Find indubitable foundations for knowledge",
+        "C) Reject all knowledge",
+        "D) Embrace skepticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21633dae173317cc81c5d6eb03f1c2595335e59d",
+      "sectionIndex": 2,
+      "question": "The coherence theory of truth states that:",
+      "options": [
+        "A) Truth corresponds to reality",
+        "B) Truth is what works",
+        "C) Truth is consistency within a system of beliefs",
+        "D) Truth doesn't exist"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "01170759c12730324a7dd9665e1212e5e135bdb1",
+      "sectionIndex": 2,
+      "question": "Kant's synthetic a priori knowledge includes:",
+      "options": [
+        "A) Only analytic truths",
+        "B) Mathematical and basic scientific principles",
+        "C) Only empirical facts",
+        "D) Only definitions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dddee9045e1645f75d40dcbeda9218483825bc1d",
+      "sectionIndex": 2,
+      "question": "The problem of induction, raised by Hume, questions:",
+      "options": [
+        "A) Deductive reasoning",
+        "B) The justification of generalizing from experience",
+        "C) Mathematical proof",
+        "D) Logical validity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04c8b23f376d390c7b3c6346803c4e0d3a9ec6dd",
+      "sectionIndex": 2,
+      "question": "Foundationalism in epistemology claims:",
+      "options": [
+        "A) All beliefs are equally justified",
+        "B) Some beliefs are self-justifying",
+        "C) No beliefs are justified",
+        "D) Justification is circular"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "755e6629038fb61d9f83af26b75c2344a88fef26",
+      "sectionIndex": 2,
+      "question": "The correspondence theory of truth requires:",
+      "options": [
+        "A) Coherence only",
+        "B) Practical success",
+        "C) Match between belief and reality",
+        "D) Social agreement"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bc86da3b65969fc599c2663c61403240419b2ed1",
+      "sectionIndex": 2,
+      "question": "Skepticism about the external world questions:",
+      "options": [
+        "A) Only mental states",
+        "B) The existence of anything beyond our minds",
+        "C) Only physical objects",
+        "D) Mathematical truths"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d24668a49721c38146a584851f869349f471471c",
+      "sectionIndex": 3,
+      "question": "Substance dualism, associated with Descartes, claims:",
+      "options": [
+        "A) Only matter exists",
+        "B) Only mind exists",
+        "C) Mind and matter are distinct substances",
+        "D) Everything is energy"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3ae9849d7b43d098569bf8916ce28060629de9af",
+      "sectionIndex": 3,
+      "question": "Berkeley's idealism argues that:",
+      "options": [
+        "A) Material objects exist independently",
+        "B) To be is to be perceived",
+        "C) Only matter exists",
+        "D) Mind doesn't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bff97834569330f8de021a721cdf491ed2c12d1d",
+      "sectionIndex": 3,
+      "question": "The problem of universals asks:",
+      "options": [
+        "A) Whether individual things exist",
+        "B) Whether properties exist independently of particulars",
+        "C) Whether space exists",
+        "D) Whether time exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f8672406295c96f3f4df0ab355895761e278e08",
+      "sectionIndex": 3,
+      "question": "Determinism conflicts with free will because it implies:",
+      "options": [
+        "A) Everything has a cause",
+        "B) Our choices are ultimately caused by prior events",
+        "C) Nothing has a cause",
+        "D) Randomness exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc555788a1f4d21a2f2d50b8467557ac898b59cb",
+      "sectionIndex": 3,
+      "question": "Plato's Forms are:",
+      "options": [
+        "A) Physical objects",
+        "B) Mental concepts only",
+        "C) Perfect, eternal archetypes",
+        "D) Linguistic constructs"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2305424bfd8ac58456720f64beb5761e2e00567e",
+      "sectionIndex": 3,
+      "question": "The mind-body problem concerns:",
+      "options": [
+        "A) Physical health",
+        "B) The relationship between mental and physical states",
+        "C) Only the brain",
+        "D) Only consciousness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93bb9b0a02ed4c0aa8f4551d867af3e8e5988d36",
+      "sectionIndex": 3,
+      "question": "Materialism in philosophy claims:",
+      "options": [
+        "A) Money is most important",
+        "B) Only physical matter exists",
+        "C) Spirit is primary",
+        "D) Dualism is true"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59592acf7155fed92cce2eb5a2ecab4c0213a3ad",
+      "sectionIndex": 3,
+      "question": "The concept of emergence suggests:",
+      "options": [
+        "A) Nothing new arises",
+        "B) Complex properties arise from simpler ones",
+        "C) Reduction is always possible",
+        "D) Wholes equal their parts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7898b2904fe821c7401675c0ea579ddfe49d9222",
+      "sectionIndex": 3,
+      "question": "Modal realism, defended by David Lewis, claims:",
+      "options": [
+        "A) Only our world exists",
+        "B) Possible worlds are real",
+        "C) Necessity doesn't exist",
+        "D) Logic is false"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a6c6ad5800f8d600f3fb6f96f8e29fc843cf086",
+      "sectionIndex": 3,
+      "question": "Personal identity over time raises questions about:",
+      "options": [
+        "A) Only names",
+        "B) What makes you the same person despite changes",
+        "C) Only physical appearance",
+        "D) Social roles only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8a8f9ffbe3cd5f556043d281344bcc730b7c23b",
+      "sectionIndex": 4,
+      "question": "The difference between act and rule utilitarianism is:",
+      "options": [
+        "A) No difference exists",
+        "B) Act focuses on individual actions, rule on general principles",
+        "C) Rule rejects consequences",
+        "D) Act rejects happiness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7629fbcd36a6dec9b20f282fa438306f3a494e5",
+      "sectionIndex": 4,
+      "question": "Kant's categorical imperative requires that we:",
+      "options": [
+        "A) Maximize happiness",
+        "B) Follow God's commands",
+        "C) Act only on universalizable maxims",
+        "D) Pursue self-interest"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d4693413f98225774e326a8fbde0a7e58db67a3e",
+      "sectionIndex": 4,
+      "question": "Virtue ethics differs from deontology and consequentialism by focusing on:",
+      "options": [
+        "A) Rules",
+        "B) Outcomes",
+        "C) Character traits",
+        "D) Contracts"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "de12577a22450777b0247bc127833850672ee040",
+      "sectionIndex": 4,
+      "question": "The trolley problem illustrates conflict between:",
+      "options": [
+        "A) Two virtues",
+        "B) Deontological and consequentialist intuitions",
+        "C) Religion and ethics",
+        "D) Law and morality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b323a2bd2bed97be436a05927e426d3ef92d4ed",
+      "sectionIndex": 4,
+      "question": "Moral relativism faces the problem of:",
+      "options": [
+        "A) Too much agreement",
+        "B) Inability to criticize harmful practices",
+        "C) Excessive objectivity",
+        "D) Universal standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da95d9915c043f8a7cc8e850c230eddd12461945",
+      "sectionIndex": 4,
+      "question": "The naturalistic fallacy, identified by Moore, involves:",
+      "options": [
+        "A) Accepting nature",
+        "B) Deriving ought from is",
+        "C) Rejecting ethics",
+        "D) Embracing biology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c46be90d37ec1c6dfa4917746aca8d56ba6913e8",
+      "sectionIndex": 4,
+      "question": "Rawls's veil of ignorance is designed to:",
+      "options": [
+        "A) Promote ignorance",
+        "B) Ensure impartial principles of justice",
+        "C) Hide information",
+        "D) Prevent knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b71fe8c97222610b2153d39b6dba9534f701f63d",
+      "sectionIndex": 4,
+      "question": "The difference between ethical egoism and psychological egoism:",
+      "options": [
+        "A) None exists",
+        "B) Ethical is prescriptive, psychological is descriptive",
+        "C) Both are prescriptive",
+        "D) Both are descriptive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fe01b8b3784ef5c5497473aaabed84dcecc3250",
+      "sectionIndex": 4,
+      "question": "Divine command theory faces the Euthyphro dilemma:",
+      "options": [
+        "A) God doesn't exist",
+        "B) Is something good because God commands it, or does God command it because it's good?",
+        "C) Ethics is relative",
+        "D) Religion is false"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be59cbdd8644a3f963cb91c410210a9d4999d062",
+      "sectionIndex": 4,
+      "question": "Applied ethics differs from normative ethics by:",
+      "options": [
+        "A) Rejecting theory",
+        "B) Focusing on specific practical issues",
+        "C) Avoiding controversy",
+        "D) Embracing relativism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53a777a286f4e71a076af4a0b7996cdc10afa650",
+      "sectionIndex": 5,
+      "question": "Al-Ghazali's critique of philosophers centered on:",
+      "options": [
+        "A) Their use of logic",
+        "B) Their claims about God's knowledge and the eternity of the world",
+        "C) Their study of medicine",
+        "D) Their poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "953cbff2eb3f1ac4ecc604ffdb609dc88f8b3ebf",
+      "sectionIndex": 5,
+      "question": "Ibn Rushd's \"Decisive Treatise\" argues that:",
+      "options": [
+        "A) Philosophy should be banned",
+        "B) Philosophy and religion are compatible",
+        "C) Only theology matters",
+        "D) Reason is useless"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ced109596ac44d70e6265e699ab7570e28f4910d",
+      "sectionIndex": 5,
+      "question": "The Mu'tazila school emphasized:",
+      "options": [
+        "A) Predestination",
+        "B) Human free will and divine justice",
+        "C) Mysticism only",
+        "D) Rejection of reason"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aaed70bfd2a526401387b77eb714434cd043702c",
+      "sectionIndex": 5,
+      "question": "Iqbal's concept of khudi (self/ego) emphasizes:",
+      "options": [
+        "A) Self-negation",
+        "B) Creative self-affirmation",
+        "C) Fatalism",
+        "D) Passivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4695e13feecc668979400adfbdb951ae9b07fd1",
+      "sectionIndex": 5,
+      "question": "The debate between Ash'ari and Mu'tazila schools concerned:",
+      "options": [
+        "A) Only ritual practices",
+        "B) Divine attributes, free will, and the nature of the Quran",
+        "C) Political leadership only",
+        "D) Economic theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79cab9dd19384cc2d671f4a0d1602ffcb3f09fc5",
+      "sectionIndex": 5,
+      "question": "Ibn Sina's proof for God's existence relies on:",
+      "options": [
+        "A) Design argument",
+        "B) Necessary existence",
+        "C) Moral argument",
+        "D) Personal experience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a532dc49848f01b3d303055706126e8ca49afe87",
+      "sectionIndex": 5,
+      "question": "Al-Farabi's political philosophy combines:",
+      "options": [
+        "A) Only Greek thought",
+        "B) Platonic ideals with Islamic principles",
+        "C) Only Islamic sources",
+        "D) Modern democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d66280b942394eb0b699adea8f02033017c8e1e",
+      "sectionIndex": 5,
+      "question": "Sir Syed Ahmad Khan's religious thought emphasized:",
+      "options": [
+        "A) Literal interpretation only",
+        "B) Harmony between religion and modern science",
+        "C) Rejection of reason",
+        "D) Pure traditionalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "630cfd02c788b27dbbba059b450bdd1ad22e7851",
+      "sectionIndex": 5,
+      "question": "Ibn Khaldun's cyclical theory of history involves:",
+      "options": [
+        "A) Linear progress",
+        "B) Rise and decline of civilizations through asabiyyah",
+        "C) Random changes",
+        "D) Divine intervention only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "875a3037c3482da1d5efff2201990d8b86e7e515",
+      "sectionIndex": 5,
+      "question": "The concept of wahdat al-wujud (unity of being) is associated with:",
+      "options": [
+        "A) Al-Ghazali",
+        "B) Ibn Arabi",
+        "C) Ibn Rushd",
+        "D) Al-Farabi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6166865f08274b713bb50eb6d5defc5f17831d88",
+      "sectionIndex": 6,
+      "question": "Logical positivism's verification principle states that:",
+      "options": [
+        "A) All statements are meaningful",
+        "B) Only empirically verifiable or analytic statements are meaningful",
+        "C) Metaphysics is supreme",
+        "D) Ethics is objective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "933ca1dc1c03b607fadb0d66857e27823c49ddeb",
+      "sectionIndex": 6,
+      "question": "Existentialism's claim that \"existence precedes essence\" means:",
+      "options": [
+        "A) We have fixed natures",
+        "B) We create our own meaning",
+        "C) God determines our essence",
+        "D) Biology is destiny"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "820090602f1c3ec648ee04148a2276622869135b",
+      "sectionIndex": 6,
+      "question": "Wittgenstein's language games concept suggests:",
+      "options": [
+        "A) Language has one function",
+        "B) Meaning depends on use within contexts",
+        "C) Words have fixed meanings",
+        "D) Communication is impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3166acf347b9bff7d2d0414e74ada1c2a2be6b5b",
+      "sectionIndex": 6,
+      "question": "Pragmatism's theory of truth emphasizes:",
+      "options": [
+        "A) Correspondence to reality",
+        "B) Practical consequences and usefulness",
+        "C) Coherence only",
+        "D) Eternal truths"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efc3f66a07c32f4b7fa79de46ec2c3c76935afa0",
+      "sectionIndex": 6,
+      "question": "Phenomenology's method of epoché involves:",
+      "options": [
+        "A) Accepting all assumptions",
+        "B) Bracketing assumptions to study pure experience",
+        "C) Rejecting consciousness",
+        "D) Embracing skepticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a39439de6cea2703aef9ca2af7ab940c2813513",
+      "sectionIndex": 6,
+      "question": "Structuralism in philosophy analyzes:",
+      "options": [
+        "A) Individual elements only",
+        "B) Underlying structures and relationships",
+        "C) Surface appearances",
+        "D) Personal experiences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b289b4798d5a3d77197f1550f23137bc8e328b83",
+      "sectionIndex": 6,
+      "question": "Foucault's analysis of power shows it is:",
+      "options": [
+        "A) Only repressive",
+        "B) Productive and pervasive",
+        "C) Held by rulers only",
+        "D) Always visible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38d392aa2a5d8ffe70fb1d66ac24c7e4e7b89f1f",
+      "sectionIndex": 6,
+      "question": "Derrida's deconstruction reveals:",
+      "options": [
+        "A) Clear meanings",
+        "B) Internal contradictions in texts",
+        "C) Absolute truth",
+        "D) Simple interpretations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f7843ff05710ffd016b5ff73457d626c0a974d2",
+      "sectionIndex": 6,
+      "question": "Habermas's discourse ethics requires:",
+      "options": [
+        "A) Monologue",
+        "B) Ideal speech situations",
+        "C) Power relations",
+        "D) Manipulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6f6dbf14c1a6dc9c70cd5dd6b8363fc0048a33f",
+      "sectionIndex": 6,
+      "question": "Postmodernism's critique of metanarratives means:",
+      "options": [
+        "A) Small stories don't matter",
+        "B) Grand unified theories are suspect",
+        "C) No stories exist",
+        "D) All narratives are true"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1de8062c185938033b2df4fc346efb1b0cb2ca77",
+      "sectionIndex": 7,
+      "question": "Popper's falsificationism proposes that science progresses by:",
+      "options": [
+        "A) Proving theories true",
+        "B) Attempting to falsify theories",
+        "C) Accumulating facts",
+        "D) Avoiding theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf13aabc071ba2064c632a903b2dabb688c80af2",
+      "sectionIndex": 7,
+      "question": "Kuhn's paradigm shifts involve:",
+      "options": [
+        "A) Gradual accumulation only",
+        "B) Revolutionary changes in scientific frameworks",
+        "C) No change",
+        "D) Random progress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b2d2099e540bea60250389799bf4bf1ba29e44f",
+      "sectionIndex": 7,
+      "question": "The underdetermination thesis states that:",
+      "options": [
+        "A) Evidence uniquely determines theory",
+        "B) Multiple theories can explain the same evidence",
+        "C) No evidence exists",
+        "D) All theories are equal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cce26b7918562d1105abd921f8487a528f88d8f1",
+      "sectionIndex": 7,
+      "question": "Scientific realism claims that:",
+      "options": [
+        "A) Science is fiction",
+        "B) Scientific theories describe real entities",
+        "C) Only observations matter",
+        "D) Theories are just tools"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f690e16f5dc444ae3d2f07ec82cd18a511d02d5c",
+      "sectionIndex": 7,
+      "question": "The demarcation problem asks:",
+      "options": [
+        "A) What separates nations",
+        "B) What distinguishes science from pseudoscience",
+        "C) How to divide knowledge",
+        "D) Where boundaries exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8add74198f0e67f6c775d353a643fe27f51f5fae",
+      "sectionIndex": 7,
+      "question": "Inference to the best explanation:",
+      "options": [
+        "A) Rejects all explanations",
+        "B) Chooses the hypothesis that best explains evidence",
+        "C) Uses deduction only",
+        "D) Avoids hypotheses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc43407cf23d7e2632c20aeaa4716d859c07783f",
+      "sectionIndex": 7,
+      "question": "The theory-ladenness of observation means:",
+      "options": [
+        "A) Observations are pure",
+        "B) Theoretical assumptions influence what we observe",
+        "C) Theory doesn't matter",
+        "D) Observation is impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b91fa1a81dd0a93afdc94a8fb7a8505809f22188",
+      "sectionIndex": 7,
+      "question": "Scientific laws differ from accidental generalizations by:",
+      "options": [
+        "A) Being false",
+        "B) Supporting counterfactuals",
+        "C) Being particular",
+        "D) Lacking universality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8dfa3febbed49b3927b761d2df0199366d1f0608",
+      "sectionIndex": 7,
+      "question": "The pessimistic meta-induction argues:",
+      "options": [
+        "A) Science always progresses",
+        "B) Past scientific theories were false, so current ones might be too",
+        "C) Optimism is warranted",
+        "D) Science is perfect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4c1af53ffd0ce8cd333e158a4a1bdb4ef8a59df",
+      "sectionIndex": 7,
+      "question": "Bayesian epistemology uses:",
+      "options": [
+        "A) Frequency only",
+        "B) Probability to update beliefs",
+        "C) Certainty only",
+        "D) No mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "887e7a0872bd62f9a51bb5bdf29c879800ca4d44",
+      "sectionIndex": 8,
+      "question": "The social contract tradition assumes that:",
+      "options": [
+        "A) Contracts don't matter",
+        "B) Political authority derives from agreement",
+        "C) Nature determines government",
+        "D) Force legitimates rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "424bd13f68768f8ba62da76b6a94a168762bd8ab",
+      "sectionIndex": 8,
+      "question": "Rawls's difference principle allows inequalities only if they:",
+      "options": [
+        "A) Benefit the wealthy",
+        "B) Benefit the least advantaged",
+        "C) Increase total wealth",
+        "D) Maintain tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b20be52000fce6cb2c2bec02efb79b235d1b1aa",
+      "sectionIndex": 8,
+      "question": "Nozick's entitlement theory emphasizes:",
+      "options": [
+        "A) Equal distribution",
+        "B) Historical process of acquisition",
+        "C) Need-based distribution",
+        "D) Merit only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98fb130e523038222b439a06db0b414b18379fe8",
+      "sectionIndex": 8,
+      "question": "Marx's historical materialism claims that:",
+      "options": [
+        "A) Ideas drive history",
+        "B) Economic conditions shape society",
+        "C) History is random",
+        "D) Individuals control history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fec879d90ab85024f7ac02e536b5a2577bea5216",
+      "sectionIndex": 8,
+      "question": "Mill's harm principle limits government interference to:",
+      "options": [
+        "A) All actions",
+        "B) Actions that harm others",
+        "C) Private actions",
+        "D) Economic matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a1c61c3f918fe975791b5d03da976a31dac96a6",
+      "sectionIndex": 8,
+      "question": "Communitarianism critiques liberalism for:",
+      "options": [
+        "A) Emphasizing community",
+        "B) Excessive individualism",
+        "C) Promoting tradition",
+        "D) Supporting groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d29fc298dba197e7fe4c36e75e9f658be5c65d1",
+      "sectionIndex": 8,
+      "question": "The capability approach, developed by Sen, focuses on:",
+      "options": [
+        "A) Income only",
+        "B) What people can do and be",
+        "C) Happiness only",
+        "D) Resources only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3791ec3581b25a78f99f3f47b905c90a57620546",
+      "sectionIndex": 8,
+      "question": "Feminist political philosophy reveals:",
+      "options": [
+        "A) Gender is irrelevant",
+        "B) Gendered assumptions in traditional theory",
+        "C) Biology determines politics",
+        "D) Women are naturally political"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c45a2e58a61af5f62788ab39369b06cd01e8968",
+      "sectionIndex": 8,
+      "question": "The paradox of democracy arises when:",
+      "options": [
+        "A) Everyone agrees",
+        "B) Majority decisions conflict with individual rights",
+        "C) Voting works perfectly",
+        "D) Representatives represent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "339cdd0ceb923cf6747950022518abd7f78c1211",
+      "sectionIndex": 8,
+      "question": "Cosmopolitanism advocates:",
+      "options": [
+        "A) Nationalism",
+        "B) Global citizenship and universal concern",
+        "C) Local focus only",
+        "D) Cultural isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73c15b8728c66b89c739d7fb8a8c50d5a14660b1",
+      "sectionIndex": 9,
+      "question": "The sorites paradox demonstrates problems with:",
+      "options": [
+        "A) Clear concepts",
+        "B) Vague predicates",
+        "C) Mathematical precision",
+        "D) Logical validity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1e4b3624e286201d565487e92e8453c2fbb6213",
+      "sectionIndex": 9,
+      "question": "Modal logic studies:",
+      "options": [
+        "A) Only actual truths",
+        "B) Necessity and possibility",
+        "C) Temporal relations",
+        "D) Spatial relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab5d6f62bed7f28ca88fc1b886e30df3eead868a",
+      "sectionIndex": 9,
+      "question": "The liar paradox (\"This statement is false\") shows:",
+      "options": [
+        "A) Language is perfect",
+        "B) Self-reference can create contradictions",
+        "C) Truth is simple",
+        "D) Logic fails everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "791bc858725fb85fc066838e23eb5f35f80c1e41",
+      "sectionIndex": 9,
+      "question": "Gödel's incompleteness theorems prove that:",
+      "options": [
+        "A) Mathematics is complete",
+        "B) Consistent formal systems cannot prove all truths",
+        "C) Logic is useless",
+        "D) Everything is provable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f908041e9953e522e72e340d72b4275b14aa9a8",
+      "sectionIndex": 9,
+      "question": "The principle of charity in interpretation requires:",
+      "options": [
+        "A) Assuming speakers are irrational",
+        "B) Interpreting others as rational when possible",
+        "C) Being generous with money",
+        "D) Avoiding interpretation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ade810af3afaa72b80ad62e6d7af81a13fb182bf",
+      "sectionIndex": 9,
+      "question": "Counterfactual conditionals involve:",
+      "options": [
+        "A) Only actual situations",
+        "B) What would be true in different circumstances",
+        "C) Factual claims only",
+        "D) Present tense only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9abf68505c4cf34942290b33f67e700d7a7daa8",
+      "sectionIndex": 9,
+      "question": "The problem of material conditionals is that:",
+      "options": [
+        "A) They're too strict",
+        "B) They're true whenever the antecedent is false",
+        "C) They're always false",
+        "D) They don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d7650f94d207624672c526c17a5f086b8d5af0f",
+      "sectionIndex": 9,
+      "question": "Relevance logic addresses the problem that:",
+      "options": [
+        "A) Everything is relevant",
+        "B) Classical logic allows irrelevant implications",
+        "C) Nothing connects",
+        "D) Logic is irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bd843bea27449a1aae4582e9a3bcb8faf0834ab",
+      "sectionIndex": 9,
+      "question": "Paraconsistent logic allows:",
+      "options": [
+        "A) Only consistency",
+        "B) Reasoning with contradictions",
+        "C) No reasoning",
+        "D) Perfect clarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5db3f6b363e0eb482b2a688610207e607c597145",
+      "sectionIndex": 9,
+      "question": "The semantic/syntactic distinction differentiates:",
+      "options": [
+        "A) Words and sentences",
+        "B) Meaning and formal structure",
+        "C) Truth and falsity",
+        "D) Logic and mathematics"
+      ],
+      "correct": "B"
+    }
+  ]
+}

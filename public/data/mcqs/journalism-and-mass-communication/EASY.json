@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:28:09.078Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "2c206a34d46713654cc4c67ebe6cfb7a4a99c49c",
+      "sectionIndex": 0,
+      "question": "The SMCR model stands for:",
+      "options": [
+        "A) Source, Message, Channel, Receiver",
+        "B) Sender, Medium, Content, Response",
+        "C) Signal, Media, Communication, Reception",
+        "D) System, Message, Code, Result"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fc1e6862a193913c2c0cb5fde01c652d3b1ac8bc",
+      "sectionIndex": 0,
+      "question": "Who developed the Mathematical/Shannon-Weaver Model of communication?",
+      "options": [
+        "A) Harold Lasswell",
+        "B) Claude Shannon and Warren Weaver",
+        "C) Wilbur Schramm",
+        "D) Marshall McLuhan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0912457f78e432d2139366c23ff2556218f1e907",
+      "sectionIndex": 0,
+      "question": "The concept of \"Global Village\" was introduced by:",
+      "options": [
+        "A) Wilbur Schramm",
+        "B) Harold Lasswell",
+        "C) Marshall McLuhan",
+        "D) Paul Lazarsfeld"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d4d6041da207a9b5d65f927aafa525b2c91dc192",
+      "sectionIndex": 0,
+      "question": "In the Two-Step Flow Theory, information flows from media to:",
+      "options": [
+        "A) Directly to all audiences",
+        "B) Opinion leaders, then to audiences",
+        "C) Government, then to public",
+        "D) Advertisers, then to consumers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73952204331293d0cbd6444ac8ea696bda5b0470",
+      "sectionIndex": 0,
+      "question": "The Hypodermic Needle Theory suggests that media messages:",
+      "options": [
+        "A) Are filtered by audiences",
+        "B) Have direct and immediate effect",
+        "C) Are always rejected",
+        "D) Need multiple exposures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccae4727c6797f37c2a93ab48ae5465f5b75aa2a",
+      "sectionIndex": 0,
+      "question": "Feedback in communication refers to:",
+      "options": [
+        "A) The original message",
+        "B) The response from receiver",
+        "C) The channel used",
+        "D) The source of information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e56168e92a440af02a03286741d9a6c7dd76930",
+      "sectionIndex": 0,
+      "question": "Noise in communication process means:",
+      "options": [
+        "A) Loud sounds only",
+        "B) Any interference in message transmission",
+        "C) Background music",
+        "D) Voice quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33348eab6f8b4be19689ee87c1b9fe174e7982b6",
+      "sectionIndex": 0,
+      "question": "The basic elements of communication are:",
+      "options": [
+        "A) Three",
+        "B) Four",
+        "C) Five",
+        "D) Six"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1139597870c4f5ee84edfd67fc2c8a3bbd40b347",
+      "sectionIndex": 0,
+      "question": "Interpersonal communication involves:",
+      "options": [
+        "A) Mass audiences",
+        "B) Two or more people",
+        "C) Only written messages",
+        "D) Broadcasting only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc11f3b6ea6b602effa42515cadbc118f85fbec9",
+      "sectionIndex": 0,
+      "question": "Mass communication differs from interpersonal communication in:",
+      "options": [
+        "A) Message clarity",
+        "B) Audience size and feedback",
+        "C) Language used",
+        "D) Time taken"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33f2b0ad5acd6659326cf22dbce5f5227cbeb17c",
+      "sectionIndex": 1,
+      "question": "Daily Dawn was founded by:",
+      "options": [
+        "A) Hamid Nizami",
+        "B) Quaid-e-Azam Muhammad Ali Jinnah",
+        "C) Maulana Zafar Ali Khan",
+        "D) Sir Syed Ahmad Khan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20623ecca704aad54cdd6044241827ae711955b5",
+      "sectionIndex": 1,
+      "question": "Nawa-e-Waqt was established in:",
+      "options": [
+        "A) 1940",
+        "B) 1945",
+        "C) 1947",
+        "D) 1950"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6180ebb528c2b6bfe97c63002bbedf681c231903",
+      "sectionIndex": 1,
+      "question": "The Zamindar newspaper was associated with:",
+      "options": [
+        "A) Quaid-e-Azam",
+        "B) Allama Iqbal",
+        "C) Maulana Zafar Ali Khan",
+        "D) Sir Syed Ahmad Khan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f8236d1e7624e03fbc9b5b8b07f35a87c8cf83bb",
+      "sectionIndex": 1,
+      "question": "Pakistan's first Urdu newspaper was:",
+      "options": [
+        "A) Jang",
+        "B) Imroze",
+        "C) Anjam",
+        "D) Zamindar"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d448904667e40f62b9a7e0bdecd27c8ce55151f2",
+      "sectionIndex": 1,
+      "question": "Radio Pakistan started broadcasting in:",
+      "options": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1950",
+        "D) 1952"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d80aca6d7cb2aa881c6182d16f273b9f1cd6d3b",
+      "sectionIndex": 1,
+      "question": "PTV (Pakistan Television) was established in:",
+      "options": [
+        "A) 1960",
+        "B) 1962",
+        "C) 1964",
+        "D) 1966"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "695b29654781487dd4af738c18c0690548e08d0a",
+      "sectionIndex": 1,
+      "question": "The founder of Jang newspaper was:",
+      "options": [
+        "A) Mir Khalil-ur-Rahman",
+        "B) Hamid Nizami",
+        "C) Majid Nizami",
+        "D) Zafar Ali Khan"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "137c293393e45c9293459ab9776ee8efed065b25",
+      "sectionIndex": 1,
+      "question": "Tahzib-ul-Akhlaq was published by:",
+      "options": [
+        "A) Allama Iqbal",
+        "B) Sir Syed Ahmad Khan",
+        "C) Maulana Abul Kalam Azad",
+        "D) Maulana Zafar Ali Khan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a78f4d6458d3f22ae5ba01827ee463d1645dbb3d",
+      "sectionIndex": 1,
+      "question": "The first English newspaper of Pakistan was:",
+      "options": [
+        "A) Dawn",
+        "B) The Nation",
+        "C) Pakistan Times",
+        "D) The News"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e340231da35e2a86bd5af740dec1f768721c1b45",
+      "sectionIndex": 1,
+      "question": "APP (Associated Press of Pakistan) was established in:",
+      "options": [
+        "A) 1947",
+        "B) 1948",
+        "C) 1949",
+        "D) 1950"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8f53276ed016e7faea4bd1a7edb8352c36dd6a4",
+      "sectionIndex": 2,
+      "question": "The primary function of media in society is:",
+      "options": [
+        "A) Entertainment only",
+        "B) Information, education, and entertainment",
+        "C) Advertising only",
+        "D) Government propaganda"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d1f7b29172a277ea0180b4bef9e4904edd264d8",
+      "sectionIndex": 2,
+      "question": "The watchdog role of media means:",
+      "options": [
+        "A) Protecting property",
+        "B) Monitoring government and society",
+        "C) Entertainment programming",
+        "D) Weather reporting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62d3b3c980f5de0d595419698fe800c9fce5e9f7",
+      "sectionIndex": 2,
+      "question": "Media acts as the Fourth Estate alongside:",
+      "options": [
+        "A) Business, Religion, Education",
+        "B) Executive, Legislative, Judiciary",
+        "C) Army, Police, Bureaucracy",
+        "D) Local, Provincial, Federal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "182efff4be761e6cfe5e867990dfe401349f1325",
+      "sectionIndex": 2,
+      "question": "Yellow journalism refers to:",
+      "options": [
+        "A) Financial news",
+        "B) Sensationalized reporting",
+        "C) Environmental reporting",
+        "D) Sports journalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37452b9619794b7c1e3e583e87c07c415ba68b26",
+      "sectionIndex": 2,
+      "question": "The agenda-setting function of media means:",
+      "options": [
+        "A) Creating daily schedules",
+        "B) Telling people what to think about",
+        "C) Setting meeting times",
+        "D) Planning events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcc2862a41e8d1d0c8bd00a63e1d3613039ad496",
+      "sectionIndex": 2,
+      "question": "Public service broadcasting aims to:",
+      "options": [
+        "A) Make maximum profit",
+        "B) Serve public interest",
+        "C) Promote government only",
+        "D) Sell products"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b6222c223ddbcdc08d3b7a8af4c57f27755a219",
+      "sectionIndex": 2,
+      "question": "Media literacy means:",
+      "options": [
+        "A) Reading newspapers",
+        "B) Understanding and analyzing media messages",
+        "C) Writing for media",
+        "D) Operating media equipment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cbce9d2a16d8e1fea2d9c34d4fa043fb6f34036",
+      "sectionIndex": 2,
+      "question": "The gatekeeper in journalism is:",
+      "options": [
+        "A) Security guard",
+        "B) Person who controls information flow",
+        "C) Newspaper vendor",
+        "D) Printing press operator"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78cde7c3cb6e9d13cbb259196fe0c672d39d5b8a",
+      "sectionIndex": 2,
+      "question": "Investigative journalism focuses on:",
+      "options": [
+        "A) Daily news only",
+        "B) Uncovering hidden information",
+        "C) Sports events",
+        "D) Entertainment news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bef2ab55b1a0d2869b00c5ce0e1c5bf0ffe9f51",
+      "sectionIndex": 2,
+      "question": "Development journalism emphasizes:",
+      "options": [
+        "A) Real estate news",
+        "B) Nation-building and progress",
+        "C) Stock market only",
+        "D) Celebrity news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa6c94c3277afc43065170b7b367adcfe1067b4a",
+      "sectionIndex": 3,
+      "question": "APNS stands for:",
+      "options": [
+        "A) All Pakistan Newspaper Society",
+        "B) Associated Press News Service",
+        "C) Asian Pacific News Society",
+        "D) All Pakistan News Syndicate"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7e1bf50d9b521f1c9aa492e1224a9714be2d859c",
+      "sectionIndex": 3,
+      "question": "CPNE stands for:",
+      "options": [
+        "A) Council of Pakistan Newspaper Editors",
+        "B) Committee of Press and News Editors",
+        "C) Central Pakistan News Enterprise",
+        "D) Council of Print News Establishments"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e35472c09b2d0681a5a0aeeb1053170db6d25124",
+      "sectionIndex": 3,
+      "question": "PEMRA stands for:",
+      "options": [
+        "A) Pakistan Electronic Media Regulatory Authority",
+        "B) Press and Electronic Media Regulatory Agency",
+        "C) Pakistan Entertainment Media Regulatory Authority",
+        "D) Public Electronic Media Regulatory Authority"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bd248859d2909b416e5cd2f6be94fb174cf0dacb",
+      "sectionIndex": 3,
+      "question": "Article 19 of Pakistan's Constitution deals with:",
+      "options": [
+        "A) Right to property",
+        "B) Freedom of speech and expression",
+        "C) Right to education",
+        "D) Freedom of movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcb3bbe22636a8e115ab40d0c6141145e0e486ff",
+      "sectionIndex": 3,
+      "question": "The Press Council of Pakistan was established to:",
+      "options": [
+        "A) Control newspapers",
+        "B) Maintain press standards and ethics",
+        "C) Collect taxes",
+        "D) Print newspapers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b3b64baf294ab3d3b36c8e670ffd43db0ae69ee",
+      "sectionIndex": 3,
+      "question": "PID stands for:",
+      "options": [
+        "A) Press Information Department",
+        "B) Public Information Division",
+        "C) Pakistan Information Department",
+        "D) Press and Information Directorate"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ecb818a644d6421a7091b3ac256fbcf68fd81380",
+      "sectionIndex": 3,
+      "question": "The main function of PEMRA is:",
+      "options": [
+        "A) Publishing newspapers",
+        "B) Regulating electronic media",
+        "C) Training journalists",
+        "D) Collecting news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "970dc0caf42f5009a9487318a75725c19cc8ca31",
+      "sectionIndex": 3,
+      "question": "Defamation means:",
+      "options": [
+        "A) Praising someone",
+        "B) Damaging someone's reputation",
+        "C) Reporting facts",
+        "D) Writing editorials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "211098f788afeefd1e91fac56643975d5e5a67fc",
+      "sectionIndex": 3,
+      "question": "Copyright protects:",
+      "options": [
+        "A) Ideas only",
+        "B) Original creative works",
+        "C) Facts and figures",
+        "D) Public information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1750c92cde6935b10b5babb35580437089f54940",
+      "sectionIndex": 3,
+      "question": "Press freedom is important for:",
+      "options": [
+        "A) Making profit",
+        "B) Democratic society",
+        "C) Entertainment only",
+        "D) Advertising revenue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6763e17e76b959aa2992e00541b0a0419f6f6f7a",
+      "sectionIndex": 4,
+      "question": "Journalistic ethics primarily concerns:",
+      "options": [
+        "A) Making money",
+        "B) Truth, accuracy, and fairness",
+        "C) Speed of reporting",
+        "D) Entertainment value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "597d55ba6f829c1704a812aeb3b6fc599a85403e",
+      "sectionIndex": 4,
+      "question": "Off the record means:",
+      "options": [
+        "A) Information can be published",
+        "B) Information cannot be attributed",
+        "C) Information is false",
+        "D) Recording is prohibited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4eaf277bdb0097f6ce4666be83699ebc2e789bd",
+      "sectionIndex": 4,
+      "question": "Plagiarism in journalism means:",
+      "options": [
+        "A) Fast writing",
+        "B) Copying others' work without credit",
+        "C) Translating content",
+        "D) Editing articles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d287342814e6b735b8760a67d918f40842b5959",
+      "sectionIndex": 4,
+      "question": "Conflict of interest occurs when:",
+      "options": [
+        "A) Two stories conflict",
+        "B) Personal interests affect professional judgment",
+        "C) Deadlines clash",
+        "D) Sources disagree"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "390c22b6dc8363333412e1bf8e36cbc4d39d00b4",
+      "sectionIndex": 4,
+      "question": "Anonymous sources should be:",
+      "options": [
+        "A) Always used",
+        "B) Used cautiously with verification",
+        "C) Never used",
+        "D) Paid for information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2815d5a8f4c58fe9b19e96c0a144ce0a5a56b136",
+      "sectionIndex": 4,
+      "question": "The right of reply means:",
+      "options": [
+        "A) Journalists can respond",
+        "B) Subjects of stories can respond",
+        "C) Only editors can reply",
+        "D) No replies allowed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3596007b7dc19d283a85e3fe898d0a35dfdf88c0",
+      "sectionIndex": 4,
+      "question": "Sensationalism in media refers to:",
+      "options": [
+        "A) Accurate reporting",
+        "B) Exaggerating for attention",
+        "C) Sensitive reporting",
+        "D) Sensor technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a231f1772e191c343b8d5e7c0e43ecb1538693f",
+      "sectionIndex": 4,
+      "question": "Media bias means:",
+      "options": [
+        "A) Balanced reporting",
+        "B) Unfair or prejudiced reporting",
+        "C) Technical problems",
+        "D) Time constraints"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f74d205b0b50d12e6c94a13240ac15fa6482ae28",
+      "sectionIndex": 4,
+      "question": "Fact-checking is important for:",
+      "options": [
+        "A) Entertainment value",
+        "B) Ensuring accuracy",
+        "C) Increasing speed",
+        "D) Reducing costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc2bd4ea16ac88438766f392bc0950c14cdf1503",
+      "sectionIndex": 4,
+      "question": "Editorial independence means:",
+      "options": [
+        "A) Working alone",
+        "B) Freedom from external influence",
+        "C) Not having editors",
+        "D) Independent funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23ffdcf976cb4c45fb0154a7ef13d856c0cb097e",
+      "sectionIndex": 5,
+      "question": "Public Relations (PR) is primarily about:",
+      "options": [
+        "A) Selling products",
+        "B) Building relationships and reputation",
+        "C) News reporting",
+        "D) Entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acce219ca25fbb36f3785549ff1d1ff625c25012",
+      "sectionIndex": 5,
+      "question": "The main difference between PR and advertising is:",
+      "options": [
+        "A) Cost",
+        "B) PR is earned media, advertising is paid",
+        "C) Target audience",
+        "D) Language used"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7caa1134a6d2dcac460e6fa89df430bd97d0ad3",
+      "sectionIndex": 5,
+      "question": "A press release is:",
+      "options": [
+        "A) A news story",
+        "B) An official statement for media",
+        "C) An advertisement",
+        "D) A legal document"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae6634d97ce02873d4a6c4195f1e3f27ac1c4aaf",
+      "sectionIndex": 5,
+      "question": "The target audience refers to:",
+      "options": [
+        "A) Shooting targets",
+        "B) Specific group intended to reach",
+        "C) All people",
+        "D) Media only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3114d51077c304372a93a5d51da9d4d38cb9353",
+      "sectionIndex": 5,
+      "question": "Corporate communication includes:",
+      "options": [
+        "A) Internal communication only",
+        "B) External communication only",
+        "C) Both internal and external communication",
+        "D) Advertising only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "25c3cfa067b6a3ee428c32b059fb04f4246580cd",
+      "sectionIndex": 5,
+      "question": "A PRO stands for:",
+      "options": [
+        "A) Professional Reporter Organization",
+        "B) Public Relations Officer",
+        "C) Press Regulatory Office",
+        "D) Private Relations Official"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7d557b8732c67b8f8ad4abeecd539088c279bcf",
+      "sectionIndex": 5,
+      "question": "Image building in PR means:",
+      "options": [
+        "A) Taking photographs",
+        "B) Creating positive perception",
+        "C) Building construction",
+        "D) Graphic design"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c87530df51e83298045f68e10b7b51a006205735",
+      "sectionIndex": 5,
+      "question": "Crisis communication is used during:",
+      "options": [
+        "A) Regular operations",
+        "B) Emergency situations",
+        "C) Celebrations only",
+        "D) Product launches"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62e61b8389edea87283aafe9c9e3c28e6d1fb46a",
+      "sectionIndex": 5,
+      "question": "Spin doctors are:",
+      "options": [
+        "A) Medical professionals",
+        "B) PR professionals who manipulate information",
+        "C) Radio DJs",
+        "D) Sports commentators"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8fac7683bd55ec9a03e31ffcc1b31b00ad03062",
+      "sectionIndex": 5,
+      "question": "The main goal of advertising is:",
+      "options": [
+        "A) Entertainment",
+        "B) Persuasion and selling",
+        "C) Information only",
+        "D) Education only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d27bd01ac773cba607636a79719e1dd71a76012f",
+      "sectionIndex": 6,
+      "question": "Development communication focuses on:",
+      "options": [
+        "A) Real estate",
+        "B) Social and economic progress",
+        "C) Technology only",
+        "D) Entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c0051550145b7ced144a637a7aaa63edfa42ee0",
+      "sectionIndex": 6,
+      "question": "Development Support Communication (DSC) aims to:",
+      "options": [
+        "A) Support media development",
+        "B) Support development programs",
+        "C) Develop communication skills",
+        "D) Support advertisers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb292b119ef324b4d3cb1b88bf819a12ab4343d0",
+      "sectionIndex": 6,
+      "question": "The main goal of development journalism is:",
+      "options": [
+        "A) Profit making",
+        "B) Nation building",
+        "C) Entertainment",
+        "D) Sports coverage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83e035175d0bf012f21ed82759ba9aacb0485538",
+      "sectionIndex": 6,
+      "question": "Community media serves:",
+      "options": [
+        "A) National audiences",
+        "B) Local communities",
+        "C) International audiences",
+        "D) Government only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "319f953a9f153139c0a3aa321dd57bb5b65e5496",
+      "sectionIndex": 6,
+      "question": "Participatory communication involves:",
+      "options": [
+        "A) One-way communication",
+        "B) Active involvement of communities",
+        "C) Top-down approach",
+        "D) Media professionals only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03a9f5e199c27ca5c0b943706804afa5555ee82e",
+      "sectionIndex": 6,
+      "question": "Development communication strategies include:",
+      "options": [
+        "A) Entertainment only",
+        "B) Education and awareness",
+        "C) Advertising only",
+        "D) News only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29093399972cec7d882a9d005d3cda859695fa5b",
+      "sectionIndex": 6,
+      "question": "Rural communication faces challenges of:",
+      "options": [
+        "A) Too much technology",
+        "B) Limited access and literacy",
+        "C) Urban interference",
+        "D) Excess information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75ba91ab5aa8e945facd21a5ab97019caf8ca245",
+      "sectionIndex": 6,
+      "question": "Health communication aims to:",
+      "options": [
+        "A) Treat diseases",
+        "B) Promote health awareness",
+        "C) Sell medicine",
+        "D) Build hospitals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5c094d3e6a40d774d57744df78e49cad7ae4293",
+      "sectionIndex": 6,
+      "question": "Environmental communication focuses on:",
+      "options": [
+        "A) Weather reports only",
+        "B) Environmental awareness and action",
+        "C) Tourism promotion",
+        "D) Industrial development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68d5d455e16b29fe6a0855f56995f56c56d721da",
+      "sectionIndex": 6,
+      "question": "Gender-sensitive reporting means:",
+      "options": [
+        "A) Reporting on women only",
+        "B) Fair representation of all genders",
+        "C) Excluding gender issues",
+        "D) Focus on men's issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25745939eed833d39121ed65ffd9b30e9caa516e",
+      "sectionIndex": 7,
+      "question": "Digital divide refers to:",
+      "options": [
+        "A) Mathematical division",
+        "B) Gap in technology access",
+        "C) Digital photography",
+        "D) Computer programming"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "441308b1c5d2fd1e5678cbdc65dc09053f5412ce",
+      "sectionIndex": 7,
+      "question": "Social media has changed journalism by:",
+      "options": [
+        "A) Slowing down news",
+        "B) Enabling instant news sharing",
+        "C) Reducing accuracy",
+        "D) Eliminating journalists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eadcd76190b4d7008b353792a78567d90e5df2fd",
+      "sectionIndex": 7,
+      "question": "Citizen journalism means:",
+      "options": [
+        "A) Only citizens can be journalists",
+        "B) Ordinary people reporting news",
+        "C) Government journalism",
+        "D) City-based journalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "810ff27ee72ef0cd6836d98bc5b7aa583cc4a841",
+      "sectionIndex": 7,
+      "question": "Online journalism differs from print in:",
+      "options": [
+        "A) Content quality",
+        "B) Immediacy and interactivity",
+        "C) Credibility",
+        "D) Writing style only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f84e630cf0d3c8bd6034dc8569b07032eb0cfce2",
+      "sectionIndex": 7,
+      "question": "Multimedia journalism involves:",
+      "options": [
+        "A) Text only",
+        "B) Multiple media formats",
+        "C) Radio only",
+        "D) Print only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82a9ae2148c066372f821f174864a2f53f22abf2",
+      "sectionIndex": 7,
+      "question": "Digital convergence means:",
+      "options": [
+        "A) Meeting online",
+        "B) Merging of different media technologies",
+        "C) Computer crashes",
+        "D) Internet speed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b843e3e83f7edb3270e1008235188ab63547a702",
+      "sectionIndex": 7,
+      "question": "Podcasts are:",
+      "options": [
+        "A) Plant seeds",
+        "B) Digital audio programs",
+        "C) Video games",
+        "D) Social networks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c3a208791b3cf94cb67072fa0605ea6eef76d79",
+      "sectionIndex": 7,
+      "question": "Blogs differ from traditional media in:",
+      "options": [
+        "A) Being more formal",
+        "B) Being more personal and informal",
+        "C) Having more regulations",
+        "D) Requiring licenses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d57e5ff073eb983702f66939983d83d69ccad07",
+      "sectionIndex": 7,
+      "question": "Mobile journalism uses:",
+      "options": [
+        "A) Moving vehicles",
+        "B) Smartphones for reporting",
+        "C) Portable radios",
+        "D) Traveling reporters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b98ef74edd75f4ab731e46ba4662a713a29721d",
+      "sectionIndex": 7,
+      "question": "The internet has made information:",
+      "options": [
+        "A) More expensive",
+        "B) More accessible",
+        "C) Less reliable",
+        "D) Slower to access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1358748444a3c6fb9e6a7cc3e537cb9b37f638e",
+      "sectionIndex": 8,
+      "question": "Media globalization means:",
+      "options": [
+        "A) Round-shaped media",
+        "B) Worldwide media reach",
+        "C) Local media only",
+        "D) National boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa5e912db68820d6bf795733de91f80cc517917e",
+      "sectionIndex": 8,
+      "question": "Cultural imperialism refers to:",
+      "options": [
+        "A) Preserving culture",
+        "B) Dominance of one culture over others",
+        "C) Cultural diversity",
+        "D) Cultural exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be82b3603f857edce402356afe9c2c991ac7978c",
+      "sectionIndex": 8,
+      "question": "CNN is an example of:",
+      "options": [
+        "A) Local media",
+        "B) Global news network",
+        "C) Entertainment channel",
+        "D) Sports network"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10b7397a23160cd2eb192a30d33dcd0384573103",
+      "sectionIndex": 8,
+      "question": "Reuters is:",
+      "options": [
+        "A) A newspaper",
+        "B) An international news agency",
+        "C) A TV channel",
+        "D) A magazine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "991063487f7e938a0fc893496be26bf8de311f53",
+      "sectionIndex": 8,
+      "question": "Glocalization means:",
+      "options": [
+        "A) Global standardization",
+        "B) Adapting global content to local contexts",
+        "C) Rejecting globalization",
+        "D) Local news only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c03df91701c6aae0660be97fd5fc24350254a621",
+      "sectionIndex": 8,
+      "question": "Western media influence is often criticized for:",
+      "options": [
+        "A) Promoting diversity",
+        "B) Cultural homogenization",
+        "C) Supporting local culture",
+        "D) Educational content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7429ac8d6f1def77dd223725515b26c7b4f80a8",
+      "sectionIndex": 8,
+      "question": "International communication studies:",
+      "options": [
+        "A) Local news only",
+        "B) Cross-border information flow",
+        "C) Domestic politics",
+        "D) Regional languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d51716b5d65b5b3ea0180a2e8a61525d191f6daf",
+      "sectionIndex": 8,
+      "question": "Media ownership concentration can lead to:",
+      "options": [
+        "A) More diversity",
+        "B) Less diverse viewpoints",
+        "C) Better quality",
+        "D) Lower costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ae241044036a6f40cb52745445d3a6ebbc82a47",
+      "sectionIndex": 8,
+      "question": "Soft power through media means:",
+      "options": [
+        "A) Weak signals",
+        "B) Cultural influence",
+        "C) Military force",
+        "D) Economic pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1541bba047be0b903df3742d2cc93ad6937ac4fc",
+      "sectionIndex": 8,
+      "question": "Cross-cultural communication requires:",
+      "options": [
+        "A) One language",
+        "B) Cultural sensitivity",
+        "C) Western values",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ba6fc2e124c33cdd32e498e241d4884c6a5a2d2",
+      "sectionIndex": 9,
+      "question": "Fake news refers to:",
+      "options": [
+        "A) Comedy shows",
+        "B) Deliberately false information",
+        "C) Old news",
+        "D) Foreign news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3fc2a8c015405e499cb18c4736a0706df72eaee",
+      "sectionIndex": 9,
+      "question": "Information overload means:",
+      "options": [
+        "A) Heavy newspapers",
+        "B) Too much information to process",
+        "C) Slow internet",
+        "D) Large files"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d22c82b505cab3af561aa914190ab8fb1755bee",
+      "sectionIndex": 9,
+      "question": "Echo chambers in social media create:",
+      "options": [
+        "A) Sound effects",
+        "B) Reinforcement of existing beliefs",
+        "C) Musical content",
+        "D) Diverse opinions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82c2adf58b53a1c3c31f3ab4a3486dd3260355e6",
+      "sectionIndex": 9,
+      "question": "Clickbait headlines are designed to:",
+      "options": [
+        "A) Inform accurately",
+        "B) Attract clicks regardless of content",
+        "C) Educate readers",
+        "D) Save time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc9952cd6630c2beb3b8b2aaa4c96a9ee8fda047",
+      "sectionIndex": 9,
+      "question": "Media credibility is threatened by:",
+      "options": [
+        "A) Good journalism",
+        "B) Misinformation and bias",
+        "C) Technology",
+        "D) Education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa7b024f7962d77beab5b5a62380b74b0e5fc415",
+      "sectionIndex": 9,
+      "question": "Fact-checking has become important due to:",
+      "options": [
+        "A) Excess facts",
+        "B) Spread of misinformation",
+        "C) Slow news",
+        "D) Print media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4eccb3e161fbe23fb3d6c1d3730f059b2de81e79",
+      "sectionIndex": 9,
+      "question": "Paywalls are used by media to:",
+      "options": [
+        "A) Block content",
+        "B) Generate revenue from subscriptions",
+        "C) Reduce readership",
+        "D) Increase printing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc4325e12ddb3c759947ac19f9e54aff59ccd801",
+      "sectionIndex": 9,
+      "question": "Algorithm-driven news feeds can create:",
+      "options": [
+        "A) Better journalism",
+        "B) Filter bubbles",
+        "C) Diverse content",
+        "D) Slower news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60d465fe4ac93933d1dd5f0a9ecfefba18e94852",
+      "sectionIndex": 9,
+      "question": "Media literacy is important to:",
+      "options": [
+        "A) Read faster",
+        "B) Critically evaluate media content",
+        "C) Create media only",
+        "D) Avoid all media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "481be186862c87aeff13a1fe756afb57979a4d9c",
+      "sectionIndex": 9,
+      "question": "The future of journalism likely involves:",
+      "options": [
+        "A) Only print media",
+        "B) Digital and multimedia integration",
+        "C) No change",
+        "D) Less technology"
+      ],
+      "correct": "B"
+    }
+  ]
+}

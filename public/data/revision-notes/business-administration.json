@@ -1,0 +1,815 @@
+{
+  "subject": "Business Administration",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 32,
+  "categories": [
+    "Management & Organizational Behavior",
+    "Marketing",
+    "Financial Management",
+    "Operations & Supply Chain",
+    "Human Resource Management",
+    "Strategy & Decision",
+    "Ethics & CSR",
+    "Pakistan Context"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Motivation Theories: Maslow vs. Herzberg",
+      "content": "Contrast content vs. hygiene–motivator views; use in job design. Typical exam: compare assumptions, managerial implications, and how to combine them in practice.",
+      "keyTakeaways": [
+        "Herzberg: enrich jobs to add motivators; hygiene fixes only remove dissatisfaction.",
+        "Maslow: lower needs first; growth needs sustain motivation.",
+        "Practical: ensure hygiene then add autonomy, mastery, purpose."
+      ],
+      "resources": [
+        {
+          "title": "HBR — Herzberg (Best of HBR reprint)",
+          "url": "https://hbr.org/2003/01/one-more-time-how-do-you-motivate-employees",
+          "type": "article",
+          "description": "Classic statement of motivator–hygiene theory"
+        },
+        {
+          "title": "Herzberg PDF (reprint scan)",
+          "url": "https://pdodds.w3.uvm.edu/files/papers/others/1968/herzberg1968.pdf",
+          "type": "pdf",
+          "description": "Original text used in HBR reprints"
+        },
+        {
+          "title": "OpenStax — Motivation chapter",
+          "url": "https://openstax.org/books/principles-management/pages/14-1-motivation-direction-and-intensity",
+          "type": "textbook",
+          "description": "Modern overview incl. Maslow & Herzberg"
+        }
+      ],
+      "importance": "high",
+      "category": "Management & Organizational Behavior",
+      "topics": ["Herzberg", "Maslow", "Job Enrichment", "Motivation"]
+    },
+    {
+      "id": "2",
+      "title": "McGregor's Theory X & Theory Y (Assumptions → Structure)",
+      "content": "Manager assumptions shape control vs. empowerment. Link to decentralization, performance management, and culture.",
+      "keyTakeaways": [
+        "Theory X → tight controls, extrinsic rewards.",
+        "Theory Y → autonomy, development, intrinsic drivers.",
+        "Align HR, structure, and leadership style with assumptions."
+      ],
+      "resources": [
+        {
+          "title": "McGregor — The Human Side of Enterprise (extract)",
+          "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/McGregor_The_Human_Side_of_Enterprise.pdf",
+          "type": "pdf",
+          "description": "Seminal text"
+        },
+        {
+          "title": "Overview of Theory X/Y",
+          "url": "https://switcheducation.com/wp-content/uploads/2017/06/SEB_LYO_McGregor_Thinker.pdf",
+          "type": "pdf",
+          "description": "Concise explainer with implications"
+        }
+      ],
+      "importance": "high",
+      "category": "Management & Organizational Behavior",
+      "topics": ["Theory X", "Theory Y", "Leadership", "Control vs Empowerment"]
+    },
+    {
+      "id": "3",
+      "title": "Leadership Theories: Trait, Behavioral, Contingency",
+      "content": "Compare Ohio/Michigan, Blake & Mouton, Fiedler, Path–Goal. Typical exam asks to apply to case or contrast models.",
+      "keyTakeaways": [
+        "No single best style: contingency fit matters.",
+        "Differentiate task vs. relationship behaviors.",
+        "Use situational cues: follower readiness, task structure."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Leadership",
+          "url": "https://openstax.org/books/principles-management/pages/12-introduction-to-leading-people",
+          "type": "textbook",
+          "description": "Free, exam-suitable survey"
+        }
+      ],
+      "importance": "high",
+      "category": "Management & Organizational Behavior",
+      "topics": ["Fiedler", "Path–Goal", "Ohio/Michigan", "Leadership Grid"]
+    },
+    {
+      "id": "4",
+      "title": "Organizational Structure & Culture",
+      "content": "Mechanistic vs. organic; functional/divisional/matrix; culture layers and artifacts.",
+      "keyTakeaways": [
+        "Structure follows strategy and environment.",
+        "Culture aligns behaviors with strategy; artifacts reflect espoused values.",
+        "Boundaryless & networked forms suit dynamic markets."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Org Structure",
+          "url": "https://openstax.org/books/principles-management/pages/7-organizational-structure-and-change",
+          "type": "textbook",
+          "description": "Structures & change"
+        }
+      ],
+      "importance": "medium",
+      "category": "Management & Organizational Behavior",
+      "topics": ["Mechanistic", "Organic", "Matrix", "Culture"]
+    },
+    {
+      "id": "5",
+      "title": "Planning & Control Cycle",
+      "content": "Vision→Goals→Plans→Implementation→Control (feedback).",
+      "keyTakeaways": [
+        "MBO links individual targets to org goals.",
+        "KPIs must be SMART; control uses feedforward, concurrent, feedback.",
+        "Budgetary & non-financial controls complement each other."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Planning & Control",
+          "url": "https://openstax.org/books/principles-management/pages/6-planning-and-mission-and-vision",
+          "type": "textbook",
+          "description": "Foundations for exams"
+        }
+      ],
+      "importance": "medium",
+      "category": "Management & Organizational Behavior",
+      "topics": ["MBO", "KPIs", "Control Types"]
+    },
+    {
+      "id": "6",
+      "title": "Marketing Concept vs. Selling Concept",
+      "content": "Shift from pushing products to meeting needs via STP + 4/7Ps.",
+      "keyTakeaways": [
+        "Marketing focuses on value creation and relationships.",
+        "Selling emphasizes transactions; risk of short-termism.",
+        "STP precedes tactical mix."
+      ],
+      "resources": [
+        {
+          "title": "AMA — Definition of Marketing",
+          "url": "https://www.ama.org/the-definition-of-marketing-what-is-marketing/",
+          "type": "reference",
+          "description": "Authoritative definition"
+        },
+        {
+          "title": "Kotler on 4Ps (AMA piece)",
+          "url": "https://www.ama.org/2024/03/12/a-lifetime-in-marketing-lessons-learned-and-the-way-ahead-by-philip-kotler/",
+          "type": "article",
+          "description": "History & evolution of the mix"
+        }
+      ],
+      "importance": "high",
+      "category": "Marketing",
+      "topics": ["Marketing Concept", "Selling Concept", "STP", "4Ps/7Ps"]
+    },
+    {
+      "id": "7",
+      "title": "Marketing Mix & Product Life Cycle",
+      "content": "Adapt product, price, place, promotion across PLC stages; consider services (7Ps).",
+      "keyTakeaways": [
+        "Intro: awareness & trial; Growth: differentiation; Maturity: defense; Decline: harvest/exit.",
+        "Services require People, Process, Physical Evidence.",
+        "Positioning consistency is critical."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Marketing Foundations",
+          "url": "https://openstax.org/books/principles-management/pages/10-introduction-to-marketing",
+          "type": "textbook",
+          "description": "4Ps, PLC overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Marketing",
+      "topics": ["4Ps", "7Ps", "PLC", "Positioning"]
+    },
+    {
+      "id": "8",
+      "title": "Global & International Marketing",
+      "content": "Entry modes: exporting, licensing, JV, FDI; standardize vs. adapt.",
+      "keyTakeaways": [
+        "Trade-off: economies of scale vs. local responsiveness.",
+        "PESTLE and cultural distance matter.",
+        "Channels & pricing sensitive to regulatory context."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Globalization & Strategy",
+          "url": "https://openstax.org/books/principles-management/pages/4-globalization-and-business",
+          "type": "textbook",
+          "description": "Global context"
+        }
+      ],
+      "importance": "medium",
+      "category": "Marketing",
+      "topics": ["Entry Modes", "Standardization", "Adaptation"]
+    },
+    {
+      "id": "9",
+      "title": "Financial Ratios: Liquidity, Solvency, Profitability",
+      "content": "Compute & interpret Current, Quick, D/E, ROE/ROA, Turnover.",
+      "keyTakeaways": [
+        "Use multiple ratios; trend and peer comparison are essential.",
+        "Quick ratio excludes inventory; D/E varies by industry.",
+        "Link ratios to working capital strategy."
+      ],
+      "resources": [
+        {
+          "title": "Investopedia — Ratio Analysis",
+          "url": "https://www.investopedia.com/terms/r/ratioanalysis.asp",
+          "type": "article",
+          "description": "Definitions + examples"
+        },
+        {
+          "title": "Investopedia — Liquidity Ratios",
+          "url": "https://www.investopedia.com/terms/l/liquidityratios.asp",
+          "type": "article",
+          "description": "Current & Quick ratio"
+        },
+        {
+          "title": "Kiplinger — D/E overview (2025)",
+          "url": "https://www.kiplinger.com/investing/what-is-a-debt-to-equity-ratio-and-how-can-investors-use-it",
+          "type": "article",
+          "description": "Recent explanation & caveats"
+        }
+      ],
+      "importance": "high",
+      "category": "Financial Management",
+      "topics": ["Current", "Quick", "D/E", "ROE", "Turnover"]
+    },
+    {
+      "id": "10",
+      "title": "Time Value of Money, NPV & IRR",
+      "content": "Present value basics; NPV as value-add criterion; IRR as return metric (with limitations).",
+      "keyTakeaways": [
+        "Prefer NPV for mutually exclusive projects.",
+        "Use XIRR for irregular cash flows.",
+        "Beware multiple IRRs and scale/timing issues."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — TVM unit",
+          "url": "https://www.khanacademy.org/economics-finance-domain/core-finance",
+          "type": "course",
+          "description": "PV, FV, interest"
+        },
+        {
+          "title": "Investopedia — IRR in Excel/Sheets",
+          "url": "https://www.investopedia.com/articles/investing/102715/calculating-internal-rate-return-using-excel.asp",
+          "type": "article",
+          "description": "Practical walkthrough"
+        },
+        {
+          "title": "YouTube — IRR explained",
+          "url": "https://www.youtube.com/watch?v=OSDDrZZaV8E",
+          "type": "video",
+          "description": "Worked example"
+        }
+      ],
+      "importance": "high",
+      "category": "Financial Management",
+      "topics": ["NPV", "IRR", "Discounting", "XIRR"]
+    },
+    {
+      "id": "11",
+      "title": "Working Capital & Cash Conversion Cycle",
+      "content": "Policies (aggressive, moderate, conservative); CCC drivers: DIO, DSO, DPO.",
+      "keyTakeaways": [
+        "Tighter CCC improves liquidity but may affect relationships.",
+        "Match financing to asset maturities.",
+        "Monitor seasonality and credit policy."
+      ],
+      "resources": [
+        {
+          "title": "Investopedia — 6 Key Ratios incl. WC",
+          "url": "https://www.investopedia.com/financial-edge/0910/6-basic-financial-ratios-and-what-they-tell-you.aspx",
+          "type": "article",
+          "description": "Practical overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Financial Management",
+      "topics": ["CCC", "DIO", "DSO", "DPO"]
+    },
+    {
+      "id": "12",
+      "title": "EOQ & Inventory Cost Trade-offs",
+      "content": "EOQ minimizes ordering + holding cost under steady demand; variants for shortages/quantity discounts.",
+      "keyTakeaways": [
+        "Base formula: EOQ = √(2SD/H).",
+        "Assumptions often violated—forecast & variability matter.",
+        "Integrate with reorder point & safety stock."
+      ],
+      "resources": [
+        {
+          "title": "Investopedia — EOQ explainer",
+          "url": "https://www.investopedia.com/ask/answers/052715/how-economic-order-quantity-model-used-inventory-management.asp",
+          "type": "article",
+          "description": "Formula + assumptions"
+        },
+        {
+          "title": "Video — EOQ tutorial",
+          "url": "https://www.youtube.com/watch?v=AYpjPWmlyHM",
+          "type": "video",
+          "description": "Worked example"
+        }
+      ],
+      "importance": "high",
+      "category": "Operations & Supply Chain",
+      "topics": ["EOQ", "Holding vs Ordering Cost", "ROP"]
+    },
+    {
+      "id": "13",
+      "title": "Supply Chain Drivers & Bullwhip Effect",
+      "content": "Facilities, inventory, transportation, information; demand amplification and countermeasures.",
+      "keyTakeaways": [
+        "Bullwhip increases cost, lowers service.",
+        "Mitigate via information sharing, coordination, smaller batch sizes.",
+        "Align incentives across echelons."
+      ],
+      "resources": [
+        {
+          "title": "MIT SMR — Bullwhip Effect (Lee et al.)",
+          "url": "https://sloanreview.mit.edu/article/the-bullwhip-effect-in-supply-chains/",
+          "type": "article",
+          "description": "Classic article"
+        },
+        {
+          "title": "MIT OCW — Supply Chain courses",
+          "url": "https://ocw.mit.edu/courses/15-762j-supply-chain-planning-spring-2011/",
+          "type": "course",
+          "description": "Planning & coordination"
+        }
+      ],
+      "importance": "high",
+      "category": "Operations & Supply Chain",
+      "topics": ["Bullwhip", "Drivers", "Coordination"]
+    },
+    {
+      "id": "14",
+      "title": "Forecasting & Demand Management",
+      "content": "Qualitative vs. quantitative methods; error metrics (MAPE, RMSE); CPFR.",
+      "keyTakeaways": [
+        "Combine methods; track bias and variance.",
+        "Collaborative planning reduces distortions.",
+        "Link forecast to capacity & inventory."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW — Intro SCM lecture notes",
+          "url": "https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/resources/mitesd_273jf09_lec01/",
+          "type": "notes",
+          "description": "Foundational slides"
+        }
+      ],
+      "importance": "medium",
+      "category": "Operations & Supply Chain",
+      "topics": ["Forecasting", "CPFR", "Error Metrics"]
+    },
+    {
+      "id": "15",
+      "title": "HRM: Recruitment, Selection & Yield Pyramid",
+      "content": "Plan sourcing funnel; validity/reliability of selection tools; legal/ethical aspects.",
+      "keyTakeaways": [
+        "Structured interviews outperform unstructured.",
+        "Assess utility/cut-scores; monitor adverse impact.",
+        "Employer branding affects pipeline quality."
+      ],
+      "resources": [
+        {
+          "title": "SHRM — Hiring & Selection resources",
+          "url": "https://www.shrm.org/",
+          "type": "portal",
+          "description": "Search specific guides"
+        }
+      ],
+      "importance": "medium",
+      "category": "Human Resource Management",
+      "topics": ["Sourcing", "Assessment", "Yield Pyramid"]
+    },
+    {
+      "id": "16",
+      "title": "Performance Appraisal Methods & Modern Trends",
+      "content": "Methods: MBO, BARS, 360°, checklists; shift toward coaching/continuous feedback.",
+      "keyTakeaways": [
+        "Choose method by role and measurability.",
+        "Mitigate rater errors; separate evaluation from development when needed.",
+        "Continuous feedback improves timeliness."
+      ],
+      "resources": [
+        {
+          "title": "SHRM — What You Need to Know (2023)",
+          "url": "https://www.shrm.org/topics-tools/tools/need-to-know-performance-appraisals",
+          "type": "article",
+          "description": "Concise guide"
+        },
+        {
+          "title": "SHRM — Conducting great reviews",
+          "url": "https://www.shrm.org/topics-tools/news/employee-relations/how-to-conduct-great-performance-review",
+          "type": "article",
+          "description": "Practical steps"
+        }
+      ],
+      "importance": "high",
+      "category": "Human Resource Management",
+      "topics": ["Appraisal", "360°", "Bias"]
+    },
+    {
+      "id": "17",
+      "title": "Compensation: Pay Structures & Incentives",
+      "content": "Base vs. variable pay; internal equity, external competitiveness; pay-for-performance risks.",
+      "keyTakeaways": [
+        "Incentives must align with controllable outcomes.",
+        "Use banding & market benchmarks.",
+        "Consider intrinsic motivators alongside pay."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — HR Compensation basics",
+          "url": "https://openstax.org/books/principles-management/pages/16-compensation-and-benefits",
+          "type": "textbook",
+          "description": "Free overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Human Resource Management",
+      "topics": ["Pay", "Incentives", "Equity"]
+    },
+    {
+      "id": "18",
+      "title": "Porter's Five Forces",
+      "content": "Industry structure shapes profitability; use to scan threats/opportunities and to guide positioning.",
+      "keyTakeaways": [
+        "Assess all five; avoid firm-level misuse.",
+        "Dynamics & tech can alter forces quickly.",
+        "Complement with complements/ecosystems view."
+      ],
+      "resources": [
+        {
+          "title": "HBR — Five Competitive Forces",
+          "url": "https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy",
+          "type": "article",
+          "description": "Definitive exposition"
+        },
+        {
+          "title": "HBS — Five Forces explainer (video)",
+          "url": "https://hbr.org/video/3590615226001/the-explainer-porters-five-forces",
+          "type": "video",
+          "description": "Short visual summary"
+        },
+        {
+          "title": "Investopedia — Pitfalls of Five Forces",
+          "url": "https://www.investopedia.com/articles/investing/103116/pitfalls-porters-5-forces.asp",
+          "type": "article",
+          "description": "Common errors & limits"
+        }
+      ],
+      "importance": "high",
+      "category": "Strategy & Decision",
+      "topics": ["Industry Analysis", "Profitability", "Strategy"]
+    },
+    {
+      "id": "19",
+      "title": "Core Competence of the Corporation",
+      "content": "Identify unique, hard-to-imitate capabilities that unlock multiple markets and customer benefits.",
+      "keyTakeaways": [
+        "Three tests: access to markets, customer value, difficult to imitate.",
+        "Build portfolios around competencies, not just SBU products.",
+        "Invest in capability platforms."
+      ],
+      "resources": [
+        {
+          "title": "HBR (reprint PDF)",
+          "url": "https://static1.squarespace.com/static/57aa6491893fc06ccacd350c/t/57b4e4e337c581575d222280/1471472868536/The%2BCore%2BCompetence%2Bof%2Bthe%2BCorporation.pdf",
+          "type": "pdf",
+          "description": "Prahalad & Hamel classic"
+        },
+        {
+          "title": "Investopedia — Core Competencies",
+          "url": "https://www.investopedia.com/terms/c/core_competencies.asp",
+          "type": "article",
+          "description": "Practical framing & examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Strategy & Decision",
+      "topics": ["Core Competence", "Capabilities", "Diversification"]
+    },
+    {
+      "id": "20",
+      "title": "Blue Ocean Strategy & Value Innovation",
+      "content": "Create uncontested market space by shifting the value curve; tools: strategy canvas, four actions.",
+      "keyTakeaways": [
+        "Compete on different factors (eliminate–reduce–raise–create).",
+        "Sequence: buyer utility → price → cost → adoption.",
+        "Risk reduction via tipping point leadership."
+      ],
+      "resources": [
+        {
+          "title": "HBR summary PDF",
+          "url": "https://info.eaglenet.jbu.edu/depts/odl/om/resources/om3263/BOSHBR.pdf",
+          "type": "pdf",
+          "description": "Seminal article"
+        },
+        {
+          "title": "Blue Ocean 8-page summary",
+          "url": "https://public.summaries.com/files/8-page-summary/blue-ocean-strategy.pdf",
+          "type": "pdf",
+          "description": "Condensed tools & examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Strategy & Decision",
+      "topics": ["Blue Ocean", "Strategy Canvas", "4 Actions"]
+    },
+    {
+      "id": "21",
+      "title": "Decision-Making: Rational, Bounded, and Behavioral",
+      "content": "Contrast rational models with heuristics/biases; tools: decision trees, payoff matrices, sensitivity analysis.",
+      "keyTakeaways": [
+        "Use pre-mortems, checklists to mitigate bias.",
+        "Consider risk/uncertainty explicitly.",
+        "Scenario planning improves robustness."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Decision making",
+          "url": "https://openstax.org/books/principles-management/pages/5-decision-making",
+          "type": "textbook",
+          "description": "Overview + tools"
+        }
+      ],
+      "importance": "medium",
+      "category": "Strategy & Decision",
+      "topics": ["Bounded Rationality", "Heuristics", "Decision Trees"]
+    },
+    {
+      "id": "22",
+      "title": "Business Ethics Frameworks",
+      "content": "Utilitarian, rights, justice, virtue approaches; stakeholder analysis.",
+      "keyTakeaways": [
+        "Map stakeholders & salience.",
+        "Integrate ethics into governance and incentives.",
+        "Whistleblowing and compliance systems reduce risk."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Ethics chapter",
+          "url": "https://openstax.org/books/principles-management/pages/3-ethical-decision-making",
+          "type": "textbook",
+          "description": "Intro with cases"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ethics & CSR",
+      "topics": ["Ethical Theories", "Stakeholders", "Governance"]
+    },
+    {
+      "id": "23",
+      "title": "Carroll's Pyramid of CSR & ISO 26000",
+      "content": "CSR layers (economic, legal, ethical, philanthropic) and ISO guidance on integrating social responsibility.",
+      "keyTakeaways": [
+        "CSR complements, not replaces, profitability.",
+        "ISO 26000: principles, core subjects, and integration practices.",
+        "Link CSR to ESG metrics and reporting."
+      ],
+      "resources": [
+        {
+          "title": "Carroll — CSR Pyramid (review)",
+          "url": "https://www.econstor.eu/bitstream/10419/217391/1/s40991-016-0004-6.pdf",
+          "type": "pdf",
+          "description": "Author's retrospective review"
+        },
+        {
+          "title": "ISO 26000 overview",
+          "url": "https://www.iso.org/iso-26000-social-responsibility.html",
+          "type": "web",
+          "description": "Official summary"
+        },
+        {
+          "title": "Discovering ISO 26000 (brochure)",
+          "url": "https://www.iso.org/files/live/sites/isoorg/files/store/en/PUB100258.pdf",
+          "type": "pdf",
+          "description": "Guidance & benefits"
+        }
+      ],
+      "importance": "high",
+      "category": "Ethics & CSR",
+      "topics": ["CSR", "ISO 26000", "ESG"]
+    },
+    {
+      "id": "24",
+      "title": "Channels & Sales Force Management",
+      "content": "Design channels for coverage, cost, and control; manage salesforce structure, compensation, territories.",
+      "keyTakeaways": [
+        "Conflict management across channels is key.",
+        "Hybrid channels require clear governance.",
+        "Link sales incentives to customer value, not just volume."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Place (Distribution)",
+          "url": "https://openstax.org/books/principles-management/pages/10-5-place-distribution-channels",
+          "type": "textbook",
+          "description": "Channel basics"
+        }
+      ],
+      "importance": "medium",
+      "category": "Marketing",
+      "topics": ["Channels", "Sales Management", "Conflict"]
+    },
+    {
+      "id": "25",
+      "title": "Branding & Positioning",
+      "content": "Craft value proposition; differentiate via attributes/benefits/personality; measure equity.",
+      "keyTakeaways": [
+        "Consistency across touchpoints builds equity.",
+        "Position maps visualize competitive space.",
+        "Beware line extensions that dilute meaning."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Product, Branding",
+          "url": "https://openstax.org/books/principles-management/pages/10-2-product-concepts",
+          "type": "textbook",
+          "description": "Product/brand concepts"
+        }
+      ],
+      "importance": "medium",
+      "category": "Marketing",
+      "topics": ["Brand Equity", "Positioning", "Segmentation"]
+    },
+    {
+      "id": "26",
+      "title": "Operations Strategy & Capacity",
+      "content": "Align capacity, layout, and process choice with demand variability and cost priorities.",
+      "keyTakeaways": [
+        "Identify order winners/qualifiers.",
+        "Use bottleneck analysis & TOC.",
+        "Make vs. buy decisions consider strategic risk."
+      ],
+      "resources": [
+        {
+          "title": "MIT OCW — Logistics & SCM",
+          "url": "https://ocw.mit.edu/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/",
+          "type": "course",
+          "description": "Ops/SCM tools"
+        }
+      ],
+      "importance": "medium",
+      "category": "Operations & Supply Chain",
+      "topics": ["Capacity", "Process Choice", "TOC"]
+    },
+    {
+      "id": "27",
+      "title": "Pakistan Macroeconomic Context (for BA cases)",
+      "content": "Use current SBP and Finance Division publications for policy, inflation, growth, FX, and sector snapshots.",
+      "keyTakeaways": [
+        "Monetary policy shapes credit cost and investment.",
+        "Economic Survey provides sectoral data & trends.",
+        "Corporate decisions must reflect local regulatory climate."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Monetary Policy Statement (Sep 15, 2025)",
+          "url": "https://www.sbp.org.pk/m_policy/2025/MPS-Sep-2025-Eng.pdf",
+          "type": "pdf",
+          "description": "Latest policy stance & outlook"
+        },
+        {
+          "title": "Pakistan Economic Survey 2024–25",
+          "url": "https://www.finance.gov.pk/survey_2025.html",
+          "type": "portal",
+          "description": "Chapters: growth, money & credit, etc."
+        },
+        {
+          "title": "Reuters — Policy rate moves 2025",
+          "url": "https://www.reuters.com/markets/rates-bonds/pakistan-central-bank-cuts-key-rate-by-100-bps-2025-01-27/",
+          "type": "news",
+          "description": "Rate-cut context & inflation path"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context",
+      "topics": ["Monetary Policy", "Inflation", "Growth"]
+    },
+    {
+      "id": "28",
+      "title": "Corporate Governance in Pakistan",
+      "content": "Listed Companies Code (2019, amended) + Companies Act 2017 define governance duties, disclosures, board composition.",
+      "keyTakeaways": [
+        "Understand independent directors & audit committee roles.",
+        "Disclosure, internal control, and stakeholder rights emphasized.",
+        "Non-compliance attracts SECP actions."
+      ],
+      "resources": [
+        {
+          "title": "SECP — Code of Corporate Governance (2019, amended)",
+          "url": "https://www.secp.gov.pk/document/listed-companies-code-of-corporate-governance-regulations-2019/",
+          "type": "regulation",
+          "description": "Regulations + updates"
+        },
+        {
+          "title": "Companies Act 2017 (official PDF)",
+          "url": "https://www.na.gov.pk/uploads/documents/1487136261_767.pdf",
+          "type": "pdf",
+          "description": "Primary company law"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context",
+      "topics": ["SECP", "Boards", "Disclosure"]
+    },
+    {
+      "id": "29",
+      "title": "Pakistan: Competition & Market Conduct",
+      "content": "Competition Act enforcement, anti-trust norms, and implications for strategy (pricing, channels, mergers).",
+      "keyTakeaways": [
+        "Avoid cartels, predatory pricing, abuse of dominance.",
+        "M&A may need clearance; design compliant agreements.",
+        "Compliance lowers regulatory risk and reputational damage."
+      ],
+      "resources": [
+        {
+          "title": "SECP Regulations Index (for related rules)",
+          "url": "https://www.secp.gov.pk/laws/regulations/",
+          "type": "portal",
+          "description": "Search listed regulations"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Context",
+      "topics": ["Competition", "M&A", "Compliance"]
+    },
+    {
+      "id": "30",
+      "title": "Sales Promotion vs. Advertising & IMC",
+      "content": "Differentiate short-term demand lifts from brand-building; coordinate in IMC plan.",
+      "keyTakeaways": [
+        "Overuse of promotions erodes equity.",
+        "Message consistency across media is key.",
+        "Measure ROMI and lift vs. baseline."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Promotion & IMC",
+          "url": "https://openstax.org/books/principles-management/pages/10-6-promotion-integrated-marketing-communications",
+          "type": "textbook",
+          "description": "IMC concepts"
+        }
+      ],
+      "importance": "medium",
+      "category": "Marketing",
+      "topics": ["Promotion", "Advertising", "IMC"]
+    },
+    {
+      "id": "31",
+      "title": "Financial Markets & Capital Budgeting in Exams",
+      "content": "Know bond/stock basics, cost of capital, WACC; capital budgeting techniques and when each is appropriate.",
+      "keyTakeaways": [
+        "Use WACC consistent with project risk.",
+        "Profitability Index helps under capital rationing.",
+        "Sensitivity & scenario analysis for risk."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Interest & TVM series",
+          "url": "https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial",
+          "type": "course",
+          "description": "Hands-on practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Financial Management",
+      "topics": ["WACC", "PI", "Sensitivity"]
+    },
+    {
+      "id": "32",
+      "title": "Pakistan: Money & Credit, 2024–25 Snapshot",
+      "content": "Use current monetary/credit aggregates for case data; understand implications for firm financing and consumer demand.",
+      "keyTakeaways": [
+        "Declining policy rates ease borrowing but watch inflation expectations.",
+        "Credit growth affects working capital availability.",
+        "Exchange rate and reserves shape importers' risk."
+      ],
+      "resources": [
+        {
+          "title": "Economic Survey — Money & Credit chapter",
+          "url": "https://www.finance.gov.pk/survey/chapter_25/overview_2024_25.pdf",
+          "type": "pdf",
+          "description": "Macroeconomic overview 2024–25"
+        },
+        {
+          "title": "Reuters — FY25 growth context",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-posts-24-growth-third-quarter-fiscal-year-2025-05-20/",
+          "type": "news",
+          "description": "GDP & sector performance update"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Context",
+      "topics": ["Money & Credit", "Policy Rate", "Growth"]
+    }
+  ]
+}

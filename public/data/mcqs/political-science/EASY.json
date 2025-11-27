@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:44:57.548Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "48ad827a8f1c5b80ffb4e325e3370be4252df62e",
+      "sectionIndex": 0,
+      "question": "Who said \"Political Science begins and ends with the state\"?",
+      "options": [
+        "A) Paul Janet",
+        "B) Stephen Leacock",
+        "C) Professor Garner",
+        "D) Aristotle"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "af140be4c1dae5e2363bbc2940fd5e326020bb7a",
+      "sectionIndex": 0,
+      "question": "The famous work \"The Republic\" was written by:",
+      "options": [
+        "A) Aristotle",
+        "B) Plato",
+        "C) Socrates",
+        "D) Hobbes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ba762d123795087883284f6d2c8f4734ac768df",
+      "sectionIndex": 0,
+      "question": "Jean Jacques Rousseau was born at:",
+      "options": [
+        "A) London",
+        "B) Paris",
+        "C) Geneva",
+        "D) Rome"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9870ea3636f669c3e58d3d8393e87bc1dab92924",
+      "sectionIndex": 0,
+      "question": "The book \"Leviathan\" was written by:",
+      "options": [
+        "A) Locke",
+        "B) Hobbes",
+        "C) Rousseau",
+        "D) Montesquieu"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e4ff0cf7f87f7c4840b049807a3c897e7566fe1",
+      "sectionIndex": 0,
+      "question": "Al-Farabi is known as:",
+      "options": [
+        "A) The First Teacher",
+        "B) The Second Teacher",
+        "C) The Third Teacher",
+        "D) The Final Teacher"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4ba680d327fcf1bfd2678af5572a7da2311c791",
+      "sectionIndex": 0,
+      "question": "\"The Prince\" was written by:",
+      "options": [
+        "A) Plato",
+        "B) Aristotle",
+        "C) Machiavelli",
+        "D) Hobbes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "edbb6d5fb573e279c656521973f5eebb87709ba4",
+      "sectionIndex": 0,
+      "question": "The concept of General Will was given by:",
+      "options": [
+        "A) Hobbes",
+        "B) Locke",
+        "C) Rousseau",
+        "D) Montesquieu"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d42d6519c66823ef648eb121ce922e53e6e997ed",
+      "sectionIndex": 0,
+      "question": "Ibn Khaldun wrote his famous book \"Muqaddimah\" in:",
+      "options": [
+        "A) 1377",
+        "B) 1400",
+        "C) 1425",
+        "D) 1450"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5f242b24e644c331ad34f43171f73f014056cd3a",
+      "sectionIndex": 0,
+      "question": "\"The Spirit of Laws\" was written by:",
+      "options": [
+        "A) Rousseau",
+        "B) Montesquieu",
+        "C) Voltaire",
+        "D) Diderot"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "669ddfaea7f4624031b007af52667c842e3f275c",
+      "sectionIndex": 0,
+      "question": "Karl Marx is known as the founder of:",
+      "options": [
+        "A) Liberalism",
+        "B) Communism",
+        "C) Fascism",
+        "D) Anarchism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67fc16c91eb6b88548a9c13a29b95d8f000e7679",
+      "sectionIndex": 1,
+      "question": "The term \"Polis\" means:",
+      "options": [
+        "A) Government",
+        "B) City-state",
+        "C) Democracy",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57cde4c4e66f17e5ba6411c538d988c0e482f4d5",
+      "sectionIndex": 1,
+      "question": "Sovereignty means:",
+      "options": [
+        "A) Democracy",
+        "B) Supreme power",
+        "C) Constitution",
+        "D) Government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42490902d4884262d2c46cb007da7d6d49e3f6ba",
+      "sectionIndex": 1,
+      "question": "The concept of \"Asabiyyah\" was given by:",
+      "options": [
+        "A) Al-Ghazali",
+        "B) Al-Mawardi",
+        "C) Ibn Khaldun",
+        "D) Al-Farabi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "39c1c16ce696bb70333814cbddf4e8f2d8caa8cf",
+      "sectionIndex": 1,
+      "question": "\"Khudi\" or Ego is a concept associated with:",
+      "options": [
+        "A) Al-Ghazali",
+        "B) Ibn Khaldun",
+        "C) Allama Iqbal",
+        "D) Al-Farabi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1c4cba3e4b30d75a0f40f2e66a3b50b9fbece366",
+      "sectionIndex": 1,
+      "question": "The theory of Separation of Powers was given by:",
+      "options": [
+        "A) Locke",
+        "B) Rousseau",
+        "C) Montesquieu",
+        "D) Voltaire"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f3d6757d19626a7e31f1e01d0d4b60c6bd9dec74",
+      "sectionIndex": 1,
+      "question": "The Social Contract theory is associated with:",
+      "options": [
+        "A) Only Hobbes",
+        "B) Only Locke",
+        "C) Only Rousseau",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "262dcb5cd582cd6442ba887732219c6bfc0958d4",
+      "sectionIndex": 1,
+      "question": "The concept of \"State of Nature\" is discussed by:",
+      "options": [
+        "A) Plato",
+        "B) Aristotle",
+        "C) Hobbes",
+        "D) Marx"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "11bf23287092e351147ca74af6f94bb751620b64",
+      "sectionIndex": 1,
+      "question": "Historical Materialism is associated with:",
+      "options": [
+        "A) Hegel",
+        "B) Marx",
+        "C) Lenin",
+        "D) Engels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33cb146526198b468606421eaed3b9985b00921b",
+      "sectionIndex": 1,
+      "question": "The term \"Anarchism\" is derived from:",
+      "options": [
+        "A) Latin",
+        "B) Greek",
+        "C) French",
+        "D) English"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4d451403e3b587e18bbfdc326366b10b8e09b0e",
+      "sectionIndex": 1,
+      "question": "Democracy literally means:",
+      "options": [
+        "A) Rule of law",
+        "B) Rule of people",
+        "C) Rule of elite",
+        "D) Rule of king"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c933dd158ff291e8f06b53f516ae69caf97cac5",
+      "sectionIndex": 2,
+      "question": "\"An Essay Concerning Human Understanding\" was written by:",
+      "options": [
+        "A) Hobbes",
+        "B) Locke",
+        "C) Hume",
+        "D) Berkeley"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27142d6777716ce940324b5c7b610d1c336ebb51",
+      "sectionIndex": 2,
+      "question": "\"The Reconstruction of Religious Thought in Islam\" was written by:",
+      "options": [
+        "A) Al-Ghazali",
+        "B) Ibn Khaldun",
+        "C) Allama Iqbal",
+        "D) Al-Farabi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2edeb333dead842cabd74ef768314b25e28aee28",
+      "sectionIndex": 2,
+      "question": "\"Siyasat Nama\" was written by:",
+      "options": [
+        "A) Nizam-ul-Mulk",
+        "B) Al-Ghazali",
+        "C) Ibn Khaldun",
+        "D) Al-Mawardi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "07476d6398cddd9159c6fbc28a0e126545c72cb5",
+      "sectionIndex": 2,
+      "question": "\"Tahafut al-Falasifa\" (Incoherence of Philosophers) was written by:",
+      "options": [
+        "A) Al-Farabi",
+        "B) Al-Ghazali",
+        "C) Ibn Rushd",
+        "D) Al-Kindi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15af370d561fea025993bd60d62d64405c6189b3",
+      "sectionIndex": 2,
+      "question": "\"Introduction to the Principles of Morals and Legislation\" was written by:",
+      "options": [
+        "A) J.S. Mill",
+        "B) Jeremy Bentham",
+        "C) John Austin",
+        "D) H.L.A. Hart"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39cfaa479b7c6624a66e8f34e1a0988e110531a5",
+      "sectionIndex": 2,
+      "question": "\"Two Treatises of Government\" was written by:",
+      "options": [
+        "A) Hobbes",
+        "B) Locke",
+        "C) Rousseau",
+        "D) Burke"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49493f889931f41ce1bcfd03c1f5c156cff9eb9d",
+      "sectionIndex": 2,
+      "question": "\"Das Kapital\" was written by:",
+      "options": [
+        "A) Engels",
+        "B) Lenin",
+        "C) Marx",
+        "D) Trotsky"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "65a5fc3677c96dbc1f26019da44a36846d0da6d1",
+      "sectionIndex": 2,
+      "question": "\"Politics\" was written by:",
+      "options": [
+        "A) Plato",
+        "B) Aristotle",
+        "C) Socrates",
+        "D) Cicero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0e1f419263c630578c7eb90394450cd58aa7fdb",
+      "sectionIndex": 2,
+      "question": "Al-Mawardi wrote:",
+      "options": [
+        "A) Muqaddimah",
+        "B) Al-Ahkam al-Sultaniyyah",
+        "C) Siyasat Nama",
+        "D) Tahafut al-Falasifa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93c73da18ea2c3b20510d809a64e3a599487819c",
+      "sectionIndex": 2,
+      "question": "\"A Theory of Justice\" was written by:",
+      "options": [
+        "A) Nozick",
+        "B) Rawls",
+        "C) Dworkin",
+        "D) Hart"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d9b27cb2116cab44cf446285fa576ed4dd376b0",
+      "sectionIndex": 3,
+      "question": "The American Senate comprises:",
+      "options": [
+        "A) 50 Senators",
+        "B) 100 Senators",
+        "C) 150 Senators",
+        "D) 200 Senators"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06b0efacfa86e9bd426ef99a05cbf7c96b94e38a",
+      "sectionIndex": 3,
+      "question": "Originally, the total number of States in the USA was:",
+      "options": [
+        "A) 13",
+        "B) 50",
+        "C) 48",
+        "D) 52"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0c1f6c0c618ace3bcb7eb32c4496215ba7d5f99c",
+      "sectionIndex": 3,
+      "question": "The Supreme Court of Pakistan comprises:",
+      "options": [
+        "A) 9 judges",
+        "B) 11 judges",
+        "C) 17 judges",
+        "D) 21 judges"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dd1899cdccc279f6bd51e27fc8a7841aae8c13a4",
+      "sectionIndex": 3,
+      "question": "The British Parliament consists of:",
+      "options": [
+        "A) One house",
+        "B) Two houses",
+        "C) Three houses",
+        "D) Four houses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85b1e19a2f60ba923f3ed823779019ded7b5cf67",
+      "sectionIndex": 3,
+      "question": "The French President is elected for:",
+      "options": [
+        "A) 4 years",
+        "B) 5 years",
+        "C) 6 years",
+        "D) 7 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5128a220e2c90f10473131bf5dd6f55887e8ec3",
+      "sectionIndex": 3,
+      "question": "The US President is elected for:",
+      "options": [
+        "A) 2 years",
+        "B) 4 years",
+        "C) 5 years",
+        "D) 6 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "351632c3796512f547a9c244c5fd91775741c298",
+      "sectionIndex": 3,
+      "question": "The minimum age for US President is:",
+      "options": [
+        "A) 25 years",
+        "B) 30 years",
+        "C) 35 years",
+        "D) 40 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b6ec7a42f9f217c347eef0350e2d2778e975669c",
+      "sectionIndex": 3,
+      "question": "The House of Commons in UK has approximately:",
+      "options": [
+        "A) 450 members",
+        "B) 550 members",
+        "C) 650 members",
+        "D) 750 members"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5a88306f103690abed1cea3809d230d4c1ba0b09",
+      "sectionIndex": 3,
+      "question": "The Security Council of UN has permanent members:",
+      "options": [
+        "A) 3",
+        "B) 5",
+        "C) 7",
+        "D) 9"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15710e275cb9404dc717405d5d95439a9d856657",
+      "sectionIndex": 3,
+      "question": "The European Union was established in:",
+      "options": [
+        "A) 1991",
+        "B) 1992",
+        "C) 1993",
+        "D) 1994"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dda6b418ea0cfd33683ac2c6fe2ffaf3c124a6cf",
+      "sectionIndex": 4,
+      "question": "The Eighth Amendment was adopted in Pakistan's Constitution in:",
+      "options": [
+        "A) 1983",
+        "B) 1985",
+        "C) 1987",
+        "D) 1989"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bfb770db33fe852f6ade09473435492cfbed1e6",
+      "sectionIndex": 4,
+      "question": "The 18th Amendment was passed in:",
+      "options": [
+        "A) 2008",
+        "B) 2009",
+        "C) 2010",
+        "D) 2011"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "66f52c5210ae8d8bf39f6c219310d1e8f5f23cee",
+      "sectionIndex": 4,
+      "question": "Pakistan's first Constitution was enacted in:",
+      "options": [
+        "A) 1947",
+        "B) 1956",
+        "C) 1962",
+        "D) 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc4f55fa4ffd08db0bf6bbd69517696cb23b4269",
+      "sectionIndex": 4,
+      "question": "The current Constitution of Pakistan was adopted in:",
+      "options": [
+        "A) 1956",
+        "B) 1962",
+        "C) 1973",
+        "D) 1985"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c6a35319e06a2fda71923b5e9a0073b0925d0fb8",
+      "sectionIndex": 4,
+      "question": "The Objectives Resolution was passed in:",
+      "options": [
+        "A) 1947",
+        "B) 1948",
+        "C) 1949",
+        "D) 1950"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8b0e00221fcd725e3fab8d46e678da2e9a0993c6",
+      "sectionIndex": 4,
+      "question": "The founder of Pakistan is:",
+      "options": [
+        "A) Liaquat Ali Khan",
+        "B) Muhammad Ali Jinnah",
+        "C) Allama Iqbal",
+        "D) Sir Syed Ahmad Khan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "966ea0089a892a327a7c7f10181443c7b3ea6861",
+      "sectionIndex": 4,
+      "question": "The Lahore Resolution was passed in:",
+      "options": [
+        "A) 1938",
+        "B) 1940",
+        "C) 1942",
+        "D) 1946"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b097e25327e28568e4c6260afcead2f06015f54",
+      "sectionIndex": 4,
+      "question": "Pakistan became a Republic in:",
+      "options": [
+        "A) 1947",
+        "B) 1956",
+        "C) 1962",
+        "D) 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ff75e5741740869f175321c595046a41e6b3215",
+      "sectionIndex": 4,
+      "question": "The system of government in Pakistan is:",
+      "options": [
+        "A) Presidential",
+        "B) Parliamentary",
+        "C) Monarchical",
+        "D) Dictatorial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73202d43389702f2a115810e149faa52b0b95666",
+      "sectionIndex": 4,
+      "question": "The Parliament of Pakistan is called:",
+      "options": [
+        "A) Congress",
+        "B) Majlis-e-Shoora",
+        "C) National Assembly",
+        "D) Senate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54e311f0e4a69b6693e8c5289ee83d210d9766e0",
+      "sectionIndex": 5,
+      "question": "The Turkish Government is:",
+      "options": [
+        "A) Democratic",
+        "B) Dictatorial",
+        "C) Monarchical",
+        "D) Communist"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7e270fa6bdd09aa4a3c64d0d81bbe5ef33d325c9",
+      "sectionIndex": 5,
+      "question": "Which country follows a federal system?",
+      "options": [
+        "A) United Kingdom",
+        "B) France",
+        "C) United States",
+        "D) China"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dd81fa59f1242bcf1b68367eaca39459c4392999",
+      "sectionIndex": 5,
+      "question": "Parliamentary system originated in:",
+      "options": [
+        "A) United States",
+        "B) United Kingdom",
+        "C) France",
+        "D) Germany"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dafbf3be7a11afbfee3194c507043a0814895f01",
+      "sectionIndex": 5,
+      "question": "Presidential system is followed by:",
+      "options": [
+        "A) United Kingdom",
+        "B) India",
+        "C) United States",
+        "D) Canada"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fcd3cffcc81275e58c662ee2cfbf86e884644456",
+      "sectionIndex": 5,
+      "question": "Fascism originated in:",
+      "options": [
+        "A) Germany",
+        "B) Italy",
+        "C) Spain",
+        "D) Japan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11e25d625cd0034963e7192ec4849f2826d9fcff",
+      "sectionIndex": 5,
+      "question": "The Westminster model refers to:",
+      "options": [
+        "A) American system",
+        "B) British system",
+        "C) French system",
+        "D) German system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68651070d4bbec5c44ffced9eead392529ecc871",
+      "sectionIndex": 5,
+      "question": "A unitary state is:",
+      "options": [
+        "A) Centralized",
+        "B) Decentralized",
+        "C) Federal",
+        "D) Confederal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "63325839d0c83b88961f237ad5268c532ba3620e",
+      "sectionIndex": 5,
+      "question": "Switzerland is an example of:",
+      "options": [
+        "A) Unitary state",
+        "B) Federal state",
+        "C) Confederation",
+        "D) None of these"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f85fa64f53f35adecd1265ee025c627723a1051",
+      "sectionIndex": 5,
+      "question": "Monarchy exists in:",
+      "options": [
+        "A) United States",
+        "B) France",
+        "C) United Kingdom",
+        "D) Germany"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "176dbba6c479e489b3c4ffc39ee71c88f71fd923",
+      "sectionIndex": 5,
+      "question": "The Fifth Republic in France began in:",
+      "options": [
+        "A) 1946",
+        "B) 1958",
+        "C) 1968",
+        "D) 1978"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b07d829f5a60543c2caa69293c8e172997a19394",
+      "sectionIndex": 6,
+      "question": "Aristotle died in:",
+      "options": [
+        "A) 347 BC",
+        "B) 322 BC",
+        "C) 300 BC",
+        "D) 250 BC"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71761c6ac0911c3463fbe79dede2b6fd6530db88",
+      "sectionIndex": 6,
+      "question": "The turning point in Plato's life came in:",
+      "options": [
+        "A) 399 BC",
+        "B) 380 BC",
+        "C) 370 BC",
+        "D) 360 BC"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1148ad4076ae5474c8e055101808fb07f3dbcd83",
+      "sectionIndex": 6,
+      "question": "Benito Mussolini was the originator of:",
+      "options": [
+        "A) Communism",
+        "B) Fascism",
+        "C) Socialism",
+        "D) Liberalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6da85ef6e29a9cbbf061acc8f0b24cacb09e0b4",
+      "sectionIndex": 6,
+      "question": "The Cuban Missile Crisis occurred in:",
+      "options": [
+        "A) 1960",
+        "B) 1961",
+        "C) 1962",
+        "D) 1963"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2cf47fcf3e2c6ea977c74e9376926031b1552181",
+      "sectionIndex": 6,
+      "question": "The Cold War ended approximately in:",
+      "options": [
+        "A) 1989",
+        "B) 1991",
+        "C) 1993",
+        "D) 1995"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e68bb6e180573a54e7071b202e559947b2c38dde",
+      "sectionIndex": 6,
+      "question": "World War II ended in:",
+      "options": [
+        "A) 1943",
+        "B) 1944",
+        "C) 1945",
+        "D) 1946"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ee67a69b8c9d98d065c32b4d9cad08ceb595a0bb",
+      "sectionIndex": 6,
+      "question": "The United Nations was established in:",
+      "options": [
+        "A) 1943",
+        "B) 1944",
+        "C) 1945",
+        "D) 1946"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5a9644bf3dcf3531147ca33b87cf682a5a9cca68",
+      "sectionIndex": 6,
+      "question": "The American Declaration of Independence was in:",
+      "options": [
+        "A) 1774",
+        "B) 1775",
+        "C) 1776",
+        "D) 1777"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "531898e40dd24b981e670bb0db9247230ef6d64a",
+      "sectionIndex": 6,
+      "question": "The French Revolution began in:",
+      "options": [
+        "A) 1787",
+        "B) 1788",
+        "C) 1789",
+        "D) 1790"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "da6be1cc87d5f6d20a4c49650ec095eea9978c94",
+      "sectionIndex": 6,
+      "question": "Karl Marx was born in:",
+      "options": [
+        "A) 1816",
+        "B) 1818",
+        "C) 1820",
+        "D) 1822"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f200a57568d9b4344c13c7409cde551998082629",
+      "sectionIndex": 7,
+      "question": "In Islamic Political System, sovereignty belongs to:",
+      "options": [
+        "A) The Caliph",
+        "B) The People",
+        "C) Allah",
+        "D) The Ulema"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0535244227d65264e51b0f72d339b751ce43abc7",
+      "sectionIndex": 7,
+      "question": "Al-Ghazali was appointed as professor of:",
+      "options": [
+        "A) Philosophy",
+        "B) Theology",
+        "C) Law",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf3351fcd6ad603646d762deeab012e7bb6438b4",
+      "sectionIndex": 7,
+      "question": "Al-Farabi translated the works of:",
+      "options": [
+        "A) Plato",
+        "B) Aristotle",
+        "C) Socrates",
+        "D) All of these"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82ecfacf0aa4fde90bc7780677799f830380afbb",
+      "sectionIndex": 7,
+      "question": "The concept of Ijtihad means:",
+      "options": [
+        "A) Consensus",
+        "B) Independent reasoning",
+        "C) Analogy",
+        "D) Tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b864801e5c0caa6386aa91a3b89498836b7d0c8",
+      "sectionIndex": 7,
+      "question": "Al-Mawardi was a jurist who followed the fiqh of:",
+      "options": [
+        "A) Imam Malik",
+        "B) Imam Shafi",
+        "C) Imam Abu Hanifa",
+        "D) Imam Ahmad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45ae0d24908f6cda26a44de915f3775d6d8edf99",
+      "sectionIndex": 7,
+      "question": "Shah Waliullah was born in:",
+      "options": [
+        "A) Delhi",
+        "B) Lahore",
+        "C) Baghdad",
+        "D) Cairo"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cd2dc66eeb8eb3acb9cbea5e2e0a3a7eba3694c9",
+      "sectionIndex": 7,
+      "question": "The title \"Hujjat Allah al-Baligha\" was written by:",
+      "options": [
+        "A) Al-Ghazali",
+        "B) Ibn Taymiyyah",
+        "C) Shah Waliullah",
+        "D) Al-Mawardi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1d82cb6f0ec2ce1c59f4c1f14a5cd09654a4a1c8",
+      "sectionIndex": 7,
+      "question": "Ibn Rushd is also known as:",
+      "options": [
+        "A) Avicenna",
+        "B) Averroes",
+        "C) Algazel",
+        "D) None of these"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "943bb73048eab819f458383a7514a785984213ca",
+      "sectionIndex": 7,
+      "question": "The concept of Khilafah means:",
+      "options": [
+        "A) Kingdom",
+        "B) Caliphate",
+        "C) Democracy",
+        "D) Republic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "916a96c156b1129cfdeeddaf5cae3f59ead6b53f",
+      "sectionIndex": 7,
+      "question": "Al-Farabi died in:",
+      "options": [
+        "A) 950 AD",
+        "B) 960 AD",
+        "C) 970 AD",
+        "D) 980 AD"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "32943f2bf0304d6d011bdb7fdb969213d2f25c1f",
+      "sectionIndex": 8,
+      "question": "The term \"Iron Curtain\" is associated with:",
+      "options": [
+        "A) World War I",
+        "B) World War II",
+        "C) Cold War",
+        "D) Vietnam War"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c66913393d12e2abeab29c11655984a88d8e707b",
+      "sectionIndex": 8,
+      "question": "Glasnost and Perestroika are associated with:",
+      "options": [
+        "A) Stalin",
+        "B) Khrushchev",
+        "C) Brezhnev",
+        "D) Gorbachev"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3945cd1b7fc18db4340be3c89d08784e06cbaa92",
+      "sectionIndex": 8,
+      "question": "The welfare state concept originated in:",
+      "options": [
+        "A) United States",
+        "B) United Kingdom",
+        "C) Germany",
+        "D) France"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa9f7c96f3730d8fe5a2c91f4d3051e1923d23c0",
+      "sectionIndex": 8,
+      "question": "Feminism advocates for:",
+      "options": [
+        "A) Male supremacy",
+        "B) Gender equality",
+        "C) Female supremacy",
+        "D) Gender segregation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17380c1151deb1e36ef9c7b5adb78b9acc553273",
+      "sectionIndex": 8,
+      "question": "Globalization primarily refers to:",
+      "options": [
+        "A) Political integration",
+        "B) Economic integration",
+        "C) Cultural integration",
+        "D) All of these"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d13fea2d419421fd122aca1bcc3ddca5a546bf24",
+      "sectionIndex": 8,
+      "question": "The term \"Third World\" originally referred to:",
+      "options": [
+        "A) Poor countries",
+        "B) Non-aligned countries",
+        "C) Developing countries",
+        "D) African countries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d82851b1666e9616b1320007ac953325474e9de",
+      "sectionIndex": 8,
+      "question": "Civil society refers to:",
+      "options": [
+        "A) Government institutions",
+        "B) Military organizations",
+        "C) Non-governmental organizations",
+        "D) Political parties"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ce087cb15ac577a2acbeb80836b348367b51f7fb",
+      "sectionIndex": 8,
+      "question": "Human rights are:",
+      "options": [
+        "A) Conditional",
+        "B) Universal",
+        "C) Cultural",
+        "D) Optional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80362cbc52e38e4397abc46d1511ea1681613ebf",
+      "sectionIndex": 8,
+      "question": "Sustainable development focuses on:",
+      "options": [
+        "A) Economic growth only",
+        "B) Environmental protection only",
+        "C) Balancing present and future needs",
+        "D) Population control"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bc14f47d81a2a0618305b6da5ebbe37b1ce22005",
+      "sectionIndex": 8,
+      "question": "Terrorism is primarily a:",
+      "options": [
+        "A) Military tactic",
+        "B) Political strategy",
+        "C) Economic tool",
+        "D) Social movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80b953dc8848b6d69c24d95c0e1dba7045c116f1",
+      "sectionIndex": 9,
+      "question": "SAARC stands for:",
+      "options": [
+        "A) South Asian Association for Regional Cooperation",
+        "B) South African Association for Regional Cooperation",
+        "C) South American Association for Regional Cooperation",
+        "D) Southeast Asian Association for Regional Cooperation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fe82d1ce988c2ef6cd34047ef97cb8cc0f1080eb",
+      "sectionIndex": 9,
+      "question": "The headquarters of the United Nations is in:",
+      "options": [
+        "A) Geneva",
+        "B) New York",
+        "C) Paris",
+        "D) London"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b72f0adea571ec6893743eaf40cd2d7e9ef2f9fe",
+      "sectionIndex": 9,
+      "question": "NATO was established in:",
+      "options": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1949",
+        "D) 1951"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8f674f4c86c52e89e2521fa10207c943bb170aaa",
+      "sectionIndex": 9,
+      "question": "The World Bank is located in:",
+      "options": [
+        "A) New York",
+        "B) Washington D.C.",
+        "C) Geneva",
+        "D) London"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c30d9dda12cbd0f65fc82794914d5ab02264392e",
+      "sectionIndex": 9,
+      "question": "The International Court of Justice is located in:",
+      "options": [
+        "A) Geneva",
+        "B) New York",
+        "C) The Hague",
+        "D) Brussels"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "93b80deb3615dd1f9274db3776b6c655c1b83f21",
+      "sectionIndex": 9,
+      "question": "ASEAN is a regional organization of:",
+      "options": [
+        "A) South Asia",
+        "B) Southeast Asia",
+        "C) East Asia",
+        "D) Central Asia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55baf0ee80e8f8f7fb7d3d55ed6e4c5abeb1c42a",
+      "sectionIndex": 9,
+      "question": "The Commonwealth of Nations was formerly known as:",
+      "options": [
+        "A) British Empire",
+        "B) British Commonwealth",
+        "C) United Kingdom Alliance",
+        "D) English Federation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c7b333b22d7454b0abbf02dac2eeb2fd3478c3d",
+      "sectionIndex": 9,
+      "question": "The OIC stands for:",
+      "options": [
+        "A) Organization of Islamic Conference",
+        "B) Organization of Islamic Cooperation",
+        "C) Organization of International Cooperation",
+        "D) Organization of Islamic Countries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19eee1a5da5100c9e508d5d1e55aaeb9f6b06e84",
+      "sectionIndex": 9,
+      "question": "The G7 includes how many countries?",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4d05656030e834612d741b88e6064161bf4209a3",
+      "sectionIndex": 9,
+      "question": "The Bretton Woods system established:",
+      "options": [
+        "A) UN and NATO",
+        "B) IMF and World Bank",
+        "C) WTO and GATT",
+        "D) EU and ASEAN"
+      ],
+      "correct": "B"
+    }
+  ]
+}

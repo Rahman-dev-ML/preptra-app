@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:32:09.287Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "994d988d25633be61e6672eacb76c059dcbd7e52",
+      "sectionIndex": 0,
+      "question": "How do constitutional conventions differ from laws in the UK system?",
+      "options": [
+        "A) Conventions are more binding",
+        "B) Conventions are politically but not legally enforceable",
+        "C) No difference exists",
+        "D) Conventions override statutes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "642fa8b6f7cd545e6bae0775ff2a4161e0fb83df",
+      "sectionIndex": 0,
+      "question": "The Parliament Acts of 1911 and 1948 demonstrate:",
+      "options": [
+        "A) Absolute parliamentary sovereignty",
+        "B) Evolution of democratic principles limiting hereditary power",
+        "C) Judicial supremacy",
+        "D) Royal prerogative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a7c84ee67439d23dbc2a4c6e1967a75bc88f924",
+      "sectionIndex": 0,
+      "question": "Dicey's Rule of Law includes all EXCEPT:",
+      "options": [
+        "A) Absence of arbitrary power",
+        "B) Equality before law",
+        "C) Constitutional rights from court decisions",
+        "D) Administrative court system"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "49c2feea288ab254dd32a8022082cea63023e534",
+      "sectionIndex": 0,
+      "question": "Compare the UK Supreme Court with the US Supreme Court:",
+      "options": [
+        "A) Both can strike down primary legislation",
+        "B) UK court cannot declare Acts of Parliament unconstitutional",
+        "C) Same powers exactly",
+        "D) UK court is more powerful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0de01977b53c38e5196769cf8167b44d53ac0d11",
+      "sectionIndex": 0,
+      "question": "The Salisbury Convention illustrates:",
+      "options": [
+        "A) Written constitutional rules",
+        "B) How conventions regulate Lords-Commons relationship",
+        "C) Judicial precedent",
+        "D) International law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bb5ba37d8ebd9f577355cbf8fb83ba885d145ba",
+      "sectionIndex": 0,
+      "question": "Parliamentary sovereignty is limited by:",
+      "options": [
+        "A) Nothing",
+        "B) EU law (historically), devolution, and human rights",
+        "C) Royal prerogative only",
+        "D) Common law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11f4cde3ee79863aebf4012d43953a3ad607fb2f",
+      "sectionIndex": 0,
+      "question": "The UK's \"unwritten\" constitution actually includes:",
+      "options": [
+        "A) No written elements",
+        "B) Multiple written sources plus conventions",
+        "C) Only conventions",
+        "D) Only common law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a96893e849985e2c21df5c9293bac50f7b51df9",
+      "sectionIndex": 0,
+      "question": "The Fixed-term Parliaments Act 2011 (now repealed) showed:",
+      "options": [
+        "A) Permanent constitutional change",
+        "B) How easily UK constitutional arrangements can be altered",
+        "C) Judicial power",
+        "D) Federal structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02087d21f253bf88162583fca94a37ef87252481",
+      "sectionIndex": 0,
+      "question": "Devolution in the UK creates:",
+      "options": [
+        "A) Federal system",
+        "B) Asymmetric quasi-federal arrangements",
+        "C) Independent nations",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "211eb3efa8778e122444b052f1fbdb3d50ad33e3",
+      "sectionIndex": 0,
+      "question": "The relationship between statute and common law shows:",
+      "options": [
+        "A) Common law supremacy",
+        "B) Statute overrides common law",
+        "C) Equal status",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef3440892c16e4b3d42125361673007b2b33f955",
+      "sectionIndex": 0,
+      "question": "Cabinet collective responsibility means:",
+      "options": [
+        "A) Individual minister responsibility",
+        "B) Ministers must publicly support all cabinet decisions",
+        "C) No dissent allowed in private",
+        "D) PM decides alone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec9332bfab2c7432b0ae2073b2d14426b1db2ef0",
+      "sectionIndex": 0,
+      "question": "The UK Bill of Rights 1689 established:",
+      "options": [
+        "A) American-style rights",
+        "B) Parliamentary supremacy over the Crown",
+        "C) Judicial review",
+        "D) Written constitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10c5188b894d15fb9386115ce7968feb331f3098",
+      "sectionIndex": 0,
+      "question": "Compare Rule of Law with Droit Administratif:",
+      "options": [
+        "A) Identical concepts",
+        "B) Different approaches to controlling government power",
+        "C) UK has administrative courts",
+        "D) France has common law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfd66d2b472524b418ff6d95619fcf5b1d8c603c",
+      "sectionIndex": 1,
+      "question": "Marbury v. Madison's significance lies in:",
+      "options": [
+        "A) Specific case outcome",
+        "B) Establishing judicial review principle",
+        "C) Presidential power",
+        "D) Congressional authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f27f340632111bcb7d51b24a34ca3858b007fd9c",
+      "sectionIndex": 1,
+      "question": "The US system of checks and balances differs from separation of powers by:",
+      "options": [
+        "A) No difference",
+        "B) Checks allow branches to limit each other",
+        "C) Complete separation",
+        "D) Fusion of powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "068dc814b40b33d3658dd2624c958a218fc5ba9c",
+      "sectionIndex": 1,
+      "question": "Compare US presidential impeachment with UK no-confidence votes:",
+      "options": [
+        "A) Same process",
+        "B) Impeachment is quasi-judicial; no-confidence is political",
+        "C) Both are judicial",
+        "D) Both are automatic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4da99b76b369525b8c02f351226d74d40e793c4",
+      "sectionIndex": 1,
+      "question": "The Electoral College persists because:",
+      "options": [
+        "A) Popular support",
+        "B) Constitutional amendment difficulty and federalism",
+        "C) Efficiency",
+        "D) Direct democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "684620ec4f9809bfef2ab4d87453d003dbcfae7f",
+      "sectionIndex": 1,
+      "question": "US federalism differs from Indian quasi-federalism in:",
+      "options": [
+        "A) No difference",
+        "B) States have inherent vs. delegated powers",
+        "C) US is unitary",
+        "D) India more federal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "530fa82484a7a60fac62bd6b7a3a08577cf0e33c",
+      "sectionIndex": 1,
+      "question": "The Commerce Clause has been used to:",
+      "options": [
+        "A) Limit federal power",
+        "B) Expand federal authority significantly",
+        "C) Regulate states only",
+        "D) No significant use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7db1d044847108bfccb29460f1e70c1f0daab311",
+      "sectionIndex": 1,
+      "question": "Senate's role in treaties and appointments shows:",
+      "options": [
+        "A) Executive supremacy",
+        "B) Shared powers requiring collaboration",
+        "C) Legislative dominance",
+        "D) Judicial control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad9b3bf0f186755c4057d9b18b725267938b4bdb",
+      "sectionIndex": 1,
+      "question": "The Bill of Rights originally:",
+      "options": [
+        "A) Applied to states",
+        "B) Limited only federal government",
+        "C) Created positive rights",
+        "D) Established judicial review"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96c3ed53c2a4f25d249afd9904b178dd4341ab6c",
+      "sectionIndex": 1,
+      "question": "US constitutional interpretation methods include:",
+      "options": [
+        "A) Only originalism",
+        "B) Originalism, living constitution, textualism",
+        "C) Parliamentary sovereignty",
+        "D) No interpretation needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74a3cc7e120eb1a2a14062b13e46127b2f5e4461",
+      "sectionIndex": 1,
+      "question": "Presidential war powers demonstrate:",
+      "options": [
+        "A) Clear constitutional limits",
+        "B) Tension between text and practice",
+        "C) Congressional supremacy",
+        "D) No ambiguity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d21fa9cc9d7d2a3c6c37887d3ec9a29cd0c8217",
+      "sectionIndex": 1,
+      "question": "The amendment process reflects:",
+      "options": [
+        "A) Easy change",
+        "B) Federal structure and supermajority requirements",
+        "C) Simple majority rule",
+        "D) Judicial amendment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5951c70e66d8e23e76744a4af0aeae3fbbc3ed47",
+      "sectionIndex": 1,
+      "question": "Judicial activism in the US:",
+      "options": [
+        "A) Is constitutionally mandated",
+        "B) Reflects debate over judicial role",
+        "C) Never occurs",
+        "D) Only conservative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9194d2ae06853da1ebd57e963bef9531d821642",
+      "sectionIndex": 1,
+      "question": "Federalist No. 78 argued judiciary would be:",
+      "options": [
+        "A) Most powerful branch",
+        "B) Least dangerous branch",
+        "C) Co-equal exactly",
+        "D) Unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e1082971a0f2e2f140ec2fb973e5f0272d43a9b",
+      "sectionIndex": 2,
+      "question": "The Objectives Resolution's incorporation shows:",
+      "options": [
+        "A) Secular intent",
+        "B) Attempt to balance Islamic and democratic principles",
+        "C) Theocracy",
+        "D) Western model"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68f75d9db42884fc46f435e1669b656f075f4ac8",
+      "sectionIndex": 2,
+      "question": "Compare 1956 and 1962 Constitutions:",
+      "options": [
+        "A) Both presidential",
+        "B) Parliamentary vs. presidential systems",
+        "C) Both unitary",
+        "D) No differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c6721e8a425b537e4476facd353fe5b894dab32",
+      "sectionIndex": 2,
+      "question": "The 18th Amendment's significance includes:",
+      "options": [
+        "A) Centralization",
+        "B) Major shift toward provincial autonomy",
+        "C) No structural change",
+        "D) Judicial supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd07dae7727f5ac985c762502180b0e2a9701d31",
+      "sectionIndex": 2,
+      "question": "Articles 62-63 controversy stems from:",
+      "options": [
+        "A) Clear interpretation",
+        "B) Subjective morality criteria for legislators",
+        "C) Technical requirements",
+        "D) Age limits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a626251656ee0ac1edf1a5466f38f20b4d25b013",
+      "sectionIndex": 2,
+      "question": "The Dosso case's use of Kelsen shows:",
+      "options": [
+        "A) Democratic theory",
+        "B) Legal positivism validating extra-constitutional change",
+        "C) Natural law",
+        "D) Islamic jurisprudence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b0fecaafa871c452f29b77157a3d64deb294a77",
+      "sectionIndex": 2,
+      "question": "Judicial activism in Pakistan reflects:",
+      "options": [
+        "A) Constitutional mandate",
+        "B) Filling governance vacuums and institutional competition",
+        "C) Legislative supremacy",
+        "D) Executive control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26643a4896e890ce0347afc9767da7b8c41bd568",
+      "sectionIndex": 2,
+      "question": "The basic structure doctrine in Pakistan:",
+      "options": [
+        "A) Is explicitly stated",
+        "B) Remains debated unlike India's settled doctrine",
+        "C) Doesn't exist",
+        "D) Copied from UK"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33b63e8e4e694b65d3037dcdf9a97868caf5a4b2",
+      "sectionIndex": 2,
+      "question": "Islamic provisions' justiciability shows:",
+      "options": [
+        "A) Full enforcement",
+        "B) Tension between directive principles and enforceable rights",
+        "C) No Islamic content",
+        "D) Secular constitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b22c6d502c0b7e9ab842309b5df76d146be13ac0",
+      "sectionIndex": 2,
+      "question": "Provincial autonomy after 18th Amendment:",
+      "options": [
+        "A) Complete independence",
+        "B) Enhanced but within federal framework",
+        "C) No change",
+        "D) Reduced powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43627e0ce790a593bc769c15fcd563a50b8842ce",
+      "sectionIndex": 2,
+      "question": "Emergency provisions in Pakistan differ from India by:",
+      "options": [
+        "A) Being identical",
+        "B) Less detailed and more prone to abuse",
+        "C) Stronger safeguards",
+        "D) No emergency powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed0ce9d85bd92e40839f2f7825c82c4535de4b1d",
+      "sectionIndex": 2,
+      "question": "The Council of Common Interest represents:",
+      "options": [
+        "A) Federal dominance",
+        "B) Federal-provincial coordination mechanism",
+        "C) Provincial body only",
+        "D) Judicial organ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bc98db347cd23f984714da2d973e3a4b6413f48",
+      "sectionIndex": 2,
+      "question": "Comparing Pakistani and Indian judicial appointments:",
+      "options": [
+        "A) Same system",
+        "B) Different levels of judicial independence in process",
+        "C) No judicial role",
+        "D) Executive appointment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c99c4cc6d10a05a6fdef7e07ae9d62953d5600c6",
+      "sectionIndex": 2,
+      "question": "The 1973 Constitution's survival shows:",
+      "options": [
+        "A) Perfect document",
+        "B) Adaptability through amendments despite interruptions",
+        "C) No changes needed",
+        "D) Weak framework"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b460ff96f094f9c1e0413e42d0e5aa28e748b48a",
+      "sectionIndex": 3,
+      "question": "The Basic Structure doctrine prevents:",
+      "options": [
+        "A) Any amendment",
+        "B) Amendments destroying constitution's essential features",
+        "C) Judicial review",
+        "D) Federal changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13b081aa28a05280eb724f824269af2069e21529",
+      "sectionIndex": 3,
+      "question": "India's \"Union of States\" terminology reflects:",
+      "options": [
+        "A) Confederal system",
+        "B) Indestructible union with destructible states",
+        "C) True federalism",
+        "D) Unitary state"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85cf3eaf3889e32d404383593ba2504a95465ac1",
+      "sectionIndex": 3,
+      "question": "Emergency provisions' detailed nature stems from:",
+      "options": [
+        "A) Copying others",
+        "B) Historical experience and Partition concerns",
+        "C) Theoretical preference",
+        "D) Random choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e5ddf80c656f48f97323485cefcd067310e263b",
+      "sectionIndex": 3,
+      "question": "Secular addition to Preamble shows:",
+      "options": [
+        "A) Original omission",
+        "B) Evolving constitutional values and political needs",
+        "C) Western pressure",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fbb86ee0d9fdc5b10d5705b07486ea47ef9c267",
+      "sectionIndex": 3,
+      "question": "Borrowing from multiple sources created:",
+      "options": [
+        "A) Inconsistency",
+        "B) Synthetic constitution adapting various models",
+        "C) Copy of others",
+        "D) Original creation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32a0c4782783583fa4867c2a8e76d096826909f6",
+      "sectionIndex": 3,
+      "question": "President's role compared to British monarch shows:",
+      "options": [
+        "A) Identical positions",
+        "B) Constitutional head with specific powers vs. ceremonial role",
+        "C) President more powerful",
+        "D) No comparison"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c32a28f6447e9cfe4804786b3505de9465c1f92",
+      "sectionIndex": 3,
+      "question": "Fundamental Rights vs. Directive Principles tension reflects:",
+      "options": [
+        "A) Poor drafting",
+        "B) Balance between justiciable rights and policy goals",
+        "C) No relationship",
+        "D) Rights supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3981575d6bcaf4b827e82916521358c5551d1eb",
+      "sectionIndex": 3,
+      "question": "Single citizenship unlike US federal system shows:",
+      "options": [
+        "A) Weak federalism",
+        "B) Emphasis on national unity",
+        "C) No federalism",
+        "D) State citizenship too"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbfd9020b4394c0bd671c031ce7ccd9ada8d61da",
+      "sectionIndex": 3,
+      "question": "Judicial review in India compared to US:",
+      "options": [
+        "A) Weaker only",
+        "B) Different scope including procedure and basic structure",
+        "C) Identical powers",
+        "D) No review power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37b56e706a556ef201d9a62be7c1e8424620b0d4",
+      "sectionIndex": 3,
+      "question": "Amendment process compared to US shows:",
+      "options": [
+        "A) Harder in India",
+        "B) More flexible with different requirements for different provisions",
+        "C) Same process",
+        "D) Easier in US"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0864379d745ac7a35da6a4b87cafe0d8b71d329f",
+      "sectionIndex": 3,
+      "question": "Residuary powers with Union unlike US shows:",
+      "options": [
+        "A) True federalism",
+        "B) Centralized federal structure",
+        "C) State supremacy",
+        "D) No residuary powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ec36a7050c41cff95435d0d713039d5f22df70d",
+      "sectionIndex": 3,
+      "question": "Emergency impact on federalism:",
+      "options": [
+        "A) No effect",
+        "B) Transforms into unitary system temporarily",
+        "C) Strengthens federalism",
+        "D) Permanent change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b71b34928706d29ee1c4823a1827d18faf444f5",
+      "sectionIndex": 3,
+      "question": "Government of India Act 1935's influence shows:",
+      "options": [
+        "A) Complete break",
+        "B) Significant structural continuity with modifications",
+        "C) No influence",
+        "D) Exact copy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4421ea32789ee0a608f474488b84cf70eb6bbcf0",
+      "sectionIndex": 4,
+      "question": "Semi-presidential system combines:",
+      "options": [
+        "A) Worst of both",
+        "B) Presidential leadership with parliamentary accountability",
+        "C) No clear system",
+        "D) Pure fusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d62dd5cbd9db04157b4b11a5dd54f769462745f9",
+      "sectionIndex": 4,
+      "question": "Cohabitation challenges show:",
+      "options": [
+        "A) System failure",
+        "B) Flexibility in power-sharing between president and PM",
+        "C) Need for change",
+        "D) Perfect harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c27784a65926bfa817d0ed29ca329dd4b5377a5",
+      "sectionIndex": 4,
+      "question": "Compare French President with US President:",
+      "options": [
+        "A) Identical powers",
+        "B) French has both executive and arbitral roles",
+        "C) US more powerful",
+        "D) No comparison"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "804ec28a424a09d4445e976b61fbe199ba395882",
+      "sectionIndex": 4,
+      "question": "Conseil Constitutionnel differs from Supreme Courts by:",
+      "options": [
+        "A) More power",
+        "B) Limited to pre-promulgation review traditionally",
+        "C) No difference",
+        "D) Weaker only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eb8748704f436ec1bf8faf1c220c0c1fe4defd3",
+      "sectionIndex": 4,
+      "question": "Droit administratif provides:",
+      "options": [
+        "A) No protection",
+        "B) Specialized system for public law disputes",
+        "C) Common law rights",
+        "D) Criminal law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa636426e353c345fdac9ddfdef1c0bfbb6db68f",
+      "sectionIndex": 4,
+      "question": "Fifth Republic's stability compared to previous republics:",
+      "options": [
+        "A) Less stable",
+        "B) Stronger executive solved chronic instability",
+        "C) No difference",
+        "D) Weaker system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05acb6b3c94f58e542347663cfc664099635dbce",
+      "sectionIndex": 4,
+      "question": "French decentralization shows:",
+      "options": [
+        "A) Federal system",
+        "B) Unitary state with significant local autonomy",
+        "C) No local power",
+        "D) Confederation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9b4b69a43ea501ca3b82966165e79a9eea834ab",
+      "sectionIndex": 4,
+      "question": "Referendum use in France demonstrates:",
+      "options": [
+        "A) Representative democracy only",
+        "B) Direct democracy supplementing representative system",
+        "C) No referendums",
+        "D) Constant referendums"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02dc98e1af9053d064547e444153784b4fe2b25e",
+      "sectionIndex": 4,
+      "question": "Senate's indirect election reflects:",
+      "options": [
+        "A) Democratic deficit",
+        "B) Territorial representation principle",
+        "C) Aristocracy",
+        "D) No purpose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0127262e99cfe6a2dfa36239cee394d84b8455f2",
+      "sectionIndex": 4,
+      "question": "Presidential decree powers show:",
+      "options": [
+        "A) Dictatorship",
+        "B) Autonomous regulatory authority within limits",
+        "C) No decree power",
+        "D) Unlimited power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47498fac9d76d3f331f9da0b0f67b06d26d40a78",
+      "sectionIndex": 4,
+      "question": "Constitutional bloc concept includes:",
+      "options": [
+        "A) Constitution only",
+        "B) Constitution plus fundamental laws and principles",
+        "C) No such concept",
+        "D) International law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa38050e2304351023d4171b2a307439aad6bdfb",
+      "sectionIndex": 4,
+      "question": "Comparing French and British administrative law:",
+      "options": [
+        "A) Britain has no administrative law",
+        "B) Different institutional approaches to similar problems",
+        "C) Identical systems",
+        "D) France has common law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ac0a66d4d98cc21f7b46870083ad049fa711b0a",
+      "sectionIndex": 4,
+      "question": "Article 16 emergency powers compared to other systems:",
+      "options": [
+        "A) Weakest provisions",
+        "B) Strongest personal emergency powers",
+        "C) No emergency power",
+        "D) Same as others"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1bd89269cc68b314fdf4107c613aa30c0834eb0",
+      "sectionIndex": 5,
+      "question": "Democratic centralism in practice meant:",
+      "options": [
+        "A) True democracy",
+        "B) Top-down decision-making with democratic facade",
+        "C) Decentralization",
+        "D) No system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f696c13a1c81918a4d40e501439554198ba0faac",
+      "sectionIndex": 5,
+      "question": "Compare Soviet federalism with other federal systems:",
+      "options": [
+        "A) Most decentralized",
+        "B) Formal federalism with centralized party control",
+        "C) No federalism",
+        "D) True federalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c07539d0147a3de3417d0bb0e6e44adf35daa613",
+      "sectionIndex": 5,
+      "question": "1993 Russian Constitution reflects:",
+      "options": [
+        "A) Soviet continuity",
+        "B) Strong presidency from post-Soviet instability",
+        "C) Parliamentary system",
+        "D) Weak executive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "169c6d82c4d88c04d2c15800e831a0cbd3ec0323",
+      "sectionIndex": 5,
+      "question": "Russian Federal subjects' status shows:",
+      "options": [
+        "A) Equal federalism",
+        "B) Asymmetric federalism with different types of units",
+        "C) Unitary state",
+        "D) Confederation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0387f1ec69a6ff2d68b5d5cc2c92c9d71d4128d3",
+      "sectionIndex": 5,
+      "question": "Comparing Russian and US presidential powers:",
+      "options": [
+        "A) US stronger",
+        "B) Russian president has more constitutional authority",
+        "C) Identical powers",
+        "D) No comparison"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8bfb3fcbf234ef9f9c5754f4ce62bc434a1749b",
+      "sectionIndex": 5,
+      "question": "Soviet rights differed from liberal rights by:",
+      "options": [
+        "A) Being stronger",
+        "B) Emphasizing collective over individual rights",
+        "C) No rights existed",
+        "D) Same conception"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fecbd8729682dd244c1952c9b56de33aeebd7e9c",
+      "sectionIndex": 5,
+      "question": "Party role in Soviet system shows:",
+      "options": [
+        "A) Multi-party democracy",
+        "B) Party supremacy over state institutions",
+        "C) No party role",
+        "D) Weak party"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59748f23ebf3c61ddfaa312b87045e0fbcb75e87",
+      "sectionIndex": 5,
+      "question": "Post-Soviet transition challenges included:",
+      "options": [
+        "A) Too much democracy",
+        "B) Building democratic institutions without democratic culture",
+        "C) No challenges",
+        "D) Easy transition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "881c88a7ddb5b7f4d25683f1964767540a0ea625",
+      "sectionIndex": 5,
+      "question": "Federal treaties in Russia demonstrate:",
+      "options": [
+        "A) Strong federalism",
+        "B) Negotiated federalism with center dominance",
+        "C) Equal partnership",
+        "D) No treaties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12e24ae7b0e5d84d3b50bc82c9ce6e4a85b7226c",
+      "sectionIndex": 5,
+      "question": "Judicial independence in Russia compared to Western systems:",
+      "options": [
+        "A) Stronger",
+        "B) Formal independence with practical limitations",
+        "C) No judiciary",
+        "D) Identical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "090da0f2d9398bbe5bdab38fb15b976104df8f63",
+      "sectionIndex": 5,
+      "question": "Constitutional Court's role shows:",
+      "options": [
+        "A) Supreme power",
+        "B) Balancing between political branches with constraints",
+        "C) No real power",
+        "D) Only criminal cases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1298ccf842506464abb197904305ef0c6c92da5",
+      "sectionIndex": 5,
+      "question": "State Duma's powers compared to Soviet legislature:",
+      "options": [
+        "A) Less power",
+        "B) Real legislative authority vs. rubber stamp",
+        "C) Same role",
+        "D) No legislature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e8a4ddce6590c907ee862386a70352f1d2916bf",
+      "sectionIndex": 5,
+      "question": "Centralization under Putin demonstrates:",
+      "options": [
+        "A) Strengthening federalism",
+        "B) Recentralization within constitutional framework",
+        "C) No change",
+        "D) Decentralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "000ed4f2d187d39676b0e5ba9ceeb07071e1e950",
+      "sectionIndex": 6,
+      "question": "Parliamentary vs. Presidential systems' stability shows:",
+      "options": [
+        "A) Presidential more stable",
+        "B) Context-dependent with trade-offs",
+        "C) Parliamentary always stable",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13f347f1d5f79358613abeba4faa2af487b7bca9",
+      "sectionIndex": 6,
+      "question": "Federal vs. Unitary efficiency comparison reveals:",
+      "options": [
+        "A) Unitary always efficient",
+        "B) Trade-off between local responsiveness and coordination",
+        "C) Federal more efficient",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27ceaeff599cf7b78471ddf5e2ccc61a1e65d2d1",
+      "sectionIndex": 6,
+      "question": "Written vs. Unwritten constitutions' flexibility shows:",
+      "options": [
+        "A) Unwritten inflexible",
+        "B) Unwritten easier to evolve gradually",
+        "C) Written more flexible",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28232405c6358c1495018d631e6a7daede16f3e4",
+      "sectionIndex": 6,
+      "question": "Judicial review across systems shows:",
+      "options": [
+        "A) Universal practice",
+        "B) Different models from none to comprehensive",
+        "C) Only in US",
+        "D) Always identical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93b6ea993f08e01d01ef1c62306915862abdf140",
+      "sectionIndex": 6,
+      "question": "Emergency provisions comparison reveals:",
+      "options": [
+        "A) All same",
+        "B) Balance between necessity and abuse potential varies",
+        "C) No emergency powers needed",
+        "D) Always abused"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d2cd50e0eb41d604e84aae0a97001a08036c9d2",
+      "sectionIndex": 6,
+      "question": "Rights protection mechanisms show:",
+      "options": [
+        "A) Courts only method",
+        "B) Various combinations of judicial, legislative, cultural",
+        "C) No protection needed",
+        "D) International law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d4c82cac098baebbd21ca7c3e04691161c09149",
+      "sectionIndex": 6,
+      "question": "Amendment procedures reflect:",
+      "options": [
+        "A) Random choices",
+        "B) Balance between stability and adaptability",
+        "C) All easy",
+        "D) All impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ab8158bb9e9b9987761329e0c9dc860f1020d8a",
+      "sectionIndex": 6,
+      "question": "Second chambers comparison shows:",
+      "options": [
+        "A) All identical",
+        "B) Different purposes: federal, traditional, expertise",
+        "C) No purpose",
+        "D) Always elected"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a45d4cf7ea3c8b3ed0a4d344c82465afe4e7833",
+      "sectionIndex": 6,
+      "question": "Executive-legislative relations patterns:",
+      "options": [
+        "A) Only two types",
+        "B) Spectrum from fusion to separation",
+        "C) No relationship",
+        "D) Always conflictual"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab99daa60f7b9c7dfaf466b7a57011a41b1f2566",
+      "sectionIndex": 6,
+      "question": "Constitutional courts vs. regular courts shows:",
+      "options": [
+        "A) No difference",
+        "B) Specialized vs. integrated constitutional review",
+        "C) Constitutional courts weaker",
+        "D) Regular courts better"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed7bf4666afff3be8815c0683ca4a855fb990f88",
+      "sectionIndex": 6,
+      "question": "Decentralization forms comparison reveals:",
+      "options": [
+        "A) Only federalism",
+        "B) Federal, devolved, and administrative varieties",
+        "C) No decentralization",
+        "D) All identical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "316635a27664d38c8b5cab305087aba7e0c414ac",
+      "sectionIndex": 7,
+      "question": "Living constitution vs. originalism debate reflects:",
+      "options": [
+        "A) US issue only",
+        "B) Universal tension in constitutional interpretation",
+        "C) No real debate",
+        "D) Settled issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "150fe5a139a74bff98f603330d9804a7c3deb4cc",
+      "sectionIndex": 7,
+      "question": "Constitutional conventions' binding force comes from:",
+      "options": [
+        "A) Legal enforcement",
+        "B) Political costs of violation",
+        "C) Court orders",
+        "D) No force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb9ab512708b3e7bf7f33554055d1f6bbdaa5a22",
+      "sectionIndex": 7,
+      "question": "Grundnorm concept explains:",
+      "options": [
+        "A) Moral foundation",
+        "B) Legal system's ultimate validity source",
+        "C) Democratic theory",
+        "D) Natural law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1a10b73f6631a6e369250667fb6bd1a00c13f1c",
+      "sectionIndex": 7,
+      "question": "Constituent vs. constituted power distinction shows:",
+      "options": [
+        "A) No difference",
+        "B) People's sovereign right vs. limited government power",
+        "C) Same thing",
+        "D) Theoretical only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "086d36e85220e354c7f77f5d9d999135d7c55d1d",
+      "sectionIndex": 7,
+      "question": "Constitutional moments theory suggests:",
+      "options": [
+        "A) Constant change",
+        "B) Transformative periods of fundamental change",
+        "C) No change possible",
+        "D) Daily amendments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbbf234b6fdb760ce1c46795c3593fe5d7d7aa79",
+      "sectionIndex": 7,
+      "question": "Militant democracy concept involves:",
+      "options": [
+        "A) Military rule",
+        "B) Constitutional mechanisms to protect democracy",
+        "C) Aggressive foreign policy",
+        "D) No democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45b634b0f331f9a0e669cdd66636d0ee1648775b",
+      "sectionIndex": 7,
+      "question": "Constitutional identity doctrine:",
+      "options": [
+        "A) Is universal",
+        "B) Protects core national constitutional values",
+        "C) Prevents all change",
+        "D) Not recognized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbcb6419963da8c61407ad5d394b19ba1891fd76",
+      "sectionIndex": 7,
+      "question": "Proportionality in rights limitation shows:",
+      "options": [
+        "A) Absolute rights",
+        "B) Balanced approach to competing interests",
+        "C) No rights limits",
+        "D) Government supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8813c44e532af247f0dc88f101c6f53292c9be2",
+      "sectionIndex": 7,
+      "question": "Constitutional dialogues theory suggests:",
+      "options": [
+        "A) Court supremacy",
+        "B) Interaction between branches in constitutional meaning",
+        "C) Legislative supremacy",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56bc16ab82d6570d84664fa7f7374237b710bd36",
+      "sectionIndex": 7,
+      "question": "Transformative constitutionalism aims to:",
+      "options": [
+        "A) Preserve status quo",
+        "B) Use constitution for social change",
+        "C) Prevent change",
+        "D) No such concept"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0244bc401ea8a9c21772ae0d72b12e789220cafc",
+      "sectionIndex": 7,
+      "question": "Constitutional borrowing shows:",
+      "options": [
+        "A) Lack of originality",
+        "B) Legal transplants adapted to local contexts",
+        "C) Direct copying works",
+        "D) Never successful"
+      ],
+      "correct": "B"
+    }
+  ]
+}

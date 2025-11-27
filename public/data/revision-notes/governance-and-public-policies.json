@@ -1,0 +1,587 @@
+{
+  "subject": "Governance & Public Policy (CSS)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 18,
+  "categories": [
+    "Bureaucracy & Civil Service Reform",
+    "Governance Theories & Paradigms",
+    "Public Policy Process & Analysis",
+    "Accountability, Integrity & Anti-Corruption",
+    "Decentralization, Local Govt & PPPs",
+    "E-Governance & Digital Transformation",
+    "Constitutionalism & Islamic Perspectives",
+    "Economic Development, PFM & Fiscal Discipline"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Max Weber's Bureaucracy & Pakistan's Reform Debate",
+      "content": "Define bureaucracy via Weber's 'ideal type' (hierarchy, merit, rules, impersonality). Contrast colonial legacies with current Pakistani reform needs (meritocracy, performance management, political neutrality).",
+      "keyTakeaways": [
+        "Weber's legal-rational authority underpins modern civil service.",
+        "Exam links: 2017 (concept + reforms) & 2019–2020 accountability questions.",
+        "Use Weber to frame pros (efficiency) vs cons (rigidity/'iron cage') and apply to Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "Weber on Bureaucracy (primary excerpt)",
+          "url": "https://burawoy.berkeley.edu/Reader.102/Weber.Bureaucracy.pdf",
+          "type": "pdf",
+          "description": "Classic text"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Max Weber",
+          "url": "https://plato.stanford.edu/entries/weber/",
+          "type": "article",
+          "description": "Authoritative overview"
+        },
+        {
+          "title": "Review of Weber's Bureaucratic Theory",
+          "url": "https://www.thetbs.org/study-materials/wp-content/uploads/2023/02/Bureaucratic-Theory-Max-Websr__A.-Review-Study.pdf",
+          "type": "pdf",
+          "description": "Concise summary"
+        }
+      ],
+      "importance": "high",
+      "category": "Bureaucracy & Civil Service Reform",
+      "topics": ["Max Weber", "Legal-Rational Authority", "Civil Service"]
+    },
+    {
+      "id": "2",
+      "title": "Pakistan Civil Service: Rules, Discipline & RTI",
+      "content": "Know the core instruments that govern conduct, discipline and transparency. Link them to accountability questions (PAC/AGP oversight; citizen access to information).",
+      "keyTakeaways": [
+        "Civil Servants (Efficiency & Discipline) Rules 2020 are current baseline.",
+        "Right of Access to Information Act 2017 operationalizes transparency.",
+        "Use AGP & PAC outputs as case evidence in essays."
+      ],
+      "resources": [
+        {
+          "title": "Civil Servants (Efficiency & Discipline) Rules, 2020",
+          "url": "https://www.federalshariatcourt.gov.pk/wp-content/uploads/2021/01/Laws/Rules%20%26%20Code/Civil%20Servants%20%28Efficiency%20and%20Discipline%29%20Rules%2C%202020.pdf",
+          "type": "pdf",
+          "description": "Official rules"
+        },
+        {
+          "title": "Right of Access to Information Act, 2017 (Gazette)",
+          "url": "https://rti.gov.pk/SiteImage/Misc/files/The-Right-of-Access-to-Information-Act-2017-Gazette.pdf",
+          "type": "pdf",
+          "description": "Federal RTI law"
+        },
+        {
+          "title": "Auditor-General of Pakistan — Audit Reports",
+          "url": "https://agp.gov.pk/AuditReports",
+          "type": "website",
+          "description": "Latest federal and sectoral audits"
+        },
+        {
+          "title": "PAC — Rules & About",
+          "url": "https://pac.na.gov.pk/?q=rules-relating-pac",
+          "type": "article",
+          "description": "Parliamentary oversight scope"
+        }
+      ],
+      "importance": "high",
+      "category": "Bureaucracy & Civil Service Reform",
+      "topics": ["Discipline Rules", "RTI", "AGP", "PAC"]
+    },
+    {
+      "id": "3",
+      "title": "Good Governance Indicators & Data (WGI)",
+      "content": "Use empirical indicators to support arguments (Voice & Accountability, Rule of Law, Control of Corruption). Know Pakistan's trajectory and how to cite it properly.",
+      "keyTakeaways": [
+        "WGI provides 6 dimensions for >200 countries; cite score/rank trends.",
+        "Pair with CPI 2024/2025 headlines for corruption discussions.",
+        "Always note methodology/limits when using perception indices."
+      ],
+      "resources": [
+        {
+          "title": "World Bank — Worldwide Governance Indicators (portal)",
+          "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+          "type": "database",
+          "description": "Data & documentation"
+        },
+        {
+          "title": "WGI — Methodology Paper (2024)",
+          "url": "https://www.worldbank.org/content/dam/sites/govindicators/doc/wgimethodologypaper.pdf",
+          "type": "pdf",
+          "description": "How scores are built"
+        },
+        {
+          "title": "Transparency International — CPI (coverage on Pakistan 2024/2025)",
+          "url": "https://www.dawn.com/news/1891249",
+          "type": "article",
+          "description": "News report on CPI 2024 ranking"
+        }
+      ],
+      "importance": "high",
+      "category": "Accountability, Integrity & Anti-Corruption",
+      "topics": ["WGI", "CPI", "Measurement Limits"]
+    },
+    {
+      "id": "4",
+      "title": "Integrity Systems: From Ethics Codes to OECD Standards",
+      "content": "Move beyond ad-hoc anti-corruption. Present a whole-of-government integrity framework aligned to OECD principles (risk-based, culture of integrity, open data).",
+      "keyTakeaways": [
+        "OECD Public Integrity Recommendation (2017) + Handbook = blueprint.",
+        "Use AGP audits + PAC follow-up as accountability chain examples.",
+        "Relate to CSS essays on responsiveness, accountability, transparency."
+      ],
+      "resources": [
+        {
+          "title": "OECD Recommendation on Public Integrity (2017)",
+          "url": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0435",
+          "type": "article",
+          "description": "Official text"
+        },
+        {
+          "title": "OECD Public Integrity Handbook (2020)",
+          "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/05/oecd-public-integrity-handbook_598692a5/ac8ed8e8-en.pdf",
+          "type": "pdf",
+          "description": "Implementation guide"
+        },
+        {
+          "title": "Role of PAC in Pakistan (AGP article)",
+          "url": "https://agp.gov.pk/SiteImage/Misc/files/8_ecosai-circular-spring-issue-2020-article-Faisal%20Saeed%20Cheema.pdf",
+          "type": "pdf",
+          "description": "Oversight note"
+        }
+      ],
+      "importance": "high",
+      "category": "Accountability, Integrity & Anti-Corruption",
+      "topics": ["Integrity Systems", "Ethics", "Oversight"]
+    },
+    {
+      "id": "5",
+      "title": "Governance Paradigms: From Wilson to Post-New Public Management",
+      "content": "Trace the evolution: politics–administration dichotomy → NPM (markets, performance) → Digital-Era Governance & collaborative networks. Critically assess for Pakistan.",
+      "keyTakeaways": [
+        "Use Hood (1991) to define NPM doctrines; discuss limits in developing contexts.",
+        "Use Dunleavy et al. for post-NPM digital/collaborative turn.",
+        "Contrast Classical vs New Public Administration vs Postmodern PA (CSS 2023)."
+      ],
+      "resources": [
+        {
+          "title": "Hood (1991) — 'A Public Management for All Seasons?'",
+          "url": "https://www.jstor.org/stable/976617",
+          "type": "article",
+          "description": "Seminal NPM paper (JSTOR; access may vary)"
+        },
+        {
+          "title": "Dunleavy et al. — Digital-Era Governance (overview)",
+          "url": "https://doi.org/10.1093/jopart/mui045",
+          "type": "article",
+          "description": "Shift beyond NPM"
+        }
+      ],
+      "importance": "high",
+      "category": "Governance Theories & Paradigms",
+      "topics": ["Classical PA", "NPM", "Digital-Era Governance"]
+    },
+    {
+      "id": "6",
+      "title": "Rational Choice, New Institutionalism & Public Choice",
+      "content": "Define core assumptions (utility, incentives), institutional constraints, and how these theories explain policy failure (principal–agent, rent-seeking).",
+      "keyTakeaways": [
+        "Link incentives in bureaucracy to capture and compliance issues.",
+        "Apply to Pakistani reforms: procurement, HRM, regulatory quality.",
+        "Use for 2018 & 2023 theory-application questions."
+      ],
+      "resources": [
+        {
+          "title": "Oxford Research Encyclopedia — Advocacy Coalition Framework overview (bridging to institutions)",
+          "url": "https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-212",
+          "type": "article",
+          "description": "Conceptual background"
+        }
+      ],
+      "importance": "medium",
+      "category": "Governance Theories & Paradigms",
+      "topics": ["Rational Choice", "Institutions", "Public Choice"]
+    },
+    {
+      "id": "7",
+      "title": "Policy Cycle: Stages & Where It Fails",
+      "content": "Agenda setting → formulation → adoption → implementation → evaluation → change/termination. Show Pakistan-specific bottlenecks (coordination, capacity, politics).",
+      "keyTakeaways": [
+        "In answers, pick one Pakistani policy and walk through all stages.",
+        "Always state evaluative criteria (effectiveness, equity, feasibility).",
+        "Cite real tools (cost-benefit, RIA, performance audits)."
+      ],
+      "resources": [
+        {
+          "title": "Bardach — The Eightfold Path (full text excerpt)",
+          "url": "https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf",
+          "type": "pdf",
+          "description": "Step-by-step guide"
+        },
+        {
+          "title": "Cohen, March & Olsen — Garbage Can Model (agenda setting)",
+          "url": "https://fbaum.unc.edu/teaching/articles/Cohen_March_Olsen_1972.pdf",
+          "type": "pdf",
+          "description": "Classic model"
+        },
+        {
+          "title": "Sabatier — Advocacy Coalition Framework (chapter)",
+          "url": "https://paulcairney.files.wordpress.com/2019/03/chapter-10-acf-upp-2nd-ed-9.3.19.pdf",
+          "type": "pdf",
+          "description": "Policy change via coalitions"
+        }
+      ],
+      "importance": "high",
+      "category": "Public Policy Process & Analysis",
+      "topics": ["Policy Cycle", "Agenda Setting", "Evaluation"]
+    },
+    {
+      "id": "8",
+      "title": "Doing Policy Analysis Under Time & Data Constraints",
+      "content": "How to structure CSS responses using Bardach's 8 steps + quick evidence tables and evaluative criteria (Kaldor-Hicks vs Pareto, distributional impacts).",
+      "keyTakeaways": [
+        "Define the problem precisely; list 2–3 alternatives; apply 3–5 criteria.",
+        "Conclude with clear recommendation + implementation roadmap.",
+        "Use Pakistan examples: tax base, energy circular debt, flood resilience."
+      ],
+      "resources": [
+        {
+          "title": "Bardach — Eightfold Path (CU excerpt)",
+          "url": "https://sciencepolicy.colorado.edu/students/envs_5120/bardach_2000.pdf",
+          "type": "pdf",
+          "description": "Compact handbook"
+        },
+        {
+          "title": "Paul Cairney — 750-word Eightfold summary",
+          "url": "https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/",
+          "type": "article",
+          "description": "Quick refresher"
+        }
+      ],
+      "importance": "high",
+      "category": "Public Policy Process & Analysis",
+      "topics": ["Bardach", "Criteria", "Recommendations"]
+    },
+    {
+      "id": "9",
+      "title": "Devolution & Musharraf's 2001 Plan (DOPP) — What Worked/Didn't",
+      "content": "Three-tier local government (district–tehsil–union), elected councils, administrative deconcentration. Assess service delivery outcomes, political ownership, and post-18th Amendment landscape.",
+      "keyTakeaways": [
+        "Use comparative lens (Kerala) to discuss participation & fiscal devolution.",
+        "Identify reasons for discontinuity: party politics, weak PFM at local level.",
+        "For 2017/2018/2019 questions, cite primary analyses."
+      ],
+      "resources": [
+        {
+          "title": "Commonwealth iLibrary — Pakistan's Devolution of Power Plan (chapter)",
+          "url": "https://www.thecommonwealth-ilibrary.org/index.php/comsec/catalog/download/638/638/4641?inline=1",
+          "type": "pdf",
+          "description": "Historical account"
+        },
+        {
+          "title": "UTS ePress — Pakistan's Devolution of Power Plan 2001 (Alam, 2013)",
+          "url": "https://epress.lib.uts.edu.au/journals/index.php/cjlg/article/view/3262/3460",
+          "type": "pdf",
+          "description": "Scholarly review"
+        },
+        {
+          "title": "International Crisis Group — Devolution in Pakistan: Reform or Regression? (2004)",
+          "url": "https://www.justice.gov/file/276126/dl?inline=",
+          "type": "pdf",
+          "description": "Critical assessment"
+        }
+      ],
+      "importance": "high",
+      "category": "Decentralization, Local Govt & PPPs",
+      "topics": ["Devolution", "Local Government", "18th Amendment"]
+    },
+    {
+      "id": "10",
+      "title": "Kerala's Participatory Decentralization — Comparing Models",
+      "content": "People's Planning Campaign, devolved plan grants, empowered panchayats, participatory budgeting — draw lessons for Pakistan (capacity, social mobilization, fiscal rules).",
+      "keyTakeaways": [
+        "Kerala's success hinged on fiscal devolution + participatory processes.",
+        "Beware context differences; adapt lessons, don't copy-paste.",
+        "Use as comparator in 2018 essays."
+      ],
+      "resources": [
+        {
+          "title": "Working Group on Decentralised Planning (Kerala, 2022)",
+          "url": "https://spb.kerala.gov.in/sites/default/files/inline-files/Working%20Group%20Report%20on%20Decentralised%20Planning%20Process.pdf",
+          "type": "pdf",
+          "description": "Official report"
+        },
+        {
+          "title": "Heller — Building Local Democracy: Kerala (World Development)",
+          "url": "https://www.patrickheller.com/uploads/1/5/3/7/15377686/building_local_democracy_wd.pdf",
+          "type": "pdf",
+          "description": "Impact study"
+        },
+        {
+          "title": "KILA Monograph — Decentralisation & Participatory Planning",
+          "url": "https://dspace.kila.ac.in/bitstreams/09023293-25cc-4a51-80e6-3e28ddacae76/download",
+          "type": "pdf",
+          "description": "Institutional detail"
+        }
+      ],
+      "importance": "medium",
+      "category": "Decentralization, Local Govt & PPPs",
+      "topics": ["Kerala Model", "Participatory Planning"]
+    },
+    {
+      "id": "11",
+      "title": "Public-Private Partnerships: Value for Money & Fiscal Risks",
+      "content": "When and how to use PPPs; institutions required (PPP unit, MoF gatekeeping), risk allocation, budget transparency; exam link to 2022/2024 PPP critiques.",
+      "keyTakeaways": [
+        "Use OECD PPP Principles to frame answers.",
+        "Demonstrate fiscal risk management tools (IMF/World Bank PFRAM).",
+        "Argue trade-offs: affordability vs off-balance-sheet temptations."
+      ],
+      "resources": [
+        {
+          "title": "OECD Principles for Public Governance of PPPs",
+          "url": "https://legalinstruments.oecd.org/public/doc/275/275.en.pdf",
+          "type": "pdf",
+          "description": "Official recommendation"
+        },
+        {
+          "title": "IMF — Managing Fiscal Risks from PPPs",
+          "url": "https://www.imf.org/external/np/seminars/eng/2014/cmr/pdf/Queyranne_ENG.pdf",
+          "type": "pdf",
+          "description": "Risk primer"
+        },
+        {
+          "title": "IMF/World Bank — PFRAM Toolkit (brief)",
+          "url": "https://www.imf.org/external/np/fad/publicinvestment/pdf/PFRAM.pdf",
+          "type": "pdf",
+          "description": "Assessment model"
+        },
+        {
+          "title": "Pakistan PPP Authority (P3A) — Official",
+          "url": "https://www.p3a.gov.pk/",
+          "type": "website",
+          "description": "Pakistan legal/institutional context"
+        }
+      ],
+      "importance": "high",
+      "category": "Decentralization, Local Govt & PPPs",
+      "topics": ["PPP", "Fiscal Risk", "OECD Principles"]
+    },
+    {
+      "id": "12",
+      "title": "E-Governance in Pakistan: Policies, Hurdles & Case Evidence",
+      "content": "Map policy (Digital Pakistan Policy 2018), typical hurdles (connectivity, capacity, procurement, data governance), and proven use-cases (PITB programs, NADRA e-services).",
+      "keyTakeaways": [
+        "Anchor answers in national policy + provincial implementations.",
+        "Argue phased roadmaps: service design, interoperability, ID, payments.",
+        "Cite recent studies on adoption barriers and strategies."
+      ],
+      "resources": [
+        {
+          "title": "Digital Pakistan Policy (2018)",
+          "url": "https://moib.gov.pk/Downloads/Policy/DIGITAL_PAKISTAN_POLICY%2822-05-2018%29.pdf",
+          "type": "pdf",
+          "description": "MoITT official policy"
+        },
+        {
+          "title": "PITB Case Mentions (Citizen Feedback etc.)",
+          "url": "https://pitb.gov.pk/node/4476",
+          "type": "article",
+          "description": "Punjab case studies"
+        },
+        {
+          "title": "UN E-Government Survey 2024 — Country Profiles",
+          "url": "https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024",
+          "type": "database",
+          "description": "Benchmarking (browse to Pakistan)"
+        },
+        {
+          "title": "2024 Pakistan e-Governance analysis (Open Access excerpt)",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2405844024030342",
+          "type": "article",
+          "description": "Barriers & frameworks (abstract)"
+        }
+      ],
+      "importance": "high",
+      "category": "E-Governance & Digital Transformation",
+      "topics": ["Digital Pakistan", "Service Delivery", "Interoperability"]
+    },
+    {
+      "id": "13",
+      "title": "Constitutionalism in Pakistan & Jinnah's Vision",
+      "content": "Link constitutional articles to governance (fundamental rights, federalism/devolution, oversight). Use Quaid-e-Azam's 11 August 1947 address to discuss minority rights and state neutrality.",
+      "keyTakeaways": [
+        "Cite the 1973 Constitution for structure/rights; connect to institutions.",
+        "Use Jinnah's speech for normative framing in essays.",
+        "Bridge Islamic consultative principles (Shura) with democratic processes."
+      ],
+      "resources": [
+        {
+          "title": "Constitution of Pakistan (official portal)",
+          "url": "https://pakistancode.gov.pk/",
+          "type": "website",
+          "description": "Primary legal text"
+        },
+        {
+          "title": "Jinnah's 11 August 1947 Speech (National Assembly)",
+          "url": "http://na.gov.pk/en/content.php?id=71",
+          "type": "article",
+          "description": "Official record/excerpt"
+        }
+      ],
+      "importance": "medium",
+      "category": "Constitutionalism & Islamic Perspectives",
+      "topics": ["1973 Constitution", "Minority Rights", "Shura"]
+    },
+    {
+      "id": "14",
+      "title": "Ethics, Corruption & CSS Essay Evidence",
+      "content": "Combine normative ethics with institutional fixes: codes of conduct, conflict-of-interest regimes, asset declarations, procurement transparency, and citizen oversight.",
+      "keyTakeaways": [
+        "Use CPI/WGI for context, but argue reforms with OECD Integrity framework.",
+        "Cite real Pakistani cases (AGP reports, PAC proceedings) as evidence.",
+        "Stress prevention (controls) + detection (audits) + enforcement (sanctions)."
+      ],
+      "resources": [
+        {
+          "title": "OECD Integrity — Indicators & Handbook",
+          "url": "https://www.oecd.org/en/topics/sub-issues/public-integrity.html",
+          "type": "website",
+          "description": "Policy tools"
+        },
+        {
+          "title": "CPI 2024 Pakistan (news coverage)",
+          "url": "https://www.dawn.com/news/1891249",
+          "type": "article",
+          "description": "Rank/score update"
+        }
+      ],
+      "importance": "high",
+      "category": "Accountability, Integrity & Anti-Corruption",
+      "topics": ["Public Integrity", "CPI", "Preventive Controls"]
+    },
+    {
+      "id": "15",
+      "title": "Economic Governance: PFM, PSDP & Fiscal Discipline",
+      "content": "Explain how budgeting, project appraisal and audit affect governance outputs. Use Pakistan's PSDP manuals and PFM reforms to ground answers.",
+      "keyTakeaways": [
+        "Project pipelines need rigorous appraisal and M&E (Planning Commission Manual).",
+        "Fiscal rules and risk reporting strengthen discipline.",
+        "Tie to essays on pro-poor growth and service delivery."
+      ],
+      "resources": [
+        {
+          "title": "Planning Commission — Manual for Development Projects",
+          "url": "https://pc.gov.pk/uploads/psdp/Manual_PDF.pdf",
+          "type": "pdf",
+          "description": "Official PSDP guide"
+        },
+        {
+          "title": "ADB — PFM Systems in Pakistan (sector note)",
+          "url": "https://www.adb.org/sites/default/files/linked-documents/54193-001-sd-04.pdf",
+          "type": "pdf",
+          "description": "PFM overview"
+        },
+        {
+          "title": "PIDE — Reforming the Federal PSDP (2023)",
+          "url": "https://file.pide.org.pk/pdfpideresearch/wp-23-10-reforming-the-federal-public-sector-development-programme.pdf",
+          "type": "pdf",
+          "description": "Policy critique"
+        }
+      ],
+      "importance": "high",
+      "category": "Economic Development, PFM & Fiscal Discipline",
+      "topics": ["PFM", "PSDP", "Budget Reforms"]
+    },
+    {
+      "id": "16",
+      "title": "Policy Process Models Often Asked in CSS",
+      "content": "Be ready to explain and apply: Multiple Streams (Kingdon), Garbage Can (Cohen-March-Olsen), Advocacy Coalition Framework (Sabatier/Weible).",
+      "keyTakeaways": [
+        "Use MSM for agenda windows (problems, policies, politics).",
+        "Use GCM for ambiguity/organized anarchies (universities/public orgs).",
+        "Use ACF for long-term policy change via coalitions and belief systems."
+      ],
+      "resources": [
+        {
+          "title": "Garbage Can Model (1972) — full paper",
+          "url": "https://fbaum.unc.edu/teaching/articles/Cohen_March_Olsen_1972.pdf",
+          "type": "pdf",
+          "description": "Primary source"
+        },
+        {
+          "title": "ACF — Chapter (Weible & Sabatier, 4th ed.)",
+          "url": "https://paulcairney.files.wordpress.com/2019/03/chapter-10-acf-upp-2nd-ed-9.3.19.pdf",
+          "type": "pdf",
+          "description": "Accessible chapter"
+        },
+        {
+          "title": "Bardach — Eightfold (quick guide)",
+          "url": "https://sciencepolicy.colorado.edu/students/envs_5120/bardach_2000.pdf",
+          "type": "pdf",
+          "description": "Practical method"
+        }
+      ],
+      "importance": "high",
+      "category": "Public Policy Process & Analysis",
+      "topics": ["MSM", "Garbage Can", "ACF"]
+    },
+    {
+      "id": "17",
+      "title": "Local Govt, Federalism & the 18th Amendment",
+      "content": "Clarify constitutional basis for devolution, NFC, concurrent list abolition, and practical implications for health/education/local service delivery.",
+      "keyTakeaways": [
+        "Post-2010, provinces bear greater responsibility; local laws vary by province.",
+        "Argue for clarity in functions, finances and functionaries (3F framework).",
+        "Use comparative/longitudinal examples from audits and service outcomes."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Code — Constitution & post-18th resources",
+          "url": "https://pakistancode.gov.pk/",
+          "type": "website",
+          "description": "Primary law"
+        },
+        {
+          "title": "Multi-Level Governance & LG Reform in Pakistan (paper)",
+          "url": "https://www.ippapublicpolicy.org/file/paper/5ada4291921b6.pdf",
+          "type": "pdf",
+          "description": "Analytical review"
+        }
+      ],
+      "importance": "medium",
+      "category": "Decentralization, Local Govt & PPPs",
+      "topics": ["18th Amendment", "Federalism", "Local Government"]
+    },
+    {
+      "id": "18",
+      "title": "Using Current Affairs in Governance Answers (2024–2025)",
+      "content": "Integrate credible, recent developments to evidence arguments on reform, transparency and international conditionality.",
+      "keyTakeaways": [
+        "Reference IMF Governance & Corruption Diagnostic for Pakistan (2025).",
+        "Cite World Bank's 10-year Country Partnership lending framework (2025).",
+        "Use reputable local media for audit/PAC follow-up stories."
+      ],
+      "resources": [
+        {
+          "title": "Reuters — IMF governance & corruption diagnostic mission (2025)",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-imf-mission-will-visit-assess-governance-corruption-risks-2025-02-09/",
+          "type": "article",
+          "description": "Context for integrity reforms"
+        },
+        {
+          "title": "Financial Times — World Bank 10-year $20bn plan",
+          "url": "https://www.ft.com/content/6a823c82-9f38-4459-b017-0ca798a2b39c",
+          "type": "article",
+          "description": "Reform-linked financing"
+        },
+        {
+          "title": "AGP portal — latest federal audit reports",
+          "url": "https://agp.gov.pk/AuditReports",
+          "type": "website",
+          "description": "Primary evidence on misuse/irregularities"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economic Development, PFM & Fiscal Discipline",
+      "topics": ["IMF", "World Bank", "Reform Conditionality"]
+    }
+  ]
+}

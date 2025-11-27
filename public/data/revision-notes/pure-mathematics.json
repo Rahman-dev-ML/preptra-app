@@ -1,0 +1,793 @@
+{
+  "subject": "Pure Mathematics",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Group Theory",
+    "Rings, Integral Domains & Fields",
+    "Linear Algebra",
+    "Real Analysis",
+    "Complex Analysis",
+    "Fourier & Special Functions",
+    "Coordinate & 3D Geometry",
+    "Pakistan CSS Context (Syllabus & Past Papers)"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "First Isomorphism Theorem (Groups) & Normal Subgroups",
+      "content": "State and use: for a homomorphism φ: G → H, G/ker φ ≅ im φ. Typical CSS asks: prove kernel is normal; compute factor groups; use to classify structures.",
+      "keyTakeaways": [
+        "Kernel ⊲ G; quotient by kernel maps isomorphically to image.",
+        "Useful to show nontrivial homomorphic images and factor groups in exam proofs.",
+        "Combine with index arguments (Lagrange) and with centers/normalizers."
+      ],
+      "resources": [
+        {
+          "title": "Wolfram MathWorld — First Group Isomorphism Theorem",
+          "url": "https://mathworld.wolfram.com/FirstGroupIsomorphismTheorem.html",
+          "type": "website",
+          "description": "Concise statement & notation"
+        },
+        {
+          "title": "Math3ma — The First Isomorphism Theorem, Intuitively",
+          "url": "https://www.math3ma.com/blog/the-first-isomorphism-theorem-intuitively",
+          "type": "article",
+          "description": "Intuition & examples"
+        },
+        {
+          "title": "FPSC CSS Syllabus — Pure Mathematics (Modern Algebra topics)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pure-Mathematics-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Lists homomorphism/isomorphism theorems explicitly"
+        }
+      ],
+      "importance": "high",
+      "category": "Group Theory",
+      "topics": ["Homomorphism", "Kernel", "Quotient Group", "Normal Subgroup"]
+    },
+    {
+      "id": "2",
+      "title": "Groups of Prime Order; Criterion via G/Z(G)",
+      "content": "Standard results recur: every group of prime order is cyclic; if G/Z(G) is cyclic then G is abelian; exam proofs often mix centers, normalizers, and factor groups.",
+      "keyTakeaways": [
+        "Use Lagrange to show orders of elements divide |G|.",
+        "Center arguments turn group into abelian via cyclic quotient.",
+        "Expect short proofs; practice writing crisp arguments."
+      ],
+      "resources": [
+        {
+          "title": "CSS Syllabus (Modern Algebra bullets on centers, inner automorphisms)",
+          "url": "https://thecsspoint.com/css-syllabus/pure-mathematics/",
+          "type": "website",
+          "description": "Center/inner automorphisms listed"
+        },
+        {
+          "title": "MIT OCW 18.06 notes (group analogies appear with linear maps)",
+          "url": "https://web.mit.edu/18.06/www/Spring16/lecture14.pdf",
+          "type": "pdf",
+          "description": "Kernel/image & rank–nullity analogies"
+        }
+      ],
+      "importance": "high",
+      "category": "Group Theory",
+      "topics": ["Cyclic Groups", "Center", "Quotients", "Abelian Criterion"]
+    },
+    {
+      "id": "3",
+      "title": "Finite Integral Domain ⇒ Field (Ring Theory staple)",
+      "content": "CSS repeatedly asks to prove a finite integral domain is a field. Key idea: nonzero elements have multiplicative inverses (injective ⇒ surjective over finite sets).",
+      "keyTakeaways": [
+        "Use cancellation and finiteness to prove bijectivity of multiplication map.",
+        "Alternative: every finite ring element is unit or zero-divisor.",
+        "Apply to ℤₙ: field iff n is prime."
+      ],
+      "resources": [
+        {
+          "title": "Math StackExchange — Finite integral domain is a field (standard proof)",
+          "url": "https://math.stackexchange.com/questions/62548/why-is-a-finite-integral-domain-always-field",
+          "type": "website",
+          "description": "Community-vetted proof sketches"
+        },
+        {
+          "title": "Concept note — Finite domain ⇒ field",
+          "url": "https://williamgrenard.wordpress.com/2016/11/29/proof-that-every-finite-integral-domain-is-a-field/",
+          "type": "article",
+          "description": "Alternate exposition"
+        },
+        {
+          "title": "CSS Syllabus — Rings/Fields topics",
+          "url": "https://thecsspoint.com/css-syllabus/pure-mathematics/",
+          "type": "website",
+          "description": "Integral domains, quotient fields"
+        }
+      ],
+      "importance": "high",
+      "category": "Rings, Integral Domains & Fields",
+      "topics": ["Integral Domain", "Field", "Zero Divisors", "ℤₙ"]
+    },
+    {
+      "id": "4",
+      "title": "Ideals, Maximal Ideals & Factor Rings",
+      "content": "Show kernels are ideals; identify maximal ideals and use R/M is field ⇔ M maximal; compute ideals in ℤ, ℤₙ, and M₂(ℝ) counterexamples.",
+      "keyTakeaways": [
+        "Maximal ideals correspond to fields in quotient.",
+        "Principal ideals in PID examples are exam favorites.",
+        "Know quick tests for units/zero divisors in ℤₙ."
+      ],
+      "resources": [
+        {
+          "title": "CSS Syllabus — Rings/Ideals",
+          "url": "https://thecsspoint.com/css-syllabus/pure-mathematics/",
+          "type": "website",
+          "description": "Ideals, quotient fields"
+        }
+      ],
+      "importance": "medium",
+      "category": "Rings, Integral Domains & Fields",
+      "topics": ["Ideal", "Maximal", "Quotient", "PID"]
+    },
+    {
+      "id": "5",
+      "title": "Rank–Nullity Theorem & Subspace Calculus",
+      "content": "Compute rank, nullity; identify column space/ker; common tasks: basis, dimension, independence, subspace tests.",
+      "keyTakeaways": [
+        "dim(ker A)+dim(im A)=n; row ops preserve rank.",
+        "Pivot columns → basis for column space; free vars → basis for null space.",
+        "Expect problems mixing systems (existence/uniqueness) with rank."
+      ],
+      "resources": [
+        {
+          "title": "MIT 18.06 — Rank–Nullity (Lecture 14 PDF)",
+          "url": "https://web.mit.edu/18.06/www/Spring16/lecture14.pdf",
+          "type": "pdf",
+          "description": "Clean statement & proof ideas"
+        },
+        {
+          "title": "18.03 Section 7.2 worksheet (rank/space practice)",
+          "url": "https://math.mit.edu/~dyatlov/18.03/lectures/Section7-2.pdf",
+          "type": "pdf",
+          "description": "Practice problems"
+        },
+        {
+          "title": "3Blue1Brown — Inverse matrices, column space & null space (video)",
+          "url": "https://www.youtube.com/watch?v=uQhTuRlWMxw",
+          "type": "video",
+          "description": "Visual intuition"
+        }
+      ],
+      "importance": "high",
+      "category": "Linear Algebra",
+      "topics": ["Rank", "Nullity", "Basis", "Subspaces"]
+    },
+    {
+      "id": "6",
+      "title": "Eigenvalues, Diagonalization & Jordan Form (+ Cayley–Hamilton)",
+      "content": "Common patterns: compute eigenvalues/eigenvectors; check diagonalizability; use Cayley–Hamilton to find A⁻¹ or powers; brief exposure to Jordan form.",
+      "keyTakeaways": [
+        "Diagonalizable iff geometric multiplicities sum to n.",
+        "Cayley–Hamilton: every matrix satisfies its characteristic polynomial.",
+        "Jordan form organizes non-diagonalizable cases."
+      ],
+      "resources": [
+        {
+          "title": "U. Alberta — Cayley–Hamilton (elementary proof)",
+          "url": "https://www.math.ualberta.ca/~isaac/math225/s05/cay_ham.pdf",
+          "type": "pdf",
+          "description": "Short, exam-ready proof"
+        },
+        {
+          "title": "Dummit (Northeastern) — Jordan form note",
+          "url": "https://dummit.cos.northeastern.edu/teaching_sp20_4571/linalgthy_4_eigenvalues_diagonalization_jordan_form_v2.00.pdf",
+          "type": "pdf",
+          "description": "Diagonalization → Jordan; applications"
+        },
+        {
+          "title": "Northwestern — Notes on Jordan Form",
+          "url": "https://sites.math.northwestern.edu/scg479/courses/notes/jordan-form.pdf",
+          "type": "pdf",
+          "description": "Definitions & structure"
+        }
+      ],
+      "importance": "high",
+      "category": "Linear Algebra",
+      "topics": ["Eigenvalues", "Cayley–Hamilton", "Jordan Canonical Form"]
+    },
+    {
+      "id": "7",
+      "title": "ε–δ Limits, Continuity & MVT (Real Analysis)",
+      "content": "Define limit/continuity rigorously; show differentiability ⇒ continuity; state Mean Value Theorem & typical inequality applications; construct counterexamples (|x| at 0).",
+      "keyTakeaways": [
+        "Be fluent with ε–δ proofs on polynomials/rational functions.",
+        "Use MVT to prove bounds and uniqueness.",
+        "Continuous but non-differentiable at points: exam classic."
+      ],
+      "resources": [
+        {
+          "title": "Paul's Online Math Notes — Calculus I/II/III hubs",
+          "url": "https://tutorial.math.lamar.edu/",
+          "type": "website",
+          "description": "Accessible explanations & exercises"
+        }
+      ],
+      "importance": "high",
+      "category": "Real Analysis",
+      "topics": ["Limits", "Continuity", "Differentiability", "MVT"]
+    },
+    {
+      "id": "8",
+      "title": "Riemann Sums, Definite Integrals & Area/Volume",
+      "content": "Set up Riemann sums; convert to integrals; common tasks: area between curves, volumes of revolution, line/double integrals in simple regions.",
+      "keyTakeaways": [
+        "Partition → sum → limit formalism.",
+        "Use symmetry & substitutions in exam-time constraints.",
+        "Sketch region carefully before double integrals."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Riemann Sums (AB/BC)",
+          "url": "https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-2/a/riemann-sums-review",
+          "type": "article",
+          "description": "Step-by-step articles"
+        },
+        {
+          "title": "Khan Academy — Unit on Riemann sums",
+          "url": "https://www.khanacademy.org/math/old-ap-calculus-bc/bc-accumulation-riemann-sums",
+          "type": "website",
+          "description": "Practice & videos"
+        }
+      ],
+      "importance": "high",
+      "category": "Real Analysis",
+      "topics": ["Riemann Sum", "Area", "Volume of Revolution", "Double Integral"]
+    },
+    {
+      "id": "9",
+      "title": "Sequences, Series & Tests of Convergence",
+      "content": "Alternating/absolute convergence; ratio/root tests; power series radius/interval; expand standard functions.",
+      "keyTakeaways": [
+        "Know quick test selection (p-series, comparison, ratio/root).",
+        "Endpoints often need separate checks for power series.",
+        "Maclaurin series expansions are time-savers."
+      ],
+      "resources": [
+        {
+          "title": "Paul's Online Math Notes — Series",
+          "url": "https://tutorial.math.lamar.edu/",
+          "type": "website",
+          "description": "Series & power series sections"
+        }
+      ],
+      "importance": "high",
+      "category": "Real Analysis",
+      "topics": ["Convergence Tests", "Power Series", "Radius of Convergence"]
+    },
+    {
+      "id": "10",
+      "title": "Cauchy–Riemann Equations & Analyticity",
+      "content": "Check analyticity of f(z)=u+iv via CR equations; convert to polar versions; typical exam asks: show harmonicity, find harmonic conjugate.",
+      "keyTakeaways": [
+        "CR with continuous partials ⇒ analytic (holomorphic).",
+        "u, v harmonic; can reconstruct conjugate via line integrals.",
+        "Know polar CR forms for practice problems."
+      ],
+      "resources": [
+        {
+          "title": "Purdue MA528 — CR equations (theorem & derivation)",
+          "url": "https://www.math.purdue.edu/~gabriea/MA528/lecture14.pdf",
+          "type": "pdf",
+          "description": "CR equations statement/proof outline"
+        },
+        {
+          "title": "LibreTexts — Cauchy–Riemann Equations",
+          "url": "https://phys.libretexts.org/Bookshelves/Mathematical_Physics_and_Pedagogy/Complex_Methods_for_the_Sciences_%28Chong%29/07%3A_Complex_Derivatives/7.03%3A_The_Cauchy-Riemann_Equations",
+          "type": "website",
+          "description": "Readable derivation & forms"
+        },
+        {
+          "title": "Wikipedia — Cauchy–Riemann equations",
+          "url": "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations",
+          "type": "website",
+          "description": "Polar forms & interpretations"
+        }
+      ],
+      "importance": "high",
+      "category": "Complex Analysis",
+      "topics": ["CR Equations", "Analytic", "Harmonic Conjugate"]
+    },
+    {
+      "id": "11",
+      "title": "Cauchy's Integral Theorem & Formula",
+      "content": "State theorem on simply connected domains; path independence; integral formula for derivatives; basic contour integrals.",
+      "keyTakeaways": [
+        "Integral over closed curve of holomorphic function is zero (simply connected).",
+        "Cauchy integral formula yields values & derivatives via contour integrals.",
+        "Builds foundation for residue methods."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — Cauchy's Integral Theorem (formulations)",
+          "url": "https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem",
+          "type": "website",
+          "description": "Simply connected vs homotopy statements"
+        }
+      ],
+      "importance": "high",
+      "category": "Complex Analysis",
+      "topics": ["Cauchy Theorem", "Integral Formula", "Holomorphic"]
+    },
+    {
+      "id": "12",
+      "title": "Residue Theorem & Real-Integral Applications",
+      "content": "Compute residues at simple/higher-order poles; evaluate real integrals via contour integration; common CSS tasks include unit-circle rational integrals.",
+      "keyTakeaways": [
+        "Residue at simple pole: lim (z−z0)f(z).",
+        "Choose contours wisely (Jordan's lemma style for exponentials).",
+        "Identify removable vs pole vs essential singularities first."
+      ],
+      "resources": [
+        {
+          "title": "MIT 18.04 — Topic 8: Residue Theorem (PDF)",
+          "url": "https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/3c58ce71ec6f7573804221d76158a0bd_MIT18_04S18_topic8.pdf",
+          "type": "pdf",
+          "description": "Compact rules & examples"
+        },
+        {
+          "title": "Ohio State — Residue theorem applications",
+          "url": "https://people.math.osu.edu/gautam.42/S20/LectureNotes/Lecture27.pdf",
+          "type": "pdf",
+          "description": "Worked contour-integral examples"
+        },
+        {
+          "title": "Harvard — Residue theorem & definite integrals",
+          "url": "https://people.math.harvard.edu/~knill/teaching/residues_1996/residue.pdf",
+          "type": "pdf",
+          "description": "Classic examples (Si, etc.)"
+        },
+        {
+          "title": "NPTEL Complex Analysis (Residues playlist)",
+          "url": "https://nptel.ac.in/courses/111103070",
+          "type": "website",
+          "description": "Video lectures incl. residue theorem"
+        }
+      ],
+      "importance": "high",
+      "category": "Complex Analysis",
+      "topics": ["Residues", "Contours", "Singularities", "Real Integrals"]
+    },
+    {
+      "id": "13",
+      "title": "Fourier Series on [−π, π] & Piecewise Functions",
+      "content": "Expand periodic piecewise functions; exploit even/odd symmetry; common exam: |x|, sawtooth, square wave; compute coefficients quickly.",
+      "keyTakeaways": [
+        "Use orthogonality of sines/cosines to get coefficients.",
+        "Gibbs phenomenon near jump discontinuities.",
+        "Half-range expansions reduce work."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Introduction to Fourier Series",
+          "url": "https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_%28Herman%29/03%3A_Trigonometric_Fourier_Series/3.01%3A_Introduction_to_Fourier_Series",
+          "type": "website",
+          "description": "Clear derivations & examples"
+        },
+        {
+          "title": "Stanford SEE EE261 (Fourier Series chapter)",
+          "url": "https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf",
+          "type": "pdf",
+          "description": "Accessible reference, Chapter 1"
+        },
+        {
+          "title": "3Blue1Brown — What is a Fourier series? (video/article)",
+          "url": "https://www.3blue1brown.com/lessons/fourier-series",
+          "type": "website",
+          "description": "Intuition + visuals"
+        }
+      ],
+      "importance": "high",
+      "category": "Fourier & Special Functions",
+      "topics": ["Fourier Series", "Orthogonality", "Gibbs Phenomenon"]
+    },
+    {
+      "id": "14",
+      "title": "Beta & Gamma Functions (Improper Integrals)",
+      "content": "Euler's Γ generalizes factorial; Beta integral relates via B(m,n)=Γ(m)Γ(n)/Γ(m+n). Useful to evaluate definite integrals appearing in CSS.",
+      "keyTakeaways": [
+        "Memorize Γ(n)=(n−1)! for n∈ℕ; Γ(1/2)=√π.",
+        "Common substitution tricks reduce integrals to Beta/Gamma.",
+        "Know relation B(x,y)=∫₀¹ t^{x−1}(1−t)^{y−1} dt."
+      ],
+      "resources": [
+        {
+          "title": "Beta & Gamma (concise PDF)",
+          "url": "https://www.cecmohali.org/public/documents/applied/material/notes/Beta-Gamma-functions.pdf",
+          "type": "pdf",
+          "description": "Key identities & proofs"
+        },
+        {
+          "title": "Engineering Maths — Beta & Gamma (PDF)",
+          "url": "https://theengineeringmaths.com/wp-content/uploads/2021/02/beta-gamma-functions-converted.pdf",
+          "type": "pdf",
+          "description": "Worked examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Fourier & Special Functions",
+      "topics": ["Gamma", "Beta", "Improper Integrals"]
+    },
+    {
+      "id": "15",
+      "title": "Plane Curves: Tangent/Normal, Arc Length & Curvature",
+      "content": "Compute tangents/normals; arc length via ∫√(1+(y′)²) dx; curvature κ formulas; CSS often asks for evolutes/pedal equations of classic curves.",
+      "keyTakeaways": [
+        "Curvature κ = |dT/ds|; multiple equivalent formulas in x(t)/y(t) or y(x).",
+        "Parametric/polar conversions frequently save effort.",
+        "Know standard curves: cycloid, cardioid, astroid."
+      ],
+      "resources": [
+        {
+          "title": "Paul's Notes — Curvature",
+          "url": "https://tutorial.math.lamar.edu/classes/calciii/curvature.aspx",
+          "type": "website",
+          "description": "Formulas & examples"
+        },
+        {
+          "title": "UKY Notes — Curvature & evolutes (PDF)",
+          "url": "https://www.ms.uky.edu/~droyster/courses/fall98/math4080/classnotes/planecurve.pdf",
+          "type": "pdf",
+          "description": "Definitions incl. osculating circle"
+        }
+      ],
+      "importance": "high",
+      "category": "Coordinate & 3D Geometry",
+      "topics": ["Curvature", "Arc Length", "Evolute", "Parametric Curves"]
+    },
+    {
+      "id": "16",
+      "title": "Pedal Equations & Applications",
+      "content": "Pedal equation relates distance r from fixed point to point on curve and perpendicular p from point to tangent. Appears in some classic geometry questions.",
+      "keyTakeaways": [
+        "Useful identities for conics (e.g., parabola at focus: p²=ar).",
+        "Know a few standard pedal forms to speed solutions.",
+        "Pairs with curvature/evolute questions."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — Pedal equation (overview & table)",
+          "url": "https://en.wikipedia.org/wiki/Pedal_equation",
+          "type": "website",
+          "description": "Quick reference of standard curves"
+        },
+        {
+          "title": "MathWorld — Pedal Curve (formulas)",
+          "url": "https://mathworld.wolfram.com/PedalCurve.html",
+          "type": "website",
+          "description": "Parametric relations"
+        }
+      ],
+      "importance": "medium",
+      "category": "Coordinate & 3D Geometry",
+      "topics": ["Pedal Equation", "Conics", "Classical Curves"]
+    },
+    {
+      "id": "17",
+      "title": "Conic Sections: Tangents/Normals & Standard Forms",
+      "content": "Ellipse/parabola/hyperbola properties; find tangent/normal; convert general quadratic to standard form; optical properties occasionally tested.",
+      "keyTakeaways": [
+        "Memorize standard forms and focal parameters.",
+        "Implicit differentiation for tangent/normal lines.",
+        "Half-angle and parametric forms useful for speed."
+      ],
+      "resources": [
+        {
+          "title": "Paul's — Ellipse practice problems",
+          "url": "https://tutorial.math.lamar.edu/problems/alg/ellipses.aspx",
+          "type": "website",
+          "description": "Worked tangents/normals"
+        }
+      ],
+      "importance": "high",
+      "category": "Coordinate & 3D Geometry",
+      "topics": ["Ellipse", "Parabola", "Hyperbola", "Tangents", "Normals"]
+    },
+    {
+      "id": "18",
+      "title": "3D Geometry: Planes, Lines, Quadric Surfaces & Distances",
+      "content": "Equations of planes/lines/spheres; quadric surfaces; shortest distance between skew lines; distance between parallel lines/planes.",
+      "keyTakeaways": [
+        "Skew lines: distance via |(a₂−a₁)·(b₁×b₂)|/|b₁×b₂|.",
+        "Intercept form of planes and tangent planes to quadrics are frequent.",
+        "Draw quick diagram to avoid sign mistakes."
+      ],
+      "resources": [
+        {
+          "title": "Paul's — Quadric Surfaces",
+          "url": "https://tutorial.math.lamar.edu/classes/calciii/quadricsurfaces.aspx",
+          "type": "website",
+          "description": "Surface types & equations"
+        },
+        {
+          "title": "Skew lines distance (JHU worked example)",
+          "url": "https://math.jhu.edu/~js/Math202/example1.pdf",
+          "type": "pdf",
+          "description": "Step-by-step computation"
+        },
+        {
+          "title": "Math.SE — Skew lines distance formula",
+          "url": "https://math.stackexchange.com/questions/4144399/distance-between-skew-lines",
+          "type": "website",
+          "description": "Vector triple product formula"
+        },
+        {
+          "title": "Wikipedia — Distance between parallel lines",
+          "url": "https://en.wikipedia.org/wiki/Distance_between_two_parallel_lines",
+          "type": "website",
+          "description": "Planar case formula"
+        }
+      ],
+      "importance": "high",
+      "category": "Coordinate & 3D Geometry",
+      "topics": ["Planes", "Lines", "Skew Lines", "Quadrics"]
+    },
+    {
+      "id": "19",
+      "title": "Cayley–Hamilton in Computation (Inverse & Powers of A)",
+      "content": "Use characteristic polynomial to express A⁻¹ (when det≠0) and reduce high powers; common CSS trick: avoid long multiplication.",
+      "keyTakeaways": [
+        "Write p(A)=0 and solve for desired power or inverse.",
+        "Especially handy for 2×2 and 3×3 matrices.",
+        "Combine with eigen-decomposition when diagonalizable."
+      ],
+      "resources": [
+        {
+          "title": "U. Alberta — Cayley–Hamilton theorem",
+          "url": "https://www.math.ualberta.ca/~isaac/math225/s05/cay_ham.pdf",
+          "type": "pdf",
+          "description": "Proof + examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Linear Algebra",
+      "topics": ["Cayley–Hamilton", "Matrix Powers", "Matrix Inverse"]
+    },
+    {
+      "id": "20",
+      "title": "Fourier Series — Visual & Intuition Boosters",
+      "content": "Use visual resources to grasp coefficients and partial sums; strengthens speed in expansions for |x| and periodic piecewise functions.",
+      "keyTakeaways": [
+        "Even/odd decomposition halves the work.",
+        "Partial sums approximate discontinuities with Gibbs overshoot.",
+        "Link to heat equation justifies series relevance."
+      ],
+      "resources": [
+        {
+          "title": "3Blue1Brown — Fourier series (video)",
+          "url": "https://www.youtube.com/watch?v=r6sGWTCMz2k",
+          "type": "video",
+          "description": "Animated intuition"
+        },
+        {
+          "title": "3Blue1Brown — Fourier series (article)",
+          "url": "https://www.3blue1brown.com/lessons/fourier-series",
+          "type": "website",
+          "description": "Text companion"
+        }
+      ],
+      "importance": "medium",
+      "category": "Fourier & Special Functions",
+      "topics": ["Fourier Coefficients", "Gibbs", "Heat Equation"]
+    },
+    {
+      "id": "21",
+      "title": "CSS Syllabus & Paper Structure (Pure Mathematics)",
+      "content": "Know the official breakdown: Section-A (Modern Algebra), Section-B (Geometry/Vector/Calculus), Section-C (Analysis/Complex/Fourier). Avoid over-preparing off-syllabus topics.",
+      "keyTakeaways": [
+        "Align prep to FPSC syllabus; practice past formats.",
+        "20 MCQs note applies broadly; check latest FPSC notices.",
+        "Time management: pick questions across sections as required."
+      ],
+      "resources": [
+        {
+          "title": "FPSC Syllabi — CE-2016 and onwards (official)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "pdf",
+          "description": "Official structure & notes"
+        },
+        {
+          "title": "CSS Aspirants — Pure Math Syllabus PDF",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pure-Mathematics-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Downloadable outline"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan CSS Context (Syllabus & Past Papers)",
+      "topics": ["FPSC", "Syllabus", "Sections", "Strategy"]
+    },
+    {
+      "id": "22",
+      "title": "Past Papers: Patterns & Practice (2000–2025)",
+      "content": "Consistent recurrence of: normal subgroups/quotients; rank–nullity; Cayley–Hamilton; conics & 3D geometry; CR & residues; Fourier series of |x| or piecewise f.",
+      "keyTakeaways": [
+        "Practice from multiple years to cover variants of the same core ideas.",
+        "Replicate full solutions under time constraints.",
+        "Flag your weak clusters and rotate drills."
+      ],
+      "resources": [
+        {
+          "title": "FPSC Descriptive Papers — Pure Maths",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "website",
+          "description": "Official past paper PDFs (where available)"
+        },
+        {
+          "title": "CSS Aspirants — Pure Math Past Papers (2020/2021 PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/09/Pure-Mathematics-2021.pdf",
+          "type": "pdf",
+          "description": "2021 paper"
+        },
+        {
+          "title": "CSS Aspirants — Pure Math 2020 PDF",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/09/Pure-Mathematics-2020.pdf",
+          "type": "pdf",
+          "description": "2020 paper"
+        },
+        {
+          "title": "The CSS Point — Past Papers 2000–2015",
+          "url": "https://thecsspoint.com/css-past-papers/pure-mathematics-past-papers/",
+          "type": "website",
+          "description": "Older archive"
+        },
+        {
+          "title": "Zicosh — 2016–2025 index",
+          "url": "https://zicosh.com/css-pure-mathematics-past-papers/",
+          "type": "website",
+          "description": "Compiled links to recent years"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan CSS Context (Syllabus & Past Papers)",
+      "topics": ["Past Papers", "Patterns", "Practice Sets"]
+    },
+    {
+      "id": "23",
+      "title": "Exam-Focused Complex Integrals (Unit Circle/Rational Forms)",
+      "content": "Common CSS trick: integrate rational functions over |z|=1 using residues at poles inside. Convert real integrals via symmetry or contour choice.",
+      "keyTakeaways": [
+        "Factor denominator; identify interior poles and compute residues.",
+        "Parametrize unit circle z=e^{it} if residue path is overkill.",
+        "Watch orientation (counterclockwise positive)."
+      ],
+      "resources": [
+        {
+          "title": "MIT 18.04 — Residue theorem notes",
+          "url": "https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/3c58ce71ec6f7573804221d76158a0bd_MIT18_04S18_topic8.pdf",
+          "type": "pdf",
+          "description": "Residue recipes"
+        },
+        {
+          "title": "Regina Lecture — Residue theorem handout",
+          "url": "https://uregina.ca/~kozdron/Teaching/Regina/312Fall13/Handouts/lecture31_nov_25_final.pdf",
+          "type": "pdf",
+          "description": "Worked contour examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Complex Analysis",
+      "topics": ["Residues", "Unit Circle", "Rational Integrals"]
+    },
+    {
+      "id": "24",
+      "title": "Fast Geometry Toolbox for CSS",
+      "content": "Keep a mini-sheet: lines/planes forms; distance formulas; conic standard forms; curvature formulas; triple product identity for skew-line distance.",
+      "keyTakeaways": [
+        "Skew lines distance: d = |(a₂−a₁)·(b₁×b₂)| / |b₁×b₂|.",
+        "Parallel lines in plane: d = |c₂−c₁|/√(a²+b²).",
+        "Curvature quick forms and tangent/normal unit vectors."
+      ],
+      "resources": [
+        {
+          "title": "Paul's — 3D space & vector calculus sections",
+          "url": "https://tutorial.math.lamar.edu/classes/calciii/quadricsurfaces.aspx",
+          "type": "website",
+          "description": "Planes/lines/quadrics"
+        },
+        {
+          "title": "Wikipedia — Distance between parallel lines",
+          "url": "https://en.wikipedia.org/wiki/Distance_between_two_parallel_lines",
+          "type": "website",
+          "description": "Planar formula"
+        },
+        {
+          "title": "Math.SE — Skew lines distance",
+          "url": "https://math.stackexchange.com/questions/4144399/distance-between-skew-lines",
+          "type": "website",
+          "description": "Vector formula reference"
+        }
+      ],
+      "importance": "medium",
+      "category": "Coordinate & 3D Geometry",
+      "topics": ["Distance", "Planes/Lines", "Formulas", "Speed Tricks"]
+    }
+  ],
+  "extras": {
+    "reference_texts": [
+      {
+        "title": "MIT OpenCourseWare — Linear Algebra (18.06)",
+        "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+        "type": "website"
+      },
+      {
+        "title": "MIT OpenCourseWare — Complex Variables (18.04)",
+        "url": "https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/",
+        "type": "website"
+      },
+      {
+        "title": "Paul's Online Math Notes",
+        "url": "https://tutorial.math.lamar.edu/",
+        "type": "website"
+      },
+      {
+        "title": "Kamali — Principles of Islamic Jurisprudence",
+        "url": "https://www.al-islam.org/sites/default/files/books/old/Principles-of-Islamic-Jurisprudence-by-Mohammad-Hashim-Kamali_0.pdf",
+        "type": "book"
+      }
+    ],
+    "video_resources": [
+      {
+        "title": "3Blue1Brown — Essence of Linear Algebra",
+        "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+        "type": "video"
+      },
+      {
+        "title": "3Blue1Brown — Essence of Calculus",
+        "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+        "type": "video"
+      },
+      {
+        "title": "Khan Academy — Linear Algebra",
+        "url": "https://www.khanacademy.org/math/linear-algebra",
+        "type": "video"
+      },
+      {
+        "title": "NPTEL — Complex Analysis Course",
+        "url": "https://nptel.ac.in/courses/111103070",
+        "type": "video"
+      }
+    ],
+    "practice_resources": [
+      {
+        "title": "FPSC CSS Past Papers Portal",
+        "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+        "type": "website"
+      },
+      {
+        "title": "CSS Aspirants — Pure Mathematics Past Papers",
+        "url": "https://cssaspirants.pk/css-past-papers/",
+        "type": "website"
+      },
+      {
+        "title": "The CSS Point — Mathematics Archive",
+        "url": "https://thecsspoint.com/css-past-papers/pure-mathematics-past-papers/",
+        "type": "website"
+      }
+    ],
+    "mathematical_references": [
+      {
+        "title": "Wolfram MathWorld",
+        "url": "https://mathworld.wolfram.com/",
+        "type": "website"
+      },
+      {
+        "title": "Math StackExchange",
+        "url": "https://math.stackexchange.com/",
+        "type": "website"
+      },
+      {
+        "title": "LibreTexts Mathematics",
+        "url": "https://math.libretexts.org/",
+        "type": "website"
+      }
+    ]
+  }
+}

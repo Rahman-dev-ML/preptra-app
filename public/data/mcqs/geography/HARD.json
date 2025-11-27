@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T07:51:19.683Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "bd3934ca53c776370d0bf2691aece129d67557a8",
+      "sectionIndex": 0,
+      "question": "The coupling between the El Niño-Southern Oscillation and the Indian Ocean Dipole demonstrates:",
+      "options": [
+        "A) Independent ocean systems",
+        "B) Teleconnections creating compound climate extremes across multiple basins",
+        "C) Simple cause-effect relationships",
+        "D) Predictable annual cycles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55fe917c4b283bcc3d8f9801bfef2bf7589bc2ba",
+      "sectionIndex": 0,
+      "question": "The D\" layer's role in mantle convection and its ultra-low velocity zones suggest:",
+      "options": [
+        "A) Uniform composition",
+        "B) Partial melting and chemical heterogeneity affecting whole-mantle circulation",
+        "C) Static boundary conditions",
+        "D) Simple thermal boundary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29ddde07a3ee3ce68480bc51023943b9bc8511ab",
+      "sectionIndex": 0,
+      "question": "The concept of \"slushball Earth\" challenges the \"snowball Earth\" hypothesis by proposing:",
+      "options": [
+        "A) No glaciation occurred",
+        "B) Equatorial refugia maintained hydrological cycle and life",
+        "C) Complete ice coverage was beneficial",
+        "D) Glaciation was regional only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d35da87942780d41688fb85b2e9a205fae6393c9",
+      "sectionIndex": 0,
+      "question": "Tipping cascades in the Earth system exemplify:",
+      "options": [
+        "A) Linear responses",
+        "B) How crossing one threshold can trigger multiple irreversible changes",
+        "C) Gradual adaptation",
+        "D) System stability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d977eed22e8b25cf2d1bbf2fecbe0292fc95c4c2",
+      "sectionIndex": 0,
+      "question": "The Anthropocene's geological signature differs from previous epochs through:",
+      "options": [
+        "A) Natural variations",
+        "B) Simultaneous global changes in multiple Earth systems",
+        "C) Regional impacts only",
+        "D) Slower rates of change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e531d18d11e7b14a5343feb6b20815d2b4b4dd6",
+      "sectionIndex": 0,
+      "question": "Large Igneous Province eruptions' climate impacts demonstrate:",
+      "options": [
+        "A) Local effects only",
+        "B) Complex feedbacks between volcanism, ocean chemistry, and mass extinctions",
+        "C) Cooling only",
+        "D) Predictable outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "391d2ba4ab60ffcbca9b079d05f9f19d164c6a2a",
+      "sectionIndex": 0,
+      "question": "The \"fugitive carbon\" problem in climate modeling refers to:",
+      "options": [
+        "A) Missing measurements",
+        "B) Unaccounted carbon fluxes between reservoirs affecting projections",
+        "C) Criminal activity",
+        "D) Stable carbon pools"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "267c3636ac7b9b80ac4bb89a78c26e55de3e1535",
+      "sectionIndex": 0,
+      "question": "Metamorphic core complexes reveal:",
+      "options": [
+        "A) Simple uplift",
+        "B) Deep crustal processes and extensional tectonics",
+        "C) Surface weathering",
+        "D) Sedimentary processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1880764e2b7873b38893b42e4ebab1ef74ce937c",
+      "sectionIndex": 0,
+      "question": "The \"silicon pump\" in oceans demonstrates:",
+      "options": [
+        "A) Mechanical process",
+        "B) Biological-chemical coupling affecting carbon sequestration",
+        "C) Industrial pollution",
+        "D) Tidal pumping"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c2b0e4ee2bb2bd189d798630559dbe830f52e6d",
+      "sectionIndex": 0,
+      "question": "Seismic anisotropy in the mantle indicates:",
+      "options": [
+        "A) Uniform properties",
+        "B) Mineral alignment revealing past and present flow patterns",
+        "C) Earthquake damage",
+        "D) Random structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e0dcb9d2c85c56a012d5def51cb49f4894ebe69",
+      "sectionIndex": 1,
+      "question": "The Atlantic Meridional Overturning Circulation's bistability implies:",
+      "options": [
+        "A) Constant circulation",
+        "B) Potential for abrupt reorganization with global climate impacts",
+        "C) Linear response to forcing",
+        "D) Regional effects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dae8c24dee3b6a5bf8def7bc0d0d8a80fb93359",
+      "sectionIndex": 1,
+      "question": "Dansgaard-Oeschger events during glacial periods demonstrate:",
+      "options": [
+        "A) Orbital forcing only",
+        "B) Internal climate system oscillations causing abrupt warming",
+        "C) Gradual temperature changes",
+        "D) Solar influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "967650cd4694722568c83767a95ab97e1c074496",
+      "sectionIndex": 1,
+      "question": "The \"compost bomb\" hypothesis suggests:",
+      "options": [
+        "A) Agricultural hazard",
+        "B) Accelerating soil carbon release with warming creating positive feedback",
+        "C) Waste management issue",
+        "D) Negative feedback"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d8072543d257141af82c723fc7ea8902dab0ec1",
+      "sectionIndex": 1,
+      "question": "Cloud-aerosol interactions remain uncertain because:",
+      "options": [
+        "A) Simple relationships",
+        "B) Nonlinear microphysical processes at multiple scales",
+        "C) Well-understood mechanisms",
+        "D) Direct measurements everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be35d35fe35247fa2fb6915429c8d4e1318d939a",
+      "sectionIndex": 1,
+      "question": "The \"iris effect\" hypothesis proposes:",
+      "options": [
+        "A) Eye structure",
+        "B) Tropical convection regulating Earth's energy balance",
+        "C) Optical phenomenon",
+        "D) Plant response"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "280d65ae1462fc3868f7169c9d2ba51f867773c3",
+      "sectionIndex": 1,
+      "question": "Atmosphere-ocean-cryosphere coupling in polar regions creates:",
+      "options": [
+        "A) Isolation",
+        "B) Amplified warming through ice-albedo and other feedbacks",
+        "C) Cooling trends",
+        "D) Stable conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ea569794e996ddd7069d4fc9d0cd1e5f885e25e",
+      "sectionIndex": 1,
+      "question": "The Madden-Julian Oscillation's global impacts illustrate:",
+      "options": [
+        "A) Local phenomenon",
+        "B) Tropical-extratropical teleconnections affecting weather worldwide",
+        "C) Annual cycle",
+        "D) Ocean current"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a251af219a41dbbb97e9a353cc77ce0e08824f1",
+      "sectionIndex": 1,
+      "question": "Stratosphere-troposphere exchange affects climate through:",
+      "options": [
+        "A) No interaction",
+        "B) Ozone transport and dynamic coupling influencing surface weather",
+        "C) One-way flow",
+        "D) Temperature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54c5143ae59481c4d933389958953f502cd75274",
+      "sectionIndex": 1,
+      "question": "The \"cold ocean-warm land\" pattern in paleoclimate records indicates:",
+      "options": [
+        "A) Measurement error",
+        "B) Complex reorganization of heat transport mechanisms",
+        "C) Simple cooling",
+        "D) Uniform change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d89678d3ef5c9cf107b9ff2bc71a79109e493a53",
+      "sectionIndex": 1,
+      "question": "Biogeochemical feedbacks in permafrost regions involve:",
+      "options": [
+        "A) Physical processes only",
+        "B) Coupled carbon-nitrogen cycles affecting greenhouse gas emissions",
+        "C) Ice dynamics only",
+        "D) No feedbacks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dabf5e6af4ec1287f91132cb6462fbb5f3a341f6",
+      "sectionIndex": 2,
+      "question": "The \"threshold hillslope\" concept explains:",
+      "options": [
+        "A) Maximum height",
+        "B) Nonlinear landscape response to tectonic and climatic forcing",
+        "C) Gentle slopes only",
+        "D) Erosion limits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efe452c698b6b710133343d6cf0140368c5200b1",
+      "sectionIndex": 2,
+      "question": "Cosmogenic nuclide dating revolutionized geomorphology by:",
+      "options": [
+        "A) Age determination only",
+        "B) Quantifying erosion rates and exposure ages at various timescales",
+        "C) Rock identification",
+        "D) Climate reconstruction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a2a672d4da8faf54f40b9d578f58ac54c27de1e",
+      "sectionIndex": 2,
+      "question": "The \"stream power law\" debate centers on:",
+      "options": [
+        "A) Hydroelectric potential",
+        "B) Whether river incision follows detachment or transport-limited models",
+        "C) Water volume",
+        "D) Channel width"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cecd1272ca46ef5baedce79122da62ad4877d43d",
+      "sectionIndex": 2,
+      "question": "Polygenetic landscapes challenge morphological interpretation because:",
+      "options": [
+        "A) Single origin",
+        "B) Multiple process-domains and climatic inheritances overprint",
+        "C) Simple evolution",
+        "D) Recent formation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "491f937e9b428ba70c23a5e088e3e62577ed41c4",
+      "sectionIndex": 2,
+      "question": "The \"buzzsaw hypothesis\" proposes:",
+      "options": [
+        "A) Erosion tool",
+        "B) Glacial erosion limits mountain height through efficient valley incision",
+        "C) Tectonic control",
+        "D) Climate independence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "389c6e9f214f96c7f7e9513a865481c23eb2e28b",
+      "sectionIndex": 2,
+      "question": "Autogenic versus allogenic controls in sedimentary systems distinguish:",
+      "options": [
+        "A) Same processes",
+        "B) Internal dynamics from external forcing in landscape evolution",
+        "C) Rock types",
+        "D) Age differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a9de2e9a15792c5b94d825d3b4a25f7d62f00d3",
+      "sectionIndex": 2,
+      "question": "The \"biotic hypothesis\" of weathering suggests:",
+      "options": [
+        "A) Abiotic processes dominate",
+        "B) Life evolution fundamentally altered Earth's weathering regime",
+        "C) No biological effect",
+        "D) Recent phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "093afb1b11a5d8cca60f66a2d505fd007e463fa0",
+      "sectionIndex": 2,
+      "question": "Knickpoint propagation in river systems reveals:",
+      "options": [
+        "A) Static profiles",
+        "B) Transient landscape adjustment to base level or tectonic changes",
+        "C) Equilibrium conditions",
+        "D) Random variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e363c989934ceb8620ec6378b94ea14719264e6e",
+      "sectionIndex": 2,
+      "question": "Aeolian-fluvial interactions in drylands demonstrate:",
+      "options": [
+        "A) Independent systems",
+        "B) Coupled processes creating complex depositional architectures",
+        "C) Aeolian dominance",
+        "D) Fluvial dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c644fcfffe32391f487a3265daa805a06bd51017",
+      "sectionIndex": 2,
+      "question": "The \"fill-cut-fill\" paradigm in Quaternary valleys indicates:",
+      "options": [
+        "A) Simple accumulation",
+        "B) Climate-driven cycles of aggradation and incision",
+        "C) Continuous erosion",
+        "D) Tectonic control only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d96deaf683221016d78ff48eb5db74656d5a6fc",
+      "sectionIndex": 3,
+      "question": "The \"land system\" concept integrates:",
+      "options": [
+        "A) Land ownership only",
+        "B) Coupled human-natural systems with emergent properties",
+        "C) Physical land only",
+        "D) Agricultural systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0c46ecf11b4d790b1fef832ab009c7d3f2f0c65",
+      "sectionIndex": 3,
+      "question": "Telecoupling in global environmental change refers to:",
+      "options": [
+        "A) Communication technology",
+        "B) Distant interactions between coupled human-natural systems",
+        "C) Local connections only",
+        "D) Telegraph systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9dcb9b8684d8952d39d80d91d4fb8835da6904a9",
+      "sectionIndex": 3,
+      "question": "The \"environmentalism of the poor\" challenges mainstream environmentalism by:",
+      "options": [
+        "A) Rejecting conservation",
+        "B) Linking environmental justice to livelihood struggles",
+        "C) Promoting poverty",
+        "D) Ignoring environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b24d96f4b820aacc6de09977a1646d9fe3dd720",
+      "sectionIndex": 3,
+      "question": "Social-ecological resilience differs from engineering resilience in:",
+      "options": [
+        "A) No difference",
+        "B) Accepting multiple stable states and transformation potential",
+        "C) Focusing on bounce-back",
+        "D) Ignoring society"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11962402c1a8a4183211f9b0231f395c84371ffc",
+      "sectionIndex": 3,
+      "question": "The \"double exposure\" framework analyzes:",
+      "options": [
+        "A) Photography",
+        "B) Simultaneous vulnerability to environmental and economic changes",
+        "C) Single stressor",
+        "D) Radiation exposure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e68db18cc3190c1ec2304c3e77df9d731905036f",
+      "sectionIndex": 3,
+      "question": "Political ecology's \"chain of explanation\" method:",
+      "options": [
+        "A) Studies ecology only",
+        "B) Links local environmental changes to multi-scale political-economic forces",
+        "C) Ignores politics",
+        "D) Focuses locally only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca558aefc158d598a4c82ffa2d48ddd205c0adcf",
+      "sectionIndex": 3,
+      "question": "The \"poverty trap\" in coupled human-environment systems involves:",
+      "options": [
+        "A) Economic factors only",
+        "B) Reinforcing feedbacks between poverty and environmental degradation",
+        "C) Simple causation",
+        "D) No environmental link"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9c62cb7c50184350972886516defa0035338c19",
+      "sectionIndex": 3,
+      "question": "Actor-network theory applied to environmental issues reveals:",
+      "options": [
+        "A) Human actors only",
+        "B) Agency of non-humans in shaping environmental outcomes",
+        "C) No networks",
+        "D) Simple hierarchies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb3cbcba3f34bc6b06352810623b2ba482d8fa06",
+      "sectionIndex": 3,
+      "question": "The \"shifting baseline syndrome\" affects environmental management through:",
+      "options": [
+        "A) Moving targets",
+        "B) Generational amnesia normalizing degraded conditions",
+        "C) Improved baselines",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5545f913d698b2e8a80d182f796a2902e13aa8bf",
+      "sectionIndex": 3,
+      "question": "Planetary boundaries framework's interconnections show:",
+      "options": [
+        "A) Independent limits",
+        "B) Cascading effects when multiple boundaries interact",
+        "C) Single boundary importance",
+        "D) No interactions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b08efe6c19c11ff5343187c7dcd01d1902ec3697",
+      "sectionIndex": 4,
+      "question": "Financialization of nature through ecosystem services markets creates:",
+      "options": [
+        "A) Environmental protection",
+        "B) New accumulation frontiers while potentially undermining conservation",
+        "C) Simple solutions",
+        "D) No economic impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "482816210beac1c442af6409f2a2821c5640c193",
+      "sectionIndex": 4,
+      "question": "The \"resource curse\" paradox's geographical dimensions include:",
+      "options": [
+        "A) Uniform effects",
+        "B) Spatial concentration of extraction creating regional disparities",
+        "C) National benefits",
+        "D) No spatial pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63cf921d12d57304e61bc1bb29734b3a572a42b6",
+      "sectionIndex": 4,
+      "question": "Global production networks differ from global value chains by:",
+      "options": [
+        "A) No difference",
+        "B) Emphasizing relational networks over linear chains",
+        "C) Focusing on products only",
+        "D) Ignoring geography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac87ee63b6fd770e8400c1a205a1a77190dd955e",
+      "sectionIndex": 4,
+      "question": "The \"entrepreneurial city\" paradigm shifts urban governance toward:",
+      "options": [
+        "A) Public services",
+        "B) Inter-urban competition and speculative development",
+        "C) Social welfare",
+        "D) Environmental protection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04ca91c93b4b3b089636fd4fca808e215749c66b",
+      "sectionIndex": 4,
+      "question": "Variegated capitalism theory explains:",
+      "options": [
+        "A) Universal convergence",
+        "B) Persistent institutional differences despite globalization",
+        "C) Single model dominance",
+        "D) No variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7e5ca5d34a3b514d390988189396c05c120a49a",
+      "sectionIndex": 4,
+      "question": "The \"spatial fix\" concept reveals capitalism's tendency to:",
+      "options": [
+        "A) Repair spaces",
+        "B) Resolve crises through geographical expansion and restructuring",
+        "C) Stay in place",
+        "D) Avoid geography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "195687a96d31c3f8c369a781331b0919e1d1bd89",
+      "sectionIndex": 4,
+      "question": "Platform economies create new geographies through:",
+      "options": [
+        "A) Physical platforms",
+        "B) Digital mediation of spatial relations and labor",
+        "C) Traditional logistics",
+        "D) No spatial impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a982e05ea2540d9c4c542b78623108ec83031ad5",
+      "sectionIndex": 4,
+      "question": "Degrowth economics challenges conventional geography by:",
+      "options": [
+        "A) Promoting growth",
+        "B) Questioning growth imperatives and proposing alternative spatialities",
+        "C) Ignoring space",
+        "D) Focusing on GDP only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e04875f185c0cd287c85228d660db1dae279fdb",
+      "sectionIndex": 4,
+      "question": "The \"new international division of labor\" has evolved into:",
+      "options": [
+        "A) Simple North-South pattern",
+        "B) Complex multi-polar networks with shifting hegemonies",
+        "C) No division",
+        "D) Return to autarky"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d02b2755dcc43f0978e7afde34927bf182d6f65",
+      "sectionIndex": 4,
+      "question": "Extractivism's contemporary forms demonstrate:",
+      "options": [
+        "A) Traditional mining only",
+        "B) Expanded appropriation including data and genetic resources",
+        "C) Sustainable practices",
+        "D) Reduced extraction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd16c28298d4c9632ca5684d8d1f4d3fcf72b9cf",
+      "sectionIndex": 5,
+      "question": "The \"territorial trap\" in political geography assumes:",
+      "options": [
+        "A) Physical traps",
+        "B) Fixed state territories as natural containers of society",
+        "C) No territories exist",
+        "D) Fluid boundaries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f1c9d802f780cf05a5e8c7d19132d78aa0f9094",
+      "sectionIndex": 5,
+      "question": "Critical geopolitics deconstructs:",
+      "options": [
+        "A) Maps only",
+        "B) Geographical imaginaries legitimizing power relations",
+        "C) Physical features",
+        "D) No discourse"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57a2686f7addc89be8c475ac0adb29da31106248",
+      "sectionIndex": 5,
+      "question": "The \"borderlands\" concept challenges traditional boundaries by:",
+      "options": [
+        "A) Reinforcing borders",
+        "B) Revealing hybrid spaces of cultural and economic flows",
+        "C) Creating walls",
+        "D) Eliminating crossings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bf3490ab77abcaff61c506f4b6aab8b03084e44",
+      "sectionIndex": 5,
+      "question": "Hydropolitics in transboundary rivers demonstrates:",
+      "options": [
+        "A) Simple upstream-downstream relations",
+        "B) Complex interactions of power, scale, and environmental change",
+        "C) No conflict",
+        "D) Technical solutions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd4fa2d77c0cf2e2943d085365bcab3cf943f0ad",
+      "sectionIndex": 5,
+      "question": "The \"choke point\" concept in resource geographies reveals:",
+      "options": [
+        "A) Physical blockages",
+        "B) Critical nodes controlling global commodity flows",
+        "C) Health hazards",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48859db7926657101ab8a81e242acf2d76e7119b",
+      "sectionIndex": 5,
+      "question": "Vertical geopolitics extends territorial thinking to:",
+      "options": [
+        "A) Mountain heights only",
+        "B) Subterranean resources, airspace, and orbital space",
+        "C) Sea level",
+        "D) Horizontal expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a826efb44deb3a3e43e61f7dec41b092a0081114",
+      "sectionIndex": 5,
+      "question": "The \"anthropology of the state\" in geography shows:",
+      "options": [
+        "A) Uniform state presence",
+        "B) Performed and contested nature of state power across space",
+        "C) No variation",
+        "D) Complete control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ea36cac1bee5bf869f584d5fe56cde5555f7ed9",
+      "sectionIndex": 5,
+      "question": "Climate security discourse risks:",
+      "options": [
+        "A) Overpreparation",
+        "B) Militarizing environmental challenges while obscuring root causes",
+        "C) Peace promotion",
+        "D) No security issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c951838474084b49d51b76d48f51d27584363fc",
+      "sectionIndex": 5,
+      "question": "The \"camp\" as geographical form represents:",
+      "options": [
+        "A) Recreation only",
+        "B) Spaces of exception revealing sovereign power's limits",
+        "C) Temporary housing",
+        "D) No political significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28c20e3b807aa855de5e14859599dd0bfcdd8cfd",
+      "sectionIndex": 5,
+      "question": "Digital sovereignty challenges involve:",
+      "options": [
+        "A) No territorial issues",
+        "B) Competing jurisdictions over data flows and cyber infrastructure",
+        "C) Physical borders only",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a0ceea6470a55d37da13f305bc1b0ccc5d26d3f",
+      "sectionIndex": 6,
+      "question": "\"Planetary urbanization\" thesis argues:",
+      "options": [
+        "A) Cities are isolated",
+        "B) Urban processes extend beyond cities to global space",
+        "C) Rural areas dominate",
+        "D) No urban expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07f8b4abe6090df724a290da9df7c90f58f02773",
+      "sectionIndex": 6,
+      "question": "The \"right to the city\" involves more than access, encompassing:",
+      "options": [
+        "A) Legal rights only",
+        "B) Rights to transform urban space through collective action",
+        "C) Property ownership",
+        "D) Residence permits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a551989b54c6a65e5fd062ff3ea02433c501edd",
+      "sectionIndex": 6,
+      "question": "\"Splintering urbanism\" describes:",
+      "options": [
+        "A) Physical fractures",
+        "B) Fragmentation of universal infrastructure into premium networks",
+        "C) Earthquake damage",
+        "D) Urban unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0415e9bad742a444d0eaa0ba46f01d5a17dfef45",
+      "sectionIndex": 6,
+      "question": "Postcolonial urbanism critiques universal urban theory by:",
+      "options": [
+        "A) Accepting all theories",
+        "B) Revealing how Southern cities challenge Northern-based concepts",
+        "C) Rejecting cities",
+        "D) Promoting single model"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59133fd18cb30e59ee31a11d5d219ba614d527d2",
+      "sectionIndex": 6,
+      "question": "The \"urban age\" thesis is problematic because:",
+      "options": [
+        "A) Cities don't exist",
+        "B) It relies on arbitrary definitions masking urban-rural connections",
+        "C) Too few cities",
+        "D) Accurate data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbef60e9deb04a8fc12865c844c71757e8b5655b",
+      "sectionIndex": 6,
+      "question": "\"Worlding cities\" practices involve:",
+      "options": [
+        "A) Global domination",
+        "B) Inter-referencing between cities creating new urban imaginaries",
+        "C) Isolation",
+        "D) No connections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0d4e2f9d28ee82310730eeae65cc5fc6a5b7f48",
+      "sectionIndex": 6,
+      "question": "Extended urbanization includes:",
+      "options": [
+        "A) City expansion only",
+        "B) Operational landscapes supporting urban agglomerations",
+        "C) No hinterlands",
+        "D) Compact cities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e84600a14752b66271edf0674858492b19c4e45f",
+      "sectionIndex": 6,
+      "question": "The \"arrival city\" concept highlights:",
+      "options": [
+        "A) Tourism",
+        "B) Migrant spaces as crucial sites of urban transformation",
+        "C) Airport cities",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b482f1f610a164d908a9eb9224199cc21992e13",
+      "sectionIndex": 6,
+      "question": "\"Subaltern urbanism\" reveals:",
+      "options": [
+        "A) Underground cities",
+        "B) How majority populations create cities outside formal planning",
+        "C) Elite spaces",
+        "D) No alternatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8e5713922ace2b741f2a61be95f84188e4a23c0",
+      "sectionIndex": 6,
+      "question": "Urban political ecology demonstrates:",
+      "options": [
+        "A) Nature ends at city limits",
+        "B) Cities as metabolic systems transforming nature",
+        "C) No nature in cities",
+        "D) Separate systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b8cc717c1cae1ce2f81e8b1a5a08917ffe07917",
+      "sectionIndex": 7,
+      "question": "The \"region\" as analytical category has shifted from:",
+      "options": [
+        "A) Fixed definition",
+        "B) Bounded container to relational space of flows and networks",
+        "C) No change",
+        "D) Disappearing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8123fcb18bab39f94943d60e73ec719726c08020",
+      "sectionIndex": 7,
+      "question": "Uneven development's \"see-saw\" motion describes:",
+      "options": [
+        "A) Playground equipment",
+        "B) Capital's spatial switching between regions for profit",
+        "C) Balanced growth",
+        "D) No movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2789b6d6e36c0614cda540ff31a01d585c4b4e6",
+      "sectionIndex": 7,
+      "question": "\"New regionalism\" differs from old regionalism by:",
+      "options": [
+        "A) No difference",
+        "B) Emphasizing flexible networks over hierarchical structures",
+        "C) Stronger boundaries",
+        "D) Isolation focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ab1ad00d585d864fab9cd2438e77d5330614c34",
+      "sectionIndex": 7,
+      "question": "The \"learning region\" concept emphasizes:",
+      "options": [
+        "A) Education only",
+        "B) Knowledge spillovers and institutional thickness",
+        "C) Student populations",
+        "D) No innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5427fe3b2a29e924fe841c41950ebc32506e0dae",
+      "sectionIndex": 7,
+      "question": "\"Glocalization\" strategies by firms involve:",
+      "options": [
+        "A) Global uniformity",
+        "B) Adapting global products to local contexts while maintaining efficiency",
+        "C) Local only",
+        "D) No strategy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c6147333018ee8c33587aeaf6265205700c8c88",
+      "sectionIndex": 7,
+      "question": "Regional innovation systems' success depends on:",
+      "options": [
+        "A) Technology alone",
+        "B) Complex interactions between firms, institutions, and culture",
+        "C) Government funding only",
+        "D) Individual genius"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf16e72d9c1b14a07723d7238fd84e1ac2c56c2b",
+      "sectionIndex": 7,
+      "question": "The \"archipelago economy\" describes:",
+      "options": [
+        "A) Island nations",
+        "B) Disconnected prosperous regions amid declining areas",
+        "C) Maritime trade",
+        "D) Continuous development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06ca13fe09dc60a957ce01400ea5236894dd90c7",
+      "sectionIndex": 7,
+      "question": "\"Competitive regionalism\" can lead to:",
+      "options": [
+        "A) Universal benefits",
+        "B) Race to bottom in regulations and zero-sum competition",
+        "C) Cooperation only",
+        "D) No competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c080075698842745b1cae1735645e4448ad3b2e",
+      "sectionIndex": 7,
+      "question": "Cross-border regions challenge traditional planning through:",
+      "options": [
+        "A) Simple cooperation",
+        "B) Multi-level governance and competing sovereignties",
+        "C) No challenges",
+        "D) Single authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28666522b183d4d0bbb9a86dedf2cbfb70854319",
+      "sectionIndex": 7,
+      "question": "Regional resilience involves more than bouncing back, including:",
+      "options": [
+        "A) Return to normal",
+        "B) Adaptation and transformation capabilities",
+        "C) Resistance only",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d545846a59aecca4730aefede3be733ae549c746",
+      "sectionIndex": 8,
+      "question": "The \"Anthropocene\" concept's value and limitations include:",
+      "options": [
+        "A) Clear definition",
+        "B) Recognizing human impact while potentially obscuring differential responsibilities",
+        "C) No debate",
+        "D) Universal acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39438a3f3af0e52e0636b34e655d2b3c0a99a667",
+      "sectionIndex": 8,
+      "question": "\"Slow violence\" in environmental contexts refers to:",
+      "options": [
+        "A) Delayed assault",
+        "B) Gradual environmental harm affecting marginalized populations",
+        "C) Quick impacts",
+        "D) No violence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69fec0c0893cff059a91136f453e0be5aef4591d",
+      "sectionIndex": 8,
+      "question": "More-than-human geographies challenge anthropocentrism by:",
+      "options": [
+        "A) Excluding humans",
+        "B) Recognizing non-human agency in shaping worlds",
+        "C) Human dominance",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15d7017d4f3d9fdf8bb8d5a3bd35f8f99acb88d0",
+      "sectionIndex": 8,
+      "question": "The \"metabolic rift\" concept explains:",
+      "options": [
+        "A) Biological process",
+        "B) Capitalism's disruption of natural cycles through spatial separation",
+        "C) No rifts exist",
+        "D) Harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a73ad7786cde9c008e2798a3cfc6476c2e2fa7b5",
+      "sectionIndex": 8,
+      "question": "\"Solastalgia\" as geographical concept captures:",
+      "options": [
+        "A) Nostalgia",
+        "B) Distress from environmental change in one's home environment",
+        "C) Solar energy",
+        "D) No emotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac6d4d197f23eeb6a1137b9ab6695258230378c0",
+      "sectionIndex": 8,
+      "question": "Multispecies ethnography in geography reveals:",
+      "options": [
+        "A) Human focus only",
+        "B) Entangled lives of humans and non-humans in place",
+        "C) Species separation",
+        "D) No connections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bb01f3f2ede8918aeb2735afe512b9c7653fa92",
+      "sectionIndex": 8,
+      "question": "\"Accumulation by dispossession\" in environmental contexts involves:",
+      "options": [
+        "A) Wealth creation",
+        "B) Privatizing commons and displacing communities for capital",
+        "C) Conservation success",
+        "D) No accumulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9124ee5c8ebb11e545bed5969a90f58be1fe6e32",
+      "sectionIndex": 8,
+      "question": "The \"sacrifice zone\" concept reveals:",
+      "options": [
+        "A) Religious practice",
+        "B) Places deemed expendable for economic development",
+        "C) Protected areas",
+        "D) No sacrifices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "994725087efc727f1b58b4b1e2170fc3230afe60",
+      "sectionIndex": 8,
+      "question": "\"Chthulucene\" as alternative to Anthropocene emphasizes:",
+      "options": [
+        "A) Fiction only",
+        "B) Multispecies relationships and tentacular thinking",
+        "C) Human dominance",
+        "D) No alternatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64c2609849e2dede535754d9ea89e5067b702d82",
+      "sectionIndex": 8,
+      "question": "Environmental data justice involves:",
+      "options": [
+        "A) Data collection only",
+        "B) Who controls environmental information and for what purposes",
+        "C) No justice issues",
+        "D) Open access solves all"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9531f262a2f0feef36ef43330755d464694051eb",
+      "sectionIndex": 9,
+      "question": "Anticipatory geographies of climate adaptation reveal:",
+      "options": [
+        "A) Certain futures",
+        "B) How imagined futures shape present actions and inequalities",
+        "C) No planning needed",
+        "D) Single scenario"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c8d76bffc3ed0fab911711b5307d2e39e5a8a04",
+      "sectionIndex": 9,
+      "question": "The \"deepening\" of geography through technology involves:",
+      "options": [
+        "A) Ocean exploration only",
+        "B) Vertical expansion into subsurface and atmospheric spaces",
+        "C) Surface focus",
+        "D) No technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "833df09ca95c44a8a77717884a9d9863e8a5c296",
+      "sectionIndex": 9,
+      "question": "Biosecurity geographies demonstrate:",
+      "options": [
+        "A) Health issues only",
+        "B) How disease control reshapes mobility and borders",
+        "C) No spatial impact",
+        "D) Open borders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dac251c6b1b2fa9f8ab69b324f640a4d0b147de8",
+      "sectionIndex": 9,
+      "question": "\"Decolonizing\" geography requires:",
+      "options": [
+        "A) Historical study only",
+        "B) Questioning disciplinary foundations and knowledge production",
+        "C) No change needed",
+        "D) Adding diversity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98547e7880263c0c684dc88492c26fbe2bf47d11",
+      "sectionIndex": 9,
+      "question": "Algorithmic geographies show:",
+      "options": [
+        "A) Neutral calculations",
+        "B) How code and data produce new spatialities and inequalities",
+        "C) No impact",
+        "D) Democratic access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6c5727e8bafdc75885995786323ac14f1f93e39",
+      "sectionIndex": 9,
+      "question": "The \"post-human\" city involves:",
+      "options": [
+        "A) No humans",
+        "B) Recognizing non-human inhabitants and technological assemblages",
+        "C) Human dominance",
+        "D) Empty cities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a53179a26ef9af64306f5fd94af0fc90249d593f",
+      "sectionIndex": 9,
+      "question": "Geoengineering proposals raise geographical questions about:",
+      "options": [
+        "A) Technical feasibility only",
+        "B) Spatial distributions of risks, benefits, and governance",
+        "C) No geographical impact",
+        "D) Uniform effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a23869b39e7677fb971ebbbc1739d110622e009a",
+      "sectionIndex": 9,
+      "question": "\"Fugitive\" geographic practices include:",
+      "options": [
+        "A) Criminal activity",
+        "B) Spaces and movements escaping state/capital control",
+        "C) No resistance",
+        "D) Full visibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f67db58aa5b000c20862e1a069b529ff714d7a0a",
+      "sectionIndex": 9,
+      "question": "Quantum geography explores:",
+      "options": [
+        "A) Physics only",
+        "B) Uncertainty and superposition in spatial phenomena",
+        "C) Deterministic patterns",
+        "D) No application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a6e86304653e14a128b5b527984c7e0d947c4ef",
+      "sectionIndex": 9,
+      "question": "Geography's \"metamorphosis\" involves:",
+      "options": [
+        "A) Subject death",
+        "B) Radical transformation responding to planetary challenges",
+        "C) No change",
+        "D) Return to origins"
+      ],
+      "correct": "B"
+    }
+  ]
+}

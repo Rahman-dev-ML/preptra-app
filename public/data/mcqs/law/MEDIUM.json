@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:49:36.823Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "9ac68acf236410c5a6732fa089147629ab7adfb8",
+      "sectionIndex": 0,
+      "question": "The difference between actual and constructive res judicata is:",
+      "options": [
+        "A) Actual is for same issue, constructive for related issues",
+        "B) Actual is for criminal, constructive for civil",
+        "C) No difference exists",
+        "D) Actual is temporary, constructive permanent"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1da1ac6ef4fb33e11302a777ec885148d9e559eb",
+      "sectionIndex": 0,
+      "question": "Res judicata applies when all these conditions are met EXCEPT:",
+      "options": [
+        "A) Same parties",
+        "B) Same subject matter",
+        "C) Different court of competent jurisdiction",
+        "D) Matter directly and substantially in issue"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6f5578720df6c4396bdd49eeb25c7c012f23d4b0",
+      "sectionIndex": 0,
+      "question": "A foreign judgment is NOT conclusive when:",
+      "options": [
+        "A) Properly authenticated",
+        "B) Given by competent court",
+        "C) Obtained by fraud",
+        "D) On merits of case"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b4cafebca28336cae8143a9d86ffbd66d25c1bed",
+      "sectionIndex": 0,
+      "question": "Mesne profits can be claimed:",
+      "options": [
+        "A) Only in original suit",
+        "B) In execution proceedings",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bef39743192e72c68fb51b401567c5fc090ef975",
+      "sectionIndex": 0,
+      "question": "Order 39 Rules 1 and 2 deal with:",
+      "options": [
+        "A) Permanent injunction",
+        "B) Temporary injunction",
+        "C) Mandatory injunction",
+        "D) Perpetual injunction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c64fa99107530da35a14164cd6357098357791f2",
+      "sectionIndex": 0,
+      "question": "A plaint can be rejected under Order 7 Rule 11 when:",
+      "options": [
+        "A) It discloses a cause of action",
+        "B) Relief claimed is undervalued",
+        "C) Properly stamped",
+        "D) Within limitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a447c85e18ad77d2425687fd435bdb55cc7d6dc9",
+      "sectionIndex": 0,
+      "question": "The doctrine of restitution applies when:",
+      "options": [
+        "A) Decree is upheld",
+        "B) Decree is reversed",
+        "C) Suit is filed",
+        "D) Appeal is pending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "849245e9a670d792cbb829ef54574ef22f50fe72",
+      "sectionIndex": 0,
+      "question": "Inherent powers under Section 151 CPC can be exercised:",
+      "options": [
+        "A) To create new rights",
+        "B) To prevent abuse of court process",
+        "C) Against express provisions",
+        "D) Without jurisdiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ab097d1aefbcb2f8665e93f1be3725e991d84fe",
+      "sectionIndex": 0,
+      "question": "Representative suits under Order 1 Rule 8 require:",
+      "options": [
+        "A) Different interests",
+        "B) Same interest in subject matter",
+        "C) Conflicting claims",
+        "D) Individual permissions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78e90e728bfaf3a97625409325ca1ecf0baa94dc",
+      "sectionIndex": 0,
+      "question": "Additional evidence in appeal can be admitted when:",
+      "options": [
+        "A) Appellant desires",
+        "B) Court requires for pronouncing judgment",
+        "C) Any new evidence emerges",
+        "D) Respondent agrees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef06e719d4fc78235bb569d7e2a10d866003155e",
+      "sectionIndex": 1,
+      "question": "A contract by a minor for necessaries is:",
+      "options": [
+        "A) Void",
+        "B) Voidable",
+        "C) Valid to extent of necessaries",
+        "D) Criminal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a4611e52d9dd1d3eab80c82894bd65348247afc9",
+      "sectionIndex": 1,
+      "question": "The difference between coercion and undue influence is:",
+      "options": [
+        "A) Coercion uses force, undue influence uses position",
+        "B) Both are same",
+        "C) Coercion is legal, undue influence illegal",
+        "D) Coercion is civil, undue influence criminal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d3d6521e31ecea9442a9597103d46228229bf97e",
+      "sectionIndex": 1,
+      "question": "A voidable contract becomes valid when:",
+      "options": [
+        "A) Court declares",
+        "B) Parties separate",
+        "C) Affected party ratifies",
+        "D) Time passes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cf9256cfdd31a8b497224a16783836738af63388",
+      "sectionIndex": 1,
+      "question": "Doctrine of frustration applies when:",
+      "options": [
+        "A) Contract becomes difficult",
+        "B) Contract becomes impossible",
+        "C) Parties disagree",
+        "D) Losses occur"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "083aba3f29bb0f6b063a1606e3e638522f887884",
+      "sectionIndex": 1,
+      "question": "A wagering agreement is:",
+      "options": [
+        "A) Valid",
+        "B) Void",
+        "C) Voidable",
+        "D) Illegal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cd8a2b3f15bd3c732f0b627caeeedef39058ca0",
+      "sectionIndex": 1,
+      "question": "Quasi-contracts are based on:",
+      "options": [
+        "A) Agreement",
+        "B) Principle of unjust enrichment",
+        "C) Criminal law",
+        "D) Tort law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a9e0b8b0d085efc8c2adcea2c86e37241e01ed9",
+      "sectionIndex": 1,
+      "question": "A contingent contract becomes void when:",
+      "options": [
+        "A) Event happens",
+        "B) Event becomes impossible",
+        "C) Parties agree",
+        "D) Court orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b3680cb086287cfb8608be2ada0472957382a95",
+      "sectionIndex": 1,
+      "question": "Novation results in:",
+      "options": [
+        "A) Modification of contract",
+        "B) Substitution of new contract",
+        "C) Cancellation only",
+        "D) Suspension of contract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6dc8e4248aaedf734d17af4c8dcc0bc2cf45caf",
+      "sectionIndex": 1,
+      "question": "Specific performance is NOT granted for:",
+      "options": [
+        "A) Sale of unique goods",
+        "B) Personal service contracts",
+        "C) Land contracts",
+        "D) Share transfers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71f65ec1dfd42e6a2cfb2fd8acc24c183fe923e0",
+      "sectionIndex": 1,
+      "question": "Agreement in restraint of trade is:",
+      "options": [
+        "A) Always valid",
+        "B) Generally void with exceptions",
+        "C) Always void",
+        "D) Criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d4e00cbefa86277c845967d42e1febfd062ae0b",
+      "sectionIndex": 2,
+      "question": "In Rylands v Fletcher, the rule applies to:",
+      "options": [
+        "A) Natural use of land",
+        "B) Non-natural use of land",
+        "C) Any use of land",
+        "D) Criminal use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4f2d4309e0b607ed8f671716a303973989ecf87",
+      "sectionIndex": 2,
+      "question": "The test for negligence requires proving:",
+      "options": [
+        "A) Intention to harm",
+        "B) Breach of duty causing damage",
+        "C) Malice",
+        "D) Contract breach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "023bc7e8d58a40dfc1f99093da198129989fc5a3",
+      "sectionIndex": 2,
+      "question": "Contributory negligence:",
+      "options": [
+        "A) Completely bars recovery",
+        "B) Reduces damages proportionally",
+        "C) Increases damages",
+        "D) Shifts entire liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b837e3c8e6708e96ce3c58206a52bc75f0b4298",
+      "sectionIndex": 2,
+      "question": "Volenti non fit injuria fails when:",
+      "options": [
+        "A) Consent freely given",
+        "B) Risk fully known",
+        "C) Consent obtained by fraud",
+        "D) Adult consents"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7213754c60572b5b86308c2875ca572b7b80941d",
+      "sectionIndex": 2,
+      "question": "The difference between libel and slander is:",
+      "options": [
+        "A) Libel is permanent form, slander transitory",
+        "B) No difference",
+        "C) Libel is criminal, slander civil",
+        "D) Libel is minor, slander serious"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "658f236e95ea838027a28c5d6fc1c574972e45fd",
+      "sectionIndex": 2,
+      "question": "Absolute privilege in defamation applies to:",
+      "options": [
+        "A) Media reports",
+        "B) Parliamentary proceedings",
+        "C) Public meetings",
+        "D) Social media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92df6ba32654248573e196ef1a57721237fd5c23",
+      "sectionIndex": 2,
+      "question": "Vicarious liability of employer exists when:",
+      "options": [
+        "A) Employee acts outside employment",
+        "B) Employee acts in course of employment",
+        "C) Employee commits crime",
+        "D) Employee resigns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f996fed75dc26d68376f7a597d3c5a410edd9986",
+      "sectionIndex": 2,
+      "question": "Private nuisance differs from public nuisance in:",
+      "options": [
+        "A) Number of persons affected",
+        "B) Type of damage",
+        "C) Legal remedy",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9288680deb57eca10eb0c4831474c28afdfe0c60",
+      "sectionIndex": 2,
+      "question": "Res ipsa loquitur applies when:",
+      "options": [
+        "A) Direct evidence exists",
+        "B) Thing speaks for itself",
+        "C) No negligence shown",
+        "D) Defendant admits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd1ada3d718211ae4f40183d462712dbce896461",
+      "sectionIndex": 2,
+      "question": "Remoteness of damage is determined by:",
+      "options": [
+        "A) But-for test",
+        "B) Foreseeability test",
+        "C) Proximity test",
+        "D) Time test"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c720f669d01f4b296f1a726d84e482b69d057f83",
+      "sectionIndex": 3,
+      "question": "The difference between summons and warrant cases is:",
+      "options": [
+        "A) Punishment severity",
+        "B) Trial procedure",
+        "C) Both A and B",
+        "D) No difference"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5a2bde8234c912f60aa04cfdc49921b64a6f77f5",
+      "sectionIndex": 3,
+      "question": "A confession under Section 164 CrPC must be:",
+      "options": [
+        "A) To police",
+        "B) To magistrate",
+        "C) In writing only",
+        "D) In presence of accused's lawyer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dcc33b58e8e4723e5ae12fc184eed14f4a28db9",
+      "sectionIndex": 3,
+      "question": "Bail in non-bailable offences:",
+      "options": [
+        "A) Cannot be granted",
+        "B) Is discretionary",
+        "C) Is automatic",
+        "D) Requires surety always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ff0626eea0648ccf49fb1d751e7012db14a74c1",
+      "sectionIndex": 3,
+      "question": "The difference between discharge and acquittal is:",
+      "options": [
+        "A) Stage of proceeding",
+        "B) Effect on future trial",
+        "C) Both A and B",
+        "D) No difference"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "29e81ca0ca5b13737dbb295a97c98547f969c729",
+      "sectionIndex": 3,
+      "question": "Section 482 CrPC provides:",
+      "options": [
+        "A) Appeal rights",
+        "B) Inherent powers of High Court",
+        "C) Bail provisions",
+        "D) Arrest procedures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ded9d182a3abbfe8985eb0b290999ee006a551d",
+      "sectionIndex": 3,
+      "question": "Anticipatory bail can be granted by:",
+      "options": [
+        "A) Any court",
+        "B) Sessions or High Court",
+        "C) Supreme Court only",
+        "D) Magistrate only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3665cfdcdb530503e48ef5241e34aba50f97f3a",
+      "sectionIndex": 3,
+      "question": "FIR differs from complaint in:",
+      "options": [
+        "A) Who files it",
+        "B) Where it's filed",
+        "C) Legal consequences",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "759f5c38a4b9a0dc30c9401a6b705d25a9fc3b5e",
+      "sectionIndex": 3,
+      "question": "A police officer can arrest without warrant in:",
+      "options": [
+        "A) All cases",
+        "B) Cognizable offences",
+        "C) With permission",
+        "D) Non-cognizable offences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc49409a7e9af6d95f240525596462268ad3fac7",
+      "sectionIndex": 3,
+      "question": "Summary trial procedure applies to offences punishable up to:",
+      "options": [
+        "A) 6 months",
+        "B) 1 year",
+        "C) 2 years",
+        "D) 3 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "94494d445d13e0715441a28d122420736da77944",
+      "sectionIndex": 3,
+      "question": "Plea bargaining is available for offences punishable up to:",
+      "options": [
+        "A) 3 years",
+        "B) 5 years",
+        "C) 7 years",
+        "D) 10 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "270690583cc603d919a4bf714311df4382d1a6e7",
+      "sectionIndex": 4,
+      "question": "Qatl-i-amd differs from qatl-i-khata in:",
+      "options": [
+        "A) Intention",
+        "B) Weapon used",
+        "C) Time of day",
+        "D) Victim's age"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d2ac243e59dad09a367e25f71cb3b42de6a526a4",
+      "sectionIndex": 4,
+      "question": "Right of private defence extends to causing death when:",
+      "options": [
+        "A) Any assault",
+        "B) Reasonable apprehension of death/grievous hurt",
+        "C) Minor threat",
+        "D) Property defence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4ffefefebefe4b61481769321f773ed546e6473",
+      "sectionIndex": 4,
+      "question": "Theft becomes extortion when:",
+      "options": [
+        "A) Property value high",
+        "B) Fear is used",
+        "C) At night",
+        "D) Multiple accused"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5aa3f13b413e16a050dd18d242f75d4d586c121",
+      "sectionIndex": 4,
+      "question": "Criminal conspiracy is complete when:",
+      "options": [
+        "A) Agreement made",
+        "B) Act done",
+        "C) Harm caused",
+        "D) Discovered"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5a06bbffe4ae81f124790c6805193116215e78df",
+      "sectionIndex": 4,
+      "question": "The difference between kidnapping and abduction:",
+      "options": [
+        "A) Age of victim",
+        "B) Method used",
+        "C) Both A and B",
+        "D) No difference"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7dbddb0e3ab338af0a53c92d6c9a18e8dd9230e2",
+      "sectionIndex": 4,
+      "question": "Culpable homicide becomes murder when:",
+      "options": [
+        "A) Intention to cause death exists",
+        "B) Weapon used",
+        "C) Multiple injuries",
+        "D) Public place"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b2e55572004172612e06fc9f763b73ea53f53eb8",
+      "sectionIndex": 4,
+      "question": "Section 300 PPC lists exceptions converting murder to:",
+      "options": [
+        "A) No offence",
+        "B) Culpable homicide not amounting to murder",
+        "C) Hurt",
+        "D) Attempt to murder"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1236820e9030db5be6af7328f4892d63fe2fd3d1",
+      "sectionIndex": 4,
+      "question": "Robbery differs from dacoity in:",
+      "options": [
+        "A) Amount stolen",
+        "B) Number of persons (5 or more for dacoity)",
+        "C) Time of commission",
+        "D) Use of weapons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "869c1a81505a9cfc718ad2b71240ac53c721492f",
+      "sectionIndex": 4,
+      "question": "Criminal breach of trust requires:",
+      "options": [
+        "A) Entrustment of property",
+        "B) Theft",
+        "C) Finding property",
+        "D) Borrowing"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "54a25bb9101c4faf8cebf20df8707522e8a16749",
+      "sectionIndex": 4,
+      "question": "Grave and sudden provocation:",
+      "options": [
+        "A) Justifies murder",
+        "B) Reduces murder to culpable homicide",
+        "C) Provides complete defence",
+        "D) Increases punishment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9be3333ddad4faa6bd9e76cc14e6822862c56f8b",
+      "sectionIndex": 5,
+      "question": "Secondary evidence is admissible when:",
+      "options": [
+        "A) Primary exists",
+        "B) Primary lost or destroyed",
+        "C) Convenience",
+        "D) Party prefers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5226e39bb392aeb0f7360e49cc9ba920218f6d2",
+      "sectionIndex": 5,
+      "question": "Dying declaration is admissible because:",
+      "options": [
+        "A) Law requires",
+        "B) Necessity and belief in impending death",
+        "C) Medical evidence",
+        "D) Police presence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4726297ca78c5fa289fb9e0719b9a4d5228b50f7",
+      "sectionIndex": 5,
+      "question": "Expert opinion is relevant for:",
+      "options": [
+        "A) All matters",
+        "B) Matters requiring special knowledge",
+        "C) Legal questions",
+        "D) Facts everyone knows"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e75ace4d2e5ff3b8aaeda6aec429f9bf4d08921b",
+      "sectionIndex": 5,
+      "question": "Estoppel prevents:",
+      "options": [
+        "A) Filing suit",
+        "B) Denying previous representation",
+        "C) Giving evidence",
+        "D) Cross-examination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b0bfab685792a9318328da9669ed3eefd2c27e4",
+      "sectionIndex": 5,
+      "question": "Burden of proof shifts when:",
+      "options": [
+        "A) Prosecution presents case",
+        "B) Special knowledge within accused",
+        "C) Judge decides",
+        "D) Never shifts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0711d10e5ba79295c60ee41aa7f121cb7c312b4",
+      "sectionIndex": 5,
+      "question": "Confession differs from admission in:",
+      "options": [
+        "A) Confession admits crime, admission admits fact",
+        "B) No difference",
+        "C) Form of statement",
+        "D) Who records"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5d9614d6eb20c20df882ab4a1113c5058c4247f6",
+      "sectionIndex": 5,
+      "question": "Accomplice evidence requires:",
+      "options": [
+        "A) No corroboration",
+        "B) Material corroboration",
+        "C) Three accomplices",
+        "D) Written statement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d76b6b4abb11a267278ae11f8e87c69f89292096",
+      "sectionIndex": 5,
+      "question": "Privileged communication includes:",
+      "options": [
+        "A) All private talks",
+        "B) Lawyer-client communication",
+        "C) Friend's secrets",
+        "D) Business discussions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8d7d1890101af1e1aec27267688c8aa9f210536",
+      "sectionIndex": 5,
+      "question": "Res gestae includes:",
+      "options": [
+        "A) All past events",
+        "B) Facts forming part of same transaction",
+        "C) Future possibilities",
+        "D) Opinions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1b40d87fa754a6274582f8d353a1be9d95c7d8e",
+      "sectionIndex": 5,
+      "question": "Leading questions are permitted in:",
+      "options": [
+        "A) Examination-in-chief",
+        "B) Cross-examination",
+        "C) Never allowed",
+        "D) With permission only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a8ea5f243c211eafdabd249ae6adf8d63ff4651",
+      "sectionIndex": 6,
+      "question": "An arbitrator can be removed for:",
+      "options": [
+        "A) Any reason",
+        "B) Misconduct or bias",
+        "C) Delay only",
+        "D) Party's wish"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a5a9c705020eaaa428edd0dd07528f8c8527af5",
+      "sectionIndex": 6,
+      "question": "Arbitral award can be set aside if:",
+      "options": [
+        "A) Party disagrees",
+        "B) Against public policy",
+        "C) Amount high",
+        "D) Time taken long"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "388a26f0e4193444e0523f77966b123bad34bfc8",
+      "sectionIndex": 6,
+      "question": "International commercial arbitration involves:",
+      "options": [
+        "A) Only foreign parties",
+        "B) At least one foreign party/element",
+        "C) UN involvement",
+        "D) Embassy clearance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea2f75b99942639d587ca3b109b9e8bcff828031",
+      "sectionIndex": 6,
+      "question": "The difference between arbitration and mediation:",
+      "options": [
+        "A) Arbitration binding, mediation not",
+        "B) Same process",
+        "C) Mediation is binding",
+        "D) Cost only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b2c8099a4b934a0f62126af4c0d3ec8ec0de94af",
+      "sectionIndex": 6,
+      "question": "Section 34 of Arbitration Act deals with:",
+      "options": [
+        "A) Appointment of arbitrators",
+        "B) Setting aside awards",
+        "C) Appeals",
+        "D) Enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b4fe692d23c1d7d3fd23859408f52e8a66a06d2",
+      "sectionIndex": 6,
+      "question": "Arbitration agreement survives when:",
+      "options": [
+        "A) Main contract void",
+        "B) Dispute arises",
+        "C) Both A and B",
+        "D) Court orders"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e3e903262be174f9fbae7979ef382d90b54033c",
+      "sectionIndex": 6,
+      "question": "Ad hoc arbitration differs from institutional in:",
+      "options": [
+        "A) No pre-established rules",
+        "B) Cost",
+        "C) Validity",
+        "D) Enforcement"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3d22b63f640154c9868a28222680e4cbe5e63f38",
+      "sectionIndex": 6,
+      "question": "Interim measures in arbitration can be granted by:",
+      "options": [
+        "A) Arbitrator only",
+        "B) Court only",
+        "C) Both arbitrator and court",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1fab4e9b293d35fe8dcda7eea2b2d0a57d3b0229",
+      "sectionIndex": 6,
+      "question": "ICSID arbitration relates to:",
+      "options": [
+        "A) Commercial disputes",
+        "B) Investment disputes",
+        "C) Family disputes",
+        "D) Criminal matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c02b8a5ddf7eba5d099e8a698ba5b9b2353c43cc",
+      "sectionIndex": 6,
+      "question": "Fast track arbitration means:",
+      "options": [
+        "A) No hearings",
+        "B) Time-bound proceedings",
+        "C) One arbitrator only",
+        "D) No appeals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6524b3cfe735a19f604188ce5e39190842f94cf9",
+      "sectionIndex": 7,
+      "question": "Pecuniary jurisdiction of District Court is:",
+      "options": [
+        "A) Unlimited",
+        "B) As per valuation",
+        "C) Criminal only",
+        "D) Constitutional matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed28dce5d191abaf1018ac4cfdaa22f802e53191",
+      "sectionIndex": 7,
+      "question": "Territorial jurisdiction is determined by:",
+      "options": [
+        "A) Plaintiff's choice",
+        "B) Where cause of action arises",
+        "C) Capital city",
+        "D) Defendant's preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc34886e11d43c21c935e54436250acbdb40f6b4",
+      "sectionIndex": 7,
+      "question": "Inherent lack of jurisdiction:",
+      "options": [
+        "A) Can be waived",
+        "B) Cannot be waived",
+        "C) Curable by consent",
+        "D) Ignored if unraised"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb6f3951853148decf464284cb7707114f28f5ce",
+      "sectionIndex": 7,
+      "question": "Forum non conveniens means:",
+      "options": [
+        "A) Proper forum",
+        "B) Inappropriate forum",
+        "C) No forum",
+        "D) Multiple forums"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "398685f34dcb104aba41e5de37f4554b282166f9",
+      "sectionIndex": 7,
+      "question": "Transfer of cases between courts requires:",
+      "options": [
+        "A) Parties' consent only",
+        "B) Common questions of law/fact",
+        "C) Same judge",
+        "D) Payment of fees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb4b85f0bb5086e3ff294f3b828ac0da6be0af8b",
+      "sectionIndex": 7,
+      "question": "Review differs from revision in:",
+      "options": [
+        "A) Same court vs higher court",
+        "B) Time limits",
+        "C) Grounds available",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a796211634829a4f91291e3cb6353f0da3e99e55",
+      "sectionIndex": 7,
+      "question": "Reference to High Court is made when:",
+      "options": [
+        "A) Parties agree",
+        "B) Question of law arises",
+        "C) Facts disputed",
+        "D) Amount high"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a7a02cff9898a4b1ac30458970ca7709c98ac65",
+      "sectionIndex": 7,
+      "question": "Lok Adalat decisions are:",
+      "options": [
+        "A) Appealable",
+        "B) Final and binding",
+        "C) Recommendatory",
+        "D) Subject to revision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16fb9725967a8d0eb51393bd4ab5c25a6b87e174",
+      "sectionIndex": 7,
+      "question": "Court fees are determined by:",
+      "options": [
+        "A) Judge's discretion",
+        "B) Subject matter and relief",
+        "C) Lawyer's demand",
+        "D) Court clerk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94db33af5c7292502e808009b694aada9b72450c",
+      "sectionIndex": 7,
+      "question": "Limitation period can be extended for:",
+      "options": [
+        "A) Any reason",
+        "B) Sufficient cause",
+        "C) Payment of penalty",
+        "D) Never extended"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11eeac552dfeb2ed73b7c876ef524162c8648e95",
+      "sectionIndex": 8,
+      "question": "Fundamental rights can be suspended during:",
+      "options": [
+        "A) Any time",
+        "B) Emergency",
+        "C) Night time",
+        "D) Holidays"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "311579c5bb11487bd4b6059646ef6fb69d186dd6",
+      "sectionIndex": 8,
+      "question": "Writ of habeas corpus tests:",
+      "options": [
+        "A) Property rights",
+        "B) Legality of detention",
+        "C) Contract validity",
+        "D) Tort claims"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "055578d82c0779109be56bb4b4fe82385825faa3",
+      "sectionIndex": 8,
+      "question": "Public interest litigation allows:",
+      "options": [
+        "A) Personal grievances",
+        "B) Wider standing for public issues",
+        "C) Anonymous complaints",
+        "D) Foreign intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51045b8e413ef8c6b753f4c40910478be0ee7e3c",
+      "sectionIndex": 8,
+      "question": "Judicial review extends to:",
+      "options": [
+        "A) All government actions",
+        "B) Legislative competence",
+        "C) Private actions",
+        "D) International treaties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c49558a456304629fba43c99f9f125101467d08",
+      "sectionIndex": 8,
+      "question": "Environmental courts have jurisdiction over:",
+      "options": [
+        "A) All civil matters",
+        "B) Environmental law violations",
+        "C) Criminal cases",
+        "D) Family disputes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5a5152cf244a50a7dcada071c20ab32d279f3d2",
+      "sectionIndex": 8,
+      "question": "Banking courts deal with:",
+      "options": [
+        "A) All financial matters",
+        "B) Banking company disputes",
+        "C) Insurance only",
+        "D) Tax matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2660bf9a40fc58d5ac21c5ed7ab65bfd9a223ad7",
+      "sectionIndex": 8,
+      "question": "Labour courts adjudicate:",
+      "options": [
+        "A) All employment matters",
+        "B) Industrial disputes",
+        "C) Government employment",
+        "D) Domestic workers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9cf6837f926eea21e5383827136a208724fdb9c",
+      "sectionIndex": 8,
+      "question": "Family courts have exclusive jurisdiction in:",
+      "options": [
+        "A) All family matters",
+        "B) Matters under Family Courts Act",
+        "C) Inheritance only",
+        "D) Criminal matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16cb24bf767d4b87b4d01617dd55add2ccb7e757",
+      "sectionIndex": 8,
+      "question": "Anti-terrorism courts try:",
+      "options": [
+        "A) All criminal cases",
+        "B) Scheduled offences",
+        "C) Civil disputes",
+        "D) Constitutional matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "087f6df0edbd89da1fe81eec434e180a9a8b1c08",
+      "sectionIndex": 8,
+      "question": "Rent tribunals determine:",
+      "options": [
+        "A) All property matters",
+        "B) Landlord-tenant disputes",
+        "C) Ownership",
+        "D) Mortgages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fd453e863577987b9c985cb606be3cd457057fc",
+      "sectionIndex": 9,
+      "question": "Advocate-client privilege:",
+      "options": [
+        "A) Has exceptions",
+        "B) Absolute",
+        "C) Doesn't exist",
+        "D) Only in court"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1752a918927f0d4095d87c73dbf21e2f93f8ed86",
+      "sectionIndex": 9,
+      "question": "Conflict of interest arises when:",
+      "options": [
+        "A) Two cases similar",
+        "B) Opposing parties in related matters",
+        "C) Busy schedule",
+        "D) High fees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "819f79f83bd9d2400a863604ec2b5b7ecb5a3625",
+      "sectionIndex": 9,
+      "question": "Professional misconduct includes:",
+      "options": [
+        "A) High fees",
+        "B) Advertising",
+        "C) Both if violating rules",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fdbf28fbfaf26979d2f781139c58a96e1f223336",
+      "sectionIndex": 9,
+      "question": "Contempt of court can be:",
+      "options": [
+        "A) Civil or criminal",
+        "B) Only criminal",
+        "C) Only civil",
+        "D) Not punishable"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9a3f3c972e5a6ac72bb8fd19424c061ca3891fc8",
+      "sectionIndex": 9,
+      "question": "Power of attorney must be:",
+      "options": [
+        "A) Registered always",
+        "B) Stamped and executed properly",
+        "C) Oral",
+        "D) In court language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b225fa95fae15147d7b92c62beacd87860e1f13",
+      "sectionIndex": 9,
+      "question": "Pauper suits allow:",
+      "options": [
+        "A) Free legal aid",
+        "B) Court fee exemption",
+        "C) Priority hearing",
+        "D) All benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "894930d9c384a7d0ff2769e72a40fb666cc0c506",
+      "sectionIndex": 9,
+      "question": "Caveat remains valid for:",
+      "options": [
+        "A) 90 days",
+        "B) 30 days",
+        "C) One year",
+        "D) Indefinitely"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f701db3e2a5418d9b806428c1af221610095ad74",
+      "sectionIndex": 9,
+      "question": "Interlocutory orders are:",
+      "options": [
+        "A) Final decisions",
+        "B) Interim orders during proceedings",
+        "C) Post-judgment orders",
+        "D) Pre-suit orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0981c262e760ba556173930084f5e75d68df84f0",
+      "sectionIndex": 9,
+      "question": "Decree execution limitation is:",
+      "options": [
+        "A) 3 years",
+        "B) 12 years",
+        "C) 30 years",
+        "D) No limit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f09718371c8bd7598c30de44d80f626538f4c53",
+      "sectionIndex": 9,
+      "question": "Legal aid is available to:",
+      "options": [
+        "A) All persons",
+        "B) Persons below income threshold",
+        "C) Criminals only",
+        "D) Civil cases only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

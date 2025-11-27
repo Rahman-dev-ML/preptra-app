@@ -1,0 +1,729 @@
+## Section 1: Vector Analysis and Operations
+
+1. Vector Analysis and Operations (Easy)
+1. Which of the following is a scalar quantity?
+A) Force
+B) Velocity
+C) Temperature
+D) Acceleration
+Answer: C
+
+2. The dot product of two perpendicular vectors is:
+A) Maximum
+B) Zero
+C) One
+D) Negative
+Answer: B
+
+3. A vector has magnitude 5 units. If it is multiplied by 3, its new magnitude is:
+A) 5 units
+B) 8 units
+C) 15 units
+D) 25 units
+Answer: C
+
+4. The cross product of two parallel vectors is:
+A) Maximum
+B) Zero
+C) One
+D) Infinity
+Answer: B
+
+5. Which operation on vectors results in a scalar?
+A) Cross product
+B) Addition
+C) Dot product
+D) Subtraction
+Answer: C
+
+6. A unit vector has magnitude:
+A) Zero
+B) One
+C) Infinity
+D) Variable
+Answer: B
+
+7. The gradient of a scalar field is a:
+A) Scalar
+B) Vector
+C) Tensor
+D) Constant
+Answer: B
+
+8. Vector addition follows which law?
+A) Distributive law
+B) Commutative law
+C) Both A and B
+D) Neither A nor B
+Answer: C
+
+9. The magnitude of vector A = 3i + 4j is:
+A) 3
+B) 4
+C) 5
+D) 7
+Answer: C
+
+10. The divergence of a vector field results in a:
+A) Vector
+B) Scalar
+C) Matrix
+D) Tensor
+Answer: B
+
+## Section 2: Mechanics and Dynamics
+
+2. Mechanics and Dynamics (Easy)
+11. Newton's first law is also known as:
+A) Law of gravity
+B) Law of inertia
+C) Law of acceleration
+D) Law of action-reaction
+Answer: B
+
+12. The SI unit of force is:
+A) Kilogram
+B) Newton
+C) Joule
+D) Watt
+Answer: B
+
+13. Work done is maximum when force and displacement are:
+A) Perpendicular
+B) Parallel
+C) Anti-parallel
+D) At 45 degrees
+Answer: B
+
+14. The kinetic energy of a body depends on its:
+A) Position only
+B) Mass and velocity
+C) Height only
+D) Temperature
+Answer: B
+
+15. In uniform circular motion, which quantity remains constant?
+A) Velocity
+B) Acceleration
+C) Speed
+D) Direction
+Answer: C
+
+16. The period of a simple pendulum depends on:
+A) Mass only
+B) Length and gravity
+C) Amplitude only
+D) Temperature
+Answer: B
+
+17. Angular momentum is conserved when:
+A) External force is applied
+B) External torque is zero
+C) Speed changes
+D) Mass changes
+Answer: B
+
+18. The center of mass of a uniform rod lies at:
+A) One end
+B) One-third from end
+C) Its center
+D) Two-thirds from end
+Answer: C
+
+19. Simple harmonic motion occurs when restoring force is:
+A) Constant
+B) Proportional to displacement
+C) Proportional to velocity
+D) Zero
+Answer: B
+
+20. Kepler's second law states that:
+A) Orbits are circular
+B) Equal areas are swept in equal times
+C) Period squared is proportional to radius cubed
+D) Force is inversely proportional to distance
+Answer: B
+
+## Section 3: Electromagnetism and Electricity
+
+3. Electromagnetism and Electricity (Easy)
+21. The SI unit of electric charge is:
+A) Ampere
+B) Volt
+C) Coulomb
+D) Ohm
+Answer: C
+
+22. Ohm's law relates:
+A) Charge and time
+B) Voltage and current
+C) Power and energy
+D) Force and charge
+Answer: B
+
+23. A capacitor stores:
+A) Current
+B) Resistance
+C) Electric charge
+D) Magnetic field
+Answer: C
+
+24. The direction of induced emf is given by:
+A) Newton's law
+B) Lenz's law
+C) Ohm's law
+D) Hooke's law
+Answer: B
+
+25. In a parallel circuit, which quantity remains the same across all components?
+A) Current
+B) Voltage
+C) Resistance
+D) Power
+Answer: B
+
+26. The unit of inductance is:
+A) Ohm
+B) Farad
+C) Henry
+D) Weber
+Answer: C
+
+27. A transformer works on the principle of:
+A) Mutual induction
+B) Self induction
+C) Static electricity
+D) Thermoelectricity
+Answer: A
+
+28. Electric field lines:
+A) Can cross each other
+B) Never cross each other
+C) Form closed loops
+D) Are always circular
+Answer: B
+
+29. The force between two charges is described by:
+A) Newton's law
+B) Coulomb's law
+C) Gauss's law
+D) Ampere's law
+Answer: B
+
+30. A diode allows current to flow:
+A) In both directions
+B) In one direction only
+C) Not at all
+D) Only in AC circuits
+Answer: B
+
+## Section 4: Waves and Optics
+
+4. Waves and Optics (Easy)
+31. The speed of light in vacuum is approximately:
+A) 3 × 10⁶ m/s
+B) 3 × 10⁷ m/s
+C) 3 × 10⁸ m/s
+D) 3 × 10⁹ m/s
+Answer: C
+
+32. Wave frequency is measured in:
+A) Meters
+B) Seconds
+C) Hertz
+D) Watts
+Answer: C
+
+33. Constructive interference occurs when waves are:
+A) Out of phase
+B) In phase
+C) Perpendicular
+D) Opposite
+Answer: B
+
+34. The bending of light around obstacles is called:
+A) Reflection
+B) Refraction
+C) Diffraction
+D) Dispersion
+Answer: C
+
+35. Colors in soap bubbles are due to:
+A) Pigmentation
+B) Thin film interference
+C) Chemical reaction
+D) Heat
+Answer: B
+
+36. Sound waves are:
+A) Transverse waves
+B) Longitudinal waves
+C) Electromagnetic waves
+D) Surface waves
+Answer: B
+
+37. The Doppler effect occurs when:
+A) Temperature changes
+B) Source or observer moves
+C) Medium changes
+D) Amplitude increases
+Answer: B
+
+38. Total internal reflection occurs when light travels from:
+A) Air to water
+B) Denser to rarer medium
+C) Rarer to denser medium
+D) Vacuum to air
+Answer: B
+
+39. A converging lens has:
+A) Negative focal length
+B) Positive focal length
+C) Zero focal length
+D) Infinite focal length
+Answer: B
+
+40. Polarization is a property of:
+A) Longitudinal waves only
+B) Transverse waves only
+C) All waves
+D) Sound waves only
+Answer: B
+
+## Section 5: Thermodynamics
+
+5. Thermodynamics (Easy)
+41. The first law of thermodynamics is essentially:
+A) Conservation of mass
+B) Conservation of energy
+C) Conservation of momentum
+D) Conservation of charge
+Answer: B
+
+42. Temperature is a measure of:
+A) Total energy
+B) Average kinetic energy
+C) Potential energy
+D) Heat capacity
+Answer: B
+
+43. In an isothermal process:
+A) Volume is constant
+B) Pressure is constant
+C) Temperature is constant
+D) Heat is constant
+Answer: C
+
+44. The efficiency of a Carnot engine depends on:
+A) Working substance
+B) Temperature difference
+C) Engine size
+D) Fuel type
+Answer: B
+
+45. Entropy always increases in:
+A) Reversible processes
+B) Irreversible processes
+C) Isothermal processes
+D) Adiabatic processes
+Answer: B
+
+46. In an adiabatic process:
+A) Temperature is constant
+B) No heat is exchanged
+C) Pressure is constant
+D) Work is zero
+Answer: B
+
+47. The zeroth law of thermodynamics defines:
+A) Energy
+B) Entropy
+C) Temperature
+D) Heat
+Answer: C
+
+48. Heat flows naturally from:
+A) Cold to hot
+B) Hot to cold
+C) Either direction
+D) Neither direction
+Answer: B
+
+49. The specific heat capacity of water is:
+A) 1 cal/g°C
+B) 10 cal/g°C
+C) 100 cal/g°C
+D) 1000 cal/g°C
+Answer: A
+
+50. A heat engine converts:
+A) Work to heat
+B) Heat to work
+C) Mass to energy
+D) Energy to mass
+Answer: B
+
+## Section 6: Modern Physics & Quantum Mechanics
+
+6. Modern Physics & Quantum Mechanics (Easy)
+51. The photoelectric effect demonstrates that light has:
+A) Wave nature only
+B) Particle nature
+C) Neither property
+D) Mass
+Answer: B
+
+52. Planck's constant has units of:
+A) Energy
+B) Action (energy × time)
+C) Force
+D) Power
+Answer: B
+
+53. According to de Broglie, matter has:
+A) Only particle nature
+B) Only wave nature
+C) Both wave and particle nature
+D) Neither property
+Answer: C
+
+54. The uncertainty principle was proposed by:
+A) Einstein
+B) Planck
+C) Bohr
+D) Heisenberg
+Answer: D
+
+55. In the Bohr model, electrons:
+A) Spiral into nucleus
+B) Orbit in fixed energy levels
+C) Are stationary
+D) Move randomly
+Answer: B
+
+56. A photon has:
+A) Mass but no charge
+B) Charge but no mass
+C) Neither mass nor charge
+D) Both mass and charge
+Answer: C
+
+57. The energy of a photon is proportional to its:
+A) Wavelength
+B) Speed
+C) Frequency
+D) Amplitude
+Answer: C
+
+58. Quantum mechanics describes:
+A) Only large objects
+B) Only microscopic particles
+C) Only photons
+D) Only electrons
+Answer: B
+
+59. Wave function represents:
+A) Energy
+B) Probability amplitude
+C) Force
+D) Mass
+Answer: B
+
+60. The Schrödinger equation is:
+A) A wave equation
+B) A particle equation
+C) An energy equation
+D) A force equation
+Answer: A
+
+## Section 7: Relativity
+
+7. Relativity (Easy)
+61. Special relativity deals with:
+A) Accelerated frames
+B) Inertial frames
+C) Rotating frames
+D) All frames
+Answer: B
+
+62. According to Einstein, the speed of light is:
+A) Variable
+B) Constant for all observers
+C) Infinite
+D) Zero in vacuum
+Answer: B
+
+63. Time dilation means:
+A) Time speeds up
+B) Time slows down
+C) Time stops
+D) Time reverses
+Answer: B
+
+64. E = mc² shows that:
+A) Energy and mass are unrelated
+B) Energy and mass are equivalent
+C) Mass is constant
+D) Energy is constant
+Answer: B
+
+65. Length contraction occurs:
+A) Perpendicular to motion
+B) Along direction of motion
+C) In all directions
+D) Not at all
+Answer: B
+
+66. At speeds much less than c, relativistic effects are:
+A) Maximum
+B) Negligible
+C) Infinite
+D) Negative
+Answer: B
+
+67. The Lorentz transformation relates:
+A) Mass and energy
+B) Space and time coordinates
+C) Force and acceleration
+D) Charge and current
+Answer: B
+
+68. Simultaneity in relativity is:
+A) Absolute
+B) Relative
+C) Impossible
+D) Universal
+Answer: B
+
+69. Rest mass of a photon is:
+A) Very small
+B) Very large
+C) Zero
+D) Infinite
+Answer: C
+
+70. General relativity describes:
+A) Only time
+B) Only space
+C) Gravity as curved spacetime
+D) Electromagnetic forces
+Answer: C
+
+## Section 8: Fluid Dynamics
+
+8. Fluid Dynamics (Easy)
+71. Bernoulli's principle relates:
+A) Mass and volume
+B) Pressure and velocity
+C) Temperature and pressure
+D) Density and temperature
+Answer: B
+
+72. Pascal's law applies to:
+A) Gases only
+B) Liquids only
+C) Incompressible fluids
+D) Solids only
+Answer: C
+
+73. Viscosity is a measure of:
+A) Density
+B) Internal friction
+C) External pressure
+D) Temperature
+Answer: B
+
+74. Archimedes' principle deals with:
+A) Pressure
+B) Buoyancy
+C) Viscosity
+D) Surface tension
+Answer: B
+
+75. Streamline flow is also called:
+A) Turbulent flow
+B) Laminar flow
+C) Random flow
+D) Circular flow
+Answer: B
+
+76. Surface tension is due to:
+A) Gravity
+B) Cohesive forces
+C) External pressure
+D) Temperature
+Answer: B
+
+77. A fluid at rest experiences:
+A) Shear stress
+B) Normal stress only
+C) No stress
+D) Tensile stress
+Answer: B
+
+78. The continuity equation is based on:
+A) Conservation of energy
+B) Conservation of mass
+C) Conservation of momentum
+D) Conservation of charge
+Answer: B
+
+79. Pressure in a fluid increases with:
+A) Height
+B) Depth
+C) Temperature only
+D) Volume
+Answer: B
+
+80. Terminal velocity occurs when:
+A) Acceleration is maximum
+B) Net force is zero
+C) Velocity is zero
+D) Mass is minimum
+Answer: B
+
+## Section 9: Nuclear Physics
+
+9. Nuclear Physics (Easy)
+81. The nucleus contains:
+A) Electrons only
+B) Protons and neutrons
+C) Neutrons only
+D) Protons only
+Answer: B
+
+82. Alpha particles are:
+A) Electrons
+B) Helium nuclei
+C) Neutrons
+D) Photons
+Answer: B
+
+83. Beta decay involves emission of:
+A) Helium nucleus
+B) Electron or positron
+C) Neutron
+D) Proton
+Answer: B
+
+84. Half-life is the time for:
+A) Complete decay
+B) Half the atoms to decay
+C) Double the atoms
+D) No decay
+Answer: B
+
+85. Nuclear fission involves:
+A) Combining nuclei
+B) Splitting heavy nuclei
+C) Electron capture
+D) Proton emission
+Answer: B
+
+86. Nuclear fusion powers:
+A) Nuclear reactors
+B) The Sun
+C) X-ray machines
+D) Batteries
+Answer: B
+
+87. Gamma rays are:
+A) Particles
+B) High-energy photons
+C) Electrons
+D) Neutrons
+Answer: B
+
+88. The strong nuclear force:
+A) Is long-range
+B) Holds nucleus together
+C) Repels protons
+D) Acts on electrons
+Answer: B
+
+89. Radioactivity was discovered by:
+A) Einstein
+B) Curie
+C) Becquerel
+D) Rutherford
+Answer: C
+
+90. Chain reaction occurs in:
+A) All radioactive decay
+B) Nuclear fission
+C) Alpha decay only
+D) Beta decay only
+Answer: B
+
+## Section 10: Solid State Physics
+
+10. Solid State Physics (Easy)
+91. In conductors, the valence band and conduction band:
+A) Don't exist
+B) Overlap
+C) Are far apart
+D) Are empty
+Answer: B
+
+92. Semiconductors have:
+A) No energy gap
+B) Small energy gap
+C) Large energy gap
+D) Infinite energy gap
+Answer: B
+
+93. Doping a semiconductor:
+A) Makes it an insulator
+B) Changes its conductivity
+C) Makes it a metal
+D) Has no effect
+Answer: B
+
+94. A p-n junction acts as:
+A) Resistor
+B) Capacitor
+C) Diode
+D) Inductor
+Answer: C
+
+95. In metals, electrical resistance increases with:
+A) Decreasing temperature
+B) Increasing temperature
+C) Constant temperature
+D) Zero temperature
+Answer: B
+
+96. Superconductors have:
+A) High resistance
+B) Zero resistance
+C) Infinite resistance
+D) Variable resistance
+Answer: B
+
+97. The band gap in insulators is:
+A) Zero
+B) Small
+C) Large
+D) Negative
+Answer: C
+
+98. Transistors can act as:
+A) Amplifiers
+B) Switches
+C) Both A and B
+D) Neither A nor B
+Answer: C
+
+99. Crystal structure is studied using:
+A) Visible light
+B) X-ray diffraction
+C) Sound waves
+D) Radio waves
+Answer: B
+
+100. Silicon is a:
+A) Metal
+B) Insulator
+C) Semiconductor
+D) Superconductor
+Answer: C

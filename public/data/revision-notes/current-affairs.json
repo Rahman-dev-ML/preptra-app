@@ -1,0 +1,637 @@
+{
+  "subject": "Current Affairs (CSS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Regional Security & Great-Power Competition",
+    "Comparative Conflicts & Disputes",
+    "Global Governance & Multilateralism",
+    "Pakistan Domestic Politics & Economy",
+    "Pakistan–India Relations & Water",
+    "Middle East & OIC",
+    "Emerging Tech & Security",
+    "Trade & Globalization",
+    "Climate & Environment",
+    "Regional Organizations (SCO/BRICS)"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "NATO Enlargement: Sweden Joins (2024) & European Security",
+      "content": "Sweden's accession to NATO in March 2024 reshaped Northern European security and Russia–NATO dynamics. Typical exam angles: strategic implications for Baltic Sea, Arctic security, and deterrence posture.",
+      "keyTakeaways": [
+        "NATO's northern flank strengthened; closer interoperability with Finland (joined 2023).",
+        "Signals sustained Western cohesion post-Ukraine invasion.",
+        "Implications for EU–NATO coordination and Russia's calculus."
+      ],
+      "resources": [
+        {
+          "title": "NATO — Sweden becomes NATO's 32nd member (Mar 7, 2024)",
+          "url": "https://www.nato.int/cps/en/natohq/news_222124.htm",
+          "type": "brief",
+          "description": "Official accession"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Security & Great-Power Competition",
+      "topics": ["NATO", "Sweden", "European Security"]
+    },
+    {
+      "id": "2",
+      "title": "Arms Control Erosion: New START & Broader Framework",
+      "content": "Russia suspended participation in New START (2023); U.S.–Russia data exchanges and inspections have broken down. Exam focus: risk of unconstrained nuclear competition and need for new verification regimes.",
+      "keyTakeaways": [
+        "Verification/data-sharing mechanisms degraded.",
+        "Arms control architecture (INF, Open Skies) already weakened.",
+        "Policy debates on future strategic stability beyond New START."
+      ],
+      "resources": [
+        {
+          "title": "Arms Control Association — New START status & developments",
+          "url": "https://www.armscontrol.org/factsheets/NewSTART",
+          "type": "explainer",
+          "description": "Timeline and implications"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Security & Great-Power Competition",
+      "topics": ["New START", "Arms Control", "Nuclear Deterrence"]
+    },
+    {
+      "id": "3",
+      "title": "Indo-Pacific: Quad & AUKUS (Pillar II) Updates (2024–2025)",
+      "content": "Quad ministers highlighted maritime security and S. China Sea concerns (2024). AUKUS partners moved to consult with Japan on Pillar II tech cooperation. Exam focus: alliance networking vs. China, tech-security linkages.",
+      "keyTakeaways": [
+        "Quad signaling on maritime law/order and cyber/undersea cables.",
+        "AUKUS Pillar II expands to advanced tech (AI, quantum, EW).",
+        "Potential inclusion of partners (Japan) on a project basis."
+      ],
+      "resources": [
+        {
+          "title": "U.S. State Dept — Quad Foreign Ministers' Joint Statement (Jul 29, 2024)",
+          "url": "https://www.state.gov/joint-statement-by-the-quad-foreign-ministers",
+          "type": "statement",
+          "description": "Maritime & tech cooperation"
+        },
+        {
+          "title": "UK Government — AUKUS to consult with Japan on Pillar Two (Apr 2024)",
+          "url": "https://www.gov.uk/government/news/aukus-partnership-to-consult-with-other-nations-including-japan-on-military-capability-collaboration",
+          "type": "news",
+          "description": "Pillar II partner engagement"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Security & Great-Power Competition",
+      "topics": ["Quad", "AUKUS", "South China Sea", "Japan"]
+    },
+    {
+      "id": "4",
+      "title": "U.S.–China Tech Controls & China's Critical Mineral Responses",
+      "content": "U.S. tightened export controls on AI chips and tools (2024–2025). China escalated critical mineral restrictions (gallium/germanium). Exam focus: techno-geopolitics, supply-chain security, dual-use tech.",
+      "keyTakeaways": [
+        "BIS rules broadened to laptops and advanced AI chips (Mar 2024).",
+        "China leveraged mineral controls impacting semiconductors/EVs.",
+        "Allies' alignment and compliance challenges continue."
+      ],
+      "resources": [
+        {
+          "title": "Reuters — U.S. updates export curbs on AI chips/tools to China (Mar 29, 2024)",
+          "url": "https://www.reuters.com/technology/us-commerce-updates-export-curbs-ai-chips-china-2024-03-29/",
+          "type": "news",
+          "description": "Rule updates overview"
+        },
+        {
+          "title": "USITC — Germanium & Gallium export controls (Jul 2023 background)",
+          "url": "https://www.usitc.gov/publications/332/executive_briefings/ebot_germanium_and_gallium.pdf",
+          "type": "brief",
+          "description": "Mineral controls context"
+        }
+      ],
+      "importance": "high",
+      "category": "Emerging Tech & Security",
+      "topics": ["Export Controls", "AI Chips", "Critical Minerals"]
+    },
+    {
+      "id": "5",
+      "title": "Red Sea Crisis: Houthi Attacks & Global Trade (2024)",
+      "content": "Houthi attacks disrupted Suez traffic; U.S./UK strikes targeted capabilities in Yemen. Exam focus: chokepoints, freight costs, energy/security externalities.",
+      "keyTakeaways": [
+        "Maritime risk shifted routes around Cape of Good Hope.",
+        "UNCTAD tracked significant drop in transits via Suez.",
+        "Escalation management ties to Gaza conflict dynamics."
+      ],
+      "resources": [
+        {
+          "title": "UNCTAD — Red Sea crisis trade impact (2024)",
+          "url": "https://unctad.org/news/red-sea-crisis-global-trade-impacted",
+          "type": "analysis",
+          "description": "Shipping disruptions data"
+        },
+        {
+          "title": "Reuters — U.S./UK strikes on Houthis (timeline/coverage 2024)",
+          "url": "https://www.reuters.com/world/middle-east/",
+          "type": "news",
+          "description": "Operations & responses"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Security & Great-Power Competition",
+      "topics": ["Red Sea", "Houthi", "Suez", "Maritime Trade"]
+    },
+    {
+      "id": "6",
+      "title": "WTO MC13 (Abu Dhabi, 2024): Outcomes & Sticking Points",
+      "content": "Members extended the e-commerce moratorium; partial progress on fisheries; agricultural talks stalled. Exam angle: multilateral trade governance amid fragmentation.",
+      "keyTakeaways": [
+        "E-commerce moratorium extended after tough debate.",
+        "Limited advances on fisheries subsidies discipline.",
+        "Illustrates challenges of consensus-based WTO."
+      ],
+      "resources": [
+        {
+          "title": "WTO — MC13 Outcome Document/News",
+          "url": "https://www.wto.org/english/thewto_e/minist_e/mc13_e/mc13_e.htm",
+          "type": "official",
+          "description": "Ministerial coverage"
+        }
+      ],
+      "importance": "medium",
+      "category": "Trade & Globalization",
+      "topics": ["WTO", "MC13", "E-commerce Moratorium", "Fisheries"]
+    },
+    {
+      "id": "7",
+      "title": "BRICS Expansion (2024–2025): New Members & Partners",
+      "content": "Effective Jan 1, 2024: Egypt, Ethiopia, Iran, UAE joined; Saudi Arabia considered; 2025 saw further partner/membership moves. Exam focus: multipolarity, Global South coordination.",
+      "keyTakeaways": [
+        "Johannesburg II (Aug 2023) invited 6; Argentina opted out.",
+        "2024 brought four new members; broader partner tiers emerging.",
+        "Possible implications for finance, energy, and governance reform."
+      ],
+      "resources": [
+        {
+          "title": "South Africa DIRCO — BRICS Johannesburg II outcomes (Aug 24, 2023)",
+          "url": "https://dirco.gov.za/brics-chair-president-cyril-ramaphosas-media-briefing-remarks-announcing-the-outcomes-of-the-xv-brics-summit-24-august-2023/",
+          "type": "official",
+          "description": "Invitation/expansion decision"
+        },
+        {
+          "title": "Council on Foreign Relations — BRICS backgrounder",
+          "url": "https://www.cfr.org/backgrounder/what-brics-group-and-why-it-expanding",
+          "type": "explainer",
+          "description": "Why expansion matters"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Organizations (SCO/BRICS)",
+      "topics": ["BRICS", "Expansion", "Global South"]
+    },
+    {
+      "id": "8",
+      "title": "Pakistan General Election (Feb 2024): Outcome & Coalition",
+      "content": "Contested results, independents linked to PTI won most seats; subsequent coalition talks produced a government. Exam angle: electoral dynamics, governance legitimacy, policy continuity.",
+      "keyTakeaways": [
+        "Fragmented mandate; coalition arithmetic shaped cabinet.",
+        "Economic stabilization and IMF program remained top priorities.",
+        "Security/civil-military relations as background variables."
+      ],
+      "resources": [
+        {
+          "title": "Dawn — 2024 election results & seat tallies",
+          "url": "https://www.dawn.com/news/1825822",
+          "type": "news",
+          "description": "Constituency outcomes"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Domestic Politics & Economy",
+      "topics": ["Elections 2024", "Coalition", "Governance"]
+    },
+    {
+      "id": "9",
+      "title": "IMF Programs (2023–2025): SBA Completion & New EFF Talks",
+      "content": "Pakistan completed the $3bn SBA (2023–24) and moved toward a new multi-year EFF in 2024–25. Exam angle: conditionality, fiscal/energy reforms, inflation/exchange rate management.",
+      "keyTakeaways": [
+        "SBA stabilized short-term reserves and avoided default.",
+        "EFF sought deeper structural reforms and financing assurances.",
+        "Linked to tariff rationalization and SOE/power sector fixes."
+      ],
+      "resources": [
+        {
+          "title": "IMF — Pakistan SBA Press Releases (2023–2024)",
+          "url": "https://www.imf.org/en/Countries/PAK",
+          "type": "official",
+          "description": "Program status & reviews"
+        },
+        {
+          "title": "Reuters — Pakistan/IMF financing assurances & EFF (Sept 26, 2024)",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-wins-additional-financing-assurances-china-uae-saudi-imf-official-2024-09-26/",
+          "type": "news",
+          "description": "Financing context for new program"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Domestic Politics & Economy",
+      "topics": ["IMF", "SBA", "EFF", "Macroeconomy"]
+    },
+    {
+      "id": "10",
+      "title": "Pakistan Power Sector: Tariff Hikes & Circular Debt (2024–2025)",
+      "content": "NEPRA notified base-tariff and FCA hikes in 2024; government rolled out circular-debt reduction steps in 2025. Exam angle: energy affordability, fiscal burden, CPEC IPPs, reform trade-offs.",
+      "keyTakeaways": [
+        "Upward tariff adjustments tied to IMF benchmarks.",
+        "Fixed charges increased; affordability protests in 2024 summers.",
+        "Circular-debt resolution steps announced in 2025."
+      ],
+      "resources": [
+        {
+          "title": "Business Recorder — Power rate hikes notified (Jul 13, 2024)",
+          "url": "https://www.brecorder.com/news/40312715/domestic-consumers-hike-in-power-rates-up-to-rs712-notified",
+          "type": "news",
+          "description": "NEPRA notifications overview"
+        },
+        {
+          "title": "Arab News — Circular debt resolution announcement (Sep 2025)",
+          "url": "https://www.arabnews.com/node/2616654/pakistan",
+          "type": "news",
+          "description": "Govt statement on Rs1.225tr plan"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Domestic Politics & Economy",
+      "topics": ["Tariffs", "Circular Debt", "NEPRA", "IMF Benchmarks"]
+    },
+    {
+      "id": "11",
+      "title": "FATF Status: Pakistan Off Grey List (Oct 2022) — Compliance Track",
+      "content": "Pakistan was removed from FATF grey list (Oct 2022) and worked to sustain compliance through 2023–2025. Exam angle: AML/CFT reforms, financial flows, reputational effects.",
+      "keyTakeaways": [
+        "De-listing improved external financing sentiment.",
+        "Sustained enforcement and supervision remain critical.",
+        "Reforms interface with terror-financing and sanctions compliance."
+      ],
+      "resources": [
+        {
+          "title": "FATF — Pakistan removed from increased monitoring (Oct 2022)",
+          "url": "https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/statement-october-2022.html",
+          "type": "official",
+          "description": "Decision & rationale"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Domestic Politics & Economy",
+      "topics": ["FATF", "AML/CFT", "Financial Integrity"]
+    },
+    {
+      "id": "12",
+      "title": "Kashmir: Article 370 Decision (Dec 2023) & Regional Implications",
+      "content": "India's Supreme Court upheld the 2019 abrogation of Article 370 (Dec 11, 2023). Exam angle: federalism, human rights debates, international responses, Pakistan's policy.",
+      "keyTakeaways": [
+        "Reorganization of J&K affirmed by court.",
+        "International scrutiny persists; cross-LoC stability relatively fragile.",
+        "Diplomatic narratives diverge across stakeholders."
+      ],
+      "resources": [
+        {
+          "title": "BBC — India's top court upholds removal of Kashmir's special status (Dec 11, 2023)",
+          "url": "https://www.bbc.com/news/world-asia-india-67675947",
+          "type": "news",
+          "description": "Decision & context"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan–India Relations & Water",
+      "topics": ["Article 370", "Jammu & Kashmir", "Supreme Court of India"]
+    },
+    {
+      "id": "13",
+      "title": "Indus Waters Treaty: Legal Tracks & 2025 Tensions",
+      "content": "World Bank advanced parallel processes (Neutral Expert & Court of Arbitration) on Kishenganga/Ratle (2023). PCA proceedings continued; India later moved to suspend IWT (2025 reports). Exam angle: treaty law, dispute resolution, water security.",
+      "keyTakeaways": [
+        "WB facilitated two tracks in 2023 amid India–Pakistan disagreement.",
+        "PCA published orders/documents on CoA proceedings.",
+        "Water politics tied to climate variability and hydropower build-out."
+      ],
+      "resources": [
+        {
+          "title": "World Bank — Update on IWT dispute resolution (2023)",
+          "url": "https://www.worldbank.org/en/news/statement/2023/04/06/indus-waters-treaty-1960-world-bank-announces-next-steps-in-facilitating-the-two-pending-processes",
+          "type": "statement",
+          "description": "Parallel processes announced"
+        },
+        {
+          "title": "PCA — Indus Waters Kishenganga/Ratle (Case page/documents)",
+          "url": "https://pca-cpa.org/en/cases/287/",
+          "type": "documents",
+          "description": "CoA orders & filings"
+        },
+        {
+          "title": "Reuters — India signals plan to suspend IWT (Apr 24, 2025)",
+          "url": "https://www.reuters.com/world/india/india-suspend-water-treaty-pakistan-q2-2025-after-new-delhi-letter-2024-04-24/",
+          "type": "news",
+          "description": "Escalation report"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan–India Relations & Water",
+      "topics": ["Indus Waters Treaty", "PCA", "Hydropower", "Water Security"]
+    },
+    {
+      "id": "14",
+      "title": "CPEC Phase-II & 2024 Diplomacy",
+      "content": "Pakistan and China elevated CPEC Phase-II with industrial/agri cooperation; 2024 leadership visit reaffirmed priorities. Exam angle: geo-economics, security of Chinese projects, debt/FX constraints.",
+      "keyTakeaways": [
+        "Shift from energy/roads to SEZs, agriculture, IT.",
+        "Security of Chinese personnel remains a critical risk factor.",
+        "Debt reprofiling conversations continue."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan MoFA — PM's 2024 China visit: Joint statement/briefings",
+          "url": "https://mofa.gov.pk/",
+          "type": "official",
+          "description": "Statements & outcomes (search site)"
+        },
+        {
+          "title": "Dawn — CPEC/China visit coverage (2024)",
+          "url": "https://www.dawn.com/",
+          "type": "news",
+          "description": "Trip and agreements reporting"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Domestic Politics & Economy",
+      "topics": ["CPEC", "China–Pakistan", "SEZs", "Security"]
+    },
+    {
+      "id": "15",
+      "title": "Gaza War (2023–2025): UNSC 2728, ICJ/ICC, OIC Positions",
+      "content": "UNSC demanded immediate ceasefire for Ramadan (Res. 2728, Mar 25, 2024). ICJ ordered provisional measures (Jan 26, 2024) and later advisory opinion (Jul 19, 2024). ICC prosecutor sought arrest warrants (May 2024). OIC/Arab League held extraordinary summit (Nov 11, 2023). Exam focus: IHL, multilateral leverage, regional spillovers.",
+      "keyTakeaways": [
+        "UNSC 2728 marked rare Council consensus (U.S. abstained).",
+        "ICJ & ICC actions intensified legal scrutiny of parties.",
+        "OIC/Arab positions called for ceasefire, aid, accountability."
+      ],
+      "resources": [
+        {
+          "title": "UN — UNSC Resolution 2728 (Mar 25, 2024)",
+          "url": "https://docs.un.org/en/S/RES/2728(2024)",
+          "type": "resolution",
+          "description": "Ceasefire/hostages/humanitarian access"
+        },
+        {
+          "title": "ICJ — South Africa v. Israel: Provisional Measures (Jan 26, 2024) & Advisory Opinion (Jul 19, 2024)",
+          "url": "https://www.icj-cij.org/",
+          "type": "court",
+          "description": "Orders & advisory opinion press releases"
+        },
+        {
+          "title": "ICC — Prosecutor's application for arrest warrants (May 2024)",
+          "url": "https://www.icc-cpi.int/news",
+          "type": "court",
+          "description": "Press office updates"
+        },
+        {
+          "title": "OIC — Joint Arab–Islamic Summit (Riyadh, Nov 11, 2023) communiqués",
+          "url": "https://www.oic-oci.org/topic/?lan=en&t_id=39923&t_ref=26755",
+          "type": "communiqué",
+          "description": "Summit final statements"
+        }
+      ],
+      "importance": "high",
+      "category": "Middle East & OIC",
+      "topics": ["Gaza", "UNSC", "ICJ", "ICC", "OIC"]
+    },
+    {
+      "id": "16",
+      "title": "Nagorno-Karabakh (2023): Azerbaijani Operation & Exodus",
+      "content": "In Sept 2023, Azerbaijani offensive led to capitulation of Karabakh authorities; mass exodus of Armenians to Armenia. Exam angle: frozen conflicts, self-determination vs. territorial integrity.",
+      "keyTakeaways": [
+        "Humanitarian displacement exceeded 100,000 within weeks.",
+        "Russia's CSTO role questioned; EU/U.S. mediation dynamics.",
+        "Precedent for post-conflict integration/rights guarantees."
+      ],
+      "resources": [
+        {
+          "title": "BBC — Nagorno-Karabakh exodus coverage (Sept 2023)",
+          "url": "https://www.bbc.com/news/world-europe-66907472",
+          "type": "news",
+          "description": "Aftermath & displacement"
+        }
+      ],
+      "importance": "medium",
+      "category": "Comparative Conflicts & Disputes",
+      "topics": ["Nagorno-Karabakh", "Azerbaijan", "Armenia"]
+    },
+    {
+      "id": "17",
+      "title": "AI Safety Governance: Bletchley (2023) → Seoul (2024)",
+      "content": "Global AI safety summits produced the Bletchley Declaration (Nov 2023) and Seoul statements/industry commitments (May 2024). Exam angle: norms for frontier-AI risks and dual-use concerns.",
+      "keyTakeaways": [
+        "Bletchley Declaration set initial principles across many states.",
+        "Seoul Summit advanced company safety commitments.",
+        "Debate continues on model access, evals, and compute thresholds."
+      ],
+      "resources": [
+        {
+          "title": "UK Govt — Bletchley Declaration (Nov 2023)",
+          "url": "https://www.gov.uk/government/publications/ai-safety-summit-2023-bletchley-declaration",
+          "type": "official",
+          "description": "Text & signatories"
+        },
+        {
+          "title": "Gov of Korea/UK — Seoul AI Safety Summit outputs (May 2024)",
+          "url": "https://www.aitaskforce.go.kr/eng/contents.do?mId=0601000000",
+          "type": "official",
+          "description": "Frontier AI commitments"
+        },
+        {
+          "title": "White House — U.S. AI Executive Order (Oct 30, 2023)",
+          "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
+          "type": "order",
+          "description": "Regulatory direction"
+        }
+      ],
+      "importance": "medium",
+      "category": "Emerging Tech & Security",
+      "topics": ["AI Safety", "Bletchley", "Seoul Summit"]
+    },
+    {
+      "id": "18",
+      "title": "COP28 (UAE, 2023) & COP29 (Baku, 2024): Climate Diplomacy",
+      "content": "COP28 delivered first-ever call to 'transition away from fossil fuels'; COP29 in Baku focused on climate finance architecture. Exam angle: energy transition politics, L&D fund, finance commitments.",
+      "keyTakeaways": [
+        "COP28: historic (albeit non-binding) transition language.",
+        "COP29: negotiations on new collective quantified goal (NCQG).",
+        "Implications for Pakistan's adaptation finance needs."
+      ],
+      "resources": [
+        {
+          "title": "UNFCCC — COP28 Decisions/Global Stocktake",
+          "url": "https://unfccc.int/cop28",
+          "type": "official",
+          "description": "Decision texts"
+        },
+        {
+          "title": "UNFCCC — COP29 Azerbaijan (overview & outcomes)",
+          "url": "https://unfccc.int/cop29",
+          "type": "official",
+          "description": "Baku presidency focus"
+        }
+      ],
+      "importance": "high",
+      "category": "Climate & Environment",
+      "topics": ["COP28", "COP29", "Finance", "Fossil Fuel Transition"]
+    },
+    {
+      "id": "19",
+      "title": "Pakistan Heatwaves & Monsoon Impacts (2024–2025)",
+      "content": "Severe heatwaves (Sindh >50°C) and monsoon flooding episodes underscored Pakistan's vulnerability. Exam angle: adaptation policy, disaster governance, water/agri stress.",
+      "keyTakeaways": [
+        "Early-season extreme heat strained power/water systems.",
+        "Urban flood risks persisted with intense monsoon bursts.",
+        "Links to agriculture yields and health outcomes."
+      ],
+      "resources": [
+        {
+          "title": "BBC — Pakistan heatwave coverage (2024)",
+          "url": "https://www.bbc.com/news/world-asia-69026091",
+          "type": "news",
+          "description": "Extreme temperatures & impacts"
+        },
+        {
+          "title": "NDMA/News — 2024 monsoon situation reports (Pakistan)",
+          "url": "https://cms.ndma.gov.pk/",
+          "type": "official",
+          "description": "Disaster updates (situational)"
+        }
+      ],
+      "importance": "medium",
+      "category": "Climate & Environment",
+      "topics": ["Heatwave", "Monsoon", "Adaptation"]
+    },
+    {
+      "id": "20",
+      "title": "UNSC Gaza Ceasefire (2728) & Multilateral Gridlock/Leverage",
+      "content": "UNSC adopted 2728 (Mar 2024) with U.S. abstention; demonstrated both rare convergence and ongoing limits. Exam angle: P5 dynamics, E-10 role, humanitarian access politics.",
+      "keyTakeaways": [
+        "Resolution called for immediate ceasefire during Ramadan and hostage release.",
+        "Implementation contested; leverage via aid, pressure, mediation.",
+        "E-10 drafting highlighted middle-power diplomacy."
+      ],
+      "resources": [
+        {
+          "title": "UN Press — Adoption of UNSCR 2728",
+          "url": "https://press.un.org/en/2024/sc15641.doc.htm",
+          "type": "press",
+          "description": "Vote & statements"
+        }
+      ],
+      "importance": "high",
+      "category": "Global Governance & Multilateralism",
+      "topics": ["UNSC", "Ceasefire", "Humanitarian Access"]
+    },
+    {
+      "id": "21",
+      "title": "SCO Summit Astana (2024): Security & Economic Tracks",
+      "content": "Astana Declaration (Jul 2024) advanced counter-terror programs (2025–27) and development strategy to 2035; Belarus gained membership status. Exam focus: SCO's evolving role vs. Western forums.",
+      "keyTakeaways": [
+        "Counter-terror/drug strategies refreshed.",
+        "Talks on settlement mechanisms among members.",
+        "UN–SCO interface noted by UN Secretary-General."
+      ],
+      "resources": [
+        {
+          "title": "SCO — Astana Declaration (Jul 9–10, 2024)",
+          "url": "https://eng.sectsco.org/20240709/1438929.html",
+          "type": "official",
+          "description": "Declaration text"
+        },
+        {
+          "title": "UN — SG's remarks to SCO (Jul 4, 2024)",
+          "url": "https://www.un.org/sg/en/content/sg/statement/2024-07-04/secretary-generals-remarks-the-shanghai-cooperation-organization-delivered",
+          "type": "speech",
+          "description": "UN–SCO cooperation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Regional Organizations (SCO/BRICS)",
+      "topics": ["SCO", "Astana", "Counter-Terror", "Settlement Systems"]
+    },
+    {
+      "id": "22",
+      "title": "Pakistan & UN Peacekeeping (2024–2025)",
+      "content": "Pakistan remained among leading troop contributors in 2024–2025. Exam angle: soft power, training, and casualty risks; budget politics of UN peacekeeping.",
+      "keyTakeaways": [
+        "Pakistan's uniformed personnel >3,800 (Mar 2024 report).",
+        "Contributions span multiple missions (troops, police, staff).",
+        "Relevance to foreign policy identity and civil–military expertise."
+      ],
+      "resources": [
+        {
+          "title": "UN Peacekeeping — Country contributions (March 2024 PDF)",
+          "url": "https://peacekeeping.un.org/sites/default/files/01_contributions_to_un_peacekeeping_operations_by_country_and_post_72_march_2024.pdf",
+          "type": "data",
+          "description": "Pakistan contribution figures"
+        },
+        {
+          "title": "UN Peacekeeping — Monthly Strength reports",
+          "url": "https://peacekeeping.un.org/en/troop-and-police-contributors",
+          "type": "data",
+          "description": "Updated rankings"
+        }
+      ],
+      "importance": "medium",
+      "category": "Global Governance & Multilateralism",
+      "topics": ["UNPKO", "Troop Contributions", "Soft Power"]
+    },
+    {
+      "id": "23",
+      "title": "U.S.–India Relations (2024–2025): Security & Trade Agendas",
+      "content": "Leaders set ambitious trade/tech goals (2025) and tightened maritime/security cooperation (Quad). Exam angle: implications for Pakistan and China, supply chains, defense co-production.",
+      "keyTakeaways": [
+        "\"Mission 500\" target toward $500bn bilateral trade by 2030.",
+        "Focus on resilient supply chains and advanced tech cooperation.",
+        "Regional balancing vis-à-vis China."
+      ],
+      "resources": [
+        {
+          "title": "White House — U.S.–India Joint Leaders' Statement (Feb 13, 2025)",
+          "url": "https://www.whitehouse.gov/briefings-statements/2025/02/united-states-india-joint-leaders-statement/",
+          "type": "statement",
+          "description": "Trade & tech goals"
+        },
+        {
+          "title": "Reuters — Quad FMs decry S. China Sea coercion (Jul 29, 2024)",
+          "url": "https://www.reuters.com/world/asia-pacific/quad-foreign-ministers-meet-tokyo-talks-maritime-security-cyber-2024-07-29/",
+          "type": "news",
+          "description": "Maritime security emphasis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Regional Security & Great-Power Competition",
+      "topics": ["US–India", "Trade", "Defense", "Quad"]
+    },
+    {
+      "id": "24",
+      "title": "Pakistan Inflation & Macro Stabilization (2024–2025)",
+      "content": "Inflation decelerated sharply into 2025 after peaking in 2023–24; stabilization hinged on IMF conditionality and fiscal/energy measures. Exam angle: inflation targeting, exchange rate, external financing.",
+      "keyTakeaways": [
+        "Price pressures eased with tighter policy and base effects.",
+        "Tariff/pass-through and taxes still sensitive politically.",
+        "Growth–stability trade-off central to policymaking."
+      ],
+      "resources": [
+        {
+          "title": "Reuters — Pakistan CPI/inflation trend (2025 coverage)",
+          "url": "https://www.reuters.com/markets/asia/pakistans-inflation-slows-2025-02-29/",
+          "type": "news",
+          "description": "Disinflation datapoint"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Domestic Politics & Economy",
+      "topics": ["Inflation", "Monetary Policy", "Macro Stabilization"]
+    }
+  ]
+}

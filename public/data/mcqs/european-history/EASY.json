@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T20:59:01.602Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "531898e40dd24b981e670bb0db9247230ef6d64a",
+      "sectionIndex": 0,
+      "question": "The French Revolution began in:",
+      "options": [
+        "A) 1787",
+        "B) 1788",
+        "C) 1789",
+        "D) 1790"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0734e287e41e5eefb63f7addbd6818b9200f84c1",
+      "sectionIndex": 0,
+      "question": "The Declaration of the Rights of Man was issued in:",
+      "options": [
+        "A) 1789",
+        "B) 1790",
+        "C) 1791",
+        "D) 1792"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "18f802be8052c72f184180e37cbd108124a4a475",
+      "sectionIndex": 0,
+      "question": "The Reign of Terror was led by:",
+      "options": [
+        "A) Napoleon",
+        "B) Robespierre",
+        "C) Louis XVI",
+        "D) Marat"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd85285f731bfae32ea7fc6d7529254176044c00",
+      "sectionIndex": 0,
+      "question": "Napoleon became Emperor of France in:",
+      "options": [
+        "A) 1799",
+        "B) 1802",
+        "C) 1804",
+        "D) 1806"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4b02fc61230d1e617725ee8007e8c36980cd193e",
+      "sectionIndex": 0,
+      "question": "The Napoleonic Code was introduced in:",
+      "options": [
+        "A) 1802",
+        "B) 1804",
+        "C) 1806",
+        "D) 1808"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf1bdac1afc0636cbfde030c183002c2a6575093",
+      "sectionIndex": 0,
+      "question": "The Treaty of Tilsit was signed in:",
+      "options": [
+        "A) 1805",
+        "B) 1806",
+        "C) 1807",
+        "D) 1808"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f6442ebf03b592d3d70ff68063f78ee3b4e285c1",
+      "sectionIndex": 0,
+      "question": "The Continental System was designed to:",
+      "options": [
+        "A) Unite Europe",
+        "B) Blockade Britain",
+        "C) Promote trade",
+        "D) Spread democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b643c00cf7d6d01bdfa5ab0a1cc2506c23ce798",
+      "sectionIndex": 0,
+      "question": "Napoleon was finally defeated at:",
+      "options": [
+        "A) Leipzig",
+        "B) Austerlitz",
+        "C) Waterloo",
+        "D) Jena"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "529de3066dd0e90ffafb49002c7d7e91c59aec50",
+      "sectionIndex": 0,
+      "question": "The Battle of Waterloo took place in:",
+      "options": [
+        "A) 1813",
+        "B) 1814",
+        "C) 1815",
+        "D) 1816"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3317b7fe3eaaed92967f364a99bca743445b2449",
+      "sectionIndex": 0,
+      "question": "Napoleon was exiled to St. Helena after:",
+      "options": [
+        "A) Leipzig",
+        "B) Elba",
+        "C) Waterloo",
+        "D) Trafalgar"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d7dbd2d6fc55a26711804425a6f52bf9e214d941",
+      "sectionIndex": 1,
+      "question": "The Congress of Vienna was held in:",
+      "options": [
+        "A) 1813-1814",
+        "B) 1814-1815",
+        "C) 1815-1816",
+        "D) 1816-1817"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbb1ef1b435f2e161c8bcb7c1c6d72c49940457e",
+      "sectionIndex": 1,
+      "question": "The chief architect of the Congress of Vienna was:",
+      "options": [
+        "A) Talleyrand",
+        "B) Metternich",
+        "C) Castlereagh",
+        "D) Alexander I"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b570c9ce8c32d45110f7b9df66dfd34a762ea58",
+      "sectionIndex": 1,
+      "question": "The Holy Alliance was proposed by:",
+      "options": [
+        "A) Metternich",
+        "B) Alexander I of Russia",
+        "C) Frederick William III",
+        "D) Napoleon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80ff57ab51e7fc274fbd6bf5d98f65f91abd0cfa",
+      "sectionIndex": 1,
+      "question": "The Concert of Europe aimed to:",
+      "options": [
+        "A) Spread democracy",
+        "B) Maintain peace and stability",
+        "C) Promote revolution",
+        "D) Expand colonialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ca5b3e181ebd90188cdb4fc0d3685a865459dbf",
+      "sectionIndex": 1,
+      "question": "The principle of legitimacy at Vienna meant:",
+      "options": [
+        "A) Democratic rule",
+        "B) Restoring traditional monarchs",
+        "C) Popular sovereignty",
+        "D) Constitutional monarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23b81b96c9e29e87681a0ded0ad528abc695d640",
+      "sectionIndex": 1,
+      "question": "The Congress of Laibach was held in:",
+      "options": [
+        "A) 1819",
+        "B) 1820",
+        "C) 1821",
+        "D) 1822"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c0aa1032ae34f595fd09819ea7c0802f92e814cd",
+      "sectionIndex": 1,
+      "question": "The Vienna System lasted approximately until:",
+      "options": [
+        "A) 1830",
+        "B) 1848",
+        "C) 1871",
+        "D) 1914"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f9545adb151a3e8a35dfbdaea3a39da7803a589",
+      "sectionIndex": 1,
+      "question": "Metternich was the chancellor of:",
+      "options": [
+        "A) Prussia",
+        "B) Austria",
+        "C) Russia",
+        "D) France"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a8c308b458d24db295551ba19256c730de2ecb9",
+      "sectionIndex": 1,
+      "question": "The Quadruple Alliance included all except:",
+      "options": [
+        "A) Britain",
+        "B) Austria",
+        "C) France",
+        "D) Russia"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7bb8cc86c82bedde8f38eba644d0eeae148f1bed",
+      "sectionIndex": 1,
+      "question": "The Congress System was also known as:",
+      "options": [
+        "A) Balance of Power",
+        "B) Concert of Europe",
+        "C) Holy Alliance",
+        "D) European Union"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcfb7dc4317fc8a1d3048116fc198829d19ff180",
+      "sectionIndex": 2,
+      "question": "The chief architect of Italian unification was:",
+      "options": [
+        "A) Mazzini",
+        "B) Cavour",
+        "C) Garibaldi",
+        "D) Victor Emmanuel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "580a222ca22dd8baaa9056df0ea99ada4b76b0fe",
+      "sectionIndex": 2,
+      "question": "German unification was completed in:",
+      "options": [
+        "A) 1866",
+        "B) 1870",
+        "C) 1871",
+        "D) 1875"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "92d92ffdc6e5a7b2f729f63babbf5bd769db5389",
+      "sectionIndex": 2,
+      "question": "The Zollverein was a:",
+      "options": [
+        "A) Military alliance",
+        "B) Customs union",
+        "C) Political party",
+        "D) Secret society"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eefa49e895a510e67934df7cdf1be2f73836931",
+      "sectionIndex": 2,
+      "question": "Garibaldi led the expedition of:",
+      "options": [
+        "A) The Hundred",
+        "B) The Thousand",
+        "C) The Ten Thousand",
+        "D) The Million"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "252203e4c558bf49781f7798fe10392dc1061597",
+      "sectionIndex": 2,
+      "question": "Bismarck's policy was called:",
+      "options": [
+        "A) Idealpolitik",
+        "B) Realpolitik",
+        "C) Weltpolitik",
+        "D) Kulturkampf"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8390d06a278dffe33401f649556863d18d9aab9",
+      "sectionIndex": 2,
+      "question": "The Kingdom of Italy was proclaimed in:",
+      "options": [
+        "A) 1859",
+        "B) 1860",
+        "C) 1861",
+        "D) 1870"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "04a9e90d291ce5469441e440b5a30d217c703094",
+      "sectionIndex": 2,
+      "question": "The Ems Telegram incident occurred in:",
+      "options": [
+        "A) 1866",
+        "B) 1870",
+        "C) 1871",
+        "D) 1875"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96f64d1fe2337c85cabfbcb7969ea301193c2ab4",
+      "sectionIndex": 2,
+      "question": "Mazzini founded:",
+      "options": [
+        "A) Young Italy",
+        "B) Old Italy",
+        "C) New Italy",
+        "D) United Italy"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "871becaf13d681327f3fcbf9d71697afe2567818",
+      "sectionIndex": 2,
+      "question": "The Convention of Gastein was signed in:",
+      "options": [
+        "A) 1863",
+        "B) 1864",
+        "C) 1865",
+        "D) 1866"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "954fe4962e57332286cb13fbb25befe57d5ca697",
+      "sectionIndex": 2,
+      "question": "Victor Emmanuel II was king of:",
+      "options": [
+        "A) Naples",
+        "B) Sardinia-Piedmont",
+        "C) Tuscany",
+        "D) Lombardy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8e7931d7fb0dd1c79a8db3e7e412e3effc3d40a",
+      "sectionIndex": 3,
+      "question": "The July Revolution in France occurred in:",
+      "options": [
+        "A) 1820",
+        "B) 1825",
+        "C) 1830",
+        "D) 1835"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "652540c241c96df6693484d9033abd723ac8a1ef",
+      "sectionIndex": 3,
+      "question": "The 1848 revolutions were also called:",
+      "options": [
+        "A) Spring of Nations",
+        "B) Summer of Liberty",
+        "C) Autumn of Change",
+        "D) Winter of Discontent"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "308bf52352b1c6bbd80be3349be19af0a0cd9fb8",
+      "sectionIndex": 3,
+      "question": "Louis Philippe was known as the:",
+      "options": [
+        "A) Sun King",
+        "B) Citizen King",
+        "C) People's King",
+        "D) Revolutionary King"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a25d05226391a1573fb8661fab412aece1c3a07",
+      "sectionIndex": 3,
+      "question": "The Social Contract was written by:",
+      "options": [
+        "A) Voltaire",
+        "B) Montesquieu",
+        "C) Rousseau",
+        "D) Diderot"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1818571c2a987adea036c4beb26b6ea984ae2257",
+      "sectionIndex": 3,
+      "question": "Pan-Slavism was a movement promoting:",
+      "options": [
+        "A) German unity",
+        "B) Slavic unity",
+        "C) Italian unity",
+        "D) French unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2abf527498a6f5b56915dd91d4a63e249e77c49e",
+      "sectionIndex": 3,
+      "question": "The Frankfurt Parliament met in:",
+      "options": [
+        "A) 1830",
+        "B) 1848",
+        "C) 1850",
+        "D) 1860"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbf7391a50347bf7c7fd0294bcc034346f499fbf",
+      "sectionIndex": 3,
+      "question": "Nihilism developed primarily in:",
+      "options": [
+        "A) France",
+        "B) Germany",
+        "C) Russia",
+        "D) Britain"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "badc7d9bb28fa88f9569c9b7545aa836491e5207",
+      "sectionIndex": 3,
+      "question": "The Carbonari were active in:",
+      "options": [
+        "A) Germany",
+        "B) Italy",
+        "C) France",
+        "D) Spain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "105cf3805577d700dd5c40f65b019c96de90c63a",
+      "sectionIndex": 3,
+      "question": "The Greek independence movement was supported by:",
+      "options": [
+        "A) Philhellenes",
+        "B) Carbonari",
+        "C) Nihilists",
+        "D) Jacobins"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f256fc045675f83b47abb8898e09561356fdd545",
+      "sectionIndex": 3,
+      "question": "The Belgian Revolution occurred in:",
+      "options": [
+        "A) 1825",
+        "B) 1830",
+        "C) 1835",
+        "D) 1840"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de3c5449ec89bd04167e208f529696eda24bcd85",
+      "sectionIndex": 4,
+      "question": "The Treaty of Paris ending the Crimean War was signed in:",
+      "options": [
+        "A) 1854",
+        "B) 1855",
+        "C) 1856",
+        "D) 1857"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "afecef7899db56ad74e5b0d38fab2fd43c2b20e0",
+      "sectionIndex": 4,
+      "question": "The Treaty of Berlin was signed in:",
+      "options": [
+        "A) 1875",
+        "B) 1878",
+        "C) 1880",
+        "D) 1885"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5e5ad78155d03a32f58013942088a8133e822b6",
+      "sectionIndex": 4,
+      "question": "The Peace of Amiens was signed in:",
+      "options": [
+        "A) 1800",
+        "B) 1801",
+        "C) 1802",
+        "D) 1803"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "401fd8c08532111f9548b1b3f15ff1c4e6fa0ffe",
+      "sectionIndex": 4,
+      "question": "The Treaty of Versailles was signed in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dec70e1875e9ee4c5c421935f731c669c0b35a2b",
+      "sectionIndex": 4,
+      "question": "The Treaty of Chaumont was signed in:",
+      "options": [
+        "A) 1812",
+        "B) 1813",
+        "C) 1814",
+        "D) 1815"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "734a47e3bccaddd3029732835f59a0b9003e991f",
+      "sectionIndex": 4,
+      "question": "The Truce at Villafranca was between France and:",
+      "options": [
+        "A) Prussia",
+        "B) Austria",
+        "C) Russia",
+        "D) Britain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "886e506ac3f1b6a970d1eba574fe57f4a8a107d5",
+      "sectionIndex": 4,
+      "question": "By the Treaty of Paris (1856), warships were forbidden on the:",
+      "options": [
+        "A) Mediterranean",
+        "B) Black Sea",
+        "C) Baltic Sea",
+        "D) North Sea"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5464f5baa00346c986ee5f8bad6388b0fef4f79",
+      "sectionIndex": 4,
+      "question": "The Congress of Berlin dealt primarily with:",
+      "options": [
+        "A) German unification",
+        "B) The Eastern Question",
+        "C) Italian unification",
+        "D) French expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba5b301c8b84a3fbd36d8deb887c3806155aa9d8",
+      "sectionIndex": 4,
+      "question": "The Treaty of Frankfurt ended the:",
+      "options": [
+        "A) Crimean War",
+        "B) Austro-Prussian War",
+        "C) Franco-Prussian War",
+        "D) Napoleonic Wars"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2a20b03545cb88c0aacd32efc6937a60cc370adf",
+      "sectionIndex": 4,
+      "question": "The Treaty of Prague (1866) ended the:",
+      "options": [
+        "A) Danish War",
+        "B) Austro-Prussian War",
+        "C) Franco-Prussian War",
+        "D) Crimean War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2f4d5987b89c6ba328fb0fda7e50b69d9bdfff3",
+      "sectionIndex": 5,
+      "question": "World War I began in:",
+      "options": [
+        "A) 1913",
+        "B) 1914",
+        "C) 1915",
+        "D) 1916"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b13f6cb82a269533a55a8a1a646e363dbc17664",
+      "sectionIndex": 5,
+      "question": "The USA entered World War I in:",
+      "options": [
+        "A) 1915",
+        "B) 1916",
+        "C) 1917",
+        "D) 1918"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8f7ce95cf833fcb699cf35b33dd93e98b8a9edb1",
+      "sectionIndex": 5,
+      "question": "The League of Nations was established in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ab664934c6b545b28b84d09ffc50fd877df47fea",
+      "sectionIndex": 5,
+      "question": "The Weimar Republic was established in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b5254b79e814e4555b729a9ea0972e2af1ddc48",
+      "sectionIndex": 5,
+      "question": "Mussolini came to power in Italy in:",
+      "options": [
+        "A) 1920",
+        "B) 1921",
+        "C) 1922",
+        "D) 1923"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "864dbfa88bcd6eaa7364996beab7a5608df720bd",
+      "sectionIndex": 5,
+      "question": "Hitler became Chancellor of Germany in:",
+      "options": [
+        "A) 1931",
+        "B) 1932",
+        "C) 1933",
+        "D) 1934"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e096a30578f9ed91c10235d09a1132aef51293a6",
+      "sectionIndex": 5,
+      "question": "The Luftwaffe was the name of:",
+      "options": [
+        "A) German Army",
+        "B) German Navy",
+        "C) German Air Force",
+        "D) German Police"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c7f48e808dcbd1b48a81ee09d75c039c43747695",
+      "sectionIndex": 5,
+      "question": "The Fashoda Incident occurred in:",
+      "options": [
+        "A) 1896",
+        "B) 1897",
+        "C) 1898",
+        "D) 1899"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20c8dbbe18c51785a092c0b76b80a06f5ca1821f",
+      "sectionIndex": 5,
+      "question": "The Baghdad Railway was conceived by:",
+      "options": [
+        "A) Britain",
+        "B) France",
+        "C) Germany",
+        "D) Russia"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8db865248d5659e3cdb06b6c46e99e468ee99deb",
+      "sectionIndex": 5,
+      "question": "The Covenant was the constitution of:",
+      "options": [
+        "A) United Nations",
+        "B) League of Nations",
+        "C) Holy Alliance",
+        "D) Concert of Europe"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be8979623397fa0ee61f79645de96f2248302671",
+      "sectionIndex": 6,
+      "question": "Cavour was to Italy what _____ was to Germany:",
+      "options": [
+        "A) Metternich",
+        "B) Bismarck",
+        "C) Napoleon",
+        "D) Mazzini"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4050cb1fc4df14a13e0cb38e17fd2556e5c5610f",
+      "sectionIndex": 6,
+      "question": "Von Moltke was a Prussian:",
+      "options": [
+        "A) Chancellor",
+        "B) General",
+        "C) Diplomat",
+        "D) King"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1ac377fdfa72e155997a532a07d1ca4b66ea02a",
+      "sectionIndex": 6,
+      "question": "Voltaire was a philosopher of:",
+      "options": [
+        "A) The Enlightenment",
+        "B) Romanticism",
+        "C) Realism",
+        "D) Nihilism"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "94ccf2707be8fbea6e02aadd67eac7fbe15a1836",
+      "sectionIndex": 6,
+      "question": "Kossuth was a leader in:",
+      "options": [
+        "A) Italy",
+        "B) Germany",
+        "C) Hungary",
+        "D) Poland"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d05052b41e5c01eac9a80365f91717111737db0d",
+      "sectionIndex": 6,
+      "question": "Alexander II of Russia was known as:",
+      "options": [
+        "A) The Great",
+        "B) The Liberator",
+        "C) The Terrible",
+        "D) The Wise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10aa4e4684c79366d54ebe5fe591107fd3f218f9",
+      "sectionIndex": 6,
+      "question": "Talleyrand represented which country at Vienna?",
+      "options": [
+        "A) Austria",
+        "B) Prussia",
+        "C) France",
+        "D) Britain"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "abcd8886a573befc1297dcb528ce4a6d0c00a210",
+      "sectionIndex": 6,
+      "question": "Lord Castlereagh represented:",
+      "options": [
+        "A) France",
+        "B) Austria",
+        "C) Prussia",
+        "D) Britain"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e62ee75bfd026b13c51acaa1516a504c02a69ecf",
+      "sectionIndex": 6,
+      "question": "Napoleon III was also known as:",
+      "options": [
+        "A) Louis Philippe",
+        "B) Louis Napoleon",
+        "C) Charles X",
+        "D) Louis XVIII"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1769a30124fc23c74da457383d4a3d86fa0389e1",
+      "sectionIndex": 6,
+      "question": "The Iron Chancellor was:",
+      "options": [
+        "A) Metternich",
+        "B) Bismarck",
+        "C) Cavour",
+        "D) Gladstone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ba25add39561f8a7027792d2d58da259b1c97f3",
+      "sectionIndex": 6,
+      "question": "Garibaldi was known as the leader of:",
+      "options": [
+        "A) Blackshirts",
+        "B) Redshirts",
+        "C) Brownshirts",
+        "D) Greenshirts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68b9e7cb599f66ecd0305ac079e7d023604674f3",
+      "sectionIndex": 7,
+      "question": "The \"New Imperialism\" began around:",
+      "options": [
+        "A) 1850",
+        "B) 1870",
+        "C) 1890",
+        "D) 1900"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c12f7d22a86ef0c11bc7022f8bf6d40409db921",
+      "sectionIndex": 7,
+      "question": "The Scramble for Africa intensified after:",
+      "options": [
+        "A) 1870",
+        "B) 1880",
+        "C) 1890",
+        "D) 1900"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5c3ff0287f6c190826211c78e9f979e17f14ff1",
+      "sectionIndex": 7,
+      "question": "The Berlin Conference on Africa was held in:",
+      "options": [
+        "A) 1882-1883",
+        "B) 1884-1885",
+        "C) 1886-1887",
+        "D) 1888-1889"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f68a21e788870f5d21cfd9248c065ba2e58a440f",
+      "sectionIndex": 7,
+      "question": "French expansion in North Africa began with:",
+      "options": [
+        "A) Tunisia",
+        "B) Algeria",
+        "C) Morocco",
+        "D) Libya"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "791887ebcc8f34e2f9468df9f6c135088b9f3f97",
+      "sectionIndex": 7,
+      "question": "The Suez Canal was opened in:",
+      "options": [
+        "A) 1859",
+        "B) 1869",
+        "C) 1879",
+        "D) 1889"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51c8d69fb1bf9c260d006aa32bdb9a45759e6e49",
+      "sectionIndex": 7,
+      "question": "Cecil Rhodes was associated with:",
+      "options": [
+        "A) French Africa",
+        "B) German Africa",
+        "C) British Africa",
+        "D) Italian Africa"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "498ade289660eec07c7e63c78766c1044683155b",
+      "sectionIndex": 7,
+      "question": "The Boer War was fought in:",
+      "options": [
+        "A) North Africa",
+        "B) East Africa",
+        "C) West Africa",
+        "D) South Africa"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b8d344f3b2950db52f6ce549009a410b3965ec3b",
+      "sectionIndex": 7,
+      "question": "Leopold II exploited:",
+      "options": [
+        "A) Algeria",
+        "B) Congo",
+        "C) Kenya",
+        "D) Nigeria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55dc8c915981a9b1ae70d8be7d38d2160cc01f16",
+      "sectionIndex": 7,
+      "question": "The White Man's Burden was written by:",
+      "options": [
+        "A) Cecil Rhodes",
+        "B) Rudyard Kipling",
+        "C) Joseph Chamberlain",
+        "D) Jules Ferry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4014fb542458992ce736069e8ebcd741e9a87591",
+      "sectionIndex": 7,
+      "question": "The Monroe Doctrine was proclaimed in:",
+      "options": [
+        "A) 1820",
+        "B) 1823",
+        "C) 1825",
+        "D) 1830"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1839173c504764c1a100d8330d85203d77292ad1",
+      "sectionIndex": 8,
+      "question": "The Cold War began approximately in:",
+      "options": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1949",
+        "D) 1950"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "670b125d4b395fde69b181b5fa6e01a5ab183907",
+      "sectionIndex": 8,
+      "question": "NATO was established in:",
+      "options": [
+        "A) 1947",
+        "B) 1948",
+        "C) 1949",
+        "D) 1950"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "08be0b6c1b08ef50d7d6c76661fa4ff0ac961bc7",
+      "sectionIndex": 8,
+      "question": "The Warsaw Pact was formed in:",
+      "options": [
+        "A) 1953",
+        "B) 1954",
+        "C) 1955",
+        "D) 1956"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ec4b0d8ca8c9c5d05b0b03cdf1a4177dc0538396",
+      "sectionIndex": 8,
+      "question": "The Marshall Plan was announced in:",
+      "options": [
+        "A) 1946",
+        "B) 1947",
+        "C) 1948",
+        "D) 1949"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24cfa92b7adc931dc93cb626d6e409e1da4dbd88",
+      "sectionIndex": 8,
+      "question": "The Berlin Wall was built in:",
+      "options": [
+        "A) 1959",
+        "B) 1960",
+        "C) 1961",
+        "D) 1962"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "223c8fe4ec630ff149d3c6e6a33137651f923969",
+      "sectionIndex": 8,
+      "question": "The European Economic Community was established by the Treaty of:",
+      "options": [
+        "A) Paris",
+        "B) Rome",
+        "C) Brussels",
+        "D) Maastricht"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a5dd27d42dd016327269377525c4de6cd18e220",
+      "sectionIndex": 8,
+      "question": "George Kennan articulated containment policy in:",
+      "options": [
+        "A) The X Article",
+        "B) The Y Article",
+        "C) The Z Article",
+        "D) The A Article"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "15b284449310d13ad9cb631541359cdfd94d204d",
+      "sectionIndex": 8,
+      "question": "The Berlin Wall fell in:",
+      "options": [
+        "A) 1987",
+        "B) 1988",
+        "C) 1989",
+        "D) 1990"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "10d66000c942f703c64cca405a3075bb665be2dc",
+      "sectionIndex": 8,
+      "question": "German reunification occurred in:",
+      "options": [
+        "A) 1989",
+        "B) 1990",
+        "C) 1991",
+        "D) 1992"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "303143f016036b82c58a621b38bb65f0d7afd89b",
+      "sectionIndex": 8,
+      "question": "The European Union was formally established in:",
+      "options": [
+        "A) 1991",
+        "B) 1992",
+        "C) 1993",
+        "D) 1994"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a7592a2964648e39f8766d80d5e8ebf462aede2a",
+      "sectionIndex": 9,
+      "question": "The Enlightenment was primarily a movement of the:",
+      "options": [
+        "A) 16th century",
+        "B) 17th century",
+        "C) 18th century",
+        "D) 19th century"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ee4c16641a071f5405124fd82ea42299b57b8b43",
+      "sectionIndex": 9,
+      "question": "Romanticism emerged as a reaction to:",
+      "options": [
+        "A) Realism",
+        "B) The Enlightenment",
+        "C) Nihilism",
+        "D) Socialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "212e5d607ccf0938f48f4ae2d035ae5f3c871fe9",
+      "sectionIndex": 9,
+      "question": "The Communist Manifesto was published in:",
+      "options": [
+        "A) 1845",
+        "B) 1846",
+        "C) 1847",
+        "D) 1848"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "97500b8976b19cae799ffc0537c5a9c4fae0a645",
+      "sectionIndex": 9,
+      "question": "Das Kapital was written by:",
+      "options": [
+        "A) Engels",
+        "B) Marx",
+        "C) Lenin",
+        "D) Proudhon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ff2fb7a65c036a08ab9fa1b3073eeb21de9f244",
+      "sectionIndex": 9,
+      "question": "Social Darwinism applied ideas of:",
+      "options": [
+        "A) Physics to society",
+        "B) Chemistry to society",
+        "C) Evolution to society",
+        "D) Mathematics to society"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "371cf56f763698cfd77bf270b48942cf0e6bf7ba",
+      "sectionIndex": 9,
+      "question": "Positivism was founded by:",
+      "options": [
+        "A) Comte",
+        "B) Spencer",
+        "C) Mill",
+        "D) Hegel"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8f4a943f53859381b7b0527b2845199baece4010",
+      "sectionIndex": 9,
+      "question": "The term \"Superman\" (obermensch) was coined by:",
+      "options": [
+        "A) Wagner",
+        "B) Nietzsche",
+        "C) Schopenhauer",
+        "D) Hegel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f105f12fb2522f61e83e5d373963e874b9addab1",
+      "sectionIndex": 9,
+      "question": "Realism in literature emerged around:",
+      "options": [
+        "A) 1830",
+        "B) 1850",
+        "C) 1870",
+        "D) 1890"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a64f91eece86c7e699cc1b70b8a9fc960e6e8cc8",
+      "sectionIndex": 9,
+      "question": "The Industrial Revolution began in:",
+      "options": [
+        "A) France",
+        "B) Germany",
+        "C) Britain",
+        "D) Belgium"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4b9c05ddf2e08ee96b1c04850c50bdb22fedd228",
+      "sectionIndex": 9,
+      "question": "The Second Industrial Revolution featured prominence of:",
+      "options": [
+        "A) Cotton and coal",
+        "B) Steel and electricity",
+        "C) Wood and water",
+        "D) Wind and solar"
+      ],
+      "correct": "B"
+    }
+  ]
+}

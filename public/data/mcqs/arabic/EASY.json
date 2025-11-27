@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:13:44.771Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "7dac823be4080f680416b48e8dd2180030c4b019",
+      "sectionIndex": 0,
+      "question": "The Mu'allaqāt refers to how many celebrated pre-Islamic poems?",
+      "options": [
+        "A) Five",
+        "B) Seven",
+        "C) Ten",
+        "D) Twelve"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "619b440fe20291e046b5da94c470b304e2a41869",
+      "sectionIndex": 0,
+      "question": "Pre-Islamic poetry is also known as:",
+      "options": [
+        "A) Abbasid poetry",
+        "B) Jahili poetry",
+        "C) Islamic poetry",
+        "D) Modern poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c29eb06db51ddb693fa89f38ff43867b51dbf2c9",
+      "sectionIndex": 0,
+      "question": "The Mu'allaqāt poems were traditionally said to be hung where?",
+      "options": [
+        "A) In mosques",
+        "B) On the Kaaba",
+        "C) In markets",
+        "D) In palaces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1271363c680b2b0609f241492152acb1dc7a8c5a",
+      "sectionIndex": 0,
+      "question": "Which of the following is a characteristic of Jahili poetry?",
+      "options": [
+        "A) Simple language",
+        "B) Complex imagery",
+        "C) Short verses",
+        "D) Religious themes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "059576edc001ef86ab90d4f0f1e91bd01dfe88d9",
+      "sectionIndex": 0,
+      "question": "The pre-Islamic poet Imru' al-Qais was famous for:",
+      "options": [
+        "A) Religious poetry",
+        "B) Love poetry",
+        "C) War poetry only",
+        "D) Prose writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c799d851202f814dc1ddadb8ebe2a3052e575f6",
+      "sectionIndex": 0,
+      "question": "Qasida is a form of:",
+      "options": [
+        "A) Short story",
+        "B) Long poem",
+        "C) Drama",
+        "D) Letter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0c1e53b87d58afa8cc296d948fd9490982bb0df",
+      "sectionIndex": 0,
+      "question": "The traditional Arabic qasida begins with:",
+      "options": [
+        "A) Praise",
+        "B) Nasib (love prelude)",
+        "C) Satire",
+        "D) Religious invocation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcd831e8df634b2d95eeed2225fc84e717dac7ad",
+      "sectionIndex": 0,
+      "question": "Pre-Islamic Arabs were known for their:",
+      "options": [
+        "A) Written literature only",
+        "B) Oral poetry tradition",
+        "C) Novel writing",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ab270fd15c4d4a22ef7660c3b582ee39ff7ac25",
+      "sectionIndex": 0,
+      "question": "The term \"Ayyam al-Arab\" refers to:",
+      "options": [
+        "A) Islamic holidays",
+        "B) Days of pre-Islamic tribal battles",
+        "C) Market days",
+        "D) Religious festivals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9054696bbde22185ec13c95362fc42c5abf0a3b",
+      "sectionIndex": 0,
+      "question": "Khansa was a famous pre-Islamic:",
+      "options": [
+        "A) Male poet",
+        "B) Female poet",
+        "C) Prose writer",
+        "D) Dramatist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "549a2aa1f6414bfc258824399a2a3b697bc6e2c9",
+      "sectionIndex": 1,
+      "question": "Hassan ibn Thabit was known as:",
+      "options": [
+        "A) Poet of the Prophet",
+        "B) Poet of Love",
+        "C) Poet of War",
+        "D) Poet of Nature"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d1ee792bb058da7a04e2daf8a895337739d24df3",
+      "sectionIndex": 1,
+      "question": "In which city did Hassan ibn Thabit primarily compose his poetry?",
+      "options": [
+        "A) Mecca",
+        "B) Medina",
+        "C) Damascus",
+        "D) Baghdad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4decaeaa84d682b0106dfff203851360179b0e35",
+      "sectionIndex": 1,
+      "question": "Ka'b ibn Zuhayr's famous poem is:",
+      "options": [
+        "A) Banat Su'ad",
+        "B) Lamiyyat al-Arab",
+        "C) Diwan",
+        "D) Alfiyya"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0c97129db3568a38189b7af27e0b4bd9ae9f87f9",
+      "sectionIndex": 1,
+      "question": "The poem \"Banat Su'ad\" was presented to:",
+      "options": [
+        "A) Abu Bakr",
+        "B) Prophet Muhammad (PBUH)",
+        "C) Umar ibn al-Khattab",
+        "D) Ali ibn Abi Talib"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af243c54639fa19415a113ff677ff4bf569cdd3d",
+      "sectionIndex": 1,
+      "question": "Early Islamic poetry was influenced by:",
+      "options": [
+        "A) Greek philosophy only",
+        "B) The Quran and Islamic values",
+        "C) Persian poetry only",
+        "D) Roman literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e8a6b5b91efaa763267e52264ea9874893ec922",
+      "sectionIndex": 1,
+      "question": "During the early Islamic period, poetry was used for:",
+      "options": [
+        "A) Entertainment only",
+        "B) Defending Islam and spreading its message",
+        "C) Love themes only",
+        "D) Nature description only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3396e8d719000ac7026e74a9b709b81194c631c1",
+      "sectionIndex": 1,
+      "question": "The Rightly Guided Caliphs' era is known as:",
+      "options": [
+        "A) Umayyad period",
+        "B) Abbasid period",
+        "C) Rashidun period",
+        "D) Ottoman period"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "582d9f1e63a9ab312779c85eca6732f5857b7a46",
+      "sectionIndex": 1,
+      "question": "Islamic poetry differed from Jahili poetry in its:",
+      "options": [
+        "A) Form only",
+        "B) Religious and moral content",
+        "C) Language only",
+        "D) Length only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c013e8205e34d59c6a0b551e614d657561ddbb49",
+      "sectionIndex": 1,
+      "question": "The phrase \"حسا? ا\"??د\" (Hassan al-Hind) refers to:",
+      "options": [
+        "A) An Arab poet",
+        "B) An Indian poet writing in Arabic",
+        "C) A Persian poet",
+        "D) A Turkish poet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f1f7809967f6d3351fb88d63f70d779ee720930",
+      "sectionIndex": 1,
+      "question": "Early Islamic poets often composed poetry to:",
+      "options": [
+        "A) Attack Islam",
+        "B) Defend and praise Islam",
+        "C) Ignore religious themes",
+        "D) Focus only on nature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4c68d03fd7e1d2ca19a36307c0d7e3f51ec9351",
+      "sectionIndex": 2,
+      "question": "The Abbasid period is called the:",
+      "options": [
+        "A) Dark Age",
+        "B) Golden Age",
+        "C) Iron Age",
+        "D) Stone Age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "775f70dd6142bd8cbfc6a2a14948be5b438f1678",
+      "sectionIndex": 2,
+      "question": "The Abbasid capital was:",
+      "options": [
+        "A) Damascus",
+        "B) Baghdad",
+        "C) Cairo",
+        "D) Cordoba"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f9cfd43a6ec00ad025b723211667bd871b26f2f",
+      "sectionIndex": 2,
+      "question": "Al-Mutanabbi was a famous poet of which period?",
+      "options": [
+        "A) Pre-Islamic",
+        "B) Umayyad",
+        "C) Abbasid",
+        "D) Modern"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b5d6495ee9c01719f975f0711272162890fbc25",
+      "sectionIndex": 2,
+      "question": "The Abbasid period saw the flourishing of:",
+      "options": [
+        "A) Poetry only",
+        "B) Various literary and scientific works",
+        "C) Drama only",
+        "D) Novels only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f2ba2409b4abe727cdf1f3ceb7685ea59341eb0",
+      "sectionIndex": 2,
+      "question": "Translation movement during the Abbasid period focused on translating works from:",
+      "options": [
+        "A) Greek and Persian",
+        "B) Chinese only",
+        "C) Latin only",
+        "D) Hebrew only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9e8d8df99995ee732f7b0ad8992cad4d1755aa2f",
+      "sectionIndex": 2,
+      "question": "Abu Nuwas was famous for his:",
+      "options": [
+        "A) Religious poetry only",
+        "B) Wine poetry (Khamriyyat)",
+        "C) War poetry only",
+        "D) Nature poetry only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22e59cd737167b4634c438c8b63af993ee839c65",
+      "sectionIndex": 2,
+      "question": "The Abbasid period lasted approximately:",
+      "options": [
+        "A) 100 years",
+        "B) 500 years",
+        "C) 50 years",
+        "D) 1000 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7af7cd74bf9bca7508a2699f734cf5a6343842fb",
+      "sectionIndex": 2,
+      "question": "Badi' (بدSع) as a literary style emerged during:",
+      "options": [
+        "A) Pre-Islamic period",
+        "B) Abbasid period",
+        "C) Modern period",
+        "D) Andalusian period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bda937d597abc38e5d499f7a9b4aa38c27718e4a",
+      "sectionIndex": 2,
+      "question": "The House of Wisdom (Bayt al-Hikma) was established in:",
+      "options": [
+        "A) Damascus",
+        "B) Baghdad",
+        "C) Cairo",
+        "D) Mecca"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a19506d9280e210825223951fbbefb6d691e1114",
+      "sectionIndex": 2,
+      "question": "Al-Jahiz was a famous Abbasid:",
+      "options": [
+        "A) Poet only",
+        "B) Prose writer",
+        "C) Caliph",
+        "D) General"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f01a39f3ffa64e47fd9745072e851e566018711",
+      "sectionIndex": 3,
+      "question": "Maqamat (.,ا.ات) is a form of:",
+      "options": [
+        "A) Poetry",
+        "B) Rhymed prose narrative",
+        "C) Drama",
+        "D) Letter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46a6e67efb6da6809fc55dd5d9043749e6b0fab6",
+      "sectionIndex": 3,
+      "question": "The creator of the Maqamat genre was:",
+      "options": [
+        "A) Al-Hariri",
+        "B) Badi' al-Zaman al-Hamadhani",
+        "C) Ibn Khaldun",
+        "D) Al-Mutanabbi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9af1006bf97b78af2346e87521f8033f9f964d9",
+      "sectionIndex": 3,
+      "question": "Muwashshahat (.^شحات) originated in:",
+      "options": [
+        "A) Baghdad",
+        "B) Andalusia (Spain)",
+        "C) Egypt",
+        "D) Syria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27b17ca58b263006b23358a8ef60336f1835eccd",
+      "sectionIndex": 3,
+      "question": "Kalila wa Dimna is originally from:",
+      "options": [
+        "A) Arabic folklore",
+        "B) Indian fables",
+        "C) Greek myths",
+        "D) Persian legends"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "094e24efc48636622da1e2262ca9df61d3ddee92",
+      "sectionIndex": 3,
+      "question": "The main characters in Kalila wa Dimna are:",
+      "options": [
+        "A) Humans",
+        "B) Animals",
+        "C) Angels",
+        "D) Jinns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae7214257925479a9f5c12ed61dfcf00ea21e0e0",
+      "sectionIndex": 3,
+      "question": "Khutab (خطب) refers to:",
+      "options": [
+        "A) Poetry",
+        "B) Sermons/Speeches",
+        "C) Stories",
+        "D) Songs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73dfaebcb7643d3f2000cb82f9f00d5e5c699829",
+      "sectionIndex": 3,
+      "question": "Rasa'il (رسائ\") in Arabic literature means:",
+      "options": [
+        "A) Poems",
+        "B) Letters/Epistles",
+        "C) Dramas",
+        "D) Novels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17a5027f6d8c874c431db1cb8a766292503b4b17",
+      "sectionIndex": 3,
+      "question": "Qass ibn Sa'ida was famous for his:",
+      "options": [
+        "A) Poetry",
+        "B) Oratory/Speeches",
+        "C) Stories",
+        "D) Songs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cdee3adefdefb94329db64a68315ed9a07a1d9e",
+      "sectionIndex": 3,
+      "question": "The \"Hamasah\" is a collection of:",
+      "options": [
+        "A) Love poems",
+        "B) Heroic poems",
+        "C) Religious texts",
+        "D) Letters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff37cb53b3d386c09bc82e6c41cb6370141d760d",
+      "sectionIndex": 3,
+      "question": "Diwan (دS^ا?) in Arabic literature refers to:",
+      "options": [
+        "A) A single poem",
+        "B) Collection of poems",
+        "C) Prose work",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8018eea57ddfb38e558936eddd701629a9671bca",
+      "sectionIndex": 4,
+      "question": "Ahmad Shawqi is known as:",
+      "options": [
+        "A) Prince of Poets (Amir al-Shu'ara)",
+        "B) King of Prose",
+        "C) Father of Drama",
+        "D) Master of Letters"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "317e9f0d9cc21b6fcc378a7f60dd1f970b342aed",
+      "sectionIndex": 4,
+      "question": "Al-Farazdaq was a famous poet during which period?",
+      "options": [
+        "A) Pre-Islamic",
+        "B) Umayyad",
+        "C) Modern",
+        "D) Andalusian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aefc2e7991aa255de2468e97d795610d8be38eba",
+      "sectionIndex": 4,
+      "question": "Taha Hussein wrote the famous autobiography:",
+      "options": [
+        "A) Al-Ayyam",
+        "B) Kalila wa Dimna",
+        "C) Alf Layla wa Layla",
+        "D) Maqamat"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a37c357e91c3c681092c23d63ad11711f9f9bfa7",
+      "sectionIndex": 4,
+      "question": "Naguib Mahfouz was the first Arab to win:",
+      "options": [
+        "A) Pulitzer Prize",
+        "B) Nobel Prize in Literature",
+        "C) Booker Prize",
+        "D) Grammy Award"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f0057ad9ebbfc657bf65328a24802487f27e330",
+      "sectionIndex": 4,
+      "question": "Tawfiq al-Hakim is known for his contributions to:",
+      "options": [
+        "A) Poetry only",
+        "B) Arabic drama/theater",
+        "C) Novels only",
+        "D) Short stories only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e08e0ef8ccd129c761d9c36ed9f4e136d892e8d",
+      "sectionIndex": 4,
+      "question": "The title \"Dean of Arabic Literature\" (ع.Sد ا\"أدب ا\"عربS) refers to:",
+      "options": [
+        "A) Ahmad Shawqi",
+        "B) Taha Hussein",
+        "C) Naguib Mahfouz",
+        "D) Al-Mutanabbi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b38593c98e43048721fb2fe50b399409c3659986",
+      "sectionIndex": 4,
+      "question": "Shah Waliullah Dehlawi wrote in:",
+      "options": [
+        "A) Arabic only",
+        "B) Persian only",
+        "C) Arabic and Persian",
+        "D) Urdu only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d4b1cfba562fd6ccc603107f8e1829f7b4817580",
+      "sectionIndex": 4,
+      "question": "Ibn al-Amid was famous during which period?",
+      "options": [
+        "A) Abbasid",
+        "B) Buyid",
+        "C) Umayyad",
+        "D) Ottoman"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "932bd76b332154cbbeaf4492488eda83bc508cab",
+      "sectionIndex": 4,
+      "question": "The poet who claimed prophethood according to some accounts was:",
+      "options": [
+        "A) Abu Nuwas",
+        "B) Al-Mutanabbi",
+        "C) Al-Farazdaq",
+        "D) Jarir"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8911df6914886c5c24f2561a6045f3f0eec9331f",
+      "sectionIndex": 4,
+      "question": "Hassan ibn Thabit died in:",
+      "options": [
+        "A) Mecca",
+        "B) Medina",
+        "C) Damascus",
+        "D) Baghdad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4615a8539af0a9106c3401950d9913b8727bd9ad",
+      "sectionIndex": 5,
+      "question": "Ishtiqaq (اشت,ا,) in Arabic means:",
+      "options": [
+        "A) Grammar",
+        "B) Derivation",
+        "C) Syntax",
+        "D) Phonetics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ccb13455a050164b99764a2fe419878c5835bf8",
+      "sectionIndex": 5,
+      "question": "A nominal sentence (ا\"ج.\"ة ا\"اس.Sة) begins with:",
+      "options": [
+        "A) Verb",
+        "B) Noun",
+        "C) Particle",
+        "D) Adverb"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdaee8ccdb3b46b5c0761a049ead57e789da2ed2",
+      "sectionIndex": 5,
+      "question": "A verbal sentence (ا\"ج.\"ة ا\"فع\"Sة) begins with:",
+      "options": [
+        "A) Noun",
+        "B) Verb",
+        "C) Adjective",
+        "D) Preposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b452f29c1730948c8c535e527700c09eb933b5b2",
+      "sectionIndex": 5,
+      "question": "The Arabic root system typically consists of:",
+      "options": [
+        "A) Two letters",
+        "B) Three letters",
+        "C) Four letters",
+        "D) Five letters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a162ad9dc61ef62d5b2400b3fcc28d881dfaef1",
+      "sectionIndex": 5,
+      "question": "The subject of a nominal sentence is called:",
+      "options": [
+        "A) Fa'il",
+        "B) Mubtada",
+        "C) Maf'ul",
+        "D) Khabar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee30ea0527fdc371be428e53f621ee0e3a0f23c1",
+      "sectionIndex": 5,
+      "question": "The predicate of a nominal sentence is called:",
+      "options": [
+        "A) Mubtada",
+        "B) Khabar",
+        "C) Fa'il",
+        "D) Fi'l"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74f1603b15bb7649a05ddac974413765205c8ba0",
+      "sectionIndex": 5,
+      "question": "Arabic writing direction is:",
+      "options": [
+        "A) Left to right",
+        "B) Right to left",
+        "C) Top to bottom",
+        "D) Bottom to top"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ca863c3571e95718114cec3805f25ebbc583b15",
+      "sectionIndex": 5,
+      "question": "The Arabic alphabet contains how many letters?",
+      "options": [
+        "A) 26",
+        "B) 28",
+        "C) 30",
+        "D) 32"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c9776aacd991b0888f426ffab459dbb6f2966d1",
+      "sectionIndex": 5,
+      "question": "Tanwin (ت?^S?) indicates:",
+      "options": [
+        "A) Definiteness",
+        "B) Indefiniteness",
+        "C) Plurality",
+        "D) Gender"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c15f8608bef7b52908efd27a4a5479f99741783",
+      "sectionIndex": 5,
+      "question": "The definite article in Arabic is:",
+      "options": [
+        "A) An",
+        "B) The",
+        "C) Al (ا\")",
+        "D) Un"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "725a0260f8b44ad61f3acf993e965f7253a9829d",
+      "sectionIndex": 6,
+      "question": "Arabic literary criticism (ا\"?,د ا\"أدبS) began seriously in:",
+      "options": [
+        "A) Pre-Islamic period",
+        "B) Abbasid period",
+        "C) Modern period",
+        "D) Umayyad period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e995b4145efaf20dd6b190e8ecc27b315531a249",
+      "sectionIndex": 6,
+      "question": "The nasib section of a qasida typically contains:",
+      "options": [
+        "A) Praise of the patron",
+        "B) Love and loss themes",
+        "C) Religious invocations",
+        "D) Battle descriptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d933df32907dde3ca88886dc5afbab4edaedb262",
+      "sectionIndex": 6,
+      "question": "Poetic meter in Arabic is called:",
+      "options": [
+        "A) Qafiya",
+        "B) 'Arud",
+        "C) Badi'",
+        "D) Balagha"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "945479dc0f04b2f5216f57a695075841c1275e79",
+      "sectionIndex": 6,
+      "question": "Rhyme in Arabic poetry is called:",
+      "options": [
+        "A) Wazn",
+        "B) Qafiya",
+        "C) Bahr",
+        "D) 'Arud"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc59fd4945b9bcd9edddd88c7523b345b368a044",
+      "sectionIndex": 6,
+      "question": "The study of Arabic rhetoric is called:",
+      "options": [
+        "A) Nahw",
+        "B) Sarf",
+        "C) Balagha",
+        "D) Fiqh"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9c86a7513425b2b74fa81d0830ca89960acea4b7",
+      "sectionIndex": 6,
+      "question": "A symbol (ر.ز) in poetry is used to:",
+      "options": [
+        "A) Represent deeper meanings",
+        "B) Count syllables",
+        "C) Mark rhyme",
+        "D) Indicate meter"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5464903723f46498da72696c3030fb51a974127c",
+      "sectionIndex": 6,
+      "question": "The purpose (غرض) of a poem refers to its:",
+      "options": [
+        "A) Length",
+        "B) Theme or objective",
+        "C) Rhyme scheme",
+        "D) Author"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd7390f2dd7427954cbc27b82a0cff171150a79c",
+      "sectionIndex": 6,
+      "question": "Classical Arabic poetry was primarily:",
+      "options": [
+        "A) Written for reading",
+        "B) Composed for oral recitation",
+        "C) Silent meditation",
+        "D) Private journals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61c4c451e119d6180a5030384eb7b6591376c5e9",
+      "sectionIndex": 6,
+      "question": "The influence of the Quran on Arabic literature is seen in:",
+      "options": [
+        "A) Vocabulary only",
+        "B) Style, themes, and language",
+        "C) Grammar only",
+        "D) Script only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "247d3956705fc867dba522654a6fb846bc56bf72",
+      "sectionIndex": 6,
+      "question": "Comparative literature in Arabic began with comparing Arabic literature to:",
+      "options": [
+        "A) Chinese literature",
+        "B) Persian and Greek literature",
+        "C) African literature",
+        "D) American literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0152b5bf24f2fbe3bf267b2b2d91143798e6e71b",
+      "sectionIndex": 7,
+      "question": "The Arabic novel developed primarily in which century?",
+      "options": [
+        "A) 18th century",
+        "B) 19th century",
+        "C) 20th century",
+        "D) 21st century"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4f53d47eb0d952fe7e8ea0d600d3e45f7194aa60",
+      "sectionIndex": 7,
+      "question": "The Nahda (ا\"??ضة) refers to the Arabic:",
+      "options": [
+        "A) Dark Ages",
+        "B) Renaissance/Revival",
+        "C) Classical period",
+        "D) Medieval period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85aa22c0471f337482f4c11019493e10080c74d2",
+      "sectionIndex": 7,
+      "question": "Modern Arabic drama was influenced by:",
+      "options": [
+        "A) Chinese theater",
+        "B) European theater",
+        "C) Japanese Noh",
+        "D) Indian classical dance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2629dac093f8d0295301de07ef069d2ebda31ee",
+      "sectionIndex": 7,
+      "question": "The first Arabic novel is often considered to be:",
+      "options": [
+        "A) Zaynab by Haykal",
+        "B) Al-Ayyam",
+        "C) Season of Migration",
+        "D) Cities of Salt"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ebf7f40599f02421c8267a1e818eddcf8b1e08b4",
+      "sectionIndex": 7,
+      "question": "Free verse in Arabic poetry is called:",
+      "options": [
+        "A) Qasida",
+        "B) Shi'r Hurr",
+        "C) Rajaz",
+        "D) Muwashshaha"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2404e0838f380028e469917d4051de6dc92a741e",
+      "sectionIndex": 7,
+      "question": "The modern Arabic short story developed from:",
+      "options": [
+        "A) Maqamat tradition",
+        "B) European influence",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1781640c3d20cd96ca0313f044b48298d03b0a76",
+      "sectionIndex": 7,
+      "question": "Arabic literature in the Indian subcontinent was influenced by:",
+      "options": [
+        "A) Persian literature",
+        "B) Sanskrit literature",
+        "C) Islamic scholarship",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "90091ba57edbfeacca7c560404410a04363adea7",
+      "sectionIndex": 7,
+      "question": "Modern Arabic literary magazines first appeared in:",
+      "options": [
+        "A) 16th century",
+        "B) 17th century",
+        "C) 18th century",
+        "D) 19th century"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "bc974c3518dbdde7b59495b556f9f23775c15a77",
+      "sectionIndex": 7,
+      "question": "The use of colloquial Arabic in literature is called:",
+      "options": [
+        "A) Fusha",
+        "B) 'Ammiyya",
+        "C) Classical",
+        "D) Formal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "745ca848c302210186ff4971728ab671ebfeb6e9",
+      "sectionIndex": 7,
+      "question": "Symbolism in modern Arabic poetry was influenced by:",
+      "options": [
+        "A) French symbolists",
+        "B) Classical Arabic only",
+        "C) Persian poetry only",
+        "D) Sanskrit poetry"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f149005191e943d1417b0fd7857708a8ce7ab6d3",
+      "sectionIndex": 8,
+      "question": "Arabic literature in Andalusia flourished for approximately:",
+      "options": [
+        "A) 100 years",
+        "B) 800 years",
+        "C) 50 years",
+        "D) 1500 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3eb73d6772986436727eefff780947a71f8600d",
+      "sectionIndex": 8,
+      "question": "The language of the Quran influenced Arabic literature by:",
+      "options": [
+        "A) Standardizing Arabic",
+        "B) Introducing new vocabulary",
+        "C) Setting stylistic standards",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6733cbaeb785566618ac5add8241b1b0eb2df10c",
+      "sectionIndex": 8,
+      "question": "Hadith literature influenced Arabic prose through:",
+      "options": [
+        "A) Narrative techniques",
+        "B) Documentation methods",
+        "C) Chain of transmission concept",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "46f0144e22f1bbb4954dcea56d89095aa5d2919f",
+      "sectionIndex": 8,
+      "question": "Arabic calligraphy is considered:",
+      "options": [
+        "A) Just writing",
+        "B) An art form",
+        "C) Unnecessary decoration",
+        "D) Modern invention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edd9bb8ff163b69982925b649bdfcb3ca74a9ec0",
+      "sectionIndex": 8,
+      "question": "The Thousand and One Nights (Alf Layla wa Layla) originated from:",
+      "options": [
+        "A) Pure Arabic sources",
+        "B) Mixed Arabic, Persian, and Indian sources",
+        "C) Greek sources only",
+        "D) Roman sources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "040b1e70a00b6ce73db26f0cea76f11f7dae1092",
+      "sectionIndex": 8,
+      "question": "Arabic literature was preserved through:",
+      "options": [
+        "A) Oral tradition only",
+        "B) Written manuscripts",
+        "C) Both oral and written traditions",
+        "D) Stone inscriptions only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1e65cd8dd034844933b5597fc2f0a8a371195283",
+      "sectionIndex": 8,
+      "question": "The Arabic language spread beyond Arabia through:",
+      "options": [
+        "A) Trade only",
+        "B) Islamic conquests and trade",
+        "C) Migration only",
+        "D) Force only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a56246bee8c6627ec8bc7d9f33f475706fe77aa",
+      "sectionIndex": 8,
+      "question": "Arabic script was adapted for writing:",
+      "options": [
+        "A) Persian",
+        "B) Urdu",
+        "C) Turkish",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1445d8287fe73e4fe5ff0a9d7fbe6b22ab3d0fd7",
+      "sectionIndex": 8,
+      "question": "The influence of Arabic on other languages is seen in:",
+      "options": [
+        "A) Vocabulary only",
+        "B) Scientific terminology",
+        "C) Literary forms",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "17701f56e4fec21c65f0c92244882e62fbcd2002",
+      "sectionIndex": 8,
+      "question": "Arabic literature festivals today are held in:",
+      "options": [
+        "A) Arab countries only",
+        "B) Worldwide",
+        "C) Europe only",
+        "D) Asia only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd4e5b976551a073c86c175c979a1a34d7ac3c03",
+      "sectionIndex": 9,
+      "question": "The term \"Adab\" (أدب) encompasses:",
+      "options": [
+        "A) Poetry only",
+        "B) Literature and proper conduct",
+        "C) Grammar only",
+        "D) History only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d550ece84d77bc2ec858ffc767475306e04815d",
+      "sectionIndex": 9,
+      "question": "A \"Diwan\" can refer to:",
+      "options": [
+        "A) Government office",
+        "B) Poetry collection",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8385a0640fdf9488c1d1183e207d150cc157e3fd",
+      "sectionIndex": 9,
+      "question": "\"Balaghah\" (ب\"اغة) is the study of:",
+      "options": [
+        "A) Grammar",
+        "B) Eloquence and rhetoric",
+        "C) History",
+        "D) Geography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3501b78b7e8456370d4cbdb6532b8acd45f3f144",
+      "sectionIndex": 9,
+      "question": "The \"Ayyam al-Arab\" stories preserve:",
+      "options": [
+        "A) Islamic history",
+        "B) Pre-Islamic tribal history",
+        "C) Modern history",
+        "D) Future predictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3bb2810232cd8a4ae045911a86b51b1acdfde02",
+      "sectionIndex": 9,
+      "question": "\"Saj'\" (سجع) refers to:",
+      "options": [
+        "A) Poetry",
+        "B) Rhymed prose",
+        "C) Drama",
+        "D) Novel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8edbcd6140cf8b3928c43d6a33f37e707f5e0505",
+      "sectionIndex": 9,
+      "question": "\"Khayal\" (خSا\") in literature means:",
+      "options": [
+        "A) Reality",
+        "B) Imagination",
+        "C) History",
+        "D) Grammar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1615a93aa0f7dee4174164b15302b801993bba6c",
+      "sectionIndex": 9,
+      "question": "\"Shi'r\" (شعر) is the Arabic word for:",
+      "options": [
+        "A) Prose",
+        "B) Poetry",
+        "C) Drama",
+        "D) Letter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06b444894514a194ab0779a83fc57cb647aeadcd",
+      "sectionIndex": 9,
+      "question": "\"Nathr\" (?ثر) is the Arabic word for:",
+      "options": [
+        "A) Poetry",
+        "B) Prose",
+        "C) Drama",
+        "D) Song"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69b545920af3a7f96e417df7d80d726dcb2aa91a",
+      "sectionIndex": 9,
+      "question": "\"Tarjama\" (ترج.ة) means:",
+      "options": [
+        "A) Biography/Translation",
+        "B) Poetry",
+        "C) Fiction",
+        "D) Drama"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1ea1944930e2bd0c9fb38b9adfd267ca01b16ee7",
+      "sectionIndex": 9,
+      "question": "The study of Arabic literature is important for understanding:",
+      "options": [
+        "A) Arab culture only",
+        "B) Islamic civilization",
+        "C) Middle Eastern history",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    }
+  ]
+}

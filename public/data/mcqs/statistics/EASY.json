@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:19:47.429Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "293f9ab0674f9f6fc04734f3d1ddd5220520de22",
+      "sectionIndex": 0,
+      "question": "The probability of an event always lies between:",
+      "options": [
+        "A) -1 and 1",
+        "B) 0 and 1",
+        "C) 0 and 100",
+        "D) -^z and +^z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "113fed6522e796743f7d4140c9908d0d75244880",
+      "sectionIndex": 0,
+      "question": "If two events are mutually exclusive, their probability of occurring together is:",
+      "options": [
+        "A) 1",
+        "B) 0.5",
+        "C) 0",
+        "D) Cannot be determined"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "533f5f51d0acb04063a43d3e7e7a12cf46768849",
+      "sectionIndex": 0,
+      "question": "The complement of an event A is denoted by:",
+      "options": [
+        "A) A'",
+        "B) A2",
+        "C) A+",
+        "D) A-"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "158dcaff37ee982b9faa7d2ee29ee1d1bb5eabd6",
+      "sectionIndex": 0,
+      "question": "If P(A) = 0.6, then P(A') equals:",
+      "options": [
+        "A) 0.6",
+        "B) 0.4",
+        "C) 1.6",
+        "D) -0.6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3da0721c92d710e7778ae1ac643ffe10639f421",
+      "sectionIndex": 0,
+      "question": "The classical definition of probability assumes:",
+      "options": [
+        "A) Infinite outcomes",
+        "B) Equally likely outcomes",
+        "C) Dependent events",
+        "D) Continuous data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2a03b28cd7d5cdb03eb4b7a68ce8cff3186859f",
+      "sectionIndex": 0,
+      "question": "If a die is rolled, the probability of getting an even number is:",
+      "options": [
+        "A) 1/6",
+        "B) 1/3",
+        "C) 1/2",
+        "D) 2/3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "75489b632b985680dd6868cbeafa0553c31e1f0d",
+      "sectionIndex": 0,
+      "question": "The addition rule for two events A and B is:",
+      "options": [
+        "A) P(A^B) = P(A) + P(B)",
+        "B) P(A^B) = P(A) + P(B) - P(A^B)",
+        "C) P(A^B) = P(A) - P(B)",
+        "D) P(A^B) = P(A) - P(B)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "553ef2806da582f426f21baa08202c827eb035f8",
+      "sectionIndex": 0,
+      "question": "Independent events have the property that:",
+      "options": [
+        "A) P(A^B) = 0",
+        "B) P(A^B) = P(A) - P(B)",
+        "C) P(A^B) = P(A) + P(B)",
+        "D) P(A^B) = 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1d925bd41dd9d7540cbe54a2fc66337be204694",
+      "sectionIndex": 0,
+      "question": "The sum of probabilities of all possible outcomes equals:",
+      "options": [
+        "A) 0",
+        "B) 0.5",
+        "C) 1",
+        "D) 2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "feb935979434d2b949633c8bad2742c5ce4244b2",
+      "sectionIndex": 0,
+      "question": "Conditional probability P(A|B) means:",
+      "options": [
+        "A) Probability of A or B",
+        "B) Probability of A given B has occurred",
+        "C) Probability of A and B",
+        "D) Probability of neither A nor B"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08fe909ac615fa79d2ddd1ed24ee43b46358140c",
+      "sectionIndex": 1,
+      "question": "In a normal distribution, mean, median, and mode are:",
+      "options": [
+        "A) Different",
+        "B) Equal",
+        "C) Undefined",
+        "D) Random"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ff1dae298d10459e535301aaa642b394ab7aa2b",
+      "sectionIndex": 1,
+      "question": "The standard normal distribution has mean and variance:",
+      "options": [
+        "A) μ = 0, f2 = 1",
+        "B) μ = 1, f2 = 0",
+        "C) μ = 1, f2 = 1",
+        "D) μ = 0, f2 = 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b667aa4b30c9981cd5a5ccd9792cbb192c64c30a",
+      "sectionIndex": 1,
+      "question": "In a binomial distribution, each trial has:",
+      "options": [
+        "A) Three outcomes",
+        "B) Two outcomes",
+        "C) Multiple outcomes",
+        "D) Continuous outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e828285a016c56dad86ca092091fbb1804c20a43",
+      "sectionIndex": 1,
+      "question": "The Poisson distribution is used for:",
+      "options": [
+        "A) Continuous data",
+        "B) Rare events",
+        "C) Large samples",
+        "D) Paired data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33c179a0320e7bea1a39e95349efcc7710db6bba",
+      "sectionIndex": 1,
+      "question": "In Poisson distribution, mean equals:",
+      "options": [
+        "A) Mode",
+        "B) Median",
+        "C) Variance",
+        "D) Standard deviation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e8f36ff70121453ba3e528c1bba207d4fd17dc4c",
+      "sectionIndex": 1,
+      "question": "The binomial distribution parameters are:",
+      "options": [
+        "A) μ and f",
+        "B) n and p",
+        "C) λ only",
+        "D) α and β"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc18d9e0fd5325ccd2a9f29cbf0d4ee952476dde",
+      "sectionIndex": 1,
+      "question": "A discrete random variable can take:",
+      "options": [
+        "A) Any value",
+        "B) Countable values",
+        "C) Only negative values",
+        "D) Only positive values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "013f518814126bced6ac5127abe68553de4efe31",
+      "sectionIndex": 1,
+      "question": "The area under a probability density curve equals:",
+      "options": [
+        "A) 0",
+        "B) 0.5",
+        "C) 1",
+        "D) ^z"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c401835963485e5b3130723a6ca3fac4779f7e96",
+      "sectionIndex": 1,
+      "question": "Hypergeometric distribution is used when sampling is done:",
+      "options": [
+        "A) With replacement",
+        "B) Without replacement",
+        "C) From infinite population",
+        "D) From normal population"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f060edbde06cb9588049fe65698ea2ec6962cea",
+      "sectionIndex": 1,
+      "question": "The exponential distribution has how many parameters?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3474fe58b263c9f8757a281b8ac0b4b4e0bcc9df",
+      "sectionIndex": 2,
+      "question": "The null hypothesis is denoted by:",
+      "options": [
+        "A) H,",
+        "B) H,?",
+        "C) H,",
+        "D) H"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eabc58f803573df8eacac125bfb235f397824905",
+      "sectionIndex": 2,
+      "question": "Type I error occurs when:",
+      "options": [
+        "A) We fail to reject a false H,?",
+        "B) We reject a true H,?",
+        "C) We accept a true H,?",
+        "D) We fail to reject a true H,?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd52c28e956fea5b32f6ff2eccbe6a22f714cd4b",
+      "sectionIndex": 2,
+      "question": "The significance level α represents:",
+      "options": [
+        "A) Probability of Type II error",
+        "B) Probability of Type I error",
+        "C) Power of test",
+        "D) Sample size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d85bf78571cc80f716fa7ff503c001c2c5264cc3",
+      "sectionIndex": 2,
+      "question": "In a two-tailed test with α = 0.05, each tail has area:",
+      "options": [
+        "A) 0.05",
+        "B) 0.025",
+        "C) 0.10",
+        "D) 0.01"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "861c47c0a2144801deb699dce9e39475a07d25fe",
+      "sectionIndex": 2,
+      "question": "The t-test is used when:",
+      "options": [
+        "A) Population variance is known",
+        "B) Population variance is unknown",
+        "C) Sample size is large",
+        "D) Data is categorical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "019e50e9f6f5f3f2236f2106fbc2e6ddf7b74c45",
+      "sectionIndex": 2,
+      "question": "Chi-square test is used for:",
+      "options": [
+        "A) Testing means",
+        "B) Testing independence",
+        "C) Testing variance only",
+        "D) Testing median"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c28e5ea2e5c52f3da6d22885a799b1be3785883b",
+      "sectionIndex": 2,
+      "question": "ANOVA stands for:",
+      "options": [
+        "A) Analysis of Variables",
+        "B) Analysis of Variance",
+        "C) Analysis of Values",
+        "D) Analysis of Vectors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9cef8c3cee16e7f2f2356504587a67afc7caa97",
+      "sectionIndex": 2,
+      "question": "The degrees of freedom for a chi-square test of independence is:",
+      "options": [
+        "A) n-1",
+        "B) (r-1)(c-1)",
+        "C) n-2",
+        "D) r-c"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f9bbb5a733444f2bf4ca04ece7f501ee73e9601",
+      "sectionIndex": 2,
+      "question": "A p-value less than α indicates:",
+      "options": [
+        "A) Fail to reject H,?",
+        "B) Reject H,?",
+        "C) Accept H,?",
+        "D) Insufficient evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c0115b0db3b76be5f045d5686434dc6203cdcf5",
+      "sectionIndex": 2,
+      "question": "The critical region is the area where:",
+      "options": [
+        "A) H,? is accepted",
+        "B) H,? is rejected",
+        "C) H, is rejected",
+        "D) No decision is made"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3666a5c3d59dd368540f2ac47912cb68c1557e9",
+      "sectionIndex": 3,
+      "question": "Correlation coefficient ranges from:",
+      "options": [
+        "A) 0 to 1",
+        "B) -1 to 1",
+        "C) -^z to +^z",
+        "D) 0 to 100"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f80d125d63d62ee5bc9e4167764739814916cbf",
+      "sectionIndex": 3,
+      "question": "A correlation of 0 indicates:",
+      "options": [
+        "A) Perfect positive relationship",
+        "B) Perfect negative relationship",
+        "C) No linear relationship",
+        "D) Strong relationship"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c39bf211a669043ac0a4975ff28bc3b90a37e8fa",
+      "sectionIndex": 3,
+      "question": "In regression equation y = a + bx, 'b' represents:",
+      "options": [
+        "A) Intercept",
+        "B) Slope",
+        "C) Error",
+        "D) Mean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76561f23bb756b13768cbec51db7e9dede81a85f",
+      "sectionIndex": 3,
+      "question": "The coefficient of determination is:",
+      "options": [
+        "A) r",
+        "B) r2",
+        "C) r3",
+        "D) ^sr"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcb63b9258934ae049bd1edd1d08b9ac6f846557",
+      "sectionIndex": 3,
+      "question": "If r = 0.8, then r2 equals:",
+      "options": [
+        "A) 0.8",
+        "B) 0.64",
+        "C) 1.6",
+        "D) 0.89"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38e7da8a8f1db644f6012eb577ad9cfec71682c8",
+      "sectionIndex": 3,
+      "question": "Regression analysis is used to:",
+      "options": [
+        "A) Measure association only",
+        "B) Predict values",
+        "C) Test normality",
+        "D) Calculate mean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8cfdc03eeb7083f94bc2437c2268ba6f9084ec8",
+      "sectionIndex": 3,
+      "question": "The least squares method minimizes:",
+      "options": [
+        "A) Sum of errors",
+        "B) Sum of squared errors",
+        "C) Sum of absolute errors",
+        "D) Maximum error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f011db843854443ee91e8f6cd80a88b16de01f44",
+      "sectionIndex": 3,
+      "question": "In simple linear regression, how many independent variables are there?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) Many"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f58510b67e81cb762c4eb75b083179cbedd64812",
+      "sectionIndex": 3,
+      "question": "A scatter plot is used to:",
+      "options": [
+        "A) Show frequencies",
+        "B) Display relationship between two variables",
+        "C) Show time series",
+        "D) Display categories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70c467c9d5c83c4fae2e207d4afce2124803b486",
+      "sectionIndex": 3,
+      "question": "Perfect positive correlation has r equal to:",
+      "options": [
+        "A) 0",
+        "B) 0.5",
+        "C) 1",
+        "D) -1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aefa43589b3e8f05e051927ea2eba5f6e7db93b9",
+      "sectionIndex": 4,
+      "question": "A sample is:",
+      "options": [
+        "A) The entire population",
+        "B) A subset of population",
+        "C) Always random",
+        "D) Always large"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8824f3c29837ff7328b187d3b3691b7098a0ecc",
+      "sectionIndex": 4,
+      "question": "Random sampling ensures:",
+      "options": [
+        "A) Small sample size",
+        "B) Each unit has equal chance of selection",
+        "C) Biased results",
+        "D) Perfect representation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "418160f759565a727d845e9be7168bef8393b063",
+      "sectionIndex": 4,
+      "question": "Stratified sampling divides population into:",
+      "options": [
+        "A) Equal groups",
+        "B) Homogeneous groups",
+        "C) Random groups",
+        "D) Pairs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7212a50f0aebde4e51fa9dc91859d114aa7ec19d",
+      "sectionIndex": 4,
+      "question": "Cluster sampling is useful when:",
+      "options": [
+        "A) Population is homogeneous",
+        "B) Population is geographically dispersed",
+        "C) Sample size is small",
+        "D) Precision is critical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68f4b167dd15b2e13802b305a91526de9c38f64e",
+      "sectionIndex": 4,
+      "question": "Systematic sampling involves selecting:",
+      "options": [
+        "A) Every unit",
+        "B) Every kth unit",
+        "C) Random units",
+        "D) First n units"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc34004d99a7c2eaac064148fa732c71f9ec504f",
+      "sectionIndex": 4,
+      "question": "The main advantage of sampling over census is:",
+      "options": [
+        "A) Accuracy",
+        "B) Cost and time saving",
+        "C) Complete coverage",
+        "D) No error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0402d9072d2747ecef127ac435a13ef92fa5cd6f",
+      "sectionIndex": 4,
+      "question": "Sampling error is:",
+      "options": [
+        "A) Always zero",
+        "B) Difference between sample and population values",
+        "C) Measurement error",
+        "D) Human error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4d0a6f39d550fc5b15367ab416b0abfb959a699",
+      "sectionIndex": 4,
+      "question": "Simple random sampling can be done:",
+      "options": [
+        "A) With replacement only",
+        "B) Without replacement only",
+        "C) Both with and without replacement",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d4e0a5eee4d674342da72d29cbf766798e5d3e32",
+      "sectionIndex": 4,
+      "question": "Non-probability sampling includes:",
+      "options": [
+        "A) Simple random sampling",
+        "B) Convenience sampling",
+        "C) Stratified sampling",
+        "D) Cluster sampling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b427b4a375a5f4f9d89751bbf7ceb6e542c018e",
+      "sectionIndex": 4,
+      "question": "The sampling frame is:",
+      "options": [
+        "A) Sample size",
+        "B) List of population units",
+        "C) Sampling method",
+        "D) Error margin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b358ae979e05f3cd8cf70d9c80e0d257f2915663",
+      "sectionIndex": 5,
+      "question": "A statistic is:",
+      "options": [
+        "A) A population parameter",
+        "B) A sample characteristic",
+        "C) Always constant",
+        "D) Always unknown"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebe43458209064ae04e3754ee539500065b6718c",
+      "sectionIndex": 5,
+      "question": "An estimator is:",
+      "options": [
+        "A) A fixed value",
+        "B) A formula or rule",
+        "C) Always biased",
+        "D) Population parameter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2ad8054a89faa424f9c3d92774d54eb7b1f5c79",
+      "sectionIndex": 5,
+      "question": "An unbiased estimator has:",
+      "options": [
+        "A) Zero variance",
+        "B) Expected value equal to parameter",
+        "C) Minimum value",
+        "D) Maximum efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3cc57ce91a9a2a50807f2dbca60c2aa160ad131",
+      "sectionIndex": 5,
+      "question": "The sample mean x\" is an estimator of:",
+      "options": [
+        "A) Population variance",
+        "B) Population mean μ",
+        "C) Population median",
+        "D) Sample variance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e04889fd64e04a0f926e9a4483f81fc4b424c05",
+      "sectionIndex": 5,
+      "question": "Maximum Likelihood Estimation (MLE) finds:",
+      "options": [
+        "A) Minimum values",
+        "B) Parameter values that maximize likelihood",
+        "C) Average values",
+        "D) Median values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c82a0dd284385d87f7afa744705d4a9fc766f860",
+      "sectionIndex": 5,
+      "question": "The standard error measures:",
+      "options": [
+        "A) Individual variation",
+        "B) Sampling variability",
+        "C) Measurement error",
+        "D) Calculation error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41583f18161a79fc2b9d560e4365ca6facde0835",
+      "sectionIndex": 5,
+      "question": "A confidence interval provides:",
+      "options": [
+        "A) A single estimate",
+        "B) A range of plausible values",
+        "C) The true parameter",
+        "D) Sample statistics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb2fb20d21cd71f5019e7b0a21f0903802d58ad6",
+      "sectionIndex": 5,
+      "question": "A 95% confidence interval means:",
+      "options": [
+        "A) 95% of data falls within",
+        "B) 95% confidence in the method",
+        "C) 95% accuracy",
+        "D) 95% of sample included"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98055a56109f6dc52f795bd16f42ef5fda102c12",
+      "sectionIndex": 5,
+      "question": "Point estimation gives:",
+      "options": [
+        "A) An interval",
+        "B) A single value",
+        "C) Multiple values",
+        "D) No value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2644901913cd1c63e3bf5f2e1dea8e9c890a8a8",
+      "sectionIndex": 5,
+      "question": "The Central Limit Theorem states that sample means are approximately:",
+      "options": [
+        "A) Uniform",
+        "B) Normal",
+        "C) Exponential",
+        "D) Binomial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c02514dd316111fe8677bca1d0a597066e94ab7",
+      "sectionIndex": 6,
+      "question": "The mean is a measure of:",
+      "options": [
+        "A) Spread",
+        "B) Central tendency",
+        "C) Skewness",
+        "D) Correlation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b284b474101a43b5765dd605bcaae9ca7a1fe8b",
+      "sectionIndex": 6,
+      "question": "The median is:",
+      "options": [
+        "A) Average value",
+        "B) Middle value",
+        "C) Most frequent value",
+        "D) Largest value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2bb14570d43a6101a27b841ac9e3735b0a2bf0b",
+      "sectionIndex": 6,
+      "question": "The mode is:",
+      "options": [
+        "A) Average value",
+        "B) Middle value",
+        "C) Most frequent value",
+        "D) Range"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5a8c30ba6faaed77e1fb377607bd65574789dc19",
+      "sectionIndex": 6,
+      "question": "Range is calculated as:",
+      "options": [
+        "A) Max + Min",
+        "B) Max - Min",
+        "C) Max - Min",
+        "D) Max ÷ Min"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf6fb2584f8e815aee46de8c12287572350784d6",
+      "sectionIndex": 6,
+      "question": "Variance measures:",
+      "options": [
+        "A) Central tendency",
+        "B) Spread of data",
+        "C) Skewness",
+        "D) Number of observations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68ec2499ef68a0a10f55cae6f19d0b076440f56a",
+      "sectionIndex": 6,
+      "question": "Standard deviation is:",
+      "options": [
+        "A) Square of variance",
+        "B) Square root of variance",
+        "C) Double of variance",
+        "D) Half of variance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66f1394c57aded6cfdf881798173fa569039b133",
+      "sectionIndex": 6,
+      "question": "For grouped data, we calculate:",
+      "options": [
+        "A) Exact values",
+        "B) Approximate values",
+        "C) No values",
+        "D) Only frequencies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de74f861da89244c2441de95472ef0b04e26a988",
+      "sectionIndex": 6,
+      "question": "A histogram displays:",
+      "options": [
+        "A) Time series",
+        "B) Frequency distribution",
+        "C) Correlation",
+        "D) Ranks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edf077c860876c575c156bc3be61e7fd3c3fb4c4",
+      "sectionIndex": 6,
+      "question": "Quartiles divide data into:",
+      "options": [
+        "A) 2 parts",
+        "B) 3 parts",
+        "C) 4 parts",
+        "D) 5 parts"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7e3eae5e5562f559a15b28cdbf87c52c04a47623",
+      "sectionIndex": 6,
+      "question": "The coefficient of variation is:",
+      "options": [
+        "A) Mean/SD",
+        "B) SD/Mean - 100",
+        "C) Variance/Mean",
+        "D) Mean/Variance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fb9d815d80a1d97a262c9f44825921af0fd98c9",
+      "sectionIndex": 7,
+      "question": "In a completely randomized design, treatments are assigned:",
+      "options": [
+        "A) Systematically",
+        "B) Randomly",
+        "C) In blocks",
+        "D) In pairs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73a6a44597d16c40814f364e4666a336887ee106",
+      "sectionIndex": 7,
+      "question": "Blocking is used to:",
+      "options": [
+        "A) Increase error",
+        "B) Reduce variation",
+        "C) Complicate design",
+        "D) Increase cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2100e52b6ce434e03b5e5424b92dfcae5cf1641d",
+      "sectionIndex": 7,
+      "question": "RCBD stands for:",
+      "options": [
+        "A) Random Complete Block Design",
+        "B) Randomized Complete Block Design",
+        "C) Repeated Complete Block Design",
+        "D) Randomized Controlled Block Design"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a19ecd2872218e5a8f3055bf115eecc70628921",
+      "sectionIndex": 7,
+      "question": "Latin Square Design controls for:",
+      "options": [
+        "A) One source of variation",
+        "B) Two sources of variation",
+        "C) Three sources of variation",
+        "D) No variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5692e349379e95b6260bdc129b3a932e8e094320",
+      "sectionIndex": 7,
+      "question": "The experimental unit is:",
+      "options": [
+        "A) Measurement device",
+        "B) Object receiving treatment",
+        "C) Treatment itself",
+        "D) Response variable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5850daf5fee514b7aa36ad193f2b0faceca2b86",
+      "sectionIndex": 7,
+      "question": "Replication in experiments:",
+      "options": [
+        "A) Wastes resources",
+        "B) Increases precision",
+        "C) Is unnecessary",
+        "D) Increases bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4335580bb46e821b34f38f308ef1ed5692836316",
+      "sectionIndex": 7,
+      "question": "A factor in an experiment is:",
+      "options": [
+        "A) Response variable",
+        "B) Independent variable",
+        "C) Error term",
+        "D) Block"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38d6d5bcd66e5c86e5a63c162654e0f3e238e45e",
+      "sectionIndex": 7,
+      "question": "Treatment is:",
+      "options": [
+        "A) Medical care",
+        "B) Specific condition of factor",
+        "C) Control group",
+        "D) Random error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "733d2504d7ce465decf159af1de8f119a9de732b",
+      "sectionIndex": 7,
+      "question": "The control group receives:",
+      "options": [
+        "A) All treatments",
+        "B) No treatment",
+        "C) Best treatment",
+        "D) Random treatment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f9ee3bf8cb4976fe1b84cb661d9fb3fff1704aa",
+      "sectionIndex": 7,
+      "question": "Randomization helps to:",
+      "options": [
+        "A) Increase bias",
+        "B) Eliminate bias",
+        "C) Increase error",
+        "D) Reduce sample size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43bd04af7894dded52c041c6a43084cadf38719b",
+      "sectionIndex": 8,
+      "question": "An index number is expressed as:",
+      "options": [
+        "A) Percentage",
+        "B) Ratio",
+        "C) Difference",
+        "D) Product"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "afea02f4d28c7eb11b7f35ef0b8a1032955fd255",
+      "sectionIndex": 8,
+      "question": "The base period index is always:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 100",
+        "D) Variable"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a8f276a95b5d3e0bba80b694d4c70e6641e8720b",
+      "sectionIndex": 8,
+      "question": "Price index measures changes in:",
+      "options": [
+        "A) Quantity",
+        "B) Price",
+        "C) Quality",
+        "D) Volume"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d49a85a8b161bad42a5f845ea92fa24e019e30ad",
+      "sectionIndex": 8,
+      "question": "Laspeyres index uses weights from:",
+      "options": [
+        "A) Current period",
+        "B) Base period",
+        "C) Average period",
+        "D) Future period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d8cd98ff7886809bf8881a1dbdc2cd6a74d7d93",
+      "sectionIndex": 8,
+      "question": "Paasche index uses weights from:",
+      "options": [
+        "A) Current period",
+        "B) Base period",
+        "C) Average period",
+        "D) Past period"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "14d5c05d60aca36a9082509879d8cdd4b52de3f2",
+      "sectionIndex": 8,
+      "question": "Fisher's ideal index is:",
+      "options": [
+        "A) Arithmetic mean",
+        "B) Geometric mean",
+        "C) Harmonic mean",
+        "D) Weighted mean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "298fbed19af8115642a9917f508cbdaa174f875d",
+      "sectionIndex": 8,
+      "question": "Consumer Price Index measures:",
+      "options": [
+        "A) Producer prices",
+        "B) Cost of living",
+        "C) Wholesale prices",
+        "D) Export prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cff40bff0101ce8ae3c505690a9806a1ea07a5b6",
+      "sectionIndex": 8,
+      "question": "A simple index number considers:",
+      "options": [
+        "A) Multiple items",
+        "B) Single item",
+        "C) Weighted items",
+        "D) Quality changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61e02cef3e0be44a57822e24d260d146105b9c4f",
+      "sectionIndex": 8,
+      "question": "Index numbers are useful for:",
+      "options": [
+        "A) Exact measurement",
+        "B) Comparing changes over time",
+        "C) Calculating averages",
+        "D) Finding mode"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ecebc60e39d41e9454645e19a208440ebff7884",
+      "sectionIndex": 8,
+      "question": "The problem of index numbers includes:",
+      "options": [
+        "A) Easy calculation",
+        "B) Selection of base period",
+        "C) No limitations",
+        "D) Perfect accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cde09135f5de47eeee7b4c34ef2b15dc07f8b06",
+      "sectionIndex": 9,
+      "question": "Crude Birth Rate is expressed per:",
+      "options": [
+        "A) 100 population",
+        "B) 1,000 population",
+        "C) 10,000 population",
+        "D) 100,000 population"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fd530b00e9ab4229f88e737d281df5d37f8c885",
+      "sectionIndex": 9,
+      "question": "Total Fertility Rate (TFR) represents:",
+      "options": [
+        "A) Current births",
+        "B) Average children per woman",
+        "C) Death rate",
+        "D) Growth rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df76a514fbe027b87ed3d7c4d611e76b776de8b7",
+      "sectionIndex": 9,
+      "question": "Infant Mortality Rate measures deaths under:",
+      "options": [
+        "A) 1 month",
+        "B) 6 months",
+        "C) 1 year",
+        "D) 5 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "02adb38eb1e2083ecaf963f1d825cc6b48f546e5",
+      "sectionIndex": 9,
+      "question": "Life expectancy is:",
+      "options": [
+        "A) Maximum age",
+        "B) Average years of life remaining",
+        "C) Current age",
+        "D) Death rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a32562ee8678cc16650af0c83dd8a3cb553763e",
+      "sectionIndex": 9,
+      "question": "Crude Death Rate is calculated using:",
+      "options": [
+        "A) Age-specific rates",
+        "B) Total deaths and population",
+        "C) Birth rates",
+        "D) Migration rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91999e3ac9f52c6f248eaeccd425dc7f22ae0252",
+      "sectionIndex": 9,
+      "question": "Natural increase is:",
+      "options": [
+        "A) Immigration - Emigration",
+        "B) Births - Deaths",
+        "C) Total population",
+        "D) Growth rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76433933969f1f310d86544eb469ea06f81b6970",
+      "sectionIndex": 9,
+      "question": "Dependency ratio includes:",
+      "options": [
+        "A) Working population only",
+        "B) Children and elderly",
+        "C) Adults only",
+        "D) Migrants only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9fbf84b4707a1ed3638856bbaa4285424058573",
+      "sectionIndex": 9,
+      "question": "Sex ratio is expressed as:",
+      "options": [
+        "A) Males per female",
+        "B) Males per 100 females",
+        "C) Females per male",
+        "D) Percentage of males"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e98e7b201f6bf93654d22754efd05c16a3705a7",
+      "sectionIndex": 9,
+      "question": "General Fertility Rate uses:",
+      "options": [
+        "A) Total population",
+        "B) Women of reproductive age",
+        "C) Total women",
+        "D) Married women"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "febd8b7e993c59097d7187c972419f7f93603c61",
+      "sectionIndex": 9,
+      "question": "Population pyramid shows:",
+      "options": [
+        "A) Total population",
+        "B) Age and sex distribution",
+        "C) Death rates",
+        "D) Birth rates"
+      ],
+      "correct": "B"
+    }
+  ]
+}

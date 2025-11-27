@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:32:43.498Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "3b83d50f307b733c2aa6ac6e09cfd5d9f3e4243a",
+      "sectionIndex": 0,
+      "question": "Protozoa are considered to be:",
+      "options": [
+        "A) Multicellular",
+        "B) Unicellular",
+        "C) Tissue-level",
+        "D) Organ-level"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00dcea01b5be88652a8f482fc3238f53ddf3f3e2",
+      "sectionIndex": 0,
+      "question": "Contractile vacuole in Protozoa functions for:",
+      "options": [
+        "A) Digestion",
+        "B) Osmoregulation",
+        "C) Reproduction",
+        "D) Movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8834e62261586364d3ec202e6a508c390e0d4293",
+      "sectionIndex": 0,
+      "question": "Conjugation in Paramecium is a form of:",
+      "options": [
+        "A) Asexual reproduction",
+        "B) Sexual reproduction",
+        "C) Budding",
+        "D) Fission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc2d3eb1c37597524621ecf4358a52a7b0e6d82e",
+      "sectionIndex": 0,
+      "question": "Which disease is caused by Trypanosoma?",
+      "options": [
+        "A) Malaria",
+        "B) Sleeping sickness",
+        "C) Dysentery",
+        "D) Pneumonia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8458cec690dd6e6a3865ea01767f14e4fea7e0d2",
+      "sectionIndex": 0,
+      "question": "Sponges belong to phylum:",
+      "options": [
+        "A) Cnidaria",
+        "B) Porifera",
+        "C) Protozoa",
+        "D) Platyhelminthes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82616a87ad4567f2a8891faecbf7357285971028",
+      "sectionIndex": 0,
+      "question": "Spicules in sponges are made of:",
+      "options": [
+        "A) Chitin only",
+        "B) Calcium carbonate or silica",
+        "C) Protein only",
+        "D) Cellulose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20ee5bee4da3f5d21b556859b4171eb6e92a592b",
+      "sectionIndex": 0,
+      "question": "The simplest canal system in sponges is:",
+      "options": [
+        "A) Sycon type",
+        "B) Leucon type",
+        "C) Ascon type",
+        "D) Complex type"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "182b30acf95b1596a541e0ddd3d65ba6f55a9fd1",
+      "sectionIndex": 0,
+      "question": "Choanocytes in sponges are also called:",
+      "options": [
+        "A) Collar cells",
+        "B) Nerve cells",
+        "C) Muscle cells",
+        "D) Gland cells"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d05c4bbfabcd29900184b79034cb0df97dc285d2",
+      "sectionIndex": 0,
+      "question": "Most sponges are found in:",
+      "options": [
+        "A) Freshwater only",
+        "B) Marine water",
+        "C) Terrestrial habitat",
+        "D) Air"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bbf60987372b496b3efd0eda724d5341d792c4a",
+      "sectionIndex": 0,
+      "question": "Economic importance of sponges includes:",
+      "options": [
+        "A) Food source",
+        "B) Bath sponges",
+        "C) Medicine only",
+        "D) Fertilizer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11f81d25b9e0c893770aa456d9c82ecf75178fbc",
+      "sectionIndex": 1,
+      "question": "Cnidarians have which type of symmetry?",
+      "options": [
+        "A) Bilateral",
+        "B) Radial",
+        "C) Asymmetrical",
+        "D) Spherical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99e91c6b164ad30daa0b90b49026814b56f99f3a",
+      "sectionIndex": 1,
+      "question": "Nematocysts are found in:",
+      "options": [
+        "A) Sponges",
+        "B) Cnidarians",
+        "C) Flatworms",
+        "D) Roundworms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d3fcd2cc65b1721da2dbd19defb5413177d6623",
+      "sectionIndex": 1,
+      "question": "Polymorphism in cnidarians means:",
+      "options": [
+        "A) One form",
+        "B) Two or more forms",
+        "C) No form",
+        "D) Changing color"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c561b41585b54c665b33a53f75e9ce7df143bc15",
+      "sectionIndex": 1,
+      "question": "Coral reefs are formed by:",
+      "options": [
+        "A) Algae only",
+        "B) Coral polyps",
+        "C) Fish",
+        "D) Bacteria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "717723f26d5528426fdfa5d9a1c0cf91df34e817",
+      "sectionIndex": 1,
+      "question": "Portuguese man-of-war is:",
+      "options": [
+        "A) Hydra",
+        "B) Physalia",
+        "C) Obelia",
+        "D) Aurelia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70768bab26e7d20e472bc5ab531de915557b1e90",
+      "sectionIndex": 1,
+      "question": "Platyhelminthes are commonly called:",
+      "options": [
+        "A) Roundworms",
+        "B) Flatworms",
+        "C) Segmented worms",
+        "D) Ribbon worms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c844ddb30c814b94cf79dc6f6acc4c772621a76",
+      "sectionIndex": 1,
+      "question": "Flame cells in flatworms are for:",
+      "options": [
+        "A) Digestion",
+        "B) Excretion",
+        "C) Reproduction",
+        "D) Defense"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c831a4b72b8ccccf90b13fdfef84ede4ce373fc",
+      "sectionIndex": 1,
+      "question": "Fasciola hepatica is commonly known as:",
+      "options": [
+        "A) Tapeworm",
+        "B) Liver fluke",
+        "C) Blood fluke",
+        "D) Lung fluke"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d4066cf9476f026ef900d046718cfb0090a9971",
+      "sectionIndex": 1,
+      "question": "Taenia is a:",
+      "options": [
+        "A) Fluke",
+        "B) Tapeworm",
+        "C) Roundworm",
+        "D) Earthworm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cba47b42fff87515b6f20650d138ac9b30d94465",
+      "sectionIndex": 1,
+      "question": "Parasitic adaptations include:",
+      "options": [
+        "A) Well-developed digestive system",
+        "B) Hooks and suckers",
+        "C) Complex nervous system",
+        "D) Reduced reproductive system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c33c90e33b1556cce9a6d78a4ed400172fdb73c4",
+      "sectionIndex": 2,
+      "question": "Annelids show:",
+      "options": [
+        "A) No segmentation",
+        "B) Metameric segmentation",
+        "C) Radial symmetry",
+        "D) No coelom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3dcf528ab2506d9f5c244318e3c9ce3fbedf7b4",
+      "sectionIndex": 2,
+      "question": "Nephridia in annelids are:",
+      "options": [
+        "A) Digestive organs",
+        "B) Excretory organs",
+        "C) Reproductive organs",
+        "D) Sensory organs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6466a592bc171d5f86330c3273c681bfb821d57",
+      "sectionIndex": 2,
+      "question": "Earthworm belongs to class:",
+      "options": [
+        "A) Polychaeta",
+        "B) Hirudinea",
+        "C) Oligochaeta",
+        "D) Archiannelida"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "002790127a6a2bbdc684d008c050cf2588fda8a0",
+      "sectionIndex": 2,
+      "question": "Leeches are:",
+      "options": [
+        "A) Free-living only",
+        "B) Parasitic",
+        "C) Decomposers",
+        "D) Producers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "408770bf0d81f5a7ac1d228d0c589dd49c580177",
+      "sectionIndex": 2,
+      "question": "Arthropods have:",
+      "options": [
+        "A) 4 legs",
+        "B) 6 legs (insects)",
+        "C) 8 legs",
+        "D) Variable legs"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "28273ed2cfe7634bc3765ff4c10e0ea8d39e24ac",
+      "sectionIndex": 2,
+      "question": "Insects have how many legs?",
+      "options": [
+        "A) 4",
+        "B) 6",
+        "C) 8",
+        "D) 10"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f848c34b323fea02ed1c781cb7b23a391113351",
+      "sectionIndex": 2,
+      "question": "Crustaceans include:",
+      "options": [
+        "A) Spiders",
+        "B) Crabs and lobsters",
+        "C) Insects",
+        "D) Centipedes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0f0c073bf83d79b4083adf95424afe06a5dbe00",
+      "sectionIndex": 2,
+      "question": "Tracheal respiration is found in:",
+      "options": [
+        "A) Crustaceans",
+        "B) Insects",
+        "C) Arachnids",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5dbd36df7893222a0d0d012c333733f23b863d98",
+      "sectionIndex": 2,
+      "question": "Compound eyes are found in:",
+      "options": [
+        "A) Arthropods",
+        "B) Molluscs",
+        "C) Annelids",
+        "D) Echinoderms"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "dde0a2b28b47b238fcbfec1ec67f9388d73d6640",
+      "sectionIndex": 2,
+      "question": "Metamorphosis in insects can be:",
+      "options": [
+        "A) Complete only",
+        "B) Incomplete only",
+        "C) Complete or incomplete",
+        "D) No metamorphosis"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ec1aa7f99cd39b6f57446a4951d924db903520ba",
+      "sectionIndex": 3,
+      "question": "Molluscs have a soft body covered by:",
+      "options": [
+        "A) Scales",
+        "B) Shell",
+        "C) Feathers",
+        "D) Hair"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bad428b35c93169bbcb6effb3102b129a72cbb2",
+      "sectionIndex": 3,
+      "question": "Torsion is characteristic of:",
+      "options": [
+        "A) Bivalves",
+        "B) Gastropods",
+        "C) Cephalopods",
+        "D) All molluscs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1c78ef744c45d3c9486e920e85bf4af2b9de19f",
+      "sectionIndex": 3,
+      "question": "Octopus belongs to class:",
+      "options": [
+        "A) Gastropoda",
+        "B) Bivalvia",
+        "C) Cephalopoda",
+        "D) Monoplacophora"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f3967152f31ceb197a1ba878ffa2ce47c4b73368",
+      "sectionIndex": 3,
+      "question": "Pearl is produced by:",
+      "options": [
+        "A) Snails",
+        "B) Oysters",
+        "C) Octopus",
+        "D) Squid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "864530319a63fd4ddbae0b8b05b41b399f739571",
+      "sectionIndex": 3,
+      "question": "Foot in molluscs is used for:",
+      "options": [
+        "A) Locomotion",
+        "B) Respiration",
+        "C) Digestion",
+        "D) Excretion"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c6de2a0ce878365c6cf7f90048af0fe2143d263c",
+      "sectionIndex": 3,
+      "question": "Echinoderms show which symmetry in adults?",
+      "options": [
+        "A) Bilateral",
+        "B) Radial",
+        "C) Asymmetrical",
+        "D) Spherical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34fd9199c32e61a57a7e60eda78fedf7a897e8f5",
+      "sectionIndex": 3,
+      "question": "Water vascular system is unique to:",
+      "options": [
+        "A) Molluscs",
+        "B) Echinoderms",
+        "C) Arthropods",
+        "D) Chordates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cfe56b1efb767026d9402be066d4fb8bfba67ee",
+      "sectionIndex": 3,
+      "question": "Tube feet in starfish are used for:",
+      "options": [
+        "A) Locomotion",
+        "B) Respiration",
+        "C) Food capture",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "927a3118143dfe3cd408711cc6c617690bd65a69",
+      "sectionIndex": 3,
+      "question": "Echinoderms are exclusively:",
+      "options": [
+        "A) Freshwater",
+        "B) Marine",
+        "C) Terrestrial",
+        "D) Parasitic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "859180b8ad4d1387efe5d63e949f678416271fa1",
+      "sectionIndex": 3,
+      "question": "Regeneration is well developed in:",
+      "options": [
+        "A) Insects",
+        "B) Starfish",
+        "C) Snails",
+        "D) Crabs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63bd85f795fd36f83b3266c0f3b47197abf2cd4e",
+      "sectionIndex": 4,
+      "question": "All chordates possess:",
+      "options": [
+        "A) Backbone",
+        "B) Notochord",
+        "C) Fins",
+        "D) Scales"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8acf3b638429d3eccc3fdae7d6d55a42e658f767",
+      "sectionIndex": 4,
+      "question": "Dorsal nerve cord in chordates is:",
+      "options": [
+        "A) Solid",
+        "B) Hollow",
+        "C) Absent",
+        "D) Ventral"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c991dffedf4ef9bd86488e63cf6a0e64af615b6",
+      "sectionIndex": 4,
+      "question": "Amphioxus belongs to:",
+      "options": [
+        "A) Urochordata",
+        "B) Cephalochordata",
+        "C) Vertebrata",
+        "D) Hemichordata"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc23f392adadd4cd53132e124293e341defe9cc2",
+      "sectionIndex": 4,
+      "question": "Ascidians show which type of metamorphosis?",
+      "options": [
+        "A) Progressive",
+        "B) Retrogressive",
+        "C) No metamorphosis",
+        "D) Complete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ee9219421026962bea43f8e6cdb692c36bf29e9",
+      "sectionIndex": 4,
+      "question": "Hemichordates were once considered:",
+      "options": [
+        "A) Molluscs",
+        "B) Chordates",
+        "C) Arthropods",
+        "D) Echinoderms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ae007fbac69032aeabd7a0927edbecdfd6ef8cc",
+      "sectionIndex": 4,
+      "question": "Fish heart has how many chambers?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) One"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c4120c74aa71d2fe1da0e4225f628eba7f749b51",
+      "sectionIndex": 4,
+      "question": "Amphibian heart has:",
+      "options": [
+        "A) Two chambers",
+        "B) Three chambers",
+        "C) Four chambers",
+        "D) One chamber"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f811c19439efd654dfe79ba90cacf7958fbcae1f",
+      "sectionIndex": 4,
+      "question": "Birds and mammals have:",
+      "options": [
+        "A) Two-chambered heart",
+        "B) Three-chambered heart",
+        "C) Four-chambered heart",
+        "D) Five-chambered heart"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8ac79e4c3b9c63ea0523d83c2543ce52b698109c",
+      "sectionIndex": 4,
+      "question": "Scales in fish are:",
+      "options": [
+        "A) Epidermal",
+        "B) Dermal",
+        "C) Both",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fa6dd338a44a7c3e6188d6d1502a74e593a03b9",
+      "sectionIndex": 4,
+      "question": "Gills are respiratory organs in:",
+      "options": [
+        "A) Fish only",
+        "B) Aquatic animals",
+        "C) All vertebrates",
+        "D) Terrestrial animals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bafad07c8a2c1d3069ebd51e8cc1e2059754dc9",
+      "sectionIndex": 5,
+      "question": "Birds are characterized by:",
+      "options": [
+        "A) Fur",
+        "B) Feathers",
+        "C) Scales",
+        "D) Glands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0039697a62de2720108a68472df0682434c842fd",
+      "sectionIndex": 5,
+      "question": "Flight adaptations in birds include:",
+      "options": [
+        "A) Heavy bones",
+        "B) Hollow bones",
+        "C) Solid bones",
+        "D) No bones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f46f6e3b3301e0a52906967248c3c9d6fd37db3d",
+      "sectionIndex": 5,
+      "question": "Birds are:",
+      "options": [
+        "A) Cold-blooded",
+        "B) Warm-blooded",
+        "C) Variable temperature",
+        "D) No temperature regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "afe87959556450b03c389199ab7eea1fd337284b",
+      "sectionIndex": 5,
+      "question": "Bird migration is primarily for:",
+      "options": [
+        "A) Tourism",
+        "B) Food and breeding",
+        "C) Exercise",
+        "D) No reason"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "439c09cfa51f867c13ebbfa9371b24f6461895e9",
+      "sectionIndex": 5,
+      "question": "Mammals are characterized by:",
+      "options": [
+        "A) Feathers",
+        "B) Hair",
+        "C) Scales",
+        "D) Shells"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b483e3bbb817adc906c8c319f97902538a99e09a",
+      "sectionIndex": 5,
+      "question": "Mammary glands are found in:",
+      "options": [
+        "A) All vertebrates",
+        "B) Mammals only",
+        "C) Birds and mammals",
+        "D) Reptiles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed21fc4b1528406c30612e300c1d9b9e810e2b85",
+      "sectionIndex": 5,
+      "question": "Monotremes are:",
+      "options": [
+        "A) Egg-laying mammals",
+        "B) Marsupials",
+        "C) Placentals",
+        "D) Reptiles"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "94e80a6ed218257ce745d966e7bbc97f5a044120",
+      "sectionIndex": 5,
+      "question": "Echidna is a:",
+      "options": [
+        "A) Bird",
+        "B) Reptile",
+        "C) Monotreme",
+        "D) Marsupial"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1b340a45e530e718c06548f010153185f639929c",
+      "sectionIndex": 5,
+      "question": "Placenta is found in:",
+      "options": [
+        "A) All mammals",
+        "B) Placental mammals",
+        "C) Monotremes",
+        "D) Birds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca0f5dd283506f65db0021d2f88bdde9f1a3e3f5",
+      "sectionIndex": 5,
+      "question": "RBCs in mammals are:",
+      "options": [
+        "A) Nucleated",
+        "B) Non-nucleated",
+        "C) Sometimes nucleated",
+        "D) Multi-nucleated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d2b9f1216dff5570574bcc92ac8b9282cd2dfea",
+      "sectionIndex": 6,
+      "question": "The control center of cell is:",
+      "options": [
+        "A) Cytoplasm",
+        "B) Nucleus",
+        "C) Cell membrane",
+        "D) Ribosome"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e1c90e425547487fa0ca48171c2a4e255f0effb",
+      "sectionIndex": 6,
+      "question": "Mitochondria are known as:",
+      "options": [
+        "A) Protein factories",
+        "B) Powerhouse of cell",
+        "C) Digestive bags",
+        "D) Storage units"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4032b954f2dc36408c74a49d9aeecf482a33bca",
+      "sectionIndex": 6,
+      "question": "Ribosomes are sites of:",
+      "options": [
+        "A) Lipid synthesis",
+        "B) Protein synthesis",
+        "C) Carbohydrate synthesis",
+        "D) DNA synthesis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adbea8a31592ac1e113e2d66ab39d4230151c4a0",
+      "sectionIndex": 6,
+      "question": "Endoplasmic reticulum can be:",
+      "options": [
+        "A) Rough only",
+        "B) Smooth only",
+        "C) Rough or smooth",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "23155357b5a9f81f6be5e214228daf8578509716",
+      "sectionIndex": 6,
+      "question": "Lysosomes contain:",
+      "options": [
+        "A) Digestive enzymes",
+        "B) Hormones",
+        "C) Vitamins",
+        "D) Minerals"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "60589de0a29e95e92057c1556204488b9ef2e631",
+      "sectionIndex": 6,
+      "question": "Golgi complex is involved in:",
+      "options": [
+        "A) Protein packaging",
+        "B) Energy production",
+        "C) Cell division",
+        "D) DNA replication"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a710d11317e583cb22042066ca71c896ce57b800",
+      "sectionIndex": 6,
+      "question": "Cell membrane is made of:",
+      "options": [
+        "A) Proteins only",
+        "B) Lipids only",
+        "C) Lipids and proteins",
+        "D) Carbohydrates only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "db91f5dc776c0f202ac3c1590bd5bdb604577562",
+      "sectionIndex": 6,
+      "question": "Plasma membrane model is called:",
+      "options": [
+        "A) Unit membrane",
+        "B) Fluid mosaic model",
+        "C) Solid model",
+        "D) Static model"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65fb9b74075e40909d5d088348f4b50356c54edf",
+      "sectionIndex": 6,
+      "question": "ATP is produced in:",
+      "options": [
+        "A) Nucleus",
+        "B) Mitochondria",
+        "C) Lysosomes",
+        "D) Ribosomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c78617438efc07ce890fc42681d3abd378fc2760",
+      "sectionIndex": 6,
+      "question": "DNA is found in:",
+      "options": [
+        "A) Nucleus only",
+        "B) Nucleus and mitochondria",
+        "C) Cytoplasm only",
+        "D) Cell membrane"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "645a87b29997b2cf35cc70fc15ed232b74aa1741",
+      "sectionIndex": 7,
+      "question": "Mendel worked on:",
+      "options": [
+        "A) Fruit fly",
+        "B) Garden pea",
+        "C) Mouse",
+        "D) Bacteria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a817d9467f88ff67e7079ed5cb19e9caac3723ef",
+      "sectionIndex": 7,
+      "question": "Gene is a unit of:",
+      "options": [
+        "A) Protein",
+        "B) Heredity",
+        "C) Enzyme",
+        "D) Hormone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6860504c3909193e70c933e86ce9a378674f089b",
+      "sectionIndex": 7,
+      "question": "Chromosomes are made of:",
+      "options": [
+        "A) RNA only",
+        "B) DNA and proteins",
+        "C) Proteins only",
+        "D) Lipids"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "611e2bef82394fbc001eb6b60873b506ec3f47c7",
+      "sectionIndex": 7,
+      "question": "In humans, males have:",
+      "options": [
+        "A) XX",
+        "B) XY",
+        "C) YY",
+        "D) XO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c1fe146b56d6050ecc02e56de19ff4ddae0a97a",
+      "sectionIndex": 7,
+      "question": "Alleles are:",
+      "options": [
+        "A) Different genes",
+        "B) Alternative forms of gene",
+        "C) Chromosomes",
+        "D) Proteins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9012d544ac5725e19477fff764d4cc68f645d196",
+      "sectionIndex": 7,
+      "question": "Dominant trait:",
+      "options": [
+        "A) Never expresses",
+        "B) Always expresses",
+        "C) Expresses in homozygous only",
+        "D) Expresses in heterozygous"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "50c1137ce398e99866f49c7f46b6701d2e86e548",
+      "sectionIndex": 7,
+      "question": "Law of segregation states:",
+      "options": [
+        "A) Alleles stay together",
+        "B) Alleles separate during gamete formation",
+        "C) Genes don't exist",
+        "D) Traits blend"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ba8f27466419a3f6d9018b837b38427184beed8",
+      "sectionIndex": 7,
+      "question": "Sex-linked traits are carried on:",
+      "options": [
+        "A) Autosomes",
+        "B) Sex chromosomes",
+        "C) Both",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c8f0eee422fb1aee7f0557504008c057498371a",
+      "sectionIndex": 7,
+      "question": "Color blindness is:",
+      "options": [
+        "A) Autosomal",
+        "B) X-linked",
+        "C) Y-linked",
+        "D) Not genetic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d11e87f2c00bdefc018ea3732aba2b747200a99",
+      "sectionIndex": 7,
+      "question": "DNA replication is:",
+      "options": [
+        "A) Conservative",
+        "B) Semi-conservative",
+        "C) Dispersive",
+        "D) Random"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "714e9dd39abc544a5fafb10f937dbd8f1fdbd3ce",
+      "sectionIndex": 8,
+      "question": "Theory of natural selection was given by:",
+      "options": [
+        "A) Lamarck",
+        "B) Darwin",
+        "C) Mendel",
+        "D) Watson"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8ccb5dca6002cc11e042e15c9d1f6e084d378cf",
+      "sectionIndex": 8,
+      "question": "Lamarck proposed:",
+      "options": [
+        "A) Natural selection",
+        "B) Inheritance of acquired characters",
+        "C) Mutation theory",
+        "D) Gene theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8097e00ac29e7b99c7deaab401e273241408a14",
+      "sectionIndex": 8,
+      "question": "Fossils are:",
+      "options": [
+        "A) Living organisms",
+        "B) Preserved remains",
+        "C) Minerals only",
+        "D) Rocks only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "009f2c7be5fa8d9c2b85f8845e502c3a73206b28",
+      "sectionIndex": 8,
+      "question": "Homologous organs show:",
+      "options": [
+        "A) Different origin, same function",
+        "B) Same origin, different function",
+        "C) No relation",
+        "D) Same origin, same function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b54d5e8df38916fba2223bd9dc1966c60dec23ff",
+      "sectionIndex": 8,
+      "question": "Analogous organs show:",
+      "options": [
+        "A) Same origin, different function",
+        "B) Different origin, same function",
+        "C) Same origin, same function",
+        "D) No relation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5534aabeda724624ee75122d5c283c5c20dc05c",
+      "sectionIndex": 8,
+      "question": "Ecosystem includes:",
+      "options": [
+        "A) Living things only",
+        "B) Non-living things only",
+        "C) Both living and non-living",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4cc5ba35d8e305723f0a93215d9b624b59cb6002",
+      "sectionIndex": 8,
+      "question": "Producers in ecosystem are:",
+      "options": [
+        "A) Animals",
+        "B) Plants",
+        "C) Decomposers",
+        "D) Consumers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dac1ea246e9c20637eaf90b394acda81df0130f8",
+      "sectionIndex": 8,
+      "question": "Energy flow in ecosystem is:",
+      "options": [
+        "A) Cyclic",
+        "B) Unidirectional",
+        "C) Bidirectional",
+        "D) No flow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f351bdcd26979ac91fc3e869512f9945af2774c3",
+      "sectionIndex": 8,
+      "question": "Nitrogen cycle involves:",
+      "options": [
+        "A) Plants only",
+        "B) Animals only",
+        "C) Bacteria",
+        "D) All organisms"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2196680e6df2c5ca8435447e2d736a999cdfbf7e",
+      "sectionIndex": 8,
+      "question": "Greenhouse effect is caused by:",
+      "options": [
+        "A) Oxygen",
+        "B) Carbon dioxide",
+        "C) Nitrogen",
+        "D) Hydrogen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db7b273f61df05616fb59f05d0432620eecf7053",
+      "sectionIndex": 9,
+      "question": "Digestion of carbohydrates begins in:",
+      "options": [
+        "A) Stomach",
+        "B) Mouth",
+        "C) Small intestine",
+        "D) Large intestine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98239c7079ddac56c9aefb74f391c6a0473c06c4",
+      "sectionIndex": 9,
+      "question": "Proteins are digested by:",
+      "options": [
+        "A) Amylase",
+        "B) Lipase",
+        "C) Protease",
+        "D) Nuclease"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "437fec6ecc1cb17f0e60df247c7231478567938b",
+      "sectionIndex": 9,
+      "question": "Absorption occurs mainly in:",
+      "options": [
+        "A) Stomach",
+        "B) Small intestine",
+        "C) Large intestine",
+        "D) Mouth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b3384862581a58d9e5925d367ddffaada45bebf",
+      "sectionIndex": 9,
+      "question": "Urea is formed in:",
+      "options": [
+        "A) Kidney",
+        "B) Liver",
+        "C) Heart",
+        "D) Lungs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cbd52c1ca4f81bef35c348a9fd0dce0b4638a85",
+      "sectionIndex": 9,
+      "question": "Nephron is functional unit of:",
+      "options": [
+        "A) Liver",
+        "B) Kidney",
+        "C) Heart",
+        "D) Brain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8884e14606e52982131b261032f8bcf55b1e332e",
+      "sectionIndex": 9,
+      "question": "Pulmonary vein carries:",
+      "options": [
+        "A) Deoxygenated blood",
+        "B) Oxygenated blood",
+        "C) Lymph",
+        "D) Hormones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a27f5485bee73ecef6693697ed32cf6bc2a53227",
+      "sectionIndex": 9,
+      "question": "Hormones are:",
+      "options": [
+        "A) Enzymes",
+        "B) Chemical messengers",
+        "C) Vitamins",
+        "D) Minerals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a5e0385b20cd616dce5b1a187a398fc3789c57e",
+      "sectionIndex": 9,
+      "question": "Insulin is produced by:",
+      "options": [
+        "A) Liver",
+        "B) Pancreas",
+        "C) Kidney",
+        "D) Thyroid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fabb850bb83d2e8e73791bf2b67c3e965d76e0c5",
+      "sectionIndex": 9,
+      "question": "Reflex action is controlled by:",
+      "options": [
+        "A) Brain only",
+        "B) Spinal cord",
+        "C) Muscles",
+        "D) Bones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87dc070c266d7824c2f3a913232f836a476f564e",
+      "sectionIndex": 9,
+      "question": "Body temperature in mammals is:",
+      "options": [
+        "A) Variable",
+        "B) Constant",
+        "C) No regulation",
+        "D) Cold"
+      ],
+      "correct": "B"
+    }
+  ]
+}

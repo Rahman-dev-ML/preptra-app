@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:19:24.117Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "c66136a0370a37233cb8a4e0c0d78ec47976b5b4",
+      "sectionIndex": 0,
+      "question": "If G is a group where every element except identity has order 2, then G is:",
+      "options": [
+        "A) Cyclic",
+        "B) Isomorphic to (Z,,)n for some n",
+        "C) Simple",
+        "D) Non-abelian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4df66ef9a50c08a10468f88daa9f1238cd989828",
+      "sectionIndex": 0,
+      "question": "The number of Sylow 3-subgroups in a group of order 12 must be:",
+      "options": [
+        "A) 1",
+        "B) 4",
+        "C) 1 or 4",
+        "D) 3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b3b2e289ec7902ed6ac015b15645208a6060507c",
+      "sectionIndex": 0,
+      "question": "If G acts on a set X transitively and |X| = p (prime), then:",
+      "options": [
+        "A) G is cyclic",
+        "B) p divides |G|",
+        "C) G is abelian",
+        "D) X has fixed points"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b43956bde7914353df0f769b7b1fb50d846775f",
+      "sectionIndex": 0,
+      "question": "For a finite group G, the number of conjugacy classes equals:",
+      "options": [
+        "A) |G|",
+        "B) |Z(G)|",
+        "C) Number of irreducible representations over \",",
+        "D) Index of center"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2cac7df45a42d7ee36aac71ad1f8ed26029c90eb",
+      "sectionIndex": 0,
+      "question": "If every Sylow subgroup of G is normal, then G is:",
+      "options": [
+        "A) Abelian",
+        "B) Nilpotent",
+        "C) Solvable",
+        "D) Direct product of its Sylow subgroups"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7d409941a38cf9e88d9fa513bf79de7d038c4357",
+      "sectionIndex": 0,
+      "question": "The derived subgroup G' = [G,G] is:",
+      "options": [
+        "A) Always abelian",
+        "B) The smallest normal subgroup with abelian quotient",
+        "C) Equal to G if G is abelian",
+        "D) Never normal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e14db8c03a7b178fd7995324e6da1b9e6f99fc5",
+      "sectionIndex": 0,
+      "question": "A group G is perfect if:",
+      "options": [
+        "A) It has no proper subgroups",
+        "B) G = G'",
+        "C) It is simple",
+        "D) Every element has finite order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "467d95572b177dbc808fddca2345705f8c31b5f7",
+      "sectionIndex": 0,
+      "question": "The Frattini subgroup Φ(G) consists of:",
+      "options": [
+        "A) Central elements",
+        "B) Non-generators",
+        "C) Elements of prime order",
+        "D) Commutators"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4238d57b134fd792ea25d4ef06e5ac0becf99c4e",
+      "sectionIndex": 0,
+      "question": "If Aut(G) is cyclic, then G is:",
+      "options": [
+        "A) Cyclic",
+        "B) Abelian with at most two invariant factors",
+        "C) Simple",
+        "D) Perfect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5431ed48aaec039528bf924a15d0ed29fa79f92c",
+      "sectionIndex": 0,
+      "question": "The Schur-Zassenhaus theorem applies when:",
+      "options": [
+        "A) G is abelian",
+        "B) |N| and [G:N] are coprime",
+        "C) N is cyclic",
+        "D) G is simple"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d67a4bf6aa557e36748a6fc7e9681954e11a4db",
+      "sectionIndex": 1,
+      "question": "In a Noetherian ring, the ascending chain condition on ideals implies:",
+      "options": [
+        "A) Every ideal is principal",
+        "B) Every ideal is finitely generated",
+        "C) The ring is a field",
+        "D) Every element is a unit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4c80be86e817be518d89bed8f93fdfcf0b2d742",
+      "sectionIndex": 1,
+      "question": "The Jacobson radical of a ring R is:",
+      "options": [
+        "A) The largest ideal",
+        "B) Intersection of all maximal ideals",
+        "C) Sum of all minimal ideals",
+        "D) Set of nilpotent elements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b098d240c244d0f4bf622c5416ad0106305a186",
+      "sectionIndex": 1,
+      "question": "A local ring has:",
+      "options": [
+        "A) Exactly one ideal",
+        "B) Exactly one maximal ideal",
+        "C) No proper ideals",
+        "D) All ideals maximal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37232e2e247bb3d73a29e22205980b38becb6e6c",
+      "sectionIndex": 1,
+      "question": "The Krull dimension of a polynomial ring k[x,,...,x,T] over a field k is:",
+      "options": [
+        "A) 1",
+        "B) n",
+        "C) Infinite",
+        "D) 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00f43b01c88911b04656feb5a06595237cdf7f8f",
+      "sectionIndex": 1,
+      "question": "Nakayama's lemma states that if M is a finitely generated module over a local ring with maximal ideal m, and mM = M, then:",
+      "options": [
+        "A) M is free",
+        "B) M = 0",
+        "C) M is projective",
+        "D) M ?. R"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab6f160d3d548a7844898eb830956291cdffbf1a",
+      "sectionIndex": 1,
+      "question": "A Cohen-Macaulay ring satisfies:",
+      "options": [
+        "A) All ideals are principal",
+        "B) Depth equals Krull dimension",
+        "C) It is a field",
+        "D) It is Artinian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd01a3e1b43c9fa94de21d4f0c953e891403a7e4",
+      "sectionIndex": 1,
+      "question": "The integral closure of \" in \"s(^sd) where d is square-free is:",
+      "options": [
+        "A) \"[^sd] always",
+        "B) \"[(1+^sd)/2] if d ? 1 (mod 4)",
+        "C) \"s(^sd)",
+        "D) \""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5353beaad1b878e434b85e443bb8b453eafd6d63",
+      "sectionIndex": 1,
+      "question": "Hilbert's Nullstellensatz relates:",
+      "options": [
+        "A) Ideals and varieties",
+        "B) Groups and rings",
+        "C) Modules and algebras",
+        "D) Fields and vector spaces"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bb651bf41be5860494ae7f1921908a1d1422b2e6",
+      "sectionIndex": 1,
+      "question": "A Dedekind domain that is not a PID must have:",
+      "options": [
+        "A) Infinite Krull dimension",
+        "B) Non-principal ideals with class number > 1",
+        "C) Zero divisors",
+        "D) No maximal ideals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f43f9960644546594ab59dd5623f4e3a5f8c7b6e",
+      "sectionIndex": 1,
+      "question": "The going-up theorem in integral extensions states:",
+      "options": [
+        "A) Every chain of primes can be extended",
+        "B) Every prime lies over a unique prime",
+        "C) Height is preserved",
+        "D) Dimension increases"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "25cbb35da334f904df36ae5bbfd46b5f30987a68",
+      "sectionIndex": 2,
+      "question": "The Jordan canonical form of a nilpotent matrix of index k has:",
+      "options": [
+        "A) All eigenvalues equal to k",
+        "B) Largest Jordan block of size k",
+        "C) k distinct eigenvalues",
+        "D) Trace equal to k"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "daa461ea54363fef2d5916c7fecf570823a057a0",
+      "sectionIndex": 2,
+      "question": "If A and B are n-n matrices with AB = BA = 0 and rank(A) + rank(B) = n, then:",
+      "options": [
+        "A) A = B = 0",
+        "B) A or B is invertible",
+        "C) V = Im(A) S. Im(B) where V = \"n",
+        "D) A + B is nilpotent"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7c0cd1165cc68d5b320fc545762d94df7b3baf90",
+      "sectionIndex": 2,
+      "question": "The number of similarity classes of n-n matrices over a finite field \"_q with characteristic polynomial (x-a)n equals:",
+      "options": [
+        "A) 1",
+        "B) n",
+        "C) p(n) (partition function)",
+        "D) qn"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a1dc9d5eb382c8868fb5240447f1d47355f91c7a",
+      "sectionIndex": 2,
+      "question": "For the tensor product V S- W of finite dimensional vector spaces:",
+      "options": [
+        "A) dim(V S- W) = max{dim V, dim W}",
+        "B) dim(V S- W) = dim V + dim W",
+        "C) dim(V S- W) = dim V - dim W",
+        "D) (V S- W)* ?. V S- W"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7ed0c3e599592a05f2598a4bf2d8c7b1a66af52e",
+      "sectionIndex": 2,
+      "question": "The Lie algebra sl(2,\",) has dimension:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f08d031b41a1681ee76c982578500f8f57403989",
+      "sectionIndex": 2,
+      "question": "Schur's lemma states that an intertwining operator between irreducible representations is:",
+      "options": [
+        "A) Zero or an isomorphism",
+        "B) Always zero",
+        "C) Always invertible",
+        "D) Diagonal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "56024e41026e10aabc43d2f84d9880e366fb11e3",
+      "sectionIndex": 2,
+      "question": "The character of a representation at g equals:",
+      "options": [
+        "A) det(ρ(g))",
+        "B) tr(ρ(g))",
+        "C) rank(ρ(g))",
+        "D) ||ρ(g)||"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2866c6165470a30caa9b71ee7f1d6f5d562a517",
+      "sectionIndex": 2,
+      "question": "Maschke's theorem holds for finite groups when:",
+      "options": [
+        "A) Always",
+        "B) Characteristic doesn't divide |G|",
+        "C) G is abelian",
+        "D) G is simple"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96e9be0f61d3c54c9b37ed099ab1139052b2c6d9",
+      "sectionIndex": 2,
+      "question": "The exterior algebra <?V has dimension:",
+      "options": [
+        "A) dim V",
+        "B) 2^(dim V)",
+        "C) (dim V)!",
+        "D) ^z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eac18c166dd1295466f8f20cafc38803baa4f42b",
+      "sectionIndex": 2,
+      "question": "A bilinear form is non-degenerate if and only if:",
+      "options": [
+        "A) Its matrix is symmetric",
+        "B) Its matrix is invertible",
+        "C) It is positive definite",
+        "D) It is alternating"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4fefde6e11785f5f3dea1c6168e9a5d4886046a",
+      "sectionIndex": 3,
+      "question": "The Hahn-Banach theorem guarantees:",
+      "options": [
+        "A) Uniqueness of extension",
+        "B) Extension preserving norm",
+        "C) Continuity of all functionals",
+        "D) Reflexivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "389012eada12bc8016d01ed62ca8a5811f65d2ce",
+      "sectionIndex": 3,
+      "question": "A Banach space is reflexive if and only if:",
+      "options": [
+        "A) It is finite dimensional",
+        "B) Its unit ball is weakly compact",
+        "C) It is a Hilbert space",
+        "D) Every sequence converges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70fbb28fa514e1194c2c4550516ede9494c41e21",
+      "sectionIndex": 3,
+      "question": "The spectral radius r(T) of a bounded operator T satisfies:",
+      "options": [
+        "A) r(T) = ||T||",
+        "B) r(T) ? ||T||",
+        "C) r(T) ? ||T||",
+        "D) r(T) = ||T||^(1/2)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dd107aee65837204dddc60da5528ff596f4a92b",
+      "sectionIndex": 3,
+      "question": "The Baire category theorem implies:",
+      "options": [
+        "A) Every metric space is complete",
+        "B) Complete metric spaces are not countable unions of nowhere dense sets",
+        "C) All sets are measurable",
+        "D) Compactness equals completeness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26540d13e7304e3240775b2adf74aef3cfb78926",
+      "sectionIndex": 3,
+      "question": "For the Fourier transform on L1(\"), the Riemann-Lebesgue lemma states:",
+      "options": [
+        "A) f, is continuous",
+        "B) f,(ξ) ?' 0 as |ξ| ?' ^z",
+        "C) f, ^^ L1",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9176fbfd645008f5d222fd7052219cc20bbdc1e4",
+      "sectionIndex": 3,
+      "question": "The closed graph theorem states a linear operator between Banach spaces is continuous if:",
+      "options": [
+        "A) It is bounded",
+        "B) Its graph is closed",
+        "C) It is surjective",
+        "D) Its kernel is closed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2ac9f7618eca22245a49c819a4ac047e66c8e06",
+      "sectionIndex": 3,
+      "question": "In the weak* topology on the dual X* of a Banach space X:",
+      "options": [
+        "A) Norm convergence implies weak* convergence",
+        "B) The unit ball is compact if X is separable",
+        "C) Every sequence converges",
+        "D) Open sets are norm-open"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96529da2376d3b3d151c5ad8282a02c9835bf1c2",
+      "sectionIndex": 3,
+      "question": "The Stone-Weierstrass theorem characterizes:",
+      "options": [
+        "A) Compact spaces",
+        "B) Dense subalgebras of C(X)",
+        "C) Measure spaces",
+        "D) Hilbert spaces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a21b5bf37d067d6c2628ef593575b98684efe4e7",
+      "sectionIndex": 3,
+      "question": "A C*-algebra satisfies:",
+      "options": [
+        "A) ||a*a|| = ||a||2",
+        "B) Every element is self-adjoint",
+        "C) It is commutative",
+        "D) It is finite dimensional"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a3dee77c5f5c6b1b3146c5f34b7b3d6c36601382",
+      "sectionIndex": 3,
+      "question": "The Gelfand transform establishes correspondence between:",
+      "options": [
+        "A) Groups and rings",
+        "B) Commutative C*-algebras and compact spaces",
+        "C) Measures and functions",
+        "D) Operators and matrices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd12c1345d371d14c43b0ecec8500189bd81ab41",
+      "sectionIndex": 4,
+      "question": "Picard's great theorem states that near an essential singularity, an analytic function:",
+      "options": [
+        "A) Is bounded",
+        "B) Takes every value except at most one",
+        "C) Has a pole",
+        "D) Is constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31e2362367d98e83e2778b8780765ec527097c66",
+      "sectionIndex": 4,
+      "question": "The Schwarz lemma for f: D ?' D analytic with f(0) = 0 implies:",
+      "options": [
+        "A) |f(z)| ? |z|",
+        "B) |f(z)| ? |z| and |f'(0)| ? 1",
+        "C) f is constant",
+        "D) f is linear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "052881aa13f802e9145343f0319ab82aebae689a",
+      "sectionIndex": 4,
+      "question": "Rouché's theorem relates:",
+      "options": [
+        "A) Residues and poles",
+        "B) Number of zeros of f and f+g",
+        "C) Real and imaginary parts",
+        "D) Derivatives and integrals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f79f1b241c3c47c229e26522c188a24fbfbac4b7",
+      "sectionIndex": 4,
+      "question": "The monodromy theorem concerns:",
+      "options": [
+        "A) Single-valued functions",
+        "B) Analytic continuation along paths",
+        "C) Residue calculation",
+        "D) Power series"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0086f4d7a528061aeaa8a3d2dd1a0ed377398d6c",
+      "sectionIndex": 4,
+      "question": "A meromorphic function on \", ^ {^z} is:",
+      "options": [
+        "A) Entire",
+        "B) Rational",
+        "C) Transcendental",
+        "D) Not analytic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5868758047339047170de8b13af6eee02d302fd1",
+      "sectionIndex": 4,
+      "question": "The Phragmén-Lindelöf principle extends:",
+      "options": [
+        "A) Cauchy's theorem",
+        "B) Maximum principle to unbounded domains",
+        "C) Residue theorem",
+        "D) Laurent series"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11c192e468807720608163606ffcb1330262effd",
+      "sectionIndex": 4,
+      "question": "Jensen's formula relates:",
+      "options": [
+        "A) Zeros and growth",
+        "B) Poles and residues",
+        "C) Real and imaginary parts",
+        "D) Derivatives and integrals"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d5f3bfab7b3ab7f696cdcf7bc2795eb9c032ff11",
+      "sectionIndex": 4,
+      "question": "The Hadamard factorization theorem represents entire functions of finite order in terms of:",
+      "options": [
+        "A) Power series only",
+        "B) Zeros and exponential factors",
+        "C) Rational functions",
+        "D) Trigonometric functions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e7948caa5365dd86a3f82eda9671b093fc86433",
+      "sectionIndex": 4,
+      "question": "Mittag-Leffler's theorem constructs:",
+      "options": [
+        "A) Entire functions",
+        "B) Meromorphic functions with prescribed poles",
+        "C) Harmonic functions",
+        "D) Conformal maps"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "344864696960b78973c17822e36de13233cf80c2",
+      "sectionIndex": 4,
+      "question": "The uniformization theorem states every simply connected Riemann surface is conformally equivalent to:",
+      "options": [
+        "A) \", only",
+        "B) D only",
+        "C) \",, \", ^ {^z}, or D",
+        "D) Any domain"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aa0f67b9481ef89caefe6b1231053cf6c7555ac8",
+      "sectionIndex": 5,
+      "question": "The Gauss-Bonnet theorem relates:",
+      "options": [
+        "A) Length and area",
+        "B) Total curvature and Euler characteristic",
+        "C) Volume and surface area",
+        "D) Geodesics and curvature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "160be237ec107d9e56dbce1e244ed556e46f34b3",
+      "sectionIndex": 5,
+      "question": "A Riemannian manifold has constant sectional curvature K if and only if:",
+      "options": [
+        "A) It is flat",
+        "B) Its curvature tensor has special form",
+        "C) It is Einstein",
+        "D) All geodesics are straight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5fbeb627f7e1b84989249fca66f3acb1af8868b",
+      "sectionIndex": 5,
+      "question": "The Hopf fibration S3 ?' S2 has fibers:",
+      "options": [
+        "A) Points",
+        "B) Circles S1",
+        "C) 2-spheres",
+        "D) Lines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e842ae90cdd6c8aba94d1feb33f7478f624cda4",
+      "sectionIndex": 5,
+      "question": "Parallel transport around a closed curve measures:",
+      "options": [
+        "A) Length",
+        "B) Holonomy",
+        "C) Distance",
+        "D) Volume"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f58dd6dab926158482ccc5b0da8d9e1c12ee117",
+      "sectionIndex": 5,
+      "question": "The de Rham cohomology H^k(M) measures:",
+      "options": [
+        "A) Holes of dimension k",
+        "B) Closed k-forms modulo exact k-forms",
+        "C) Vector fields",
+        "D) Metrics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a73c8f0539e3d26b4c9d9a58601389e68a40753d",
+      "sectionIndex": 5,
+      "question": "Hodge theory on compact manifolds establishes:",
+      "options": [
+        "A) Every form is exact",
+        "B) Harmonic representatives for cohomology classes",
+        "C) All manifolds are orientable",
+        "D) Curvature vanishes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55bafb99fff595fc94000fe406f627bde0fafbc7",
+      "sectionIndex": 5,
+      "question": "The Atiyah-Singer index theorem computes:",
+      "options": [
+        "A) Dimension",
+        "B) Analytical index via topological data",
+        "C) Curvature",
+        "D) Volume"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e634d339f340f655bc6488c2632db67474fdf9f2",
+      "sectionIndex": 5,
+      "question": "A Kähler manifold is:",
+      "options": [
+        "A) Any complex manifold",
+        "B) Complex with compatible symplectic structure",
+        "C) Always compact",
+        "D) Always projective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8eeb3b53deb599bd8c4f49f3da0b67fa32ff4f06",
+      "sectionIndex": 5,
+      "question": "The moduli space of Riemann surfaces of genus g > 1 has dimension:",
+      "options": [
+        "A) g",
+        "B) 2g",
+        "C) 3g-3",
+        "D) g2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "631f5b6dd8ce5fe490b6d3970beb62ed10b0f0bf",
+      "sectionIndex": 5,
+      "question": "Morse theory relates:",
+      "options": [
+        "A) Critical points and topology",
+        "B) Curvature and dimension",
+        "C) Volume and area",
+        "D) Geodesics and length"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fddcb81f486749d1fc8c9ede6931de17f5919975",
+      "sectionIndex": 6,
+      "question": "The fundamental group of the complement \"3 - K for a knot K:",
+      "options": [
+        "A) Is always \"",
+        "B) Determines the knot type",
+        "C) Is always abelian",
+        "D) Is trivial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29abe4d8a11f3faff2f6953c1b986cc47c787f61",
+      "sectionIndex": 6,
+      "question": "The Hopf invariant of a map S2n-1 ?' Sn measures:",
+      "options": [
+        "A) Degree",
+        "B) Linking of preimages",
+        "C) Homotopy class",
+        "D) Homology class"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc2392883b6805f3781c7cb62cbde985ac620684",
+      "sectionIndex": 6,
+      "question": "Covering space theory shows ?,(S1 ^ S1) is:",
+      "options": [
+        "A) \"",
+        "B) \" - \"",
+        "C) Free group on 2 generators",
+        "D) Trivial"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "09693eb3828655c84585662f1da46974e760b8c4",
+      "sectionIndex": 6,
+      "question": "The Eilenberg-MacLane space K(G,n) has:",
+      "options": [
+        "A) ?,- = G for all k",
+        "B) ?,T = G and ?,- = 0 for k ? n",
+        "C) All homotopy groups trivial",
+        "D) Infinite fundamental group"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10fe06aadf40ee8f9a56ee6633a67fa2ab5b17ff",
+      "sectionIndex": 6,
+      "question": "The Hurewicz theorem relates:",
+      "options": [
+        "A) Homology and cohomology",
+        "B) Homotopy and homology groups",
+        "C) Fundamental group and covering spaces",
+        "D) Chains and cochains"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54522754eaf85a0bfa29cc729dbb10791562e747",
+      "sectionIndex": 6,
+      "question": "Poincaré duality for n-dimensional closed orientable manifolds states:",
+      "options": [
+        "A) Hk ?. H,-",
+        "B) Hk ?. H,T,<,-",
+        "C) All homology vanishes",
+        "D) H^n ?. \""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f6002c96e076063096a619c728306b511155329",
+      "sectionIndex": 6,
+      "question": "The Lefschetz fixed point theorem computes:",
+      "options": [
+        "A) Number of fixed points",
+        "B) Alternating sum of traces",
+        "C) Euler characteristic",
+        "D) Dimension"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "463b91f801ff9287783132f2c54258fb1db8fe12",
+      "sectionIndex": 6,
+      "question": "Obstruction theory studies:",
+      "options": [
+        "A) When maps exist",
+        "B) Extending maps from skeleta",
+        "C) Fixed points",
+        "D) Covering spaces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bb21ee03615c9574ee1f1e566d2e3bcacb7b737",
+      "sectionIndex": 6,
+      "question": "The Adams spectral sequence computes:",
+      "options": [
+        "A) Homology",
+        "B) Stable homotopy groups",
+        "C) Cohomology",
+        "D) K-theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3955b501960065e3c0adbac71b0c7ba8402e1572",
+      "sectionIndex": 6,
+      "question": "Whitehead's theorem states a map between CW complexes inducing isomorphisms on all homotopy groups is:",
+      "options": [
+        "A) A homeomorphism",
+        "B) A homotopy equivalence",
+        "C) An inclusion",
+        "D) A covering map"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e99c2f445d8d30b7fe26c4f736849eb307ab5ee0",
+      "sectionIndex": 7,
+      "question": "The Riemann hypothesis states all non-trivial zeros of ζ(s) have:",
+      "options": [
+        "A) Real part 0",
+        "B) Real part 1/2",
+        "C) Real part 1",
+        "D) Imaginary part 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4d3449a638336c384cfe34199110f3323309ecf",
+      "sectionIndex": 7,
+      "question": "Dirichlet's theorem on primes in arithmetic progressions uses:",
+      "options": [
+        "A) Elementary methods",
+        "B) L-functions",
+        "C) Sieve methods",
+        "D) Probabilistic arguments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab7bed6c5bd59d3ffc5aa76dfa644a226ab8d111",
+      "sectionIndex": 7,
+      "question": "The prime number theorem states ?(x) ~:",
+      "options": [
+        "A) x",
+        "B) x/log x",
+        "C) x2",
+        "D) ^sx"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1027e18131832f43d3b02e4ba0880e279dd7abe4",
+      "sectionIndex": 7,
+      "question": "The Goldbach conjecture states every even integer > 2 is:",
+      "options": [
+        "A) Prime",
+        "B) Sum of two primes",
+        "C) Product of primes",
+        "D) Perfect square"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84a8541851836ae00946bcc521bd6930524125e8",
+      "sectionIndex": 7,
+      "question": "Waring's problem asks if every positive integer is a sum of bounded number of:",
+      "options": [
+        "A) Primes",
+        "B) k-th powers",
+        "C) Squares",
+        "D) Factorials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8168e4725d06f4d5bba09281e7c50c1a40e7998",
+      "sectionIndex": 7,
+      "question": "The abc conjecture relates:",
+      "options": [
+        "A) Three primes",
+        "B) rad(abc) and c for coprime a,b with a+b=c",
+        "C) Arithmetic progressions",
+        "D) Quadratic forms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edeec235838980105b2d2cea47731e0e04754263",
+      "sectionIndex": 7,
+      "question": "Siegel's theorem states curves of genus g ? 1 have:",
+      "options": [
+        "A) Infinitely many rational points",
+        "B) Finitely many integral points",
+        "C) No rational points",
+        "D) Dense rational points"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a1102db037c19f29278c8acfbe1d9628e188238",
+      "sectionIndex": 7,
+      "question": "The Birch and Swinnerton-Dyer conjecture relates:",
+      "options": [
+        "A) Primes and composites",
+        "B) L-function and rank of elliptic curves",
+        "C) Real and complex numbers",
+        "D) Algebraic and transcendental numbers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e38070a6dd7d7ca07e3be4069496c0c6ece00322",
+      "sectionIndex": 7,
+      "question": "Falting's theorem (Mordell's conjecture) states curves of genus g > 1 have:",
+      "options": [
+        "A) Infinitely many rational points",
+        "B) Finitely many rational points",
+        "C) No rational points",
+        "D) Dense rational points"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e2df50d05d7e92e65b64bbd6cd4e02380b1dff2",
+      "sectionIndex": 7,
+      "question": "The Langlands program connects:",
+      "options": [
+        "A) Analysis and algebra",
+        "B) Galois groups and automorphic forms",
+        "C) Geometry and topology",
+        "D) Logic and set theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88fdcdb419a406097641f6fb3a03fe43934f2a7f",
+      "sectionIndex": 8,
+      "question": "Gödel's incompleteness theorem states that in any consistent formal system containing arithmetic:",
+      "options": [
+        "A) Everything is provable",
+        "B) There exist undecidable statements",
+        "C) Consistency is provable",
+        "D) All theorems are true"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9aa61e425ced5023cefc0695954969523145248f",
+      "sectionIndex": 8,
+      "question": "The continuum hypothesis states:",
+      "options": [
+        "A) \" is continuous",
+        "B) There's no set with cardinality between \",? and 2^\",?",
+        "C) All infinities are equal",
+        "D) \" is countable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a926ad6a930c0367bf6f11ff33a954f6f667c0aa",
+      "sectionIndex": 8,
+      "question": "Cohen's forcing method proved the continuum hypothesis is:",
+      "options": [
+        "A) True",
+        "B) False",
+        "C) Independent of ZFC",
+        "D) Contradictory"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "215ed54e081a3e97e0466f951493c4087ba0d8a8",
+      "sectionIndex": 8,
+      "question": "The axiom of choice is equivalent to:",
+      "options": [
+        "A) Well-ordering theorem",
+        "B) Axiom of infinity",
+        "C) Continuum hypothesis",
+        "D) Parallel postulate"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0045b7c183305ba8eed528e7f7adb2377c3b5072",
+      "sectionIndex": 8,
+      "question": "A model of ZFC set theory:",
+      "options": [
+        "A) Must be countable",
+        "B) Can be countable (Löwenheim-Skolem)",
+        "C) Must be uncountable",
+        "D) Cannot exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f4c6030cd9ca5df58b0ba77114fcbce689a62c6",
+      "sectionIndex": 8,
+      "question": "Large cardinal axioms assert existence of:",
+      "options": [
+        "A) Infinite sets",
+        "B) Cardinals with strong properties",
+        "C) Real numbers",
+        "D) Continuous functions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00142f1bb141504f6a5a0346b0807f95c75467e4",
+      "sectionIndex": 8,
+      "question": "The compactness theorem in logic states:",
+      "options": [
+        "A) All proofs are finite",
+        "B) A set of sentences has a model iff every finite subset does",
+        "C) Logic is complete",
+        "D) All models are elementary equivalent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06d27b01cfef2160a23eefa548a7e53558a13a77",
+      "sectionIndex": 8,
+      "question": "Reverse mathematics classifies theorems by:",
+      "options": [
+        "A) Difficulty",
+        "B) Required axiom systems",
+        "C) Proof length",
+        "D) Historical order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37d5d769cf154b0faec69e4d5dc7843ecf86afc5",
+      "sectionIndex": 8,
+      "question": "Descriptive set theory studies:",
+      "options": [
+        "A) All sets",
+        "B) Definable sets of reals",
+        "C) Finite sets",
+        "D) Abstract sets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b00ba995e89a83a3c68b081eeb2516330f1cfef3",
+      "sectionIndex": 8,
+      "question": "Martin's axiom is:",
+      "options": [
+        "A) Stronger than CH",
+        "B) Weaker than CH but consistent with ¬CH",
+        "C) Equivalent to AC",
+        "D) Always false"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "727cd62062f13cc262f1f8944947ec2c36c77f56",
+      "sectionIndex": 9,
+      "question": "The Dirac delta function satisfies:",
+      "options": [
+        "A) δ(x) = 1 everywhere",
+        "B) ^δ(x)f(x)dx = f(0)",
+        "C) δ(x) = 0 everywhere",
+        "D) δ is continuous"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "907a988478d17486076cc665c9984845344a48c2",
+      "sectionIndex": 9,
+      "question": "Green's functions solve:",
+      "options": [
+        "A) Homogeneous equations",
+        "B) Inhomogeneous linear differential equations",
+        "C) Nonlinear equations",
+        "D) Algebraic equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ddcf4ec3c268c62794111f8fa8b7035694da158d",
+      "sectionIndex": 9,
+      "question": "The WKB approximation applies to:",
+      "options": [
+        "A) Algebraic equations",
+        "B) Differential equations with slowly varying coefficients",
+        "C) Exact solutions",
+        "D) Linear algebra"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74fa8c8bdc1a539b5244c31b321eb17dd51c801c",
+      "sectionIndex": 9,
+      "question": "Noether's theorem relates:",
+      "options": [
+        "A) Symmetries and conservation laws",
+        "B) Energy and mass",
+        "C) Space and time",
+        "D) Particles and waves"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0e41322ff7f2f0b8e5d8c1cd59c58c3c02b48b36",
+      "sectionIndex": 9,
+      "question": "The variational principle δ^L dt = 0 yields:",
+      "options": [
+        "A) Conservation laws",
+        "B) Euler-Lagrange equations",
+        "C) Hamilton's equations",
+        "D) Maxwell's equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a50f75ed00d240cd0c006953b2c6791e6c3c191",
+      "sectionIndex": 9,
+      "question": "The path integral formulation expresses:",
+      "options": [
+        "A) Classical mechanics",
+        "B) Quantum amplitudes as sum over paths",
+        "C) Thermodynamics",
+        "D) Electromagnetism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4173c90a1d1c4050a9bb21d0159d475964ac2254",
+      "sectionIndex": 9,
+      "question": "Yang-Mills theory is based on:",
+      "options": [
+        "A) Abelian groups",
+        "B) Non-abelian gauge symmetry",
+        "C) Linear equations",
+        "D) Classical mechanics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "642325a39943895554665613439e6db03b8f20d5",
+      "sectionIndex": 9,
+      "question": "The Feynman diagram expansion is:",
+      "options": [
+        "A) Exact",
+        "B) Perturbative",
+        "C) Classical",
+        "D) Convergent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb03aa0214ab53acc32487055dfbd7b0c2a776de",
+      "sectionIndex": 9,
+      "question": "Conformal field theory in 2D has:",
+      "options": [
+        "A) Finite symmetry",
+        "B) Infinite dimensional symmetry algebra",
+        "C) No symmetry",
+        "D) Discrete symmetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e88aeb80cd72352f0139c4580c36b6b50514fdb1",
+      "sectionIndex": 9,
+      "question": "The AdS/CFT correspondence relates:",
+      "options": [
+        "A) Algebra and geometry",
+        "B) Gravity in AdS and CFT on boundary",
+        "C) Classical and quantum",
+        "D) Discrete and continuous"
+      ],
+      "correct": "B"
+    }
+  ]
+}

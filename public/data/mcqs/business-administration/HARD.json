@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:50:36.013Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "b7c7887fba09fc1e6d84c2673ede6f4d046fb22c",
+      "sectionIndex": 0,
+      "question": "The resource-based view's VRIN framework may be insufficient because:",
+      "options": [
+        "A) Resources don't matter",
+        "B) Dynamic capabilities matter more in rapidly changing environments",
+        "C) All resources are valuable",
+        "D) Competitive advantage is permanent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb747f36bc611ea7564b3b8baa49064c7d9f9b0a",
+      "sectionIndex": 0,
+      "question": "Blue Ocean Strategy's limitation in practice often stems from:",
+      "options": [
+        "A) Too much competition",
+        "B) Difficulty in simultaneously achieving differentiation and low cost",
+        "C) Easy implementation",
+        "D) Guaranteed success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e29b9b79ae2b66138f56d70645e50b96542497d",
+      "sectionIndex": 0,
+      "question": "Real options theory in strategic management is most valuable when:",
+      "options": [
+        "A) Uncertainty is low",
+        "B) Uncertainty is high and investments can be staged",
+        "C) All information is available",
+        "D) Decisions are irreversible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f36abb73bf22b1c8039d759afd04b0ae6fad129",
+      "sectionIndex": 0,
+      "question": "The paradox of corporate strategy suggests:",
+      "options": [
+        "A) Diversification always adds value",
+        "B) Most acquisitions destroy shareholder value despite theoretical benefits",
+        "C) Integration is simple",
+        "D) Synergies are automatic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56515051bb89d40ae5f2ed0164d9fdf0787cb05f",
+      "sectionIndex": 0,
+      "question": "Disruptive innovation theory's predictive power is limited by:",
+      "options": [
+        "A) Clear definitions",
+        "B) Ex-post rationalization and survivor bias",
+        "C) Too much data",
+        "D) Perfect foresight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c15563ac1e22f2f783617901203354070213c03c",
+      "sectionIndex": 0,
+      "question": "Platform competition differs fundamentally because:",
+      "options": [
+        "A) Traditional rules apply",
+        "B) Network effects create winner-take-all dynamics",
+        "C) Competition doesn't exist",
+        "D) Prices determine success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05ccfd26b2ded76202a125f030f6dd379fcb9a0a",
+      "sectionIndex": 0,
+      "question": "The ambidexterity challenge in organizations refers to:",
+      "options": [
+        "A) Physical flexibility",
+        "B) Simultaneously exploring new opportunities while exploiting current capabilities",
+        "C) Simple multitasking",
+        "D) Avoiding innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02dae5d57aa716e37a6a06a532401105fc3ce1cd",
+      "sectionIndex": 0,
+      "question": "Strategic inflection points are dangerous because:",
+      "options": [
+        "A) They're obvious",
+        "B) Success factors that brought you here won't take you there",
+        "C) Change is gradual",
+        "D) Past strategies work forever"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b16c22100f0eaa45f0c80c2e28b77eadc4b279ae",
+      "sectionIndex": 0,
+      "question": "The knowing-doing gap in strategy implementation persists due to:",
+      "options": [
+        "A) Lack of knowledge",
+        "B) Organizational politics, culture, and misaligned incentives",
+        "C) Perfect execution",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21f718f55970f091564e550b81dd3b3c8b5a06bf",
+      "sectionIndex": 0,
+      "question": "Scenario planning's effectiveness is constrained by:",
+      "options": [
+        "A) Too few scenarios",
+        "B) Cognitive biases and tendency to extrapolate from present",
+        "C) Perfect prediction",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96d7bf1846b6a2b74d09adb669b6d288e5951877",
+      "sectionIndex": 1,
+      "question": "The Modigliani-Miller theorem's real-world violations suggest:",
+      "options": [
+        "A) Capital structure is irrelevant",
+        "B) Market imperfections make capital structure decisions crucial",
+        "C) Theory is perfect",
+        "D) Debt has no benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21f4a79d207a5afe6c6f8e7fd386a004c9a7cba7",
+      "sectionIndex": 1,
+      "question": "Behavioral finance challenges traditional finance through evidence of:",
+      "options": [
+        "A) Market efficiency",
+        "B) Systematic biases and limits to arbitrage",
+        "C) Rational behavior",
+        "D) Perfect information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "490dc805c4959572cd60d8b1bf870e8eb7205d1d",
+      "sectionIndex": 1,
+      "question": "The equity premium puzzle suggests:",
+      "options": [
+        "A) Returns are predictable",
+        "B) Historical equity returns are too high relative to theoretical predictions",
+        "C) Bonds outperform stocks",
+        "D) Risk doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61a7743c67289b955b33d387dce28e4c01734b1a",
+      "sectionIndex": 1,
+      "question": "Real earnings management versus accrual management represents:",
+      "options": [
+        "A) No difference",
+        "B) Trade-off between long-term value destruction and short-term reporting",
+        "C) Both are beneficial",
+        "D) Neither affects value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8dcf692cab2dc276c05edcd34050304d1f0a418",
+      "sectionIndex": 1,
+      "question": "The pecking order theory of capital structure reflects:",
+      "options": [
+        "A) Random financing",
+        "B) Information asymmetry driving financing hierarchy",
+        "C) Debt preference always",
+        "D) Equity preference always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "daad0f24ead6bb285992f2e6c2ce40276c71c2eb",
+      "sectionIndex": 1,
+      "question": "Option pricing theory's application to real assets is complicated by:",
+      "options": [
+        "A) Simple mathematics",
+        "B) Non-tradability and changing parameters",
+        "C) Perfect markets",
+        "D) No uncertainty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb5be905d18966f32e8d9b0eab628cd1aa17c3c3",
+      "sectionIndex": 1,
+      "question": "The conglomerate discount puzzle persists despite:",
+      "options": [
+        "A) Clear value destruction",
+        "B) Theoretical diversification benefits and internal capital markets",
+        "C) No attempts to diversify",
+        "D) Perfect execution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2026cc8cc793a1163d0145d00d623fade7982ba4",
+      "sectionIndex": 1,
+      "question": "Market timing in capital structure decisions suggests:",
+      "options": [
+        "A) Markets are efficient",
+        "B) Managers exploit temporary mispricing",
+        "C) Timing doesn't matter",
+        "D) Random issuance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "442ea23571cddef9dd57e8096f17c671f2372121",
+      "sectionIndex": 1,
+      "question": "The dividend puzzle exists because:",
+      "options": [
+        "A) Dividends don't matter",
+        "B) Dividends are taxed more than capital gains yet remain popular",
+        "C) All firms pay dividends",
+        "D) Tax benefits of dividends"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d772bbf83a44f0d3cca60f1a9d6bf81036c713e",
+      "sectionIndex": 1,
+      "question": "Financial flexibility value is highest when:",
+      "options": [
+        "A) Markets are perfect",
+        "B) Future investment opportunities are uncertain and capital markets imperfect",
+        "C) Cash is worthless",
+        "D) All projects are funded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f84ee60df3953139148f499c4d51e41049de1adc",
+      "sectionIndex": 2,
+      "question": "Attribution modeling in digital marketing is challenging because:",
+      "options": [
+        "A) Single touchpoints matter",
+        "B) Customer journeys involve multiple touchpoints with interaction effects",
+        "C) Data is perfect",
+        "D) Customers follow linear paths"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3d0293231dcb692c250cf18dbf012829342b852",
+      "sectionIndex": 2,
+      "question": "Customer lifetime value calculations often fail due to:",
+      "options": [
+        "A) Simple math",
+        "B) Incorrect assumptions about retention and discount rates",
+        "C) Too much data",
+        "D) Perfect predictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "465aa942f4f7df49d1bc7b4b312aa231086cdba6",
+      "sectionIndex": 2,
+      "question": "The long tail phenomenon in digital markets creates opportunity through:",
+      "options": [
+        "A) Focus on hits only",
+        "B) Profitable niche aggregation with near-zero inventory costs",
+        "C) Mass market only",
+        "D) Ignoring niches"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "701a84d8a1d88817e77017593ec905cfc960250b",
+      "sectionIndex": 2,
+      "question": "Programmatic advertising's efficiency is limited by:",
+      "options": [
+        "A) Perfect targeting",
+        "B) Ad fraud, brand safety, and measurement challenges",
+        "C) Too much control",
+        "D) Low automation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d36069952762b786df88bb7095b8e5dd59a9c43d",
+      "sectionIndex": 2,
+      "question": "Neuromarketing research reveals that:",
+      "options": [
+        "A) Surveys tell everything",
+        "B) Unconscious processes drive decisions surveys can't capture",
+        "C) Brain scanning is useless",
+        "D) Rational choice prevails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d967d331ebe3a5d57c7f87c15500e0d0231ad7a8",
+      "sectionIndex": 2,
+      "question": "Marketing mix modeling versus multi-touch attribution represents:",
+      "options": [
+        "A) Identical approaches",
+        "B) Top-down versus bottom-up measurement philosophies",
+        "C) No measurement needed",
+        "D) Perfect accuracy in both"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bf1dd416fac41112978adea00fc33c17c5a6c26",
+      "sectionIndex": 2,
+      "question": "The privacy paradox in marketing shows:",
+      "options": [
+        "A) Consistent behavior",
+        "B) Consumers claim privacy concerns but freely share data",
+        "C) No data sharing",
+        "D) Perfect privacy protection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54a9cc1291d2db84c3ca1d86b56be2430b6214ee",
+      "sectionIndex": 2,
+      "question": "Dynamic pricing algorithms can backfire through:",
+      "options": [
+        "A) Stable prices",
+        "B) Customer backlash and competitive pricing wars",
+        "C) Always optimal prices",
+        "D) No technology needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d55c4a905dc4902a6fb55a84f6c3322039ee0e6",
+      "sectionIndex": 2,
+      "question": "Brand authenticity becomes paradoxical when:",
+      "options": [
+        "A) Brands are genuine",
+        "B) Manufactured authenticity defeats its purpose",
+        "C) Customers don't care",
+        "D) All brands are authentic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "974fad1daedef7b270cc1fe17a948322248a274c",
+      "sectionIndex": 2,
+      "question": "Influencer marketing effectiveness is difficult to measure due to:",
+      "options": [
+        "A) Clear metrics",
+        "B) Fake followers, engagement manipulation, and attribution challenges",
+        "C) Perfect transparency",
+        "D) Direct sales only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c038b625e5bb896187a3916c308c739c5b66e7d7",
+      "sectionIndex": 3,
+      "question": "The iron law of oligarchy suggests that:",
+      "options": [
+        "A) Democracy thrives",
+        "B) Organizations inevitably tend toward concentration of power",
+        "C) Power distributes equally",
+        "D) Hierarchies disappear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7830fa6b85135d079a2560f894b61b3e2ee60c0f",
+      "sectionIndex": 3,
+      "question": "Institutional theory explains organizational similarity through:",
+      "options": [
+        "A) Efficiency only",
+        "B) Isomorphic pressures beyond efficiency considerations",
+        "C) Random chance",
+        "D) Perfect competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4958eb6fa77e26b3fc0f64485c44aec25d980a4",
+      "sectionIndex": 3,
+      "question": "The garbage can model of decision making reveals:",
+      "options": [
+        "A) Rational processes",
+        "B) Solutions seeking problems in organized anarchies",
+        "C) Linear decision making",
+        "D) Perfect information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69e6e325d0989046fcbb06d252a5871d31559929",
+      "sectionIndex": 3,
+      "question": "Loose coupling in organizations provides:",
+      "options": [
+        "A) Tight control",
+        "B) Adaptability at the cost of coordination",
+        "C) Perfect alignment",
+        "D) No benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11051c65651a99b2410261ce332f6f5e0a7101d4",
+      "sectionIndex": 3,
+      "question": "The Peter Principle's persistence suggests:",
+      "options": [
+        "A) Meritocracy works perfectly",
+        "B) Promotion systems systematically create incompetence",
+        "C) Skills transfer perfectly",
+        "D) Hierarchies are efficient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f57389ad6dced10eda38b5da36351ab7ad241d3",
+      "sectionIndex": 3,
+      "question": "Organizational paradoxes like exploration-exploitation show:",
+      "options": [
+        "A) Easy choices",
+        "B) Inherent tensions requiring dynamic balancing",
+        "C) One best way",
+        "D) Stable solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3221fe8db70c2d282bee11bfab415836d80ffb88",
+      "sectionIndex": 3,
+      "question": "The tyranny of structurelessness means:",
+      "options": [
+        "A) Structure is bad",
+        "B) Informal power structures emerge without formal ones",
+        "C) Flat is always better",
+        "D) Hierarchy is natural"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "638d2d3380b1ee11fbc99311fea6c5447d0c5f25",
+      "sectionIndex": 3,
+      "question": "Path dependence in organizations implies:",
+      "options": [
+        "A) Change is easy",
+        "B) History constrains future options through lock-in effects",
+        "C) Past doesn't matter",
+        "D) Optimal outcomes assured"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e08cb5c8d3b2a7e1647cb36c04b0cc6b36de04f",
+      "sectionIndex": 3,
+      "question": "The dark side of organizational culture includes:",
+      "options": [
+        "A) Only benefits",
+        "B) Groupthink, ethical blindness, and resistance to change",
+        "C) No negatives exist",
+        "D) Culture doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2202fedbfb38868a9e57836f0501c404460f62ab",
+      "sectionIndex": 3,
+      "question": "Complexity theory suggests organizations are:",
+      "options": [
+        "A) Mechanical systems",
+        "B) Complex adaptive systems with emergent properties",
+        "C) Fully predictable",
+        "D) Simply complicated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2378e2e84bb2c471ad15f8a8fc2a33aef489f4c",
+      "sectionIndex": 4,
+      "question": "The liability of foreignness persists despite globalization due to:",
+      "options": [
+        "A) Disappearing borders",
+        "B) Tacit knowledge, networks, and institutional distance",
+        "C) Perfect information",
+        "D) Cultural convergence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42de6c04384a22fb5919d28ad1cfd179477fb3c6",
+      "sectionIndex": 4,
+      "question": "The globalization paradox (Rodrik) highlights:",
+      "options": [
+        "A) Easy integration",
+        "B) Trilemma between democracy, sovereignty, and integration",
+        "C) No trade-offs",
+        "D) Universal benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cb2e2f925e0672088a1a858651ad2b51ac0fb2f",
+      "sectionIndex": 4,
+      "question": "Born global firms challenge traditional internationalization by:",
+      "options": [
+        "A) Following stages",
+        "B) Rapidly internationalizing using networks and technology",
+        "C) Staying domestic",
+        "D) Slow expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1742b39f0c69a02c649c513768a2d41f83002b6d",
+      "sectionIndex": 4,
+      "question": "The Uppsala model's limitations include:",
+      "options": [
+        "A) Perfect prediction",
+        "B) Inability to explain rapid internationalization and de-internationalization",
+        "C) Too simple",
+        "D) Universal application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c166a6186121c17a0b9cca8c62fa8cd138c43ccc",
+      "sectionIndex": 4,
+      "question": "Reverse innovation succeeds by:",
+      "options": [
+        "A) Copying developed markets",
+        "B) Innovations from emerging markets disrupting developed ones",
+        "C) One-way flow",
+        "D) Premium focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06066aaf798e6fbc0cbdc25c2fffb41d6343a8eb",
+      "sectionIndex": 4,
+      "question": "Cultural distance measures fail to predict success because:",
+      "options": [
+        "A) Culture doesn't matter",
+        "B) They oversimplify culture and ignore adaptation",
+        "C) Perfect measurement",
+        "D) Static cultures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7f2fae80e08634023e1581334da98c84c387ae0",
+      "sectionIndex": 4,
+      "question": "Global value chains increase vulnerability through:",
+      "options": [
+        "A) Simplification",
+        "B) Interdependence creating systemic risks",
+        "C) Perfect resilience",
+        "D) Local sourcing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "509bb0705e72b1d6a3b2a854db75b2abb0ef5916",
+      "sectionIndex": 4,
+      "question": "The race to the bottom hypothesis is contradicted by:",
+      "options": [
+        "A) Universal decline",
+        "B) Quality regulations and efficiency wages in some sectors",
+        "C) No standards exist",
+        "D) Continuous degradation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cecd07aa842c6707269224fa2e26fa3a51c20851",
+      "sectionIndex": 4,
+      "question": "Institutional voids in emerging markets create opportunities for:",
+      "options": [
+        "A) Government only",
+        "B) Business groups and market-creating innovations",
+        "C) Exit only",
+        "D) Standard strategies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8097f448104a3ba57490ce5cb61e93a9ca33150c",
+      "sectionIndex": 4,
+      "question": "De-globalization trends reflect:",
+      "options": [
+        "A) Irreversible integration",
+        "B) Political backlash and technological sovereignty concerns",
+        "C) Increasing integration",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84a8b8d604889338d2e5a6e8f8d2b2e737cd8125",
+      "sectionIndex": 5,
+      "question": "The romance of leadership bias leads to:",
+      "options": [
+        "A) Accurate attribution",
+        "B) Over-attributing outcomes to leaders versus context",
+        "C) Ignoring leaders",
+        "D) Perfect assessment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a483632d48fa9d3e434932e185e4ef83912a5f08",
+      "sectionIndex": 5,
+      "question": "Authentic leadership's dark side includes:",
+      "options": [
+        "A) No negatives",
+        "B) Rigidity and self-justification of harmful behaviors",
+        "C) Too much change",
+        "D) Inauthenticity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99ab413ef4cac1e92ed687d078a2be2b548d57ff",
+      "sectionIndex": 5,
+      "question": "The fundamental attribution error in leadership assessment means:",
+      "options": [
+        "A) Accurate evaluation",
+        "B) Overweighting personality versus situational factors",
+        "C) Context focus only",
+        "D) Perfect judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f9e5f5cb56085141d3d98636492b34a394a9d2d",
+      "sectionIndex": 5,
+      "question": "Distributed leadership challenges include:",
+      "options": [
+        "A) Clear accountability",
+        "B) Coordination costs and accountability diffusion",
+        "C) Simple implementation",
+        "D) Traditional hierarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c31c08c80114a18ed8c3b7bffe2c2bbc89c34b27",
+      "sectionIndex": 5,
+      "question": "The leadership pipeline problem reflects:",
+      "options": [
+        "A) Abundant talent",
+        "B) Skills needed at each level differ fundamentally",
+        "C) Easy transitions",
+        "D) Universal competencies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0846f3911b17d86903a321aa80a41955b97a6f7b",
+      "sectionIndex": 5,
+      "question": "Toxic leadership persists in organizations due to:",
+      "options": [
+        "A) Poor performance",
+        "B) Short-term results masking long-term damage",
+        "C) Easy identification",
+        "D) Quick removal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32441532cf031eaa91c814ea96202a4c338ad65b",
+      "sectionIndex": 5,
+      "question": "Cross-cultural leadership effectiveness requires:",
+      "options": [
+        "A) One style fits all",
+        "B) Cultural intelligence and adaptive capacity",
+        "C) Ignoring differences",
+        "D) Home country practices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27546e7d285b64b73417563ea59dd59a99395e55",
+      "sectionIndex": 5,
+      "question": "The glass cliff phenomenon suggests:",
+      "options": [
+        "A) Equal opportunity",
+        "B) Women and minorities get leadership roles in crisis situations",
+        "C) No discrimination",
+        "D) Random selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1dc6c842e0adbbf4c3c9dad06ab25b26e09c775b",
+      "sectionIndex": 5,
+      "question": "Narcissistic leaders' initial success often leads to:",
+      "options": [
+        "A) Sustained performance",
+        "B) Organizational destruction through hubris",
+        "C) Humility development",
+        "D) Team building"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa765565cdd95a3fbe079cd6678597090969af1b",
+      "sectionIndex": 5,
+      "question": "Crisis leadership effectiveness depends more on:",
+      "options": [
+        "A) Charisma only",
+        "B) Sense-making and meaning-making capabilities",
+        "C) Technical skills only",
+        "D) Past success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "075ec54ccf680a4dd897571776b0f5553e888b8e",
+      "sectionIndex": 6,
+      "question": "The innovation dilemma for established firms stems from:",
+      "options": [
+        "A) Lack of resources",
+        "B) Success with current customers constraining future options",
+        "C) No R&D",
+        "D) Perfect foresight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae780ff6a48445648178236d85cd8725af492b53",
+      "sectionIndex": 6,
+      "question": "Open innovation's challenges include:",
+      "options": [
+        "A) Too much control",
+        "B) IP management and knowledge leakage",
+        "C) No external ideas",
+        "D) Perfect collaboration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0827897d0833164bfbc39fa94475687fafac3ac8",
+      "sectionIndex": 6,
+      "question": "The valley of death in innovation refers to:",
+      "options": [
+        "A) Geographic location",
+        "B) Gap between research and commercialization",
+        "C) Immediate success",
+        "D) No funding needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bedb83e18d548ecfbd873f864184c009b81b8b3",
+      "sectionIndex": 6,
+      "question": "Absorptive capacity limitations mean:",
+      "options": [
+        "A) All knowledge transfers",
+        "B) Prior related knowledge determines learning ability",
+        "C) Perfect absorption",
+        "D) Knowledge doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41f6d7bdaa73424f342ca73a2f1e217700d888e1",
+      "sectionIndex": 6,
+      "question": "Innovation ecosystems' effectiveness depends on:",
+      "options": [
+        "A) Single actors",
+        "B) Complex interdependencies and alignment",
+        "C) Simple transactions",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0305665d69812cd5fe59b242cea7e0bf28fca70f",
+      "sectionIndex": 6,
+      "question": "The innovator's bias includes:",
+      "options": [
+        "A) Perfect market assessment",
+        "B) Overestimating demand for novel features",
+        "C) Conservative estimates",
+        "D) No optimism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d34305578db274b8ac12dc1cd0795f4a12503a1",
+      "sectionIndex": 6,
+      "question": "Frugal innovation's broader implications suggest:",
+      "options": [
+        "A) Only for poor markets",
+        "B) Resource constraints driving breakthrough innovation",
+        "C) Lower quality always",
+        "D) No developed market relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "685132acdf1d3608bd122a38658bf64fdc14535f",
+      "sectionIndex": 6,
+      "question": "Innovation metrics' dysfunction occurs when:",
+      "options": [
+        "A) Perfect measurement",
+        "B) What's measured drives behavior away from breakthrough innovation",
+        "C) No measurement needed",
+        "D) Metrics don't influence behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "104e8f63ce6c83bd35b640540b680380e935bd47",
+      "sectionIndex": 6,
+      "question": "Technology S-curves' limitation is:",
+      "options": [
+        "A) Perfect prediction",
+        "B) Multiple competing S-curves and discontinuities",
+        "C) Linear progress",
+        "D) Single technology paths"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d11366156ff352841f634cad57451258add7469",
+      "sectionIndex": 6,
+      "question": "Innovation ambidexterity requires:",
+      "options": [
+        "A) Focus on one type",
+        "B) Structural separation with senior integration",
+        "C) Mixed approaches",
+        "D) No organization needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b1629117b089806d2b451a5fc76c775cb639747",
+      "sectionIndex": 7,
+      "question": "Supply chain resilience versus efficiency represents:",
+      "options": [
+        "A) No trade-off",
+        "B) Fundamental tension between cost and risk",
+        "C) Always choose efficiency",
+        "D) Always choose resilience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8737b1d8c7fc611cc59d60cede5b1e9cc2dc02d3",
+      "sectionIndex": 7,
+      "question": "The bullwhip effect persists despite IT because:",
+      "options": [
+        "A) Perfect information sharing",
+        "B) Behavioral factors and misaligned incentives",
+        "C) Technology solves all",
+        "D) No coordination needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc24087d2b902ddc7ebae03311ce7f596d66732c",
+      "sectionIndex": 7,
+      "question": "Supply chain finance innovations create new risks through:",
+      "options": [
+        "A) Simplification",
+        "B) Interconnected financial and operational risks",
+        "C) Risk elimination",
+        "D) Perfect hedging"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "856acbf8d0e53322b44d85e147817aeb6766f9f7",
+      "sectionIndex": 7,
+      "question": "Blockchain in supply chain's reality versus hype shows:",
+      "options": [
+        "A) Universal solution",
+        "B) Limited applications due to coordination and standardization challenges",
+        "C) No benefits",
+        "D) Immediate transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b428ccc30c9302b84fdd508ab34477d98479080b",
+      "sectionIndex": 7,
+      "question": "Near-shoring trends reflect:",
+      "options": [
+        "A) Cost focus only",
+        "B) Total cost including risk and responsiveness",
+        "C) Globalization acceleration",
+        "D) No change needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5498727c3b5924b98a4085301c64b1995093bcfb",
+      "sectionIndex": 7,
+      "question": "Supply chain segmentation complexity arises from:",
+      "options": [
+        "A) One size fits all",
+        "B) Multiple supply chains with different characteristics",
+        "C) Simple solutions",
+        "D) Uniform treatment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2513e70c17b4ac85ea02a9edca55e0d387e593e1",
+      "sectionIndex": 7,
+      "question": "Circular economy supply chains face barriers of:",
+      "options": [
+        "A) Easy implementation",
+        "B) Economic viability and coordination challenges",
+        "C) No benefits",
+        "D) Linear is better"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbfca8915f4d33d8291993ee8a3bbb4f6a6e97d7",
+      "sectionIndex": 7,
+      "question": "AI in supply chain planning is limited by:",
+      "options": [
+        "A) Perfect predictions",
+        "B) Data quality and human-AI collaboration needs",
+        "C) Full automation",
+        "D) No human needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e4315f1327e5519bc1e445fd454780ed585845e",
+      "sectionIndex": 7,
+      "question": "Supply chain orchestrators' power comes from:",
+      "options": [
+        "A) Asset ownership",
+        "B) Information and relationship control",
+        "C) Manufacturing only",
+        "D) Simple coordination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "752554b691ed4ffa011cd408a9b711537287f34e",
+      "sectionIndex": 7,
+      "question": "Multi-tier supply chain risks are difficult to manage due to:",
+      "options": [
+        "A) Full visibility",
+        "B) Limited visibility and indirect relationships",
+        "C) Simple chains",
+        "D) Perfect control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6c33b4fc78f14ee0ce94d17f50bb57fcc202fae",
+      "sectionIndex": 8,
+      "question": "Digital transformation failure rates remain high due to:",
+      "options": [
+        "A) Technology problems only",
+        "B) Underestimating organizational and cultural change",
+        "C) Perfect execution",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4ffb85f279e3f0f51a777b8fa494d42201e93f6",
+      "sectionIndex": 8,
+      "question": "The productivity paradox in IT investments suggests:",
+      "options": [
+        "A) Clear returns",
+        "B) Benefits require complementary organizational changes",
+        "C) Technology doesn't matter",
+        "D) Immediate payoff"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91ec47846e1fc5de7a9beee8fa7cb2fc3ee08e87",
+      "sectionIndex": 8,
+      "question": "Platform envelopment strategies show:",
+      "options": [
+        "A) Peaceful coexistence",
+        "B) Platforms leveraging user bases to enter adjacent markets",
+        "C) No competition",
+        "D) Stable boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3af5abc2413f84eec1726563fe699a2681c0c91c",
+      "sectionIndex": 8,
+      "question": "Data monetization ethical dilemmas include:",
+      "options": [
+        "A) No issues",
+        "B) Privacy versus personalization trade-offs",
+        "C) Clear guidelines",
+        "D) Universal consent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59711d87a3c88c8e39346c6b2cd9cc7bb991b46f",
+      "sectionIndex": 8,
+      "question": "Algorithmic management's unintended consequences include:",
+      "options": [
+        "A) Perfect fairness",
+        "B) Gaming behaviors and dehumanization",
+        "C) No problems",
+        "D) Enhanced humanity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31a52c6d4a2a55e51b2ecf3e67304972f203212e",
+      "sectionIndex": 8,
+      "question": "Digital divide 2.0 refers to:",
+      "options": [
+        "A) Access only",
+        "B) Skills and usage gaps despite access",
+        "C) No divide exists",
+        "D) Hardware only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de9405293b2d6061200596de1ef16467d9b537b8",
+      "sectionIndex": 8,
+      "question": "Cybersecurity as competitive advantage requires:",
+      "options": [
+        "A) Basic protection",
+        "B) Security by design and resilience planning",
+        "C) Reactive measures",
+        "D) IT department only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b96717abcfaaa98a8eac97b4117d95382fea774e",
+      "sectionIndex": 8,
+      "question": "The API economy creates value through:",
+      "options": [
+        "A) Closed systems",
+        "B) Modular innovation and ecosystem leverage",
+        "C) Internal focus",
+        "D) Proprietary only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bca41cb87f3c82d6f79e924d57c1db3cda3411a9",
+      "sectionIndex": 8,
+      "question": "Digital ethics frameworks struggle with:",
+      "options": [
+        "A) Clear principles",
+        "B) Cultural relativism and rapid technological change",
+        "C) Universal agreement",
+        "D) Simple applications"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a704855f6c61bbb38e56040c8719418a2b00993c",
+      "sectionIndex": 8,
+      "question": "Quantum computing's business implications include:",
+      "options": [
+        "A) Incremental change",
+        "B) Fundamental disruption to encryption and optimization",
+        "C) No impact",
+        "D) Distant future only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a450eaa14ba606858df1f7888d71c1b7948eefdb",
+      "sectionIndex": 9,
+      "question": "Stakeholder capitalism's implementation challenges include:",
+      "options": [
+        "A) Clear priorities",
+        "B) Balancing conflicting stakeholder interests",
+        "C) Shareholder focus only",
+        "D) Simple measurement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd3138d8d409f77e8d5d8e90b9ad8da2f79d5551",
+      "sectionIndex": 9,
+      "question": "ESG investing's effectiveness is debated due to:",
+      "options": [
+        "A) Clear impact",
+        "B) Greenwashing and measurement inconsistencies",
+        "C) No interest",
+        "D) Perfect standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bfb39f6af95b5a48e859c8d9abe0ba621bbf0cc",
+      "sectionIndex": 9,
+      "question": "The future of work paradox shows:",
+      "options": [
+        "A) Clear trends",
+        "B) Simultaneous job displacement and talent shortages",
+        "C) No change",
+        "D) Universal impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b618f87185551c4f333f650f6eaeea80ba2767a3",
+      "sectionIndex": 9,
+      "question": "Organizational design for complexity requires:",
+      "options": [
+        "A) More hierarchy",
+        "B) Adaptive structures and emergent coordination",
+        "C) Simple structures",
+        "D) Fixed designs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62695eaaba37ad31835ed4089dc9e2e1c429fe12",
+      "sectionIndex": 9,
+      "question": "Behavioral strategy's insights reveal:",
+      "options": [
+        "A) Rational decision making",
+        "B) Systematic biases in strategic decisions",
+        "C) Perfect judgment",
+        "D) No biases exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4dbd73336eefd0d76899b88b97ce9eac9b0ee6c1",
+      "sectionIndex": 9,
+      "question": "The attention economy creates:",
+      "options": [
+        "A) Abundant focus",
+        "B) Scarcity of attention as key constraint",
+        "C) No competition",
+        "D) Unlimited attention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bffaf3fba41173fa77926498891f6affa5568bf4",
+      "sectionIndex": 9,
+      "question": "Post-pandemic business models show:",
+      "options": [
+        "A) Return to normal",
+        "B) Hybrid approaches and resilience focus",
+        "C) No lasting change",
+        "D) Single solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "378927fc841df3487821db51f4233083992c29dc",
+      "sectionIndex": 9,
+      "question": "Regenerative business models go beyond sustainability by:",
+      "options": [
+        "A) Maintaining status quo",
+        "B) Creating positive environmental and social impact",
+        "C) Minimizing harm only",
+        "D) Profit focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91b9c4f75ce1721250a3fdcc476d219c0b874214",
+      "sectionIndex": 9,
+      "question": "Management education's crisis reflects:",
+      "options": [
+        "A) Perfect preparation",
+        "B) Gap between academic theory and practical complexity",
+        "C) No issues",
+        "D) Universal relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55b3a3c651df735d862d32b5729f20c191498b6a",
+      "sectionIndex": 9,
+      "question": "The complexity leadership paradigm suggests:",
+      "options": [
+        "A) Leaders control everything",
+        "B) Leaders enable conditions for emergence",
+        "C) Simple cause-effect",
+        "D) Predictable outcomes"
+      ],
+      "correct": "B"
+    }
+  ]
+}

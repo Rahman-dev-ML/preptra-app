@@ -1,0 +1,385 @@
+{
+  "subject": "Constitutional Law (CSS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 16,
+  "categories": [
+    "Syllabus & Strategy",
+    "Core Doctrines",
+    "United Kingdom",
+    "United States",
+    "Pakistan",
+    "India",
+    "France & Comparative Semi-Presidentialism",
+    "Russia/USSR",
+    "Historical Instruments",
+    "Elections & Institutions"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Official Syllabus & Paper Strategy",
+      "content": "Anchor prep on the FPSC syllabus, then map high-frequency areas (Parliamentary Sovereignty, Judicial Review, Federalism, Emergency Provisions, 18th Amendment) to past papers (2001–2024). Practice timed answers that compare at least two systems (UK/US/India/Pakistan) and cite one key case or article per paragraph.",
+      "keyTakeaways": [
+        "Use the official syllabus headings to build your notes tree.",
+        "Answer comparatively; markers reward cross-jurisdiction links.",
+        "Keep a mini case-bank: Marbury, Dosso, Asma Jilani, Nusrat Bhutto, Kesavananda."
+      ],
+      "resources": [
+        {
+          "title": "CSS Constitutional Law Syllabus (PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Constitutional-Law-CSS-Syllabus.pdf",
+          "type": "syllabus",
+          "description": "Official outline: concepts, structures, country coverage."
+        }
+      ],
+      "importance": "very high",
+      "category": "Syllabus & Strategy",
+      "topics": ["CSS Syllabus", "Past Papers", "Answer Structure"]
+    },
+    {
+      "id": "2",
+      "title": "Rule of Law (Dicey) & Parliamentary Sovereignty",
+      "content": "Dicey's three pillars (supremacy of law, equality before law, predominance of legal spirit) recur with critiques (administrative law, rights instruments, judicial review). Parliamentary sovereignty classically means Parliament can make/unmake any law; modern constraints include devolution, rights instruments, and political conventions.",
+      "keyTakeaways": [
+        "Define Dicey succinctly, then show modern qualifications.",
+        "Explain sovereignty with one current limit (e.g., judicial review's practical limits in UK vs. strong-form in US).",
+        "Use examples: Parliament Acts 1911/1949, UK Supreme Court creation (2009)."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Dicey on Rule of Law",
+          "url": "https://publications.parliament.uk/pa/ld200607/ldselect/ldconst/151/15115.htm",
+          "type": "official explainer",
+          "description": "Authoritative summary and critique."
+        },
+        {
+          "title": "UK Parliament — Parliamentary Sovereignty (Dicey quote)",
+          "url": "https://publications.parliament.uk/pa/ld5801/ldselect/ldconst/151/15110.htm",
+          "type": "official explainer",
+          "description": "Classic definition with modern context."
+        }
+      ],
+      "importance": "very high",
+      "category": "Core Doctrines",
+      "topics": ["Rule of Law", "Parliamentary Sovereignty", "Conventions"]
+    },
+    {
+      "id": "3",
+      "title": "Judicial Review (US focus, comparative)",
+      "content": "Define judicial review and contrast US strong-form review with UK's parliamentary sovereignty and India/Pakistan's constitutional review. Use Marbury v. Madison for US origin; add one Pakistani and one Indian landmark for breadth.",
+      "keyTakeaways": [
+        "Marbury v. Madison (1803) crystallized judicial review in the US.",
+        "Pakistan: Article 199/184(3) use; landmark swings (Dosso → Asma Jilani).",
+        "India: Basic Structure limits Parliament despite Article 368."
+      ],
+      "resources": [
+        {
+          "title": "Oyez — Marbury v. Madison (1803)",
+          "url": "https://www.oyez.org/cases/1789-1850/5us137",
+          "type": "case summary",
+          "description": "Facts, issue, holding, significance."
+        }
+      ],
+      "importance": "very high",
+      "category": "Core Doctrines",
+      "topics": ["Judicial Review", "Separation of Powers"]
+    },
+    {
+      "id": "4",
+      "title": "US Separation of Powers & Checks and Balances",
+      "content": "Explain functional separation (Articles I–III) and mutual checks (veto, judicial review, impeachment, Senate advice/consent). Use one contemporary illustration (e.g., impeachment standards or judicial appointments) to show application.",
+      "keyTakeaways": [
+        "Memorize 3–4 concrete checks for essays/MCQs.",
+        "Tie checks to constitutional text (Articles I–III, II §2).",
+        "Contrast with parliamentary fusion of powers (UK/India/Pakistan)."
+      ],
+      "resources": [
+        {
+          "title": "National Archives (context via current exhibits/news)",
+          "url": "https://www.washingtonpost.com/dc-md-va/2025/09/29/us-constitution-display-visitors-archives/",
+          "type": "news context",
+          "description": "Public interest and living-document framing."
+        }
+      ],
+      "importance": "high",
+      "category": "United States",
+      "topics": ["Checks and Balances", "Articles I–III", "Impeachment"]
+    },
+    {
+      "id": "5",
+      "title": "US Constitutional Amendments (Article V) & Living vs. Originalist Debate",
+      "content": "Outline Article V pathways; cite examples (Bill of Rights, 14th Amendment). Briefly note interpretive debates (living constitution vs. originalism) to frame essay conclusions.",
+      "keyTakeaways": [
+        "State the two amendment routes (Congress + States; Convention).",
+        "Use 14th Amendment as a versatile example (due process, equal protection).",
+        "Finish with interpretive debates to elevate analysis."
+      ],
+      "resources": [
+        {
+          "title": "Recent scholarship framing the Constitution as evolving",
+          "url": "https://www.ft.com/content/aeb1cdd3-b63a-4585-8b7d-cb70b2e30d3b",
+          "type": "analysis",
+          "description": "Contemporary debate on constitutional change."
+        }
+      ],
+      "importance": "medium",
+      "category": "United States",
+      "topics": ["Article V", "Amendments", "Living Constitution"]
+    },
+    {
+      "id": "6",
+      "title": "Pakistan's 1973 Constitution (Text & Structure)",
+      "content": "Know Preamble/Objective Resolution, Federal–Provincial design, Islamic provisions, Fundamental Rights (Arts. 8–28), Parliament, Judiciary (Arts. 175A, 184(3)), and amendment history (esp. 18th).",
+      "keyTakeaways": [
+        "Cite provisions precisely (Article numbers).",
+        "Use 18th Amendment for federalism/autonomy arguments.",
+        "Keep a short index of Articles for quick recall."
+      ],
+      "resources": [
+        {
+          "title": "1973 Constitution (official text, updated)",
+          "url": "https://www.pakp.gov.pk/wp-content/uploads/2024/07/Constitution.pdf",
+          "type": "primary text",
+          "description": "Authoritative PDF of the Constitution."
+        }
+      ],
+      "importance": "very high",
+      "category": "Pakistan",
+      "topics": ["Fundamental Rights", "Federalism", "18th Amendment"]
+    },
+    {
+      "id": "7",
+      "title": "Pakistan — Landmark Cases: Dosso, Asma Jilani, Nusrat Bhutto",
+      "content": "Trace the arc: Dosso (1958) validated extra-constitutional change via Kelsen/necessity; Asma Jilani (1972) repudiated Dosso and declared Yahya's regime illegal; Nusrat Bhutto (1977) revived necessity to validate 1977 takeover.",
+      "keyTakeaways": [
+        "Explain Kelsen's 'grundnorm' misuse in Dosso.",
+        "Show doctrinal reversal in Asma Jilani and its significance.",
+        "Use Nusrat Bhutto to discuss doctrine of necessity's legacy."
+      ],
+      "resources": [
+        {
+          "title": "Dosso Case (overview)",
+          "url": "https://en.wikipedia.org/wiki/Dosso_case",
+          "type": "reference",
+          "description": "Background and holding."
+        },
+        {
+          "title": "Asma Jilani v. Government of the Punjab (PLD 1972 SC 139) — summary",
+          "url": "https://the-legal.org/asma-jilani-v-government-of-the-punjab/",
+          "type": "case note",
+          "description": "Bench, citation, effect (overruling Dosso)."
+        },
+        {
+          "title": "Nusrat Bhutto v. Chief of Army Staff (PLD 1977 SC 657) — document",
+          "url": "https://sanipanhwar.com/uploads/books/2024-08-27_09-48-51_034ca6960022c21c71ab2b747a976618.pdf",
+          "type": "primary/scan",
+          "description": "Petition and court reasoning excerpts."
+        }
+      ],
+      "importance": "very high",
+      "category": "Pakistan",
+      "topics": ["Doctrine of Necessity", "Kelsen", "Martial Law", "Judicial Review"]
+    },
+    {
+      "id": "8",
+      "title": "Pakistan — Fundamental Rights & Article 184(3)",
+      "content": "Scope of Supreme Court's original jurisdiction in matters of public importance with reference to enforcement of fundamental rights; discuss benefits and concerns (judicial activism, separation of powers).",
+      "keyTakeaways": [
+        "Define tests: public importance + FR enforcement.",
+        "Argue benefits (accountability) vs. risks (policy overreach).",
+        "Cite one seminal 184(3) case in conclusion."
+      ],
+      "resources": [
+        {
+          "title": "1973 Constitution (primary text)",
+          "url": "https://www.pakp.gov.pk/wp-content/uploads/2024/07/Constitution.pdf",
+          "type": "primary text",
+          "description": "Articles 8–28 and 184(3)."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan",
+      "topics": ["Fundamental Rights", "Judicial Activism", "Original Jurisdiction"]
+    },
+    {
+      "id": "9",
+      "title": "India — Federalism, Basic Structure & Emergency",
+      "content": "Explain 'Union' tilt (quasi-federal features), Basic Structure doctrine limiting Article 368 (Kesavananda line), and Emergency provisions (Arts. 352–360) with judicial review.",
+      "keyTakeaways": [
+        "List federal indicators: Seventh Schedule, residuary powers, All-India Services.",
+        "Basic Structure is judge-made limit on amendment power.",
+        "Use 1975–77 Emergency as a worked example."
+      ],
+      "resources": [
+        {
+          "title": "Government of India Act 1935 (precursor influence)",
+          "url": "https://www.legislation.gov.uk/ukpga/1935/2/pdfs/ukpga_19350002_en.pdf",
+          "type": "primary text",
+          "description": "Structural antecedent to Indian and Pakistani constitutions."
+        }
+      ],
+      "importance": "very high",
+      "category": "India",
+      "topics": ["Basic Structure", "Emergency", "Quasi-Federalism"]
+    },
+    {
+      "id": "10",
+      "title": "Government of India Act 1935 — Salient Features & Legacy",
+      "content": "Federal scheme (never fully operational), provincial autonomy, bicameralism, strong Governor-General, separate electorates. Frequently asked for features + influence on 1956/1962/1973 and 1950 (India).",
+      "keyTakeaways": [
+        "Memorize 6–8 features for short answers.",
+        "Explain why federal part remained inoperative.",
+        "Link specific features to later constitutions."
+      ],
+      "resources": [
+        {
+          "title": "Government of India Act, 1935 (PDF)",
+          "url": "https://www.thehinducentre.com/the-arena/current-issues/article26618545.ece/binary/ukpga_19350002_en.pdf",
+          "type": "primary text",
+          "description": "Full statutory text."
+        }
+      ],
+      "importance": "high",
+      "category": "Historical Instruments",
+      "topics": ["GOI 1935", "Provincial Autonomy", "Governor-General"]
+    },
+    {
+      "id": "11",
+      "title": "UK — Sources & Conventions; Parliament Acts 1911/1949",
+      "content": "List sources: statutes, common law, conventions, works of authority, EU/retained law, prerogatives. Explain conventions (e.g., Monarch PM appointment, collective responsibility). Note the Parliament Acts' curtailment of Lords' veto.",
+      "keyTakeaways": [
+        "Differentiate legal vs. non-legal sources (conventions).",
+        "Use Parliament Acts to show legislative supremacy in practice.",
+        "Add 2009 creation of UK Supreme Court replacing Appellate Committee."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Rule of Law/Dicey context",
+          "url": "https://publications.parliament.uk/pa/ld200607/ldselect/ldconst/151/15115.htm",
+          "type": "official explainer",
+          "description": "Context for sources and constraints."
+        }
+      ],
+      "importance": "high",
+      "category": "United Kingdom",
+      "topics": ["Conventions", "Sources", "Parliament Acts", "UKSC"]
+    },
+    {
+      "id": "12",
+      "title": "France — Fifth Republic Semi-Presidentialism",
+      "content": "Define semi-presidentialism: dual executive (directly elected President + PM responsible to Parliament). Cover cohabitation, decree powers, and President's defense/foreign policy role.",
+      "keyTakeaways": [
+        "Contrast with pure presidential (US) and parliamentary (UK).",
+        "Explain cohabitation and policy gridlock vs. balance.",
+        "Use as a comparator when asked 'hybrid system' questions."
+      ],
+      "resources": [
+        {
+          "title": "Standard constitutional texts/handbooks (pair with syllabus)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Constitutional-Law-CSS-Syllabus.pdf",
+          "type": "syllabus anchor",
+          "description": "France listed in comparative portion."
+        }
+      ],
+      "importance": "medium",
+      "category": "France & Comparative Semi-Presidentialism",
+      "topics": ["Semi-Presidentialism", "Cohabitation", "Dual Executive"]
+    },
+    {
+      "id": "13",
+      "title": "Russia vs. USSR — Structures & Democratic Centralism",
+      "content": "Differentiate Soviet organs (Supreme Soviet, Party primacy, democratic centralism) from post-1993 Russian semi-presidential constitution (strong presidency, Constitutional Court).",
+      "keyTakeaways": [
+        "Define 'democratic centralism' clearly for MCQs.",
+        "List 3–4 salient features of 1993 Russian Constitution.",
+        "Use as contrast case for federalism and executive dominance."
+      ],
+      "resources": [
+        {
+          "title": "Overview comparisons in standard prep notes + statutes",
+          "url": "https://en.wikipedia.org/wiki/Dosso_case",
+          "type": "context (comparative trend cue)",
+          "description": "Use alongside Russian Constitution references."
+        }
+      ],
+      "importance": "medium",
+      "category": "Russia/USSR",
+      "topics": ["Democratic Centralism", "1993 Constitution", "Executive Power"]
+    },
+    {
+      "id": "14",
+      "title": "Pakistan — Objective Resolution (1949) & Islamization Clauses",
+      "content": "Explain the Resolution's incorporation and status; link to Islamic provisions in 1973 (e.g., Council of Islamic Ideology, repugnancy clauses) and rights discourse.",
+      "keyTakeaways": [
+        "Place within constitutional history narrative.",
+        "Balance Islamic provisions with fundamental rights in analysis.",
+        "Use one court reference where relevant."
+      ],
+      "resources": [
+        {
+          "title": "1973 Constitution (primary text reference point)",
+          "url": "https://www.pakp.gov.pk/wp-content/uploads/2024/07/Constitution.pdf",
+          "type": "primary text",
+          "description": "Anchors citations to Articles."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan",
+      "topics": ["Objective Resolution", "Islamization", "Council of Islamic Ideology"]
+    },
+    {
+      "id": "15",
+      "title": "US Electoral College & Congressional Powers (Article I)",
+      "content": "Outline Electoral College composition and criticisms; summarize Article I powers (tax/spend, commerce, war declaration) and limits (habeas corpus, bills of attainder, ex post facto).",
+      "keyTakeaways": [
+        "Know the 538 total and majority threshold.",
+        "Use war powers vs. Commander-in-Chief to show inter-branch tension.",
+        "Mention recent practice controversies for currency."
+      ],
+      "resources": [
+        {
+          "title": "Contemporary reporting on constitutional text access issues",
+          "url": "https://nypost.com/2025/08/06/us-news/part-of-constitution-vanishes-from-government-website-due-to-error/",
+          "type": "news",
+          "description": "Shows public reliance on multiple official sources; use cautiously."
+        }
+      ],
+      "importance": "medium",
+      "category": "Elections & Institutions",
+      "topics": ["Electoral College", "Article I Powers", "Rights Limits"]
+    },
+    {
+      "id": "16",
+      "title": "Quick Case Cards (One-liners for Essays/MCQs)",
+      "content": "Keep 1–2 line holdings and significance ready: Marbury (US JR origin), Dosso (necessity; later repudiated), Asma Jilani (illegality of martial law), Nusrat Bhutto (necessity revival), plus add Indian Basic Structure (Kesavananda) from your own reading.",
+      "keyTakeaways": [
+        "Name → Year → Holding → Why it matters.",
+        "Deploy one comparator per long answer.",
+        "Cite article numbers or constitutional provisions with each card."
+      ],
+      "resources": [
+        {
+          "title": "Oyez — Marbury",
+          "url": "https://www.oyez.org/cases/1789-1850/5us137",
+          "type": "case summary",
+          "description": "Anchor for JR."
+        },
+        {
+          "title": "Dosso overview (quick read)",
+          "url": "https://www.nayalegal.com/dosso-v-federation-of-pakistan",
+          "type": "case note",
+          "description": "Context + Kelsen angle."
+        },
+        {
+          "title": "Asma Jilani case note",
+          "url": "https://the-legal.org/asma-jilani-v-government-of-the-punjab/",
+          "type": "case note",
+          "description": "Bench and significance."
+        }
+      ],
+      "importance": "high",
+      "category": "Core Doctrines",
+      "topics": ["Case Law", "One-liners", "Comparative Use"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:34:09.190Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "400c07525c8930fbd8699ad8dfb077972c1438b4",
+      "sectionIndex": 0,
+      "question": "How do Marx and Durkheim's views on division of labor differ?",
+      "options": [
+        "A) Both see it as purely beneficial",
+        "B) Marx sees it as alienating, Durkheim as promoting organic solidarity",
+        "C) Both see it as harmful",
+        "D) They have identical views"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4315a946614bb38456c555f40a7487f00c2563c1",
+      "sectionIndex": 0,
+      "question": "Ibn Khaldun's concept of Asabiya compared to Durkheim's social solidarity shows:",
+      "options": [
+        "A) No similarities",
+        "B) Both emphasize group cohesion but in different contexts",
+        "C) Complete opposition",
+        "D) Asabiya is only economic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04f8641811b9de0aecf5271c120d2177760ae369",
+      "sectionIndex": 0,
+      "question": "Weber's Protestant Ethic thesis argues that:",
+      "options": [
+        "A) Religion has no economic impact",
+        "B) Calvinist beliefs contributed to capitalism's development",
+        "C) Capitalism created Protestantism",
+        "D) All religions promote capitalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f56e5c697e434381dc0f25e49095191f6408d0c5",
+      "sectionIndex": 0,
+      "question": "The key difference between Marx's and Weber's view on class is:",
+      "options": [
+        "A) Marx focuses on economics, Weber includes status and power",
+        "B) They are identical",
+        "C) Weber ignores economics",
+        "D) Marx includes multiple dimensions"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e96f687465ac55dc1505c98f02882a66a6f523f8",
+      "sectionIndex": 0,
+      "question": "Durkheim's mechanical solidarity differs from organic solidarity in that:",
+      "options": [
+        "A) Both are identical",
+        "B) Mechanical is based on similarity, organic on interdependence",
+        "C) Organic is primitive",
+        "D) Mechanical is modern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27b747616a3be42491aaca8eb7a827dab68ce4b0",
+      "sectionIndex": 0,
+      "question": "Marx's concept of alienation includes all EXCEPT:",
+      "options": [
+        "A) Alienation from product",
+        "B) Alienation from process",
+        "C) Alienation from species-being",
+        "D) Alienation from social solidarity"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9eb860ce371eb702414fb8d940ac98a8a23f69f5",
+      "sectionIndex": 0,
+      "question": "Comte's positivism influenced sociology by:",
+      "options": [
+        "A) Rejecting scientific methods",
+        "B) Advocating for scientific study of society",
+        "C) Promoting religious explanations",
+        "D) Focusing on speculation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d65ce5d05c7b87a58d7550933e32923e979062c5",
+      "sectionIndex": 0,
+      "question": "Weber's ideal type methodology is used for:",
+      "options": [
+        "A) Describing perfect societies",
+        "B) Creating analytical tools for comparison",
+        "C) Prescribing social solutions",
+        "D) Rejecting empirical research"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b0fc03db1d6b4976d7bcfc7b5131ab70c42b21c",
+      "sectionIndex": 0,
+      "question": "The debate between Ibn Khaldun and Comte as sociology's founder centers on:",
+      "options": [
+        "A) Their similar time periods",
+        "B) Ibn Khaldun's earlier systematic social analysis",
+        "C) Comte's Middle Eastern influence",
+        "D) Their collaboration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33f1d3e5ff2bb0b2196ccb26eb87a3de32afe54c",
+      "sectionIndex": 0,
+      "question": "Durkheim's study of suicide demonstrated that:",
+      "options": [
+        "A) Suicide is purely psychological",
+        "B) Social factors influence individual behavior",
+        "C) Religion prevents all suicide",
+        "D) Statistics are irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f0d384cd46e2ed45f03b66113a060f5c93808a1",
+      "sectionIndex": 0,
+      "question": "Marx's historical materialism suggests:",
+      "options": [
+        "A) Ideas drive history",
+        "B) Material conditions shape society and ideas",
+        "C) History is random",
+        "D) Economics is irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a782da221875458f77200c84e3d8d77e312c9532",
+      "sectionIndex": 0,
+      "question": "Weber's concept of rationalization refers to:",
+      "options": [
+        "A) Emotional decision-making",
+        "B) Increasing calculation and efficiency in modern life",
+        "C) Return to tradition",
+        "D) Rejection of bureaucracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e24727fe97ac35fd454349ef5699a8f02faa606",
+      "sectionIndex": 0,
+      "question": "Compare functionalist and conflict perspectives on education:",
+      "options": [
+        "A) Both see education as maintaining inequality",
+        "B) Functionalists see integration, conflict theorists see reproduction of inequality",
+        "C) Both reject education's importance",
+        "D) They have identical views"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14e5935534e2ea6e35efd6b5e973a8266fd10917",
+      "sectionIndex": 1,
+      "question": "When studying drug addiction in Pakistan, the most appropriate method would be:",
+      "options": [
+        "A) Only surveys for quick data",
+        "B) Mixed methods combining quantitative prevalence and qualitative experiences",
+        "C) Laboratory experiments only",
+        "D) Historical analysis only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5324a4a8ba8f2b4fcfb1449c9a2ebbf42c18b6f",
+      "sectionIndex": 1,
+      "question": "The difference between time-series, panel, and cohort studies is:",
+      "options": [
+        "A) They are identical",
+        "B) Time-series tracks variables over time, panel follows same subjects, cohort follows groups",
+        "C) All study single time points",
+        "D) None involve longitudinal data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "735bb275a0de6a1161f40a9bc5396c4a0e3972ff",
+      "sectionIndex": 1,
+      "question": "Internal validity can be threatened by:",
+      "options": [
+        "A) Large sample sizes",
+        "B) Selection bias, history effects, and maturation",
+        "C) Too much funding",
+        "D) Proper randomization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a61abd353a4e78cc515e5a720d5965a834f7912",
+      "sectionIndex": 1,
+      "question": "To study the impact of feudalism on rural Pakistan, researchers should:",
+      "options": [
+        "A) Only use urban samples",
+        "B) Combine ethnographic fieldwork with survey data",
+        "C) Rely on government statistics only",
+        "D) Avoid local contexts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07d3e75506a67bbcf15826c5f9c5c2dcee858214",
+      "sectionIndex": 1,
+      "question": "Ethnomethodology, as promoted by Garfinkel, examines:",
+      "options": [
+        "A) Large-scale social structures",
+        "B) How people create sense in everyday interactions",
+        "C) Historical documents only",
+        "D) Macro-level theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "570432b413b1c379da1e25ee4bd17e340c37c150",
+      "sectionIndex": 1,
+      "question": "When researching sensitive topics like domestic violence, ethical considerations include:",
+      "options": [
+        "A) No special considerations needed",
+        "B) Ensuring confidentiality, safety, and informed consent",
+        "C) Publishing all names",
+        "D) Avoiding the topic entirely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25321346ca6375287cde60dda2699643398607bf",
+      "sectionIndex": 1,
+      "question": "The choice between probability and non-probability sampling depends on:",
+      "options": [
+        "A) Researcher preference only",
+        "B) Research goals, resources, and population accessibility",
+        "C) Sample size only",
+        "D) Funding alone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f028b1a86b4d894e597278acfaed7d1f082bbe5e",
+      "sectionIndex": 1,
+      "question": "Qualitative research is most suitable when:",
+      "options": [
+        "A) Testing hypothesis with large samples",
+        "B) Exploring meanings, processes, and contexts",
+        "C) Needing statistical generalization",
+        "D) Variables are clearly defined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e4b4e4c7c94949ba48d057ea1cfb9252cf342f3",
+      "sectionIndex": 1,
+      "question": "Variables in studying poverty in Pakistan might include:",
+      "options": [
+        "A) Only income",
+        "B) Income, education, health access, and social capital",
+        "C) Only education",
+        "D) Only urban factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "222e098eca38b97d263302ef3dbbc25486c846b7",
+      "sectionIndex": 1,
+      "question": "Triangulation in research refers to:",
+      "options": [
+        "A) Studying triangles",
+        "B) Using multiple methods or sources to validate findings",
+        "C) Three research questions",
+        "D) Triple funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "038c25069e668d114482970267e5c23febb95fe7",
+      "sectionIndex": 1,
+      "question": "Ontological and epistemological considerations affect:",
+      "options": [
+        "A) Only data analysis",
+        "B) Fundamental assumptions about reality and knowledge",
+        "C) Sample size only",
+        "D) Research budget"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b34b42866b3c0b2048fb355840826d9b1fbc7cb",
+      "sectionIndex": 1,
+      "question": "Longitudinal studies are particularly valuable for studying:",
+      "options": [
+        "A) Single moments",
+        "B) Social change and causal relationships over time",
+        "C) Historical events only",
+        "D) Cross-sectional data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37dbd1950a2781b91a93c261eebd4ff210fae726",
+      "sectionIndex": 1,
+      "question": "The relationship between theory and research in sociology is:",
+      "options": [
+        "A) Unrelated",
+        "B) Iterative, with theory guiding research and findings refining theory",
+        "C) Theory always comes first",
+        "D) Research needs no theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95dd1bbe6b31b660ea495c16956d276f00683e3e",
+      "sectionIndex": 2,
+      "question": "The impact of industrialization on Pakistani family structure includes:",
+      "options": [
+        "A) No change",
+        "B) Shift from joint to nuclear families in urban areas",
+        "C) Strengthening of extended families",
+        "D) Elimination of families"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cda763e1ec1aa7e5fd4886d389fda894efd679fc",
+      "sectionIndex": 2,
+      "question": "Rural-urban migration in Pakistan creates:",
+      "options": [
+        "A) Only positive outcomes",
+        "B) Both opportunities and challenges including urban poverty",
+        "C) No significant changes",
+        "D) Only rural development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc4407408e1b2c50bce4c28279cd21ef439b81cc",
+      "sectionIndex": 2,
+      "question": "The role of social media in Pakistani youth culture demonstrates:",
+      "options": [
+        "A) No cultural impact",
+        "B) Cultural change through global connectivity and local adaptation",
+        "C) Complete westernization",
+        "D) Rejection of technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7707e623e9602e649dad508be3f00698712077e6",
+      "sectionIndex": 2,
+      "question": "The 18th Amendment's devolution has resulted in:",
+      "options": [
+        "A) Complete centralization",
+        "B) Complex federal-provincial dynamics and varied implementation",
+        "C) No changes",
+        "D) Elimination of federal government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11e3b9f21ac5a2cdac1639f95f287541304ecb17",
+      "sectionIndex": 2,
+      "question": "Education policy failures in Pakistan stem from:",
+      "options": [
+        "A) Single factor",
+        "B) Multiple issues including access, quality, and relevance",
+        "C) Too much funding",
+        "D) Excessive planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18b5116fc818b61197dc77279c10f680544f73dd",
+      "sectionIndex": 2,
+      "question": "The persistence of feudalism despite modernization shows:",
+      "options": [
+        "A) Complete social change",
+        "B) Uneven development and resistance to change",
+        "C) Feudalism doesn't exist",
+        "D) Modernization failure everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6f0de24ad67ddcf92db215d5c0fdd21bc8f8ca3",
+      "sectionIndex": 2,
+      "question": "Women's participation in Pakistan's workforce reflects:",
+      "options": [
+        "A) No barriers",
+        "B) Complex interplay of cultural, economic, and structural factors",
+        "C) Complete equality",
+        "D) No women work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87e13a3345f4ec778ab204abb4d217779cacccd1",
+      "sectionIndex": 2,
+      "question": "The youth bulge presents Pakistan with:",
+      "options": [
+        "A) Only problems",
+        "B) Both demographic dividend potential and employment challenges",
+        "C) No significant impact",
+        "D) Automatic development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cada6288d20da83eb6293cbb9b830779a734d047",
+      "sectionIndex": 2,
+      "question": "Religious extremism in Pakistan can be analyzed through:",
+      "options": [
+        "A) Single factor explanation",
+        "B) Multiple lenses including socioeconomic and political factors",
+        "C) Only religious texts",
+        "D) Western theories only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bad7671dc253b22b18281f4977bab519da02d80a",
+      "sectionIndex": 2,
+      "question": "Urbanization in Pakistan has led to:",
+      "options": [
+        "A) Uniform development",
+        "B) Unplanned growth, slums, and infrastructure challenges",
+        "C) Only positive outcomes",
+        "D) Rural prosperity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "980554f4bed674044c866bfc34b4c26f06efe953",
+      "sectionIndex": 2,
+      "question": "The relationship between education and social mobility in Pakistan shows:",
+      "options": [
+        "A) Direct correlation always",
+        "B) Complex relationship mediated by quality and social capital",
+        "C) No relationship",
+        "D) Education prevents mobility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3ed6ada5737b2fa265ae6990d90bf42227bc606",
+      "sectionIndex": 2,
+      "question": "Cultural lag in Pakistan is evident in:",
+      "options": [
+        "A) No areas",
+        "B) Technology adoption versus value system changes",
+        "C) Complete cultural harmony",
+        "D) Rejection of all change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d9c6438ecab29c2d53da7150a78f97acee7ec35",
+      "sectionIndex": 2,
+      "question": "The impact of Afghan war on Pakistani society includes:",
+      "options": [
+        "A) No effects",
+        "B) Refugee influx, militarization, and social tensions",
+        "C) Only economic benefits",
+        "D) Improved security"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd3606935076b95c939b9e6827a99426518d4b92",
+      "sectionIndex": 3,
+      "question": "Ethnocentrism versus xenocentrism in Karachi reflects:",
+      "options": [
+        "A) Homogeneous culture",
+        "B) Complex ethnic dynamics and cultural tensions",
+        "C) No cultural diversity",
+        "D) Complete harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "706a2bb140ede7e8df208d4eebc8b0b82b7c5795",
+      "sectionIndex": 3,
+      "question": "The caste and biradari system's persistence alongside modernization indicates:",
+      "options": [
+        "A) Complete traditional society",
+        "B) Hybrid social structures combining traditional and modern elements",
+        "C) No modern influences",
+        "D) Caste system elimination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0d0362bc3b1441d2a92386a1cfa65a476e04357",
+      "sectionIndex": 3,
+      "question": "Pakistani culture's relationship with global culture shows:",
+      "options": [
+        "A) Complete isolation",
+        "B) Selective adaptation and resistance patterns",
+        "C) Total westernization",
+        "D) No global influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa52b97286aba620d0af7eaf02ae2542a79001f5",
+      "sectionIndex": 3,
+      "question": "The role of language in Pakistani social stratification includes:",
+      "options": [
+        "A) No significance",
+        "B) English as cultural capital and social mobility marker",
+        "C) All languages equal status",
+        "D) Only Urdu matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e05831d62ec269e4df7608e7346b97be62784297",
+      "sectionIndex": 3,
+      "question": "Gender socialization in Pakistan involves:",
+      "options": [
+        "A) Single uniform process",
+        "B) Intersection of religion, tradition, and modernity",
+        "C) No gender differences",
+        "D) Western patterns only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d530a80cb8078ac7056eabf884ef37268d8c4e86",
+      "sectionIndex": 3,
+      "question": "The concept of izzat (honor) in Pakistani society functions as:",
+      "options": [
+        "A) Meaningless tradition",
+        "B) Social control mechanism affecting behavior and choices",
+        "C) Legal requirement",
+        "D) Economic system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0db6b8d3a0031502e46441cd0822bddc28a8154",
+      "sectionIndex": 3,
+      "question": "Media's role in cultural change in Pakistan demonstrates:",
+      "options": [
+        "A) No influence",
+        "B) Complex negotiation between local and global content",
+        "C) Complete cultural replacement",
+        "D) Only traditional programming"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "968372255b98d713fa49384a5b5a3616a62779d9",
+      "sectionIndex": 3,
+      "question": "Religious diversity in Pakistan creates:",
+      "options": [
+        "A) No social dynamics",
+        "B) Both interfaith cooperation and sectarian tensions",
+        "C) Complete harmony",
+        "D) Impossible coexistence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3420b092ee2311543c8a59f67a1ada481cf2edf",
+      "sectionIndex": 3,
+      "question": "The joint family system's adaptation shows:",
+      "options": [
+        "A) Complete breakdown",
+        "B) Modified forms maintaining support while allowing autonomy",
+        "C) No changes",
+        "D) Strengthening everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c26bef4b92152ba29290721398da6455069ff8d",
+      "sectionIndex": 3,
+      "question": "Cultural reproduction through education in Pakistan involves:",
+      "options": [
+        "A) Neutral transmission",
+        "B) Both preserving traditions and creating inequalities",
+        "C) Only modern values",
+        "D) No cultural content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ce971bd8a20489d34885aad0fcce6ded4c67360",
+      "sectionIndex": 3,
+      "question": "Subcultural groups in Pakistani cities demonstrate:",
+      "options": [
+        "A) Cultural uniformity",
+        "B) Diverse identities within broader cultural framework",
+        "C) No subcultures exist",
+        "D) Complete separation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea0fd0958844646db28e546d21944824c3381afb",
+      "sectionIndex": 3,
+      "question": "The relationship between culture and economic development in Pakistan shows:",
+      "options": [
+        "A) No connection",
+        "B) Cultural factors both enabling and constraining development",
+        "C) Culture irrelevant to economics",
+        "D) Economics determines all culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "957b2e29c28c1b94f814d399345c739952e3cb2e",
+      "sectionIndex": 3,
+      "question": "Marriage patterns in Pakistan reflect:",
+      "options": [
+        "A) Random choice",
+        "B) Intersection of tradition, economics, and social change",
+        "C) Only love marriages",
+        "D) No social significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99765f947d06e4f27bece0585f380e9680792771",
+      "sectionIndex": 4,
+      "question": "Poverty alleviation strategies in Pakistan have shown:",
+      "options": [
+        "A) Complete success",
+        "B) Mixed results due to implementation gaps and structural issues",
+        "C) No attempts made",
+        "D) Uniform failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6130e7a29a41c8c2e34d0ffafbbc7d118cfcdd5c",
+      "sectionIndex": 4,
+      "question": "The relationship between corruption and governance in Pakistan indicates:",
+      "options": [
+        "A) No connection",
+        "B) Systemic issues affecting service delivery and public trust",
+        "C) Corruption helps governance",
+        "D) Only individual problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ca8967cd2292929e5a593f3e568d63eb7a31115",
+      "sectionIndex": 4,
+      "question": "Drug abuse in Pakistan requires understanding:",
+      "options": [
+        "A) Individual choice only",
+        "B) Social, economic, and geographical factors",
+        "C) Western influence only",
+        "D) No social dimensions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4284faeae22fb35a647cba18c391c741eb54607",
+      "sectionIndex": 4,
+      "question": "Violence against women in Pakistani workplaces reflects:",
+      "options": [
+        "A) Individual incidents only",
+        "B) Structural inequalities and cultural attitudes",
+        "C) No systemic issues",
+        "D) Complete workplace equality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdf2fcc1db0d1d25c61c3dc28c7538d3f39cfba0",
+      "sectionIndex": 4,
+      "question": "Terrorism's impact on Pakistani social fabric includes:",
+      "options": [
+        "A) No social effects",
+        "B) Polarization, fear, and altered social interactions",
+        "C) Only economic impact",
+        "D) Strengthened unity everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e4d74953d5f9aaf0a8afb7716f63ea5a5923602",
+      "sectionIndex": 4,
+      "question": "NGO effectiveness in Pakistan depends on:",
+      "options": [
+        "A) Funding only",
+        "B) Local context understanding and community participation",
+        "C) Foreign models only",
+        "D) Government approval only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "825f9343cb236f91b9b6fc74164ffa75353a289a",
+      "sectionIndex": 4,
+      "question": "Healthcare disparities in Pakistan demonstrate:",
+      "options": [
+        "A) Equal access",
+        "B) Urban-rural and class-based inequalities",
+        "C) No healthcare issues",
+        "D) Only gender disparities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f23c4f01b33aaea66693a3c8651f0f2ade33f472",
+      "sectionIndex": 4,
+      "question": "Environmental degradation's social impact includes:",
+      "options": [
+        "A) No social dimensions",
+        "B) Displacement, health issues, and livelihood threats",
+        "C) Only physical changes",
+        "D) Economic benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8da40ec0300da7079b9f447a16c24170a9742fc",
+      "sectionIndex": 4,
+      "question": "Child labor in Pakistan persists due to:",
+      "options": [
+        "A) Children's preference",
+        "B) Poverty, weak enforcement, and cultural acceptance",
+        "C) No child labor exists",
+        "D) Strong regulations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cbc7ad0127f5211eb0c240fb4bc95ff15fd25a0",
+      "sectionIndex": 4,
+      "question": "The informal economy's role shows:",
+      "options": [
+        "A) Marginal importance",
+        "B) Significant survival strategy and regulatory challenges",
+        "C) No informal sector",
+        "D) Complete formalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8af0764ea8c5ee5eddbe1dc22ffc7c21ba7315a0",
+      "sectionIndex": 4,
+      "question": "Political instability affects social development by:",
+      "options": [
+        "A) No impact",
+        "B) Disrupting policies, investment, and social programs",
+        "C) Improving development",
+        "D) Only affecting elite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b6b976f02cc83deb6a61a77c93ef3dfef80a4dc",
+      "sectionIndex": 4,
+      "question": "Food security issues in Pakistan involve:",
+      "options": [
+        "A) Production only",
+        "B) Distribution, affordability, and climate factors",
+        "C) Surplus everywhere",
+        "D) No food problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ec321bc0b591549d790d659f8e080176c9099f6",
+      "sectionIndex": 4,
+      "question": "Housing crisis in urban areas reflects:",
+      "options": [
+        "A) Adequate housing",
+        "B) Rapid urbanization outpacing infrastructure",
+        "C) Only rural housing issues",
+        "D) Government success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d3c80cf9a0b504fd461863a5cf9d1195f4ca428",
+      "sectionIndex": 5,
+      "question": "The application of labeling theory to Pakistani juvenile justice shows:",
+      "options": [
+        "A) No relevance",
+        "B) How institutional responses can amplify deviance",
+        "C) Perfect rehabilitation",
+        "D) Labels have no effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ddbfe502c2f14bda255d18a22985ff85d99efc7",
+      "sectionIndex": 5,
+      "question": "Formal and informal social control in Pakistan interact through:",
+      "options": [
+        "A) Complete separation",
+        "B) Complex relationships between state law and traditional mechanisms",
+        "C) Only formal control exists",
+        "D) Only informal control works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a246937c75786addeb2d5bc4dbea15947d7d5c6e",
+      "sectionIndex": 5,
+      "question": "Honor killings as deviance or social control demonstrate:",
+      "options": [
+        "A) Simple crime",
+        "B) Conflict between traditional norms and legal systems",
+        "C) Universal acceptance",
+        "D) No social dimensions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f071528a900f0a25c53ccd9b36e5e887ced668f",
+      "sectionIndex": 5,
+      "question": "The effectiveness of Pakistani prison system for rehabilitation shows:",
+      "options": [
+        "A) Complete success",
+        "B) Limited success due to overcrowding and lack of programs",
+        "C) No rehabilitation needed",
+        "D) Perfect reintegration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8497400aeb35097ef7cc4901609a2a490bfe4f72",
+      "sectionIndex": 5,
+      "question": "Police-community relations in Pakistan reflect:",
+      "options": [
+        "A) Perfect cooperation",
+        "B) Trust deficits and need for community policing",
+        "C) No interaction needed",
+        "D) Complete antagonism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b8dd0dec96591d4d3b01603507770f8a5566577",
+      "sectionIndex": 5,
+      "question": "White-collar crime in Pakistan indicates:",
+      "options": [
+        "A) No elite deviance",
+        "B) Different treatment based on class and connections",
+        "C) Equal justice",
+        "D) No white-collar crime"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a2c902f0224220bb0897af5993c25d088f9c49f",
+      "sectionIndex": 5,
+      "question": "Religious authority in social control functions through:",
+      "options": [
+        "A) No influence",
+        "B) Moral guidance and community pressure",
+        "C) Legal enforcement only",
+        "D) Complete control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d34a91de4f30a417a41f115ac2324cfc930530d6",
+      "sectionIndex": 5,
+      "question": "Cyber deviance challenges traditional control because:",
+      "options": [
+        "A) Same as physical deviance",
+        "B) Transcends geographical boundaries and anonymity",
+        "C) Easily controlled",
+        "D) No cyber deviance exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21ec57aa3e3c51fa8e5b6bc3ab7cd51e7c082da9",
+      "sectionIndex": 5,
+      "question": "Drug trafficking networks demonstrate:",
+      "options": [
+        "A) Individual deviance only",
+        "B) Organized crime with social and economic dimensions",
+        "C) No organization",
+        "D) Easy to control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ecb6adf39c6f62f22eb8176287c6c977947e671",
+      "sectionIndex": 5,
+      "question": "Restorative justice approaches in Pakistan could address:",
+      "options": [
+        "A) Nothing new",
+        "B) Community healing and offender reintegration",
+        "C) Only punishment",
+        "D) Western concepts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e54d2e62a2d4176461475e70dcf10577f125e847",
+      "sectionIndex": 5,
+      "question": "Media's role in defining deviance includes:",
+      "options": [
+        "A) No influence",
+        "B) Shaping public perception and moral panics",
+        "C) Only reporting facts",
+        "D) Reducing deviance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98bde9187e57ac04240172442f8e82dfde9c1b1c",
+      "sectionIndex": 5,
+      "question": "Student protests as deviance or social change show:",
+      "options": [
+        "A) Always deviant",
+        "B) Contested definitions based on perspective",
+        "C) Never legitimate",
+        "D) No social significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c01a78f55a9396a793a75570297c86c8c91f6bd6",
+      "sectionIndex": 5,
+      "question": "Traditional jirga/panchayat systems demonstrate:",
+      "options": [
+        "A) Outdated practices",
+        "B) Alternative dispute resolution with benefits and limitations",
+        "C) Perfect justice",
+        "D) No relevance today"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2a3074816cb9686b03377f1861bfea91fad1a52",
+      "sectionIndex": 6,
+      "question": "Pakistani family structure changes indicate:",
+      "options": [
+        "A) No change",
+        "B) Adaptation to urbanization while maintaining core functions",
+        "C) Complete westernization",
+        "D) Family breakdown"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc53b8515aec242186a3536d7b17e439364c01da",
+      "sectionIndex": 6,
+      "question": "Religious institutions in Pakistan face challenges of:",
+      "options": [
+        "A) No challenges",
+        "B) Balancing tradition with modern contexts and extremism",
+        "C) Complete secularization",
+        "D) Increased uniformity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "168e0e3e74b8719b706f398a9765f87ff401e69d",
+      "sectionIndex": 6,
+      "question": "Educational institutions reproduce inequality through:",
+      "options": [
+        "A) Equal opportunity",
+        "B) Differential quality and cultural capital advantages",
+        "C) No inequality",
+        "D) Merit only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4aab40cc86847c829d50ee442b52bd11c8c11be0",
+      "sectionIndex": 6,
+      "question": "Healthcare institutions' urban bias creates:",
+      "options": [
+        "A) Equal access",
+        "B) Rural populations with limited services",
+        "C) No disparities",
+        "D) Rural advantage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8b867befe78a9c72b0638c3d0c03245cd33f9e7",
+      "sectionIndex": 6,
+      "question": "Economic institutions in Pakistan show:",
+      "options": [
+        "A) Pure capitalism",
+        "B) Mixed economy with formal and informal sectors",
+        "C) Complete socialism",
+        "D) No economic system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67a1d5aa7831d82ccf322210b2a470795d7eb897",
+      "sectionIndex": 6,
+      "question": "Political institutions' legitimacy depends on:",
+      "options": [
+        "A) Force only",
+        "B) Performance, representation, and public trust",
+        "C) International recognition only",
+        "D) Elite support only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b5bb6dabd0374107ff68b7e04c8017ba6c02dd1",
+      "sectionIndex": 6,
+      "question": "Media institutions balance between:",
+      "options": [
+        "A) No constraints",
+        "B) Commercial interests, state pressure, and public service",
+        "C) Complete freedom",
+        "D) Total control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "658136d6f79bee008254ad6365327e7a0f60fa3f",
+      "sectionIndex": 6,
+      "question": "Legal institutions face challenges of:",
+      "options": [
+        "A) Perfect implementation",
+        "B) Delays, corruption, and access barriers",
+        "C) No problems",
+        "D) Over-efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a2579fb5e682654bc3931ccd305479fc44d3124",
+      "sectionIndex": 6,
+      "question": "Marriage institution changes reflect:",
+      "options": [
+        "A) No change",
+        "B) Delayed marriage, choice increase, and economic factors",
+        "C) Child marriage increase",
+        "D) Marriage irrelevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e208f0ee3376bee0d656ccfee276d311fa4a72f",
+      "sectionIndex": 6,
+      "question": "Civil society institutions' growth indicates:",
+      "options": [
+        "A) Government success",
+        "B) Filling gaps in state service provision",
+        "C) No need exists",
+        "D) Foreign conspiracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "046b9528c9915f59d37b004022379c73efe7085f",
+      "sectionIndex": 6,
+      "question": "Traditional authority structures persist through:",
+      "options": [
+        "A) Legal mandate",
+        "B) Social legitimacy and practical functions",
+        "C) No traditional authority",
+        "D) Complete replacement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db4fb0902d4ac4624c25a6813de53fcb96b242ec",
+      "sectionIndex": 7,
+      "question": "Applying functionalism to Pakistani bureaucracy reveals:",
+      "options": [
+        "A) Perfect efficiency",
+        "B) Both manifest functions and latent dysfunctions",
+        "C) No functions",
+        "D) Only positive roles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbb1a1a8497ff56ab692bac790a96a61ab13d091",
+      "sectionIndex": 7,
+      "question": "Conflict theory explains Pakistani elite dominance through:",
+      "options": [
+        "A) Merit only",
+        "B) Resource control and institutional capture",
+        "C) No elite exists",
+        "D) Natural superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96565a0c4fdd294e53cb0731084da2a8d4f91a61",
+      "sectionIndex": 7,
+      "question": "Symbolic interactionism illuminates Pakistani identity formation via:",
+      "options": [
+        "A) Biology only",
+        "B) Daily interactions and meaning-making processes",
+        "C) No identity issues",
+        "D) Fixed identities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d849cc657b0ed6ce710587bc6051861ade32c7e8",
+      "sectionIndex": 7,
+      "question": "Postmodern analysis of Pakistani nationalism shows:",
+      "options": [
+        "A) Single narrative",
+        "B) Multiple contested narratives and identities",
+        "C) No nationalism",
+        "D) Complete unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d94428eaf66ed8d9bd014c8123520b50b5e34195",
+      "sectionIndex": 7,
+      "question": "Feminist theory applied to Pakistani context reveals:",
+      "options": [
+        "A) No gender issues",
+        "B) Intersectional oppression of gender, class, and religion",
+        "C) Western irrelevance",
+        "D) Complete equality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05ad489dc24a273ce7ebd26743e7cb007b91ad79",
+      "sectionIndex": 7,
+      "question": "World systems theory positions Pakistan as:",
+      "options": [
+        "A) Core country",
+        "B) Semi-peripheral with dependent development",
+        "C) No global connection",
+        "D) Isolated system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9daf3c3c522adc1570ab6c7317a90da7783c145e",
+      "sectionIndex": 7,
+      "question": "New institutionalism explains Pakistani governance through:",
+      "options": [
+        "A) Individual choices only",
+        "B) Path dependence and institutional legacies",
+        "C) No institutional impact",
+        "D) Complete flexibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be1c9db61043938fb5a44fd81e396464c180603a",
+      "sectionIndex": 7,
+      "question": "Social capital theory in Pakistan highlights:",
+      "options": [
+        "A) No social networks",
+        "B) Importance of connections for mobility and survival",
+        "C) Equal access",
+        "D) Irrelevant concept"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "790fe9e73ae4fab8173309cd56d2f07288a8c031",
+      "sectionIndex": 7,
+      "question": "Risk society thesis applies to Pakistan through:",
+      "options": [
+        "A) No risks",
+        "B) Environmental, technological, and security uncertainties",
+        "C) Complete safety",
+        "D) Traditional risks only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c73594da49be082a654a94a43f3f52881c254d1",
+      "sectionIndex": 7,
+      "question": "Globalization theories explain Pakistan's position via:",
+      "options": [
+        "A) Complete autonomy",
+        "B) Selective integration and dependency relationships",
+        "C) No global impact",
+        "D) Full globalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b33b30aae963572c83e9e226ab4d678ac4f67785",
+      "sectionIndex": 7,
+      "question": "Critical theory lens on Pakistani education reveals:",
+      "options": [
+        "A) Neutral knowledge",
+        "B) Hidden curriculum reproducing power relations",
+        "C) No ideology",
+        "D) Complete objectivity"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:50:09.041Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "ec9df67c5466b36a22a6bf7b666c61c570796c41",
+      "sectionIndex": 0,
+      "question": "The Delhi Sultanate was established in:",
+      "options": [
+        "A) 1192",
+        "B) 1206",
+        "C) 1210",
+        "D) 1236"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04a59f9d93eebaf507c1e0bac001704066640753",
+      "sectionIndex": 0,
+      "question": "The founder of the Slave Dynasty was:",
+      "options": [
+        "A) Iltutmish",
+        "B) Qutbuddin Aibak",
+        "C) Balban",
+        "D) Razia Sultana"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a1f59b2fae65948c3bd94085467f05773fdb80c",
+      "sectionIndex": 0,
+      "question": "The real founder of the Delhi Sultanate is considered to be:",
+      "options": [
+        "A) Qutbuddin Aibak",
+        "B) Iltutmish",
+        "C) Balban",
+        "D) Alauddin Khalji"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f2ac057cfa0d0faad33a769706d3a608cea74c7",
+      "sectionIndex": 0,
+      "question": "Razia Sultana ruled from:",
+      "options": [
+        "A) 1236-1240",
+        "B) 1240-1244",
+        "C) 1244-1248",
+        "D) 1248-1252"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "352a1fe5a755e279d7b91200b49863fce729ba04",
+      "sectionIndex": 0,
+      "question": "Balban belonged to the famous group of:",
+      "options": [
+        "A) Forty nobles",
+        "B) Sixty nobles",
+        "C) Eighty nobles",
+        "D) Hundred nobles"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "db1cba21673b69a2fce019bfbaa1a1ec6b5e52f8",
+      "sectionIndex": 0,
+      "question": "Alauddin Khalji introduced:",
+      "options": [
+        "A) Token currency",
+        "B) Price control system",
+        "C) Postal system",
+        "D) Calendar reform"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0236c49398f404f8d64ecd54415c5cdeb838ebf9",
+      "sectionIndex": 0,
+      "question": "Muhammad bin Tughlaq shifted his capital from Delhi to:",
+      "options": [
+        "A) Agra",
+        "B) Daulatabad",
+        "C) Lahore",
+        "D) Multan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5833f97cc4f6664a62e3e3d58a45526f10f84f38",
+      "sectionIndex": 0,
+      "question": "The last ruler of the Tughlaq dynasty was:",
+      "options": [
+        "A) Ghiyasuddin Tughlaq",
+        "B) Muhammad bin Tughlaq",
+        "C) Firoz Shah Tughlaq",
+        "D) Nasir-ud-din Mahmud"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "700e4939be367d3ee6c0598f9117e7147412f8be",
+      "sectionIndex": 0,
+      "question": "The Battle of Tarain was fought in:",
+      "options": [
+        "A) 1191 and 1192",
+        "B) 1193 and 1194",
+        "C) 1195 and 1196",
+        "D) 1197 and 1198"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "68e008085acc3302f7c6a44e4d75c5bf2fa26a75",
+      "sectionIndex": 0,
+      "question": "The Qutub Minar was completed by:",
+      "options": [
+        "A) Qutbuddin Aibak",
+        "B) Iltutmish",
+        "C) Balban",
+        "D) Alauddin Khalji"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "160ad426688428f3c00e2cd0398f02b1508d91e6",
+      "sectionIndex": 1,
+      "question": "The Mughal Empire was founded by:",
+      "options": [
+        "A) Akbar",
+        "B) Babur",
+        "C) Humayun",
+        "D) Jahangir"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cda7109025c9928a486e6a320ea6a58415b54f13",
+      "sectionIndex": 1,
+      "question": "The First Battle of Panipat was fought in:",
+      "options": [
+        "A) 1526",
+        "B) 1527",
+        "C) 1528",
+        "D) 1529"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "06a582c42c0f4f54494fef2da8ca019a7b61fd2e",
+      "sectionIndex": 1,
+      "question": "Akbar ruled from:",
+      "options": [
+        "A) 1530-1556",
+        "B) 1556-1605",
+        "C) 1605-1627",
+        "D) 1627-1658"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "376b93603295be4828d81eb8cf280a96966339b4",
+      "sectionIndex": 1,
+      "question": "The Din-i-Ilahi was introduced by:",
+      "options": [
+        "A) Babur",
+        "B) Humayun",
+        "C) Akbar",
+        "D) Jahangir"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ac19e219578f5b6e33b7a54c7f6e2e78e7afe367",
+      "sectionIndex": 1,
+      "question": "The Taj Mahal was built by:",
+      "options": [
+        "A) Akbar",
+        "B) Jahangir",
+        "C) Shah Jahan",
+        "D) Aurangzeb"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a8df36d00650ae0b540b22c27caabf5c5e071125",
+      "sectionIndex": 1,
+      "question": "Sher Shah Suri ruled from:",
+      "options": [
+        "A) 1540-1545",
+        "B) 1545-1550",
+        "C) 1550-1555",
+        "D) 1555-1560"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a8891dd17207c525a1e83fed9bbbc0ac1560da4f",
+      "sectionIndex": 1,
+      "question": "The Mansabdari system was introduced by:",
+      "options": [
+        "A) Babur",
+        "B) Akbar",
+        "C) Jahangir",
+        "D) Shah Jahan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06f88888a722f58189b1bc55af17082143b6c2a2",
+      "sectionIndex": 1,
+      "question": "Aurangzeb was also known as:",
+      "options": [
+        "A) Alamgir",
+        "B) Shah Jahan",
+        "C) Jahangir",
+        "D) Bahadur"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a2ae7b58914d46f8cb8157f520222e7071ba6c73",
+      "sectionIndex": 1,
+      "question": "The last Mughal Emperor was:",
+      "options": [
+        "A) Aurangzeb",
+        "B) Bahadur Shah I",
+        "C) Bahadur Shah Zafar",
+        "D) Ahmad Shah"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b63e0000676f6c7be1cb2648bde2f1c25170299f",
+      "sectionIndex": 1,
+      "question": "The Peacock Throne was made for:",
+      "options": [
+        "A) Akbar",
+        "B) Jahangir",
+        "C) Shah Jahan",
+        "D) Aurangzeb"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "63e0f3f44a69c35800a30cc5f24caaec9c52fd6a",
+      "sectionIndex": 2,
+      "question": "Sindh was conquered by Muhammad bin Qasim in:",
+      "options": [
+        "A) 710 AD",
+        "B) 711 AD",
+        "C) 712 AD",
+        "D) 713 AD"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4828ba1321ccf765804219ec86669e250b9462cc",
+      "sectionIndex": 2,
+      "question": "Muhammad bin Qasim was sent by:",
+      "options": [
+        "A) Hajjaj bin Yusuf",
+        "B) Walid I",
+        "C) Sulaiman",
+        "D) Umar bin Abdul Aziz"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7b476d7ef179a74e8a876c2b88622c8a01a7a17d",
+      "sectionIndex": 2,
+      "question": "The ruler of Sindh defeated by Muhammad bin Qasim was:",
+      "options": [
+        "A) Dahir",
+        "B) Chach",
+        "C) Jai Singh",
+        "D) Deva Raya"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fed441ce14f1cf44b006221a8c1d5c984763865c",
+      "sectionIndex": 2,
+      "question": "The port where Muhammad bin Qasim landed was:",
+      "options": [
+        "A) Karachi",
+        "B) Debal",
+        "C) Thatta",
+        "D) Multan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35a7d6e7223909888586d7a38820d97e36996200",
+      "sectionIndex": 2,
+      "question": "Mahmud of Ghazni invaded India:",
+      "options": [
+        "A) 7 times",
+        "B) 11 times",
+        "C) 17 times",
+        "D) 21 times"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8d67fa79613a06212882767d5719a3534ba57f19",
+      "sectionIndex": 2,
+      "question": "The famous Somnath temple was plundered by:",
+      "options": [
+        "A) Muhammad bin Qasim",
+        "B) Mahmud of Ghazni",
+        "C) Muhammad Ghori",
+        "D) Qutbuddin Aibak"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3720ba7714b2365e69eee6c2a32dfb317e14f951",
+      "sectionIndex": 2,
+      "question": "Muhammad Ghori was defeated in the First Battle of Tarain by:",
+      "options": [
+        "A) Prithviraj Chauhan",
+        "B) Jai Chand",
+        "C) Raja Dahir",
+        "D) Rana Sanga"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9a8bd702266b80393bd888a677df095d7bd1ebc7",
+      "sectionIndex": 2,
+      "question": "The Ghaznavid Empire was founded by:",
+      "options": [
+        "A) Alptigin",
+        "B) Sabuktigin",
+        "C) Mahmud",
+        "D) Masud"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fc9da323f9067712b8ebeb60bbb57b117979233e",
+      "sectionIndex": 2,
+      "question": "The capital of the Ghaznavid Empire was:",
+      "options": [
+        "A) Delhi",
+        "B) Lahore",
+        "C) Ghazni",
+        "D) Kabul"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1dc56e9c7c73ebb35be2bc565f600bcd93980ee8",
+      "sectionIndex": 2,
+      "question": "The Battle of Tarain established Muslim rule in:",
+      "options": [
+        "A) Sindh",
+        "B) Punjab",
+        "C) Delhi",
+        "D) Bengal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f412a8da7388705e1d3ca0247d17cfae7c9d2556",
+      "sectionIndex": 3,
+      "question": "The East India Company was established in:",
+      "options": [
+        "A) 1600",
+        "B) 1650",
+        "C) 1700",
+        "D) 1750"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fec043886c7f55a7df124a11dfcc005a2e61b789",
+      "sectionIndex": 3,
+      "question": "The Battle of Plassey was fought in:",
+      "options": [
+        "A) 1755",
+        "B) 1757",
+        "C) 1759",
+        "D) 1761"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab67cb210203da9fe3623da49e4b12595d03cd08",
+      "sectionIndex": 3,
+      "question": "The Revolt of 1857 is also known as:",
+      "options": [
+        "A) Sepoy Mutiny",
+        "B) First War of Independence",
+        "C) Indian Mutiny",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a901de9e188e149457c02c0022df4baae75927da",
+      "sectionIndex": 3,
+      "question": "The British Crown took direct control of India in:",
+      "options": [
+        "A) 1857",
+        "B) 1858",
+        "C) 1859",
+        "D) 1860"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdc500eb6574f196d11a63bc9197542e6f72aabd",
+      "sectionIndex": 3,
+      "question": "The Indian National Congress was founded in:",
+      "options": [
+        "A) 1883",
+        "B) 1885",
+        "C) 1887",
+        "D) 1889"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65bc27e3249f23a1ba6b86c6bdf8a057b21d62d6",
+      "sectionIndex": 3,
+      "question": "The partition of Bengal took place in:",
+      "options": [
+        "A) 1903",
+        "B) 1905",
+        "C) 1907",
+        "D) 1909"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a891a47eeefdda961502385c6fb735dbc991b1d",
+      "sectionIndex": 3,
+      "question": "The All India Muslim League was founded in:",
+      "options": [
+        "A) 1904",
+        "B) 1906",
+        "C) 1908",
+        "D) 1910"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc006e192c18a7307ffaa10983f1b25ba030fd40",
+      "sectionIndex": 3,
+      "question": "The Lucknow Pact was signed in:",
+      "options": [
+        "A) 1914",
+        "B) 1915",
+        "C) 1916",
+        "D) 1917"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6a7b6890de28a8f7134eebebc4c7859d71963515",
+      "sectionIndex": 3,
+      "question": "The Khilafat Movement was launched in:",
+      "options": [
+        "A) 1919",
+        "B) 1920",
+        "C) 1921",
+        "D) 1922"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8ece1f5519bdd12de1cba0e548dacfcb33e21396",
+      "sectionIndex": 3,
+      "question": "The Simon Commission arrived in India in:",
+      "options": [
+        "A) 1926",
+        "B) 1927",
+        "C) 1928",
+        "D) 1929"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52668056bacccfc1d596fddc50cce3afeadd8e2d",
+      "sectionIndex": 4,
+      "question": "The Lahore Resolution was passed in:",
+      "options": [
+        "A) 1938",
+        "B) 1939",
+        "C) 1940",
+        "D) 1941"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "65aeb81dbcc8b49cd513ebd5725c566d6296fc7b",
+      "sectionIndex": 4,
+      "question": "The Two-Nation Theory was first presented by:",
+      "options": [
+        "A) Sir Syed Ahmad Khan",
+        "B) Allama Iqbal",
+        "C) Muhammad Ali Jinnah",
+        "D) Liaquat Ali Khan"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "759362672eaf21872b5a3f66f00ea1fc8bf129dd",
+      "sectionIndex": 4,
+      "question": "Allama Iqbal delivered his famous Allahabad Address in:",
+      "options": [
+        "A) 1928",
+        "B) 1929",
+        "C) 1930",
+        "D) 1931"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4dce01dd09052f3ad8c3c6871205d9dc60577649",
+      "sectionIndex": 4,
+      "question": "The Cripps Mission came to India in:",
+      "options": [
+        "A) 1940",
+        "B) 1941",
+        "C) 1942",
+        "D) 1943"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a4645364b67b078fc73d9356c8dda01e1a8e06cb",
+      "sectionIndex": 4,
+      "question": "The Cabinet Mission arrived in India in:",
+      "options": [
+        "A) 1944",
+        "B) 1945",
+        "C) 1946",
+        "D) 1947"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "72f16aa6860e850dd095c35fb8e1685909eb49c6",
+      "sectionIndex": 4,
+      "question": "Pakistan came into being on:",
+      "options": [
+        "A) 14 August 1947",
+        "B) 15 August 1947",
+        "C) 16 August 1947",
+        "D) 17 August 1947"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e4fe5699630efc7d64cf2b6ec842a227ec6c3172",
+      "sectionIndex": 4,
+      "question": "The first Governor-General of Pakistan was:",
+      "options": [
+        "A) Liaquat Ali Khan",
+        "B) Muhammad Ali Jinnah",
+        "C) Khawaja Nazimuddin",
+        "D) Ghulam Muhammad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e408a405c793ebced68e05ee0628e3ab84b5e7c",
+      "sectionIndex": 4,
+      "question": "The Radcliffe Award was announced on:",
+      "options": [
+        "A) 14 August 1947",
+        "B) 15 August 1947",
+        "C) 16 August 1947",
+        "D) 17 August 1947"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c6a35319e06a2fda71923b5e9a0073b0925d0fb8",
+      "sectionIndex": 4,
+      "question": "The Objectives Resolution was passed in:",
+      "options": [
+        "A) 1947",
+        "B) 1948",
+        "C) 1949",
+        "D) 1950"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "460d4e217ddca9937a47617fb2448e76209b05fe",
+      "sectionIndex": 4,
+      "question": "The first Prime Minister of Pakistan was:",
+      "options": [
+        "A) Muhammad Ali Jinnah",
+        "B) Liaquat Ali Khan",
+        "C) Khawaja Nazimuddin",
+        "D) Muhammad Ali Bogra"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1b9c76e76b9a23c40d593e1b21cffdde14c2234",
+      "sectionIndex": 5,
+      "question": "Pakistan's first constitution was enforced in:",
+      "options": [
+        "A) 1954",
+        "B) 1956",
+        "C) 1958",
+        "D) 1960"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dda251b62f878104feafdf6d37bcb6b0c68ff49",
+      "sectionIndex": 5,
+      "question": "The 1956 Constitution declared Pakistan as:",
+      "options": [
+        "A) Federal Republic",
+        "B) Islamic Republic",
+        "C) Democratic Republic",
+        "D) People's Republic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1d300fc34a24a4fe8de8e89deb26223968b1147",
+      "sectionIndex": 5,
+      "question": "The first martial law in Pakistan was imposed in:",
+      "options": [
+        "A) 1956",
+        "B) 1958",
+        "C) 1960",
+        "D) 1962"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d1f6f4df674497f18c351f03ad0292e791f9750",
+      "sectionIndex": 5,
+      "question": "The 1962 Constitution was introduced by:",
+      "options": [
+        "A) Iskander Mirza",
+        "B) Ayub Khan",
+        "C) Yahya Khan",
+        "D) Zulfikar Ali Bhutto"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a1b4a3001772f97be79c3aba9186070757769fc",
+      "sectionIndex": 5,
+      "question": "The 1973 Constitution was passed on:",
+      "options": [
+        "A) 10 April 1973",
+        "B) 12 April 1973",
+        "C) 14 April 1973",
+        "D) 16 April 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a2713569e3bf3e0dda126f24dad6187831c0535",
+      "sectionIndex": 5,
+      "question": "The 1973 Constitution declared Pakistan as:",
+      "options": [
+        "A) Presidential system",
+        "B) Parliamentary system",
+        "C) Mixed system",
+        "D) Federal system only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "166314469d9d6052281fbb1360932c5c7b15ab28",
+      "sectionIndex": 5,
+      "question": "The Legal Framework Order (LFO) of 1970 was issued by:",
+      "options": [
+        "A) Ayub Khan",
+        "B) Yahya Khan",
+        "C) Zulfikar Ali Bhutto",
+        "D) Zia-ul-Haq"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b510994c9fccc5906275817bfac82ef2fa1cad4b",
+      "sectionIndex": 5,
+      "question": "The 8th Amendment was passed in:",
+      "options": [
+        "A) 1983",
+        "B) 1985",
+        "C) 1987",
+        "D) 1989"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bfb770db33fe852f6ade09473435492cfbed1e6",
+      "sectionIndex": 5,
+      "question": "The 18th Amendment was passed in:",
+      "options": [
+        "A) 2008",
+        "B) 2009",
+        "C) 2010",
+        "D) 2011"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aa70378958cd528494015f31e0fface67b89d536",
+      "sectionIndex": 5,
+      "question": "The first President of Pakistan under the 1956 Constitution was:",
+      "options": [
+        "A) Ghulam Muhammad",
+        "B) Iskander Mirza",
+        "C) Ayub Khan",
+        "D) Yahya Khan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a22f2518e608d1bda65c8cf51c479c8e9a1fe11",
+      "sectionIndex": 6,
+      "question": "The Kashmir issue arose in:",
+      "options": [
+        "A) 1947",
+        "B) 1948",
+        "C) 1949",
+        "D) 1950"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9c7023165a940c923b9a9fb64abd83308153ba1f",
+      "sectionIndex": 6,
+      "question": "The first Indo-Pak war was fought in:",
+      "options": [
+        "A) 1947-48",
+        "B) 1949-50",
+        "C) 1951-52",
+        "D) 1953-54"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8e5d8de43fdf54c734d2a5c0efca6d552025326f",
+      "sectionIndex": 6,
+      "question": "The Indus Water Treaty was signed in:",
+      "options": [
+        "A) 1958",
+        "B) 1959",
+        "C) 1960",
+        "D) 1961"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7332dcc3bfc10e18deb7f1f34da32a07fea0ab11",
+      "sectionIndex": 6,
+      "question": "The 1965 war lasted for:",
+      "options": [
+        "A) 15 days",
+        "B) 17 days",
+        "C) 19 days",
+        "D) 21 days"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b68fa3b6ae68b7855846b88def2c4a1a8fc5bedc",
+      "sectionIndex": 6,
+      "question": "The Tashkent Agreement was signed in:",
+      "options": [
+        "A) 1965",
+        "B) 1966",
+        "C) 1967",
+        "D) 1968"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ecbbdb4bde8ffc1dfb35ee810bfa4eca371ef93",
+      "sectionIndex": 6,
+      "question": "The 1971 war resulted in:",
+      "options": [
+        "A) Ceasefire",
+        "B) Creation of Bangladesh",
+        "C) Kashmir settlement",
+        "D) Status quo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "068d9a5933152769eb12f2c52dda6b1d290b74ec",
+      "sectionIndex": 6,
+      "question": "The Simla Agreement was signed in:",
+      "options": [
+        "A) 1971",
+        "B) 1972",
+        "C) 1973",
+        "D) 1974"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4233f8b7b496acf1542662304ef64ee9de4e12a",
+      "sectionIndex": 6,
+      "question": "The Kargil conflict occurred in:",
+      "options": [
+        "A) 1997",
+        "B) 1998",
+        "C) 1999",
+        "D) 2000"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "443889c7b86905c25cbdaa63c979d512869b3dc8",
+      "sectionIndex": 6,
+      "question": "The Agra Summit was held in:",
+      "options": [
+        "A) 1999",
+        "B) 2000",
+        "C) 2001",
+        "D) 2002"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6d6e841f22cd592c19f7406090203a29ff92f145",
+      "sectionIndex": 6,
+      "question": "The Line of Control (LoC) was established after:",
+      "options": [
+        "A) 1947 war",
+        "B) 1965 war",
+        "C) 1971 war",
+        "D) Kargil conflict"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c6355575f367e57a850fb1f2d136d15cce7cc10a",
+      "sectionIndex": 7,
+      "question": "Sir Syed Ahmad Khan was born in:",
+      "options": [
+        "A) 1815",
+        "B) 1817",
+        "C) 1819",
+        "D) 1821"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a976c40a5901f730c939a977d310f6f0fa8fd92a",
+      "sectionIndex": 7,
+      "question": "The Aligarh Movement was started by:",
+      "options": [
+        "A) Syed Ahmad Shaheed",
+        "B) Sir Syed Ahmad Khan",
+        "C) Allama Iqbal",
+        "D) Muhammad Ali Jinnah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e684903e8c3022259e9b72dd0ce66b5cd0b15b4e",
+      "sectionIndex": 7,
+      "question": "The MAO College was established in:",
+      "options": [
+        "A) 1875",
+        "B) 1877",
+        "C) 1879",
+        "D) 1881"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e1e4233401ff30eafa0d97d915327f03e53d1c7",
+      "sectionIndex": 7,
+      "question": "Aligarh Muslim University was established in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fea80b1f5379fb9e16f0ec220116f191a2708f83",
+      "sectionIndex": 7,
+      "question": "The Scientific Society was founded by Sir Syed in:",
+      "options": [
+        "A) 1862",
+        "B) 1864",
+        "C) 1866",
+        "D) 1868"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f7c553c44ce7205fd767ac43008a01b6e962b41",
+      "sectionIndex": 7,
+      "question": "Shah Waliullah was born in:",
+      "options": [
+        "A) 1700",
+        "B) 1702",
+        "C) 1703",
+        "D) 1705"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "76a4490e27bc429dcbe34f69bb6d515177493b81",
+      "sectionIndex": 7,
+      "question": "Syed Ahmad Barelvi's Jihad Movement started in:",
+      "options": [
+        "A) 1824",
+        "B) 1826",
+        "C) 1828",
+        "D) 1830"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eca23439625285a05597ccc82270ce95ed425bd7",
+      "sectionIndex": 7,
+      "question": "The Battle of Balakot took place in:",
+      "options": [
+        "A) 1829",
+        "B) 1831",
+        "C) 1833",
+        "D) 1835"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fa5408801ad267e79b65e06d5b9edaca9901c55",
+      "sectionIndex": 7,
+      "question": "The Deoband seminary was established in:",
+      "options": [
+        "A) 1864",
+        "B) 1866",
+        "C) 1868",
+        "D) 1870"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad79ba1a66c4312b8eeecc63f316a62e70b1ca5a",
+      "sectionIndex": 7,
+      "question": "The Faraizi Movement was started by:",
+      "options": [
+        "A) Haji Shariatullah",
+        "B) Dudu Miyan",
+        "C) Titu Mir",
+        "D) Syed Ahmad Barelvi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4568861225a70ba9af2def2711a820e993c92a4d",
+      "sectionIndex": 8,
+      "question": "The Chishti order was introduced in India by:",
+      "options": [
+        "A) Khwaja Moinuddin Chishti",
+        "B) Baba Farid",
+        "C) Nizamuddin Auliya",
+        "D) Qutbuddin Bakhtiar Kaki"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d2264763a6ce88f2b506bc0135ef1bd8e91753a2",
+      "sectionIndex": 8,
+      "question": "Data Ganj Bakhsh's real name was:",
+      "options": [
+        "A) Ali Hajveri",
+        "B) Ali Makdum",
+        "C) Ali Shah",
+        "D) Ali Qadri"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b729cb9065c94824838603c1334e6bd949dd0f5b",
+      "sectionIndex": 8,
+      "question": "The famous book \"Kashf al-Mahjub\" was written by:",
+      "options": [
+        "A) Nizamuddin Auliya",
+        "B) Data Ganj Bakhsh",
+        "C) Baba Farid",
+        "D) Bu Ali Qalandar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1d0b364e0ae9e736940852d4f281eccc66d1d1d",
+      "sectionIndex": 8,
+      "question": "The Suhrawardiyya order was founded by:",
+      "options": [
+        "A) Bahauddin Zakariya",
+        "B) Shah Rukn-e-Alam",
+        "C) Lal Shahbaz Qalandar",
+        "D) Sachal Sarmast"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "627318eae9c91cfee7a4ab762b4c9c8d6074270b",
+      "sectionIndex": 8,
+      "question": "Amir Khusro was a disciple of:",
+      "options": [
+        "A) Khwaja Moinuddin Chishti",
+        "B) Baba Farid",
+        "C) Nizamuddin Auliya",
+        "D) Qutbuddin Bakhtiar Kaki"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c160c5aca330af17a78483958f66077d0aad6a5b",
+      "sectionIndex": 8,
+      "question": "The khanqah system served as:",
+      "options": [
+        "A) Military posts",
+        "B) Centers of spiritual and social welfare",
+        "C) Trade centers",
+        "D) Administrative offices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cd965c8eb00cdc7a53889bd3e6cba6bdcf8d9f7",
+      "sectionIndex": 8,
+      "question": "The Mughal architectural style combined:",
+      "options": [
+        "A) Persian and Indian elements",
+        "B) Arab and Indian elements",
+        "C) Turkish and Indian elements",
+        "D) Chinese and Indian elements"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "04ee1aaffe1e1e537938b3da436cd6e7583a9684",
+      "sectionIndex": 8,
+      "question": "The official language of the Mughal court was:",
+      "options": [
+        "A) Arabic",
+        "B) Turkish",
+        "C) Persian",
+        "D) Urdu"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e28f2b47a9c0a2e414d4aadc58472ba124e65ef6",
+      "sectionIndex": 8,
+      "question": "Urdu language developed from the interaction of:",
+      "options": [
+        "A) Arabic and Persian",
+        "B) Persian and Hindi",
+        "C) Turkish and Hindi",
+        "D) Sanskrit and Persian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b3c9c96d76d8febc5764b49de21b3b0e3e805a3",
+      "sectionIndex": 8,
+      "question": "The Mughal miniature painting reached its peak under:",
+      "options": [
+        "A) Akbar",
+        "B) Jahangir",
+        "C) Shah Jahan",
+        "D) Aurangzeb"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6298ea153c6edb141ea40099f78742c7c235cf6",
+      "sectionIndex": 9,
+      "question": "East Pakistan became Bangladesh in:",
+      "options": [
+        "A) 1969",
+        "B) 1970",
+        "C) 1971",
+        "D) 1972"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "11560dfb198fbaaebea28cb94262c054c0a53214",
+      "sectionIndex": 9,
+      "question": "Zulfikar Ali Bhutto became Prime Minister in:",
+      "options": [
+        "A) 1971",
+        "B) 1972",
+        "C) 1973",
+        "D) 1974"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "665c2bb37a2e3a8b65d47c2c5315ffbdac8a6cef",
+      "sectionIndex": 9,
+      "question": "General Zia-ul-Haq imposed martial law in:",
+      "options": [
+        "A) 1975",
+        "B) 1976",
+        "C) 1977",
+        "D) 1978"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dd2bfdfc2f45efa6d5b4d0035b48d546955cf2b0",
+      "sectionIndex": 9,
+      "question": "The Afghan War (Soviet invasion) began in:",
+      "options": [
+        "A) 1977",
+        "B) 1978",
+        "C) 1979",
+        "D) 1980"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9b9db7d72ba416343bd9b69cc9a520a0a1f1f8ba",
+      "sectionIndex": 9,
+      "question": "The Ojhri Camp incident occurred in:",
+      "options": [
+        "A) 1986",
+        "B) 1987",
+        "C) 1988",
+        "D) 1989"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "66075b208a25f21788daceaa84c544195681763a",
+      "sectionIndex": 9,
+      "question": "Pakistan became a nuclear power in:",
+      "options": [
+        "A) 1996",
+        "B) 1997",
+        "C) 1998",
+        "D) 1999"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e350af787d27b836b10508d401af4e4ddccf133a",
+      "sectionIndex": 9,
+      "question": "The National Reconciliation Ordinance (NRO) was issued in:",
+      "options": [
+        "A) 2005",
+        "B) 2006",
+        "C) 2007",
+        "D) 2008"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e33ca8c8dcd33948eaa574100406f149d5aa8dcd",
+      "sectionIndex": 9,
+      "question": "The Lawyers' Movement peaked in:",
+      "options": [
+        "A) 2006",
+        "B) 2007",
+        "C) 2008",
+        "D) 2009"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0bbc211992c934feeef1abde0aa99656e832b2b",
+      "sectionIndex": 9,
+      "question": "Operation Zarb-e-Azb was launched in:",
+      "options": [
+        "A) 2012",
+        "B) 2013",
+        "C) 2014",
+        "D) 2015"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3d930900b6300805ad79a2a045be0c8d8549c04b",
+      "sectionIndex": 9,
+      "question": "CPEC (China-Pakistan Economic Corridor) was launched in:",
+      "options": [
+        "A) 2013",
+        "B) 2014",
+        "C) 2015",
+        "D) 2016"
+      ],
+      "correct": "C"
+    }
+  ]
+}

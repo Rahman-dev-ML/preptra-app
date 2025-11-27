@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:09:05.563Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "b4ba65d16ed2c867b3a2bb3b2061835782fde926",
+      "sectionIndex": 0,
+      "question": "The epistemological difference between Ahl al-Ra'y and Ahl al-Hadith methodologies fundamentally concerns:",
+      "options": [
+        "A) Geographic preferences",
+        "B) The relationship between reason and revelation in legal derivation",
+        "C) Personal rivalries",
+        "D) Political affiliations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "005778412758a3c4eaa1861611aa820db0097a93",
+      "sectionIndex": 0,
+      "question": "The concept of \"Tarjih\" in Hanafi usul involves:",
+      "options": [
+        "A) Random selection",
+        "B) Systematic preference criteria among conflicting narrations",
+        "C) Rejecting all opinions",
+        "D) Creating new opinions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e7013fbaeab50f8d3fcad04abb9e3a1f8e3f737",
+      "sectionIndex": 0,
+      "question": "Ibn Qayyim's criticism of Taqlid centered on:",
+      "options": [
+        "A) Its complete invalidity",
+        "B) Its hindrance to contextual application of Shariah objectives",
+        "C) Support for all forms",
+        "D) Regional differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adca0d1b69e82c0221a08c9a7fa7cffc6726c511",
+      "sectionIndex": 0,
+      "question": "The Zahiri school's rejection of Qiyas was based on:",
+      "options": [
+        "A) Intellectual inability",
+        "B) Theological position on divine intent's unknowability",
+        "C) Political reasons",
+        "D) Following other schools"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56a7e278210378848f1ea286562852867ef70fe2",
+      "sectionIndex": 0,
+      "question": "Post-classical development of \"Takhrij\" methodology served to:",
+      "options": [
+        "A) Replace original texts",
+        "B) Derive school positions on unprecedented issues",
+        "C) Criticize early scholars",
+        "D) Simplify law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32573f8532a6487887e18f3255de6cc102fe7d96",
+      "sectionIndex": 0,
+      "question": "The phenomenon of \"Madhhab-less\" (La-Madhhabiyya) movements reflects:",
+      "options": [
+        "A) Anti-Islamic tendencies",
+        "B) Tension between textual authenticity and systematic jurisprudence",
+        "C) Western influence only",
+        "D) Political motivations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a40899d950b43c7c6bd4c75f685978b7011a0c7",
+      "sectionIndex": 0,
+      "question": "The concept of \"Usul al-Madhhab\" differs from \"Usul al-Fiqh\" in:",
+      "options": [
+        "A) No difference",
+        "B) School-specific methodology vs. general legal theory",
+        "C) Authority only",
+        "D) Historical period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5f102320c8adb4e1aaee4cf7d204b307741df06",
+      "sectionIndex": 0,
+      "question": "Contemporary \"Maqasidi\" approaches to jurisprudence challenge traditional schools by:",
+      "options": [
+        "A) Rejecting all precedent",
+        "B) Prioritizing objectives over formal analogical reasoning",
+        "C) Focusing on rituals",
+        "D) Ignoring texts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb4a09e6cea840fe9ba03e8d9c6cf070fbc18e88",
+      "sectionIndex": 0,
+      "question": "The integration of Ottoman Majallah with Hanafi fiqh demonstrates:",
+      "options": [
+        "A) Pure codification",
+        "B) Selective systematization with modernizing elements",
+        "C) Rejection of Islamic law",
+        "D) Western adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b2170fedbf9909da5c1b7f3032de146a40cdc3f",
+      "sectionIndex": 0,
+      "question": "Neo-Mu'tazilite influences in contemporary Islamic legal thought manifest in:",
+      "options": [
+        "A) Ritual changes",
+        "B) Expanded role for reason in interpreting revelation",
+        "C) Rejection of reason",
+        "D) Political movements only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88c2bc6fb0ecc163761861cf67594989cb14faef",
+      "sectionIndex": 1,
+      "question": "The hermeneutical principle of \"Zahir-Batin\" dialectic in legal interpretation involves:",
+      "options": [
+        "A) Literal reading only",
+        "B) Tension between apparent and intended meanings",
+        "C) Esoteric meanings only",
+        "D) Grammatical analysis alone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05913319335a3b6ccb89407c5c43815e96f6dbdb",
+      "sectionIndex": 1,
+      "question": "Shatibi's innovation in Maqasid theory was:",
+      "options": [
+        "A) Listing objectives",
+        "B) Systematizing inductive derivation of universal principles",
+        "C) Rejecting objectives",
+        "D) Following Ghazali completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6ccba35d932ddc896ae58298b26c58d3f43ba5f",
+      "sectionIndex": 1,
+      "question": "The concept of \"Dalil Ijmali\" vs. \"Dalil Tafsili\" affects legal certainty through:",
+      "options": [
+        "A) No effect",
+        "B) Distinguishing general indicators from specific proofs",
+        "C) Creating confusion",
+        "D) Modern application only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90bd0e09128dd27423e05fbc3f2110479c8fb3d5",
+      "sectionIndex": 1,
+      "question": "Post-colonial debates on \"Siyar\" (Islamic international law) center on:",
+      "options": [
+        "A) Historical interest",
+        "B) Reconciling classical categories with modern state system",
+        "C) Rejecting international law",
+        "D) Military matters only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cfdcf43d4acccb732822314385fcf2c27238ad7",
+      "sectionIndex": 1,
+      "question": "The principle of \"Tanqih al-Manat\" in legal reasoning requires:",
+      "options": [
+        "A) Literal application",
+        "B) Isolating effective cause from textual context",
+        "C) Ignoring context",
+        "D) Following precedent blindly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25eb13b507c09c913e364fcebc325fe3b73fbcf8",
+      "sectionIndex": 1,
+      "question": "Contemporary discussions on \"Ijma Sukuti\" (tacit consensus) raise questions about:",
+      "options": [
+        "A) Its existence",
+        "B) Democratic theory and scholarly authority",
+        "C) Historical accuracy",
+        "D) Practical impossibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2f46aadc93be1eba370af94d49fac11bd024120",
+      "sectionIndex": 1,
+      "question": "The relationship between 'Urf Khass and 'Urf 'Aam in globalized contexts challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Traditional locality-based custom recognition",
+        "C) All customs",
+        "D) Religious authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9a39d46956bf8b07686707efd1b87f2d316e405",
+      "sectionIndex": 1,
+      "question": "Fazlur Rahman's \"double movement\" theory proposes:",
+      "options": [
+        "A) Physical movement",
+        "B) Contextual-historical analysis returning to contemporary application",
+        "C) Rejecting history",
+        "D) Literal application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "062733bf7c1521f7808b2e8642b1b28b3fcf986e",
+      "sectionIndex": 1,
+      "question": "The concept of \"Qat'i\" and \"Zanni\" in post-modern discourse is challenged by:",
+      "options": [
+        "A) Scientific method",
+        "B) Hermeneutical theories questioning objective certainty",
+        "C) Political pressure",
+        "D) Economic needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04fe51fff1dd94abf45c380ac3ea8415df4a9b3d",
+      "sectionIndex": 1,
+      "question": "\"Sadd al-Dhara'i\" application to contemporary bioethics involves:",
+      "options": [
+        "A) Prohibition only",
+        "B) Predictive assessment of technological consequences",
+        "C) Permitting everything",
+        "D) Ignoring technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c441d61d0182f13b67ce85cc5238c5400612ad06",
+      "sectionIndex": 2,
+      "question": "The tension between classical fiqh and modern human rights in Khula manifests in:",
+      "options": [
+        "A) No tension",
+        "B) Consent requirements vs. unilateral rights discourse",
+        "C) Complete harmony",
+        "D) Procedural issues only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd512b745362a009e3ab40760f428068c0c72705",
+      "sectionIndex": 2,
+      "question": "Contemporary ijtihad on marriage guardianship (Wilayah) must reconcile:",
+      "options": [
+        "A) Nothing",
+        "B) Protective rationale with autonomy principles",
+        "C) Male dominance",
+        "D) Cultural practices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "240f586c80f36f8a8da6f330957662433789c48a",
+      "sectionIndex": 2,
+      "question": "The juridical nature of Mahr as \"consideration\" vs. \"gift\" affects:",
+      "options": [
+        "A) Amount only",
+        "B) Legal remedies and contractual theory",
+        "C) Social status",
+        "D) Religious merit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc374b2ac6abefa31809951e08f1173c4f0a2835",
+      "sectionIndex": 2,
+      "question": "Post-colonial legislation on polygamy reflects which jurisprudential approach:",
+      "options": [
+        "A) Literal textualism",
+        "B) Maqasid-based restriction through procedural requirements",
+        "C) Complete prohibition",
+        "D) Unrestricted permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e01ef627c1372b1adf0e78d8dac0cb592a753367",
+      "sectionIndex": 2,
+      "question": "The concept of \"Matrimonial property\" in Islamic law challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Separation of property regime with equity concerns",
+        "C) Marriage itself",
+        "D) Inheritance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a41caf78d608a3e7dd8c630bc39489fe5bb587a",
+      "sectionIndex": 2,
+      "question": "Contemporary debates on \"Misyar\" marriage involve:",
+      "options": [
+        "A) Name only",
+        "B) Formalism vs. substantive rights protection",
+        "C) Complete acceptance",
+        "D) Regional variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7206a4ff48b969fe1262af65bd282434c0de1f7d",
+      "sectionIndex": 2,
+      "question": "The intersection of \"Kafā'ah\" (compatibility) with anti-discrimination principles requires:",
+      "options": [
+        "A) Abandonment",
+        "B) Reinterpretation focusing on character over lineage",
+        "C) Strict application",
+        "D) Legal enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b023bc4252e0b32f85f68224e1d1c6654974562e",
+      "sectionIndex": 2,
+      "question": "Judicial Khula's development in Pakistan represents:",
+      "options": [
+        "A) Western influence",
+        "B) Procedural ijtihad within Islamic framework",
+        "C) Rejection of Shariah",
+        "D) Colonial legacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b66f11145b088f02b45832a0fcf3b5109f72659",
+      "sectionIndex": 2,
+      "question": "The \"Halalah\" controversy involves intersection of:",
+      "options": [
+        "A) Ritual law",
+        "B) Legal form, ethical substance, and gender justice",
+        "C) Economic matters",
+        "D) International law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4df2d64216760e32f6d7b613814ca5d08e50d75f",
+      "sectionIndex": 2,
+      "question": "Contemporary discourse on marital rape within Islamic law involves:",
+      "options": [
+        "A) Clear consensus",
+        "B) Competing frameworks of rights and obligations",
+        "C) No discussion",
+        "D) Western imposition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa269c0d0a83dedc0684d6d5c5d01a9096d7e819",
+      "sectionIndex": 3,
+      "question": "The doctrine of \"Tanasukh\" (successive deaths) requires complex calculations involving:",
+      "options": [
+        "A) Simple division",
+        "B) Theoretical reconstruction of inheritance chains",
+        "C) Estimation only",
+        "D) Equal distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d815b5f90a8e939e48fa660a97782dbaa39da7f",
+      "sectionIndex": 3,
+      "question": "Contemporary debates on gender equality in inheritance center on:",
+      "options": [
+        "A) Textual amendment",
+        "B) Contextual understanding of economic responsibilities",
+        "C) Complete equality",
+        "D) No debate exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0781a6c5c25470c6d43ec0452d2055b379a2fc8f",
+      "sectionIndex": 3,
+      "question": "The principle of \"Istihqaq\" in inheritance intersects with modern property theory through:",
+      "options": [
+        "A) No intersection",
+        "B) Vested rights vs. expectancy doctrines",
+        "C) Simple ownership",
+        "D) Registration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca79781fc0902041a30f12bd1844fd721ee206e2",
+      "sectionIndex": 3,
+      "question": "Orphaned grandchildren's rights under classical vs. reformed law illustrate:",
+      "options": [
+        "A) No change",
+        "B) Tension between formal rules and substantive justice",
+        "C) Western influence",
+        "D) Economic necessity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53f082432a1c0ea6c56c1a6fe4c0cc274b0d0993",
+      "sectionIndex": 3,
+      "question": "The concept of \"Hajb\" (exclusion) in complex family structures requires:",
+      "options": [
+        "A) Basic knowledge",
+        "B) Systematic analysis of proximity principles",
+        "C) Guesswork",
+        "D) Court decision always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5962b7fbb2eb29b585edbca8b6602c7f0942a09",
+      "sectionIndex": 3,
+      "question": "Modern challenges to inheritance law include reconciling:",
+      "options": [
+        "A) Nothing",
+        "B) Fixed shares with changed family structures",
+        "C) Religious law with secular law",
+        "D) Eastern with Western law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2ae3e5270bf362bdf5d24536b15feeec510ce78",
+      "sectionIndex": 3,
+      "question": "The \"Obligatory Bequest\" doctrine in some jurisdictions represents:",
+      "options": [
+        "A) Classical position",
+        "B) Legislative ijtihad addressing social change",
+        "C) Western import",
+        "D) Temporary measure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f967760a7fddcb8579d1675994b10bbe515190f",
+      "sectionIndex": 3,
+      "question": "Inheritance of intellectual property and digital assets requires:",
+      "options": [
+        "A) No special consideration",
+        "B) Analogical extension of property concepts",
+        "C) Exclusion from inheritance",
+        "D) Government control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdd38d3b24f7b50224d97d9de48da218235c0caf",
+      "sectionIndex": 3,
+      "question": "The intersection of inheritance law with tax planning involves:",
+      "options": [
+        "A) No issues",
+        "B) Balancing legal stratagem with ethical obligations",
+        "C) Tax evasion",
+        "D) Simple calculation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5dcb31ed85f9d77ca3a6334b3b2979baef20a64",
+      "sectionIndex": 3,
+      "question": "Gender transition and inheritance rights pose questions about:",
+      "options": [
+        "A) No legal relevance",
+        "B) Moment of right crystallization and identity",
+        "C) Automatic exclusion",
+        "D) Double shares"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dc93a26f42acb2d383d8bfc9c2d6b58dffebadd",
+      "sectionIndex": 4,
+      "question": "The epistemological foundations of \"Yaqin\" (certainty) vs. \"Zann\" (probability) in contemporary evidence theory involve:",
+      "options": [
+        "A) Simple distinction",
+        "B) Bayesian probability and judicial certainty",
+        "C) No modern relevance",
+        "D) Historical interest only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0edee73157bc9116abb4245d726718b19c4ef513",
+      "sectionIndex": 4,
+      "question": "The concept of \"Tahqiq al-Manat\" in artificial intelligence applications requires:",
+      "options": [
+        "A) No consideration",
+        "B) Determining causation in algorithmic decisions",
+        "C) Prohibiting technology",
+        "D) Simple application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83c52002ce635bdd8b4cf1014e568850f0a4e7f8",
+      "sectionIndex": 4,
+      "question": "Contemporary \"Istislah\" must balance between:",
+      "options": [
+        "A) No balance needed",
+        "B) Utilitarian calculus and deontological constraints",
+        "C) Pure benefit",
+        "D) Textual literalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75e610d5146280c6466e302d3d97e51b4ecf879e",
+      "sectionIndex": 4,
+      "question": "The principle of \"Ibahah Asliyyah\" (original permissibility) in regulating emerging technologies suggests:",
+      "options": [
+        "A) Everything prohibited",
+        "B) Presumptive permission requiring specific prohibition",
+        "C) No regulation needed",
+        "D) Complete freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2594bf832942642be5d4488bd800d02aeb72684",
+      "sectionIndex": 4,
+      "question": "\"Takhsis al-Qada\" (jurisdictional specialization) in modern Islamic legal systems reflects:",
+      "options": [
+        "A) Colonial influence only",
+        "B) Complex interaction of expertise and authority",
+        "C) Rejection of Shariah",
+        "D) Administrative convenience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d0aa9771fbe0cceb61337db94d691b6dfa2d8ea",
+      "sectionIndex": 4,
+      "question": "The relationship between \"Haqq Allah\" and \"Haqq al-'Ibad\" in contemporary criminal justice involves:",
+      "options": [
+        "A) Clear distinction",
+        "B) Overlapping spheres requiring reconciliation",
+        "C) No relationship",
+        "D) Historical categories only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cd89e295420089a50ec386832a8bc88176161ad",
+      "sectionIndex": 4,
+      "question": "Modern financial derivatives challenge traditional \"Gharar\" analysis through:",
+      "options": [
+        "A) Simple prohibition",
+        "B) Distinguishing calculated risk from uncertainty",
+        "C) Complete acceptance",
+        "D) Ignoring the issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72b3186d168ebf642fcc63c84d7696edb41c8977",
+      "sectionIndex": 4,
+      "question": "The concept of \"Darurah\" (necessity) in medical ethics requires:",
+      "options": [
+        "A) Blanket permission",
+        "B) Proportionality analysis in life-saving interventions",
+        "C) No medical application",
+        "D) Individual choice only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a69b08e24d72b3441571ac64b68120b50ed806ca",
+      "sectionIndex": 4,
+      "question": "\"Qaidah Fiqhiyyah\" application to data privacy involves:",
+      "options": [
+        "A) No relevance",
+        "B) Extending harm prevention to information security",
+        "C) Traditional application only",
+        "D) Prohibiting data use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1ff16a3367287fa199084a607457103bf0d3b33",
+      "sectionIndex": 4,
+      "question": "The principle of \"Taghayyur al-Ahkam\" (changing rulings) in globalized contexts requires:",
+      "options": [
+        "A) No change",
+        "B) Distinguishing universal principles from contextual applications",
+        "C) Abandoning all rules",
+        "D) Strict preservation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1efced9149b55c9865856680d75ea16fca12d572",
+      "sectionIndex": 5,
+      "question": "The epistemological challenge in proving Hudud crimes in modern forensic contexts involves:",
+      "options": [
+        "A) No challenge",
+        "B) Reconciling testimonial emphasis with scientific evidence",
+        "C) Rejecting science",
+        "D) Abandoning Hudud"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28985395b89cb9bd4f88b1d4bfbab7d34d51aff8",
+      "sectionIndex": 5,
+      "question": "Contemporary debates on \"Ta'zir\" legislation center on:",
+      "options": [
+        "A) Fixed penalties",
+        "B) Legislative discretion vs. judicial individualization",
+        "C) No flexibility",
+        "D) Historical precedent only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5ed65400762ebab7dd844f79d4d62bd0eb86105",
+      "sectionIndex": 5,
+      "question": "The principle of \"Dar'\" (prevention) in Hudud jurisprudence intersects with modern theories of:",
+      "options": [
+        "A) Punishment only",
+        "B) Restorative justice and crime prevention",
+        "C) Retribution only",
+        "D) No modern relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0693945c194762bfb25776aecc8c1fc4c3549a7f",
+      "sectionIndex": 5,
+      "question": "\"Hirz\" (secure place) concept in cyber-theft requires:",
+      "options": [
+        "A) Physical security only",
+        "B) Reconceptualizing security in digital spaces",
+        "C) No application",
+        "D) Traditional understanding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1da3d8b3657b9d669df736cef2430726a3a464c2",
+      "sectionIndex": 5,
+      "question": "The relationship between \"Qisas\" and modern victimology involves:",
+      "options": [
+        "A) Opposition",
+        "B) Convergent emphasis on victim rights",
+        "C) No relationship",
+        "D) Historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07904d52166cb54506f3a263a50b691096c68fb4",
+      "sectionIndex": 5,
+      "question": "Contemporary application of \"Diyah\" must address:",
+      "options": [
+        "A) Fixed amounts only",
+        "B) Economic inflation and actuarial valuation",
+        "C) No change needed",
+        "D) Arbitrary amounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47f1b86fe3e809d60240627ffe3c502e4397ed17",
+      "sectionIndex": 5,
+      "question": "The concept of \"Shubha\" in DNA evidence raises questions about:",
+      "options": [
+        "A) Technology rejection",
+        "B) Epistemological certainty in scientific proof",
+        "C) Absolute acceptance",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8dc776055e7a3b7d15533f774eb3bf9fe100ef18",
+      "sectionIndex": 5,
+      "question": "\"Siyasah Ta'ziriyyah\" (discretionary punishment policy) must balance:",
+      "options": [
+        "A) No balance",
+        "B) Deterrence with proportionality principles",
+        "C) Maximum punishment",
+        "D) Minimum intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f39240feaae1b938dadffd20bfda0394127fd8c",
+      "sectionIndex": 5,
+      "question": "The intersection of \"Hadd\" penalties with international human rights law requires:",
+      "options": [
+        "A) Choosing one",
+        "B) Hermeneutical reconciliation or conscientious divergence",
+        "C) Ignoring conflicts",
+        "D) Abandoning either"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be6c32f4871c864191f5ae126bdf4258df74c97a",
+      "sectionIndex": 5,
+      "question": "Modern \"Qadhf\" (false accusation) laws must address:",
+      "options": [
+        "A) Physical meetings only",
+        "B) Digital defamation and viral spread",
+        "C) No modern application",
+        "D) Traditional forms only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a93c7098801df69d633b8640322ad8b9727758f8",
+      "sectionIndex": 6,
+      "question": "The \"Islamization\" of laws in Pakistan demonstrates tension between:",
+      "options": [
+        "A) No tension",
+        "B) Symbolic legislation and structural transformation",
+        "C) Complete success",
+        "D) Total failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8aabe3993fb347bd454ee46d747ba452ad53243",
+      "sectionIndex": 6,
+      "question": "Federal Shariat Court's \"Muslim personal law\" exception reflects:",
+      "options": [
+        "A) Oversight",
+        "B) Political compromise vs. comprehensive Islamization",
+        "C) Full implementation",
+        "D) Colonial legacy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e902f2abf0f595752f22246d98bdc56403700bd8",
+      "sectionIndex": 6,
+      "question": "The concept of \"Ijtihad-e-Jama'i\" in CII represents:",
+      "options": [
+        "A) Traditional method",
+        "B) Institutional innovation in collective reasoning",
+        "C) Individual effort",
+        "D) Western influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35ff0dab938a34b372b37d90fd7340543ca2ee47",
+      "sectionIndex": 6,
+      "question": "Judicial review of \"repugnancy to Islam\" involves:",
+      "options": [
+        "A) Simple comparison",
+        "B) Complex hermeneutical and constitutional interpretation",
+        "C) Literal application",
+        "D) Political decision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "861b0432e29b71d772abb6dd86dbecf74c45af87",
+      "sectionIndex": 6,
+      "question": "The Protection of Women Act 2006's approach demonstrates:",
+      "options": [
+        "A) Secular reform",
+        "B) Procedural modification within Islamic framework",
+        "C) Rejection of Hudud",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27d042e064a61250731e7e942a6ec6f94635471c",
+      "sectionIndex": 6,
+      "question": "Pakistan's \"triple talaq\" jurisprudence shows influence of:",
+      "options": [
+        "A) Western law only",
+        "B) Reformist interpretation within classical discourse",
+        "C) Hindu law",
+        "D) No influences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da5f061ccbdd93deeb624880c5b02adcdf8be7c8",
+      "sectionIndex": 6,
+      "question": "The relationship between Article 227 and fundamental rights involves:",
+      "options": [
+        "A) No relationship",
+        "B) Hierarchical vs. harmonious interpretation debates",
+        "C) Clear precedence",
+        "D) Separate spheres"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7aaafd01aad7c0005fcafc9cf8c85734d01a6b5a",
+      "sectionIndex": 6,
+      "question": "Riba elimination judgments face implementation challenges due to:",
+      "options": [
+        "A) Religious opposition",
+        "B) Global financial integration and alternative models",
+        "C) Lack of will",
+        "D) Clear alternatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58db8fc738ce46571452da37149d77bbf2f09a56",
+      "sectionIndex": 6,
+      "question": "The Qanun-e-Shahadat's evidence provisions reflect:",
+      "options": [
+        "A) Pure classical law",
+        "B) Selective adoption with modern modifications",
+        "C) Western law",
+        "D) No Islamic influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bd06f36aec9ad9ba08e5219d0db5e9e03641353",
+      "sectionIndex": 6,
+      "question": "Zakat administration in Pakistan illustrates:",
+      "options": [
+        "A) Perfect implementation",
+        "B) Challenges in modernizing classical fiscal institutions",
+        "C) No implementation",
+        "D) Simple tax system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c29ff9981c2d0016cb5aa6cb9d5bc46c6d24aff",
+      "sectionIndex": 7,
+      "question": "Islamic finance's \"form over substance\" critique involves:",
+      "options": [
+        "A) Nomenclature only",
+        "B) Tension between legal compliance and economic justice",
+        "C) No valid criticism",
+        "D) Western bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f944c18de576d7b88650d67ed8bda2eb7bfd1103",
+      "sectionIndex": 7,
+      "question": "The concept of \"Beneficial ownership\" in Islamic finance challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Traditional risk-ownership linkage",
+        "C) All transactions",
+        "D) Modern finance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12aa4fd9924b1cc76abfd385f0c247547cebf2ce",
+      "sectionIndex": 7,
+      "question": "Cryptocurrency from Islamic legal perspective involves analyzing:",
+      "options": [
+        "A) Technology only",
+        "B) Currency theory, speculation, and decentralization",
+        "C) Prohibition only",
+        "D) No analysis needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38b0919443604c2e565c659796fe7246b94c2452",
+      "sectionIndex": 7,
+      "question": "Modern Takaful models' compliance debates center on:",
+      "options": [
+        "A) Names only",
+        "B) Mutuality vs. commercial insurance structures",
+        "C) No debates",
+        "D) Premium amounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14de96ed4c69d4c2c0db061c9581cfa4db2f6158",
+      "sectionIndex": 7,
+      "question": "The principle of \"Kafa'ah Mali\" (financial adequacy) in contemporary contexts requires:",
+      "options": [
+        "A) Fixed amounts",
+        "B) Dynamic assessment of economic capacity",
+        "C) No consideration",
+        "D) Male income only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1010dd536b6fdd542f70a94e4a5e42d85da1ce8a",
+      "sectionIndex": 7,
+      "question": "Bioethical challenges in Islamic law require reconciling:",
+      "options": [
+        "A) Nothing",
+        "B) Sanctity principles with quality-of-life considerations",
+        "C) Science rejection",
+        "D) Unlimited permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a91430fcf5d841a276e785e8533ac8ffb517a046",
+      "sectionIndex": 7,
+      "question": "Environmental jurisprudence (Fiqh al-Bi'ah) develops through:",
+      "options": [
+        "A) New revelation",
+        "B) Extending trusteeship and harm principles",
+        "C) No development",
+        "D) Western adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49ff2140874e3a7b56aefe7f3c9031d24f2a86a8",
+      "sectionIndex": 7,
+      "question": "Gender jihad discourse represents:",
+      "options": [
+        "A) Militancy",
+        "B) Hermeneutical struggle for egalitarian interpretation",
+        "C) No significance",
+        "D) Western feminism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb86753fde43f14182781c895c9f31c498f9515e",
+      "sectionIndex": 7,
+      "question": "Islamic arbitration in secular jurisdictions faces:",
+      "options": [
+        "A) No issues",
+        "B) Public policy and choice-of-law challenges",
+        "C) Complete acceptance",
+        "D) Total rejection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "116d78f9c09e018b2937da1320c6cbbaf10f055d",
+      "sectionIndex": 7,
+      "question": "Post-colonial Islamic legal theory must address:",
+      "options": [
+        "A) History only",
+        "B) Epistemic decolonization and authentic reform",
+        "C) Western adoption",
+        "D) No changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdbc1c74226f20ccd7a8c430e4c67a80d6a347b8",
+      "sectionIndex": 8,
+      "question": "The concept of \"Ahliyyah\" in neurodiversity contexts challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Binary capacity models with spectrum approaches",
+        "C) All contracts",
+        "D) Modern medicine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42a611237fcfb444893e6eff7281de271401b23e",
+      "sectionIndex": 8,
+      "question": "Smart contracts from Islamic legal perspective require examining:",
+      "options": [
+        "A) Technology only",
+        "B) Automation of consent and contractual discretion",
+        "C) Prohibition",
+        "D) No examination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f15e6fc08f5f1d7ca4e21744fe1cc63aa7e27dad",
+      "sectionIndex": 8,
+      "question": "The principle of \"Ghabn\" (deception) in information asymmetry involves:",
+      "options": [
+        "A) Simple fraud",
+        "B) Disclosure obligations in complex transactions",
+        "C) No modern relevance",
+        "D) Buyer beware only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0a4e35fbadbb235a8c85b32c678474208c37b9c",
+      "sectionIndex": 8,
+      "question": "Contemporary \"Riba al-Fadl\" analysis must address:",
+      "options": [
+        "A) Gold and silver only",
+        "B) Monetary theory and medium of exchange",
+        "C) No modern application",
+        "D) Historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01b549223dc08c445098e2e24fcad3e0decf92cb",
+      "sectionIndex": 8,
+      "question": "The concept of \"Majlis al-'Aqd\" (contracting session) in digital transactions requires:",
+      "options": [
+        "A) Physical presence",
+        "B) Reconceptualizing temporal and spatial unity",
+        "C) No application",
+        "D) Prohibition of online contracts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e71f3ef1a0aad24215ecdab56dac36353b2fe8e",
+      "sectionIndex": 8,
+      "question": "Force majeure in Islamic law during global crises involves:",
+      "options": [
+        "A) Simple excuse",
+        "B) Balancing impossibility with equitable adjustment",
+        "C) Contract termination only",
+        "D) No consideration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cc9226cc02c90a250512e3ab735f0edbbf9f4cd",
+      "sectionIndex": 8,
+      "question": "The principle of \"Khiyar al-Shart\" (stipulated option) in consumer protection shows:",
+      "options": [
+        "A) No relevance",
+        "B) Convergence with cooling-off periods",
+        "C) Opposition to modern law",
+        "D) Historical artifact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6ead721f010729763c0d9d8bd14e24ab7260b8e",
+      "sectionIndex": 8,
+      "question": "Islamic venture capital structures must reconcile:",
+      "options": [
+        "A) Nothing",
+        "B) Profit-sharing with staged investment needs",
+        "C) Prohibition",
+        "D) Interest acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a4f208b7a9e308fabbd8393910af1f52346d7d8",
+      "sectionIndex": 8,
+      "question": "The concept of \"Ibra'\" (discharge) in debt restructuring involves:",
+      "options": [
+        "A) Simple forgiveness",
+        "B) Voluntary vs. systemic debt relief mechanisms",
+        "C) No application",
+        "D) Creditor loss only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53954315abf654b979b3e8b84f1e9ce0564ca253",
+      "sectionIndex": 8,
+      "question": "Intellectual property from \"Manfa'ah\" (usufruct) perspective requires:",
+      "options": [
+        "A) Rejection",
+        "B) Conceptualizing intangible benefit rights",
+        "C) Physical property only",
+        "D) No protection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86ad0200aabe5a8d2a1cc61f1373d2b237aee6f5",
+      "sectionIndex": 9,
+      "question": "Contemporary \"Maqasid\" methodology faces criticism for:",
+      "options": [
+        "A) Rigidity",
+        "B) Potential subjectivity in objective determination",
+        "C) Clear application",
+        "D) No criticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "647bb7afde84d508c6494aaf445b80d4cba4107b",
+      "sectionIndex": 9,
+      "question": "The relationship between \"Shari'ah\" and \"Fiqh\" in reform discourse involves:",
+      "options": [
+        "A) Identity",
+        "B) Distinguishing divine intent from human interpretation",
+        "C) No distinction",
+        "D) Historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b801a82dc7e5f08daf280f53ae92bb3e8a18a3a0",
+      "sectionIndex": 9,
+      "question": "Post-modern challenges to \"Ijma'\" include:",
+      "options": [
+        "A) Its existence",
+        "B) Power dynamics in consensus formation",
+        "C) Clear application",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "114b09afebfb079a4bcfc3118612f2bb9af6e97a",
+      "sectionIndex": 9,
+      "question": "The concept of \"Bidah Hasanah\" (good innovation) in legal reform requires:",
+      "options": [
+        "A) Rejection of all innovation",
+        "B) Criteria for beneficial legal development",
+        "C) Unlimited innovation",
+        "D) No consideration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bb67254a46efdd3ac041266aa60141a6757fba0",
+      "sectionIndex": 9,
+      "question": "\"Takhayyur\" and \"Talfiq\" in globalized fatwa practices raise:",
+      "options": [
+        "A) No issues",
+        "B) Forum shopping and coherence concerns",
+        "C) Simple solutions",
+        "D) Universal application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44676379539eaef209ebea0560ac3c5520c9fa9e",
+      "sectionIndex": 9,
+      "question": "The principle of \"Taysir\" (facilitation) must balance:",
+      "options": [
+        "A) Nothing",
+        "B) Accessibility with preservation of objectives",
+        "C) Unlimited ease",
+        "D) Maximum difficulty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91c9f279974e26ed81cc207f83b2edb85f993ab7",
+      "sectionIndex": 9,
+      "question": "Contemporary \"Usul\" revision debates center on:",
+      "options": [
+        "A) Abandonment",
+        "B) Methodological renewal vs. foundational principles",
+        "C) No debate",
+        "D) Western adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8663dd9fdffa291b3dc1b20087f6b49f8eaa0c39",
+      "sectionIndex": 9,
+      "question": "The concept of \"Fiqh al-Aqalliyyat\" (minority jurisprudence) develops through:",
+      "options": [
+        "A) Isolation",
+        "B) Contextual application in secular societies",
+        "C) Majority rules",
+        "D) No development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8cda89a8218060d0bd87d867a6492b8a1c002b5",
+      "sectionIndex": 9,
+      "question": "\"Wasatiyyah\" (moderation) as jurisprudential principle requires:",
+      "options": [
+        "A) Compromise always",
+        "B) Balanced methodology avoiding extremes",
+        "C) Middle position only",
+        "D) No principle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e349877a2db8bde12507655dd521ab5e63114af",
+      "sectionIndex": 9,
+      "question": "The future of Islamic legal theory likely involves:",
+      "options": [
+        "A) Stagnation",
+        "B) Dynamic interaction between authenticity and contemporary challenges",
+        "C) Abandonment",
+        "D) Return to past only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

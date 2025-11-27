@@ -1,0 +1,810 @@
+{
+  "subject": "Pashto (CSS Pakistan)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 28,
+  "categories": [
+    "Translation Practice (Eng↔Pashto)",
+    "Proverbs (Mataloona) & Culture",
+    "Pashto Grammar & Orthography",
+    "Classical Poetry & Critics",
+    "Modern Poetry & Critics",
+    "Prose, Drama & Literary History",
+    "Roshaniyya, Akhund Darweza & Historical Context",
+    "Folklore Genres & Forms",
+    "Exam Strategy & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "P1",
+      "title": "Eng→Pashto Translation: Techniques & Model Texts",
+      "content": "Handle dense literary/academic English: segment long sentences; keep metaphors culturally natural; preserve tense/aspect; mind izāfat/constructs. Practice on FPSC-style passages (criticism, biography, poetics, history).",
+      "keyTakeaways": [
+        "Translate sense-for-sense first; refine for idiom/register.",
+        "Prefer standard Pashto orthography; avoid Urdu calques.",
+        "Build a personal glossary for recurrent academic terms."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS 2024 Descriptive Papers (Pashto PDF)",
+          "url": "https://fpsc.gov.pk/category/css-2023-descriptive-papers-516644049-2024-06-27",
+          "type": "pdf",
+          "description": "Official 2024 set"
+        },
+        {
+          "title": "FPSC — CSS 2025 Descriptive Papers (Pashto)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "pdf",
+          "description": "Latest official set"
+        }
+      ],
+      "importance": "high",
+      "category": "Translation Practice (Eng↔Pashto)",
+      "topics": ["Translation", "Register", "Style"]
+    },
+    {
+      "id": "P2",
+      "title": "Pashto→English Translation: Fidelity with Fluency",
+      "content": "Preserve meaning and tone from classical/modern Pashto; unpack compressed imagery; translate culture-bound items with brief explicitation if needed (e.g., Pashtunwali terms).",
+      "keyTakeaways": [
+        "Keep authorial voice; avoid over-literal word order.",
+        "Footnote or parenthetical gloss for key culture terms.",
+        "Consistent transliteration for names/places."
+      ],
+      "resources": [
+        {
+          "title": "Useful Pashto Phrases (handy reference)",
+          "url": "https://web.pdx.edu/~fischerw/courses/320_415_515/docs/0426-450/0437_2011_Omniglot_pashto_phrases.pdf",
+          "type": "pdf",
+          "description": "Phrase & orthography helper"
+        },
+        {
+          "title": "FPSC — Previous Question Papers hub",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "website",
+          "description": "Official archive hub"
+        }
+      ],
+      "importance": "high",
+      "category": "Translation Practice (Eng↔Pashto)",
+      "topics": ["Explicitation", "Cultural Terms"]
+    },
+    {
+      "id": "P3",
+      "title": "Proverb Translation (Bidirectional) Strategy",
+      "content": "Identify the function (didactic, warning, wit). Choose: (i) Pashto→English: use closest natural English proverb; if none, literal + gloss. (ii) English→Pashto: prefer attested Pashto equivalent from reliable collections.",
+      "keyTakeaways": [
+        "Don't force one-to-one; preserve pragmatic force.",
+        "Note regional variants; keep metric brevity.",
+        "Collect equivalence pairs for exam quick wins."
+      ],
+      "resources": [
+        {
+          "title": "Pashto Academy — Ahmed, Mataloona (Pashto Proverbs)",
+          "url": "https://pashtoacademy.edu.pk/books/pdf/1975-Ahmed-Mataloona-PashtoProverbs.pdf",
+          "type": "book",
+          "description": "Gold-standard collection with English renderings"
+        },
+        {
+          "title": "Pashto Proverb Collections — Critical Chronology",
+          "url": "https://www.academia.edu/65598517/Pashto_Proverb_Collections_A_Critical_Chronology",
+          "type": "article",
+          "description": "Survey of major collections"
+        },
+        {
+          "title": "Zellem — Mataluna: 151 Afghan Pashto Proverbs",
+          "url": "https://archive.org/details/mataluna151afgha0000zell",
+          "type": "book",
+          "description": "Bilingual, accessible"
+        }
+      ],
+      "importance": "high",
+      "category": "Proverbs (Mataloona) & Culture",
+      "topics": ["Equivalence", "Idioms", "Culture"]
+    },
+    {
+      "id": "P4",
+      "title": "Pashto Orthography & Bara Gali Decisions",
+      "content": "Use standard letters (e.g., ښ, ږ, ړ, ډ, ټ) and spacing; adopt Bara Gali/Academy recommendations for exams. Watch out for dialectal spellings.",
+      "keyTakeaways": [
+        "Stick to standard forms in formal answers.",
+        "Retroflex/affricate letters change meaning—be precise.",
+        "Maintain consistent diacritics in examples/titles."
+      ],
+      "resources": [
+        {
+          "title": "Pashto Standard Orthography & Bara Gali Decisions",
+          "url": "https://pashto.org.pk/index.php/path/article/view/424",
+          "type": "article",
+          "description": "Overview + recommendations"
+        },
+        {
+          "title": "Tegey & Robson — Pashto (DLI/CAL Reference Grammar)",
+          "url": "https://fieldsupport.dliflc.edu/products/pashto/pu_co/website/pashto.pdf",
+          "type": "pdf",
+          "description": "Alphabet & phonology tables"
+        },
+        {
+          "title": "A Reference Grammar of Pashto (CAL)",
+          "url": "https://scispace.com/pdf/a-reference-grammar-of-pashto-1r7nm5qaue.pdf",
+          "type": "pdf",
+          "description": "Comprehensive reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Pashto Grammar & Orthography",
+      "topics": ["Orthography", "Phonology", "Standardization"]
+    },
+    {
+      "id": "P5",
+      "title": "Core Grammar for Translation",
+      "content": "Refresh verb system (simple vs compound, light verbs), ezāfat-like constructs, case/postpositions, participles, clitics; manage aspect and modality in literary prose.",
+      "keyTakeaways": [
+        "Map English perfect/progressive to Pashto aspect accurately.",
+        "Mind enclitics and emphasis particles in rendering tone.",
+        "Keep consistent transliteration for grammar notes."
+      ],
+      "resources": [
+        {
+          "title": "Tegey & Robson — Pashto (reference)",
+          "url": "https://fieldsupport.dliflc.edu/products/pashto/pu_co/website/pashto.pdf",
+          "type": "pdf",
+          "description": "Concise, exam-friendly"
+        },
+        {
+          "title": "David — Pashto and its Dialects: Descriptive Grammar",
+          "url": "https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Indo-European/Iranian/Pashto%20and%20its%20Dialects%2C%20Descriptive%20Grammar%20of%20%28David%29.pdf",
+          "type": "pdf",
+          "description": "Dialect & structure details"
+        }
+      ],
+      "importance": "high",
+      "category": "Pashto Grammar & Orthography",
+      "topics": ["Verbs", "Aspect", "Syntax"]
+    },
+    {
+      "id": "P6",
+      "title": "Rahman Baba — Ethics & Mysticism in the Dīwān",
+      "content": "Anchor arguments with textual evidence on sincerity (ikhlāṣ), humility, love of God/man. Use authoritative editions and reliable translations.",
+      "keyTakeaways": [
+        "Quote couplets with correct orthography & gloss.",
+        "Contrast with later Sufi voices for depth.",
+        "Show ethical universals with local color."
+      ],
+      "resources": [
+        {
+          "title": "Rahman Baba — Dewaan (scans)",
+          "url": "https://archive.org/details/DewaanERahmanBabaPashtoPoetryBook",
+          "type": "book",
+          "description": "Original Pashto text"
+        },
+        {
+          "title": "Selected Verses — English Rhyme (PDF)",
+          "url": "https://www.poemhunter.com/rahman-baba/ebooks/?ebook=0&filename=rahman_baba_2012_10.pdf",
+          "type": "pdf",
+          "description": "Useful for translation comparison"
+        },
+        {
+          "title": "Translation study of Rahman Baba (Paul Smith)",
+          "url": "https://www.xisdxjxsu.asia/V19I11-45.pdf",
+          "type": "article",
+          "description": "Methods & issues in translation"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Poetry & Critics",
+      "topics": ["Rahman Baba", "Sufism", "Ethics"]
+    },
+    {
+      "id": "P7",
+      "title": "Khushal Khan Khattak — Rāzmiyya & Cultural Codes",
+      "content": "Show the warrior-poet's blend of honor, freedom, counsel, realism. For 'razmiyya' essays, tie to history (Mughals, imprisonment) and close-read selected ghazals/qarīdas.",
+      "keyTakeaways": [
+        "Balance biography with textual analysis.",
+        "Use couplets to evidence themes (honor, courage, counsel).",
+        "Cite modern scholarship for contemporary framing."
+      ],
+      "resources": [
+        {
+          "title": "Humanity in Khushal's Poetry (2023)",
+          "url": "https://pdfs.semanticscholar.org/177f/51c52d80cf3c230e28ae4fcf1124d1a7f362.pdf",
+          "type": "article",
+          "description": "Recent analytical review"
+        },
+        {
+          "title": "Comparative study on Khushal (2023)",
+          "url": "https://pukhtunkhwajournal.org/journals/01-2023/issue-2/194-207.pdf",
+          "type": "article",
+          "description": "Comparisons with world authors"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Poetry & Critics",
+      "topics": ["Khushal", "Razmiyya", "Cultural Codes"]
+    },
+    {
+      "id": "P8",
+      "title": "Hamid Baba & Kazim Khan Shaida — Ghazal Features",
+      "content": "For Hamid Baba, emphasize delicacy of feeling (sōz-o-gudāz) and imagery; for Kazim Khan Shaida, trace themes, musicality and classical craft.",
+      "keyTakeaways": [
+        "Select 3–5 couplets to illustrate hallmark features.",
+        "Contrast diction and metaphors with Rahman/Khushal.",
+        "Relate to Persianate ghazal conventions."
+      ],
+      "resources": [
+        {
+          "title": "Pashto Classics (general references)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pashto-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "What exam expects re: classical poets"
+        }
+      ],
+      "importance": "medium",
+      "category": "Classical Poetry & Critics",
+      "topics": ["Hamid Baba", "Kazim Shaida", "Ghazal"]
+    },
+    {
+      "id": "P9",
+      "title": "Ghani Khan — Aesthetics, Existential Currents & Satire",
+      "content": "Discuss Khudi, beauty, freedom, humor; link to paintings and essays (The Pathan). Use recent papers for existential/Stylistic angles.",
+      "keyTakeaways": [
+        "Blend poetic analysis with his philosophy and art.",
+        "Use satire examples; note romantic strain.",
+        "Reference English translations for Pashto→English tasks."
+      ],
+      "resources": [
+        {
+          "title": "Stylistic analysis of The Pathan",
+          "url": "https://archives.palarch.nl/index.php/jae/article/download/11580/10271/22901",
+          "type": "article",
+          "description": "Stylistics of Ghani Khan's prose"
+        },
+        {
+          "title": "Sartrean Analysis of Ghani Khan (2025)",
+          "url": "https://ipjll.com/ipjll/index.php/journal/article/download/128/161",
+          "type": "article",
+          "description": "Latest existentialist reading"
+        },
+        {
+          "title": "Overview article (ResearchGate)",
+          "url": "https://www.researchgate.net/publication/371640208_An_Analysis_of_Ghani_Khan%27s_Life_and_Poetry",
+          "type": "article",
+          "description": "Bio + themes"
+        }
+      ],
+      "importance": "high",
+      "category": "Modern Poetry & Critics",
+      "topics": ["Ghani Khan", "Satire", "Existentialism"]
+    },
+    {
+      "id": "P10",
+      "title": "Hamza Shinwari & Jafar Achakzai — Epistolary Debate (Man & God)",
+      "content": "Use the 1976 Quetta publication as context for modern philosophical exchange in Pashto letters.",
+      "keyTakeaways": [
+        "Frame letters as literary-philosophical genre.",
+        "Extract positions on God/existence; compare styles."
+      ],
+      "resources": [
+        {
+          "title": "Pashto Academy — publications portal",
+          "url": "https://en.wikipedia.org/wiki/Pashto_Academy",
+          "type": "website",
+          "description": "Background on institutional publications"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Poetry & Critics",
+      "topics": ["Hamza Shinwari", "Achakzai", "Letters"]
+    },
+    {
+      "id": "P11",
+      "title": "Prose, Drama & Short Story — Origins and Debates",
+      "content": "Discuss modern Pashto prose emergence, drama as a response to political climates, and short story's compact problem-focus.",
+      "keyTakeaways": [
+        "Define 'afsanah' craft: compression, unity, effect.",
+        "Map drama's growth against sociopolitical shifts.",
+        "Cite early playwrights/novelists with examples."
+      ],
+      "resources": [
+        {
+          "title": "CSS Syllabus pointers for prose/drama",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pashto-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Exam scope definition"
+        }
+      ],
+      "importance": "medium",
+      "category": "Prose, Drama & Literary History",
+      "topics": ["Prose", "Drama", "Afsana"]
+    },
+    {
+      "id": "P12",
+      "title": "Roshaniyya Movement — Bayazid Ansari (Pīr Roshan)",
+      "content": "Cover origins, doctrine, literary output (Khayr al-Bayān), phases of movement, and its political-religious impact; relevance to tribal unification and Mughal opposition.",
+      "keyTakeaways": [
+        "Tie movement to Pashto literary prose beginnings.",
+        "Use balanced sources; note controversies.",
+        "Connect to later Afridi/Orakzai resistance in Tirah."
+      ],
+      "resources": [
+        {
+          "title": "Roshaniyya overview",
+          "url": "https://en.wikipedia.org/wiki/Roshani_movement",
+          "type": "website",
+          "description": "Timeline & context"
+        },
+        {
+          "title": "Pir Roshan profile",
+          "url": "https://en.wikipedia.org/wiki/Pir_Roshan",
+          "type": "website",
+          "description": "Life & works overview"
+        },
+        {
+          "title": "Bosin — Roshaniyya & Khan Rebellion (PDF)",
+          "url": "https://www.unm.edu/~ybosin/documents/roshan.pdf",
+          "type": "pdf",
+          "description": "Historical analysis"
+        },
+        {
+          "title": "UCB dissertation (Roshaniyya sections)",
+          "url": "https://escholarship.org/content/qt52b8c8nf/qt52b8c8nf.pdf",
+          "type": "pdf",
+          "description": "Modern academic study"
+        },
+        {
+          "title": "Pashto journal: Bayazid the first Pashto prose writer",
+          "url": "https://pashto.org.pk/index.php/path/article/view/53",
+          "type": "article",
+          "description": "Prose/literary contribution"
+        }
+      ],
+      "importance": "high",
+      "category": "Roshaniyya, Akhund Darweza & Historical Context",
+      "topics": ["Roshaniyya", "Bayazid Ansari", "Khayr al-Bayān"]
+    },
+    {
+      "id": "P13",
+      "title": "Akhund Darweza — Opposition & Prose (Makhzan-e-Islam, Noor Nama)",
+      "content": "Set up Darweza's critique of Roshaniyya; outline key works and prose style; note disciples and Darweza school writers (e.g., Akhun Salak).",
+      "keyTakeaways": [
+        "Contrast theological stances with Pir Roshan.",
+        "Use excerpts to show prose features.",
+        "Cite manuscript history where relevant."
+      ],
+      "resources": [
+        {
+          "title": "Akhund Darweza (overview)",
+          "url": "https://en.wikipedia.org/wiki/Akhund_Darweza",
+          "type": "website",
+          "description": "Life & works"
+        },
+        {
+          "title": "Makhzan-e-Islam (manuscript scan)",
+          "url": "https://www.scribd.com/document/441061001/Makhzan-e-islam-by-akhun-darweza-old-manuscript",
+          "type": "pdf",
+          "description": "Rare text (scan)"
+        },
+        {
+          "title": "Akhun Salak and Darweza school",
+          "url": "https://pashto.org.pk/index.php/path/article/view/103",
+          "type": "article",
+          "description": "Follower & prose analysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Roshaniyya, Akhund Darweza & Historical Context",
+      "topics": ["Darweza", "Prose", "Polemic"]
+    },
+    {
+      "id": "P14",
+      "title": "Pashtun Origins & Identity Debates (Aryan vs. Israelite etc.)",
+      "content": "Survey competing origin theories and evidence (linguistic/anthropological/historical), and how these debates surface in Pashto essays.",
+      "keyTakeaways": [
+        "Present multiple views with sources; avoid dogmatism.",
+        "Use linguistic/dialect evidence judiciously.",
+        "Relate to cultural identity and literature."
+      ],
+      "resources": [
+        {
+          "title": "Contextual reads (feature)",
+          "url": "https://www.thenews.com.pk/tns/detail/564550-religious-trajectory-subcontinent",
+          "type": "article",
+          "description": "Historical framing touching Pir Roshan"
+        }
+      ],
+      "importance": "medium",
+      "category": "Roshaniyya, Akhund Darweza & Historical Context",
+      "topics": ["Origins", "Identity", "Historiography"]
+    },
+    {
+      "id": "P15",
+      "title": "Folklore Genres: Charbeta, Badala, Loba, Bagati, Allahu…",
+      "content": "Define forms, occasions, meters, and performance; use exemplars to illustrate function and aesthetics; link to proverb stock and identity.",
+      "keyTakeaways": [
+        "Give clear definitions + examples for 2–3 forms.",
+        "Connect to oral tradition and communal memory.",
+        "Note regional performance differences."
+      ],
+      "resources": [
+        {
+          "title": "CSS 2023 Pashto Q4–Q8 prompts (forms)",
+          "url": "https://cssaspirants.pk/css-past-papers/",
+          "type": "website",
+          "description": "Forms appear frequently"
+        }
+      ],
+      "importance": "high",
+      "category": "Folklore Genres & Forms",
+      "topics": ["Charbeta", "Badala", "Folk song"]
+    },
+    {
+      "id": "P16",
+      "title": "Pashto Criticism — Origins & Growth",
+      "content": "Outline the emergence of critical prose in Pashto, major critics, journals and university centers; methods borrowed from Urdu/Persian/English criticism.",
+      "keyTakeaways": [
+        "Place Pashto criticism in South Asian context.",
+        "Name key journals (Academy/University outlets).",
+        "Cite representative essays/monographs."
+      ],
+      "resources": [
+        {
+          "title": "Pashto Academy (UoP) — profile & outputs",
+          "url": "https://en.wikipedia.org/wiki/Pashto_Academy",
+          "type": "website",
+          "description": "500+ publications; research cell"
+        }
+      ],
+      "importance": "medium",
+      "category": "Prose, Drama & Literary History",
+      "topics": ["Criticism", "Institutions"]
+    },
+    {
+      "id": "P17",
+      "title": "Pashto Dictionaries & Glossaries for Exam Work",
+      "content": "Use bilingual and monolingual dictionaries for precise lexical choices in translation and essay writing; build quick-access bookmark set.",
+      "keyTakeaways": [
+        "Cross-check across two dictionaries to avoid false friends.",
+        "Prefer Academy/established projects for exam answers.",
+        "Keep a proverb/idiom mini-glossary."
+      ],
+      "resources": [
+        {
+          "title": "Qamosona (multilingual Pashto dictionaries)",
+          "url": "https://www.qamosona.com/",
+          "type": "website",
+          "description": "Massive online lexicons"
+        },
+        {
+          "title": "Lexilogos — Pashto dictionary portal",
+          "url": "https://www.lexilogos.com/english/pashto_dictionary.htm",
+          "type": "website",
+          "description": "Meta-index incl. etymology"
+        },
+        {
+          "title": "Pashto Qamos (AI dictionary)",
+          "url": "https://pashtoqamos.com/",
+          "type": "website",
+          "description": "Fast lookups"
+        }
+      ],
+      "importance": "high",
+      "category": "Pashto Grammar & Orthography",
+      "topics": ["Dictionaries", "Terminology"]
+    },
+    {
+      "id": "P18",
+      "title": "Proverbs as Cultural Molecules — Analysis Essays",
+      "content": "Support claims about identity/values with mataloona; show didactic, humorous, metaphorical functions; connect to folk narratives.",
+      "keyTakeaways": [
+        "Quote proverb + provide succinct explication.",
+        "Use Academy collections and peer-reviewed articles.",
+        "Compare Pashto/English proverbs for translation tasks."
+      ],
+      "resources": [
+        {
+          "title": "Ahmed — Mataloona",
+          "url": "https://pashtoacademy.edu.pk/books/pdf/1975-Ahmed-Mataloona-PashtoProverbs.pdf",
+          "type": "book",
+          "description": "Authoritative corpus"
+        },
+        {
+          "title": "Comparative paremiology (Pashto/English)",
+          "url": "https://pdfs.semanticscholar.org/0b59/73ac3b89f82f48d677885cff3f9e13601567.pdf",
+          "type": "article",
+          "description": "Analysis & comparisons"
+        }
+      ],
+      "importance": "high",
+      "category": "Proverbs (Mataloona) & Culture",
+      "topics": ["Paremiology", "Culture"]
+    },
+    {
+      "id": "P19",
+      "title": "Rowshani Movement in Tirah — Afterlives & Literature",
+      "content": "Trace followers (Afridi, Orakzai, etc.), Tirah freedom tradition, and literary echoes in later poetry/folklore.",
+      "keyTakeaways": [
+        "Use multi-source corroboration for historical claims.",
+        "Connect movement politics to literary themes.",
+        "Reference specific ballads if possible."
+      ],
+      "resources": [
+        {
+          "title": "Roshaniyya overview",
+          "url": "https://en.wikipedia.org/wiki/Roshani_movement",
+          "type": "website",
+          "description": "Phases & spread"
+        },
+        {
+          "title": "Context note on Tirah/Tirahi shifts",
+          "url": "https://wemountains.com/03/23/1170/",
+          "type": "article",
+          "description": "Migration note with refs"
+        }
+      ],
+      "importance": "medium",
+      "category": "Roshaniyya, Akhund Darweza & Historical Context",
+      "topics": ["Tirah", "Afridi", "Orakzai"]
+    },
+    {
+      "id": "P20",
+      "title": "Pashto Folk Literature — Definition & Scope",
+      "content": "Define 'awlsi adab'; list core forms; illustrate with brief samples and social function.",
+      "keyTakeaways": [
+        "Demonstrate oral→written transmission.",
+        "Tie forms to rites/occasions.",
+        "Use examples to show meter & refrain."
+      ],
+      "resources": [
+        {
+          "title": "CSS past paper prompts (folk forms)",
+          "url": "https://cssaspirants.pk/css-past-papers/",
+          "type": "website",
+          "description": "2018–2024 repeats"
+        }
+      ],
+      "importance": "medium",
+      "category": "Folklore Genres & Forms",
+      "topics": ["Folk", "Genres"]
+    },
+    {
+      "id": "P21",
+      "title": "Shēr Shāh Sūrī — Administrative/Military Reforms",
+      "content": "Summarize road/currency/land reforms and military re-organization; tie to Pashtun identity narratives in essays.",
+      "keyTakeaways": [
+        "Use concise bullet points with dates.",
+        "Link to Pashtun statecraft themes in literature."
+      ],
+      "resources": [
+        {
+          "title": "General references (syllabus hubs)",
+          "url": "https://cssaspirants.pk/css-past-papers/",
+          "type": "website",
+          "description": "Prompt context"
+        }
+      ],
+      "importance": "medium",
+      "category": "Prose, Drama & Literary History",
+      "topics": ["Sher Shah Suri", "Reforms"]
+    },
+    {
+      "id": "P22",
+      "title": "Yunas Khalil & Abdul Rahim Majzoob — Modern Poetic Voices",
+      "content": "Discuss romantic and classical references (Greek allusions), language, and themes.",
+      "keyTakeaways": [
+        "Cite poems with gloss; show mythological borrowing.",
+        "Contrast diction with earlier moderns."
+      ],
+      "resources": [
+        {
+          "title": "Syllabus coverage pointer",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pashto-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Named in exam trends"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Poetry & Critics",
+      "topics": ["Yunas Khalil", "Majzoob", "Myth"]
+    },
+    {
+      "id": "P23",
+      "title": "Translation Aids — Wordlists & Phrasebooks",
+      "content": "Build speed on collocations, set phrases, and everyday terms for narrative passages.",
+      "keyTakeaways": [
+        "Maintain a live spreadsheet of tricky items.",
+        "Practice bidirectional paraphrasing."
+      ],
+      "resources": [
+        {
+          "title": "Pashto useful phrases (PDF)",
+          "url": "https://web.pdx.edu/~fischerw/courses/320_415_515/docs/0426-450/0437_2011_Omniglot_pashto_phrases.pdf",
+          "type": "pdf",
+          "description": "Quick reference"
+        },
+        {
+          "title": "Qamosona — Android/iOS access",
+          "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.development.wdtec.quamosona",
+          "type": "other",
+          "description": "Mobile dictionary access"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pashto Grammar & Orthography",
+      "topics": ["Lexicon", "Phrases"]
+    },
+    {
+      "id": "P24",
+      "title": "YouTube Lectures for Quick Revision (Selective)",
+      "content": "Use sparingly for conceptual refreshers; verify content against texts.",
+      "keyTakeaways": [
+        "Prefer channels with textual citation or academic hosts.",
+        "Extract notes—not verbatim reliance."
+      ],
+      "resources": [
+        {
+          "title": "Khushal Khan — ghazal explanations (example)",
+          "url": "https://www.youtube.com/watch?v=ggVjb3kFPGI",
+          "type": "video",
+          "description": "Poem explanation (Pashto)"
+        },
+        {
+          "title": "Rahman Baba — overview lecture",
+          "url": "https://www.youtube.com/watch?v=p8C2Q0gSkyA",
+          "type": "video",
+          "description": "Introductory context"
+        },
+        {
+          "title": "LLF — Rahman Baba Mushaira session",
+          "url": "https://www.youtube.com/watch?v=2kRtsDrunxk",
+          "type": "video",
+          "description": "Literary discussion"
+        }
+      ],
+      "importance": "low",
+      "category": "Modern Poetry & Critics",
+      "topics": ["Lectures", "Recitations"]
+    },
+    {
+      "id": "P25",
+      "title": "Idioms & Figures — Pashto↔English Translation Issues",
+      "content": "Identify idioms vs compositional phrases; choose strategy (equivalence, paraphrase, footnote).",
+      "keyTakeaways": [
+        "Mark idioms during first pass; decide in revision.",
+        "Keep an idiom bank from past papers."
+      ],
+      "resources": [
+        {
+          "title": "Idioms: Pashto→English (research article)",
+          "url": "https://www.researchgate.net/publication/376639267_Idioms_An_Analysis_of_Translation_from_Pashto_to_English",
+          "type": "article",
+          "description": "Procedures & pitfalls"
+        }
+      ],
+      "importance": "medium",
+      "category": "Translation Practice (Eng↔Pashto)",
+      "topics": ["Idioms", "Strategy"]
+    },
+    {
+      "id": "P26",
+      "title": "Exam Strategy — What Repeats & How to Attempt",
+      "content": "Papers regularly test: Eng↔Pashto translation (14 marks each), proverb translation (6 marks), and 4× long essays (20 marks). Allocate time accordingly; use headings and quote lines accurately.",
+      "keyTakeaways": [
+        "Attempt translation first while fresh; then essays.",
+        "For essays: outline → quote → analyze → conclude.",
+        "Keep couplet bank (fully vowelled if possible)."
+      ],
+      "resources": [
+        {
+          "title": "CSS Pashto Past Papers (central hub)",
+          "url": "https://thecsspoint.com/pushto-past-papers/",
+          "type": "website",
+          "description": "2014–2020 PDFs"
+        },
+        {
+          "title": "CSS Past Papers 2016–2024 (all subjects index)",
+          "url": "https://cssaspirants.pk/css-past-papers/",
+          "type": "website",
+          "description": "Download by year/subject"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Time Management", "Answer Structure"]
+    },
+    {
+      "id": "P27",
+      "title": "Reference Sets for Pashto History & Movements",
+      "content": "Keep a 1-page timeline from Pir Roshan (1525–1585) to later successors, opposition by Akhund Darweza, and literary outputs.",
+      "keyTakeaways": [
+        "Name works + genres + dates succinctly.",
+        "Note Tirah/Afridi/Orakzai connections."
+      ],
+      "resources": [
+        {
+          "title": "Pir Roshan (overview)",
+          "url": "https://en.wikipedia.org/wiki/Pir_Roshan",
+          "type": "website",
+          "description": "Dates & works"
+        },
+        {
+          "title": "Al-Idah article on Pir Baba & Darweza vs Roshaniyya",
+          "url": "https://www.academia.edu/35857942/Syed_Al%C4%AB_Tirmidh%C4%AB_and_Akh%C5%ABnd_Darwezah_Mughal_Agents_or_Popular_Saints",
+          "type": "article",
+          "description": "Contextual counterview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Roshaniyya, Akhund Darweza & Historical Context",
+      "topics": ["Timeline", "Works"]
+    },
+    {
+      "id": "P28",
+      "title": "Quick Links — Syllabus & MCQs",
+      "content": "Use the official/reputed mirrors for syllabus and MCQ drilling when you need a break from long-form prep.",
+      "keyTakeaways": [
+        "Syllabus sets study boundaries—keep it pinned.",
+        "MCQs help retain dates, firsts, and forms."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabi (official)",
+          "url": "https://www.fpsc.gov.pk/category/css-syllabi-1493570691-2024-06-11",
+          "type": "website",
+          "description": "Official syllabi page"
+        },
+        {
+          "title": "CSS Pashto Syllabus (mirror PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Pashto-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Readable mirror"
+        },
+        {
+          "title": "Pashto important MCQs (CSS/PMS/KPPSC)",
+          "url": "https://www.scribd.com/document/545485770/CSS-Pashto-MCQs-Pashto-important-mcqs-for-CSS-PMS-KPPSC",
+          "type": "other",
+          "description": "Drill bank"
+        }
+      ],
+      "importance": "medium",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Syllabus", "MCQs"]
+    }
+  ],
+  "extras": {
+    "practice_sets": [
+      {
+        "title": "Past Papers — Pashto (multiple years)",
+        "url": "https://csshub.com.pk/css-past-papers/pashto/",
+        "type": "website"
+      },
+      {
+        "title": "The CSS Point — Pashto Past Papers",
+        "url": "https://thecsspoint.com/pushto-past-papers/",
+        "type": "website"
+      }
+    ],
+    "reference_texts": [
+      {
+        "title": "Rohi Mataluna (Pashto Proverbs) — Pashto Academy Reprint",
+        "url": "https://archive.org/details/rohmatalnahrohim0000tirm",
+        "type": "book"
+      },
+      {
+        "title": "Tegey & Robson — Pashto (DLI/CAL)",
+        "url": "https://fieldsupport.dliflc.edu/products/pashto/pu_co/website/pashto.pdf",
+        "type": "pdf"
+      }
+    ],
+    "video_playlist_seeds": [
+      {
+        "title": "Khushal Khan Khattak — poem explanations (sample)",
+        "url": "https://www.youtube.com/watch?v=ggVjb3kFPGI",
+        "type": "video"
+      },
+      {
+        "title": "Rahman Baba — overview",
+        "url": "https://www.youtube.com/watch?v=p8C2Q0gSkyA",
+        "type": "video"
+      }
+    ]
+  }
+}

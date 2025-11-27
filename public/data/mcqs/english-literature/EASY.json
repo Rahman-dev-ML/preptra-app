@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:07:31.286Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "0252d8c4691e3d952ffe525b96d2642f8848529a",
+      "sectionIndex": 0,
+      "question": "Who wrote \"Songs of Innocence and Experience\"?",
+      "options": [
+        "A) William Wordsworth",
+        "B) William Blake",
+        "C) John Keats",
+        "D) Lord Byron"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12fb8d78a0c59726043482f56c24f7a8ec6a10eb",
+      "sectionIndex": 0,
+      "question": "Wordsworth defined poetry as:",
+      "options": [
+        "A) \"The best words in the best order\"",
+        "B) \"Spontaneous overflow of powerful feelings\"",
+        "C) \"Criticism of life\"",
+        "D) \"Willing suspension of disbelief\""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cc25aa20addc5d2f127888c585b97262ed7eb79",
+      "sectionIndex": 0,
+      "question": "Which poem contains the line \"Beauty is truth, truth beauty\"?",
+      "options": [
+        "A) Ode to a Nightingale",
+        "B) Ode on a Grecian Urn",
+        "C) Ode to Autumn",
+        "D) Ode on Melancholy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f7417cc1eec6365bf5bf231d7ffe081ff7fa6d5",
+      "sectionIndex": 0,
+      "question": "Shelley wrote \"Prometheus Unbound\" as a:",
+      "options": [
+        "A) Comedy",
+        "B) Tragedy",
+        "C) Lyrical drama",
+        "D) Epic poem"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7890bd8c6eebceb4c695a2b53bb51764e177b799",
+      "sectionIndex": 0,
+      "question": "The Lucy poems were written by:",
+      "options": [
+        "A) Keats",
+        "B) Shelley",
+        "C) Wordsworth",
+        "D) Byron"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9be214da2b3f7713b2ed5d9f4b991844961e0076",
+      "sectionIndex": 0,
+      "question": "Keats is known for his:",
+      "options": [
+        "A) Political poetry",
+        "B) Sensuous imagery",
+        "C) Religious themes",
+        "D) War poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "592f911a48548e20b87f436b737e1d3765da7634",
+      "sectionIndex": 0,
+      "question": "\"The Prelude\" is an autobiographical poem by:",
+      "options": [
+        "A) Byron",
+        "B) Wordsworth",
+        "C) Coleridge",
+        "D) Shelley"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ed782664eb8e6dc5cc57cda2b9f9ef14357e35c",
+      "sectionIndex": 0,
+      "question": "Byron's poetry is characterized by:",
+      "options": [
+        "A) Religious devotion",
+        "B) Emotional intensity",
+        "C) Nature worship",
+        "D) Classical restraint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1282210d0bf9fd84d0ad0fd8e47fee410088400",
+      "sectionIndex": 0,
+      "question": "\"Ode to the West Wind\" was written by:",
+      "options": [
+        "A) Keats",
+        "B) Wordsworth",
+        "C) Shelley",
+        "D) Byron"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "43949a9d9e0c53ecaf230f3740dc2c1f7cb40204",
+      "sectionIndex": 0,
+      "question": "The Romantic period emphasized:",
+      "options": [
+        "A) Reason and logic",
+        "B) Emotion and imagination",
+        "C) Social conformity",
+        "D) Classical rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86fafb7b29ca1dbeb0a193a189db3fdafd91b302",
+      "sectionIndex": 0,
+      "question": "\"Tintern Abbey\" is a poem by:",
+      "options": [
+        "A) Wordsworth",
+        "B) Coleridge",
+        "C) Keats",
+        "D) Shelley"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3bd5584e728cdf7ece9609fbbb959731533709e8",
+      "sectionIndex": 0,
+      "question": "Negative capability is a concept associated with:",
+      "options": [
+        "A) Wordsworth",
+        "B) Keats",
+        "C) Shelley",
+        "D) Byron"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f089700aa53ecdec274e7a76e43e2cd481646ab3",
+      "sectionIndex": 0,
+      "question": "The term \"Lake Poets\" refers to:",
+      "options": [
+        "A) Keats and Shelley",
+        "B) Wordsworth and Coleridge",
+        "C) Byron and Shelley",
+        "D) Blake and Burns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0b68dd640586cf438d6d2876b1e1656e62862d7",
+      "sectionIndex": 1,
+      "question": "Charles Dickens wrote:",
+      "options": [
+        "A) Wuthering Heights",
+        "B) Hard Times",
+        "C) Jane Eyre",
+        "D) Middlemarch"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9d5d3447cafd618ace8ac98fd8fb980558942b8",
+      "sectionIndex": 1,
+      "question": "Thomas Hardy is known for his:",
+      "options": [
+        "A) Optimistic worldview",
+        "B) Pessimistic philosophy",
+        "C) Comic novels",
+        "D) Children's stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7781ac97e95f822641c395f032c85d825621f643",
+      "sectionIndex": 1,
+      "question": "George Eliot was the pen name of:",
+      "options": [
+        "A) Mary Shelley",
+        "B) Mary Ann Evans",
+        "C) Charlotte Bronte",
+        "D) Elizabeth Gaskell"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28c210a1b620fb91a857db1ffab2639646ba66f8",
+      "sectionIndex": 1,
+      "question": "\"In Memoriam\" is an elegy written by:",
+      "options": [
+        "A) Browning",
+        "B) Tennyson",
+        "C) Arnold",
+        "D) Hopkins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db37a365d1959e76b685a39742bff00927f32b6d",
+      "sectionIndex": 1,
+      "question": "Robert Browning is famous for his:",
+      "options": [
+        "A) Sonnets",
+        "B) Dramatic monologues",
+        "C) Epic poems",
+        "D) Pastoral poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1824e5997ef9b138f30b600572f3f893598f741e",
+      "sectionIndex": 1,
+      "question": "\"The Mill on the Floss\" was written by:",
+      "options": [
+        "A) Dickens",
+        "B) Hardy",
+        "C) George Eliot",
+        "D) Thackeray"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "80e6b31e28d3a7b368992c47c9088a5d09d8cb6a",
+      "sectionIndex": 1,
+      "question": "John Ruskin was primarily a:",
+      "options": [
+        "A) Novelist",
+        "B) Poet",
+        "C) Art critic and social thinker",
+        "D) Playwright"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e921af3e2cafcc1dc7f578199b60a8c2a32f5b8b",
+      "sectionIndex": 1,
+      "question": "Hardy's novels are set primarily in:",
+      "options": [
+        "A) London",
+        "B) Wessex",
+        "C) Yorkshire",
+        "D) Scotland"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6059827819c8c7f1f7a6a37169ff91f5361ebe7f",
+      "sectionIndex": 1,
+      "question": "Dickens criticized utilitarianism in:",
+      "options": [
+        "A) Oliver Twist",
+        "B) Hard Times",
+        "C) Great Expectations",
+        "D) David Copperfield"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e261dbd9de53c805fe018f92ee3f70aaa1f2940d",
+      "sectionIndex": 1,
+      "question": "\"My Last Duchess\" is a dramatic monologue by:",
+      "options": [
+        "A) Tennyson",
+        "B) Browning",
+        "C) Arnold",
+        "D) Swinburne"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01a99a7d312010e718dde4d4a47575c8d8c3eae8",
+      "sectionIndex": 1,
+      "question": "The Victorian period was marked by:",
+      "options": [
+        "A) Revolutionary spirit",
+        "B) Social reform and industrial progress",
+        "C) Religious skepticism only",
+        "D) Return to medievalism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6a630e577d2a14dd01b2f103a0539e006637fe0",
+      "sectionIndex": 1,
+      "question": "\"Dover Beach\" was written by:",
+      "options": [
+        "A) Matthew Arnold",
+        "B) Tennyson",
+        "C) Browning",
+        "D) Hopkins"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3259800f677fd955ee2b4c479c757ccf83312800",
+      "sectionIndex": 1,
+      "question": "Dickens' novels often featured:",
+      "options": [
+        "A) Upper-class life only",
+        "B) Social criticism and humor",
+        "C) Rural settings only",
+        "D) Abstract philosophy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4761a284c617d46b4338e278d0548ce3b9b53ca4",
+      "sectionIndex": 2,
+      "question": "T.S. Eliot wrote:",
+      "options": [
+        "A) The Waste Land",
+        "B) Ulysses",
+        "C) To the Lighthouse",
+        "D) Sons and Lovers"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7441bda51dc8d64f2546d98901a5510c6d62374a",
+      "sectionIndex": 2,
+      "question": "W.B. Yeats was from:",
+      "options": [
+        "A) England",
+        "B) Ireland",
+        "C) Scotland",
+        "D) Wales"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c270279ee52504e5c0438de51b925490201eb476",
+      "sectionIndex": 2,
+      "question": "\"Waiting for Godot\" is a play by:",
+      "options": [
+        "A) Harold Pinter",
+        "B) Samuel Beckett",
+        "C) Tom Stoppard",
+        "D) John Osborne"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "331a3be5ad486a0b4d2eb2493d483571248011ac",
+      "sectionIndex": 2,
+      "question": "Ernest Hemingway wrote:",
+      "options": [
+        "A) The Great Gatsby",
+        "B) The Old Man and the Sea",
+        "C) Lord of the Flies",
+        "D) 1984"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b3c803556b3677f345cf5f33b28ad60a5add7d8",
+      "sectionIndex": 2,
+      "question": "\"The Second Coming\" is a poem by:",
+      "options": [
+        "A) Eliot",
+        "B) Pound",
+        "C) Yeats",
+        "D) Auden"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2b25d490d381bd6c604ef0ef3a5a2d9a7d111549",
+      "sectionIndex": 2,
+      "question": "The Theatre of the Absurd includes:",
+      "options": [
+        "A) Shaw",
+        "B) Wilde",
+        "C) Beckett",
+        "D) Shakespeare"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "446ece1cb49603d77f965f54dc390837ed638851",
+      "sectionIndex": 2,
+      "question": "D.H. Lawrence wrote:",
+      "options": [
+        "A) A Passage to India",
+        "B) Sons and Lovers",
+        "C) The Waste Land",
+        "D) Ulysses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5abcae13433e6e027c45c4aa3c78fb8b616f7586",
+      "sectionIndex": 2,
+      "question": "Modernist literature is characterized by:",
+      "options": [
+        "A) Traditional narrative",
+        "B) Fragmentation and experimentation",
+        "C) Romantic idealism",
+        "D) Victorian morality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9815c7b196bb32259069e85c7a1bbb16fb4fbb23",
+      "sectionIndex": 2,
+      "question": "\"Sailing to Byzantium\" was written by:",
+      "options": [
+        "A) Eliot",
+        "B) Yeats",
+        "C) Pound",
+        "D) Stevens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "193af3eb7c7a15d4cdde346cbe7ccc6cd1b27ae0",
+      "sectionIndex": 2,
+      "question": "Stream of consciousness technique is associated with:",
+      "options": [
+        "A) Dickens",
+        "B) Hardy",
+        "C) Joyce",
+        "D) Austen"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "12620685478389f191b5b045392d048cb1355533",
+      "sectionIndex": 2,
+      "question": "The Imagist movement was led by:",
+      "options": [
+        "A) T.S. Eliot",
+        "B) Ezra Pound",
+        "C) W.H. Auden",
+        "D) Dylan Thomas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14657a309baa0d7a2dca8f29fdd45943180f6b9b",
+      "sectionIndex": 2,
+      "question": "\"April is the cruellest month\" is from:",
+      "options": [
+        "A) The Waste Land",
+        "B) Four Quartets",
+        "C) The Love Song of J. Alfred Prufrock",
+        "D) Ash Wednesday"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b8073094e4cdd14f6aaa56eb0cfd5df07c2d68e3",
+      "sectionIndex": 2,
+      "question": "Hemingway's writing style is known for being:",
+      "options": [
+        "A) Ornate and complex",
+        "B) Simple and direct",
+        "C) Highly symbolic",
+        "D) Stream of consciousness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a84c5e6ccc4c47a03a6f4d70ae64259f5b4632ba",
+      "sectionIndex": 3,
+      "question": "Shakespeare's most famous tragedy is:",
+      "options": [
+        "A) Romeo and Juliet",
+        "B) Hamlet",
+        "C) Macbeth",
+        "D) Othello"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc4a5aaf2f6c9c7f84e8a27d23b904d0a13b27af",
+      "sectionIndex": 3,
+      "question": "\"Pygmalion\" was written by:",
+      "options": [
+        "A) Oscar Wilde",
+        "B) George Bernard Shaw",
+        "C) John Galsworthy",
+        "D) Somerset Maugham"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "601f139a37c5f0ffe05a578ce1f9ef55283c4cd4",
+      "sectionIndex": 3,
+      "question": "\"The Importance of Being Earnest\" is a comedy by:",
+      "options": [
+        "A) Shaw",
+        "B) Wilde",
+        "C) Coward",
+        "D) Stoppard"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab403ce82cd47dbbe86993c03b8c9e6b92f87590",
+      "sectionIndex": 3,
+      "question": "Hamlet's famous soliloquy begins with:",
+      "options": [
+        "A) \"Tomorrow and tomorrow\"",
+        "B) \"To be or not to be\"",
+        "C) \"All the world's a stage\"",
+        "D) \"Is this a dagger\""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55788c19f5968af4b0e8fb7a7ba1ea3c342ae0f9",
+      "sectionIndex": 3,
+      "question": "Harold Pinter wrote:",
+      "options": [
+        "A) Look Back in Anger",
+        "B) The Caretaker",
+        "C) Rosencrantz and Guildenstern Are Dead",
+        "D) The Mousetrap"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d49f037fc621e0693170efda57cc12d2b8386d80",
+      "sectionIndex": 3,
+      "question": "Shaw's plays are known for:",
+      "options": [
+        "A) Pure entertainment",
+        "B) Social criticism",
+        "C) Historical accuracy",
+        "D) Romantic plots"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "386b1b8307bebc77d98ddb26feed6a0447e65029",
+      "sectionIndex": 3,
+      "question": "The protagonist of Hamlet is:",
+      "options": [
+        "A) Claudius",
+        "B) Polonius",
+        "C) Prince Hamlet",
+        "D) Laertes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6973a9d364a14220dcc37cabcecf9471e3d621de",
+      "sectionIndex": 3,
+      "question": "\"Arms and the Man\" is a play by:",
+      "options": [
+        "A) Shakespeare",
+        "B) Shaw",
+        "C) Wilde",
+        "D) Ibsen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "813ed04b02ac761b59923595360b034f0b4964af",
+      "sectionIndex": 3,
+      "question": "King Lear is about:",
+      "options": [
+        "A) Love and romance",
+        "B) Family and madness",
+        "C) War and peace",
+        "D) Crime and punishment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4db1e8bde2d7b0de3a95392688a6464ebbcabd3",
+      "sectionIndex": 3,
+      "question": "The term \"comedy of manners\" applies to:",
+      "options": [
+        "A) Greek drama",
+        "B) Restoration comedy",
+        "C) Medieval plays",
+        "D) Modern absurdist drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73d31e97e9717f00c6ca3eb5587d967c2f45c326",
+      "sectionIndex": 3,
+      "question": "\"Frailty, thy name is woman\" is from:",
+      "options": [
+        "A) Othello",
+        "B) Hamlet",
+        "C) King Lear",
+        "D) Macbeth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0efe7c73b0eaba459f7a186d56f72d83d112846c",
+      "sectionIndex": 3,
+      "question": "Tragic flaw in drama is also called:",
+      "options": [
+        "A) Hamartia",
+        "B) Hubris",
+        "C) Catharsis",
+        "D) Anagnorisis"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "05fc30339c0e2ab8c17804f7cce76fc41b34e96a",
+      "sectionIndex": 3,
+      "question": "Shaw won the Nobel Prize for:",
+      "options": [
+        "A) Poetry",
+        "B) Literature",
+        "C) Drama",
+        "D) Peace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b8c35de5bf97482bc61326352b0f80eeb3e8752",
+      "sectionIndex": 4,
+      "question": "Jane Austen wrote:",
+      "options": [
+        "A) Wuthering Heights",
+        "B) Pride and Prejudice",
+        "C) Jane Eyre",
+        "D) Middlemarch"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9adbd61851c016565ccba2cc1293827c3bcf7c4",
+      "sectionIndex": 4,
+      "question": "\"The Conquest of Happiness\" was written by:",
+      "options": [
+        "A) John Stuart Mill",
+        "B) Bertrand Russell",
+        "C) George Orwell",
+        "D) Aldous Huxley"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3fee94b01d9120cdf4e5a9d3664b11fd6e025b0",
+      "sectionIndex": 4,
+      "question": "George Orwell wrote:",
+      "options": [
+        "A) Brave New World",
+        "B) 1984",
+        "C) Lord of the Flies",
+        "D) The Time Machine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69df207c74c916c8e5adc87f543adde6ab43b2e9",
+      "sectionIndex": 4,
+      "question": "\"Gulliver's Travels\" was written by:",
+      "options": [
+        "A) Daniel Defoe",
+        "B) Jonathan Swift",
+        "C) Samuel Richardson",
+        "D) Henry Fielding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf8ef697445ad261b5554cbe87a717273283023a",
+      "sectionIndex": 4,
+      "question": "Somerset Maugham wrote:",
+      "options": [
+        "A) The Lotus Eater",
+        "B) The Great Gatsby",
+        "C) The Sun Also Rises",
+        "D) A Farewell to Arms"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7a45237a6663dbd74124ffdc9c443366134f10da",
+      "sectionIndex": 4,
+      "question": "Ralph Waldo Emerson was associated with:",
+      "options": [
+        "A) Realism",
+        "B) Transcendentalism",
+        "C) Naturalism",
+        "D) Modernism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac45320d65f543e2572134dd3eb98a837055647f",
+      "sectionIndex": 4,
+      "question": "\"Politics and the English Language\" is an essay by:",
+      "options": [
+        "A) Russell",
+        "B) Orwell",
+        "C) Huxley",
+        "D) Woolf"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fc83732987877dc20e1e5cdb0569d2e223eb3a7",
+      "sectionIndex": 4,
+      "question": "Charles Lamb is known for his:",
+      "options": [
+        "A) Novels",
+        "B) Essays",
+        "C) Plays",
+        "D) Epic poems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a84e5cf1875da24d3c1b7d0b4da881e6f0ac3261",
+      "sectionIndex": 4,
+      "question": "\"Self-Reliance\" is an essay by:",
+      "options": [
+        "A) Thoreau",
+        "B) Emerson",
+        "C) Whitman",
+        "D) Hawthorne"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "056a03edcbfafd0784a56c872a9b67360436a6e0",
+      "sectionIndex": 4,
+      "question": "O. Henry wrote:",
+      "options": [
+        "A) The Gift of the Magi",
+        "B) The Scarlet Letter",
+        "C) The Great Gatsby",
+        "D) The Grapes of Wrath"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9ec7b569700a07ed46afab89a0ea4460036d2581",
+      "sectionIndex": 4,
+      "question": "The protagonist of Pride and Prejudice is:",
+      "options": [
+        "A) Jane Bennet",
+        "B) Elizabeth Bennet",
+        "C) Mary Bennet",
+        "D) Lydia Bennet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29f37e14aa124a04273e3c13f69aac7a7645e609",
+      "sectionIndex": 4,
+      "question": "Orwell's real name was:",
+      "options": [
+        "A) Eric Blair",
+        "B) George Blair",
+        "C) Eric Orwell",
+        "D) George Eric"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "32a64359501fb09a92ab9a5e56e639066d8a266c",
+      "sectionIndex": 4,
+      "question": "Swift's satire is most evident in:",
+      "options": [
+        "A) First voyage of Gulliver",
+        "B) Fourth voyage of Gulliver",
+        "C) Second voyage of Gulliver",
+        "D) Third voyage of Gulliver"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73ad3af8c281ccb4c660c72f23cd6030fca3861b",
+      "sectionIndex": 5,
+      "question": "A poem of fourteen lines is called a:",
+      "options": [
+        "A) Haiku",
+        "B) Sonnet",
+        "C) Ballad",
+        "D) Ode"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed9ce8f726e9a93e977eeb90fa0a6bd7eec5e5cb",
+      "sectionIndex": 5,
+      "question": "Dramatic irony occurs when:",
+      "options": [
+        "A) Characters speak in verse",
+        "B) Audience knows more than characters",
+        "C) Play has a happy ending",
+        "D) Actors break the fourth wall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aac1a19a7b35b06d418f7cd3918705200587bc1a",
+      "sectionIndex": 5,
+      "question": "Alliteration is:",
+      "options": [
+        "A) Rhyme at line ends",
+        "B) Repetition of consonant sounds",
+        "C) Comparison using \"like\"",
+        "D) Exaggeration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46b088709ce4674dc9c619a98383e10a6f6e8fd9",
+      "sectionIndex": 5,
+      "question": "A metaphor is:",
+      "options": [
+        "A) Direct comparison without \"like\" or \"as\"",
+        "B) Comparison using \"like\" or \"as\"",
+        "C) Sound device",
+        "D) Rhyme scheme"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "767bc2a3f37ca15960e8c13e254a33ab53e66760",
+      "sectionIndex": 5,
+      "question": "Pathetic fallacy refers to:",
+      "options": [
+        "A) Logical error",
+        "B) Attribution of human emotions to nature",
+        "C) Tragic ending",
+        "D) Comic relief"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec51f494715766b9ed48881823d5d45bf53c9e9f",
+      "sectionIndex": 5,
+      "question": "An elegy is a poem of:",
+      "options": [
+        "A) Joy",
+        "B) Love",
+        "C) Mourning",
+        "D) War"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e534f7f959e1aa07a15cc7c2b433f7bad1b484f0",
+      "sectionIndex": 5,
+      "question": "Blank verse is:",
+      "options": [
+        "A) Rhymed iambic pentameter",
+        "B) Unrhymed iambic pentameter",
+        "C) Free verse",
+        "D) Prose poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "285e11ecb954f1804359c043bc3bebb19e0a1b7d",
+      "sectionIndex": 5,
+      "question": "Symbolism in literature means:",
+      "options": [
+        "A) Direct statement",
+        "B) Using objects to represent ideas",
+        "C) Historical accuracy",
+        "D) Realistic description"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d84fccdb019cc8eff17a1b382e28223c70e16c20",
+      "sectionIndex": 5,
+      "question": "Stream of consciousness is a:",
+      "options": [
+        "A) Poetic form",
+        "B) Narrative technique",
+        "C) Type of drama",
+        "D) Critical theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba8ccadff4fb01931fc27269d805cde7fb4d8b14",
+      "sectionIndex": 5,
+      "question": "Oxymoron is:",
+      "options": [
+        "A) Extended metaphor",
+        "B) Contradictory terms together",
+        "C) Exaggeration",
+        "D) Understatement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2504989dd92896f7de469c471209e2ee07288aac",
+      "sectionIndex": 5,
+      "question": "Epistolary novel is written in the form of:",
+      "options": [
+        "A) Diary entries",
+        "B) Letters",
+        "C) Newspaper articles",
+        "D) Court documents"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce97ec806d4b1f98fbbd91d96db598831b9db88d",
+      "sectionIndex": 5,
+      "question": "Protagonist refers to:",
+      "options": [
+        "A) Villain",
+        "B) Main character",
+        "C) Minor character",
+        "D) Narrator"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "860c79fd678f609a3d9315a265c7ff6976faf2d9",
+      "sectionIndex": 5,
+      "question": "Denouement means:",
+      "options": [
+        "A) Beginning",
+        "B) Climax",
+        "C) Resolution",
+        "D) Conflict"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "319a5bc6c570e2a2e8fa29ceec31ff1b766dcfe0",
+      "sectionIndex": 6,
+      "question": "Feminist criticism focuses on:",
+      "options": [
+        "A) Form and structure",
+        "B) Gender and power relations",
+        "C) Historical context only",
+        "D) Author's biography only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73a53340179fc413a5423398ded8f6393af1e7e2",
+      "sectionIndex": 6,
+      "question": "Marxist criticism examines:",
+      "options": [
+        "A) Religious themes",
+        "B) Class struggle and economics",
+        "C) Psychological states",
+        "D) Linguistic patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3072078d3c89cdcfe94cfbb9330467f4a34d67c3",
+      "sectionIndex": 6,
+      "question": "New Criticism emphasizes:",
+      "options": [
+        "A) Author's intention",
+        "B) Close reading of text",
+        "C) Historical background",
+        "D) Reader's response"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86b4285990f7a6f9040d25818aa0098e65da65bf",
+      "sectionIndex": 6,
+      "question": "Deconstruction is associated with:",
+      "options": [
+        "A) T.S. Eliot",
+        "B) Jacques Derrida",
+        "C) Karl Marx",
+        "D) Sigmund Freud"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "147d03a2dcf078a606601645183d29ec1fb2de2c",
+      "sectionIndex": 6,
+      "question": "Psychoanalytic criticism uses theories of:",
+      "options": [
+        "A) Darwin",
+        "B) Freud",
+        "C) Marx",
+        "D) Saussure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98187c77a8c45d43735b39eef7db9bb19a0bf804",
+      "sectionIndex": 6,
+      "question": "Structuralism focuses on:",
+      "options": [
+        "A) Individual meaning",
+        "B) Underlying patterns and systems",
+        "C) Author's emotions",
+        "D) Historical events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "146b604b88b82622290cae8240ce380d4b67cb20",
+      "sectionIndex": 6,
+      "question": "Post-colonial criticism examines:",
+      "options": [
+        "A) Medieval literature",
+        "B) Effects of colonialism",
+        "C) Religious texts",
+        "D) Scientific writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce8966dc8323ff47878d7e84c77cc9576034e842",
+      "sectionIndex": 6,
+      "question": "Reader-response theory emphasizes:",
+      "options": [
+        "A) Author's intention",
+        "B) Reader's interpretation",
+        "C) Text's structure",
+        "D) Historical context"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "509d5534f81d5035d3405ad04bd5eaff5cab829a",
+      "sectionIndex": 6,
+      "question": "Formalism focuses on:",
+      "options": [
+        "A) Content only",
+        "B) Form and technique",
+        "C) Biography",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa360fe68fff22772716071af1e61d163bb8bad3",
+      "sectionIndex": 6,
+      "question": "Cultural criticism examines:",
+      "options": [
+        "A) High art only",
+        "B) All cultural productions",
+        "C) Ancient texts only",
+        "D) Scientific papers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fa875c64cd0c1222ed139f3908b9e0e674f4787",
+      "sectionIndex": 6,
+      "question": "Canon in literature refers to:",
+      "options": [
+        "A) Religious texts",
+        "B) Accepted great works",
+        "C) Banned books",
+        "D) Popular fiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6134171396829f5be586c13d6d22e3436c8c49ca",
+      "sectionIndex": 7,
+      "question": "Romanticism emphasized emotion while Neoclassicism emphasized:",
+      "options": [
+        "A) Feeling",
+        "B) Reason",
+        "C) Nature",
+        "D) Individuality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d41854383058448a00e326ab1a1abf177579fa2f",
+      "sectionIndex": 7,
+      "question": "Victorian literature differed from Romantic in its:",
+      "options": [
+        "A) Focus on imagination",
+        "B) Social realism",
+        "C) Nature worship",
+        "D) Revolutionary spirit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e71e4b4337fd79e1448bf234c1725f72b854553",
+      "sectionIndex": 7,
+      "question": "Modernism rejected:",
+      "options": [
+        "A) All tradition",
+        "B) Victorian certainties",
+        "C) All meaning",
+        "D) All form"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "438ee58db8b13a1a9d16ccb2d10bab62a2605269",
+      "sectionIndex": 7,
+      "question": "American Transcendentalism was similar to:",
+      "options": [
+        "A) British Romanticism",
+        "B) French Realism",
+        "C) Russian Formalism",
+        "D) German Expressionism"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a5acac47263977b939492b176709e12f1b1a9d48",
+      "sectionIndex": 7,
+      "question": "The Renaissance saw a revival of:",
+      "options": [
+        "A) Medieval values",
+        "B) Classical learning",
+        "C) Religious orthodoxy",
+        "D) Feudal systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa2744661da1cb20f7832043453d81957764f2cb",
+      "sectionIndex": 7,
+      "question": "Realism in literature aimed to:",
+      "options": [
+        "A) Idealize life",
+        "B) Depict life accurately",
+        "C) Escape reality",
+        "D) Create fantasy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a16e51d5f9e0ea0fa2155df224b93f765dac9f7",
+      "sectionIndex": 7,
+      "question": "Gothic literature features:",
+      "options": [
+        "A) Sunshine and happiness",
+        "B) Mystery and supernatural",
+        "C) Social realism",
+        "D) Political satire"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93a72c07fa1f58d507fa39c8a2c119918580503b",
+      "sectionIndex": 7,
+      "question": "Naturalism differs from Realism in its:",
+      "options": [
+        "A) Optimism",
+        "B) Deterministic philosophy",
+        "C) Religious themes",
+        "D) Comic approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "543805104f1f70f7ffb7385455db896b7d88c594",
+      "sectionIndex": 7,
+      "question": "Enlightenment literature valued:",
+      "options": [
+        "A) Emotion",
+        "B) Reason and order",
+        "C) Mysticism",
+        "D) Nationalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5e5985742b4f35e748641317a1db7a823f8327e",
+      "sectionIndex": 7,
+      "question": "Postmodernism is characterized by:",
+      "options": [
+        "A) Grand narratives",
+        "B) Fragmentation and irony",
+        "C) Absolute truth",
+        "D) Linear plot"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c87d830239744c9b7977768f2163d90365bc7dea",
+      "sectionIndex": 7,
+      "question": "World literature includes:",
+      "options": [
+        "A) English works only",
+        "B) Works from all cultures",
+        "C) European works only",
+        "D) Ancient texts only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

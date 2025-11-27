@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:08:29.616Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "dc7ee300c4cc3331add4c9824cc069e59a3083c5",
+      "sectionIndex": 0,
+      "question": "Who is the founder of the Hanafi School of thought?",
+      "options": [
+        "A) Imam Malik",
+        "B) Imam Abu Hanifa",
+        "C) Imam Shafi'i",
+        "D) Imam Ahmad bin Hanbal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9654faa41ab837fc972224a840d1b13df123ed55",
+      "sectionIndex": 0,
+      "question": "The Kufa School of jurisprudence is associated with:",
+      "options": [
+        "A) Imam Malik",
+        "B) Imam Shafi'i",
+        "C) Imam Abu Hanifa",
+        "D) Imam Ahmad bin Hanbal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1f1bd092b477d83c555291057938e02d16e38641",
+      "sectionIndex": 0,
+      "question": "Who were the famous pupils of Imam Abu Hanifa?",
+      "options": [
+        "A) Abu Yusuf and Muhammad al-Shaybani",
+        "B) Imam Malik and Imam Shafi'i",
+        "C) Al-Ghazali and Ibn Taymiyyah",
+        "D) Al-Bukhari and Muslim"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a327e3416f3970d5eb9e57fbcb10d45cb873302f",
+      "sectionIndex": 0,
+      "question": "The book \"Al-Risalah\" was written by:",
+      "options": [
+        "A) Imam Abu Hanifa",
+        "B) Imam Malik",
+        "C) Imam Shafi'i",
+        "D) Imam Ahmad bin Hanbal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7d45778d3d8138ac2ed637bf24ae35ba663cad5d",
+      "sectionIndex": 0,
+      "question": "The Maliki School of thought originated in:",
+      "options": [
+        "A) Kufa",
+        "B) Medina",
+        "C) Baghdad",
+        "D) Damascus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ed5008e60dbeb1c753d41ee6464d117d3f6d796",
+      "sectionIndex": 0,
+      "question": "Zahir al-Riwayah refers to the authentic books of:",
+      "options": [
+        "A) Maliki fiqh",
+        "B) Shafi'i fiqh",
+        "C) Hanafi fiqh",
+        "D) Hanbali fiqh"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1eb8a675471e95c6afe753a8d9861c0af78c3759",
+      "sectionIndex": 0,
+      "question": "How many major schools of Sunni jurisprudence are there?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fd5fb2b88221f39a0e7fe26da57fd30ab291140a",
+      "sectionIndex": 0,
+      "question": "The Hanbali School is considered the most:",
+      "options": [
+        "A) Liberal",
+        "B) Conservative",
+        "C) Popular",
+        "D) Ancient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a740666dbe1887ef67b12a1d3ece2da136191fc2",
+      "sectionIndex": 0,
+      "question": "Which school of thought is predominantly followed in Pakistan?",
+      "options": [
+        "A) Maliki",
+        "B) Shafi'i",
+        "C) Hanafi",
+        "D) Hanbali"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f06a1c06663203bedda3a499e3b194cc01c89424",
+      "sectionIndex": 0,
+      "question": "Imam Muhammad al-Shaybani was a student of:",
+      "options": [
+        "A) Imam Malik",
+        "B) Imam Abu Hanifa",
+        "C) Imam Shafi'i",
+        "D) Imam Ahmad bin Hanbal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84218dd33b5571f5f3df97b1f21fb590be006e4d",
+      "sectionIndex": 1,
+      "question": "The primary source of Islamic law is:",
+      "options": [
+        "A) Ijma",
+        "B) Qiyas",
+        "C) Quran",
+        "D) Custom"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4646debf5beec2f7a2b15c00bb7d750617998fa2",
+      "sectionIndex": 1,
+      "question": "Sunnah refers to:",
+      "options": [
+        "A) The Quran only",
+        "B) Practices and sayings of Prophet Muhammad (PBUH)",
+        "C) Consensus of scholars",
+        "D) Analogical reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3dea288aa9112e0849d0a2cfc99d7d162818e93",
+      "sectionIndex": 1,
+      "question": "Ijma means:",
+      "options": [
+        "A) Individual opinion",
+        "B) Consensus of the Muslim community",
+        "C) Analogy",
+        "D) Custom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b668ca52320f7d87359f1d8879b427afab93bf8a",
+      "sectionIndex": 1,
+      "question": "Qiyas in Islamic law means:",
+      "options": [
+        "A) Consensus",
+        "B) Custom",
+        "C) Analogical reasoning",
+        "D) Public interest"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c7a593532ebf77fae4aa4166507a4757fdc9f40f",
+      "sectionIndex": 1,
+      "question": "How many primary sources of Islamic law are there?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "10eee74540c7341d69bf38543ffec7ffd09bb249",
+      "sectionIndex": 1,
+      "question": "Hadith refers to:",
+      "options": [
+        "A) The Quran",
+        "B) Recorded sayings of Prophet Muhammad (PBUH)",
+        "C) Consensus",
+        "D) Analogy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52db7020e94ede22eb3d9b5343f1527fbeb5d8a2",
+      "sectionIndex": 1,
+      "question": "Istihsan means:",
+      "options": [
+        "A) Strict analogy",
+        "B) Juristic preference",
+        "C) Consensus",
+        "D) Custom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c663a8e78125cb05d497ff6a506b0b3fea661d01",
+      "sectionIndex": 1,
+      "question": "Maslahah Mursalah refers to:",
+      "options": [
+        "A) Revealed law",
+        "B) Public interest",
+        "C) Private benefit",
+        "D) Consensus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e8844e7927638e286783ba4033dec17e89bcf74",
+      "sectionIndex": 1,
+      "question": "The secondary sources of Islamic law include:",
+      "options": [
+        "A) Quran and Sunnah",
+        "B) Ijma and Qiyas",
+        "C) Istihsan and Maslahah",
+        "D) All of the above"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9782438bea81e2f511deb6fc912817da75b5eb03",
+      "sectionIndex": 1,
+      "question": "Urf in Islamic law means:",
+      "options": [
+        "A) Revelation",
+        "B) Custom",
+        "C) Consensus",
+        "D) Analogy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1cfdea27c4cfa8f6ab9f73f2991dea8af7c2525",
+      "sectionIndex": 2,
+      "question": "In Islamic law, marriage (Nikah) is considered:",
+      "options": [
+        "A) A sacrament",
+        "B) A civil contract",
+        "C) A religious duty only",
+        "D) A social custom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b4d7828ad476317ed099ee1baf87eb599d14e3e",
+      "sectionIndex": 2,
+      "question": "The minimum number of witnesses required for a valid Muslim marriage is:",
+      "options": [
+        "A) One",
+        "B) Two",
+        "C) Three",
+        "D) Four"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e996a4b59b8769122d509e0ed36e7d6f1d48528",
+      "sectionIndex": 2,
+      "question": "Mahr (dower) in Islamic marriage is:",
+      "options": [
+        "A) Optional",
+        "B) Paid by the bride",
+        "C) Obligatory payment to the bride",
+        "D) A loan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d0e4b660ab950f5ba76244889e779a4873840159",
+      "sectionIndex": 2,
+      "question": "Khula refers to:",
+      "options": [
+        "A) Marriage ceremony",
+        "B) Wife-initiated divorce",
+        "C) Husband-initiated divorce",
+        "D) Reconciliation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6957820bc03cdd3184d36495a2e11f658361036",
+      "sectionIndex": 2,
+      "question": "Talaq means:",
+      "options": [
+        "A) Marriage",
+        "B) Divorce",
+        "C) Separation",
+        "D) Reconciliation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73f476cf4a04120456ff9f6f78a21b50a61024ee",
+      "sectionIndex": 2,
+      "question": "The waiting period after divorce is called:",
+      "options": [
+        "A) Nikah",
+        "B) Mahr",
+        "C) Iddah",
+        "D) Khula"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "205ae244bc0623110d2179c69f8c508bded78b8b",
+      "sectionIndex": 2,
+      "question": "How many types of Talaq are recognized in Islamic law?",
+      "options": [
+        "A) One",
+        "B) Two",
+        "C) Three",
+        "D) Four"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fb1409b5ea3f777e6b77d2a5ccb39fa642a340f6",
+      "sectionIndex": 2,
+      "question": "Talaq-e-Ahsan is considered:",
+      "options": [
+        "A) The worst form of divorce",
+        "B) The best form of divorce",
+        "C) Invalid",
+        "D) Temporary separation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32386e0bc655d18f378601a83dfd362d44fd4103",
+      "sectionIndex": 2,
+      "question": "The Iddah period for a divorced woman is generally:",
+      "options": [
+        "A) One month",
+        "B) Two months",
+        "C) Three menstrual cycles",
+        "D) Six months"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2bd9d5d8356aab4c78d2772ddbb7cd2371617f18",
+      "sectionIndex": 2,
+      "question": "Zihar refers to:",
+      "options": [
+        "A) Valid divorce",
+        "B) Comparing wife to a forbidden relative",
+        "C) Temporary separation",
+        "D) Reconciliation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16c72c2f8c929420f84d4cc7b98427a72959ce15",
+      "sectionIndex": 3,
+      "question": "In Islamic inheritance law, the share of a son is:",
+      "options": [
+        "A) Equal to daughter",
+        "B) Half of daughter",
+        "C) Double that of daughter",
+        "D) Triple that of daughter"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9ad759396f5f365af4bd178e2b189006eb4d3b85",
+      "sectionIndex": 3,
+      "question": "A widow's share when there are children is:",
+      "options": [
+        "A) 1/2",
+        "B) 1/4",
+        "C) 1/8",
+        "D) 1/3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1a85a706705724ef426f0faaf004fdb2468ba94a",
+      "sectionIndex": 3,
+      "question": "The maximum a person can bequeath through will is:",
+      "options": [
+        "A) 1/4 of property",
+        "B) 1/3 of property",
+        "C) 1/2 of property",
+        "D) Entire property"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51b69b6b423f068b9b6955118d84b840f564232f",
+      "sectionIndex": 3,
+      "question": "Quranic heirs are also known as:",
+      "options": [
+        "A) Agnatic heirs",
+        "B) Sharers",
+        "C) Residuaries",
+        "D) Distant kindred"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc5e3b117ff23cb4d03f37523833430f2bd6cd5d",
+      "sectionIndex": 3,
+      "question": "A daughter's share when she is the only child is:",
+      "options": [
+        "A) 1/4",
+        "B) 1/3",
+        "C) 1/2",
+        "D) 2/3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3b82df1af7a3ed2a0c3cee021b07a2b923c734ee",
+      "sectionIndex": 3,
+      "question": "Can a bequest be made to a legal heir?",
+      "options": [
+        "A) Yes, always",
+        "B) No, unless other heirs consent",
+        "C) Only to sons",
+        "D) Only to daughters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bec82f5596163ef058077758a880654ec822c83c",
+      "sectionIndex": 3,
+      "question": "The Arabic term for inheritance law is:",
+      "options": [
+        "A) Nikah",
+        "B) Talaq",
+        "C) Mirath",
+        "D) Zakat"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "900edfbac6fb8034a1d8000fc453e85b404272e5",
+      "sectionIndex": 3,
+      "question": "A full brother is excluded by:",
+      "options": [
+        "A) Sister",
+        "B) Son",
+        "C) Daughter",
+        "D) Mother"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cf16a017dfc68a9eb7dd302d9f5501c252f539b",
+      "sectionIndex": 3,
+      "question": "Who prepares the inheritance distribution?",
+      "options": [
+        "A) Any family member",
+        "B) The eldest son",
+        "C) A qualified scholar or court",
+        "D) The widow"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5c2f71b1c51a555554db89901be07d307b6b8185",
+      "sectionIndex": 3,
+      "question": "Homicide is an impediment to inheritance, meaning:",
+      "options": [
+        "A) The murderer inherits double",
+        "B) The murderer cannot inherit from the victim",
+        "C) Only affects sons",
+        "D) Has no effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efa6343ea303f1cee7a1b33840264f9367e10fed",
+      "sectionIndex": 4,
+      "question": "Ijtihad means:",
+      "options": [
+        "A) Following blindly",
+        "B) Independent reasoning",
+        "C) Copying others",
+        "D) Rejecting law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1272390a2763a60ca83765f7b9eb8cc1b49c088a",
+      "sectionIndex": 4,
+      "question": "Ahliyyah refers to:",
+      "options": [
+        "A) Legal capacity",
+        "B) Marriage",
+        "C) Divorce",
+        "D) Inheritance"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5fc2054d64c6e5b3cbad5f0b39bf8f815a736ac9",
+      "sectionIndex": 4,
+      "question": "Hukm in Islamic law means:",
+      "options": [
+        "A) Wisdom",
+        "B) Legal ruling",
+        "C) Judge",
+        "D) Court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce281579b1a63cfb62bd296e68f5b96daa9d3978",
+      "sectionIndex": 4,
+      "question": "Fard means:",
+      "options": [
+        "A) Optional",
+        "B) Obligatory",
+        "C) Recommended",
+        "D) Discouraged"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4933b892ebb5eaf55399bd9b38496f72c70a4e16",
+      "sectionIndex": 4,
+      "question": "Haram means:",
+      "options": [
+        "A) Permitted",
+        "B) Recommended",
+        "C) Forbidden",
+        "D) Optional"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f44af0dcfd47b49372c3405feccd7df722e2cceb",
+      "sectionIndex": 4,
+      "question": "Makruh means:",
+      "options": [
+        "A) Obligatory",
+        "B) Forbidden",
+        "C) Discouraged",
+        "D) Recommended"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "64cc9a4e8602ac7a79f3f2868c182ffe3be8050d",
+      "sectionIndex": 4,
+      "question": "Halal means:",
+      "options": [
+        "A) Forbidden",
+        "B) Discouraged",
+        "C) Permitted",
+        "D) Obligatory"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7ba17fef6da41faf022c8a9776b2f94027d079a5",
+      "sectionIndex": 4,
+      "question": "Sunnah (as a legal category) means:",
+      "options": [
+        "A) Obligatory",
+        "B) Recommended",
+        "C) Forbidden",
+        "D) Discouraged"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3bb180e6b4a0b5d16cdba28a54f8886d7f873cf",
+      "sectionIndex": 4,
+      "question": "Mubah means:",
+      "options": [
+        "A) Obligatory",
+        "B) Forbidden",
+        "C) Permissible/Neutral",
+        "D) Recommended"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fe08e06b8ce3dc8805fb6bfeb4a5d80141b2be0b",
+      "sectionIndex": 4,
+      "question": "Naskh refers to:",
+      "options": [
+        "A) Consensus",
+        "B) Abrogation",
+        "C) Analogy",
+        "D) Custom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc52be49d1322202e829be93f0b2c60c6af8307d",
+      "sectionIndex": 5,
+      "question": "Hadd crimes are those:",
+      "options": [
+        "A) With flexible punishments",
+        "B) With fixed punishments in Quran/Sunnah",
+        "C) Decided by judge",
+        "D) Without punishment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "653e1f8d86de8cb6e659d59145c5b26bc51abf35",
+      "sectionIndex": 5,
+      "question": "How many Hadd crimes are generally recognized?",
+      "options": [
+        "A) Three",
+        "B) Five",
+        "C) Six or Seven",
+        "D) Ten"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3e5e1c51f10ef20e3a75dcd9370773700beab3d8",
+      "sectionIndex": 5,
+      "question": "Tazir refers to:",
+      "options": [
+        "A) Fixed punishments",
+        "B) Discretionary punishments",
+        "C) No punishment",
+        "D) Capital punishment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abc806af71ea95984cfcc4b9ecb826479eb88954",
+      "sectionIndex": 5,
+      "question": "Qisas means:",
+      "options": [
+        "A) Forgiveness",
+        "B) Retribution/Retaliation",
+        "C) Compensation",
+        "D) Imprisonment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b68747e2609b6afab0056d588db6a1782b0a87dd",
+      "sectionIndex": 5,
+      "question": "Diyah refers to:",
+      "options": [
+        "A) Imprisonment",
+        "B) Death penalty",
+        "C) Blood money/Compensation",
+        "D) Exile"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b0d87ed179f1a2a9890251fa4dc2647468ff6f52",
+      "sectionIndex": 5,
+      "question": "Theft (Sariqah) as a Hadd crime requires:",
+      "options": [
+        "A) Any amount stolen",
+        "B) Specific minimum amount (Nisab)",
+        "C) Only gold or silver",
+        "D) Only food items"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44b999b682594549213bfd10d84666e377466985",
+      "sectionIndex": 5,
+      "question": "The punishment for false accusation of adultery (Qadhf) is:",
+      "options": [
+        "A) 40 lashes",
+        "B) 80 lashes",
+        "C) 100 lashes",
+        "D) Death"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6e25c68965e3496f244af7c9a932416fd155c60",
+      "sectionIndex": 5,
+      "question": "Highway robbery is called:",
+      "options": [
+        "A) Sariqah",
+        "B) Hirabah",
+        "C) Qadhf",
+        "D) Riddah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eea15b5b871f5f8004747c3538e3a43648e1351",
+      "sectionIndex": 5,
+      "question": "Apostasy in Arabic is called:",
+      "options": [
+        "A) Zina",
+        "B) Riddah",
+        "C) Khamr",
+        "D) Qadhf"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54ecc86b8dd17e24a20e4ca1d357456bfda7ce20",
+      "sectionIndex": 5,
+      "question": "Drinking alcohol (Khamr) is punishable by:",
+      "options": [
+        "A) 40 or 80 lashes",
+        "B) 100 lashes",
+        "C) Death",
+        "D) Fine only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "618087951db32453ed080072019b5a854164ae61",
+      "sectionIndex": 6,
+      "question": "The Muslim Family Laws Ordinance (MFLO) was enacted in:",
+      "options": [
+        "A) 1956",
+        "B) 1961",
+        "C) 1973",
+        "D) 1980"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c18cb1ba1612c7c7774a4a60d5f2e113f78f078",
+      "sectionIndex": 6,
+      "question": "The Dissolution of Muslim Marriages Act was passed in:",
+      "options": [
+        "A) 1935",
+        "B) 1939",
+        "C) 1947",
+        "D) 1961"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86b0d23b293b0b7a4f664ee30b7cf08be4aa9ce4",
+      "sectionIndex": 6,
+      "question": "Which article of Pakistan's Constitution declares Islam as state religion?",
+      "options": [
+        "A) Article 1",
+        "B) Article 2",
+        "C) Article 19",
+        "D) Article 25"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0bcce3bb675a502cdd923814edbd36c4899f8724",
+      "sectionIndex": 6,
+      "question": "The Federal Shariat Court was established in:",
+      "options": [
+        "A) 1973",
+        "B) 1977",
+        "C) 1980",
+        "D) 1985"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "548f27e4b077f3435648697e7368378b68ffe992",
+      "sectionIndex": 6,
+      "question": "Under MFLO 1961, polygamy requires:",
+      "options": [
+        "A) No permission",
+        "B) Permission from existing wife",
+        "C) Permission from Arbitration Council",
+        "D) Court order"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1961edaeedb00be64a47c000c612627991a190a2",
+      "sectionIndex": 6,
+      "question": "The Council of Islamic Ideology is a:",
+      "options": [
+        "A) Judicial body",
+        "B) Constitutional advisory body",
+        "C) Legislative body",
+        "D) Executive body"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "737316d4dc49a9b46b5d9c878b733723714b2aec",
+      "sectionIndex": 6,
+      "question": "Section 6 of MFLO 1961 deals with:",
+      "options": [
+        "A) Divorce",
+        "B) Polygamy",
+        "C) Inheritance",
+        "D) Maintenance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c96d6fc573ee9f159d52301cbffcbc55c407f66",
+      "sectionIndex": 6,
+      "question": "The Hudood Ordinance was promulgated in:",
+      "options": [
+        "A) 1977",
+        "B) 1979",
+        "C) 1980",
+        "D) 1984"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "970b97efa9be9f073269a8498dd59067a3091406",
+      "sectionIndex": 6,
+      "question": "Under Pakistani law, registration of marriage is:",
+      "options": [
+        "A) Optional",
+        "B) Mandatory",
+        "C) Forbidden",
+        "D) Discouraged"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9cd13d2e20ecc302a923408a594a032e2d44dc1",
+      "sectionIndex": 6,
+      "question": "The Zakat and Ushr Ordinance was enacted in:",
+      "options": [
+        "A) 1977",
+        "B) 1980",
+        "C) 1984",
+        "D) 1990"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "608540dade2adf6efa4d9d8363d6b3620aae0dd1",
+      "sectionIndex": 7,
+      "question": "Riba means:",
+      "options": [
+        "A) Trade",
+        "B) Interest/Usury",
+        "C) Profit",
+        "D) Loss"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20301118bf46aa988314c694070344a69e97371f",
+      "sectionIndex": 7,
+      "question": "Islamic banking prohibits:",
+      "options": [
+        "A) Profit",
+        "B) Trade",
+        "C) Interest",
+        "D) Investment"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20083425464c597aece108a936df26bab1d792b3",
+      "sectionIndex": 7,
+      "question": "Musharakah refers to:",
+      "options": [
+        "A) Interest-based loan",
+        "B) Partnership",
+        "C) Sale",
+        "D) Lease"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39a38337babd19b8f60e93a50516e5b8126cde31",
+      "sectionIndex": 7,
+      "question": "Murabaha is a type of:",
+      "options": [
+        "A) Partnership",
+        "B) Cost-plus sale",
+        "C) Interest loan",
+        "D) Donation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53489514860c6a1a957105ffb4611f56dc17808f",
+      "sectionIndex": 7,
+      "question": "Gharar in contracts means:",
+      "options": [
+        "A) Clarity",
+        "B) Excessive uncertainty",
+        "C) Profit",
+        "D) Loss"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7121f354d0197d8c4788d5534ec3b9a60714529",
+      "sectionIndex": 7,
+      "question": "Takaful is Islamic alternative to:",
+      "options": [
+        "A) Banking",
+        "B) Insurance",
+        "C) Investment",
+        "D) Trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10c168799e9099e79b201a7d9d341aa2af2451b9",
+      "sectionIndex": 7,
+      "question": "Sukuk are:",
+      "options": [
+        "A) Interest-bearing bonds",
+        "B) Islamic bonds/certificates",
+        "C) Shares",
+        "D) Loans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d89485c72c219343b73c32bae429dac40d51eb9",
+      "sectionIndex": 7,
+      "question": "Ijarah in Islamic finance means:",
+      "options": [
+        "A) Sale",
+        "B) Partnership",
+        "C) Lease",
+        "D) Loan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "688805e439f48bcc9862d6f0ac395b0a7bea40de",
+      "sectionIndex": 7,
+      "question": "The basic principle of Islamic finance is:",
+      "options": [
+        "A) Maximizing interest",
+        "B) Risk and profit sharing",
+        "C) Avoiding all risks",
+        "D) Fixed returns only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35028d9fb8eb47b1398c68bb4eb2bd391f226c8a",
+      "sectionIndex": 7,
+      "question": "Zakat is calculated on wealth at the rate of:",
+      "options": [
+        "A) 1%",
+        "B) 2.5%",
+        "C) 5%",
+        "D) 10%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80eaf3b85efee0bb2e53f5efd854644ded5a4dff",
+      "sectionIndex": 8,
+      "question": "Legal capacity (Ahliyyah) is divided into how many types?",
+      "options": [
+        "A) One",
+        "B) Two",
+        "C) Three",
+        "D) Four"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d86ec3aaeab3c4a697794fd038ee1456872b2bf",
+      "sectionIndex": 8,
+      "question": "Ahliyyah al-Wujub refers to:",
+      "options": [
+        "A) Capacity for obligation",
+        "B) Capacity for performance",
+        "C) No capacity",
+        "D) Full capacity"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "45d2bb1e25e5cbb80190b8ce37deacc336a551fb",
+      "sectionIndex": 8,
+      "question": "Ahliyyah al-Ada refers to:",
+      "options": [
+        "A) Capacity for obligation",
+        "B) Capacity for performance",
+        "C) No capacity",
+        "D) Limited capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94b5c259fce6da56c367bc61194d4a195248c454",
+      "sectionIndex": 8,
+      "question": "A minor (Saghir) has:",
+      "options": [
+        "A) Full legal capacity",
+        "B) No legal capacity",
+        "C) Limited legal capacity",
+        "D) Performance capacity only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c7d6042758a2eba13829463d2e20f0814bf71da0",
+      "sectionIndex": 8,
+      "question": "The age of majority (Bulugh) in Islamic law is determined by:",
+      "options": [
+        "A) Fixed age only",
+        "B) Physical maturity",
+        "C) Mental maturity",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0497a47aca2cfef11c370b0c211ee34456ada198",
+      "sectionIndex": 8,
+      "question": "An insane person (Majnun) lacks:",
+      "options": [
+        "A) Capacity for obligation",
+        "B) Capacity for performance",
+        "C) Both capacities",
+        "D) Neither capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c874f792e7f15b6d2bbf5a2bd51d9930fc0c2ba4",
+      "sectionIndex": 8,
+      "question": "A valid contract ('Aqd) requires:",
+      "options": [
+        "A) Offer only",
+        "B) Acceptance only",
+        "C) Offer and acceptance",
+        "D) Written form only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "12684787eec8647d923239d04f520b2a7fc4e812",
+      "sectionIndex": 8,
+      "question": "Consideration in Islamic contracts is called:",
+      "options": [
+        "A) Ijab",
+        "B) Qabul",
+        "C) 'Iwad",
+        "D) Shurut"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "945a1ba2e56a048bd1ec910faf1e98578b588145",
+      "sectionIndex": 8,
+      "question": "A void contract (Batil) is:",
+      "options": [
+        "A) Valid but defective",
+        "B) Invalid from the beginning",
+        "C) Temporarily suspended",
+        "D) Partially valid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1160d3c553345749a3681f39dd20831314517e6",
+      "sectionIndex": 8,
+      "question": "A voidable contract (Fasid) is:",
+      "options": [
+        "A) Completely valid",
+        "B) Valid but defective",
+        "C) Always invalid",
+        "D) Never enforceable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1bfc22cc1c419b27604b665fca307c1f5b40d89",
+      "sectionIndex": 9,
+      "question": "Maqasid al-Shariah refers to:",
+      "options": [
+        "A) Sources of law",
+        "B) Objectives of Islamic law",
+        "C) Schools of thought",
+        "D) Legal capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "488e73fea37f917057b38f69cc787f876ef587da",
+      "sectionIndex": 9,
+      "question": "How many essential objectives (Daruriyyat) are recognized?",
+      "options": [
+        "A) Three",
+        "B) Five",
+        "C) Seven",
+        "D) Ten"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10950236a431ce5a8d5d727e1ee4b8f500fc3d6c",
+      "sectionIndex": 9,
+      "question": "Protection of religion (Hifz al-Din) is:",
+      "options": [
+        "A) Optional",
+        "B) One of the five objectives",
+        "C) Not important",
+        "D) Secondary objective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3463c31647800727c8bf7b025059ee30fd895c34",
+      "sectionIndex": 9,
+      "question": "Sadd al-Dharai means:",
+      "options": [
+        "A) Opening means",
+        "B) Blocking the means",
+        "C) Public interest",
+        "D) Private benefit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "926235e6ed2fb5e2421404816bd167547a5bd980",
+      "sectionIndex": 9,
+      "question": "Istishab means:",
+      "options": [
+        "A) Presumption of continuity",
+        "B) Change of law",
+        "C) New ruling",
+        "D) Abrogation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2335e657cfac22f360a3946fcfa38e037da1a35d",
+      "sectionIndex": 9,
+      "question": "The principle \"al-asl fi'l-ashya al-ibahah\" means:",
+      "options": [
+        "A) Everything is forbidden",
+        "B) Original rule is permissibility",
+        "C) Nothing is allowed",
+        "D) Doubt prevails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ac4aa8101739968e7aed14399f37cfa837d1fc8",
+      "sectionIndex": 9,
+      "question": "\"La darar wa la dirar\" means:",
+      "options": [
+        "A) Harm is allowed",
+        "B) No harm and no reciprocal harm",
+        "C) Harm for benefit",
+        "D) Necessary harm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccd17bc83cc0472940e42b728fe8ad46a28bd777",
+      "sectionIndex": 9,
+      "question": "Necessity (Darurah) in Islamic law:",
+      "options": [
+        "A) Never permits the forbidden",
+        "B) May permit the forbidden",
+        "C) Changes the law permanently",
+        "D) Has no effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae54b11bbb1f7b9d1717a7c9a17ab25da073c41a",
+      "sectionIndex": 9,
+      "question": "The maxim \"al-mashaqqah tajlib al-taysir\" means:",
+      "options": [
+        "A) Hardship remains",
+        "B) Hardship brings ease",
+        "C) No concessions",
+        "D) Strict application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0531fbb3188c8a61d5f4f2bbec52c36caf3061da",
+      "sectionIndex": 9,
+      "question": "Custom ('Urf) is considered in Islamic law when it:",
+      "options": [
+        "A) Contradicts Shariah",
+        "B) Does not contradict Shariah",
+        "C) Is Western",
+        "D) Is modern only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

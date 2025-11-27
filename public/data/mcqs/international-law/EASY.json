@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:56:19.392Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "86ecd2dd99c0282048b89cc87b2b1b15125ead4d",
+      "sectionIndex": 0,
+      "question": "International Law is primarily concerned with:",
+      "options": [
+        "A) Individual citizens",
+        "B) Relations between states",
+        "C) Domestic courts",
+        "D) Private companies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edf43b14b193c976e7cc5d10b551e5af83bc9df1",
+      "sectionIndex": 0,
+      "question": "The father of International Law is considered to be:",
+      "options": [
+        "A) John Austin",
+        "B) Hugo Grotius",
+        "C) Hans Kelsen",
+        "D) Jeremy Bentham"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dd41cf27b631c5b1f5095b765b03138b2a91c35",
+      "sectionIndex": 0,
+      "question": "Article 38(1) of the ICJ Statute lists sources of international law. Which is NOT a primary source?",
+      "options": [
+        "A) Treaties",
+        "B) Custom",
+        "C) Judicial decisions",
+        "D) General principles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8695dd8919ebe77205346f5d59357e7473627452",
+      "sectionIndex": 0,
+      "question": "Pacta Sunt Servanda means:",
+      "options": [
+        "A) Treaties can be broken",
+        "B) Treaties must be kept",
+        "C) Treaties are optional",
+        "D) Treaties expire"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fa5cd7ae3deb88910f951631b2a1006a2054453",
+      "sectionIndex": 0,
+      "question": "Customary international law requires:",
+      "options": [
+        "A) Written agreement",
+        "B) State practice and opinio juris",
+        "C) UN approval",
+        "D) Judicial decision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ddbc8759606ce18799929c4af8ff3f01abf5f764",
+      "sectionIndex": 0,
+      "question": "A treaty is defined as:",
+      "options": [
+        "A) Any agreement",
+        "B) Written agreement between states",
+        "C) Oral promise",
+        "D) Domestic law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "164d0ee652815df30c461e1862a04f6fd00a1cce",
+      "sectionIndex": 0,
+      "question": "Jus cogens refers to:",
+      "options": [
+        "A) Optional norms",
+        "B) Peremptory norms",
+        "C) Regional customs",
+        "D) Soft law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24c3459b88372546af0b110b900a73cefcaab986",
+      "sectionIndex": 0,
+      "question": "The Vienna Convention on the Law of Treaties was adopted in:",
+      "options": [
+        "A) 1945",
+        "B) 1961",
+        "C) 1969",
+        "D) 1982"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "52e920d741f0f76b82adaec906bfd771a69f390e",
+      "sectionIndex": 0,
+      "question": "Opinio juris means:",
+      "options": [
+        "A) Court opinion",
+        "B) Belief that practice is legally required",
+        "C) Academic writing",
+        "D) State legislation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10ee9ec07149ff06cc06b306e8bb92453e8dcf48",
+      "sectionIndex": 0,
+      "question": "General principles of law refer to:",
+      "options": [
+        "A) UN resolutions",
+        "B) Common principles in domestic legal systems",
+        "C) Religious laws",
+        "D) Natural law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77f739d1d9c80392a273af94c33490a8243c404c",
+      "sectionIndex": 1,
+      "question": "A sovereign state must have:",
+      "options": [
+        "A) UN membership",
+        "B) Territory, population, government",
+        "C) Nuclear weapons",
+        "D) Large economy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a751d30bedce06b93cfb37c40ae08975d6b8fa23",
+      "sectionIndex": 1,
+      "question": "Territorial jurisdiction means:",
+      "options": [
+        "A) Power over territory",
+        "B) Power over nationals abroad",
+        "C) Universal power",
+        "D) No power"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "16f196ae9b48b0f988a224123d9a9deb7b77916a",
+      "sectionIndex": 1,
+      "question": "State immunity protects:",
+      "options": [
+        "A) All state actions",
+        "B) States from foreign courts",
+        "C) Criminal acts",
+        "D) Private acts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8b9f36c1d77f0b72e7b9fe2b857347fd45607d5",
+      "sectionIndex": 1,
+      "question": "The Montevideo Convention lists criteria for:",
+      "options": [
+        "A) Treaties",
+        "B) Statehood",
+        "C) War crimes",
+        "D) Neutrality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73d8d80ebbb87e5c1db946a9bc2afaffd9b05b13",
+      "sectionIndex": 1,
+      "question": "De facto recognition means:",
+      "options": [
+        "A) Legal recognition",
+        "B) Provisional/factual recognition",
+        "C) No recognition",
+        "D) Permanent recognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01f89605625aadb1f2e4c027b2a1bc7dd17619f0",
+      "sectionIndex": 1,
+      "question": "De jure recognition means:",
+      "options": [
+        "A) Temporary recognition",
+        "B) Legal/formal recognition",
+        "C) Conditional recognition",
+        "D) No recognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25932db515038297eae98e5170b09641aac28b5f",
+      "sectionIndex": 1,
+      "question": "Diplomatic immunity is governed by:",
+      "options": [
+        "A) Customary law only",
+        "B) Vienna Convention 1961",
+        "C) National law",
+        "D) No law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9bcf548829afcec05d6a82f33b067aea1c54300",
+      "sectionIndex": 1,
+      "question": "Extradition is:",
+      "options": [
+        "A) Deportation",
+        "B) Surrender of accused to another state",
+        "C) Asylum",
+        "D) Immigration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa49000a16bc7a95aeba29824a467055e1942515",
+      "sectionIndex": 1,
+      "question": "The principle of non-intervention means:",
+      "options": [
+        "A) States can intervene",
+        "B) States cannot interfere in domestic affairs",
+        "C) UN can always intervene",
+        "D) Intervention is encouraged"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "833715b259167675171ab0a5189ebfe13a0dc3e0",
+      "sectionIndex": 1,
+      "question": "Terra nullius means:",
+      "options": [
+        "A) Occupied territory",
+        "B) No man's land",
+        "C) Sovereign territory",
+        "D) Disputed territory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07f8b02215b0cbfece684296d6a0d376a6ec71e0",
+      "sectionIndex": 2,
+      "question": "Territorial sea extends up to:",
+      "options": [
+        "A) 3 nautical miles",
+        "B) 12 nautical miles",
+        "C) 24 nautical miles",
+        "D) 200 nautical miles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72549f4d2fdc18d89bdc573057645ca82a08b3a3",
+      "sectionIndex": 2,
+      "question": "The Exclusive Economic Zone (EEZ) extends up to:",
+      "options": [
+        "A) 12 nautical miles",
+        "B) 24 nautical miles",
+        "C) 200 nautical miles",
+        "D) 350 nautical miles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8286e9e31d0ceb6807699c5f9f16341fb502ca22",
+      "sectionIndex": 2,
+      "question": "UNCLOS stands for:",
+      "options": [
+        "A) United Nations Charter on Law of States",
+        "B) UN Convention on the Law of the Sea",
+        "C) Universal Convention on Legal Order",
+        "D) UN Charter on Ocean Law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cf1871647b78b71155df98843b328948e854cd7",
+      "sectionIndex": 2,
+      "question": "UNCLOS was adopted in:",
+      "options": [
+        "A) 1958",
+        "B) 1969",
+        "C) 1982",
+        "D) 1994"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b614a89f6b9da2d904b8719aa0fecdc3327b1e85",
+      "sectionIndex": 2,
+      "question": "Internal waters include:",
+      "options": [
+        "A) High seas",
+        "B) Ports and bays",
+        "C) EEZ",
+        "D) Continental shelf"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7082bfdb5e428239723054eb2780edf34cc84ec",
+      "sectionIndex": 2,
+      "question": "The contiguous zone extends up to:",
+      "options": [
+        "A) 12 nautical miles",
+        "B) 24 nautical miles",
+        "C) 200 nautical miles",
+        "D) No limit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "daca77884dde150821b077b9abdbd5750faf6007",
+      "sectionIndex": 2,
+      "question": "Freedom of navigation applies to:",
+      "options": [
+        "A) Territorial sea",
+        "B) Internal waters",
+        "C) High seas",
+        "D) Ports"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "12db024c8035b0ebeb04968f39171d1a49bddaa1",
+      "sectionIndex": 2,
+      "question": "Hot pursuit allows:",
+      "options": [
+        "A) Chase into any waters",
+        "B) Chase from coastal state waters",
+        "C) No chase allowed",
+        "D) Only in ports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf955da76b27180520f2a513106662eb8ffd03f2",
+      "sectionIndex": 2,
+      "question": "The continental shelf relates to:",
+      "options": [
+        "A) Seabed resources",
+        "B) Fishing only",
+        "C) Navigation",
+        "D) Airspace"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "dd63003c4431d1e2922ebe93e80c333d20a10e22",
+      "sectionIndex": 2,
+      "question": "Innocent passage applies in:",
+      "options": [
+        "A) High seas",
+        "B) Territorial sea",
+        "C) Internal waters",
+        "D) EEZ only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8145d5f3bc70659eaf0e7ac35c3116fc14f9f2d7",
+      "sectionIndex": 3,
+      "question": "Treaties enter into force through:",
+      "options": [
+        "A) Signature only",
+        "B) Ratification",
+        "C) Negotiation",
+        "D) Drafting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0f73f1c565ee5068f4c3561977d9820f4d04b8e",
+      "sectionIndex": 3,
+      "question": "A bilateral treaty involves:",
+      "options": [
+        "A) One state",
+        "B) Two states",
+        "C) Three states",
+        "D) Many states"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ded9e86782ba5a1ae15f37fad10eeec1a98c969",
+      "sectionIndex": 3,
+      "question": "A multilateral treaty involves:",
+      "options": [
+        "A) Two states",
+        "B) Three or more states",
+        "C) One state",
+        "D) No states"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c22ee8fee51f80e29df674845e676dec8b16977c",
+      "sectionIndex": 3,
+      "question": "Treaties can be terminated by:",
+      "options": [
+        "A) Mutual consent",
+        "B) One party's wish",
+        "C) Automatic expiry",
+        "D) Third party"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "87f2c62ffb2823eb2f41a328cf4afe2b64841b06",
+      "sectionIndex": 3,
+      "question": "Reservation to a treaty means:",
+      "options": [
+        "A) Booking a treaty",
+        "B) Excluding certain provisions",
+        "C) Accepting all terms",
+        "D) Rejecting treaty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba555d0a26109b4dff2e246690724f9a6bda641a",
+      "sectionIndex": 3,
+      "question": "Treaties are binding due to:",
+      "options": [
+        "A) Force",
+        "B) Pacta sunt servanda",
+        "C) UN order",
+        "D) Custom only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a3868fcc2577c559c890d90129cef2650392ff5",
+      "sectionIndex": 3,
+      "question": "Treaty interpretation follows:",
+      "options": [
+        "A) Domestic law",
+        "B) Vienna Convention rules",
+        "C) Judge's discretion",
+        "D) Popular opinion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a29da323f685b5471d809cdfba3cc71944e62c4f",
+      "sectionIndex": 3,
+      "question": "Material breach of treaty allows:",
+      "options": [
+        "A) No consequence",
+        "B) Termination by other party",
+        "C) Automatic void",
+        "D) Criminal prosecution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "834a86f3f128cb9dd842494d9b57024f0fe22f67",
+      "sectionIndex": 3,
+      "question": "Treaties are registered with:",
+      "options": [
+        "A) ICJ",
+        "B) UN Secretariat",
+        "C) Security Council",
+        "D) Each state"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d613db9b3cb93513fb700098061d1fb3ff22efb",
+      "sectionIndex": 3,
+      "question": "Rebus sic stantibus means:",
+      "options": [
+        "A) Treaties never change",
+        "B) Fundamental change of circumstances",
+        "C) Treaties are eternal",
+        "D) No termination allowed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8785793a8bf3074200da72bc616a072e96ce479b",
+      "sectionIndex": 4,
+      "question": "The UN was established in:",
+      "options": [
+        "A) 1919",
+        "B) 1945",
+        "C) 1948",
+        "D) 1950"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1da683b4b9beda1e7bcb5776f73f0d542daa3849",
+      "sectionIndex": 4,
+      "question": "The UN Charter has how many articles?",
+      "options": [
+        "A) 51",
+        "B) 111",
+        "C) 151",
+        "D) 200"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3739d27dd0a04ef62b9c68f2adfb55372b3d73f6",
+      "sectionIndex": 4,
+      "question": "The Security Council has permanent members:",
+      "options": [
+        "A) 5",
+        "B) 10",
+        "C) 15",
+        "D) 20"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9b37494afa8bfed60054faf9f50e323413b4c360",
+      "sectionIndex": 4,
+      "question": "The UN General Assembly meets:",
+      "options": [
+        "A) Monthly",
+        "B) Annually",
+        "C) Every 5 years",
+        "D) On demand only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8cbf841dcdd630a8414648f42307453c068507",
+      "sectionIndex": 4,
+      "question": "Chapter VII of UN Charter deals with:",
+      "options": [
+        "A) Membership",
+        "B) Peaceful settlement",
+        "C) Enforcement action",
+        "D) Budget"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d7998c23b04a4dfbced83ce8c64bcd23813ca680",
+      "sectionIndex": 4,
+      "question": "Chapter VI deals with:",
+      "options": [
+        "A) Use of force",
+        "B) Pacific settlement of disputes",
+        "C) Trusteeship",
+        "D) Amendment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89e68de7d2827bbdf78e01073ed7fd0e072ccc68",
+      "sectionIndex": 4,
+      "question": "The current UN Secretary-General is from:",
+      "options": [
+        "A) Portugal",
+        "B) South Korea",
+        "C) Ghana",
+        "D) Egypt"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "417493a9fb657d1aa9ee8c0649983c2e58a251a5",
+      "sectionIndex": 4,
+      "question": "UN headquarters is located in:",
+      "options": [
+        "A) Geneva",
+        "B) New York",
+        "C) Paris",
+        "D) London"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa2090e8e1d6fb88500a77ea652f391e1728d6ab",
+      "sectionIndex": 4,
+      "question": "The veto power belongs to:",
+      "options": [
+        "A) All members",
+        "B) P5 members",
+        "C) General Assembly",
+        "D) Secretary-General"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e8bed83687d271b9bc725a0170ec37dd8b2ac6c",
+      "sectionIndex": 4,
+      "question": "UN specialized agencies include:",
+      "options": [
+        "A) NATO",
+        "B) WHO",
+        "C) ASEAN",
+        "D) EU"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77a989180d444182f20696a1ad653fab8bb80c83",
+      "sectionIndex": 5,
+      "question": "The ICJ is located in:",
+      "options": [
+        "A) New York",
+        "B) The Hague",
+        "C) Geneva",
+        "D) Vienna"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08889b3c09f9d27ca40792d943310eff99df0c90",
+      "sectionIndex": 5,
+      "question": "ICJ has how many judges?",
+      "options": [
+        "A) 9",
+        "B) 11",
+        "C) 15",
+        "D) 21"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ace82c316ec942f1496ee974e23768e5ec188202",
+      "sectionIndex": 5,
+      "question": "ICJ judges serve for:",
+      "options": [
+        "A) 5 years",
+        "B) 9 years",
+        "C) 15 years",
+        "D) Life"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "513ad3e3dd4f79d31639284e967e7ceab9f9b5eb",
+      "sectionIndex": 5,
+      "question": "ICJ decides disputes between:",
+      "options": [
+        "A) Individuals",
+        "B) States",
+        "C) Companies",
+        "D) NGOs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67b50e129e1c55f6c07fe8a696ecfaafc7b08d3d",
+      "sectionIndex": 5,
+      "question": "ICJ jurisdiction requires:",
+      "options": [
+        "A) UN order",
+        "B) State consent",
+        "C) Automatic",
+        "D) Regional approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f01dc31130dd4e2ee1ecb1cef1115effc907bce",
+      "sectionIndex": 5,
+      "question": "Advisory opinions can be requested by:",
+      "options": [
+        "A) Any state",
+        "B) UN organs",
+        "C) Individuals",
+        "D) Companies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16048dc3ced3e9cb127a93a713d96112e0c95706",
+      "sectionIndex": 5,
+      "question": "ICJ decisions are:",
+      "options": [
+        "A) Advisory only",
+        "B) Binding on parties",
+        "C) Suggestions",
+        "D) Non-binding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d589b38e70d91ca542c0b571b573806e848370e",
+      "sectionIndex": 5,
+      "question": "The ICJ Statute is part of:",
+      "options": [
+        "A) Geneva Convention",
+        "B) UN Charter",
+        "C) Vienna Convention",
+        "D) Separate treaty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c325c632a6ec9cad58fb3281e3d65a09e3e4367",
+      "sectionIndex": 5,
+      "question": "ICJ applies international law sources under:",
+      "options": [
+        "A) Article 38",
+        "B) Article 51",
+        "C) Article 2(4)",
+        "D) Article 1"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2a4458e145dd93348b6b39e7cc76336a6d2da1e7",
+      "sectionIndex": 5,
+      "question": "Contentious cases involve:",
+      "options": [
+        "A) Advisory matters",
+        "B) Disputes between states",
+        "C) Academic questions",
+        "D) Hypothetical issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "605efc0452eb539fed82fce46a3ed0acd1558ba8",
+      "sectionIndex": 6,
+      "question": "Article 2(4) of UN Charter prohibits:",
+      "options": [
+        "A) All force",
+        "B) Threat or use of force",
+        "C) Self-defense",
+        "D) Peacekeeping"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de9a9615175e72b3d0c86d987c901f1c4f1abd4a",
+      "sectionIndex": 6,
+      "question": "Self-defense is allowed under Article:",
+      "options": [
+        "A) 2(4)",
+        "B) 51",
+        "C) 42",
+        "D) 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48e215b5b5189b904abf24ec6fb1c8b0e571805e",
+      "sectionIndex": 6,
+      "question": "Collective self-defense means:",
+      "options": [
+        "A) Individual defense",
+        "B) Defense of other states",
+        "C) No defense",
+        "D) Preemptive strike"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1954e3685e95092971d8fd96a44c8a26463e04ba",
+      "sectionIndex": 6,
+      "question": "Use of force requires:",
+      "options": [
+        "A) State decision",
+        "B) UN authorization (except self-defense)",
+        "C) Regional approval",
+        "D) No permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73c9915e0114fd894ae8cd5cbac049a218b1c307",
+      "sectionIndex": 6,
+      "question": "Humanitarian intervention is:",
+      "options": [
+        "A) Always legal",
+        "B) Controversial",
+        "C) Prohibited",
+        "D) Required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d138e1f3bff6447e81365508a6709b3578d12263",
+      "sectionIndex": 6,
+      "question": "The Caroline Case established:",
+      "options": [
+        "A) Treaty law",
+        "B) Self-defense criteria",
+        "C) State immunity",
+        "D) Diplomatic law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b82d29878e5fc825edc7ff2e9e267f5a6fc95730",
+      "sectionIndex": 6,
+      "question": "Armed attack triggers:",
+      "options": [
+        "A) Negotiations",
+        "B) Right of self-defense",
+        "C) Surrender",
+        "D) Mediation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9802fa2bb62a168d9fb96bdeb6557ee2e5dae4d",
+      "sectionIndex": 6,
+      "question": "Anticipatory self-defense is:",
+      "options": [
+        "A) Universally accepted",
+        "B) Debated",
+        "C) Prohibited",
+        "D) Required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd9e5a162529a359a939aa2a3453a15a2ae0283a",
+      "sectionIndex": 6,
+      "question": "Security Council can authorize force under:",
+      "options": [
+        "A) Chapter VI",
+        "B) Chapter VII",
+        "C) Chapter I",
+        "D) No chapter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ca27b79d867fa57833d4a1990ad795fe0f188ea",
+      "sectionIndex": 6,
+      "question": "Peacekeeping requires:",
+      "options": [
+        "A) Force",
+        "B) Consent of parties",
+        "C) Conquest",
+        "D) Occupation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd21081d9be7711aed6f857c3fcf4f911cfa2d63",
+      "sectionIndex": 7,
+      "question": "Universal Declaration of Human Rights was adopted in:",
+      "options": [
+        "A) 1945",
+        "B) 1948",
+        "C) 1950",
+        "D) 1966"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca187164c7fe146257fcf342339de8bcfc1915af",
+      "sectionIndex": 7,
+      "question": "Geneva Conventions were adopted in:",
+      "options": [
+        "A) 1864",
+        "B) 1929",
+        "C) 1949",
+        "D) 1977"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c0b1014cfe6c647ab7e0cb64be8381eb061b064f",
+      "sectionIndex": 7,
+      "question": "Prisoners of war are protected under:",
+      "options": [
+        "A) Geneva Convention III",
+        "B) UN Charter",
+        "C) ICJ Statute",
+        "D) Vienna Convention"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3c4bc417dfbd635a4902d4fbbdb46e9efb0df2a5",
+      "sectionIndex": 7,
+      "question": "International humanitarian law applies during:",
+      "options": [
+        "A) Peace",
+        "B) Armed conflict",
+        "C) Elections",
+        "D) Trade disputes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dce79a8e6cc9fe9240a87865d3083a3ef3be442",
+      "sectionIndex": 7,
+      "question": "The ICRC stands for:",
+      "options": [
+        "A) International Court of Red Cross",
+        "B) International Committee of the Red Cross",
+        "C) International Convention on Red Cross",
+        "D) International Charter of Red Cross"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ba52752575b1648b7e2204e489d3a205468805f",
+      "sectionIndex": 7,
+      "question": "Genocide Convention was adopted in:",
+      "options": [
+        "A) 1945",
+        "B) 1948",
+        "C) 1950",
+        "D) 1960"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e54c5557c6784f8b5e9da8d7d43ef93efc218d3f",
+      "sectionIndex": 7,
+      "question": "Torture is:",
+      "options": [
+        "A) Sometimes allowed",
+        "B) Absolutely prohibited",
+        "C) Permitted in war",
+        "D) State discretion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16b00b338e87939a444ca9d58c68be6f1a2b3255",
+      "sectionIndex": 7,
+      "question": "Asylum can be:",
+      "options": [
+        "A) Territorial only",
+        "B) Diplomatic only",
+        "C) Both territorial and diplomatic",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "23ee9e7367e146c3c445bb4ce0f5e7b249bd569a",
+      "sectionIndex": 7,
+      "question": "Refugees are protected under:",
+      "options": [
+        "A) 1951 Convention",
+        "B) UN Charter",
+        "C) Geneva Law",
+        "D) Maritime law"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e1c566a52d472f24f8047a034d3732a120268d15",
+      "sectionIndex": 7,
+      "question": "Human rights are:",
+      "options": [
+        "A) Granted by states",
+        "B) Inherent to all humans",
+        "C) Earned",
+        "D) Conditional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99eb1146b49bc6d84327ec6aa9a70a42791e352f",
+      "sectionIndex": 8,
+      "question": "States are responsible for:",
+      "options": [
+        "A) All acts on territory",
+        "B) Internationally wrongful acts",
+        "C) Private acts",
+        "D) Natural disasters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01d101b39998590e2c2df1525d6fe64fd09ea6cf",
+      "sectionIndex": 8,
+      "question": "Attribution means:",
+      "options": [
+        "A) Giving credit",
+        "B) Linking conduct to state",
+        "C) Distribution",
+        "D) Contribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69bd256fdb2ca0e41f2bf4fcd6e55c1ef4cf0ecd",
+      "sectionIndex": 8,
+      "question": "State responsibility requires:",
+      "options": [
+        "A) Breach and attribution",
+        "B) Intent only",
+        "C) Damage only",
+        "D) UN declaration"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6787be898cb051b193fe6b58ed4281a59d117ca7",
+      "sectionIndex": 8,
+      "question": "Reparation includes:",
+      "options": [
+        "A) Punishment only",
+        "B) Restitution, compensation, satisfaction",
+        "C) Apology only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09dff10776280df2850bf1b328c15c4871e6cd94",
+      "sectionIndex": 8,
+      "question": "Countermeasures are:",
+      "options": [
+        "A) Military action",
+        "B) Lawful responses to breach",
+        "C) Always illegal",
+        "D) War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae7d1b1686f50412178845aacaa87c3751637724",
+      "sectionIndex": 8,
+      "question": "Force majeure means:",
+      "options": [
+        "A) Major force",
+        "B) Irresistible force",
+        "C) Military force",
+        "D) Economic force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78a56e816816617154bd5a1bc25af21a1b61e916",
+      "sectionIndex": 8,
+      "question": "Circumstances precluding wrongfulness include:",
+      "options": [
+        "A) Consent",
+        "B) Power",
+        "C) Wealth",
+        "D) Size"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bca353e5c83a7059f6b4d8e405f7d8b20fba2cd5",
+      "sectionIndex": 8,
+      "question": "ILC Draft Articles on State Responsibility were adopted in:",
+      "options": [
+        "A) 1969",
+        "B) 2001",
+        "C) 2010",
+        "D) Not yet adopted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ddc42020183305ffc2b006387d6d108e3f5d86e",
+      "sectionIndex": 8,
+      "question": "Injured state can seek:",
+      "options": [
+        "A) Revenge",
+        "B) Reparation",
+        "C) Territory",
+        "D) Regime change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c884fd0f3e156c489cbf22b24e8929a6bb01aeed",
+      "sectionIndex": 8,
+      "question": "Diplomatic protection covers:",
+      "options": [
+        "A) Diplomats only",
+        "B) State's nationals abroad",
+        "C) All persons",
+        "D) Government only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4d4aa42fea4f321023914b2ccb3cd2b1cfd9412",
+      "sectionIndex": 9,
+      "question": "Monism means:",
+      "options": [
+        "A) International law separate from domestic",
+        "B) International and domestic law form one system",
+        "C) Only domestic law exists",
+        "D) No legal system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "583a44b1a305ff16e01dd1da80f0b6063b6c6989",
+      "sectionIndex": 9,
+      "question": "Dualism means:",
+      "options": [
+        "A) One legal system",
+        "B) International and domestic law are separate",
+        "C) Double standards",
+        "D) Two courts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fea9c1294b9d771ce0c330ec52596935dd90f622",
+      "sectionIndex": 9,
+      "question": "Good offices involve:",
+      "options": [
+        "A) Binding decision",
+        "B) Facilitating communication",
+        "C) Judgment",
+        "D) Force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70cfb98ff1e37a84ab62d3c96ae42878222b73d2",
+      "sectionIndex": 9,
+      "question": "Mediation involves:",
+      "options": [
+        "A) Binding decision",
+        "B) Active proposals for settlement",
+        "C) Force",
+        "D) Judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d46c93c6e3ea8fda140638587e2ecab5ea129001",
+      "sectionIndex": 9,
+      "question": "International organizations have:",
+      "options": [
+        "A) No legal personality",
+        "B) Legal personality",
+        "C) Limited existence",
+        "D) Temporary status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23ddcb1f7b30e2022cf613a6cc662072a90303d5",
+      "sectionIndex": 9,
+      "question": "Diplomatic bag:",
+      "options": [
+        "A) Can be opened",
+        "B) Cannot be opened",
+        "C) Must be searched",
+        "D) Has no protection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "862e37c9ace99cf91160df58fae93f3dc0f09f1b",
+      "sectionIndex": 9,
+      "question": "Persona non grata means:",
+      "options": [
+        "A) Welcome person",
+        "B) Unwelcome person",
+        "C) Important person",
+        "D) Unknown person"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b35e8882218e0e4c4c734127b25e55640802e895",
+      "sectionIndex": 9,
+      "question": "Most treaties require:",
+      "options": [
+        "A) Unanimous consent",
+        "B) Signature and ratification",
+        "C) Oral agreement",
+        "D) Force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "538e947bf7c6c6777ac3522373bcd5de5437f496",
+      "sectionIndex": 9,
+      "question": "Soft law refers to:",
+      "options": [
+        "A) Binding law",
+        "B) Non-binding instruments",
+        "C) Criminal law",
+        "D) Private law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9e12391fee5e2965b988b2c7dd95217a3bfe3dd",
+      "sectionIndex": 9,
+      "question": "Erga omnes obligations are owed to:",
+      "options": [
+        "A) One state",
+        "B) International community as whole",
+        "C) Neighbors only",
+        "D) Allies only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

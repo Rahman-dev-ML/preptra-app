@@ -1,0 +1,599 @@
+{
+  "subject": "Anthropology (CSS Optional)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 20,
+  "categories": [
+    "Foundations & Scope",
+    "Culture, Ethnocentrism & Relativism",
+    "Religion & Belief Systems",
+    "Social Change & Applied Anthropology",
+    "Research Methods & Epistemology",
+    "Kinship, Family & Marriage",
+    "Economic Anthropology",
+    "Political Organization & Stratification",
+    "Language, Symbols & Meaning",
+    "Social Institutions (Law, Education, Health)",
+    "Contemporary Pakistan — Culture & Society",
+    "Urbanization, Development & Migration",
+    "Gender, Identity & Power",
+    "Anthropology of Health & Pandemics",
+    "Theory & Theorists",
+    "Material Culture & Technology",
+    "Globalization & Media",
+    "Ethics & Professional Practice",
+    "Exam Strategy",
+    "Past Papers & Open Textbooks"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Definition, Scope & Four Fields of Anthropology",
+      "content": "Define anthropology; distinguish from sociology, political science, economics. Outline four fields (cultural, biological, linguistic, archaeology) and integrative holism. Map recurring exam asks (2016–19; 2021–24) on definition/scope/relations with other social sciences.",
+      "keyTakeaways": [
+        "Use clear, exam-ready definitions and contrasts.",
+        "Show how the four fields interrelate (e.g., biocultural).",
+        "Cite contemporary applications in policy and development."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Introduction to Anthropology",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-introduction",
+          "type": "textbook",
+          "description": "Free, peer-reviewed overview (four-field approach)"
+        },
+        {
+          "title": "OpenStax — Index",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/index",
+          "type": "textbook",
+          "description": "Quick navigation to core chapters"
+        },
+        {
+          "title": "Perspectives: An Open Invitation to Cultural Anthropology (2nd Ed.)",
+          "url": "https://perspectives.americananthro.org/",
+          "type": "textbook",
+          "description": "Open-access cultural anthropology text"
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Scope",
+      "topics": ["Definition", "Branches", "Interdisciplinarity"]
+    },
+    {
+      "id": "2",
+      "title": "Culture: Concepts, Characteristics & Adaptive/Maladaptive Change",
+      "content": "Define culture as learned, shared, symbolic; discuss integration, dynamism, adaptation vs. maladaptation; link to enculturation and cognition (2020–24 repeats).",
+      "keyTakeaways": [
+        "Use examples of adaptive/maladaptive traits.",
+        "Connect enculturation and cognitive schemas.",
+        "Prepare short notes on culture's attributes."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Cross-Cultural Comparison & Cultural Relativism",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-6-cross-cultural-comparison-and-cultural-relativism",
+          "type": "textbook",
+          "description": "Relativism, comparison, bias"
+        }
+      ],
+      "importance": "high",
+      "category": "Culture, Ethnocentrism & Relativism",
+      "topics": ["Culture", "Enculturation", "Adaptation"]
+    },
+    {
+      "id": "3",
+      "title": "Ethnocentrism vs. Cultural Relativism",
+      "content": "Define ethnocentrism and cultural relativism; show methodological use (suspending judgment) vs. ethical debates. Frequent short notes (2016, 2022–23).",
+      "keyTakeaways": [
+        "Differentiate methodological vs. moral relativism.",
+        "Use Miner's 'Nacirema' to demonstrate defamiliarization.",
+        "Anchor Boas's role in introducing relativism."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ethnocentrism",
+          "url": "https://www.britannica.com/topic/ethnocentrism",
+          "type": "reference",
+          "description": "Authoritative definition"
+        },
+        {
+          "title": "Britannica — Cultural Relativism",
+          "url": "https://www.britannica.com/topic/cultural-relativism",
+          "type": "reference",
+          "description": "Origins & debates"
+        },
+        {
+          "title": "Horace Miner — Body Ritual among the Nacirema (PDF)",
+          "url": "https://www.sfu.ca/~palys/Miner-1956-BodyRitualAmongTheNacirema.pdf",
+          "type": "article-pdf",
+          "description": "Classic exam example"
+        }
+      ],
+      "importance": "high",
+      "category": "Culture, Ethnocentrism & Relativism",
+      "topics": ["Ethnocentrism", "Relativism", "Nacirema"]
+    },
+    {
+      "id": "4",
+      "title": "Religion & Evolution: Tylor's Animism and Beyond",
+      "content": "Explain Tylor's definition of religion and animism; outline evolutionary sequence; contrast with Durkheim, Geertz's interpretive approach. Recurs almost annually.",
+      "keyTakeaways": [
+        "Define animism succinctly; cite Tylor.",
+        "Compare evolutionary vs. functional/interpretive theories.",
+        "Apply to 'primitive religion' and contemporary belief."
+      ],
+      "resources": [
+        {
+          "title": "Tylor — Primitive Culture (full text)",
+          "url": "https://darwin-online.org.uk/converted/pdf/1871_Tylor_PrimitiveCulture_CUL-DAR.LIB.635.pdf",
+          "type": "book-pdf",
+          "description": "Primary source"
+        },
+        {
+          "title": "Cambridge — Animism (Primitive Culture, Ch. XI)",
+          "url": "https://www.cambridge.org/core/books/primitive-culture/animism/89D2645DF91BECCD12E2938EB18E2223",
+          "type": "chapter",
+          "description": "Scholarly edition"
+        },
+        {
+          "title": "Geertz — Thick Description (essay)",
+          "url": "https://people.ucsc.edu/~ktellez/geertz1973.pdf",
+          "type": "article-pdf",
+          "description": "Interpretive theory of culture"
+        }
+      ],
+      "importance": "high",
+      "category": "Religion & Belief Systems",
+      "topics": ["Tylor", "Animism", "Interpretive Anthropology"]
+    },
+    {
+      "id": "5",
+      "title": "Social Change & Applied Anthropology",
+      "content": "Map barriers to change, diffusion, acculturation; outline applied anthropology in health, development, urban issues; link to Pakistan's social problems.",
+      "keyTakeaways": [
+        "Contrast planned vs. unplanned change.",
+        "Use caselets from development/health programs.",
+        "Explain anthropologist's role in policy design."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Why Anthropology Matters",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/20-2-why-anthropology-matters",
+          "type": "textbook",
+          "description": "Applications; Boasian legacy"
+        },
+        {
+          "title": "Perspectives — Fieldwork & Applied Chapters (PDF)",
+          "url": "https://perspectives.americananthro.org/Chapters/Perspectives.pdf",
+          "type": "textbook-pdf",
+          "description": "Chs. on development & practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Social Change & Applied Anthropology",
+      "topics": ["Diffusion", "Acculturation", "Development"]
+    },
+    {
+      "id": "6",
+      "title": "Research Design: Qualitative vs. Quantitative; Objectivity vs. Subjectivity",
+      "content": "Compare methods; operationalize concepts; discuss reflexivity, positionality and epistemological debates. Frequent 2016–24.",
+      "keyTakeaways": [
+        "Define technique vs. method vs. methodology.",
+        "Show mixed-methods triangulation.",
+        "Use 'thick description' as model of interpretive rigor."
+      ],
+      "resources": [
+        {
+          "title": "Jorgensen — Participant Observation (book/open PDF)",
+          "url": "https://jan.ucc.nau.edu/~pms/cj355/readings/jorgensen.pdf",
+          "type": "book-pdf",
+          "description": "Classic guide"
+        },
+        {
+          "title": "DeWalt & DeWalt — Participant Observation (guide)",
+          "url": "https://studieinfo.liu.se/download/coursedocument/83bb9722-92ca-4341-bafd-ccd4537efe22/De%20Walt%20and%20De%20Walt%202002.pdf",
+          "type": "book-pdf",
+          "description": "Fieldworker handbook"
+        },
+        {
+          "title": "OpenStax — Research Strategies",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-introduction",
+          "type": "textbook",
+          "description": "Sections on research & bias"
+        }
+      ],
+      "importance": "high",
+      "category": "Research Methods & Epistemology",
+      "topics": ["Qualitative/Quantitative", "PO", "Reflexivity"]
+    },
+    {
+      "id": "7",
+      "title": "Kinship Basics: Descent, Residence & Terminologies",
+      "content": "Define consanguine/affine, unilineal vs. bilateral descent, patrilineal/matrilineal, residence patterns (virilocal/uxorilocal), lineage vs. clan; connect to politics and property.",
+      "keyTakeaways": [
+        "Draw quick kinship charts for exam.",
+        "Explain links to inheritance and alliance.",
+        "Use Pakistan examples (biradari)."
+      ],
+      "resources": [
+        {
+          "title": "ResearchGate — Biradari/Panchayat (Pakistan study)",
+          "url": "https://www.researchgate.net/publication/262920109_Perception_of_Local_Community_and_Biradari_on_Panchayat_An_Exploratory_Anthropological_Study_of_Biradari_in_Village_Saroki_District_Gujranwala_Pakistan.pdf",
+          "type": "paper-pdf",
+          "description": "Village-level kinship dynamics"
+        },
+        {
+          "title": "ScienceDirect — Consanguineous Marriage in Rural Pakistan (abstract)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0277539515300418",
+          "type": "paper",
+          "description": "Kinship & marriage patterns"
+        }
+      ],
+      "importance": "high",
+      "category": "Kinship, Family & Marriage",
+      "topics": ["Descent", "Residence", "Biradari", "Consanguinity"]
+    },
+    {
+      "id": "8",
+      "title": "Family & Marriage Systems",
+      "content": "Types of family (nuclear/joint/extended); marital forms (monogamy, polygyny, polyandry); levirate/sororate; functions (manifest/latent).",
+      "keyTakeaways": [
+        "Link residence to authority and inheritance.",
+        "Use Islamic law context in Pakistan where relevant.",
+        "Prepare definitions for MCQs."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Social Institutions (family sections across chapters)",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/index",
+          "type": "textbook",
+          "description": "Functional views & examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Kinship, Family & Marriage",
+      "topics": ["Family Types", "Marriage Systems", "Functions"]
+    },
+    {
+      "id": "9",
+      "title": "Economic Anthropology: Reciprocity, Redistribution & Markets",
+      "content": "Trace exchange forms (Polanyi) and reciprocity types (Sahlins): generalized, balanced, negative; situate 'original affluent society' debate.",
+      "keyTakeaways": [
+        "Define each exchange form with examples.",
+        "Relate to social integration and inequality.",
+        "Connect to contemporary debates on markets vs. social protection."
+      ],
+      "resources": [
+        {
+          "title": "Polanyi — The Great Transformation (PDF)",
+          "url": "https://economicsociology.org/wp-content/uploads/2014/12/the-great-transformation-pdf-free.pdf",
+          "type": "book-pdf",
+          "description": "Foundational text"
+        },
+        {
+          "title": "Sahlins — Stone Age Economics (PDF)",
+          "url": "https://files.libcom.org/files/Sahlins%20-%20Stone%20Age%20Economics.pdf",
+          "type": "book-pdf",
+          "description": "Reciprocity typology"
+        },
+        {
+          "title": "Trade & Market in the Early Empires (Polanyi et al.)",
+          "url": "https://e-tcs.org/wp-content/uploads/2016/05/Karl-Polanyi-Conrad-M.-Arensberg-and-Harry-W.-Pearson-editors-Trade-and-Market-in-the-Early-Empires.pdf",
+          "type": "book-pdf",
+          "description": "Substantivist framework"
+        }
+      ],
+      "importance": "high",
+      "category": "Economic Anthropology",
+      "topics": ["Reciprocity", "Redistribution", "Market", "Affluence Debate"]
+    },
+    {
+      "id": "10",
+      "title": "Political Organization: Bands, Tribes, Chiefdoms, States; Conflict & Stratification",
+      "content": "Classify political forms; outline internal vs. external conflict theories; discuss stratification and mobility; connect to Pakistan's patronage and kinship politics.",
+      "keyTakeaways": [
+        "Use cross-cultural typology with features (scale, leadership, law).",
+        "Explain conflict theories (Marx; internal/external).",
+        "Give examples from South Asia."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Politics & Social Organization (chapters)",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/index",
+          "type": "textbook",
+          "description": "Political forms overview"
+        },
+        {
+          "title": "Britannica — A.R. Radcliffe-Brown",
+          "url": "https://www.britannica.com/biography/A-R-Radcliffe-Brown",
+          "type": "reference",
+          "description": "Structural-functionalism context"
+        }
+      ],
+      "importance": "high",
+      "category": "Political Organization & Stratification",
+      "topics": ["Bands–States", "Conflict", "Stratification"]
+    },
+    {
+      "id": "11",
+      "title": "Symbols, Meaning & Interpretation",
+      "content": "Explain symbol systems; Geertz's interpretive anthropology; thick description as analytic method; use rituals and meaning-making examples.",
+      "keyTakeaways": [
+        "Define 'thick description' and apply to caselets.",
+        "Contrast with materialist and functionalist readings.",
+        "Useful for essay questions on meaning and culture."
+      ],
+      "resources": [
+        {
+          "title": "Geertz — Thick Description (PDF)",
+          "url": "https://people.ucsc.edu/~ktellez/geertz1973.pdf",
+          "type": "article-pdf",
+          "description": "Core essay"
+        },
+        {
+          "title": "Geertz — The Interpretation of Cultures (full selection)",
+          "url": "https://cdn.angkordatabase.asia/libs/docs/clifford-geertz-the-interpretation-of-cultures.pdf",
+          "type": "book-pdf",
+          "description": "Collected essays"
+        }
+      ],
+      "importance": "high",
+      "category": "Language, Symbols & Meaning",
+      "topics": ["Symbols", "Thick Description", "Interpretation"]
+    },
+    {
+      "id": "12",
+      "title": "Health, Religion & Society",
+      "content": "Intersect belief, ritual and healing; supernatural causation models; anthropology of health behaviors and programs.",
+      "keyTakeaways": [
+        "Use culturally informed health program examples.",
+        "Tie to COVID-19 and risk perception (2021 exams).",
+        "Bridge religion and medical systems."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Religion & Health sections",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/index",
+          "type": "textbook",
+          "description": "Accessible discussion"
+        }
+      ],
+      "importance": "medium",
+      "category": "Anthropology of Health & Pandemics",
+      "topics": ["Belief", "Healing", "Pandemics"]
+    },
+    {
+      "id": "13",
+      "title": "Contemporary Pakistan: Kinship, Politics & Development",
+      "content": "Analyze biradari as social capital, political alignment and welfare/access mechanism; link to development interventions and governance.",
+      "keyTakeaways": [
+        "Cite empirical studies on biradari and Panchayat.",
+        "Discuss pros/cons for service delivery and rights.",
+        "Relate to stratification and state capacity."
+      ],
+      "resources": [
+        {
+          "title": "Study — Biradari & Panchayat (Saroki, Gujranwala)",
+          "url": "https://www.scirp.org/journal/paperinformation?paperid=46091",
+          "type": "paper",
+          "description": "Community roles & dispute resolution"
+        },
+        {
+          "title": "EU Academic — Biradari & Voting Behavior",
+          "url": "https://euacademic.org/UploadArticle/1067.pdf",
+          "type": "paper-pdf",
+          "description": "Elections & kinship effects"
+        },
+        {
+          "title": "Recent analysis — Kinship & social interventions",
+          "url": "https://www.researchgate.net/publication/366353347_THE_INFLUENCE_OF_FAMILY_AND_KINSHIP-BASED_PRACTICES_ON_SOCIAL_INTERVENTIONS_AN_ANALYSIS_OF_BARADARI_SYSTEM_IN_PAKISTAN",
+          "type": "paper",
+          "description": "2024–25 discussions"
+        }
+      ],
+      "importance": "high",
+      "category": "Contemporary Pakistan — Culture & Society",
+      "topics": ["Biradari", "Patronage", "Development"]
+    },
+    {
+      "id": "14",
+      "title": "Research Techniques: Participant Observation, Interviews, Ethics & Fieldnotes",
+      "content": "Operational steps for PO; combining with interviews, mapping, documents; fieldnote discipline; consent and confidentiality protocols.",
+      "keyTakeaways": [
+        "Write structured, time-stamped fieldnotes.",
+        "Use triangulation and iterative sampling.",
+        "Align with AAA ethics and local IRB norms."
+      ],
+      "resources": [
+        {
+          "title": "Jorgensen — Participant Observation (book)",
+          "url": "https://jan.ucc.nau.edu/~pms/cj355/readings/jorgensen.pdf",
+          "type": "book-pdf",
+          "description": "Foundational manual"
+        },
+        {
+          "title": "Duke/Univ. guide — Participant Observation",
+          "url": "https://www.sjsu.edu/people/fred.prochaska/courses/ScWk242Spring2013/s2/Duke-University-Participant--Observation-Field-Guide.pdf",
+          "type": "guide-pdf",
+          "description": "Practical tips & ethics"
+        },
+        {
+          "title": "Perspectives — Doing Fieldwork (PDF chapter)",
+          "url": "https://perspectives.americananthro.org/Chapters/Fieldwork.pdf",
+          "type": "chapter-pdf",
+          "description": "Open textbook chapter"
+        }
+      ],
+      "importance": "high",
+      "category": "Research Methods & Epistemology",
+      "topics": ["Participant Observation", "Fieldnotes", "Consent"]
+    },
+    {
+      "id": "15",
+      "title": "Classic Theorists: Morgan, Tylor, Radcliffe-Brown, Boas",
+      "content": "Short profiles and exam-oriented contrasts: unilineal evolution (Morgan/Tylor) vs. historical particularism (Boas) vs. structural-functionalism (Radcliffe-Brown).",
+      "keyTakeaways": [
+        "Define each paradigm and critique briefly.",
+        "Use one concise example per theorist.",
+        "Update with post-Boasian developments."
+      ],
+      "resources": [
+        {
+          "title": "Radcliffe-Brown (overview)",
+          "url": "https://www.britannica.com/biography/A-R-Radcliffe-Brown",
+          "type": "reference",
+          "description": "Structural-functionalism"
+        },
+        {
+          "title": "Tylor — Primitive Culture",
+          "url": "https://darwin-online.org.uk/converted/pdf/1871_Tylor_PrimitiveCulture_CUL-DAR.LIB.635.pdf",
+          "type": "book-pdf",
+          "description": "Primary text"
+        }
+      ],
+      "importance": "high",
+      "category": "Theory & Theorists",
+      "topics": ["Evolutionism", "Particularism", "Functionalism"]
+    },
+    {
+      "id": "16",
+      "title": "20th-Century Turns: Cultural Materialism, Interpretivism, Feminist & Cognitive",
+      "content": "Contrast Harris's cultural materialism (infrastructure → structure → superstructure) with Geertz's interpretivism; note feminist and cognitive approaches.",
+      "keyTakeaways": [
+        "Be able to apply both materialist and interpretive lenses to a case.",
+        "Use concise definitions and one Pakistan example.",
+        "Flag exam MCQs on 'cultural materialism' (2024)."
+      ],
+      "resources": [
+        {
+          "title": "UA Theory — Cultural Materialism",
+          "url": "https://anthropology.ua.edu/theory/cultural-materialism/",
+          "type": "article",
+          "description": "Concise overview"
+        },
+        {
+          "title": "Geertz — Thick Description",
+          "url": "https://philpapers.org/archive/geettd.pdf",
+          "type": "article-pdf",
+          "description": "Accessible PDF version"
+        }
+      ],
+      "importance": "high",
+      "category": "Theory & Theorists",
+      "topics": ["Harris", "Geertz", "Feminist/Cognitive"]
+    },
+    {
+      "id": "17",
+      "title": "Data Sources & Comparative Methods",
+      "content": "Use eHRAF for cross-cultural searches; code variables; run focused comparisons; beware of equivalence and context.",
+      "keyTakeaways": [
+        "Code cases consistently; define operational categories.",
+        "Combine ethnography with secondary data.",
+        "Document search strings and inclusion criteria."
+      ],
+      "resources": [
+        {
+          "title": "eHRAF World Cultures — Overview",
+          "url": "https://hraf.yale.edu/products/ehraf-world-cultures/",
+          "type": "portal",
+          "description": "Cross-cultural database"
+        },
+        {
+          "title": "eHRAF Platform",
+          "url": "https://ehrafworldcultures.yale.edu/",
+          "type": "database",
+          "description": "Search interface & tutorials"
+        }
+      ],
+      "importance": "medium",
+      "category": "Data, Indicators & Monitoring",
+      "topics": ["eHRAF", "Cross-Cultural", "Comparative Method"]
+    },
+    {
+      "id": "18",
+      "title": "Ethics & Professional Conduct",
+      "content": "Core ethical principles: do no harm, informed consent, transparency, data protection, reciprocity; conflicts of interest and community obligations.",
+      "keyTakeaways": [
+        "Align field practice with AAA ethics.",
+        "Plan consent and anonymization upfront.",
+        "Reflect on positionality and benefit sharing."
+      ],
+      "resources": [
+        {
+          "title": "AAA — Anthropological Ethics (site)",
+          "url": "https://americananthro.org/about/anthropological-ethics/",
+          "type": "portal",
+          "description": "Guidance & resources"
+        },
+        {
+          "title": "AAA — Code of Ethics (PDF)",
+          "url": "https://americananthro.org/wp-content/uploads/ethicscode-1.pdf",
+          "type": "policy-pdf",
+          "description": "Principles of Professional Responsibility"
+        }
+      ],
+      "importance": "high",
+      "category": "Ethics & Professional Practice",
+      "topics": ["Consent", "Do No Harm", "Data Ethics"]
+    },
+    {
+      "id": "19",
+      "title": "Exam Strategy: Repeating Patterns (2016–2019; 2020–2024)",
+      "content": "Prioritize high-frequency topics: religion (Tylor), kinship systems, research methods, Pakistan social issues, cultural definitions; prepare short notes (ethnocentrism, relativism, participant observation, sororate/virilocal).",
+      "keyTakeaways": [
+        "Build 1-page templates for common 20-markers.",
+        "Memorize 10–12 crisp definitions for MCQs.",
+        "Include one Pakistan example per essay."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax & Perspectives (for definitional quotes)",
+          "url": "https://openstax.org/books/introduction-anthropology/pages/1-introduction",
+          "type": "textbook",
+          "description": "Reusable definitions"
+        },
+        {
+          "title": "Miner — Nacirema (for ethnocentrism/relativism)",
+          "url": "https://ericmazur.net/wp-content/uploads/2020/08/Miner-Nacirema.pdf",
+          "type": "article-pdf",
+          "description": "Classic short note source"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy",
+      "topics": ["Patterns", "Short Notes", "Pakistan Examples"]
+    },
+    {
+      "id": "20",
+      "title": "Core Readers & Open Textbooks (Keep-on-Desk)",
+      "content": "Maintain a small shelf of freely accessible, exam-relevant texts for quick revision and citations.",
+      "keyTakeaways": [
+        "Cite primary texts where possible (Tylor, Geertz, Polanyi, Sahlins).",
+        "Use open textbooks for structure and definitions.",
+        "Keep PDFs offline for exam prep."
+      ],
+      "resources": [
+        {
+          "title": "Perspectives (2nd Ed.) — full text hub",
+          "url": "https://open.umn.edu/opentextbooks/textbooks/464",
+          "type": "textbook",
+          "description": "Peer-reviewed cultural anthropology"
+        },
+        {
+          "title": "OpenStax — Introduction to Anthropology (full OER PDF)",
+          "url": "https://dlib.hust.edu.vn/bitstream/HUST/22815/1/OER000002017-1.pdf",
+          "type": "textbook-pdf",
+          "description": "Downloadable OER"
+        },
+        {
+          "title": "Ember & Ember — Anthropology (classic text, archive)",
+          "url": "https://archive.org/details/anthropology00embe_0",
+          "type": "book",
+          "description": "Reference coverage"
+        }
+      ],
+      "importance": "high",
+      "category": "Past Papers & Open Textbooks",
+      "topics": ["Readers", "Open Access", "Primary Sources"]
+    }
+  ]
+}

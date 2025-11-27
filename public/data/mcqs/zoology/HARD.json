@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:33:16.833Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "3151a9d1c219914117c68085c8f782cffab5bd53",
+      "sectionIndex": 0,
+      "question": "The evolutionary transition from diploblastic to triploblastic organization enabled:",
+      "options": [
+        "A) Radial symmetry",
+        "B) Complex organ systems through mesoderm",
+        "C) Simpler body plans",
+        "D) Loss of coelom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcba84c0ba1004e0fa7c41c6a441c6bea13a2b3b",
+      "sectionIndex": 0,
+      "question": "Sycon's canal system represents an intermediate complexity because:",
+      "options": [
+        "A) It has more choanocytes than leucon",
+        "B) Folded body wall increases surface area while maintaining simple structure",
+        "C) It's the most primitive type",
+        "D) Water flow is unidirectional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c272b57dc2841e9fdd94edc940777fa0c7323dd2",
+      "sectionIndex": 0,
+      "question": "The nematocyst discharge mechanism involves:",
+      "options": [
+        "A) Simple mechanical trigger",
+        "B) Osmotic pressure change and calcium-mediated exocytosis",
+        "C) Voluntary muscle control",
+        "D) Temperature activation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34ec3830817928d14cba02066ea68765f85c235b",
+      "sectionIndex": 0,
+      "question": "Platyhelminthes' lack of specialized respiratory system is compensated by:",
+      "options": [
+        "A) Thick body wall",
+        "B) High surface area to volume ratio and flat body",
+        "C) Reduced metabolic rate only",
+        "D) Cutaneous gills"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96e41e61add47007885388e9cbb2e0f44fe20066",
+      "sectionIndex": 0,
+      "question": "The tagmatization in arthropods differs from metamerism in annelids by:",
+      "options": [
+        "A) Being less specialized",
+        "B) Functional specialization of fused segments",
+        "C) Complete independence of segments",
+        "D) No actual difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39fc46ff8254407f091da392392c63aa3bafe76b",
+      "sectionIndex": 0,
+      "question": "Molluscan torsion's evolutionary advantage despite fouling problem:",
+      "options": [
+        "A) No real advantage",
+        "B) Protection of head and better water sampling",
+        "C) Faster movement only",
+        "D) Symmetrical development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f353a7356b41ac12f15a92a8b6bdb2e6b534fdc4",
+      "sectionIndex": 0,
+      "question": "The water vascular system's madreporite functions as:",
+      "options": [
+        "A) Simple opening",
+        "B) Pressure regulator preventing system overload",
+        "C) Excretory pore",
+        "D) Reproductive opening"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44bd3f6f9a1a56750c456f5f71becfec9cdb578a",
+      "sectionIndex": 0,
+      "question": "Arthropod success correlates with cuticle composition allowing:",
+      "options": [
+        "A) Unlimited growth",
+        "B) Strength with flexibility through sclerotization patterns",
+        "C) Permanent size",
+        "D) Water permeability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef42a02b0acf89073e5aca6f1addbf5275f477cd",
+      "sectionIndex": 0,
+      "question": "The transition from protostome to deuterostome development represents:",
+      "options": [
+        "A) Random variation",
+        "B) Fundamental reorganization of embryonic development",
+        "C) Minor change",
+        "D) Degeneration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f3caf7860d51d1b23d7d0381de4a5c0e4b2d7de",
+      "sectionIndex": 0,
+      "question": "Cephalopod intelligence evolution was driven by:",
+      "options": [
+        "A) Loss of shell protection",
+        "B) Competition with vertebrates in pelagic environments",
+        "C) Random mutation",
+        "D) Larger body size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69f4d355ff73d3aba1c755dccb6284edc5e5ba97",
+      "sectionIndex": 1,
+      "question": "The neural crest's designation as \"fourth germ layer\" reflects its:",
+      "options": [
+        "A) Late discovery",
+        "B) Unique derivatives forming vertebrate innovations",
+        "C) Small contribution",
+        "D) Ectodermal origin only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b2fbb23961c8482c33aaf251e0afbbe33a082c1",
+      "sectionIndex": 1,
+      "question": "Hemichordates' phylogenetic position elucidates:",
+      "options": [
+        "A) Their primitive nature",
+        "B) Deuterostome ancestry of chordates",
+        "C) Convergent evolution",
+        "D) Misclassification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22839cc36645d47400128b048d865bb8bb173aa0",
+      "sectionIndex": 1,
+      "question": "The evolution of jaws from gill arches demonstrates:",
+      "options": [
+        "A) New structure appearance",
+        "B) Exaptation and functional transformation",
+        "C) Gradual size increase",
+        "D) Divine creation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "395beb623db74259730c8d2b73119058bbdd89e9",
+      "sectionIndex": 1,
+      "question": "Secondary palate evolution in mammals enabled:",
+      "options": [
+        "A) Better taste",
+        "B) Simultaneous breathing and feeding",
+        "C) Stronger bite only",
+        "D) Speech in humans only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86da5ec44c80fdf2f615ef2e2eaf84b8785392b0",
+      "sectionIndex": 1,
+      "question": "The synapsid temporal fenestra arrangement led to:",
+      "options": [
+        "A) Weaker skull",
+        "B) Enhanced jaw musculature attachment",
+        "C) Better vision",
+        "D) No functional advantage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab35a7f6d6f85244ce662a2a42a667a9ddf0b174",
+      "sectionIndex": 1,
+      "question": "Avian air sac system provides:",
+      "options": [
+        "A) Extra oxygen storage",
+        "B) Unidirectional flow and efficient gas exchange",
+        "C) Buoyancy only",
+        "D) Sound production only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a3993a09abe63046f4265d97b58b116b8b1115c",
+      "sectionIndex": 1,
+      "question": "Mammalian placental diversity reflects:",
+      "options": [
+        "A) Random variation",
+        "B) Optimization for different gestational strategies",
+        "C) No functional significance",
+        "D) Maternal nutrition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5597dae78a4933d3a7604f65d758dde82f2a68f",
+      "sectionIndex": 1,
+      "question": "The transition from sprawling to upright posture involved:",
+      "options": [
+        "A) Simple rotation",
+        "B) Complex skeletal and muscular reorganization",
+        "C) Size increase only",
+        "D) Environmental pressure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fe8543c117f294d7d902f52c6d334f3b408184c",
+      "sectionIndex": 1,
+      "question": "Echolocation convergence in bats and dolphins demonstrates:",
+      "options": [
+        "A) Common ancestry",
+        "B) Similar selective pressures producing analogous solutions",
+        "C) Identical mechanisms",
+        "D) No real similarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f730ef1bb8e2897e92d73c6df01ec03c268613a",
+      "sectionIndex": 1,
+      "question": "The mammalian middle ear bones' origin from jaw elements illustrates:",
+      "options": [
+        "A) Replacement",
+        "B) Evolutionary co-option and miniaturization",
+        "C) Independent development",
+        "D) Degeneration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60efbe88584024ec6a46b8063bb2befebbe9d508",
+      "sectionIndex": 2,
+      "question": "Endosymbiotic theory's strongest evidence includes:",
+      "options": [
+        "A) Size similarity only",
+        "B) Double membranes, DNA, and ribosomes",
+        "C) Color matching",
+        "D) Speculation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76e93a3d10215151b853cec365c642f5bd679c02",
+      "sectionIndex": 2,
+      "question": "The unfolded protein response in ER stress:",
+      "options": [
+        "A) Always causes cell death",
+        "B) Attempts restoration before triggering apoptosis",
+        "C) Has no effect",
+        "D) Only increases protein production"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "758d70c74c580cf5cddea3850cbdc0d577452b6b",
+      "sectionIndex": 2,
+      "question": "Epigenetic inheritance challenges traditional genetics by:",
+      "options": [
+        "A) Disproving DNA",
+        "B) Transmitting phenotypes without DNA sequence changes",
+        "C) Being temporary only",
+        "D) Not being real"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "573645f89b3c846330454d760823df8b3acca0e3",
+      "sectionIndex": 2,
+      "question": "Prion diseases demonstrate that:",
+      "options": [
+        "A) All diseases need nucleic acids",
+        "B) Protein conformation alone can be infectious",
+        "C) Proteins can't cause disease",
+        "D) Only viruses cause disease"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6ae0f34186a911d3e0f10eafd36dea7d4e9b795",
+      "sectionIndex": 2,
+      "question": "Cell polarity establishment involves:",
+      "options": [
+        "A) Random organization",
+        "B) PAR proteins and cytoskeletal reorganization",
+        "C) External factors only",
+        "D) Nuclear position only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "849d24cc37187c60ab95edb346bd73ff6816926f",
+      "sectionIndex": 2,
+      "question": "The Warburg effect in cancer cells represents:",
+      "options": [
+        "A) Efficient metabolism",
+        "B) Aerobic glycolysis despite oxygen availability",
+        "C) Normal respiration",
+        "D) Decreased metabolism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05de8da8cb662cb0fdbca51c0090dce3a5c9b1ed",
+      "sectionIndex": 2,
+      "question": "Horizontal gene transfer's role in evolution:",
+      "options": [
+        "A) Negligible in eukaryotes",
+        "B) Significant in prokaryote evolution and some eukaryotes",
+        "C) Disproves evolution",
+        "D) Only in laboratory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1a592b655f082b7861aa5a6a588f4eb2358711a",
+      "sectionIndex": 2,
+      "question": "Telomerase activity patterns correlate with:",
+      "options": [
+        "A) Cell color",
+        "B) Replicative potential and cancer risk",
+        "C) Cell size only",
+        "D) No biological significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f14471cd54f27810cedefdc1c39217ba2f9aaa1d",
+      "sectionIndex": 2,
+      "question": "RNA interference mechanisms evolved for:",
+      "options": [
+        "A) Protein synthesis",
+        "B) Gene regulation and viral defense",
+        "C) Energy production",
+        "D) No function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "341e9d2c158730cf137ac9b97fc12c697e62bd53",
+      "sectionIndex": 2,
+      "question": "Autophagy's dual role involves:",
+      "options": [
+        "A) Only cell death",
+        "B) Survival mechanism and programmed death",
+        "C) No real function",
+        "D) Protein synthesis only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e4dd61ecd519c72011fa352b9c61e4e57d54ebe",
+      "sectionIndex": 3,
+      "question": "C-value paradox resolution involves understanding:",
+      "options": [
+        "A) Measurement errors",
+        "B) Non-coding DNA functions and genome organization",
+        "C) All DNA codes for proteins",
+        "D) Organism complexity equals genome size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eab4680fa6942670d1913334d7eff65faf0df812",
+      "sectionIndex": 3,
+      "question": "Hox gene conservation across phyla indicates:",
+      "options": [
+        "A) No evolution occurred",
+        "B) Deep homology in body plan organization",
+        "C) Recent common ancestry only",
+        "D) Convergent evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c92b17cdeb210b36cfc183e182e92661c2845324",
+      "sectionIndex": 3,
+      "question": "Genomic imprinting violates Mendelian genetics by:",
+      "options": [
+        "A) Not involving DNA",
+        "B) Parent-of-origin-specific expression",
+        "C) Following Mendel exactly",
+        "D) Random expression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "380d1daf6768c54e70f5778865e0b2bc2509d128",
+      "sectionIndex": 3,
+      "question": "The Red Queen hypothesis explains:",
+      "options": [
+        "A) Royal genetics",
+        "B) Constant evolutionary pressure in coevolution",
+        "C) Sexual reproduction disadvantage",
+        "D) Static evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2c0e015e5f5dd0e34755a5603c46d4900c27ebd",
+      "sectionIndex": 3,
+      "question": "Genetic drift's role in molecular evolution:",
+      "options": [
+        "A) Always harmful",
+        "B) Neutral theory and molecular clock calibration",
+        "C) No effect",
+        "D) Only in small populations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf76a4969362f9f94f77cafee79a3fda52eead1f",
+      "sectionIndex": 3,
+      "question": "Sympatric speciation mechanisms include:",
+      "options": [
+        "A) Geographic isolation only",
+        "B) Polyploidy and assortative mating",
+        "C) Impossible occurrence",
+        "D) Only in plants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b4a5ab8e74b3fb3d5dc15cf5ad3310f8964b32f",
+      "sectionIndex": 3,
+      "question": "The evolution of sex remains paradoxical because:",
+      "options": [
+        "A) It's not paradoxical",
+        "B) Two-fold cost versus genetic variation benefits",
+        "C) No benefits exist",
+        "D) Only disadvantages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bf34ed6b75be194dd8b9e7abab712fa79dd5e67",
+      "sectionIndex": 3,
+      "question": "Epistasis complicates genetic analysis by:",
+      "options": [
+        "A) Simple interaction",
+        "B) Non-additive gene interactions affecting phenotypes",
+        "C) No real effect",
+        "D) Only in rare cases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff29b770d66c065085410ff2fcb6ee4e24169705",
+      "sectionIndex": 3,
+      "question": "The neutral theory challenged selectionism by proposing:",
+      "options": [
+        "A) All mutations beneficial",
+        "B) Most molecular evolution is neutral drift",
+        "C) Strong selection always",
+        "D) No evolution occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff17c8c62bfda4786791ea25c94842e06fe634d8",
+      "sectionIndex": 3,
+      "question": "Evo-devo findings revolutionized understanding through:",
+      "options": [
+        "A) Disproving evolution",
+        "B) Showing development's role in evolutionary innovation",
+        "C) Separate fields",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91141de4601b6e578d9d9ec3a573a3f1b4789c2e",
+      "sectionIndex": 4,
+      "question": "Countercurrent multiplication in loop of Henle creates:",
+      "options": [
+        "A) Simple gradient",
+        "B) Exponential concentration gradient through active transport",
+        "C) No gradient",
+        "D) Random concentrations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db1911c87a934e6153784f81d8d116efa86eb425",
+      "sectionIndex": 4,
+      "question": "Bohr and Haldane effects represent:",
+      "options": [
+        "A) Independent phenomena",
+        "B) Reciprocal gas transport optimization mechanisms",
+        "C) Historical artifacts",
+        "D) Pathological conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52bb2f5c52041c24cc3f929f3794bbc501d14775",
+      "sectionIndex": 4,
+      "question": "Atrial natriuretic peptide opposes:",
+      "options": [
+        "A) All hormones",
+        "B) Renin-angiotensin-aldosterone system",
+        "C) Growth hormone",
+        "D) Thyroid hormone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5e276d6b7c7ff1b0a51172ca1c1d0c6631a663a",
+      "sectionIndex": 4,
+      "question": "Brown adipose tissue thermogenesis involves:",
+      "options": [
+        "A) Shivering",
+        "B) Uncoupled oxidative phosphorylation",
+        "C) Exercise only",
+        "D) No special mechanism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acc2a762c3247c528879d6840dfd2ada6be96eec",
+      "sectionIndex": 4,
+      "question": "The diving reflex demonstrates:",
+      "options": [
+        "A) Simple breath holding",
+        "B) Integrated cardiovascular and metabolic adaptations",
+        "C) Lung size increase",
+        "D) No physiological changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "568dc2f65d4fb0f15d95a7855279b1f1a5bae111",
+      "sectionIndex": 4,
+      "question": "Cytochrome P450 enzymes' polymorphisms affect:",
+      "options": [
+        "A) Hair color only",
+        "B) Drug metabolism and toxicology",
+        "C) No clinical significance",
+        "D) Blood type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5bccebb9da718d098dc4d081b951a6e9e66a29b",
+      "sectionIndex": 4,
+      "question": "The blood-testis barrier exists to:",
+      "options": [
+        "A) Prevent blood flow",
+        "B) Protect developing gametes from immune system",
+        "C) No real function",
+        "D) Increase temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0cc2dc1653f9f43383bfa96374d8768e518f062",
+      "sectionIndex": 4,
+      "question": "Metabolic scaling laws (Kleiber's law) show:",
+      "options": [
+        "A) Linear scaling",
+        "B) 3/4 power scaling of metabolism with mass",
+        "C) No relationship",
+        "D) Inverse relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b553d82417ae7a0d61ed4922fcfd0150afbc4ab",
+      "sectionIndex": 4,
+      "question": "Circannual rhythms persist in constant conditions indicating:",
+      "options": [
+        "A) Environmental control only",
+        "B) Endogenous timing mechanisms",
+        "C) No real rhythms",
+        "D) Random behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e684a7b8b98b63d85850c8c694bde4a993d3a98",
+      "sectionIndex": 4,
+      "question": "Hypoxia-inducible factors mediate:",
+      "options": [
+        "A) Death only",
+        "B) Complex transcriptional response to oxygen availability",
+        "C) No response",
+        "D) Decreased metabolism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3292c49795fc172764c0945501babf8dd67eec7",
+      "sectionIndex": 5,
+      "question": "Ecological stoichiometry constraints on organisms involve:",
+      "options": [
+        "A) Energy only",
+        "B) Elemental balance affecting growth and interactions",
+        "C) No constraints",
+        "D) Temperature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0134af83fe803404248ca96dcc3dea4a6035e4c6",
+      "sectionIndex": 5,
+      "question": "Apparent competition differs from resource competition by:",
+      "options": [
+        "A) Same mechanism",
+        "B) Shared predator mediating negative interaction",
+        "C) No competition",
+        "D) Direct fighting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f82f44e43ccb7691950d1b5c91027b955af1f3c7",
+      "sectionIndex": 5,
+      "question": "The intermediate disturbance hypothesis predicts:",
+      "options": [
+        "A) Low diversity always",
+        "B) Peak diversity at moderate disturbance",
+        "C) High diversity with no disturbance",
+        "D) No effect on diversity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6819bc29d4ec9e6201c45dbeec4dedcb217617d",
+      "sectionIndex": 5,
+      "question": "Trophic cascade strength depends on:",
+      "options": [
+        "A) Number of species only",
+        "B) Food web complexity and productivity",
+        "C) Temperature only",
+        "D) Random factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed2071dba1fabc14d0f2fd58b3140cff317e95b1",
+      "sectionIndex": 5,
+      "question": "Metacommunity dynamics involve:",
+      "options": [
+        "A) Single populations",
+        "B) Connected populations with dispersal effects",
+        "C) No connectivity",
+        "D) Random assembly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c324c8db8cad9d6cca5aee7470de159079d363d9",
+      "sectionIndex": 5,
+      "question": "The paradox of enrichment suggests:",
+      "options": [
+        "A) More nutrients always better",
+        "B) Increased productivity can destabilize systems",
+        "C) No effect of nutrients",
+        "D) Linear response"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a0b01f7c486e44e3cbb20a178568287adcd29f7",
+      "sectionIndex": 5,
+      "question": "Evolutionary rescue from extinction requires:",
+      "options": [
+        "A) Divine intervention",
+        "B) Adaptive evolution outpacing environmental change",
+        "C) No evolution possible",
+        "D) Migration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7813a93a7644e085d809b0fb4b6389997b66e61c",
+      "sectionIndex": 5,
+      "question": "Ecological network robustness relates to:",
+      "options": [
+        "A) Species number only",
+        "B) Connectivity patterns and redundancy",
+        "C) Random structure",
+        "D) Size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eaf23f78eceaf0c310623e247b4142c10390f43",
+      "sectionIndex": 5,
+      "question": "Alternative stable states in ecosystems imply:",
+      "options": [
+        "A) Single equilibrium",
+        "B) Multiple equilibria with hysteresis",
+        "C) No stability",
+        "D) Constant change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36e9971d6f697a80efd967a27927c4115e4c37cd",
+      "sectionIndex": 5,
+      "question": "The storage effect promotes coexistence through:",
+      "options": [
+        "A) Resource storage",
+        "B) Temporal niche partitioning and dormancy",
+        "C) Competitive exclusion",
+        "D) No mechanism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "783daaaa950658be0d127861da2decfccf3d6aa1",
+      "sectionIndex": 6,
+      "question": "Allometric engineering in ants demonstrates:",
+      "options": [
+        "A) Random variation",
+        "B) Caste-specific developmental programs",
+        "C) No specialization",
+        "D) Environmental determination only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4fbec0e50e465e3016909b15c64ba92621c3410",
+      "sectionIndex": 6,
+      "question": "The evolution of eusociality requires:",
+      "options": [
+        "A) Large colonies only",
+        "B) Kin selection and ecological constraints",
+        "C) Random occurrence",
+        "D) No special conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "617e01bb4832ec35ea93782595397b606447d591",
+      "sectionIndex": 6,
+      "question": "Phenotypic plasticity versus genetic adaptation:",
+      "options": [
+        "A) Mutually exclusive",
+        "B) Complementary strategies for environmental variation",
+        "C) Same mechanism",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18ff0fef539e1c7d2b11f60c8e0c59506cd761ec",
+      "sectionIndex": 6,
+      "question": "The hologenome concept suggests:",
+      "options": [
+        "A) Single genome importance",
+        "B) Host-microbiome coevolution as unit",
+        "C) Microbes irrelevant",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e3228fd4ee71188f4daeae16f14f18584208899",
+      "sectionIndex": 6,
+      "question": "Transgenerational plasticity mechanisms include:",
+      "options": [
+        "A) DNA mutation only",
+        "B) Epigenetic, maternal effects, and symbionts",
+        "C) No inheritance",
+        "D) Random chance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0a115aed43579d4ce5e3cd6b2d8e4b0d895271e",
+      "sectionIndex": 6,
+      "question": "Niche construction theory emphasizes:",
+      "options": [
+        "A) Passive adaptation",
+        "B) Organisms modifying selective environments",
+        "C) No environmental modification",
+        "D) One-way selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2086513d1557eaede259c0d02d10dd592bfb775",
+      "sectionIndex": 6,
+      "question": "The evolution of modularity enables:",
+      "options": [
+        "A) Constraints only",
+        "B) Evolvability through quasi-independent units",
+        "C) No advantage",
+        "D) Reduced complexity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98ecab5a60abd6942bab84d8c4dc2abd58d71967",
+      "sectionIndex": 6,
+      "question": "Developmental system drift explains:",
+      "options": [
+        "A) Identical development",
+        "B) Conserved outcomes despite divergent mechanisms",
+        "C) No evolution",
+        "D) Random development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c620b6da644f0ad0c65419854ef700a92ebaa9f",
+      "sectionIndex": 6,
+      "question": "The Baldwin effect links:",
+      "options": [
+        "A) Nothing",
+        "B) Learning and genetic evolution",
+        "C) Unrelated phenomena",
+        "D) Disproves evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c29a3789436da866b1757658db07b6332cd9648",
+      "sectionIndex": 6,
+      "question": "Constructive neutral evolution proposes:",
+      "options": [
+        "A) All traits adaptive",
+        "B) Complexity through neutral ratchet mechanisms",
+        "C) No neutral evolution",
+        "D) Simplification only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e64539a7ebfe35106d49d4dd022d3553386e906",
+      "sectionIndex": 7,
+      "question": "The evolution from neurosecretion to classical endocrine systems shows:",
+      "options": [
+        "A) Complete separation",
+        "B) Continuum of signaling mechanisms",
+        "C) No relationship",
+        "D) Degeneration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af9da7ea1fe4c81cec4b45bca491cb4545fc9e1d",
+      "sectionIndex": 7,
+      "question": "Permissive hormone actions exemplified by thyroid-cortisol interaction:",
+      "options": [
+        "A) Direct causation",
+        "B) One hormone enabling another's effect",
+        "C) Antagonism only",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a083513173428459cb98aa637b59531aa09d5d6c",
+      "sectionIndex": 7,
+      "question": "The hypothalamic-pituitary-gonadal axis disruption by endocrine disruptors:",
+      "options": [
+        "A) No effect",
+        "B) Multiple level interference with feedback",
+        "C) Only direct gonadal effects",
+        "D) Beneficial effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31224f3172059952a1eb0c61b24400556f7596c5",
+      "sectionIndex": 7,
+      "question": "Leptin resistance in obesity paradoxically involves:",
+      "options": [
+        "A) Leptin deficiency",
+        "B) High leptin with impaired signaling",
+        "C) No leptin involvement",
+        "D) Increased sensitivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0bb0750526f513f8eb785b2c74190891b3a8d97",
+      "sectionIndex": 7,
+      "question": "Cross-talk between insulin and IGF signaling pathways:",
+      "options": [
+        "A) Complete independence",
+        "B) Shared receptors and metabolic integration",
+        "C) Antagonistic only",
+        "D) No overlap"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07275aec25121fe97aeeab037f3004f28b54626d",
+      "sectionIndex": 7,
+      "question": "The pineal gland's evolutionary transformation from photoreceptor:",
+      "options": [
+        "A) Complete function loss",
+        "B) Photoreceptor to endocrine transducer",
+        "C) No evolutionary change",
+        "D) Increased light sensitivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9004d945c6bb2d0e2fc8fe22bdd7827a6fae9b8",
+      "sectionIndex": 7,
+      "question": "Stress axis evolution shows conservation of:",
+      "options": [
+        "A) Exact hormones",
+        "B) General pattern with taxonomic variations",
+        "C) No conservation",
+        "D) Random systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be6c0a7322a3546d5ea610a295071bea0e29bae9",
+      "sectionIndex": 7,
+      "question": "Receptor promiscuity in steroid signaling allows:",
+      "options": [
+        "A) Reduced specificity",
+        "B) Evolutionary flexibility and cross-regulation",
+        "C) No advantage",
+        "D) Increased errors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22b52ded1db41bcbc84c9410c95faf8057f1b4a6",
+      "sectionIndex": 7,
+      "question": "The kisspeptin system's role in puberty was discovered through:",
+      "options": [
+        "A) Direct observation",
+        "B) Hypogonadotropic hypogonadism genetics",
+        "C) Random screening",
+        "D) No special method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83b0bb31614808dbdf6b590f3a7d2605a66eb782",
+      "sectionIndex": 7,
+      "question": "Hormone pulsatility's importance demonstrated by:",
+      "options": [
+        "A) Continuous levels better",
+        "B) GnRH pulse frequency encoding different signals",
+        "C) No importance",
+        "D) Random secretion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ce34f789708866d968b4c3e5b470c5206ba76d2",
+      "sectionIndex": 8,
+      "question": "High altitude adaptation in different populations shows:",
+      "options": [
+        "A) Identical mechanisms",
+        "B) Convergent phenotypes through different genetic routes",
+        "C) No adaptation",
+        "D) Single gene change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cefedb6685bb2fe560fd1d6769e487ffa00f388",
+      "sectionIndex": 8,
+      "question": "Cryptobiosis in tardigrades involves:",
+      "options": [
+        "A) Death and resurrection",
+        "B) Coordinated metabolic shutdown with protective mechanisms",
+        "C) Normal metabolism",
+        "D) Simple dehydration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f48f762f9e1973b69c91926aa980f0e6df4bc81",
+      "sectionIndex": 8,
+      "question": "Deep-sea gigantism theories include:",
+      "options": [
+        "A) More food availability",
+        "B) Kleiber's rule, temperature, and pressure effects",
+        "C) No explanation",
+        "D) Recent evolution only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc1633c9a1c0fdb5d128421f9489393542ff3b1b",
+      "sectionIndex": 8,
+      "question": "Cave fauna convergent evolution demonstrates:",
+      "options": [
+        "A) Identical genotypes",
+        "B) Predictable trait loss and sensory compensation",
+        "C) No pattern",
+        "D) Random changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3448afb133c2cd7a9f2da375bdebb17f734a5648",
+      "sectionIndex": 8,
+      "question": "Antifreeze protein evolution shows:",
+      "options": [
+        "A) Single origin",
+        "B) Convergent evolution from different protein families",
+        "C) No real function",
+        "D) Identical structures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fc280a4954863896fc144a2a43f4ceb6e4cee26",
+      "sectionIndex": 8,
+      "question": "Desert adaptation syndrome includes:",
+      "options": [
+        "A) Water storage only",
+        "B) Integrated behavioral, physiological, and morphological traits",
+        "C) Single adaptation",
+        "D) No special features"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebb3a8a4fe046f2a9f4f42107457cfc337497b89",
+      "sectionIndex": 8,
+      "question": "Pressure effects on deep-sea fish proteins involve:",
+      "options": [
+        "A) No effect",
+        "B) Pressure-adapted enzyme kinetics and stability",
+        "C) Denaturation only",
+        "D) Increased activity universally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7001b3d983eee4c225a22bfd5eae4cdcb39e9f00",
+      "sectionIndex": 8,
+      "question": "Photoperiodism mechanisms across taxa:",
+      "options": [
+        "A) Identical systems",
+        "B) Convergent use of different molecular clocks",
+        "C) No photoperiodism",
+        "D) Random responses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4af6fde6fac2499cefd534fed0eeee8a8829c5c1",
+      "sectionIndex": 8,
+      "question": "Thermal performance curves shift through:",
+      "options": [
+        "A) Immediate change",
+        "B) Genetic adaptation and phenotypic plasticity",
+        "C) No change possible",
+        "D) Death only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55d9c77aa7e55cdca6c2d3b057e3d2832dc32e67",
+      "sectionIndex": 8,
+      "question": "Osmotic stress responses in euryhaline species:",
+      "options": [
+        "A) Passive tolerance",
+        "B) Active ion transport regulation and compatible solutes",
+        "C) Avoidance only",
+        "D) No special mechanisms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a63cbf2b9eb194f4efb7f0e5da9425fce68f65f9",
+      "sectionIndex": 9,
+      "question": "Genetic rescue versus outbreeding depression represents:",
+      "options": [
+        "A) Always beneficial",
+        "B) Balance between diversity benefits and local adaptation loss",
+        "C) Never attempt",
+        "D) No real issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27425e40fbba4c72d812bffbc1a0056236da44c9",
+      "sectionIndex": 9,
+      "question": "The extinction vortex concept integrates:",
+      "options": [
+        "A) Single factors",
+        "B) Demographic, genetic, and environmental stochasticity",
+        "C) Deterministic outcomes",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a5b1241562185cf689ed0f5bccebe1578655975",
+      "sectionIndex": 9,
+      "question": "Shifting baseline syndrome affects conservation by:",
+      "options": [
+        "A) Improving standards",
+        "B) Progressive acceptance of degraded states",
+        "C) No effect",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93b395f09557fb4acc6b2603fa949059fc365fe9",
+      "sectionIndex": 9,
+      "question": "The SLOSS debate (Single Large or Several Small) depends on:",
+      "options": [
+        "A) Area only",
+        "B) Species-area relationships and connectivity",
+        "C) Always large",
+        "D) Always small"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4beab53228e8bebe57adb8816ccecdbcb452bb66",
+      "sectionIndex": 9,
+      "question": "Evolutionary significant units (ESUs) definition considers:",
+      "options": [
+        "A) Morphology only",
+        "B) Genetic distinctiveness and adaptive variation",
+        "C) Geographic separation only",
+        "D) Size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83d976bef1c2cafdfa0b5b4ae29a65f032e1fabd",
+      "sectionIndex": 9,
+      "question": "Climate change velocity exceeds migration capacity implying:",
+      "options": [
+        "A) Easy adaptation",
+        "B) Assisted migration necessity and extinction risk",
+        "C) No problem",
+        "D) Natural solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e5703b37afa72a337015cb6826d33f73ba4b492",
+      "sectionIndex": 9,
+      "question": "The Anthropocene defaunation differs from past extinctions by:",
+      "options": [
+        "A) Lower rate",
+        "B) Functional group bias and ecological cascades",
+        "C) No difference",
+        "D) Natural process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43593c18f96cfa5d2851ea9566fd22d0d37557df",
+      "sectionIndex": 9,
+      "question": "Conservation genomics applications include:",
+      "options": [
+        "A) Species identification only",
+        "B) Adaptive potential assessment and management",
+        "C) No practical use",
+        "D) Historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88a3dd68143550ad28709cbc95452e67f3ab5db5",
+      "sectionIndex": 9,
+      "question": "The insurance hypothesis of biodiversity suggests:",
+      "options": [
+        "A) Economic value only",
+        "B) Functional redundancy buffers ecosystem services",
+        "C) No relationship",
+        "D) Linear function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdeb666a1c5ca1f800f52b06c900e67b112d5ac9",
+      "sectionIndex": 9,
+      "question": "Rewilding controversies involve:",
+      "options": [
+        "A) Simple reintroduction",
+        "B) Ecological baselines, novel ecosystems, and human dimensions",
+        "C) No controversy",
+        "D) Universal support"
+      ],
+      "correct": "B"
+    }
+  ]
+}

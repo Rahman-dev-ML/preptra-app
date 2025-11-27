@@ -1,0 +1,729 @@
+## Section 1: Operating Systems Fundamentals
+
+1. Operating Systems Fundamentals (Easy)
+1. What is the primary function of an operating system?
+A) Running applications only
+B) Managing computer resources
+C) Playing games
+D) Browsing internet
+Answer: B
+
+2. Virtual memory allows a computer to:
+A) Run faster
+B) Use hard disk space as RAM
+C) Delete files automatically
+D) Connect to internet
+Answer: B
+
+3. Which scheduling algorithm serves processes in the order they arrive?
+A) Shortest Job First
+B) Priority Scheduling
+C) First Come First Served
+D) Round Robin
+Answer: C
+
+4. A deadlock occurs when:
+A) Computer crashes
+B) Processes wait for each other indefinitely
+C) Memory is full
+D) CPU overheats
+Answer: B
+
+5. An interrupt is:
+A) A signal to get CPU attention
+B) A virus
+C) A programming error
+D) A network protocol
+Answer: A
+
+6. Paging is a technique used in:
+A) Printing
+B) Memory management
+C) File storage
+D) Network routing
+Answer: B
+
+7. Which is NOT a process state?
+A) Running
+B) Waiting
+C) Sleeping
+D) Terminated
+Answer: C
+
+8. The kernel is:
+A) Hardware component
+B) Core part of OS
+C) Type of virus
+D) Programming language
+Answer: B
+
+9. Multitasking means:
+A) One task at a time
+B) Multiple tasks simultaneously
+C) Deleting tasks
+D) Creating tasks
+Answer: B
+
+10. A thread is:
+A) Smallest unit of processing
+B) Type of cable
+C) Network protocol
+D) Storage device
+Answer: A
+
+## Section 2: Data Structures and Algorithms
+
+2. Data Structures and Algorithms (Easy)
+11. An array stores elements in:
+A) Random locations
+B) Contiguous memory locations
+C) Different computers
+D) Cloud storage
+Answer: B
+
+12. Binary search requires data to be:
+A) Unsorted
+B) Sorted
+C) Numeric only
+D) Text only
+Answer: B
+
+13. A stack follows which principle?
+A) First In First Out
+B) Last In First Out
+C) Random Access
+D) Priority Based
+Answer: B
+
+14. A queue follows which principle?
+A) Last In First Out
+B) First In First Out
+C) Random Access
+D) Size Based
+Answer: B
+
+15. In a binary tree, each node has maximum:
+A) One child
+B) Two children
+C) Three children
+D) Unlimited children
+Answer: B
+
+16. The time complexity of linear search is:
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n²)
+Answer: C
+
+17. A linked list stores data in:
+A) Array
+B) Nodes with pointers
+C) Stack
+D) Queue
+Answer: B
+
+18. Bubble sort compares:
+A) First and last elements
+B) Adjacent elements
+C) Random elements
+D) Odd elements
+Answer: B
+
+19. Which data structure uses LIFO?
+A) Queue
+B) Array
+C) Stack
+D) Tree
+Answer: C
+
+20. Hash table is used for:
+A) Slow searching
+B) Fast searching
+C) Sorting only
+D) Printing
+Answer: B
+
+## Section 3: Programming Concepts
+
+3. Programming Concepts (Easy)
+21. OOP stands for:
+A) Object Oriented Programming
+B) Online Operating Platform
+C) Open Office Program
+D) Optimal Output Process
+Answer: A
+
+22. Inheritance allows a class to:
+A) Delete properties
+B) Inherit properties from parent class
+C) Hide all methods
+D) Create loops
+Answer: B
+
+23. Encapsulation means:
+A) Deleting data
+B) Hiding implementation details
+C) Creating loops
+D) Making variables public
+Answer: B
+
+24. A constructor is called when:
+A) Object is destroyed
+B) Object is created
+C) Program ends
+D) Loop starts
+Answer: B
+
+25. Polymorphism allows:
+A) One interface, multiple implementations
+B) Multiple interfaces, one implementation
+C) No interfaces
+D) Deleting objects
+Answer: A
+
+26. Which is NOT a pillar of OOP?
+A) Inheritance
+B) Encapsulation
+C) Compilation
+D) Polymorphism
+Answer: C
+
+27. A class is:
+A) An object
+B) A blueprint for objects
+C) A function
+D) A variable
+Answer: B
+
+28. Private members of a class are accessible:
+A) Everywhere
+B) Only within the class
+C) In other programs
+D) On internet
+Answer: B
+
+29. Function overloading means:
+A) Deleting functions
+B) Same name, different parameters
+C) Different name, same parameters
+D) No functions
+Answer: B
+
+30. An abstract class:
+A) Cannot be instantiated
+B) Has no methods
+C) Has no variables
+D) Must be deleted
+Answer: A
+
+## Section 4: Database Management
+
+4. Database Management (Easy)
+31. SQL stands for:
+A) Simple Query Language
+B) Structured Query Language
+C) System Query Language
+D) Software Query Language
+Answer: B
+
+32. A primary key:
+A) Can have duplicates
+B) Uniquely identifies a record
+C) Is always numeric
+D) Can be null
+Answer: B
+
+33. Which SQL command retrieves data?
+A) INSERT
+B) UPDATE
+C) SELECT
+D) DELETE
+Answer: C
+
+34. A foreign key:
+A) Has no relation
+B) References primary key in another table
+C) Must be unique
+D) Cannot be null
+Answer: B
+
+35. Normalization reduces:
+A) Data redundancy
+B) Data security
+C) Number of tables
+D) Query speed
+Answer: A
+
+36. DBMS stands for:
+A) Data Basic Management System
+B) Database Management System
+C) Digital Base Management System
+D) Direct Base Management System
+Answer: B
+
+37. Which is a DDL command?
+A) SELECT
+B) INSERT
+C) CREATE
+D) UPDATE
+Answer: C
+
+38. A table row is also called:
+A) Attribute
+B) Field
+C) Record
+D) Schema
+Answer: C
+
+39. 1NF requires:
+A) No primary key
+B) Atomic values
+C) Multiple values per cell
+D) No data
+Answer: B
+
+40. An ERD shows:
+A) Error messages
+B) Entity relationships
+C) Email records
+D) Encryption methods
+Answer: B
+
+## Section 5: Computer Networks
+
+5. Computer Networks (Easy)
+41. How many layers are in the OSI model?
+A) 5
+B) 6
+C) 7
+D) 8
+Answer: C
+
+42. TCP/IP stands for:
+A) Transfer Control Protocol/Internet Protocol
+B) Transmission Control Protocol/Internet Protocol
+C) Total Control Protocol/Internal Protocol
+D) Technical Control Protocol/Internet Protocol
+Answer: B
+
+43. An IP address is used to:
+A) Store files
+B) Identify devices on network
+C) Create passwords
+D) Print documents
+Answer: B
+
+44. LAN stands for:
+A) Large Area Network
+B) Local Area Network
+C) Long Area Network
+D) Limited Area Network
+Answer: B
+
+45. Which device connects different networks?
+A) Hub
+B) Switch
+C) Router
+D) Cable
+Answer: C
+
+46. HTTP stands for:
+A) HyperText Transfer Protocol
+B) High Transfer Text Protocol
+C) HyperText Transport Protocol
+D) High Text Transfer Protocol
+Answer: A
+
+47. The physical layer deals with:
+A) Applications
+B) Data packets
+C) Electrical signals
+D) User interface
+Answer: C
+
+48. DNS converts:
+A) Numbers to letters
+B) Domain names to IP addresses
+C) Files to folders
+D) Text to images
+Answer: B
+
+49. A firewall is used for:
+A) Cooling system
+B) Network security
+C) Data storage
+D) Printing
+Answer: B
+
+50. Which is NOT a network topology?
+A) Star
+B) Ring
+C) Square
+D) Bus
+Answer: C
+
+## Section 6: Software Engineering
+
+6. Software Engineering (Easy)
+51. SDLC stands for:
+A) Software Development Life Cycle
+B) System Development Life Cycle
+C) Software Design Life Cycle
+D) System Design Life Cycle
+Answer: A
+
+52. Which comes first in software development?
+A) Testing
+B) Coding
+C) Requirements gathering
+D) Maintenance
+Answer: C
+
+53. Unit testing tests:
+A) Entire system
+B) Individual components
+C) User interface only
+D) Network only
+Answer: B
+
+54. Waterfall model is:
+A) Iterative
+B) Sequential
+C) Random
+D) Circular
+Answer: B
+
+55. Agile methodology emphasizes:
+A) Long planning phases
+B) Iterative development
+C) No documentation
+D) Single release
+Answer: B
+
+56. A bug is:
+A) Hardware component
+B) Software defect
+C) Network cable
+D) Storage device
+Answer: B
+
+57. Integration testing tests:
+A) Individual units
+B) Combined components
+C) Single functions
+D) Hardware only
+Answer: B
+
+58. Documentation is important for:
+A) Future maintenance
+B) Slowing development
+C) Increasing cost
+D) Reducing quality
+Answer: A
+
+59. Which is NOT a testing type?
+A) Unit testing
+B) System testing
+C) Random testing
+D) Acceptance testing
+Answer: C
+
+60. Software maintenance includes:
+A) Only bug fixes
+B) Updates and improvements
+C) Hardware repair
+D) Network setup
+Answer: B
+
+## Section 7: Web Technologies
+
+7. Web Technologies (Easy)
+61. HTML stands for:
+A) High Text Markup Language
+B) HyperText Markup Language
+C) HyperText Making Language
+D) High Text Making Language
+Answer: B
+
+62. CSS is used for:
+A) Programming logic
+B) Styling web pages
+C) Database queries
+D) Network security
+Answer: B
+
+63. JavaScript is primarily a:
+A) Server-side language
+B) Client-side language
+C) Database language
+D) System language
+Answer: B
+
+64. A web browser is:
+A) Server software
+B) Client software
+C) Database
+D) Operating system
+Answer: B
+
+65. URL stands for:
+A) Universal Resource Locator
+B) Uniform Resource Locator
+C) Unique Resource Locator
+D) United Resource Locator
+Answer: B
+
+66. Which tag creates a hyperlink in HTML?
+A) <link>
+B) <a>
+C) <href>
+D) <url>
+Answer: B
+
+67. HTTP uses which port by default?
+A) 21
+B) 25
+C) 80
+D) 443
+Answer: C
+
+68. A cookie is:
+A) Hardware device
+B) Small data file
+C) Virus type
+D) Network protocol
+Answer: B
+
+69. AJAX allows:
+A) Page refresh
+B) Asynchronous updates
+C) File deletion
+D) Virus scanning
+Answer: B
+
+70. Which is NOT a web browser?
+A) Chrome
+B) Firefox
+C) Excel
+D) Safari
+Answer: C
+
+## Section 8: Computer Graphics
+
+8. Computer Graphics (Easy)
+71. RGB stands for:
+A) Red Green Blue
+B) Red Gray Black
+C) Real Graphics Base
+D) Random Graphics Blue
+Answer: A
+
+72. A pixel is:
+A) Type of software
+B) Smallest unit of display
+C) Network protocol
+D) Storage device
+Answer: B
+
+73. Vector graphics are:
+A) Pixel-based
+B) Mathematical equations-based
+C) Text-based
+D) Sound-based
+Answer: B
+
+74. Raster graphics are:
+A) Equation-based
+B) Pixel-based
+C) Text-based
+D) Vector-based
+Answer: B
+
+75. Resolution refers to:
+A) Problem solving
+B) Image clarity
+C) Network speed
+D) Memory size
+Answer: B
+
+76. Which format is vector-based?
+A) JPEG
+B) PNG
+C) SVG
+D) BMP
+Answer: C
+
+77. Animation is:
+A) Single image
+B) Series of images
+C) Text document
+D) Audio file
+Answer: B
+
+78. 3D graphics add which dimension?
+A) Width
+B) Height
+C) Depth
+D) Time
+Answer: C
+
+79. Rendering means:
+A) Deleting images
+B) Creating final image
+C) Copying images
+D) Storing images
+Answer: B
+
+80. Which is NOT a color model?
+A) RGB
+B) CMYK
+C) XYZ
+D) ABC
+Answer: D
+
+## Section 9: Computer Security
+
+9. Computer Security (Easy)
+81. A virus is:
+A) Hardware problem
+B) Malicious software
+C) Network cable
+D) Storage device
+Answer: B
+
+82. Encryption protects:
+A) Hardware
+B) Data confidentiality
+C) Power supply
+D) Monitor
+Answer: B
+
+83. A password should be:
+A) Simple
+B) Your name
+C) Complex and unique
+D) "password"
+Answer: C
+
+84. Phishing is:
+A) Computer game
+B) Fraudulent attempt to obtain information
+C) Programming language
+D) Network protocol
+Answer: B
+
+85. Antivirus software:
+A) Creates viruses
+B) Detects and removes malware
+C) Speeds up computer
+D) Manages files
+Answer: B
+
+86. A firewall blocks:
+A) All traffic
+B) Unauthorized access
+C) Authorized users
+D) Power supply
+Answer: B
+
+87. HTTPS is more secure than HTTP because of:
+A) Speed
+B) Encryption
+C) Simplicity
+D) Cost
+Answer: B
+
+88. Two-factor authentication uses:
+A) One password
+B) Two different verification methods
+C) No password
+D) Only biometrics
+Answer: B
+
+89. Backup is important for:
+A) Slowing system
+B) Data recovery
+C) Creating viruses
+D) Reducing storage
+Answer: B
+
+90. Which is NOT a security threat?
+A) Virus
+B) Trojan
+C) Antivirus
+D) Worm
+Answer: C
+
+## Section 10: Basic Computer Concepts
+
+10. Basic Computer Concepts (Easy)
+91. CPU stands for:
+A) Central Processing Unit
+B) Central Power Unit
+C) Computer Processing Unit
+D) Computer Power Unit
+Answer: A
+
+92. RAM is:
+A) Permanent storage
+B) Temporary storage
+C) Network device
+D) Input device
+Answer: B
+
+93. Which is an input device?
+A) Monitor
+B) Printer
+C) Keyboard
+D) Speaker
+Answer: C
+
+94. Which is an output device?
+A) Mouse
+B) Scanner
+C) Monitor
+D) Microphone
+Answer: C
+
+95. Binary system uses:
+A) 0 and 1
+B) 1 to 10
+C) A to Z
+D) All numbers
+Answer: A
+
+96. 1 GB equals:
+A) 1000 MB
+B) 1024 MB
+C) 100 MB
+D) 10000 MB
+Answer: B
+
+97. ROM stands for:
+A) Random Only Memory
+B) Read Only Memory
+C) Read Once Memory
+D) Random Open Memory
+Answer: B
+
+98. Which is system software?
+A) Word processor
+B) Operating system
+C) Game
+D) Browser
+Answer: B
+
+99. ALU stands for:
+A) Arithmetic Logic Unit
+B) Advanced Logic Unit
+C) Arithmetic Learning Unit
+D) Advanced Learning Unit
+Answer: A
+
+100. A bit is:
+A) 8 bytes
+B) Smallest unit of data
+C) 1024 bytes
+D) Type of software
+Answer: B

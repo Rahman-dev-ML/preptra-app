@@ -1,0 +1,697 @@
+{
+  "subject": "Geography (CSS)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 20,
+  "categories": [
+    "Physical Geography",
+    "Climatology & Oceanography",
+    "Geomorphology & Geological Processes",
+    "Map Work & Techniques",
+    "Human Geography & Urbanization",
+    "Economic & Resource Geography",
+    "Pakistan & Regional Studies",
+    "Environmental Geography & Hazards",
+    "Theories & Models",
+    "MCQ Facts & Data"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Ocean Currents: Atlantic & Pacific (Gulf Stream vs Kuroshio)",
+      "content": "Define drivers (wind stress, Coriolis, thermohaline). Compare western boundary currents (Gulf Stream, Kuroshio) and major gyres. Link currents to climate, fisheries, navigation.",
+      "keyTakeaways": [
+        "Gulf Stream and Kuroshio are fast western boundary currents influencing regional climates.",
+        "Thermohaline circulation underpins global conveyor; exam often asks mechanisms + effects.",
+        "Be able to sketch Atlantic/Pacific gyres and label key currents."
+      ],
+      "resources": [
+        {
+          "title": "NOAA — Ocean Currents (overview)",
+          "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+          "type": "article",
+          "description": "Authoritative primer"
+        },
+        {
+          "title": "NOAA — Gulf Stream (tutorial page)",
+          "url": "https://oceanservice.noaa.gov/education/tutorial_currents/media/supp_cur04d.html",
+          "type": "article",
+          "description": "Facts & figures"
+        },
+        {
+          "title": "NOAA — What are Ocean Currents? (video module)",
+          "url": "https://oceantoday.noaa.gov/fullmoon-whatareoceancurrents/welcome.html",
+          "type": "video",
+          "description": "Animated explainer"
+        },
+        {
+          "title": "NOAA Ocean Prediction Center — Gulf Stream Imagery",
+          "url": "https://ocean.weather.gov/gulf_stream.php",
+          "type": "data",
+          "description": "Live composites"
+        },
+        {
+          "title": "J. Climate — WBC Systems (Gulf Stream/Kuroshio)",
+          "url": "https://www.esrl.noaa.gov/psd/people/michael.alexander/Kwon_et_al_2010_JClim.pdf",
+          "type": "pdf",
+          "description": "Scholarly review"
+        }
+      ],
+      "importance": "high",
+      "category": "Climatology & Oceanography",
+      "topics": ["Gulf Stream", "Kuroshio", "Western Boundary Currents", "Thermohaline Circulation"]
+    },
+    {
+      "id": "2",
+      "title": "Climate Types: Mediterranean vs Monsoon (Köppen)",
+      "content": "Master characteristics, seasonal patterns, vegetation, agriculture, and regional examples for Csa/Csb (Mediterranean) vs monsoon domains; tie to Köppen classification.",
+      "keyTakeaways": [
+        "Relate seasonal rainfall regimes to agriculture (olives/wheat vs rice/tea).",
+        "Use Köppen symbols correctly and map examples.",
+        "Discuss monsoon dynamics in South Asia with Pakistan case points."
+      ],
+      "resources": [
+        {
+          "title": "Peel et al. (2007) — Updated World Köppen–Geiger Map",
+          "url": "https://hess.copernicus.org/articles/11/1633/2007/",
+          "type": "article",
+          "description": "Seminal paper"
+        },
+        {
+          "title": "Peel et al. (2007) — PDF",
+          "url": "https://hess.copernicus.org/articles/11/1633/2007/hess-11-1633-2007.pdf",
+          "type": "pdf",
+          "description": "Downloadable map"
+        },
+        {
+          "title": "Pakistan Meteorological Department — Home",
+          "url": "https://www.pmd.gov.pk/",
+          "type": "website",
+          "description": "Authoritative updates"
+        },
+        {
+          "title": "PMD — Monsoon 2024 Rainfall Update (Pakistan)",
+          "url": "https://cdpc.pmd.gov.pk/Monsoon_2024_update/Pakistan_Monsoon_2024_Rainfall_Update.pdf",
+          "type": "pdf",
+          "description": "Recent Pakistan data"
+        },
+        {
+          "title": "PMD — JAS 2025 Seasonal Outlook",
+          "url": "https://rnd.pmd.gov.pk/assests/seasonal/JAS-2025.pdf",
+          "type": "pdf",
+          "description": "Forecast context"
+        }
+      ],
+      "importance": "high",
+      "category": "Climatology & Oceanography",
+      "topics": ["Köppen", "Mediterranean", "Monsoon", "Pakistan Monsoon"]
+    },
+    {
+      "id": "3",
+      "title": "Earth's Interior, Plate Tectonics & Earthquakes",
+      "content": "Structure (core–mantle–crust), plate boundaries, seismic waves, magnitude vs intensity. Connect to Pakistan/Alpine-Himalayan belt.",
+      "keyTakeaways": [
+        "Differentiate P, S, Love, Rayleigh waves; Richter vs Moment Magnitude.",
+        "Explain plate boundaries with examples; link orogeny and seismicity.",
+        "Know Pakistan's tectonic setting (Himalayan collision)."
+      ],
+      "resources": [
+        {
+          "title": "USGS — The Science of Earthquakes",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+          "type": "article",
+          "description": "Concepts & visuals"
+        },
+        {
+          "title": "USGS — Measuring Earthquakes (FAQ)",
+          "url": "https://www.usgs.gov/faqs/how-are-earthquakes-recorded-how-are-earthquakes-measured-how-magnitude-earthquake-determined",
+          "type": "article",
+          "description": "Magnitude & instruments"
+        },
+        {
+          "title": "USGS — Earthquake Magnitude vs Intensity",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity",
+          "type": "article",
+          "description": "Compare scales"
+        },
+        {
+          "title": "USGS — 'What was the Richter scale?'",
+          "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-what-was-richter-scale",
+          "type": "article",
+          "description": "Context"
+        }
+      ],
+      "importance": "high",
+      "category": "Physical Geography",
+      "topics": ["Earth Structure", "Seismic Waves", "Plate Tectonics"]
+    },
+    {
+      "id": "4",
+      "title": "Glaciation: Processes & Landforms",
+      "content": "Erosion (abrasion, plucking) and depositional features (moraines, drumlins). Identify U-shaped valleys, hanging valleys, cirques; draw labeled diagrams.",
+      "keyTakeaways": [
+        "Link process → landform with examples.",
+        "Use case studies to enrich short notes.",
+        "Contrast glacial vs fluvial forms in past questions."
+      ],
+      "resources": [
+        {
+          "title": "British Geological Survey — Landforms (glacial examples)",
+          "url": "https://www.bgs.ac.uk/discovering-geology/geological-processes/landforms/",
+          "type": "article",
+          "description": "Accessible overview"
+        },
+        {
+          "title": "Geol. Soc. London — Glacial processes & landforms (2022)",
+          "url": "https://www.lyellcollection.org/doi/10.1144/M58-2021-17",
+          "type": "article",
+          "description": "Advanced reading"
+        },
+        {
+          "title": "BGS — Glacier Monitoring",
+          "url": "https://www.bgs.ac.uk/geology-projects/glacier-monitoring/",
+          "type": "article",
+          "description": "Methods & tech"
+        }
+      ],
+      "importance": "high",
+      "category": "Geomorphology & Geological Processes",
+      "topics": ["Glacial Erosion", "Depositional Landforms"]
+    },
+    {
+      "id": "5",
+      "title": "Atmospheric Phenomena: Cyclones, Thunderstorms, Winds",
+      "content": "Contrast tropical vs extratropical cyclones (origin, structure, hazards). Learn local winds (mountain/valley breezes) and thunderstorm characteristics.",
+      "keyTakeaways": [
+        "Life cycle and fronts in extratropical cyclones are exam favorites.",
+        "Know local wind systems with causes and diurnal timing.",
+        "Be precise on definitions to secure MCQ marks."
+      ],
+      "resources": [
+        {
+          "title": "Met Office — Tropical Cyclone Facts",
+          "url": "https://www.metoffice.gov.uk/research/weather/tropical-cyclones/facts",
+          "type": "article",
+          "description": "Clear definitions"
+        },
+        {
+          "title": "NOAA/AMS — Extratropical Cyclones (chapter)",
+          "url": "https://repository.library.noaa.gov/view/noaa/59889/noaa_59889_DS1.pdf",
+          "type": "pdf",
+          "description": "Historical synthesis"
+        },
+        {
+          "title": "Univ. Albany — Mountain & Valley Breezes",
+          "url": "https://www.atmos.albany.edu/facstaff/landin/f311/Windcirc.html",
+          "type": "article",
+          "description": "Local winds explainer"
+        }
+      ],
+      "importance": "high",
+      "category": "Climatology & Oceanography",
+      "topics": ["Cyclones", "Thunderstorms", "Local Winds"]
+    },
+    {
+      "id": "6",
+      "title": "Tides: Types & Causes",
+      "content": "Define diurnal, semidiurnal, mixed tides; gravitational forces; amphidromic systems; practical implications for coasts and navigation.",
+      "keyTakeaways": [
+        "Be able to classify tide records from a figure.",
+        "Link lunar declination and basin resonance to mixed tides.",
+        "Know tidal datums terminology."
+      ],
+      "resources": [
+        {
+          "title": "NOAA — Types & Causes of Tidal Cycles",
+          "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html",
+          "type": "article",
+          "description": "Core lesson"
+        },
+        {
+          "title": "NOAA — Jetstream: Tides",
+          "url": "https://www.noaa.gov/jetstream/ocean/tides",
+          "type": "article",
+          "description": "Student-friendly"
+        },
+        {
+          "title": "NOAA — Tides & Currents Glossary",
+          "url": "https://tidesandcurrents.noaa.gov/glossary.html",
+          "type": "glossary",
+          "description": "Terminology"
+        }
+      ],
+      "importance": "medium",
+      "category": "Climatology & Oceanography",
+      "topics": ["Tidal Cycles", "Semidiurnal", "Mixed"]
+    },
+    {
+      "id": "7",
+      "title": "Rocks & the Rock Cycle",
+      "content": "Classify igneous (intrusive/extrusive), sedimentary, metamorphic rocks; textures; typical examples. Explain rock cycle linkages.",
+      "keyTakeaways": [
+        "Be fluent with examples used in MCQs.",
+        "Use simple flow diagram to show cycle.",
+        "Tie rock types to landforms and resources."
+      ],
+      "resources": [
+        {
+          "title": "USGS — Water/Rock Cycle intersection (read with Rock Cycle)",
+          "url": "https://www.usgs.gov/water-science-school/water-cycle",
+          "type": "article",
+          "description": "Cycle perspective"
+        }
+      ],
+      "importance": "medium",
+      "category": "Geomorphology & Geological Processes",
+      "topics": ["Igneous", "Sedimentary", "Metamorphic", "Rock Cycle"]
+    },
+    {
+      "id": "8",
+      "title": "Map Projections: Properties, Uses & Comparisons",
+      "content": "Know conformal vs equal-area vs equidistant; where to use Mercator, Transverse Mercator, Lambert Conformal Conic; distortion patterns.",
+      "keyTakeaways": [
+        "Snyder (USGS) is the gold-standard reference.",
+        "Relate projection choice to map purpose (navigation vs thematic).",
+        "Expect short notes on named projections (incl. conic/zenithal)."
+      ],
+      "resources": [
+        {
+          "title": "USGS — Snyder, Map Projections (Working Manual)",
+          "url": "https://pubs.usgs.gov/pp/1395/report.pdf",
+          "type": "pdf",
+          "description": "Definitive guide"
+        },
+        {
+          "title": "USGS — Map Projections Used by USGS",
+          "url": "https://pubs.usgs.gov/publication/pp1395",
+          "type": "article",
+          "description": "Context & usage"
+        },
+        {
+          "title": "USGS — Map Projections (GIP)",
+          "url": "https://pubs.usgs.gov/gip/70047422/report.pdf",
+          "type": "pdf",
+          "description": "Illustrated primer"
+        }
+      ],
+      "importance": "high",
+      "category": "Map Work & Techniques",
+      "topics": ["Mercator", "Conical", "Transverse Mercator", "Lambert Conformal Conic"]
+    },
+    {
+      "id": "9",
+      "title": "Aerial Photographs vs Topographical Maps",
+      "content": "Compare purposes, scales, and interpretation; basics of photogrammetry; orthoimages vs raw photos; using topo layers for exam map work.",
+      "keyTakeaways": [
+        "Topos show elevation/contours; aerials need rectification for measurement.",
+        "Know stereoscopy concept and USGS orthoimage definition.",
+        "Practice interpreting both for features (drainage, settlement)."
+      ],
+      "resources": [
+        {
+          "title": "USGS — Interpreting Topographic Maps & Aerial Photos",
+          "url": "https://www.usgs.gov/educational-resources/interpreting-topographic-maps-and-aerial-photographs",
+          "type": "article",
+          "description": "Hands-on tasks"
+        },
+        {
+          "title": "USGS — Aerial Photograph vs Orthoimage",
+          "url": "https://www.usgs.gov/media/images/aerial-photograph-vs-orthoimage",
+          "type": "image",
+          "description": "Key distinction"
+        },
+        {
+          "title": "USGS — Topographic Mapping (production process)",
+          "url": "https://www.usgs.gov/educational-resources/topographic-mapping",
+          "type": "article",
+          "description": "How topos are made"
+        }
+      ],
+      "importance": "medium",
+      "category": "Map Work & Techniques",
+      "topics": ["Aerial Photos", "Topographic Maps", "Photogrammetry"]
+    },
+    {
+      "id": "10",
+      "title": "Population, Migration & Urbanization (Global + Pakistan)",
+      "content": "Demographic transition, migration types, urban trends. Use UN datasets and World Bank for time-series; cite Pakistan figures where needed.",
+      "keyTakeaways": [
+        "Quote urbanization rates with source/year.",
+        "Explain migration push–pull and impacts.",
+        "Use city models for MCQs (CBD, zones)."
+      ],
+      "resources": [
+        {
+          "title": "UN DESA — World Urbanization Prospects 2018 (Report)",
+          "url": "https://population.un.org/wup/assets/WUP2018-Report.pdf",
+          "type": "pdf",
+          "description": "Core source"
+        },
+        {
+          "title": "UN DESA — WUP Portal",
+          "url": "https://population.un.org/wup/",
+          "type": "database",
+          "description": "Data explorer"
+        },
+        {
+          "title": "World Bank — Urban Population (%), Pakistan",
+          "url": "https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PK",
+          "type": "data",
+          "description": "Time series"
+        }
+      ],
+      "importance": "high",
+      "category": "Human Geography & Urbanization",
+      "topics": ["Demographic Transition", "Migration", "Urbanization"]
+    },
+    {
+      "id": "11",
+      "title": "Urban Models: Burgess, Sector, Multiple Nuclei, Christaller",
+      "content": "Understand Burgess concentric zones, Hoyt sectors, Harris–Ullman multiple nuclei; Central Place Theory (Christaller) for settlement hierarchy.",
+      "keyTakeaways": [
+        "Be able to sketch Burgess rings with labels.",
+        "CPT: hexagonal market areas and hierarchical spacing.",
+        "Apply models cautiously to modern cities."
+      ],
+      "resources": [
+        {
+          "title": "SimplyPsychology — Burgess Concentric Zone Model (summary)",
+          "url": "https://www.simplypsychology.org/burgess-concentric-zone-model.html",
+          "type": "article",
+          "description": "Accessible summary"
+        },
+        {
+          "title": "Britannica — Central Place Theory",
+          "url": "https://www.britannica.com/money/central-place-theory",
+          "type": "article",
+          "description": "Authoritative overview"
+        },
+        {
+          "title": "Britannica — Location Theory (incl. Christaller)",
+          "url": "https://www.britannica.com/money/location-theory",
+          "type": "article",
+          "description": "Context"
+        }
+      ],
+      "importance": "medium",
+      "category": "Theories & Models",
+      "topics": ["Burgess", "Christaller", "Urban Models"]
+    },
+    {
+      "id": "12",
+      "title": "Agriculture in South Asia & Pakistan (Green Revolution, Crops)",
+      "content": "Role of agriculture in South Asian economies; crop requirements (rice, cotton); irrigation and monsoon linkages.",
+      "keyTakeaways": [
+        "Use FAO regional briefs for current stats.",
+        "Connect monsoon variability to yields.",
+        "Pakistan: canal irrigation, cash crops."
+      ],
+      "resources": [
+        {
+          "title": "FAO — Regional Conference for Asia & the Pacific (2024 overview)",
+          "url": "https://openknowledge.fao.org/server/api/core/bitstreams/6695bd15-862b-4172-8e1b-8de0e8b9ba5a/content",
+          "type": "pdf",
+          "description": "Food security & ag"
+        },
+        {
+          "title": "FAO — Family Farming in South Asia",
+          "url": "https://openknowledge.fao.org/server/api/core/bitstreams/ff606630-aa96-4a3e-9b84-b53572f36a15/content",
+          "type": "pdf",
+          "description": "Structure & stats"
+        }
+      ],
+      "importance": "high",
+      "category": "Economic & Resource Geography",
+      "topics": ["South Asia Agriculture", "Pakistan Crops", "Irrigation"]
+    },
+    {
+      "id": "13",
+      "title": "Hydroelectricity & Power Resources (with Pakistan focus)",
+      "content": "Site factors (relief, discharge, storage), environmental aspects, hydropower roles; Pakistan's major hydel projects and WAPDA portfolio.",
+      "keyTakeaways": [
+        "Link terrain + flow regime to hydropower feasibility.",
+        "Know Pakistan megaprojects (Tarbela, Dasu, Mohmand).",
+        "Discuss pumped storage and grid flexibility."
+      ],
+      "resources": [
+        {
+          "title": "IHA — Facts about Hydropower",
+          "url": "https://www.hydropower.org/iha/discover-facts-about-hydropower",
+          "type": "article",
+          "description": "Global context"
+        },
+        {
+          "title": "IHA — Pumped Storage (Water Batteries)",
+          "url": "https://www.hydropower.org/factsheets/pumped-storage",
+          "type": "article",
+          "description": "Storage concept"
+        },
+        {
+          "title": "WAPDA — Dasu Hydropower Project",
+          "url": "https://www.wapda.gov.pk/project-details/63c44106fb73646d1525bb29",
+          "type": "article",
+          "description": "Project brief"
+        },
+        {
+          "title": "WAPDA — Tarbela",
+          "url": "https://www.wapda.gov.pk/project-details/63c43d65fb73646d1525ba07",
+          "type": "article",
+          "description": "Project page"
+        },
+        {
+          "title": "WAPDA — Ghazi Barotha",
+          "url": "https://www.wapda.gov.pk/project-details/63c56bde1a72c39284a3298b",
+          "type": "article",
+          "description": "Project page"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economic & Resource Geography",
+      "topics": ["Hydropower", "Pakistan Energy", "WAPDA"]
+    },
+    {
+      "id": "14",
+      "title": "Petroleum in the Middle East (Production & Geopolitics)",
+      "content": "Know top producers, reserves distribution, export dominance; use EIA/IEA reports for figures and trends.",
+      "keyTakeaways": [
+        "Tie petroleum geography to trade routes and chokepoints.",
+        "Use latest figures with citation year in answers.",
+        "Understand regional differences (e.g., Saudi, Iran, UAE)."
+      ],
+      "resources": [
+        {
+          "title": "IEA — Middle East Region Overview",
+          "url": "https://www.iea.org/regions/middle-east",
+          "type": "article",
+          "description": "Energy system summary"
+        },
+        {
+          "title": "EIA — Saudi Arabia (Country Brief, PDF)",
+          "url": "https://www.eia.gov/international/content/analysis/countries_long/Saudi_Arabia/pdf/Saudi-Arabia.pdf",
+          "type": "pdf",
+          "description": "Country analysis"
+        },
+        {
+          "title": "EIA — Eastern Mediterranean in Context",
+          "url": "https://www.eia.gov/international/analysis/regions-of-interest/Eastern_Mediterranean",
+          "type": "article",
+          "description": "Sub-region dynamics"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economic & Resource Geography",
+      "topics": ["Middle East Oil", "Energy Geography"]
+    },
+    {
+      "id": "15",
+      "title": "Pakistan: Physiography, Strategic Location & Gwadar",
+      "content": "Northern highlands, Indus plains, Balochistan plateau; strategic corridors; Gwadar Port's geoeconomic role.",
+      "keyTakeaways": [
+        "Draw a labeled physiographic map in 2–3 minutes.",
+        "Argue Pakistan's gateway role between regions.",
+        "Use official sources for Gwadar facts."
+      ],
+      "resources": [
+        {
+          "title": "Geological Survey of Pakistan — Portal",
+          "url": "https://gsp.gov.pk/",
+          "type": "website",
+          "description": "Authoritative geology"
+        },
+        {
+          "title": "Gwadar Port Authority — Official",
+          "url": "https://gwadarport.gov.pk/",
+          "type": "website",
+          "description": "Port info"
+        },
+        {
+          "title": "Gwadar Development Authority",
+          "url": "https://www.gda.gov.pk/",
+          "type": "website",
+          "description": "City planning context"
+        },
+        {
+          "title": "ISSI — Strategic Significance of Pakistan (PDF)",
+          "url": "https://issi.org.pk/wp-content/uploads/2022/02/5-SS_Ayesha-Rana_No-4_2021.pdf",
+          "type": "pdf",
+          "description": "Policy analysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan & Regional Studies",
+      "topics": ["Physiography", "Gwadar", "Geostrategy"]
+    },
+    {
+      "id": "16",
+      "title": "Water Conflicts & Indus Waters Treaty",
+      "content": "IWT structure (eastern vs western rivers), World Bank's role; contemporary developments; relevance to Pakistan's agriculture and hydropower.",
+      "keyTakeaways": [
+        "Know treaty allocation and institutions.",
+        "Use original treaty text for quotes.",
+        "Stay updated on recent developments."
+      ],
+      "resources": [
+        {
+          "title": "Indus Waters Treaty (1960) — UN Treaty Series (Full Text)",
+          "url": "https://treaties.un.org/doc/Publication/UNTs/Volume%20419/volume-419-I-6032-English.pdf",
+          "type": "pdf",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "World Bank — Press Announcement (1960)",
+          "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/127721589378651773/announcement-of-indus-water-treaty-signed-on-september-19-1960",
+          "type": "article",
+          "description": "Historic context"
+        },
+        {
+          "title": "Reuters Explainer — What is the Indus Waters Treaty? (2025)",
+          "url": "https://www.reuters.com/world/asia-pacific/what-is-indus-waters-treaty-between-india-pakistan-2025-04-24/",
+          "type": "news",
+          "description": "Recent status"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan & Regional Studies",
+      "topics": ["IWT", "Water Conflicts", "Indus Basin"]
+    },
+    {
+      "id": "17",
+      "title": "Environmental Determinism vs Possibilism",
+      "content": "Define both schools; provide balanced critique with examples from technology-enabled adaptation; connect to human–environment interactions.",
+      "keyTakeaways": [
+        "Use concise definitions; then evaluate with examples.",
+        "CSS papers often ask to compare with Pakistan cases.",
+        "Keep a few scholarly references ready."
+      ],
+      "resources": [
+        {
+          "title": "ThoughtCo — Environmental Determinism (overview)",
+          "url": "https://www.thoughtco.com/environmental-determinism-and-geography-1434499",
+          "type": "article",
+          "description": "Concept refresher"
+        },
+        {
+          "title": "Academic Journals — Paradox in Determinism & Possibilism",
+          "url": "https://academicjournals.org/journal/JGRP/article-full-text/3C573AF47435",
+          "type": "article",
+          "description": "Scholarly review"
+        }
+      ],
+      "importance": "medium",
+      "category": "Environmental Geography & Hazards",
+      "topics": ["Determinism", "Possibilism", "Man–Environment"]
+    },
+    {
+      "id": "18",
+      "title": "Pakistan: Disasters, Hydro-meteorological Hazards & NDMA",
+      "content": "Floods, droughts, earthquakes, GLOFs; institutional frameworks (NDMA/PDMA). Use latest national plans and hazard maps.",
+      "keyTakeaways": [
+        "Quote NDMA/UNDRR documents for current risk framing.",
+        "Connect climate change to hazard frequency.",
+        "Know basic preparedness and policy tools."
+      ],
+      "resources": [
+        {
+          "title": "NDMA — National Disaster Management Plan 2025",
+          "url": "https://www.ndma.gov.pk/storage/plans/March2025/sps3g997GvbYIOEpwvKw.pdf",
+          "type": "pdf",
+          "description": "National plan"
+        },
+        {
+          "title": "NDMA — Multi-Hazard Vulnerability & Risk Assessment (2024)",
+          "url": "https://www.ndma.gov.pk/storage/publications/July2024/R94b4qwFwHogxxphxKU9.pdf",
+          "type": "pdf",
+          "description": "Hazard profile"
+        }
+      ],
+      "importance": "high",
+      "category": "Environmental Geography & Hazards",
+      "topics": ["Floods", "Drought", "GLOF", "Policy"]
+    },
+    {
+      "id": "19",
+      "title": "Industrial Location: Weber's Theory & Applications",
+      "content": "Weber's least-cost location (transport, labor, agglomeration/deglomeration); apply to Pakistan textile/cement examples and raw material proximity.",
+      "keyTakeaways": [
+        "Be ready to draw Weber's triangle.",
+        "Relate to modern factors (infrastructure, policy).",
+        "Cite critiques and extensions."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Alfred Weber & Location Theory",
+          "url": "https://www.britannica.com/biography/Alfred-Weber",
+          "type": "article",
+          "description": "Biographical context"
+        },
+        {
+          "title": "Britannica — Location Theory (overview)",
+          "url": "https://www.britannica.com/money/location-theory",
+          "type": "article",
+          "description": "Framework"
+        },
+        {
+          "title": "Weber Theory (class notes, PDF)",
+          "url": "https://aphg2015mhs.wordpress.com/wp-content/uploads/2015/08/industrial-location-theory_weber.pdf",
+          "type": "pdf",
+          "description": "Concise summary"
+        }
+      ],
+      "importance": "medium",
+      "category": "Theories & Models",
+      "topics": ["Weber", "Industrial Location", "Agglomeration"]
+    },
+    {
+      "id": "20",
+      "title": "Hydrologic Cycle, Floodplains & Fluvial Landforms",
+      "content": "Explain components (evaporation, condensation, runoff, infiltration); connect to river regimes, floodplain formation, and exam diagrams.",
+      "keyTakeaways": [
+        "Use USGS diagrams for quick labeling practice.",
+        "Relate monsoon variability to flood risk in Pakistan.",
+        "Fluvial landforms (meanders, oxbow lakes) recur in short notes."
+      ],
+      "resources": [
+        {
+          "title": "USGS — Water Cycle (Water Science School)",
+          "url": "https://www.usgs.gov/water-science-school/water-cycle",
+          "type": "article",
+          "description": "Authoritative module"
+        },
+        {
+          "title": "USGS — Interactive Water Cycle (Advanced)",
+          "url": "https://water.usgs.gov/edu/watercycle-kids-adv.html",
+          "type": "interactive",
+          "description": "Clickable diagram"
+        },
+        {
+          "title": "USGS — Water Cycle PNG (for notes)",
+          "url": "https://www.usgs.gov/media/images/water-cycle-png",
+          "type": "image",
+          "description": "High-res figure"
+        }
+      ],
+      "importance": "medium",
+      "category": "Physical Geography",
+      "topics": ["Hydrologic Cycle", "Fluvial Landforms", "Floodplains"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:50:18.383Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "0fe0acfecbe25351db11cfdf9d896b640fc93878",
+      "sectionIndex": 0,
+      "question": "The Hawthorne studies revealed that:",
+      "options": [
+        "A) Money is the only motivator",
+        "B) Social factors and attention affect productivity",
+        "C) Scientific management is perfect",
+        "D) Technology determines output"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "526aa8153515dcf922b32aa851d0d85bd6608cfa",
+      "sectionIndex": 0,
+      "question": "According to contingency theory, the best management approach depends on:",
+      "options": [
+        "A) Manager's personality only",
+        "B) Situational factors and context",
+        "C) Fixed rules",
+        "D) Historical precedent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2fd952eb57598e4c54182343fb3775a0f5ba400",
+      "sectionIndex": 0,
+      "question": "Management by Objectives (MBO) fails primarily when:",
+      "options": [
+        "A) Goals are clear",
+        "B) Goals are imposed without participation",
+        "C) Rewards are provided",
+        "D) Communication is good"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a129308d49431e38ffd638c69952a3711707975c",
+      "sectionIndex": 0,
+      "question": "The main difference between Maslow's and Herzberg's theories is:",
+      "options": [
+        "A) No difference exists",
+        "B) Herzberg separates satisfaction and dissatisfaction factors",
+        "C) Maslow ignores basic needs",
+        "D) Herzberg focuses only on money"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed44a20706b65c23439770ef98a8ad6cf85aca99",
+      "sectionIndex": 0,
+      "question": "Theory Z management style combines:",
+      "options": [
+        "A) Theory X and Y only",
+        "B) American and Japanese management practices",
+        "C) European approaches",
+        "D) Military techniques"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba6f4a137ae7560ef40a75a0b18e652f1662809d",
+      "sectionIndex": 0,
+      "question": "In Blake and Mouton's Managerial Grid, 9,9 represents:",
+      "options": [
+        "A) Low concern for both people and production",
+        "B) High concern for both people and production",
+        "C) High production, low people",
+        "D) High people, low production"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3225d8429ea06c7e0ca8c37c96c12c1718b5a0ee",
+      "sectionIndex": 0,
+      "question": "Organizational effectiveness differs from efficiency in that effectiveness:",
+      "options": [
+        "A) Uses fewer resources",
+        "B) Focuses on achieving the right goals",
+        "C) Is always cheaper",
+        "D) Ignores objectives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccf623967feff985d03161364fc2174108f8b45c",
+      "sectionIndex": 0,
+      "question": "The span of control should be wider when:",
+      "options": [
+        "A) Work is complex",
+        "B) Subordinates are experienced and motivated",
+        "C) Close supervision needed",
+        "D) Tasks are diverse"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "617d344da8f3889ba7296939f9febaa76a131d73",
+      "sectionIndex": 0,
+      "question": "Matrix organizations often face the problem of:",
+      "options": [
+        "A) Too simple structure",
+        "B) Dual authority and role ambiguity",
+        "C) No flexibility",
+        "D) Excessive centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d19cee577fc5e60e6b62556fd82ed8fc338014d2",
+      "sectionIndex": 0,
+      "question": "Transformational leaders differ from transactional leaders by:",
+      "options": [
+        "A) Focusing on routine exchanges",
+        "B) Inspiring followers beyond self-interest",
+        "C) Using only rewards",
+        "D) Avoiding change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "517977e4bf966273f8061e59e0419e96bc96f769",
+      "sectionIndex": 1,
+      "question": "Porter's Five Forces analysis excludes:",
+      "options": [
+        "A) Supplier power",
+        "B) Internal strengths and weaknesses",
+        "C) Threat of substitutes",
+        "D) Buyer power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8b770b6acfd9877c135e7e0eb4157c3d8272cdd",
+      "sectionIndex": 1,
+      "question": "A company pursuing cost leadership must:",
+      "options": [
+        "A) Charge premium prices",
+        "B) Achieve lowest cost position while maintaining acceptable quality",
+        "C) Focus on small segments",
+        "D) Ignore efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c9b31d83ac2304b9150fb143f7008088ffe0c65",
+      "sectionIndex": 1,
+      "question": "The BCG Matrix classifies business units based on:",
+      "options": [
+        "A) Profitability and size",
+        "B) Market growth rate and relative market share",
+        "C) Technology and innovation",
+        "D) Geography and culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34eddf2fb24180c6e627402fae9a1a9692dc652f",
+      "sectionIndex": 1,
+      "question": "In the BCG Matrix, \"Cash Cows\" should be:",
+      "options": [
+        "A) Divested immediately",
+        "B) Milked for cash to fund other units",
+        "C) Given maximum investment",
+        "D) Ignored completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8137def623b2bb64d3f2105599029d9deabbe15c",
+      "sectionIndex": 1,
+      "question": "Blue Ocean Strategy advocates:",
+      "options": [
+        "A) Competing in existing markets",
+        "B) Creating uncontested market space",
+        "C) Price wars",
+        "D) Copying competitors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1639ae6e0b9d625ad9d9e38b2fd645b5172e5c4",
+      "sectionIndex": 1,
+      "question": "Strategic alignment requires:",
+      "options": [
+        "A) Copying best practices",
+        "B) Matching organizational capabilities with strategy",
+        "C) Ignoring environment",
+        "D) Focus on tactics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8328b0aed65c3956364044ef7137c0871b3eb2a7",
+      "sectionIndex": 1,
+      "question": "Core competencies become core rigidities when:",
+      "options": [
+        "A) They are too strong",
+        "B) Environment changes but competencies don't adapt",
+        "C) Competition increases",
+        "D) Profits rise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01450469ba1ec485880270d94fb0dda378066887",
+      "sectionIndex": 1,
+      "question": "The balanced scorecard includes all perspectives EXCEPT:",
+      "options": [
+        "A) Financial",
+        "B) Competitor",
+        "C) Customer",
+        "D) Learning and growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e69918f85a87fddf0173a90fbb193a1cfb48226d",
+      "sectionIndex": 1,
+      "question": "First-mover advantages do NOT include:",
+      "options": [
+        "A) Brand recognition",
+        "B) Guaranteed long-term success",
+        "C) Learning curve benefits",
+        "D) Customer switching costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ee749865a827d74dc79e7a8c8186651aaec2305",
+      "sectionIndex": 1,
+      "question": "Strategic groups analysis helps identify:",
+      "options": [
+        "A) Individual competitors only",
+        "B) Clusters of firms with similar strategies",
+        "C) Customer segments",
+        "D) Supplier networks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3fc8cf8da23627cb1aba6adc98de4aafe99f5df",
+      "sectionIndex": 2,
+      "question": "The product life cycle stage requiring highest promotional expenditure is typically:",
+      "options": [
+        "A) Growth",
+        "B) Introduction",
+        "C) Maturity",
+        "D) Decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cff19e956dc436e945d051e813bad14212f4d8a2",
+      "sectionIndex": 2,
+      "question": "Skimming pricing strategy works best when:",
+      "options": [
+        "A) Competition is intense",
+        "B) Product is innovative with price-inelastic demand",
+        "C) Mass market exists",
+        "D) Costs are high"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26d3f7764edc4190c9603a40c0f40da4270a6fc1",
+      "sectionIndex": 2,
+      "question": "Market segmentation is effective when segments are:",
+      "options": [
+        "A) Small and unprofitable",
+        "B) Measurable, accessible, substantial, and actionable",
+        "C) Identical to each other",
+        "D) Constantly changing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ddf9afd115bd59f7e84b1bc223d4326fd902a2f",
+      "sectionIndex": 2,
+      "question": "Positioning strategies should be based on:",
+      "options": [
+        "A) Company preferences only",
+        "B) Competitive advantages meaningful to target customers",
+        "C) Lowest price always",
+        "D) Maximum features"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e40b5337aed2f52d4b29c8598932e157b35e6ebe",
+      "sectionIndex": 2,
+      "question": "The major disadvantage of test marketing is:",
+      "options": [
+        "A) Low cost",
+        "B) Alerting competitors to new products",
+        "C) Quick results",
+        "D) High accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "074bfb3cb296dd747661794ff40187c43af12101",
+      "sectionIndex": 2,
+      "question": "Integrated Marketing Communications ensures:",
+      "options": [
+        "A) Using one media only",
+        "B) Consistent message across all promotional tools",
+        "C) Maximum spending",
+        "D) Avoiding digital media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0457436c64a53578b2f9e9f0cf0b3a26c6910393",
+      "sectionIndex": 2,
+      "question": "Customer lifetime value considers:",
+      "options": [
+        "A) Single transaction only",
+        "B) Total profit from customer over entire relationship",
+        "C) Initial purchase only",
+        "D) Acquisition cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ade8ef201bd04e95a2acde88960926a35aa53f65",
+      "sectionIndex": 2,
+      "question": "Brand equity represents:",
+      "options": [
+        "A) Physical assets only",
+        "B) Added value from brand name recognition",
+        "C) Equipment value",
+        "D) Inventory worth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e00c043f31e0bf79b4e0cf10926e83e7d3a552d8",
+      "sectionIndex": 2,
+      "question": "Pull strategy in promotion focuses on:",
+      "options": [
+        "A) Pushing to retailers",
+        "B) Creating consumer demand to pull through channel",
+        "C) Trade promotion only",
+        "D) Personal selling only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20f9284801713bdb169d398589218f499aaf540f",
+      "sectionIndex": 2,
+      "question": "Marketing channel conflicts arise primarily from:",
+      "options": [
+        "A) Too much cooperation",
+        "B) Goal incompatibility and domain disagreements",
+        "C) Excessive profits",
+        "D) Perfect communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c572e8cc1b0c967ece2f0118c7008c13207f9ac0",
+      "sectionIndex": 3,
+      "question": "A declining current ratio over time indicates:",
+      "options": [
+        "A) Improving liquidity",
+        "B) Potential liquidity problems developing",
+        "C) Better management",
+        "D) Increased profitability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff7f654ea0e86d128182de4844afc5246a045efa",
+      "sectionIndex": 3,
+      "question": "The DuPont analysis breaks ROE into:",
+      "options": [
+        "A) Two components",
+        "B) Profit margin - Asset turnover - Equity multiplier",
+        "C) Single metric",
+        "D) Cash flow components"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f0babd21f01c07078b8a1899f9b5f749e2f067c",
+      "sectionIndex": 3,
+      "question": "Operating leverage is high when:",
+      "options": [
+        "A) Variable costs dominate",
+        "B) Fixed costs are a large proportion of total costs",
+        "C) No fixed costs exist",
+        "D) All costs are equal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "475186d56fe598b14da86d16523020471e42b802",
+      "sectionIndex": 3,
+      "question": "The cash conversion cycle measures:",
+      "options": [
+        "A) Profit generation",
+        "B) Time to convert investments back to cash",
+        "C) Depreciation period",
+        "D) Credit period only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31d7b3cf4e7e9a255824be39e6510bb0acfb16a3",
+      "sectionIndex": 3,
+      "question": "In capital budgeting, NPV is preferred over payback because:",
+      "options": [
+        "A) It's simpler",
+        "B) It considers time value of money and all cash flows",
+        "C) It ignores risk",
+        "D) It's always positive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d32beea4d648de4525f84feddfd09842f770c4e",
+      "sectionIndex": 3,
+      "question": "The IRR rule may give incorrect decisions when:",
+      "options": [
+        "A) Cash flows are conventional",
+        "B) Mutually exclusive projects have different scales",
+        "C) NPV is positive",
+        "D) Discount rate is zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef35ec30d387fe3ef457e33f941b81fa8c1b3c9f",
+      "sectionIndex": 3,
+      "question": "Working capital management trade-off is between:",
+      "options": [
+        "A) Profit and loss",
+        "B) Liquidity and profitability",
+        "C) Debt and equity",
+        "D) Fixed and variable costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73344472bd3d9e236e2895e5559e731e88f925a1",
+      "sectionIndex": 3,
+      "question": "Financial leverage increases:",
+      "options": [
+        "A) Only returns",
+        "B) Both returns and financial risk",
+        "C) Only risk",
+        "D) Operating efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "832b1d886dfab7ada1d7053b515880f92bb6e47e",
+      "sectionIndex": 3,
+      "question": "The optimal capital structure minimizes:",
+      "options": [
+        "A) Equity only",
+        "B) Weighted average cost of capital",
+        "C) Debt only",
+        "D) Total assets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "567e7a014be4fdf993481d00cb383458fec2faea",
+      "sectionIndex": 3,
+      "question": "Agency costs arise from:",
+      "options": [
+        "A) Perfect alignment of interests",
+        "B) Conflicts between principals and agents",
+        "C) Too much cooperation",
+        "D) Efficient markets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e3fc8d2a9e9a341ae4b376a95e8964e257ad2ab",
+      "sectionIndex": 4,
+      "question": "The bullwhip effect in supply chains results from:",
+      "options": [
+        "A) Perfect information sharing",
+        "B) Demand variability amplification upstream",
+        "C) Stable demand",
+        "D) Excess capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb1732e9c6b196ceee7318f25e72a31aa95737a0",
+      "sectionIndex": 4,
+      "question": "Economic Order Quantity (EOQ) model assumes:",
+      "options": [
+        "A) Variable demand",
+        "B) Constant demand and instantaneous replenishment",
+        "C) Quantity discounts",
+        "D) Multiple products"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edbb025ce67a614ba10b4ddf56442fab45773dee",
+      "sectionIndex": 4,
+      "question": "Just-in-Time (JIT) implementation requires:",
+      "options": [
+        "A) Large inventories",
+        "B) Reliable suppliers and quality",
+        "C) Complex systems",
+        "D) Accepting defects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec3824da6167fda5d1b53b3e8013ec36ddf7e16e",
+      "sectionIndex": 4,
+      "question": "The critical path in project management represents:",
+      "options": [
+        "A) Shortest time path",
+        "B) Longest path determining project duration",
+        "C) Most expensive path",
+        "D) Easiest path"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12b7131c331ca3cb4ae9f5f067868b1ed2d50339",
+      "sectionIndex": 4,
+      "question": "Six Sigma quality level means:",
+      "options": [
+        "A) Six defects per unit",
+        "B) 3.4 defects per million opportunities",
+        "C) 6% defect rate",
+        "D) No measurement needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5453bd217e5fc82a2a2c487e462696371cbd79a6",
+      "sectionIndex": 4,
+      "question": "Capacity planning strategies include chase demand, level capacity, and:",
+      "options": [
+        "A) Ignore demand",
+        "B) Mixed strategy combining both",
+        "C) Random production",
+        "D) Overcapacity always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3949d071dddc7599dfabeb6ca6da7179559a06b",
+      "sectionIndex": 4,
+      "question": "Supply chain integration benefits include all EXCEPT:",
+      "options": [
+        "A) Reduced costs",
+        "B) Increased complexity without benefits",
+        "C) Better information flow",
+        "D) Improved responsiveness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39c871b1d99030ad0fa50da223d4ac5ea561483e",
+      "sectionIndex": 4,
+      "question": "Postponement strategy in operations means:",
+      "options": [
+        "A) Delaying all activities",
+        "B) Delaying differentiation until customer order",
+        "C) Immediate production",
+        "D) Avoiding customization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32e7980ea738702c6e5d03aa838ccf3e43613a00",
+      "sectionIndex": 4,
+      "question": "Total Quality Management (TQM) philosophy emphasizes:",
+      "options": [
+        "A) Inspection only",
+        "B) Continuous improvement and customer focus",
+        "C) Accepting defects",
+        "D) Cost cutting only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "894ade78bbf9df2b7eea10ac6caf56cdd5c9d352",
+      "sectionIndex": 4,
+      "question": "Lean manufacturing wastes do NOT include:",
+      "options": [
+        "A) Overproduction",
+        "B) Profitable operations",
+        "C) Waiting time",
+        "D) Excess inventory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c4212ed6fd0c6a00c36cf2b0e8950611a0cb253",
+      "sectionIndex": 5,
+      "question": "Strategic HRM differs from traditional personnel management by:",
+      "options": [
+        "A) Focusing on administration only",
+        "B) Linking HR practices to business strategy",
+        "C) Ignoring business goals",
+        "D) Emphasizing rules only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10da6d29b413822108e6157374f8c7fceb18fcc2",
+      "sectionIndex": 5,
+      "question": "360-degree feedback involves evaluation by:",
+      "options": [
+        "A) Supervisor only",
+        "B) Supervisors, peers, subordinates, and self",
+        "C) Customers only",
+        "D) HR department only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1317ea2029013abd040712419155a5aed9cbe6f0",
+      "sectionIndex": 5,
+      "question": "Competency-based HR systems focus on:",
+      "options": [
+        "A) Job titles only",
+        "B) Skills and behaviors for success",
+        "C) Seniority only",
+        "D) Academic qualifications only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c455de6418706f1826446a332bbe1829249afa4",
+      "sectionIndex": 5,
+      "question": "The main advantage of internal recruitment is:",
+      "options": [
+        "A) Fresh perspectives",
+        "B) Employee motivation and knowledge of culture",
+        "C) Lower standards",
+        "D) No training needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63526c7b1d0fcb94fc6ecec54178d189c1f33e5e",
+      "sectionIndex": 5,
+      "question": "Behaviorally Anchored Rating Scales (BARS) improve appraisals by:",
+      "options": [
+        "A) Using vague criteria",
+        "B) Providing specific behavioral examples",
+        "C) Eliminating ratings",
+        "D) Focusing on personality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd7fce4058b8a0ab26a7f343cf0fc47fadc1d783",
+      "sectionIndex": 5,
+      "question": "Training needs assessment should examine:",
+      "options": [
+        "A) Individual needs only",
+        "B) Organizational, task, and person analysis",
+        "C) Budget only",
+        "D) Competitor practices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a979f41aab4e2412df5d9ce1d34b4104ce93455a",
+      "sectionIndex": 5,
+      "question": "Pay-for-performance systems may fail when:",
+      "options": [
+        "A) Performance is clearly measured",
+        "B) Performance measures are subjective or manipulated",
+        "C) Rewards are substantial",
+        "D) Communication is clear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71ea1e21693b116a1e8fbaad780b1594f2b58f52",
+      "sectionIndex": 5,
+      "question": "High-performance work systems typically include:",
+      "options": [
+        "A) Minimal training",
+        "B) Selective hiring, extensive training, and employee involvement",
+        "C) External focus only",
+        "D) Cost reduction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3758f9c6287939a740147820ee2969a292a90e81",
+      "sectionIndex": 5,
+      "question": "Succession planning importance increases with:",
+      "options": [
+        "A) Stable environment",
+        "B) Retiring baby boomers and talent scarcity",
+        "C) Decreased competition",
+        "D) Simplified jobs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b98823d7f80d7ad9d2e99a37b958ef9d327d5065",
+      "sectionIndex": 5,
+      "question": "Employee engagement differs from satisfaction by:",
+      "options": [
+        "A) Being the same concept",
+        "B) Including emotional commitment and discretionary effort",
+        "C) Focusing on pay only",
+        "D) Ignoring performance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3a2464198ec0f50993c36a5e8d45397b5df0c83",
+      "sectionIndex": 6,
+      "question": "Price elasticity of -2 means:",
+      "options": [
+        "A) 2% quantity increase for 1% price decrease",
+        "B) 2% quantity decrease for 1% price increase",
+        "C) No relationship",
+        "D) Perfect inelasticity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "098735067c6596f96985415af7cbd28a7f90bf32",
+      "sectionIndex": 6,
+      "question": "Psychological pricing ($9.99 vs $10) works because:",
+      "options": [
+        "A) Mathematical difference is large",
+        "B) Consumers perceive larger difference than exists",
+        "C) It confuses customers",
+        "D) Costs are lower"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d3ba489538733bd78ae652f59bf1f04d9de2f76",
+      "sectionIndex": 6,
+      "question": "Channel intensity strategies range from:",
+      "options": [
+        "A) One channel only",
+        "B) Exclusive, selective, to intensive distribution",
+        "C) Direct only",
+        "D) Indirect only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8750eb252a607d5ab1c520863b89cafc8ac128",
+      "sectionIndex": 6,
+      "question": "Sales promotion effectiveness is highest for:",
+      "options": [
+        "A) Building long-term loyalty",
+        "B) Short-term sales boost and trial",
+        "C) Brand image",
+        "D) Premium positioning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8517fde3096652696ee604c15906fa61a64f604",
+      "sectionIndex": 6,
+      "question": "Product line extension risks include:",
+      "options": [
+        "A) Increased revenues only",
+        "B) Cannibalization and brand dilution",
+        "C) No risks exist",
+        "D) Reduced costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1a06b37a4dc4638c9ecc6d35669e0db82fdbfeb",
+      "sectionIndex": 6,
+      "question": "Service marketing differs due to:",
+      "options": [
+        "A) No differences exist",
+        "B) Intangibility, variability, perishability, inseparability",
+        "C) Lower importance",
+        "D) Easier management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6676dc825a5d45fe9f86882cfc073f1169bffe18",
+      "sectionIndex": 6,
+      "question": "Relationship marketing ROI is highest when:",
+      "options": [
+        "A) Customer acquisition cost is low",
+        "B) Customer lifetime value exceeds acquisition cost",
+        "C) Transactions are one-time",
+        "D) Switching costs are zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e008a16f7c8adf02d60e2603df95319ca2cc330",
+      "sectionIndex": 6,
+      "question": "Digital marketing metrics should focus on:",
+      "options": [
+        "A) Impressions only",
+        "B) Conversion rates and customer acquisition cost",
+        "C) Website hits only",
+        "D) Social media likes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5c9b9622208bed70c3caae9cf932438563db055",
+      "sectionIndex": 6,
+      "question": "Co-branding success requires:",
+      "options": [
+        "A) Any two brands",
+        "B) Compatible brand values and target markets",
+        "C) Competition between brands",
+        "D) Different quality levels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dfbf4810df5fadeaaf2381163049436bcdac70f",
+      "sectionIndex": 6,
+      "question": "Marketing mix modeling helps:",
+      "options": [
+        "A) Guess randomly",
+        "B) Optimize allocation across marketing elements",
+        "C) Eliminate marketing",
+        "D) Focus on one element only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe7e40a44045956c86bb0092ba8256d613e76dcc",
+      "sectionIndex": 7,
+      "question": "Zero-based budgeting requires:",
+      "options": [
+        "A) Using last year's budget",
+        "B) Justifying all expenses from zero",
+        "C) No budgeting",
+        "D) Automatic increases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "302ce98bf3a59d34e21e3fda34935957f0a7412c",
+      "sectionIndex": 7,
+      "question": "Activity-based costing provides better cost information by:",
+      "options": [
+        "A) Using simple allocation",
+        "B) Tracing costs to activities that drive them",
+        "C) Ignoring overhead",
+        "D) Volume-based allocation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cebaa67f9d518228c049c2a2e82fd7f99ec695e",
+      "sectionIndex": 7,
+      "question": "The cash budget is critical because:",
+      "options": [
+        "A) Profits equal cash",
+        "B) Profitable companies can face cash shortages",
+        "C) Cash doesn't matter",
+        "D) Accounting handles it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56e9fec6e95c3a7791140e7ea99fcdf42ef1a21f",
+      "sectionIndex": 7,
+      "question": "Sensitivity analysis in financial planning examines:",
+      "options": [
+        "A) Fixed outcomes",
+        "B) How changes in assumptions affect results",
+        "C) Historical data only",
+        "D) Single scenarios"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a0dc0c0feaf13e561dd5701abaeee442974ca45",
+      "sectionIndex": 7,
+      "question": "The sustainable growth rate depends on:",
+      "options": [
+        "A) Sales growth only",
+        "B) ROE and retention ratio",
+        "C) Market conditions only",
+        "D) Competitor growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0354b00faefef8f35d3a347747c79e8a236564ff",
+      "sectionIndex": 7,
+      "question": "Economic Value Added (EVA) improves on accounting profit by:",
+      "options": [
+        "A) Ignoring capital costs",
+        "B) Deducting cost of capital employed",
+        "C) Using cash only",
+        "D) Focusing on revenue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89d0c9fb5715f3f04148330e78ea1f8ecf1860ef",
+      "sectionIndex": 7,
+      "question": "Transfer pricing between divisions affects:",
+      "options": [
+        "A) External sales only",
+        "B) Division profitability and tax obligations",
+        "C) Nothing important",
+        "D) Customer prices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "621b03221777613a535198c292c0470cee780fd9",
+      "sectionIndex": 7,
+      "question": "Capital rationing occurs when:",
+      "options": [
+        "A) Capital is unlimited",
+        "B) Investment capital is constrained",
+        "C) All projects accepted",
+        "D) NPV ignored"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0165607c383d86aed2a8805f69bdeef6e1abe8ff",
+      "sectionIndex": 7,
+      "question": "Real options analysis recognizes:",
+      "options": [
+        "A) Fixed decisions",
+        "B) Managerial flexibility to adapt",
+        "C) No uncertainty",
+        "D) Single outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b7a3535d0912875da167d77c9779a360af948c1",
+      "sectionIndex": 7,
+      "question": "Financial distress costs include:",
+      "options": [
+        "A) Only bankruptcy fees",
+        "B) Lost sales, employee departures, and supplier concerns",
+        "C) Interest payments only",
+        "D) No real costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5de9ce14a381d92f656f65e2c1a1443e02699e6c",
+      "sectionIndex": 8,
+      "question": "Strong organizational cultures can be dysfunctional when they:",
+      "options": [
+        "A) Unite employees",
+        "B) Resist necessary change",
+        "C) Clarify values",
+        "D) Improve performance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de34cee20ffd54768085944d42a3c3c989791906",
+      "sectionIndex": 8,
+      "question": "Groupthink is more likely when:",
+      "options": [
+        "A) Diversity exists",
+        "B) Groups are cohesive with directive leadership",
+        "C) Conflict is encouraged",
+        "D) Time is unlimited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "378f31375328bcd5ac398c1c6c2b6cb23c35f43f",
+      "sectionIndex": 8,
+      "question": "Organizational change resistance stems primarily from:",
+      "options": [
+        "A) Desire for improvement",
+        "B) Fear of unknown and loss of control",
+        "C) Too much communication",
+        "D) Excess resources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1908a3206274ad2839d4a2c8defb9edd5fb35b8",
+      "sectionIndex": 8,
+      "question": "Cross-functional teams succeed best with:",
+      "options": [
+        "A) Functional loyalty",
+        "B) Clear goals and appropriate rewards",
+        "C) Minimal interaction",
+        "D) Departmental focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fac9f5d0ccc2aabb74d666badb341f0399f175f",
+      "sectionIndex": 8,
+      "question": "Emotional intelligence in leadership involves:",
+      "options": [
+        "A) IQ only",
+        "B) Self-awareness and social skills",
+        "C) Technical skills only",
+        "D) Avoiding emotions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f5b897dba330704e26080611ab45415dd453b0e",
+      "sectionIndex": 8,
+      "question": "Organizational learning requires:",
+      "options": [
+        "A) Individual learning only",
+        "B) Systems to capture and share knowledge",
+        "C) Forgetting past",
+        "D) Rigid procedures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe6ae36d9b76e531b555f86bea6f2c1ca2088fc4",
+      "sectionIndex": 8,
+      "question": "Power in organizations comes from:",
+      "options": [
+        "A) Position only",
+        "B) Position, expertise, relationships, and information",
+        "C) Force only",
+        "D) Formal authority only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cd118a1584da28fdc5cee26dbc962a8d808132e",
+      "sectionIndex": 8,
+      "question": "Conflict can be functional when it:",
+      "options": [
+        "A) Is avoided always",
+        "B) Stimulates innovation and change",
+        "C) Becomes personal",
+        "D) Dominates time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b37a7368afc38ff2651720d441c7585013dc32a4",
+      "sectionIndex": 8,
+      "question": "Virtual teams face unique challenges including:",
+      "options": [
+        "A) Too much face time",
+        "B) Building trust and coordinating across time zones",
+        "C) Excessive supervision",
+        "D) No technology needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ee60461ff67a3c022104dd144c98cf186ac3b95",
+      "sectionIndex": 8,
+      "question": "Organizational citizenship behaviors are important because they:",
+      "options": [
+        "A) Are required",
+        "B) Enhance effectiveness beyond formal roles",
+        "C) Replace job duties",
+        "D) Reduce cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44e90f78f5e653a30e296ce0a9d046123b5a0b49",
+      "sectionIndex": 9,
+      "question": "Digital transformation requires:",
+      "options": [
+        "A) Technology only",
+        "B) Business model and cultural change",
+        "C) IT department only",
+        "D) Website only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33ef76cad9ac5f6af95031f7fdfc658958a0b3f4",
+      "sectionIndex": 9,
+      "question": "Sustainability strategies create competitive advantage through:",
+      "options": [
+        "A) Higher costs only",
+        "B) Innovation, efficiency, and reputation",
+        "C) Compliance only",
+        "D) Reduced quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb54eae80b6b15d9c0df254a871f53c1290a6f4a",
+      "sectionIndex": 9,
+      "question": "Platform businesses differ from traditional by:",
+      "options": [
+        "A) Selling products only",
+        "B) Facilitating interactions between users",
+        "C) Manufacturing focus",
+        "D) Linear value chains"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb184f433fa56e935b2c473e8096348954e7d5cd",
+      "sectionIndex": 9,
+      "question": "Agile management principles emphasize:",
+      "options": [
+        "A) Rigid planning",
+        "B) Iterative development and customer collaboration",
+        "C) Documentation over working solutions",
+        "D) Fixed requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb2bf02cb766567273e2238fd74f834a4b5720d1",
+      "sectionIndex": 9,
+      "question": "Big data analytics value comes from:",
+      "options": [
+        "A) Data volume only",
+        "B) Insights for decision making",
+        "C) Storage capacity",
+        "D) Historical reports only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5de5c375d831d1e37278c454b6ef19fbcd469371",
+      "sectionIndex": 9,
+      "question": "Corporate governance failures typically involve:",
+      "options": [
+        "A) Too much oversight",
+        "B) Board independence and executive compensation issues",
+        "C) Excessive transparency",
+        "D) Stakeholder focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f980c51ee9ab2e84af211af2df4407ded9358c3",
+      "sectionIndex": 9,
+      "question": "Innovation ecosystems succeed through:",
+      "options": [
+        "A) Isolation",
+        "B) Collaboration between diverse partners",
+        "C) Internal R&D only",
+        "D) Avoiding risks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8aa97cf438b99e25f4c4cd216d8f2cea988b5903",
+      "sectionIndex": 9,
+      "question": "Customer experience management differs from service quality by:",
+      "options": [
+        "A) Being narrower",
+        "B) Encompassing entire customer journey",
+        "C) Focusing on product only",
+        "D) Ignoring emotions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "920c0646dae80ad854e7f3b41d71a9a946cbf667",
+      "sectionIndex": 9,
+      "question": "Business model innovation is often more important than:",
+      "options": [
+        "A) Any innovation",
+        "B) Product or technological innovation alone",
+        "C) Customer needs",
+        "D) Market existence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "319cbb8f3ec08a04e010ee7833699f8cf907c280",
+      "sectionIndex": 9,
+      "question": "Crisis management effectiveness depends most on:",
+      "options": [
+        "A) Denial strategies",
+        "B) Preparation, transparency, and rapid response",
+        "C) Blame shifting",
+        "D) Media control"
+      ],
+      "correct": "B"
+    }
+  ]
+}

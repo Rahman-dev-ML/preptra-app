@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:30:16.652Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "7db83fe6d1359cb4d3a625da3be93d4910c09ec0",
+      "sectionIndex": 0,
+      "question": "The transformation from jahiliyya to Islamic society represents a paradigm shift best understood through:",
+      "options": [
+        "A) Simple religious conversion",
+        "B) Dialectical synthesis of monotheistic universalism with Arab cultural matrices",
+        "C) Complete cultural erasure",
+        "D) Economic determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc5f92730c25795c1b0cb1a895eb10c282228307",
+      "sectionIndex": 0,
+      "question": "The Treaty of Hudaybiyyah's stipulations seemingly favoring Quraysh actually demonstrate:",
+      "options": [
+        "A) Prophet's weakness",
+        "B) Strategic patience prioritizing long-term legitimacy over immediate gains",
+        "C) Lack of negotiation skills",
+        "D) Divine intervention only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea07becfcf46ee2898668c4103453fd977da12a8",
+      "sectionIndex": 0,
+      "question": "The concept of \"Constitution of Medina\" as an early social contract theory predates Rousseau by showing:",
+      "options": [
+        "A) Theocratic principles",
+        "B) Pluralistic governance based on mutual consent and defined obligations",
+        "C) Tribal supremacy",
+        "D) Religious exclusivism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "796436c21a9d27a9f51ff4abc90de4137bc83089",
+      "sectionIndex": 0,
+      "question": "The Quranic revelation's relationship to Biblical narratives demonstrates:",
+      "options": [
+        "A) Simple borrowing",
+        "B) Corrective recontextualization within Arabian prophetic finality",
+        "C) Complete innovation",
+        "D) Rejection of previous scriptures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba24cc78a1f7c05c11675d99532b51c76898ecaa",
+      "sectionIndex": 0,
+      "question": "The socio-economic reforms regarding women in early Islam must be evaluated against:",
+      "options": [
+        "A) Modern standards only",
+        "B) Contemporary 7th-century practices showing progressive yet contextual change",
+        "C) Unchanging principles",
+        "D) Western feminism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f1a16fa38f0684a913fa96e7912f40cb0f1cf73",
+      "sectionIndex": 0,
+      "question": "The concept of Ummah transcending tribal asabiyyah represents:",
+      "options": [
+        "A) Arab nationalism",
+        "B) Proto-cosmopolitan community based on ethical-spiritual bonds",
+        "C) Mere religious grouping",
+        "D) Political expedience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fa539369b2644f2a3e6c4b1fc6c78e3ea6839a3",
+      "sectionIndex": 0,
+      "question": "The preservation of pre-Islamic poetry alongside Quranic revelation indicates:",
+      "options": [
+        "A) Contradiction",
+        "B) Sophisticated approach to cultural continuity within moral transformation",
+        "C) Oversight",
+        "D) Later fabrication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3b8fd620a468dd6400993f76d889eeaaccb4f99",
+      "sectionIndex": 0,
+      "question": "The Prophet's multiple roles as spiritual leader, statesman, and military commander challenge:",
+      "options": [
+        "A) Nothing significant",
+        "B) Weber's typology of authority showing charismatic-traditional-legal synthesis",
+        "C) Religious leadership",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "faeeb63fab907d351dafb950a0c428925a8d388f",
+      "sectionIndex": 0,
+      "question": "The Meccan verses' emphasis on metaphysical themes versus Medinan legal content reflects:",
+      "options": [
+        "A) Inconsistency",
+        "B) Pedagogical progression from spiritual foundation to social implementation",
+        "C) Different authors",
+        "D) Random organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fa670ee8a9bf2836a32847957589474bbd9d5f9",
+      "sectionIndex": 0,
+      "question": "The rapid expansion after Hudaybiyyah demonstrates the treaty's function as:",
+      "options": [
+        "A) Military tactic",
+        "B) Legitimacy-building mechanism enabling peaceful conversion dynamics",
+        "C) Lucky accident",
+        "D) Divine miracle only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4062d1f2bf199e27a69ae0fe805ea3fa3d4e181f",
+      "sectionIndex": 1,
+      "question": "The variation in succession methods among the four caliphs reveals:",
+      "options": [
+        "A) Constitutional failure",
+        "B) Adaptive flexibility responding to evolving sociopolitical contexts",
+        "C) Arbitrary selection",
+        "D) Predetermined plan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d3d04d719d6235e53f81e77accf0f58f09d1721",
+      "sectionIndex": 1,
+      "question": "Abu Bakr's suppression of Ridda movements established precedent for:",
+      "options": [
+        "A) Religious persecution",
+        "B) State monopoly on legitimate violence defending communal integrity",
+        "C) Tribal warfare",
+        "D) Economic exploitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d1bf920b47a7737508a71368e012bdecba87445",
+      "sectionIndex": 1,
+      "question": "Umar's administrative innovations synthesized:",
+      "options": [
+        "A) Arab traditions only",
+        "B) Byzantine-Sassanid bureaucratic rationality with Islamic ethical governance",
+        "C) Complete innovation",
+        "D) Temporary measures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "347de6d381c5b23456532af31341d84dc2d40f7e",
+      "sectionIndex": 1,
+      "question": "The fitna following Uthman's assassination reveals:",
+      "options": [
+        "A) Personal conflicts only",
+        "B) Structural tensions between metropolitan center and provincial peripheries",
+        "C) Religious disputes",
+        "D) Foreign conspiracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6664cc98c223a159f8bd0b569b8ad43190a8f0a9",
+      "sectionIndex": 1,
+      "question": "Ali's caliphate represents the tension between:",
+      "options": [
+        "A) Religion and politics",
+        "B) Charismatic legitimacy and emerging dynastic tendencies",
+        "C) Arabs and non-Arabs",
+        "D) Rich and poor only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0494fdef7708c706a95a6b07263d8d296f20cbd",
+      "sectionIndex": 1,
+      "question": "The Khawarij emergence demonstrates:",
+      "options": [
+        "A) Extremism only",
+        "B) Egalitarian protest against political compromise of religious ideals",
+        "C) Tribal rebellion",
+        "D) Economic grievance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb8da15b3ca1256f5d323485fba0fbc12d94f114",
+      "sectionIndex": 1,
+      "question": "The compilation of Quran under Uthman addressed:",
+      "options": [
+        "A) Textual corruption",
+        "B) Dialectical variations threatening long-term textual unity",
+        "C) Political control",
+        "D) Educational needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0be7181ccab3616717e3bbf66176ad42b3a2660e",
+      "sectionIndex": 1,
+      "question": "The evolution from Shura to dynastic succession illustrates:",
+      "options": [
+        "A) Islamic failure",
+        "B) Khaldunian cycle of tribal solidarity to urban dynasty",
+        "C) Western influence",
+        "D) Natural progression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6086b564e6620ada78cbeba6b559735bcff4d326",
+      "sectionIndex": 1,
+      "question": "The Rashidun expansion's rapid success challenges theories of:",
+      "options": [
+        "A) Military superiority only",
+        "B) Monocausal explanation requiring multi-factorial analysis",
+        "C) Religious motivation",
+        "D) Economic incentive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f73688066eea5d4d4e20deef7abbd86b69214170",
+      "sectionIndex": 1,
+      "question": "The \"Rightly-Guided\" designation itself represents:",
+      "options": [
+        "A) Historical fact",
+        "B) Later idealization constructing normative political theology",
+        "C) Contemporary term",
+        "D) Unanimous agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55cecfed184ffebbadafd06b29b34a800912d067",
+      "sectionIndex": 2,
+      "question": "The Umayyad \"Arab Kingdom\" thesis by Wellhausen requires revision considering:",
+      "options": [
+        "A) Arab dominance",
+        "B) Complex negotiations between Arab privilege and Islamic universalism",
+        "C) Complete accuracy",
+        "D) Modern nationalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6822030f4c8bc7b1419a3af00ff90c375fcf0565",
+      "sectionIndex": 2,
+      "question": "The Damascus-based Umayyads' Byzantine administrative adaptations demonstrate:",
+      "options": [
+        "A) Lack of originality",
+        "B) Pragmatic synthesis creating hybrid governmental forms",
+        "C) Cultural surrender",
+        "D) Temporary borrowing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eb3e18f1821319802306eecd338c6052abd9b56",
+      "sectionIndex": 2,
+      "question": "The Mawali problem under Umayyads exemplifies:",
+      "options": [
+        "A) Racial prejudice only",
+        "B) Contradiction between Islamic egalitarianism and tribal social stratification",
+        "C) Economic issue",
+        "D) Minor tension"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83d406f3e260b66cd169ac5d2be3e524b63dc9e1",
+      "sectionIndex": 2,
+      "question": "Abd al-Malik's architectural programs (Dome of Rock, Al-Aqsa) served:",
+      "options": [
+        "A) Religious purposes only",
+        "B) Complex legitimation competing with Byzantine-Sassanid monumental traditions",
+        "C) Personal pleasure",
+        "D) Economic stimulus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee8b0e5ad5377625ed485dcbbaaf1c3bff73e30e",
+      "sectionIndex": 2,
+      "question": "The Arabization policy's long-term impact created:",
+      "options": [
+        "A) Cultural uniformity",
+        "B) Linguistic framework for later Islamic cosmopolitanism",
+        "C) Arab supremacy",
+        "D) Administrative efficiency only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "338bc65628a4886b3ab350276062d45789f47111",
+      "sectionIndex": 2,
+      "question": "Umayyad court culture's \"impiety\" reputation reflects:",
+      "options": [
+        "A) Historical reality",
+        "B) Abbasid propaganda and competing visions of Islamic governance",
+        "C) Western bias",
+        "D) Accurate assessment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7ffc09002f708caaff01fa7db88961a9e30520a",
+      "sectionIndex": 2,
+      "question": "The Second Civil War's ideological dimensions reveal:",
+      "options": [
+        "A) Personal ambitions",
+        "B) Fundamental disputes over caliphal legitimacy and community definition",
+        "C) Economic conflicts",
+        "D) Regional rivalries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09603ae8362018c9a13f1f34ac8dd92aed189d5d",
+      "sectionIndex": 2,
+      "question": "Umayyad Spain's survival demonstrates:",
+      "options": [
+        "A) Geographic isolation",
+        "B) Successful peripheral adaptation of metropolitan political culture",
+        "C) European support",
+        "D) Military strength only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16c107d19af41ae180439b9a284f50ad8dc08144",
+      "sectionIndex": 2,
+      "question": "The Umayyad administrative-military apparatus' efficiency challenges narratives of:",
+      "options": [
+        "A) Their competence",
+        "B) Simple \"secular\" rule ignoring sophisticated religious-political integration",
+        "C) Their expansion",
+        "D) Their legitimacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "796c35e9b898f22c3ff5156509daab392332e534",
+      "sectionIndex": 2,
+      "question": "The Abbasid revolution's success required:",
+      "options": [
+        "A) Military superiority",
+        "B) Coalition building exploiting diverse grievances under religious ideology",
+        "C) Foreign support",
+        "D) Economic crisis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d65e199e9306709234498d818bc64daa664927d",
+      "sectionIndex": 3,
+      "question": "The Abbasid \"revolution\" represents less regime change than:",
+      "options": [
+        "A) Complete transformation",
+        "B) Reconfiguration of elite networks maintaining imperial structures",
+        "C) Return to Rashidun",
+        "D) Foreign conquest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "267881108c5f4b3b7b74fb5abe18e7a6dfef97b8",
+      "sectionIndex": 3,
+      "question": "Baghdad's foundation as \"Round City\" symbolically expressed:",
+      "options": [
+        "A) Architectural preference",
+        "B) Cosmological-political vision of universal caliphate",
+        "C) Defense needs",
+        "D) Economic planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a2955089723eb07c4bbb91307b0ec40eb11a634",
+      "sectionIndex": 3,
+      "question": "The Translation Movement's epistemological impact involved:",
+      "options": [
+        "A) Preserving texts only",
+        "B) Creating synthetic rationalist discourse transforming Islamic thought",
+        "C) Undermining Islam",
+        "D) Temporary phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc3be64eee1aed9049942726b747c4785e8d649d",
+      "sectionIndex": 3,
+      "question": "The Mihna controversy fundamentally concerned:",
+      "options": [
+        "A) Theological minutiae",
+        "B) State authority over religious interpretation and scholarly autonomy",
+        "C) Personal rivalry",
+        "D) Economic control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d45fbddd42299694ef85112dfb8b40334f70a72d",
+      "sectionIndex": 3,
+      "question": "The emergence of semi-autonomous dynasties reflects:",
+      "options": [
+        "A) Abbasid weakness only",
+        "B) Structural limitations of pre-modern imperial administration",
+        "C) Disloyalty",
+        "D) Foreign invasion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c978209f7965460a0a4b6b07bd8d8b6b0b054351",
+      "sectionIndex": 3,
+      "question": "Abbasid court ceremonial's Persianization demonstrates:",
+      "options": [
+        "A) Cultural defeat",
+        "B) Conscious adoption of universalist imperial symbolism",
+        "C) Abandoning Arab identity",
+        "D) Personal preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f43103ff85aa92903cafe14df582ccabb89f70d8",
+      "sectionIndex": 3,
+      "question": "The Zanj Rebellion reveals:",
+      "options": [
+        "A) Racial conflict only",
+        "B) Complex intersection of social, economic, and religious grievances",
+        "C) Foreign agitation",
+        "D) Minor uprising"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d08438b49664dc7b2d0466a7bf1e888372190e9",
+      "sectionIndex": 3,
+      "question": "The Buyid period represents:",
+      "options": [
+        "A) Abbasid collapse",
+        "B) Symbiotic relationship between military power and caliphal legitimacy",
+        "C) Shia dominance",
+        "D) Foreign occupation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8690d5083b311fa528d166bcd6662e812a12ee2e",
+      "sectionIndex": 3,
+      "question": "The development of Islamic legal schools during early Abbasid period shows:",
+      "options": [
+        "A) Religious innovation",
+        "B) Systematization responding to imperial administrative needs",
+        "C) Sectarian division",
+        "D) Scholarly competition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c54e89fef26081a370608b0b26cf80bf17fc62b5",
+      "sectionIndex": 3,
+      "question": "The Mongol destruction of Baghdad (1258) symbolically ended:",
+      "options": [
+        "A) Islam itself",
+        "B) Classical phase of Islamic civilization requiring new adaptations",
+        "C) All culture",
+        "D) Abbasid rule only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2cd6fb036c7249134837274983535a797a4b598",
+      "sectionIndex": 4,
+      "question": "The \"Ornament of the World\" thesis about Andalusian convivencia requires:",
+      "options": [
+        "A) Complete acceptance",
+        "B) Nuanced analysis of hierarchical pluralism versus modern tolerance",
+        "C) Total rejection",
+        "D) Romantic idealization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1ad971b97e5e1e2954f2fdfca2aad0ccdb3d660",
+      "sectionIndex": 4,
+      "question": "Abd al-Rahman III's caliphal proclamation (929) represents:",
+      "options": [
+        "A) Megalomania",
+        "B) Assertion of sovereignty in multipolar Islamic world",
+        "C) Religious innovation",
+        "D) Response to Christianity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43cb20106ff14e37dd11c8ba4fd6f6ae5d1651ba",
+      "sectionIndex": 4,
+      "question": "The Taifa period's cultural fluorescence amid political fragmentation demonstrates:",
+      "options": [
+        "A) Paradox",
+        "B) Decentralized patronage systems fostering competitive cultural production",
+        "C) Decline",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90a96f495ba9ea9004987078f0910448138aaa86",
+      "sectionIndex": 4,
+      "question": "Almoravid and Almohad interventions reveal tensions between:",
+      "options": [
+        "A) Morocco and Spain",
+        "B) Reformist rigor and Andalusian cosmopolitan synthesis",
+        "C) Military powers",
+        "D) Economic interests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2971b19b2010be0b8cc81837cd4cad22716b0e39",
+      "sectionIndex": 4,
+      "question": "The Toledo translation movement's impact on European thought shows:",
+      "options": [
+        "A) One-way transmission",
+        "B) Complex cultural mediation transforming both traditions",
+        "C) Simple copying",
+        "D) Limited influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d70c676ee80e75cdd05ee4aa3592d346ed20f7bb",
+      "sectionIndex": 4,
+      "question": "Ibn Rushd's defense of philosophy against Ghazali represents:",
+      "options": [
+        "A) Personal dispute",
+        "B) Fundamental epistemological debate about reason and revelation",
+        "C) Regional difference",
+        "D) Temporal disagreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9c8df54ce7d9fb7029305d27ee893ff3394ced1",
+      "sectionIndex": 4,
+      "question": "The Mudéjar phenomenon post-Reconquista illustrates:",
+      "options": [
+        "A) Muslim submission",
+        "B) Negotiated cultural persistence within Christian hegemony",
+        "C) Complete assimilation",
+        "D) Temporary arrangement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "659e926479d6da2ce28add04cd3403e0aae694c4",
+      "sectionIndex": 4,
+      "question": "Andalusian agricultural manuals' influence demonstrates:",
+      "options": [
+        "A) Technical knowledge only",
+        "B) Ecological transformation of European landscape and diet",
+        "C) Limited local impact",
+        "D) Theoretical knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52b364cdece707e32643e6ce07a0d8660013b958",
+      "sectionIndex": 4,
+      "question": "The \"loss of al-Andalus\" in Muslim historical memory functions as:",
+      "options": [
+        "A) Simple nostalgia",
+        "B) Complex metaphor for civilizational decline and renewal",
+        "C) Historical fact only",
+        "D) Propaganda tool"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ed996b117dd2430ea6edcd3479fe4fbda82483d",
+      "sectionIndex": 4,
+      "question": "Modern invocations of Andalusian convivencia serve:",
+      "options": [
+        "A) Historical accuracy",
+        "B) Contemporary agendas about pluralism and coexistence",
+        "C) Tourist promotion",
+        "D) Academic interest only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ddc63568c4fc6ded74915df1d82dc3c96f5fe94",
+      "sectionIndex": 5,
+      "question": "Ottoman success represents synthesis of:",
+      "options": [
+        "A) Turkish traditions only",
+        "B) Byzantine, Islamic, and Turkic institutional traditions",
+        "C) Military power alone",
+        "D) Religious zeal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "007a5d3f73f058e09a52532bf4308c5332f70058",
+      "sectionIndex": 5,
+      "question": "The devshirme system's creation of slave-elite challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Conventional theories of slavery and social mobility",
+        "C) Islamic law only",
+        "D) Military organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39144234c165f464492d8969de9d765f7c4b151f",
+      "sectionIndex": 5,
+      "question": "Ottoman Islamic legitimacy involved:",
+      "options": [
+        "A) Caliphal claim only",
+        "B) Complex blend of ghazi tradition, caliphal succession, and custodianship",
+        "C) Military conquest",
+        "D) Scholarly approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33fd296b65e4fef9cbae8b4ba214a4977bd4645c",
+      "sectionIndex": 5,
+      "question": "The millet system's often-praised tolerance actually maintained:",
+      "options": [
+        "A) Perfect equality",
+        "B) Hierarchical differentiation within imperial stability",
+        "C) Modern pluralism",
+        "D) Religious freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6281718802ff8a0b094f8e9ef62b4f8dd9d2eab0",
+      "sectionIndex": 5,
+      "question": "Tanzimat reforms represent attempt to:",
+      "options": [
+        "A) Westernize completely",
+        "B) Defensive modernization preserving imperial integrity",
+        "C) Return to tradition",
+        "D) Appease Europe"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "529e1ee97e3ba1570cd6d0f016b33ff63d448d5b",
+      "sectionIndex": 5,
+      "question": "The \"Sick Man of Europe\" narrative obscures:",
+      "options": [
+        "A) Nothing important",
+        "B) Ottoman adaptive resilience and internal reform dynamics",
+        "C) Military weakness",
+        "D) Economic decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a20e7ddce3c6e7669ca09bbd20a5482957e1e068",
+      "sectionIndex": 5,
+      "question": "Ottoman decline theories focusing on military defeat ignore:",
+      "options": [
+        "A) Facts",
+        "B) Complex global economic shifts and internal transformations",
+        "C) Political factors",
+        "D) Cultural issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8917bd6a96717027d5cf688e66136b1d45fa99dc",
+      "sectionIndex": 5,
+      "question": "The relationship between Ottoman state and ulema demonstrates:",
+      "options": [
+        "A) Religious control",
+        "B) Negotiated authority between political and religious legitimacy",
+        "C) Separation",
+        "D) Conflict only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fc963e7a4258c7ed007cd6d5054b0e514da898d",
+      "sectionIndex": 5,
+      "question": "World War I Ottoman participation reflected:",
+      "options": [
+        "A) German manipulation",
+        "B) Calculated risk amid existential threats to territorial integrity",
+        "C) Religious obligation",
+        "D) Popular demand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "873181aac03255101ec64a2ca05058e479ff5c85",
+      "sectionIndex": 5,
+      "question": "The Caliphate's abolition (1924) created:",
+      "options": [
+        "A) No impact",
+        "B) Symbolic vacuum still debated in Islamic political thought",
+        "C) Immediate replacement",
+        "D) Universal acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8845d047fa830fa0c05f08b093ce36bc648fe6eb",
+      "sectionIndex": 6,
+      "question": "The \"Golden Age\" narrative of Islamic science risks:",
+      "options": [
+        "A) Overstatement",
+        "B) Essentializing while obscuring continuous tradition of inquiry",
+        "C) Accuracy",
+        "D) Understatement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e063a2fcbb206a2bc52ec90d6920342dd2021f2",
+      "sectionIndex": 6,
+      "question": "Islamic philosophers' engagement with Aristotle produced:",
+      "options": [
+        "A) Simple commentary",
+        "B) Creative synthesis generating new philosophical problems",
+        "C) Rejection",
+        "D) Translation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ea7157aa1fc98c0c5b2a8da55d0a0746956ac9e",
+      "sectionIndex": 6,
+      "question": "The \"decline thesis\" of Islamic science after 1200 CE is challenged by:",
+      "options": [
+        "A) No evidence",
+        "B) Continued innovations in astronomy, mathematics, and medicine",
+        "C) Western propaganda",
+        "D) Modern discoveries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8140507b211b70f492e26b149efd49751f82e6f",
+      "sectionIndex": 6,
+      "question": "Al-Ghazali's supposed anti-rationalism requires reevaluation showing:",
+      "options": [
+        "A) Complete opposition",
+        "B) Sophisticated critique of philosophical overreach, not reason itself",
+        "C) Support for philosophy",
+        "D) Indifference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58569bdbe14ab217534db6e0995f2a509a0d4965",
+      "sectionIndex": 6,
+      "question": "Ibn Khaldun's cyclical history theory anticipates:",
+      "options": [
+        "A) Nothing modern",
+        "B) Sociological analysis of state formation and decline",
+        "C) Religious determinism",
+        "D) Linear progress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01fea2769210a2f5541abcb0114ee2c3ab884170",
+      "sectionIndex": 6,
+      "question": "Islamic hospitals' medical education system pioneered:",
+      "options": [
+        "A) Basic training",
+        "B) Clinical observation, examination systems, and specialized departments",
+        "C) Religious healing",
+        "D) Theoretical study only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ccc3e497f03c38f6b05bea59f5643574d2e58c2",
+      "sectionIndex": 6,
+      "question": "The appropriation debate around Islamic science involves:",
+      "options": [
+        "A) Simple transmission",
+        "B) Complex questions of cultural interaction and knowledge ownership",
+        "C) No controversy",
+        "D) Clear boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fffd90b2c6a43e2f060d045102b78152bbb05029",
+      "sectionIndex": 6,
+      "question": "Alhazen's experimental method predated European scientific revolution by:",
+      "options": [
+        "A) Accident",
+        "B) Developing systematic empirical investigation procedures",
+        "C) Divine inspiration",
+        "D) Greek influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28c4dcd22c97b45f876ea73edeb858040c18215e",
+      "sectionIndex": 6,
+      "question": "Islamic astronomical critiques of Ptolemy influenced:",
+      "options": [
+        "A) Arabs only",
+        "B) Copernican revolution through mathematical models",
+        "C) Astrology",
+        "D) Navigation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f5139ea09e4e005aad9ffc075bf23b80700ed81",
+      "sectionIndex": 6,
+      "question": "The integration of revealed and rational knowledge in Islam created:",
+      "options": [
+        "A) Conflict",
+        "B) Unique epistemological framework for scientific inquiry",
+        "C) Stagnation",
+        "D) Separation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a8d5d3d4728bcf498cf71b7d7eb3d3fe626b1e5",
+      "sectionIndex": 7,
+      "question": "Islamic modernism's attempt to reconcile revelation with reason reflects:",
+      "options": [
+        "A) Westernization",
+        "B) Indigenous reform responding to epistemological challenges",
+        "C) Abandoning tradition",
+        "D) Superficial change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdb6d556917a394907e405442494f3750ae0ed79",
+      "sectionIndex": 7,
+      "question": "The failure of Pan-Islamism reveals:",
+      "options": [
+        "A) Religious weakness",
+        "B) Nation-state system's triumph over transnational religious solidarity",
+        "C) Western conspiracy",
+        "D) Lack of interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d5b13fbb87ed064d72128ad46ecedbfa1ca1fa8",
+      "sectionIndex": 7,
+      "question": "Secular nationalism in Muslim countries produced:",
+      "options": [
+        "A) Complete secularization",
+        "B) Hybrid formations negotiating religious and secular legitimacy",
+        "C) Religious elimination",
+        "D) Western democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d3e2cfb07c42439f4e24944fb87743c13f8ddd6",
+      "sectionIndex": 7,
+      "question": "The \"Islamic revival\" phenomenon represents:",
+      "options": [
+        "A) Simple return",
+        "B) Modern movement responding to postcolonial identity crises",
+        "C) Medieval restoration",
+        "D) Temporary phase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "392b17ec3dbb99011ca04fc2324b77889ae3794c",
+      "sectionIndex": 7,
+      "question": "Muslim feminist movements challenge:",
+      "options": [
+        "A) Islam only",
+        "B) Both patriarchal interpretations and Western feminist universalism",
+        "C) Tradition only",
+        "D) Nothing significant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98675e2adb40de5b34db761dce75458afdc7f097",
+      "sectionIndex": 7,
+      "question": "The democracy-Islam compatibility debate often ignores:",
+      "options": [
+        "A) Everything",
+        "B) Historical contingency of both concepts requiring contextual analysis",
+        "C) Clear incompatibility",
+        "D) Perfect harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91c9deb3f81b3e2770be295d60542a7dbb06edf5",
+      "sectionIndex": 7,
+      "question": "Political Islam's diverse manifestations from Turkey's AKP to Iran demonstrate:",
+      "options": [
+        "A) Uniformity",
+        "B) Context-specific adaptations of Islamic political discourse",
+        "C) Theocracy only",
+        "D) Failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6238dbe7dc473a5ac575dcd5651a4f344ab9eed",
+      "sectionIndex": 7,
+      "question": "The \"clash of civilizations\" thesis fails by:",
+      "options": [
+        "A) Being too generous",
+        "B) Essentializing dynamic, internally diverse traditions",
+        "C) Accuracy",
+        "D) Understatement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf42f60061a4397a6da8031bcf341a616f043186",
+      "sectionIndex": 7,
+      "question": "Contemporary Islamic finance represents:",
+      "options": [
+        "A) Ancient practice",
+        "B) Modern innovation claiming traditional authenticity",
+        "C) Western banking",
+        "D) Complete alternative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7df6defef4241d9a4281c0ea3aaa6010db03fbbc",
+      "sectionIndex": 7,
+      "question": "Muslim diaspora experiences produce:",
+      "options": [
+        "A) Assimilation only",
+        "B) Hybrid identities challenging both origin and host cultures",
+        "C) Isolation",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d396dcbd4c480fe7f74164a81388fb8b7f1fa703",
+      "sectionIndex": 8,
+      "question": "The Sufi-Salafi tension represents deeper conflict between:",
+      "options": [
+        "A) Mysticism and law",
+        "B) Experiential and textual approaches to religious authority",
+        "C) Innovation and tradition",
+        "D) Individual and community"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fd60b6b49181180dfe0a0be65539b9e1634ed8c",
+      "sectionIndex": 8,
+      "question": "Modern Islamic governance theories struggle with:",
+      "options": [
+        "A) Implementation only",
+        "B) Reconciling divine sovereignty with popular sovereignty",
+        "C) Western opposition",
+        "D) Lack of models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5c69324fca930ac6640b1d0a2529f2b97c88737",
+      "sectionIndex": 8,
+      "question": "The \"Islamic state\" concept's modern iterations differ from historical caliphate in:",
+      "options": [
+        "A) Name only",
+        "B) Ideological construction versus evolved institution",
+        "C) No difference",
+        "D) Geographic scope"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9d495b4ddbcdd370b71f9619e9f3a14359fc038",
+      "sectionIndex": 8,
+      "question": "Contemporary ijtihad debates reflect tensions between:",
+      "options": [
+        "A) Scholars only",
+        "B) Textual authority and contextual reasoning",
+        "C) Tradition and modernity",
+        "D) Schools of law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b3f4ff77ecc8999f16ca4b977da7017d67e43fe",
+      "sectionIndex": 8,
+      "question": "The privatization of Islamic authority in modern times results from:",
+      "options": [
+        "A) Government policy",
+        "B) State monopoly breakdown and new media technologies",
+        "C) Western influence",
+        "D) Educational decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0c3e5c2369f46e23ad973f8ad3e234bb9986b5a",
+      "sectionIndex": 8,
+      "question": "Islamic movements' engagement with democracy reveals:",
+      "options": [
+        "A) Rejection",
+        "B) Pragmatic adaptation with theoretical tensions",
+        "C) Full acceptance",
+        "D) No engagement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78503c08901c5866d3d2c9151530cf1d7fb365c9",
+      "sectionIndex": 8,
+      "question": "The Sharia implementation debates often conflate:",
+      "options": [
+        "A) Nothing",
+        "B) Historically contingent fiqh with divine Sharia",
+        "C) Law and ethics",
+        "D) Theory and practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ee63a19acbbb1e6fcacb246ff0b61373ef7b7de",
+      "sectionIndex": 8,
+      "question": "Contemporary Islamic political thought's diversity challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Monolithic representations of \"political Islam\"",
+        "C) Western democracy",
+        "D) Traditional authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c64fc8cf916b02339ecc61151e5fd821d8edd07",
+      "sectionIndex": 8,
+      "question": "The \"post-Islamist\" thesis suggests:",
+      "options": [
+        "A) Islam's defeat",
+        "B) Evolution from ideological to pragmatic religious politics",
+        "C) Secularization",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3bec5608051ad5389ef4a3ceda8ee30046fe5cd",
+      "sectionIndex": 8,
+      "question": "Modern fatwa-giving's democratization through internet creates:",
+      "options": [
+        "A) Chaos only",
+        "B) Authority fragmentation and interpretive pluralism",
+        "C) Unity",
+        "D) Traditional restoration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "748c458af89f8b3df842933be8bb0f19294ae692",
+      "sectionIndex": 9,
+      "question": "Islamic architecture's supposed \"anti-figural\" nature actually reflects:",
+      "options": [
+        "A) Quranic prohibition",
+        "B) Complex theological and cultural negotiations with representation",
+        "C) Artistic inability",
+        "D) Universal rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d07407de9c871472b2474619891d3bc4ce4a8767",
+      "sectionIndex": 9,
+      "question": "The \"Islamic city\" model criticized by recent scholarship shows:",
+      "options": [
+        "A) Clear pattern",
+        "B) Orientalist idealization ignoring diverse urban forms",
+        "C) No criticism needed",
+        "D) Unique structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f27e7e14a13981f7ec4aafa2779ac6956034cb4a",
+      "sectionIndex": 9,
+      "question": "Contemporary mosque architecture debates reveal tensions between:",
+      "options": [
+        "A) Cost only",
+        "B) Authentic tradition and contemporary functionality",
+        "C) Regional styles",
+        "D) Size requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ff4075eea2aa44e6f01463175f4abf9385c4180",
+      "sectionIndex": 9,
+      "question": "Islamic manuscript traditions' digitization raises questions about:",
+      "options": [
+        "A) Technology only",
+        "B) Materiality, authenticity, and democratized access",
+        "C) Cost",
+        "D) Preservation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73e67149861f2536caccafad115eb3586ec861a9",
+      "sectionIndex": 9,
+      "question": "The \"museumification\" of Islamic heritage risks:",
+      "options": [
+        "A) Nothing",
+        "B) Freezing dynamic traditions into static displays",
+        "C) Over-preservation",
+        "D) Education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "face7c0d8532ba54a96617bf134ba6cd30385d2e",
+      "sectionIndex": 9,
+      "question": "Islamic calligraphy's modern transformations demonstrate:",
+      "options": [
+        "A) Decline",
+        "B) Adaptive vitality in new media and contexts",
+        "C) Stagnation",
+        "D) Western influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10776450626c6af7ecd9eddd02c060b22aa4471d",
+      "sectionIndex": 9,
+      "question": "Heritage destruction by extremist groups represents:",
+      "options": [
+        "A) Random violence",
+        "B) Ideological iconoclasm and identity politics",
+        "C) Military strategy",
+        "D) Economic gain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4d0e43fd8b75954a9ff41a14a5495f29206a940",
+      "sectionIndex": 9,
+      "question": "The \"Islamic art\" category itself is problematic because:",
+      "options": [
+        "A) It includes too much",
+        "B) It imposes unity on diverse regional traditions",
+        "C) It's too narrow",
+        "D) It's well-defined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b64e39690c9ae3f8f5919ec4e724c81f045d102",
+      "sectionIndex": 9,
+      "question": "Contemporary Islamic cultural production negotiates between:",
+      "options": [
+        "A) Nothing",
+        "B) Global modernism and distinctive identity claims",
+        "C) Past and present only",
+        "D) East and West only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d8d6b65ebde25995da598c8bf11e10698ce4451",
+      "sectionIndex": 9,
+      "question": "The future of Islamic civilization studies requires:",
+      "options": [
+        "A) Traditional approaches",
+        "B) Post-colonial methodologies acknowledging multiple modernities",
+        "C) Western frameworks",
+        "D) Historical focus only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

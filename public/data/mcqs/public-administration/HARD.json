@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:26:01.106Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "f494ad71e3b58c00a52ae6faa90d3320c720ee66",
+      "sectionIndex": 0,
+      "question": "The incompatibility between Weber's legal-rational authority and New Public Management's entrepreneurial approach fundamentally stems from:",
+      "options": [
+        "A) Different views on efficiency",
+        "B) Tension between rule-based predictability and market-oriented flexibility",
+        "C) Similar underlying assumptions",
+        "D) Focus on different organizational levels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "068c222fa7f2703dddf6e6d86fb7e5ba01c4915e",
+      "sectionIndex": 0,
+      "question": "When applying Riggs' Prismatic-Sala model to Pakistan's administration, the \"formalism\" manifests as:",
+      "options": [
+        "A) Perfect implementation of rules",
+        "B) Gap between formal structures and actual practices",
+        "C) Absence of formal structures",
+        "D) Complete modernization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4228dbcaec24096153af8ed60a12acc9ab91fc0",
+      "sectionIndex": 0,
+      "question": "The critique that Simon's bounded rationality doesn't account for organizational power dynamics suggests:",
+      "options": [
+        "A) Rationality is unbounded",
+        "B) Decision-making involves political dimensions beyond cognitive limits",
+        "C) Organizations are apolitical",
+        "D) Perfect information exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d86721d656ecc7d3690948363c91f5d64903a793",
+      "sectionIndex": 0,
+      "question": "Argyris's concept of double-loop learning challenges bureaucracies because it requires:",
+      "options": [
+        "A) Following existing procedures",
+        "B) Questioning underlying assumptions and values",
+        "C) Single-loop corrections only",
+        "D) Maintaining status quo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "763423e05d72c21fbcd58002bd333a7ab9ec8232",
+      "sectionIndex": 0,
+      "question": "The postmodern critique of public administration's grand narratives implies:",
+      "options": [
+        "A) Universal best practices exist",
+        "B) Context-specific, multiple truths replace universal theories",
+        "C) No theory is needed",
+        "D) Classical theories are sufficient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8b7149ce1c5bb679cd76d489fcf8777db14b1f6",
+      "sectionIndex": 0,
+      "question": "Complexity theory's application to public administration suggests policy outcomes are:",
+      "options": [
+        "A) Linearly predictable",
+        "B) Emergent from non-linear interactions",
+        "C) Always controllable",
+        "D) Determined by single factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deaf10f0ae012441cd7a8eecc976b07c0675c3b0",
+      "sectionIndex": 0,
+      "question": "The tension between Weberian neutrality and representative bureaucracy reflects:",
+      "options": [
+        "A) Perfect compatibility",
+        "B) Competing values of impartiality versus democratic representation",
+        "C) Identical concepts",
+        "D) No real conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e46123207b11a55060b06ca250eb7b16eb572b8b",
+      "sectionIndex": 0,
+      "question": "Critical theory's perspective on public administration emphasizes:",
+      "options": [
+        "A) Technical efficiency only",
+        "B) Hidden power structures and emancipatory potential",
+        "C) Maintaining existing systems",
+        "D) Avoiding political questions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4ab3318380edb57d68e9e340d2699bc5a1285c5",
+      "sectionIndex": 0,
+      "question": "The paradox of New Public Management increasing rules while promoting deregulation occurs because:",
+      "options": [
+        "A) Deregulation needs no oversight",
+        "B) Market mechanisms require new forms of regulation",
+        "C) Rules automatically decrease",
+        "D) Markets self-regulate perfectly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bf789080e1be07d0e716e1816cde253abc0aa51",
+      "sectionIndex": 0,
+      "question": "Feminist theory's critique of bureaucratic rationality centers on:",
+      "options": [
+        "A) Complete irrationality",
+        "B) Masculine bias in supposedly neutral structures",
+        "C) No gender relevance",
+        "D) Biological determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53c8c2a8241041f464fe8f3223314f68164d98ca",
+      "sectionIndex": 1,
+      "question": "The concept of \"governmentality\" (Foucault) in modern administration manifests through:",
+      "options": [
+        "A) Direct coercion only",
+        "B) Subtle techniques of population management and self-regulation",
+        "C) Absence of power",
+        "D) Traditional sovereignty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dce45e561e73763595c9703328117701d53ab08",
+      "sectionIndex": 1,
+      "question": "Metagovernance failure occurs when:",
+      "options": [
+        "A) Networks function perfectly",
+        "B) Attempts to steer governance networks create contradictions",
+        "C) No networks exist",
+        "D) Single actor controls"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe88d5bac71065c9ffc1b2167bea00a8227aa04a",
+      "sectionIndex": 1,
+      "question": "The \"democratic anchorage\" problem in network governance refers to:",
+      "options": [
+        "A) Too much democracy",
+        "B) Difficulty in ensuring democratic accountability in networked decisions",
+        "C) Clear accountability chains",
+        "D) Direct citizen control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9419623798441478d2faf4ccf7627af5d638ada1",
+      "sectionIndex": 1,
+      "question": "Collaborative governance paradoxically may reduce public accountability when:",
+      "options": [
+        "A) Everything is transparent",
+        "B) Diffused responsibility obscures who decides what",
+        "C) Single actor decides",
+        "D) No collaboration exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a080b1712d6e58145c2901079e701db669a153b6",
+      "sectionIndex": 1,
+      "question": "The concept of \"institutional void\" in developing countries' governance means:",
+      "options": [
+        "A) Too many institutions",
+        "B) Absence of effective rules and enforcement mechanisms",
+        "C) Perfect institutional framework",
+        "D) No need for institutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6cd1e458290c752c08b551d783cf2af53cd75f5",
+      "sectionIndex": 1,
+      "question": "Agonistic pluralism in public administration challenges consensus-seeking by arguing:",
+      "options": [
+        "A) Consensus is always possible",
+        "B) Productive conflict is essential for democracy",
+        "C) Conflict should be eliminated",
+        "D) Unity is paramount"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab1605609a7c89a9bf230a6436c89b206bcfc03a",
+      "sectionIndex": 1,
+      "question": "The \"hollowing out\" thesis contradicts the \"filling in\" thesis regarding state capacity, suggesting:",
+      "options": [
+        "A) Simple linear change",
+        "B) Simultaneous state retreat and expansion in different areas",
+        "C) No change in state role",
+        "D) Complete state dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6697a157be681353606b7997e6b59daeb5ae278c",
+      "sectionIndex": 1,
+      "question": "Regulatory capitalism's impact on public administration involves:",
+      "options": [
+        "A) Deregulation only",
+        "B) Shift from providing to regulating services",
+        "C) No regulation",
+        "D) Return to direct provision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0f3faa6f41ca50315cfe274776922ed0654552b",
+      "sectionIndex": 1,
+      "question": "The concept of \"institutional layering\" explains administrative reform failure through:",
+      "options": [
+        "A) Complete replacement",
+        "B) New rules added atop old ones creating contradictions",
+        "C) No institutional change",
+        "D) Perfect integration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "393792d8550dbdef69c2fc0dcf638d8a12ef71a4",
+      "sectionIndex": 1,
+      "question": "Post-democracy's implications for public administration include:",
+      "options": [
+        "A) Enhanced democratic control",
+        "B) Formal democratic structures with reduced substantial citizen influence",
+        "C) No democratic elements",
+        "D) Direct democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e33a21e1dc07590f69f62aa3491049f041bfa84a",
+      "sectionIndex": 2,
+      "question": "The \"garbage can model\" of decision-making suggests organizational choices result from:",
+      "options": [
+        "A) Rational planning",
+        "B) Confluence of problems, solutions, participants, and opportunities",
+        "C) Linear progression",
+        "D) Perfect information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0586db391ace40bddd0f909d4530c6341d02d511",
+      "sectionIndex": 2,
+      "question": "Policy feedback effects create path dependency when:",
+      "options": [
+        "A) Policies have no impact",
+        "B) Policies reshape political dynamics and create constituencies",
+        "C) Easy reversal exists",
+        "D) No learning occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88c856ba9257ef44aeb0f9ab6ff6470f051b65eb",
+      "sectionIndex": 2,
+      "question": "The concept of \"non-decision making\" (Bachrach & Baratz) highlights:",
+      "options": [
+        "A) All issues get addressed",
+        "B) Power to keep issues off the agenda",
+        "C) Only visible decisions matter",
+        "D) Perfect agenda access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e8ebec5e2d01ffd3c12bc3f1325ad3c6861f5d6",
+      "sectionIndex": 2,
+      "question": "Punctuated equilibrium in policy change suggests:",
+      "options": [
+        "A) Constant incremental change",
+        "B) Long stability periods interrupted by radical shifts",
+        "C) No change possible",
+        "D) Predictable linear evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1886a2b6c7446741b8fe91f9138a4245faa3df3",
+      "sectionIndex": 2,
+      "question": "The \"implementation trap\" occurs when:",
+      "options": [
+        "A) Perfect implementation exists",
+        "B) Policy design assumes implementation capacity that doesn't exist",
+        "C) No implementation needed",
+        "D) Automatic success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a619d77675d5abd21ea1e36b644a9546ad60182",
+      "sectionIndex": 2,
+      "question": "Frame reflection in policy practice requires:",
+      "options": [
+        "A) Single perspective",
+        "B) Examining underlying assumptions shaping problem definition",
+        "C) Avoiding multiple views",
+        "D) Fixed problem definition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b9183d2f0e620995cee9155ae90396a028e5418",
+      "sectionIndex": 2,
+      "question": "The concept of \"policy mobilities\" challenges traditional policy transfer by emphasizing:",
+      "options": [
+        "A) Direct copying",
+        "B) Mutation and adaptation during movement across contexts",
+        "C) No transfer possible",
+        "D) Perfect replication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7197e85954ab4ed1cf1292689265fcea89b5bbda",
+      "sectionIndex": 2,
+      "question": "Wicked problems resist solutions because:",
+      "options": [
+        "A) Simple solutions exist",
+        "B) Solutions create new problems in interconnected systems",
+        "C) No stakeholders involved",
+        "D) Clear problem boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "848ade32dbbff5e0d0a9f39545af0fdcfd753eb0",
+      "sectionIndex": 2,
+      "question": "The \"advocacy coalition framework\" explains policy change through:",
+      "options": [
+        "A) Individual actors only",
+        "B) Competing coalitions with shared belief systems",
+        "C) No coalition formation",
+        "D) Random change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca93dda93bd81489eebd02797bbf91ec4d94e681",
+      "sectionIndex": 2,
+      "question": "Evidence-based policy's limitations include:",
+      "options": [
+        "A) Too much objectivity",
+        "B) Value choices disguised as technical decisions",
+        "C) No political influence",
+        "D) Perfect rationality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e86806763ae7e1ac12487de30fda485d6f467cc",
+      "sectionIndex": 3,
+      "question": "Institutional isomorphism in public organizations occurs through:",
+      "options": [
+        "A) Unique development",
+        "B) Coercive, mimetic, and normative pressures creating similarity",
+        "C) No external influence",
+        "D) Complete autonomy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a116b8a01e6ce4340cd6e8aec8010c608881a2c6",
+      "sectionIndex": 3,
+      "question": "The \"iron cage\" metaphor's contemporary relevance lies in:",
+      "options": [
+        "A) Physical constraints",
+        "B) Digital systems creating new forms of bureaucratic control",
+        "C) Complete freedom",
+        "D) No structural constraints"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28f6bb192c18f5afd4844b72847f15eb3d1e4045",
+      "sectionIndex": 3,
+      "question": "Organizational ambidexterity in public sector requires:",
+      "options": [
+        "A) Single focus",
+        "B) Simultaneously exploiting current capabilities while exploring innovation",
+        "C) No innovation",
+        "D) Only efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2575cc2ce8180e8541319948ba9138ed9be71804",
+      "sectionIndex": 3,
+      "question": "The concept of \"organized anarchy\" in public organizations describes:",
+      "options": [
+        "A) Complete chaos",
+        "B) Unclear goals, fluid participation, and ambiguous technology",
+        "C) Perfect order",
+        "D) Clear structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d1a9db5f4617151134aeabdbe005587b3f377bd",
+      "sectionIndex": 3,
+      "question": "Institutional work in public administration involves:",
+      "options": [
+        "A) Passive acceptance",
+        "B) Active efforts to create, maintain, or disrupt institutions",
+        "C) No agency",
+        "D) Automatic processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6bdd9cdd031cae8a9a892bd203d0ea4533f9828",
+      "sectionIndex": 3,
+      "question": "The paradox of empowerment in bureaucracies occurs when:",
+      "options": [
+        "A) Power is freely given",
+        "B) Empowerment initiatives reinforce control mechanisms",
+        "C) No paradox exists",
+        "D) Complete autonomy results"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b23662995308d7334da0b572d2b1f5d5c38dcb5",
+      "sectionIndex": 3,
+      "question": "Sensemaking in crisis situations challenges rational decision-making by:",
+      "options": [
+        "A) Providing clear information",
+        "B) Requiring interpretation of ambiguous, overwhelming information",
+        "C) Eliminating uncertainty",
+        "D) Automatic understanding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c586843478eed73a88439130701588353d06d543",
+      "sectionIndex": 3,
+      "question": "The concept of \"tempered radicals\" in public organizations refers to:",
+      "options": [
+        "A) Violent revolutionaries",
+        "B) Change agents working within system constraints",
+        "C) Status quo defenders",
+        "D) External critics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d69d03ea9ee1bbe6c582211ac191e48bf99f063f",
+      "sectionIndex": 3,
+      "question": "Organizational hypocrisy serves functional purposes by:",
+      "options": [
+        "A) Always being dysfunctional",
+        "B) Allowing organizations to manage conflicting demands",
+        "C) Creating clarity",
+        "D) Eliminating contradictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6baef3bfa3be93e37688e09533cbe9998a665eb4",
+      "sectionIndex": 3,
+      "question": "The performativity of organizational theories means:",
+      "options": [
+        "A) Theories just describe",
+        "B) Theories shape the reality they purport to describe",
+        "C) No practical impact",
+        "D) Pure objectivity exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dd5fc8503807332bf305b372a72ff261f9a2eed",
+      "sectionIndex": 4,
+      "question": "The paradox of performance management in public sector stems from:",
+      "options": [
+        "A) Easy measurement",
+        "B) Multiple, conflicting goals resist simple metrics",
+        "C) Single objectives",
+        "D) Clear causation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f4a361830b00390bc185173e7a7241cf27396e2",
+      "sectionIndex": 4,
+      "question": "Value plurality in public management creates dilemmas when:",
+      "options": [
+        "A) Single value dominates",
+        "B) Equally valid values require trade-offs",
+        "C) No values exist",
+        "D) Perfect harmony exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "086d4084af03b80357ba2bf55cd6ccc65cf57b5f",
+      "sectionIndex": 4,
+      "question": "The concept of \"publicness\" affects organizational behavior through:",
+      "options": [
+        "A) No impact",
+        "B) Political visibility, legal constraints, and multiple stakeholders",
+        "C) Same as private sector",
+        "D) Simpler environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bfc0fceaca80cf26cb6b29bb66849a680cc6b07",
+      "sectionIndex": 4,
+      "question": "Strategic management in public organizations differs fundamentally because:",
+      "options": [
+        "A) Same as private strategy",
+        "B) Political authority supersedes market forces",
+        "C) No strategy needed",
+        "D) Clear goals exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68a1d55034a95a027aa8be2117829c9f9085cd15",
+      "sectionIndex": 4,
+      "question": "The \"expectations treadmill\" in public services means:",
+      "options": [
+        "A) Static expectations",
+        "B) Rising citizen demands outpace capacity improvements",
+        "C) Decreasing demands",
+        "D) Perfect satisfaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8ad57467237f6dad3b17ac7824266e34afd787c",
+      "sectionIndex": 4,
+      "question": "Risk management in public sector is complicated by:",
+      "options": [
+        "A) Simple risk profile",
+        "B) Political blame dynamics and media scrutiny",
+        "C) No risks exist",
+        "D) Private sector methods work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac36732853159f16d995065dba7fc314a5ef568a",
+      "sectionIndex": 4,
+      "question": "The concept of \"public entrepreneurship\" faces inherent tensions with:",
+      "options": [
+        "A) No tensions",
+        "B) Democratic accountability and rule-based systems",
+        "C) Perfect compatibility",
+        "D) Encouragement everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3370b4019d234f3f6c3ee0197f63843ba6d2c74c",
+      "sectionIndex": 4,
+      "question": "Knowledge management in public organizations fails when:",
+      "options": [
+        "A) Too much sharing",
+        "B) Political sensitivities inhibit learning from failures",
+        "C) Perfect memory exists",
+        "D) No knowledge needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "593502b1002c992fecc5378359f1028400e93f1c",
+      "sectionIndex": 4,
+      "question": "The paradox of centralization for decentralization occurs when:",
+      "options": [
+        "A) No paradox exists",
+        "B) Central standards are needed to enable local autonomy",
+        "C) Complete chaos results",
+        "D) Perfect local freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85e8029507bf45cb2585340b47481b8ba220ae20",
+      "sectionIndex": 4,
+      "question": "Public value creation's measurement challenge stems from:",
+      "options": [
+        "A) Easy quantification",
+        "B) Contested definitions of public good",
+        "C) Single stakeholder",
+        "D) Market prices exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd0a5adf19daddc61ddcb1f24f0718aa1477d1e9",
+      "sectionIndex": 5,
+      "question": "The \"varieties of capitalism\" literature suggests administrative systems:",
+      "options": [
+        "A) Converge globally",
+        "B) Remain embedded in distinct political economies",
+        "C) Are identical everywhere",
+        "D) Have no economic connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6443bb7f172241775962f45c36da6ce801f3d94f",
+      "sectionIndex": 5,
+      "question": "Post-socialist administrative transitions demonstrate:",
+      "options": [
+        "A) Easy transformation",
+        "B) Path dependency and institutional legacies' persistence",
+        "C) Complete break possible",
+        "D) No historical influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d36102ceeed4c7d1d1839125fedbdb8551300800",
+      "sectionIndex": 5,
+      "question": "The \"developmental state\" model's transferability is limited by:",
+      "options": [
+        "A) Universal applicability",
+        "B) Specific historical and institutional preconditions",
+        "C) No contextual factors",
+        "D) Easy replication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eaddbd2e6083fc2a6c43df34dc0dfb1b49325f6",
+      "sectionIndex": 5,
+      "question": "Hybrid administrative systems in post-colonial states reflect:",
+      "options": [
+        "A) Pure traditional systems",
+        "B) Layered modernization atop traditional structures",
+        "C) Complete westernization",
+        "D) No colonial impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea761ed3f6a3b8ebc7a02f9068a6f544479a6265",
+      "sectionIndex": 5,
+      "question": "The concept of \"glocalization\" in public administration manifests as:",
+      "options": [
+        "A) Pure localization",
+        "B) Global practices adapted to local contexts",
+        "C) Only globalization",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7971329eb3c85cfedc643e593eba602738b0bab7",
+      "sectionIndex": 5,
+      "question": "Administrative capacity in fragile states is paradoxical because:",
+      "options": [
+        "A) No paradox exists",
+        "B) Strengthening capacity may reinforce problematic power structures",
+        "C) Capacity building always helps",
+        "D) Simple solutions exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e40b3402ebad24450ad799257b2231d87844c5ad",
+      "sectionIndex": 5,
+      "question": "The \"isomorphic mimicry\" problem in developing countries involves:",
+      "options": [
+        "A) Perfect adaptation",
+        "B) Adopting forms without functions of successful systems",
+        "C) No copying occurs",
+        "D) Automatic success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7e299c0d7271f451427bf1a5b90c902d335e523",
+      "sectionIndex": 5,
+      "question": "Transnational administration challenges sovereignty through:",
+      "options": [
+        "A) Reinforcing borders",
+        "B) Creating governance spaces beyond nation-states",
+        "C) No impact",
+        "D) Strengthening states"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ad55f1275e23b3e2166f78272d7af00ab29af7a",
+      "sectionIndex": 5,
+      "question": "The concept of \"administrative traditions\" explains reform resistance through:",
+      "options": [
+        "A) No traditions exist",
+        "B) Deep-seated cultural and institutional patterns",
+        "C) Easy change possible",
+        "D) Universal practices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fa8a7fb34a0b248ab02b3e59935ba5f8c22623c",
+      "sectionIndex": 5,
+      "question": "Regulatory regionalism creates administrative complexity through:",
+      "options": [
+        "A) Simplification",
+        "B) Multiple, overlapping regulatory regimes",
+        "C) Single standards",
+        "D) No coordination needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55cd4dfd34ae511c7b9a4ba9a82903cba8746df1",
+      "sectionIndex": 6,
+      "question": "The \"dirty hands\" problem in public administration occurs when:",
+      "options": [
+        "A) Clean solutions exist",
+        "B) Achieving public good requires morally questionable acts",
+        "C) No ethical issues",
+        "D) Simple choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe2563ef3254d51130204f051d71356953f4f291",
+      "sectionIndex": 6,
+      "question": "Moral distance in bureaucracy enables harmful policies through:",
+      "options": [
+        "A) Close personal connection",
+        "B) Institutional separation from consequences",
+        "C) Enhanced empathy",
+        "D) Direct responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e683497b813e9c87e130c1730b5cd54d37a534c",
+      "sectionIndex": 6,
+      "question": "The tension between procedural and substantive justice in administration manifests when:",
+      "options": [
+        "A) They always align",
+        "B) Fair procedures produce unjust outcomes",
+        "C) No tension exists",
+        "D) Justice is irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e800b137f060d8b0c3a827529164f7bed239de0",
+      "sectionIndex": 6,
+      "question": "Administrative evil becomes possible when:",
+      "options": [
+        "A) Clear evil intent exists",
+        "B) Ordinary actions aggregate into harmful outcomes",
+        "C) No one participates",
+        "D) Easy recognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27b5f4b726b5616311b8cd8c57a8688a33c357a7",
+      "sectionIndex": 6,
+      "question": "The concept of \"moral entrepreneurship\" by public administrators involves:",
+      "options": [
+        "A) Avoiding ethics",
+        "B) Actively promoting ethical reforms beyond formal role",
+        "C) Pure rule following",
+        "D) No initiative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efe2c9d81a6e98136b67bacdb834902fd452fd49",
+      "sectionIndex": 6,
+      "question": "Ethical competence in public administration requires:",
+      "options": [
+        "A) Rule knowledge only",
+        "B) Moral imagination and contextual judgment",
+        "C) Blind obedience",
+        "D) No reflection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "473700f81d4636a748a9efaccb7dd3ac143c4343",
+      "sectionIndex": 6,
+      "question": "The neutrality-responsiveness dilemma intensifies when:",
+      "options": [
+        "A) No conflict exists",
+        "B) Professional values conflict with political demands",
+        "C) Perfect alignment",
+        "D) No professional values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f48f3b90672bc59ff724860b4359b961ae84feaa",
+      "sectionIndex": 6,
+      "question": "Whistleblowing paradoxically may undermine organizational trust while:",
+      "options": [
+        "A) Always harmful",
+        "B) Serving larger public interest",
+        "C) No paradox exists",
+        "D) Building trust"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4faded24ddf68491b8d251e549a7d9b21212f071",
+      "sectionIndex": 6,
+      "question": "The ethics of care challenges administrative justice by:",
+      "options": [
+        "A) Rejecting all care",
+        "B) Emphasizing relationships over abstract principles",
+        "C) No challenge exists",
+        "D) Pure rationality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a60b8904cb8717662955a395481a0c4df3476ffe",
+      "sectionIndex": 6,
+      "question": "Moral blindness in organizations results from:",
+      "options": [
+        "A) Individual evil",
+        "B) Normalized deviance and institutional pressures",
+        "C) Clear visibility",
+        "D) No organizational influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19d39aab2db136a568261aa99d47a3c58c28a117",
+      "sectionIndex": 7,
+      "question": "Algorithmic governance creates accountability challenges through:",
+      "options": [
+        "A) Enhanced transparency",
+        "B) Opaque decision-making and responsibility diffusion",
+        "C) Simple oversight",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "351569ba174f3c8a026ddd0886254d4b045b525c",
+      "sectionIndex": 7,
+      "question": "The concept of \"surveillance capitalism\" impacts public administration by:",
+      "options": [
+        "A) No impact",
+        "B) Blurring public-private boundaries in data governance",
+        "C) Clear separation",
+        "D) Enhanced privacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53b2fca3dcd0898df95713ab59214a2f04ddc9fe",
+      "sectionIndex": 7,
+      "question": "Post-truth politics challenges evidence-based administration through:",
+      "options": [
+        "A) Better evidence use",
+        "B) Undermining shared factual foundations for policy",
+        "C) No impact",
+        "D) Enhanced rationality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f9bbb594ec435687d74545e3fa46f4a5104969a",
+      "sectionIndex": 7,
+      "question": "The Anthropocene's implications for public administration include:",
+      "options": [
+        "A) Business as usual",
+        "B) Fundamental rethinking of human-nature relationships",
+        "C) No environmental relevance",
+        "D) Simple adjustments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05ee2f1bac07116c4a7558250249e2b9aca60bf5",
+      "sectionIndex": 7,
+      "question": "Quantum computing's potential impact on public administration involves:",
+      "options": [
+        "A) No change",
+        "B) Revolutionizing encryption, optimization, and modeling",
+        "C) Minor improvements",
+        "D) Slower processing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28f4dc9fc50039fcf902856cbb2b5ff32acce5be",
+      "sectionIndex": 7,
+      "question": "The concept of \"platform governance\" challenges traditional administration by:",
+      "options": [
+        "A) Reinforcing hierarchy",
+        "B) Creating new intermediary powers between state and citizens",
+        "C) No intermediaries",
+        "D) Direct control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "171f59ddeb50944259137dba786fc16d16ea73cd",
+      "sectionIndex": 7,
+      "question": "Biopolitics in contemporary administration manifests through:",
+      "options": [
+        "A) Ignoring biology",
+        "B) Managing populations via health, security, and risk",
+        "C) Individual focus only",
+        "D) No population concern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1e89c8138b34c8b580c7a9b59659789834f5383",
+      "sectionIndex": 7,
+      "question": "The \"right to disconnect\" challenges 24/7 governance expectations by:",
+      "options": [
+        "A) Enhancing availability",
+        "B) Asserting boundaries in digital age",
+        "C) No boundaries needed",
+        "D) Constant connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a5e756a1ec79bb4440dc02a2511cfa4c36e26ea",
+      "sectionIndex": 7,
+      "question": "Degrowth economics implications for public administration include:",
+      "options": [
+        "A) Growth focus",
+        "B) Redefining progress beyond GDP",
+        "C) No economic relevance",
+        "D) Traditional measures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbbf433151cb680d86cbd16f66736f94b9c688a5",
+      "sectionIndex": 7,
+      "question": "Posthuman governance concepts challenge administration by:",
+      "options": [
+        "A) Human supremacy",
+        "B) Including non-human actors and interests",
+        "C) No change needed",
+        "D) Anthropocentrism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7582a52b3a886d9534e3bf719c524c044a192a5e",
+      "sectionIndex": 8,
+      "question": "The \"steel frame\" metaphor for Pakistani bureaucracy paradoxically:",
+      "options": [
+        "A) Ensures flexibility",
+        "B) Provides stability while resisting democratic reform",
+        "C) No paradox exists",
+        "D) Promotes change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02e67696514b634e0b267e89b324e985cd6ef724",
+      "sectionIndex": 8,
+      "question": "Praetorian politics in Pakistan affects administration through:",
+      "options": [
+        "A) No military influence",
+        "B) Cyclical civil-military power shifts shaping institutional development",
+        "C) Pure civilian control",
+        "D) Stable patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e35c486ae8fcfe5f72a74a3e83ca9b895afedffb",
+      "sectionIndex": 8,
+      "question": "The concept of \"controlled democracy\" impacts Pakistani administration by:",
+      "options": [
+        "A) Full democracy",
+        "B) Creating hybrid governance with selective democratic elements",
+        "C) No democracy",
+        "D) Clear boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f205e8ff635cf172a787bd57643c1de43699462",
+      "sectionIndex": 8,
+      "question": "Pakistan's \"trust deficit\" in federal-provincial relations stems from:",
+      "options": [
+        "A) Perfect trust",
+        "B) Historical grievances and resource distribution conflicts",
+        "C) No issues exist",
+        "D) Simple misunderstanding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ebc58d7783eebc2ca1f15338a90f015d1991877",
+      "sectionIndex": 8,
+      "question": "The \"bureaucratic-military oligarchy\" thesis suggests:",
+      "options": [
+        "A) Separate institutions",
+        "B) Interlocking elite interests transcend institutional boundaries",
+        "C) No connections",
+        "D) Pure competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b09554ea2a663c8778fc3d501e39d2b437aea7e",
+      "sectionIndex": 8,
+      "question": "Islamic provisions in Pakistani administration create tensions through:",
+      "options": [
+        "A) Perfect harmony",
+        "B) Competing interpretations of religious and secular governance",
+        "C) No religious influence",
+        "D) Clear guidelines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85bfb5ff32522a5ad17241fa01f209532a71b1f4",
+      "sectionIndex": 8,
+      "question": "The concept of \"informal governance\" in Pakistan operates through:",
+      "options": [
+        "A) Formal channels only",
+        "B) Parallel power structures alongside official institutions",
+        "C) No informal elements",
+        "D) Complete transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f69e1100b5a93ea933afb07ee86af5de7857e431",
+      "sectionIndex": 8,
+      "question": "Pakistan's \"garrison state\" characteristics affect public policy by:",
+      "options": [
+        "A) No security focus",
+        "B) Prioritizing security over development concerns",
+        "C) Balanced approach",
+        "D) Development first"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b68d5c3261aa9f10873e60b15293949a8bfd385",
+      "sectionIndex": 8,
+      "question": "The \"viceregal tradition\" in Pakistani administration persists through:",
+      "options": [
+        "A) Democratic practices",
+        "B) Centralized, paternalistic governance patterns",
+        "C) No colonial legacy",
+        "D) Decentralized approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b69d1c32a1aa7183a5b08e85060216001b5d7752",
+      "sectionIndex": 8,
+      "question": "Tribal-feudal influences on Pakistani bureaucracy manifest as:",
+      "options": [
+        "A) Merit dominance",
+        "B) Kinship networks penetrating formal structures",
+        "C) No traditional influence",
+        "D) Pure modernity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "257de793e190dff084be0ae65df1a9785f2cd50e",
+      "sectionIndex": 9,
+      "question": "The convergence-divergence debate in comparative administration suggests:",
+      "options": [
+        "A) Complete convergence",
+        "B) Simultaneous global pressures and local adaptations",
+        "C) No change",
+        "D) Pure divergence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1705be0c0fe92d1d1f6b1419d1a430c7a8af58e",
+      "sectionIndex": 9,
+      "question": "Post-structural analysis of administrative categories reveals:",
+      "options": [
+        "A) Fixed meanings",
+        "B) Constructed nature of seemingly neutral classifications",
+        "C) No construction",
+        "D) Objective reality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77807c029b401966310d2130ae6f88911e128530",
+      "sectionIndex": 9,
+      "question": "The concept of \"administrative burden\" disproportionately affects:",
+      "options": [
+        "A) Everyone equally",
+        "B) Marginalized populations through compliance costs",
+        "C) No burden exists",
+        "D) Only elites"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04d17b9d6c3919b6af21df318d3ff163d75b55b6",
+      "sectionIndex": 9,
+      "question": "Assemblage theory in public administration suggests organizations are:",
+      "options": [
+        "A) Fixed entities",
+        "B) Dynamic configurations of human and non-human elements",
+        "C) Simple structures",
+        "D) Unchanging"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37747bb3a4d29c3a4e845f317983c52d9d06183a",
+      "sectionIndex": 9,
+      "question": "The \"pedagogy of public administration\" shapes practice through:",
+      "options": [
+        "A) No impact",
+        "B) Reproducing particular worldviews via education",
+        "C) Neutral knowledge",
+        "D) Pure objectivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf63b1a492d55d2e3ab1fdd1809a1a385a5f1fff",
+      "sectionIndex": 9,
+      "question": "Decolonizing public administration requires:",
+      "options": [
+        "A) Maintaining status quo",
+        "B) Questioning Western-centric theories and practices",
+        "C) No change needed",
+        "D) Universal application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c13a2ea5a2c4ed31002c5976b6a466a0ab6f708",
+      "sectionIndex": 9,
+      "question": "The concept of \"slow violence\" in administration refers to:",
+      "options": [
+        "A) Quick harm",
+        "B) Gradual, structural harm through policies",
+        "C) No violence",
+        "D) Physical force only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a472da48bf35f3325954a3dff5180dfceae2e52",
+      "sectionIndex": 9,
+      "question": "Rhizomatic organization challenges hierarchical administration through:",
+      "options": [
+        "A) More hierarchy",
+        "B) Non-hierarchical, networked connections",
+        "C) Simple structure",
+        "D) Central control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c67025d76c5ca99c44850b6bd9d386fd2ac7d634",
+      "sectionIndex": 9,
+      "question": "The \"speculative turn\" in public administration involves:",
+      "options": [
+        "A) Past focus only",
+        "B) Imagining alternative administrative futures",
+        "C) Present only",
+        "D) No imagination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d787ec1f5aac36fcc2d6deca6d539ed8711371cb",
+      "sectionIndex": 9,
+      "question": "Administrative phenomenology emphasizes:",
+      "options": [
+        "A) Objective structures only",
+        "B) Lived experiences within administrative systems",
+        "C) No subjective elements",
+        "D) Pure rationality"
+      ],
+      "correct": "B"
+    }
+  ]
+}

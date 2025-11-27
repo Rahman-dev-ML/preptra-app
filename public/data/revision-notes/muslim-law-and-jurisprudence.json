@@ -1,0 +1,909 @@
+{
+  "subject": "Muslim Law & Jurisprudence",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 28,
+  "categories": [
+    "Sources & Legal Theory (Usul al-Fiqh)",
+    "Family Law (Marriage, Divorce, Iddah, Custody)",
+    "Inheritance & Wills",
+    "Criminal Law (Hudood, Qisas, Tazir)",
+    "Islamic Finance & Riba",
+    "Pakistani Statutes & Case Law",
+    "Courts & Constitution (FSC, CII, Constitution 1973)",
+    "Maqasid al-Shariah & Modern Issues"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Primary Sources of Islamic Law: Qur'an, Sunnah, Ijma', Qiyas",
+      "content": "Define the four foundational sources and how they interact; differentiate revealed sources (Qur'an/Sunnah) from inferential sources (Ijma'/Qiyas). Typical exam asks: define + contrast, give examples, and mention limits of analogical reasoning.",
+      "keyTakeaways": [
+        "Qur'an & Sunnah are naqli (transmitted) proofs; Ijma' & Qiyas are derived methods.",
+        "Schools vary on scope of Ijma' and mechanics of Qiyas.",
+        "Always support with an applied example (e.g., modern contracts)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Islam: Sources",
+          "url": "https://www.britannica.com/topic/Islam",
+          "type": "article",
+          "description": "Overview of uṣūl (Qur'an, Sunnah, Ijma', Ijtihad/Qiyas)"
+        },
+        {
+          "title": "Kamali — Principles of Islamic Jurisprudence (PDF)",
+          "url": "https://asimiqbal2nd.wordpress.com/wp-content/uploads/2009/06/islamic-law.pdf",
+          "type": "book",
+          "description": "Usul foundations incl. Qiyas & Istihsan"
+        },
+        {
+          "title": "Wael Hallaq — An Introduction to Islamic Law (preview PDF)",
+          "url": "https://api.pageplace.de/preview/DT0400.9780511730573_A23679638/preview-9780511730573_A23679638.pdf",
+          "type": "book",
+          "description": "Historical framing of sources"
+        }
+      ],
+      "importance": "high",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Qur'an", "Sunnah", "Ijma'", "Qiyas", "Usul al-Fiqh"]
+    },
+    {
+      "id": "2",
+      "title": "Ijtihad vs. Ijma' (Consensus) — Theory & Modern Relevance",
+      "content": "Define ijtihad as independent reasoning when explicit texts are silent/ambiguous; contrast with ijma' as binding consensus. Exams test definitions, authority, and contemporary applicability.",
+      "keyTakeaways": [
+        "Ijtihad fills gaps but is constrained by usul; ijma' is a proof once established.",
+        "Debate exists over who constitutes the consensus body.",
+        "Use modern case studies (bioethics, finance) to show relevance."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ijtihad",
+          "url": "https://www.britannica.com/topic/ijtihad",
+          "type": "article",
+          "description": "Definition & scope"
+        },
+        {
+          "title": "Britannica — Ijma",
+          "url": "https://www.britannica.com/topic/ijma",
+          "type": "article",
+          "description": "Consensus as a source"
+        },
+        {
+          "title": "Nyazee — Outlines of Islamic Jurisprudence (PDF)",
+          "url": "https://www.researchgate.net/profile/Imran-Nyazee/publication/265525013_OUTLINES_OF_ISLAMIC_JURISPRUDENCE/links/621f5ef639529602315affe4/OUTLINES-OF-ISLAMIC-JURISPRUDENCE.pdf?origin=scientificContributions",
+          "type": "book",
+          "description": "Chapters on hukm & sources"
+        }
+      ],
+      "importance": "high",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Ijtihad", "Ijma'", "Usul"]
+    },
+    {
+      "id": "3",
+      "title": "Istihsan, Istislah & Sadd al-Dhara'i — Secondary Principles",
+      "content": "Explain Hanafi istihsan (juristic preference), Maliki istislah (maslahah), and Sadd al-Dhara'i (blocking the means). Often asked to compare schools and justify usage.",
+      "keyTakeaways": [
+        "Hanafis deploy istihsan to prevent hardship when strict qiyas is harmful.",
+        "Malikis emphasize public interest (maslahah mursalah).",
+        "Usage is disciplined by objectives (maqasid) and textual limits."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Istihsan",
+          "url": "https://www.britannica.com/topic/istihsan",
+          "type": "article",
+          "description": "Definition & application"
+        },
+        {
+          "title": "Usul text — Principles of Islamic Jurisprudence (Part 2)",
+          "url": "https://d1.islamhouse.com/data/en/ih_books/parts/Principles_of_Islamic_Jurisprudence/en_Principles_of_Islamic_Jurisprudence_Part_2.pdf",
+          "type": "book",
+          "description": "Qiyas, Istihsan, 'Urf, Sadd al-Dhara'i"
+        },
+        {
+          "title": "Overview explainer",
+          "url": "https://en.wikipedia.org/wiki/Istihsan",
+          "type": "website",
+          "description": "Summary & school differences"
+        }
+      ],
+      "importance": "medium",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Istihsan", "Maslahah", "Sadd al-Dhara'i"]
+    },
+    {
+      "id": "4",
+      "title": "Maqasid al-Shariah — Objectives Framework",
+      "content": "Define higher objectives (protection of faith, life, intellect, lineage, property). Exams ask concept, history (al-Ghazali, al-Shatibi), and modern applications (policy, finance, rights).",
+      "keyTakeaways": [
+        "Maqasid guide interpretation where multiple lawful options exist.",
+        "Used to balance harms/benefits in modern governance.",
+        "Cite examples: consumer protection, privacy, poverty alleviation."
+      ],
+      "resources": [
+        {
+          "title": "Jasser Auda — Maqasid (Combined PDF)",
+          "url": "https://iiit.org/wp-content/uploads/Maqasid-Al-Shariah-as-a-Philosophy-of-Islamic-Law-Combined.pdf",
+          "type": "book",
+          "description": "Accessible, widely used primer"
+        },
+        {
+          "title": "Auda — Beginner's Guide (PDF)",
+          "url": "https://archive.org/download/maqasid_guide-Feb_2008/maqasid_guide-Feb_2008.pdf",
+          "type": "book",
+          "description": "Short guide with applications"
+        }
+      ],
+      "importance": "high",
+      "category": "Maqasid al-Shariah & Modern Issues",
+      "topics": ["Maqasid", "Maslahah"]
+    },
+    {
+      "id": "5",
+      "title": "Marriage as Civil Contract; Dower (Mahr) & Stipulations",
+      "content": "Nikah's contractual nature; essential elements (offer/acceptance, wali per school, witnesses), mahr types, and contractual stipulations benefiting wife.",
+      "keyTakeaways": [
+        "Contractual view enables conditions (e.g., residence, education).",
+        "Mahr can be prompt/deferred; enforceable as debt.",
+        "Witnesses are key for proof/validity (school differences)."
+      ],
+      "resources": [
+        {
+          "title": "MFLO 1961 (Full Text, PDF)",
+          "url": "https://lgkp.gov.pk/wp-content/uploads/2014/03/Muslim-Family-Laws-Ordinance-1961.pdf",
+          "type": "pdf",
+          "description": "Pakistani family law framework"
+        },
+        {
+          "title": "Encyclopedia.com — Personal Law overview",
+          "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/islamic-law-personal-law",
+          "type": "article",
+          "description": "Marriage/divorce/inheritance overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Family Law (Marriage, Divorce, Iddah, Custody)",
+      "topics": ["Nikah", "Mahr", "Stipulations", "Witnesses"]
+    },
+    {
+      "id": "6",
+      "title": "Khulʿ in Pakistan: From Khurshid Bibi to Contemporary Doctrine",
+      "content": "Contrast classical requirements with Pakistan's case law (e.g., Khurshid Bibi (PLD 1967 SC 97)) expanding judicial powers to grant khulʿ without husband's consent if reconciliation fails.",
+      "keyTakeaways": [
+        "Courts may decree khulʿ upon breakdown and return of mahr (where appropriate).",
+        "Compensation is not owed if husband is at fault (case-law trend).",
+        "Know difference between khulʿ and talaq-by-husband."
+      ],
+      "resources": [
+        {
+          "title": "Supreme Court — Khurshid Bibi (PDF)",
+          "url": "https://wrcaselaw.files.wordpress.com/2012/09/divorce-khul-khurshid-bibi.pdf",
+          "type": "pdf",
+          "description": "Landmark 1967 judgment"
+        },
+        {
+          "title": "IIUI Law Review — Case Law on Khulʿ (PDF)",
+          "url": "https://www.iiu.edu.pk/wp-content/uploads/downloads/journals/ilr/volume1/Stop/Article_1_Vol1_1.pdf",
+          "type": "pdf",
+          "description": "Survey of Pakistani case law"
+        },
+        {
+          "title": "Scholarly article — Khulʿ in Pakistan (PDF)",
+          "url": "https://sahsol.lums.edu.pk/sites/default/files/2024-05/The%20Law%20of%20Khul%E2%80%98%20in%20Islamic%20Law%20and%20the%20Legal%20System%20of%20Pakistan.pdf",
+          "type": "pdf",
+          "description": "Doctrinal analysis vs courts"
+        }
+      ],
+      "importance": "high",
+      "category": "Family Law (Marriage, Divorce, Iddah, Custody)",
+      "topics": ["Khulʿ", "Judicial divorce", "Pakistani case law"]
+    },
+    {
+      "id": "7",
+      "title": "Talaq Forms (Ahsan, Hasan, Bid'ah) & Procedure",
+      "content": "Define recognized forms and procedural safeguards (notice mechanisms under MFLO). Discuss reconciliation, waiting periods, and abuses.",
+      "keyTakeaways": [
+        "Ahsan preferred (single pronouncement + iddah).",
+        "MFLO mechanisms interact with classical forms.",
+        "Illegality of instant triple talaq in many systems (policy trend)."
+      ],
+      "resources": [
+        {
+          "title": "MFLO 1961 (PDF)",
+          "url": "https://lgkp.gov.pk/wp-content/uploads/2014/03/Muslim-Family-Laws-Ordinance-1961.pdf",
+          "type": "pdf",
+          "description": "Notice & arbitration council procedures"
+        },
+        {
+          "title": "Explainer — Talaq basics",
+          "url": "https://blog.ipleaders.in/talaq-all-you-need-to-know/",
+          "type": "article",
+          "description": "Form & procedure overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Family Law (Marriage, Divorce, Iddah, Custody)",
+      "topics": ["Talaq", "Ahsan", "Hasan", "Procedure"]
+    },
+    {
+      "id": "8",
+      "title": "Zihār & Liʿān — Classical Doctrines, Modern Status",
+      "content": "Define Zihār (forbidden assimilation to mother) and Liʿān (mutual imprecation in accusations of adultery/paternity). Exams ask definitions + Qur'anic basis + legal effects (atonement/separation).",
+      "keyTakeaways": [
+        "Zihār requires kaffārah before resuming relations.",
+        "Liʿān dissolves marriage when proof is absent but accusation persists.",
+        "Know Qur'anic loci: Al-Mujādilah (58:1-4) for Zihār; Al-Nūr (24:6-9) for Liʿān."
+      ],
+      "resources": [
+        {
+          "title": "Five Schools — Al-Zihar",
+          "url": "https://al-islam.org/five-schools-islamic-law-muhammad-jawad-mughniyya/al-zihar",
+          "type": "article",
+          "description": "Schools' positions & expiation"
+        },
+        {
+          "title": "Quranic commentary on accusations (Liʿān context)",
+          "url": "https://quran.com/en/24%3A6/tafsirs/en-tafsir-maarif-ul-quran",
+          "type": "website",
+          "description": "Tafsir of 24:6-9"
+        },
+        {
+          "title": "Overview — Zihar",
+          "url": "https://en.wikipedia.org/wiki/Zihar",
+          "type": "website",
+          "description": "Definition & Qur'anic basis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Family Law (Marriage, Divorce, Iddah, Custody)",
+      "topics": ["Zihar", "Lian", "Quranic basis"]
+    },
+    {
+      "id": "9",
+      "title": "Dissolution of Muslim Marriages Act, 1939 — Grounds & Case Law",
+      "content": "List grounds for judicial dissolution (absence, failure to maintain, cruelty, etc.). Cite how Pakistani courts interpret and apply DMMA with MFLO.",
+      "keyTakeaways": [
+        "DMMA operationalizes relief for wives in courts.",
+        "Grounds are enumerated; evidence & procedure matter.",
+        "Interplay with khulʿ and MFLO practice."
+      ],
+      "resources": [
+        {
+          "title": "DMMA 1939 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-cJaW-sg-jjjjjjjjjjjjj",
+          "type": "website",
+          "description": "Official text"
+        },
+        {
+          "title": "FSC Research Note (PDF)",
+          "url": "https://www.federalshariatcourt.gov.pk/research/13-%20Dissolution%20of%20Muslim%20Marriage%20Act%2C%201939%20-%20Copy.pdf",
+          "type": "pdf",
+          "description": "Background & jurisprudence"
+        },
+        {
+          "title": "Alternate PDF copy",
+          "url": "https://landwise-production.s3.amazonaws.com/2022/03/Pakistan_Disolution_of_Muslim-Marriage-Act_1939-1.pdf",
+          "type": "pdf",
+          "description": "Clean scan"
+        }
+      ],
+      "importance": "high",
+      "category": "Family Law (Marriage, Divorce, Iddah, Custody)",
+      "topics": ["DMMA 1939", "Judicial divorce", "Maintenance", "Cruelty"]
+    },
+    {
+      "id": "10",
+      "title": "Inheritance Shares & Testamentary Limits (Wasiyyah up to 1/3)",
+      "content": "Define fixed sharers vs residuaries; compute common scenarios; will may not exceed one-third and cannot benefit legal heirs (without consent).",
+      "keyTakeaways": [
+        "Start by identifying heirs; allocate fixed shares; residue to 'asaba.",
+        "One-third cap for bequest; 'No bequest to an heir' rule (classical).",
+        "Practice calculations — frequent MCQ/short-note area."
+      ],
+      "resources": [
+        {
+          "title": "Hadith/Fiqh note — One-Third Rule (Sahih Muslim extract)",
+          "url": "https://www.iium.edu.my/deed/hadith/muslim/013_smt.html",
+          "type": "website",
+          "description": "Bequest up to one-third"
+        },
+        {
+          "title": "Academic chapter — Bequest may not exceed one-third",
+          "url": "https://brill.com/previewpdf/book/edcoll/9789004281714/B9789004281714_007.xml",
+          "type": "pdf",
+          "description": "Scholarly discussion"
+        },
+        {
+          "title": "YouTube — Inheritance walkthrough (calc focus)",
+          "url": "https://www.youtube.com/watch?v=QLT0fNZpnfc",
+          "type": "video",
+          "description": "Theory + examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Inheritance & Wills",
+      "topics": ["Faraid", "Wasiyyah", "Fixed shares", "Asaba"]
+    },
+    {
+      "id": "11",
+      "title": "Orphaned Grandchildren — Section 4 MFLO & Allah Rakha Case",
+      "content": "Explain representational succession under s.4 MFLO granting shares to orphaned grandchildren; discuss constitutional/sharia challenges culminating in Allah Rakha litigation and debates.",
+      "keyTakeaways": [
+        "Section 4 provides for representation — a statutory reform.",
+        "Litigation questioned its conformity with Qur'anic scheme.",
+        "Know arguments on both sides and current status."
+      ],
+      "resources": [
+        {
+          "title": "LUMS Policy Brief (PDF)",
+          "url": "https://sahsol.lums.edu.pk/sites/default/files/2024-05/Inheritance%20Rights%20of%20Orphaned%20Grandchildren%20A%20Straightforward%20Provision%20of%20Law.pdf",
+          "type": "pdf",
+          "description": "S.4 MFLO & Allah Rakha discussion"
+        },
+        {
+          "title": "FSC/Commentary on Allah Rakha",
+          "url": "https://gmlaw.wordpress.com/tag/allah-rakha-vs-federation-of-pakistan/",
+          "type": "website",
+          "description": "Case reasoning summary"
+        },
+        {
+          "title": "Background explainer",
+          "url": "https://sahsol.lums.edu.pk/node/12851",
+          "type": "article",
+          "description": "Context & controversies"
+        }
+      ],
+      "importance": "high",
+      "category": "Inheritance & Wills",
+      "topics": ["MFLO s.4", "Representation", "Allah Rakha"]
+    },
+    {
+      "id": "12",
+      "title": "Hudood Ordinances (1979): Zina & Property Offences",
+      "content": "Brief the Offence of Zina and Offences against Property Ordinances; elements, evidentiary thresholds, and later reforms. Exams ask definitions + distinctions between hadd and tazir frameworks.",
+      "keyTakeaways": [
+        "Hadd requires stringent proof (e.g., witnesses/confession).",
+        "Hudood co-exist with tazir provisions; appellate review via FSC.",
+        "Cite criticisms & reforms in essays."
+      ],
+      "resources": [
+        {
+          "title": "Zina Ordinance (PDF)",
+          "url": "https://www.federalshariatcourt.gov.pk/wp-content/uploads/2021/01/Laws/Acts%20%26%20Ordinance/Offence%20of%20Zina%20%28Enforcement%20of%20Hudood%29%20Ordinance%2C%201979%20%28Amended%29.pdf",
+          "type": "pdf",
+          "description": "Primary text"
+        },
+        {
+          "title": "Offences Against Property Ordinance (PDF)",
+          "url": "https://www.federalshariatcourt.gov.pk/wp-content/uploads/2021/01/Laws/Acts%20%26%20Ordinance/Offences%20Against%20Property%20%28Enforcement%20of%20Hudood%29%20Ordinance%2C%201979%20%28amended%29.pdf",
+          "type": "pdf",
+          "description": "Primary text"
+        },
+        {
+          "title": "Academic Review — 25 Years of Hudood",
+          "url": "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1207&context=wlulr&httpsredir=1",
+          "type": "article",
+          "description": "Critical analysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Criminal Law (Hudood, Qisas, Tazir)",
+      "topics": ["Hudood", "Zina", "Theft", "Proof"]
+    },
+    {
+      "id": "13",
+      "title": "Qisas, Diyah & Tazir — Penal Law Structure",
+      "content": "Distinguish retaliation (qisas), compensation (diyah), and discretionary punishments (tazir). Explain victim's role in qisas vs state role in tazir.",
+      "keyTakeaways": [
+        "Qisas is victim-driven with options for forgiveness/compensation.",
+        "Tazir fills gaps where hadd/qisas do not apply.",
+        "Know examples and policy justifications."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Sharia (Penal Law)",
+          "url": "https://www.britannica.com/topic/sharia/Penal-law",
+          "type": "article",
+          "description": "Qisas/diyah explained"
+        }
+      ],
+      "importance": "medium",
+      "category": "Criminal Law (Hudood, Qisas, Tazir)",
+      "topics": ["Qisas", "Diyah", "Tazir"]
+    },
+    {
+      "id": "14",
+      "title": "Riba in Pakistan — FSC Judgment (2022) & Transition Timeline",
+      "content": "Summarize FSC's 28 April 2022 decision declaring interest-based laws repugnant to Islam and setting direction for elimination with timelines.",
+      "keyTakeaways": [
+        "FSC held all forms of riba prohibited; directed system shift.",
+        "Judgment influences banking/law reforms and litigation.",
+        "Cite official judgment + summaries."
+      ],
+      "resources": [
+        {
+          "title": "FSC Riba Judgment (PDF)",
+          "url": "https://www.federalshariatcourt.gov.pk/Judgments/S-P%2030-L1991%20Riba%20Case-28.04.2022.pdf",
+          "type": "pdf",
+          "description": "Primary source"
+        },
+        {
+          "title": "FSC — Leading Judgments page",
+          "url": "https://www.federalshariatcourt.gov.pk/en/leading-judgements/",
+          "type": "website",
+          "description": "Official listing & metadata"
+        },
+        {
+          "title": "Research overview",
+          "url": "https://www.researchgate.net/publication/363277471_Federal_Shariah_Court%27s_Judgment_for_Riba_Free_Pakistan",
+          "type": "article",
+          "description": "Summary & implications"
+        }
+      ],
+      "importance": "high",
+      "category": "Islamic Finance & Riba",
+      "topics": ["Riba", "Banking", "FSC 2022"]
+    },
+    {
+      "id": "15",
+      "title": "Shariah Governance in Islamic Banking (Pakistan)",
+      "content": "Governance architecture: Shariah Board, Resident Member, compliance & audit; compare with AAOIFI practices; useful for 'modern applications' essays.",
+      "keyTakeaways": [
+        "SBP frameworks define roles & independence.",
+        "Ongoing updates (2014→2018→2024+).",
+        "Cite SBP circulars + peer-reviewed reviews."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Shariah Governance Framework (Annex, 2024)",
+          "url": "https://www.sbp.org.pk/ifpd/2024/C8-Annex.pdf",
+          "type": "pdf",
+          "description": "Current framework"
+        },
+        {
+          "title": "JIABR article (2023)",
+          "url": "https://www.emerald.com/jiabr/article-pdf/doi/10.1108/JIABR-03-2023-0101/9768014/jiabr-03-2023-0101.pdf",
+          "type": "pdf",
+          "description": "Critical review of SBP SGF"
+        }
+      ],
+      "importance": "medium",
+      "category": "Islamic Finance & Riba",
+      "topics": ["Governance", "SBP", "AAOIFI"]
+    },
+    {
+      "id": "16",
+      "title": "Constitution of Pakistan 1973: Islamic Provisions & FSC",
+      "content": "Preamble (Objectives Resolution), Art. 227 (Islamization mandate), Part IX (Islamic provisions), FSC chapter (Arts. 203-C to 203-J) — jurisdiction to test repugnancy.",
+      "keyTakeaways": [
+        "Art. 227 requires conformity of laws to Qur'an & Sunnah.",
+        "FSC's decisions bind High Courts (subject to appeals).",
+        "Know how MFLO interacts with constitutional shields."
+      ],
+      "resources": [
+        {
+          "title": "Constitution (Official PDF)",
+          "url": "https://na.gov.pk/uploads/documents/1333523681_951.pdf",
+          "type": "pdf",
+          "description": "Primary text"
+        },
+        {
+          "title": "Pakistani.org — Part VII, Ch. 3-A (FSC)",
+          "url": "https://www.pakistani.org/pakistan/constitution/part7.ch3A.html",
+          "type": "website",
+          "description": "FSC provisions"
+        },
+        {
+          "title": "LUMS explainer — FSC role",
+          "url": "https://sahsol.lums.edu.pk/node/12886",
+          "type": "article",
+          "description": "Jurisdiction overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Courts & Constitution (FSC, CII, Constitution 1973)",
+      "topics": ["Art. 227", "FSC jurisdiction", "Objectives Resolution"]
+    },
+    {
+      "id": "17",
+      "title": "Legal Capacity (Ahliyyah): Wujub vs Ada",
+      "content": "Define capacity to hold rights (ahliyyat al-wujub) vs capacity to act (ahliyyat al-ada); triggers (puberty/sanity) and disability categories (minority, insanity, coercion).",
+      "keyTakeaways": [
+        "Capacity affects validity/enforceability of acts.",
+        "Exam asks definitions + examples (agency, contracts).",
+        "Cite classical usul texts + modern overviews."
+      ],
+      "resources": [
+        {
+          "title": "Oxford Reference — Capacity (Ahliyya)",
+          "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095547290",
+          "type": "website",
+          "description": "Concise definition"
+        },
+        {
+          "title": "ResearchGate overview",
+          "url": "https://www.researchgate.net/publication/315740255_Ahliyyah_in_Islamic_Human_Resource_Management",
+          "type": "article",
+          "description": "Definitions & scopes"
+        }
+      ],
+      "importance": "medium",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Ahliyyah", "Capacity", "Contracts"]
+    },
+    {
+      "id": "18",
+      "title": "Iddah Rules & Rationale",
+      "content": "Waiting periods after divorce/death; wisdoms (lineage certainty, reconciliation window); connect to maintenance rules and remarriage restrictions.",
+      "keyTakeaways": [
+        "Iddah length varies by cause (divorce vs death).",
+        "Rights during iddah (housing/maintenance per school).",
+        "Common short-note topic."
+      ],
+      "resources": [
+        {
+          "title": "Encyclopedia.com — Personal Law",
+          "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/islamic-law-personal-law",
+          "type": "article",
+          "description": "Iddah in personal law"
+        }
+      ],
+      "importance": "medium",
+      "category": "Family Law (Marriage, Divorce, Iddah, Custody)",
+      "topics": ["Iddah", "Maintenance", "Remarriage"]
+    },
+    {
+      "id": "19",
+      "title": "Waqf — Legal Character & Public Benefit",
+      "content": "Endowment of property for perpetual charitable use; governance via mutawalli; relevance in essays on Islamic institutions and social welfare.",
+      "keyTakeaways": [
+        "Inalienability & perpetuity are core features.",
+        "Supports education/healthcare historically.",
+        "Family waqf debates exist in modern reforms."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Waqf (within Sharia pages)",
+          "url": "https://www.britannica.com/topic/sharia/Penal-law",
+          "type": "article",
+          "description": "Definition & context"
+        },
+        {
+          "title": "Overview — Waqf entry",
+          "url": "https://en.wikipedia.org/wiki/Waqf",
+          "type": "website",
+          "description": "History & practice"
+        }
+      ],
+      "importance": "low",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Waqf", "Charitable trust"]
+    },
+    {
+      "id": "20",
+      "title": "Pakistani Family Law Framework — MFLO 1961",
+      "content": "Key sections: registration, polygamy control (s.6), talaq notice & reconciliation, inheritance reform (s.4). Essential statute for CSS questions.",
+      "keyTakeaways": [
+        "MFLO adds administration & safeguards to classical rules.",
+        "S.6 regulates polygamy via Arbitration Council permission.",
+        "S.4 (representation) is tested often (see Note 11)."
+      ],
+      "resources": [
+        {
+          "title": "MFLO 1961 (PDF)",
+          "url": "https://lgkp.gov.pk/wp-content/uploads/2014/03/Muslim-Family-Laws-Ordinance-1961.pdf",
+          "type": "pdf",
+          "description": "Full text"
+        },
+        {
+          "title": "UNHCR Refworld copy",
+          "url": "https://www.refworld.org/legal/decreees/natlegbod/1961/en/73966",
+          "type": "website",
+          "description": "Alternate source"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistani Statutes & Case Law",
+      "topics": ["MFLO", "Polygamy s.6", "Talaq notices"]
+    },
+    {
+      "id": "21",
+      "title": "Courts & Review: Federal Shariat Court (FSC) Jurisdiction",
+      "content": "FSC reviews laws for repugnancy to Qur'an & Sunnah; has Hudood appellate powers; decisions bind High Courts (subject to Shariat Appellate Bench).",
+      "keyTakeaways": [
+        "Know Articles 203-C to 203-J structure.",
+        "Important for essays on Islamization & judicial review.",
+        "Quote Constitution directly for accuracy."
+      ],
+      "resources": [
+        {
+          "title": "FSC Jurisdiction (official page)",
+          "url": "https://www.federalshariatcourt.gov.pk/en/jurisdictions/",
+          "type": "website",
+          "description": "Scope & powers"
+        },
+        {
+          "title": "Constitution — FSC chapter (PDF)",
+          "url": "https://www.federalshariatcourt.gov.pk/wp-content/uploads/2018/Chapter%203/Chapter%203%20A.pdf",
+          "type": "pdf",
+          "description": "Text of Articles"
+        }
+      ],
+      "importance": "high",
+      "category": "Courts & Constitution (FSC, CII, Constitution 1973)",
+      "topics": ["FSC", "Repugnancy review"]
+    },
+    {
+      "id": "22",
+      "title": "Comparative Schools: Hanafi vs Shafi'i on Usul Highlights",
+      "content": "Spot-compare (qiyas scope, istihsan acceptance, 'urf role, sadd al-dhara'i). Useful for short notes and 'critically evaluate' prompts.",
+      "keyTakeaways": [
+        "Hanafis: broader use of istihsan & 'urf.",
+        "Shafi'is: stricter on qiyas; skeptical of istihsan.",
+        "Always cite usul authorities when contrasting."
+      ],
+      "resources": [
+        {
+          "title": "Nyazee — Outlines (PDF)",
+          "url": "https://www.researchgate.net/profile/Imran-Nyazee/publication/265525013_OUTLINES_OF_ISLAMIC_JURISPRUDENCE/links/621f5ef639529602315affe4/OUTLINES-OF-ISLAMIC-JURISPRUDENCE.pdf?origin=scientificContributions",
+          "type": "book",
+          "description": "Comparative usul"
+        },
+        {
+          "title": "Hallaq — Intro to Islamic Law (preview)",
+          "url": "https://api.pageplace.de/preview/DT0400.9780511730573_A23679638/preview-9780511730573_A23679638.pdf",
+          "type": "book",
+          "description": "Historical school differences"
+        }
+      ],
+      "importance": "medium",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Hanafi", "Shafi'i", "Usul differences"]
+    },
+    {
+      "id": "23",
+      "title": "Pakistani Constitutional Islamization — Article 227 Essays",
+      "content": "How Article 227 shaped legislation; Council of Islamic Ideology; Islamization waves (esp. Zia era). Use as backbone for long essays.",
+      "keyTakeaways": [
+        "Art. 227 mandates conformity for present & future laws.",
+        "Islamization has institutional & political dimensions.",
+        "Support with academic sources + constitutional extracts."
+      ],
+      "resources": [
+        {
+          "title": "Constitution (PDF)",
+          "url": "https://na.gov.pk/uploads/documents/1333523681_951.pdf",
+          "type": "pdf",
+          "description": "Primary reference"
+        },
+        {
+          "title": "MEI paper — Islamization of Pakistan",
+          "url": "https://www.mei.edu/sites/default/files/publications/2009.07.Islamization%20of%20Pakistan.pdf",
+          "type": "pdf",
+          "description": "Historical analysis"
+        },
+        {
+          "title": "Academic — Islamic provisions overview",
+          "url": "https://tahdhibalafkar.com/Downloads/Vol%2005-Issue-02-July-December-2018/English/04%2841-52%29.pdf",
+          "type": "pdf",
+          "description": "Art. 227 explained"
+        }
+      ],
+      "importance": "medium",
+      "category": "Courts & Constitution (FSC, CII, Constitution 1973)",
+      "topics": ["Article 227", "Islamization", "CII"]
+    },
+    {
+      "id": "24",
+      "title": "Contract Law in Islamic Jurisprudence — Consent & Capacity",
+      "content": "From usul view: conditions for valid 'aqd (offer/acceptance, subject, consideration, capacity); examples: sale, lease, agency.",
+      "keyTakeaways": [
+        "Ahliyyah determines validity (void/voidable).",
+        "'Urf (custom) can inform contract terms.",
+        "Apply to modern forms (e-contracts, banking)."
+      ],
+      "resources": [
+        {
+          "title": "Nyazee — Outlines (TOC PDF)",
+          "url": "https://www.nyazee.org/wp-content/uploads/2017/08/2831_TOC.pdf",
+          "type": "book",
+          "description": "Chapters on contracts"
+        }
+      ],
+      "importance": "medium",
+      "category": "Sources & Legal Theory (Usul al-Fiqh)",
+      "topics": ["Contracts", "Ahliyyah", "'Urf"]
+    },
+    {
+      "id": "25",
+      "title": "Short-Notes Bank: Terms Repeated in Papers",
+      "content": "Quick definitions usually asked for 5–10 marks: Nushūz, Taklīf, Amr/Nahy, Khulʿ, Zihār, Liʿān, Talaq-i-Ahsan, Musharakah.",
+      "keyTakeaways": [
+        "Memorize 2-3 line definitions with one citation.",
+        "Add one modern application example where possible.",
+        "Cross-link with longer answers for coherence."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Sharia/Fiqh portals",
+          "url": "https://www.britannica.com/topic/fiqh",
+          "type": "article",
+          "description": "Concise definitions"
+        },
+        {
+          "title": "Usul explainer playlist (YouTube)",
+          "url": "https://www.youtube.com/playlist?list=PLUqekm6XYQzCIhJkw7-OgYF0HdZfCEm1o",
+          "type": "video",
+          "description": "Intro to usul concepts"
+        }
+      ],
+      "importance": "medium",
+      "category": "Maqasid al-Shariah & Modern Issues",
+      "topics": ["Terminology", "MCQ prep"]
+    },
+    {
+      "id": "26",
+      "title": "Video Practice — Inheritance Calculations",
+      "content": "Use worked examples to solidify Faraid; practice common family trees; check against calculators for accuracy.",
+      "keyTakeaways": [
+        "Start with fixed sharers, then residuaries.",
+        "Practice with varying heirs (kalalah cases).",
+        "Keep one-third will rule in mind."
+      ],
+      "resources": [
+        {
+          "title": "Tutorial (YouTube)",
+          "url": "https://www.youtube.com/watch?v=QLT0fNZpnfc",
+          "type": "video",
+          "description": "Theory + practice"
+        },
+        {
+          "title": "Calculator demo (YouTube)",
+          "url": "https://www.youtube.com/watch?v=HCRBCRvvwvk",
+          "type": "video",
+          "description": "Calculator walkthrough"
+        }
+      ],
+      "importance": "medium",
+      "category": "Inheritance & Wills",
+      "topics": ["Faraid", "Practice", "Calculators"]
+    },
+    {
+      "id": "27",
+      "title": "Exam Essay Pattern — Modern Issues (Human Rights, Finance)",
+      "content": "Structure essays linking maqasid to human rights discourse and financial regulation; use FSC riba judgment and SBP governance as contemporary anchors.",
+      "keyTakeaways": [
+        "Open with maqasid framing; analyze case/statute; conclude with policy.",
+        "Quote precise articles/sections (credibility boost).",
+        "Balance classical doctrine with Pakistani context."
+      ],
+      "resources": [
+        {
+          "title": "FSC Riba (PDF)",
+          "url": "https://www.federalshariatcourt.gov.pk/Judgments/S-P%2030-L1991%20Riba%20Case-28.04.2022.pdf",
+          "type": "pdf",
+          "description": "Anchor example"
+        },
+        {
+          "title": "SBP SGF (2024)",
+          "url": "https://www.sbp.org.pk/ifpd/2024/C8-Annex.pdf",
+          "type": "pdf",
+          "description": "Governance anchor"
+        }
+      ],
+      "importance": "medium",
+      "category": "Maqasid al-Shariah & Modern Issues",
+      "topics": ["Human Rights", "Finance", "Policy"]
+    },
+    {
+      "id": "28",
+      "title": "Study Videos — MFLO 1961 (Full Course-Style Lectures)",
+      "content": "Use lecture series to cement statutory sections, procedures, and case-law illustrations; helpful for quick refreshers before mock exams.",
+      "keyTakeaways": [
+        "Map videos to statute sections (s.4, s.6, talaq notices).",
+        "Take timestamped notes for revision.",
+        "Pair with bare-act reading."
+      ],
+      "resources": [
+        {
+          "title": "MFLO 1961 — Complete Lecture (YouTube)",
+          "url": "https://www.youtube.com/watch?v=R6qcxNHyEYE",
+          "type": "video",
+          "description": "Full overview"
+        },
+        {
+          "title": "Playlist: Muslim Family Laws 1961",
+          "url": "https://www.youtube.com/playlist?list=PLqCK4ok7gKtKtO7bQzPZHBSdnK3BIZcBR",
+          "type": "video",
+          "description": "Multiple case-law topics"
+        }
+      ],
+      "importance": "low",
+      "category": "Pakistani Statutes & Case Law",
+      "topics": ["MFLO", "Lecture series"]
+    }
+  ],
+  "extras": {
+    "primary_sources": [
+      {
+        "title": "Constitution of Pakistan 1973",
+        "url": "https://na.gov.pk/uploads/documents/1333523681_951.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "Muslim Family Laws Ordinance 1961",
+        "url": "https://lgkp.gov.pk/wp-content/uploads/2014/03/Muslim-Family-Laws-Ordinance-1961.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "Dissolution of Muslim Marriages Act 1939",
+        "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-cJaW-sg-jjjjjjjjjjjjj",
+        "type": "website"
+      }
+    ],
+    "reference_texts": [
+      {
+        "title": "Kamali — Principles of Islamic Jurisprudence",
+        "url": "https://asimiqbal2nd.wordpress.com/wp-content/uploads/2009/06/islamic-law.pdf",
+        "type": "book"
+      },
+      {
+        "title": "Nyazee — Outlines of Islamic Jurisprudence",
+        "url": "https://www.researchgate.net/profile/Imran-Nyazee/publication/265525013_OUTLINES_OF_ISLAMIC_JURISPRUDENCE/links/621f5ef639529602315affe4/OUTLINES-OF-ISLAMIC-JURISPRUDENCE.pdf?origin=scientificContributions",
+        "type": "book"
+      },
+      {
+        "title": "Jasser Auda — Maqasid al-Shariah",
+        "url": "https://iiit.org/wp-content/uploads/Maqasid-Al-Shariah-as-a-Philosophy-of-Islamic-Law-Combined.pdf",
+        "type": "book"
+      }
+    ],
+    "pakistan_institutions": [
+      {
+        "title": "Federal Shariat Court",
+        "url": "https://www.federalshariatcourt.gov.pk/",
+        "type": "website"
+      },
+      {
+        "title": "Council of Islamic Ideology",
+        "url": "http://www.cii.gov.pk",
+        "type": "website"
+      },
+      {
+        "title": "State Bank of Pakistan — Islamic Banking Division",
+        "url": "https://www.sbp.org.pk/ibd/",
+        "type": "website"
+      }
+    ],
+    "case_law_resources": [
+      {
+        "title": "Pakistan Law Decisions (PLD)",
+        "url": "https://www.pld.com.pk/",
+        "type": "website"
+      },
+      {
+        "title": "FSC Leading Judgments",
+        "url": "https://www.federalshariatcourt.gov.pk/en/leading-judgements/",
+        "type": "website"
+      }
+    ],
+    "educational_videos": [
+      {
+        "title": "Islamic Jurisprudence Lectures",
+        "url": "https://www.youtube.com/playlist?list=PLUqekm6XYQzCIhJkw7-OgYF0HdZfCEm1o",
+        "type": "video"
+      },
+      {
+        "title": "Inheritance Law Tutorials",
+        "url": "https://www.youtube.com/watch?v=QLT0fNZpnfc",
+        "type": "video"
+      },
+      {
+        "title": "MFLO 1961 Lectures",
+        "url": "https://www.youtube.com/playlist?list=PLqCK4ok7gKtKtO7bQzPZHBSdnK3BIZcBR",
+        "type": "video"
+      }
+    ]
+  }
+}

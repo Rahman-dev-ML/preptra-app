@@ -1,0 +1,729 @@
+## Section 1: Symbolic Logic and Formal Reasoning
+
+1. Symbolic Logic and Formal Reasoning (Medium)
+1. In the proposition "If P then Q," if P is false, the compound proposition is:
+A) Always false
+B) Always true
+C) Depends on Q
+D) Indeterminate
+Answer: B
+
+2. Which of the following represents the logical form of "All philosophers are wise"?
+A) ∃x(Px → Wx)
+B) ∀x(Px → Wx)
+C) ∀x(Px ∧ Wx)
+D) ∃x(Px ∧ Wx)
+Answer: B
+
+3. A tautology is a proposition that is:
+A) Always false
+B) Sometimes true
+C) Always true
+D) Contradictory
+Answer: C
+
+4. In a valid argument, if the premises are true, then:
+A) The conclusion might be false
+B) The conclusion must be true
+C) The premises become false
+D) Nothing can be determined
+Answer: B
+
+5. The statement "P ∨ ¬P" is an example of:
+A) Contradiction
+B) Contingency
+C) Tautology
+D) Fallacy
+Answer: C
+
+6. Which rule of inference allows us to conclude Q from "P → Q" and "P"?
+A) Modus Tollens
+B) Modus Ponens
+C) Hypothetical Syllogism
+D) Disjunctive Syllogism
+Answer: B
+
+7. The logical equivalence of "¬(P ∧ Q)" is:
+A) ¬P ∧ ¬Q
+B) ¬P ∨ ¬Q
+C) P ∨ Q
+D) P → Q
+Answer: B
+
+8. A syllogism with the form "All M are P, All S are M, therefore All S are P" is:
+A) Invalid
+B) Valid (Barbara)
+C) Fallacious
+D) Incomplete
+Answer: B
+
+9. The difference between validity and soundness is:
+A) Validity concerns form, soundness concerns form and truth
+B) They are identical
+C) Soundness only concerns form
+D) Validity only concerns truth
+Answer: A
+
+10. In categorical logic, a universal negative proposition is represented as:
+A) All S are P
+B) No S are P
+C) Some S are P
+D) Some S are not P
+Answer: B
+
+## Section 2: Language, Definitions, and Fallacies
+
+2. Language, Definitions, and Fallacies (Medium)
+11. A persuasive definition differs from a lexical definition in that it:
+A) Reports common usage
+B) Aims to influence attitudes
+C) Is always neutral
+D) Cannot be evaluated
+Answer: B
+
+12. The fallacy of equivocation involves:
+A) Using a term consistently
+B) Shifting the meaning of a term within an argument
+C) Clear definitions
+D) Valid reasoning
+Answer: B
+
+13. Which type of ambiguity arises from unclear grammatical structure?
+A) Lexical ambiguity
+B) Syntactic ambiguity
+C) Semantic ambiguity
+D) Pragmatic ambiguity
+Answer: B
+
+14. The fallacy of composition assumes:
+A) Parts have properties of the whole
+B) The whole has properties of its parts
+C) No relationship exists
+D) All properties are different
+Answer: B
+
+15. An operational definition:
+A) Gives the essence of a concept
+B) Specifies procedures for identifying instances
+C) Lists synonyms
+D) Provides etymology
+Answer: B
+
+16. The difference between vagueness and ambiguity is:
+A) They are identical
+B) Vagueness involves unclear boundaries, ambiguity involves multiple meanings
+C) Ambiguity is always vague
+D) Vagueness is always ambiguous
+Answer: B
+
+17. Emotive language in arguments often leads to:
+A) Greater clarity
+B) Logical validity
+C) Persuasion without proper reasoning
+D) Mathematical precision
+Answer: C
+
+18. A theoretical definition:
+A) Reports common usage
+B) Provides a systematic account within a theory
+C) Is always stipulative
+D) Cannot be disputed
+Answer: B
+
+19. The fallacy of division assumes:
+A) The whole has properties of its parts
+B) Parts have properties of the whole
+C) Division is impossible
+D) Unity is essential
+Answer: B
+
+20. Context-dependent meaning demonstrates that language is:
+A) Always precise
+B) Pragmatically complex
+C) Mathematically exact
+D) Culturally uniform
+Answer: B
+
+## Section 3: Epistemology and Knowledge
+
+3. Epistemology and Knowledge (Medium)
+21. According to the traditional definition, knowledge is:
+A) True belief
+B) Justified belief
+C) Justified true belief
+D) Any belief
+Answer: C
+
+22. The Gettier problem challenges:
+A) The existence of knowledge
+B) The traditional definition of knowledge
+C) All beliefs
+D) Scientific method
+Answer: B
+
+23. Empiricism holds that knowledge primarily comes from:
+A) Innate ideas
+B) Pure reason
+C) Sensory experience
+D) Divine revelation
+Answer: C
+
+24. Descartes's method of doubt aims to:
+A) Prove nothing exists
+B) Find indubitable foundations for knowledge
+C) Reject all knowledge
+D) Embrace skepticism
+Answer: B
+
+25. The coherence theory of truth states that:
+A) Truth corresponds to reality
+B) Truth is what works
+C) Truth is consistency within a system of beliefs
+D) Truth doesn't exist
+Answer: C
+
+26. Kant's synthetic a priori knowledge includes:
+A) Only analytic truths
+B) Mathematical and basic scientific principles
+C) Only empirical facts
+D) Only definitions
+Answer: B
+
+27. The problem of induction, raised by Hume, questions:
+A) Deductive reasoning
+B) The justification of generalizing from experience
+C) Mathematical proof
+D) Logical validity
+Answer: B
+
+28. Foundationalism in epistemology claims:
+A) All beliefs are equally justified
+B) Some beliefs are self-justifying
+C) No beliefs are justified
+D) Justification is circular
+Answer: B
+
+29. The correspondence theory of truth requires:
+A) Coherence only
+B) Practical success
+C) Match between belief and reality
+D) Social agreement
+Answer: C
+
+30. Skepticism about the external world questions:
+A) Only mental states
+B) The existence of anything beyond our minds
+C) Only physical objects
+D) Mathematical truths
+Answer: B
+
+## Section 4: Metaphysics and Reality
+
+4. Metaphysics and Reality (Medium)
+31. Substance dualism, associated with Descartes, claims:
+A) Only matter exists
+B) Only mind exists
+C) Mind and matter are distinct substances
+D) Everything is energy
+Answer: C
+
+32. Berkeley's idealism argues that:
+A) Material objects exist independently
+B) To be is to be perceived
+C) Only matter exists
+D) Mind doesn't exist
+Answer: B
+
+33. The problem of universals asks:
+A) Whether individual things exist
+B) Whether properties exist independently of particulars
+C) Whether space exists
+D) Whether time exists
+Answer: B
+
+34. Determinism conflicts with free will because it implies:
+A) Everything has a cause
+B) Our choices are ultimately caused by prior events
+C) Nothing has a cause
+D) Randomness exists
+Answer: B
+
+35. Plato's Forms are:
+A) Physical objects
+B) Mental concepts only
+C) Perfect, eternal archetypes
+D) Linguistic constructs
+Answer: C
+
+36. The mind-body problem concerns:
+A) Physical health
+B) The relationship between mental and physical states
+C) Only the brain
+D) Only consciousness
+Answer: B
+
+37. Materialism in philosophy claims:
+A) Money is most important
+B) Only physical matter exists
+C) Spirit is primary
+D) Dualism is true
+Answer: B
+
+38. The concept of emergence suggests:
+A) Nothing new arises
+B) Complex properties arise from simpler ones
+C) Reduction is always possible
+D) Wholes equal their parts
+Answer: B
+
+39. Modal realism, defended by David Lewis, claims:
+A) Only our world exists
+B) Possible worlds are real
+C) Necessity doesn't exist
+D) Logic is false
+Answer: B
+
+40. Personal identity over time raises questions about:
+A) Only names
+B) What makes you the same person despite changes
+C) Only physical appearance
+D) Social roles only
+Answer: B
+
+## Section 5: Ethics and Moral Philosophy
+
+5. Ethics and Moral Philosophy (Medium)
+41. The difference between act and rule utilitarianism is:
+A) No difference exists
+B) Act focuses on individual actions, rule on general principles
+C) Rule rejects consequences
+D) Act rejects happiness
+Answer: B
+
+42. Kant's categorical imperative requires that we:
+A) Maximize happiness
+B) Follow God's commands
+C) Act only on universalizable maxims
+D) Pursue self-interest
+Answer: C
+
+43. Virtue ethics differs from deontology and consequentialism by focusing on:
+A) Rules
+B) Outcomes
+C) Character traits
+D) Contracts
+Answer: C
+
+44. The trolley problem illustrates conflict between:
+A) Two virtues
+B) Deontological and consequentialist intuitions
+C) Religion and ethics
+D) Law and morality
+Answer: B
+
+45. Moral relativism faces the problem of:
+A) Too much agreement
+B) Inability to criticize harmful practices
+C) Excessive objectivity
+D) Universal standards
+Answer: B
+
+46. The naturalistic fallacy, identified by Moore, involves:
+A) Accepting nature
+B) Deriving ought from is
+C) Rejecting ethics
+D) Embracing biology
+Answer: B
+
+47. Rawls's veil of ignorance is designed to:
+A) Promote ignorance
+B) Ensure impartial principles of justice
+C) Hide information
+D) Prevent knowledge
+Answer: B
+
+48. The difference between ethical egoism and psychological egoism:
+A) None exists
+B) Ethical is prescriptive, psychological is descriptive
+C) Both are prescriptive
+D) Both are descriptive
+Answer: B
+
+49. Divine command theory faces the Euthyphro dilemma:
+A) God doesn't exist
+B) Is something good because God commands it, or does God command it because it's good?
+C) Ethics is relative
+D) Religion is false
+Answer: B
+
+50. Applied ethics differs from normative ethics by:
+A) Rejecting theory
+B) Focusing on specific practical issues
+C) Avoiding controversy
+D) Embracing relativism
+Answer: B
+
+## Section 6: Islamic Philosophy and Thought
+
+6. Islamic Philosophy and Thought (Medium)
+51. Al-Ghazali's critique of philosophers centered on:
+A) Their use of logic
+B) Their claims about God's knowledge and the eternity of the world
+C) Their study of medicine
+D) Their poetry
+Answer: B
+
+52. Ibn Rushd's "Decisive Treatise" argues that:
+A) Philosophy should be banned
+B) Philosophy and religion are compatible
+C) Only theology matters
+D) Reason is useless
+Answer: B
+
+53. The Mu'tazila school emphasized:
+A) Predestination
+B) Human free will and divine justice
+C) Mysticism only
+D) Rejection of reason
+Answer: B
+
+54. Iqbal's concept of khudi (self/ego) emphasizes:
+A) Self-negation
+B) Creative self-affirmation
+C) Fatalism
+D) Passivity
+Answer: B
+
+55. The debate between Ash'ari and Mu'tazila schools concerned:
+A) Only ritual practices
+B) Divine attributes, free will, and the nature of the Quran
+C) Political leadership only
+D) Economic theories
+Answer: B
+
+56. Ibn Sina's proof for God's existence relies on:
+A) Design argument
+B) Necessary existence
+C) Moral argument
+D) Personal experience
+Answer: B
+
+57. Al-Farabi's political philosophy combines:
+A) Only Greek thought
+B) Platonic ideals with Islamic principles
+C) Only Islamic sources
+D) Modern democracy
+Answer: B
+
+58. Sir Syed Ahmad Khan's religious thought emphasized:
+A) Literal interpretation only
+B) Harmony between religion and modern science
+C) Rejection of reason
+D) Pure traditionalism
+Answer: B
+
+59. Ibn Khaldun's cyclical theory of history involves:
+A) Linear progress
+B) Rise and decline of civilizations through asabiyyah
+C) Random changes
+D) Divine intervention only
+Answer: B
+
+60. The concept of wahdat al-wujud (unity of being) is associated with:
+A) Al-Ghazali
+B) Ibn Arabi
+C) Ibn Rushd
+D) Al-Farabi
+Answer: B
+
+## Section 7: Modern and Contemporary Philosophy
+
+7. Modern and Contemporary Philosophy (Medium)
+61. Logical positivism's verification principle states that:
+A) All statements are meaningful
+B) Only empirically verifiable or analytic statements are meaningful
+C) Metaphysics is supreme
+D) Ethics is objective
+Answer: B
+
+62. Existentialism's claim that "existence precedes essence" means:
+A) We have fixed natures
+B) We create our own meaning
+C) God determines our essence
+D) Biology is destiny
+Answer: B
+
+63. Wittgenstein's language games concept suggests:
+A) Language has one function
+B) Meaning depends on use within contexts
+C) Words have fixed meanings
+D) Communication is impossible
+Answer: B
+
+64. Pragmatism's theory of truth emphasizes:
+A) Correspondence to reality
+B) Practical consequences and usefulness
+C) Coherence only
+D) Eternal truths
+Answer: B
+
+65. Phenomenology's method of epoché involves:
+A) Accepting all assumptions
+B) Bracketing assumptions to study pure experience
+C) Rejecting consciousness
+D) Embracing skepticism
+Answer: B
+
+66. Structuralism in philosophy analyzes:
+A) Individual elements only
+B) Underlying structures and relationships
+C) Surface appearances
+D) Personal experiences
+Answer: B
+
+67. Foucault's analysis of power shows it is:
+A) Only repressive
+B) Productive and pervasive
+C) Held by rulers only
+D) Always visible
+Answer: B
+
+68. Derrida's deconstruction reveals:
+A) Clear meanings
+B) Internal contradictions in texts
+C) Absolute truth
+D) Simple interpretations
+Answer: B
+
+69. Habermas's discourse ethics requires:
+A) Monologue
+B) Ideal speech situations
+C) Power relations
+D) Manipulation
+Answer: B
+
+70. Postmodernism's critique of metanarratives means:
+A) Small stories don't matter
+B) Grand unified theories are suspect
+C) No stories exist
+D) All narratives are true
+Answer: B
+
+## Section 8: Philosophy of Science and Method
+
+8. Philosophy of Science and Method (Medium)
+71. Popper's falsificationism proposes that science progresses by:
+A) Proving theories true
+B) Attempting to falsify theories
+C) Accumulating facts
+D) Avoiding theories
+Answer: B
+
+72. Kuhn's paradigm shifts involve:
+A) Gradual accumulation only
+B) Revolutionary changes in scientific frameworks
+C) No change
+D) Random progress
+Answer: B
+
+73. The underdetermination thesis states that:
+A) Evidence uniquely determines theory
+B) Multiple theories can explain the same evidence
+C) No evidence exists
+D) All theories are equal
+Answer: B
+
+74. Scientific realism claims that:
+A) Science is fiction
+B) Scientific theories describe real entities
+C) Only observations matter
+D) Theories are just tools
+Answer: B
+
+75. The demarcation problem asks:
+A) What separates nations
+B) What distinguishes science from pseudoscience
+C) How to divide knowledge
+D) Where boundaries exist
+Answer: B
+
+76. Inference to the best explanation:
+A) Rejects all explanations
+B) Chooses the hypothesis that best explains evidence
+C) Uses deduction only
+D) Avoids hypotheses
+Answer: B
+
+77. The theory-ladenness of observation means:
+A) Observations are pure
+B) Theoretical assumptions influence what we observe
+C) Theory doesn't matter
+D) Observation is impossible
+Answer: B
+
+78. Scientific laws differ from accidental generalizations by:
+A) Being false
+B) Supporting counterfactuals
+C) Being particular
+D) Lacking universality
+Answer: B
+
+79. The pessimistic meta-induction argues:
+A) Science always progresses
+B) Past scientific theories were false, so current ones might be too
+C) Optimism is warranted
+D) Science is perfect
+Answer: B
+
+80. Bayesian epistemology uses:
+A) Frequency only
+B) Probability to update beliefs
+C) Certainty only
+D) No mathematics
+Answer: B
+
+## Section 9: Political and Social Philosophy
+
+9. Political and Social Philosophy (Medium)
+81. The social contract tradition assumes that:
+A) Contracts don't matter
+B) Political authority derives from agreement
+C) Nature determines government
+D) Force legitimates rule
+Answer: B
+
+82. Rawls's difference principle allows inequalities only if they:
+A) Benefit the wealthy
+B) Benefit the least advantaged
+C) Increase total wealth
+D) Maintain tradition
+Answer: B
+
+83. Nozick's entitlement theory emphasizes:
+A) Equal distribution
+B) Historical process of acquisition
+C) Need-based distribution
+D) Merit only
+Answer: B
+
+84. Marx's historical materialism claims that:
+A) Ideas drive history
+B) Economic conditions shape society
+C) History is random
+D) Individuals control history
+Answer: B
+
+85. Mill's harm principle limits government interference to:
+A) All actions
+B) Actions that harm others
+C) Private actions
+D) Economic matters
+Answer: B
+
+86. Communitarianism critiques liberalism for:
+A) Emphasizing community
+B) Excessive individualism
+C) Promoting tradition
+D) Supporting groups
+Answer: B
+
+87. The capability approach, developed by Sen, focuses on:
+A) Income only
+B) What people can do and be
+C) Happiness only
+D) Resources only
+Answer: B
+
+88. Feminist political philosophy reveals:
+A) Gender is irrelevant
+B) Gendered assumptions in traditional theory
+C) Biology determines politics
+D) Women are naturally political
+Answer: B
+
+89. The paradox of democracy arises when:
+A) Everyone agrees
+B) Majority decisions conflict with individual rights
+C) Voting works perfectly
+D) Representatives represent
+Answer: B
+
+90. Cosmopolitanism advocates:
+A) Nationalism
+B) Global citizenship and universal concern
+C) Local focus only
+D) Cultural isolation
+Answer: B
+
+## Section 10: Advanced Logical Analysis
+
+10. Advanced Logical Analysis (Medium)
+91. The sorites paradox demonstrates problems with:
+A) Clear concepts
+B) Vague predicates
+C) Mathematical precision
+D) Logical validity
+Answer: B
+
+92. Modal logic studies:
+A) Only actual truths
+B) Necessity and possibility
+C) Temporal relations
+D) Spatial relations
+Answer: B
+
+93. The liar paradox ("This statement is false") shows:
+A) Language is perfect
+B) Self-reference can create contradictions
+C) Truth is simple
+D) Logic fails everywhere
+Answer: B
+
+94. Gödel's incompleteness theorems prove that:
+A) Mathematics is complete
+B) Consistent formal systems cannot prove all truths
+C) Logic is useless
+D) Everything is provable
+Answer: B
+
+95. The principle of charity in interpretation requires:
+A) Assuming speakers are irrational
+B) Interpreting others as rational when possible
+C) Being generous with money
+D) Avoiding interpretation
+Answer: B
+
+96. Counterfactual conditionals involve:
+A) Only actual situations
+B) What would be true in different circumstances
+C) Factual claims only
+D) Present tense only
+Answer: B
+
+97. The problem of material conditionals is that:
+A) They're too strict
+B) They're true whenever the antecedent is false
+C) They're always false
+D) They don't exist
+Answer: B
+
+98. Relevance logic addresses the problem that:
+A) Everything is relevant
+B) Classical logic allows irrelevant implications
+C) Nothing connects
+D) Logic is irrelevant
+Answer: B
+
+99. Paraconsistent logic allows:
+A) Only consistency
+B) Reasoning with contradictions
+C) No reasoning
+D) Perfect clarity
+Answer: B
+
+100. The semantic/syntactic distinction differentiates:
+A) Words and sentences
+B) Meaning and formal structure
+C) Truth and falsity
+D) Logic and mathematics
+Answer: B

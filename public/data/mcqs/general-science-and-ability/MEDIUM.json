@@ -1,0 +1,1194 @@
+{
+  "version": "2025-08-07T23:38:52.161Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "f4d7eadfde656e2e79c296ab28d4fdd374abce58",
+      "sectionIndex": 0,
+      "question": "Which treatise by Al-Khwarizmi introduced Hindu?\"Arabic numerals to the Western world?",
+      "options": [
+        "A) Al-Jabr wa?Tl-Muqabala",
+        "B) Kitāb al-Manāzil",
+        "C) Book of Optics",
+        "D) Canon of Medicine"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9f2409029ce2abeb86cae85cd8206fa88b3cc822",
+      "sectionIndex": 0,
+      "question": "Al-Biruni estimated Earth?Ts radius by measuring the dip angle from the top of a mountain. Which instrument did he use?",
+      "options": [
+        "A) Astrolabe",
+        "B) Sundial",
+        "C) Sextant",
+        "D) Quadrant"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c02badda35ddfde601a7b1cee772e659285e9c0b",
+      "sectionIndex": 0,
+      "question": "Ibn Sīnā?Ts Canon of Medicine is based chiefly on the principle of:",
+      "options": [
+        "A) Germ theory",
+        "B) Humoral balance",
+        "C) Antiseptic surgery",
+        "D) Vaccination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2dd7a882be1d6990db8c9ed425d660568f73d62",
+      "sectionIndex": 0,
+      "question": "Which methodology most characterizes Ibn al-Haytham?Ts approach in his Book of Optics?",
+      "options": [
+        "A) Purely geometric modeling",
+        "B) Empirical experimentation and measurement",
+        "C) Philosophical speculation",
+        "D) Astrological interpretation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e3dfcb9093c53393d3dea49d6df20d8515e96e8",
+      "sectionIndex": 0,
+      "question": "Al-Farghānī?Ts astronomical works refined which aspect of Ptolemaic theory?",
+      "options": [
+        "A) Heliocentric orbits",
+        "B) Sizes and distances of the Sun and Moon",
+        "C) Cometary paths",
+        "D) Milky Way structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4dabd037874688941b1c55d4699524f2e332752",
+      "sectionIndex": 0,
+      "question": "Jabir ibn Hayyān pioneered which alchemical process that laid groundwork for modern chemistry?",
+      "options": [
+        "A) Crystallization",
+        "B) Distillation",
+        "C) Sublimation",
+        "D) Chromatography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d97183341b435938b649d2177c0d7ed3a4375a8",
+      "sectionIndex": 0,
+      "question": "Al-Rāzī distinguished smallpox from measles primarily through:",
+      "options": [
+        "A) Chemical assays",
+        "B) Clinical observation of patient symptoms",
+        "C) Bloodletting records",
+        "D) Astrological charts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f1b2e13d677001be029ade9888dd1374a6e6efb",
+      "sectionIndex": 0,
+      "question": "Thābit ibn Qurra is known for generalizing which geometric theorem?",
+      "options": [
+        "A) Pythagorean theorem",
+        "B) Circle tangent theorem",
+        "C) Euclid?Ts fifth postulate",
+        "D) Conic section properties"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1b081a8973a996ffb4b41c1d47882f4433dea2cb",
+      "sectionIndex": 0,
+      "question": "Which improvement to the astrolabe is attributed to Azarquiel (Al-Zarqālī)?",
+      "options": [
+        "A) Metal rete design",
+        "B) Universal astrolabe adaptable to any latitude",
+        "C) Addition of a telescope",
+        "D) Automated timekeeping"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9de7ab1b267e1c1528c7abd491ae4c9e70aa94f2",
+      "sectionIndex": 0,
+      "question": "Al-Kindī?Ts work on frequency analysis was a foundational contribution to:",
+      "options": [
+        "A) Optics",
+        "B) Cryptography",
+        "C) Navigation",
+        "D) Algebra"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7d4ce95f84fbd39cfc89fa27dd8aed96cb15149",
+      "sectionIndex": 1,
+      "question": "The primary sink for anthropogenic CO,, is:",
+      "options": [
+        "A) Forest biomass",
+        "B) Surface ocean waters",
+        "C) Soil organic matter",
+        "D) Stratospheric aerosols"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c459428b7d6dc59ad469871f4a18e14006c97ce",
+      "sectionIndex": 1,
+      "question": "Photochemical smog formation in urban areas requires sunlight plus emissions of:",
+      "options": [
+        "A) SO,, and CO,,",
+        "B) NO,\" and volatile organic compounds (VOCs)",
+        "C) O,f and methane",
+        "D) Particulate matter only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70002e8e2f76807add2a68f488b0f1dd8c87a4f2",
+      "sectionIndex": 1,
+      "question": "Buffer strips alongside agricultural fields help prevent:",
+      "options": [
+        "A) Herbicide resistance",
+        "B) Soil salinization",
+        "C) Eutrophication of downstream waters",
+        "D) Increased groundwater recharge"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e3adedd4c440ef151b3a99c61c1fde2d4837758c",
+      "sectionIndex": 1,
+      "question": "Which greenhouse gas has the highest global warming potential over a 100-year timescale?",
+      "options": [
+        "A) Carbon dioxide",
+        "B) Methane",
+        "C) Nitrous oxide",
+        "D) Water vapor"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "11d8b2e451a90761fb30e581bfc0ae061ac86c7f",
+      "sectionIndex": 1,
+      "question": "The stratospheric ozone layer most effectively absorbs which part of the solar spectrum?",
+      "options": [
+        "A) UV-A",
+        "B) UV-B",
+        "C) Visible light",
+        "D) Infrared"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cddf7d31a56a2bb40b1c06245a52aced6cb8c07",
+      "sectionIndex": 1,
+      "question": "Under the Kyoto Protocol?Ts Clean Development Mechanism, developed countries may invest in:",
+      "options": [
+        "A) Afforestation in their own territories",
+        "B) Renewable energy projects in developing countries",
+        "C) Fossil-fuel expansion",
+        "D) Space?based solar power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4dd9cc0745beecb3e869b78938f1aa5f105884ce",
+      "sectionIndex": 1,
+      "question": "No-till farming enhances carbon sequestration primarily by:",
+      "options": [
+        "A) Increasing soil compaction",
+        "B) Reducing oxidation of soil organic matter",
+        "C) Enhancing pesticide uptake",
+        "D) Promoting monocropping"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d3b838282b2f116874c50ce4c9e9818b92213d0",
+      "sectionIndex": 1,
+      "question": "Acid rain most severely damages which material?",
+      "options": [
+        "A) Granite",
+        "B) Limestone",
+        "C) Steel",
+        "D) Plastic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1a26eb03a55901e18e7ae1389e81c9538424a53",
+      "sectionIndex": 1,
+      "question": "Which class of pesticides is most strongly associated with long-term endocrine disruption in wildlife?",
+      "options": [
+        "A) Organophosphates",
+        "B) Organochlorines",
+        "C) Neonicotinoids",
+        "D) Carbamates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1df4d94615b87702844b3d4b1acd3b29fb011f2c",
+      "sectionIndex": 1,
+      "question": "The El Niño?\"Southern Oscillation typically leads to:",
+      "options": [
+        "A) Fewer Pacific tropical cyclones",
+        "B) Increased cyclones in the central and eastern Pacific",
+        "C) Cooler global mean surface temperatures",
+        "D) Decreased rainfall in equatorial Pacific"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d97cee66acdd95d71ba6c95b1c44fed2fb68532",
+      "sectionIndex": 2,
+      "question": "Which hormone secreted by the pineal gland regulates sleep?\"wake cycles?",
+      "options": [
+        "A) Cortisol",
+        "B) Melatonin",
+        "C) Insulin",
+        "D) Thyroxine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2ae5fc20e408607a451caa0150f85e85c0fb06c",
+      "sectionIndex": 2,
+      "question": "Which of the following is an essential amino acid that must be obtained from the diet?",
+      "options": [
+        "A) Alanine",
+        "B) Glycine",
+        "C) Leucine",
+        "D) Aspartate"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b00e105cfe297d74f153fb31495457224299ddbb",
+      "sectionIndex": 2,
+      "question": "Fine regulation of water reabsorption in the nephron occurs mainly in the:",
+      "options": [
+        "A) Proximal convoluted tubule",
+        "B) Loop of Henle",
+        "C) Distal convoluted tubule and collecting duct",
+        "D) Glomerulus"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ae8d62c4da6877e012edf22a1c82c769fecabec0",
+      "sectionIndex": 2,
+      "question": "Which vitamin is required as a precursor for NAD+ in cellular respiration?",
+      "options": [
+        "A) B, (Thiamine)",
+        "B) B,, (Riboflavin)",
+        "C) B,f (Niacin)",
+        "D) B,? (Pyridoxine)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "10671879608b8172707b5d517c4c4883c588e80a",
+      "sectionIndex": 2,
+      "question": "Antigen presentation to helper T cells primarily involves:",
+      "options": [
+        "A) B-lymphocytes",
+        "B) Macrophages and dendritic cells via MHC II",
+        "C) Neutrophils",
+        "D) Platelets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49089dc6c199f4299225e1121ddc3abdff585b6b",
+      "sectionIndex": 2,
+      "question": "Which blood vessel carries the highest oxygen concentration under normal physiology?",
+      "options": [
+        "A) Aorta",
+        "B) Pulmonary vein",
+        "C) Pulmonary artery",
+        "D) Superior vena cava"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97dc22f83e597be64fa34b7508edb7460a9b0cbf",
+      "sectionIndex": 2,
+      "question": "Beta-oxidation of fatty acids occurs in the:",
+      "options": [
+        "A) Cytosol",
+        "B) Mitochondrial matrix",
+        "C) Endoplasmic reticulum",
+        "D) Nucleus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a25f0c0be96218df7530d0f7c9022ecc706cf71a",
+      "sectionIndex": 2,
+      "question": "Lymph nodes filter lymph fluid primarily through:",
+      "options": [
+        "A) Spleen tissue",
+        "B) Reticular mesh and immune cells",
+        "C) Hepatic sinusoids",
+        "D) Bone marrow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c64a7922e748610b7580a628921b4e2c507ea8d4",
+      "sectionIndex": 2,
+      "question": "The medulla oblongata is chiefly responsible for regulating:",
+      "options": [
+        "A) Voluntary movement",
+        "B) Autonomic functions such as respiration and heart rate",
+        "C) Long-term memory",
+        "D) Emotional responses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fde4987e76e516d1d05f03eea474fdbabf0be848",
+      "sectionIndex": 2,
+      "question": "Type II pneumocytes in the alveoli secrete:",
+      "options": [
+        "A) Mucus",
+        "B) Surfactant",
+        "C) Enzymes",
+        "D) Antibodies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a11a5b0f015372611e0cad0574316580d27d3c77",
+      "sectionIndex": 3,
+      "question": "Which seismic wave arrives first at a recording station after an earthquake?",
+      "options": [
+        "A) S-wave",
+        "B) P-wave",
+        "C) Surface (Rayleigh) wave",
+        "D) Love wave"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02e4e5c9424dfee2b84fca0caf075856a9a2887e",
+      "sectionIndex": 3,
+      "question": "The Coriolis effect influences the deflection of:",
+      "options": [
+        "A) River currents",
+        "B) Ocean tides",
+        "C) Wind and surface ocean currents",
+        "D) Tectonic plate motions"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "82c45ca67b1e5c3183fe3ece95aed520db67cdd3",
+      "sectionIndex": 3,
+      "question": "The topmost soil horizon rich in organic litter is labeled:",
+      "options": [
+        "A) O horizon",
+        "B) A horizon",
+        "C) B horizon",
+        "D) C horizon"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4b65d9e3b9d3fb61518a03cf71772880cea0b775",
+      "sectionIndex": 3,
+      "question": "For dating Precambrian rocks (>540 Ma), the most reliable radiometric method is:",
+      "options": [
+        "A) Carbon-14 dating",
+        "B) Uranium?\"Lead (U?\"Pb) dating",
+        "C) Potassium?\"Argon (K?\"Ar) dating",
+        "D) Rubidium?\"Strontium dating"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1665e268715cdcb23abd87ef2877bc6f856d8415",
+      "sectionIndex": 3,
+      "question": "The continental drift hypothesis was first systematized by:",
+      "options": [
+        "A) Alfred Wegener",
+        "B) Harry Hess",
+        "C) J. Tuzo Wilson",
+        "D) Charles Lyell"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6028b720eda7897de7fbe149ed4f3818fa30d2be",
+      "sectionIndex": 3,
+      "question": "Shield volcanoes are characterized by:",
+      "options": [
+        "A) Explosive eruptions and steep slopes",
+        "B) Effusive eruptions and gently sloping profiles",
+        "C) Ash-dominated cones",
+        "D) Caldera formation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ea8e61b1f3c6e3499236f95cad5eb8186454890",
+      "sectionIndex": 3,
+      "question": "Water-driven soil erosion is most severe on:",
+      "options": [
+        "A) Terraced farmland",
+        "B) Convex hillslopes",
+        "C) Flat plains",
+        "D) Concave hollows"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a4ba9491487a88488fc7970a143f9c7196b1ba6",
+      "sectionIndex": 3,
+      "question": "Orthoclase (feldspar) on the Mohs scale has hardness:",
+      "options": [
+        "A) 4",
+        "B) 5",
+        "C) 6",
+        "D) 7"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ca603d4ef4b2ca0815866404e5f6b6b208b4d5e4",
+      "sectionIndex": 3,
+      "question": "The principle of uniformitarianism states that:",
+      "options": [
+        "A) Past processes differ from present ones",
+        "B) Present geologic processes operated similarly in the past",
+        "C) Catastrophes shaped all geology",
+        "D) Geological change is impossible today"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31d48d0c98b37c1b5b4b469ebb8908a178679e62",
+      "sectionIndex": 3,
+      "question": "The lithosphere comprises:",
+      "options": [
+        "A) Earth?Ts outer core and mantle",
+        "B) Crust and uppermost solid mantle",
+        "C) Entire mantle",
+        "D) Atmosphere and hydrosphere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f19aa783939dc089aff627df58e0cb9aff8b70d",
+      "sectionIndex": 4,
+      "question": "Kepler?Ts third law relates an orbiting body?Ts period squared to the:",
+      "options": [
+        "A) Mass of the host star",
+        "B) Cube of the semi-major axis of its orbit",
+        "C) Distance to the galactic center",
+        "D) Eccentricity of the orbit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebf1218740bf35188dc597d09573b8495e1514c6",
+      "sectionIndex": 4,
+      "question": "Brown dwarfs occupy the mass range between:",
+      "options": [
+        "A) Planets and small stars (~13?\"80 MJ)",
+        "B) Asteroids and comets",
+        "C) Neutron stars and black holes",
+        "D) Galaxies and clusters"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "be045b45ca35557800029c18cf7405cfc702ced6",
+      "sectionIndex": 4,
+      "question": "The optimal lunar phase for deep-sky observations (minimal sky glow) is:",
+      "options": [
+        "A) Full moon",
+        "B) New moon",
+        "C) First quarter",
+        "D) Last quarter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a17b64353c222271b46170b23b0c56733078e0f",
+      "sectionIndex": 4,
+      "question": "Stellar parallax allows measurement of:",
+      "options": [
+        "A) Star luminosity",
+        "B) Distance to nearby stars",
+        "C) Age of galaxies",
+        "D) Black hole masses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8c8af601aa687631ad0f59f1f4ed5c764aa3df8",
+      "sectionIndex": 4,
+      "question": "The most powerful gamma-ray bursts are now attributed mainly to:",
+      "options": [
+        "A) Core-collapse supernovae",
+        "B) Neutron star mergers",
+        "C) Solar flares",
+        "D) Magnetar quakes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d040115baabffd371906346435bdf7521d25c194",
+      "sectionIndex": 4,
+      "question": "The solar wind consists primarily of:",
+      "options": [
+        "A) Neutrinos",
+        "B) Photons",
+        "C) Protons and electrons",
+        "D) Dust particles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6e1cea4e482b697aecbff2cea4ca3abec22820d2",
+      "sectionIndex": 4,
+      "question": "The Roche limit defines the distance within which a satellite would:",
+      "options": [
+        "A) Experience orbital decay",
+        "B) Be tidally disrupted by its primary",
+        "C) Escape its planet?Ts gravity",
+        "D) Enter synchronous orbit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce25ca5ba92276114df5dd71971221c58ba9c9af",
+      "sectionIndex": 4,
+      "question": "Adaptive optics in ground-based telescopes correct for:",
+      "options": [
+        "A) Chromatic aberration",
+        "B) Atmospheric turbulence",
+        "C) Mirror deformation only",
+        "D) Light pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dfd144322f03244368c903472d9f654a51079fa",
+      "sectionIndex": 4,
+      "question": "Evidence for dark matter in galaxies chiefly comes from:",
+      "options": [
+        "A) Pulsar timing",
+        "B) Galaxy rotation curves",
+        "C) Solar neutrino flux",
+        "D) Cosmic ray measurements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a044a72499ab0d8a588a736954f662f6c689bee",
+      "sectionIndex": 4,
+      "question": "Hubble?Ts law demonstrates that:",
+      "options": [
+        "A) All galaxies are gravitationally bound",
+        "B) The universe is expanding on large scales",
+        "C) Distance to nebulae is constant",
+        "D) Redshift is unrelated to velocity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1aa22ea419bab41bf4aba472c03d2e213e83171",
+      "sectionIndex": 5,
+      "question": "Which search algorithm runs in O(log N) time on a sorted array?",
+      "options": [
+        "A) Linear search",
+        "B) Binary search",
+        "C) Jump search",
+        "D) Interpolation search"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20ce6769986f56eb36befa8ff6b81603a316986e",
+      "sectionIndex": 5,
+      "question": "In the TCP three-way handshake, the second packet sent is:",
+      "options": [
+        "A) SYN",
+        "B) ACK",
+        "C) SYN-ACK",
+        "D) FIN"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e2b47ff5e0835bd3650a52a4f9f1501adb731cc6",
+      "sectionIndex": 5,
+      "question": "Document-oriented NoSQL databases (e.g., MongoDB) are best suited for:",
+      "options": [
+        "A) Complex join operations",
+        "B) Hierarchical data and flexible schemas",
+        "C) Strict ACID transactions",
+        "D) Graph traversals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "737a95ef60f24b095cb478b30dd053705341c26f",
+      "sectionIndex": 5,
+      "question": "HTTP/2 reduces latency primarily through:",
+      "options": [
+        "A) Persistent single connections with multiplexing",
+        "B) Switching to UDP transport",
+        "C) Removing TLS encryption",
+        "D) Increasing packet size"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9c4e7883d1b04ba6f735eeeada84f6f79127e8f6",
+      "sectionIndex": 5,
+      "question": "Virtual memory allows a system to:",
+      "options": [
+        "A) Expand RAM using disk storage",
+        "B) Cache CPU registers",
+        "C) Bypass the operating system",
+        "D) Isolate user processes"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "81a7bd57c22e795eaf137cb93aba2255a21f843c",
+      "sectionIndex": 5,
+      "question": "In the OSI model, the Network layer is responsible for:",
+      "options": [
+        "A) Data encryption",
+        "B) Packet routing and forwarding",
+        "C) Error detection on physical links",
+        "D) End-to-end reliability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08244481679241c2ade4d589942b152dad170bbf",
+      "sectionIndex": 5,
+      "question": "A RESTful API must be:",
+      "options": [
+        "A) Stateful",
+        "B) Stateless",
+        "C) Monolithic",
+        "D) Synchronous only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac46ed7718500b7453f6df740622f2fcdb2a1dce",
+      "sectionIndex": 5,
+      "question": "Which statement about blockchain is false?",
+      "options": [
+        "A) It uses a distributed ledger",
+        "B) Transactions are immutable once confirmed",
+        "C) It requires a central authority to validate blocks",
+        "D) Consensus mechanisms resolve double-spending"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "06662c4b5a2843f62e38d618170463ca2d5173f9",
+      "sectionIndex": 5,
+      "question": "Cache coherence protocols in multicore CPUs ensure that:",
+      "options": [
+        "A) Each core has a unique copy of data",
+        "B) All cache copies of the same memory address stay consistent",
+        "C) Caches never evict data",
+        "D) Only L1 caches are used"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44490cf4e34644b579afa7c43c31e92ce902fd4e",
+      "sectionIndex": 5,
+      "question": "Docker containers achieve isolation using which Linux features?",
+      "options": [
+        "A) Virtual machines",
+        "B) Namespaces and control groups (cgroups)",
+        "C) Java Virtual Machine",
+        "D) Registry servers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36a9cec954584c01c3bd8d48cb3f80f2e745936d",
+      "sectionIndex": 6,
+      "question": "Which molecule exhibits strong hydrogen bonding?",
+      "options": [
+        "A) HCl",
+        "B) CH,\"",
+        "C) NH,f",
+        "D) CO,,"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5d142e648c1e8806d5eaa0cc61fc1f10ed68981b",
+      "sectionIndex": 6,
+      "question": "Amphoteric oxides can react with:",
+      "options": [
+        "A) Acids only",
+        "B) Bases only",
+        "C) Both acids and bases",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "18fd60b58bd253408cbf05fe90ccb7c2442ae3fe",
+      "sectionIndex": 6,
+      "question": "Thin-layer chromatography separates compounds primarily by:",
+      "options": [
+        "A) Boiling points",
+        "B) Polarity differences",
+        "C) Molecular weight",
+        "D) Magnetic susceptibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a239033881cd9a3d3d886c1a2131e4b300ea810",
+      "sectionIndex": 6,
+      "question": "Halite (NaCl) crystallizes in which system?",
+      "options": [
+        "A) Cubic",
+        "B) Tetragonal",
+        "C) Hexagonal",
+        "D) Monoclinic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2c516da65209f631a805b83da38d3a47103d394b",
+      "sectionIndex": 6,
+      "question": "In a galvanic (voltaic) cell, the cathode is where:",
+      "options": [
+        "A) Oxidation occurs",
+        "B) Reduction occurs",
+        "C) Heat is released",
+        "D) Electron loss happens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4859610941f858b4d37a1c32cd3a28ff8bbe0dde",
+      "sectionIndex": 6,
+      "question": "According to Le Chatelier?Ts principle, increasing pressure favors the side with:",
+      "options": [
+        "A) More moles of gas",
+        "B) Fewer moles of gas",
+        "C) Equal moles of gas",
+        "D) Liquids only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f402c0c4a4eb8b82e52aff34aeeb9fa62224d7b7",
+      "sectionIndex": 6,
+      "question": "EDTA chelation therapy is primarily used to treat poisoning by:",
+      "options": [
+        "A) Lead",
+        "B) Sodium",
+        "C) Potassium",
+        "D) Calcium"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b56aadeadd42af251e2462e98fb3c566dbf16bce",
+      "sectionIndex": 6,
+      "question": "Which acid has a pKa closest to 4.8?",
+      "options": [
+        "A) Hydrochloric acid",
+        "B) Acetic acid",
+        "C) Sulfuric acid",
+        "D) Citric acid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6af29d01db28ace352769e50894577d1aaa84747",
+      "sectionIndex": 6,
+      "question": "Mineral oil is classified chemically as a:",
+      "options": [
+        "A) Hydrocarbon mixture",
+        "B) Alcohol",
+        "C) Ester",
+        "D) Acid"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a833334d668e0cbac824d0edb1ecbf12ce27a23d",
+      "sectionIndex": 6,
+      "question": "On the Mohs hardness scale, diamond ranks as:",
+      "options": [
+        "A) 7",
+        "B) 8",
+        "C) 9",
+        "D) 10"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0dd920e4976ab3e2f3871943136f33ae4b32d5e8",
+      "sectionIndex": 7,
+      "question": "If P(A)=0.3, P(B)=0.4, P(A^B)=0.1, then P(A^B)=?",
+      "options": [
+        "A) 0.5",
+        "B) 0.6",
+        "C) 0.7",
+        "D) 0.8"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fff689769046c81d2eecfd0a841d0698f52fa35",
+      "sectionIndex": 7,
+      "question": "Solve the inequality 2x?\"3 > 1.",
+      "options": [
+        "A) x > 1",
+        "B) x > 2",
+        "C) x > 0",
+        "D) x > 3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e322da5e58789e80571ddeabfdb89b8e47392cd",
+      "sectionIndex": 7,
+      "question": "The probability of rolling a total of 7 with two fair dice is:",
+      "options": [
+        "A) 1/4",
+        "B) 1/6",
+        "C) 1/3",
+        "D) 1/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "479f680c5e210d3a52a7ae875013656d598b6565",
+      "sectionIndex": 7,
+      "question": "Standard deviation is a measure of:",
+      "options": [
+        "A) Central tendency",
+        "B) Variability about the mean",
+        "C) Skewness",
+        "D) Kurtosis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "687ef57ea88d3384d1d40b861c1bc59093a5623a",
+      "sectionIndex": 7,
+      "question": "Matrix multiplication AB is defined only if:",
+      "options": [
+        "A) Rows of A = columns of B",
+        "B) Columns of A = rows of B",
+        "C) A and B are square",
+        "D) Determinants are equal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e79fa7e598967d9919dcecd6abbcf81754458fbb",
+      "sectionIndex": 7,
+      "question": "The derivative of arctan(x) is:",
+      "options": [
+        "A) sin(x)",
+        "B) cos(x)",
+        "C) 1/(1+x2)",
+        "D) x/(1+x2)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ae1657907bda22a6be4f8b52f6f859c8ab40ffc9",
+      "sectionIndex": 7,
+      "question": "The sum of the first n terms of a geometric series a, ar, ar2,? is valid if r ? 1 and equals:",
+      "options": [
+        "A) a(1?\"rn)/(1?\"r)",
+        "B) arn/(1?\"r)",
+        "C) a/(1?\"rn)",
+        "D) (1?\"rn)/(a(1?\"r))"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c59dd651193c066b9e7594d4821f78b5c6bd47a8",
+      "sectionIndex": 7,
+      "question": "To test divergence of ^'1/n, the appropriate comparison is with:",
+      "options": [
+        "A) ^'1/n2",
+        "B) ^'1/2n",
+        "C) ^'1/^sn",
+        "D) ^'1/n"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "cbb302f637ed2745cd5160fe7e119721d720e4a9",
+      "sectionIndex": 7,
+      "question": "The area under y = x2 from x=0 to x=2 is:",
+      "options": [
+        "A) 4",
+        "B) 8/3",
+        "C) 2",
+        "D) 16/3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8675da5fcd754becc42c0994b93b925f852a7c4f",
+      "sectionIndex": 7,
+      "question": "Two vectors u and v are orthogonal if and only if their dot product equals:",
+      "options": [
+        "A) 1",
+        "B) 0",
+        "C) ?\"1",
+        "D) |u||v|"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbec481cbf7c236c61b04deb92be21f373f010ab",
+      "sectionIndex": 8,
+      "question": "Entropy in thermodynamics quantifies:",
+      "options": [
+        "A) Total energy",
+        "B) Disorder or randomness",
+        "C) Heat capacity",
+        "D) Pressure-volume work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5675254da68ab3949791a556c18945531ac0c3bf",
+      "sectionIndex": 8,
+      "question": "The isotope notation 14C indicates a carbon atom with:",
+      "options": [
+        "A) 6 protons and 8 neutrons (mass number 14)",
+        "B) 14 protons and 6 neutrons",
+        "C) 14 electrons",
+        "D) Atomic number 14"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "88de06dfe73a72521bc7c34b2d19fd3079506c8d",
+      "sectionIndex": 8,
+      "question": "Electron affinity refers to the energy change when an atom:",
+      "options": [
+        "A) Loses an electron",
+        "B) Gains an electron",
+        "C) Splits in half",
+        "D) Absorbs a photon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe077c7291271156b9ca219c7f3240c81fa8f2d1",
+      "sectionIndex": 8,
+      "question": "IPv6 addresses are how many bits long?",
+      "options": [
+        "A) 32",
+        "B) 64",
+        "C) 128",
+        "D) 256"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1d29689ade99198d100d2c5e0c419e025783ef8d",
+      "sectionIndex": 8,
+      "question": "In blockchain, ?oPoW? stands for:",
+      "options": [
+        "A) Proof of Work",
+        "B) Proof of Wallet",
+        "C) Proof of Wealth",
+        "D) Proof of Warrant"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fe0d8c628e3a2702c8118c181f2e10a9afb8b61c",
+      "sectionIndex": 8,
+      "question": "Molarity (M) is defined as:",
+      "options": [
+        "A) Grams of solute per liter of solution",
+        "B) Moles of solute per liter of solution",
+        "C) Volume of solute per liter of solvent",
+        "D) Mass of solvent per mole of solute"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e684728b105f8f3e51bf322090b086077b291710",
+      "sectionIndex": 8,
+      "question": "The semiconductor most commonly used in photovoltaic solar cells is:",
+      "options": [
+        "A) Germanium",
+        "B) Silicon",
+        "C) Gallium arsenide",
+        "D) Cadmium telluride"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "742becda57166e1101b84ddfeb667e29a7f383f9",
+      "sectionIndex": 8,
+      "question": "A biological membrane?Ts lipid bilayer is primarily composed of:",
+      "options": [
+        "A) Triglycerides",
+        "B) Phospholipids",
+        "C) Steroids",
+        "D) Proteins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b4c0c23d1967f2f82cd629a04fefa3af0b60abb",
+      "sectionIndex": 8,
+      "question": "The SI unit of luminance is:",
+      "options": [
+        "A) Lux (lx)",
+        "B) Lumen (lm)",
+        "C) Candela per square meter (cd/m2)",
+        "D) Candela (cd)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c90d2a92de5bc13be9a87356559fb6a51841d9c0",
+      "sectionIndex": 8,
+      "question": "HTTP status code 404 indicates:",
+      "options": [
+        "A) OK",
+        "B) Not Found",
+        "C) Unauthorized",
+        "D) Internal Server Error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b47ce9eb044ea79edbe84ea6e17de74ffc5baf8",
+      "sectionIndex": 9,
+      "question": "Renewable energy differs from non-renewable in that it:",
+      "options": [
+        "A) Releases no CO,,",
+        "B) Replenishes on a human timescale",
+        "C) Is always solar-based",
+        "D) Costs less to produce"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c98528e4019cab3512569660624cb55bc6993104",
+      "sectionIndex": 9,
+      "question": "At a convergent plate boundary, plates:",
+      "options": [
+        "A) Move apart",
+        "B) Slide past each other",
+        "C) Collide or one subducts beneath the other",
+        "D) Remain stationary"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c46dc916e951044a7a352d62ffca7bf23413232a",
+      "sectionIndex": 9,
+      "question": "Isotopes and isobars differ in that isotopes share the same:",
+      "options": [
+        "A) Mass number",
+        "B) Atomic number",
+        "C) Number of neutrons",
+        "D) Chemical properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fc7545e68786e82b9dfbc0daebc97bf0589405c",
+      "sectionIndex": 9,
+      "question": "Monocotyledonous plants differ from dicots by having:",
+      "options": [
+        "A) Two cotyledons",
+        "B) One cotyledon",
+        "C) No cotyledons",
+        "D) Multiple cotyledons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d88c877d501cc6ee3de656330f5b4133e69004c",
+      "sectionIndex": 9,
+      "question": "Lanthanides vs. actinides: lanthanides occupy which period?",
+      "options": [
+        "A) Period 5",
+        "B) Period 6",
+        "C) Period 7",
+        "D) Period 8"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0b24a3412bd32d9cd35ed0f659726b1539cb291",
+      "sectionIndex": 9,
+      "question": "Ionic bonds form between:",
+      "options": [
+        "A) Two nonmetals",
+        "B) Two metals",
+        "C) A metal and a nonmetal",
+        "D) Noble gases only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1377dadfeeeafdaafeab9ac26d217a3b9eb8ec4f",
+      "sectionIndex": 9,
+      "question": "Velocity differs from speed because velocity is a:",
+      "options": [
+        "A) Scalar",
+        "B) Vector",
+        "C) Constant only",
+        "D) Rate of acceleration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f90d2ce8cd314b84338ae6fb7ad32a28440fb39",
+      "sectionIndex": 9,
+      "question": "Exothermic reactions:",
+      "options": [
+        "A) Absorb heat from surroundings",
+        "B) Release heat into surroundings",
+        "C) Have positive \"H",
+        "D) Occur only in gas phase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac4ed69a792ca7410004b2c9d5bd372fb1d95f72",
+      "sectionIndex": 9,
+      "question": "A microscope vs. telescope: a microscope is designed to:",
+      "options": [
+        "A) Magnify distant objects",
+        "B) Magnify very small, nearby specimens",
+        "C) Detect radio waves",
+        "D) Observe planetary motion"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:25:12.469Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "b9bd88c428254b5e9702374c553accada300daf7",
+      "sectionIndex": 0,
+      "question": "Who is known as the father of Public Administration?",
+      "options": [
+        "A) Max Weber",
+        "B) Woodrow Wilson",
+        "C) Frederick Taylor",
+        "D) Henri Fayol"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd61813f07a7784e5f0399bad69f0f8046407bcf",
+      "sectionIndex": 0,
+      "question": "Max Weber's ideal bureaucracy is based on:",
+      "options": [
+        "A) Personal relationships",
+        "B) Legal-rational authority",
+        "C) Traditional authority",
+        "D) Charismatic leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfcd4e5d0d51b43e261a01a483cbf1d1674fbdaf",
+      "sectionIndex": 0,
+      "question": "Frederick Taylor is associated with:",
+      "options": [
+        "A) Human Relations Theory",
+        "B) Scientific Management",
+        "C) Systems Theory",
+        "D) Bureaucratic Theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58f738da184984403e311781764561bdb1f0f6b5",
+      "sectionIndex": 0,
+      "question": "POSDCORB was coined by:",
+      "options": [
+        "A) Luther Gulick",
+        "B) Max Weber",
+        "C) Henri Fayol",
+        "D) Elton Mayo"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7f6487f23e7c39790515c4eac745820816fb51b3",
+      "sectionIndex": 0,
+      "question": "The Hawthorne Studies were conducted by:",
+      "options": [
+        "A) Frederick Taylor",
+        "B) Max Weber",
+        "C) Elton Mayo",
+        "D) Herbert Simon"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fc6a1f452a5b2cb0b364eedf6128750a5977254d",
+      "sectionIndex": 0,
+      "question": "Theory X and Theory Y were proposed by:",
+      "options": [
+        "A) Abraham Maslow",
+        "B) Douglas McGregor",
+        "C) Frederick Herzberg",
+        "D) Elton Mayo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7293e41a98c6951569739ee34efbb8f3ca7096c9",
+      "sectionIndex": 0,
+      "question": "The Politics-Administration Dichotomy was first presented by:",
+      "options": [
+        "A) Max Weber",
+        "B) Woodrow Wilson",
+        "C) Frank Goodnow",
+        "D) Luther Gulick"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a097d835a6f332ec13c973da9a45da4f2011c5d4",
+      "sectionIndex": 0,
+      "question": "Henri Fayol identified how many principles of management?",
+      "options": [
+        "A) 10",
+        "B) 12",
+        "C) 14",
+        "D) 16"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5c1d4f7204c54f6f8c91855542be346060eae7a2",
+      "sectionIndex": 0,
+      "question": "The concept of \"bounded rationality\" was introduced by:",
+      "options": [
+        "A) Herbert Simon",
+        "B) Chester Barnard",
+        "C) Mary Parker Follett",
+        "D) Chris Argyris"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "86c1e622ce3d59c1b40dd42a44a65d0671a46301",
+      "sectionIndex": 0,
+      "question": "The Systems Theory approach views organizations as:",
+      "options": [
+        "A) Closed systems",
+        "B) Open systems",
+        "C) Mechanical systems",
+        "D) Static systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "520c20769cad2b80703a7adb8f932d67f3170eb1",
+      "sectionIndex": 1,
+      "question": "According to Weber, bureaucracy is characterized by:",
+      "options": [
+        "A) Flexibility",
+        "B) Hierarchy",
+        "C) Informality",
+        "D) Personal loyalty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6108a32a0a062bd4a63efc1c819c03abc2f3d8f8",
+      "sectionIndex": 1,
+      "question": "The principle of hierarchy means:",
+      "options": [
+        "A) Equal authority",
+        "B) Chain of command",
+        "C) Flexible structure",
+        "D) Matrix organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9f70755eb7f8e3a5ed9c1e9cce20b809af1f89f",
+      "sectionIndex": 1,
+      "question": "Bureaucratic positions are filled based on:",
+      "options": [
+        "A) Personal connections",
+        "B) Merit and qualifications",
+        "C) Seniority only",
+        "D) Random selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6f7e57b4f465a31715ddbdff1b7da1ea3a6c543",
+      "sectionIndex": 1,
+      "question": "Red tape in bureaucracy refers to:",
+      "options": [
+        "A) Efficiency",
+        "B) Excessive rules and procedures",
+        "C) Quick decision-making",
+        "D) Innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a89bbe51761124ed11844571a09951ea27528e19",
+      "sectionIndex": 1,
+      "question": "The span of control refers to:",
+      "options": [
+        "A) Time management",
+        "B) Number of subordinates",
+        "C) Budget size",
+        "D) Office space"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd9386aaa09d29a59309e01d092d101c505fad70",
+      "sectionIndex": 1,
+      "question": "Unity of command means:",
+      "options": [
+        "A) Multiple supervisors",
+        "B) One supervisor per employee",
+        "C) No supervision",
+        "D) Self-management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4a237a96a2936e650e5170a835408d05d1a779e",
+      "sectionIndex": 1,
+      "question": "Line agencies are responsible for:",
+      "options": [
+        "A) Advisory functions",
+        "B) Primary government functions",
+        "C) Support services",
+        "D) Research only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "400d4339435542b8520b3e7a4ee92ea25380d15d",
+      "sectionIndex": 1,
+      "question": "Staff agencies provide:",
+      "options": [
+        "A) Direct services",
+        "B) Advisory and support services",
+        "C) Law enforcement",
+        "D) Revenue collection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "30e7c849177aa2f1c97585fe3f17a7d919ff568f",
+      "sectionIndex": 1,
+      "question": "Centralization refers to:",
+      "options": [
+        "A) Dispersed authority",
+        "B) Concentrated authority",
+        "C) Local control",
+        "D) No control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74b05d5b09fd40bf64ccca54a6d60a88b23d0229",
+      "sectionIndex": 1,
+      "question": "Delegation means:",
+      "options": [
+        "A) Avoiding responsibility",
+        "B) Transferring authority",
+        "C) Centralizing power",
+        "D) Eliminating positions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77bbba8ae854eb6a11b667b67cd48604807b6650",
+      "sectionIndex": 2,
+      "question": "Good governance includes:",
+      "options": [
+        "A) Secrecy",
+        "B) Transparency",
+        "C) Exclusion",
+        "D) Corruption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33a1cd1abef27f572a760f4fc971cc9d3ad1093c",
+      "sectionIndex": 2,
+      "question": "Accountability in public administration means:",
+      "options": [
+        "A) Avoiding responsibility",
+        "B) Answerability for actions",
+        "C) Secret operations",
+        "D) Personal gain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b128dd4e0c86b360e82eb36fab68dc44e6cd9d07",
+      "sectionIndex": 2,
+      "question": "The rule of law ensures:",
+      "options": [
+        "A) Arbitrary decisions",
+        "B) Equal treatment",
+        "C) Discrimination",
+        "D) Favoritism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8567c93b1bb53c6ec60ca7603fe88b073c7187ad",
+      "sectionIndex": 2,
+      "question": "Public participation in governance promotes:",
+      "options": [
+        "A) Exclusion",
+        "B) Democracy",
+        "C) Dictatorship",
+        "D) Secrecy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "767b0816f5c9d6afdcb553de5013e20881812cd2",
+      "sectionIndex": 2,
+      "question": "Transparency requires:",
+      "options": [
+        "A) Hidden information",
+        "B) Open information",
+        "C) Selective disclosure",
+        "D) No information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f998f6c59c76ff1b1729589a07f12e4fcac1ecd7",
+      "sectionIndex": 2,
+      "question": "The Ombudsman's role is to:",
+      "options": [
+        "A) Make laws",
+        "B) Investigate complaints",
+        "C) Collect taxes",
+        "D) Enforce laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "964417f32b53fbf2588934635dc70c8ead19f96c",
+      "sectionIndex": 2,
+      "question": "Judicial review allows courts to:",
+      "options": [
+        "A) Make laws",
+        "B) Review administrative actions",
+        "C) Appoint officials",
+        "D) Collect revenue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbd47322a6a05d8a7cef89e2dd04203ca684152a",
+      "sectionIndex": 2,
+      "question": "Ethical governance requires:",
+      "options": [
+        "A) Corruption",
+        "B) Integrity",
+        "C) Favoritism",
+        "D) Nepotism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d218c409dd3c2c1bf8614b0c4b1e6f30e753fe7",
+      "sectionIndex": 2,
+      "question": "Civil society's role in governance is:",
+      "options": [
+        "A) To replace government",
+        "B) To monitor and advocate",
+        "C) To collect taxes",
+        "D) To make laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "584709566678a0336e8f89bba871f66f8ba31606",
+      "sectionIndex": 2,
+      "question": "E-governance uses technology to:",
+      "options": [
+        "A) Reduce efficiency",
+        "B) Improve service delivery",
+        "C) Increase corruption",
+        "D) Limit access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e14fa98829d7c93bb7c093c97b49b9fc6f065a2",
+      "sectionIndex": 3,
+      "question": "Planning involves:",
+      "options": [
+        "A) Looking backward",
+        "B) Setting future goals",
+        "C) Avoiding decisions",
+        "D) Random actions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7e5ba2cd544c7f0de8afebabe359efe4ffc9233",
+      "sectionIndex": 3,
+      "question": "Organizing means:",
+      "options": [
+        "A) Creating chaos",
+        "B) Structuring resources",
+        "C) Avoiding structure",
+        "D) Working alone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0876f9f6ec18dc8e10758f4813bb08b719664e41",
+      "sectionIndex": 3,
+      "question": "Directing involves:",
+      "options": [
+        "A) Following others",
+        "B) Guiding subordinates",
+        "C) Avoiding leadership",
+        "D) Working independently"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4e8151261e134aab36da2bde7a9f45c636ef952",
+      "sectionIndex": 3,
+      "question": "Controlling ensures:",
+      "options": [
+        "A) Dictatorship",
+        "B) Performance standards are met",
+        "C) No monitoring",
+        "D) Complete freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "713972c85c8a828430db3f48e8da2af75d01ca60",
+      "sectionIndex": 3,
+      "question": "Coordination means:",
+      "options": [
+        "A) Working separately",
+        "B) Harmonizing activities",
+        "C) Creating conflict",
+        "D) Avoiding cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "177fbb9392ee620a082a3562dc9ec7879c2a1aac",
+      "sectionIndex": 3,
+      "question": "Communication in organizations flows:",
+      "options": [
+        "A) One way only",
+        "B) Multiple directions",
+        "C) Never",
+        "D) Randomly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0ecc9bfd922e2817c92614087c538c9b2b4a7d4",
+      "sectionIndex": 3,
+      "question": "Decision-making in public administration should be:",
+      "options": [
+        "A) Arbitrary",
+        "B) Rational",
+        "C) Personal",
+        "D) Emotional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "623ac1099cedfc2a727d344710c87047c7500959",
+      "sectionIndex": 3,
+      "question": "Leadership in public organizations requires:",
+      "options": [
+        "A) Dictatorship",
+        "B) Vision and direction",
+        "C) Avoiding responsibility",
+        "D) Personal gain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb1469f68adfdaeb2ddbdd4c122250d44e30fc12",
+      "sectionIndex": 3,
+      "question": "Motivation of employees involves:",
+      "options": [
+        "A) Punishment only",
+        "B) Incentives and recognition",
+        "C) Ignoring needs",
+        "D) Threats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea8cd1c847dce7284c6e2ee5271c8d747ead4132",
+      "sectionIndex": 3,
+      "question": "Performance evaluation helps:",
+      "options": [
+        "A) Punish employees",
+        "B) Improve performance",
+        "C) Create fear",
+        "D) Waste time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c30c84e57cf553025fd359b8d49095bb041abe8e",
+      "sectionIndex": 4,
+      "question": "A budget is:",
+      "options": [
+        "A) A spending spree",
+        "B) A financial plan",
+        "C) Unlimited funds",
+        "D) No planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc43b05aaabab1e956c7db20eea77daec9c0e808",
+      "sectionIndex": 4,
+      "question": "The fiscal year is:",
+      "options": [
+        "A) Calendar year only",
+        "B) 12-month financial period",
+        "C) 6 months",
+        "D) 2 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25be2482bebc3a2ffbf155a3edde8d1f01e85e0d",
+      "sectionIndex": 4,
+      "question": "Revenue comes from:",
+      "options": [
+        "A) Spending",
+        "B) Taxes and fees",
+        "C) Borrowing only",
+        "D) Printing money"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e23746c96e36d3d68e59c8de47d926fca161849",
+      "sectionIndex": 4,
+      "question": "Expenditure means:",
+      "options": [
+        "A) Income",
+        "B) Government spending",
+        "C) Savings",
+        "D) Investment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "328bb5254d43c5945a69de8152a0990109a33fe1",
+      "sectionIndex": 4,
+      "question": "A balanced budget has:",
+      "options": [
+        "A) More expenses than revenue",
+        "B) Revenue equals expenditure",
+        "C) Only revenue",
+        "D) Only expenditure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcdda09fe62bd9fcf67e4f7936d79d36476ec013",
+      "sectionIndex": 4,
+      "question": "Deficit occurs when:",
+      "options": [
+        "A) Revenue exceeds expenditure",
+        "B) Expenditure exceeds revenue",
+        "C) No spending",
+        "D) No revenue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09f12de6eb6f8bc44aa4bd7cfcf67dd38fb0902a",
+      "sectionIndex": 4,
+      "question": "Auditing checks:",
+      "options": [
+        "A) Future plans",
+        "B) Financial compliance",
+        "C) Personal opinions",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21266d28c885e06f168a68750d4fc808c5023219",
+      "sectionIndex": 4,
+      "question": "Public money should be spent:",
+      "options": [
+        "A) Secretly",
+        "B) According to law",
+        "C) Randomly",
+        "D) Without records"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48d4a906a38d616b959f0d9029dfb04facfd5d8a",
+      "sectionIndex": 4,
+      "question": "Financial accountability requires:",
+      "options": [
+        "A) Hidden records",
+        "B) Proper documentation",
+        "C) No records",
+        "D) Personal use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b01a855ea1dc85ce46ce0e1bdf78f990e6e9c94f",
+      "sectionIndex": 4,
+      "question": "Budget approval is done by:",
+      "options": [
+        "A) Executive only",
+        "B) Legislature",
+        "C) Judiciary",
+        "D) Military"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2114eeab3a4e52728e0cbb9cd2e3ac026be8618e",
+      "sectionIndex": 5,
+      "question": "Recruitment means:",
+      "options": [
+        "A) Firing employees",
+        "B) Attracting candidates",
+        "C) Avoiding hiring",
+        "D) Random selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82a3cf395aa5666875d5a62af17e8d7a7821aab7",
+      "sectionIndex": 5,
+      "question": "Merit system bases selection on:",
+      "options": [
+        "A) Favoritism",
+        "B) Qualifications",
+        "C) Connections",
+        "D) Bribes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b72f8173dbd8fd21db51cdc5bef1b81fea9bfa5",
+      "sectionIndex": 5,
+      "question": "Training helps employees:",
+      "options": [
+        "A) Waste time",
+        "B) Develop skills",
+        "C) Become lazy",
+        "D) Avoid work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eda987009056c0118669638a10dd56e6afc1323a",
+      "sectionIndex": 5,
+      "question": "Performance appraisal evaluates:",
+      "options": [
+        "A) Office furniture",
+        "B) Employee performance",
+        "C) Building structure",
+        "D) Weather conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a3129a53a7fcd25c70a4ad20c5d257335a80c45",
+      "sectionIndex": 5,
+      "question": "Promotion should be based on:",
+      "options": [
+        "A) Favoritism",
+        "B) Merit and performance",
+        "C) Age only",
+        "D) Gender"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56e6753f9de38d93a7b193a575a64965a9bd5c84",
+      "sectionIndex": 5,
+      "question": "Civil service refers to:",
+      "options": [
+        "A) Military service",
+        "B) Government employees",
+        "C) Private sector",
+        "D) Volunteers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d60f3f968d6b25c70ec87c31b8c0ffb73933f4a",
+      "sectionIndex": 5,
+      "question": "Job analysis determines:",
+      "options": [
+        "A) Salary only",
+        "B) Job requirements",
+        "C) Office location",
+        "D) Vacation time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5e2cd95b74e0ad8e9c6b16b4e41f26469321b4c",
+      "sectionIndex": 5,
+      "question": "Employee motivation includes:",
+      "options": [
+        "A) Threats only",
+        "B) Rewards and recognition",
+        "C) Punishment",
+        "D) Ignoring achievements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "568067d8d9fa088b7e98303591e357754ecc9bfb",
+      "sectionIndex": 5,
+      "question": "Retirement benefits are:",
+      "options": [
+        "A) Optional",
+        "B) Employee rights",
+        "C) Unnecessary",
+        "D) Wasteful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c03abe5ed128ccc47adb9bf4a61f6ca4553becb4",
+      "sectionIndex": 5,
+      "question": "Equal opportunity means:",
+      "options": [
+        "A) Discrimination",
+        "B) Fair treatment",
+        "C) Favoritism",
+        "D) Exclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd5d7c6de10031279ed728fdea401ec928b33f06",
+      "sectionIndex": 6,
+      "question": "Pakistan's civil service was inherited from:",
+      "options": [
+        "A) America",
+        "B) British India",
+        "C) China",
+        "D) Russia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08eb6b49f6de50f7b2d32dac8abc04719acf821f",
+      "sectionIndex": 6,
+      "question": "The highest civil service group in Pakistan is:",
+      "options": [
+        "A) Police Service",
+        "B) Pakistan Administrative Service",
+        "C) Foreign Service",
+        "D) Accounts Service"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d110eea14a84ccc19911866fbfa3d8e281ef7411",
+      "sectionIndex": 6,
+      "question": "Federal Public Service Commission conducts:",
+      "options": [
+        "A) Elections",
+        "B) Civil service exams",
+        "C) Census",
+        "D) Surveys"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a4b9c65ef68010eb4bc3dfaa55dc2924f1019d6",
+      "sectionIndex": 6,
+      "question": "Pakistan follows which system of government?",
+      "options": [
+        "A) Unitary",
+        "B) Federal",
+        "C) Confederal",
+        "D) Monarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e05552bce5d8554cb498275770b9c2746ce2d0b0",
+      "sectionIndex": 6,
+      "question": "How many provinces does Pakistan have?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d234ef1ab3b2d8ca6b057597f3fb6cd2d0757d73",
+      "sectionIndex": 6,
+      "question": "Local government in Pakistan operates at:",
+      "options": [
+        "A) Federal level only",
+        "B) District and below",
+        "C) Provincial level only",
+        "D) International level"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "958b6a5bc7bb62090a41beadd2780807d0f0b596",
+      "sectionIndex": 6,
+      "question": "The Planning Commission of Pakistan handles:",
+      "options": [
+        "A) Daily administration",
+        "B) Development planning",
+        "C) Law enforcement",
+        "D) Foreign affairs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbc5296ce3558c7f69bb524bd3d3ebe28b099547",
+      "sectionIndex": 6,
+      "question": "National Accountability Bureau (NAB) deals with:",
+      "options": [
+        "A) Education",
+        "B) Anti-corruption",
+        "C) Health",
+        "D) Defense"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15becd5873754af47afdc3cd83db34e16afa1db1",
+      "sectionIndex": 6,
+      "question": "Devolution in Pakistan means:",
+      "options": [
+        "A) Centralization",
+        "B) Decentralization of power",
+        "C) Military rule",
+        "D) Foreign control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2324a66fd2cde66f0edc138600957ef96383c39",
+      "sectionIndex": 6,
+      "question": "The Establishment Division handles:",
+      "options": [
+        "A) Foreign policy",
+        "B) Civil service matters",
+        "C) Defense",
+        "D) Education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6178f4a1b08076ced63e0cbb5799b5d521801070",
+      "sectionIndex": 7,
+      "question": "New Public Management emphasizes:",
+      "options": [
+        "A) More bureaucracy",
+        "B) Business-like operations",
+        "C) Less efficiency",
+        "D) More red tape"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1c3d1cef7c521f90b319220f6760c58e08f0d19",
+      "sectionIndex": 7,
+      "question": "Privatization means:",
+      "options": [
+        "A) Government control",
+        "B) Transfer to private sector",
+        "C) Nationalization",
+        "D) Military control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8ec91d7a72923ecf22ef9342b69fef3a7704bf",
+      "sectionIndex": 7,
+      "question": "Globalization affects public administration through:",
+      "options": [
+        "A) Isolation",
+        "B) International cooperation",
+        "C) Less communication",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d146ec9a2bfdad1362b1a4e77293ca79c7ee79f",
+      "sectionIndex": 7,
+      "question": "Information technology in government improves:",
+      "options": [
+        "A) Corruption",
+        "B) Service delivery",
+        "C) Delays",
+        "D) Confusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10b55c57c460bdbe8fae7b99b47ba5aca2f56849",
+      "sectionIndex": 7,
+      "question": "Public-Private Partnership involves:",
+      "options": [
+        "A) Government only",
+        "B) Joint ventures",
+        "C) Private only",
+        "D) No cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9588c9516df35f593db6bdb822f3c0c30f1f1ffb",
+      "sectionIndex": 7,
+      "question": "Sustainable development means:",
+      "options": [
+        "A) Short-term gains",
+        "B) Long-term balance",
+        "C) Environmental damage",
+        "D) No development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d7ea6f4bbf495ad9090aeeb7f25fa673c84b793",
+      "sectionIndex": 7,
+      "question": "Gender equality in administration promotes:",
+      "options": [
+        "A) Discrimination",
+        "B) Fair representation",
+        "C) Male dominance",
+        "D) Exclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5abb93f79c8d447765f9701c520b55a9e5f97e4",
+      "sectionIndex": 7,
+      "question": "Citizen charters specify:",
+      "options": [
+        "A) Citizen duties only",
+        "B) Service standards",
+        "C) Tax rates",
+        "D) Punishments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fca405f30ca70d3d2b83ddef1069969728043087",
+      "sectionIndex": 7,
+      "question": "Right to Information ensures:",
+      "options": [
+        "A) Secrecy",
+        "B) Public access to information",
+        "C) Hidden records",
+        "D) No accountability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d93b73092e8609a5bd4323e6d638e1aa1c024dec",
+      "sectionIndex": 7,
+      "question": "Social media in governance enables:",
+      "options": [
+        "A) Less communication",
+        "B) Direct citizen engagement",
+        "C) Isolation",
+        "D) Misinformation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6927d711f890ef9f7e0351d00b9a5308fa10337a",
+      "sectionIndex": 8,
+      "question": "Public policy addresses:",
+      "options": [
+        "A) Private matters",
+        "B) Public problems",
+        "C) Individual issues",
+        "D) No issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4f5a4de1e625790a3b90b4d9ca3bd11cf44d400",
+      "sectionIndex": 8,
+      "question": "Policy formulation involves:",
+      "options": [
+        "A) Implementation only",
+        "B) Developing solutions",
+        "C) Ignoring problems",
+        "D) No planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9761ddbdaee4e4ae36593526ae797461d62ba400",
+      "sectionIndex": 8,
+      "question": "Policy implementation means:",
+      "options": [
+        "A) Making policy",
+        "B) Executing policy",
+        "C) Deleting policy",
+        "D) Ignoring policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9a606e76d39be399544a9533b629c7eb4bee626",
+      "sectionIndex": 8,
+      "question": "Policy evaluation checks:",
+      "options": [
+        "A) Nothing",
+        "B) Policy effectiveness",
+        "C) Personal opinions",
+        "D) Unrelated matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da9bff9801cc72ed3baad6a9756f3652356bd8b1",
+      "sectionIndex": 8,
+      "question": "Stakeholders in policy include:",
+      "options": [
+        "A) Government only",
+        "B) All affected parties",
+        "C) Nobody",
+        "D) Foreign countries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "359a71dea6b8eb4f823eaff166836cade333a2ca",
+      "sectionIndex": 8,
+      "question": "Public interest means:",
+      "options": [
+        "A) Private benefit",
+        "B) Common good",
+        "C) Individual gain",
+        "D) No benefit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e119fe035dd9127df6a414cab806a285fb65453",
+      "sectionIndex": 8,
+      "question": "Planning horizon refers to:",
+      "options": [
+        "A) Sky watching",
+        "B) Time period",
+        "C) Building height",
+        "D) Sea level"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9242959d8226beace4ed0fdc0b7898495de24b56",
+      "sectionIndex": 8,
+      "question": "Strategic planning is:",
+      "options": [
+        "A) Short-term",
+        "B) Long-term",
+        "C) No planning",
+        "D) Daily planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bf29f8f3824c41c13d8bf1ef9988ea8e19f1980",
+      "sectionIndex": 8,
+      "question": "Operational planning is:",
+      "options": [
+        "A) Long-term",
+        "B) Day-to-day",
+        "C) Never done",
+        "D) 10-year plan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3f32391e9f4edf9f4bc1df880a79a90420880eb",
+      "sectionIndex": 8,
+      "question": "Policy feedback helps:",
+      "options": [
+        "A) Ignore problems",
+        "B) Improve policies",
+        "C) Create confusion",
+        "D) Waste time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a5f47486dd60be76aa85cd5007d83677ef5411b",
+      "sectionIndex": 9,
+      "question": "Administrative law governs:",
+      "options": [
+        "A) Private companies",
+        "B) Government agencies",
+        "C) Families",
+        "D) International relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8590587b2188bd3d01b908556c8f64a17aab8042",
+      "sectionIndex": 9,
+      "question": "Due process ensures:",
+      "options": [
+        "A) Arbitrary action",
+        "B) Fair procedures",
+        "C) Quick injustice",
+        "D) No procedures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2d2662ce425e04a838167b586bb6a51f22aac05",
+      "sectionIndex": 9,
+      "question": "Natural justice includes:",
+      "options": [
+        "A) Bias",
+        "B) Fair hearing",
+        "C) Prejudice",
+        "D) Discrimination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9680fd080205e9e1d39f5cb68aba1139586be79",
+      "sectionIndex": 9,
+      "question": "Discretionary power should be used:",
+      "options": [
+        "A) Arbitrarily",
+        "B) Reasonably",
+        "C) Never",
+        "D) Randomly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "287fa4cd6a7238c57f2cf1e9d5cd8979159e9233",
+      "sectionIndex": 9,
+      "question": "Administrative tribunals provide:",
+      "options": [
+        "A) Criminal justice",
+        "B) Specialized justice",
+        "C) No justice",
+        "D) International law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f98677c206b083fac20a2a069dc295b25cdd7f44",
+      "sectionIndex": 9,
+      "question": "Delegated legislation means:",
+      "options": [
+        "A) Parliament makes all laws",
+        "B) Authority to make rules",
+        "C) No laws",
+        "D) Court makes laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73413f877d6a9901e2ea7f65d3f9937efa301386",
+      "sectionIndex": 9,
+      "question": "Judicial review examines:",
+      "options": [
+        "A) Judges only",
+        "B) Administrative actions",
+        "C) Nothing",
+        "D) Private matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33341657ce16490c38925128d1cdca16d222e886",
+      "sectionIndex": 9,
+      "question": "Writ of mandamus orders:",
+      "options": [
+        "A) Prohibition",
+        "B) Performance of duty",
+        "C) Arrest",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6294321e4d9687a54374d4b3f41ac10d08febed",
+      "sectionIndex": 9,
+      "question": "Public servants are accountable to:",
+      "options": [
+        "A) Nobody",
+        "B) Law and public",
+        "C) Friends only",
+        "D) Foreign powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9d9958e88ef1109f49d4bad15f7f2b8472a4ceb",
+      "sectionIndex": 9,
+      "question": "Rule of law means:",
+      "options": [
+        "A) Arbitrary rule",
+        "B) Law governs all",
+        "C) No rules",
+        "D) Personal rule"
+      ],
+      "correct": "B"
+    }
+  ]
+}

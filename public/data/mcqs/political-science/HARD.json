@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:45:34.628Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "773ae420e47b4b84a1d0ac2961f6bd2b35fa7665",
+      "sectionIndex": 0,
+      "question": "The fundamental tension in Plato's Republic between individual happiness and collective justice is best resolved through:",
+      "options": [
+        "A) Complete subordination of individual to state",
+        "B) The paradox that just individuals create just states and vice versa",
+        "C) Abandoning either individual or collective concerns",
+        "D) Modern liberal democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d00250198baa1dc58dce26bf235f66c6ee10c1cd",
+      "sectionIndex": 0,
+      "question": "Aristotle's critique of Plato's communism anticipates which modern criticism of totalitarian systems?",
+      "options": [
+        "A) Economic inefficiency only",
+        "B) The impossibility of eliminating private affections and the motivational role of property",
+        "C) Democratic deficits",
+        "D) International isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50f90091304fa2863c600f2b063949ba4bfd2844",
+      "sectionIndex": 0,
+      "question": "The transformation of Hobbes from \"ambassador of Hindu-Muslim unity\" to advocate of absolutism reflects:",
+      "options": [
+        "A) Personal ambition",
+        "B) The contextual shift from religious conflict to civil war requiring order over liberty",
+        "C) Philosophical inconsistency",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1805e08880c9fa1425b81e0c2ae569ee84021c65",
+      "sectionIndex": 0,
+      "question": "Locke's \"tacit consent\" doctrine faces the critical challenge of:",
+      "options": [
+        "A) Being too explicit",
+        "B) Justifying political obligation without genuine choice",
+        "C) Requiring written agreement",
+        "D) International recognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6eacca25569666046cdd562a9c7885dd49e7d6fb",
+      "sectionIndex": 0,
+      "question": "Rousseau's \"forced to be free\" paradox ultimately suggests:",
+      "options": [
+        "A) Totalitarian control",
+        "B) The tension between particular will and general will requiring civic education",
+        "C) Individual freedom is impossible",
+        "D) Democracy is contradictory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea61ae538203bb58f6fd74e4fab5954a6da89412",
+      "sectionIndex": 0,
+      "question": "The Al-Farabi synthesis of Plato and Islam demonstrates:",
+      "options": [
+        "A) Simple borrowing",
+        "B) Creative adaptation showing universality of political questions across cultures",
+        "C) Islamic superiority",
+        "D) Greek inferiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "467cc1f16efdd7f1ad86eaa7d94a6a4d45a4d64f",
+      "sectionIndex": 0,
+      "question": "Ibn Khaldun's cyclical theory provides insights missed by linear progressive theories by:",
+      "options": [
+        "A) Denying progress",
+        "B) Recognizing the role of social cohesion in political development and decay",
+        "C) Promoting fatalism",
+        "D) Ignoring economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44409a06e0aedadde6ea75cd3d8988686d199092",
+      "sectionIndex": 0,
+      "question": "The Marxist critique of liberal democracy as \"bourgeois democracy\" highlights:",
+      "options": [
+        "A) Voting problems",
+        "B) How formal political equality masks substantive economic inequality",
+        "C) The need for monarchy",
+        "D) International relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37766a19170ab245117dbed968ffce6e1e7fdb18",
+      "sectionIndex": 0,
+      "question": "Montesquieu's climate theory, while problematic, raises the valid point that:",
+      "options": [
+        "A) Geography determines everything",
+        "B) Political institutions must account for material and cultural contexts",
+        "C) Cold climates are superior",
+        "D) Democracy works everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "440acc813f12c1068234615f083c83c547604caa",
+      "sectionIndex": 0,
+      "question": "The communitarian critique of Rawls's original position argues:",
+      "options": [
+        "A) It's too community-focused",
+        "B) The unencumbered self is an impossible abstraction",
+        "C) Justice is unimportant",
+        "D) Individuals don't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff2a0159c6faa190eed8e567bac6c3e4fa011466",
+      "sectionIndex": 1,
+      "question": "The American system's \"invitation to struggle\" between branches creates:",
+      "options": [
+        "A) Paralysis only",
+        "B) Dynamic tension enabling both stability and adaptation",
+        "C) Efficient government",
+        "D) Clear hierarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d98ee5e80178f01e9fa785b46d535a2dd92388a2",
+      "sectionIndex": 1,
+      "question": "Parliamentary sovereignty in Britain coexists with EU membership through:",
+      "options": [
+        "A) Simple subordination",
+        "B) Complex layered governance challenging traditional sovereignty concepts",
+        "C) Ignoring contradictions",
+        "D) Federal structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b78cfdbe47042f0f6aec91661052bb2f0d2d4f3",
+      "sectionIndex": 1,
+      "question": "The French Fifth Republic's semi-presidentialism reveals:",
+      "options": [
+        "A) Perfect balance",
+        "B) Institutional tensions during cohabitation exposing dual executive problems",
+        "C) American influence",
+        "D) British model"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4621e8c7194be71c9ff3f670e932bd0315950796",
+      "sectionIndex": 1,
+      "question": "Judicial review's democratic legitimacy problem stems from:",
+      "options": [
+        "A) Judges being elected",
+        "B) Counter-majoritarian difficulty of unelected judges overruling elected legislatures",
+        "C) Lack of legal training",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5594836229e8732d117ae564fd2295b6ca8f4fb4",
+      "sectionIndex": 1,
+      "question": "Federal systems' \"race to the bottom\" in regulation demonstrates:",
+      "options": [
+        "A) Federal superiority",
+        "B) How competitive federalism can undermine public goods provision",
+        "C) State incompetence",
+        "D) Unitary advantages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19ec8b800d362b29a947682ee5309b630d7e05fa",
+      "sectionIndex": 1,
+      "question": "The \"imperilled presidency\" thesis is contradicted by:",
+      "options": [
+        "A) Weak executives",
+        "B) Expansion of executive power through national security and administrative state",
+        "C) Congressional dominance",
+        "D) Judicial supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3228960ef7786f7d796ab91fbbbd6a096dcdd58",
+      "sectionIndex": 1,
+      "question": "Consociational democracy's success in some divided societies but not others suggests:",
+      "options": [
+        "A) Random outcomes",
+        "B) The crucial role of elite commitment and external pressures",
+        "C) Ethnic determinism",
+        "D) Economic factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fb5a2b8c7f033731c95ec81b5a9f195360ac934",
+      "sectionIndex": 1,
+      "question": "The \"judicialization of politics\" reflects:",
+      "options": [
+        "A) Legal expertise",
+        "B) Political failure leading courts to fill governance vacuums",
+        "C) Constitutional design",
+        "D) Random drift"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cb9b9b2ded17020418a11f669cd4388d0fb0d17",
+      "sectionIndex": 1,
+      "question": "Presidentialism's correlation with democratic breakdown may result from:",
+      "options": [
+        "A) Bad presidents",
+        "B) Rigidity, dual legitimacy, and winner-take-all dynamics",
+        "C) Term limits",
+        "D) Weak parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34f3959562910c1440df9405b9fcd89318f15741",
+      "sectionIndex": 1,
+      "question": "The \"regulatory state\" emergence shows:",
+      "options": [
+        "A) Deregulation",
+        "B) Governance transformation from direct provision to oversight",
+        "C) Socialist victory",
+        "D) Market failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00fdb41f5430668ea1b50ecd5e4308976e0fb433",
+      "sectionIndex": 2,
+      "question": "Pakistan's constitutional instability reflects deeper issues of:",
+      "options": [
+        "A) Poor drafting",
+        "B) Unresolved tensions about identity, authority, and distribution",
+        "C) Foreign interference only",
+        "D) Economic problems only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a40d0197b55f2559388a447e6e4185b78658a1b1",
+      "sectionIndex": 2,
+      "question": "The 18th Amendment's implementation challenges reveal:",
+      "options": [
+        "A) Perfect federalism",
+        "B) How constitutional text requires political culture and capacity",
+        "C) Provincial incompetence",
+        "D) Federal resistance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d92066a5d72e657914bff755f26c3f5ef1bc1bb2",
+      "sectionIndex": 2,
+      "question": "\"Basic structure\" doctrine's adoption in South Asia indicates:",
+      "options": [
+        "A) Judicial overreach only",
+        "B) Response to majoritarianism threatening constitutional fundamentals",
+        "C) Western imposition",
+        "D) Legal formalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbe7886d7f3749581a540a11886167e790f5527f",
+      "sectionIndex": 2,
+      "question": "The persistence of \"doctrine of necessity\" in Pakistan demonstrates:",
+      "options": [
+        "A) Legal flexibility",
+        "B) How emergency powers normalize to undermine constitutionalism",
+        "C) Pragmatic governance",
+        "D) Strong institutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6631dae5018348ebdcd795eb8b6e13343cf22e20",
+      "sectionIndex": 2,
+      "question": "Constitutional moments theory suggests Pakistan's history shows:",
+      "options": [
+        "A) Continuous progress",
+        "B) Failed consolidation of transformative constitutional politics",
+        "C) No patterns",
+        "D) Foreign determination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2200a8c8d22bd5e0191503351c0ae30b9c061f6b",
+      "sectionIndex": 2,
+      "question": "The tension between Islamic and liberal constitutional provisions reflects:",
+      "options": [
+        "A) Drafting errors",
+        "B) Deeper contestation over political theology and modernity",
+        "C) Simple contradiction",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21bf89cd206819de249513b235527e4319b6fc79",
+      "sectionIndex": 2,
+      "question": "Federalism's \"coming together\" vs \"holding together\" distinction explains:",
+      "options": [
+        "A) Nothing significant",
+        "B) Why Pakistan's top-down federalism faces legitimacy challenges",
+        "C) Administrative efficiency",
+        "D) Economic distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f855349cb0b062c592fbb591dc097e9134fb272",
+      "sectionIndex": 2,
+      "question": "Local government's repeated failure in Pakistan indicates:",
+      "options": [
+        "A) Public apathy",
+        "B) How democratization threatens established power structures",
+        "C) Constitutional barriers",
+        "D) Lack of funds only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0135b6ed7d8dd526ab2b3b28e376262fefb2daa",
+      "sectionIndex": 2,
+      "question": "The civil-military imbalance persists because:",
+      "options": [
+        "A) Military strength only",
+        "B) Structural factors including weak parties and external security environment",
+        "C) Public preference",
+        "D) Constitutional provision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "817e1c9a4b61b15bfa656ea9dc6efa10678ce516",
+      "sectionIndex": 2,
+      "question": "Judicial activism's limits are shown by:",
+      "options": [
+        "A) Weak judges",
+        "B) Implementation gaps revealing difference between judicial orders and state capacity",
+        "C) Legislative supremacy",
+        "D) Executive dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f594b40a02eb2c643dc5fbd7d3ef7ea051f3c0cf",
+      "sectionIndex": 3,
+      "question": "The capabilities approach's advantage over resourcist theories lies in:",
+      "options": [
+        "A) Simplicity",
+        "B) Recognizing conversion factors and human diversity",
+        "C) Economic focus",
+        "D) Measurement ease"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae335929ce1bf55fbe0310c19966e33f477334c8",
+      "sectionIndex": 3,
+      "question": "Deliberative democracy's epistemic claims face the challenge of:",
+      "options": [
+        "A) Too much knowledge",
+        "B) Power asymmetries distorting rational discourse",
+        "C) Excessive participation",
+        "D) Quick decisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81bb6786fcc9d97064f6e8637e3ea20bb00e6f70",
+      "sectionIndex": 3,
+      "question": "The \"paradox of multicultural vulnerability\" shows:",
+      "options": [
+        "A) Cultural strength",
+        "B) How protecting cultures may harm vulnerable members within them",
+        "C) Monoculturalism's superiority",
+        "D) Legal simplicity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d25489b8bbed306ae9b2d85e71af378a730b9b1",
+      "sectionIndex": 3,
+      "question": "Agonistic pluralism's critique of deliberative democracy highlights:",
+      "options": [
+        "A) Agreement's importance",
+        "B) The irreducibility of conflict and power in politics",
+        "C) Consensus possibility",
+        "D) Rational resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab66302d7a10053de8da91bd50c4e2b1eed58ee3",
+      "sectionIndex": 3,
+      "question": "The \"all affected interests\" principle for democratic inclusion faces:",
+      "options": [
+        "A) No problems",
+        "B) Infinite regress and boundary-setting paradoxes",
+        "C) Easy implementation",
+        "D) Clear limits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2892a00ac1459c1b9088199e01cbd0a59b654e82",
+      "sectionIndex": 3,
+      "question": "Neo-republicanism's \"freedom as non-domination\" improves on negative liberty by:",
+      "options": [
+        "A) Being identical",
+        "B) Addressing structural power relations beyond interference",
+        "C) Promoting license",
+        "D) Ignoring institutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63ed6ba32df0f47759b619c3afbdc27273795797",
+      "sectionIndex": 3,
+      "question": "The feminist critique of the public-private distinction reveals:",
+      "options": [
+        "A) Natural boundaries",
+        "B) How gendered power operates through boundary construction",
+        "C) Privacy's unimportance",
+        "D) Public sphere perfection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "debd3c88d2a629e79552ad416eb03776ef9f484b",
+      "sectionIndex": 3,
+      "question": "Critical theory's immanent critique method shows:",
+      "options": [
+        "A) External standards",
+        "B) How ideals' internal contradictions drive transformation",
+        "C) Nihilism",
+        "D) Conservative bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "220fe5dc7e14c787b20a18502de887006ed0f35f",
+      "sectionIndex": 3,
+      "question": "Post-colonial theory's \"epistemic violence\" concept explains:",
+      "options": [
+        "A) Physical force",
+        "B) How knowledge systems perpetuate domination",
+        "C) Educational failure",
+        "D) Language barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "539a2eb41be33a44f2fc2f5a0d43c59f41836267",
+      "sectionIndex": 3,
+      "question": "The \"circumstances of politics\" (disagreement + need for decision) implies:",
+      "options": [
+        "A) Impossibility",
+        "B) Politics as managing conflict, not eliminating it",
+        "C) Authoritarianism",
+        "D) Anarchism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "481ab260402864ffd222a53ff12316b67304531e",
+      "sectionIndex": 4,
+      "question": "The Ash'ari-Mu'tazila debate's political implications concern:",
+      "options": [
+        "A) Ritual only",
+        "B) Human agency, divine justice, and legitimate resistance",
+        "C) Theological minutiae",
+        "D) Historical curiosity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9caf9e7de04eda12b3608362f02eb5c2c50599af",
+      "sectionIndex": 4,
+      "question": "Ibn Rushd's \"harmony thesis\" faces the fundamental challenge of:",
+      "options": [
+        "A) Translation issues",
+        "B) Reconciling revealed particular law with universal reason",
+        "C) Political pressure",
+        "D) Economic concerns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00361d759dd58f85c1878a3a96420f5f1e936e30",
+      "sectionIndex": 4,
+      "question": "Contemporary Islamic governance debates reflect tension between:",
+      "options": [
+        "A) Sects only",
+        "B) Textualist authenticity claims and contextual adaptation needs",
+        "C) Countries only",
+        "D) Languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1a2b63a8d4a7d6fe1e0909a0d799b923ec936a1",
+      "sectionIndex": 4,
+      "question": "The \"circle of justice\" in Islamic political thought suggests:",
+      "options": [
+        "A) Simple reciprocity",
+        "B) Complex interdependence of authority, justice, prosperity, and legitimacy",
+        "C) Economic determinism",
+        "D) Divine right"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b0a9ff85125adce5bc322a1b50e84909cde8e0c",
+      "sectionIndex": 4,
+      "question": "Iqbal's \"spiritual democracy\" attempts to:",
+      "options": [
+        "A) Reject democracy",
+        "B) Ground democratic values in Islamic metaphysics",
+        "C) Copy the West",
+        "D) Return to caliphate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c418cba89cea3e0e373e7f556628a5211a92a09",
+      "sectionIndex": 4,
+      "question": "The modern \"Islamic state\" concept paradoxically:",
+      "options": [
+        "A) Continues tradition",
+        "B) Represents modern innovation using traditional vocabulary",
+        "C) Rejects modernity",
+        "D) Ignores politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1b0232ad710cd425adad8685cf6297388703c55",
+      "sectionIndex": 4,
+      "question": "Shari'a politics in contemporary contexts reveals:",
+      "options": [
+        "A) Simple implementation",
+        "B) How \"return to Shari'a\" masks complex choices about interpretation",
+        "C) Universal agreement",
+        "D) Secular triumph"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7051a546081539f4e51979d646e480a44145e68b",
+      "sectionIndex": 4,
+      "question": "The maqasid approach's political significance lies in:",
+      "options": [
+        "A) Textual literalism",
+        "B) Enabling purposive reasoning for contemporary challenges",
+        "C) Rejecting texts",
+        "D) Fixed rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d0a15150dc291328fa8d354cc4803fd1147461e",
+      "sectionIndex": 4,
+      "question": "Islamic feminism's distinctive contribution is:",
+      "options": [
+        "A) Rejecting religion",
+        "B) Challenging both patriarchal interpretation and secular assumptions",
+        "C) Western mimicry",
+        "D) Traditional acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d4c0b751609538566dc0cb91d97206f3921f8c6",
+      "sectionIndex": 4,
+      "question": "Post-Islamism represents:",
+      "options": [
+        "A) Secularization",
+        "B) Evolution beyond ideological Islam while maintaining religious values",
+        "C) Apostasy",
+        "D) Fundamentalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec4b779910b546369bc8a3dabbda5bd1e99aeb27",
+      "sectionIndex": 5,
+      "question": "The \"institutional turn\" in comparative politics reveals:",
+      "options": [
+        "A) Institutional determinism",
+        "B) How rules shape but don't determine political behavior",
+        "C) Actor irrelevance",
+        "D) Cultural unimportance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d77444a12fb4e2c69eb07f90048a65dcbba49b34",
+      "sectionIndex": 5,
+      "question": "\"Varieties of capitalism\" literature shows:",
+      "options": [
+        "A) Convergence",
+        "B) How different institutional complementarities create distinct models",
+        "C) Socialist victory",
+        "D) Market uniformity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63034a0a8adf0d3a9fafe652928359f982877b5f",
+      "sectionIndex": 5,
+      "question": "The \"resource curse\" paradox demonstrates:",
+      "options": [
+        "A) Simple economics",
+        "B) How state capacity and institutions mediate resource wealth effects",
+        "C) Poverty benefits",
+        "D) Resource irrelevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f943fb0c79a426c00b1b87cd217b50fe5133bea7",
+      "sectionIndex": 5,
+      "question": "Hybrid regimes' stability challenges theories assuming:",
+      "options": [
+        "A) Nothing",
+        "B) Linear democratization trajectories",
+        "C) Authoritarian permanence",
+        "D) Random change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "534bb0852cd061ca55ee9b7a99e39483512bd6d2",
+      "sectionIndex": 5,
+      "question": "The \"selectorate theory\" explains regime behavior through:",
+      "options": [
+        "A) Elections only",
+        "B) Coalition size and public/private goods provision logic",
+        "C) Culture only",
+        "D) International factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "564d832b359451d28c087ea9f66ca6e5488bc29b",
+      "sectionIndex": 5,
+      "question": "\"Competitive authoritarianism\" persists through:",
+      "options": [
+        "A) Repression only",
+        "B) Sophisticated manipulation within formally democratic institutions",
+        "C) Ideology only",
+        "D) Economic success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac7ef1d8cf750e2f283bb9621c5421ddc0f3e637",
+      "sectionIndex": 5,
+      "question": "The \"third wave\" democratization's reversal shows:",
+      "options": [
+        "A) Democracy's impossibility",
+        "B) How institutional forms without supporting conditions prove fragile",
+        "C) Authoritarian superiority",
+        "D) Cultural determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af38925212030a198173e3ffa733beb3543ec922",
+      "sectionIndex": 5,
+      "question": "State capacity's relationship to democracy reveals:",
+      "options": [
+        "A) Simple correlation",
+        "B) Complex sequencing and mutual constitution challenges",
+        "C) No relationship",
+        "D) Inverse relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36548ccb3d597156737df53d80c749be8e28b41d",
+      "sectionIndex": 5,
+      "question": "The \"developmental state\" model's limitations include:",
+      "options": [
+        "A) Economic success",
+        "B) Difficulty replicating specific historical and institutional conditions",
+        "C) No limitations",
+        "D) Universal applicability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d2a30b3d715af72e1574499bb51d7ed2abf08d4",
+      "sectionIndex": 5,
+      "question": "Post-conflict democratization faces the dilemma of:",
+      "options": [
+        "A) Too much peace",
+        "B) Building democracy while managing security and inclusion tensions",
+        "C) Easy solutions",
+        "D) International support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9661dc7fde71a04fa9947b7f0fa8cfa6329ffc1",
+      "sectionIndex": 6,
+      "question": "The \"democratic peace\" finding's implications challenge:",
+      "options": [
+        "A) Nothing",
+        "B) Realist assumptions about systemic determination of state behavior",
+        "C) Liberal theory",
+        "D) Constructivism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92e2fae69a1ad9bf92d486a6fb0aa50c700d1151",
+      "sectionIndex": 6,
+      "question": "Global governance's \"accountability deficit\" reflects:",
+      "options": [
+        "A) Technical problems",
+        "B) Fundamental tensions between effectiveness and democratic control",
+        "C) Easy solutions",
+        "D) National supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53aab9bd8640b01f221f8e2f25172822e88be46a",
+      "sectionIndex": 6,
+      "question": "The \"responsibility to protect\" doctrine's selective application reveals:",
+      "options": [
+        "A) Universal values",
+        "B) How humanitarian discourse masks power politics",
+        "C) Consistent principles",
+        "D) Legal clarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cd2fd483b00d8003fa322729763f666fa521932",
+      "sectionIndex": 6,
+      "question": "Regional integration's varied success suggests:",
+      "options": [
+        "A) Economic determinism",
+        "B) Political will and security externalities' crucial role",
+        "C) Geographic proximity",
+        "D) Cultural similarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db57b7d1e6bba216f4f376e4ef09f536eadfea52",
+      "sectionIndex": 6,
+      "question": "The \"new medievalism\" thesis about overlapping authorities implies:",
+      "options": [
+        "A) Historical regression",
+        "B) Westphalian sovereignty as historical anomaly, not permanent norm",
+        "C) Chaos",
+        "D) World government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "790a528c333347e52d83ced31d4c5b2fdfbe043d",
+      "sectionIndex": 6,
+      "question": "Constructivist insights about anarchy show:",
+      "options": [
+        "A) Fixed structure",
+        "B) How different cultures of anarchy enable varied state behaviors",
+        "C) Material determinism",
+        "D) Irrelevance of ideas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d60f3e388ba469c68a649f9e32b496a09a0775fe",
+      "sectionIndex": 6,
+      "question": "The \"security dilemma\" in ethnic conflicts differs because:",
+      "options": [
+        "A) No difference",
+        "B) Information problems and commitment issues are more severe",
+        "C) Easy resolution",
+        "D) State mediation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d84ae9609d4f7a5ee7e5a6865267840cbf02b9aa",
+      "sectionIndex": 6,
+      "question": "Global civil society's impact is limited by:",
+      "options": [
+        "A) Numbers",
+        "B) Power asymmetries and capture by elite interests",
+        "C) Too much influence",
+        "D) Legal recognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14f85cb9fd5f67bdf634cd83f021903eee9f93cb",
+      "sectionIndex": 6,
+      "question": "The \"trading state\" hypothesis suggests:",
+      "options": [
+        "A) Economic determinism",
+        "B) How economic interdependence reshapes but doesn't eliminate security competition",
+        "C) End of military power",
+        "D) Automatic peace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d76ebf2105c4375806eaf043f1182ba3fb257ed",
+      "sectionIndex": 6,
+      "question": "\"Normative power Europe\" concept illustrates:",
+      "options": [
+        "A) Military weakness",
+        "B) How different power resources create distinct international roles",
+        "C) European superiority",
+        "D) Value universality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25d9db3cae36d801c5376c3d4099ad751f597096",
+      "sectionIndex": 7,
+      "question": "The \"boundary problem\" in democratic theory reveals:",
+      "options": [
+        "A) Technical issues",
+        "B) Deep tensions between self-determination and affected interests",
+        "C) Easy solutions",
+        "D) Constitutional answers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cef1e3a6d3a6f2e0dee69fd9d3124402b340c839",
+      "sectionIndex": 7,
+      "question": "Political obligation theories' persistent disagreement suggests:",
+      "options": [
+        "A) Theoretical failure",
+        "B) Irreducible plurality of obligation sources in modern conditions",
+        "C) One correct answer",
+        "D) Authority's impossibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b5ea4280add12d667364790f1ba793120eec8eb",
+      "sectionIndex": 7,
+      "question": "The \"circumstances of justice\" concept shows:",
+      "options": [
+        "A) Universal application",
+        "B) How justice presupposes specific social conditions",
+        "C) Natural law",
+        "D) Divine command"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b3548154134e949d23cb19c707140a8b9c7ab8c",
+      "sectionIndex": 7,
+      "question": "Genealogical method in political theory reveals:",
+      "options": [
+        "A) Historical facts",
+        "B) Contingency of seemingly natural political categories",
+        "C) Eternal truths",
+        "D) Progress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a84644e9e4a63a45e428c926a39dd3b2431b46e6",
+      "sectionIndex": 7,
+      "question": "The \"normative powers of the actual\" problem shows:",
+      "options": [
+        "A) Idealism",
+        "B) How existing institutions shape the possibilities for justice",
+        "C) Status quo bias",
+        "D) Revolutionary necessity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c71ed29cec7b6fcb3055bb9dd9d8c9f73764084",
+      "sectionIndex": 7,
+      "question": "\"Ideal vs non-ideal theory\" debate concerns:",
+      "options": [
+        "A) Abstract philosophy",
+        "B) Whether justice theorizing should assume compliance",
+        "C) Practical irrelevance",
+        "D) Policy details"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40334521d81f2cc40ba542188c86fc33446db0e3",
+      "sectionIndex": 7,
+      "question": "The \"political, not metaphysical\" turn suggests:",
+      "options": [
+        "A) Philosophical abandonment",
+        "B) Bracketing deep disagreements for political cooperation",
+        "C) Truth's irrelevance",
+        "D) Relativism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f6daf8f865e4dea7c923953ca5af1983330a255",
+      "sectionIndex": 7,
+      "question": "Intersectionality's challenge to political theory is:",
+      "options": [
+        "A) Complexity",
+        "B) Revealing inadequacy of single-axis frameworks",
+        "C) Identity politics",
+        "D) Theoretical purity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2eb6f5b606c3bb5cefdce91836f7d8712890af0",
+      "sectionIndex": 7,
+      "question": "The \"politics of presence\" vs \"politics of ideas\" debate shows:",
+      "options": [
+        "A) Simple choice",
+        "B) Complex relationship between descriptive and substantive representation",
+        "C) Identity determinism",
+        "D) Idea supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59bfe0b6ccdeb5c7a2dbed2e64e43fdc0aa17d42",
+      "sectionIndex": 7,
+      "question": "\"Epistemic democracy\" arguments face the challenge of:",
+      "options": [
+        "A) Too much knowledge",
+        "B) Reconciling truth-tracking with equal participation",
+        "C) Expertise abundance",
+        "D) Information availability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ba77f51ae7c27c730f76a4e7feac6d1ea913b70",
+      "sectionIndex": 8,
+      "question": "Democratic backsliding through legal means shows:",
+      "options": [
+        "A) Law's neutrality",
+        "B) How formal institutions can be weaponized against democracy",
+        "C) Constitutional strength",
+        "D) Judicial independence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d6213bffc6b1a9e72df5662d0049e17868bc313",
+      "sectionIndex": 8,
+      "question": "\"Surveillance capitalism\" challenges democracy by:",
+      "options": [
+        "A) Economic inequality only",
+        "B) Creating unprecedented asymmetries in knowledge and power",
+        "C) Technology itself",
+        "D) Privacy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6ddaebc38298882b95f1f0227ded29c425b905f",
+      "sectionIndex": 8,
+      "question": "The \"post-truth\" phenomenon reflects:",
+      "options": [
+        "A) Lying increase",
+        "B) Epistemic fragmentation and authority crisis",
+        "C) Media bias only",
+        "D) Education failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "665c89e7748495cc31ae003aad5bbd7e4a93a5ca",
+      "sectionIndex": 8,
+      "question": "Climate governance's collective action problems reveal:",
+      "options": [
+        "A) Technical solutions",
+        "B) Limits of current institutional frameworks for intergenerational issues",
+        "C) Scientific uncertainty",
+        "D) Economic impossibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3560441c62338fe50d23b59a10df668aefb290d7",
+      "sectionIndex": 8,
+      "question": "\"Algorithmic governance\" raises concerns about:",
+      "options": [
+        "A) Efficiency only",
+        "B) Accountability, bias, and democratic control of automated decisions",
+        "C) Technical errors",
+        "D) Speed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "258003ba3e0065281479ce534043be9976290ea5",
+      "sectionIndex": 8,
+      "question": "The \"populist moment\" indicates:",
+      "options": [
+        "A) Democratic health",
+        "B) Crisis of representation in established democracies",
+        "C) Economic issues only",
+        "D) Media manipulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a28554b588f1347c6ab8a8f9e0aa361b1adea70",
+      "sectionIndex": 8,
+      "question": "\"Transnational authoritarianism\" shows:",
+      "options": [
+        "A) Domestic focus",
+        "B) How autocrats cooperate across borders to suppress dissent",
+        "C) International law success",
+        "D) Democratic diffusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08914165e6c14156e763698a30063c52e244692c",
+      "sectionIndex": 8,
+      "question": "\"Democratic innovation\" experiments reveal:",
+      "options": [
+        "A) Traditional supremacy",
+        "B) Both possibilities and limits of participatory mechanisms",
+        "C) Easy solutions",
+        "D) Universal models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe423cf2c6c186ccf17063f02e9d3e324f5d7a4e",
+      "sectionIndex": 8,
+      "question": "The \"affective turn\" in politics highlights:",
+      "options": [
+        "A) Rationality's triumph",
+        "B) How emotions shape political mobilization and polarization",
+        "C) Irrelevance of feelings",
+        "D) Policy focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f86a84071b83aed8d0384a3c37ec57ef7be5dddc",
+      "sectionIndex": 8,
+      "question": "\"Platform governance\" by tech companies represents:",
+      "options": [
+        "A) Private business",
+        "B) Quasi-governmental power requiring new accountability frameworks",
+        "C) Free market",
+        "D) Democratic control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97d96b8b8445fa851d88077ac29a183d4e8ff7b1",
+      "sectionIndex": 9,
+      "question": "Pakistan's \"praetorian state\" characteristics suggest:",
+      "options": [
+        "A) Military preference",
+        "B) Structural imbalances from institutional development patterns",
+        "C) Cultural factors only",
+        "D) External imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95d5870257adbace1fba7f5c0d78c182bd4b2d9c",
+      "sectionIndex": 9,
+      "question": "The \"troika\" power-sharing attempts reveal:",
+      "options": [
+        "A) Perfect solution",
+        "B) Informal arrangements' instability without institutional support",
+        "C) Personal conflicts only",
+        "D) Constitutional clarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b44e9f9c086c4454673424da74f0b531470bb76",
+      "sectionIndex": 9,
+      "question": "Pakistan's \"ideological state\" paradox lies in:",
+      "options": [
+        "A) Clear ideology",
+        "B) Using Islamic unity rhetoric while managing diversity",
+        "C) Secular reality",
+        "D) Religious uniformity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18e9ca62cbc807c6645eec898385548821bfe2c2",
+      "sectionIndex": 9,
+      "question": "The \"establishment's\" role demonstrates:",
+      "options": [
+        "A) Conspiracy only",
+        "B) How informal networks operate alongside formal institutions",
+        "C) Democratic norm",
+        "D) Transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d07fa28df76f6204ab6acd851ae80eb8379c223",
+      "sectionIndex": 9,
+      "question": "Provincial grievances' persistence despite devolution shows:",
+      "options": [
+        "A) Provincial greed",
+        "B) How historical mistrust and structural inequalities transcend legal changes",
+        "C) Perfect resolution",
+        "D) Constitutional failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54cf5e7bf6fd2be7ec4b4e37d65b5b1591526254",
+      "sectionIndex": 9,
+      "question": "The judiciary-executive tensions reflect:",
+      "options": [
+        "A) Personal animosity",
+        "B) Deeper struggles over institutional boundaries and legitimacy",
+        "C) Legal clarity",
+        "D) Constitutional design"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56d8c9eb81701baacd79df1d3f68ab6e07442c81",
+      "sectionIndex": 9,
+      "question": "Pakistan's \"National Security State\" evolution shows:",
+      "options": [
+        "A) Defense needs only",
+        "B) How security discourse shapes and constrains democratic space",
+        "C) Civilian incompetence",
+        "D) External threats only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed1529af697a42072c20b94131fec991c8e1afc6",
+      "sectionIndex": 9,
+      "question": "Electoral democracy without liberal constitutionalism in Pakistan demonstrates:",
+      "options": [
+        "A) Democratic success",
+        "B) Hollow democratization when institutions remain captured",
+        "C) Western standards",
+        "D) Cultural unsuitability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d9753d5d6d48427f4208e899441abda622a50df",
+      "sectionIndex": 9,
+      "question": "The civil society-state relationship exhibits:",
+      "options": [
+        "A) Clear boundaries",
+        "B) Complex co-optation and resistance patterns",
+        "C) Total independence",
+        "D) Complete control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7590527991040d53a472ade1d4ba949022c1f91",
+      "sectionIndex": 9,
+      "question": "Pakistan's political trajectory suggests:",
+      "options": [
+        "A) Linear progress",
+        "B) Path-dependent constraints requiring creative institutional solutions",
+        "C) Inevitable failure",
+        "D) External determination"
+      ],
+      "correct": "B"
+    }
+  ]
+}

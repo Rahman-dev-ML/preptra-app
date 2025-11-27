@@ -1,0 +1,729 @@
+## Section 1: Operating Systems
+
+1. Operating Systems (Medium)
+1. In virtual memory, when a page fault occurs and all frames are occupied, which page replacement algorithm selects the page that has not been used for the longest time?
+A) FIFO
+B) LRU
+C) Optimal
+D) Clock
+Answer: B
+
+2. Which scheduling algorithm can suffer from starvation of low-priority processes?
+A) First Come First Served
+B) Round Robin
+C) Priority Scheduling
+D) Shortest Job First
+Answer: C
+
+3. In the OSI model, which layer is responsible for end-to-end error recovery and flow control?
+A) Network Layer
+B) Transport Layer
+C) Data Link Layer
+D) Session Layer
+Answer: B
+
+4. For deadlock to occur, which of the following conditions must ALL be present?
+A) Mutual exclusion, Hold and wait, No preemption, Circular wait
+B) Mutual exclusion, Priority inversion, Starvation, Circular wait
+C) Hold and wait, Preemption, Priority scheduling, Circular wait
+D) Mutual exclusion, Round robin, No preemption, Linear wait
+Answer: A
+
+5. In DMA (Direct Memory Access), who controls the data transfer between memory and I/O devices?
+A) CPU exclusively
+B) DMA controller
+C) Operating System
+D) Application software
+Answer: B
+
+6. Which virtual memory technique divides programs into fixed-size blocks?
+A) Segmentation
+B) Paging
+C) Swapping
+D) Caching
+Answer: B
+
+7. In process scheduling, what is the main advantage of Shortest Job First (SJF) algorithm?
+A) Easy to implement
+B) Minimum average waiting time
+C) Fair to all processes
+D) No starvation
+Answer: B
+
+8. Which OSI layer handles routing and logical addressing?
+A) Physical Layer
+B) Data Link Layer
+C) Network Layer
+D) Transport Layer
+Answer: C
+
+9. What type of interrupt has the highest priority?
+A) Software interrupt
+B) Hardware interrupt
+C) Non-maskable interrupt
+D) Maskable interrupt
+Answer: C
+
+10. In memory management, external fragmentation is associated with:
+A) Paging
+B) Segmentation
+C) Virtual memory
+D) Cache memory
+Answer: B
+
+## Section 2: Data Structures and Algorithms
+
+2. Data Structures and Algorithms (Medium)
+11. What is the time complexity of Binary Search in the worst case?
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n log n)
+Answer: B
+
+12. In a Binary Search Tree, inorder traversal gives nodes in:
+A) Random order
+B) Descending order
+C) Ascending order
+D) Level order
+Answer: C
+
+13. Which collision resolution technique in hashing uses a linked list at each table position?
+A) Linear probing
+B) Quadratic probing
+C) Chaining
+D) Double hashing
+Answer: C
+
+14. In an AVL tree, the balance factor of any node must be:
+A) 0, 1, or 2
+B) -1, 0, or 1
+C) -2, -1, 0, 1, or 2
+D) Any integer
+Answer: B
+
+15. For Selection Sort, how many comparisons are made to sort n elements?
+A) n
+B) n-1
+C) n(n-1)/2
+D) n²
+Answer: C
+
+16. Which tree traversal visits root node first?
+A) Inorder
+B) Preorder
+C) Postorder
+D) Level order
+Answer: B
+
+17. In open addressing for hash collision resolution, linear probing suffers from:
+A) Memory waste
+B) Primary clustering
+C) Secondary clustering
+D) No issues
+Answer: B
+
+18. The worst-case time complexity of Insertion Sort is:
+A) O(n)
+B) O(n log n)
+C) O(n²)
+D) O(log n)
+Answer: C
+
+19. A complete binary tree with n nodes has height:
+A) n
+B) n/2
+C) log₂(n+1)
+D) 2ⁿ
+Answer: C
+
+20. Which algorithm is best for sorting nearly sorted data?
+A) Quick Sort
+B) Heap Sort
+C) Insertion Sort
+D) Selection Sort
+Answer: C
+
+## Section 3: Programming Concepts and OOP
+
+3. Programming Concepts and OOP (Medium)
+21. What is the key difference between function overloading and overriding?
+A) Overloading occurs in same class, overriding in inheritance
+B) Overloading changes return type, overriding changes parameters
+C) Both are identical concepts
+D) Overloading is runtime, overriding is compile time
+Answer: A
+
+22. Virtual functions in C++ enable:
+A) Compile-time polymorphism
+B) Runtime polymorphism
+C) Function overloading
+D) Operator overloading
+Answer: B
+
+23. Which access specifier allows access within the class and its derived classes only?
+A) Private
+B) Protected
+C) Public
+D) Friend
+Answer: B
+
+24. In Java exception hierarchy, which class is the superclass of all exceptions?
+A) Exception
+B) Error
+C) Throwable
+D) RuntimeException
+Answer: C
+
+25. A copy constructor is called when:
+A) Object is created from another object
+B) Object is destroyed
+C) Object is modified
+D) Object is compared
+Answer: A
+
+26. Which OOP principle hides implementation details while showing only functionality?
+A) Inheritance
+B) Polymorphism
+C) Encapsulation
+D) Abstraction
+Answer: D
+
+27. In C++, a destructor is called:
+A) When object is created
+B) When object goes out of scope
+C) Manually by programmer
+D) Never automatically
+Answer: B
+
+28. Multiple inheritance can lead to which problem?
+A) Memory leak
+B) Diamond problem
+C) Stack overflow
+D) Null pointer
+Answer: B
+
+29. Which type of polymorphism is achieved through function overloading?
+A) Runtime polymorphism
+B) Compile-time polymorphism
+C) Dynamic polymorphism
+D) Virtual polymorphism
+Answer: B
+
+30. Abstract classes cannot be:
+A) Inherited
+B) Used as base class
+C) Instantiated
+D) Declared
+Answer: C
+
+## Section 4: Database Management Systems
+
+4. Database Management Systems (Medium)
+31. A relation is in 2NF if it is in 1NF and:
+A) Has no partial dependencies
+B) Has no transitive dependencies
+C) Has a primary key
+D) Has foreign keys
+Answer: A
+
+32. In an ER diagram, a weak entity is represented by:
+A) Rectangle
+B) Double rectangle
+C) Diamond
+D) Double diamond
+Answer: B
+
+33. Which normal form removes transitive dependencies?
+A) 1NF
+B) 2NF
+C) 3NF
+D) BCNF
+Answer: C
+
+34. A foreign key can reference:
+A) Any attribute
+B) Only primary key in another table
+C) Primary key or unique key in another table
+D) Only non-key attributes
+Answer: C
+
+35. In relational model, what ensures entity integrity?
+A) Foreign key
+B) Primary key
+C) Candidate key
+D) Super key
+Answer: B
+
+36. Which SQL clause is used to filter groups in aggregate queries?
+A) WHERE
+B) HAVING
+C) GROUP BY
+D) ORDER BY
+Answer: B
+
+37. A composite key consists of:
+A) One attribute
+B) Two or more attributes
+C) Only foreign keys
+D) Only numeric fields
+Answer: B
+
+38. Database normalization primarily aims to:
+A) Increase redundancy
+B) Reduce redundancy
+C) Increase storage
+D) Decrease security
+Answer: B
+
+39. In ER modeling, cardinality ratio 1:N means:
+A) One-to-one relationship
+B) One-to-many relationship
+C) Many-to-many relationship
+D) No relationship
+Answer: B
+
+40. ACID properties ensure:
+A) Database size
+B) Transaction reliability
+C) Query speed
+D) User interface
+Answer: B
+
+## Section 5: Computer Networks
+
+5. Computer Networks (Medium)
+41. In TCP/IP model, which layer combines OSI's Session, Presentation, and Application layers?
+A) Network Layer
+B) Transport Layer
+C) Application Layer
+D) Internet Layer
+Answer: C
+
+42. Which routing algorithm requires each router to know the complete network topology?
+A) Distance Vector
+B) Link State
+C) Path Vector
+D) Static Routing
+Answer: B
+
+43. IPv6 addresses are how many bits long?
+A) 32 bits
+B) 64 bits
+C) 128 bits
+D) 256 bits
+Answer: C
+
+44. In OSI model, flow control at data link layer is:
+A) End-to-end
+B) Node-to-node
+C) Application-to-application
+D) Process-to-process
+Answer: B
+
+45. HDLC protocol operates at which OSI layer?
+A) Physical
+B) Data Link
+C) Network
+D) Transport
+Answer: B
+
+46. The main difference between TCP and UDP is:
+A) Speed only
+B) TCP is connection-oriented, UDP is connectionless
+C) Port numbers
+D) IP compatibility
+Answer: B
+
+47. In Distance Vector routing, the problem of slow convergence can cause:
+A) Count to infinity
+B) Packet loss
+C) Increased bandwidth
+D) Better performance
+Answer: A
+
+48. Which device operates at the Network layer?
+A) Hub
+B) Switch
+C) Router
+D) Repeater
+Answer: C
+
+49. The sliding window protocol is used for:
+A) Encryption
+B) Flow control
+C) Routing
+D) Addressing
+Answer: B
+
+50. NAT (Network Address Translation) helps with:
+A) Speed improvement
+B) IPv4 address conservation
+C) Security only
+D) Routing efficiency
+Answer: B
+
+## Section 6: Software Engineering
+
+6. Software Engineering (Medium)
+51. The Spiral model combines features of:
+A) Waterfall and Prototyping
+B) Agile and V-model
+C) Only iterative approach
+D) Only sequential approach
+Answer: A
+
+52. In Agile methodology, a sprint typically lasts:
+A) 1 day
+B) 2-4 weeks
+C) 6 months
+D) 1 year
+Answer: B
+
+53. Which testing ensures that integrated components work together?
+A) Unit testing
+B) Integration testing
+C) System testing
+D) Acceptance testing
+Answer: B
+
+54. Smoke testing is performed to:
+A) Test all features thoroughly
+B) Check basic functionality after build
+C) Test performance
+D) Check security
+Answer: B
+
+55. COCOMO model is used for:
+A) Testing
+B) Design
+C) Cost estimation
+D) Coding
+Answer: C
+
+56. In Extreme Programming (XP), which practice involves two programmers working together?
+A) Scrum meeting
+B) Pair programming
+C) Code review
+D) Sprint planning
+Answer: B
+
+57. The main disadvantage of Waterfall model is:
+A) Too much documentation
+B) Difficulty in accommodating changes
+C) High cost
+D) Requires experienced team
+Answer: B
+
+58. Requirements that specify system performance are called:
+A) Functional requirements
+B) Non-functional requirements
+C) User requirements
+D) Business requirements
+Answer: B
+
+59. In software testing, white box testing requires:
+A) No code knowledge
+B) Understanding of internal code structure
+C) Only user interface knowledge
+D) Database knowledge only
+Answer: B
+
+60. The incremental model delivers software in:
+A) One release
+B) Small increments
+C) Random parts
+D) Yearly updates
+Answer: B
+
+## Section 7: Web Technologies
+
+7. Web Technologies (Medium)
+61. AJAX stands for:
+A) Advanced JavaScript and XML
+B) Asynchronous JavaScript and XML
+C) Application JavaScript and XML
+D) Automatic JavaScript and XML
+Answer: B
+
+62. The main difference between GET and POST methods is:
+A) Speed only
+B) GET shows data in URL, POST doesn't
+C) POST is faster
+D) No difference
+Answer: B
+
+63. In REST architecture, which HTTP method is used for updating resources?
+A) GET
+B) POST
+C) PUT
+D) DELETE
+Answer: C
+
+64. Client-side scripting is executed on:
+A) Web server
+B) Database server
+C) User's browser
+D) Application server
+Answer: C
+
+65. SOAP web services use which format for data exchange?
+A) JSON
+B) XML
+C) HTML
+D) Plain text
+Answer: B
+
+66. Which JavaScript method is used to access HTML elements by ID?
+A) getElementsByClass()
+B) getElementById()
+C) getElementByName()
+D) querySelector()
+Answer: B
+
+67. In HTML forms, the action attribute specifies:
+A) Form validation
+B) Where to send form data
+C) Form method
+D) Form style
+Answer: B
+
+68. Cross-site scripting (XSS) is:
+A) Performance technique
+B) Security vulnerability
+C) Design pattern
+D) Programming language
+Answer: B
+
+69. The DOM (Document Object Model) represents:
+A) Database structure
+B) HTML document structure
+C) Network protocol
+D) File system
+Answer: B
+
+70. Session management in web applications typically uses:
+A) Only cookies
+B) Only URL rewriting
+C) Cookies or server-side sessions
+D) Local storage only
+Answer: C
+
+## Section 8: Computer Graphics
+
+8. Computer Graphics (Medium)
+71. The main advantage of vector graphics over raster graphics is:
+A) Smaller file size always
+B) Scalability without quality loss
+C) Better color representation
+D) Faster rendering
+Answer: B
+
+72. Ray tracing is primarily used for:
+A) 2D graphics
+B) Realistic lighting and reflections
+C) Vector graphics
+D) Text rendering
+Answer: B
+
+73. In rasterization, anti-aliasing is used to:
+A) Increase file size
+B) Smooth jagged edges
+C) Add colors
+D) Compress images
+Answer: B
+
+74. Which color model is used for printing?
+A) RGB
+B) HSV
+C) CMYK
+D) HSL
+Answer: C
+
+75. In 3D graphics, z-buffering is used for:
+A) Color correction
+B) Hidden surface removal
+C) Texture mapping
+D) Animation
+Answer: B
+
+76. Morphological operations like erosion and dilation are used in:
+A) Vector graphics
+B) Image processing
+C) 3D modeling
+D) Animation only
+Answer: B
+
+77. The Sobel operator is used for:
+A) Image compression
+B) Edge detection
+C) Color correction
+D) Noise reduction
+Answer: B
+
+78. In animation, keyframes represent:
+A) Every frame
+B) Important positions
+C) Background only
+D) Audio sync points
+Answer: B
+
+79. Texture mapping applies:
+A) Colors only
+B) 2D images to 3D surfaces
+C) Shadows only
+D) Transparency only
+Answer: B
+
+80. Virtual reality requires which refresh rate to avoid motion sickness?
+A) 30 FPS
+B) 60 FPS
+C) 90+ FPS
+D) 15 FPS
+Answer: C
+
+## Section 9: Security Concepts
+
+9. Security Concepts (Medium)
+81. Which type of malware can replicate itself without user intervention?
+A) Trojan horse
+B) Worm
+C) Spyware
+D) Adware
+Answer: B
+
+82. SSL/TLS operates at which OSI layer?
+A) Network
+B) Transport
+C) Session
+D) Application
+Answer: C
+
+83. In cybersecurity, what does "defense in depth" mean?
+A) Single strong firewall
+B) Multiple layers of security
+C) Deep packet inspection
+D) Password depth
+Answer: B
+
+84. SQL injection attacks target:
+A) Network layer
+B) Operating system
+C) Database queries
+D) Hardware
+Answer: C
+
+85. Digital evidence preservation requires maintaining:
+A) Only the data
+B) Chain of custody
+C) Hardware only
+D) Software only
+Answer: B
+
+86. A man-in-the-middle attack compromises:
+A) Only passwords
+B) Communication between parties
+C) Only websites
+D) Only emails
+Answer: B
+
+87. Which encryption type uses the same key for encryption and decryption?
+A) Asymmetric
+B) Symmetric
+C) Hash
+D) Digital signature
+Answer: B
+
+88. Intrusion Detection Systems (IDS) can be:
+A) Only network-based
+B) Only host-based
+C) Network-based or host-based
+D) Application-based only
+Answer: C
+
+89. The principle of least privilege means:
+A) No access to anyone
+B) Minimum necessary access rights
+C) Maximum access to all
+D) Guest access only
+Answer: B
+
+90. Two-factor authentication combines:
+A) Two passwords
+B) Something you know and something you have
+C) Two usernames
+D) Two email addresses
+Answer: B
+
+## Section 10: Advanced Topics
+
+10. Advanced Topics (Medium)
+91. Moore's Law states that transistor density doubles approximately every:
+A) 6 months
+B) 18 months
+C) 3 years
+D) 5 years
+Answer: B
+
+92. In compiler design, lexical analysis produces:
+A) Machine code
+B) Tokens
+C) Assembly code
+D) Object code
+Answer: B
+
+93. The Harvard architecture differs from Von Neumann in:
+A) CPU design
+B) Separate memory for instructions and data
+C) Input/output handling
+D) Clock speed
+Answer: B
+
+94. In parallel processing, Amdahl's Law determines:
+A) Memory usage
+B) Maximum speedup
+C) Power consumption
+D) Cost
+Answer: B
+
+95. Big O notation O(n log n) typically represents complexity of:
+A) Linear search
+B) Efficient sorting algorithms
+C) Constant time operations
+D) Exponential algorithms
+Answer: B
+
+96. In machine learning, supervised learning requires:
+A) No data
+B) Labeled training data
+C) Only test data
+D) Unlabeled data
+Answer: B
+
+97. The CAP theorem states that distributed systems can guarantee at most:
+A) One property
+B) Two of three properties
+C) All three properties
+D) No properties
+Answer: B
+
+98. In blockchain technology, consensus mechanisms ensure:
+A) Speed only
+B) Agreement on data state
+C) Privacy only
+D) Compression
+Answer: B
+
+99. Quantum computing uses which unit instead of bits?
+A) Bytes
+B) Qubits
+C) Nibbles
+D) Words
+Answer: B
+
+100. The halting problem proves that:
+A) All programs terminate
+B) Some problems are undecidable
+C) Computers will stop working
+D) All algorithms are efficient
+Answer: B

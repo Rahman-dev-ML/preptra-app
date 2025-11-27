@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:17:41.516Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "4545b288dbec06e11f758f3fb1ce1d3247b434eb",
+      "sectionIndex": 0,
+      "question": "UNFCCC stands for:",
+      "options": [
+        "A) United Nations Framework Convention on Climate Control",
+        "B) United Nations Framework Convention on Climate Change",
+        "C) United Nations Federal Convention on Climate Change",
+        "D) United Nations Foundation for Climate Change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11a8e70190781775a2002d21d0060a574fba5977",
+      "sectionIndex": 0,
+      "question": "The Kyoto Protocol is related to:",
+      "options": [
+        "A) Water pollution",
+        "B) Greenhouse gas emissions",
+        "C) Soil erosion",
+        "D) Noise pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c79d6c0a5a0d89ab249efdc4f619d5eff73bb66c",
+      "sectionIndex": 0,
+      "question": "The Rio Summit was held in:",
+      "options": [
+        "A) 1990",
+        "B) 1992",
+        "C) 1994",
+        "D) 1996"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fc21e9288b958000fe0a6ce503f248cba44fe04",
+      "sectionIndex": 0,
+      "question": "Agenda 21 is:",
+      "options": [
+        "A) A calendar",
+        "B) An action plan for sustainable development",
+        "C) A law enforcement code",
+        "D) A tax policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd656bffc5f480614d1f7c315e27bf32f42458b3",
+      "sectionIndex": 0,
+      "question": "The Montreal Protocol deals with:",
+      "options": [
+        "A) Climate change",
+        "B) Ozone layer protection",
+        "C) Water conservation",
+        "D) Forest management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f44a7456f80e1aa452f399595853e6af2eb3f4e",
+      "sectionIndex": 0,
+      "question": "Pakistan's National Climate Change Policy was formulated in:",
+      "options": [
+        "A) 2010",
+        "B) 2011",
+        "C) 2012",
+        "D) 2013"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7b3607a44ebcc0b09878c30fccfe0720668a123b",
+      "sectionIndex": 0,
+      "question": "The National Drinking Water Policy of Pakistan was introduced in:",
+      "options": [
+        "A) 2007",
+        "B) 2008",
+        "C) 2009",
+        "D) 2010"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "07d34de2f8581bb9bfa58f0334a550d4d2b29ad7",
+      "sectionIndex": 0,
+      "question": "COP stands for:",
+      "options": [
+        "A) Conference of Parties",
+        "B) Council of Policies",
+        "C) Committee of Pollution",
+        "D) Convention of Protection"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "339b5a4b22bc3a9538e9c2c6ae81fc647ea4444e",
+      "sectionIndex": 0,
+      "question": "The Paris Agreement was signed in:",
+      "options": [
+        "A) 2013",
+        "B) 2014",
+        "C) 2015",
+        "D) 2016"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "265aa713fda6bcce9aac4feec4b6b8ef4ec300fe",
+      "sectionIndex": 0,
+      "question": "Environmental policies aim to:",
+      "options": [
+        "A) Increase pollution",
+        "B) Protect and conserve the environment",
+        "C) Promote industrialization only",
+        "D) Reduce economic growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63f111eb3ba87d9fdb4857a2753be235b5b9be51",
+      "sectionIndex": 1,
+      "question": "The greenhouse effect is:",
+      "options": [
+        "A) Always harmful",
+        "B) Natural process that warms Earth",
+        "C) Only caused by humans",
+        "D) A type of pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2df0357abfebe5c88fba8011a88e2fab7ac921e0",
+      "sectionIndex": 1,
+      "question": "Which is a major greenhouse gas?",
+      "options": [
+        "A) Oxygen",
+        "B) Nitrogen",
+        "C) Carbon dioxide",
+        "D) Helium"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2c19a72e0dd1c70184ccbbcb573e44b187fa9274",
+      "sectionIndex": 1,
+      "question": "Global warming refers to:",
+      "options": [
+        "A) Local temperature changes",
+        "B) Increase in Earth's average temperature",
+        "C) Seasonal variations",
+        "D) Daily temperature fluctuations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "366c06aaf822a403c4e23397e117f8a9a3c03a5e",
+      "sectionIndex": 1,
+      "question": "Methane is produced from:",
+      "options": [
+        "A) Ocean water",
+        "B) Rice paddies and livestock",
+        "C) Desert sand",
+        "D) Mountain rocks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f100251b0a97a4e26fd0bcbd06c11a39d1168386",
+      "sectionIndex": 1,
+      "question": "Climate change mitigation means:",
+      "options": [
+        "A) Adapting to climate change",
+        "B) Reducing greenhouse gas emissions",
+        "C) Ignoring the problem",
+        "D) Measuring temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06c1a0dea845fe7d9c7b5a0d79445d2ffb0cb39c",
+      "sectionIndex": 1,
+      "question": "Climate change adaptation involves:",
+      "options": [
+        "A) Preventing climate change",
+        "B) Adjusting to climate change effects",
+        "C) Denying climate change",
+        "D) Measuring rainfall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77409781d2caa5a9c08510a35e7367122e4c9dc3",
+      "sectionIndex": 1,
+      "question": "Pakistan contributes less than what percentage to global GHG emissions?",
+      "options": [
+        "A) 1%",
+        "B) 5%",
+        "C) 10%",
+        "D) 15%"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1ff5b486cd2a21c03cdae87c706432c8757c20a0",
+      "sectionIndex": 1,
+      "question": "The main cause of increased CO2 in atmosphere is:",
+      "options": [
+        "A) Volcanic eruptions",
+        "B) Fossil fuel burning",
+        "C) Ocean evaporation",
+        "D) Plant respiration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9337a50594824d3b82d0575d5ffc399822d6ce2e",
+      "sectionIndex": 1,
+      "question": "Which gas has the highest global warming potential?",
+      "options": [
+        "A) Carbon dioxide",
+        "B) Methane",
+        "C) Water vapor",
+        "D) Oxygen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8a8945adce6f4fe9ba23fab458c481d8b4e95c7",
+      "sectionIndex": 1,
+      "question": "Climate change affects:",
+      "options": [
+        "A) Only temperature",
+        "B) Both natural and societal systems",
+        "C) Only polar regions",
+        "D) Only oceans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "101c45e11bc5e348c049256f9e8d780749b9312d",
+      "sectionIndex": 2,
+      "question": "EIA stands for:",
+      "options": [
+        "A) Environmental Impact Assessment",
+        "B) Environmental Information Agency",
+        "C) Environmental Investigation Act",
+        "D) Environmental Implementation Agreement"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bde30b59a1264d4604f1742158f5fbf5ac3037d6",
+      "sectionIndex": 2,
+      "question": "IEE stands for:",
+      "options": [
+        "A) Initial Environmental Examination",
+        "B) International Environmental Evaluation",
+        "C) Integrated Environmental Effect",
+        "D) Internal Environmental Estimate"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7ef31574ee9c3cf696a680d72d5db45101ca9e08",
+      "sectionIndex": 2,
+      "question": "EIA is conducted:",
+      "options": [
+        "A) After project completion",
+        "B) Before project implementation",
+        "C) During project closure",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fef75d74e786e03c10568715b681dbe6e41cfa7",
+      "sectionIndex": 2,
+      "question": "The main purpose of EIA is to:",
+      "options": [
+        "A) Delay projects",
+        "B) Predict environmental impacts",
+        "C) Increase costs",
+        "D) Create jobs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5555a7587005348d48cedc54b0085a9fa6793d1c",
+      "sectionIndex": 2,
+      "question": "Public participation in EIA is:",
+      "options": [
+        "A) Prohibited",
+        "B) Important for transparency",
+        "C) Unnecessary",
+        "D) Illegal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d894c951926e937ef51bded101ba1baf36665e6",
+      "sectionIndex": 2,
+      "question": "Baseline data in EIA refers to:",
+      "options": [
+        "A) Project cost",
+        "B) Existing environmental conditions",
+        "C) Future predictions",
+        "D) Historical records only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "435e5a9fa1bc6d4eaa1c276b955690ca602932be",
+      "sectionIndex": 2,
+      "question": "SEA stands for:",
+      "options": [
+        "A) Simple Environmental Assessment",
+        "B) Strategic Environmental Assessment",
+        "C) Standard Environmental Analysis",
+        "D) Special Environmental Audit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41bb0e6e6faa179c95957c16327db7754de8d607",
+      "sectionIndex": 2,
+      "question": "EIA helps in:",
+      "options": [
+        "A) Environmental destruction",
+        "B) Sustainable development",
+        "C) Increasing pollution",
+        "D) Reducing employment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36003239eb9f5028d108d88ecd7ede565d3f709b",
+      "sectionIndex": 2,
+      "question": "An IEE is usually:",
+      "options": [
+        "A) More detailed than EIA",
+        "B) Less detailed than EIA",
+        "C) Same as EIA",
+        "D) Not related to EIA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "490a19b427ad05908b61f69cf126c07b00f953e4",
+      "sectionIndex": 2,
+      "question": "EIA process includes:",
+      "options": [
+        "A) Only document preparation",
+        "B) Screening, scoping, and impact analysis",
+        "C) Only cost analysis",
+        "D) Only legal review"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4da8f119eb2f1f35e6c72d03acb4160b33947658",
+      "sectionIndex": 3,
+      "question": "Smog is a combination of:",
+      "options": [
+        "A) Smoke and fog",
+        "B) Snow and fog",
+        "C) Smoke and rain",
+        "D) Steam and fog"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "96384db40e1db81a01480bbb3c608857b35727ef",
+      "sectionIndex": 3,
+      "question": "The ozone layer is located in the:",
+      "options": [
+        "A) Troposphere",
+        "B) Stratosphere",
+        "C) Mesosphere",
+        "D) Thermosphere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bc700e7c404a4693f7a7a88a1f2c268407c6156",
+      "sectionIndex": 3,
+      "question": "CFCs stand for:",
+      "options": [
+        "A) Carbon Fossil Compounds",
+        "B) Chlorofluorocarbons",
+        "C) Chemical Fuel Compounds",
+        "D) Climate Force Chemicals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4de9281a2e6520ce350f101915fadafb78a9f60",
+      "sectionIndex": 3,
+      "question": "Ozone depletion is mainly caused by:",
+      "options": [
+        "A) Oxygen",
+        "B) Nitrogen",
+        "C) CFCs and related compounds",
+        "D) Carbon dioxide"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3fffba81a446788ca8fab0340501b1e59b50b161",
+      "sectionIndex": 3,
+      "question": "The ozone layer protects us from:",
+      "options": [
+        "A) Visible light",
+        "B) Harmful UV radiation",
+        "C) Radio waves",
+        "D) Sound waves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e291956fb5bb9276cc7347f0b870f5d4664007e5",
+      "sectionIndex": 3,
+      "question": "Major air pollutants include:",
+      "options": [
+        "A) Oxygen and nitrogen",
+        "B) SO2, NOx, and particulates",
+        "C) Water vapor",
+        "D) Noble gases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62b67285b0632cf6caff038aabc7e38fc3059fff",
+      "sectionIndex": 3,
+      "question": "Smog is more common in:",
+      "options": [
+        "A) Rural areas",
+        "B) Urban and industrial areas",
+        "C) Oceans",
+        "D) Forests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "519c87e29f0168def4fe42aedb9e1c281a44bd05",
+      "sectionIndex": 3,
+      "question": "The main cause of smog in Punjab is:",
+      "options": [
+        "A) Ocean spray",
+        "B) Crop burning and vehicle emissions",
+        "C) Natural fog",
+        "D) Mountain winds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d2f822c5b67d8916e1810c99fa0e96b2b18fbc6",
+      "sectionIndex": 3,
+      "question": "Air quality is measured by:",
+      "options": [
+        "A) Temperature",
+        "B) Air Quality Index (AQI)",
+        "C) Wind speed",
+        "D) Humidity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74afe286e6bd15de22bdd56fd725306505cc9cc0",
+      "sectionIndex": 3,
+      "question": "Ozone hole was first discovered over:",
+      "options": [
+        "A) North Pole",
+        "B) Antarctica",
+        "C) Equator",
+        "D) Europe"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c660ab69bce73019f107ba63bbbe7f807c6afe1",
+      "sectionIndex": 4,
+      "question": "Hazardous waste is characterized by:",
+      "options": [
+        "A) Large volume only",
+        "B) Toxicity, flammability, or reactivity",
+        "C) Color only",
+        "D) Smell only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1069ddf11f5445379268f3df7f24a3e2d86d3a5d",
+      "sectionIndex": 4,
+      "question": "CERCLA is related to:",
+      "options": [
+        "A) Air pollution",
+        "B) Hazardous waste cleanup",
+        "C) Water treatment",
+        "D) Forest management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbefffda6c4d3f6a31d969f9e97bbab976c5f845",
+      "sectionIndex": 4,
+      "question": "Hospital waste is also known as:",
+      "options": [
+        "A) Domestic waste",
+        "B) Biomedical waste",
+        "C) Industrial waste",
+        "D) Agricultural waste"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70657100827d978020fe3d47ba439709c93a87ba",
+      "sectionIndex": 4,
+      "question": "Solid waste disposal methods include:",
+      "options": [
+        "A) Only burning",
+        "B) Landfilling, recycling, and composting",
+        "C) Only dumping",
+        "D) Only burying"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5876a6015261a605b470ea7bb8cdcce447eb60b",
+      "sectionIndex": 4,
+      "question": "Wastewater treatment removes:",
+      "options": [
+        "A) Only solid particles",
+        "B) Physical, chemical, and biological contaminants",
+        "C) Only color",
+        "D) Only temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68576efe19226f2d103240fc3b1908e785cc581a",
+      "sectionIndex": 4,
+      "question": "Primary treatment of wastewater involves:",
+      "options": [
+        "A) Chemical treatment",
+        "B) Physical removal of solids",
+        "C) Biological treatment",
+        "D) Advanced filtration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11aa533b8f31b6734e84ff323f286a7c2ac2a622",
+      "sectionIndex": 4,
+      "question": "Recycling helps to:",
+      "options": [
+        "A) Increase waste",
+        "B) Reduce waste and conserve resources",
+        "C) Create more pollution",
+        "D) Increase costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f676475c00df061cd0cfeee44e9399d59fe1224",
+      "sectionIndex": 4,
+      "question": "Composting is used for:",
+      "options": [
+        "A) Plastic waste",
+        "B) Organic waste",
+        "C) Metal waste",
+        "D) Glass waste"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c83ef46d18e8cdc52844e7abcd3145fe7b8829c1",
+      "sectionIndex": 4,
+      "question": "Hazardous waste should be:",
+      "options": [
+        "A) Mixed with regular waste",
+        "B) Treated and disposed specially",
+        "C) Dumped in rivers",
+        "D) Burned openly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31d004ea9478067fb9669412faa6f4615d65cd68",
+      "sectionIndex": 4,
+      "question": "Landfills should have:",
+      "options": [
+        "A) No protection",
+        "B) Liner systems to prevent leaching",
+        "C) Open access to animals",
+        "D) No monitoring"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9d4b6fcefab06673bee54045affe0f735472c5c",
+      "sectionIndex": 5,
+      "question": "Eutrophication is caused by:",
+      "options": [
+        "A) Lack of nutrients",
+        "B) Excess nutrients in water",
+        "C) Too much oxygen",
+        "D) Cold temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c6d5906fa18a597ce3189c6fbda7c8396ea8d50",
+      "sectionIndex": 5,
+      "question": "The main nutrients causing eutrophication are:",
+      "options": [
+        "A) Calcium and magnesium",
+        "B) Nitrogen and phosphorus",
+        "C) Iron and copper",
+        "D) Sodium and chloride"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38cc9af3889af433e20242eb3180ca6f963f5bd0",
+      "sectionIndex": 5,
+      "question": "Algal bloom is a result of:",
+      "options": [
+        "A) Clean water",
+        "B) Eutrophication",
+        "C) Low temperature",
+        "D) High salinity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ae1e73b2e97186e5b73c79010fd9cba722c3965",
+      "sectionIndex": 5,
+      "question": "Natural eutrophication occurs:",
+      "options": [
+        "A) Rapidly",
+        "B) Over thousands of years",
+        "C) Never",
+        "D) Only in oceans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "248b3eed90eca0f73cdd51f487073b5bd18f237a",
+      "sectionIndex": 5,
+      "question": "Cultural eutrophication is caused by:",
+      "options": [
+        "A) Natural processes",
+        "B) Human activities",
+        "C) Climate only",
+        "D) Animals only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f872e02ab14905bdadda14702e5a5c305656a4d2",
+      "sectionIndex": 5,
+      "question": "BOD stands for:",
+      "options": [
+        "A) Biological Oxygen Demand",
+        "B) Basic Oxygen Delivery",
+        "C) Bacterial Organic Decomposition",
+        "D) Biological Order Determination"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "746948a8b415317dbf95a7ff3b8da34a7ebb0557",
+      "sectionIndex": 5,
+      "question": "High BOD indicates:",
+      "options": [
+        "A) Clean water",
+        "B) Polluted water",
+        "C) No oxygen",
+        "D) High temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1caeb1f5239f9d39f9d277cc472db36d64c17571",
+      "sectionIndex": 5,
+      "question": "Wetlands are important for:",
+      "options": [
+        "A) Increasing pollution",
+        "B) Water purification and biodiversity",
+        "C) Spreading diseases",
+        "D) Reducing water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ca9175fd5f195509fdf47d6199f9a4ef3df761c",
+      "sectionIndex": 5,
+      "question": "The Indus Water Treaty is between:",
+      "options": [
+        "A) India and China",
+        "B) India and Pakistan",
+        "C) Pakistan and Afghanistan",
+        "D) Pakistan and Iran"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99b42fc9af32aadb80cd9ca504cfe659b2b9eb57",
+      "sectionIndex": 5,
+      "question": "Water stress occurs when:",
+      "options": [
+        "A) Too much water available",
+        "B) Water demand exceeds supply",
+        "C) Only during floods",
+        "D) Never in Pakistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed05b017f5d9d8dc499997a9e162438b0a269a6c",
+      "sectionIndex": 6,
+      "question": "CDM stands for:",
+      "options": [
+        "A) Carbon Development Method",
+        "B) Clean Development Mechanism",
+        "C) Climate Development Model",
+        "D) Carbon Disposal Method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "723dd2192d284e834087ca416363e0209933046f",
+      "sectionIndex": 6,
+      "question": "Alternative energy sources include:",
+      "options": [
+        "A) Only coal",
+        "B) Solar, wind, and hydropower",
+        "C) Only petroleum",
+        "D) Only natural gas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0df8bc8b4f97994ccd53f9aa9ba659bd49ea51b9",
+      "sectionIndex": 6,
+      "question": "Renewable energy is:",
+      "options": [
+        "A) Finite",
+        "B) Naturally replenished",
+        "C) More polluting",
+        "D) More expensive always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a76f3bc1830d7b717b792036f6102a0940b3866",
+      "sectionIndex": 6,
+      "question": "Biogas is produced through:",
+      "options": [
+        "A) Aerobic process",
+        "B) Anaerobic digestion",
+        "C) Combustion",
+        "D) Evaporation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6823cccdd81d272e6b9384b12f5787e8a0d31ef4",
+      "sectionIndex": 6,
+      "question": "Bioremediation uses:",
+      "options": [
+        "A) Chemicals only",
+        "B) Living organisms to clean pollution",
+        "C) Physical methods only",
+        "D) Heat treatment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1eb93fb101d3b55c3a569a3f84299e7559543c2",
+      "sectionIndex": 6,
+      "question": "GMO stands for:",
+      "options": [
+        "A) General Modified Object",
+        "B) Genetically Modified Organism",
+        "C) Global Management Organization",
+        "D) Green Material Option"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db4a6d04e0ca5d67e92aaa846723002814c87b71",
+      "sectionIndex": 6,
+      "question": "Biotechnology can help with:",
+      "options": [
+        "A) Creating more pollution",
+        "B) Increasing food production",
+        "C) Reducing biodiversity",
+        "D) Eliminating agriculture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49be165f714b316aadf01745e4ff4fd5fdbcccce",
+      "sectionIndex": 6,
+      "question": "Solar energy is:",
+      "options": [
+        "A) Non-renewable",
+        "B) Clean and renewable",
+        "C) Highly polluting",
+        "D) Only useful at night"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90f3dce9f2608aabc02df7a0cfb601d27e5a283e",
+      "sectionIndex": 6,
+      "question": "Wind energy requires:",
+      "options": [
+        "A) Fossil fuels",
+        "B) Consistent wind patterns",
+        "C) Water",
+        "D) Coal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45d15a1da62b410442cf1b563580487539117798",
+      "sectionIndex": 6,
+      "question": "Biomass energy comes from:",
+      "options": [
+        "A) Rocks",
+        "B) Organic materials",
+        "C) Metals",
+        "D) Sand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdcd8a87ef43410279870f32be824aa16039b971",
+      "sectionIndex": 7,
+      "question": "GIS stands for:",
+      "options": [
+        "A) Global Information System",
+        "B) Geographic Information System",
+        "C) General Investigation System",
+        "D) Geological Information Service"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5591eda2075badaf49cdc8490ea6ef9a5040175",
+      "sectionIndex": 7,
+      "question": "Remote sensing uses:",
+      "options": [
+        "A) Direct contact",
+        "B) Satellites and sensors",
+        "C) Underground cables",
+        "D) Manual measurement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71c9da73764a2efdf787414dc64a42970124d1f2",
+      "sectionIndex": 7,
+      "question": "Risk analysis includes:",
+      "options": [
+        "A) Only risk identification",
+        "B) Identification, assessment, management, and communication",
+        "C) Ignoring risks",
+        "D) Creating risks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db9083747b03f02c68f00cf1185d0ba1edf1ee50",
+      "sectionIndex": 7,
+      "question": "EPA stands for:",
+      "options": [
+        "A) Environmental Protection Agency",
+        "B) Energy Production Authority",
+        "C) Environmental Pollution Act",
+        "D) Energy Policy Agreement"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "19a8cd24b2db4934857f8329aa5ffbdadb4b4d8b",
+      "sectionIndex": 7,
+      "question": "Environmental geology studies:",
+      "options": [
+        "A) Only rocks",
+        "B) Interaction between humans and geological environment",
+        "C) Only earthquakes",
+        "D) Only minerals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba94d15795fe846495ab80981e1030a37f0c901c",
+      "sectionIndex": 7,
+      "question": "Carrying capacity refers to:",
+      "options": [
+        "A) Weight limit",
+        "B) Maximum population an environment can support",
+        "C) Transport capacity",
+        "D) Storage space"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c688e546cafb5a21622280c5f15be25adaebd80",
+      "sectionIndex": 7,
+      "question": "Carbon footprint measures:",
+      "options": [
+        "A) Foot size",
+        "B) Total greenhouse gas emissions",
+        "C) Walking distance",
+        "D) Shoe manufacturing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63c1e5fb6978ece15ada126e2e774d144082e798",
+      "sectionIndex": 7,
+      "question": "Carbon sequestration means:",
+      "options": [
+        "A) Releasing carbon",
+        "B) Storing carbon",
+        "C) Creating carbon",
+        "D) Ignoring carbon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7569d4c8d69d2e63e4126eace7153482d3fe6670",
+      "sectionIndex": 7,
+      "question": "Environmental indicators help to:",
+      "options": [
+        "A) Hide problems",
+        "B) Monitor environmental quality",
+        "C) Increase pollution",
+        "D) Reduce awareness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e407e99f237e226b9ea5bcd86a27f3e4dc190547",
+      "sectionIndex": 7,
+      "question": "Sustainable development balances:",
+      "options": [
+        "A) Only economic growth",
+        "B) Environmental, social, and economic needs",
+        "C) Only environmental protection",
+        "D) Only social needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e61c0441422fd01936474257cb6763e69fc08ed",
+      "sectionIndex": 8,
+      "question": "Occupational health focuses on:",
+      "options": [
+        "A) Home safety only",
+        "B) Workplace safety and health",
+        "C) Sports injuries",
+        "D) Traffic accidents"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad7dec5f5f55f8ce82529227a916a624e5bda831",
+      "sectionIndex": 8,
+      "question": "Noise pollution is measured in:",
+      "options": [
+        "A) Meters",
+        "B) Decibels",
+        "C) Kilograms",
+        "D) Liters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "034e46585d2ff87a38124db8cfe1c0cbeb9986a7",
+      "sectionIndex": 8,
+      "question": "Desertification is:",
+      "options": [
+        "A) Creating deserts for tourism",
+        "B) Land degradation in dry areas",
+        "C) Improving soil",
+        "D) Increasing rainfall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87bd33287ea25d52db26952f34b736b064047224",
+      "sectionIndex": 8,
+      "question": "Urban heat island effect causes:",
+      "options": [
+        "A) Cooler cities",
+        "B) Higher temperatures in cities",
+        "C) More rainfall",
+        "D) Less pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af5e6d13853b25639cb39723455a31afc93624a0",
+      "sectionIndex": 8,
+      "question": "E-waste refers to:",
+      "options": [
+        "A) Energy waste",
+        "B) Electronic waste",
+        "C) Earthen waste",
+        "D) Edible waste"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef2f5f02246136d7d1930d2178a2926e5ebaae7f",
+      "sectionIndex": 8,
+      "question": "Superfund is related to:",
+      "options": [
+        "A) Super savings",
+        "B) Hazardous waste site cleanup",
+        "C) Education funding",
+        "D) Sports funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edcefa2541d061fce92afac7e40fff9a1867e82b",
+      "sectionIndex": 8,
+      "question": "REDD+ focuses on:",
+      "options": [
+        "A) Color red",
+        "B) Reducing deforestation",
+        "C) Increasing pollution",
+        "D) Urban development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fe07c708a59c49c9e636238bb68ce50b1563d5f",
+      "sectionIndex": 8,
+      "question": "Genetic pollution occurs through:",
+      "options": [
+        "A) Genes staying same",
+        "B) Uncontrolled spread of modified genes",
+        "C) Natural selection",
+        "D) No gene movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9136800900436b35721ddb1e44c293e55323b54",
+      "sectionIndex": 8,
+      "question": "Workplace exposure risks can be:",
+      "options": [
+        "A) Only physical",
+        "B) Physical, chemical, and biological",
+        "C) Only mental",
+        "D) Non-existent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd31b84e2bc176cea4425695bde0a42d603be7f5",
+      "sectionIndex": 8,
+      "question": "Safety management systems aim to:",
+      "options": [
+        "A) Increase accidents",
+        "B) Prevent accidents and protect workers",
+        "C) Reduce productivity",
+        "D) Increase costs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5435a1fd14c804bd18fd44a8a5e46f042edca31",
+      "sectionIndex": 9,
+      "question": "Pakistan Environmental Protection Act was passed in:",
+      "options": [
+        "A) 1995",
+        "B) 1996",
+        "C) 1997",
+        "D) 1998"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b0db06b0edc864efa608a5feee4e7cd71091f2e",
+      "sectionIndex": 9,
+      "question": "Pakistan is located in a:",
+      "options": [
+        "A) Tropical region",
+        "B) Semi-arid region",
+        "C) Arctic region",
+        "D) Rainforest region"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14733dff86edac249eccf3da8094bd0e5fffafcb",
+      "sectionIndex": 9,
+      "question": "The 18th Amendment affected environmental policy by:",
+      "options": [
+        "A) Centralizing control",
+        "B) Devolving powers to provinces",
+        "C) Eliminating environmental laws",
+        "D) No effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4fce58efd707c9ff34ebaca5e264ed01d976853",
+      "sectionIndex": 9,
+      "question": "Pakistan's vulnerability to climate change is due to:",
+      "options": [
+        "A) High emissions only",
+        "B) Geographic and socio-economic factors",
+        "C) Large forest cover",
+        "D) Abundant water resources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4032cfc531ec5226e78241a47bfea57aaaad5333",
+      "sectionIndex": 9,
+      "question": "Major environmental challenges in Pakistan include:",
+      "options": [
+        "A) Too much forest",
+        "B) Water scarcity and pollution",
+        "C) Excess rainfall",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bf81e1dd0dc0092d8ade935116091bd9167e9c6",
+      "sectionIndex": 9,
+      "question": "Smog in Punjab is particularly severe during:",
+      "options": [
+        "A) Summer",
+        "B) Winter months",
+        "C) Monsoon",
+        "D) Spring only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97b950e4fa93ea8beb27baa9de94ef7fb518f20d",
+      "sectionIndex": 9,
+      "question": "Pakistan can benefit from COP meetings through:",
+      "options": [
+        "A) Tourism only",
+        "B) Climate finance and technology transfer",
+        "C) Avoiding participation",
+        "D) No benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a737a57e91267fd0324b051f500ad9cc9b98f811",
+      "sectionIndex": 9,
+      "question": "Wetlands in Pakistan are important for:",
+      "options": [
+        "A) Increasing floods",
+        "B) Biodiversity and water regulation",
+        "C) Spreading disease",
+        "D) No importance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da2d7c2f650c3eca3e4a331a72ef8673a1874924",
+      "sectionIndex": 9,
+      "question": "Environmental education in Pakistan aims to:",
+      "options": [
+        "A) Ignore environmental issues",
+        "B) Create awareness and responsible behavior",
+        "C) Increase pollution",
+        "D) Reduce knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "938ae0d41ba4acbbcd9070db9396223de429c2e3",
+      "sectionIndex": 9,
+      "question": "Sustainable management in Pakistan requires:",
+      "options": [
+        "A) Foreign control only",
+        "B) Integrated approach with local participation",
+        "C) No planning",
+        "D) Ignoring traditions"
+      ],
+      "correct": "B"
+    }
+  ]
+}

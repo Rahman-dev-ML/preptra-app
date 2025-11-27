@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T10:55:16.562Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "69803c1dc569f187b03bd9e5ac9349f1999b2f7e",
+      "sectionIndex": 0,
+      "question": "When preparing financial statements from trial balance, adjusting entries for prepaid expenses will:",
+      "options": [
+        "A) Increase expenses, decrease assets",
+        "B) Decrease expenses, increase assets",
+        "C) Increase both expenses and assets",
+        "D) Decrease both expenses and assets"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1de2c450aef16324ff7951d75c36b461ea1b00d3",
+      "sectionIndex": 0,
+      "question": "In preparing a Cash Flow Statement using the indirect method, depreciation is:",
+      "options": [
+        "A) Subtracted from net income",
+        "B) Added back to net income",
+        "C) Ignored completely",
+        "D) Shown as cash outflow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c82b4c6a699b8042bbcb081710179580756c5eb",
+      "sectionIndex": 0,
+      "question": "The closing entry for revenue accounts involves:",
+      "options": [
+        "A) Debit Revenue, Credit Retained Earnings",
+        "B) Debit Revenue, Credit Income Summary",
+        "C) Credit Revenue, Debit Expense",
+        "D) Credit Revenue, Credit Income Summary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20fedbcc4e9f06fa91cc581b382b2597937f8622",
+      "sectionIndex": 0,
+      "question": "When bad debt expense is recorded using allowance method:",
+      "options": [
+        "A) Debit Bad Debt Expense, Credit Accounts Receivable",
+        "B) Debit Bad Debt Expense, Credit Allowance for Doubtful Accounts",
+        "C) Debit Allowance, Credit Bad Debt Expense",
+        "D) Debit Accounts Receivable, Credit Bad Debt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67037b62adf3b9e1b51dc4c19f6adc382c63b027",
+      "sectionIndex": 0,
+      "question": "Accrued interest revenue at year-end requires:",
+      "options": [
+        "A) Debit Interest Expense, Credit Cash",
+        "B) Debit Cash, Credit Interest Revenue",
+        "C) Debit Interest Receivable, Credit Interest Revenue",
+        "D) Debit Interest Revenue, Credit Interest Receivable"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4df826569117671434210aa237fb1b4100654640",
+      "sectionIndex": 0,
+      "question": "The post-closing trial balance contains only:",
+      "options": [
+        "A) Revenue and expense accounts",
+        "B) Balance sheet accounts",
+        "C) Income statement accounts",
+        "D) Temporary accounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e26d397d7d624e137e4e2b3816deb8fe51a8c95",
+      "sectionIndex": 0,
+      "question": "When inventory is understated, the effect on net income is:",
+      "options": [
+        "A) Overstated in current year",
+        "B) Understated in current year",
+        "C) No effect",
+        "D) Depends on sales"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0372dc202d8778bdaf4c5bbb18f16c8af410470f",
+      "sectionIndex": 0,
+      "question": "Treasury stock transactions affect:",
+      "options": [
+        "A) Income statement",
+        "B) Equity section only",
+        "C) Assets only",
+        "D) Liabilities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49117f7e2f06d2d0d858bdd8b4ba030650aa3690",
+      "sectionIndex": 0,
+      "question": "Statement of changes in equity includes all EXCEPT:",
+      "options": [
+        "A) Net income",
+        "B) Dividends",
+        "C) Cash flows",
+        "D) Share issuances"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ba68b5ab80b72fc9822c497281768afc5cccf4c9",
+      "sectionIndex": 0,
+      "question": "Comprehensive income includes:",
+      "options": [
+        "A) Only net income",
+        "B) Net income plus other comprehensive income",
+        "C) Only unrealized gains",
+        "D) Cash receipts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87bc4b06818a8839be756ba3b070ca68d6f77fec",
+      "sectionIndex": 1,
+      "question": "In process costing, equivalent units for materials added at beginning are:",
+      "options": [
+        "A) Units completed + (Ending WIP - % complete)",
+        "B) Units completed + Ending WIP units",
+        "C) Units started and completed only",
+        "D) Beginning WIP + Units started"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcbbb455035accafde4aa5fd575497682131926e",
+      "sectionIndex": 1,
+      "question": "Under absorption costing, fixed manufacturing overhead is:",
+      "options": [
+        "A) Period cost",
+        "B) Product cost",
+        "C) Not included",
+        "D) Variable cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa7d5045542fdc017704fede60c1f2fb6608ea13",
+      "sectionIndex": 1,
+      "question": "The predetermined overhead rate is calculated as:",
+      "options": [
+        "A) Actual overhead ÷ Actual activity",
+        "B) Budgeted overhead ÷ Budgeted activity",
+        "C) Actual overhead ÷ Budgeted activity",
+        "D) Standard overhead ÷ Actual activity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d343afd52b804c6ac7152619b31acf0b929d801f",
+      "sectionIndex": 1,
+      "question": "In job order costing, over-applied overhead means:",
+      "options": [
+        "A) Applied overhead < Actual overhead",
+        "B) Applied overhead > Actual overhead",
+        "C) No overhead applied",
+        "D) Overhead not calculated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bd7c248413b4a9a3efa87782880e5778e7d246f",
+      "sectionIndex": 1,
+      "question": "Variable costing income differs from absorption costing when:",
+      "options": [
+        "A) Sales equal production",
+        "B) Production differs from sales",
+        "C) No fixed costs exist",
+        "D) All costs are variable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "345955b3ebb361b9a49741c538a99701bfa80c75",
+      "sectionIndex": 1,
+      "question": "The margin of safety in break-even analysis represents:",
+      "options": [
+        "A) Fixed costs coverage",
+        "B) Sales above break-even point",
+        "C) Variable cost margin",
+        "D) Total contribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8aeb8de2bb121dd36b783e1b3fab19ac1ece0f5",
+      "sectionIndex": 1,
+      "question": "In activity-based costing, cost drivers should be:",
+      "options": [
+        "A) Volume-based only",
+        "B) Causally related to costs",
+        "C) Same for all activities",
+        "D) Financial measures only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f5c8fef9509496dd6cadfe2d065efcb765f9a1d",
+      "sectionIndex": 1,
+      "question": "Standard cost variances help identify:",
+      "options": [
+        "A) Future costs",
+        "B) Performance efficiency",
+        "C) Competitor costs",
+        "D) Market prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "807e9e821eb0a3b3a30f299fdd72e0d1c3329da3",
+      "sectionIndex": 1,
+      "question": "Relevant costs for decision making are:",
+      "options": [
+        "A) All historical costs",
+        "B) Future differential costs",
+        "C) Sunk costs",
+        "D) Fixed costs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cc393feee8f26284cca333b8eeb976beef4fed1",
+      "sectionIndex": 1,
+      "question": "Transfer pricing between divisions affects:",
+      "options": [
+        "A) Total company profit",
+        "B) Divisional performance measures",
+        "C) External sales only",
+        "D) Variable costs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b3ea6906a5a8f93f6f91603a6659ae4cdbf75f5",
+      "sectionIndex": 2,
+      "question": "Using sum-of-years-digits method for an asset with 5-year life, first year's fraction is:",
+      "options": [
+        "A) 1/5",
+        "B) 5/15",
+        "C) 5/5",
+        "D) 1/15"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff6a1124087119ec401523f8d39290d8a63774f6",
+      "sectionIndex": 2,
+      "question": "When switching from straight-line to declining balance method:",
+      "options": [
+        "A) Recalculate all prior depreciation",
+        "B) Apply prospectively from change date",
+        "C) Not allowed under GAAP",
+        "D) Must get tax approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "284179bbaa19bb397c2904162dd2afe11a9f10a1",
+      "sectionIndex": 2,
+      "question": "Component depreciation requires:",
+      "options": [
+        "A) Single depreciation rate",
+        "B) Separate rates for significant parts",
+        "C) Highest rate for all parts",
+        "D) No depreciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b4104081d7866fd3da61a6e55965884c6d945be",
+      "sectionIndex": 2,
+      "question": "If residual value increases after initial recognition:",
+      "options": [
+        "A) Adjust past depreciation",
+        "B) Adjust future depreciation",
+        "C) No adjustment needed",
+        "D) Write off asset"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c48ed622f5555447cab1be9444c9f55a1f4c369",
+      "sectionIndex": 2,
+      "question": "Impairment loss on depreciable asset affects:",
+      "options": [
+        "A) Only current year",
+        "B) Current and future depreciation",
+        "C) Past years only",
+        "D) No effect on depreciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70badf3a4410e5ebd7eafd837f864bbf08ad2a64",
+      "sectionIndex": 2,
+      "question": "For tax purposes, MACRS depreciation:",
+      "options": [
+        "A) Matches book depreciation",
+        "B) May differ from book depreciation",
+        "C) Is not allowed",
+        "D) Requires straight-line"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b49803212ebf632ef9e50591ad67728c08df27f",
+      "sectionIndex": 2,
+      "question": "Depletion method is used for:",
+      "options": [
+        "A) All fixed assets",
+        "B) Natural resources",
+        "C) Buildings only",
+        "D) Intangibles only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "589a6928bb04b4a4500c777d073e91b544512d6f",
+      "sectionIndex": 2,
+      "question": "Asset revaluation under IFRS affects:",
+      "options": [
+        "A) Only income statement",
+        "B) Equity through revaluation surplus",
+        "C) Only cash flow",
+        "D) No financial statement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a68ad2dd6e8e870f53bbf1884270a7f185faa24",
+      "sectionIndex": 2,
+      "question": "Depreciation of leased assets depends on:",
+      "options": [
+        "A) Lease term only",
+        "B) Lease classification",
+        "C) Lessor's choice",
+        "D) Not depreciated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a86a20ad49f13a643892f38c6689a39eae8c00b4",
+      "sectionIndex": 2,
+      "question": "Group depreciation method assumes:",
+      "options": [
+        "A) Individual asset tracking",
+        "B) Average life for similar assets",
+        "C) No salvage value",
+        "D) Accelerated depreciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e8a6f1faa656a4531d7fba8d46083093aa2b923",
+      "sectionIndex": 3,
+      "question": "Analytical procedures in planning phase help:",
+      "options": [
+        "A) Replace detailed testing",
+        "B) Identify risk areas",
+        "C) Eliminate sampling",
+        "D) Reduce audit fees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4edf4eab6eba064ba0ee9363decc3af8caa54baa",
+      "sectionIndex": 3,
+      "question": "The auditor's assessment of control risk affects:",
+      "options": [
+        "A) Inherent risk level",
+        "B) Planned detection risk",
+        "C) Client acceptance",
+        "D) Audit opinion type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be176d565af9a165f829d7563d5a3f43a2cea181",
+      "sectionIndex": 3,
+      "question": "Substantive procedures timing depends on:",
+      "options": [
+        "A) Client preference",
+        "B) Control risk assessment",
+        "C) Auditor convenience",
+        "D) Fee structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c1964e95905022add2f0ca1eed40aac152c613a",
+      "sectionIndex": 3,
+      "question": "When testing internal controls, the auditor seeks:",
+      "options": [
+        "A) All deviations",
+        "B) Reasonable assurance",
+        "C) Absolute assurance",
+        "D) No testing needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44dc64b0aa842f7806984a3c18f6469eb546df83",
+      "sectionIndex": 3,
+      "question": "Management representations letter:",
+      "options": [
+        "A) Replaces audit procedures",
+        "B) Complements audit evidence",
+        "C) Is optional",
+        "D) Not required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48589e346d868879075ede922c4f01ddbb27075f",
+      "sectionIndex": 3,
+      "question": "Related party transactions require:",
+      "options": [
+        "A) No special attention",
+        "B) Enhanced audit procedures",
+        "C) Automatic qualification",
+        "D) Separate audit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a74982aff50ba5d3ab3fe7584b25a71e46580b4d",
+      "sectionIndex": 3,
+      "question": "Subsequent events procedures extend to:",
+      "options": [
+        "A) Balance sheet date only",
+        "B) Audit report date",
+        "C) One year later",
+        "D) Indefinitely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "280095cd5345b025a1cb3e55d782fcabb193cf06",
+      "sectionIndex": 3,
+      "question": "Going concern evaluation considers:",
+      "options": [
+        "A) Past profitability only",
+        "B) Future viability indicators",
+        "C) Current assets only",
+        "D) Stock price"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cba0a32d9e7f2c2e5d78371f4e25008de42b94b2",
+      "sectionIndex": 3,
+      "question": "Audit sampling risk includes:",
+      "options": [
+        "A) Only detection risk",
+        "B) Sampling and non-sampling risk",
+        "C) Business risk",
+        "D) Market risk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad1ed725ee4261e995b374509659b6dd609197ee",
+      "sectionIndex": 3,
+      "question": "Computer-assisted audit techniques (CAATs) are used for:",
+      "options": [
+        "A) Manual systems only",
+        "B) Testing electronic data",
+        "C) Replacing auditors",
+        "D) Printing reports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95930f51d89d01f2239419c17714d159e459af73",
+      "sectionIndex": 4,
+      "question": "Tax loss carry forward allows:",
+      "options": [
+        "A) Refund of past taxes",
+        "B) Offset against future profits",
+        "C) Current year credit",
+        "D) Permanent exemption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f49bb3f3b9676fc78280c573687590799320d29",
+      "sectionIndex": 4,
+      "question": "Minimum tax liability applies when:",
+      "options": [
+        "A) Regular tax exceeds minimum",
+        "B) Regular tax is less than minimum",
+        "C) No income exists",
+        "D) Losses occur"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7a1c20afd54a04b89f9eb4e1e527c86e5fad20e",
+      "sectionIndex": 4,
+      "question": "Capital gains tax rate differs based on:",
+      "options": [
+        "A) Asset color",
+        "B) Holding period",
+        "C) Day of sale",
+        "D) Buyer type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "718837a1b2eed0822e1b41476458a31de24f5e53",
+      "sectionIndex": 4,
+      "question": "Inter-company dividends may be:",
+      "options": [
+        "A) Always taxable",
+        "B) Partially exempt",
+        "C) Never taxable",
+        "D) Double taxed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad89e43674e35faf25aeee65b54ddced44c6010d",
+      "sectionIndex": 4,
+      "question": "Thin capitalization rules limit:",
+      "options": [
+        "A) Equity financing",
+        "B) Interest deductions on excess debt",
+        "C) Dividend payments",
+        "D) Capital gains"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9db72cab8a07749ff9501462aa1da5754249a52b",
+      "sectionIndex": 4,
+      "question": "Transfer pricing adjustments affect:",
+      "options": [
+        "A) Only seller",
+        "B) Both parties' taxable income",
+        "C) Neither party",
+        "D) Third parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2411ccb91b5a68d242abaefec536a04e9c717117",
+      "sectionIndex": 4,
+      "question": "Withholding tax on payments to non-residents:",
+      "options": [
+        "A) Is final tax",
+        "B) May be creditable",
+        "C) Never applies",
+        "D) Always 30%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39dc7704e7562425f15d37cb3dbf7c3c67dab97b",
+      "sectionIndex": 4,
+      "question": "Group taxation relief allows:",
+      "options": [
+        "A) Tax evasion",
+        "B) Loss transfer within group",
+        "C) Higher rates",
+        "D) No benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79766dd6b71b954aff763679784654381f6ff639",
+      "sectionIndex": 4,
+      "question": "Advance tax payments are based on:",
+      "options": [
+        "A) Last year's income",
+        "B) Estimated current income",
+        "C) Future projections",
+        "D) Fixed amounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3863fbe8a105bd76b8854ea08f72424f72e33ee6",
+      "sectionIndex": 4,
+      "question": "Tax depreciation rates:",
+      "options": [
+        "A) Match accounting rates",
+        "B) May differ from accounting",
+        "C) Are optional",
+        "D) Never change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ee10659670455f425e4e710634ceb1009052618",
+      "sectionIndex": 5,
+      "question": "DuPont analysis breaks ROE into:",
+      "options": [
+        "A) Two components",
+        "B) Three components",
+        "C) Four components",
+        "D) Five components"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "623cac56c844461f34c930c6fcdabd899119612e",
+      "sectionIndex": 5,
+      "question": "Operating leverage measures:",
+      "options": [
+        "A) Debt usage",
+        "B) Fixed costs impact on profits",
+        "C) Current ratio",
+        "D) Inventory levels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "878e74cb6adfe3d28bdb50f7246f1342e97769f5",
+      "sectionIndex": 5,
+      "question": "Cash conversion cycle equals:",
+      "options": [
+        "A) Operating cycle - Payables period",
+        "B) Inventory period only",
+        "C) Receivables period only",
+        "D) Cash balance days"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d5cc9854fcbc836f3cde58a44266246890361d2b",
+      "sectionIndex": 5,
+      "question": "Z-score analysis predicts:",
+      "options": [
+        "A) Profitability",
+        "B) Bankruptcy probability",
+        "C) Stock returns",
+        "D) Growth rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9476fa895abe39eae1096588c418e8e46abc61b8",
+      "sectionIndex": 5,
+      "question": "Economic Value Added (EVA) considers:",
+      "options": [
+        "A) Accounting profit only",
+        "B) Cost of capital charge",
+        "C) Revenue only",
+        "D) Market value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dc2157aa3b816342b0308e7e56c00b4a434383f",
+      "sectionIndex": 5,
+      "question": "Price-earnings ratio indicates:",
+      "options": [
+        "A) Dividend yield",
+        "B) Market valuation multiple",
+        "C) Book value",
+        "D) Debt level"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "557b84a10e24f7d9785760c966e57fd895622321",
+      "sectionIndex": 5,
+      "question": "Interest coverage deterioration suggests:",
+      "options": [
+        "A) Improving creditworthiness",
+        "B) Increasing financial risk",
+        "C) Higher profits",
+        "D) Lower debt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7d9a296689a18e06ac8d87dafc3a200ba34005b",
+      "sectionIndex": 5,
+      "question": "Asset quality ratios assess:",
+      "options": [
+        "A) Physical condition",
+        "B) Earning capacity",
+        "C) Age only",
+        "D) Purchase price"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ded22dda929556b16b05d1c3b3519d88a25cb6a",
+      "sectionIndex": 5,
+      "question": "Sustainable growth rate depends on:",
+      "options": [
+        "A) Sales only",
+        "B) ROE and retention ratio",
+        "C) Total assets",
+        "D) Market conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ec3ad4a8c8412137fe06666b4241f13e886c12c",
+      "sectionIndex": 5,
+      "question": "Free cash flow represents:",
+      "options": [
+        "A) Total cash",
+        "B) Cash after capital expenditures",
+        "C) Operating income",
+        "D) Net income"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1dd8c0ed41d57ccaec9696f493da1c50e8be944",
+      "sectionIndex": 6,
+      "question": "Segregation of duties prevents:",
+      "options": [
+        "A) All errors",
+        "B) One person controlling entire process",
+        "C) Efficiency",
+        "D) Communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4e2b6a9872d31146dddf85969bedf657f31b9e7",
+      "sectionIndex": 6,
+      "question": "Compensating controls are implemented when:",
+      "options": [
+        "A) Primary controls too costly",
+        "B) No risks exist",
+        "C) Fraud detected",
+        "D) Audit required"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c1b7dce7d92f5ba74cfee776d46aee8f5e0b2c02",
+      "sectionIndex": 6,
+      "question": "Control environment includes:",
+      "options": [
+        "A) Only policies",
+        "B) Management's attitude and tone",
+        "C) Procedures only",
+        "D) IT systems only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a008cb92fe352102395a4968e2c53a20aef7d6a",
+      "sectionIndex": 6,
+      "question": "Detective controls:",
+      "options": [
+        "A) Prevent errors",
+        "B) Identify errors after occurrence",
+        "C) Correct errors",
+        "D) Eliminate risk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1936bda6e9f8dfd1905ebb9cb4574aeb3e9952f8",
+      "sectionIndex": 6,
+      "question": "IT general controls affect:",
+      "options": [
+        "A) Single application",
+        "B) Multiple IT applications",
+        "C) Manual processes only",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "158413ed9147826b684fa5e2b3d485343c990a1e",
+      "sectionIndex": 6,
+      "question": "Control self-assessment involves:",
+      "options": [
+        "A) External auditors only",
+        "B) Management evaluating own controls",
+        "C) No documentation",
+        "D) Annual requirement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d974108a986ff11d3f4e1254fa7c7b617c899ab0",
+      "sectionIndex": 6,
+      "question": "Fraud triangle components are:",
+      "options": [
+        "A) Opportunity only",
+        "B) Pressure, opportunity, rationalization",
+        "C) Skills and access",
+        "D) Greed only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dd30648aa2bb4287b40b65654b7daba07b564a5",
+      "sectionIndex": 6,
+      "question": "Management override risk:",
+      "options": [
+        "A) Can be eliminated",
+        "B) Always exists",
+        "C) Doesn't exist",
+        "D) Only in small companies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f321adcc19dac4a7a1632582cd416e5b572f27a1",
+      "sectionIndex": 6,
+      "question": "Continuous monitoring uses:",
+      "options": [
+        "A) Annual reviews",
+        "B) Real-time analysis",
+        "C) No technology",
+        "D) External parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba8880c4e22ba586d490aa1a32e2dfc4ca5ca0bf",
+      "sectionIndex": 6,
+      "question": "Control deficiency becomes significant when:",
+      "options": [
+        "A) Any error possible",
+        "B) Material misstatement reasonably possible",
+        "C) Fraud detected",
+        "D) Auditor decides"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abe9a0c457ce7c6358eb57e9d5a74d9d81fc7c3b",
+      "sectionIndex": 7,
+      "question": "Goodwill in acquisition represents:",
+      "options": [
+        "A) Tangible assets",
+        "B) Purchase price over fair value",
+        "C) Bargain purchase",
+        "D) Legal fees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8bddcabb1abb36ccf062da0e1c5b93b0634d173",
+      "sectionIndex": 7,
+      "question": "Non-controlling interest is presented in:",
+      "options": [
+        "A) Liabilities",
+        "B) Equity",
+        "C) Assets",
+        "D) Off-balance sheet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88c420ba9b52a7843f0e85d520fb77a6ba625e98",
+      "sectionIndex": 7,
+      "question": "Intercompany transactions must be:",
+      "options": [
+        "A) Taxed separately",
+        "B) Eliminated in consolidation",
+        "C) Shown separately",
+        "D) Ignored"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5331f41fdfb3872bc77364c9f24e9ef12f3679bf",
+      "sectionIndex": 7,
+      "question": "Step acquisition accounting:",
+      "options": [
+        "A) Uses historical cost",
+        "B) Remeasures previous holdings",
+        "C) Averages all costs",
+        "D) Not allowed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc4625fe7b7784b79a47d82cec4a76b182bf6ed7",
+      "sectionIndex": 7,
+      "question": "Bargain purchase results in:",
+      "options": [
+        "A) Goodwill",
+        "B) Gain recognition",
+        "C) Loss recognition",
+        "D) No effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e61725713ebd19ffba593c17f332e6e463d793e1",
+      "sectionIndex": 7,
+      "question": "Acquisition method requires:",
+      "options": [
+        "A) Book value recording",
+        "B) Fair value measurement",
+        "C) Cost method",
+        "D) Equity method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eebde72b7230bb01925bc5688ef8ba1c823ef89e",
+      "sectionIndex": 7,
+      "question": "Contingent consideration affects:",
+      "options": [
+        "A) Past periods",
+        "B) Acquisition cost",
+        "C) Seller only",
+        "D) Not recorded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "303d1986793eaf73102a85b43b639ddad7b79301",
+      "sectionIndex": 7,
+      "question": "Push-down accounting applies to:",
+      "options": [
+        "A) Parent company",
+        "B) Acquired subsidiary",
+        "C) Both companies",
+        "D) Neither company"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21adf92da80ee528f22d16e75360eb8bea2d0696",
+      "sectionIndex": 7,
+      "question": "Common control transactions use:",
+      "options": [
+        "A) Fair value",
+        "B) Predecessor accounting",
+        "C) Market value",
+        "D) Liquidation value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e53b98bd66e161aa88a3cefd8a1a12e7da38069d",
+      "sectionIndex": 7,
+      "question": "Consolidation is required when:",
+      "options": [
+        "A) 20% ownership",
+        "B) Control exists",
+        "C) Any investment",
+        "D) 100% ownership only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48f86af372a6a209be557e6ed3fc9247eeab1cfa",
+      "sectionIndex": 8,
+      "question": "Balanced scorecard includes perspectives EXCEPT:",
+      "options": [
+        "A) Financial",
+        "B) Customer",
+        "C) Competitor",
+        "D) Learning and growth"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d681cdc7aa1e47b9833484ed3f02a70372304c2b",
+      "sectionIndex": 8,
+      "question": "Residual income equals:",
+      "options": [
+        "A) Net income",
+        "B) Income minus capital charge",
+        "C) Gross profit",
+        "D) EBITDA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b6d31dc645ffc92c83096f70f885fd42d176ea9",
+      "sectionIndex": 8,
+      "question": "Benchmarking compares performance with:",
+      "options": [
+        "A) Budget only",
+        "B) Best practices",
+        "C) Last year only",
+        "D) Worst performers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a8fcb1c4998617ea8cea7c2b982a3542b69674a",
+      "sectionIndex": 8,
+      "question": "Value chain analysis identifies:",
+      "options": [
+        "A) Only costs",
+        "B) Value-adding activities",
+        "C) Problems only",
+        "D) Waste only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20083aa9d3f217cada5e1c3d8e75ec5929f4b85c",
+      "sectionIndex": 8,
+      "question": "Target costing starts with:",
+      "options": [
+        "A) Current costs",
+        "B) Market price",
+        "C) Competitor costs",
+        "D) Historical costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f15bc6fdb227f28e864ef6ae615a1054f25c719c",
+      "sectionIndex": 8,
+      "question": "Throughput accounting focuses on:",
+      "options": [
+        "A) All costs",
+        "B) Constraint optimization",
+        "C) Period costs",
+        "D) Fixed costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f72374abf27947efacecfe38a4a870b5319609e",
+      "sectionIndex": 8,
+      "question": "Customer profitability analysis considers:",
+      "options": [
+        "A) Sales only",
+        "B) Revenue minus customer costs",
+        "C) Product costs only",
+        "D) Fixed costs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55b3464ab59fd6ff99631f16c96b29a47f91a2ff",
+      "sectionIndex": 8,
+      "question": "Life cycle costing includes:",
+      "options": [
+        "A) Production costs only",
+        "B) All costs from design to disposal",
+        "C) Current costs only",
+        "D) Variable costs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cfccaaa22ff46971af74ea2ce27de3159b93327",
+      "sectionIndex": 8,
+      "question": "Kaizen costing emphasizes:",
+      "options": [
+        "A) Standard costs",
+        "B) Continuous improvement",
+        "C) One-time reduction",
+        "D) Increasing prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f1716f4f39ac985455c4bda204f9df2dad3057d",
+      "sectionIndex": 8,
+      "question": "Strategic management accounting:",
+      "options": [
+        "A) Focuses internally only",
+        "B) Includes external analysis",
+        "C) Ignores competition",
+        "D) Short-term only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c18d926fdc335db9e66b80c6c4dd80bbe682ba0",
+      "sectionIndex": 9,
+      "question": "Professional skepticism requires auditors to:",
+      "options": [
+        "A) Distrust everyone",
+        "B) Question and verify",
+        "C) Accept all explanations",
+        "D) Avoid judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d06bc39f7bf25174e7a6c93365ef179c45149c5",
+      "sectionIndex": 9,
+      "question": "Independence is impaired by:",
+      "options": [
+        "A) Any client contact",
+        "B) Financial interest in client",
+        "C) Professional services",
+        "D) Industry knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ad6c854068d063de08ea94494dcdaeb0d465960",
+      "sectionIndex": 9,
+      "question": "Confidentiality can be breached when:",
+      "options": [
+        "A) Never",
+        "B) Legal requirement exists",
+        "C) Client requests",
+        "D) Fees unpaid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41086f569824bb491c2da3a8e6099681de3c353e",
+      "sectionIndex": 9,
+      "question": "Due professional care means:",
+      "options": [
+        "A) Perfect work",
+        "B) Competent performance",
+        "C) Minimal effort",
+        "D) Maximum fees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6e692e14a8ba060c7fff2a48f28f3db1785f083",
+      "sectionIndex": 9,
+      "question": "Conflicts of interest should be:",
+      "options": [
+        "A) Hidden",
+        "B) Disclosed and managed",
+        "C) Ignored",
+        "D) Exploited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc49b82e675c7c644530a1ac5e1f71ce73ef16f1",
+      "sectionIndex": 9,
+      "question": "Quality control systems ensure:",
+      "options": [
+        "A) Profit maximization",
+        "B) Compliance with standards",
+        "C) Client satisfaction only",
+        "D) Minimal work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59c392a039a4c1c482e9909b96a8ce4ebce9694a",
+      "sectionIndex": 9,
+      "question": "Continuing professional education is:",
+      "options": [
+        "A) Optional",
+        "B) Required for competence",
+        "C) One-time requirement",
+        "D) Not necessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29d6d7889c8f703244fe24c7ae340c5cf6fe1c0d",
+      "sectionIndex": 9,
+      "question": "Ethical threats include:",
+      "options": [
+        "A) Self-interest only",
+        "B) Multiple types",
+        "C) No real threats",
+        "D) Client threats only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45f571575be566886ae40644b814beeeb93c7e1f",
+      "sectionIndex": 9,
+      "question": "Safeguards against threats can be:",
+      "options": [
+        "A) Ignored",
+        "B) Professional or firm-based",
+        "C) Not needed",
+        "D) Client-provided"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d3a933c5a2ec2cd87d3460c18d88a4cbd8cf168",
+      "sectionIndex": 9,
+      "question": "Professional judgment requires:",
+      "options": [
+        "A) Following rules blindly",
+        "B) Informed decision-making",
+        "C) No documentation",
+        "D) Avoiding decisions"
+      ],
+      "correct": "B"
+    }
+  ]
+}

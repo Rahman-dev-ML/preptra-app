@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:49:19.883Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "ca7082213e56924ff9528ac68ebde9cd7c2e9970",
+      "sectionIndex": 0,
+      "question": "Res Judicata means:",
+      "options": [
+        "A) A pending case",
+        "B) A decided matter",
+        "C) A new case",
+        "D) An appeal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3ae8915d681142df714a140de22e6f58611f9db",
+      "sectionIndex": 0,
+      "question": "Res Sub Judice refers to:",
+      "options": [
+        "A) A decided case",
+        "B) A pending case",
+        "C) A dismissed case",
+        "D) An executed case"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd8352e50f9bf9bdaf785e0152b15a532b96710c",
+      "sectionIndex": 0,
+      "question": "A plaint is:",
+      "options": [
+        "A) A written complaint",
+        "B) An oral argument",
+        "C) A judgment",
+        "D) An appeal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fd43896ab448114bf6ea193864470416122ef4f9",
+      "sectionIndex": 0,
+      "question": "A decree is:",
+      "options": [
+        "A) An interim order",
+        "B) A final decision",
+        "C) A petition",
+        "D) A complaint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "855bf57ff503692c750ca9539e5fd58d2b087e95",
+      "sectionIndex": 0,
+      "question": "Mesne profits means:",
+      "options": [
+        "A) Future profits",
+        "B) Past profits",
+        "C) Profits received by wrongful possession",
+        "D) Legal profits"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0d477ad0445af336c116026f59dd6ba4b9289dfd",
+      "sectionIndex": 0,
+      "question": "The inherent powers of court are contained in Section:",
+      "options": [
+        "A) 151",
+        "B) 115",
+        "C) 100",
+        "D) 89"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4f222cdd7625c207c0947e85120e8f2b517de620",
+      "sectionIndex": 0,
+      "question": "A temporary injunction is:",
+      "options": [
+        "A) Permanent",
+        "B) For a limited period",
+        "C) Forever binding",
+        "D) Non-appealable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "716ec00d2f1ddc150a69be90802c4381eb601069",
+      "sectionIndex": 0,
+      "question": "Jurisdiction means:",
+      "options": [
+        "A) Power to hear cases",
+        "B) Area of court",
+        "C) Court building",
+        "D) Legal fees"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "80da2eae007e352943e8d18805955aad58ffcee5",
+      "sectionIndex": 0,
+      "question": "Pecuniary jurisdiction relates to:",
+      "options": [
+        "A) Time limits",
+        "B) Monetary value",
+        "C) Geographic area",
+        "D) Subject matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28be952b6ffc5e5e03db52fcbc6a34f5a00c18f2",
+      "sectionIndex": 0,
+      "question": "An interpleader suit is filed when:",
+      "options": [
+        "A) Two parties claim same property",
+        "B) One party defaults",
+        "C) Court lacks jurisdiction",
+        "D) Appeal is pending"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c82532ce47328481aefeb06d556b7aedb5b565c5",
+      "sectionIndex": 1,
+      "question": "A contract is:",
+      "options": [
+        "A) An agreement enforceable by law",
+        "B) Any promise",
+        "C) A social agreement",
+        "D) A moral obligation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a6cc3a7fb80f49abe3acd42c05ba2dd8b1256e32",
+      "sectionIndex": 1,
+      "question": "An offer must be:",
+      "options": [
+        "A) Vague",
+        "B) Clear and definite",
+        "C) Conditional",
+        "D) Oral only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f618fe1d630ad196fdd9b5619d6616c77520408e",
+      "sectionIndex": 1,
+      "question": "Acceptance must be:",
+      "options": [
+        "A) Conditional",
+        "B) Absolute and unqualified",
+        "C) Delayed",
+        "D) Implied only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4675380e3fbd0305b8038938579809258d9b5dbf",
+      "sectionIndex": 1,
+      "question": "Consideration means:",
+      "options": [
+        "A) Thinking about contract",
+        "B) Price for promise",
+        "C) Future payment",
+        "D) Past payment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a160b937898460b9f14e6d7ce89aab1cb8e1a8a8",
+      "sectionIndex": 1,
+      "question": "A minor is a person under the age of:",
+      "options": [
+        "A) 16 years",
+        "B) 18 years",
+        "C) 21 years",
+        "D) 25 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97193cc06affb962793f0645962a766c33536b69",
+      "sectionIndex": 1,
+      "question": "A void contract is:",
+      "options": [
+        "A) Valid",
+        "B) Enforceable",
+        "C) Not enforceable",
+        "D) Partially valid"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "43334d4c6239b1d94437b22fc5bd59dadc84550b",
+      "sectionIndex": 1,
+      "question": "A voidable contract can be:",
+      "options": [
+        "A) Never enforced",
+        "B) Enforced at option of one party",
+        "C) Always enforced",
+        "D) Partially enforced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da371834a37e2b12a0ebbc3e9a1f73b2a2c96605",
+      "sectionIndex": 1,
+      "question": "Coercion involves:",
+      "options": [
+        "A) Love and affection",
+        "B) Threat or force",
+        "C) Persuasion",
+        "D) Advice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5396757ef74b5f9ea5e43be35c91e102e9946973",
+      "sectionIndex": 1,
+      "question": "Undue influence occurs between:",
+      "options": [
+        "A) Strangers",
+        "B) Parties in fiduciary relationship",
+        "C) Enemies",
+        "D) Competitors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9571cc7f67bcc0d5f0d53414934b1cb2ecfcae96",
+      "sectionIndex": 1,
+      "question": "A contingent contract depends on:",
+      "options": [
+        "A) Past event",
+        "B) Present event",
+        "C) Future uncertain event",
+        "D) Certain event"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "49460ab1ed50ed1fb759ccc37736f29d03b1706e",
+      "sectionIndex": 2,
+      "question": "A tort is:",
+      "options": [
+        "A) A crime",
+        "B) A civil wrong",
+        "C) A contract",
+        "D) A statute"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53c907e6f227c55028764467b6f9b0c588999afe",
+      "sectionIndex": 2,
+      "question": "Negligence requires:",
+      "options": [
+        "A) Intention",
+        "B) Duty of care",
+        "C) Malice",
+        "D) Contract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "997314eee8e05434c1c52238222d870979e3483c",
+      "sectionIndex": 2,
+      "question": "Defamation means:",
+      "options": [
+        "A) Physical harm",
+        "B) Injury to reputation",
+        "C) Breach of contract",
+        "D) Criminal act"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a332fa82cdbdda8ba4972e5e636a4adb52c3bb5",
+      "sectionIndex": 2,
+      "question": "Libel is:",
+      "options": [
+        "A) Spoken defamation",
+        "B) Written defamation",
+        "C) Physical assault",
+        "D) Trespass"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e484921870d94d1e04cd899c2eff3ff2aa96e76b",
+      "sectionIndex": 2,
+      "question": "Slander is:",
+      "options": [
+        "A) Written defamation",
+        "B) Spoken defamation",
+        "C) Physical harm",
+        "D) Mental torture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67cf838fdc1cbfd48e3027203bdce95daa0b0a9d",
+      "sectionIndex": 2,
+      "question": "Battery involves:",
+      "options": [
+        "A) Words only",
+        "B) Physical contact",
+        "C) Threats only",
+        "D) Negligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d3c8e2e9216e75ae120420930edaadf3ba8cdca",
+      "sectionIndex": 2,
+      "question": "Assault is:",
+      "options": [
+        "A) Actual physical harm",
+        "B) Threat of physical harm",
+        "C) Verbal abuse",
+        "D) Defamation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a7a8274243b15eaf50a15838bfe3766b9ef28c2",
+      "sectionIndex": 2,
+      "question": "Trespass is entry:",
+      "options": [
+        "A) With permission",
+        "B) Without permission",
+        "C) By invitation",
+        "D) By contract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d8540c105c00684b5040340b0ae1218aade5093",
+      "sectionIndex": 2,
+      "question": "Nuisance affects:",
+      "options": [
+        "A) One person only",
+        "B) Use and enjoyment of property",
+        "C) Criminal law",
+        "D) Contract rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "477dab78e3ca144ea90a9cd545c6c5df2ac37d0e",
+      "sectionIndex": 2,
+      "question": "Strict liability means liability:",
+      "options": [
+        "A) With fault",
+        "B) Without fault",
+        "C) With negligence",
+        "D) With intention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fb99be607b02aa7bd8aa191f984b4fa6c81f26a",
+      "sectionIndex": 3,
+      "question": "FIR stands for:",
+      "options": [
+        "A) Final Information Report",
+        "B) First Information Report",
+        "C) Formal Investigation Report",
+        "D) Filed Investigation Report"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "188ac90d6f81c86d80c4c8c015ba738a4d36f1ec",
+      "sectionIndex": 3,
+      "question": "A complaint can be filed by:",
+      "options": [
+        "A) Police only",
+        "B) Aggrieved person",
+        "C) Judge only",
+        "D) Lawyer only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "950b703ad5cc6920f832929916e0709e4ebfe524",
+      "sectionIndex": 3,
+      "question": "Cognizable offence means:",
+      "options": [
+        "A) Police can arrest without warrant",
+        "B) Police cannot arrest",
+        "C) Only court can arrest",
+        "D) No arrest allowed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "09b29b12b9a8b314cb4ae054f7cfa9a65f16f4ad",
+      "sectionIndex": 3,
+      "question": "Non-cognizable offence requires:",
+      "options": [
+        "A) No warrant",
+        "B) Court warrant for arrest",
+        "C) Direct arrest",
+        "D) Immediate arrest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78e291005784279de6d00d608071d2e0ee9d4a49",
+      "sectionIndex": 3,
+      "question": "Bail is:",
+      "options": [
+        "A) Punishment",
+        "B) Release from custody",
+        "C) Fine",
+        "D) Imprisonment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ea6cc049bdb2236876390dc141d994f1e024838",
+      "sectionIndex": 3,
+      "question": "Anticipatory bail is sought:",
+      "options": [
+        "A) After arrest",
+        "B) Before arrest",
+        "C) During trial",
+        "D) After conviction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c05f467f7ea06305344d0ea288351702810c6c6d",
+      "sectionIndex": 3,
+      "question": "A confession to police is:",
+      "options": [
+        "A) Always admissible",
+        "B) Not admissible",
+        "C) Partially admissible",
+        "D) Admissible with permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "791be51c7d1d4f1e9e83fc73000edb6714d6486f",
+      "sectionIndex": 3,
+      "question": "Summary trial is for:",
+      "options": [
+        "A) Serious offences",
+        "B) Petty offences",
+        "C) All offences",
+        "D) Murder cases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "800808ea98d8b92a55e0e3a6344448fbd463511c",
+      "sectionIndex": 3,
+      "question": "Discharge means:",
+      "options": [
+        "A) Conviction",
+        "B) Release without trial",
+        "C) Punishment",
+        "D) Fine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d286414d5002cdcd795203fd96c92ea78308ac4",
+      "sectionIndex": 3,
+      "question": "Acquittal means:",
+      "options": [
+        "A) Found guilty",
+        "B) Found not guilty",
+        "C) Postponed trial",
+        "D) Transferred case"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e287470c14e528bbfa73c513e8e39ebb74f5195",
+      "sectionIndex": 4,
+      "question": "Mens rea means:",
+      "options": [
+        "A) Physical act",
+        "B) Guilty mind",
+        "C) Innocent mind",
+        "D) No intention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67f4acd5ff2099c46abd44167ce19828bf592a1f",
+      "sectionIndex": 4,
+      "question": "Actus reus means:",
+      "options": [
+        "A) Mental element",
+        "B) Physical act",
+        "C) Intention only",
+        "D) Motive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15a40e08b7684eacfacf98042e45fe86ad94d128",
+      "sectionIndex": 4,
+      "question": "Murder is also known as:",
+      "options": [
+        "A) Qatl-e-Khata",
+        "B) Qatl-e-Amd",
+        "C) Hurt",
+        "D) Assault"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c671e2f9e6c2f6bf280cef5f67063e4f61bd3a1",
+      "sectionIndex": 4,
+      "question": "Theft becomes robbery when:",
+      "options": [
+        "A) At night",
+        "B) With force or fear",
+        "C) Of large amount",
+        "D) From house"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "556b39c68fd666693d66ddb5dbf0427db15ccf36",
+      "sectionIndex": 4,
+      "question": "Extortion involves:",
+      "options": [
+        "A) Taking silently",
+        "B) Putting in fear",
+        "C) Finding property",
+        "D) Borrowing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27b38d2d836a98d92ffc64c6ea94aefd519fb545",
+      "sectionIndex": 4,
+      "question": "Kidnapping is taking away a:",
+      "options": [
+        "A) Adult with consent",
+        "B) Minor without consent",
+        "C) Property",
+        "D) Document"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36500aff0711746aaf995e6e8261cdd4a8477de4",
+      "sectionIndex": 4,
+      "question": "Abduction involves:",
+      "options": [
+        "A) Minors only",
+        "B) Force or deceit",
+        "C) Consent",
+        "D) Legal authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc85e9a4f937b22ba3a7afff85d798085222b964",
+      "sectionIndex": 4,
+      "question": "Criminal conspiracy requires minimum:",
+      "options": [
+        "A) One person",
+        "B) Two persons",
+        "C) Five persons",
+        "D) Ten persons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "983065bf1e7de5170541f455358341a9f1246780",
+      "sectionIndex": 4,
+      "question": "Right of private defence is available:",
+      "options": [
+        "A) Only to police",
+        "B) To every person",
+        "C) Only in court",
+        "D) Only to adults"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d2956982096291a655bdf678d7c41dab99f6b6a",
+      "sectionIndex": 4,
+      "question": "Diyat means:",
+      "options": [
+        "A) Punishment",
+        "B) Blood money",
+        "C) Imprisonment",
+        "D) Fine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50e0b538027642889a7b2145a333398f347c6914",
+      "sectionIndex": 5,
+      "question": "Evidence means:",
+      "options": [
+        "A) Only documents",
+        "B) Proof in court",
+        "C) Only oral statements",
+        "D) Only witnesses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5be561fd13a25118a4b8dac7bf2e6ab656e05210",
+      "sectionIndex": 5,
+      "question": "Primary evidence is:",
+      "options": [
+        "A) Copy of document",
+        "B) Original document",
+        "C) Oral account",
+        "D) Photocopy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b404d16712a84c5c968cc6c5beab0a8a6f6fdab",
+      "sectionIndex": 5,
+      "question": "Secondary evidence includes:",
+      "options": [
+        "A) Original only",
+        "B) Copies and oral accounts",
+        "C) Primary evidence",
+        "D) Direct evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adcbc1b7a4cbe92dc990296d7e4d47ce5217a98f",
+      "sectionIndex": 5,
+      "question": "A fact in issue is:",
+      "options": [
+        "A) Irrelevant fact",
+        "B) Disputed fact",
+        "C) Admitted fact",
+        "D) Proven fact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f805b195bfaaa0fa99b1824c74cafd0d16c6968",
+      "sectionIndex": 5,
+      "question": "Relevant facts are:",
+      "options": [
+        "A) All facts",
+        "B) Connected to facts in issue",
+        "C) Unrelated facts",
+        "D) Future facts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3689a943ec10d38f36bc886975dab810918ad46b",
+      "sectionIndex": 5,
+      "question": "Burden of proof in criminal cases lies on:",
+      "options": [
+        "A) Accused",
+        "B) Prosecution",
+        "C) Judge",
+        "D) Witness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8aa0eb94619caaed0daa0384a4422948b2985e58",
+      "sectionIndex": 5,
+      "question": "Burden of proof in civil cases lies on:",
+      "options": [
+        "A) Defendant only",
+        "B) Plaintiff initially",
+        "C) Judge",
+        "D) Court clerk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eee80a7d1b09e1c50febea8002c1ad9ccfcc284a",
+      "sectionIndex": 5,
+      "question": "A confession is:",
+      "options": [
+        "A) Denial of guilt",
+        "B) Admission of guilt",
+        "C) Neutral statement",
+        "D) Opinion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82434dbfa7ab72b522ece6da472df224370979a2",
+      "sectionIndex": 5,
+      "question": "An admission can be:",
+      "options": [
+        "A) Only written",
+        "B) Oral or written",
+        "C) Only by gesture",
+        "D) Only in court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a2c6ebfd76390f89183d5992a441e5a79461039",
+      "sectionIndex": 5,
+      "question": "Hearsay evidence is generally:",
+      "options": [
+        "A) Always admissible",
+        "B) Not admissible",
+        "C) Best evidence",
+        "D) Primary evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e601afdb60b40601c72562fa5e93c22c78c85ecb",
+      "sectionIndex": 6,
+      "question": "Arbitration is:",
+      "options": [
+        "A) Court proceeding",
+        "B) Alternative dispute resolution",
+        "C) Criminal trial",
+        "D) Appeal process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5395d6c2bb378b4a9a476afebbad0b60f1e7d44",
+      "sectionIndex": 6,
+      "question": "An arbitrator is:",
+      "options": [
+        "A) A judge",
+        "B) A neutral third party",
+        "C) A lawyer",
+        "D) A court clerk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60c4e9871eb299328f683176117d1344eec68504",
+      "sectionIndex": 6,
+      "question": "Arbitration agreement must be:",
+      "options": [
+        "A) Oral only",
+        "B) In writing",
+        "C) Implied",
+        "D) Assumed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cecd108493153e75b7811c3b5f0ddaa2c7ea6b40",
+      "sectionIndex": 6,
+      "question": "An arbitral award is:",
+      "options": [
+        "A) Court judgment",
+        "B) Arbitrator's decision",
+        "C) Settlement",
+        "D) Mediation outcome"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57e1ab2e11c8c9715ed153edd98c168a4123bfde",
+      "sectionIndex": 6,
+      "question": "Arbitration is generally:",
+      "options": [
+        "A) Slower than court",
+        "B) Faster than court",
+        "C) Same as court",
+        "D) More formal than court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff317c264b6978157c1246756922a409509d03fa",
+      "sectionIndex": 6,
+      "question": "Mediation involves:",
+      "options": [
+        "A) Binding decision",
+        "B) Facilitated negotiation",
+        "C) Court order",
+        "D) Punishment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b9c325c393cd0f7a3b5f30d7b8b2109b8d8392b",
+      "sectionIndex": 6,
+      "question": "Conciliation is:",
+      "options": [
+        "A) Adversarial",
+        "B) Collaborative",
+        "C) Punitive",
+        "D) Criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "690f51210f80f51bcba39857dfae15d32b758479",
+      "sectionIndex": 6,
+      "question": "ADR stands for:",
+      "options": [
+        "A) Advanced Dispute Resolution",
+        "B) Alternative Dispute Resolution",
+        "C) Arbitrary Dispute Resolution",
+        "D) Appellate Dispute Resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b3aef4a7f086562691c820937cc2a1b28e9f011",
+      "sectionIndex": 6,
+      "question": "Arbitration can be:",
+      "options": [
+        "A) Only domestic",
+        "B) Domestic or international",
+        "C) Only international",
+        "D) Only commercial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bab2cdcf5f820377b048a872bdc584f297bae79",
+      "sectionIndex": 6,
+      "question": "The seat of arbitration refers to:",
+      "options": [
+        "A) Physical location",
+        "B) Legal jurisdiction",
+        "C) Arbitrator's office",
+        "D) Court location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08672d88fe52087ef066b7fcb8a485df46edcaea",
+      "sectionIndex": 7,
+      "question": "Estoppel prevents a person from:",
+      "options": [
+        "A) Filing suit",
+        "B) Denying previous position",
+        "C) Giving evidence",
+        "D) Appealing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e60c8c129ddab734f59e581642456916b5b0870",
+      "sectionIndex": 7,
+      "question": "Alibi means:",
+      "options": [
+        "A) False evidence",
+        "B) Elsewhere at time of offence",
+        "C) Confession",
+        "D) Witness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8e9e1117c441a4719dd771fb4f52d593ce1a991",
+      "sectionIndex": 7,
+      "question": "Vicarious liability means:",
+      "options": [
+        "A) Personal liability",
+        "B) Liability for another's acts",
+        "C) No liability",
+        "D) Criminal liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64e2bd3f13db994cfab7cb7f31aefbe8f72fe674",
+      "sectionIndex": 7,
+      "question": "Damnum sine injuria means:",
+      "options": [
+        "A) Damage with legal injury",
+        "B) Damage without legal injury",
+        "C) No damage",
+        "D) Criminal damage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee764d0053b5330496c32187533e77d132d8f701",
+      "sectionIndex": 7,
+      "question": "Injuria sine damno means:",
+      "options": [
+        "A) No legal right violated",
+        "B) Legal right violated without damage",
+        "C) Both damage and injury",
+        "D) Neither damage nor injury"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b30bc486e21f36bc5759bd5b51e1dd34d1a7587c",
+      "sectionIndex": 7,
+      "question": "Res ipsa loquitur means:",
+      "options": [
+        "A) The thing speaks for itself",
+        "B) Silent evidence",
+        "C) No evidence needed",
+        "D) Oral evidence only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c6cde23a009e47c3e2146c1c19832d1dab97ef40",
+      "sectionIndex": 7,
+      "question": "Contributory negligence is:",
+      "options": [
+        "A) Full defence",
+        "B) Partial defence",
+        "C) No defence",
+        "D) Criminal defence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25fef410532db2f62482bbe0bf5bb3212f108eef",
+      "sectionIndex": 7,
+      "question": "Volenti non fit injuria means:",
+      "options": [
+        "A) Involuntary act",
+        "B) Voluntary assumption of risk",
+        "C) No consent",
+        "D) Forced consent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a47be70bf3783f4f0a458b94e8d90d77a2d022a9",
+      "sectionIndex": 7,
+      "question": "De minimis non curat lex means:",
+      "options": [
+        "A) Law cares for everything",
+        "B) Law doesn't care for trifles",
+        "C) Maximum penalty",
+        "D) Strict liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b17c48c49ff1099a271a12a12a8b9e7241ed65db",
+      "sectionIndex": 7,
+      "question": "Audi alteram partem means:",
+      "options": [
+        "A) One-sided hearing",
+        "B) Hear the other side",
+        "C) No hearing",
+        "D) Written hearing only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7071257cf27824b52856d8f427d24ef88d51fa5e",
+      "sectionIndex": 8,
+      "question": "The highest court in Pakistan is:",
+      "options": [
+        "A) High Court",
+        "B) Supreme Court",
+        "C) Federal Shariat Court",
+        "D) Session Court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a72787b29e2974687191a09134e8a50b6437e47a",
+      "sectionIndex": 8,
+      "question": "A Sessions Court tries:",
+      "options": [
+        "A) Civil cases only",
+        "B) Serious criminal cases",
+        "C) Constitutional cases",
+        "D) Revenue cases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cf4d17842da6b1b7fad2893649eaab6548d14de",
+      "sectionIndex": 8,
+      "question": "A Civil Judge tries:",
+      "options": [
+        "A) Criminal cases",
+        "B) Civil cases",
+        "C) Constitutional cases",
+        "D) All cases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0434303bf9266c987d7fd63e29f82d3f62abb380",
+      "sectionIndex": 8,
+      "question": "An appeal from Civil Judge goes to:",
+      "options": [
+        "A) Supreme Court directly",
+        "B) District Court",
+        "C) Session Court",
+        "D) Magistrate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f46033bf969e5ec61ff2b56c5dac7ac8b7a59b07",
+      "sectionIndex": 8,
+      "question": "Original jurisdiction means:",
+      "options": [
+        "A) First instance trial",
+        "B) Appeal only",
+        "C) Review only",
+        "D) Revision only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4ccfee61686f0feffca016237d48de1e26256c3f",
+      "sectionIndex": 8,
+      "question": "Appellate jurisdiction means:",
+      "options": [
+        "A) Original trial",
+        "B) Hearing appeals",
+        "C) Advisory opinion",
+        "D) Mediation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfe6015a5948b26e203d276848b871606f6fa5f0",
+      "sectionIndex": 8,
+      "question": "A decree can be:",
+      "options": [
+        "A) Preliminary or final",
+        "B) Only final",
+        "C) Only preliminary",
+        "D) Neither"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6ad175320e2f0258e027ee917e7787902befe834",
+      "sectionIndex": 8,
+      "question": "An ex-parte decree is passed when:",
+      "options": [
+        "A) Both parties present",
+        "B) Defendant absent",
+        "C) Plaintiff absent",
+        "D) Judge absent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d6a172b0dd2e79d10dba037660d3df36a8bfac2",
+      "sectionIndex": 8,
+      "question": "Limitation period is:",
+      "options": [
+        "A) Maximum time to file suit",
+        "B) Minimum time to file suit",
+        "C) Trial duration",
+        "D) Appeal time"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9af4167eae3b3af9d9bec44ac6daafe57db4a294",
+      "sectionIndex": 8,
+      "question": "A caveat is:",
+      "options": [
+        "A) A judgment",
+        "B) Notice to court",
+        "C) An appeal",
+        "D) A complaint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1c67a2d69c72b0c2283c7a066e403eee1778b87",
+      "sectionIndex": 9,
+      "question": "Judicial precedent means:",
+      "options": [
+        "A) Future decisions",
+        "B) Past decisions as authority",
+        "C) Current law",
+        "D) Statute only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d68c4a5b2ca7d0fc29776d3e90ccecb0c3e60c36",
+      "sectionIndex": 9,
+      "question": "Ratio decidendi is:",
+      "options": [
+        "A) Facts of case",
+        "B) Reason for decision",
+        "C) Dissenting opinion",
+        "D) Obiter dicta"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "094a240702d3c670cb5908d95f4cc6dc5d5daf1b",
+      "sectionIndex": 9,
+      "question": "Obiter dicta means:",
+      "options": [
+        "A) Binding statement",
+        "B) Passing remarks",
+        "C) Main judgment",
+        "D) Statute"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c06033aa23b120a3bfe02ada7ee1322c2a3747c",
+      "sectionIndex": 9,
+      "question": "A writ is:",
+      "options": [
+        "A) A law",
+        "B) Court order",
+        "C) Contract",
+        "D) Agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01816ad55e9852bde39f546eca0bd160ff00eb56",
+      "sectionIndex": 9,
+      "question": "Habeas corpus is for:",
+      "options": [
+        "A) Property rights",
+        "B) Illegal detention",
+        "C) Money recovery",
+        "D) Defamation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f55fd8213724e9b64bacf269ca8bf1eda47e5bdf",
+      "sectionIndex": 9,
+      "question": "Natural justice includes:",
+      "options": [
+        "A) Written law only",
+        "B) Fair hearing principles",
+        "C) Criminal law",
+        "D) Civil law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b91d094b2465fab02363ee6bda1cc344cc23af86",
+      "sectionIndex": 9,
+      "question": "Sub judice means:",
+      "options": [
+        "A) After judgment",
+        "B) Under judicial consideration",
+        "C) No jurisdiction",
+        "D) Final decision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5967998ff5549b845a71c12b9c40a8d98f533626",
+      "sectionIndex": 9,
+      "question": "Prima facie means:",
+      "options": [
+        "A) Final proof",
+        "B) At first sight",
+        "C) No evidence",
+        "D) Conclusive proof"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42d0170fddf446ab073ac32662f4994483be5b33",
+      "sectionIndex": 9,
+      "question": "Suo moto means:",
+      "options": [
+        "A) On application",
+        "B) On its own motion",
+        "C) On appeal",
+        "D) On complaint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1825c854e4d13c1889ec20f8056c6b334cd11934",
+      "sectionIndex": 9,
+      "question": "Legal fiction is:",
+      "options": [
+        "A) False statement",
+        "B) Assumed fact for legal purpose",
+        "C) True fact",
+        "D) Criminal act"
+      ],
+      "correct": "B"
+    }
+  ]
+}

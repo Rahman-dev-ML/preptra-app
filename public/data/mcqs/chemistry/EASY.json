@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:43:04.509Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "9b362b52f023167e75cc06eee9e8014f06d44af0",
+      "sectionIndex": 0,
+      "question": "According to Lowry-Brønsted theory, an acid is:",
+      "options": [
+        "A) A proton acceptor",
+        "B) A proton donor",
+        "C) An electron donor",
+        "D) An electron acceptor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60682c330b34e2f89a21fbf47ed288cbf0138c9b",
+      "sectionIndex": 0,
+      "question": "Which of the following is a Lewis base?",
+      "options": [
+        "A) BF,f",
+        "B) AlCl,f",
+        "C) NH,f",
+        "D) H+"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0a297cdb3481706915e01d79d098c97aabb371ab",
+      "sectionIndex": 0,
+      "question": "The pH of a neutral solution at 25°C is:",
+      "options": [
+        "A) 0",
+        "B) 7",
+        "C) 14",
+        "D) 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92a051cef34139ede05626e8f0267b769afde98e",
+      "sectionIndex": 0,
+      "question": "A buffer solution resists changes in:",
+      "options": [
+        "A) Temperature",
+        "B) Volume",
+        "C) pH",
+        "D) Pressure"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b38069dde8af23f4977c6eb9f5915689dc15f423",
+      "sectionIndex": 0,
+      "question": "Which acid is stronger?",
+      "options": [
+        "A) Acetic acid (pKa = 4.76)",
+        "B) Formic acid (pKa = 3.75)",
+        "C) Both are equal",
+        "D) Cannot be determined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb82edbcc5d3959fdfe123a0d61bb31aef4f2d01",
+      "sectionIndex": 0,
+      "question": "In acid-base catalysis, the catalyst:",
+      "options": [
+        "A) Is consumed in the reaction",
+        "B) Speeds up the reaction",
+        "C) Changes the equilibrium position",
+        "D) Increases activation energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e2f79192d586062c6ccfbdfbea8ddf5c3445de5",
+      "sectionIndex": 0,
+      "question": "A soft base typically contains:",
+      "options": [
+        "A) Small, highly electronegative atoms",
+        "B) Large, polarizable atoms",
+        "C) Only hydrogen atoms",
+        "D) Only metal atoms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7f353b734a3b2873fe58ee60d75014a8ff5a3ff",
+      "sectionIndex": 0,
+      "question": "The pH of a 0.1M HCl solution is approximately:",
+      "options": [
+        "A) 1",
+        "B) 7",
+        "C) 13",
+        "D) 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "651e22b95abee64817f2b89fbb4f83edd439d03b",
+      "sectionIndex": 0,
+      "question": "BCl,f acts as a Lewis acid because it:",
+      "options": [
+        "A) Donates protons",
+        "B) Accepts electron pairs",
+        "C) Donates electrons",
+        "D) Accepts protons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae7f7da45282f83bf16c80306e0323202fbdeb15",
+      "sectionIndex": 0,
+      "question": "Buffer solutions are commonly used in:",
+      "options": [
+        "A) Biological systems",
+        "B) Industrial processes",
+        "C) Laboratory experiments",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "fd0b92f3a2efea895e9763138c072b1284625a52",
+      "sectionIndex": 1,
+      "question": "The first law of thermodynamics deals with:",
+      "options": [
+        "A) Entropy",
+        "B) Energy conservation",
+        "C) Spontaneity",
+        "D) Equilibrium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80f163358ca4520a88401325b0bab78cf6656f83",
+      "sectionIndex": 1,
+      "question": "An isothermal process occurs at constant:",
+      "options": [
+        "A) Pressure",
+        "B) Volume",
+        "C) Temperature",
+        "D) Energy"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5e812f3ad0cfe65234738f8d63979075b99016b6",
+      "sectionIndex": 1,
+      "question": "The second law of thermodynamics states that:",
+      "options": [
+        "A) Energy is conserved",
+        "B) Entropy of universe increases",
+        "C) Mass is conserved",
+        "D) Temperature is constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4941b4a87bd9810ac1d2811956bb3e8c656686be",
+      "sectionIndex": 1,
+      "question": "Free energy is represented by the symbol:",
+      "options": [
+        "A) H",
+        "B) S",
+        "C) G",
+        "D) U"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "604412aa4b34dbfdb0f50d0a23d20d0e35fbce6a",
+      "sectionIndex": 1,
+      "question": "An adiabatic process involves:",
+      "options": [
+        "A) No heat exchange",
+        "B) No work done",
+        "C) Constant pressure",
+        "D) Constant volume"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "180b9a20fa710e0db3a69019888b9557f8712025",
+      "sectionIndex": 1,
+      "question": "The efficiency of a heat engine is always:",
+      "options": [
+        "A) 100%",
+        "B) Greater than 100%",
+        "C) Less than 100%",
+        "D) Zero"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "86ffaa7f06226069b30ddc0212e52650e3361ee5",
+      "sectionIndex": 1,
+      "question": "\"G < 0 indicates a:",
+      "options": [
+        "A) Non-spontaneous process",
+        "B) Spontaneous process",
+        "C) Equilibrium state",
+        "D) Reversible process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7071fc3bb082fc41d89c30513a69f4a7085839c6",
+      "sectionIndex": 1,
+      "question": "Enthalpy is represented by:",
+      "options": [
+        "A) S",
+        "B) H",
+        "C) G",
+        "D) E"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac69e3e572b254084071ffeb044a159b0be935f2",
+      "sectionIndex": 1,
+      "question": "The Clausius-Clapeyron equation relates:",
+      "options": [
+        "A) Pressure and volume",
+        "B) Temperature and pressure",
+        "C) Energy and entropy",
+        "D) Work and heat"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f41e5db0162b6554a48b1a04e0be8ac20217e6af",
+      "sectionIndex": 1,
+      "question": "At equilibrium, \"G equals:",
+      "options": [
+        "A) 1",
+        "B) -1",
+        "C) 0",
+        "D) ^z"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e3c837fcc7a64ff5bfbfaf28a9d5f8c8f490a603",
+      "sectionIndex": 2,
+      "question": "The coordination number of [Co(NH,f),?]3+ is:",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 6",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "06d4252e8fb5de221bbcd17e70fda97e7016ac25",
+      "sectionIndex": 2,
+      "question": "Crystal field splitting occurs due to:",
+      "options": [
+        "A) Nuclear attraction",
+        "B) Ligand field effects",
+        "C) Magnetic fields",
+        "D) Temperature changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fba5179e74b5356d5e88ebba77f04b3b16af7ecd",
+      "sectionIndex": 2,
+      "question": "In octahedral complexes, d-orbitals split into:",
+      "options": [
+        "A) Two groups",
+        "B) Three groups",
+        "C) Four groups",
+        "D) Five groups"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "66d22117c92f44f9cd041c514e4ee3bfcf09c103",
+      "sectionIndex": 2,
+      "question": "The color of transition metal complexes is due to:",
+      "options": [
+        "A) Nuclear transitions",
+        "B) d-d transitions",
+        "C) s-p transitions",
+        "D) Vibrational transitions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46344bc9292707939cb30909738bec5a379119b7",
+      "sectionIndex": 2,
+      "question": "10Dq represents:",
+      "options": [
+        "A) Bond energy",
+        "B) Crystal field splitting energy",
+        "C) Ionization energy",
+        "D) Hydration energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aed4f90807d9028924e98007aa03d8680838596d",
+      "sectionIndex": 2,
+      "question": "High spin complexes have:",
+      "options": [
+        "A) Maximum paired electrons",
+        "B) Maximum unpaired electrons",
+        "C) No electrons",
+        "D) Only paired electrons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "704f7a7ddca5797770f72e712d802678168af9d6",
+      "sectionIndex": 2,
+      "question": "The spectrochemical series arranges ligands by:",
+      "options": [
+        "A) Size",
+        "B) Charge",
+        "C) Field strength",
+        "D) Mass"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f05bd0ef73ae3f4f42684440b88309efb969da75",
+      "sectionIndex": 2,
+      "question": "[Ti(H,,O),?]3+ appears violet because it absorbs:",
+      "options": [
+        "A) Violet light",
+        "B) Yellow-green light",
+        "C) Red light",
+        "D) Blue light"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "227c1bbecc9ae2af8a1edab37337db0781c9b804",
+      "sectionIndex": 2,
+      "question": "Werner's theory explains:",
+      "options": [
+        "A) Atomic structure",
+        "B) Coordination compounds",
+        "C) Organic reactions",
+        "D) Gas behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdafe514e2ec9709ba3c2002d77dd4ed63220157",
+      "sectionIndex": 2,
+      "question": "The chelate effect refers to:",
+      "options": [
+        "A) Color change",
+        "B) Enhanced stability",
+        "C) Magnetic properties",
+        "D) Reduced reactivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f6f7106ce3e6befffb2270360635be74cecd03c",
+      "sectionIndex": 3,
+      "question": "The order of a reaction is determined by:",
+      "options": [
+        "A) Stoichiometry",
+        "B) Experiment",
+        "C) Temperature",
+        "D) Pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "199a4351c7c13715732c532a9748a47a302bfba6",
+      "sectionIndex": 3,
+      "question": "A first-order reaction has a half-life that is:",
+      "options": [
+        "A) Dependent on concentration",
+        "B) Independent of concentration",
+        "C) Zero",
+        "D) Infinite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74f577677ac4a58b9b605dc84384f7d1d219c25d",
+      "sectionIndex": 3,
+      "question": "A catalyst affects:",
+      "options": [
+        "A) Equilibrium position",
+        "B) Activation energy",
+        "C) Final products",
+        "D) Enthalpy change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1900c214a89652d986ff79ca5538413ae649f982",
+      "sectionIndex": 3,
+      "question": "The rate of reaction increases with temperature because:",
+      "options": [
+        "A) Volume increases",
+        "B) More molecular collisions occur",
+        "C) Pressure decreases",
+        "D) Products are more stable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73a82397d8ea64aea028e90176d93c92ea3f7e37",
+      "sectionIndex": 3,
+      "question": "Molecularity refers to:",
+      "options": [
+        "A) Number of products",
+        "B) Number of molecules in elementary step",
+        "C) Reaction rate",
+        "D) Temperature dependence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3c1486b386457e45b2e07b284497aba90ab5f29",
+      "sectionIndex": 3,
+      "question": "For a second-order reaction, the unit of rate constant is:",
+      "options": [
+        "A) s-1",
+        "B) M-1s-1",
+        "C) M-2s-1",
+        "D) Ms-1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c26ee9e1142adfbe7920b2ec5ebb777a79841231",
+      "sectionIndex": 3,
+      "question": "The Arrhenius equation relates rate constant to:",
+      "options": [
+        "A) Pressure",
+        "B) Volume",
+        "C) Temperature",
+        "D) Concentration"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fae0c75e0e34aa9a30b05140da251094a0be211a",
+      "sectionIndex": 3,
+      "question": "A zero-order reaction has a rate that is:",
+      "options": [
+        "A) Proportional to concentration",
+        "B) Independent of concentration",
+        "C) Proportional to square of concentration",
+        "D) Inversely proportional to concentration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d101f407c265220c0ee5e24f5966f8ddbea93983",
+      "sectionIndex": 3,
+      "question": "Activation energy is:",
+      "options": [
+        "A) Energy of products",
+        "B) Energy barrier for reaction",
+        "C) Energy of reactants",
+        "D) Heat of reaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9499283b0b6d3c90453b4e9d9658700d1927cbde",
+      "sectionIndex": 3,
+      "question": "Pseudo first-order reactions occur when:",
+      "options": [
+        "A) One reactant is in large excess",
+        "B) Temperature is constant",
+        "C) Catalyst is present",
+        "D) Products are removed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9f2f3c13a12a8fa309ab6a5f005b49e4f26655f6",
+      "sectionIndex": 4,
+      "question": "Benzene undergoes primarily:",
+      "options": [
+        "A) Addition reactions",
+        "B) Substitution reactions",
+        "C) Elimination reactions",
+        "D) Rearrangement reactions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fc9fd755e77bdc78cff7c08ad8150fcb3e5f407",
+      "sectionIndex": 4,
+      "question": "Grignard reagents have the general formula:",
+      "options": [
+        "A) RMgX",
+        "B) RLi",
+        "C) RNa",
+        "D) RZnX"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "dc6cd297990ae1ed218f80fa11a0b8f4ca16e74d",
+      "sectionIndex": 4,
+      "question": "The hybridization of carbon in methane is:",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) sp3d"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e087f7aa92503844e34fd0357b8709c27d5aa89f",
+      "sectionIndex": 4,
+      "question": "Friedel-Crafts reaction is used for:",
+      "options": [
+        "A) Oxidation",
+        "B) Reduction",
+        "C) Alkylation/Acylation",
+        "D) Hydrolysis"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5fd76dac32adac26b7dc70bdddac93612a6c3d69",
+      "sectionIndex": 4,
+      "question": "Optical isomers are:",
+      "options": [
+        "A) Identical compounds",
+        "B) Mirror images",
+        "C) Structural isomers",
+        "D) Geometric isomers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3521848780583ccddd78ece16c13e08a711e8fbd",
+      "sectionIndex": 4,
+      "question": "Benzene has how many ? electrons?",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) 6",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7984072fe2908da607a0b4222ecc6b96a9430b64",
+      "sectionIndex": 4,
+      "question": "SN1 reactions proceed through:",
+      "options": [
+        "A) Single step",
+        "B) Carbocation intermediate",
+        "C) Carbanion intermediate",
+        "D) Radical intermediate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd8c215ea44c38a2289bd840c5e1a3df6b69a91e",
+      "sectionIndex": 4,
+      "question": "Primary alcohols can be prepared from Grignard reagents and:",
+      "options": [
+        "A) Ketones",
+        "B) Aldehydes",
+        "C) Formaldehyde",
+        "D) Carboxylic acids"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b5b734bc75a010b66ca107536c9f840626131554",
+      "sectionIndex": 4,
+      "question": "Fehling's solution is used to test for:",
+      "options": [
+        "A) Alcohols",
+        "B) Aldehydes",
+        "C) Ketones",
+        "D) Ethers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc67285dc6062f2750712cd01afff8c173862abf",
+      "sectionIndex": 4,
+      "question": "Polymerization involves:",
+      "options": [
+        "A) Breaking large molecules",
+        "B) Joining small molecules",
+        "C) Isomerization",
+        "D) Hydrolysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b18ca07e284d9cf4f5dbf668337e036b44e829d",
+      "sectionIndex": 5,
+      "question": "The de Broglie equation relates:",
+      "options": [
+        "A) Energy and frequency",
+        "B) Wavelength and momentum",
+        "C) Mass and velocity",
+        "D) Charge and spin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff7a1e27d38e61fc8847dfff9b092c0723f77273",
+      "sectionIndex": 5,
+      "question": "A wave function (^) represents:",
+      "options": [
+        "A) Energy of electron",
+        "B) Probability amplitude",
+        "C) Velocity of electron",
+        "D) Mass of electron"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53d74136a352f694d61178cdb80c2eb408c311a4",
+      "sectionIndex": 5,
+      "question": "The principal quantum number (n) determines:",
+      "options": [
+        "A) Shape of orbital",
+        "B) Energy level",
+        "C) Spin",
+        "D) Magnetic properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c690ddecf3b2be044356370997298f3ceb4e901c",
+      "sectionIndex": 5,
+      "question": "How many p orbitals are there?",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a7cda1b2dbb3528c556deda4b2e1c5796650cf7",
+      "sectionIndex": 5,
+      "question": "Pauli's exclusion principle states that:",
+      "options": [
+        "A) Electrons repel each other",
+        "B) No two electrons can have same four quantum numbers",
+        "C) Electrons fill lowest energy first",
+        "D) Electrons have wave properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7a50070841af6ebf0cf849035ac0fe955f454c8",
+      "sectionIndex": 5,
+      "question": "The particle in a box model demonstrates:",
+      "options": [
+        "A) Continuous energy",
+        "B) Quantized energy",
+        "C) Zero energy",
+        "D) Negative energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef1cc99f4d6e984cbdbe764b374c78ef2c17c411",
+      "sectionIndex": 5,
+      "question": "The shape of s orbital is:",
+      "options": [
+        "A) Spherical",
+        "B) Dumbbell",
+        "C) Cloverleaf",
+        "D) Complex"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b930f8fe39faca13aa1c0bc9329819955eb22726",
+      "sectionIndex": 5,
+      "question": "Eigenvalues represent:",
+      "options": [
+        "A) Wave functions",
+        "B) Observable quantities",
+        "C) Probabilities",
+        "D) Coordinates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1f94749188fe91f4b6edf460972f5b84e9b0931",
+      "sectionIndex": 5,
+      "question": "The photoelectric effect demonstrates:",
+      "options": [
+        "A) Wave nature of light",
+        "B) Particle nature of light",
+        "C) Continuous energy",
+        "D) Nuclear properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e6c4f0c91d147bdd7335788bd75114d6bf8cc3a",
+      "sectionIndex": 5,
+      "question": "Zero-point energy is:",
+      "options": [
+        "A) Zero",
+        "B) Lowest possible energy",
+        "C) Infinite",
+        "D) Negative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e9cccaf5c31165234c0e815153316e94fe96235",
+      "sectionIndex": 6,
+      "question": "Aluminum is extracted from:",
+      "options": [
+        "A) Hematite",
+        "B) Bauxite",
+        "C) Magnetite",
+        "D) Galena"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9aec5595d2e4db9bf78c07107cddbd241815b467",
+      "sectionIndex": 6,
+      "question": "The Hall-Heroult process is used for:",
+      "options": [
+        "A) Iron extraction",
+        "B) Copper extraction",
+        "C) Aluminum extraction",
+        "D) Zinc extraction"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "10df01da4485f44c7aad5e28f8b2ef5f502cf86c",
+      "sectionIndex": 6,
+      "question": "Acid rain is primarily caused by:",
+      "options": [
+        "A) CO,,",
+        "B) SO,, and NO,\"",
+        "C) O,f",
+        "D) CH,\""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86257fb2c17dfd857ba5a987146ff12ec82e73de",
+      "sectionIndex": 6,
+      "question": "The contact process produces:",
+      "options": [
+        "A) Nitric acid",
+        "B) Hydrochloric acid",
+        "C) Sulfuric acid",
+        "D) Phosphoric acid"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "39bd8e99c358b0466293b409bd04fe6cab81d4ac",
+      "sectionIndex": 6,
+      "question": "Pig iron is produced in a:",
+      "options": [
+        "A) Open hearth",
+        "B) Blast furnace",
+        "C) Electric furnace",
+        "D) Reverberatory furnace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ef23efd369e2bae562d0570f036e9cb85bebc71",
+      "sectionIndex": 6,
+      "question": "The greenhouse effect is mainly caused by:",
+      "options": [
+        "A) O,,",
+        "B) N,,",
+        "C) CO,,",
+        "D) He"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9267070be3135909f39233c9c036263bf183a826",
+      "sectionIndex": 6,
+      "question": "Urea has the formula:",
+      "options": [
+        "A) NH,f",
+        "B) CO(NH,,),,",
+        "C) NH,\"NO,f",
+        "D) (NH,\"),,SO,\""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7611dee73a7fd8f696b02d6a172578d2ee9285a",
+      "sectionIndex": 6,
+      "question": "Water pollution can be caused by:",
+      "options": [
+        "A) Industrial waste",
+        "B) Agricultural runoff",
+        "C) Sewage",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d0ffce48bab6a4210d0ae9f2db0f7a2de68078af",
+      "sectionIndex": 6,
+      "question": "The main impurity in bauxite is:",
+      "options": [
+        "A) Silica",
+        "B) Iron oxide",
+        "C) Calcium carbonate",
+        "D) Sulfur"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "febf947124a608d35fdc9dbc855307af9d5d9cd5",
+      "sectionIndex": 6,
+      "question": "Cement setting involves:",
+      "options": [
+        "A) Evaporation",
+        "B) Hydration",
+        "C) Oxidation",
+        "D) Reduction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42022bc478aca88edea028bb9d1d0af9716b90ad",
+      "sectionIndex": 7,
+      "question": "IR spectroscopy measures:",
+      "options": [
+        "A) Electronic transitions",
+        "B) Nuclear transitions",
+        "C) Vibrational transitions",
+        "D) Rotational transitions"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5caaa49f9a55386728db7a581ee1a03a9782e26a",
+      "sectionIndex": 7,
+      "question": "NMR stands for:",
+      "options": [
+        "A) Nuclear Magnetic Resonance",
+        "B) Nuclear Mass Resonance",
+        "C) Neutron Magnetic Resonance",
+        "D) Nuclear Motion Resonance"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0631456074ac5f7a780ff71e797b1eac4e9db433",
+      "sectionIndex": 7,
+      "question": "UV-Visible spectroscopy involves:",
+      "options": [
+        "A) Nuclear transitions",
+        "B) Electronic transitions",
+        "C) Vibrational transitions",
+        "D) Spin transitions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b57bd48303be86d4340b671a9985272ddd2204a0",
+      "sectionIndex": 7,
+      "question": "The chemical shift in NMR is measured in:",
+      "options": [
+        "A) Hz",
+        "B) nm",
+        "C) ppm",
+        "D) cm-1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9cfa5e74d3330d775131eac9b66ac788e995e236",
+      "sectionIndex": 7,
+      "question": "Which solvent is commonly used in IR spectroscopy?",
+      "options": [
+        "A) Water",
+        "B) Ethanol",
+        "C) CCl,\"",
+        "D) Acetone"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fe635ed06b0c7f395b797cad1f6ef9b52ec1b1a8",
+      "sectionIndex": 7,
+      "question": "1H NMR is more sensitive than 13C NMR because:",
+      "options": [
+        "A) 1H is heavier",
+        "B) 1H has higher natural abundance",
+        "C) 13C is radioactive",
+        "D) 1H has no spin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76cb09e35e05d5cd23833f9078e2d9226c94ed8a",
+      "sectionIndex": 7,
+      "question": "The fingerprint region in IR is typically:",
+      "options": [
+        "A) 4000-2500 cm-1",
+        "B) 2500-1500 cm-1",
+        "C) 1500-600 cm-1",
+        "D) Below 600 cm-1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f43492a33c8105ab2002b71e105960c3201952ef",
+      "sectionIndex": 7,
+      "question": "Mass spectrometry determines:",
+      "options": [
+        "A) Color",
+        "B) Molecular weight",
+        "C) Melting point",
+        "D) Boiling point"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fda6169c23089701c3a688bfd5cfc8b413dbf12",
+      "sectionIndex": 7,
+      "question": "λmax represents:",
+      "options": [
+        "A) Minimum absorption",
+        "B) Maximum absorption",
+        "C) No absorption",
+        "D) Average absorption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98c5acf42ad3ab94e477314000f85d212516c8c8",
+      "sectionIndex": 7,
+      "question": "TMS is used as a reference in:",
+      "options": [
+        "A) IR spectroscopy",
+        "B) NMR spectroscopy",
+        "C) UV spectroscopy",
+        "D) Mass spectrometry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47f34222f327a60f04cdc37dad16d51ace7926c0",
+      "sectionIndex": 8,
+      "question": "In a galvanic cell, oxidation occurs at the:",
+      "options": [
+        "A) Cathode",
+        "B) Anode",
+        "C) Salt bridge",
+        "D) Solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2964aac0edb52bb61b3f7efff986c6728a71590f",
+      "sectionIndex": 8,
+      "question": "The Nernst equation relates:",
+      "options": [
+        "A) Current and voltage",
+        "B) Cell potential and concentration",
+        "C) Resistance and current",
+        "D) Power and energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1abd3a1242c987b23f496291000e87361b232a35",
+      "sectionIndex": 8,
+      "question": "Kohlrausch's law deals with:",
+      "options": [
+        "A) Gas behavior",
+        "B) Ionic conductivity",
+        "C) Reaction rates",
+        "D) Equilibrium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "771741bed7cc6661b7863dfc1263659322a35890",
+      "sectionIndex": 8,
+      "question": "A salt bridge maintains:",
+      "options": [
+        "A) Temperature",
+        "B) Electrical neutrality",
+        "C) Pressure",
+        "D) Volume"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ecde19c7d09e87316253aa3f4686fc2238bd0b4",
+      "sectionIndex": 8,
+      "question": "The standard hydrogen electrode has a potential of:",
+      "options": [
+        "A) 1.0 V",
+        "B) 0.0 V",
+        "C) -1.0 V",
+        "D) 2.0 V"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83d488f076ce40323564af051a1c6752ecb64f91",
+      "sectionIndex": 8,
+      "question": "Conductivity increases with:",
+      "options": [
+        "A) Decreasing temperature",
+        "B) Increasing concentration",
+        "C) Decreasing ionization",
+        "D) Increasing viscosity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cb7b965d2b726d0fd32cf3989ab028ff5e0589c",
+      "sectionIndex": 8,
+      "question": "Strong electrolytes:",
+      "options": [
+        "A) Partially dissociate",
+        "B) Completely dissociate",
+        "C) Don't dissociate",
+        "D) Form precipitates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc9f700811774fbb3a9ff0214296d97ceeabf438",
+      "sectionIndex": 8,
+      "question": "The electrochemical series arranges elements by:",
+      "options": [
+        "A) Atomic mass",
+        "B) Reduction potential",
+        "C) Atomic number",
+        "D) Electronegativity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4871e93b2c48b4f53f81bf1b95a41b11615f7972",
+      "sectionIndex": 8,
+      "question": "Faraday's constant equals:",
+      "options": [
+        "A) 96,500 C/mol",
+        "B) 8.314 J/mol-K",
+        "C) 6.022 - 1023",
+        "D) 1.602 - 10-19"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "07fce4a623f62aa73d1125fedd66711560b50919",
+      "sectionIndex": 8,
+      "question": "Electrolysis requires:",
+      "options": [
+        "A) Spontaneous reaction",
+        "B) External power source",
+        "C) No energy input",
+        "D) Catalyst"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f020494ca939421ae3d87eceb83369214fcc469",
+      "sectionIndex": 9,
+      "question": "Avogadro's number is approximately:",
+      "options": [
+        "A) 6.022 - 1023",
+        "B) 9.65 - 104",
+        "C) 8.314",
+        "D) 96,500"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "44ba05fc3580cfb88664f14e86dd258c256d4b8e",
+      "sectionIndex": 9,
+      "question": "The SI unit of amount of substance is:",
+      "options": [
+        "A) Gram",
+        "B) Kilogram",
+        "C) Mole",
+        "D) Liter"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a73665bbdcebb2c2ca08810254e287fd794ebd59",
+      "sectionIndex": 9,
+      "question": "An isotope differs in number of:",
+      "options": [
+        "A) Protons",
+        "B) Neutrons",
+        "C) Electrons",
+        "D) Charges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c140cb5d6ffe376fc8c8229910785b3ea7e0cdde",
+      "sectionIndex": 9,
+      "question": "The octet rule states that atoms tend to have:",
+      "options": [
+        "A) 2 electrons",
+        "B) 6 electrons",
+        "C) 8 electrons",
+        "D) 10 electrons"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e90aa203163fa5c1a1ca401575b6cc1643116b70",
+      "sectionIndex": 9,
+      "question": "Molarity is defined as:",
+      "options": [
+        "A) Moles per kilogram",
+        "B) Moles per liter",
+        "C) Grams per liter",
+        "D) Grams per mole"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bad75cbcb5b1625f14d56c9e97602c6b21016ff8",
+      "sectionIndex": 9,
+      "question": "The ideal gas constant R equals:",
+      "options": [
+        "A) 0.0821 L-atm/mol-K",
+        "B) 96,500 C/mol",
+        "C) 6.022 - 1023",
+        "D) 9.8 m/s2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "48bf36680b4ddbc54a146ae924e5413006345e93",
+      "sectionIndex": 9,
+      "question": "Oxidation involves:",
+      "options": [
+        "A) Gain of electrons",
+        "B) Loss of electrons",
+        "C) Gain of neutrons",
+        "D) Loss of protons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df3fdb5b375f4adc0ad3d1988d39277099043625",
+      "sectionIndex": 9,
+      "question": "A sigma bond is formed by:",
+      "options": [
+        "A) Sideway overlap",
+        "B) Head-on overlap",
+        "C) No overlap",
+        "D) Multiple overlap"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "816a5e9ba136238b3f1d46beb3e2eaa3d6c9cb09",
+      "sectionIndex": 9,
+      "question": "The atomic number represents:",
+      "options": [
+        "A) Mass of atom",
+        "B) Number of neutrons",
+        "C) Number of protons",
+        "D) Number of electrons and neutrons"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "557e9527bd07be8b7758b55b16af03a66e914c4c",
+      "sectionIndex": 9,
+      "question": "STP conditions are:",
+      "options": [
+        "A) 0°C and 1 atm",
+        "B) 25°C and 1 atm",
+        "C) 100°C and 1 atm",
+        "D) 0°C and 0 atm"
+      ],
+      "correct": "A"
+    }
+  ]
+}

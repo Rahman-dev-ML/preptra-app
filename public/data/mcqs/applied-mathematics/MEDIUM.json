@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-12T22:19:39.574Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "0551a881fce5728aad009380df5996c87f242313",
+      "sectionIndex": 0,
+      "question": "For a scalar field ? = x2y + yz2, the gradient at point (1,2,3) has magnitude:",
+      "options": [
+        "A) ^s85",
+        "B) ^s89",
+        "C) ^s91",
+        "D) ^s95"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94e41e11c2696443ba5041abb4c15311438ca86b",
+      "sectionIndex": 0,
+      "question": "If F = yi + xj + z2k, then ^? - F equals:",
+      "options": [
+        "A) 0",
+        "B) k",
+        "C) -k",
+        "D) 2k"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3856423f9d1ae0d05e34f356f094f591c5951cb9",
+      "sectionIndex": 0,
+      "question": "The divergence of F = r2r, in spherical coordinates is:",
+      "options": [
+        "A) 3r2",
+        "B) 4r",
+        "C) 5r",
+        "D) 2r"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a06b582bad509a87917125a40a6cc68594d57776",
+      "sectionIndex": 0,
+      "question": "For which vector field is ^_C F-dr path independent?",
+      "options": [
+        "A) F = yi + xj",
+        "B) F = yi - xj",
+        "C) F = xi + yj",
+        "D) F = -yi + xj"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "31bda76eb9153b8788e161759f20ab23b4a10bfb",
+      "sectionIndex": 0,
+      "question": "If ^?2? = 0 in a region and ? = x2 - y2 on the boundary, then ? inside is:",
+      "options": [
+        "A) Harmonic",
+        "B) Subharmonic",
+        "C) Superharmonic",
+        "D) Biharmonic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bc5c1de21073e1b69f152b3ab7bc2191cba803f0",
+      "sectionIndex": 0,
+      "question": "The surface integral ^_S (^? - F)-n dS over a closed surface equals:",
+      "options": [
+        "A) 0",
+        "B) Volume integral of ^?-F",
+        "C) Line integral around boundary",
+        "D) Cannot determine"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7cda5b97268a36cc1d328cd1268e9d75ec2cd722",
+      "sectionIndex": 0,
+      "question": "In cylindrical coordinates, ^?-F for F = ρρ, + z2' is:",
+      "options": [
+        "A) 2 + z",
+        "B) 2 + 2z",
+        "C) 1 + 2z",
+        "D) 3 + 2z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db8a8f4dce29db6cc46e994851cfe89ab62cdda9",
+      "sectionIndex": 0,
+      "question": "Green's theorem fails when the region contains:",
+      "options": [
+        "A) Corners",
+        "B) Holes",
+        "C) Straight boundaries",
+        "D) Smooth curves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b1afb4728223acb14accbece19bae573b053003",
+      "sectionIndex": 0,
+      "question": "For F = ^??, which is always true?",
+      "options": [
+        "A) ^? - F = 0",
+        "B) ^? - F = 0",
+        "C) F - F = 0",
+        "D) |F| = 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4c6a96dde35af9f10e7d35267eff0b0d1e87919b",
+      "sectionIndex": 0,
+      "question": "The Laplacian in spherical coordinates contains terms with:",
+      "options": [
+        "A) r-1 only",
+        "B) r-2 only",
+        "C) Both r-1 and r-2",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b52ca514d7c734ddf0d39a279d5e455252213919",
+      "sectionIndex": 1,
+      "question": "The complementary function of y'' - 5y' + 6y = e^x is:",
+      "options": [
+        "A) c,e^x + c,,e^(2x)",
+        "B) c,e^(2x) + c,,e^(3x)",
+        "C) c,e^(3x) + c,,e^(4x)",
+        "D) c, + c,,e^x"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf8a152c7e32f5011a3551d1719d3e31684a7361",
+      "sectionIndex": 1,
+      "question": "The particular integral of y'' + 4y = sin(2x) has the form:",
+      "options": [
+        "A) A sin(2x)",
+        "B) A cos(2x)",
+        "C) x(A sin(2x) + B cos(2x))",
+        "D) A sin(2x) + B cos(2x)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3536d8b4e3351610e82d13940020e459fb37cf7a",
+      "sectionIndex": 1,
+      "question": "The radius of convergence for the series solution of y'' + xy = 0 about x = 0 is:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) ?",
+        "D) ^z"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c0616ccbf4041f4be8fa52635d0e80ccff69ab43",
+      "sectionIndex": 1,
+      "question": "For the Cauchy-Euler equation x2y'' + xy' - y = 0, the indicial equation is:",
+      "options": [
+        "A) r2 = 1",
+        "B) r2 - 1 = 0",
+        "C) r2 + r - 1 = 0",
+        "D) r2 - r + 1 = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c578c363e8f454765cedf0b0898059b6a156a951",
+      "sectionIndex": 1,
+      "question": "The integrating factor for (x + y2)dx + 2xy dy = 0 is:",
+      "options": [
+        "A) x",
+        "B) 1/x",
+        "C) x2",
+        "D) 1/x2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7d4a7e0c6bad68031f7c3920ae4c9e00c5e5485",
+      "sectionIndex": 1,
+      "question": "Which method is most suitable for y'' + p(x)y' + q(x)y = f(x) when p and q are constants?",
+      "options": [
+        "A) Variation of parameters",
+        "B) Undetermined coefficients",
+        "C) Power series",
+        "D) Numerical methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd79640ce3370d7d1785b925fd2dc9d40d7821aa",
+      "sectionIndex": 1,
+      "question": "The Wronskian of e^x and xe^x is:",
+      "options": [
+        "A) 0",
+        "B) e^(2x)",
+        "C) xe^(2x)",
+        "D) x2e^(2x)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "234764c93b34dded9bf53fc739ff9ec223a076e4",
+      "sectionIndex": 1,
+      "question": "For a regular singular point at x = 0, the Frobenius series has the form:",
+      "options": [
+        "A) Σ a,Txn",
+        "B) Σ a,Tx^(n+r)",
+        "C) Σ a,T(x-x,?)n",
+        "D) Σ a,Te^(nx)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfa24742821b116d7227c363110ef7fce5ab69e7",
+      "sectionIndex": 1,
+      "question": "The general solution of y(4) - y = 0 contains:",
+      "options": [
+        "A) Only exponentials",
+        "B) Only trigonometric functions",
+        "C) Both exponentials and trigonometric",
+        "D) Only polynomials"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fa99d5991e32ee32149b474fa4e9891266493cf2",
+      "sectionIndex": 1,
+      "question": "A Bernoulli equation y' + P(x)y = Q(x)y^n becomes linear after substitution:",
+      "options": [
+        "A) v = yn",
+        "B) v = y^(1-n)",
+        "C) v = y^(-n)",
+        "D) v = ln(y)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66f65bf3b195ba50b49da200f41ebe0d023c2c2c",
+      "sectionIndex": 2,
+      "question": "A projectile is fired at angle θ. The angle for maximum range on an inclined plane of angle α is:",
+      "options": [
+        "A) 45°",
+        "B) (45° + α/2)",
+        "C) (45° - α/2)",
+        "D) (90° - α)/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0fa3c3428d2ce5b79500a631877a2f6a0df7df1",
+      "sectionIndex": 2,
+      "question": "For a particle in SHM with amplitude A and frequency ?, the average kinetic energy over one period is:",
+      "options": [
+        "A) 1⁄4m?2A2",
+        "B) 1⁄2m?2A2",
+        "C) m?2A2",
+        "D) 2m?2A2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c2d459f7a5093de51711aff693e26afa438b6db5",
+      "sectionIndex": 2,
+      "question": "The moment of inertia of a hollow sphere about its diameter is:",
+      "options": [
+        "A) .-MR2",
+        "B) .\"MR2",
+        "C) 1⁄2MR2",
+        "D) MR2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d4379c1f4dd3990bd735d4e7fdd999af107bcd5",
+      "sectionIndex": 2,
+      "question": "A particle moves under central force F = -k/r3. Its trajectory is:",
+      "options": [
+        "A) Ellipse",
+        "B) Parabola",
+        "C) Spiral",
+        "D) Straight line through center"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b940cf33246696f3ac1bc8ad1dc2c5216188715b",
+      "sectionIndex": 2,
+      "question": "Two particles of masses m, and m,, collide elastically. The fraction of kinetic energy transferred is maximum when:",
+      "options": [
+        "A) m, = m,,",
+        "B) m, >> m,,",
+        "C) m, << m,,",
+        "D) m, = 2m,,"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b721038084baec38130278c43fd33f25282407b8",
+      "sectionIndex": 2,
+      "question": "The radius of gyration k of a body is related to moment of inertia I by:",
+      "options": [
+        "A) I = mk",
+        "B) I = mk2",
+        "C) I = m/k2",
+        "D) I = m2k"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9883f7876ebe4aebd7cf8198bb38dcd2e9f5f64c",
+      "sectionIndex": 2,
+      "question": "For a particle moving in a potential V(x) = 1⁄2kx2, the time period is:",
+      "options": [
+        "A) 2?^s(m/k)",
+        "B) 2?^s(k/m)",
+        "C) ?^s(m/k)",
+        "D) ?^s(k/m)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bea3e7c9ab516865c78b60c745639f60d6655a02",
+      "sectionIndex": 2,
+      "question": "The escape velocity from Earth's surface is approximately:",
+      "options": [
+        "A) 7.9 km/s",
+        "B) 11.2 km/s",
+        "C) 15.4 km/s",
+        "D) 20.1 km/s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43398eaec256cb230737ebe4e3f9912960cd722d",
+      "sectionIndex": 2,
+      "question": "In a conical pendulum, the time period depends on:",
+      "options": [
+        "A) Mass only",
+        "B) Length and angle only",
+        "C) Mass and length",
+        "D) All parameters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b81dc209490967bac87346ade1aab30b48ae8b0",
+      "sectionIndex": 2,
+      "question": "The precession frequency of a spinning top is proportional to:",
+      "options": [
+        "A) Angular velocity",
+        "B) Square of angular velocity",
+        "C) Inverse of angular velocity",
+        "D) Square root of angular velocity"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "61380ae542e3b2f3ffd8a9e7663f3eeb8447866f",
+      "sectionIndex": 3,
+      "question": "The contraction of a tensor Aij over both indices gives:",
+      "options": [
+        "A) A scalar (trace)",
+        "B) A vector",
+        "C) A second-order tensor",
+        "D) Zero"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "225198e5bd24cf88a199313b85e5c550edcfb80e",
+      "sectionIndex": 3,
+      "question": "Under coordinate transformation, a covariant vector transforms with:",
+      "options": [
+        "A) Inverse transformation matrix",
+        "B) Transformation matrix",
+        "C) Transpose of transformation matrix",
+        "D) Identity matrix"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d3d58489edf54894c2878865be4c73a9946ff23b",
+      "sectionIndex": 3,
+      "question": "The Christoffel symbols of the first kind are:",
+      "options": [
+        "A) Always symmetric in lower indices",
+        "B) Always antisymmetric",
+        "C) Sometimes symmetric",
+        "D) Never symmetric"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ea344df79135294da4e07a4b1be73cfd7a4952ee",
+      "sectionIndex": 3,
+      "question": "For a metric tensor gij, the condition for orthogonal coordinates is:",
+      "options": [
+        "A) gij = 0 for all i,j",
+        "B) gij = 0 for i ? j",
+        "C) gij = 1 for all i,j",
+        "D) det(gij) = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e1c92c38abd4e6f7664987c2ea3b2240bdac9a3",
+      "sectionIndex": 3,
+      "question": "The covariant derivative of a scalar field is:",
+      "options": [
+        "A) Zero",
+        "B) Ordinary derivative",
+        "C) Christoffel symbol",
+        "D) Metric tensor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a36e06d0fc8b7edbf4321d7749abac8659a999e",
+      "sectionIndex": 3,
+      "question": "In flat space, all Christoffel symbols:",
+      "options": [
+        "A) Equal 1",
+        "B) Equal 0",
+        "C) Are symmetric",
+        "D) Are antisymmetric"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bdfb3a23948d58f2ad96381c827ce26db2ad6ce",
+      "sectionIndex": 3,
+      "question": "The Ricci tensor is obtained by contracting:",
+      "options": [
+        "A) Metric tensor",
+        "B) Riemann tensor",
+        "C) Stress tensor",
+        "D) Energy tensor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85e1bf6babe26af863a417fa8e40ee24756c5717",
+      "sectionIndex": 3,
+      "question": "A tensor equation valid in one coordinate system is:",
+      "options": [
+        "A) Valid only in that system",
+        "B) Valid in all coordinate systems",
+        "C) Valid in Cartesian coordinates only",
+        "D) Invalid in curved space"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4bb83274368375bb13f38ae114727e51934cc20",
+      "sectionIndex": 3,
+      "question": "The number of independent components of a symmetric 3-3 tensor is:",
+      "options": [
+        "A) 3",
+        "B) 6",
+        "C) 9",
+        "D) 27"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92b0012e0ebf7428a70d326e469f243a8d3717c3",
+      "sectionIndex": 3,
+      "question": "Parallel transport preserves:",
+      "options": [
+        "A) Direction only",
+        "B) Magnitude only",
+        "C) Inner product",
+        "D) Cross product"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "be97751ad705f9f01550d3e38480f5acf1f417c5",
+      "sectionIndex": 4,
+      "question": "The Newton-Raphson method fails when:",
+      "options": [
+        "A) f'(x) = 0 at root",
+        "B) f(x) = 0",
+        "C) f'(x) ? 0",
+        "D) Initial guess is exact"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "66020e3947149fafde821b37e805c1c4bcd96c55",
+      "sectionIndex": 4,
+      "question": "In Gauss-Seidel iteration, convergence is guaranteed if the matrix is:",
+      "options": [
+        "A) Symmetric",
+        "B) Diagonally dominant",
+        "C) Singular",
+        "D) Orthogonal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "867f6a8458d92f08f67a6cb5513dfcd8cf3ca3ba",
+      "sectionIndex": 4,
+      "question": "Simpson's 3/8 rule requires number of intervals to be divisible by:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 8"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1541294db785207c32dc71bac69660cbbb3230c6",
+      "sectionIndex": 4,
+      "question": "The truncation error in Euler's method is of order:",
+      "options": [
+        "A) h",
+        "B) h2",
+        "C) h3",
+        "D) h4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c2fc07a6753ec8cdf8cb73cb42156c081e4c172",
+      "sectionIndex": 4,
+      "question": "For interpolating n+1 data points, the unique polynomial has degree at most:",
+      "options": [
+        "A) n-1",
+        "B) n",
+        "C) n+1",
+        "D) 2n"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "196e4bb89e9de575943286c9875043ebff6e215e",
+      "sectionIndex": 4,
+      "question": "The convergence rate of bisection method is:",
+      "options": [
+        "A) Linear",
+        "B) Superlinear",
+        "C) Quadratic",
+        "D) Cubic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1aea433a8ba66e26eda3933ebd5199ace3ccb0a7",
+      "sectionIndex": 4,
+      "question": "In Runge-Kutta 4th order method, function evaluations per step are:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 4",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "881ba48f33ee9c0db0e108db0e5892dfabbbaec4",
+      "sectionIndex": 4,
+      "question": "The condition number of a matrix measures:",
+      "options": [
+        "A) Size",
+        "B) Rank",
+        "C) Sensitivity to errors",
+        "D) Determinant"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e9b32c50bb009a7f9990b8073a62fc73e071141e",
+      "sectionIndex": 4,
+      "question": "Richardson extrapolation improves accuracy by:",
+      "options": [
+        "A) Increasing step size",
+        "B) Combining results with different step sizes",
+        "C) Using higher order derivatives",
+        "D) Iterating more times"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c206631f7eb59b9e59c0f6a0adb68665b9dc5b71",
+      "sectionIndex": 4,
+      "question": "The optimal relaxation parameter in SOR method is:",
+      "options": [
+        "A) Always 1",
+        "B) Between 0 and 1",
+        "C) Between 1 and 2",
+        "D) Greater than 2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f43641d12bbf30515d771217c47b0996437d658d",
+      "sectionIndex": 5,
+      "question": "To evaluate ^_D xy dA where D is bounded by y = x2 and y = 2x, integrate:",
+      "options": [
+        "A) First with respect to x",
+        "B) First with respect to y",
+        "C) Either order works equally well",
+        "D) Cannot be evaluated"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b85c8549bc6fc07990d44dd9ee1040e08a40e18",
+      "sectionIndex": 5,
+      "question": "The Jacobian for transformation to spherical coordinates is:",
+      "options": [
+        "A) r sin θ",
+        "B) r2 sin θ",
+        "C) r2 sin2 θ",
+        "D) r cos θ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a10aa5415ddaa2414d6d60014887ff1a52ef23b",
+      "sectionIndex": 5,
+      "question": "In evaluating ^_C F-dr using Green's theorem, the curve C must be:",
+      "options": [
+        "A) Open",
+        "B) Closed and positively oriented",
+        "C) Straight",
+        "D) Circular"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a17525067fa96bc9b70fc1f8f21eb5c9498fa548",
+      "sectionIndex": 5,
+      "question": "The surface area element in cylindrical coordinates is:",
+      "options": [
+        "A) ρ dρ dθ",
+        "B) ρ dρ dz",
+        "C) ρ dθ dz",
+        "D) dρ dθ dz"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8bb9fc3ee23175d0724744ea90cfd2e47bc10aa9",
+      "sectionIndex": 5,
+      "question": "For ^_V f dV in spherical coordinates, the limits for ? are typically:",
+      "options": [
+        "A) 0 to ?/2",
+        "B) 0 to ?",
+        "C) 0 to 2?",
+        "D) -? to ?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18e36a019336fd9fdd998c1b12e357193235d715",
+      "sectionIndex": 5,
+      "question": "The flux integral ^_S F-n dS represents:",
+      "options": [
+        "A) Circulation",
+        "B) Work done",
+        "C) Flow rate through surface",
+        "D) Surface area"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4106c9ce84f3b45da4513c826b702db91a32236d",
+      "sectionIndex": 5,
+      "question": "When changing order of integration in ^^ f(x,y) dy dx, one must:",
+      "options": [
+        "A) Change the integrand",
+        "B) Adjust the limits appropriately",
+        "C) Add a Jacobian",
+        "D) Multiply by -1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a935e1c6f1a819b0d1cc35e753096e3c6c076ef0",
+      "sectionIndex": 5,
+      "question": "The centroid coordinates involve integrals of the form:",
+      "options": [
+        "A) ^ f dA",
+        "B) ^ xf dA / ^ f dA",
+        "C) ^ x2 dA",
+        "D) ^ 1 dA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7171da14617ac8813bc647ec6d29f65bfd3471b",
+      "sectionIndex": 5,
+      "question": "Path independence of ^_C F-dr implies:",
+      "options": [
+        "A) F is conservative",
+        "B) Curl F = 0",
+        "C) F = ^?? for some ?",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1fb75985726eee01831ab3aea4bc9600e1823992",
+      "sectionIndex": 5,
+      "question": "The average value of f over region D is:",
+      "options": [
+        "A) ^_D f dA",
+        "B) ^_D f dA / Area(D)",
+        "C) Max(f) + Min(f)",
+        "D) ^_D f2 dA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "675eee829978462d270e1c71f22ab815d3fb2b72",
+      "sectionIndex": 6,
+      "question": "For a 3-3 matrix to be invertible, its rank must be:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) Any value"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "82466086ebbcaf5e9790670d0bc87d1cc499998d",
+      "sectionIndex": 6,
+      "question": "If A is a 3-3 matrix with eigenvalues 1, 2, 3, then det(A) equals:",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 6",
+        "D) 9"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "29015a36b7f21adc320e5e18dd9b2dc77a880afd",
+      "sectionIndex": 6,
+      "question": "The Cayley-Hamilton theorem states that a matrix satisfies:",
+      "options": [
+        "A) Its determinant equation",
+        "B) Its characteristic equation",
+        "C) Its trace equation",
+        "D) Its rank equation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09e3ed2fd46a48a4b4838e97c06edaf5d8014227",
+      "sectionIndex": 6,
+      "question": "For symmetric matrix A, all eigenvalues are:",
+      "options": [
+        "A) Real",
+        "B) Complex",
+        "C) Positive",
+        "D) Zero"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "744d896123b360b15b846d023195f6a28b8d5c24",
+      "sectionIndex": 6,
+      "question": "The spectral radius of a matrix is:",
+      "options": [
+        "A) Sum of eigenvalues",
+        "B) Product of eigenvalues",
+        "C) Maximum absolute eigenvalue",
+        "D) Minimum eigenvalue"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e9befd5decde7a4767f6c065cd94a39cf5e29d97",
+      "sectionIndex": 6,
+      "question": "If AB = BA = I, then B is:",
+      "options": [
+        "A) Transpose of A",
+        "B) Inverse of A",
+        "C) Adjoint of A",
+        "D) Determinant of A"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "716007746690c994484f56b5f89de4dd08ccbca5",
+      "sectionIndex": 6,
+      "question": "The null space of a matrix A consists of all vectors x such that:",
+      "options": [
+        "A) Ax = x",
+        "B) Ax = 0",
+        "C) Ax = 1",
+        "D) xA = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ee8e1f39b51bacfc9995a73422fe15d3573e27a",
+      "sectionIndex": 6,
+      "question": "For an orthogonal matrix Q:",
+      "options": [
+        "A) Q^T = Q^(-1)",
+        "B) Q^T = Q",
+        "C) Q^2 = I",
+        "D) det(Q) = 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "27e1b88f1deddd6de071ef81fb7c83ad87e1dae4",
+      "sectionIndex": 6,
+      "question": "The condition for diagonalizability of an n-n matrix is:",
+      "options": [
+        "A) n distinct eigenvalues",
+        "B) n linearly independent eigenvectors",
+        "C) Positive determinant",
+        "D) Symmetric structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "299ec6cb7b86b5ff9776a62471c497062063181f",
+      "sectionIndex": 6,
+      "question": "The Jordan canonical form is used when a matrix is:",
+      "options": [
+        "A) Symmetric",
+        "B) Not diagonalizable",
+        "C) Singular",
+        "D) Orthogonal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "785fdb4f581855fa4e071700c09c1aa84a7be5ca",
+      "sectionIndex": 7,
+      "question": "The Fourier series of f(x) = x on [-?, ?] contains:",
+      "options": [
+        "A) Only cosines",
+        "B) Only sines",
+        "C) Both sines and cosines",
+        "D) Only constant term"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb30f057c19c89164fe7d8ccf90f72cd4f296823",
+      "sectionIndex": 7,
+      "question": "For a function with jump discontinuity, the Fourier series converges to:",
+      "options": [
+        "A) Left-hand limit",
+        "B) Right-hand limit",
+        "C) Average of left and right limits",
+        "D) Does not converge"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fabdfa36c3d0a650e5dd68c1abbf14fca58475e8",
+      "sectionIndex": 7,
+      "question": "The Fourier coefficient a,T for f(x) = |x| on [-?, ?] equals:",
+      "options": [
+        "A) 0 for n even",
+        "B) 0 for n odd",
+        "C) -4/(?n2) for n odd",
+        "D) 4/(?n2) for n even"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6303f3649b33ab8941d5e53446950da1666ba6bd",
+      "sectionIndex": 7,
+      "question": "Parseval's identity relates:",
+      "options": [
+        "A) Time and frequency domains",
+        "B) ^|f|2 to sum of |coefficients|2",
+        "C) Real and imaginary parts",
+        "D) Sine and cosine terms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83dd912531a002a83eff6bbfce8e32a04f598ed9",
+      "sectionIndex": 7,
+      "question": "The Fourier transform of a Gaussian function is:",
+      "options": [
+        "A) Another Gaussian",
+        "B) Exponential",
+        "C) Delta function",
+        "D) Sinc function"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3729fcc130f3594c47305c50c3417698475b145f",
+      "sectionIndex": 7,
+      "question": "The convolution theorem states F{f*g} equals:",
+      "options": [
+        "A) F{f} + F{g}",
+        "B) F{f} - F{g}",
+        "C) F{f} / F{g}",
+        "D) F{f} - F{g}"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fd53de78b9bdca920fd1fdda8b5bfbaa3ef09b4",
+      "sectionIndex": 7,
+      "question": "For half-range expansions, the function is extended as:",
+      "options": [
+        "A) Periodic only",
+        "B) Even or odd",
+        "C) Continuous",
+        "D) Differentiable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb4ed7b41322861cea4e20d65cae1a53781ab0f9",
+      "sectionIndex": 7,
+      "question": "The Gibbs overshoot is approximately:",
+      "options": [
+        "A) 5%",
+        "B) 9%",
+        "C) 15%",
+        "D) 20%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf7c9fb3a2906552bc450e659ea715db7cd8477b",
+      "sectionIndex": 7,
+      "question": "The Fourier series of a C1 function converges:",
+      "options": [
+        "A) Pointwise only",
+        "B) Uniformly",
+        "C) In L2 sense only",
+        "D) Does not converge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a15b011bc373472134313b0ce44d22e451a61f7",
+      "sectionIndex": 7,
+      "question": "The Dirichlet kernel D,T(x) has the property:",
+      "options": [
+        "A) ^ D,T(x)dx = 1",
+        "B) ^ D,T(x)dx = 2?",
+        "C) ^ D,T(x)dx = n",
+        "D) ^ D,T(x)dx = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7856bb8d192c16996fc3f5264789b40c5730a68",
+      "sectionIndex": 8,
+      "question": "The characteristic curves of u,\",\" - 4uγγ = 0 have slopes:",
+      "options": [
+        "A) ±1",
+        "B) ±2",
+        "C) ±4",
+        "D) ±1/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19190112bb2d84746f469e399806bc128b392e06",
+      "sectionIndex": 8,
+      "question": "The canonical form of a hyperbolic PDE is:",
+      "options": [
+        "A) uξξ + uηη = 0",
+        "B) uξξ - uηη = 0",
+        "C) uξξ = 0",
+        "D) uξη = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22d4e3baa2e5ea635fd3b3024d8b9c3e1f9c0e97",
+      "sectionIndex": 8,
+      "question": "For the heat equation u,o = ku,\",\" with u(0,t) = u(L,t) = 0, separation gives:",
+      "options": [
+        "A) X'' + λX = 0, T' + λkT = 0",
+        "B) X'' - λX = 0, T' - λkT = 0",
+        "C) X'' + λX = 0, T' - λkT = 0",
+        "D) X'' - λX = 0, T' + λkT = 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "35cbeb6a8c02a7e15f836c4bf419186a80662bd1",
+      "sectionIndex": 8,
+      "question": "The fundamental solution of the heat equation in 1D is proportional to:",
+      "options": [
+        "A) exp(-x2/4kt)/^st",
+        "B) exp(-x2/4kt)",
+        "C) exp(-x2/4kt)-t",
+        "D) exp(-x2/4kt)/t"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "25a707f73927b8044d3a3643e7d79310af2bbb71",
+      "sectionIndex": 8,
+      "question": "D'Alembert's solution applies when initial conditions are:",
+      "options": [
+        "A) u(x,0) only",
+        "B) u,o(x,0) only",
+        "C) Both u(x,0) and u,o(x,0)",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "64a2c75442647bbacc440031b71f4fc6cfb48b78",
+      "sectionIndex": 8,
+      "question": "The maximum principle for heat equation states that maximum occurs:",
+      "options": [
+        "A) At center of domain",
+        "B) At final time",
+        "C) On parabolic boundary",
+        "D) Everywhere"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "62a062c708138448736ca892b4a3dac2f3c5dc45",
+      "sectionIndex": 8,
+      "question": "Green's function for Laplace equation satisfies:",
+      "options": [
+        "A) ^?2G = 0",
+        "B) ^?2G = δ(x-ξ)",
+        "C) ^?2G = 1",
+        "D) ^?2G = -1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b97754b10625e7d43a45ecfa4e89b3ec58f31cc",
+      "sectionIndex": 8,
+      "question": "The eigenvalues for -X'' = λX with X(0) = X(L) = 0 are:",
+      "options": [
+        "A) λ,T = n2?2/L2",
+        "B) λ,T = n?/L",
+        "C) λ,T = n2?2/L",
+        "D) λ,T = (n?/L)2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4e14507e54925285255f77b26ecb03752a31b186",
+      "sectionIndex": 8,
+      "question": "Method of characteristics reduces a first-order PDE to:",
+      "options": [
+        "A) Algebraic equations",
+        "B) ODEs",
+        "C) Higher-order PDEs",
+        "D) Integral equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fa255df1d126c9c67905b3215920de247cb0d5f",
+      "sectionIndex": 8,
+      "question": "Uniqueness for Laplace equation requires specifying:",
+      "options": [
+        "A) u on boundary",
+        "B) ^,u/^,n on boundary",
+        "C) Either u or ^,u/^,n on boundary",
+        "D) Both u and ^,u/^,n on boundary"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "72e16396b7f4e4c5f96dff9bd3d1cbb3c89247ba",
+      "sectionIndex": 9,
+      "question": "The Lagrangian for minimizing f(x,y) subject to g(x,y) = 0 is:",
+      "options": [
+        "A) f + λg",
+        "B) f - λg",
+        "C) f-g + λ",
+        "D) f/g + λ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2f19a16f46811fa5468d4be972d5da454539ed6e",
+      "sectionIndex": 9,
+      "question": "At a saddle point, the Hessian matrix is:",
+      "options": [
+        "A) Positive definite",
+        "B) Negative definite",
+        "C) Indefinite",
+        "D) Singular"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4a8d57ab2f95a833d7b41fa61ca404e2ac6aa5af",
+      "sectionIndex": 9,
+      "question": "The method of steepest descent follows direction:",
+      "options": [
+        "A) ^?f",
+        "B) -^?f",
+        "C) ^?2f",
+        "D) (^?f)S"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01e560cf8b161c091fb5ae19f5c0b44e76eff9af",
+      "sectionIndex": 9,
+      "question": "In the simplex method, the optimal solution occurs at:",
+      "options": [
+        "A) Interior point",
+        "B) Vertex of feasible region",
+        "C) Centroid",
+        "D) Any boundary point"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e15c35fd2e3d655d01fa492a619d45e4e2191c4a",
+      "sectionIndex": 9,
+      "question": "The KKT conditions generalize Lagrange multipliers to include:",
+      "options": [
+        "A) Equality constraints only",
+        "B) Inequality constraints",
+        "C) Multiple objectives",
+        "D) Integer variables"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "139c5e869d6e2e66dcc1d00166eaec8d51ebc8f8",
+      "sectionIndex": 9,
+      "question": "The variational principle δ^F dx = 0 leads to:",
+      "options": [
+        "A) Algebraic equation",
+        "B) Euler-Lagrange equation",
+        "C) Hamilton's equation",
+        "D) Newton's equation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2100c403c207467fe95c089bc4d7bdc7c266f860",
+      "sectionIndex": 9,
+      "question": "For a functional J[y] = ^F(x,y,y')dx, the first variation is:",
+      "options": [
+        "A) δJ = ^(^,F/^,y)δy dx",
+        "B) δJ = ^[(^,F/^,y) - d/dx(^,F/^,y')]δy dx",
+        "C) δJ = ^(^,F/^,y')δy' dx",
+        "D) δJ = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "374b8f9ae6f2870b793148ecb8f3571ab15c3b50",
+      "sectionIndex": 9,
+      "question": "The brachistochrone curve is:",
+      "options": [
+        "A) Straight line",
+        "B) Parabola",
+        "C) Cycloid",
+        "D) Catenary"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20beadaa9976a479defc37e457f446fee8ade0fd",
+      "sectionIndex": 9,
+      "question": "In constrained optimization, the bordered Hessian tests for:",
+      "options": [
+        "A) Global optimum",
+        "B) Local optimum subject to constraints",
+        "C) Feasibility",
+        "D) Uniqueness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d08e2cfdabbb8a96e3c480d506d57364be488e08",
+      "sectionIndex": 9,
+      "question": "The principle of least action states that the path taken minimizes:",
+      "options": [
+        "A) Energy",
+        "B) Time",
+        "C) Action integral",
+        "D) Distance"
+      ],
+      "correct": "C"
+    }
+  ]
+}

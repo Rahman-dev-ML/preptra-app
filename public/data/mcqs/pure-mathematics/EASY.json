@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:18:49.392Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "ffc2e0cdf30a9537c6ef120f54ae1e6e50702caf",
+      "sectionIndex": 0,
+      "question": "A group (G, *) must satisfy all properties EXCEPT:",
+      "options": [
+        "A) Closure",
+        "B) Associativity",
+        "C) Commutativity",
+        "D) Identity element"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9c3b8bd8248039d742667e9920dca3892917b032",
+      "sectionIndex": 0,
+      "question": "The order of a group G is:",
+      "options": [
+        "A) The smallest element",
+        "B) The number of elements in G",
+        "C) The identity element",
+        "D) The inverse operation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1de84fb8f45607da2743cd42e1f564b03ace91a3",
+      "sectionIndex": 0,
+      "question": "In the symmetric group S,f, the total number of elements is:",
+      "options": [
+        "A) 3",
+        "B) 6",
+        "C) 9",
+        "D) 12"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4492c0763fb5c69533d54dc8fa2714c48ee48956",
+      "sectionIndex": 0,
+      "question": "A subgroup H of G must contain:",
+      "options": [
+        "A) All elements of G",
+        "B) The identity element of G",
+        "C) Only prime order elements",
+        "D) Exactly half the elements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11e189e1992c0430d18a0b28eecbb3e55473093d",
+      "sectionIndex": 0,
+      "question": "The kernel of a homomorphism is always:",
+      "options": [
+        "A) Empty",
+        "B) The whole group",
+        "C) A normal subgroup",
+        "D) A cyclic group"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c793fbc8def2f19d0b8139dcc31cff4628f94815",
+      "sectionIndex": 0,
+      "question": "A group of prime order p is always:",
+      "options": [
+        "A) Abelian",
+        "B) Non-abelian",
+        "C) Infinite",
+        "D) Simple and cyclic"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "513294a74c736d5bc77a0bdb27945c2e3592018b",
+      "sectionIndex": 0,
+      "question": "The center Z(G) of a group G contains:",
+      "options": [
+        "A) Elements that commute with all elements",
+        "B) Only the identity",
+        "C) Half the elements",
+        "D) No elements"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "077fb73e39cab3dd9a6aedab0fda49256bc2c7dd",
+      "sectionIndex": 0,
+      "question": "In a cyclic group of order n:",
+      "options": [
+        "A) All elements have order n",
+        "B) There exists an element of order n",
+        "C) No element has order n",
+        "D) All elements are identity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5471aa56c90555190d5d3c299bd0aede6699371",
+      "sectionIndex": 0,
+      "question": "The identity element in a group is:",
+      "options": [
+        "A) Not unique",
+        "B) Its own inverse",
+        "C) Always 0",
+        "D) Always 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7b8ee17c2e1ed7ae21dc84f8eaa6807e7b3c51a",
+      "sectionIndex": 0,
+      "question": "Two groups with the same order are:",
+      "options": [
+        "A) Always isomorphic",
+        "B) Never isomorphic",
+        "C) Not necessarily isomorphic",
+        "D) Always equal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "03cf5af3c4dac4b263cfa1c6ccb53f4f53616684",
+      "sectionIndex": 1,
+      "question": "A ring must have which operations?",
+      "options": [
+        "A) Addition only",
+        "B) Multiplication only",
+        "C) Addition and multiplication",
+        "D) Division"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d9b627af4d41c3d68fce4a2388b908b4510ce96f",
+      "sectionIndex": 1,
+      "question": "In a ring, multiplication must be:",
+      "options": [
+        "A) Commutative",
+        "B) Associative",
+        "C) Invertible",
+        "D) Idempotent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d09c9a19e1ab8522b20c5014a2045ba792ede82",
+      "sectionIndex": 1,
+      "question": "An integral domain has no:",
+      "options": [
+        "A) Unity",
+        "B) Zero divisors",
+        "C) Additive identity",
+        "D) Multiplicative identity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3faaaae5eecbf4b161de070873cde4d4faac0da6",
+      "sectionIndex": 1,
+      "question": "The ring Z,? has how many zero divisors?",
+      "options": [
+        "A) 0",
+        "B) 2",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a7c11ae68a575cba7e5dc452506e2ec36645c4d7",
+      "sectionIndex": 1,
+      "question": "A field is a commutative ring where:",
+      "options": [
+        "A) Every element has additive inverse",
+        "B) Every non-zero element has multiplicative inverse",
+        "C) Multiplication is not defined",
+        "D) Addition is not commutative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b8c947535283393eab5f9088a235b1348d5e0ac",
+      "sectionIndex": 1,
+      "question": "Z_n is a field if and only if:",
+      "options": [
+        "A) n is even",
+        "B) n is odd",
+        "C) n is prime",
+        "D) n is composite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7790bb87cf1ea7d21563344d41c0bf687c91d1e5",
+      "sectionIndex": 1,
+      "question": "The characteristic of a ring is:",
+      "options": [
+        "A) Its size",
+        "B) The smallest positive n where n-1 = 0",
+        "C) Always infinite",
+        "D) Always zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e81cde391c2656fece6d0e3c1fc990478f8587fc",
+      "sectionIndex": 1,
+      "question": "In the ring Z,., the element 3 has multiplicative inverse:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) Does not exist"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b7c0a5d8ea57149891f0101447b5e9bc67e987eb",
+      "sectionIndex": 1,
+      "question": "An ideal I of a ring R must be:",
+      "options": [
+        "A) A subgroup under addition",
+        "B) A subring",
+        "C) Closed under multiplication by R",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "fec4cf75c587badb9e2e61a575169e6782a46565",
+      "sectionIndex": 1,
+      "question": "The zero ring contains:",
+      "options": [
+        "A) No elements",
+        "B) Only one element",
+        "C) Two elements",
+        "D) Infinite elements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5333e52e78cb43f8517eae99869ec98c29884ac1",
+      "sectionIndex": 2,
+      "question": "A vector space must be defined over:",
+      "options": [
+        "A) Real numbers only",
+        "B) Complex numbers only",
+        "C) A field",
+        "D) Any set"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0fdd8bd1253ed13a99be7fb5bb6c0feaf34eb47c",
+      "sectionIndex": 2,
+      "question": "The dimension of R3 is:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) Infinite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "45afddb879b85e6fe54247677f24920e6a16b6b8",
+      "sectionIndex": 2,
+      "question": "Linear independence means:",
+      "options": [
+        "A) All vectors are equal",
+        "B) No vector is a linear combination of others",
+        "C) All coefficients are 1",
+        "D) Vectors are orthogonal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c21d161b502328bea137cc6c6b3829308f51329",
+      "sectionIndex": 2,
+      "question": "A basis of a vector space must be:",
+      "options": [
+        "A) Linearly independent only",
+        "B) Spanning only",
+        "C) Both linearly independent and spanning",
+        "D) Orthogonal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ff0a74274ffb09989e77c0cbb5b5d8586eeed6d3",
+      "sectionIndex": 2,
+      "question": "The zero vector:",
+      "options": [
+        "A) Can be in a basis",
+        "B) Cannot be in a linearly independent set",
+        "C) Has norm 1",
+        "D) Does not exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bb94decf5cce8d80ea871546eccbf8d8865d9b1",
+      "sectionIndex": 2,
+      "question": "A subspace of a vector space must contain:",
+      "options": [
+        "A) All vectors",
+        "B) The zero vector",
+        "C) Unit vectors only",
+        "D) Exactly half the vectors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "763c9b7ea3d97dda1b5086b42a4c8a39abab358c",
+      "sectionIndex": 2,
+      "question": "The dimension of the zero vector space is:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) Undefined",
+        "D) Infinite"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c42a7032f1e8727a0033d763ac4bae16b8b83860",
+      "sectionIndex": 2,
+      "question": "Two finite-dimensional vector spaces are isomorphic if:",
+      "options": [
+        "A) They have the same field",
+        "B) They have the same dimension",
+        "C) They are equal",
+        "D) They have the same basis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65423e4316187df58dff272877d3d423ffb0ddbb",
+      "sectionIndex": 2,
+      "question": "In R2, the standard basis consists of:",
+      "options": [
+        "A) {(1,0), (0,1)}",
+        "B) {(1,1), (1,1)}",
+        "C) {(1,0), (1,0)}",
+        "D) {(0,0), (1,1)}"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cbc40ed9505dfb16804d50f37676b60f5a74e611",
+      "sectionIndex": 2,
+      "question": "A linear transformation preserves:",
+      "options": [
+        "A) Distances",
+        "B) Angles",
+        "C) Linear combinations",
+        "D) All of the above"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "43266c0b80a388b715ee44aa023b074b22662872",
+      "sectionIndex": 3,
+      "question": "The limit of sin(x)/x as x approaches 0 is:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) ^z",
+        "D) Undefined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ad7d2b24b4be4ed3641b5aa6c46c12112c14d4f",
+      "sectionIndex": 3,
+      "question": "A function is continuous at a point if:",
+      "options": [
+        "A) It is defined there",
+        "B) Its limit exists there",
+        "C) Its limit equals its value there",
+        "D) It is differentiable there"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1e7575fcbbf6c6d7a19fb3c97af4e52bef253dcd",
+      "sectionIndex": 3,
+      "question": "The derivative of x2 is:",
+      "options": [
+        "A) x",
+        "B) 2x",
+        "C) x2",
+        "D) 2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcc25ed747adbf7453f9cbfac54215faabad2aea",
+      "sectionIndex": 3,
+      "question": "If f'(x) = 0 at x = a, then x = a is:",
+      "options": [
+        "A) Always a maximum",
+        "B) Always a minimum",
+        "C) A critical point",
+        "D) An inflection point"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b6ebfdda1981d8e3169cd2481cc352aa8c1f0c21",
+      "sectionIndex": 3,
+      "question": "The integral of 1/x is:",
+      "options": [
+        "A) x",
+        "B) ln|x| + C",
+        "C) -1/x2 + C",
+        "D) e^x + C"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "824cc57ea197e5ac6edfd69e17e96439e7bf19a6",
+      "sectionIndex": 3,
+      "question": "By the Mean Value Theorem, if f is continuous on [a,b] and differentiable on (a,b), then:",
+      "options": [
+        "A) f(a) = f(b)",
+        "B) There exists c where f'(c) = [f(b)-f(a)]/(b-a)",
+        "C) f'(x) = 0 somewhere",
+        "D) f is constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c08037e021ec9571ff69ae28651debb743cf454b",
+      "sectionIndex": 3,
+      "question": "A function has a vertical asymptote at x = a if:",
+      "options": [
+        "A) f(a) = 0",
+        "B) f'(a) = 0",
+        "C) lim f(x) = ^z as x?'a",
+        "D) f is continuous at a"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2922e6b80d7709de187ee8588445f57211a5cf3b",
+      "sectionIndex": 3,
+      "question": "The Fundamental Theorem of Calculus relates:",
+      "options": [
+        "A) Limits and continuity",
+        "B) Differentiation and integration",
+        "C) Algebra and geometry",
+        "D) Series and sequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a89875ef75bbd728206a1a1066aa8fdf86c07bc1",
+      "sectionIndex": 3,
+      "question": "A differentiable function is always:",
+      "options": [
+        "A) Integrable",
+        "B) Continuous",
+        "C) Linear",
+        "D) Bounded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75c4d356f5abe4b1f8461320cdfb8da5a33bf3bc",
+      "sectionIndex": 3,
+      "question": "The second derivative test checks for:",
+      "options": [
+        "A) Continuity",
+        "B) Differentiability",
+        "C) Concavity",
+        "D) Integrability"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "44bdfce3c4152d2532ba4f028a6320a2c1260ac9",
+      "sectionIndex": 4,
+      "question": "The complex number i2 equals:",
+      "options": [
+        "A) 1",
+        "B) -1",
+        "C) i",
+        "D) -i"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce6da435c2fdbf0ea34a4d065ace038010fd4738",
+      "sectionIndex": 4,
+      "question": "The modulus of 3 + 4i is:",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 7"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "872fb4d5287f99566790c1fcd946346e3ae23c83",
+      "sectionIndex": 4,
+      "question": "The complex conjugate of a + bi is:",
+      "options": [
+        "A) a + bi",
+        "B) a - bi",
+        "C) -a + bi",
+        "D) -a - bi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79956042e16f13ca8a99bd8d36d9ca26d6981f14",
+      "sectionIndex": 4,
+      "question": "De Moivre's theorem is used to find:",
+      "options": [
+        "A) Derivatives",
+        "B) Powers of complex numbers",
+        "C) Real numbers",
+        "D) Matrices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1eb9c0516c6065c1ae5f7c5202e16dd2d08147f6",
+      "sectionIndex": 4,
+      "question": "A function f(z) is analytic if:",
+      "options": [
+        "A) It is continuous",
+        "B) It satisfies Cauchy-Riemann equations",
+        "C) It is real-valued",
+        "D) It is bounded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42b28084e307043c67a97e0267be87614ac6054e",
+      "sectionIndex": 4,
+      "question": "The argument of -1 is:",
+      "options": [
+        "A) 0",
+        "B) ?/2",
+        "C) ?",
+        "D) 2?"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0ad63be2f35e175c87243752ada49670595c99bd",
+      "sectionIndex": 4,
+      "question": "e^(i?) equals:",
+      "options": [
+        "A) 1",
+        "B) -1",
+        "C) i",
+        "D) -i"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31989edf0f23e9463b10e2adafb728ffcc14f133",
+      "sectionIndex": 4,
+      "question": "The Cauchy integral formula applies to:",
+      "options": [
+        "A) All functions",
+        "B) Analytic functions",
+        "C) Real functions only",
+        "D) Discontinuous functions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06a9e0c747414641879c17b0b8cd3b32af32fc08",
+      "sectionIndex": 4,
+      "question": "A pole of order 1 is called:",
+      "options": [
+        "A) Essential singularity",
+        "B) Simple pole",
+        "C) Removable singularity",
+        "D) Branch point"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8691797f26d4e14c1c28aa6c855e67a6e62956b6",
+      "sectionIndex": 4,
+      "question": "The residue at a simple pole z = a of f(z) = g(z)/(z-a) is:",
+      "options": [
+        "A) 0",
+        "B) g(a)",
+        "C) 1",
+        "D) ^z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f9e492139426732ea2aed99d73d574d044d1429",
+      "sectionIndex": 5,
+      "question": "The equation x2 + y2 = r2 represents:",
+      "options": [
+        "A) A line",
+        "B) A parabola",
+        "C) A circle",
+        "D) An ellipse"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "588e08f9ae8696ca3b237f1f96b231b70317b8cf",
+      "sectionIndex": 5,
+      "question": "The standard form of a parabola with vertex at origin is:",
+      "options": [
+        "A) x2 + y2 = 1",
+        "B) y2 = 4ax",
+        "C) x2/a2 + y2/b2 = 1",
+        "D) xy = 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a410de99fc6f7d5628fc837b61e686658770b6a",
+      "sectionIndex": 5,
+      "question": "An ellipse has how many foci?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3268ec547d2ba80d610702e052b15966b22a3199",
+      "sectionIndex": 5,
+      "question": "The asymptotes of a hyperbola x2/a2 - y2/b2 = 1 are:",
+      "options": [
+        "A) x = ±a",
+        "B) y = ±b",
+        "C) y = ±(b/a)x",
+        "D) x = ±(a/b)y"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4c8c8e29ee12fd2092086da9fed7912332cd5328",
+      "sectionIndex": 5,
+      "question": "A tangent to a curve at a point has slope equal to:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) The derivative at that point",
+        "D) The second derivative"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7a55600d18b24253fed3cdb60bdaff170f6bf858",
+      "sectionIndex": 5,
+      "question": "The distance between two points (x,,y,) and (x,,,y,,) is:",
+      "options": [
+        "A) |x,, - x,| + |y,, - y,|",
+        "B) ^s[(x,,-x,)2 + (y,,-y,)2]",
+        "C) (x,,-x,)(y,,-y,)",
+        "D) x,, + y,, - x, - y,"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed31f7cae0218aee060e7689457cf6d284281a55",
+      "sectionIndex": 5,
+      "question": "A normal to a curve is:",
+      "options": [
+        "A) Parallel to the tangent",
+        "B) Perpendicular to the tangent",
+        "C) Equal to the tangent",
+        "D) Half the tangent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0d96d19e1208dd92a94e79ca8ecba5fe63d0690",
+      "sectionIndex": 5,
+      "question": "The equation of a sphere centered at origin is:",
+      "options": [
+        "A) x2 + y2 = r2",
+        "B) x2 + y2 + z2 = r2",
+        "C) x + y + z = r",
+        "D) xyz = r3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1dbd288dbb18217a9b7a62db6ae6c813ab30acce",
+      "sectionIndex": 5,
+      "question": "Two lines in 3D space can be:",
+      "options": [
+        "A) Only parallel or intersecting",
+        "B) Parallel, intersecting, or skew",
+        "C) Only intersecting",
+        "D) Only parallel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c0faa78dffa5cd68778a4702af91b3d319c0620",
+      "sectionIndex": 5,
+      "question": "The parametric form x = a cos t, y = b sin t represents:",
+      "options": [
+        "A) A circle",
+        "B) An ellipse",
+        "C) A parabola",
+        "D) A hyperbola"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d52ce573ff1acae7801c5f9bdf43fe141909528e",
+      "sectionIndex": 6,
+      "question": "A geometric series has:",
+      "options": [
+        "A) Constant difference",
+        "B) Constant ratio",
+        "C) Constant sum",
+        "D) No pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d947b126f6496a71c873837e7e3b826560cc4a7",
+      "sectionIndex": 6,
+      "question": "The series 1 + 1/2 + 1/4 + 1/8 + ... converges to:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) ^z",
+        "D) 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53bb54331adaa9a2c17546850f9071e6a1d6bd1f",
+      "sectionIndex": 6,
+      "question": "The harmonic series 1 + 1/2 + 1/3 + 1/4 + ...:",
+      "options": [
+        "A) Converges to 2",
+        "B) Converges to ?",
+        "C) Diverges",
+        "D) Equals 0"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d3ea99833cf30577db9a77873fc0ac628b42e4f8",
+      "sectionIndex": 6,
+      "question": "For convergence, the ratio test requires the limit to be:",
+      "options": [
+        "A) Equal to 1",
+        "B) Less than 1",
+        "C) Greater than 1",
+        "D) Equal to 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f1d56cfdbb5b8d2e7644acfa9f2af56eb40d525",
+      "sectionIndex": 6,
+      "question": "An absolutely convergent series:",
+      "options": [
+        "A) May not converge",
+        "B) Always converges",
+        "C) Always diverges",
+        "D) Oscillates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53f6956392cfc0dbe092550276344244d9aaf446",
+      "sectionIndex": 6,
+      "question": "A power series has the form:",
+      "options": [
+        "A) Σ a,T",
+        "B) Σ a,Txn",
+        "C) Σ n",
+        "D) Σ 1/n"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00a972cdded08b1ed292bc6d037588248c35de11",
+      "sectionIndex": 6,
+      "question": "The radius of convergence can be found using:",
+      "options": [
+        "A) Ratio test",
+        "B) Divergence test",
+        "C) Integral test",
+        "D) Comparison test"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6f72d3b4064c0df0465552cf0b57b528086df9f0",
+      "sectionIndex": 6,
+      "question": "Taylor series expansion is around:",
+      "options": [
+        "A) Infinity",
+        "B) Zero only",
+        "C) A specific point",
+        "D) All points"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "396b19acf958b7397c9b48f02ac4f631caebab05",
+      "sectionIndex": 6,
+      "question": "The Maclaurin series is a Taylor series around:",
+      "options": [
+        "A) x = 1",
+        "B) x = 0",
+        "C) x = ^z",
+        "D) x = -1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a9665fd2da3dcfe553673e17e8b6f34fbeb752a",
+      "sectionIndex": 6,
+      "question": "If Σ a,T converges, then lim a,T =:",
+      "options": [
+        "A) 1",
+        "B) ^z",
+        "C) 0",
+        "D) May not exist"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ec93c8e2a70823bd4386a82a5bd8d093039a36fa",
+      "sectionIndex": 7,
+      "question": "A linear transformation T satisfies:",
+      "options": [
+        "A) T(u + v) = T(u) + T(v)",
+        "B) T(cu) = cT(u)",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dea1ca86125c26d6b5c2d00cd1444281dcfb6754",
+      "sectionIndex": 7,
+      "question": "The kernel of a linear transformation is:",
+      "options": [
+        "A) Its range",
+        "B) The set mapped to zero",
+        "C) The entire domain",
+        "D) Always empty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c737b46b8715bc61fc458db28bc1aa97a1b6efd9",
+      "sectionIndex": 7,
+      "question": "The rank of a linear transformation is:",
+      "options": [
+        "A) The dimension of its kernel",
+        "B) The dimension of its range",
+        "C) The size of the matrix",
+        "D) Always zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2f20438624849774f22a1607d9cd9041edd643b",
+      "sectionIndex": 7,
+      "question": "An injective linear transformation has:",
+      "options": [
+        "A) Trivial kernel",
+        "B) Full range",
+        "C) Square matrix",
+        "D) No inverse"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d6a9f680b7c62be8a44897f88a3d2c759e6aa763",
+      "sectionIndex": 7,
+      "question": "The rank-nullity theorem states:",
+      "options": [
+        "A) rank + nullity = dimension of domain",
+        "B) rank = nullity",
+        "C) rank - nullity = dimension",
+        "D) rank - nullity = 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f715d551f35a6646105232430190bbc865e52579",
+      "sectionIndex": 7,
+      "question": "An isomorphism is:",
+      "options": [
+        "A) Injective only",
+        "B) Surjective only",
+        "C) Bijective linear map",
+        "D) Any function"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ace8a6400a7aa0cebdc62887e1d87fae9d4416f2",
+      "sectionIndex": 7,
+      "question": "The matrix of a linear transformation depends on:",
+      "options": [
+        "A) The transformation only",
+        "B) The choice of basis",
+        "C) The field only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f72499a8bca9c098de2c9c377f0da9f153567170",
+      "sectionIndex": 7,
+      "question": "Eigenvalues satisfy:",
+      "options": [
+        "A) Av = v",
+        "B) Av = λv",
+        "C) Av = 0",
+        "D) A + v = λ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31959ff5e0c3bc80306a80b6a226f02a64ce36e6",
+      "sectionIndex": 7,
+      "question": "The characteristic polynomial has degree:",
+      "options": [
+        "A) 1",
+        "B) Equal to matrix size",
+        "C) Infinite",
+        "D) 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4369667f7c8acbfa32fb631046ff91e11bc09925",
+      "sectionIndex": 7,
+      "question": "Similar matrices have:",
+      "options": [
+        "A) Same entries",
+        "B) Same eigenvalues",
+        "C) Same eigenvectors",
+        "D) Different determinants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56736b5ab0a8e3651c321e1b961fc9501dc10a41",
+      "sectionIndex": 8,
+      "question": "A first-order ODE has highest derivative of order:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "afbfac8b1a9d6e64c72b37f12c3f732625d90548",
+      "sectionIndex": 8,
+      "question": "The general solution of dy/dx = y is:",
+      "options": [
+        "A) y = x + C",
+        "B) y = Ce^x",
+        "C) y = Cx",
+        "D) y = ln x + C"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af66df315460f6ff335e9c6ab0d3e8d9916217c2",
+      "sectionIndex": 8,
+      "question": "A homogeneous linear ODE has:",
+      "options": [
+        "A) Constant coefficients only",
+        "B) Zero on the right side",
+        "C) Variable coefficients only",
+        "D) No solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1772702095737cf63220153e4d1a5cd79e55ca43",
+      "sectionIndex": 8,
+      "question": "Separation of variables applies when:",
+      "options": [
+        "A) ODE can be written as g(y)dy = f(x)dx",
+        "B) Coefficients are constant",
+        "C) Order is 2",
+        "D) Initial conditions are given"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "148488904007595a6c6c10386a51c452583b5025",
+      "sectionIndex": 8,
+      "question": "The integrating factor for dy/dx + P(x)y = Q(x) is:",
+      "options": [
+        "A) e^^P(x)dx",
+        "B) e^-^P(x)dx",
+        "C) ^P(x)dx",
+        "D) P(x)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a9417fea99a9a330879c91e11bf25ed2dabc5f18",
+      "sectionIndex": 8,
+      "question": "A particular solution:",
+      "options": [
+        "A) Contains arbitrary constants",
+        "B) Satisfies initial conditions",
+        "C) Is always zero",
+        "D) Does not exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2914ea82467bcb73e507df94672eab04f3903075",
+      "sectionIndex": 8,
+      "question": "The Wronskian tests for:",
+      "options": [
+        "A) Convergence",
+        "B) Linear independence of solutions",
+        "C) Stability",
+        "D) Existence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f47fc2c039bbf62f0c8fcb7ec21999c149b8100b",
+      "sectionIndex": 8,
+      "question": "For constant coefficient ODEs, we assume solution of form:",
+      "options": [
+        "A) y = x^r",
+        "B) y = e^rx",
+        "C) y = sin(rx)",
+        "D) y = ln(rx)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c720d89a6767da111f4af5799a4dda8dfb8d33b7",
+      "sectionIndex": 8,
+      "question": "A second-order linear ODE has how many linearly independent solutions?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) Infinite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aea25d79c8edca1579f822779b7bb910ecaf843d",
+      "sectionIndex": 8,
+      "question": "The method of undetermined coefficients works for:",
+      "options": [
+        "A) All ODEs",
+        "B) Special right-hand sides",
+        "C) Nonlinear ODEs",
+        "D) Partial DEs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9ea127a067c140e2febe5480e7d577de741e584",
+      "sectionIndex": 9,
+      "question": "A metric d must satisfy all EXCEPT:",
+      "options": [
+        "A) d(x,y) ? 0",
+        "B) d(x,y) = d(y,x)",
+        "C) d(x,y) ? d(x,z) + d(z,y)",
+        "D) d(x,y) = |x - y|2"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "88cffbef2a2a711f2660b604721fe9c01d46c69f",
+      "sectionIndex": 9,
+      "question": "In a metric space, d(x,x) equals:",
+      "options": [
+        "A) 1",
+        "B) 0",
+        "C) ^z",
+        "D) Undefined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1208d7866f5432eb5e19479de1a9f0c1f25cd2ff",
+      "sectionIndex": 9,
+      "question": "An open ball B(x,r) contains:",
+      "options": [
+        "A) Points at distance exactly r",
+        "B) Points at distance less than r",
+        "C) Points at distance at most r",
+        "D) Only the center"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a14eadd30514e8f4e77d6c05cb2fa172ce834504",
+      "sectionIndex": 9,
+      "question": "A set is closed if:",
+      "options": [
+        "A) It contains its boundary",
+        "B) Its complement is open",
+        "C) Both A and B",
+        "D) It is finite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ac1a3dde75788552f680df6c91fdf12938c26781",
+      "sectionIndex": 9,
+      "question": "Every metric space is:",
+      "options": [
+        "A) Complete",
+        "B) Compact",
+        "C) Hausdorff",
+        "D) Finite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c3386b4899215b6abfd43dd97af46df7147beb24",
+      "sectionIndex": 9,
+      "question": "A Cauchy sequence:",
+      "options": [
+        "A) Always converges",
+        "B) Has terms getting arbitrarily close",
+        "C) Is always bounded",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "201ab00db9de91d52357ffda749731ba3ce7f4bd",
+      "sectionIndex": 9,
+      "question": "A complete metric space:",
+      "options": [
+        "A) Is always compact",
+        "B) Has all Cauchy sequences converge",
+        "C) Is always bounded",
+        "D) Is finite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3e5019520a7ac569c7d10b2c7d5e54d1dc79371",
+      "sectionIndex": 9,
+      "question": "The discrete metric d(x,y) equals:",
+      "options": [
+        "A) |x - y|",
+        "B) 0 if x = y, 1 if x ? y",
+        "C) (x - y)2",
+        "D) max(x,y)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af1847ea0816dd8451f85432595cdb55a41801e3",
+      "sectionIndex": 9,
+      "question": "Compactness in metric spaces means:",
+      "options": [
+        "A) Closed only",
+        "B) Bounded only",
+        "C) Every open cover has finite subcover",
+        "D) Finite set"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "53953454436643565de68efb13168e43fa81822a",
+      "sectionIndex": 9,
+      "question": "Continuous functions on metric spaces preserve:",
+      "options": [
+        "A) Distances",
+        "B) Open sets (inverse image)",
+        "C) Cauchy sequences",
+        "D) Completeness"
+      ],
+      "correct": "B"
+    }
+  ]
+}

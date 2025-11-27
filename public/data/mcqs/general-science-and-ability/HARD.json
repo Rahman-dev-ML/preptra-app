@@ -1,0 +1,1194 @@
+{
+  "version": "2025-08-07T23:53:46.473Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "d5539cbacffb367c60777ba4bf9a4962ab74eec8",
+      "sectionIndex": 0,
+      "question": "Which work by Al-Battānī refined Ptolemy?Ts value for the length of the year using painstaking sine-table corrections?",
+      "options": [
+        "A) Zīj al-Ṣābiʾ",
+        "B) Kitāb al-Tadhkira",
+        "C) Kitāb al-Manāzil",
+        "D) Al-Jabr wa?Tl-Muqabala"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fa3a7254a81f4458f61ee7f7843add98f6f7a41a",
+      "sectionIndex": 0,
+      "question": "In his treatise on optics, Ibn al-Haytham proposed the intromission theory of vision. Which experiment did he use to demonstrate that light travels in straight lines?",
+      "options": [
+        "A) Camera obscura pinhole projections",
+        "B) Prism dispersion of white light",
+        "C) Lens focusing sunlight to ignite tinder",
+        "D) Refraction through water-filled spheres"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "26ebc1f96366a6119c9b64d49c9f74deda6b2e79",
+      "sectionIndex": 0,
+      "question": "Al-Khwarizmi?Ts algorithm for solving quadratic equations involves balancing and reduction. Which general quadratic form did he address?",
+      "options": [
+        null,
+        null,
+        null,
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "50e1be3ea53e096e97f845e373f1df4844c596e2",
+      "sectionIndex": 0,
+      "question": "Thābit ibn Qurra?Ts theorem generalized the Pythagorean theorem to which polygon?",
+      "options": [
+        "A) Any cyclic quadrilateral",
+        "B) Equilateral triangle",
+        "C) Regular pentagon",
+        "D) Isosceles trapezoid"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "71ac4524d08cdb460699a24c15e56049942ebb5b",
+      "sectionIndex": 0,
+      "question": "Which method did Al-Rāzī introduce to test the purity of metallic substances?",
+      "options": [
+        "A) Specific gravity comparison",
+        "B) Cupellation",
+        "C) Acid dissolution",
+        "D) Flame coloration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6032140965966d310b061eabfbb6d66f3e5fcc34",
+      "sectionIndex": 0,
+      "question": "Which mathematical concept did Omar Khayyam employ in his geometric solution of cubic equations?",
+      "options": [
+        "A) Conic section intersections",
+        "B) Infinite series",
+        "C) Modular arithmetic",
+        "D) Differential calculus"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "93cf9e071c7ed5d125e3954a844485300fe143a0",
+      "sectionIndex": 0,
+      "question": "Al-Bīrūnī calculated the Earth?Ts radius by measuring:",
+      "options": [
+        "A) The angle between the horizon and the sun at noon",
+        "B) The depth of a well and its shadow length",
+        "C) The dip angle of the horizon from a mountain top",
+        "D) The length of a degree along a meridian"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "96f05026b6990f248c414348f0b02b771f00c9c4",
+      "sectionIndex": 0,
+      "question": "Which innovation in astronomical instrumentation is attributed to Azarquiel (Al-Zarqālī)?",
+      "options": [
+        "A) The universal astrolabe",
+        "B) The first telescopic sight",
+        "C) The pendulum clock",
+        "D) The achromatic lens"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "54dead582afe9a9a66a6320baffbcf9bdc4c3df3",
+      "sectionIndex": 0,
+      "question": "Al-Kindī?Ts work on ciphering involved frequency analysis. He first applied it to which language?Ts letters?",
+      "options": [
+        "A) Arabic",
+        "B) Greek",
+        "C) Latin",
+        "D) Persian"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "aee42c97a9118b50751ce14d76622b872f094168",
+      "sectionIndex": 0,
+      "question": "Ibn Sīnā synthesized Aristotle?Ts and Galen?Ts medical theories in the Canon. Which principle did he notably challenge?",
+      "options": [
+        "A) The four humors in fixed proportion",
+        "B) The concept of contagious diseases",
+        "C) The use of animal dissection",
+        "D) The efficacy of herbal compounding"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d8d879afa2b43b4768083681e73a8000bcc0d069",
+      "sectionIndex": 1,
+      "question": "The Clausius?\"Clapeyron relation predicts that for every 1 °C rise in temperature, the saturation vapor pressure of water increases roughly by:",
+      "options": [
+        "A) 2%",
+        "B) 6?\"7%",
+        "C) 10%",
+        "D) 15%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55a419a1be9ce640ddbca899e6e22f2e5d5d64d6",
+      "sectionIndex": 1,
+      "question": "Which process converts atmospheric nitrogen into bioavailable forms and is a major source of reactive nitrogen in agricultural runoff?",
+      "options": [
+        "A) Nitrogen fixation by cyanobacteria",
+        "B) Nitrification in soils",
+        "C) Denitrification in wetlands",
+        "D) Haber?\"Bosch process emissions"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "354f9c500131d18148d652c9968251abba2ddf32",
+      "sectionIndex": 1,
+      "question": "The Great Oxygenation Event is primarily tied to which biogeochemical feedback?",
+      "options": [
+        "A) Methane oxidation sink increase",
+        "B) Silicate weathering acceleration",
+        "C) Carbon sequestration in organic-rich shales",
+        "D) Stratospheric ozone formation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e2d7c932da26d04cd0b995177de6c57b974378f3",
+      "sectionIndex": 1,
+      "question": "In the troposphere, secondary aerosols form chiefly through oxidation of SO,, to:",
+      "options": [
+        "A) Sulfuric acid (H,,SO,\")",
+        "B) Sulfate (SO,\"2-)",
+        "C) Elemental sulfur (S,^)",
+        "D) Sulfur hexafluoride (SF,?)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c59a4785b008d70623cd8246182ab4df2b48b103",
+      "sectionIndex": 1,
+      "question": "The Montreal Protocol targeted CFCs mainly because they:",
+      "options": [
+        "A) Are potent greenhouse gases",
+        "B) Catalyze ozone destruction via Cl- radicals",
+        "C) Increase stratospheric temperatures",
+        "D) Accumulate in polar stratospheric clouds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70ef2a423616ee732324517df4a4339c0fabe9bc",
+      "sectionIndex": 1,
+      "question": "The term ?oalbedo feedback? in climate science refers to:",
+      "options": [
+        "A) Increased cloud cover trapping heat",
+        "B) Snow/ice melt reducing reflectivity and increasing warming",
+        "C) CO,, solubility increase in colder oceans",
+        "D) Vegetation growth absorbing more sunlight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c22158a9a367f482205a682a6de8cf0c57c9146",
+      "sectionIndex": 1,
+      "question": "Which soil amendment can mitigate the bioavailability of heavy metals in contaminated sites?",
+      "options": [
+        "A) Lime (CaCO,f)",
+        "B) Gypsum (CaSO,\"-2H,,O)",
+        "C) Zeolite",
+        "D) Peat moss"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8896a50b1d0c75e1e453827901b963072d173651",
+      "sectionIndex": 1,
+      "question": "Under hypoxic conditions, which microbial process dominates in aquatic sediments?",
+      "options": [
+        "A) Aerobic respiration",
+        "B) Denitrification",
+        "C) Methanogenesis",
+        "D) Sulfate reduction"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "021aeb341a0cfb78c3ba8a624b74614bb8cedb55",
+      "sectionIndex": 1,
+      "question": "The IPAT equation (Impact = Population - Affluence - Technology) highlights:",
+      "options": [
+        "A) How technology always reduces environmental impact",
+        "B) The multiplicative effect of socio-economic factors on impact",
+        "C) That population is the sole driver of impact",
+        "D) That affluence inversely correlates with impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e498e8c7fb1af04cbad87fa592956af9200b4a95",
+      "sectionIndex": 1,
+      "question": "Which pollutant?Ts lifetime in the stratosphere exceeds 100 years, making it a long-lived ozone depletor?",
+      "options": [
+        "A) CFC-11 (CFCl,f)",
+        "B) HCFC-22 (CHClF,,)",
+        "C) HFC-134a (CF,fCH,,F)",
+        "D) Methyl bromide (CH,fBr)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "34113d5b60b92aaf634f6cc3ee3034518cf97487",
+      "sectionIndex": 2,
+      "question": "Which ion channel is central to the plateau phase (phase 2) of the cardiac action potential?",
+      "options": [
+        "A) Fast Na+ channels",
+        "B) L-type Ca2+ channels",
+        "C) Inward rectifier K+ channels",
+        "D) Funny current (If) channels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55cabe71d159749fb774e9ce82816bede3e9dab8",
+      "sectionIndex": 2,
+      "question": "The rate-limiting enzyme of gluconeogenesis in the liver is:",
+      "options": [
+        "A) Hexokinase",
+        "B) Phosphofructokinase-1",
+        "C) Fructose-1,6-bisphosphatase",
+        "D) Pyruvate kinase"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "eb6a2990daf974051759182cfc3a3214e693fd73",
+      "sectionIndex": 2,
+      "question": "Which segment of the nephron generates the osmotic gradient in the renal medulla?",
+      "options": [
+        "A) Proximal convoluted tubule",
+        "B) Descending limb of Henle",
+        "C) Ascending limb of Henle",
+        "D) Collecting duct"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "15103e571e4d4fbac840a70c26a4ee4129658598",
+      "sectionIndex": 2,
+      "question": "In skeletal muscle contraction, the role of troponin C is to:",
+      "options": [
+        "A) Bind actin filaments",
+        "B) Hydrolyze ATP",
+        "C) Bind Ca2+ and trigger tropomyosin shift",
+        "D) Anchor myosin heads to Z-discs"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "18ffb6ae0f1d7848ae16db8657cf48b882dd0a78",
+      "sectionIndex": 2,
+      "question": "Which cytokine is principally responsible for fever induction via hypothalamic prostaglandin synthesis?",
+      "options": [
+        "A) IL-1β",
+        "B) TNF-α",
+        "C) IFN-γ",
+        "D) IL-10"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8167a3c69e6cd5cd95c25966e1c4c4f7583ba3ea",
+      "sectionIndex": 2,
+      "question": "The Bohr effect describes how changes in which parameter influence hemoglobin affinity for O,,?",
+      "options": [
+        "A) pH and CO,, concentration",
+        "B) Temperature only",
+        "C) 2,3-BPG levels only",
+        "D) Iron oxidation state"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "133c28ff99d6e5d2b5693f854ef69a3f6b6d0078",
+      "sectionIndex": 2,
+      "question": "Which enzyme catalyzes the rate-limiting step in cholesterol synthesis?",
+      "options": [
+        "A) HMG-CoA reductase",
+        "B) Acetyl-CoA carboxylase",
+        "C) Squalene epoxidase",
+        "D) Mevalonate kinase"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c9d7cc980a227e86b2f104043ab56b6f502da8ea",
+      "sectionIndex": 2,
+      "question": "The sinoatrial node?Ts pacemaker potential is driven by which current?",
+      "options": [
+        "A) IKr (rapid delayed rectifier)",
+        "B) If (?ofunny? current)",
+        "C) ICa,T (T-type Ca2+)",
+        "D) INa (fast Na+)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac40d4cf032fca89d78d20c875e186ac3f94677e",
+      "sectionIndex": 2,
+      "question": "Which vitamin cofactor is essential for collagen cross-linking?",
+      "options": [
+        "A) Vitamin B,?",
+        "B) Vitamin C",
+        "C) Vitamin D",
+        "D) Vitamin E"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "863a42f7b97d3376a38fd713654ba1680d64808d",
+      "sectionIndex": 2,
+      "question": "The primary immune response generating immunological memory involves differentiation of B cells into:",
+      "options": [
+        "A) Plasma cells only",
+        "B) Memory B cells and plasma cells",
+        "C) Dendritic cells",
+        "D) Cytotoxic T cells"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df1fe3dcb36fb5c9b621ae6be943e15580c0ee9e",
+      "sectionIndex": 3,
+      "question": "The U?\"Pb zircon dating method relies on which decay series?",
+      "options": [
+        "A) ^238U ?' ^206Pb and ^235U ?' ^207Pb",
+        "B) ^40K ?' ^40Ar",
+        "C) ^14C ?' ^14N",
+        "D) ^87Rb ?' ^87Sr"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "de6f1a1491ca82b3133c25704cea339c933e95d5",
+      "sectionIndex": 3,
+      "question": "Mantle convection is driven largely by:",
+      "options": [
+        "A) Tidal friction",
+        "B) Radiogenic heat and residual heat from accretion",
+        "C) Solar heating",
+        "D) Core crystallization only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9802119dba7e4e31e624310cafb6d4ab73192dc5",
+      "sectionIndex": 3,
+      "question": "Which metamorphic facies is indicative of high-pressure, low-temperature conditions?",
+      "options": [
+        "A) Greenschist",
+        "B) Blueschist",
+        "C) Amphibolite",
+        "D) Eclogite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f149d63f43621ba502a724b6cfcfe0e1750055f4",
+      "sectionIndex": 3,
+      "question": "A strike-slip fault is distinguished by:",
+      "options": [
+        "A) Vertical displacement",
+        "B) Horizontal, lateral displacement",
+        "C) Extensional widening",
+        "D) Thrusting of one block over another"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20e9c4295bc1b3c92b7800f9153f7c784f6dd4e6",
+      "sectionIndex": 3,
+      "question": "The Moho discontinuity marks the boundary between:",
+      "options": [
+        "A) Crust and outer core",
+        "B) Mantle and outer core",
+        "C) Crust and mantle",
+        "D) Lithosphere and asthenosphere"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6ffc442f399cc380a2b46d416c81357f20baf662",
+      "sectionIndex": 3,
+      "question": "Pyroclastic flows are most lethal due to:",
+      "options": [
+        "A) High acidity",
+        "B) Superheated gas-particle mixtures traveling at >100 km/h",
+        "C) Lava viscosity",
+        "D) Sulfur dioxide emissions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69411edcafa665e5fede5529ff238ab48fb1bf50",
+      "sectionIndex": 3,
+      "question": "In clastic sedimentary rocks, the grain size equivalent to silt is:",
+      "options": [
+        "A) >2 mm",
+        "B) 0.0625?\"0.004 mm",
+        "C) 0.25?\"0.0625 mm",
+        "D) <0.004 mm"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dae9cf38a69e26fcdc5f7df1c36f0d7aa1e3b3d9",
+      "sectionIndex": 3,
+      "question": "The principle of cross-cutting relationships helps establish:",
+      "options": [
+        "A) Absolute ages",
+        "B) Relative ages",
+        "C) Thermal histories",
+        "D) Paleomagnetic polarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "859c7536fd180567604f50818e885bb8c069e2f7",
+      "sectionIndex": 3,
+      "question": "Banded iron formations owe their deposition to which early Earth process?",
+      "options": [
+        "A) Hydrothermal vent precipitation",
+        "B) Photosynthetic oxygen release causing iron oxidation and precipitation",
+        "C) Subduction zone fluid release",
+        "D) Glacial meltwater"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a502b6248b02f8b9bb66e326278bece411615d5",
+      "sectionIndex": 3,
+      "question": "The lithospheric plates float on the:",
+      "options": [
+        "A) Outer core",
+        "B) Lower mantle",
+        "C) Asthenosphere",
+        "D) Moho"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3f38841a1a6b1e4bdb8780a6cd578953820fe5ed",
+      "sectionIndex": 4,
+      "question": "The Chandrasekhar limit (~1.44 M~?) defines the maximum mass for a:",
+      "options": [
+        "A) Neutron star",
+        "B) White dwarf",
+        "C) Black hole formation directly from collapse",
+        "D) Brown dwarf"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "525edc2c6b9327caaf043a6cf167cd8745ea5e10",
+      "sectionIndex": 4,
+      "question": "Which process powers Type II supernovae?",
+      "options": [
+        "A) Thermonuclear runaway of carbon?\"oxygen white dwarf",
+        "B) Core collapse of massive star >8 M~?",
+        "C) Pair-instability in very massive stars",
+        "D) Neutron star merger"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b96e2390fafda021c1f07ef68061ee04bd4e586c",
+      "sectionIndex": 4,
+      "question": "The Lagrange point L, in the Earth?\"Sun system is ideal for solar observatories because:",
+      "options": [
+        "A) It remains fixed relative to both bodies",
+        "B) It is gravitationally unstable, requiring frequent station keeping",
+        "C) It is in Earth?Ts shadow",
+        "D) It has minimal radiation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fe3169322e7aa9456ae52a13b33024d79ecb7072",
+      "sectionIndex": 4,
+      "question": "Gravitational microlensing can detect exoplanets by observing:",
+      "options": [
+        "A) Direct imaging in infrared",
+        "B) Doppler wobble of host star",
+        "C) Temporary brightening of background star when planet?\"star system passes in front",
+        "D) Transit photometry dips"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e1a0d05be189d349f6bf7e356cf183a1643943c2",
+      "sectionIndex": 4,
+      "question": "Cosmic microwave background anisotropies correspond to:",
+      "options": [
+        "A) Temperature fluctuations ~10-5 K",
+        "B) Present-day galaxy clusters",
+        "C) Local radio interference",
+        "D) Galactic synchrotron emission"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bf9e792f3981f6167ee5fc0225f69b1de077cbb4",
+      "sectionIndex": 4,
+      "question": "The escape velocity from a planet is ^s(2GM/R). For Earth (M=5.97-1024 kg, R=6.37-106 m), it is approximately:",
+      "options": [
+        "A) 7.9 km/s",
+        "B) 11.2 km/s",
+        "C) 3.5 km/s",
+        "D) 20 km/s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a33daa3e85b78fb48b49837cd3cec2c228103b6e",
+      "sectionIndex": 4,
+      "question": "The Drake Equation estimates the number of communicative civilizations. Which term estimates the fraction of planets where life actually arises?",
+      "options": [
+        "A) R* (star formation rate)",
+        "B) fp (fraction with planets)",
+        "C) ne (number of habitable planets per system)",
+        "D) fl (fraction of habitable planets where life originates)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6b5698cf38c52d515840fe15932b227419cbe696",
+      "sectionIndex": 4,
+      "question": "Pulsars were first discovered via:",
+      "options": [
+        "A) Optical telescopes",
+        "B) Gamma-ray bursts",
+        "C) Radio telescope periodic pulses",
+        "D) X-ray satellites"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2ab03e58b367627f01112a1139c36105f68c8cc2",
+      "sectionIndex": 4,
+      "question": "Which effect causes the perihelion precession of Mercury?Ts orbit not accounted for by Newtonian mechanics?",
+      "options": [
+        "A) Solar wind drag",
+        "B) General relativity?Ts spacetime curvature",
+        "C) Tidal interactions with Venus",
+        "D) Sun?Ts oblateness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa8c28d994393b12587741e7de618517eda5b139",
+      "sectionIndex": 4,
+      "question": "The concept of Olbers?T paradox asks why the night sky is dark if the universe is infinite and eternal. The solution involves:",
+      "options": [
+        "A) Interstellar dust absorption",
+        "B) Universe?Ts expansion and finite age",
+        "C) Galactic shadowing",
+        "D) Cosmic microwave background"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f9689e2a72676e04beade6afd879f426c523e2d",
+      "sectionIndex": 5,
+      "question": "The time complexity of the Strassen algorithm for matrix multiplication is approximately:",
+      "options": [
+        "A) O(n3)",
+        "B) O(n^2.81)",
+        "C) O(n^2 log n)",
+        "D) O(n log n)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e3a0537ee5f66e03d38e98483362226c5890bed",
+      "sectionIndex": 5,
+      "question": "In RAID 6, how many simultaneous disk failures can be tolerated without data loss?",
+      "options": [
+        "A) One",
+        "B) Two",
+        "C) Three",
+        "D) None"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7039ccc2686fec7259a168571f327a9d9c0166c7",
+      "sectionIndex": 5,
+      "question": "Which consistency model allows reads to return stale data but ensures eventual convergence?",
+      "options": [
+        "A) Strong consistency",
+        "B) Eventual consistency",
+        "C) Linearizability",
+        "D) Sequential consistency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1df801a49a7286790cd83bd65d0619752620a830",
+      "sectionIndex": 5,
+      "question": "The CAP theorem states that a distributed system cannot simultaneously guarantee consistency, availability, and:",
+      "options": [
+        "A) Partition tolerance",
+        "B) Scalability",
+        "C) Durability",
+        "D) Security"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "403535440fc21c574a4fd343f48ddd8ac9ae9550",
+      "sectionIndex": 5,
+      "question": "Which garbage collection algorithm compacts memory by copying live objects to a new space?",
+      "options": [
+        "A) Mark-and-sweep",
+        "B) Reference counting",
+        "C) Copying collector (Cheney?Ts algorithm)",
+        "D) Generational GC only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "017b714104b02f86d44b75b473d3e22e88927add",
+      "sectionIndex": 5,
+      "question": "In TLS, which handshake message carries the server?Ts certificate chain?",
+      "options": [
+        "A) ClientHello",
+        "B) ServerHello",
+        "C) Certificate",
+        "D) Finished"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9a7b7c98b61a662931ebd75993ad5416590e2616",
+      "sectionIndex": 5,
+      "question": "A monad in functional programming encapsulates computations with which characteristics?",
+      "options": [
+        "A) Side effects, sequencing, and context propagation",
+        "B) Pure functions only",
+        "C) Object orientation",
+        "D) Shared mutable state"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4aec1286264d79ede34f4a6b79f361f687d12dc5",
+      "sectionIndex": 5,
+      "question": "The relational algebra operation equivalent to a SQL inner join is:",
+      "options": [
+        "A) Union",
+        "B) Cartesian product followed by selection",
+        "C) Set difference",
+        "D) Projection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fba323dcc7128343f8a2720e25bf0961ad67f90",
+      "sectionIndex": 5,
+      "question": "Which scheduling algorithm can lead to starvation of long jobs in CPU scheduling?",
+      "options": [
+        "A) First-Come, First-Served",
+        "B) Round Robin",
+        "C) Shortest Remaining Time First",
+        "D) Multilevel Feedback Queue"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "95ebe2a2499799d062b99555b15b2e935af8ee56",
+      "sectionIndex": 5,
+      "question": "In Kubernetes, a DaemonSet ensures that:",
+      "options": [
+        "A) Only one pod runs in the cluster",
+        "B) A copy of a pod runs on each node",
+        "C) Pods scale automatically with CPU usage",
+        "D) Services are load-balanced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "575925006ffe30f8a93dd084f63cb68c6519cc01",
+      "sectionIndex": 6,
+      "question": "The Langmuir isotherm models adsorption assuming:",
+      "options": [
+        "A) Multilayer coverage",
+        "B) Monolayer coverage on homogeneous sites",
+        "C) Cooperative binding",
+        "D) Variable heat of adsorption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "095543a9322c7bbfc16d2890c3093032ee1e7a2f",
+      "sectionIndex": 6,
+      "question": "NMR spectroscopy chemical shifts are referenced to:",
+      "options": [
+        "A) Tetramethylsilane (TMS) at 0 ppm",
+        "B) Water at 0 ppm",
+        "C) Chloroform at 7.26 ppm",
+        "D) Deuterated solvents only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6bbaac02e9d15aa2e0d30b1bf654a06c4e1fdea4",
+      "sectionIndex": 6,
+      "question": "In crystal field theory, the splitting of d-orbitals in an octahedral field yields which energy separation parameter?",
+      "options": [
+        "A) \"o",
+        "B) \"t",
+        "C) \"f",
+        "D) \"s"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "93dd0087de3a65bea4c1558223e02d6671cfa125",
+      "sectionIndex": 6,
+      "question": "For a reversible reaction A ?O B with Kc = 4 at 298 K, the reaction quotient Qc = 1 will:",
+      "options": [
+        "A) Proceed forward until equilibrium",
+        "B) Proceed in reverse",
+        "C) Remain at equilibrium",
+        "D) Decompose entirely to A"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "105a894dd1f0aee46bab0b98e3a74e1199fb33da",
+      "sectionIndex": 6,
+      "question": "In electrochemistry, overpotential arises due to:",
+      "options": [
+        "A) Ideal electrode behavior",
+        "B) Kinetic barriers at electrodes",
+        "C) Perfect conductivity",
+        "D) Zero current density"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de7b5f7606fff5cfeab218bf27f1b0f18c1c536f",
+      "sectionIndex": 6,
+      "question": "The Born?\"Haber cycle is used to calculate:",
+      "options": [
+        "A) Lattice energy of ionic solids",
+        "B) Heat capacity",
+        "C) Bond dissociation energy",
+        "D) Ionization energy directly"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "22e619fafc5078bf809663b4c2c4bcf503945b55",
+      "sectionIndex": 6,
+      "question": "Mossbauer spectroscopy relies on:",
+      "options": [
+        "A) Gamma-ray recoil-free nuclear resonance",
+        "B) Infrared absorption",
+        "C) Ultraviolet fluorescence",
+        "D) Electron spin resonance"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f1da87e12966c04bb2a100027f686b6cb84354cb",
+      "sectionIndex": 6,
+      "question": "A Buffon?Ts needle experiment estimates ? by dropping needles onto:",
+      "options": [
+        "A) A lined plane and measuring crossing frequencies",
+        "B) A random surface and measuring ricochet angles",
+        "C) A fluid medium",
+        "D) A single line repeatedly"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "866f038d0b752dddb77b35e94e44f7e4d565e901",
+      "sectionIndex": 6,
+      "question": "Point group symmetry C,fv corresponds to which molecule?",
+      "options": [
+        "A) H,,O",
+        "B) NH,f",
+        "C) CH,\"",
+        "D) CO,,"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ee92c9e0008dec35729b31fe1ad180f918e5ffe",
+      "sectionIndex": 6,
+      "question": "Scherrer?Ts equation in X-ray diffraction estimates:",
+      "options": [
+        "A) Crystal lattice parameters",
+        "B) Crystallite size from peak broadening",
+        "C) Electron density",
+        "D) Unit cell volume"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de7d4d3f2469d52f388584c7bde2ebcc3835077f",
+      "sectionIndex": 7,
+      "question": "The Fourier transform of the rectangular function yields:",
+      "options": [
+        "A) Another rectangle",
+        "B) Sinc function",
+        "C) Gaussian",
+        "D) Delta function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f888dfd005eb4ecc3051dbf0330f94ec79afb7f2",
+      "sectionIndex": 7,
+      "question": "A function f(x) is Lipschitz continuous on [a,b] if there exists L such that:",
+      "options": [
+        "A) |f(x) - f(y)| ? L|x - y| for all x,y",
+        "B) f?(x) exists everywhere",
+        "C) f?(x) is bounded",
+        "D) f(x) is monotonic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "99ac4efe03298351c80adcf030f94d3cad679b79",
+      "sectionIndex": 7,
+      "question": "In Bayesian inference, the posterior ^ likelihood - prior. If the prior is uniform, the posterior equals:",
+      "options": [
+        "A) The evidence",
+        "B) The likelihood (normalized)",
+        "C) The prior",
+        "D) Zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03815c7607558ec9344492aa5249340d2d4ab9a3",
+      "sectionIndex": 7,
+      "question": "The divergence theorem (Gauss?Ts theorem) relates a volume integral of divergence to:",
+      "options": [
+        "A) Line integral over boundary",
+        "B) Surface integral of the vector field over the boundary",
+        "C) Surface integral of normal component over boundary",
+        "D) Double integral in polar coordinates"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fd7a2ac49d1c85f252bcf8e032314582046d1fa9",
+      "sectionIndex": 7,
+      "question": "The eigenvalues of a real symmetric matrix are:",
+      "options": [
+        "A) Complex conjugate pairs",
+        "B) Real and orthogonal eigenvectors",
+        "C) Possibly complex",
+        "D) Imaginary only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "297fb4bfa3728524b6b0fc28867dfaec016d341e",
+      "sectionIndex": 7,
+      "question": "The z-score in statistics is defined as:",
+      "options": [
+        "A) (x - median)/IQR",
+        "B) (x - mean)/standard deviation",
+        "C) (x - mode)/variance",
+        "D) (x - mean)/variance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09dced68b2dc9858b0cdeb57ea1a3c0c12596139",
+      "sectionIndex": 7,
+      "question": "For the differential equation y? = y2 ?\" x2, a particular solution can be found using:",
+      "options": [
+        "A) Separation of variables",
+        "B) Exact equation methods",
+        "C) Power series expansion",
+        "D) Fourier series"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c28f709dfe17ba5c86f90ea1bf35f995b8e89be2",
+      "sectionIndex": 7,
+      "question": "The Riemann zeta function ζ(s) equals 1/(1?\"2^{1?\"s}) times the Dirichlet eta function η(s). This relation holds for:",
+      "options": [
+        "A) \"o(s) > 1 only",
+        "B) All complex s except s = 1",
+        "C) Negative integers only",
+        "D) Purely imaginary s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50330c5d6ca6ffc352341ed06f11e7d9da1a58a6",
+      "sectionIndex": 7,
+      "question": "The Gram?\"Schmidt process generates an orthonormal basis from:",
+      "options": [
+        "A) A set of linearly dependent vectors",
+        "B) A set of linearly independent vectors",
+        "C) Eigenvectors only",
+        "D) Any square matrix"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9c7cd0fc3081e467458d6214659c4bc20438519",
+      "sectionIndex": 7,
+      "question": "In game theory, a Nash equilibrium occurs when:",
+      "options": [
+        "A) Players randomize strategies equally",
+        "B) No player can unilaterally improve payoff by changing strategy",
+        "C) Payoffs are equal for all players",
+        "D) Dominant strategies exist for all players"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "843c54b04ab9baafa73e9ef04a5b3d5c5c21f49a",
+      "sectionIndex": 8,
+      "question": "The Reynolds number (Re) in fluid dynamics expresses the ratio of:",
+      "options": [
+        "A) Inertial to viscous forces",
+        "B) Pressure to velocity",
+        "C) Kinetic energy to potential energy",
+        "D) Laminar to turbulent flow"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ac04657f91104ee5eecf276e165150d3b4ee4efe",
+      "sectionIndex": 8,
+      "question": "In signal processing, the Nyquist rate is:",
+      "options": [
+        "A) Twice the maximum signal frequency",
+        "B) Half the sampling frequency",
+        "C) Equal to the DC component",
+        "D) Square of the bandwidth"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "19f8593d0e0890a0abd5b13f84f07c8ea7801d17",
+      "sectionIndex": 8,
+      "question": "In biomechanics, the Hill muscle model accounts for:",
+      "options": [
+        "A) Sarcomere elastic elements and contractile element properties",
+        "B) Bone density only",
+        "C) Neural activation only",
+        "D) Viscous fluid dynamics"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "22b95bca13fd7dd906a7a51e87979b16ed68a68f",
+      "sectionIndex": 8,
+      "question": "In economics, Pareto efficiency means:",
+      "options": [
+        "A) Maximum utility for all agents",
+        "B) No reallocation can make someone better off without making someone else worse off",
+        "C) Equal distribution of resources",
+        "D) Maximum output only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fbcf69eb46dabe37a3aafeccc969e2866e73e64",
+      "sectionIndex": 8,
+      "question": "The Mahalanobis distance differs from Euclidean distance by accounting for:",
+      "options": [
+        "A) Variable units only",
+        "B) Correlations among variables",
+        "C) Dataset size",
+        "D) Mean-centering only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c16fd9373b397dc7ff44de99e7e41ecc2dfc4efe",
+      "sectionIndex": 8,
+      "question": "In cryptography, semantic security implies:",
+      "options": [
+        "A) Ciphertexts leak no partial information about plaintexts",
+        "B) Keys can be reused indefinitely",
+        "C) Deterministic encryption",
+        "D) No message integrity"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f5545447bb06b2c7b2f66c6bfba0954d1f03dad6",
+      "sectionIndex": 8,
+      "question": "In quantum mechanics, the uncertainty principle relates position and momentum as \"x-\"p ?:",
+      "options": [
+        "A) \"/2",
+        "B) h",
+        "C) 0",
+        "D) 2h"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7c6f67b90beb3894871f96b13fe5979a94b74024",
+      "sectionIndex": 8,
+      "question": "A Hilbert space is a complete inner-product space that generalizes:",
+      "options": [
+        "A) Euclidean vector spaces to infinite dimensions",
+        "B) Metric spaces only",
+        "C) Normed linear spaces without inner product",
+        "D) Banach spaces only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1318f9bb39e0c0c1f55fe047fda912e627efa678",
+      "sectionIndex": 8,
+      "question": "In machine learning, the bias?\"variance tradeoff describes:",
+      "options": [
+        "A) Overfitting vs. underfitting balance",
+        "B) Dataset size selection",
+        "C) Hyperparameter tuning only",
+        "D) Feature selection only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5b7a8f5235f49a68490856db43b60443c78ba611",
+      "sectionIndex": 8,
+      "question": "In control theory, a system is BIBO stable if:",
+      "options": [
+        "A) Every bounded input yields a bounded output",
+        "B) Impulse response integrates to one",
+        "C) Transfer function has poles in the right half-plane",
+        "D) It is time-invariant"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4773acfbf489cc8ac3d333584d89106272df5736",
+      "sectionIndex": 9,
+      "question": "The key distinction between weathering and erosion is that weathering:",
+      "options": [
+        "A) Transports material",
+        "B) Involves in-place breakdown of rock",
+        "C) Occurs only chemically",
+        "D) Occurs only in deserts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7be55cc766774eed0babb20ffe80961b0bd58755",
+      "sectionIndex": 9,
+      "question": "Transform plate boundaries differ from convergent boundaries in that they:",
+      "options": [
+        "A) Produce volcanic arcs",
+        "B) Slide plates past each other laterally",
+        "C) Cause subduction",
+        "D) Create mid-ocean ridges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7c5ab50ce692f60710e068855b182889da830ad",
+      "sectionIndex": 9,
+      "question": "Monocots vs. dicots differ in vascular bundle arrangement: monocots have:",
+      "options": [
+        "A) Ring pattern",
+        "B) Scattered bundles",
+        "C) Central bundle only",
+        "D) No bundles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be9f027d580506df8e7d50fb2e19bc675f1f1d7a",
+      "sectionIndex": 9,
+      "question": "Renewable vs. sustainable energy: sustainable implies:",
+      "options": [
+        "A) Infinite resource only",
+        "B) Environmentally and economically viable long-term",
+        "C) Only solar and wind",
+        "D) No technological improvements needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa6560aff033a8690663bebccb7b9ff2180fc688",
+      "sectionIndex": 9,
+      "question": "LAN vs. WAN primarily differ by:",
+      "options": [
+        "A) Protocols used",
+        "B) Geographic scope",
+        "C) Data transfer rates only",
+        "D) Physical media only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68b22a378c6d7cfc3a6cd8f5710032517d228d64",
+      "sectionIndex": 9,
+      "question": "Ionic vs. covalent bonding: ionic involves electron _____, covalent involves electron _____",
+      "options": [
+        "A) sharing; transfer",
+        "B) transfer; sharing",
+        "C) delocalization; localization",
+        "D) polarization; ionization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b86a7993d83180285f33df660aa6429d7c4481fb",
+      "sectionIndex": 9,
+      "question": "Fission vs. fusion energy release per nucleon: fusion typically releases:",
+      "options": [
+        "A) Less energy than fission",
+        "B) More energy than fission",
+        "C) Zero net energy",
+        "D) Negative energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "439ab04c148cb5b286a27f4cf0fed4ef76b3b718",
+      "sectionIndex": 9,
+      "question": "Hypoglycemia vs. hyperglycemia thresholds: fasting plasma glucose <70 mg/dL is:",
+      "options": [
+        "A) Hyperglycemia",
+        "B) Hypoglycemia",
+        "C) Normal",
+        "D) Diabetic range"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "197d751531eca55688fc4610f8db74025673b131",
+      "sectionIndex": 9,
+      "question": "Solar eclipse profiles vs. transit events: a transit yields ____ light curve dip than a total eclipse",
+      "options": [
+        "A) Deeper",
+        "B) Shallower",
+        "C) Same",
+        "D) No dip"
+      ],
+      "correct": "B"
+    }
+  ]
+}

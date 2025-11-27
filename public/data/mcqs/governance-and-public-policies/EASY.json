@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:50:07.021Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "08d15d37910ce25b1f13585442208729d1964e19",
+      "sectionIndex": 0,
+      "question": "According to Max Weber, bureaucracy is characterized by:",
+      "options": [
+        "A) Personal relationships",
+        "B) Hierarchical organization and formal rules",
+        "C) Informal communication",
+        "D) Political appointments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aec3b096e57bb1749396bcaeb5c6d5df48acd6e4",
+      "sectionIndex": 0,
+      "question": "The colonial legacy of Pakistan's bureaucracy refers to:",
+      "options": [
+        "A) Democratic traditions",
+        "B) Royal Civil Services structure",
+        "C) Islamic administration",
+        "D) Federal system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "743fa7c3c10307a3bd2ec697d2b0650bba1f07fc",
+      "sectionIndex": 0,
+      "question": "Accountability in public administration means:",
+      "options": [
+        "A) Financial auditing only",
+        "B) Answerability for actions and decisions",
+        "C) Political control",
+        "D) Media scrutiny"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d057235357c8e05402e0b063dbd70f65db85cdf9",
+      "sectionIndex": 0,
+      "question": "The primary role of bureaucracy in governance is:",
+      "options": [
+        "A) Policy making only",
+        "B) Implementation of government policies",
+        "C) Judicial functions",
+        "D) Legislative duties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90a3d04ac381efc7a58871baff2bb2c1c321c7a2",
+      "sectionIndex": 0,
+      "question": "Bureaucratic reform aims to:",
+      "options": [
+        "A) Increase government size",
+        "B) Improve efficiency and service delivery",
+        "C) Reduce salaries",
+        "D) Eliminate all rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "750ab32bae7830b3e1625cab4dcdbea35f08eeb4",
+      "sectionIndex": 0,
+      "question": "The concept of 'red tape' in bureaucracy refers to:",
+      "options": [
+        "A) Official documents",
+        "B) Excessive rules and procedures",
+        "C) Government buildings",
+        "D) Civil service exams"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4461d843a76435c9d9061b2ef30e06f5377148d",
+      "sectionIndex": 0,
+      "question": "Devolution during Musharraf's regime aimed to:",
+      "options": [
+        "A) Centralize power",
+        "B) Transfer power to local levels",
+        "C) Strengthen federal government",
+        "D) Eliminate provinces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77c77e957a0a4e9d2056a37283302925c1029809",
+      "sectionIndex": 0,
+      "question": "Civil service reform typically includes:",
+      "options": [
+        "A) Recruitment and training improvements",
+        "B) Salary reductions",
+        "C) Political appointments",
+        "D) Job eliminations"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b7b17414201fd45daf3a7fc313da3623135e7618",
+      "sectionIndex": 0,
+      "question": "The interaction between bureaucracy and legislature involves:",
+      "options": [
+        "A) Competition only",
+        "B) Policy implementation and oversight",
+        "C) Judicial review",
+        "D) Constitutional amendments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2070a5a61acc676104db87bc542724b9f7052858",
+      "sectionIndex": 0,
+      "question": "A major shortfall of Pakistan's bureaucracy is:",
+      "options": [
+        "A) Over-qualification",
+        "B) Lack of accountability mechanisms",
+        "C) Too few employees",
+        "D) Excessive training"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a372ff078556d0e9a77042f008cf4f9bd3ddf156",
+      "sectionIndex": 0,
+      "question": "Bureaucrats are held accountable through:",
+      "options": [
+        "A) Elections",
+        "B) Administrative tribunals and audits",
+        "C) Media only",
+        "D) Public protests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "563a77db722fc8fd237ea62522b6327055e23b93",
+      "sectionIndex": 0,
+      "question": "The term 'civil servant' refers to:",
+      "options": [
+        "A) Military personnel",
+        "B) Government employees in administrative positions",
+        "C) Elected officials",
+        "D) Judicial officers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7605fea445618449ca6d463601e760b335de4b28",
+      "sectionIndex": 0,
+      "question": "Institutional reform in governance focuses on:",
+      "options": [
+        "A) Building construction",
+        "B) Improving organizational structures and processes",
+        "C) Salary increases only",
+        "D) Political campaigns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "069c3f51994f7624ffacd934e4359078b8ab3788",
+      "sectionIndex": 1,
+      "question": "Governance can be defined as:",
+      "options": [
+        "A) Government only",
+        "B) The process of decision-making and implementation",
+        "C) Elections",
+        "D) Law enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92ccc63ad4aaea079df1f288f53ecd87e43bfcb1",
+      "sectionIndex": 1,
+      "question": "Good governance indicators include:",
+      "options": [
+        "A) High taxes",
+        "B) Transparency and accountability",
+        "C) Large government",
+        "D) Military strength"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83a4ae97543fcf8ca988a3e099dffb45745acd01",
+      "sectionIndex": 1,
+      "question": "New Public Management emphasizes:",
+      "options": [
+        "A) Traditional bureaucracy",
+        "B) Business-like practices in government",
+        "C) Increased regulations",
+        "D) Central planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ddc9d6dfa2b5f47680ebc893d93dcb2595d56809",
+      "sectionIndex": 1,
+      "question": "The Wilsonian dichotomy refers to separation between:",
+      "options": [
+        "A) Federal and provincial",
+        "B) Politics and administration",
+        "C) Executive and judiciary",
+        "D) Public and private"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "571a653f63a4e22f681e48776582b766e4eea3d1",
+      "sectionIndex": 1,
+      "question": "Classical Public Administration focuses on:",
+      "options": [
+        "A) Market principles",
+        "B) Hierarchy and formal procedures",
+        "C) Citizen participation",
+        "D) Privatization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31c213148fd908d447747cb2a96b8e69bbd0f072",
+      "sectionIndex": 1,
+      "question": "Rational Choice Theory assumes people:",
+      "options": [
+        "A) Are irrational",
+        "B) Make decisions based on self-interest",
+        "C) Follow traditions",
+        "D) Ignore costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d615ef0e945938a0c4fda88fd7ba2f289956b10d",
+      "sectionIndex": 1,
+      "question": "New Institutionalism emphasizes:",
+      "options": [
+        "A) Individual choices only",
+        "B) Role of institutions in shaping behavior",
+        "C) Market forces",
+        "D) Traditional values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5905f1283f6ee87cdda285e80d8adcb7173a4f01",
+      "sectionIndex": 1,
+      "question": "Public Choice Theory applies:",
+      "options": [
+        "A) Sociology to government",
+        "B) Economic analysis to political behavior",
+        "C) Psychology to administration",
+        "D) History to policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db9c7955ff1495794924dca3afcad52b406254d4",
+      "sectionIndex": 1,
+      "question": "Postmodern Public Administration challenges:",
+      "options": [
+        "A) Technology use",
+        "B) Traditional hierarchies and universal truths",
+        "C) Democratic values",
+        "D) Economic growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87a5a39bea88cfbb14e4dab193e7ae11cedee71f",
+      "sectionIndex": 1,
+      "question": "The paradigm shift in governance refers to:",
+      "options": [
+        "A) No change",
+        "B) Movement from government to governance",
+        "C) Return to monarchy",
+        "D) Military rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba37b861487734bd0277563e76f619897eafa055",
+      "sectionIndex": 1,
+      "question": "Developing countries like Pakistan need governance theories that:",
+      "options": [
+        "A) Copy Western models exactly",
+        "B) Consider local context and challenges",
+        "C) Ignore cultural factors",
+        "D) Focus only on economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9689cd555a591e835a1fcb2e4c3798f502041491",
+      "sectionIndex": 1,
+      "question": "The contemporary governance approach emphasizes:",
+      "options": [
+        "A) Government control only",
+        "B) Multi-stakeholder participation",
+        "C) Bureaucratic dominance",
+        "D) Political parties only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "717c172cbcda1a53dccd55e2024c551a9f3c89ae",
+      "sectionIndex": 1,
+      "question": "Governance differs from government in that it:",
+      "options": [
+        "A) Is the same thing",
+        "B) Includes non-state actors",
+        "C) Excludes citizens",
+        "D) Focuses on elections only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0de95bb872005acfc095df0d67c622494c9bde07",
+      "sectionIndex": 2,
+      "question": "Public policy is best defined as:",
+      "options": [
+        "A) Political speeches",
+        "B) Government decisions and actions",
+        "C) Election promises",
+        "D) Media statements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f01f92c40d589b9b842a6e526669d9f9f3d8186",
+      "sectionIndex": 2,
+      "question": "The first stage of the policy cycle is:",
+      "options": [
+        "A) Implementation",
+        "B) Agenda setting",
+        "C) Evaluation",
+        "D) Termination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6907a7402d21f9a004a0956deacb411de94a279",
+      "sectionIndex": 2,
+      "question": "Policy formulation involves:",
+      "options": [
+        "A) Problem identification only",
+        "B) Developing solutions and alternatives",
+        "C) Implementation only",
+        "D) Media coverage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d36db1d15f004c553077362a1c10df0cb7735420",
+      "sectionIndex": 2,
+      "question": "Policy implementation refers to:",
+      "options": [
+        "A) Making speeches",
+        "B) Putting policies into action",
+        "C) Writing laws",
+        "D) Conducting elections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90f8187f12f2056cb83b1b76f597490f903956b4",
+      "sectionIndex": 2,
+      "question": "Policy evaluation assesses:",
+      "options": [
+        "A) Political popularity",
+        "B) Effectiveness and impact of policies",
+        "C) Media coverage",
+        "D) Opposition views"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebe8be395b4e3e4846730ed6bab7541233b32402",
+      "sectionIndex": 2,
+      "question": "Policy termination occurs when:",
+      "options": [
+        "A) Elections happen",
+        "B) Policies are ended or replaced",
+        "C) Budget increases",
+        "D) Ministers change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f7a2589fc4aff14a48c12143e5c0acec75e36f9",
+      "sectionIndex": 2,
+      "question": "The Garbage Can Model suggests policy making is:",
+      "options": [
+        "A) Always rational",
+        "B) Sometimes chaotic and opportunistic",
+        "C) Completely planned",
+        "D) Never successful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c3f643960ad5c4bd369c80ccda61227d4579c2d",
+      "sectionIndex": 2,
+      "question": "Policy analysis differs from policy advocacy in that it:",
+      "options": [
+        "A) Is the same thing",
+        "B) Focuses on objective examination",
+        "C) Promotes specific solutions",
+        "D) Ignores evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4403cbbde56bd0eb14e6bc1f0fb2e134127aa625",
+      "sectionIndex": 2,
+      "question": "Constructing policy alternatives means:",
+      "options": [
+        "A) Opposing all policies",
+        "B) Developing different solution options",
+        "C) Copying other countries",
+        "D) Maintaining status quo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9dc17ef14bd3a4517e978be517de80df6cc3483d",
+      "sectionIndex": 2,
+      "question": "Evaluative criteria for policies include:",
+      "options": [
+        "A) Political gain only",
+        "B) Effectiveness, efficiency, and equity",
+        "C) Media approval",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4f31b4334ec23b0f990ca96246f617b6f8e04e9",
+      "sectionIndex": 2,
+      "question": "Policy change can result from:",
+      "options": [
+        "A) Evaluation findings",
+        "B) Nothing",
+        "C) Tradition only",
+        "D) Random events only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "39ec0ab560f0f792a897fa33ed2d878272e4cec7",
+      "sectionIndex": 2,
+      "question": "A policy issue becomes part of the agenda when:",
+      "options": [
+        "A) It is ignored",
+        "B) It gains public and political attention",
+        "C) It is solved",
+        "D) Elections end"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cd628315e00c5d37e9e40fb689205ea2138b613",
+      "sectionIndex": 2,
+      "question": "The policy process in Pakistan often faces challenges of:",
+      "options": [
+        "A) Too much planning",
+        "B) Implementation gaps",
+        "C) Excessive evaluation",
+        "D) Over-funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd655e1e7c9325e4ba068861c09a44103e89595d",
+      "sectionIndex": 3,
+      "question": "Public-Private Partnership (PPP) means:",
+      "options": [
+        "A) Government ownership only",
+        "B) Collaboration between government and private sector",
+        "C) Complete privatization",
+        "D) NGO management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "879cbae4dd7afa97b8c69a565ca8eb84241a93e0",
+      "sectionIndex": 3,
+      "question": "Decentralization refers to:",
+      "options": [
+        "A) Centralizing all power",
+        "B) Transfer of authority to lower levels",
+        "C) Eliminating government",
+        "D) Military control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8342f29c60e1a4ec6b8d5e8fe450374a40174c7",
+      "sectionIndex": 3,
+      "question": "Local government is important because it:",
+      "options": [
+        "A) Replaces federal government",
+        "B) Brings governance closer to people",
+        "C) Eliminates bureaucracy",
+        "D) Reduces democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9561bb0a2c4fe6a10127457545c4f62f3cf6d495",
+      "sectionIndex": 3,
+      "question": "The Kerala model of decentralization is known for:",
+      "options": [
+        "A) Failure",
+        "B) Successful participatory planning",
+        "C) Centralization",
+        "D) Military rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2cb4fddf39e8247626174d0332df4619d03e1d7",
+      "sectionIndex": 3,
+      "question": "Local government reforms in Pakistan have aimed to:",
+      "options": [
+        "A) Eliminate provinces",
+        "B) Strengthen grassroots democracy",
+        "C) Increase federal control",
+        "D) Remove elections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8525f3d6ec59834e3eed09f93cccc4955d8c5937",
+      "sectionIndex": 3,
+      "question": "A major challenge of PPPs in developing countries is:",
+      "options": [
+        "A) Too much transparency",
+        "B) Weak regulatory frameworks",
+        "C) Excessive competition",
+        "D) Over-regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edd43287605bdb4e20b4c1d79c9f3f40da57aff7",
+      "sectionIndex": 3,
+      "question": "The advantage of decentralization includes:",
+      "options": [
+        "A) Slower decisions",
+        "B) Better local responsiveness",
+        "C) Increased costs",
+        "D) Less accountability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b3f63fb21362dfbd7abcf39e147fdedae2c46bd",
+      "sectionIndex": 3,
+      "question": "'Private-private partnerships' criticism suggests:",
+      "options": [
+        "A) Success of PPPs",
+        "B) Lack of public interest protection",
+        "C) Too much government control",
+        "D) Perfect implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba0ad5f2c9e8625b11f103ab56d30cac273b938d",
+      "sectionIndex": 3,
+      "question": "Fiscal decentralization means:",
+      "options": [
+        "A) Central control of all funds",
+        "B) Local revenue generation and spending authority",
+        "C) Eliminating taxes",
+        "D) Foreign aid only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3f4798af24294ca69ce948abc1f742cb5f6a466",
+      "sectionIndex": 3,
+      "question": "The 18th Amendment in Pakistan's Constitution:",
+      "options": [
+        "A) Centralized power",
+        "B) Devolved powers to provinces",
+        "C) Eliminated provinces",
+        "D) Created new provinces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88abe06b06186b0fcbfdd844eff92f3bd2c93478",
+      "sectionIndex": 3,
+      "question": "Community participation in local governance means:",
+      "options": [
+        "A) Voting only",
+        "B) Active involvement in decision-making",
+        "C) Paying taxes",
+        "D) Following orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6903e731d4f74f8b7a83124fc2a5d3361e9fef6",
+      "sectionIndex": 3,
+      "question": "The success of local government depends on:",
+      "options": [
+        "A) Federal control",
+        "B) Capacity and resources",
+        "C) Eliminating elections",
+        "D) Foreign models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46fa4c74be5e457e36f7485156caf7183f8ef971",
+      "sectionIndex": 3,
+      "question": "Outsourcing in public administration refers to:",
+      "options": [
+        "A) Hiring more staff",
+        "B) Contracting services to private entities",
+        "C) Closing departments",
+        "D) International recruitment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57a22cf6e65a23b3de3285cfef95554aebff0ee0",
+      "sectionIndex": 4,
+      "question": "Constitutionalism means:",
+      "options": [
+        "A) Having any constitution",
+        "B) Government limited by law",
+        "C) Unlimited power",
+        "D) Military rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "990f55b24cc5db1aa844f0f4e23d5a67855acecd",
+      "sectionIndex": 4,
+      "question": "Quaid-e-Azam's vision for Pakistan included:",
+      "options": [
+        "A) Theocracy",
+        "B) Democratic Islamic state",
+        "C) Secular state only",
+        "D) Military state"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "922b8d90cec367ed45c2a80fa7a04263fc46dc33",
+      "sectionIndex": 4,
+      "question": "The concept of 'Shura' in Islamic governance means:",
+      "options": [
+        "A) Dictatorship",
+        "B) Consultation",
+        "C) Monarchy",
+        "D) Anarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe8143f135d904efba85c0af93e8b2ec660f446e",
+      "sectionIndex": 4,
+      "question": "Pakistan's state structure is:",
+      "options": [
+        "A) Unitary",
+        "B) Federal",
+        "C) Confederal",
+        "D) Colonial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd87071c43e41fdf1c862ccaa2577104b639b978",
+      "sectionIndex": 4,
+      "question": "Protection of minorities in Quaid's vision meant:",
+      "options": [
+        "A) Segregation",
+        "B) Equal rights and citizenship",
+        "C) Special restrictions",
+        "D) Forced conversion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09dba624eff7b9139f894a822a11afc63f3382e6",
+      "sectionIndex": 4,
+      "question": "Islamic values in governance emphasize:",
+      "options": [
+        "A) Corruption",
+        "B) Justice and accountability",
+        "C) Nepotism",
+        "D) Discrimination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8224a0622446cf2a58415f4f4376fe7d3c962fb",
+      "sectionIndex": 4,
+      "question": "The Constitution of Pakistan was first adopted in:",
+      "options": [
+        "A) 1947",
+        "B) 1956",
+        "C) 1962",
+        "D) 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acf46dd27cfef2b3e20ae3a3c274a7c9fd6b2eba",
+      "sectionIndex": 4,
+      "question": "Federal structure means:",
+      "options": [
+        "A) Central control only",
+        "B) Division of powers between center and provinces",
+        "C) Provincial independence",
+        "D) No local government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "247f45c17a579370638af58680b8bdf2013d8505",
+      "sectionIndex": 4,
+      "question": "Rights in an Islamic state include:",
+      "options": [
+        "A) Majority rights only",
+        "B) Rights for all citizens regardless of faith",
+        "C) No minority rights",
+        "D) Selective rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e86f8610cedb145344b5cb4b0319574ca64c6c0a",
+      "sectionIndex": 4,
+      "question": "The Objectives Resolution was passed in:",
+      "options": [
+        "A) 1947",
+        "B) 1949",
+        "C) 1956",
+        "D) 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5a365a777b7e5847c605c8be8001937ed698f89",
+      "sectionIndex": 4,
+      "question": "Separation of powers refers to:",
+      "options": [
+        "A) Provincial autonomy",
+        "B) Division among executive, legislative, and judicial branches",
+        "C) Federal system",
+        "D) Party system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16e59be926729f892ebaedf6913729e482595281",
+      "sectionIndex": 4,
+      "question": "Constitutional obligations of the state include:",
+      "options": [
+        "A) Protecting elite only",
+        "B) Ensuring fundamental rights",
+        "C) Limiting democracy",
+        "D) Promoting inequality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "578fefaf5eadd3839beb1d7825d6156ccaf9aa39",
+      "sectionIndex": 4,
+      "question": "Islamic principles of governance include:",
+      "options": [
+        "A) Injustice",
+        "B) Adl (justice) and Ihsan (benevolence)",
+        "C) Corruption",
+        "D) Favoritism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4cab2d2efa97e6bc12dc1f25d16f1508f5c1658",
+      "sectionIndex": 5,
+      "question": "Corruption in governance means:",
+      "options": [
+        "A) Efficiency",
+        "B) Abuse of public office for private gain",
+        "C) Following rules",
+        "D) Transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd7cbf76004c4de0ba83dc29936e58816c4034b1",
+      "sectionIndex": 5,
+      "question": "Good governance indicators include:",
+      "options": [
+        "A) Secrecy",
+        "B) Transparency and accountability",
+        "C) Corruption",
+        "D) Inefficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3adca55f05ad8e78290f22498767232f80cdaafe",
+      "sectionIndex": 5,
+      "question": "The Estacode is:",
+      "options": [
+        "A) Criminal law",
+        "B) Ethical guidelines for civil servants",
+        "C) Constitution",
+        "D) Political manifesto"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87536b02af30cdd6b2586f679c9633ed39e2d9c1",
+      "sectionIndex": 5,
+      "question": "Transparency in governance means:",
+      "options": [
+        "A) Hidden processes",
+        "B) Open and accessible information",
+        "C) Secret decisions",
+        "D) Limited access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83dd5dc3df96e0378b9f8c1d825c126c567360cc",
+      "sectionIndex": 5,
+      "question": "Accountability mechanisms include:",
+      "options": [
+        "A) Hiding information",
+        "B) Audits and oversight bodies",
+        "C) Avoiding responsibility",
+        "D) Secret operations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92b2a91714be1abea240d462f2edb85fccb1275e",
+      "sectionIndex": 5,
+      "question": "Ethics in politics refers to:",
+      "options": [
+        "A) Winning at any cost",
+        "B) Moral principles in political behavior",
+        "C) Corruption",
+        "D) Deception"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3c3ee6a1ae236ef55c6a4319948b5ba7eb91835",
+      "sectionIndex": 5,
+      "question": "The impact of corruption on governance is:",
+      "options": [
+        "A) Positive",
+        "B) Undermines public trust and efficiency",
+        "C) Neutral",
+        "D) Beneficial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "244afe776dc1b1699dc46e38b66be01bc780d22b",
+      "sectionIndex": 5,
+      "question": "Responsiveness in governance means:",
+      "options": [
+        "A) Ignoring citizens",
+        "B) Addressing public needs promptly",
+        "C) Slow action",
+        "D) Selective response"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95d68e274ba0169eaf4885aae1457f20d2ef6bb6",
+      "sectionIndex": 5,
+      "question": "The stigma of corruption affects:",
+      "options": [
+        "A) International relations only",
+        "B) Overall governance quality and public trust",
+        "C) Nothing",
+        "D) Opposition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3cec941ed8b3f7221c2f5d0420aab610e94e536",
+      "sectionIndex": 5,
+      "question": "Ethical codes for public servants aim to:",
+      "options": [
+        "A) Increase corruption",
+        "B) Guide proper conduct",
+        "C) Reduce efficiency",
+        "D) Promote favoritism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2a12af58f63e8ae1fb447c4b8ee66d6462190f3",
+      "sectionIndex": 5,
+      "question": "Combating corruption requires:",
+      "options": [
+        "A) Ignoring it",
+        "B) Strong institutions and enforcement",
+        "C) Accepting it",
+        "D) Encouraging it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a93a07f080b78247b5299c141e1dca9b7f77559f",
+      "sectionIndex": 5,
+      "question": "Good governance promotes:",
+      "options": [
+        "A) Inequality",
+        "B) Development and public welfare",
+        "C) Corruption",
+        "D) Inefficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "917e613fd5e917faf3f3c15a32d9cdfe597364a4",
+      "sectionIndex": 5,
+      "question": "Public policies can become instruments of political gain through:",
+      "options": [
+        "A) Good planning",
+        "B) Manipulation and patronage",
+        "C) Transparency",
+        "D) Merit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2714a9e7b6841fc69432d343b26ca7223c5346e4",
+      "sectionIndex": 6,
+      "question": "Economic democracy means:",
+      "options": [
+        "A) No economic planning",
+        "B) Broad participation in economic decisions",
+        "C) Elite control",
+        "D) Foreign dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7a2f6adfeb8fbc1ecca78632ae9b840f770fcba",
+      "sectionIndex": 6,
+      "question": "Pro-poor growth focuses on:",
+      "options": [
+        "A) Helping only the rich",
+        "B) Economic growth that benefits the poor",
+        "C) Ignoring poverty",
+        "D) Trickle-up economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89218428289b200d74df25c78441fcfdd95b2991",
+      "sectionIndex": 6,
+      "question": "Fiscal discipline refers to:",
+      "options": [
+        "A) Unlimited spending",
+        "B) Responsible management of public finances",
+        "C) No budgeting",
+        "D) Debt accumulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2824873568e59b4e8a6619d0dbb63163bc89a9c5",
+      "sectionIndex": 6,
+      "question": "Economic policies impact governance by:",
+      "options": [
+        "A) Having no effect",
+        "B) Shaping resource distribution and public services",
+        "C) Only affecting the rich",
+        "D) Being irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4edfc32171f0d362067331cbe334819daaad2d5b",
+      "sectionIndex": 6,
+      "question": "The middle class is important for governance because:",
+      "options": [
+        "A) They don't vote",
+        "B) They demand accountability and services",
+        "C) They avoid taxes",
+        "D) They emigrate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "747a9ba3bd59b916c9ea43ad09063a635a52bb2f",
+      "sectionIndex": 6,
+      "question": "Incompatible economic growth means:",
+      "options": [
+        "A) Sustainable development",
+        "B) Growth that increases inequality",
+        "C) No growth",
+        "D) Equal distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "580c79c5b0e2a97ae0c1e4992c93a78ef6f91348",
+      "sectionIndex": 6,
+      "question": "Public debt affects governance by:",
+      "options": [
+        "A) Having no impact",
+        "B) Limiting resources for public services",
+        "C) Improving services",
+        "D) Increasing efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea5554e1e22d4677fb72a6eb64232d5b96151aca",
+      "sectionIndex": 6,
+      "question": "Social equity in economic policy means:",
+      "options": [
+        "A) Ignoring the poor",
+        "B) Fair distribution of opportunities",
+        "C) Elite benefits only",
+        "D) No redistribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32c09b7e915acbbad246bf258eeaca1f116dc67f",
+      "sectionIndex": 6,
+      "question": "Economic planning in Pakistan involves:",
+      "options": [
+        "A) No planning",
+        "B) Five-year development plans",
+        "C) Daily changes",
+        "D) Foreign control only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "215f21f351396956bb51d667bad43b6ccdc9c366",
+      "sectionIndex": 6,
+      "question": "Poverty reduction strategies require:",
+      "options": [
+        "A) Ignoring the poor",
+        "B) Targeted interventions and resources",
+        "C) Trickle-down only",
+        "D) No action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f414f115b9eac0b7756cd0b9362128b710547a82",
+      "sectionIndex": 6,
+      "question": "The relationship between economic growth and governance shows:",
+      "options": [
+        "A) No connection",
+        "B) Good governance promotes sustainable growth",
+        "C) Growth prevents governance",
+        "D) Inverse relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "653073bfd7dc866fb8869230eab2f172f9a033a8",
+      "sectionIndex": 7,
+      "question": "E-governance means:",
+      "options": [
+        "A) Electronic games",
+        "B) Using technology for government services",
+        "C) Eliminating government",
+        "D) Social media only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6678461abd519dbe6cec62206f591453130bbda1",
+      "sectionIndex": 7,
+      "question": "Benefits of e-governance include:",
+      "options": [
+        "A) Increased corruption",
+        "B) Improved efficiency and accessibility",
+        "C) Higher costs",
+        "D) Less transparency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e44863dbe66634e3ad66d93362dc2efce8b8e8dd",
+      "sectionIndex": 7,
+      "question": "Major challenges for e-governance in Pakistan include:",
+      "options": [
+        "A) Too much technology",
+        "B) Digital divide and infrastructure",
+        "C) Citizen resistance only",
+        "D) Over-funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff003ac0ac8d0f1b4ab78ff52a68312231db6fcd",
+      "sectionIndex": 7,
+      "question": "Outsourcing in weak administrations can be:",
+      "options": [
+        "A) Always beneficial",
+        "B) Both necessary and risky",
+        "C) Never useful",
+        "D) Cost-free"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23e16878af6a2a008503690ec9522c0eafa50ec9",
+      "sectionIndex": 7,
+      "question": "Digital transformation in governance requires:",
+      "options": [
+        "A) Computers only",
+        "B) Infrastructure, skills, and policy framework",
+        "C) Social media",
+        "D) Foreign consultants only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52776a098c16dcff3c4413a071d0fc05018a3448",
+      "sectionIndex": 7,
+      "question": "The digital divide refers to:",
+      "options": [
+        "A) Computer brands",
+        "B) Gap in technology access between groups",
+        "C) Internet speed",
+        "D) Software choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09b367a53a9442c071dab6e5c0a57524fb240ea8",
+      "sectionIndex": 7,
+      "question": "E-governance can improve transparency by:",
+      "options": [
+        "A) Hiding information",
+        "B) Making information easily accessible online",
+        "C) Reducing access",
+        "D) Complicating processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c22bdbe0366254d6711c76cff4984456fab3b0a",
+      "sectionIndex": 7,
+      "question": "Cybersecurity in e-governance is important for:",
+      "options": [
+        "A) Entertainment",
+        "B) Protecting citizen data and government systems",
+        "C) Increasing costs",
+        "D) Reducing efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cfde55c0023479e4ad9b3b0c355cba9113c9f20",
+      "sectionIndex": 7,
+      "question": "Online service delivery advantages include:",
+      "options": [
+        "A) Longer wait times",
+        "B) 24/7 availability and convenience",
+        "C) More paperwork",
+        "D) In-person requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a59f3e3d1aaf4404c7f5a8ee5869bd1dc45080b",
+      "sectionIndex": 7,
+      "question": "Capacity building for e-governance means:",
+      "options": [
+        "A) Building computers",
+        "B) Training staff and citizens in digital skills",
+        "C) Reducing staff",
+        "D) Eliminating traditional services"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3de6af11a1cf43e95cff4c04c745e2fafff7978a",
+      "sectionIndex": 7,
+      "question": "The future of governance increasingly involves:",
+      "options": [
+        "A) Return to paper",
+        "B) Digital innovation and citizen engagement",
+        "C) Less technology",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    }
+  ]
+}

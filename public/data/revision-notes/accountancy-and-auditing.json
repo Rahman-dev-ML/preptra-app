@@ -1,0 +1,775 @@
+{
+  "subject": "Accountancy & Auditing (CSS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Financial Accounting",
+    "Cost & Managerial Accounting",
+    "Auditing & Assurance",
+    "Taxation (Pakistan)",
+    "Corporate Finance & Analysis",
+    "IFRS/IAS Standards",
+    "Corporate Governance (Pakistan)",
+    "Exam Strategy & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Financial Statements: Structure & Linkage",
+      "content": "Understand the balance sheet, income statement, and cash flow statement; how accruals, matching, and closing/adjusting entries flow into retained earnings; common exam tasks include preparing statements from a trial balance and reconciling profit to operating cash flows.",
+      "keyTakeaways": [
+        "Assets = Liabilities + Equity is always true; equity rolls forward via net income and dividends.",
+        "Indirect cash flow starts from net income and adjusts for non-cash & working capital.",
+        "Exam often mixes conceptual definitions with numeric preparation."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax—Principles of Financial Accounting",
+          "url": "https://openstax.org/details/books/principles-financial-accounting",
+          "type": "book",
+          "description": "Free comprehensive textbook"
+        },
+        {
+          "title": "PrinciplesOfAccounting.com—The Accounting Cycle",
+          "url": "https://www.principlesofaccounting.com/the-accounting-cycle/",
+          "type": "website",
+          "description": "Step-by-step accounting cycle"
+        },
+        {
+          "title": "Edspira—Overview of Financial Statements (Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL_KGEFWqEaTA6l1kGaqTUI_WBIu2EekKA",
+          "type": "video",
+          "description": "Visual explanations"
+        }
+      ],
+      "importance": "high",
+      "category": "Financial Accounting",
+      "topics": ["Statements", "Accruals", "Closing Entries", "Cash Flow (IAS 7)"]
+    },
+    {
+      "id": "2",
+      "title": "Accounting Principles, Concepts & Conventions",
+      "content": "Core principles (relevance, faithful representation), assumptions (going concern, accrual), and conventions; link these to recognition and measurement questions.",
+      "keyTakeaways": [
+        "Qualitative characteristics drive measurement choices.",
+        "Going concern underpins valuation; otherwise liquidation basis.",
+        "Exam frequently asks for principle vs. convention distinctions."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax—Preface & Ch. 15: Reporting & Concepts",
+          "url": "https://openstax.org/books/principles-financial-accounting/pages/preface",
+          "type": "book",
+          "description": "Conceptual foundations"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Chapter 15 Concepts",
+          "url": "https://www.principlesofaccounting.com/chapter-15/",
+          "type": "website",
+          "description": "Principles and conventions"
+        }
+      ],
+      "importance": "medium",
+      "category": "Financial Accounting",
+      "topics": ["GAAP/IFRS concepts", "Qualitative characteristics", "Going concern"]
+    },
+    {
+      "id": "3",
+      "title": "Recording Process: Journal, Ledger, Trial Balance",
+      "content": "Double-entry, debits/credits, adjusting entries (accruals/deferrals), and trial balance → adjusted TB → statements.",
+      "keyTakeaways": [
+        "Every adjusting entry affects one income statement and one balance sheet account.",
+        "Common pitfalls: prepaid vs. expense, unearned vs. revenue.",
+        "Trial balance does not guarantee error-free books."
+      ],
+      "resources": [
+        {
+          "title": "Edspira—Accounting Cycle & Debits/Credits",
+          "url": "https://www.youtube.com/playlist?list=PL_KGEFWqEaTBnlYRxvBlxdX_J1h_9jWZ3",
+          "type": "video",
+          "description": "Step-by-step recording process"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Info Processing",
+          "url": "https://www.principlesofaccounting.com/chapter-2/",
+          "type": "website",
+          "description": "Recording and processing"
+        }
+      ],
+      "importance": "high",
+      "category": "Financial Accounting",
+      "topics": ["Journalizing", "Adjusting", "Trial Balance"]
+    },
+    {
+      "id": "4",
+      "title": "Revenue Recognition & Accruals",
+      "content": "Core idea: recognize revenue when control transfers and performance obligations are satisfied (IFRS 15); distinguish cash vs. accrual; typical questions include timing of recognition and multiple-element contracts (basic).",
+      "keyTakeaways": [
+        "Accrual basis ≠ cash received.",
+        "Identify performance obligations and transaction price.",
+        "Disclosure is as important as recognition."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax—Accrual vs Cash",
+          "url": "https://openstax.org/books/principles-financial-accounting/pages/3-introduction-to-accrual-accounting",
+          "type": "book",
+          "description": "Accrual accounting fundamentals"
+        },
+        {
+          "title": "Edspira—Accrual vs. Cash (Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL_KGEFWqEaTA-4et6QepUOMbLt-mM5LPX",
+          "type": "video",
+          "description": "Visual comparisons"
+        }
+      ],
+      "importance": "high",
+      "category": "Financial Accounting",
+      "topics": ["IFRS 15 basics", "Accrual Accounting"]
+    },
+    {
+      "id": "5",
+      "title": "Inventory Accounting (IAS 2): Costing & Valuation",
+      "content": "Flow assumptions (FIFO/Weighted Average), lower of cost and net realizable value (NRV), purchase and conversion costs; LIFO is prohibited under IFRS.",
+      "keyTakeaways": [
+        "Write-downs to NRV require disclosure; reversals permitted if NRV recovers.",
+        "Choice of method affects COGS, gross margin, and ratios.",
+        "Exam often asks numerical FIFO/Wt. Avg. with NRV test."
+      ],
+      "resources": [
+        {
+          "title": "Accounting Stuff—Inventory Basics",
+          "url": "https://www.youtube.com/@AccountingStuff",
+          "type": "video",
+          "description": "Inventory concepts and calculations"
+        },
+        {
+          "title": "IAS 2 explainer (video)",
+          "url": "https://www.youtube.com/watch?v=3S6ulr7qTiU",
+          "type": "video",
+          "description": "IAS 2 overview"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Inventory (Ch. 8)",
+          "url": "https://www.principlesofaccounting.com/chapter-8/",
+          "type": "website",
+          "description": "Inventory accounting methods"
+        }
+      ],
+      "importance": "high",
+      "category": "IFRS/IAS Standards",
+      "topics": ["IAS 2", "FIFO", "Weighted Average", "NRV"]
+    },
+    {
+      "id": "6",
+      "title": "PPE & Depreciation (IAS 16) + Impairment (IAS 36)",
+      "content": "Initial recognition at cost, subsequent measurement (cost vs. revaluation), depreciation methods (SL/DB/SYD) and changes in estimates; impairment indicators and recoverable amount testing.",
+      "keyTakeaways": [
+        "Component depreciation is required when significant parts have different lives.",
+        "Revaluation surplus goes to OCI; impairment losses to P&L (with reval nuance).",
+        "Exam mixes theory with calculations (depr., disposal, revaluation)."
+      ],
+      "resources": [
+        {
+          "title": "IFRS—List of Standards (IAS 16/IAS 36)",
+          "url": "https://www.ifrs.org/issued-standards/",
+          "type": "website",
+          "description": "Official standards portal"
+        },
+        {
+          "title": "OpenStax—Long-Term Assets",
+          "url": "https://openstax.org/books/principles-financial-accounting/pages/9-long-term-assets",
+          "type": "book",
+          "description": "PPE and depreciation"
+        }
+      ],
+      "importance": "high",
+      "category": "IFRS/IAS Standards",
+      "topics": ["IAS 16", "IAS 36", "Depreciation", "Revaluation"]
+    },
+    {
+      "id": "7",
+      "title": "Receivables & Expected Credit Losses (IFRS 9)",
+      "content": "Recognition of trade receivables, allowance for doubtful accounts; under IFRS 9, ECL models (12-month vs. lifetime) for financial assets.",
+      "keyTakeaways": [
+        "Provisioning affects income and ratios; know direct write-off vs. allowance in exams.",
+        "Simplified approach often applies to trade receivables.",
+        "Disclosures around credit risk are examinable."
+      ],
+      "resources": [
+        {
+          "title": "IFRS—Standards Navigator (IFRS 9)",
+          "url": "https://www.ifrs.org/issued-standards/list-of-standards/",
+          "type": "website",
+          "description": "IFRS 9 overview"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Accounts Receivable",
+          "url": "https://www.principlesofaccounting.com/chapter-7/",
+          "type": "website",
+          "description": "Receivables accounting"
+        }
+      ],
+      "importance": "medium",
+      "category": "IFRS/IAS Standards",
+      "topics": ["IFRS 9", "ECL", "Allowance Method"]
+    },
+    {
+      "id": "8",
+      "title": "Cash, Bank Reconciliation & Internal Control",
+      "content": "Cash equivalence, bank reconciliation steps, petty cash control, segregation of duties; common short question area.",
+      "keyTakeaways": [
+        "Bank reconciliation explains book vs. bank timing & errors.",
+        "Controls over receipts/disbursements reduce fraud risk.",
+        "Petty cash uses imprest system."
+      ],
+      "resources": [
+        {
+          "title": "PrinciplesOfAccounting—Cash & Bank Recs",
+          "url": "https://www.principlesofaccounting.com/chapter-6/",
+          "type": "website",
+          "description": "Cash controls and reconciliation"
+        },
+        {
+          "title": "Edspira—Cash & Controls",
+          "url": "https://www.youtube.com/@Edspira",
+          "type": "video",
+          "description": "Cash management videos"
+        }
+      ],
+      "importance": "medium",
+      "category": "Financial Accounting",
+      "topics": ["Cash Controls", "Bank Reconciliation"]
+    },
+    {
+      "id": "9",
+      "title": "Cost & Managerial Accounting: CVP & Break-Even",
+      "content": "Cost behavior (fixed/variable/mixed), contribution margin, break-even Q = Fixed Costs/CM per unit, and margin of safety; typical exam numericals.",
+      "keyTakeaways": [
+        "Use contribution format for quick what-if analysis.",
+        "Operating leverage magnifies profit sensitivity.",
+        "CVP assumes linearity within relevant range."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax—Managerial Accounting (Volume 2)",
+          "url": "https://openstax.org/details/books/principles-managerial-accounting",
+          "type": "book",
+          "description": "Free managerial accounting textbook"
+        },
+        {
+          "title": "LibreTexts—Managerial Accounting",
+          "url": "https://biz.libretexts.org/Bookshelves/Accounting/Managerial_Accounting_%28OpenStax%29",
+          "type": "website",
+          "description": "Open access managerial accounting"
+        }
+      ],
+      "importance": "high",
+      "category": "Cost & Managerial Accounting",
+      "topics": ["CVP", "Contribution Margin", "Break-Even"]
+    },
+    {
+      "id": "10",
+      "title": "Job Order vs. Process Costing",
+      "content": "When to use each system; computing unit costs, equivalent units (FIFO/WA), overhead allocation and under/over-applied overhead.",
+      "keyTakeaways": [
+        "Job order: heterogeneous, process: homogeneous continuous flow.",
+        "Be fluent with equivalent units in process costing.",
+        "Predetermined OH rate = Est. OH / Est. allocation base."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax—Managerial: Job/Process Costing",
+          "url": "https://openstax.org/books/principles-managerial-accounting/pages/2-why-it-matters-managerial-accounting",
+          "type": "book",
+          "description": "Costing systems comparison"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Cost Topics",
+          "url": "https://www.principlesofaccounting.com/managerial-accounting/",
+          "type": "website",
+          "description": "Managerial accounting topics"
+        }
+      ],
+      "importance": "high",
+      "category": "Cost & Managerial Accounting",
+      "topics": ["Job Costing", "Process Costing", "Overhead"]
+    },
+    {
+      "id": "11",
+      "title": "Budgeting & Variance Analysis",
+      "content": "Master, flexible, and cash budgets; materials, labor, and overhead variances; common short numericals.",
+      "keyTakeaways": [
+        "Flexible budgets separate activity and spending variances.",
+        "Standard costing ties into performance evaluation.",
+        "Cash budget links operations to financing needs."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax—Flexible Budgets & Variances",
+          "url": "https://openstax.org/books/principles-managerial-accounting/pages/8-flexible-budgets",
+          "type": "book",
+          "description": "Budgeting and variance analysis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Cost & Managerial Accounting",
+      "topics": ["Budgets", "Standard Costing", "Variances"]
+    },
+    {
+      "id": "12",
+      "title": "Audit Fundamentals: Assertions & Evidence",
+      "content": "Financial statement assertions (existence, completeness, rights/obligations, accuracy/valuation, presentation), audit procedures and evidence reliability hierarchy.",
+      "keyTakeaways": [
+        "Design procedures to test specific assertions.",
+        "External confirmations/inspection > inquiry for reliability.",
+        "Documentation must enable an experienced auditor to understand work performed."
+      ],
+      "resources": [
+        {
+          "title": "IAASB—Standards & Pronouncements",
+          "url": "https://www.iaasb.org/standards-pronouncements",
+          "type": "website",
+          "description": "International auditing standards"
+        },
+        {
+          "title": "ACCA—Audit Evidence & Assertions",
+          "url": "https://www.accaglobal.com/us/en/student/exam-support-resources/fundamentals-exams-study-resources/f8/technical-articles.html",
+          "type": "article",
+          "description": "Audit evidence guidance"
+        }
+      ],
+      "importance": "high",
+      "category": "Auditing & Assurance",
+      "topics": ["Assertions", "Evidence", "ISA Framework"]
+    },
+    {
+      "id": "13",
+      "title": "Risk Assessment (ISA 315) & Responses (ISA 330)",
+      "content": "Identify and assess risks of material misstatement via understanding the entity, environment, and internal control; determine significant risks and tailor responses.",
+      "keyTakeaways": [
+        "Spectrum of inherent risk helps flag significant risks.",
+        "Link assessed risks to nature/timing/extent of tests.",
+        "Controls testing vs. substantive procedures trade-off."
+      ],
+      "resources": [
+        {
+          "title": "IAASB—ISA 315 (Revised 2019)",
+          "url": "https://www.iaasb.org/publications/isa-315-revised-2019-identifying-and-assessing-risks-material-misstatement",
+          "type": "website",
+          "description": "Risk assessment standard"
+        },
+        {
+          "title": "IFAC—Implementation Tool for ISA 315",
+          "url": "https://www.ifac.org/news-events/2022-12/ifac-releases-new-implementation-tool-auditors-identifying-and-assessing-risks-material-misstatement",
+          "type": "article",
+          "description": "Implementation guidance"
+        },
+        {
+          "title": "ACCA—Audit Risk (article)",
+          "url": "https://www.accaglobal.com/us/en/student/exam-support-resources/professional-exams-study-resources/p7/technical-articles/audit-risk.html",
+          "type": "article",
+          "description": "Audit risk explanation"
+        }
+      ],
+      "importance": "high",
+      "category": "Auditing & Assurance",
+      "topics": ["ISA 315", "ISA 330", "Risk of MM", "Controls"]
+    },
+    {
+      "id": "14",
+      "title": "Materiality (ISA 320) & Audit Opinion",
+      "content": "Set overall and performance materiality; accumulate misstatements; evaluate effect on the opinion (unmodified, qualified, adverse, disclaimer).",
+      "keyTakeaways": [
+        "Performance materiality < overall materiality to absorb errors.",
+        "Materiality is both quantitative and qualitative.",
+        "Clear linkage from misstatements to opinion type."
+      ],
+      "resources": [
+        {
+          "title": "ISA 320—Materiality (PDF)",
+          "url": "https://www.ibr-ire.be/docs/default-source/fr/documents/reglementation-et-publications/normes-et-recommandations/isa/isa-english-version/isa-320_en.pdf?sfvrsn=e927e4d9_1",
+          "type": "pdf",
+          "description": "Materiality standard"
+        },
+        {
+          "title": "ACCA—Forming an Audit Opinion",
+          "url": "https://www.accaglobal.com/us/en/student/exam-support-resources/fundamentals-exams-study-resources/f8/technical-articles/forming-an-audit-opinion.html",
+          "type": "article",
+          "description": "Opinion formation process"
+        }
+      ],
+      "importance": "high",
+      "category": "Auditing & Assurance",
+      "topics": ["ISA 320", "Materiality", "Audit Reports"]
+    },
+    {
+      "id": "15",
+      "title": "ISA for Less Complex Entities (ISA for LCE)",
+      "content": "A standalone standard tailored for audits of less complex entities, effective for audits beginning on or after 15 Dec 2025 (jurisdictional adoption dependent).",
+      "keyTakeaways": [
+        "Same level of reasonable assurance as ISAs.",
+        "Streamlined requirements for LCEs.",
+        "Know scope and eligibility concepts."
+      ],
+      "resources": [
+        {
+          "title": "IAASB—ISA for LCE Overview",
+          "url": "https://www.iaasb.org/publications/international-standard-auditing-audits-financial-statements-less-complex-entities",
+          "type": "website",
+          "description": "LCE standard overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Auditing & Assurance",
+      "topics": ["LCE", "Reasonable Assurance"]
+    },
+    {
+      "id": "16",
+      "title": "IFRS Landscape & Access",
+      "content": "IFRS Accounting Standards issued by the IASB under IFRS Foundation; for CSS, know major IAS/IFRS, terminology, and where to find official materials.",
+      "keyTakeaways": [
+        "IFRS is principle-based; many exams test conceptual application.",
+        "Official texts live on IFRS.org; summaries elsewhere are secondary.",
+        "Pakistan's listed companies report under IFRS as adopted locally."
+      ],
+      "resources": [
+        {
+          "title": "IFRS Foundation—Homepage",
+          "url": "https://www.ifrs.org/",
+          "type": "website",
+          "description": "Official IFRS portal"
+        },
+        {
+          "title": "IFRS—Issued Standards",
+          "url": "https://www.ifrs.org/issued-standards/",
+          "type": "website",
+          "description": "Complete standards list"
+        },
+        {
+          "title": "World Bank—IFRS Practical Guide (Summaries)",
+          "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099719108282411390",
+          "type": "pdf",
+          "description": "IFRS implementation guide"
+        }
+      ],
+      "importance": "high",
+      "category": "IFRS/IAS Standards",
+      "topics": ["IFRS", "IASB", "Standards Access"]
+    },
+    {
+      "id": "17",
+      "title": "Corporate Governance (Pakistan) for Auditing & Reporting",
+      "content": "SECP's Listed Companies Code of Corporate Governance sets board composition, audit committee, auditor rotation, and disclosure requirements—often examinable in Paper II essays.",
+      "keyTakeaways": [
+        "Know board independence, audit committee roles, internal audit mandate.",
+        "Understand comply-or-explain and enforcement context.",
+        "Governance links to audit risk and reporting quality."
+      ],
+      "resources": [
+        {
+          "title": "SECP—Code of Corporate Governance (2019, amended)",
+          "url": "https://www.secp.gov.pk/document/listed-companies-code-of-corporate-governance-regulations-2019/",
+          "type": "website",
+          "description": "Pakistan corporate governance code"
+        },
+        {
+          "title": "SECP—Corporate Governance Portal",
+          "url": "https://www.secp.gov.pk/corporate-governance/corporate-governance/",
+          "type": "website",
+          "description": "Governance resources"
+        }
+      ],
+      "importance": "high",
+      "category": "Corporate Governance (Pakistan)",
+      "topics": ["SECP Code", "Audit Committee", "Auditor Rotation"]
+    },
+    {
+      "id": "18",
+      "title": "Taxation (Pakistan): Income Tax Ordinance 2001",
+      "content": "Understand charge of tax, scope, residential status, heads of income, allowable deductions, credits, and computation framework; CSS numericals commonly test salary and business income.",
+      "keyTakeaways": [
+        "Use the latest amended text for thresholds and rates.",
+        "Classify income heads correctly and apply adjustments.",
+        "Keep an eye on exemptions/credits and recent Finance Acts."
+      ],
+      "resources": [
+        {
+          "title": "FBR—Income Tax Ordinance (Amended up to 31-07-2025)",
+          "url": "https://download1.fbr.gov.pk/Docs/2025881983148210Income-Tax-Ordinance%2C-2001-Amended-upto-31.07.2025.pdf",
+          "type": "pdf",
+          "description": "Latest amended ordinance"
+        },
+        {
+          "title": "Pakistan Code—Income Tax Ordinance 2001",
+          "url": "https://www.pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-a5acag%3D%3D-sg-jjjjjjjjjjjjj",
+          "type": "website",
+          "description": "Legal database access"
+        }
+      ],
+      "importance": "high",
+      "category": "Taxation (Pakistan)",
+      "topics": ["Scope of Tax", "Heads of Income", "Computation"]
+    },
+    {
+      "id": "19",
+      "title": "Sales Tax & Withholding Overview (Pakistan)",
+      "content": "At a high level, understand sales tax framework and common withholding categories relevant to business transactions—useful for conceptual CSS questions.",
+      "keyTakeaways": [
+        "Separate direct (income) vs indirect (sales) tax treatment.",
+        "Withholding regimes affect cash flows and compliance.",
+        "Always reference current SROs/Finance Acts."
+      ],
+      "resources": [
+        {
+          "title": "FBR—Main Portal (updates & SROs)",
+          "url": "https://www.fbr.gov.pk",
+          "type": "website",
+          "description": "Tax authority portal"
+        },
+        {
+          "title": "SECP—Regulations (for related company compliance)",
+          "url": "https://www.secp.gov.pk/laws/regulations/",
+          "type": "website",
+          "description": "Corporate compliance framework"
+        }
+      ],
+      "importance": "medium",
+      "category": "Taxation (Pakistan)",
+      "topics": ["Sales Tax", "Withholding", "Compliance"]
+    },
+    {
+      "id": "20",
+      "title": "Financial Ratios & Statement Analysis",
+      "content": "Liquidity, solvency, activity/turnover, profitability, and market ratios; interpretation, cross-sectional vs. time-series.",
+      "keyTakeaways": [
+        "Context matters: compare to peers and industry.",
+        "DuPont decomposes ROE into margin × turnover × leverage.",
+        "Exam may give raw statements and ask for ratio set + commentary."
+      ],
+      "resources": [
+        {
+          "title": "PrinciplesOfAccounting—Statement Analysis",
+          "url": "https://www.principlesofaccounting.com/chapter-16/statement-analysis/",
+          "type": "website",
+          "description": "Financial analysis techniques"
+        },
+        {
+          "title": "Investopedia—Guide to Financial Ratios",
+          "url": "https://www.investopedia.com/articles/stocks/06/ratios.asp",
+          "type": "article",
+          "description": "Comprehensive ratio guide"
+        }
+      ],
+      "importance": "high",
+      "category": "Corporate Finance & Analysis",
+      "topics": ["Liquidity", "Profitability", "DuPont", "Interpretation"]
+    },
+    {
+      "id": "21",
+      "title": "Time Value of Money & Capital Budgeting",
+      "content": "Present/future value, annuities; project appraisal via NPV, IRR, payback; CSS numericals commonly appear here.",
+      "keyTakeaways": [
+        "NPV is value-additive and preferred to IRR when conflicting.",
+        "Use appropriate discount rate (WACC or project-specific).",
+        "Beware non-conventional cash flows (multiple IRRs)."
+      ],
+      "resources": [
+        {
+          "title": "CFA Institute—TVM Refresher (Learning Module)",
+          "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2025/time-value-money",
+          "type": "article",
+          "description": "Time value concepts"
+        },
+        {
+          "title": "Damodaran—Corporate Finance Notes",
+          "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/cflect.htm",
+          "type": "website",
+          "description": "Corporate finance lectures"
+        }
+      ],
+      "importance": "high",
+      "category": "Corporate Finance & Analysis",
+      "topics": ["PV/FV", "NPV", "IRR", "WACC"]
+    },
+    {
+      "id": "22",
+      "title": "Bonds & Long-Term Liabilities",
+      "content": "Issuance at discount/premium, effective interest amortization, covenant basics, and IFRS presentation.",
+      "keyTakeaways": [
+        "Issue price = PV of coupons + PV of principal at market yield.",
+        "Carrying amount moves toward face over time.",
+        "Disclosures on terms and covenants are examinable."
+      ],
+      "resources": [
+        {
+          "title": "Edspira—Bonds (Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL_KGEFWqEaTB9mM738ZktfyqoKFfhiDlu",
+          "type": "video",
+          "description": "Bond accounting videos"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Long-Term Liabilities",
+          "url": "https://www.principlesofaccounting.com/chapter-14/",
+          "type": "website",
+          "description": "Long-term debt accounting"
+        }
+      ],
+      "importance": "medium",
+      "category": "Financial Accounting",
+      "topics": ["Bonds", "Effective Interest", "IFRS Presentation"]
+    },
+    {
+      "id": "23",
+      "title": "FPSC CSS—Syllabus, Paper I & II Patterns",
+      "content": "Use the official FPSC syllabus and recent papers to align prep: Paper-I heavy on financial accounting & cost; Paper-II on auditing, governance, and business finance.",
+      "keyTakeaways": [
+        "Practice past questions on statement prep, costing, and audit essays.",
+        "Mix objective MCQs drills with full-length structured responses.",
+        "Quote standards/regulations precisely in Paper-II."
+      ],
+      "resources": [
+        {
+          "title": "FPSC—Revised Scheme & Syllabus (CSS)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "pdf",
+          "description": "Official CSS syllabus"
+        },
+        {
+          "title": "FPSC—Accountancy & Auditing Paper-I (2024 sample)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-06-13-Accountancy-%26-Auditing-I.pdf",
+          "type": "pdf",
+          "description": "Sample Paper I"
+        },
+        {
+          "title": "FPSC—Accountancy & Auditing Paper-II (2024 sample)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-07-02-10-09-16-Accountancy-%26-Auditing-II-.pdf",
+          "type": "pdf",
+          "description": "Sample Paper II"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Syllabus", "Paper Pattern", "Past Papers"]
+    },
+    {
+      "id": "24",
+      "title": "High-Yield Video Channels (CSS-friendly curation)",
+      "content": "Use concise, exam-oriented channels for fast revision on fundamentals, IFRS summaries, and numericals.",
+      "keyTakeaways": [
+        "Prioritize structured playlists over random videos.",
+        "Cross-check any YouTube shortcuts with IFRS/IAASB originals.",
+        "Build topic-wise watchlists matching FPSC syllabus."
+      ],
+      "resources": [
+        {
+          "title": "Edspira—Financial Accounting (Full Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL_KGEFWqEaTCDEzqFn0imjpyIRDy4p63s",
+          "type": "video",
+          "description": "Comprehensive financial accounting"
+        },
+        {
+          "title": "Farhat's Accounting Lectures—Channel",
+          "url": "https://www.youtube.com/channel/UCOYjmNfEFcUPDgihxwSSReA",
+          "type": "video",
+          "description": "Detailed accounting lectures"
+        },
+        {
+          "title": "Accounting Stuff—Channel",
+          "url": "https://www.youtube.com/@AccountingStuff/videos",
+          "type": "video",
+          "description": "Practical accounting concepts"
+        },
+        {
+          "title": "PrinciplesOfAccounting—Free Textbook Online",
+          "url": "https://www.principlesofaccounting.com/",
+          "type": "website",
+          "description": "Complete online textbook"
+        }
+      ],
+      "importance": "medium",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Playlists", "IFRS Summaries", "Numericals"]
+    }
+  ],
+  "extras": {
+    "reference_texts": [
+      {
+        "title": "OpenStax — Principles of Financial Accounting",
+        "url": "https://openstax.org/details/books/principles-financial-accounting",
+        "type": "book"
+      },
+      {
+        "title": "OpenStax — Principles of Managerial Accounting",
+        "url": "https://openstax.org/details/books/principles-managerial-accounting",
+        "type": "book"
+      },
+      {
+        "title": "PrinciplesOfAccounting.com — Complete Online Textbook",
+        "url": "https://www.principlesofaccounting.com/",
+        "type": "website"
+      }
+    ],
+    "standards_organizations": [
+      {
+        "title": "IFRS Foundation",
+        "url": "https://www.ifrs.org/",
+        "type": "website"
+      },
+      {
+        "title": "International Auditing and Assurance Standards Board (IAASB)",
+        "url": "https://www.iaasb.org/",
+        "type": "website"
+      },
+      {
+        "title": "ACCA Global",
+        "url": "https://www.accaglobal.com/",
+        "type": "website"
+      }
+    ],
+    "pakistan_authorities": [
+      {
+        "title": "Securities and Exchange Commission of Pakistan (SECP)",
+        "url": "https://www.secp.gov.pk/",
+        "type": "website"
+      },
+      {
+        "title": "Federal Board of Revenue (FBR)",
+        "url": "https://www.fbr.gov.pk/",
+        "type": "website"
+      },
+      {
+        "title": "Institute of Chartered Accountants of Pakistan (ICAP)",
+        "url": "https://www.icap.org.pk/",
+        "type": "website"
+      },
+      {
+        "title": "Pakistan Stock Exchange (PSX)",
+        "url": "https://www.psx.com.pk/",
+        "type": "website"
+      }
+    ],
+    "educational_resources": [
+      {
+        "title": "Edspira YouTube Channel",
+        "url": "https://www.youtube.com/@Edspira",
+        "type": "video"
+      },
+      {
+        "title": "Accounting Stuff YouTube Channel",
+        "url": "https://www.youtube.com/@AccountingStuff",
+        "type": "video"
+      },
+      {
+        "title": "MIT OpenCourseWare — Accounting",
+        "url": "https://ocw.mit.edu/search/?t=Accounting",
+        "type": "website"
+      },
+      {
+        "title": "Khan Academy — Finance and Capital Markets",
+        "url": "https://www.khanacademy.org/economics-finance-domain/core-finance",
+        "type": "video"
+      }
+    ]
+  }
+}

@@ -1,0 +1,708 @@
+{
+  "subject": "Political Science",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 26,
+  "categories": [
+    "Classical Political Thought & Philosophy",
+    "Comparative Government & Constitutions",
+    "Political Institutions & Processes",
+    "Pakistan: Constitution, Federalism & Local Government",
+    "Political Ideologies",
+    "Elections, Parties & Accountability",
+    "Judicial Review & Rule of Law",
+    "Exam MCQs & Factual Recall",
+    "Study Aids (Open Courses & Playlists)"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Plato's Justice & the Republic (incl. Education & Philosopher-King)",
+      "content": "Define justice as harmony of parts (reason, spirit, appetite) and apply to class structure; explain education (music-gymnastics-math-dialectic), censorship, and the philosopher-king. Evaluate practicality and common exam prompts contrasting 'ideal vs. real'.",
+      "keyTakeaways": [
+        "Justice = each part doing its function under rule of reason.",
+        "Education pipeline culminates in dialectic; cave allegory for enlightenment.",
+        "Common critique: impracticability/elitism; contrast with modern democracy."
+      ],
+      "resources": [
+        {
+          "title": "Plato — The Republic (full text)",
+          "url": "https://classics.mit.edu/Plato/republic.html",
+          "type": "primary",
+          "description": "Canonical translation; Book VII has the Cave."
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Plato",
+          "url": "https://plato.stanford.edu/entries/plato/",
+          "type": "article",
+          "description": "Scholarly overview."
+        },
+        {
+          "title": "Republic Book VII (Allegory of the Cave)",
+          "url": "https://classics.mit.edu/Plato/republic.8.vii.html",
+          "type": "primary",
+          "description": "Exam favorite passage."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["Justice", "Education", "Philosopher-King", "Ideal State"]
+    },
+    {
+      "id": "2",
+      "title": "Aristotle: State, Citizenship & Classification of Governments",
+      "content": "Cover teleology (polis exists for the good life), citizen definition, mixed regime, rule of law, and classification (monarchy/tyranny, aristocracy/oligarchy, polity/democracy). Connect to 'Aristotle realist, not idealist' questions.",
+      "keyTakeaways": [
+        "State is natural; human is political animal.",
+        "Best practicable regime = mixed constitution (polity) and rule of law.",
+        "Citizenship tied to participation in deliberation/judgment."
+      ],
+      "resources": [
+        {
+          "title": "Aristotle — Politics (Loeb/Rackham)",
+          "url": "https://topostext.org/work/100",
+          "type": "primary",
+          "description": "Accessible English text."
+        },
+        {
+          "title": "Aristotle — Politics (PDF)",
+          "url": "https://historyofeconomicthought.mcmaster.ca/aristotle/Politics.pdf",
+          "type": "pdf",
+          "description": "Printable version for annotation."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["Polis", "Citizenship", "Rule of Law", "Mixed Regime"]
+    },
+    {
+      "id": "3",
+      "title": "Hobbes: State of Nature, Sovereignty & Social Contract",
+      "content": "Explain Hobbesian state of nature as war of all against all; laws of nature; contract to authorize an absolute sovereign for peace. Typical exam: compare with Locke/Rousseau; discuss limits and right to resist.",
+      "keyTakeaways": [
+        "Security precedes liberty; absolute sovereign prevents anarchy.",
+        "Contract creates authority, not between subject and sovereign.",
+        "Critiques: absolutism vs. modern constitutionalism."
+      ],
+      "resources": [
+        {
+          "title": "Hobbes — Leviathan (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
+          "type": "primary",
+          "description": "Definitive primary source."
+        },
+        {
+          "title": "SEP — Hobbes's Moral & Political Philosophy",
+          "url": "https://plato.stanford.edu/entries/hobbes-moral/",
+          "type": "article",
+          "description": "Concise scholarly treatment."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["State of Nature", "Leviathan", "Sovereignty"]
+    },
+    {
+      "id": "4",
+      "title": "Locke: Natural Rights, Government by Consent & Right of Revolution",
+      "content": "State of nature with rights to life, liberty, property; social contract to protect rights; limited government; separation of powers; right to rebel upon breach.",
+      "keyTakeaways": [
+        "Consent and property central to legitimacy.",
+        "Separation of legislative/executive; judiciary implicit.",
+        "Direct influence on liberal constitutionalism."
+      ],
+      "resources": [
+        {
+          "title": "Locke — Second Treatise (various editions; standard)",
+          "url": "https://oll.libertyfund.org/title/locke-two-treatises-of-government",
+          "type": "primary",
+          "description": "Authoritative text (Liberty Fund)."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["Natural Rights", "Consent", "Revolution"]
+    },
+    {
+      "id": "5",
+      "title": "Rousseau: Social Contract & General Will",
+      "content": "Explain how legitimate authority rests on the general will aiming at common good; distinguish sovereign (people/legislator) and government (executive). Contrast with Hobbes/Locke and discuss civic republicanism.",
+      "keyTakeaways": [
+        "General will ≠ sum of private wills; it's about common interest.",
+        "Freedom preserved by obeying self-legislated laws.",
+        "Risk of majoritarianism — exam critique."
+      ],
+      "resources": [
+        {
+          "title": "Rousseau — The Social Contract (Early Modern Texts PDF)",
+          "url": "https://www.earlymoderntexts.com/assets/pdfs/rousseau1762.pdf",
+          "type": "pdf",
+          "description": "Modernized English."
+        },
+        {
+          "title": "Project Gutenberg — Social Contract & Discourses",
+          "url": "https://www.gutenberg.org/ebooks/46333",
+          "type": "primary",
+          "description": "Free complete edition."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["General Will", "Sovereignty", "Republicanism"]
+    },
+    {
+      "id": "6",
+      "title": "Montesquieu: Separation of Powers & Liberty",
+      "content": "Unpack legislative–executive–judicial separation and checks/balances; climate & comparative method; exam often asks why he is 'Aristotle of the eighteenth century'.",
+      "keyTakeaways": [
+        "Liberty secured by dispersion of power.",
+        "Institutional design varies by social conditions.",
+        "Influence on US, French constitutionalism."
+      ],
+      "resources": [
+        {
+          "title": "The Spirit of Laws (Liberty Fund eBook)",
+          "url": "https://oll.libertyfund.org/titles/montesquieu-complete-works-vol-1-the-spirit-of-laws",
+          "type": "primary",
+          "description": "Searchable scholarly edition."
+        },
+        {
+          "title": "The Spirit of Laws (Lonang PDF)",
+          "url": "https://lonang.com/wp-content/download/Montesquieu-SpiritOfLaws.pdf",
+          "type": "pdf",
+          "description": "Printable PDF."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["Separation of Powers", "Comparative Method"]
+    },
+    {
+      "id": "7",
+      "title": "Marx: Historical Materialism, Class Struggle & the State",
+      "content": "Define base–superstructure, class conflict, critique of capitalism; link to exam prompts on 'equal distribution of wealth'.",
+      "keyTakeaways": [
+        "Mode of production shapes political/legal superstructure.",
+        "State as instrument of class rule.",
+        "Revolutionary transition to classless society."
+      ],
+      "resources": [
+        {
+          "title": "Communist Manifesto (Marxists.org PDF)",
+          "url": "https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf",
+          "type": "pdf",
+          "description": "Standard reference text."
+        },
+        {
+          "title": "Gutenberg — The Communist Manifesto",
+          "url": "https://www.gutenberg.org/ebooks/61",
+          "type": "primary",
+          "description": "Alternate edition."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["Class", "Materialism", "Revolution"]
+    },
+    {
+      "id": "8",
+      "title": "Al-Fārābī: Virtuous City, Executive & Harmonizing Plato/Aristotle",
+      "content": "Summarize the 'Virtuous City' (al-Madīna al-Fāḍila): hierarchy, virtuous ruler, link between ethics and politics; compare with Muslim executive concepts (for Al-Māwardī/Shah Waliullah comparisons).",
+      "keyTakeaways": [
+        "Second Teacher; adapts Greek political ethics to Islamic context.",
+        "Virtuous ruler mirrors philosopher-king role.",
+        "Society's perfection tied to moral/intellectual virtues."
+      ],
+      "resources": [
+        {
+          "title": "SEP — al-Farabi (overview)",
+          "url": "https://plato.stanford.edu/entries/al-farabi/",
+          "type": "article",
+          "description": "Life & works."
+        },
+        {
+          "title": "SEP — al-Farabi: Society & Religion",
+          "url": "https://plato.stanford.edu/entries/al-farabi-soc-rel/",
+          "type": "article",
+          "description": "Political-religious synthesis."
+        },
+        {
+          "title": "Scholarly article on Virtuous City (PDF)",
+          "url": "https://www.serialsjournals.com/abstract/17313_ch_39_f_-_suleimenov_700413-ok.pdf",
+          "type": "pdf",
+          "description": "Concise thematic summary."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["Virtuous City", "Executive", "Islamic Political Thought"]
+    },
+    {
+      "id": "9",
+      "title": "Ibn Khaldūn: ʿAṣabiyyah, State Cycles & Political Economy",
+      "content": "Explain solidarity (ʿasabiyyah) driving state rise/decline; link to taxation/production and dynastic cycles; apply to exam questions on internal systemic causes of decline.",
+      "keyTakeaways": [
+        "States rise with strong group solidarity; decay with luxury.",
+        "Economic policy affects social cohesion and revenue.",
+        "Proto-sociology: interdisciplinary method."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ibn Khaldūn (overview)",
+          "url": "https://www.britannica.com/biography/Ibn-Khaldun",
+          "type": "article",
+          "description": "Concise bio & ideas."
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Political Thought & Philosophy",
+      "topics": ["ʿAsabiyyah", "State Cycles", "Political Economy"]
+    },
+    {
+      "id": "10",
+      "title": "French Fifth Republic: Semi-Presidentialism & Presidential Powers",
+      "content": "Define dual executive; cohabitation; powers under 1958 Constitution; contrast with pure parliamentary (UK) and presidential (US) systems.",
+      "keyTakeaways": [
+        "President: defense, dissolution, referenda; PM: day-to-day government.",
+        "Cohabitation shifts power balance toward PM.",
+        "Institutional design for stability after Fourth Republic."
+      ],
+      "resources": [
+        {
+          "title": "Élysée — Constitution of 4 October 1958 (EN)",
+          "url": "https://www.elysee.fr/en/french-presidency/constitution-of-4-october-1958",
+          "type": "official",
+          "description": "Authoritative text overview."
+        },
+        {
+          "title": "French Constitution (PDF, Constitutional Council)",
+          "url": "https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/anglais/constiution_anglais_oct2009.pdf",
+          "type": "pdf",
+          "description": "English translation."
+        }
+      ],
+      "importance": "high",
+      "category": "Comparative Government & Constitutions",
+      "topics": ["Semi-Presidential", "Cohabitation", "Fifth Republic"]
+    },
+    {
+      "id": "11",
+      "title": "U.S. Senate: Powers, Procedures & Checks and Balances",
+      "content": "Treaty consent, appointments, impeachment trial, filibuster/culture of rules; use as comparative case for 'most powerful upper house' questions.",
+      "keyTakeaways": [
+        "Unique powers: confirmations, treaties, impeachment trials.",
+        "Rules & precedents shape agenda and debate.",
+        "Federal representation with equal state seats."
+      ],
+      "resources": [
+        {
+          "title": "U.S. Senate — Powers & Procedures",
+          "url": "https://www.senate.gov/about/powers-procedures.htm",
+          "type": "official",
+          "description": "Core functions page."
+        },
+        {
+          "title": "U.S. Senate — Rules Overview",
+          "url": "https://www.senate.gov/about/powers-procedures/rules.htm",
+          "type": "official",
+          "description": "How bills move; debate rules."
+        },
+        {
+          "title": "U.S. Capitol — Senate explainer",
+          "url": "https://www.visitthecapitol.gov/education-resource/us-senate",
+          "type": "official",
+          "description": "Concise civics summary."
+        }
+      ],
+      "importance": "high",
+      "category": "Comparative Government & Constitutions",
+      "topics": ["Upper House", "Appointments", "Treaties", "Impeachment"]
+    },
+    {
+      "id": "12",
+      "title": "UK Cabinet Government: Ministerial & Collective Responsibility",
+      "content": "Explain collective responsibility (public unity; resign if dissent) and individual ministerial responsibility; frequent essay question.",
+      "keyTakeaways": [
+        "Cabinet decisions bind all ministers publicly.",
+        "Dissent managed privately or via agreed exceptions.",
+        "Accountability tool for Parliament and public."
+      ],
+      "resources": [
+        {
+          "title": "House of Commons Library Briefing — Collective Responsibility",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-7755/",
+          "type": "official",
+          "description": "Doctrine and practice."
+        },
+        {
+          "title": "House of Lords Library Note — Collective Responsibility",
+          "url": "https://researchbriefings.files.parliament.uk/documents/LLN-2016-0012/LLN-2016-0012.pdf",
+          "type": "pdf",
+          "description": "Recent developments."
+        }
+      ],
+      "importance": "high",
+      "category": "Political Institutions & Processes",
+      "topics": ["Cabinet", "Accountability", "Parliamentary System"]
+    },
+    {
+      "id": "13",
+      "title": "Pakistan's 1973 Constitution: Federal Structure & Islamic Provisions",
+      "content": "Outline Parliament (NA+Senate+President), fundamental rights, federal lists, Islamic provisions; connect to repeated exam comparisons (1956/1962/1973).",
+      "keyTakeaways": [
+        "Bicameral Parliament with Senate as continuing house.",
+        "Islamic provisions integrated alongside fundamental rights.",
+        "Amendments (esp. 18th) reshaped center–province relations."
+      ],
+      "resources": [
+        {
+          "title": "Constitution of Pakistan (Official PDF)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Fvbpw%3D-sg-jjjjjjjjjjjjj",
+          "type": "official",
+          "description": "Primary legal text."
+        },
+        {
+          "title": "Punjab Assembly hosted Constitution (PDF)",
+          "url": "https://www.pakp.gov.pk/wp-content/uploads/2024/07/Constitution.pdf",
+          "type": "pdf",
+          "description": "Recent consolidated PDF."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan: Constitution, Federalism & Local Government",
+      "topics": ["1973 Constitution", "Federal Lists", "Islamic Provisions"]
+    },
+    {
+      "id": "14",
+      "title": "Pakistan's 18th Amendment: Devolution & Federalism",
+      "content": "Explain abolition of Concurrent List, provincial autonomy increases, CCI role, and ongoing coordination challenges; frequent essay topic.",
+      "keyTakeaways": [
+        "Major devolution of subjects to provinces (health, education, etc.).",
+        "Strengthened CCI and parliamentary oversight.",
+        "Implementation uneven—policy coordination remains key."
+      ],
+      "resources": [
+        {
+          "title": "PILDAT — Revisiting the 18th Amendment & NFC",
+          "url": "https://pildat.org/wp-content/uploads/2022/06/Revisiting-Eighteenth-Amendment-and-the-NFC-Awards-250122.pdf",
+          "type": "pdf",
+          "description": "Balanced analysis & recommendations."
+        },
+        {
+          "title": "PILDAT — Comparative LG Laws (context post-18A)",
+          "url": "https://pildat.org/wp-content/uploads/2019/04/ComparativeAnalysisofLocalGovernmentLawsinPakistan.pdf",
+          "type": "pdf",
+          "description": "Devolution to local tiers."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan: Constitution, Federalism & Local Government",
+      "topics": ["Devolution", "CCI", "NFC", "Provincial Autonomy"]
+    },
+    {
+      "id": "15",
+      "title": "Senate of Pakistan: Role, Composition & Law-Making",
+      "content": "Use for questions on bicameralism, federal balance, money bill exception, joint sittings; include current composition logic.",
+      "keyTakeaways": [
+        "Equal provincial representation; continuing chamber (no dissolution).",
+        "Bills must pass both houses (except money bills).",
+        "Protects smaller units; oversight via committees."
+      ],
+      "resources": [
+        {
+          "title": "Senate of Pakistan — Legislation (Stages)",
+          "url": "https://www.senate.gov.pk/en/essence.php?catid=3&cattitle=Legislation&id=1106",
+          "type": "official",
+          "description": "How a bill becomes law in Pakistan."
+        },
+        {
+          "title": "National Assembly — Legislative Procedure",
+          "url": "https://na.gov.pk/en/content.php?id=1",
+          "type": "official",
+          "description": "NA perspective; joint sittings."
+        },
+        {
+          "title": "IFES Brief — Senate of Pakistan",
+          "url": "https://www.ifes.org/sites/default/files/migrate/the_senate_of_pakistan.pdf",
+          "type": "pdf",
+          "description": "Explainer on role and composition."
+        }
+      ],
+      "importance": "high",
+      "category": "Political Institutions & Processes",
+      "topics": ["Bicameralism", "Money Bill", "Joint Sitting", "Committees"]
+    },
+    {
+      "id": "16",
+      "title": "Judicial Review: U.S. & Pakistan (Scope & Significance)",
+      "content": "Define judicial review; compare Marbury tradition with Pakistan's Supreme Court (constitutional petitions, fundamental rights jurisdiction).",
+      "keyTakeaways": [
+        "Guardianship of constitution vs. parliamentary supremacy.",
+        "Pakistan SC exercises suo motu in rights matters (subject to evolving practice).",
+        "Exam tip: link to checks & balances and separation of powers."
+      ],
+      "resources": [
+        {
+          "title": "U.S. Constitution (Senate civics page)",
+          "url": "https://www.senate.gov/civics/constitution_item/constitution.htm",
+          "type": "official",
+          "description": "Foundational context."
+        }
+      ],
+      "importance": "medium",
+      "category": "Judicial Review & Rule of Law",
+      "topics": ["Judicial Review", "Fundamental Rights", "Checks & Balances"]
+    },
+    {
+      "id": "17",
+      "title": "Democracy vs. Dictatorship; Fascism & Totalitarianism",
+      "content": "Define democratic norms (participation, accountability) vs. authoritarian/totalitarian control; incorporate fascism's core tenets (ultranationalism, corporatism, leader cult) for comparative essays.",
+      "keyTakeaways": [
+        "Conceptual clarity helps when evaluating case studies (e.g., Turkey's civil-military relations).",
+        "Fascism distinct from generic authoritarianism.",
+        "Use institutional and rights indicators for analysis."
+      ],
+      "resources": [
+        {
+          "title": "Montesquieu & liberty (context)",
+          "url": "https://lonang.com/wp-content/download/Montesquieu-SpiritOfLaws.pdf",
+          "type": "pdf",
+          "description": "Separation of powers as anti-tyranny device."
+        }
+      ],
+      "importance": "medium",
+      "category": "Political Ideologies",
+      "topics": ["Democracy", "Dictatorship", "Fascism", "Totalitarianism"]
+    },
+    {
+      "id": "18",
+      "title": "Local Government in Pakistan: Significance & Repeated Failures",
+      "content": "Trace LG experiments (2001 devolution, post-18A laws); explain representation, service delivery, and political obstacles to continuity.",
+      "keyTakeaways": [
+        "Post-18A, provinces owe robust LG laws but implementation varies.",
+        "LG strengthens participation and accountability at grassroots.",
+        "Exam: link LG to federalism and democratic consolidation."
+      ],
+      "resources": [
+        {
+          "title": "PILDAT — Comparative Analysis of LG Laws",
+          "url": "https://pildat.org/wp-content/uploads/2019/04/ComparativeAnalysisofLocalGovernmentLawsinPakistan.pdf",
+          "type": "pdf",
+          "description": "Across provinces; post-18A context."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan: Constitution, Federalism & Local Government",
+      "topics": ["Devolution", "Local Councils", "Service Delivery"]
+    },
+    {
+      "id": "19",
+      "title": "Law-Making in Pakistan: From Bill to Act",
+      "content": "Outline readings, committee stage, passage in both houses, assent; money bill path and joint sitting trigger.",
+      "keyTakeaways": [
+        "Ordinary bills need approval of both houses; President's assent finalizes.",
+        "Money bills originate in NA; Senate can make recommendations only.",
+        "Joint sitting addresses inter-house deadlocks."
+      ],
+      "resources": [
+        {
+          "title": "Senate — Legislation (Stages)",
+          "url": "https://www.senate.gov.pk/en/essence.php?catid=3&cattitle=Legislation&id=1106",
+          "type": "official",
+          "description": "Stepwise process."
+        },
+        {
+          "title": "OpenParliament.pk — Bill to an Act",
+          "url": "https://openparliament.pk/how-parliament-functions/bill-to-an-act/",
+          "type": "website",
+          "description": "Plain-English explainer."
+        }
+      ],
+      "importance": "high",
+      "category": "Political Institutions & Processes",
+      "topics": ["Bills", "Money Bill", "Joint Sitting"]
+    },
+    {
+      "id": "20",
+      "title": "American Checks & Balances (quick comparative notes)",
+      "content": "Map mutual controls among branches (veto/override, judicial review, confirmations, impeachment) for standard exam essays.",
+      "keyTakeaways": [
+        "Senate's 'advice and consent' central to executive/judicial staffing.",
+        "Impeachment: House impeaches, Senate tries.",
+        "Judicial review interprets constitutionality of acts."
+      ],
+      "resources": [
+        {
+          "title": "Congress.gov — Legislative Process (with videos)",
+          "url": "https://www.congress.gov/legislative-process",
+          "type": "official",
+          "description": "Overview + short videos."
+        },
+        {
+          "title": "U.S. Senate — Powers & Procedures",
+          "url": "https://www.senate.gov/about/powers-procedures.htm",
+          "type": "official",
+          "description": "Cheat-sheet of unique powers."
+        }
+      ],
+      "importance": "medium",
+      "category": "Comparative Government & Constitutions",
+      "topics": ["Veto", "Confirmations", "Impeachment", "Judicial Review"]
+    },
+    {
+      "id": "21",
+      "title": "High-Yield MCQ Zone: Numbers, Dates & Definitions",
+      "content": "Curate quick facts repeatedly asked: original U.S. states = 13; American Senate has 100 members; Pakistan's 8th Amendment year; meaning of \"polis\"; authorship attributions (e.g., 'Political science begins and ends with the state').",
+      "keyTakeaways": [
+        "Memorize canonical numbers (100, 435, 96 for Pakistan Senate since 2024).",
+        "Associate thinkers to signature lines and books.",
+        "Use official pages to double-check current figures."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Previous Question Papers (index)",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "official",
+          "description": "Source of authentic past paper wordings."
+        },
+        {
+          "title": "Senate of Pakistan (home)",
+          "url": "https://www.senate.gov.pk/",
+          "type": "official",
+          "description": "Current composition and functions."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam MCQs & Factual Recall",
+      "topics": ["Numbers", "Authors", "Definitions"]
+    },
+    {
+      "id": "22",
+      "title": "CrashCourse: U.S. Government & Politics (visual revision)",
+      "content": "Fast, exam-oriented videos on Congress, presidency, courts, bureaucracy, civil rights/liberties; great for comparative answers.",
+      "keyTakeaways": [
+        "Use playlists to cement institutional mechanics.",
+        "Pair with primary texts for depth.",
+        "Time-efficient pre-exam refresh."
+      ],
+      "resources": [
+        {
+          "title": "CrashCourse U.S. Government & Politics (Playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H",
+          "type": "video",
+          "description": "50 concise lessons."
+        }
+      ],
+      "importance": "medium",
+      "category": "Study Aids (Open Courses & Playlists)",
+      "topics": ["U.S. Institutions", "Comparative", "Exam Prep"]
+    },
+    {
+      "id": "23",
+      "title": "Harvard 'Justice' (Sandel): Utilitarianism, Rights & Equality",
+      "content": "Frame essays on Bentham/Mill, Kant, Rawls, markets vs. morals; connect to questions on social justice and distribution.",
+      "keyTakeaways": [
+        "Clarifies normative frameworks behind policy debates.",
+        "Great examples for ethics/CSR style prompts within politics.",
+        "Use to critique utilitarian answers in exam."
+      ],
+      "resources": [
+        {
+          "title": "Justice — Full Course Playlist",
+          "url": "https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6",
+          "type": "video",
+          "description": "24 lectures with cases."
+        }
+      ],
+      "importance": "medium",
+      "category": "Study Aids (Open Courses & Playlists)",
+      "topics": ["Utilitarianism", "Rights", "Distributive Justice"]
+    },
+    {
+      "id": "24",
+      "title": "Yale OYC: Introduction to Political Philosophy (Steven Smith)",
+      "content": "Text-based walkthrough of Plato, Aristotle, Machiavelli, Hobbes, Locke, Rousseau, Tocqueville with lecture transcripts for quoting in essays.",
+      "keyTakeaways": [
+        "Provides structured, exam-style interpretations.",
+        "Transcripts allow quick note-taking.",
+        "Excellent for comparative questions on social contract."
+      ],
+      "resources": [
+        {
+          "title": "Course page (videos + transcripts)",
+          "url": "https://oyc.yale.edu/political-science/plsc-114",
+          "type": "course",
+          "description": "Index of all lectures."
+        }
+      ],
+      "importance": "high",
+      "category": "Study Aids (Open Courses & Playlists)",
+      "topics": ["Classical Thought", "Social Contract", "Comparative"]
+    },
+    {
+      "id": "25",
+      "title": "Past Papers (Paper-I & II): Pattern Mining & Topic Frequency",
+      "content": "Download and skim FPSc/CSS Political Science past papers to spot repeated stems: separation of powers, social contract comparisons, 18th Amendment, U.S. Senate power, LG failures in Pakistan, etc.",
+      "keyTakeaways": [
+        "Write outlines against 5–7 recurring stems.",
+        "Practice Paper-II Pakistan-specific essays separately.",
+        "Add margin notes mapping theorists to contemporary cases."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Previous Question Papers (index)",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "official",
+          "description": "Authoritative source."
+        },
+        {
+          "title": "CSS Political Science 2023 (Paper PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2024/06/Political-Science-2023.pdf",
+          "type": "pdf",
+          "description": "Recent pattern."
+        },
+        {
+          "title": "Political Science-I Past Papers 2016–2025",
+          "url": "https://zicosh.com/css-political-science-i-past-papers/",
+          "type": "website",
+          "description": "Convenient archive."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam MCQs & Factual Recall",
+      "topics": ["Past Papers", "Pattern Recognition", "Essay Practice"]
+    },
+    {
+      "id": "26",
+      "title": "Quick Primary-Text Pack for Quotations",
+      "content": "Keep a folder of printable originals to pull short quotations and terms in exam answers (esp. 'general will', 'war of all against all', 'ends of the state').",
+      "keyTakeaways": [
+        "Quoting primary texts boosts credibility.",
+        "Use short, precise lines tied to argument.",
+        "Cite book/part where possible (not required in exam but helpful)."
+      ],
+      "resources": [
+        {
+          "title": "Plato — Republic (TXT)",
+          "url": "https://classics.mit.edu/Plato/republic.mb.txt",
+          "type": "primary",
+          "description": "Searchable text."
+        },
+        {
+          "title": "Montesquieu — Spirit of Laws (PDF)",
+          "url": "https://historyofeconomicthought.mcmaster.ca/montesquieu/spiritoflaws.pdf",
+          "type": "pdf",
+          "description": "Printable."
+        },
+        {
+          "title": "Hobbes — Leviathan (Gutenberg page)",
+          "url": "https://www.gutenberg.org/ebooks/3207",
+          "type": "primary",
+          "description": "Alternate formats."
+        }
+      ],
+      "importance": "medium",
+      "category": "Study Aids (Open Courses & Playlists)",
+      "topics": ["Quotations", "Primary Sources", "Exam Writing"]
+    }
+  ]
+}

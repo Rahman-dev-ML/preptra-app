@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:03:01.466Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "3c0f701b44ff14e065b4b56032903d44ce71955a",
+      "sectionIndex": 0,
+      "question": "The historical development of criminology as a scientific discipline in Pakistan reflects:",
+      "options": [
+        "A) Colonial influence only",
+        "B) Integration of Western theories with local context",
+        "C) Complete rejection of traditional approaches",
+        "D) No theoretical development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ed8dacf5cd826ba3ccc900f1e1253c2a637ef58",
+      "sectionIndex": 0,
+      "question": "The increasing importance of criminology in Pakistan is primarily due to:",
+      "options": [
+        "A) International pressure only",
+        "B) Rising crime rates and need for evidence-based solutions",
+        "C) Academic interest only",
+        "D) Media attention alone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b1d22138eea98ad0a84f3966660143f12876499",
+      "sectionIndex": 0,
+      "question": "When differentiating between crime and deviance in Pakistani society, one must consider:",
+      "options": [
+        "A) Legal codes only",
+        "B) Both formal laws and cultural norms",
+        "C) Religious laws only",
+        "D) International standards only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e95e17c2da04e498bb1922532410dfed13bd8301",
+      "sectionIndex": 0,
+      "question": "The scope of criminology in Pakistan encompasses:",
+      "options": [
+        "A) Criminal law only",
+        "B) Integrated study of law, forensics, investigation, and social factors",
+        "C) Police studies only",
+        "D) Court procedures only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b76c67d84308ea020d3a9d43cc6afafdebfb21b",
+      "sectionIndex": 0,
+      "question": "The focus of criminal typology should be on:",
+      "options": [
+        "A) Labeling criminals",
+        "B) Understanding patterns for prevention and intervention",
+        "C) Punishment determination",
+        "D) Media representation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a032e0999ebc7f7d737e659ac76b661cdadff3b",
+      "sectionIndex": 0,
+      "question": "Anomie in Pakistani society manifests through:",
+      "options": [
+        "A) Economic inequality only",
+        "B) Disconnect between cultural aspirations and legitimate means",
+        "C) Religious conflicts only",
+        "D) Political instability only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc005e71a026352a368026a9a18b863c6c8c16aa",
+      "sectionIndex": 0,
+      "question": "The application of biological theories of criminality must consider:",
+      "options": [
+        "A) Genetics as sole determinant",
+        "B) Interaction between biological and environmental factors",
+        "C) Complete rejection of social factors",
+        "D) Racial profiling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e14f8b2fdaf06ddcdf54f09e247c426b046fcf5a",
+      "sectionIndex": 0,
+      "question": "The sociology of law in criminology examines:",
+      "options": [
+        "A) Legal texts only",
+        "B) How law reflects and shapes social behavior",
+        "C) Court decisions only",
+        "D) Police procedures only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "146266e26a2eba50aa1130e184440289aae5dd9d",
+      "sectionIndex": 0,
+      "question": "Criminal etiology's significance lies in:",
+      "options": [
+        "A) Classification only",
+        "B) Understanding root causes for effective prevention",
+        "C) Punishment determination",
+        "D) Historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9846c9dc2528039ac548994162fb98bcb049a20b",
+      "sectionIndex": 0,
+      "question": "The relationship between penology and criminology demonstrates:",
+      "options": [
+        "A) Separate fields",
+        "B) Integrated approach to crime control and rehabilitation",
+        "C) Conflicting goals",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c525e07890645ab63d4ca44149e5af1a258ca91b",
+      "sectionIndex": 1,
+      "question": "Robert Merton's strain theory applied to Pakistan reveals:",
+      "options": [
+        "A) Universal application",
+        "B) Need for cultural adaptation considering local value systems",
+        "C) Complete irrelevance",
+        "D) Economic factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18dd2d5bb0c168c8e41468c4f9fd8db083e3725d",
+      "sectionIndex": 1,
+      "question": "Travis Hirschi's social bonding theory suggests weak bonds manifest through:",
+      "options": [
+        "A) Poverty only",
+        "B) Lack of attachment, commitment, involvement, and belief",
+        "C) Mental illness only",
+        "D) Geographic isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3b8f42d3459df4736d51f49f05786c6384cc2ef",
+      "sectionIndex": 1,
+      "question": "The fundamental postulates of Differential Association theory imply that:",
+      "options": [
+        "A) Criminals are born",
+        "B) Criminal behavior patterns are transmitted through interaction",
+        "C) Poverty causes crime",
+        "D) Genetics determine criminality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a00dfd355d6812aa2867cb737f3f052011aa8623",
+      "sectionIndex": 1,
+      "question": "Labelling theory's effects on youth require remedies that focus on:",
+      "options": [
+        "A) Harsher punishments",
+        "B) Diversion programs and restorative justice",
+        "C) Isolation from society",
+        "D) Ignoring minor offenses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cad481279b53a64481954180cdbfee4ec0372d01",
+      "sectionIndex": 1,
+      "question": "The distinction between left realism and right realism reflects:",
+      "options": [
+        "A) Political parties only",
+        "B) Different approaches to crime causation and control",
+        "C) Geographic differences",
+        "D) No real difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83cbb63d3fdf502842c2b652d3446ac5d445028b",
+      "sectionIndex": 1,
+      "question": "Phrenology and physiognomy represent:",
+      "options": [
+        "A) Modern scientific methods",
+        "B) Historical attempts to link physical features to criminality",
+        "C) Accurate predictors of crime",
+        "D) Current practices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "310bf180f78904f9c1af032de3cfcd025806f961",
+      "sectionIndex": 1,
+      "question": "The relationship between corporal and capital punishment involves:",
+      "options": [
+        "A) Same effectiveness",
+        "B) Different severity levels and human rights considerations",
+        "C) No ethical issues",
+        "D) Universal acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f0595e9c52f4c86e68dc3d34328919d2943ec55",
+      "sectionIndex": 1,
+      "question": "Applying criminological perspectives to Pakistani crime requires:",
+      "options": [
+        "A) Western models only",
+        "B) Contextual understanding of local social structures",
+        "C) Ignoring cultural factors",
+        "D) Universal application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b51f52d19717ac4cf0b8f3cd3144d096a695dc1",
+      "sectionIndex": 1,
+      "question": "The classification of criminal behavior should consider:",
+      "options": [
+        "A) Legal categories only",
+        "B) Motivational, situational, and behavioral patterns",
+        "C) Punishment only",
+        "D) Media portrayal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4907040cbc250599366e634b5ab35a1a56dfd21",
+      "sectionIndex": 1,
+      "question": "Integration of multiple criminological theories suggests:",
+      "options": [
+        "A) One theory explains all",
+        "B) Complex causation requiring multifaceted approaches",
+        "C) Theories are contradictory",
+        "D) No theoretical value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cab079dbbd9dbd86920960a17bcab17a69b5276b",
+      "sectionIndex": 2,
+      "question": "The effectiveness of Pakistan's juvenile justice system is hindered by:",
+      "options": [
+        "A) Too many resources",
+        "B) Lack of specialized facilities and trained personnel",
+        "C) Over-emphasis on rehabilitation",
+        "D) No legal framework"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1772e2b5eb2c6910255859126e5f034a8fcea797",
+      "sectionIndex": 2,
+      "question": "Risk factors for juvenile delinquency in Pakistan specifically include:",
+      "options": [
+        "A) Wealth only",
+        "B) Poverty, family dysfunction, and educational deprivation",
+        "C) Gender only",
+        "D) Age only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97d1e58f49cd0f2b2b9853201b7686f05fc472e2",
+      "sectionIndex": 2,
+      "question": "Protective factors against delinquency operate through:",
+      "options": [
+        "A) Single mechanism",
+        "B) Multiple levels including individual, family, and community",
+        "C) Economic factors only",
+        "D) Legal deterrence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb640797dac81c90dc85ad2f03fd1a3c29a22f6d",
+      "sectionIndex": 2,
+      "question": "The organization of juvenile probation services requires:",
+      "options": [
+        "A) Punishment focus",
+        "B) Coordinated approach with social services and education",
+        "C) Isolation from community",
+        "D) Adult criminal procedures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd8749d23bed0aef828f1c6c9abfedafbc2622a4",
+      "sectionIndex": 2,
+      "question": "Juvenile courts' role in reducing delinquency depends on:",
+      "options": [
+        "A) Harsh sentencing",
+        "B) Balancing accountability with rehabilitation potential",
+        "C) Public shaming",
+        "D) Adult court procedures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13b04f426d22a36f1f09bf97ecf296c5e48e0e30",
+      "sectionIndex": 2,
+      "question": "Institutional care versus community-based programs shows:",
+      "options": [
+        "A) Institutions always better",
+        "B) Community programs often more effective for rehabilitation",
+        "C) No difference",
+        "D) Community programs always fail"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68b291449bb675a26ae19a94789e1cbd6641df15",
+      "sectionIndex": 2,
+      "question": "Professional counseling for juveniles must address:",
+      "options": [
+        "A) Criminal behavior only",
+        "B) Underlying trauma, family issues, and skill deficits",
+        "C) Academic performance only",
+        "D) Physical health only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f1d323c4f003a1d3359dc7e2d83a1bb401e3560",
+      "sectionIndex": 2,
+      "question": "Socio-economic factors in juvenile delinquency operate through:",
+      "options": [
+        "A) Direct causation",
+        "B) Complex pathways affecting opportunities and choices",
+        "C) No real impact",
+        "D) Genetic determination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37f3b01b8b95478f1ed2d33a57174a68ddfbdddf",
+      "sectionIndex": 2,
+      "question": "Environmental factors' influence on youth crime includes:",
+      "options": [
+        "A) Weather only",
+        "B) Neighborhood characteristics, peer networks, and community resources",
+        "C) Geography only",
+        "D) No environmental impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a606631deb4edd527cc75151e91995a409bf936",
+      "sectionIndex": 2,
+      "question": "Rehabilitation centers' effectiveness depends on:",
+      "options": [
+        "A) Isolation only",
+        "B) Evidence-based programs and post-release support",
+        "C) Punishment severity",
+        "D) Duration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e32336706930f6d4b31cc411c7152011424ccc9f",
+      "sectionIndex": 3,
+      "question": "The principles of criminal investigation must balance:",
+      "options": [
+        "A) Speed only",
+        "B) Thoroughness with legal requirements and human rights",
+        "C) Confession extraction",
+        "D) Media pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "756f158080c114fa9e6dd2aa1944e8a73a4303c1",
+      "sectionIndex": 3,
+      "question": "Modern investigation techniques in Pakistan face challenges of:",
+      "options": [
+        "A) Too much technology",
+        "B) Resource limitations and training needs",
+        "C) No legal framework",
+        "D) Public cooperation excess"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6661b0322d5bd4e070860621435d2dc7f2f1c5e1",
+      "sectionIndex": 3,
+      "question": "The distinction between interviewing and interrogation affects:",
+      "options": [
+        "A) No legal implications",
+        "B) Admissibility of evidence and suspect rights",
+        "C) Time taken only",
+        "D) Location only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e91af0e1dfd5a098ac0db3a0d3cb3b2f49a3106a",
+      "sectionIndex": 3,
+      "question": "Human rights violations during interrogation can result in:",
+      "options": [
+        "A) Better confessions",
+        "B) Inadmissible evidence and wrongful convictions",
+        "C) Faster case resolution",
+        "D) No consequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89ee7f4630a6d1507ecc18ce35773ef8c3fcf1dc",
+      "sectionIndex": 3,
+      "question": "Crime scene preservation requires understanding of:",
+      "options": [
+        "A) Photography only",
+        "B) Contamination prevention and evidence integrity",
+        "C) Speed over accuracy",
+        "D) Witness statements only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51c88f716cf1730566ba59ae26710d023ee8ec21",
+      "sectionIndex": 3,
+      "question": "Search pattern selection depends on:",
+      "options": [
+        "A) Investigator preference only",
+        "B) Scene characteristics and resource availability",
+        "C) Time of day",
+        "D) Random choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c37c009ba642e82287425934c5afbefcd69abc14",
+      "sectionIndex": 3,
+      "question": "Forensic criminal investigation integration involves:",
+      "options": [
+        "A) Lab work only",
+        "B) Coordination between field investigation and scientific analysis",
+        "C) Replacing traditional methods",
+        "D) Cost considerations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c9d1bfe473c7aec7e1e918b138a0e426093f0d7",
+      "sectionIndex": 3,
+      "question": "The potential of interrogation techniques to clear an accused depends on:",
+      "options": [
+        "A) Pressure applied",
+        "B) Skilled questioning and corroborative evidence",
+        "C) Duration only",
+        "D) Physical methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ba09e641dad505bb2089bb8300f6cd2fea68d22",
+      "sectionIndex": 3,
+      "question": "Streamlining forensic investigation in Pakistan requires:",
+      "options": [
+        "A) Foreign expertise only",
+        "B) Infrastructure development and standardized protocols",
+        "C) Abandoning traditional methods",
+        "D) Limiting access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82da73086414a95fbad08190d904d661593d2e14",
+      "sectionIndex": 3,
+      "question": "Evidence evaluation must consider:",
+      "options": [
+        "A) Prosecution needs only",
+        "B) Reliability, relevance, and legal admissibility",
+        "C) Speed of analysis",
+        "D) Cost factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb298a8e0c927d832c0c812669cb7cc4fbeb18df",
+      "sectionIndex": 4,
+      "question": "The colonial legacy of Pakistan's police affects:",
+      "options": [
+        "A) Uniforms only",
+        "B) Organizational culture and community relations",
+        "C) No current impact",
+        "D) International relations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3909bd55a61cc01b232a3ed4fd53e319eab57a9b",
+      "sectionIndex": 4,
+      "question": "Intelligence-led policing effectiveness depends on:",
+      "options": [
+        "A) Technology alone",
+        "B) Information analysis and inter-agency coordination",
+        "C) Random surveillance",
+        "D) Foreign intelligence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c5140845d0e0a8737d000c92c359004db8c5c22",
+      "sectionIndex": 4,
+      "question": "The application of intelligence-led policing to organized crime requires:",
+      "options": [
+        "A) Local information only",
+        "B) Strategic analysis of criminal networks and patterns",
+        "C) Reactive responses",
+        "D) Individual arrests only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1aeebbc5474ffa910022b26ae78c1bd1fa41d25c",
+      "sectionIndex": 4,
+      "question": "Modern policing strategies for violent crime prevention include:",
+      "options": [
+        "A) Force only",
+        "B) Hot-spot policing and community engagement",
+        "C) Random patrols",
+        "D) Curfews only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ee2bfa2ce52a44b1ac69bd78b4c5dbfe48afd37",
+      "sectionIndex": 4,
+      "question": "INTERPOL's role in combating money laundering involves:",
+      "options": [
+        "A) Direct arrests",
+        "B) Information sharing and coordination between nations",
+        "C) Local law enforcement only",
+        "D) No real authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b32447a15c770ae3db098cc0bfd480d8dbafc608",
+      "sectionIndex": 4,
+      "question": "The difference between EUROPOL and INTERPOL reflects:",
+      "options": [
+        "A) No difference",
+        "B) Regional versus global scope and operational focus",
+        "C) Size only",
+        "D) Funding sources only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3842942ea322608b68a060cdb35feb858ffbcbd4",
+      "sectionIndex": 4,
+      "question": "Police challenges in maintaining law and order include:",
+      "options": [
+        "A) Too much public support",
+        "B) Resource constraints and evolving crime patterns",
+        "C) Clear procedures",
+        "D) No political pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af2dd065cb60a859d41c76f027498367eeb612c0",
+      "sectionIndex": 4,
+      "question": "International policing cooperation effectiveness requires:",
+      "options": [
+        "A) Common language only",
+        "B) Legal frameworks and standardized procedures",
+        "C) Identical systems",
+        "D) No sovereignty concerns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d893b8402efb388e956119bab2f8477e709d6ca7",
+      "sectionIndex": 4,
+      "question": "Community policing implementation challenges in Pakistan involve:",
+      "options": [
+        "A) Too much community trust",
+        "B) Historical mistrust and resource allocation",
+        "C) No framework exists",
+        "D) Over-participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37d3a085f5d660a354814b28080de5af9daf22a3",
+      "sectionIndex": 4,
+      "question": "The evolution from colonial to modern policing requires:",
+      "options": [
+        "A) Name change only",
+        "B) Fundamental shifts in philosophy and practice",
+        "C) Maintaining status quo",
+        "D) Foreign models only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55c260be5b9fa1ff957f95b16a771a090db9fbae",
+      "sectionIndex": 5,
+      "question": "Cybercrime control at national and international levels requires:",
+      "options": [
+        "A) Internet shutdown",
+        "B) Legal frameworks and technical capacity building",
+        "C) Individual user responsibility only",
+        "D) No international cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "988847d55f4e2cacf3164b3bfdae50e78a5ad239",
+      "sectionIndex": 5,
+      "question": "The social learning perspective on terrorist internet use suggests:",
+      "options": [
+        "A) No influence",
+        "B) Online platforms facilitate ideological reinforcement",
+        "C) Only entertainment value",
+        "D) Positive outcomes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ca08093f4bbafa74cdf23c52b1dcf06cc1cb83c",
+      "sectionIndex": 5,
+      "question": "Trade-Based Money Laundering (TBML) detection challenges include:",
+      "options": [
+        "A) Too obvious",
+        "B) Complex trade documentation and value manipulation",
+        "C) No international trade",
+        "D) Easy identification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85a3f91dab35a0b37d39b1c52afb9330093ed516",
+      "sectionIndex": 5,
+      "question": "Cryptocurrency money laundering risks stem from:",
+      "options": [
+        "A) Physical nature",
+        "B) Pseudonymity and cross-border ease",
+        "C) Government control",
+        "D) Slow transactions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77eeecc2f263242d1b2bca743ba5ec60a79630e5",
+      "sectionIndex": 5,
+      "question": "Intelligence-led policing strategies must adapt to:",
+      "options": [
+        "A) Static crime patterns",
+        "B) Evolving criminal methodologies and technologies",
+        "C) Historical data only",
+        "D) Local crimes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ca570c1a5775d4587656b30a86e62fa91a5e788",
+      "sectionIndex": 5,
+      "question": "Terrorism and radicalization threats require:",
+      "options": [
+        "A) Military response only",
+        "B) Multi-dimensional approach including prevention",
+        "C) Ignoring root causes",
+        "D) International action only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23e9dd424b64efa9c4e4161a30136c9b9611f142",
+      "sectionIndex": 5,
+      "question": "FIA's role in controlling organized crime encompasses:",
+      "options": [
+        "A) Local crimes only",
+        "B) Federal jurisdiction over complex criminal enterprises",
+        "C) Traffic violations",
+        "D) Civil disputes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ae2e4b43f080ad628c9003f0b53bda314d7e350",
+      "sectionIndex": 5,
+      "question": "Factors contributing to radicalization include:",
+      "options": [
+        "A) Single cause",
+        "B) Complex interaction of personal, social, and ideological factors",
+        "C) Internet only",
+        "D) Poverty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4fb2ba276da52f36d58c0f0cdbd1089a6b191a2",
+      "sectionIndex": 5,
+      "question": "Human trafficking control requires:",
+      "options": [
+        "A) Border control only",
+        "B) Victim protection and international coordination",
+        "C) Prosecution only",
+        "D) No special measures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8c36c01f4ce266d7338bd1e3382ace982781efe",
+      "sectionIndex": 5,
+      "question": "Addressing cybercrime in Pakistan needs:",
+      "options": [
+        "A) Banning technology",
+        "B) Capacity building and public-private partnerships",
+        "C) Foreign control",
+        "D) No special measures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a77053bc5ebbaf46205ab63c1b5e6a00c6c086b",
+      "sectionIndex": 6,
+      "question": "The effectiveness of probation depends on:",
+      "options": [
+        "A) Threat only",
+        "B) Supervision quality and support services",
+        "C) Duration only",
+        "D) No conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f360222739cb65991b051c1db8c74a58980692f8",
+      "sectionIndex": 6,
+      "question": "Recidivism reduction through prison programs requires:",
+      "options": [
+        "A) Longer sentences",
+        "B) Evidence-based interventions addressing criminogenic needs",
+        "C) Harsher conditions",
+        "D) Isolation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "720d5d339b2dee0343e2896acb74c88dc096cd1a",
+      "sectionIndex": 6,
+      "question": "Institutional versus community corrections effectiveness shows:",
+      "options": [
+        "A) Prisons always better",
+        "B) Community programs often more cost-effective for low-risk offenders",
+        "C) No difference",
+        "D) Community programs always fail"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "869b894dbebbefe0bff266e30b873f8c556da67f",
+      "sectionIndex": 6,
+      "question": "Modern reintegration strategies must address:",
+      "options": [
+        "A) Housing only",
+        "B) Employment, social support, and ongoing treatment",
+        "C) Punishment continuation",
+        "D) No follow-up needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ff3221cdcaa21fe31750e1cd11bb59c7c8e8549",
+      "sectionIndex": 6,
+      "question": "The balance between punishment and rehabilitation reflects:",
+      "options": [
+        "A) Either/or choice",
+        "B) Integrated approach for public safety and offender reform",
+        "C) Punishment priority",
+        "D) No balance possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a1681007ea6816e5e84e6398aa0c79e2480c8bf",
+      "sectionIndex": 6,
+      "question": "Alternative corrections effectiveness depends on:",
+      "options": [
+        "A) Avoiding all supervision",
+        "B) Risk assessment and appropriate program matching",
+        "C) Random assignment",
+        "D) Cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a80e449547756a0c15007d6acb702700699f688d",
+      "sectionIndex": 6,
+      "question": "Rehabilitation center success factors include:",
+      "options": [
+        "A) Isolation only",
+        "B) Therapeutic programs and community linkages",
+        "C) Punishment focus",
+        "D) No evaluation needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d274ab7c9f9a1d279a5586f7a11e130a80a526fd",
+      "sectionIndex": 6,
+      "question": "Reformative treatment principles emphasize:",
+      "options": [
+        "A) One-size-fits-all",
+        "B) Individualized interventions based on risk and needs",
+        "C) Group punishment",
+        "D) No treatment necessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4093c8d18f31d1be1f76cbd0313268ce02b20205",
+      "sectionIndex": 6,
+      "question": "Community corrections advantages include:",
+      "options": [
+        "A) No supervision",
+        "B) Maintaining family ties and employment",
+        "C) Complete freedom",
+        "D) Lower standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "526f418109aa0ac26717e95aacd5c6899077b856",
+      "sectionIndex": 6,
+      "question": "Correctional system challenges in Pakistan involve:",
+      "options": [
+        "A) Over-funding",
+        "B) Overcrowding and limited rehabilitation resources",
+        "C) Too many programs",
+        "D) No legal framework"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b5cbaaf3f8ebda9061abb517d605231fa8dff83",
+      "sectionIndex": 7,
+      "question": "Forensic science in violent crime determination provides:",
+      "options": [
+        "A) Circumstantial evidence only",
+        "B) Objective evidence supporting or refuting theories",
+        "C) Guaranteed convictions",
+        "D) No legal value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "460d0734d13ac17ce51123142b9d18160ba34384",
+      "sectionIndex": 7,
+      "question": "The integration of forensic evidence with investigation requires:",
+      "options": [
+        "A) Lab results only",
+        "B) Understanding context and limitations of scientific findings",
+        "C) Replacing investigation",
+        "D) Cost priority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b08b45b8f298681f5fd2c9d3fa6b64c476288a0",
+      "sectionIndex": 7,
+      "question": "DNA evidence reliability depends on:",
+      "options": [
+        "A) Presence only",
+        "B) Proper collection, storage, and analysis procedures",
+        "C) Quantity only",
+        "D) No quality concerns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e17f03022b5fe36f8da3f1c11da577207e9bd0bf",
+      "sectionIndex": 7,
+      "question": "Digital forensics challenges include:",
+      "options": [
+        "A) Too simple",
+        "B) Encryption and rapidly evolving technology",
+        "C) No legal framework",
+        "D) Slow data changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c5595e737899acca89645226d205c52338c0e99",
+      "sectionIndex": 7,
+      "question": "Forensic evidence interpretation requires:",
+      "options": [
+        "A) Scientific knowledge only",
+        "B) Understanding of legal standards and potential biases",
+        "C) Quick conclusions",
+        "D) No expertise needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96a48dac21b38f296301477fc299e861410acbd7",
+      "sectionIndex": 7,
+      "question": "Crime scene reconstruction combines:",
+      "options": [
+        "A) Guesswork",
+        "B) Physical evidence with witness accounts and analysis",
+        "C) Single evidence type",
+        "D) Imagination only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee4104fe3b525eefbd2851f0ab43270d46e12008",
+      "sectionIndex": 7,
+      "question": "Forensic database effectiveness depends on:",
+      "options": [
+        "A) Size only",
+        "B) Quality control and inter-agency access",
+        "C) Secrecy",
+        "D) Limited access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b067216e9ca3298f68a30880605d71da877517a",
+      "sectionIndex": 7,
+      "question": "Toxicology in criminal cases can establish:",
+      "options": [
+        "A) Identity only",
+        "B) Impairment, cause of death, or poisoning",
+        "C) No useful information",
+        "D) Time only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b0210b58d8522a95ff324b6c752ba39df310dcc",
+      "sectionIndex": 7,
+      "question": "Forensic anthropology applications include:",
+      "options": [
+        "A) Living subjects only",
+        "B) Identity and trauma analysis from skeletal remains",
+        "C) No criminal relevance",
+        "D) Age determination only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d6c0d8fcc0d4c8c451ab1857264762c3591fc8e",
+      "sectionIndex": 7,
+      "question": "Quality assurance in forensic science requires:",
+      "options": [
+        "A) Speed priority",
+        "B) Standardized procedures and proficiency testing",
+        "C) No oversight",
+        "D) Cost cutting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a580d65e37b669a5acf690387f0556ac95c69a4b",
+      "sectionIndex": 8,
+      "question": "White-collar crime investigation challenges include:",
+      "options": [
+        "A) Obvious evidence",
+        "B) Complex financial trails and technical expertise needs",
+        "C) No victims",
+        "D) Simple schemes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8edef543d71d2b98be3d6c67bc84d9e05aa79b6",
+      "sectionIndex": 8,
+      "question": "Money laundering control effectiveness requires:",
+      "options": [
+        "A) Banking laws only",
+        "B) Comprehensive regulatory framework and enforcement",
+        "C) No international cooperation",
+        "D) Cash elimination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17b26827123903362d7a02615054f12e1e510807",
+      "sectionIndex": 8,
+      "question": "The institutional arrangements for money laundering control involve:",
+      "options": [
+        "A) Single agency",
+        "B) Coordinated efforts between financial intelligence and law enforcement",
+        "C) Banks only",
+        "D) No special arrangements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c4dadc2d1eeeb5adee411799d8e6734e168855f",
+      "sectionIndex": 8,
+      "question": "Corporate crime prevention strategies should focus on:",
+      "options": [
+        "A) Punishment only",
+        "B) Compliance programs and corporate governance",
+        "C) Ignoring executives",
+        "D) No prevention possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f562f83b4d39a7cc2ab8d59a5fd8e9a635a17fc8",
+      "sectionIndex": 8,
+      "question": "Financial investigation techniques must adapt to:",
+      "options": [
+        "A) Paper records only",
+        "B) Digital transactions and international networks",
+        "C) Local crimes only",
+        "D) Simple fraud"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6b230a0f46cdbd345d72e828c9ad2b74d4ab29a",
+      "sectionIndex": 8,
+      "question": "White-collar crime's social impact includes:",
+      "options": [
+        "A) No real harm",
+        "B) Economic damage and erosion of public trust",
+        "C) Individual losses only",
+        "D) Minimal effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "393b11810c97848807a2358821b42880cd09def4",
+      "sectionIndex": 8,
+      "question": "Regulatory challenges in financial crime involve:",
+      "options": [
+        "A) Too much regulation",
+        "B) Keeping pace with financial innovation",
+        "C) No need for updates",
+        "D) Simple enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7bdecd154d766011d01a66a0fa10a978382ec49",
+      "sectionIndex": 8,
+      "question": "International cooperation in financial crime requires:",
+      "options": [
+        "A) Identical laws",
+        "B) Mutual legal assistance treaties and information sharing",
+        "C) No sovereignty concerns",
+        "D) Unilateral action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c237a159967a1eac477f592fd2cdd60e75c91d3",
+      "sectionIndex": 8,
+      "question": "Detection of sophisticated financial crimes needs:",
+      "options": [
+        "A) Basic accounting",
+        "B) Data analytics and pattern recognition",
+        "C) Random audits",
+        "D) No special skills"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33d2b67f79b698b1f957035fa8a7d78c8843edc1",
+      "sectionIndex": 8,
+      "question": "Prevention versus prosecution balance in white-collar crime reflects:",
+      "options": [
+        "A) Prosecution only",
+        "B) Regulatory compliance and enforcement integration",
+        "C) Prevention impossible",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4996f9dec0df4f30c96abec5fa176b5da2bd2b85",
+      "sectionIndex": 9,
+      "question": "Criminal court procedures in Pakistan face problems of:",
+      "options": [
+        "A) Too efficient",
+        "B) Delays, backlog, and resource constraints",
+        "C) No legal framework",
+        "D) Over-staffing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8aac12c3a3e5a7fb3b11c7845474339a519f4835",
+      "sectionIndex": 9,
+      "question": "The relationship between criminal law and social justice requires:",
+      "options": [
+        "A) Strict separation",
+        "B) Laws reflecting societal values while protecting rights",
+        "C) No connection",
+        "D) Social control only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63cc6cba9e5396b29fbd58fd926e5c1819ef0896",
+      "sectionIndex": 9,
+      "question": "Criminal justice reform priorities should address:",
+      "options": [
+        "A) Cosmetic changes",
+        "B) Systemic issues including access and fairness",
+        "C) No changes needed",
+        "D) International pressure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "868d75815d888631b53d6576614d90e56f911759",
+      "sectionIndex": 9,
+      "question": "Evidence admissibility standards must balance:",
+      "options": [
+        "A) Prosecution needs only",
+        "B) Reliability with constitutional protections",
+        "C) Speed only",
+        "D) No standards needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "962ab72ef64dbda4fe569ad4b13a49782fb6e432",
+      "sectionIndex": 9,
+      "question": "The role of legal aid in criminal justice reflects:",
+      "options": [
+        "A) Luxury service",
+        "B) Fundamental requirement for fair trial rights",
+        "C) No impact",
+        "D) Delay tactic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7b38da6f7dba2b3017d1a8a7eac389c24a176f1",
+      "sectionIndex": 9,
+      "question": "Coordination between justice system components requires:",
+      "options": [
+        "A) Independence only",
+        "B) Information sharing while maintaining checks and balances",
+        "C) No coordination",
+        "D) Centralized control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f4ef6996f3dc097b334e8ada3488524521d735d",
+      "sectionIndex": 9,
+      "question": "Victim rights in criminal proceedings include:",
+      "options": [
+        "A) No consideration",
+        "B) Information, participation, and protection",
+        "C) Revenge only",
+        "D) Financial focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8dd8ab7e821f63df71d50a95f6280889e57ff38",
+      "sectionIndex": 9,
+      "question": "Sentencing disparities indicate need for:",
+      "options": [
+        "A) Harsher sentences",
+        "B) Guidelines ensuring consistency and proportionality",
+        "C) No guidelines",
+        "D) Judge's complete discretion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2219160c018e50c9fa306b65f556b84ad62000b5",
+      "sectionIndex": 9,
+      "question": "Technology in criminal courts can improve:",
+      "options": [
+        "A) Conviction rates only",
+        "B) Efficiency and transparency of proceedings",
+        "C) No benefits",
+        "D) Complexity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28a8ede712993498d0c404050f9b46e178f37f0d",
+      "sectionIndex": 9,
+      "question": "Criminal justice system effectiveness requires:",
+      "options": [
+        "A) Harsh laws only",
+        "B) Integrated approach balancing prevention, enforcement, and rehabilitation",
+        "C) Focus on punishment",
+        "D) International models only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

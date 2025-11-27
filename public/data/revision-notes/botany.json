@@ -1,0 +1,1293 @@
+{
+  "subject": "Botany",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 43,
+  "categories": [
+    "Reproduction & Life Cycles",
+    "Algae, Fungi & Lichens",
+    "Bryophytes & Pteridophytes",
+    "Taxonomy & Biosystematics",
+    "Plant Anatomy & Morphology",
+    "Plant Physiology & Biochemistry",
+    "Ecology & Environmental Botany",
+    "Genetics & Molecular Biology",
+    "Practical Skills & Diagrams"
+  ],
+  "notes": [
+    {
+      "id": "RLC-01",
+      "title": "Ulothrix — Complete Life Cycle (with diagrams)",
+      "content": "Filamentous green alga (Chlorophyta) with haplontic cycle: asexual zoospores; isogamous gametes → zygote (2n) → zygotic meiosis → haploid filaments.",
+      "keyTakeaways": [
+        "Recognize band-shaped chloroplast; isogametes & zoospores.",
+        "Zygotic meiosis restores haploidy; classic haplontic pattern.",
+        "Compare with Spirogyra and Oedogonium for exam contrasts."
+      ],
+      "resources": [
+        {
+          "title": "Ulothrix (overview)",
+          "url": "https://www.britannica.com/science/Ulothrix",
+          "type": "article",
+          "description": "Concise, peer-reviewed encyclopedia entry"
+        },
+        {
+          "title": "Seedless plants & alternation of generations (life cycle context)",
+          "url": "https://openstax.org/books/biology-2e/pages/26-3-seedless-plants",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "Sexual life cycles (haplontic/haplodiplontic basics)",
+          "url": "https://www.khanacademy.org/science/biology/cellular-molecular-biology/meiosis/a/sexual-life-cycles",
+          "type": "article",
+          "description": "Khan Academy explainer"
+        }
+      ],
+      "importance": "high",
+      "category": "Reproduction & Life Cycles",
+      "topics": ["Ulothrix", "Algal reproduction", "Haplontic cycle"]
+    },
+    {
+      "id": "RLC-02",
+      "title": "Marchantia — Habitat, Structure & Reproduction",
+      "content": "Thalloid liverwort; dorsiventral thallus with air chambers; gemma cups (asexual); antheridiophores & archegoniophores (sexual); sporophyte dependent on gametophyte.",
+      "keyTakeaways": [
+        "Dominant gametophyte; water-dependent fertilization.",
+        "Draw gemma cups and male/female receptacles clearly.",
+        "Lifecycle shows embryo retention on gametophyte."
+      ],
+      "resources": [
+        {
+          "title": "Marchantia (genus overview)",
+          "url": "https://www.britannica.com/plant/Marchantia",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Marchantia polymorpha (species page)",
+          "url": "https://www.britannica.com/plant/Marchantia-polymorpha",
+          "type": "article",
+          "description": "Britannica species entry"
+        },
+        {
+          "title": "Bryophytes (general features & life cycles)",
+          "url": "https://openstax.org/books/biology-2e/pages/26-2-bryophytes",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Reproduction & Life Cycles",
+      "topics": ["Marchantia", "Bryophytes", "Gemmae"]
+    },
+    {
+      "id": "RLC-03",
+      "title": "Evolution of the Seed & Its Importance",
+      "content": "Transition from homospory → heterospory → seed habit; seeds confer protection, dormancy, dispersal, and embryo nourishment — key to terrestrial success of spermatophytes.",
+      "keyTakeaways": [
+        "Seeds reduce water dependence; enable dormancy & wider dispersal.",
+        "Reduced, protected gametophytes (pollen & ovule).",
+        "Compare gymnosperm vs angiosperm seeds."
+      ],
+      "resources": [
+        {
+          "title": "Seed — structure & evolution",
+          "url": "https://www.britannica.com/science/seed-plant-reproductive-structure",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Evolution of Seed Plants",
+          "url": "https://openstax.org/books/biology-2e/pages/26-1-evolution-of-seed-plants",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "Seed plants — chapter hub",
+          "url": "https://openstax.org/books/biology-2e/pages/26-introduction",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Reproduction & Life Cycles",
+      "topics": ["Seed evolution", "Heterospory", "Spermatophytes"]
+    },
+    {
+      "id": "RLC-04",
+      "title": "Angiosperm Fertilization & Double Fertilization",
+      "content": "Pollen tube delivers two sperm cells: one fuses with egg (zygote), the other with central cell (polar nuclei) to form endosperm — hallmark of angiosperms.",
+      "keyTakeaways": [
+        "7-celled, 8-nucleate embryo sac model.",
+        "Sequence: pollination → germination → tube growth → syngamy + triple fusion.",
+        "Endosperm as nutritive tissue (often 3n)."
+      ],
+      "resources": [
+        {
+          "title": "Double fertilization in angiosperms",
+          "url": "https://www.khanacademy.org/science/biology/plant-biology/flowers/a/double-fertilization-in-angiosperms",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "Pollination & fertilization (angiosperms)",
+          "url": "https://openstax.org/books/biology-2e/pages/32-2-pollination-and-fertilization",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Reproduction & Life Cycles",
+      "topics": ["Double fertilization", "Endosperm", "Embryo sac"]
+    },
+    {
+      "id": "AFL-01",
+      "title": "Algae — Classification, Pigments & Economic Importance",
+      "content": "Major groups by pigments, storage products, and cell structure (Chlorophyta, Rhodophyta, Phaeophyceae, Cyanobacteria); roles in food, biofertilizers, and industry.",
+      "keyTakeaways": [
+        "Match pigment sets (chlorophylls, carotenoids, phycobilins) to groups.",
+        "Economic uses: agar (Rhodophyta), alginates (Phaeophyceae), Spirulina (cyanobacteria).",
+        "Habitat-based classification & thallus diversity."
+      ],
+      "resources": [
+        {
+          "title": "Algae (overview & diversity)",
+          "url": "https://www.britannica.com/science/algae",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Cyanobacteria — significance in food/hunger",
+          "url": "https://www.britannica.com/science/cyanobacteria",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Seedless plants (algal context in plant evolution)",
+          "url": "https://openstax.org/books/biology-2e/pages/26-3-seedless-plants",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Algae, Fungi & Lichens",
+      "topics": ["Algal pigments", "Classification", "Economic importance"]
+    },
+    {
+      "id": "AFL-02",
+      "title": "Rhizopus — Structure, Nutrition & Reproduction",
+      "content": "Zygomycete fungus with coenocytic hyphae; saprophytic nutrition; asexual sporangiospores; sexual zygospores via gametangial copulation.",
+      "keyTakeaways": [
+        "Identify stolons, rhizoids, sporangiophores.",
+        "Heterothallism (± strains) in sexual cycle.",
+        "Roles in spoilage, fermentation, and research."
+      ],
+      "resources": [
+        {
+          "title": "Rhizopus (genus)",
+          "url": "https://www.britannica.com/science/Rhizopus",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Zygomycota (group overview)",
+          "url": "https://www.britannica.com/science/Zygomycota",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Fungi — medical microbiology survey",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK8186/",
+          "type": "book",
+          "description": "NCBI Bookshelf"
+        }
+      ],
+      "importance": "high",
+      "category": "Algae, Fungi & Lichens",
+      "topics": ["Rhizopus", "Sporangiospores", "Zygospores"]
+    },
+    {
+      "id": "AFL-03",
+      "title": "Lichens — Symbiosis, Reproduction & Importance",
+      "content": "Stable association of mycobiont (fungus) and phycobiont (alga/cyanobacterium); sexual reproduction by fungal partner; asexual via soredia/isidia; bioindicators & soil formation.",
+      "keyTakeaways": [
+        "Understand dual nature and ecological resilience.",
+        "Asexual propagules (soredia/isidia) spread both partners.",
+        "Use in biomonitoring air quality; pioneer species on rocks."
+      ],
+      "resources": [
+        {
+          "title": "Lichen (definition & biology)",
+          "url": "https://www.britannica.com/science/lichen",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Pollen & palynology (context for lichen spores not primary, but ecosystem indicators)",
+          "url": "https://www.kew.org/science/our-science/projects/pollen",
+          "type": "article",
+          "description": "Royal Botanic Gardens, Kew"
+        }
+      ],
+      "importance": "medium",
+      "category": "Algae, Fungi & Lichens",
+      "topics": ["Lichen symbiosis", "Soredia/Isidia", "Bioindicators"]
+    },
+    {
+      "id": "BP-01",
+      "title": "Bryophytes — Characteristics, Evolution & Reproduction",
+      "content": "Non-vascular land plants with dominant gametophyte; need free water for fertilization; sporophyte remains attached; vegetative reproduction via gemmae (e.g., Marchantia).",
+      "keyTakeaways": [
+        "Dominant gametophyte is a core hallmark.",
+        "Life cycle alternates n ↔ 2n with zygote retained.",
+        "Ecology: moisture-dependent microhabitats."
+      ],
+      "resources": [
+        {
+          "title": "Bryophytes — features & life cycles",
+          "url": "https://openstax.org/books/biology-2e/pages/26-2-bryophytes",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "Bryophyte (encyclopedia overview)",
+          "url": "https://www.britannica.com/plant/bryophyte",
+          "type": "article",
+          "description": "Britannica"
+        }
+      ],
+      "importance": "high",
+      "category": "Bryophytes & Pteridophytes",
+      "topics": ["Bryophytes", "Gametophyte dominance", "Gemmae"]
+    },
+    {
+      "id": "BP-02",
+      "title": "Evolution of Gametophyte & Sporophyte in Bryophytes",
+      "content": "Trends in dependency and complexity; sporophyte evolution from simple seta+capsule to more elaborate forms; implications for land adaptation.",
+      "keyTakeaways": [
+        "Sporophyte is nutritionally dependent in bryophytes.",
+        "Evolution increases sporophyte specialization while retaining dependence.",
+        "Contrast with vascular plants where sporophyte dominates."
+      ],
+      "resources": [
+        {
+          "title": "Alternation of generations (concept refresher)",
+          "url": "https://www.khanacademy.org/science/biology/cellular-molecular-biology/meiosis/a/sexual-life-cycles",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "Seedless plant evolution context",
+          "url": "https://openstax.org/books/biology-2e/pages/26-3-seedless-plants",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "medium",
+      "category": "Bryophytes & Pteridophytes",
+      "topics": ["Gametophyte", "Sporophyte", "Life-cycle evolution"]
+    },
+    {
+      "id": "BP-03",
+      "title": "Pteridophytes — Equisetum (Strobilus & Sporangia)",
+      "content": "Horsetails with jointed stems and silica; strobili bear sporangiophores with sporangia; homosporous; elaters aid spore dispersal.",
+      "keyTakeaways": [
+        "Know strobilus organization and sporangiophore structure.",
+        "Equisetum: living Sphenopsida representative.",
+        "Anatomical features (carinal canals, vallecular canals)."
+      ],
+      "resources": [
+        {
+          "title": "Horsetail (Equisetum) overview",
+          "url": "https://www.britannica.com/plant/horsetail-plant",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Seedless vascular plants (ferns & allies)",
+          "url": "https://openstax.org/books/biology-2e/pages/26-4-seedless-vascular-plants",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Bryophytes & Pteridophytes",
+      "topics": ["Equisetum", "Strobilus", "Sporangiophore"]
+    },
+    {
+      "id": "BP-04",
+      "title": "Gymnosperms vs Pteridophytes (and vs Angiosperms) — Core Contrasts",
+      "content": "Gymnosperms: seeds naked on cones, no flowers/fruits; Pteridophytes: seedless vascular, spore-based; Angiosperms: flowers, fruits, double fertilization.",
+      "keyTakeaways": [
+        "Seed presence/absence is the key divide.",
+        "Double fertilization unique to angiosperms.",
+        "Cone-based reproduction central to many gymnosperms."
+      ],
+      "resources": [
+        {
+          "title": "Seed plants overview (gymnosperms & angiosperms)",
+          "url": "https://openstax.org/books/biology-2e/pages/26-introduction",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "Angiosperm — organization of vascular tissue",
+          "url": "https://www.britannica.com/plant/angiosperm/Organization-of-the-vascular-tissue",
+          "type": "article",
+          "description": "Britannica"
+        }
+      ],
+      "importance": "high",
+      "category": "Bryophytes & Pteridophytes",
+      "topics": ["Gymnosperms", "Pteridophytes", "Angiosperms"]
+    },
+    {
+      "id": "TX-01",
+      "title": "Classification Systems — Artificial, Natural & Phylogenetic",
+      "content": "Artificial systems use few superficial characters (e.g., Linnaeus). Natural systems consider many characters (Bentham & Hooker). Phylogenetic systems (APG) use evolutionary/molecular data.",
+      "keyTakeaways": [
+        "Artificial: simple but unnatural.",
+        "Natural: reflects more relationships but still morphology-based.",
+        "Phylogenetic: DNA-based, current APG system."
+      ],
+      "resources": [
+        {
+          "title": "Plant taxonomy (overview)",
+          "url": "https://www.britannica.com/science/plant-taxonomy",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Taxonomy & classification (intro)",
+          "url": "https://openstax.org/books/biology-2e/pages/20-1-biology-and-the-tree-of-life",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "APG IV system",
+          "url": "https://www.kew.org/science/tropicos/apg",
+          "type": "article",
+          "description": "Royal Botanic Gardens, Kew"
+        }
+      ],
+      "importance": "high",
+      "category": "Taxonomy & Biosystematics",
+      "topics": ["Artificial systems", "Natural systems", "Phylogenetic systems"]
+    },
+    {
+      "id": "TX-02",
+      "title": "Binomial Nomenclature & ICN Rules",
+      "content": "Binomial system (Linnaeus, 1753); governed by ICN (International Code of Nomenclature); principles include priority, typification, Latinization.",
+      "keyTakeaways": [
+        "Every plant has one correct scientific name.",
+        "ICN applies to algae, fungi, and plants.",
+        "Typification and priority are central."
+      ],
+      "resources": [
+        {
+          "title": "Binomial nomenclature",
+          "url": "https://www.britannica.com/science/binomial-nomenclature",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "ICN official page (IAPT)",
+          "url": "https://www.iapt-taxon.org/nomen/main.php",
+          "type": "article",
+          "description": "International Association for Plant Taxonomy"
+        },
+        {
+          "title": "How to use the ICN",
+          "url": "https://www.iapt-taxon.org/nomen/pages/main/how_to.php",
+          "type": "article",
+          "description": "IAPT guide"
+        }
+      ],
+      "importance": "high",
+      "category": "Taxonomy & Biosystematics",
+      "topics": ["Binomial nomenclature", "ICN", "Typification"]
+    },
+    {
+      "id": "TX-03",
+      "title": "Palynology & Taxonomic Significance",
+      "content": "Palynology studies pollen/spore morphology. Used in taxonomy, palaeoecology, climate reconstructions, and forensics.",
+      "keyTakeaways": [
+        "Exine sculpturing and apertures help ID taxa.",
+        "Pollen grains preserve well → biostratigraphy.",
+        "Modern palynology integrates electron microscopy."
+      ],
+      "resources": [
+        {
+          "title": "Palynology",
+          "url": "https://en.wikipedia.org/wiki/Palynology",
+          "type": "article",
+          "description": "Overview with applications"
+        },
+        {
+          "title": "Pollen (morphology & uses)",
+          "url": "https://www.britannica.com/science/pollen",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Pollen research (Kew)",
+          "url": "https://www.kew.org/science/our-science/projects/pollen",
+          "type": "article",
+          "description": "Royal Botanic Gardens, Kew"
+        }
+      ],
+      "importance": "medium",
+      "category": "Taxonomy & Biosystematics",
+      "topics": ["Palynology", "Pollen morphology", "Systematics"]
+    },
+    {
+      "id": "TX-04",
+      "title": "Modern Biosystematics — Morphological, Molecular, Numerical",
+      "content": "Biosystematics integrates classical taxonomy with cytology, molecular phylogenetics, chemotaxonomy, palynology, and numerical methods.",
+      "keyTakeaways": [
+        "Morphology + molecular sequences (DNA barcoding) dominate.",
+        "Numerical taxonomy uses algorithms and clustering.",
+        "Chemo-taxonomy uses secondary metabolites as characters."
+      ],
+      "resources": [
+        {
+          "title": "Systematics — overview",
+          "url": "https://www.britannica.com/science/systematics",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "DNA barcoding (intro)",
+          "url": "https://www.kew.org/science/our-science/projects/barcoding-life",
+          "type": "article",
+          "description": "Kew Gardens"
+        },
+        {
+          "title": "Numerical taxonomy (cladistics context)",
+          "url": "https://en.wikipedia.org/wiki/Numerical_taxonomy",
+          "type": "article",
+          "description": "Overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Taxonomy & Biosystematics",
+      "topics": ["Morphology", "Molecular phylogeny", "Numerical taxonomy"]
+    },
+    {
+      "id": "AN-01",
+      "title": "Cambium & Secondary Growth",
+      "content": "Vascular cambium (fusiform & ray initials) produces secondary xylem & phloem. Cork cambium forms periderm. Secondary growth thickens stems & roots in dicots/gymnosperms.",
+      "keyTakeaways": [
+        "Vascular cambium = wood and secondary phloem.",
+        "Cork cambium = outer bark protection.",
+        "Not present in monocots (with few exceptions)."
+      ],
+      "resources": [
+        {
+          "title": "Cambium",
+          "url": "https://www.britannica.com/science/cambium",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Vascular cambium",
+          "url": "https://www.britannica.com/science/vascular-cambium",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Cork cambium",
+          "url": "https://www.britannica.com/science/cork-cambium",
+          "type": "article",
+          "description": "Britannica"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Anatomy & Morphology",
+      "topics": ["Vascular cambium", "Cork cambium", "Secondary growth"]
+    },
+    {
+      "id": "AN-02",
+      "title": "Meristematic Tissues",
+      "content": "Apical, intercalary, and lateral meristems. Primary growth via apical; secondary growth via lateral (cambium).",
+      "keyTakeaways": [
+        "Meristems are undifferentiated, capable of division.",
+        "Apical meristem → elongation; lateral → thickening.",
+        "Intercalary meristems in grasses allow regrowth."
+      ],
+      "resources": [
+        {
+          "title": "Meristem",
+          "url": "https://www.britannica.com/science/meristem",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Plant tissues (overview)",
+          "url": "https://openstax.org/books/biology-2e/pages/30-2-stems",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "medium",
+      "category": "Plant Anatomy & Morphology",
+      "topics": ["Meristem", "Primary growth", "Secondary growth"]
+    },
+    {
+      "id": "AN-03",
+      "title": "Poaceae Family — Diagnostic Characters & Economic Importance",
+      "content": "Grass family with hollow stems, nodes, sheathing leaves, spikelets. Economically most important family (cereals, sugarcane, bamboo).",
+      "keyTakeaways": [
+        "Inflorescence = spikelets with lemma & palea.",
+        "Fruit = caryopsis (grain).",
+        "Major crops: wheat, rice, maize, sugarcane."
+      ],
+      "resources": [
+        {
+          "title": "Poaceae (grass family)",
+          "url": "https://www.britannica.com/plant/grass-plant-family",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Poaceae — Kew Science",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001068-2",
+          "type": "database",
+          "description": "Plants of the World Online (Kew)"
+        },
+        {
+          "title": "Cereal crops overview",
+          "url": "https://www.fao.org/cereal-supply-demand/en/",
+          "type": "article",
+          "description": "FAO"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Anatomy & Morphology",
+      "topics": ["Poaceae", "Grasses", "Economic importance"]
+    },
+    {
+      "id": "AN-04",
+      "title": "Stomata, Cell Walls & Tissue Ultrastructure",
+      "content": "Guard cells control gas exchange; cell wall layers (primary, secondary, middle lamella); specialized tissues (xylem, phloem, collenchyma, sclerenchyma).",
+      "keyTakeaways": [
+        "Stomata distribution adapts to habitat (xerophytes vs hydrophytes).",
+        "Cell wall = cellulose microfibrils + lignin in secondary.",
+        "Parenchyma vs collenchyma vs sclerenchyma differences."
+      ],
+      "resources": [
+        {
+          "title": "Plant tissue",
+          "url": "https://www.britannica.com/science/plant-tissue",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Plant cell walls (composition)",
+          "url": "https://www.britannica.com/science/cell-wall",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Stomata — Kew Science",
+          "url": "https://www.kew.org/science/our-science/projects/stomata",
+          "type": "article",
+          "description": "Kew"
+        }
+      ],
+      "importance": "medium",
+      "category": "Plant Anatomy & Morphology",
+      "topics": ["Stomata", "Cell wall", "Tissues"]
+    },
+    {
+      "id": "PB-01",
+      "title": "Photosynthesis — Light Reactions & Z-Scheme",
+      "content": "Light energy drives electron flow through PSII → plastoquinone → cytochrome b6f → plastocyanin → PSI → ferredoxin → NADP+. Proton gradient powers ATP synthesis.",
+      "keyTakeaways": [
+        "Z-scheme shows PSII and PSI operating sequentially.",
+        "Non-cyclic vs cyclic photophosphorylation.",
+        "Produces ATP and NADPH for Calvin cycle."
+      ],
+      "resources": [
+        {
+          "title": "Z-scheme of photosynthesis",
+          "url": "https://www.britannica.com/science/photosynthesis/Light-reactions-of-photosynthesis#ref49727",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Light reactions (overview)",
+          "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/the-light-dependent-reactions-of-photosynthesis/a/the-light-dependent-reactions",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "Photosystems & electron flow",
+          "url": "https://openstax.org/books/biology-2e/pages/8-2-photosynthesis",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Physiology & Biochemistry",
+      "topics": ["Photosynthesis", "Z-scheme", "Photophosphorylation"]
+    },
+    {
+      "id": "PB-02",
+      "title": "C3, C4 & CAM Photosynthesis",
+      "content": "C3: Calvin cycle directly fixes CO2. C4: spatial separation of initial fixation (PEP carboxylase in mesophyll) and Calvin cycle in bundle sheath. CAM: temporal separation (night fixation, day Calvin cycle).",
+      "keyTakeaways": [
+        "C4 plants (e.g., maize) reduce photorespiration in hot climates.",
+        "CAM plants (e.g., cacti) adapt to arid environments.",
+        "Know enzyme differences: RuBisCO vs PEP carboxylase."
+      ],
+      "resources": [
+        {
+          "title": "C3, C4 and CAM plants",
+          "url": "https://www.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants/a/c3-c4-and-cam-plants",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "C4 & CAM overview",
+          "url": "https://openstax.org/books/biology-2e/pages/8-3-photosynthesis-in-prokaryotes-and-c4-and-cam-plants",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Physiology & Biochemistry",
+      "topics": ["C3", "C4", "CAM", "Photorespiration"]
+    },
+    {
+      "id": "PB-03",
+      "title": "Respiration — Glycolysis, TCA Cycle, Oxidative Phosphorylation",
+      "content": "Glycolysis in cytoplasm → pyruvate oxidation → TCA in mitochondria → NADH/FADH2 donate e- to ETC → ATP by chemiosmosis.",
+      "keyTakeaways": [
+        "TCA produces 3 NADH + 1 FADH2 + 1 GTP per acetyl-CoA.",
+        "ETC in inner mitochondrial membrane drives proton gradient.",
+        "O2 is terminal electron acceptor."
+      ],
+      "resources": [
+        {
+          "title": "Cellular respiration overview",
+          "url": "https://www.khanacademy.org/science/biology/cellular-respiration-and-fermentation/cellular-respiration/a/what-is-cellular-respiration",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "Oxidative phosphorylation",
+          "url": "https://www.britannica.com/science/oxidative-phosphorylation",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Citric Acid Cycle (steps)",
+          "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Physiology & Biochemistry",
+      "topics": ["Respiration", "ETC", "Oxidative phosphorylation"]
+    },
+    {
+      "id": "PB-04",
+      "title": "Plant Hormones & Growth Regulators",
+      "content": "Auxins: apical dominance, cell elongation; Gibberellins: stem elongation, seed germination; Cytokinins: cell division, delay senescence; ABA: stress hormone, dormancy; Ethylene: fruit ripening.",
+      "keyTakeaways": [
+        "Know sites of biosynthesis (e.g., auxin in shoot tips, gibberellins in seeds).",
+        "Hormones interact (synergistic/antagonistic effects).",
+        "ABA crucial in stomatal closure during drought."
+      ],
+      "resources": [
+        {
+          "title": "Plant hormones (encyclopedia)",
+          "url": "https://www.britannica.com/science/plant-hormone",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Plant hormones & responses",
+          "url": "https://openstax.org/books/biology-2e/pages/30-6-hormones-and-growth",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Physiology & Biochemistry",
+      "topics": ["Auxin", "Gibberellin", "ABA", "Ethylene", "Cytokinin"]
+    },
+    {
+      "id": "PB-05",
+      "title": "RuBisCO & Enzyme Specificity",
+      "content": "Ribulose-1,5-bisphosphate carboxylase/oxygenase catalyzes CO2 fixation in Calvin cycle but also O2 fixation (photorespiration).",
+      "keyTakeaways": [
+        "Enzyme active site allows both CO2 and O2 binding.",
+        "Carboxylase activity drives Calvin cycle; oxygenase → photorespiration.",
+        "Most abundant enzyme on Earth."
+      ],
+      "resources": [
+        {
+          "title": "RuBisCO (enzyme details)",
+          "url": "https://www.britannica.com/science/RuBisCO",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Enzyme specificity basics",
+          "url": "https://www.khanacademy.org/science/biology/energy-and-enzymes/enzymes/a/enzymes-and-the-active-site",
+          "type": "article",
+          "description": "Khan Academy"
+        }
+      ],
+      "importance": "medium",
+      "category": "Plant Physiology & Biochemistry",
+      "topics": ["RuBisCO", "Photorespiration", "Enzyme specificity"]
+    },
+    {
+      "id": "PB-06",
+      "title": "Nitrogen Cycle & Human Impacts",
+      "content": "Steps: fixation (biological/industrial), nitrification, assimilation, ammonification, denitrification. Human inputs (fertilizers, industry) disrupt balance.",
+      "keyTakeaways": [
+        "Biological N fixation: Rhizobium, cyanobacteria.",
+        "Excess N → eutrophication, groundwater pollution.",
+        "N2O emissions contribute to climate change."
+      ],
+      "resources": [
+        {
+          "title": "Nitrogen cycle (encyclopedia)",
+          "url": "https://www.britannica.com/science/nitrogen-cycle",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Nitrogen cycle (OpenStax)",
+          "url": "https://openstax.org/books/biology-2e/pages/46-2-biogeochemical-cycles",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "Nutrient pollution overview",
+          "url": "https://www.epa.gov/nutrientpollution/basic-information-nutrient-pollution",
+          "type": "article",
+          "description": "US EPA"
+        }
+      ],
+      "importance": "high",
+      "category": "Plant Physiology & Biochemistry",
+      "topics": ["Nitrogen cycle", "Fertilizers", "Eutrophication"]
+    },
+    {
+      "id": "ECO-01",
+      "title": "Ecosystem Concept & Components",
+      "content": "Ecosystem = community of organisms + abiotic environment. Structure: producers, consumers, decomposers; functions: energy flow, nutrient cycling.",
+      "keyTakeaways": [
+        "Abiotic (soil, water, climate) + biotic (flora/fauna).",
+        "Energy pyramids show transfer losses.",
+        "Aquatic vs terrestrial ecosystem components."
+      ],
+      "resources": [
+        {
+          "title": "Ecosystem (overview)",
+          "url": "https://www.britannica.com/science/ecosystem",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Ecosystems and energy flow",
+          "url": "https://openstax.org/books/biology-2e/pages/46-1-ecosystems-and-their-components",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Ecosystem", "Components", "Energy flow"]
+    },
+    {
+      "id": "ECO-02",
+      "title": "Plant Succession",
+      "content": "Gradual, directional change in community composition. Primary succession (bare substrate), secondary succession (disturbed habitat). Hydrosere = succession in aquatic habitats.",
+      "keyTakeaways": [
+        "Pioneer species → intermediate → climax.",
+        "Hydrosere: phytoplankton → submerged → reed swamp → forest.",
+        "Soil development parallels vegetation change."
+      ],
+      "resources": [
+        {
+          "title": "Ecological succession",
+          "url": "https://www.britannica.com/science/ecological-succession",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Succession in ecosystems",
+          "url": "https://openstax.org/books/biology-2e/pages/46-4-succession",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Succession", "Hydrosere", "Primary/Secondary"]
+    },
+    {
+      "id": "ECO-03",
+      "title": "Soil Formation & Abiotic Factors",
+      "content": "Soil forms via weathering of parent rock, influenced by climate, organisms, relief, and time. Abiotic factors like water, temperature, and wind shape soil properties.",
+      "keyTakeaways": [
+        "Abiotic factors influence soil texture and fertility.",
+        "Waterlogging and salinity are major issues in Pakistan.",
+        "Soils classified by FAO/USDA systems."
+      ],
+      "resources": [
+        {
+          "title": "Soil (composition & formation)",
+          "url": "https://www.britannica.com/science/soil",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Soil formation factors",
+          "url": "https://www.nrcs.usda.gov/resources/education-and-teaching-materials/soil-formation-five-factors",
+          "type": "article",
+          "description": "USDA NRCS"
+        },
+        {
+          "title": "Biogeochemical cycles & soil",
+          "url": "https://openstax.org/books/biology-2e/pages/46-2-biogeochemical-cycles",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Soil formation", "Abiotic factors", "Soil classification"]
+    },
+    {
+      "id": "ECO-04",
+      "title": "Xerophytes — Structural Adaptations",
+      "content": "Plants in arid environments show thick cuticle, sunken stomata, CAM photosynthesis, water-storing tissues, spines for leaves.",
+      "keyTakeaways": [
+        "Reduced surface area minimizes water loss.",
+        "Succulent tissues store water.",
+        "CAM metabolism maximizes water-use efficiency."
+      ],
+      "resources": [
+        {
+          "title": "Xerophyte adaptations",
+          "url": "https://www.britannica.com/science/xerophyte",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Plant adaptations (dry environments)",
+          "url": "https://openstax.org/books/biology-2e/pages/30-7-plant-adaptations",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Xerophytes", "Adaptations", "CAM"]
+    },
+    {
+      "id": "ECO-05",
+      "title": "Pollution — Aquatic & Terrestrial",
+      "content": "Aquatic pollution from eutrophication, industrial effluents; terrestrial from soil contamination, pesticides, heavy metals. Affects biodiversity and human health.",
+      "keyTakeaways": [
+        "Eutrophication = algal blooms, oxygen depletion.",
+        "Air pollution impacts stomata & photosynthesis.",
+        "Control: regulations, conservation, remediation."
+      ],
+      "resources": [
+        {
+          "title": "Pollution (overview)",
+          "url": "https://www.britannica.com/science/pollution-environment",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Nutrient pollution",
+          "url": "https://www.epa.gov/nutrientpollution/basic-information-nutrient-pollution",
+          "type": "article",
+          "description": "US EPA"
+        },
+        {
+          "title": "Pollution impacts on biodiversity",
+          "url": "https://www.unep.org/explore-topics/pollution",
+          "type": "article",
+          "description": "UNEP"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Aquatic pollution", "Terrestrial pollution", "Conservation"]
+    },
+    {
+      "id": "ECO-06",
+      "title": "Late Blight of Potato (Phytophthora infestans)",
+      "content": "Pathogen causes devastating potato disease. Lifecycle involves sporangia, zoospores, infection cycles. Controlled by resistant cultivars, fungicides, cultural practices.",
+      "keyTakeaways": [
+        "Pathogen = oomycete, not true fungus.",
+        "Spread enhanced by cool, moist weather.",
+        "Forecasting models help predict epidemics."
+      ],
+      "resources": [
+        {
+          "title": "Late Blight (disease lesson)",
+          "url": "https://www.apsnet.org/edcenter/disandpath/oomycete/pdlessons/Pages/LateBlight.aspx",
+          "type": "article",
+          "description": "APSnet — American Phytopathological Society"
+        },
+        {
+          "title": "Late Blight Management",
+          "url": "https://www.apsnet.org/edcenter/disandpath/oomycete/pdlessons/Pages/LateBlightManagement.aspx",
+          "type": "article",
+          "description": "APSnet management guide"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Phytophthora infestans", "Potato blight", "Plant pathology"]
+    },
+    {
+      "id": "ECO-07",
+      "title": "Soil Salinity & Waterlogging in Pakistan",
+      "content": "Indus Basin irrigation caused secondary salinity and waterlogging. Control: drainage, leaching, salt-tolerant crops, improved irrigation management.",
+      "keyTakeaways": [
+        "~6 million ha in Pakistan affected.",
+        "Causes: poor drainage, excessive irrigation.",
+        "Reclamation: tube wells, gypsum application, salt-tolerant varieties."
+      ],
+      "resources": [
+        {
+          "title": "Soil salinity & waterlogging (Indus Basin)",
+          "url": "https://www.fao.org/3/s2026e/s2026e00.htm",
+          "type": "report",
+          "description": "FAO full report"
+        },
+        {
+          "title": "Soil degradation overview",
+          "url": "https://www.britannica.com/science/soil-degradation",
+          "type": "article",
+          "description": "Britannica"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Soil salinity", "Waterlogging", "Pakistan agriculture"]
+    },
+    {
+      "id": "ECO-08",
+      "title": "Biodiversity & Conservation",
+      "content": "Biodiversity = variety of species, ecosystems, genes. Conservation ensures ecosystem services, stability, and resilience.",
+      "keyTakeaways": [
+        "Hotspots: Himalaya, Indo-Burma, Sundalands (regional context).",
+        "In-situ: protected areas; ex-situ: seed banks, botanical gardens.",
+        "Essential to counter biodiversity loss from pollution & deforestation."
+      ],
+      "resources": [
+        {
+          "title": "Biodiversity (overview)",
+          "url": "https://www.britannica.com/science/biodiversity",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Biodiversity conservation",
+          "url": "https://openstax.org/books/biology-2e/pages/47-3-biodiversity",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        },
+        {
+          "title": "Biodiversity & conservation (UNEP)",
+          "url": "https://www.unep.org/explore-topics/biodiversity",
+          "type": "article",
+          "description": "UNEP"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Biodiversity", "Conservation", "Pakistan context"]
+    },
+    {
+      "id": "ECO-09",
+      "title": "Phytoremediation — Plants as Pollution Mitigators",
+      "content": "Plants used to remove, degrade, or stabilize pollutants from soil/water. Strategies: phytoextraction, phytodegradation, rhizofiltration, phytostabilization.",
+      "keyTakeaways": [
+        "Hyperaccumulators concentrate heavy metals.",
+        "Poplar/willow used in phytodegradation of organics.",
+        "Low-cost, eco-friendly remediation method."
+      ],
+      "resources": [
+        {
+          "title": "Phytoremediation",
+          "url": "https://www.britannica.com/science/phytoremediation",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Phytoremediation (EPA)",
+          "url": "https://www.epa.gov/innovative-remediation-technologies/phytoremediation",
+          "type": "article",
+          "description": "US EPA"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ecology & Environmental Botany",
+      "topics": ["Phytoremediation", "Pollution control", "Heavy metals"]
+    },
+    {
+      "id": "GN-01",
+      "title": "Mendelian Genetics — Laws of Segregation & Independent Assortment",
+      "content": "Mendel's pea experiments → law of segregation (alleles separate) and independent assortment (alleles assort independently in gametes).",
+      "keyTakeaways": [
+        "Monohybrid cross → 3:1 ratio.",
+        "Dihybrid cross → 9:3:3:1 ratio.",
+        "Foundation of classical genetics."
+      ],
+      "resources": [
+        {
+          "title": "Mendel's laws of inheritance",
+          "url": "https://www.britannica.com/science/Mendels-law",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Mendel and his peas",
+          "url": "https://www.khanacademy.org/science/biology/classical-genetics/mendelian--genetics/a/mendel-and-his-peas",
+          "type": "article",
+          "description": "Khan Academy"
+        }
+      ],
+      "importance": "high",
+      "category": "Genetics & Molecular Biology",
+      "topics": ["Mendel", "Segregation", "Independent Assortment"]
+    },
+    {
+      "id": "GN-02",
+      "title": "DNA Structure & Double Helix",
+      "content": "Watson and Crick (1953) proposed DNA double helix; uniform 2 nm diameter; base-pairing (A=T, G≡C); antiparallel strands.",
+      "keyTakeaways": [
+        "Hydrogen bonds hold bases together.",
+        "Chargaff's rules guided discovery.",
+        "Double helix explained replication."
+      ],
+      "resources": [
+        {
+          "title": "DNA (molecule overview)",
+          "url": "https://www.britannica.com/science/DNA",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "DNA structure & function",
+          "url": "https://www.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-structure/a/dna-structure-and-function",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "Watson & Crick's paper (Nature, 1953)",
+          "url": "https://www.nature.com/articles/171737a0",
+          "type": "article",
+          "description": "Historic article"
+        }
+      ],
+      "importance": "high",
+      "category": "Genetics & Molecular Biology",
+      "topics": ["DNA structure", "Watson & Crick", "Base pairing"]
+    },
+    {
+      "id": "GN-03",
+      "title": "Linkage & Morgan's Drosophila Experiments",
+      "content": "Morgan showed genes are linked on chromosomes (fruit fly eye color & wing shape). Linkage modifies Mendelian ratios.",
+      "keyTakeaways": [
+        "Crossing over during meiosis breaks linkage.",
+        "Linkage maps estimate gene distances.",
+        "Foundation of chromosomal theory of inheritance."
+      ],
+      "resources": [
+        {
+          "title": "Linkage (genetics)",
+          "url": "https://www.britannica.com/science/linkage-genetics",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Chromosomal basis of inheritance",
+          "url": "https://openstax.org/books/biology-2e/pages/12-3-mapping-genomes",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "medium",
+      "category": "Genetics & Molecular Biology",
+      "topics": ["Linkage", "Morgan", "Chromosomal theory"]
+    },
+    {
+      "id": "GN-04",
+      "title": "Mutations & Mutagens",
+      "content": "Mutation = heritable change in DNA. Types: point mutations, insertions/deletions, chromosomal aberrations. Mutagens: radiation, chemicals, viruses.",
+      "keyTakeaways": [
+        "Silent, missense, nonsense mutations differ by protein effect.",
+        "Chromosomal: deletions, inversions, translocations.",
+        "Mutagens increase mutation rates artificially."
+      ],
+      "resources": [
+        {
+          "title": "Mutation (overview)",
+          "url": "https://www.britannica.com/science/mutation-genetics",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Mutations",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/mutations",
+          "type": "article",
+          "description": "Khan Academy"
+        }
+      ],
+      "importance": "medium",
+      "category": "Genetics & Molecular Biology",
+      "topics": ["Mutation", "Mutagens", "Genetic variation"]
+    },
+    {
+      "id": "GN-05",
+      "title": "Genetic Engineering Tools — Plasmids & λ Phage Vectors",
+      "content": "Plasmids are circular DNA molecules used as cloning vectors. λ phage vector allows larger DNA inserts and high efficiency.",
+      "keyTakeaways": [
+        "Plasmids carry selectable markers & origin of replication.",
+        "λ vectors useful in genomic libraries.",
+        "Vectors are essential for recombinant DNA technology."
+      ],
+      "resources": [
+        {
+          "title": "Plasmid (genetics)",
+          "url": "https://www.britannica.com/science/plasmid",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Lambda phage vectors",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3342891/",
+          "type": "article",
+          "description": "NCBI (research article)"
+        }
+      ],
+      "importance": "medium",
+      "category": "Genetics & Molecular Biology",
+      "topics": ["Plasmids", "Vectors", "Genetic engineering"]
+    },
+    {
+      "id": "PR-01",
+      "title": "Nucleus — Ultrastructure",
+      "content": "Nucleus has double membrane with pores; nucleoplasm, nucleolus, chromatin. Pore complexes regulate transport.",
+      "keyTakeaways": [
+        "Nuclear pores = gated transport.",
+        "Nucleolus = ribosomal RNA synthesis.",
+        "Chromatin types: euchromatin vs heterochromatin."
+      ],
+      "resources": [
+        {
+          "title": "Cell nucleus",
+          "url": "https://www.britannica.com/science/cell-nucleus",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Nucleus (OpenStax)",
+          "url": "https://openstax.org/books/biology-2e/pages/4-3-eukaryotic-cells",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Practical Skills & Diagrams",
+      "topics": ["Nucleus", "Nuclear pores", "Ultrastructure"]
+    },
+    {
+      "id": "PR-02",
+      "title": "Photosystems in Thylakoid Membranes",
+      "content": "PSII in grana thylakoids; PSI in stroma lamellae; cyclic vs non-cyclic electron flow. Light harvesting complexes funnel energy to reaction centers.",
+      "keyTakeaways": [
+        "PSII produces O2 by splitting water.",
+        "PSI reduces NADP+ → NADPH.",
+        "Spatial separation visible in EM studies."
+      ],
+      "resources": [
+        {
+          "title": "Photosystem",
+          "url": "https://www.britannica.com/science/photosystem",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Light reactions (with diagrams)",
+          "url": "https://openstax.org/books/biology-2e/pages/8-2-photosynthesis",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "medium",
+      "category": "Practical Skills & Diagrams",
+      "topics": ["Photosystems", "PSI", "PSII"]
+    },
+    {
+      "id": "PR-03",
+      "title": "Krebs Cycle — Diagram & Significance",
+      "content": "Acetyl-CoA enters cycle; produces NADH, FADH2, GTP; CO2 released; intermediates link to amino acid and lipid metabolism.",
+      "keyTakeaways": [
+        "Each turn = 3 NADH, 1 FADH2, 1 GTP.",
+        "Cycle amphibolic — catabolic & anabolic roles.",
+        "Diagram with intermediates is exam standard."
+      ],
+      "resources": [
+        {
+          "title": "Citric acid cycle",
+          "url": "https://www.britannica.com/science/citric-acid-cycle",
+          "type": "article",
+          "description": "Britannica"
+        },
+        {
+          "title": "Citric acid cycle steps",
+          "url": "https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle",
+          "type": "article",
+          "description": "OpenStax Biology 2e"
+        }
+      ],
+      "importance": "high",
+      "category": "Practical Skills & Diagrams",
+      "topics": ["Krebs cycle", "Metabolism", "Energy"]
+    },
+    {
+      "id": "PR-04",
+      "title": "Short Notes — Quick Revision Topics",
+      "content": "Exam papers often ask short notes on topics like: photoperiodism, vernalization, food webs, Hardy-Weinberg, enzyme specificity, numerical taxonomy.",
+      "keyTakeaways": [
+        "Keep notes concise (definition + diagram/example + significance).",
+        "Practice writing 10-mark answers within ~7 minutes.",
+        "Use flowcharts for clarity."
+      ],
+      "resources": [
+        {
+          "title": "Hardy-Weinberg equilibrium",
+          "url": "https://www.khanacademy.org/science/biology/her/tree-of-life/a/hardy-weinberg-equilibrium",
+          "type": "article",
+          "description": "Khan Academy"
+        },
+        {
+          "title": "Photoperiodism",
+          "url": "https://www.britannica.com/science/photoperiodism",
+          "type": "article",
+          "description": "Britannica"
+        }
+      ],
+      "importance": "medium",
+      "category": "Practical Skills & Diagrams",
+      "topics": ["Short notes", "Exam practice", "Hardy-Weinberg", "Photoperiodism"]
+    }
+  ]
+}

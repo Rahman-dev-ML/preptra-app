@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:34:27.579Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "626b9ce3ef8dc348ef96ddc0102d4aa9b1212613",
+      "sectionIndex": 0,
+      "question": "How would Ibn Khaldun's cyclical theory of civilization explain Pakistan's current political instability compared to Western linear progress theories?",
+      "options": [
+        "A) Both theories predict similar outcomes",
+        "B) Ibn Khaldun's Asabiya decay explains elite fragmentation while Western theories assume institutional evolution",
+        "C) Neither theory applies to modern states",
+        "D) Western theories better explain Pakistani dynamics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e03d0141d2002fb397ae64592129c24f61fcdf4",
+      "sectionIndex": 0,
+      "question": "Synthesizing Marx's alienation, Weber's rationalization, and Durkheim's anomie, which best explains the psychological impact of rapid urbanization in Pakistan?",
+      "options": [
+        "A) Only Marx's alienation is relevant",
+        "B) All three concepts intersect: alienation from traditional labor, bureaucratic rationalization, and normative confusion",
+        "C) These concepts are mutually exclusive",
+        "D) None apply to developing countries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "400b9dcb12cc4c057a565e0fb9b1e73fb580450d",
+      "sectionIndex": 0,
+      "question": "Critically evaluate how Comte's positivism and Ibn Khaldun's empiricism differ in their approach to studying Pakistani tribal societies:",
+      "options": [
+        "A) They are methodologically identical",
+        "B) Comte emphasizes universal laws while Ibn Khaldun stresses historical-cultural specificity",
+        "C) Both reject empirical observation",
+        "D) Neither can study tribal societies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0e37fd33450013dbbc68b30c7100b0f124b2824",
+      "sectionIndex": 0,
+      "question": "How does the application of both functionalist and conflict perspectives simultaneously reveal contradictions in Pakistan's education system?",
+      "options": [
+        "A) They cannot be applied together",
+        "B) Functionalism shows integration goals while conflict theory exposes how these goals perpetuate inequality",
+        "C) Both theories reach identical conclusions",
+        "D) Neither theory addresses education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73ba864f4d25bcd0d10ba56232918093b0bdddf0",
+      "sectionIndex": 0,
+      "question": "Analyze how Durkheim's collective conscience concept must be modified when applied to Pakistan's multi-ethnic society versus his study of homogeneous societies:",
+      "options": [
+        "A) No modification needed",
+        "B) Must account for multiple collective consciences and their negotiation rather than single societal conscience",
+        "C) Concept is entirely inapplicable",
+        "D) Pakistan has no collective conscience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6cfe56fc81f4070b29d5f86e32f20ed760e1c94",
+      "sectionIndex": 0,
+      "question": "Compare how Marx's base-superstructure model and Weber's multiple causation explain the persistence of feudalism in Pakistan despite capitalist development:",
+      "options": [
+        "A) Both give identical explanations",
+        "B) Marx would emphasize economic base while Weber would include status, power, and cultural factors",
+        "C) Neither theory addresses feudalism",
+        "D) Only Marx explains feudalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16576a642fa024bcec15805e616a23685fac21fd",
+      "sectionIndex": 0,
+      "question": "Evaluate the limitations of applying Parsons' AGIL framework to Pakistani society's informal economy:",
+      "options": [
+        "A) AGIL perfectly captures informal economy",
+        "B) AGIL assumes formal institutional differentiation that informal economy transcends",
+        "C) Informal economy doesn't exist",
+        "D) AGIL only applies to Western societies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e7cbe8be9e46350b5299b47263a659099fd7ce3",
+      "sectionIndex": 0,
+      "question": "How does Mead's theory of self-development require modification when applied to Pakistani children navigating between traditional and modern education systems?",
+      "options": [
+        "A) No modification required",
+        "B) Must account for multiple, sometimes conflicting \"generalized others\"",
+        "C) Theory is culturally universal",
+        "D) Pakistani children develop differently"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8e48ac181e898900c6a101ea14e95b22bdf4fa9",
+      "sectionIndex": 0,
+      "question": "Critically assess how Habermas's public sphere concept applies to Pakistani media landscape with state control and linguistic diversity:",
+      "options": [
+        "A) Applies without modification",
+        "B) Must consider multiple fragmented public spheres and power asymmetries",
+        "C) Pakistan has no public sphere",
+        "D) Concept is purely Western"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e399fc35706e6c2a3caa4f7306ee3782bf62c1c",
+      "sectionIndex": 0,
+      "question": "Analyze how Giddens' structuration theory explains the simultaneous persistence and change in Pakistani biradari system:",
+      "options": [
+        "A) It cannot explain both",
+        "B) Shows how agents reproduce structures while gradually transforming them through practice",
+        "C) Biradari is only structure",
+        "D) Theory ignores traditional systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9f560462f8bce53f2e8947f00966ce6a68d41e6",
+      "sectionIndex": 0,
+      "question": "How does Bourdieu's concept of habitus illuminate class reproduction in Pakistan beyond economic factors?",
+      "options": [
+        "A) Habitus only involves economics",
+        "B) Reveals how embodied dispositions, tastes, and cultural capital perpetuate inequality",
+        "C) Pakistan has no class system",
+        "D) Bourdieu doesn't apply to non-Western contexts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "174f63a027ef8c4741d6d0114dd940e7b44f0dab",
+      "sectionIndex": 0,
+      "question": "Evaluate how Foucault's power/knowledge framework explains the role of development discourse in shaping Pakistani policy:",
+      "options": [
+        "A) No relevance to development",
+        "B) Shows how Western knowledge categories create subjects and justify interventions",
+        "C) Pakistan creates its own knowledge",
+        "D) Power and knowledge are separate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ca476d341b32ace4e03ad26c4f6c67f3ecdd371",
+      "sectionIndex": 0,
+      "question": "How do world-systems and dependency theories differently explain Pakistan's economic position?",
+      "options": [
+        "A) They are identical theories",
+        "B) World-systems emphasizes global hierarchy while dependency focuses on extraction mechanisms",
+        "C) Neither addresses Pakistan",
+        "D) Both predict development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c69da9c028ffdc1c8bde74d195c1993ad8ca10a7",
+      "sectionIndex": 1,
+      "question": "Design a multi-method research approach to study honor killings that addresses ethical concerns while generating valid data:",
+      "options": [
+        "A) Use only surveys for safety",
+        "B) Combine secondary data analysis, key informant interviews with practitioners, and careful ethnographic work with safety protocols",
+        "C) Avoid the topic entirely",
+        "D) Only analyze media reports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d262b174a72793cbc4f9c6256867a331df2c8059",
+      "sectionIndex": 1,
+      "question": "How would you triangulate data on corruption in Pakistan given official statistics unreliability and respondent sensitivity?",
+      "options": [
+        "A) Trust official statistics",
+        "B) Cross-reference perception surveys, investigative reports, court records, and economic indicators",
+        "C) Only use international indices",
+        "D) Corruption cannot be studied"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eed32797eafa1597a7727c89cbedb32de9cf93a8",
+      "sectionIndex": 1,
+      "question": "Evaluate the epistemological challenges of studying religious extremism in Pakistan from both emic and etic perspectives:",
+      "options": [
+        "A) Only one perspective is valid",
+        "B) Navigate between insider understanding and analytical distance while avoiding bias",
+        "C) Religious topics cannot be studied objectively",
+        "D) Western methods suffice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b83ecc96b4662629eb60648f53183ab0220fa8f4",
+      "sectionIndex": 1,
+      "question": "Design a longitudinal study tracking social mobility that accounts for Pakistan's informal economy and kinship networks:",
+      "options": [
+        "A) Standard occupational measures suffice",
+        "B) Develop multidimensional indicators including formal/informal income, social capital, and family resources",
+        "C) Social mobility cannot be measured",
+        "D) Only track formal employment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cde4b1d5829bad981723178d0d9c663d6a37d938",
+      "sectionIndex": 1,
+      "question": "How would you address the challenge of studying gender relations in conservative areas while ensuring researcher and participant safety?",
+      "options": [
+        "A) Avoid conservative areas",
+        "B) Use local researchers, indirect methods, and work through trusted community organizations",
+        "C) Only survey men",
+        "D) Gender cannot be studied there"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c31c3645d5489daa19da04dada277790adab2a86",
+      "sectionIndex": 1,
+      "question": "Critically evaluate the validity threats when studying politically sensitive topics like military influence in Pakistan:",
+      "options": [
+        "A) No special considerations needed",
+        "B) Account for self-censorship, selection bias, and potential state surveillance effects",
+        "C) Military influence doesn't exist",
+        "D) Only study historical periods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c352712e1936c5de96c686dc6713bf0b88b48c9b",
+      "sectionIndex": 1,
+      "question": "Design a research framework for studying climate change impacts on social structures that integrates environmental and sociological data:",
+      "options": [
+        "A) Keep disciplines separate",
+        "B) Develop interdisciplinary indicators linking environmental changes to migration, conflict, and social institutions",
+        "C) Climate change is not sociological",
+        "D) Only measure temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9aea45156567d24e83fb045dbcede1e787b73f86",
+      "sectionIndex": 1,
+      "question": "How would you study elite networks in Pakistan given access limitations and power dynamics?",
+      "options": [
+        "A) Direct observation only",
+        "B) Combine document analysis, network mapping through public records, and strategic informant interviews",
+        "C) Elites cannot be studied",
+        "D) Only use media reports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6523b169967595400480211c6e64b457e0c12ca9",
+      "sectionIndex": 1,
+      "question": "Evaluate the challenges of comparative research between Pakistani and Indian Punjab post-partition:",
+      "options": [
+        "A) No challenges exist",
+        "B) Navigate different political contexts, data availability, and nationalist narratives while maintaining comparability",
+        "C) Comparison is impossible",
+        "D) Use identical methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e230f5157643e0bdf31e017b719331c07b415e9e",
+      "sectionIndex": 1,
+      "question": "How would you ensure research validity when studying informal religious education (madrassah) systems?",
+      "options": [
+        "A) Standard education surveys work",
+        "B) Develop culturally sensitive instruments, build trust, and understand internal diversity",
+        "C) Madrassahs are uniform",
+        "D) Only quantitative methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da8f44ba787c75592c8a26e795e4823ba9dbea45",
+      "sectionIndex": 1,
+      "question": "Design an ethical framework for studying vulnerable populations like transgender communities in Pakistan:",
+      "options": [
+        "A) Standard ethics suffice",
+        "B) Prioritize community participation, safety, benefit-sharing, and challenge pathologizing approaches",
+        "C) Too sensitive to study",
+        "D) Only medical approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2475134427ad1ee282b922bd62df12b89671238d",
+      "sectionIndex": 1,
+      "question": "How would you study social media's role in social movements while accounting for state surveillance and self-censorship?",
+      "options": [
+        "A) Analyze all posts equally",
+        "B) Combine digital ethnography with offline interviews and account for platform algorithms and user strategies",
+        "C) Social media is transparent",
+        "D) Only count likes and shares"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5aa1b92353650acc806089f658db9233f3f79113",
+      "sectionIndex": 1,
+      "question": "Evaluate the methodological implications of studying Pakistani diaspora's transnational connections:",
+      "options": [
+        "A) Study only in Pakistan",
+        "B) Multi-sited ethnography tracking flows of people, resources, and ideas across locations",
+        "C) Diaspora is disconnected",
+        "D) Only survey migrants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ac91600bb0ec62b0f7d8ca760ece84eddeb0293",
+      "sectionIndex": 2,
+      "question": "Analyze how the intersection of feudalism, capitalism, and democracy creates unique governance challenges in Pakistan:",
+      "options": [
+        "A) These systems operate independently",
+        "B) Feudal power captures democratic institutions while using capitalist accumulation, creating hybrid exploitation",
+        "C) Only one system dominates",
+        "D) No interaction exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23812009e3d8fcaf2994dd65fb430b0e51aa15d8",
+      "sectionIndex": 2,
+      "question": "Evaluate how Pakistan's \"youth bulge\" intersects with limited economic opportunities and religious mobilization:",
+      "options": [
+        "A) These factors are unrelated",
+        "B) Creates volatile mix where economic frustration channels into various movements including extremism",
+        "C) Youth automatically bring progress",
+        "D) Religious mobilization solves economic issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0340dc95d863b4f1889e094e7389b6f7280efc6c",
+      "sectionIndex": 2,
+      "question": "Critically examine how Pakistan's nuclear status affects internal social dynamics beyond security concerns:",
+      "options": [
+        "A) No internal effects",
+        "B) Creates national pride, justifies military spending, and shapes civil-military relations",
+        "C) Only international impact",
+        "D) Purely technical matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a85fc8fec4512e4d895718b49188d85af90d9ba",
+      "sectionIndex": 2,
+      "question": "Analyze how climate change intersects with existing inequalities to create new patterns of vulnerability in Pakistan:",
+      "options": [
+        "A) Affects everyone equally",
+        "B) Exacerbates existing disparities as poor face flooding, drought, and displacement disproportionately",
+        "C) No climate impacts yet",
+        "D) Only environmental issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69fc175ba22c42a7ffafe6fddfbe42d85cc9c438",
+      "sectionIndex": 2,
+      "question": "Evaluate how the China-Pakistan Economic Corridor (CPEC) reproduces or challenges existing power structures:",
+      "options": [
+        "A) Purely economic project",
+        "B) Reinforces center-periphery dynamics while creating new dependencies and resistances",
+        "C) Benefits all equally",
+        "D) No social impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f31c1f472d035b10ba8705aa3bea52e542367b7",
+      "sectionIndex": 2,
+      "question": "Critically analyze how Pakistani nationalism manages internal diversity versus external threats:",
+      "options": [
+        "A) Seamless unity exists",
+        "B) Strategic deployment of Islamic and security narratives to suppress ethnic tensions",
+        "C) No diversity exists",
+        "D) External threats unite all"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d7579cb6a57a7ef485bb4465f8a93223da5b3e6",
+      "sectionIndex": 2,
+      "question": "Examine how neoliberal reforms interact with traditional patronage systems in Pakistan:",
+      "options": [
+        "A) Neoliberalism replaces patronage",
+        "B) Creates hybrid systems where market mechanisms coexist with clientelist networks",
+        "C) No economic reforms occurred",
+        "D) Systems are incompatible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74ea83687b031475ac384cf3e53dcbafa4a9a48e",
+      "sectionIndex": 2,
+      "question": "Analyze how gender-based violence in Pakistan reflects intersection of patriarchy, state weakness, and cultural legitimation:",
+      "options": [
+        "A) Single factor explanation suffices",
+        "B) Multiple systems reinforce each other creating structural violence beyond individual acts",
+        "C) No systematic pattern",
+        "D) Only cultural issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d5d4846e96f97a6707810a12d16e4670acb0f09",
+      "sectionIndex": 2,
+      "question": "Evaluate how Pakistan's location between Middle East, Central Asia, and South Asia shapes its social dynamics:",
+      "options": [
+        "A) Geography is irrelevant",
+        "B) Creates complex identity negotiations and competing regional influences on society",
+        "C) Pakistan belongs to one region",
+        "D) No regional influences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94336a146f67e20d7ec36e441a2537eff199a759",
+      "sectionIndex": 2,
+      "question": "Critically examine how development aid shapes social relations and governance in Pakistan:",
+      "options": [
+        "A) Aid is neutral assistance",
+        "B) Creates dependency, shapes policy priorities, and reinforces certain power relations",
+        "C) No aid received",
+        "D) Only positive effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa6315c57c63c2f837c684998301bb74b8d2ab7e",
+      "sectionIndex": 2,
+      "question": "Analyze how the informal economy both challenges and sustains existing social hierarchies:",
+      "options": [
+        "A) Purely disruptive force",
+        "B) Provides survival while reproducing exploitation outside state regulation",
+        "C) No informal economy",
+        "D) Only benefits poor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deba94821f194e85f399cf6471e7155f61d4c9e7",
+      "sectionIndex": 2,
+      "question": "Evaluate how sectarian conflicts in Pakistan relate to broader political economy rather than just religious differences:",
+      "options": [
+        "A) Purely theological disputes",
+        "B) Resource competition, political mobilization, and regional proxy conflicts drive sectarian violence",
+        "C) No sectarian issues",
+        "D) Isolated incidents"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c65f6c1a82cb1939ffad037f4833fe031696b796",
+      "sectionIndex": 2,
+      "question": "Critically assess how Pakistani state's Islam policies create unintended consequences:",
+      "options": [
+        "A) Policies achieve stated goals",
+        "B) Islamization empowers groups that challenge state monopoly on religious interpretation",
+        "C) No Islamic policies",
+        "D) Complete state control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "577a09aff82006c7b9d3513b48a1e5a66b2971b4",
+      "sectionIndex": 3,
+      "question": "Analyze how code-switching between languages in Pakistan reflects and reproduces social hierarchies:",
+      "options": [
+        "A) Language choice is random",
+        "B) Strategic use of English, Urdu, and regional languages marks class, education, and power",
+        "C) Everyone speaks identically",
+        "D) Language is neutral"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "086ca6adf973560c9e420fe00ad506a70f9ad46a",
+      "sectionIndex": 3,
+      "question": "Evaluate how Pakistani wedding practices synthesize religious, cultural, and class elements:",
+      "options": [
+        "A) Purely religious ceremonies",
+        "B) Complex performances displaying status, negotiating tradition/modernity, and reproducing social networks",
+        "C) Simple cultural practice",
+        "D) No social significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "137fa827b47ea94690f371e1bf0f569c7cbe7d04",
+      "sectionIndex": 3,
+      "question": "Critically examine how \"Western\" and \"Islamic\" are deployed as opposing categories in Pakistani cultural debates:",
+      "options": [
+        "A) Clear fixed oppositions",
+        "B) Strategic constructions that obscure hybrid realities and serve political purposes",
+        "C) No such debates exist",
+        "D) Accurate descriptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "099a758757230b870700495da27547f2421ca05a",
+      "sectionIndex": 3,
+      "question": "Analyze how Pakistani diaspora maintains and transforms cultural identity across generations:",
+      "options": [
+        "A) Complete assimilation occurs",
+        "B) Selective preservation, invention of tradition, and hybrid identity formation",
+        "C) No change across generations",
+        "D) Return to pure origins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48a2b0d9e54d32ab1f0d6e0651ed941e37fc69ee",
+      "sectionIndex": 3,
+      "question": "Evaluate how social media creates new forms of cultural expression and control in Pakistan:",
+      "options": [
+        "A) Only liberating force",
+        "B) Enables expression while creating new surveillance and social pressure mechanisms",
+        "C) No cultural impact",
+        "D) Replaces all tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9396d61c0fcf3a4ed2df726d7838a2885969ac29",
+      "sectionIndex": 3,
+      "question": "Critically assess how \"corruption\" as cultural discourse shapes Pakistani political imagination:",
+      "options": [
+        "A) Objective problem only",
+        "B) Narrative that both critiques and reproduces certain power relations",
+        "C) No corruption exists",
+        "D) Simple moral issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b638f545896d4e6dc3cf94814756dd5817ce9bfb",
+      "sectionIndex": 3,
+      "question": "Analyze how Pakistani popular culture negotiates between commercial pressures and cultural authenticity:",
+      "options": [
+        "A) Pure commercial products",
+        "B) Complex negotiations producing hybrid forms that claim authenticity while pursuing profit",
+        "C) No popular culture",
+        "D) Authentic tradition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47348dd2abdf42037d89bed8bb59558ec77c8ecf",
+      "sectionIndex": 3,
+      "question": "Evaluate how honor (izzat) concepts adapt to urban professional contexts:",
+      "options": [
+        "A) Honor disappears in cities",
+        "B) Transforms to include professional achievement while maintaining gender and family dimensions",
+        "C) Unchanged rural concept",
+        "D) No relevance today"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "446f07003d17faf8835432f12dbacd660498c019",
+      "sectionIndex": 3,
+      "question": "Critically examine how \"development\" discourse shapes Pakistani self-perception and policies:",
+      "options": [
+        "A) Neutral technical term",
+        "B) Creates deficiency narrative that justifies certain interventions and power relations",
+        "C) No development discourse",
+        "D) Purely beneficial concept"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cffaa169902920e73028c9ff448adede0233304d",
+      "sectionIndex": 3,
+      "question": "Analyze how food practices in Pakistan encode and negotiate social boundaries:",
+      "options": [
+        "A) Food is just nutrition",
+        "B) Dietary choices signal religious, class, and ethnic identities while creating inclusion/exclusion",
+        "C) Everyone eats same food",
+        "D) No social meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7e0f19b3db901217fd181e5c383eaed19739e01",
+      "sectionIndex": 3,
+      "question": "Evaluate how architectural changes in Pakistani cities reflect changing social relations:",
+      "options": [
+        "A) Buildings are neutral spaces",
+        "B) Gated communities, malls, and segregated spaces materialize class divisions and security fears",
+        "C) No architectural changes",
+        "D) Only aesthetic choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3cb04bd41a257a6bdb5afa8dd829b0f7e9cde26",
+      "sectionIndex": 3,
+      "question": "Critically assess how \"tribal\" areas are constructed in Pakistani national imagination:",
+      "options": [
+        "A) Accurate descriptions",
+        "B) Orientalist constructions that justify particular governance approaches and development interventions",
+        "C) No tribal areas exist",
+        "D) Homogeneous regions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "444adb6c75966ecea224147e90a331545b5662b5",
+      "sectionIndex": 3,
+      "question": "Analyze how Pakistani fashion industry negotiates modernity, tradition, and religious sensibilities:",
+      "options": [
+        "A) Simple clothing choices",
+        "B) Complex field where designers navigate multiple audiences and identity claims",
+        "C) No fashion industry",
+        "D) Western imitation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3899bd20a8fe41c54841746e4c4fb10e018e3e2",
+      "sectionIndex": 4,
+      "question": "Evaluate how framing terrorism as law-and-order versus socioeconomic issue shapes policy responses:",
+      "options": [
+        "A) Framing doesn't matter",
+        "B) Security frame justifies force while development frame suggests different interventions",
+        "C) Only one frame is correct",
+        "D) No terrorism exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51f38144a35e65f67b02ab6a501ab9559df2c6fd",
+      "sectionIndex": 4,
+      "question": "Analyze how Pakistani poverty measurements obscure certain forms of deprivation:",
+      "options": [
+        "A) Measurements are comprehensive",
+        "B) Income metrics miss social exclusion, vulnerability, and capability deprivations",
+        "C) Poverty easily measured",
+        "D) No measurement issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "395153fce001427a0c7afce84af1634fcd68da78",
+      "sectionIndex": 4,
+      "question": "Critically examine how anti-corruption campaigns may reinforce the systems they claim to challenge:",
+      "options": [
+        "A) Always successful reforms",
+        "B) Can legitimize system while removing rivals and maintaining structural corruption",
+        "C) No anti-corruption efforts",
+        "D) Corruption easily eliminated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72031916f76cc11ff6b679b4ca08c371dcd15a08",
+      "sectionIndex": 4,
+      "question": "Evaluate how medicalizing mental health in Pakistan interacts with traditional healing systems:",
+      "options": [
+        "A) Complete replacement occurs",
+        "B) Creates plural health-seeking where biomedical and traditional systems coexist and compete",
+        "C) No mental health issues",
+        "D) Only modern medicine works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ca5522e44b7b918e435cb05ca5b0c42c42199a0",
+      "sectionIndex": 4,
+      "question": "Analyze how child labor in Pakistan reflects global supply chains beyond local poverty:",
+      "options": [
+        "A) Purely local issue",
+        "B) International demand and subcontracting create incentives maintaining child labor",
+        "C) No child labor exists",
+        "D) Only poverty causes it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0fbfdaa958b644dc519b65ac93ba75b575ae534",
+      "sectionIndex": 4,
+      "question": "Critically assess how NGO-ization affects social movements and state-society relations:",
+      "options": [
+        "A) NGOs simply help society",
+        "B) Can depoliticize movements, create new dependencies, and fragment collective action",
+        "C) No NGO presence",
+        "D) Only positive effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2edbf8d60293893d6ca621ef1d3d41729ff04857",
+      "sectionIndex": 4,
+      "question": "Evaluate how criminalization of certain behaviors reflects power relations rather than inherent harm:",
+      "options": [
+        "A) Laws reflect objective harm",
+        "B) Selective criminalization targets certain groups while ignoring elite violations",
+        "C) All laws are just",
+        "D) No power dynamics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26a8da7b28b0e107fdb5aa89c6afcc2dea161a5c",
+      "sectionIndex": 4,
+      "question": "Analyze how disaster responses in Pakistan reveal and reproduce social inequalities:",
+      "options": [
+        "A) Disasters affect all equally",
+        "B) Relief distribution, reconstruction, and recovery reflect existing power structures",
+        "C) Perfect disaster management",
+        "D) No social dimensions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a6a0a8069efe38964d23ef62afeeb4609571106",
+      "sectionIndex": 4,
+      "question": "Critically examine how \"women's empowerment\" programs may reinforce patriarchal structures:",
+      "options": [
+        "A) Always liberating",
+        "B) Can instrumentalize women for development goals while maintaining fundamental inequalities",
+        "C) No such programs",
+        "D) Completely transform society"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "138fbbefec3fd5c0600efc6694ee5b458f659e16",
+      "sectionIndex": 4,
+      "question": "Evaluate how drug policies in Pakistan reflect geopolitics more than public health:",
+      "options": [
+        "A) Purely health-based policies",
+        "B) International pressure and security concerns shape approaches over evidence-based health interventions",
+        "C) No drug policies",
+        "D) Only moral considerations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d97c677fc5c5d3d779747f7f903b651448566ed0",
+      "sectionIndex": 4,
+      "question": "Analyze how educational reforms repeatedly fail due to systemic rather than technical reasons:",
+      "options": [
+        "A) Just need better planning",
+        "B) Reforms threaten existing power distributions and resource flows",
+        "C) No reform attempts",
+        "D) Technical fixes suffice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fa3b4605a12bf6a3ab26018d2c400092d28bd6e",
+      "sectionIndex": 4,
+      "question": "Critically assess how human rights discourse in Pakistan serves various political purposes:",
+      "options": [
+        "A) Neutral universal principles",
+        "B) Deployed strategically by state, opposition, and international actors for legitimacy",
+        "C) No rights discourse",
+        "D) Always progressive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69ee08dc989d96c0b31d7b86632972738d9520ee",
+      "sectionIndex": 4,
+      "question": "Evaluate how environmental degradation in Pakistan intersects with security narratives:",
+      "options": [
+        "A) Separate issues",
+        "B) Water scarcity and climate change increasingly framed as security rather than justice issues",
+        "C) No environmental problems",
+        "D) Only development issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a463be25562e9bd74ebba4ea8d371d47b17367d5",
+      "sectionIndex": 5,
+      "question": "Analyze how Pakistani military's economic empire affects civil-military relations beyond politics:",
+      "options": [
+        "A) No economic involvement",
+        "B) Creates structural dependencies where military's business interests shape policy and society",
+        "C) Purely defensive role",
+        "D) Temporary phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e092e18bdc0f9aee319f6829f858f3b7b602086",
+      "sectionIndex": 5,
+      "question": "Evaluate how judiciary activism in Pakistan reflects institutional competition rather than rule of law:",
+      "options": [
+        "A) Pure legal principles",
+        "B) Strategic positioning vis-à-vis executive and military revealing power struggles",
+        "C) No judicial activism",
+        "D) Always promotes justice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "223aff4b96dec81a685115a85df018653fbb4909",
+      "sectionIndex": 5,
+      "question": "Critically examine how educational institutions reproduce inequality while claiming meritocracy:",
+      "options": [
+        "A) True meritocracy exists",
+        "B) Hidden curriculum, differential resources, and cultural capital advantage elites",
+        "C) Equal opportunity for all",
+        "D) No inequality in education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e480403f2c6854d8de0e2a37c5df05b91d11d07e",
+      "sectionIndex": 5,
+      "question": "Analyze how religious institutions adapt to maintain relevance amid social change:",
+      "options": [
+        "A) Unchanging institutions",
+        "B) Strategic modernization, political alliances, and service provision ensure continued influence",
+        "C) Declining completely",
+        "D) No adaptation needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "639dbd4702c6bdb84f66b43574ba2bbb62979c2c",
+      "sectionIndex": 5,
+      "question": "Evaluate how kinship networks function as informal institutions paralleling formal structures:",
+      "options": [
+        "A) Kinship is private matter",
+        "B) Biradari networks provide alternative governance, resource distribution, and dispute resolution",
+        "C) No institutional role",
+        "D) Replaced by modern institutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97643f0420e6d555db7e28b0a317f830ac90712b",
+      "sectionIndex": 5,
+      "question": "Critically assess how Pakistani bureaucracy's colonial legacy shapes contemporary governance:",
+      "options": [
+        "A) Complete decolonization occurred",
+        "B) Persistent structures, attitudes, and practices reproduce extraction over service",
+        "C) No colonial influence",
+        "D) Beneficial legacy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57a011c7cf1a2e06c433780e6bb3a3b21e829a9f",
+      "sectionIndex": 5,
+      "question": "Analyze how media institutions balance multiple pressures in Pakistani context:",
+      "options": [
+        "A) Complete press freedom",
+        "B) Navigate between state control, commercial interests, security concerns, and public service",
+        "C) No constraints exist",
+        "D) Only state control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4aed4c41219f7658ca5ae5835b9251b6a0298d81",
+      "sectionIndex": 5,
+      "question": "Evaluate how healthcare institutions reflect and reinforce urban bias:",
+      "options": [
+        "A) Equal distribution",
+        "B) Resource concentration, specialist focus, and private sector growth marginalize rural health",
+        "C) Rural areas privileged",
+        "D) No geographic disparities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ed056dd12a7c428c635656b2b15c2aea305250c",
+      "sectionIndex": 5,
+      "question": "Critically examine how marriage as institution adapts to economic pressures and social change:",
+      "options": [
+        "A) Unchanging institution",
+        "B) Delayed marriage, changing expectations, and economic considerations reshape institutional form",
+        "C) No changes occurring",
+        "D) Western patterns adopted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d15df518c38d43fe0204ea82fe9b013ef97149e",
+      "sectionIndex": 5,
+      "question": "Analyze how civil society institutions fill governance gaps while potentially undermining state capacity:",
+      "options": [
+        "A) Only positive effects",
+        "B) Service provision by NGOs can reduce pressure for state accountability and systemic reform",
+        "C) No civil society role",
+        "D) Replace state completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9686df62e0cb61cd5642776e6c457c621f2e634",
+      "sectionIndex": 5,
+      "question": "Evaluate how traditional dispute resolution coexists with formal legal system:",
+      "options": [
+        "A) Complete replacement",
+        "B) Legal pluralism where jirga/panchayat offer accessible but sometimes problematic justice",
+        "C) No traditional systems",
+        "D) Perfect harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b6b3b3bca619ef51efa709024c990d850345415",
+      "sectionIndex": 5,
+      "question": "Critically assess how political parties function as patronage networks versus ideological organizations:",
+      "options": [
+        "A) Pure ideology drives parties",
+        "B) Clientelist structures dominate with ideology serving as legitimating discourse",
+        "C) No patronage exists",
+        "D) Western-style parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58927c173401c07ffe2c0486826551d09b81978a",
+      "sectionIndex": 5,
+      "question": "Analyze how economic institutions in Pakistan create informality as feature not bug:",
+      "options": [
+        "A) Informality is failure",
+        "B) Formal rules designed to exclude many, making informality structural necessity",
+        "C) No informal economy",
+        "D) Temporary phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9084cd363dea1bea9f24f9c1328734f005cd1424",
+      "sectionIndex": 6,
+      "question": "Develop a theoretical framework combining postcolonial and class analysis for Pakistani context:",
+      "options": [
+        "A) Theories are incompatible",
+        "B) Synthesize to show how colonial categories intersect with class formation and consciousness",
+        "C) Only one theory needed",
+        "D) Western theories suffice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7a87cba4976fe6cd6aa2b8fa8301acdedc9e474",
+      "sectionIndex": 6,
+      "question": "Evaluate how intersectionality theory requires modification for Pakistani patriarchy:",
+      "options": [
+        "A) Direct application works",
+        "B) Must incorporate kinship, religion, and regional dimensions beyond Western race/class/gender",
+        "C) Intersectionality irrelevant",
+        "D) Only gender matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe17da4ef17c138a3b98b3a7f296d3805212edb6",
+      "sectionIndex": 6,
+      "question": "Critically apply Agamben's \"state of exception\" to Pakistani civil-military dynamics:",
+      "options": [
+        "A) Normal democratic rules apply",
+        "B) Permanent emergency justifies suspension of normal politics revealing sovereignty's nature",
+        "C) No exceptional measures",
+        "D) Theory doesn't apply"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3bf37d6101f4b50e5ee1cc90eb046fdbd9f49d7",
+      "sectionIndex": 6,
+      "question": "Analyze how subaltern studies approaches illuminate Pakistani marginalized voices:",
+      "options": [
+        "A) Elite sources sufficient",
+        "B) Reveals how dominant narratives silence alternative histories and experiences",
+        "C) No subaltern groups",
+        "D) All voices heard equally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c51e28840854c3d318e2d51dd81ff226eb750f71",
+      "sectionIndex": 6,
+      "question": "Evaluate how network society theory explains Pakistani social media movements:",
+      "options": [
+        "A) Traditional mobilization unchanged",
+        "B) Shows how horizontal networks challenge hierarchical structures while creating new inequalities",
+        "C) No network effects",
+        "D) Technology determines all"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "342a69d0175fac199ced0543ea431847b9470dde",
+      "sectionIndex": 6,
+      "question": "Critically examine how securitization theory applies to Pakistani social issues:",
+      "options": [
+        "A) Security irrelevant to society",
+        "B) Shows how framing issues as security threats shapes policy and justifies exceptional measures",
+        "C) No securitization occurs",
+        "D) Only military security matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed259c63d7a17be35aba645016b164efffe6581d",
+      "sectionIndex": 6,
+      "question": "Develop framework for understanding Pakistani modernity as multiple rather than singular:",
+      "options": [
+        "A) Single path to modernity",
+        "B) Multiple modernities where Pakistani experience creates distinct modern forms",
+        "C) Pakistan not modern",
+        "D) Western modernity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8373c767f95beb43c7ce66a7a9af3f38246231d7",
+      "sectionIndex": 6,
+      "question": "Analyze how assemblage theory explains Pakistani governance beyond state-centered views:",
+      "options": [
+        "A) Only state governs",
+        "B) Multiple actors, technologies, and practices assemble to create governance effects",
+        "C) No governance exists",
+        "D) Simple hierarchical control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb6fbb25254ec5ab26cb6bcc39873e77d28e5b62",
+      "sectionIndex": 6,
+      "question": "Evaluate how affect theory illuminates Pakistani political mobilization:",
+      "options": [
+        "A) Only rational interests matter",
+        "B) Emotional atmospheres and bodily intensities shape political possibilities",
+        "C) No emotional dimension",
+        "D) Affects are individual"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "538f79162ac85a78cb43aada05ca31439aa03915",
+      "sectionIndex": 6,
+      "question": "Critically apply decolonial theory to Pakistani knowledge production:",
+      "options": [
+        "A) Knowledge is universal",
+        "B) Shows how epistemic colonization continues through development discourse and academic dependency",
+        "C) No colonial influence",
+        "D) Pakistani knowledge isolated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "024dcb79d6ec1a77fe1753a9b8b05dd36daf15c8",
+      "sectionIndex": 6,
+      "question": "Analyze how practice theory explains persistence of corruption despite reforms:",
+      "options": [
+        "A) Simple moral failing",
+        "B) Embedded practices, tacit knowledge, and social expectations reproduce corruption",
+        "C) No systematic corruption",
+        "D) Easy to eliminate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f52a3036f253a37fac0ecdae7c2be7162af2fe7",
+      "sectionIndex": 7,
+      "question": "Evaluate potential trajectories for Pakistani state-society relations given current trends:",
+      "options": [
+        "A) Linear progress assured",
+        "B) Multiple possibilities from democratic deepening to authoritarian consolidation or state fragmentation",
+        "C) No change possible",
+        "D) Predetermined outcome"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e087aafd2468e5bf66bef216451935ea421d034",
+      "sectionIndex": 7,
+      "question": "Analyze how demographic transition might reshape Pakistani social structures:",
+      "options": [
+        "A) No demographic changes",
+        "B) Aging society will strain traditional support systems and require institutional innovations",
+        "C) Youth bulge permanent",
+        "D) Demographics don't affect society"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90f0fdcccfa7ca60d7f6dea26fd22797fef1167c",
+      "sectionIndex": 7,
+      "question": "Critically assess scenarios for climate-induced social transformation in Pakistan:",
+      "options": [
+        "A) No climate impacts",
+        "B) Potential for mass displacement, resource conflicts, and fundamental restructuring of society",
+        "C) Easy adaptation",
+        "D) Only technical fixes needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cca38c6004cc485d4887f9f91037a42902d49bc",
+      "sectionIndex": 7,
+      "question": "Evaluate how technological disruption might affect Pakistani labor markets and social relations:",
+      "options": [
+        "A) No technological impact",
+        "B) Automation and digitalization could exacerbate inequalities or enable leapfrogging",
+        "C) Technology always beneficial",
+        "D) Pakistan immune to change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50fe7c8013dd28445c420804f9e8909ac9b0baa3",
+      "sectionIndex": 7,
+      "question": "Analyze potential futures for Pakistani Islam between liberalization and fundamentalism:",
+      "options": [
+        "A) Single trajectory exists",
+        "B) Multiple islams competing with outcomes dependent on political economy and global contexts",
+        "C) No religious change",
+        "D) Inevitable secularization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a307507ed5b4db0c3bfbbcdb2a89d083030615dc",
+      "sectionIndex": 7,
+      "question": "Critically examine how regional integration versus fragmentation might shape Pakistan:",
+      "options": [
+        "A) Isolation continues",
+        "B) Economic corridors, security challenges, and identity politics create contradictory pressures",
+        "C) Automatic integration",
+        "D) No regional dynamics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ba0ab9a8b2b957c0871978340dab8d1de17053e",
+      "sectionIndex": 7,
+      "question": "Evaluate scenarios for Pakistani civil-military relations evolution:",
+      "options": [
+        "A) Permanent military dominance",
+        "B) Various possibilities from civilianization to hybrid arrangements to military capitalism",
+        "C) Immediate democracy",
+        "D) No change possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef8b658ec8b7e0e120ba29562cf227bdbb6ea36d",
+      "sectionIndex": 7,
+      "question": "Analyze how global power shifts might affect Pakistani development models:",
+      "options": [
+        "A) Western model permanent",
+        "B) Chinese influence, multipolar world create space for alternative development paths",
+        "C) No global influences",
+        "D) Development model fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3b625b92cc5bec6fc48f37cdd3c40a11213ff0f",
+      "sectionIndex": 7,
+      "question": "Critically assess possibilities for addressing inequality in Pakistan:",
+      "options": [
+        "A) Inequality natural and permanent",
+        "B) Requires fundamental restructuring of power, resources, and institutions",
+        "C) Growth automatically reduces inequality",
+        "D) No inequality exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "041cd18fa2dd211cfbd40b9ef38d965b974f20f9",
+      "sectionIndex": 7,
+      "question": "Evaluate how Pakistani diaspora might shape homeland futures:",
+      "options": [
+        "A) No diaspora influence",
+        "B) Remittances, ideas, and political engagement create transnational social fields affecting change",
+        "C) Complete disconnect",
+        "D) Only economic impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dcb5a17065425492ce9921ae1b78266f3b92c80",
+      "sectionIndex": 7,
+      "question": "Analyze the potential for post-capitalist alternatives in Pakistani context:",
+      "options": [
+        "A) Capitalism is end of history",
+        "B) Islamic finance, commons movements, and solidarity economy offer seeds of alternatives",
+        "C) No alternatives possible",
+        "D) Immediate revolution coming"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "subject": "Urdu Literature",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Syllabus & Scope",
+    "Poetry Forms & Prosody (Arooz)",
+    "Classical Poets",
+    "Modern & Progressive Poets",
+    "Prose & Short Story",
+    "Literary Movements",
+    "History & Evolution",
+    "Pakistan Context",
+    "Dictionaries & Tools",
+    "Past Papers & MCQs",
+    "Video Lectures & Masterclasses",
+    "Exam Strategy"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Official FPSC Syllabus & Descriptive Papers (Urdu Literature)",
+      "content": "Start prep from the official FPSC outline and recent descriptive papers to lock scope, weightage, and command words.",
+      "keyTakeaways": [
+        "Use FPSC syllabus PDF to map topics into weekly plan.",
+        "Study recent descriptive papers to see examiner phrasing and favored areas.",
+        "Cross-check private websites with FPSC originals."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Revised Scheme & Syllabus (CE-2016 and onwards) — Urdu Literature pages",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "pdf",
+          "description": "Primary syllabus document (Urdu Literature section)"
+        },
+        {
+          "title": "FPSC — CSS-2025 Descriptive Papers (URDU-LITERATURE.pdf)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "page",
+          "description": "Recent official paper PDFs"
+        },
+        {
+          "title": "CSS Syllabus overview (for quick reference)",
+          "url": "https://cssaspirants.pk/css-syllabus/",
+          "type": "article",
+          "description": "Quick index — verify with FPSC PDF"
+        }
+      ],
+      "importance": "high",
+      "category": "Syllabus & Scope",
+      "topics": ["FPSC", "Urdu Literature", "Syllabus", "Paper Pattern"]
+    },
+    {
+      "id": "2",
+      "title": "Prosody (Ilm-e-Arooz): Behr, Wazn, Taqti, Qafiya, Radeef",
+      "content": "Prosody underpins poetry analysis. Examiners often test forms, meters, and scansion with examples from ghazal/nazm.",
+      "keyTakeaways": [
+        "Memorize major behren and common arkaan; practice taqti on famous couplets.",
+        "Know difference between ghazal structure vs. nazm cohesion.",
+        "Use tools + canonical texts to validate scansion."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta — Taqti (meter) tool",
+          "url": "https://www.rekhta.org/taqti/tool",
+          "type": "tool",
+          "description": "Auto-check behr/taqti (beta)"
+        },
+        {
+          "title": "RekhtaLearning — Applied Arooz: Basics of Ghazal Writing",
+          "url": "https://rekhtalearning.com/courses/applied-arooz-basics-of-ghazal-writing",
+          "type": "course",
+          "description": "Structured course on prosody"
+        },
+        {
+          "title": "Top 20 Urdu Books on Prosody (collection)",
+          "url": "https://www.rekhta.org/ebooks/collection/top-20-urdu-books-on-prosody",
+          "type": "library",
+          "description": "Curated prosody texts (Aasan Arooz, Al-Arooz-o-Al-Qawafi, etc.)"
+        },
+        {
+          "title": "Bahr-ul-Arooz (1878) — classical manual",
+          "url": "https://www.rekhta.org/ebooks/detail/bahr-ul-arooz-mutawwal-risala-e-qafiya-pandit-kanhaiyaa-laal-aashiq-ebooks",
+          "type": "ebook",
+          "description": "Classical primer on behr/qafiya"
+        },
+        {
+          "title": "Pybus — Urdu Prosody & Rhetoric (scansion chapter)",
+          "url": "https://franpritchett.com/00urduhindilinks/pybus/01chapter02.pdf",
+          "type": "pdf",
+          "description": "English guide to Urdu/Persian meters"
+        }
+      ],
+      "importance": "high",
+      "category": "Poetry Forms & Prosody (Arooz)",
+      "topics": ["Arooz", "Behr", "Taqti", "Qafiya", "Radeef", "Ghazal", "Nazm"]
+    },
+    {
+      "id": "3",
+      "title": "Major Forms of Urdu Poetry: Ghazal, Nazm, Masnavi, Marsiya, Qasida",
+      "content": "CSS frequently asks definitions, structure, evolution, and exemplars of major forms, plus comparative analysis (e.g., ghazal vs. nazm).",
+      "keyTakeaways": [
+        "Ghazal = autonomous shers + radeef/qafiya; Nazm = thematic unity.",
+        "Masnavi for narrative; Marsiya for elegy; Qasida for panegyric.",
+        "Quote 2–3 canonical poets per form."
+      ],
+      "resources": [
+        {
+          "title": "RekhtaLearning — Major Forms of Urdu Poetry (blog)",
+          "url": "https://rekhtalearning.com/blog/get-to-know-the-major-forms-of-urdu-poetry/",
+          "type": "article",
+          "description": "Concise forms overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Poetry Forms & Prosody (Arooz)",
+      "topics": ["Forms", "Ghazal", "Nazm", "Masnavi", "Marsiya", "Qasida"]
+    },
+    {
+      "id": "4",
+      "title": "Hali's 'Muqaddama-e-Sher-o-Shairi' — The First Critical Manifesto",
+      "content": "Foundational Urdu poetics/criticism; compare with Wordsworth's Lyrical Ballads preface. Establishes realism, morality, language reform.",
+      "keyTakeaways": [
+        "Cite Hali's criteria for 'useful' literature and style.",
+        "Use for questions on criticism, reform, and classic-to-modern transition.",
+        "Pair with Azad's 'Aab-e-Hayat' for canon formation debates."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta — Muqaddama-e-Sher-o-Shairi (read online)",
+          "url": "https://www.rekhta.org/ebooks/muqadma-e-sher-o-shayari-altaf-hussain-hali-ebooks",
+          "type": "ebook",
+          "description": "Authoritative digital text"
+        },
+        {
+          "title": "Intro essay on Muqaddama's significance",
+          "url": "https://www.rekhta.org/ebooks/detail/muqadma-e-sher-o-shayari-altaf-hussain-hali-ebooks",
+          "type": "article",
+          "description": "Contextual commentary"
+        }
+      ],
+      "importance": "high",
+      "category": "Literary Movements",
+      "topics": ["Hali", "Criticism", "Poetics", "Reform"]
+    },
+    {
+      "id": "5",
+      "title": "Azad's 'Aab-e-Hayat' — Shaping the Canon",
+      "content": "Seminal history that codified Urdu poetic tradition; useful for historiography and canon debates (biases, selections, periodization).",
+      "keyTakeaways": [
+        "Understand Azad's narrative of Urdu's evolution.",
+        "Cross-reference with modern histories (e.g., Jalibi) for critique.",
+        "Quote where Azad positions classical poets."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta — Aab-e-Hayat (read online)",
+          "url": "https://www.rekhta.org/ebooks/aab-e-hayat-mohammad-husain-azad-ebooks-4",
+          "type": "ebook",
+          "description": "Digital edition"
+        },
+        {
+          "title": "Rekhta — Mohammad Husain Azad (all writings)",
+          "url": "https://www.rekhta.org/authors/mohammad-husain-azad-1/all",
+          "type": "author",
+          "description": "Author page + related works"
+        }
+      ],
+      "importance": "high",
+      "category": "History & Evolution",
+      "topics": ["Aab-e-Hayat", "Canon", "Historiography"]
+    },
+    {
+      "id": "6",
+      "title": "Mirza Ghalib — Classical Peak of the Ghazal",
+      "content": "For poet-specific essays, focus on linguistic play, philosophical irony, and letters' role in modern Urdu prose.",
+      "keyTakeaways": [
+        "Anchor answers with 2–3 couplets (with accurate scansion).",
+        "Use letters to evidence modern sensibility.",
+        "Contrast with Mir/Daagh; connect to Delhi 1857 milieu."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Mirza Ghalib",
+          "url": "https://www.britannica.com/biography/Mirza-Asadullah-Khan-Ghalib",
+          "type": "article",
+          "description": "Overview & significance"
+        },
+        {
+          "title": "Ghalib: Selected Poems & Letters (Eng. resources)",
+          "url": "https://apnaorg.com/books/english/ghalib/ghalib.pdf",
+          "type": "pdf",
+          "description": "Life, critical appreciation, selections"
+        },
+        {
+          "title": "English translations/letters (collection)",
+          "url": "https://franpritchett.com/00ghalib/texts/txt_yusuf_husain_divan_trans_1977.pdf",
+          "type": "pdf",
+          "description": "Divan translations (Yusuf Husain)"
+        }
+      ],
+      "importance": "high",
+      "category": "Classical Poets",
+      "topics": ["Ghalib", "Ghazal", "Letters", "Delhi 1857"]
+    },
+    {
+      "id": "7",
+      "title": "Allama Muhammad Iqbal — Philosophical Modernism in Urdu",
+      "content": "Iqbal's nazm/masnavi fuse metaphysics (khudi), activism, and Muslim modernity; frequently examined within ideology & style.",
+      "keyTakeaways": [
+        "Explain khudi with textual evidence.",
+        "Relate poetic form to message (didactic but lyrical).",
+        "Cite reputable lectures/academy material."
+      ],
+      "resources": [
+        {
+          "title": "Iqbal Academy Pakistan — official channel/lectures",
+          "url": "https://www.youtube.com/iqbalacademy",
+          "type": "video",
+          "description": "Curated lectures (Khizr-e-Rah, Asrar-e-Khudi, etc.)"
+        },
+        {
+          "title": "Routledge Encyclopedia — Iqbal (biographical philosophy entry)",
+          "url": "https://www.rep.routledge.com/articles/biographical/iqbal-muhammad-1877-1938/v-1/sections/philosophy-of-the-self",
+          "type": "reference",
+          "description": "Concise philosophy context"
+        }
+      ],
+      "importance": "high",
+      "category": "Modern & Progressive Poets",
+      "topics": ["Iqbal", "Khudi", "Nazm", "Philosophy"]
+    },
+    {
+      "id": "8",
+      "title": "Faiz Ahmed Faiz — Love, Revolution, and the Progressive Voice",
+      "content": "Faiz synthesizes ishq & inqilab; contextualize within PWM (Taraqqi Pasand Tehreek) and post-Partition politics.",
+      "keyTakeaways": [
+        "Quote early romantic vs. later resistance poetry.",
+        "Link Lenin Peace Prize and exile periods to themes.",
+        "Discuss craft: imagery, metaphor, ghazal innovations."
+      ],
+      "resources": [
+        {
+          "title": "Poets.org — Faiz Ahmed Faiz (bio & poems)",
+          "url": "https://poets.org/poet/faiz-ahmed-faiz",
+          "type": "profile",
+          "description": "Reliable English overview + poems"
+        },
+        {
+          "title": "Wikipedia — Faiz (quick facts + works index)",
+          "url": "https://en.wikipedia.org/wiki/Faiz_Ahmad_Faiz",
+          "type": "reference",
+          "description": "Updated facts & bibliography"
+        }
+      ],
+      "importance": "high",
+      "category": "Modern & Progressive Poets",
+      "topics": ["Faiz", "Progressive", "Ghazal", "Nazm"]
+    },
+    {
+      "id": "9",
+      "title": "Saadat Hasan Manto — Modern Urdu Afsana (Short Story)",
+      "content": "For prose critique/analysis, Manto's realism on partition, sexuality, and hypocrisy is central; expect text-based questions.",
+      "keyTakeaways": [
+        "Prepare summaries + critical angles for Toba Tek Singh, Khol Do, Thanda Gosht.",
+        "Understand PWM tensions with Manto's stance.",
+        "Use specific narrative techniques (irony, economy, dialogue)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Saadat Hasan Manto",
+          "url": "https://www.britannica.com/biography/Saadat-Hasan-Manto",
+          "type": "article",
+          "description": "Authoritative profile"
+        },
+        {
+          "title": "Wikipedia — Saadat Hasan Manto (updated works list)",
+          "url": "https://en.wikipedia.org/wiki/Saadat_Hasan_Manto",
+          "type": "reference",
+          "description": "Works & chronology"
+        },
+        {
+          "title": "PEN Transmissions — On Manto",
+          "url": "https://pentransmissions.com/2021/09/10/he-can-hardly-even-be-approached-on-saadat-hasan-manto/",
+          "type": "article",
+          "description": "Critical essay for angles"
+        }
+      ],
+      "importance": "high",
+      "category": "Prose & Short Story",
+      "topics": ["Manto", "Partition", "Realism", "Afsana"]
+    },
+    {
+      "id": "10",
+      "title": "Premchand — Social Realism across Urdu/Hindi",
+      "content": "Premchand bridges Urdu/Hindi; questions often compare themes, characterization, and reformist impulse (Sevasadan, Godaan).",
+      "keyTakeaways": [
+        "Discuss language/register choice and publication history.",
+        "Tie stories/novels to colonial modernity & ethics.",
+        "Quote 1–2 emblematic scenes."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Premchand",
+          "url": "https://www.britannica.com/biography/Premchand",
+          "type": "article",
+          "description": "Biographical + works"
+        },
+        {
+          "title": "Wikipedia — Premchand (works index & contexts)",
+          "url": "https://en.wikipedia.org/wiki/Premchand",
+          "type": "reference",
+          "description": "Register switching & bibliography"
+        },
+        {
+          "title": "Britannica — Sevasadan (Seva Sadan) overview",
+          "url": "https://www.britannica.com/topic/Sevasadana",
+          "type": "article",
+          "description": "Key novel context"
+        }
+      ],
+      "importance": "medium",
+      "category": "Prose & Short Story",
+      "topics": ["Premchand", "Realism", "Novel", "Urdu/Hindi"]
+    },
+    {
+      "id": "11",
+      "title": "Progressive Writers' Movement (Taraqqi Pasand Tehreek)",
+      "content": "Core modern movement influencing poetry, afsana, and criticism; frequently tested for origins, ideology, and key figures.",
+      "keyTakeaways": [
+        "Origins in Angarey (1932); London manifesto; Sajjad Zaheer, M.D. Taseer, Ahmed Ali, Mulk Raj Anand.",
+        "Themes: anti-imperialism, social justice; debates over 'propagandist' vs. 'progressive' art.",
+        "Link to Faiz, Krishan Chander, Ismat, Manto (contested)."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta Resources — PWM overview",
+          "url": "https://www.rekhta.org/urdu-resources/progressive-writers-movement-taraqqi-pasand-tehreek",
+          "type": "article",
+          "description": "Concise movement history"
+        },
+        {
+          "title": "Herald (Dawn) — River in the Drop",
+          "url": "https://herald.dawn.com/news/1153770/river-in-the-drop-the-progressive-writers-movement",
+          "type": "article",
+          "description": "Context + Angarey background"
+        },
+        {
+          "title": "RekhtaLearning — PWM blog (origins & impact)",
+          "url": "https://rekhtalearning.com/blog/the-progressive-writers-movement-origins-impact-an/",
+          "type": "article",
+          "description": "Modern synthesis"
+        },
+        {
+          "title": "Wikipedia — Progressive Writers' Movement",
+          "url": "https://en.wikipedia.org/wiki/Progressive_Writers%27_Movement",
+          "type": "reference",
+          "description": "Quick facts + references"
+        }
+      ],
+      "importance": "high",
+      "category": "Literary Movements",
+      "topics": ["PWM", "Angarey", "Progressive", "Manifesto"]
+    },
+    {
+      "id": "12",
+      "title": "Modern Trends & Scholarship on Contemporary Urdu",
+      "content": "Use current research to enrich answers on modern Urdu's themes, forms, and readership.",
+      "keyTakeaways": [
+        "Cite recent peer-reviewed studies where relevant.",
+        "Tie digital/linguistic shifts to literary consumption.",
+        "Balance tradition vs. innovation arguments."
+      ],
+      "resources": [
+        {
+          "title": "Modern Trends in Urdu Literature (2024)",
+          "url": "https://gassjournals.com/index.php/GJMDSA/article/view/38",
+          "type": "paper",
+          "description": "Survey of contemporary directions"
+        },
+        {
+          "title": "The progressiveness of Urdu literature through poetry",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/13688790.2018.1560595",
+          "type": "paper",
+          "description": "Academic angle on progressivism"
+        }
+      ],
+      "importance": "medium",
+      "category": "History & Evolution",
+      "topics": ["Modern Urdu", "Criticism", "Research"]
+    },
+    {
+      "id": "13",
+      "title": "Urdu's Digital Future & Script Issues (Context point)",
+      "content": "Background insight for essays on language, readership, and media: Nastaliq digitization, OCR, keyboards, and learning.",
+      "keyTakeaways": [
+        "Script tech affects accessibility and study of classics.",
+        "Rekhta's digitization & tools are pivotal.",
+        "Use as contemporary context, not core literary answer."
+      ],
+      "resources": [
+        {
+          "title": "TIME — Preserving Urdu Script in Digital World",
+          "url": "https://time.com/6317817/urdu-nastaliq-digital/",
+          "type": "article",
+          "description": "Overview of digital challenges/efforts"
+        }
+      ],
+      "importance": "low",
+      "category": "Pakistan Context",
+      "topics": ["Nastaliq", "Digitization", "Access"]
+    },
+    {
+      "id": "14",
+      "title": "Dictionaries & Language Tools for Close Reading",
+      "content": "Accurate meanings drive better explication; use multiple dictionaries for classical vs. modern usage.",
+      "keyTakeaways": [
+        "Rekhta (trilingual) for poetry vocabulary in context.",
+        "Platts for classical/etymology; UT Austin usage guide.",
+        "Lexilogos hub for multiple references."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta Dictionary (trilingual)",
+          "url": "https://www.rekhtadictionary.com/",
+          "type": "tool",
+          "description": "Urdu-Hindi-English meanings"
+        },
+        {
+          "title": "Platts Dictionary (UChicago DSAL)",
+          "url": "https://dsal.uchicago.edu/dictionaries/platts/",
+          "type": "tool",
+          "description": "Classical Urdu/Hindi/English"
+        },
+        {
+          "title": "UT Austin — Using an Urdu Dictionary",
+          "url": "https://urdu.la.utexas.edu/resources/using-an-urdu-dictionary/",
+          "type": "guide",
+          "description": "Best practices for Platts & beyond"
+        },
+        {
+          "title": "Lexilogos — Urdu dictionary portal",
+          "url": "https://www.lexilogos.com/english/urdu_dictionary.htm",
+          "type": "portal",
+          "description": "Multi-dictionary index"
+        }
+      ],
+      "importance": "high",
+      "category": "Dictionaries & Tools",
+      "topics": ["Rekhta", "Platts", "Lexicography"]
+    },
+    {
+      "id": "15",
+      "title": "Urdu Literature in the Independence Movement",
+      "content": "Contextual essay angle: literature as nation-making, political consciousness, and resistance.",
+      "keyTakeaways": [
+        "Afsana & nazm as mobilizing genres.",
+        "Cite Iqbal, Akbar, Shibli; journals like Adab-e-Latif.",
+        "Link PWM to pre-Partition activism."
+      ],
+      "resources": [
+        {
+          "title": "PLHR Journal — Role of Urdu Literature in Independence",
+          "url": "https://ojs.plhr.org.pk/journal/article/view/577",
+          "type": "paper",
+          "description": "Scholarly overview"
+        },
+        {
+          "title": "Downloadable PDF of the same study",
+          "url": "https://ojs.plhr.org.pk/journal/article/download/577/473",
+          "type": "pdf",
+          "description": "Full text"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Context",
+      "topics": ["Independence", "Nationalism", "Literature & Politics"]
+    },
+    {
+      "id": "16",
+      "title": "Jameel Jalibi — 'Tareekh-e-Adab-e-Urdu' (Modern Historiography)",
+      "content": "Use Jalibi's multi-volume history to balance Azad/Hali; cite when discussing periods, trends, and textual evidence.",
+      "keyTakeaways": [
+        "Acknowledge method & limits; triangulate with other histories.",
+        "Quote volume-wise insights when relevant.",
+        "Good for 'history of Urdu literature' essay prompts."
+      ],
+      "resources": [
+        {
+          "title": "Critical overview of Jalibi's history (research article)",
+          "url": "https://www.researchgate.net/publication/366806930_Jameel_Jalibi%27s_History_of_Urdu_Literature_The_Techniques_Standard_and_Limitations_A_Critical_and_Research_Analyses",
+          "type": "paper",
+          "description": "Analytical critique"
+        }
+      ],
+      "importance": "medium",
+      "category": "History & Evolution",
+      "topics": ["Historiography", "Jalibi"]
+    },
+    {
+      "id": "17",
+      "title": "Past Papers (2000→recent) — Trend Analysis & Practice",
+      "content": "Practice writing time-bound, text-anchored answers using past questions; update themes (forms, PWM, author essays).",
+      "keyTakeaways": [
+        "Attempt at least 10 past essay questions with citations.",
+        "Collect repeated topics (Progressives, Iqbal, forms, prosody).",
+        "Mark command words: discuss, evaluate, compare, illustrate."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — latest descriptive paper PDFs (official)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "page",
+          "description": "Authoritative source"
+        },
+        {
+          "title": "Past Papers 2016–2025 (index)",
+          "url": "https://zicosh.com/css-urdu-literature-past-papers/",
+          "type": "page",
+          "description": "Convenient listing"
+        },
+        {
+          "title": "Past Papers 2000–2015 (archive)",
+          "url": "https://thecsspoint.com/css-past-papers/urdu-literature-past-papers/",
+          "type": "archive",
+          "description": "Older trend coverage"
+        }
+      ],
+      "importance": "high",
+      "category": "Past Papers & MCQs",
+      "topics": ["Past Papers", "Trends", "Practice"]
+    },
+    {
+      "id": "18",
+      "title": "MCQs & Objective Prep (Terminology, Authors, Forms)",
+      "content": "Objective section tests terms (behr, radeef), dates, journals, movements, and author–work mapping.",
+      "keyTakeaways": [
+        "Build a personal MCQ bank from past papers.",
+        "Prioritize forms/terminology and author biographies.",
+        "Verify answers against reliable sources."
+      ],
+      "resources": [
+        {
+          "title": "CSSMCQs — Urdu Literature section",
+          "url": "https://cssmcqs.com/css-optional-subjects-mcqs/group-v/urdu-literature-mcqs/",
+          "type": "mcqs",
+          "description": "Practice bank"
+        },
+        {
+          "title": "CSS Exam — Past Paper MCQs hub",
+          "url": "https://cssexam.net/css-past-papers-mcqs/",
+          "type": "mcqs",
+          "description": "Objective collections"
+        }
+      ],
+      "importance": "medium",
+      "category": "Past Papers & MCQs",
+      "topics": ["MCQs", "Terminology", "Authors"]
+    },
+    {
+      "id": "19",
+      "title": "Rekhta — Primary Library for Texts, Poets, and Tools",
+      "content": "Use Rekhta as your default library for authentic texts, poet pages, ebooks, and learning content.",
+      "keyTakeaways": [
+        "Always cross-verify couplets' variants and references.",
+        "Use author pages to discover related works.",
+        "Leverage learning/blog for exam-ready summaries."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta Dictionary",
+          "url": "https://www.rekhtadictionary.com/",
+          "type": "tool",
+          "description": "Trilingual meanings for poetry"
+        },
+        {
+          "title": "Rekhta — Urdu Resources hub",
+          "url": "https://www.rekhta.org/urdu-resources",
+          "type": "portal",
+          "description": "Movement overviews, essays"
+        }
+      ],
+      "importance": "high",
+      "category": "Dictionaries & Tools",
+      "topics": ["Rekhta", "Library", "Tools"]
+    },
+    {
+      "id": "20",
+      "title": "Video Masterclasses & Lecture Playlists",
+      "content": "Use curated lectures to strengthen conceptual clarity and quoteable insights.",
+      "keyTakeaways": [
+        "Note 1–2 memorable lines per lecture for essays.",
+        "Prefer institutional channels for reliability.",
+        "Use prosody playlists to reinforce scansion."
+      ],
+      "resources": [
+        {
+          "title": "RekhtaLearning YouTube",
+          "url": "https://www.youtube.com/channel/UCrLXJQIqSvCkqs-8gersJ_g/videos",
+          "type": "video",
+          "description": "Courses, talks, forms"
+        },
+        {
+          "title": "Jashn-e-Rekhta (talks, Faruqi lectures, ghazal craft)",
+          "url": "https://www.youtube.com/%40JashneRekhtaOfficial/about",
+          "type": "video",
+          "description": "Festival lectures & panels"
+        },
+        {
+          "title": "Iqbal Academy Pakistan — official channel",
+          "url": "https://www.youtube.com/iqbalacademy",
+          "type": "video",
+          "description": "Iqbal studies lectures"
+        }
+      ],
+      "importance": "medium",
+      "category": "Video Lectures & Masterclasses",
+      "topics": ["Lectures", "Masterclass", "Arooz", "Iqbal"]
+    },
+    {
+      "id": "21",
+      "title": "Form-Focused Answering: Ghazal vs. Nazm",
+      "content": "Exam often asks comparisons; prepare crisp, example-rich distinctions with scansion and structure points.",
+      "keyTakeaways": [
+        "Ghazal: matla/makhta, radeef/qafiya; couplet autonomy.",
+        "Nazm: unity of theme; free vs. rhymed forms.",
+        "Add 2–3 poet examples per form."
+      ],
+      "resources": [
+        {
+          "title": "Forms overview (RekhtaLearning)",
+          "url": "https://rekhtalearning.com/blog/get-to-know-the-major-forms-of-urdu-poetry/",
+          "type": "article",
+          "description": "Concise definitions + examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy",
+      "topics": ["Comparison", "Forms", "Examples"]
+    },
+    {
+      "id": "22",
+      "title": "Author-Work Mapping Sheets (Ghalib, Iqbal, Faiz, Manto, Premchand)",
+      "content": "Prepare a table mapping authors to key works, dates, styles, and 1–2 quotable lines for rapid recall.",
+      "keyTakeaways": [
+        "Memorize 3–5 canonical works per author.",
+        "Keep 1–2 critical opinions (with source) per figure.",
+        "Use for MCQs and essay intros."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Urdu Literature (overview + canon)",
+          "url": "https://www.britannica.com/art/Urdu-literature",
+          "type": "article",
+          "description": "Macro history + major authors"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy",
+      "topics": ["Canon", "Authors", "Works"]
+    },
+    {
+      "id": "23",
+      "title": "Language Learning Aids (for non-native candidates)",
+      "content": "If needed, strengthen script and pronunciation to avoid mis-quoting or mis-scanning poetry in the exam.",
+      "keyTakeaways": [
+        "Polish Nastaliq reading & talaffuz.",
+        "Use structured modules for script/vocab.",
+        "Combine with dictionary drills."
+      ],
+      "resources": [
+        {
+          "title": "Aamozish — interactive Urdu script & vocab",
+          "url": "https://aamozish.com/",
+          "type": "course",
+          "description": "Script mastery (Rasm-ul-Khat)"
+        },
+        {
+          "title": "UT Austin — Urdu resources hub",
+          "url": "https://urdu.la.utexas.edu/resources/",
+          "type": "portal",
+          "description": "Script, vocabulary, grammar"
+        }
+      ],
+      "importance": "low",
+      "category": "Dictionaries & Tools",
+      "topics": ["Script", "Pronunciation", "Vocabulary"]
+    },
+    {
+      "id": "24",
+      "title": "Contextual Reading: Classical → Modern Continuum",
+      "content": "Connect classical heritage (Mir, Ghalib) to modern/progressive phases; show continuity and rupture in themes and forms.",
+      "keyTakeaways": [
+        "Use Azad/Hali to explain canon shifts.",
+        "Position PWM within 1930s–50s socio-politics.",
+        "Cite modern scholarship to update arguments."
+      ],
+      "resources": [
+        {
+          "title": "Rekhta Resources hub (movements, essays)",
+          "url": "https://www.rekhta.org/urdu-resources",
+          "type": "portal",
+          "description": "Movement primers"
+        },
+        {
+          "title": "RekhtaLearning — Classical poets feature",
+          "url": "https://rekhtalearning.com/blog/five-prominent-classical-urdu-poets/",
+          "type": "article",
+          "description": "Classical anchors for comparison"
+        }
+      ],
+      "importance": "medium",
+      "category": "History & Evolution",
+      "topics": ["Continuity", "Change", "Comparative"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:20:47.503Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "4bc0d998e461efafb35ce9a276d42084c08c99a0",
+      "sectionIndex": 0,
+      "question": "Economics is the study of:",
+      "options": [
+        "A) Money only",
+        "B) How society manages its scarce resources",
+        "C) Stock markets",
+        "D) Government policies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "014f40a6ca61fc2bf720014ba0315206d823f574",
+      "sectionIndex": 0,
+      "question": "Microeconomics deals with:",
+      "options": [
+        "A) National income",
+        "B) Individual units and markets",
+        "C) Inflation",
+        "D) International trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd3384ee6eeb23c2d2885ee4344c93f16b06f457",
+      "sectionIndex": 0,
+      "question": "Macroeconomics studies:",
+      "options": [
+        "A) Individual consumers",
+        "B) Single firms",
+        "C) The economy as a whole",
+        "D) Product pricing"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f6c411651d74518be4ede8118006e29bee0905be",
+      "sectionIndex": 0,
+      "question": "Opportunity cost refers to:",
+      "options": [
+        "A) Money spent",
+        "B) The next best alternative forgone",
+        "C) Total cost",
+        "D) Fixed cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c32665c0fad2cde89b5d00f29e8dd7c569d0eab",
+      "sectionIndex": 0,
+      "question": "Scarcity means:",
+      "options": [
+        "A) Poverty",
+        "B) Limited resources relative to unlimited wants",
+        "C) Shortage of money",
+        "D) High prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b4920f51f1ab5cba7fd8a0c1bda9f7c8041a6b7",
+      "sectionIndex": 0,
+      "question": "GDP stands for:",
+      "options": [
+        "A) Gross Domestic Product",
+        "B) General Domestic Price",
+        "C) Government Development Plan",
+        "D) Global Development Program"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "63bdb5a617c00898f6fa5be0279ecbe58061af87",
+      "sectionIndex": 0,
+      "question": "GNP stands for:",
+      "options": [
+        "A) Gross National Product",
+        "B) General National Price",
+        "C) Government National Plan",
+        "D) Global National Program"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "28429ccce08ef516a8d076ce53a55f57236d5b1e",
+      "sectionIndex": 0,
+      "question": "The difference between GDP and GNP is:",
+      "options": [
+        "A) Time period",
+        "B) Net factor income from abroad",
+        "C) Inflation rate",
+        "D) Tax rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ab8de7b33ed67aebd602f95adde3c94ec4fc8c8",
+      "sectionIndex": 0,
+      "question": "Economic goods are:",
+      "options": [
+        "A) Free goods",
+        "B) Scarce goods that have a price",
+        "C) Only luxury items",
+        "D) Government goods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0e0431516e62d55aeac2db8d996e2ae88527ae2",
+      "sectionIndex": 0,
+      "question": "Factors of production include all EXCEPT:",
+      "options": [
+        "A) Land",
+        "B) Labor",
+        "C) Money",
+        "D) Capital"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d52a60799a6098f619ce018c13401e11329856c5",
+      "sectionIndex": 1,
+      "question": "The law of demand states that:",
+      "options": [
+        "A) Price and quantity demanded are positively related",
+        "B) Price and quantity demanded are inversely related",
+        "C) Demand never changes",
+        "D) Supply creates demand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "860f7ac9779e279d92c82d9c9e280ff8388b12f9",
+      "sectionIndex": 1,
+      "question": "A demand curve typically slopes:",
+      "options": [
+        "A) Upward",
+        "B) Downward",
+        "C) Horizontal",
+        "D) Vertical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d299729d9e670354f482e272b3fa1bee8fecee22",
+      "sectionIndex": 1,
+      "question": "The law of supply states that:",
+      "options": [
+        "A) Price and quantity supplied are inversely related",
+        "B) Price and quantity supplied are positively related",
+        "C) Supply is fixed",
+        "D) Supply equals demand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c8bc89cd3392667423f4f87ff84dd90d1d72524",
+      "sectionIndex": 1,
+      "question": "A supply curve typically slopes:",
+      "options": [
+        "A) Downward",
+        "B) Upward",
+        "C) Horizontal",
+        "D) Vertical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ece802ec6fdd32c87cc9ef9cd3c4319dc871ca3c",
+      "sectionIndex": 1,
+      "question": "Market equilibrium occurs when:",
+      "options": [
+        "A) Demand exceeds supply",
+        "B) Supply exceeds demand",
+        "C) Quantity demanded equals quantity supplied",
+        "D) Price is zero"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fb758f2a4bf1c0a5ad995fe435d91299e3a893cc",
+      "sectionIndex": 1,
+      "question": "A shift in demand curve is caused by:",
+      "options": [
+        "A) Change in price",
+        "B) Change in non-price factors",
+        "C) Change in supply",
+        "D) Government intervention only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a635909c366049c4733e2ee155443bc6306faf51",
+      "sectionIndex": 1,
+      "question": "Price elasticity of demand measures:",
+      "options": [
+        "A) Change in price",
+        "B) Responsiveness of quantity demanded to price changes",
+        "C) Total revenue",
+        "D) Production cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5025bda9236f4fade3176882054b082550a38644",
+      "sectionIndex": 1,
+      "question": "If demand is inelastic:",
+      "options": [
+        "A) Quantity changes more than price",
+        "B) Price changes more than quantity",
+        "C) No change occurs",
+        "D) Demand is infinite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b55c5bf2fea27cbfbbac250ba0564773a25e69e2",
+      "sectionIndex": 1,
+      "question": "Complementary goods are:",
+      "options": [
+        "A) Used together",
+        "B) Used separately",
+        "C) Perfect substitutes",
+        "D) Luxury goods"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fee87aec50ba10f0e829a9e043d96a92212d1ee2",
+      "sectionIndex": 1,
+      "question": "Substitute goods are:",
+      "options": [
+        "A) Used together",
+        "B) Used in place of each other",
+        "C) Complementary",
+        "D) Independent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99a6bd50f3d9e6bf63303ccd1f5df581734a4a78",
+      "sectionIndex": 2,
+      "question": "Perfect competition is characterized by:",
+      "options": [
+        "A) One seller",
+        "B) Many sellers and buyers",
+        "C) Few sellers",
+        "D) Government control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c931d1e2689183b5131e41de459d9b1e67585ad6",
+      "sectionIndex": 2,
+      "question": "Monopoly means:",
+      "options": [
+        "A) Many sellers",
+        "B) Two sellers",
+        "C) Single seller",
+        "D) Perfect competition"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "912370ecae8e275dad712b53cc3dbd06cea23946",
+      "sectionIndex": 2,
+      "question": "In perfect competition, firms are:",
+      "options": [
+        "A) Price makers",
+        "B) Price takers",
+        "C) Price setters",
+        "D) Price controllers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a38964528464b380a3cb19dbbb2beb96715010ca",
+      "sectionIndex": 2,
+      "question": "Oligopoly refers to:",
+      "options": [
+        "A) One seller",
+        "B) Two sellers",
+        "C) Few sellers",
+        "D) Many sellers"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ceb7739b39984bd45a2328839e9c7ab000488463",
+      "sectionIndex": 2,
+      "question": "Monopolistic competition has:",
+      "options": [
+        "A) Identical products",
+        "B) Differentiated products",
+        "C) No competition",
+        "D) Government control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee28d791484bb69c985fcde4eded256df8523975",
+      "sectionIndex": 2,
+      "question": "Barriers to entry are highest in:",
+      "options": [
+        "A) Perfect competition",
+        "B) Monopoly",
+        "C) Monopolistic competition",
+        "D) All markets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0979abeeca2686103d8202d73ac7c6697378d80",
+      "sectionIndex": 2,
+      "question": "A cartel is associated with:",
+      "options": [
+        "A) Perfect competition",
+        "B) Monopoly",
+        "C) Oligopoly",
+        "D) Monopolistic competition"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cdd769e96c2d23b359e0393717c7e8a17df1fd93",
+      "sectionIndex": 2,
+      "question": "Product differentiation is a feature of:",
+      "options": [
+        "A) Perfect competition",
+        "B) Monopolistic competition",
+        "C) Pure monopoly",
+        "D) Natural monopoly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f6d41a4da8de4015cfd4dfe3ae4b5f951b75806",
+      "sectionIndex": 2,
+      "question": "Price discrimination is practiced by:",
+      "options": [
+        "A) Competitive firms",
+        "B) Monopolists",
+        "C) All firms",
+        "D) No firms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b908c0187600e1f8e8b4a7a66f5cc9e3abd4e33f",
+      "sectionIndex": 2,
+      "question": "Normal profit occurs when:",
+      "options": [
+        "A) Total revenue exceeds total cost",
+        "B) Total revenue equals total cost",
+        "C) Total cost exceeds total revenue",
+        "D) There is no production"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "180693dd33e2729ebf723b1e803443206ae8d3fd",
+      "sectionIndex": 3,
+      "question": "Functions of money include all EXCEPT:",
+      "options": [
+        "A) Medium of exchange",
+        "B) Store of value",
+        "C) Production of goods",
+        "D) Unit of account"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1f8fc12de1a089baaa07953542813b02f350b73d",
+      "sectionIndex": 3,
+      "question": "M1 money supply includes:",
+      "options": [
+        "A) Only currency",
+        "B) Currency and demand deposits",
+        "C) All bank deposits",
+        "D) Gold reserves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb1b17b938e2f217e79333bc1482019379dd29c9",
+      "sectionIndex": 3,
+      "question": "The central bank of Pakistan is:",
+      "options": [
+        "A) National Bank",
+        "B) State Bank of Pakistan",
+        "C) Habib Bank",
+        "D) Allied Bank"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d088655e43db100bbef9746450593fd9dcd35421",
+      "sectionIndex": 3,
+      "question": "Commercial banks create money through:",
+      "options": [
+        "A) Printing currency",
+        "B) Lending process",
+        "C) Government orders",
+        "D) International trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9488ccb29c3ae56c0d03eae67375d716a431c906",
+      "sectionIndex": 3,
+      "question": "The reserve requirement is set by:",
+      "options": [
+        "A) Commercial banks",
+        "B) Central bank",
+        "C) Government",
+        "D) IMF"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b716c77d3d2d78a62e5012f42b3cefd987a3b94",
+      "sectionIndex": 3,
+      "question": "Inflation means:",
+      "options": [
+        "A) Rising prices",
+        "B) Falling prices",
+        "C) Stable prices",
+        "D) No prices"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "17797602781f3d8f196f9e128f482e835c98367a",
+      "sectionIndex": 3,
+      "question": "Deflation means:",
+      "options": [
+        "A) Rising prices",
+        "B) Falling prices",
+        "C) Stable prices",
+        "D) High growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71cc996992ed2d25346eefb070520a281cbf267b",
+      "sectionIndex": 3,
+      "question": "The money multiplier depends on:",
+      "options": [
+        "A) Interest rate only",
+        "B) Reserve ratio",
+        "C) Exchange rate",
+        "D) Tax rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "845f31904a501a963c996f99987d2e3c094833df",
+      "sectionIndex": 3,
+      "question": "Open market operations involve:",
+      "options": [
+        "A) Opening new banks",
+        "B) Buying and selling government securities",
+        "C) Setting prices",
+        "D) Closing banks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "684a563a4d8a93b4a7937151d24b675f86fc46f4",
+      "sectionIndex": 3,
+      "question": "Bank rate is:",
+      "options": [
+        "A) Interest rate on deposits",
+        "B) Rate at which central bank lends to commercial banks",
+        "C) Exchange rate",
+        "D) Tax rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a923a2bc3e8f5dd5620220f2e2f665fb3c7bac0e",
+      "sectionIndex": 4,
+      "question": "National income is the sum of:",
+      "options": [
+        "A) All goods produced",
+        "B) All factor incomes",
+        "C) Government spending only",
+        "D) Exports only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f658e5725ef5e08c112d974969624d29b8ff68ff",
+      "sectionIndex": 4,
+      "question": "Unemployment means:",
+      "options": [
+        "A) Not wanting to work",
+        "B) Willing to work but unable to find job",
+        "C) Retired persons",
+        "D) Students"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7e24ae3f6b7cacdf4d2d52603f5ab58870b5dac",
+      "sectionIndex": 4,
+      "question": "Full employment means:",
+      "options": [
+        "A) Zero unemployment",
+        "B) Natural rate of unemployment",
+        "C) Everyone working",
+        "D) No job vacancies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a206395ce7c78bd67d430aa56b982b31a2487bc6",
+      "sectionIndex": 4,
+      "question": "Cyclical unemployment is caused by:",
+      "options": [
+        "A) Technology change",
+        "B) Business cycle fluctuations",
+        "C) Seasonal factors",
+        "D) Structural change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad5cf6d480b38c94e19f82aa617605615c27e095",
+      "sectionIndex": 4,
+      "question": "The multiplier effect refers to:",
+      "options": [
+        "A) Population growth",
+        "B) Amplified impact of spending on income",
+        "C) Price increases",
+        "D) Interest rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19ee5db596d726dca3162e2f85e88ef66a36fe1c",
+      "sectionIndex": 4,
+      "question": "Marginal Propensity to Consume (MPC) is:",
+      "options": [
+        "A) Total consumption",
+        "B) Change in consumption divided by change in income",
+        "C) Savings rate",
+        "D) Tax rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b98bf2995c188ff74eab91d58768a7914f900a8",
+      "sectionIndex": 4,
+      "question": "If MPC is 0.8, the multiplier is:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1cb178f5779cabed5e24bab1420dd3db4011d53a",
+      "sectionIndex": 4,
+      "question": "Aggregate demand includes all EXCEPT:",
+      "options": [
+        "A) Consumption",
+        "B) Investment",
+        "C) Savings",
+        "D) Government spending"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "18e69eb60a53a6b51a4c7c50c27c918fa413c355",
+      "sectionIndex": 4,
+      "question": "The Keynesian theory emphasizes:",
+      "options": [
+        "A) Supply creates demand",
+        "B) Demand creates supply",
+        "C) No government role",
+        "D) Fixed money supply"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27f75b24a93aec39f4a7826399a58c6ec1f25198",
+      "sectionIndex": 4,
+      "question": "In the circular flow of income:",
+      "options": [
+        "A) Money flows one way only",
+        "B) Money flows between households and firms",
+        "C) There is no flow",
+        "D) Government is excluded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e60106f6592bc8c21df32401562f7cb4e2b1909",
+      "sectionIndex": 5,
+      "question": "Comparative advantage means:",
+      "options": [
+        "A) Being best at everything",
+        "B) Lower opportunity cost in production",
+        "C) Absolute efficiency",
+        "D) No trade needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "414e3f2dd47a1489e83999a89248011d6dd062d0",
+      "sectionIndex": 5,
+      "question": "Absolute advantage means:",
+      "options": [
+        "A) Lower opportunity cost",
+        "B) Higher productivity in production",
+        "C) No advantage",
+        "D) Equal efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba50a1318ca69da320d246d9cbff3be2bc8e0a5a",
+      "sectionIndex": 5,
+      "question": "Balance of trade refers to:",
+      "options": [
+        "A) Exports minus imports of goods",
+        "B) Total payments balance",
+        "C) Government budget",
+        "D) Bank balance"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "40a618bcb722f77745bed759c1a0cc9036774fca",
+      "sectionIndex": 5,
+      "question": "A trade deficit occurs when:",
+      "options": [
+        "A) Exports exceed imports",
+        "B) Imports exceed exports",
+        "C) Trade is balanced",
+        "D) No trade exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b595daada171c8485b8213e527adfd8e0ae990f",
+      "sectionIndex": 5,
+      "question": "Exchange rate is:",
+      "options": [
+        "A) Interest rate",
+        "B) Price of one currency in terms of another",
+        "C) Tax rate",
+        "D) Growth rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bc50e10fd5774201de07769cca40e4b7975409b",
+      "sectionIndex": 5,
+      "question": "Devaluation means:",
+      "options": [
+        "A) Currency appreciation",
+        "B) Currency depreciation by government",
+        "C) No change",
+        "D) Free float"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8107e2f52614873596ee6e4bcdc8596c2a6ccc34",
+      "sectionIndex": 5,
+      "question": "Terms of trade is:",
+      "options": [
+        "A) Trade agreement",
+        "B) Ratio of export prices to import prices",
+        "C) Total trade volume",
+        "D) Trade barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "287270fb93318c772a4945e9d1e1046a2658ef95",
+      "sectionIndex": 5,
+      "question": "Tariff is a:",
+      "options": [
+        "A) Subsidy",
+        "B) Tax on imports",
+        "C) Export promotion",
+        "D) Free trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e772941f1ee5a1322294aa7910e1a8725d62ea0",
+      "sectionIndex": 5,
+      "question": "Balance of payments includes:",
+      "options": [
+        "A) Only trade balance",
+        "B) Current and capital accounts",
+        "C) Government budget",
+        "D) Domestic transactions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9526b4a73236f68da698ecd9e5cf1cd3325215a",
+      "sectionIndex": 5,
+      "question": "WTO stands for:",
+      "options": [
+        "A) World Trade Organization",
+        "B) World Tax Organization",
+        "C) World Transport Organization",
+        "D) World Treaty Organization"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "52feba44e318f7b2354346b1613271b566e6bb8c",
+      "sectionIndex": 6,
+      "question": "Direct tax includes:",
+      "options": [
+        "A) Sales tax",
+        "B) Income tax",
+        "C) Excise duty",
+        "D) Customs duty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b502a543958dee095e6b7160a1812e1c1dbbd5c",
+      "sectionIndex": 6,
+      "question": "Indirect tax includes:",
+      "options": [
+        "A) Income tax",
+        "B) Property tax",
+        "C) Sales tax",
+        "D) Wealth tax"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2f00d0010af0973326b7242eeeed256dfe16d4a5",
+      "sectionIndex": 6,
+      "question": "Progressive tax means:",
+      "options": [
+        "A) Same rate for all",
+        "B) Higher rate for higher income",
+        "C) Lower rate for higher income",
+        "D) No tax"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc49c6dd583c7b4ef0103cf90a77c396af0ebf18",
+      "sectionIndex": 6,
+      "question": "Budget deficit occurs when:",
+      "options": [
+        "A) Revenue exceeds expenditure",
+        "B) Expenditure exceeds revenue",
+        "C) Balanced budget",
+        "D) No spending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4b682e44e8fa6ff3213065a380c28ef45d01127",
+      "sectionIndex": 6,
+      "question": "Fiscal policy involves:",
+      "options": [
+        "A) Money supply only",
+        "B) Government spending and taxation",
+        "C) Exchange rates",
+        "D) Interest rates only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8ce3ac2d496f4449fdc36b1d44784d0ff13dd00",
+      "sectionIndex": 6,
+      "question": "Public debt is:",
+      "options": [
+        "A) Private borrowing",
+        "B) Government borrowing",
+        "C) Foreign reserves",
+        "D) Tax revenue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e01ddb84a20d77b546dfc364d61dde94c5891502",
+      "sectionIndex": 6,
+      "question": "Development expenditure includes:",
+      "options": [
+        "A) Defense spending",
+        "B) Infrastructure investment",
+        "C) Debt servicing",
+        "D) Salaries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13e6e17d63ddbd9a3dc23724b6e0643e1d9be026",
+      "sectionIndex": 6,
+      "question": "Non-development expenditure includes:",
+      "options": [
+        "A) Education spending",
+        "B) Health spending",
+        "C) Defense and debt servicing",
+        "D) Infrastructure"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "254c9a76a43fedbf4a0239e6f5a01d6a1f406b1f",
+      "sectionIndex": 6,
+      "question": "Tax-to-GDP ratio measures:",
+      "options": [
+        "A) Total taxes",
+        "B) Tax revenue as percentage of GDP",
+        "C) GDP growth",
+        "D) Tax rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a03a2fab6d67150cadb082a5d70d7b12053b3eed",
+      "sectionIndex": 6,
+      "question": "PSDP stands for:",
+      "options": [
+        "A) Public Sector Development Program",
+        "B) Private Sector Development Plan",
+        "C) Pakistan State Development Project",
+        "D) Provincial Sector Development Program"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ac029fbd8882036a534ca8dec1ab85ac1e416885",
+      "sectionIndex": 7,
+      "question": "Economic growth refers to:",
+      "options": [
+        "A) Population increase",
+        "B) Increase in GDP",
+        "C) Price stability",
+        "D) Employment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9c12306a92b82f36096f1e5948c14dea933aac4",
+      "sectionIndex": 7,
+      "question": "Economic development includes:",
+      "options": [
+        "A) Only GDP growth",
+        "B) Improvement in living standards",
+        "C) Population growth",
+        "D) Inflation control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd8d784ab2188161df7c304f2216876433c3d365",
+      "sectionIndex": 7,
+      "question": "HDI stands for:",
+      "options": [
+        "A) Human Development Index",
+        "B) High Development Indicator",
+        "C) Health Development Index",
+        "D) Housing Development Index"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0c301525b74aa0278a0be6d3a6211b7f54026225",
+      "sectionIndex": 7,
+      "question": "Poverty line is:",
+      "options": [
+        "A) Geographical boundary",
+        "B) Minimum income level for basic needs",
+        "C) Maximum income",
+        "D) Average income"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6448b9f4b165f8bcf1bea87a3a06faccaae1dc1a",
+      "sectionIndex": 7,
+      "question": "Lorenz curve shows:",
+      "options": [
+        "A) Economic growth",
+        "B) Income distribution",
+        "C) Inflation rate",
+        "D) Interest rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5109e26e0d5beb47426edb14bffc8194cb6a9683",
+      "sectionIndex": 7,
+      "question": "Gini coefficient measures:",
+      "options": [
+        "A) Economic growth",
+        "B) Income inequality",
+        "C) Inflation",
+        "D) Unemployment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b255eb5310810b3b546e5f727cc908b3350e96c",
+      "sectionIndex": 7,
+      "question": "Absolute poverty means:",
+      "options": [
+        "A) Relative comparison",
+        "B) Below subsistence level",
+        "C) Temporary condition",
+        "D) Regional poverty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a455784185572d7e2d2e863967451d6ef2d3e42",
+      "sectionIndex": 7,
+      "question": "Human capital refers to:",
+      "options": [
+        "A) Money",
+        "B) Skills and knowledge of workers",
+        "C) Machinery",
+        "D) Buildings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5c44b1679e0f6562877c1d464fa74ab49ea1eaf",
+      "sectionIndex": 7,
+      "question": "Brain drain means:",
+      "options": [
+        "A) Education failure",
+        "B) Skilled workers leaving country",
+        "C) Mental illness",
+        "D) Low productivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bf9fb5871abb8e1309a12087bebdd137b04c149",
+      "sectionIndex": 7,
+      "question": "Sustainable development emphasizes:",
+      "options": [
+        "A) Maximum growth",
+        "B) Meeting present needs without compromising future",
+        "C) No development",
+        "D) Industrial growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a9d8dee5e5a0711d39b5dd0b861075f5af98cd6",
+      "sectionIndex": 8,
+      "question": "Pakistan's economy is classified as:",
+      "options": [
+        "A) Developed",
+        "B) Developing",
+        "C) Least developed",
+        "D) Advanced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e695876a12dd8542191f38a6fb8458db73d5487",
+      "sectionIndex": 8,
+      "question": "The largest sector in Pakistan's GDP is:",
+      "options": [
+        "A) Agriculture",
+        "B) Services",
+        "C) Industry",
+        "D) Mining"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2bd45718780e20cc8796b61546809790eb2b96f",
+      "sectionIndex": 8,
+      "question": "Pakistan's main export is:",
+      "options": [
+        "A) Petroleum",
+        "B) Textiles",
+        "C) Electronics",
+        "D) Automobiles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19e04cdf016619368af470f64bd5a979dad24ae0",
+      "sectionIndex": 8,
+      "question": "The IMF provides:",
+      "options": [
+        "A) Grants only",
+        "B) Loans with conditions",
+        "C) Free money",
+        "D) Military aid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9f34bb190240168a16cc173e5cb5f99bc53b93a",
+      "sectionIndex": 8,
+      "question": "Pakistan's fiscal year runs from:",
+      "options": [
+        "A) January to December",
+        "B) July to June",
+        "C) April to March",
+        "D) October to September"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acd93f0bcf84bcd7884bbf0ce4caa3266ebb245d",
+      "sectionIndex": 8,
+      "question": "The Green Revolution in Pakistan focused on:",
+      "options": [
+        "A) Industry",
+        "B) Agriculture productivity",
+        "C) Environment",
+        "D) Forestry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec839c3f267ce3be8e3718d1dabaa137907d8637",
+      "sectionIndex": 8,
+      "question": "CPEC stands for:",
+      "options": [
+        "A) China-Pakistan Economic Corridor",
+        "B) Central Pakistan Energy Commission",
+        "C) China-Pakistan Export Council",
+        "D) Central Planning Economic Committee"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7dbc2bb57a63d58236ed0b837bb82fdd76b3b82b",
+      "sectionIndex": 8,
+      "question": "Pakistan's energy crisis is mainly due to:",
+      "options": [
+        "A) Excess supply",
+        "B) Demand-supply gap",
+        "C) No demand",
+        "D) Export of energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbdab7c1043cbf88bc8ebc8cbf07c767e8997d40",
+      "sectionIndex": 8,
+      "question": "Privatization in Pakistan aims to:",
+      "options": [
+        "A) Increase government control",
+        "B) Improve efficiency and reduce fiscal burden",
+        "C) Eliminate private sector",
+        "D) Increase bureaucracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48120dd8b2f4d94d0dcf57f9ac7a0c5cbdf9d019",
+      "sectionIndex": 8,
+      "question": "Workers' remittances are important for Pakistan's:",
+      "options": [
+        "A) Exports",
+        "B) Foreign exchange reserves",
+        "C) Tax revenue",
+        "D) Government spending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01a615dcf83a6f0f59b1c9a6c4c3e0506d8797f1",
+      "sectionIndex": 9,
+      "question": "CPI stands for:",
+      "options": [
+        "A) Consumer Price Index",
+        "B) Commercial Price Index",
+        "C) Central Price Indicator",
+        "D) Current Price Index"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "60755cc0d235c263f1694a38046dcf0f8c40f7dc",
+      "sectionIndex": 9,
+      "question": "Monetary policy is conducted by:",
+      "options": [
+        "A) Government",
+        "B) Central bank",
+        "C) Commercial banks",
+        "D) Stock exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "078c5665971116def2ebc2a1d1c5c9234be8e8d5",
+      "sectionIndex": 9,
+      "question": "Fiscal policy is conducted by:",
+      "options": [
+        "A) Central bank",
+        "B) Government",
+        "C) Commercial banks",
+        "D) Private sector"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c247d7e5c6eb6254ccd8fa40331485ec80303557",
+      "sectionIndex": 9,
+      "question": "Stagflation means:",
+      "options": [
+        "A) High growth and low inflation",
+        "B) Stagnation with inflation",
+        "C) Deflation",
+        "D) Hyperinflation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd0073d0fd023eeafa54b81eb27cbcf3e08bf8a0",
+      "sectionIndex": 9,
+      "question": "Phillips curve shows relationship between:",
+      "options": [
+        "A) Inflation and unemployment",
+        "B) Growth and inflation",
+        "C) Money and prices",
+        "D) Exports and imports"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2fc75ba5e0c68fa00b11bbc07af3307550d9146b",
+      "sectionIndex": 9,
+      "question": "IS curve represents:",
+      "options": [
+        "A) Money market equilibrium",
+        "B) Goods market equilibrium",
+        "C) Labor market",
+        "D) Foreign exchange market"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aba1397e3c35d577ae593ff1f49864e606fcdce5",
+      "sectionIndex": 9,
+      "question": "LM curve represents:",
+      "options": [
+        "A) Goods market equilibrium",
+        "B) Money market equilibrium",
+        "C) Labor market",
+        "D) Trade balance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "396749c3cb0e8141ffb10532d5584ac5a4a0c8a4",
+      "sectionIndex": 9,
+      "question": "Quantity theory of money states:",
+      "options": [
+        "A) Money has no value",
+        "B) Money supply affects price level",
+        "C) Money is neutral",
+        "D) Money creates wealth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f401d036a02b5768bdb11e0d6def77d83903f8c2",
+      "sectionIndex": 9,
+      "question": "Economic planning in Pakistan is done by:",
+      "options": [
+        "A) State Bank",
+        "B) Planning Commission",
+        "C) Finance Ministry alone",
+        "D) Provincial governments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "089dc6ad42755dde75f49204c2cd30056490e920",
+      "sectionIndex": 9,
+      "question": "The business cycle consists of:",
+      "options": [
+        "A) Only growth",
+        "B) Expansion and contraction phases",
+        "C) Only recession",
+        "D) Steady state"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "subject": "Philosophy (CSS Pakistan)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 20,
+  "categories": [
+    "Logic & Symbolic Reasoning",
+    "Definitions, Language & Fallacies",
+    "Epistemology & Theories of Knowledge",
+    "Metaphysics & Idealism",
+    "Philosophy of Science & Induction",
+    "Ethics & Moral Philosophy",
+    "Political & Social Philosophy",
+    "Islamic & Muslim Philosophical Thought",
+    "Analytic & Contemporary Movements",
+    "Exam Strategy & Pakistan Context"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Categorical Syllogisms: structures, rules & distribution",
+      "content": "Master standard-form syllogisms (AAA, EAE, etc.), term distribution, and Venn-diagram testing. Typical CSS prompts ask to define syllogism, state validity rules, or generate syllogisms with universal conclusions.",
+      "keyTakeaways": [
+        "Six classic rules (e.g., undistributed middle, illicit process) determine validity.",
+        "Diagramming helps quickly test conclusions for Part-II.",
+        "Link to MCQs: mood/figure, distribution, and immediate inferences."
+      ],
+      "resources": [
+        {
+          "title": "forall x: Calgary (free logic textbook) – Categorical logic, proofs",
+          "url": "https://forallx.openlogicproject.org/html/",
+          "type": "textbook",
+          "description": "Open Logic Project; chapters on arguments, truth tables, proofs"
+        },
+        {
+          "title": "Stanford Intro to Logic (free course)",
+          "url": "https://intrologic.stanford.edu/",
+          "type": "course",
+          "description": "Online course with exercises"
+        },
+        {
+          "title": "OpenStax Contemporary Mathematics – Logic chapter",
+          "url": "https://openstax.org/books/contemporary-mathematics/pages/2-introduction",
+          "type": "textbook",
+          "description": "Statements, quantifiers, truth tables"
+        }
+      ],
+      "importance": "high",
+      "category": "Logic & Symbolic Reasoning",
+      "topics": ["Syllogism", "Distribution", "Venn Diagrams", "Validity Rules"]
+    },
+    {
+      "id": "2",
+      "title": "Propositions, Connectives & Truth Tables",
+      "content": "Differentiate simple vs compound propositions and formal symbols (¬, ∧, ∨, →, ↔); construct complete/partial truth tables; identify tautology/contradiction/contingent forms.",
+      "keyTakeaways": [
+        "Truth-functional analysis underpins MCQs on validity.",
+        "Characteristic truth tables and equivalence laws speed up proofs.",
+        "Practice symbolization from English into TFL."
+      ],
+      "resources": [
+        {
+          "title": "forall x: Calgary – Truth tables & equivalences",
+          "url": "https://forallx.openlogicproject.org/forallxyyc.pdf",
+          "type": "textbook",
+          "description": "Chs. 9–11, 45–47"
+        },
+        {
+          "title": "Khan Academy LSAT Logic articles (intro to arguments)",
+          "url": "https://www.khanacademy.org/test-prep/lsat-prep/xdf35b2883be7178a%3Alsat-prep-lessons/xdf35b2883be7178a%3Alsat-prep-logical-reasoning-articles/a/logical-reasoning--article--intro-to-arguments",
+          "type": "article",
+          "description": "Argument components; conditionals"
+        }
+      ],
+      "importance": "high",
+      "category": "Logic & Symbolic Reasoning",
+      "topics": ["Propositions", "Connectives", "Tautology", "Symbolization"]
+    },
+    {
+      "id": "3",
+      "title": "Rules of Inference & Replacement (Natural Deduction)",
+      "content": "Know core inference rules (MP, MT, HS, DS, Conj./Add.) and replacement laws (De Morgan, Contraposition, Distribution, Double Negation) for formal proofs.",
+      "keyTakeaways": [
+        "Proof strategies: conditional proof, indirect proof, subproof nesting.",
+        "Memorize a compact law list for timed derivations.",
+        "CSS often asks 'Explain rules of replacement briefly' or complete multi-step proofs."
+      ],
+      "resources": [
+        {
+          "title": "forall x: Calgary – Proof systems",
+          "url": "https://forallx.openlogicproject.org/html/",
+          "type": "textbook",
+          "description": "Natural deduction (Fitch style)"
+        },
+        {
+          "title": "Stanford Intro to Logic – Exercises",
+          "url": "https://intrologic.stanford.edu/homepage/materials.html",
+          "type": "practice",
+          "description": "Problem sets for propositional & predicate logic"
+        }
+      ],
+      "importance": "high",
+      "category": "Logic & Symbolic Reasoning",
+      "topics": ["Inference", "Replacement", "Proofs"]
+    },
+    {
+      "id": "4",
+      "title": "Definitions, Ambiguity & Emotive Language",
+      "content": "Define ambiguity, vagueness, and emotive terms; types of definitions (lexical, stipulative, precising, theoretical, persuasive). Connect to fallacies of ambiguity (equivocation, amphiboly, composition/division).",
+      "keyTakeaways": [
+        "Clear definitions reduce fallacies; show with everyday examples.",
+        "Exam often asks to 'discuss types of definitions' or 'emotive language impedes clear thinking'.",
+        "Practice refining slippery terms in political/moral debates."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Introduction to Philosophy – Logic unit",
+          "url": "https://openstax.org/books/introduction-philosophy/pages/5-introduction",
+          "type": "textbook",
+          "description": "Logic & language basics"
+        },
+        {
+          "title": "Carneades Fallacy Playlists (YouTube)",
+          "url": "https://www.youtube.com/playlist?list=PLz0n_SjOttTcxvEUVgyvuQN0vneqO917_",
+          "type": "video",
+          "description": "Short videos on specific fallacies"
+        }
+      ],
+      "importance": "high",
+      "category": "Definitions, Language & Fallacies",
+      "topics": ["Ambiguity", "Vagueness", "Definitions", "Fallacies"]
+    },
+    {
+      "id": "5",
+      "title": "Induction, Probability & Mill's Methods",
+      "content": "Contrast deductive vs inductive support; study Hume's problem of induction; learn Mill's four/five methods (Agreement, Difference, Joint, Residues, Concomitant Variation) for causal discovery.",
+      "keyTakeaways": [
+        "Inductive arguments amplify; cannot be truth-preserving.",
+        "Mill's methods are exam favorites—state and illustrate with real cases.",
+        "Probability is not identical to inductive logic but formalizes uncertainty."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Problem of Induction",
+          "url": "https://plato.stanford.edu/entries/induction-problem/",
+          "type": "reference",
+          "description": "Historical and contemporary treatments"
+        },
+        {
+          "title": "SEP — John Stuart Mill (sections on induction)",
+          "url": "https://plato.stanford.edu/entries/mill/",
+          "type": "reference",
+          "description": "Mill's view and scientific method"
+        },
+        {
+          "title": "IEP — Mill's Methods overview",
+          "url": "https://iep.utm.edu/milljs/",
+          "type": "reference",
+          "description": "Concise account of experimental inquiry"
+        }
+      ],
+      "importance": "high",
+      "category": "Philosophy of Science & Induction",
+      "topics": ["Induction", "Mill's Methods", "Probability"]
+    },
+    {
+      "id": "6",
+      "title": "Scientific Explanation: Hempel's DN model & beyond",
+      "content": "Cover Hempel's deductive–nomological and statistical models, critiques (counterexamples, ceteris paribus laws), and newer views (causal–mechanistic, unification).",
+      "keyTakeaways": [
+        "DN ties explanation to logical entailment from laws + conditions.",
+        "Limitations: relevance, probabilistic cases, historical explanations.",
+        "Use examples from physics and history for contrast."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Scientific Explanation",
+          "url": "https://plato.stanford.edu/entries/scientific-explanation/",
+          "type": "reference",
+          "description": "Survey of models of explanation"
+        },
+        {
+          "title": "IEP — Theories of Explanation",
+          "url": "https://iep.utm.edu/explanat/",
+          "type": "reference",
+          "description": "Accessible overview incl. Hempel"
+        }
+      ],
+      "importance": "medium",
+      "category": "Philosophy of Science & Induction",
+      "topics": ["Hempel", "DN Model", "Causation", "Unification"]
+    },
+    {
+      "id": "7",
+      "title": "Hypothesis & Scientific Method",
+      "content": "Define hypothesis, role in discovery/justification, falsifiability and testing, distinction between scientific and unscientific explanation.",
+      "keyTakeaways": [
+        "Hypotheses must be testable (operationalized) and risk refutation.",
+        "Differentiate context of discovery vs justification in essays.",
+        "Use case studies to show predictive novelty."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Scientific Method",
+          "url": "https://plato.stanford.edu/entries/scientific-method/",
+          "type": "reference",
+          "description": "Methods, models, and Mill's influence"
+        },
+        {
+          "title": "SEP — Scientific Discovery",
+          "url": "https://plato.stanford.edu/entries/scientific-discovery/",
+          "type": "reference",
+          "description": "Hypothesis generation and heuristics"
+        }
+      ],
+      "importance": "medium",
+      "category": "Philosophy of Science & Induction",
+      "topics": ["Hypothesis", "Falsifiability", "Method"]
+    },
+    {
+      "id": "8",
+      "title": "Descartes' Cogito: certainty & critiques",
+      "content": "Explain 'cogito, ergo sum' as foundational certainty; clarify performance/first-person character; survey critiques (circularity, reliance on clarity & distinction).",
+      "keyTakeaways": [
+        "Cogito resists hyperbolic doubt as self-verifying thought act.",
+        "Debate: Is 'therefore' inferential or immediate awareness?",
+        "Connect to influence on rationalism and modern epistemology."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Descartes (overview)",
+          "url": "https://plato.stanford.edu/entries/descartes/",
+          "type": "reference",
+          "description": "Cogito & clear/distinct perception"
+        },
+        {
+          "title": "SEP — Descartes' Epistemology",
+          "url": "https://plato.stanford.edu/entries/descartes-epistemology/",
+          "type": "reference",
+          "description": "Deeper analysis incl. Hintikka's view"
+        }
+      ],
+      "importance": "high",
+      "category": "Epistemology & Theories of Knowledge",
+      "topics": ["Cogito", "Certainty", "Methodic Doubt"]
+    },
+    {
+      "id": "9",
+      "title": "Berkeley's Idealism — 'Esse est percipi'",
+      "content": "Present subjective idealism: existence of sensible objects depends on perception; God's perception sustains continuity; contrast with representational realism.",
+      "keyTakeaways": [
+        "Rejects matter as unknowable substratum.",
+        "Addresses persistence via divine perception.",
+        "Exam often asks for critical exposition of 'To be is to be perceived'."
+      ],
+      "resources": [
+        {
+          "title": "SEP — George Berkeley",
+          "url": "https://plato.stanford.edu/entries/berkeley/",
+          "type": "reference",
+          "description": "Authoritative overview"
+        },
+        {
+          "title": "IEP — George Berkeley",
+          "url": "https://iep.utm.edu/george-berkeley-british-empiricist/",
+          "type": "reference",
+          "description": "Accessible commentary"
+        }
+      ],
+      "importance": "high",
+      "category": "Metaphysics & Idealism",
+      "topics": ["Subjective Idealism", "Immaterialism"]
+    },
+    {
+      "id": "10",
+      "title": "Leibniz's Monadology & Pre-established Harmony",
+      "content": "Explain monads as simple, non-extended substances; perception/appetition; no causal interaction between mind and body—only harmony coordinated by God.",
+      "keyTakeaways": [
+        "Truth as conceptual containment informs necessity/contingency.",
+        "Monads 'mirror' the universe from unique perspectives.",
+        "Compare with occasionalism and interactionism."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Leibniz (overview)",
+          "url": "https://plato.stanford.edu/entries/leibniz/",
+          "type": "reference",
+          "description": "Metaphysics, mind, truth theory"
+        },
+        {
+          "title": "Britannica — Monad",
+          "url": "https://www.britannica.com/topic/monad",
+          "type": "article",
+          "description": "Concise reference"
+        }
+      ],
+      "importance": "medium",
+      "category": "Metaphysics & Idealism",
+      "topics": ["Monads", "Harmony", "Conceptual Truth"]
+    },
+    {
+      "id": "11",
+      "title": "Kant's Ethics — Categorical Imperative",
+      "content": "Duty for duty's sake; maxims tested by universalizability and respect for persons (humanity as an end).",
+      "keyTakeaways": [
+        "Contrast with consequentialism (intentions vs outcomes).",
+        "Formulations: Universal Law, Humanity, Kingdom of Ends.",
+        "Apply to exam scenarios (lying promise, beneficence)."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Kant's Moral Philosophy",
+          "url": "https://plato.stanford.edu/entries/kant-moral/",
+          "type": "reference",
+          "description": "Comprehensive entry"
+        },
+        {
+          "title": "CrashCourse #35 — Kant & Categorical Imperatives",
+          "url": "https://www.youtube.com/watch?v=8bIys6JoEDw",
+          "type": "video",
+          "description": "Accessible recap"
+        }
+      ],
+      "importance": "high",
+      "category": "Ethics & Moral Philosophy",
+      "topics": ["Deontology", "Universal Law", "Autonomy"]
+    },
+    {
+      "id": "12",
+      "title": "Utilitarianism & Virtue Ethics (contrast)",
+      "content": "Utilitarian calculus (act vs rule); Aristotle's virtue ethics (eudaimonia, doctrine of the mean).",
+      "keyTakeaways": [
+        "Use trolley-type cases to compare frameworks.",
+        "Virtue focuses on character & habituation, not rules/outcomes alone.",
+        "CSS short notes often include 'Utilitarianism' or 'Virtue ethics'."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Mill",
+          "url": "https://plato.stanford.edu/entries/mill/",
+          "type": "reference",
+          "description": "Utility & liberalism"
+        },
+        {
+          "title": "CrashCourse #38 — Aristotle & Virtue",
+          "url": "https://www.youtube.com/watch?v=PrvtOWEXDIQ",
+          "type": "video",
+          "description": "Virtue theory overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ethics & Moral Philosophy",
+      "topics": ["Utilitarianism", "Virtue", "Eudaimonia"]
+    },
+    {
+      "id": "13",
+      "title": "Rawls's Justice & the Difference Principle",
+      "content": "Original Position & Veil of Ignorance; two principles of justice; focus on fair equality of opportunity and permissible inequalities that benefit the least advantaged.",
+      "keyTakeaways": [
+        "Contrast with utilitarian aggregation.",
+        "Debates on limits of the difference principle appear in CSS.",
+        "Relate to contemporary policy examples."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Rawls",
+          "url": "https://plato.stanford.edu/entries/rawls/",
+          "type": "reference",
+          "description": "Theory of Justice, later work"
+        }
+      ],
+      "importance": "medium",
+      "category": "Political & Social Philosophy",
+      "topics": ["Justice", "Fairness", "Inequality"]
+    },
+    {
+      "id": "14",
+      "title": "Foucault's Power/Knowledge",
+      "content": "Power and knowledge are mutually constitutive; discourses produce subjects and normalize practices (e.g., prisons, clinics).",
+      "keyTakeaways": [
+        "Opposes 'knowledge is power' as mere instrument; shows co-production.",
+        "Use genealogy to trace historical formations.",
+        "Likely essay: distinguish Foucault from Baconian slogan."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Michel Foucault",
+          "url": "https://plato.stanford.edu/entries/foucault/",
+          "type": "reference",
+          "description": "Power/knowledge synthesis"
+        },
+        {
+          "title": "IEP — Foucault",
+          "url": "https://iep.utm.edu/foucault/",
+          "type": "reference",
+          "description": "Concise guide with key texts"
+        }
+      ],
+      "importance": "medium",
+      "category": "Analytic & Contemporary Movements",
+      "topics": ["Power/Knowledge", "Discipline", "Genealogy"]
+    },
+    {
+      "id": "15",
+      "title": "Dialectical & Historical Materialism (Marx, Engels)",
+      "content": "Material conditions shape social forms and consciousness; history as class struggle; dialectics reworked from Hegel to materialist analysis.",
+      "keyTakeaways": [
+        "Explain base/superstructure with examples (law, culture).",
+        "Avoid caricatures; note later Analytical Marxism revisions.",
+        "CSS often contrasts with Kant/Hegel or liberal theories."
+      ],
+      "resources": [
+        {
+          "title": "SEP — Karl Marx",
+          "url": "https://plato.stanford.edu/entries/marx/",
+          "type": "reference",
+          "description": "Core theses & debates"
+        },
+        {
+          "title": "Britannica — Dialectical Materialism",
+          "url": "https://www.britannica.com/topic/dialectical-materialism",
+          "type": "article",
+          "description": "Brief reference"
+        }
+      ],
+      "importance": "medium",
+      "category": "Political & Social Philosophy",
+      "topics": ["Materialism", "Class", "Dialectics"]
+    },
+    {
+      "id": "16",
+      "title": "Pragmatism (Peirce–James–Dewey) & relevance",
+      "content": "Truth as what works in practice; meaning via practical consequences; method over metaphysical fixations; connects to contemporary pragmatism/neo-pragmatism.",
+      "keyTakeaways": [
+        "Use James's pragmatic method in exam essays.",
+        "Show differences from instrumentalism and verificationism.",
+        "Relate to scientific inquiry and democracy (Dewey)."
+      ],
+      "resources": [
+        {
+          "title": "IEP — Pragmatism (James)",
+          "url": "https://iep.utm.edu/pragmati/",
+          "type": "reference",
+          "description": "James's method & theory of truth"
+        },
+        {
+          "title": "CrashCourse Philosophy playlist",
+          "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR",
+          "type": "video",
+          "description": "Rapid review series"
+        }
+      ],
+      "importance": "medium",
+      "category": "Analytic & Contemporary Movements",
+      "topics": ["Pragmatism", "Truth", "Method"]
+    },
+    {
+      "id": "17",
+      "title": "Logical Positivism & A.J. Ayer's Verification Principle",
+      "content": "Meaning tied to verification (analytic vs empirical); metaphysical statements deemed nonsensical; know weak vs strong verification and criticisms.",
+      "keyTakeaways": [
+        "Clarify how ethics/aesthetics fare under verificationism.",
+        "Explain why the principle itself struggles with self-verification.",
+        "Use concise examples (e.g., 'the Absolute is pure Being')."
+      ],
+      "resources": [
+        {
+          "title": "SEP — A.J. Ayer",
+          "url": "https://plato.stanford.edu/entries/ayer/",
+          "type": "reference",
+          "description": "Verification and later revisions"
+        }
+      ],
+      "importance": "medium",
+      "category": "Analytic & Contemporary Movements",
+      "topics": ["Verification", "Meaning", "Positivism"]
+    },
+    {
+      "id": "18",
+      "title": "Al-Ghazālī vs the Philosophers; Journey to Mysticism",
+      "content": "Ghazālī's critique of falāsifa (causality, eternity of world) and turn from kalām/philosophy to Sufism; limits of reason and role of experiential knowledge.",
+      "keyTakeaways": [
+        "Understand 'Tahāfut al-Falāsifa' theses and causation critique.",
+        "Connect to CSS prompts on Ghazālī's intellectual journey.",
+        "Contrast with Ibn Rushd's defense of philosophy."
+      ],
+      "resources": [
+        {
+          "title": "IEP — Al-Ghazālī",
+          "url": "https://iep.utm.edu/al-ghazali/",
+          "type": "reference",
+          "description": "Life, works, critique of philosophy"
+        },
+        {
+          "title": "SEP — Al-Ghazālī (alt mirrors if available)",
+          "url": "https://plato.stanford.edu/search/searcher.py?query=al-ghazali",
+          "type": "reference",
+          "description": "Search page for SEP coverage"
+        }
+      ],
+      "importance": "high",
+      "category": "Islamic & Muslim Philosophical Thought",
+      "topics": ["Ghazālī", "Causation", "Mysticism"]
+    },
+    {
+      "id": "19",
+      "title": "Ibn Rushd (Averroes): Reconciliation of Philosophy & Religion",
+      "content": "Harmonization thesis: demonstrative philosophy and revealed law address different audiences; allegorical interpretation permissible for the learned.",
+      "keyTakeaways": [
+        "Use 'Decisive Treatise' to frame reconciliation.",
+        "Distinguish types of reasoning: dialectical, rhetorical, demonstrative.",
+        "Contrast with Ghazālī on causality and eternity."
+      ],
+      "resources": [
+        {
+          "title": "IEP — Ibn Rushd (Averroes)",
+          "url": "https://iep.utm.edu/ibn-rushd-averroes/",
+          "type": "reference",
+          "description": "Comprehensive profile"
+        }
+      ],
+      "importance": "high",
+      "category": "Islamic & Muslim Philosophical Thought",
+      "topics": ["Averroes", "Exegesis", "Demonstration"]
+    },
+    {
+      "id": "20",
+      "title": "Ibn Khaldūn's ʿAṣabiyya & Philosophy of History; Iqbal & Sir Syed (modern)",
+      "content": "Ibn Khaldūn's Muqaddimah: ʿasabiyya, rise/decline cycles; Iqbal's Khudi & principle of movement (ijtihād); Sir Syed's rationalist educational reforms.",
+      "keyTakeaways": [
+        "Use ʿasabiyya to analyze state formation and decline.",
+        "Iqbal: dynamic selfhood & reconstruction of religious thought.",
+        "Sir Syed: rationalism, modern education, nature doctrine."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ibn Khaldūn",
+          "url": "https://www.britannica.com/biography/Ibn-Khaldun",
+          "type": "article",
+          "description": "Overview of life & Muqaddimah"
+        },
+        {
+          "title": "Wikipedia — Muhammad Iqbal (overview)",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_Iqbal",
+          "type": "article",
+          "description": "Quick reference to ideas/works"
+        },
+        {
+          "title": "Paper on Sir Syed Ahmad Khan's philosophy (PDF)",
+          "url": "https://www.oiirj.org/oiirj/mar2020-special-issue/14.pdf",
+          "type": "paper",
+          "description": "Educational & philosophical outlook"
+        }
+      ],
+      "importance": "high",
+      "category": "Islamic & Muslim Philosophical Thought",
+      "topics": ["Ibn Khaldūn", "Iqbal", "Sir Syed", "ʿAsabiyya"]
+    }
+  ],
+  "extras": {
+    "practice_and_videos": [
+      {
+        "title": "CrashCourse Philosophy (46-episode playlist)",
+        "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR",
+        "type": "video"
+      },
+      {
+        "title": "Carneades.org — 100 Days of Logic / Fallacies",
+        "url": "https://www.youtube.com/@CarneadesOfCyrene",
+        "type": "video"
+      },
+      {
+        "title": "Khan Academy — Logical Reasoning (free drills)",
+        "url": "https://www.khanacademy.org/test-prep/lsat-prep",
+        "type": "practice"
+      }
+    ],
+    "fpsc_papers_and_syllabus": [
+      {
+        "title": "FPSC — Philosophy Descriptive Paper (2025)",
+        "url": "https://www.fpsc.gov.pk/assets/media/2025-06-05-06-33-48-PHILOSOPHY.pdf",
+        "type": "past_paper"
+      },
+      {
+        "title": "FPSC — Philosophy Descriptive Paper (2024)",
+        "url": "https://www.fpsc.gov.pk/assets/media/2024-06-27-05-06-15-PHILOSOPHY.pdf",
+        "type": "past_paper"
+      },
+      {
+        "title": "FPSC — CSS Date Sheet 2025 (for planning)",
+        "url": "https://www.fpsc.gov.pk/assets/media/2025-01-10-10-42-12-CE-2025-Date-Sheet.pdf",
+        "type": "dates"
+      },
+      {
+        "title": "CSS Syllabus (3rd-party mirror; includes reading list)",
+        "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Philosophy-CSS-Syllabus.pdf",
+        "type": "syllabus"
+      }
+    ]
+  }
+}

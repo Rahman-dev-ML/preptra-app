@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:22:13.825Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "8d511434c0742eab49bf64c91585f625accd5124",
+      "sectionIndex": 0,
+      "question": "Who is considered the founder of Structuralism?",
+      "options": [
+        "A) William James",
+        "B) Wilhelm Wundt",
+        "C) John Watson",
+        "D) Sigmund Freud"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ff5a245145d06f639337e957c7e923ac7251322",
+      "sectionIndex": 0,
+      "question": "Functionalism was primarily developed by:",
+      "options": [
+        "A) Wilhelm Wundt",
+        "B) William James",
+        "C) B.F. Skinner",
+        "D) Carl Jung"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "febdccbbebdde180d6a48b392753110f4fbdb412",
+      "sectionIndex": 0,
+      "question": "The school of psychology that focuses on observable behavior is:",
+      "options": [
+        "A) Psychoanalysis",
+        "B) Behaviorism",
+        "C) Humanism",
+        "D) Structuralism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35f1b735b5c0a7c61a4516d9b9e4904f2315723e",
+      "sectionIndex": 0,
+      "question": "Who founded Behaviorism?",
+      "options": [
+        "A) Ivan Pavlov",
+        "B) John Watson",
+        "C) B.F. Skinner",
+        "D) Albert Bandura"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58c38182e8d4760f1acb777c8ceb7dade4a0630f",
+      "sectionIndex": 0,
+      "question": "Gestalt psychology emphasizes:",
+      "options": [
+        "A) Parts of experience",
+        "B) The whole is greater than the sum of its parts",
+        "C) Unconscious mind",
+        "D) Observable behavior only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eeed4c8e6c8d2f57c709064585a07a6cfd999cf8",
+      "sectionIndex": 0,
+      "question": "Psychoanalysis was founded by:",
+      "options": [
+        "A) Carl Jung",
+        "B) Alfred Adler",
+        "C) Sigmund Freud",
+        "D) Erik Erikson"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d83842224c756fb1773c6a46f3a61a7ac63e36af",
+      "sectionIndex": 0,
+      "question": "Humanistic psychology focuses on:",
+      "options": [
+        "A) Mental illness",
+        "B) Human potential and self-actualization",
+        "C) Animal behavior",
+        "D) Brain chemistry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "995e94312b04772767529df8d3d06d7f57aeb76c",
+      "sectionIndex": 0,
+      "question": "The cognitive revolution in psychology began in the:",
+      "options": [
+        "A) 1920s",
+        "B) 1940s",
+        "C) 1950s-1960s",
+        "D) 1980s"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "13f548a515b0e148999e8ca40ebe233df6377ddb",
+      "sectionIndex": 0,
+      "question": "Which approach studies mental processes like thinking and memory?",
+      "options": [
+        "A) Behavioral",
+        "B) Cognitive",
+        "C) Psychodynamic",
+        "D) Biological"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed59975360f2efe0feef2ea8962f4d8617272a1b",
+      "sectionIndex": 0,
+      "question": "The eclectic approach in psychology means:",
+      "options": [
+        "A) Using only one theory",
+        "B) Combining different theoretical perspectives",
+        "C) Rejecting all theories",
+        "D) Creating new theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbf691428f50177026ce70408bb2b65198cb4f40",
+      "sectionIndex": 1,
+      "question": "The Central Nervous System consists of:",
+      "options": [
+        "A) Brain only",
+        "B) Spinal cord only",
+        "C) Brain and spinal cord",
+        "D) All nerves in the body"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "81af0bbd63cbd854e8c782ac0682434fd0e27776",
+      "sectionIndex": 1,
+      "question": "The Peripheral Nervous System includes:",
+      "options": [
+        "A) Brain and spinal cord",
+        "B) All nerves outside the brain and spinal cord",
+        "C) Only motor nerves",
+        "D) Only sensory nerves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50f6af0312eae08e352a89a643b1cd8b2e23aced",
+      "sectionIndex": 1,
+      "question": "The autonomic nervous system controls:",
+      "options": [
+        "A) Voluntary movements",
+        "B) Involuntary functions",
+        "C) Thinking",
+        "D) Memory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ac8e0ef1a1f581733df40d30db5bfb4ccf2eaa3",
+      "sectionIndex": 1,
+      "question": "Neurons are:",
+      "options": [
+        "A) Blood cells",
+        "B) Nerve cells",
+        "C) Muscle cells",
+        "D) Bone cells"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "969a01e946f9af57b1c7121ba8ac044b17f6fda8",
+      "sectionIndex": 1,
+      "question": "The part of the neuron that receives messages is the:",
+      "options": [
+        "A) Axon",
+        "B) Dendrite",
+        "C) Cell body",
+        "D) Terminal button"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecef619677c4509e893a30062099c3e143df5d5f",
+      "sectionIndex": 1,
+      "question": "Neurotransmitters are:",
+      "options": [
+        "A) Electrical signals",
+        "B) Chemical messengers",
+        "C) Blood cells",
+        "D) Hormones only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06b5127535c19808ea6f4b1792bc1079a9d97fe3",
+      "sectionIndex": 1,
+      "question": "The frontal lobe is primarily responsible for:",
+      "options": [
+        "A) Vision",
+        "B) Hearing",
+        "C) Motor control and executive functions",
+        "D) Touch sensation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ce617a8caea233c0713477f7aa7cfa2cd65740dd",
+      "sectionIndex": 1,
+      "question": "The occipital lobe processes:",
+      "options": [
+        "A) Sound",
+        "B) Vision",
+        "C) Touch",
+        "D) Taste"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76d5121033332c3dc018890d9d0fdf7201bc458f",
+      "sectionIndex": 1,
+      "question": "The temporal lobe is associated with:",
+      "options": [
+        "A) Vision",
+        "B) Motor control",
+        "C) Hearing and language",
+        "D) Balance"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4cd221e0cd0dd43768a9c3f69933056fbb12b300",
+      "sectionIndex": 1,
+      "question": "The pituitary gland is often called:",
+      "options": [
+        "A) The master gland",
+        "B) The thinking gland",
+        "C) The emotional gland",
+        "D) The motor gland"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d91de6470c0be6238d28d54561c6d9f43eccadd2",
+      "sectionIndex": 2,
+      "question": "Classical conditioning was discovered by:",
+      "options": [
+        "A) B.F. Skinner",
+        "B) Ivan Pavlov",
+        "C) John Watson",
+        "D) Edward Thorndike"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82d0539ee37dde3a6be46d6d14aaefe0d04c16aa",
+      "sectionIndex": 2,
+      "question": "In Pavlov's experiment, the bell became a:",
+      "options": [
+        "A) Unconditioned stimulus",
+        "B) Conditioned stimulus",
+        "C) Unconditioned response",
+        "D) Natural response"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "082e39fb5a14f910818534376b9823726ef1dcf0",
+      "sectionIndex": 2,
+      "question": "Operant conditioning was developed by:",
+      "options": [
+        "A) Ivan Pavlov",
+        "B) John Watson",
+        "C) B.F. Skinner",
+        "D) Albert Bandura"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "63de815c96073f313d7a4ba8af88d508cb598a5c",
+      "sectionIndex": 2,
+      "question": "Positive reinforcement involves:",
+      "options": [
+        "A) Removing something pleasant",
+        "B) Adding something pleasant",
+        "C) Adding something unpleasant",
+        "D) Doing nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "878be7caf58d3ca95fcffd8793407be44125dcf9",
+      "sectionIndex": 2,
+      "question": "Negative reinforcement involves:",
+      "options": [
+        "A) Punishment",
+        "B) Removing something unpleasant",
+        "C) Adding something unpleasant",
+        "D) Ignoring behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab0a3231580598f91e9b5d7e024a4589e4c23821",
+      "sectionIndex": 2,
+      "question": "Extinction in conditioning occurs when:",
+      "options": [
+        "A) Reinforcement is increased",
+        "B) The conditioned stimulus is repeatedly presented without the unconditioned stimulus",
+        "C) New behaviors are learned",
+        "D) Punishment is applied"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67ad97aa062260b1a66237d8d40061a7715f0a57",
+      "sectionIndex": 2,
+      "question": "Thorndike's Law of Effect states that:",
+      "options": [
+        "A) All behavior is learned",
+        "B) Behaviors followed by satisfying consequences tend to be repeated",
+        "C) Learning occurs through observation",
+        "D) Conditioning is impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48decdacd3198a5451b81e7c17d3cbf7a15a1479",
+      "sectionIndex": 2,
+      "question": "Learning by watching others is called:",
+      "options": [
+        "A) Classical conditioning",
+        "B) Operant conditioning",
+        "C) Observational learning",
+        "D) Latent learning"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "beaa8f1548dbbaafaa1e628e65a2cc318bc0d232",
+      "sectionIndex": 2,
+      "question": "Albert Bandura is famous for his:",
+      "options": [
+        "A) Dog experiments",
+        "B) Bobo doll experiments",
+        "C) Rat experiments",
+        "D) Pigeon experiments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d8c936633949e3d1387fdf41b607cb507e3461e",
+      "sectionIndex": 2,
+      "question": "A reinforcement schedule where reward is given after every response is called:",
+      "options": [
+        "A) Fixed ratio",
+        "B) Variable ratio",
+        "C) Continuous reinforcement",
+        "D) Partial reinforcement"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ce01964b72ca84e32277e42e6a91b68b65e6f993",
+      "sectionIndex": 3,
+      "question": "Piaget's first stage of cognitive development is:",
+      "options": [
+        "A) Preoperational",
+        "B) Sensorimotor",
+        "C) Concrete operational",
+        "D) Formal operational"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cad1f4154af5230a1ff1eb5c3a5d0347c2f2f7f6",
+      "sectionIndex": 3,
+      "question": "Object permanence develops during which Piagetian stage?",
+      "options": [
+        "A) Sensorimotor",
+        "B) Preoperational",
+        "C) Concrete operational",
+        "D) Formal operational"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b80cfa653e532e73a24b31aefe1dc9fcc3209b5d",
+      "sectionIndex": 3,
+      "question": "According to Piaget, children can think abstractly in which stage?",
+      "options": [
+        "A) Sensorimotor",
+        "B) Preoperational",
+        "C) Concrete operational",
+        "D) Formal operational"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3cc18bd7aa775c9cdcd5ed786655c844b3c2d16d",
+      "sectionIndex": 3,
+      "question": "Erikson's theory focuses on:",
+      "options": [
+        "A) Cognitive development",
+        "B) Psychosocial development",
+        "C) Physical development",
+        "D) Language development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d688567b6e167dbdb0c62219401a13b2a10b851f",
+      "sectionIndex": 3,
+      "question": "The first stage in Erikson's theory is:",
+      "options": [
+        "A) Autonomy vs. Shame",
+        "B) Initiative vs. Guilt",
+        "C) Trust vs. Mistrust",
+        "D) Identity vs. Confusion"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "613e4b6d2805819c06a6945931d8d611158145bf",
+      "sectionIndex": 3,
+      "question": "\"Identity vs. Role Confusion\" occurs during:",
+      "options": [
+        "A) Infancy",
+        "B) Early childhood",
+        "C) Adolescence",
+        "D) Late adulthood"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5d2d36d9635222bb143fae0d65c56975e08470c7",
+      "sectionIndex": 3,
+      "question": "The Zone of Proximal Development was proposed by:",
+      "options": [
+        "A) Piaget",
+        "B) Vygotsky",
+        "C) Erikson",
+        "D) Kohlberg"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4041a0007418ff303508439b5819de51de628c08",
+      "sectionIndex": 3,
+      "question": "Critical periods in development refer to:",
+      "options": [
+        "A) Times of crisis",
+        "B) Optimal times for certain developments",
+        "C) Adolescence only",
+        "D) Old age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c740aa04b180aacd727d266fc39963116f33549",
+      "sectionIndex": 3,
+      "question": "Nature vs. nurture debate concerns:",
+      "options": [
+        "A) Indoor vs. outdoor activities",
+        "B) Genetics vs. environment in development",
+        "C) Urban vs. rural living",
+        "D) Modern vs. traditional values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1ff9d96863765ef882dbf9f571481af9c099e96",
+      "sectionIndex": 3,
+      "question": "Attachment theory was developed by:",
+      "options": [
+        "A) Piaget",
+        "B) Erikson",
+        "C) Bowlby",
+        "D) Freud"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9513ce732b4083296d4aa0a06c3d654b4a3983fd",
+      "sectionIndex": 4,
+      "question": "According to Freud, the personality component that operates on the pleasure principle is:",
+      "options": [
+        "A) Ego",
+        "B) Id",
+        "C) Superego",
+        "D) Consciousness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f01cadc7c6221368b0a15a220004f99ef6c55a0f",
+      "sectionIndex": 4,
+      "question": "The ego operates on the:",
+      "options": [
+        "A) Pleasure principle",
+        "B) Reality principle",
+        "C) Moral principle",
+        "D) No principle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d8521145459755290529112634ebc8b039126ca",
+      "sectionIndex": 4,
+      "question": "The superego represents:",
+      "options": [
+        "A) Basic desires",
+        "B) Reality testing",
+        "C) Moral standards and ideals",
+        "D) Defense mechanisms"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ef8aac62bacf6871f456fdf9a8433deaf7d86a06",
+      "sectionIndex": 4,
+      "question": "Freud's psychosexual stages include all EXCEPT:",
+      "options": [
+        "A) Oral",
+        "B) Anal",
+        "C) Genital",
+        "D) Trust"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b61ffebf2c3a1e0812c4bb31f04aed0c60bb84b9",
+      "sectionIndex": 4,
+      "question": "The Big Five personality traits include all EXCEPT:",
+      "options": [
+        "A) Openness",
+        "B) Intelligence",
+        "C) Conscientiousness",
+        "D) Neuroticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cb227cfd71ca2769d5ab52ddefced787ba7209c",
+      "sectionIndex": 4,
+      "question": "Carl Jung introduced the concepts of:",
+      "options": [
+        "A) Id, ego, superego",
+        "B) Introversion and extraversion",
+        "C) Classical conditioning",
+        "D) Hierarchy of needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3339e9bd34ec43c65298d67497f3f63a6a013d05",
+      "sectionIndex": 4,
+      "question": "The TAT (Thematic Apperception Test) is a:",
+      "options": [
+        "A) Intelligence test",
+        "B) Projective personality test",
+        "C) Achievement test",
+        "D) Aptitude test"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0723c3238b8b242d1a03c9cd2e84bb7a04ce2c72",
+      "sectionIndex": 4,
+      "question": "The Rorschach test uses:",
+      "options": [
+        "A) Multiple choice questions",
+        "B) Inkblots",
+        "C) Pictures of people",
+        "D) Word associations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "892209f8b6941fd3af348f33d2803aba85f4f570",
+      "sectionIndex": 4,
+      "question": "The MMPI is an example of:",
+      "options": [
+        "A) Projective test",
+        "B) Intelligence test",
+        "C) Objective personality test",
+        "D) Achievement test"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4fd52a6a28d4dab1fc6903e8ef93a8fe579e3eaf",
+      "sectionIndex": 4,
+      "question": "Defense mechanisms were proposed by:",
+      "options": [
+        "A) Carl Jung",
+        "B) Abraham Maslow",
+        "C) Sigmund Freud",
+        "D) B.F. Skinner"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "394c7e293ce5c0388d517c0555df5dbd350b92b2",
+      "sectionIndex": 5,
+      "question": "Maslow's hierarchy of needs places which need at the base?",
+      "options": [
+        "A) Self-actualization",
+        "B) Physiological needs",
+        "C) Love and belonging",
+        "D) Esteem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb1d684339fb15472274c7c6ebef90cfc1c4e278",
+      "sectionIndex": 5,
+      "question": "According to Maslow, the highest level of need is:",
+      "options": [
+        "A) Safety",
+        "B) Physiological",
+        "C) Self-actualization",
+        "D) Esteem"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c8bba47b3a7a67468876027263f50fb0aae56b4a",
+      "sectionIndex": 5,
+      "question": "Homeostasis refers to:",
+      "options": [
+        "A) Staying at home",
+        "B) Body's tendency to maintain balance",
+        "C) Lack of motivation",
+        "D) Emotional stability only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c54c9da08df70bfcb068ea2c655b17a5611e2905",
+      "sectionIndex": 5,
+      "question": "Intrinsic motivation comes from:",
+      "options": [
+        "A) External rewards",
+        "B) Internal satisfaction",
+        "C) Peer pressure",
+        "D) Authority figures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4427ca690e8728ead8d2e523ed90fcb863f1fc82",
+      "sectionIndex": 5,
+      "question": "Extrinsic motivation involves:",
+      "options": [
+        "A) Internal satisfaction",
+        "B) External rewards or pressures",
+        "C) No rewards",
+        "D) Biological needs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a8f47c6d95dcee6870f38372b76ef0aad201207",
+      "sectionIndex": 5,
+      "question": "The James-Lange theory of emotion states that:",
+      "options": [
+        "A) Emotion occurs before physical response",
+        "B) Physical response occurs before emotion",
+        "C) They occur simultaneously",
+        "D) Neither occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edd083b1a59914f45a60ca24e978624c03806678",
+      "sectionIndex": 5,
+      "question": "The Cannon-Bard theory proposes that emotion and physical response occur:",
+      "options": [
+        "A) Sequentially",
+        "B) Simultaneously",
+        "C) Randomly",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3c1f0efcaea839cb20c765e72cf91203058478a",
+      "sectionIndex": 5,
+      "question": "Basic emotions include all EXCEPT:",
+      "options": [
+        "A) Joy",
+        "B) Fear",
+        "C) Jealousy",
+        "D) Anger"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c2de851f208c494c114fb0fdabbdf5874a76a18e",
+      "sectionIndex": 5,
+      "question": "The facial feedback hypothesis suggests:",
+      "options": [
+        "A) Faces don't show emotion",
+        "B) Facial expressions can influence emotional experience",
+        "C) Emotions cause facial expressions only",
+        "D) Feedback is unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45a5cb5cf4361f9d88f626a82d8b777f0e29c1a3",
+      "sectionIndex": 5,
+      "question": "Which hormone is associated with stress?",
+      "options": [
+        "A) Insulin",
+        "B) Cortisol",
+        "C) Melatonin",
+        "D) Oxytocin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6727cd2799482db67aa711d0e7a25d460723487c",
+      "sectionIndex": 6,
+      "question": "Sensation refers to:",
+      "options": [
+        "A) Interpretation of stimuli",
+        "B) Detection of physical stimuli",
+        "C) Emotional response",
+        "D) Memory of stimuli"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "842aef7e729a41b366190b632a99214d1828e252",
+      "sectionIndex": 6,
+      "question": "Perception is:",
+      "options": [
+        "A) Same as sensation",
+        "B) The interpretation of sensory information",
+        "C) Only visual",
+        "D) Always accurate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcef0d6b39e04082784fb2527fd33567d3c2296c",
+      "sectionIndex": 6,
+      "question": "The absolute threshold is:",
+      "options": [
+        "A) Maximum stimulation tolerated",
+        "B) Minimum stimulation needed for detection",
+        "C) Difference between two stimuli",
+        "D) Pain threshold"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2bd92badd2af24a5bb29f8bb21385cd6e09130a",
+      "sectionIndex": 6,
+      "question": "Which sense is linked to the temporal lobe?",
+      "options": [
+        "A) Vision",
+        "B) Hearing",
+        "C) Touch",
+        "D) Taste"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80d8f98652ffacdd889ae19f8baa7545950a4466",
+      "sectionIndex": 6,
+      "question": "The blind spot in vision is where:",
+      "options": [
+        "A) The lens is located",
+        "B) The optic nerve connects to the retina",
+        "C) The cornea is damaged",
+        "D) Light cannot enter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2622864812af70b79a38f3397883acac3851f08",
+      "sectionIndex": 6,
+      "question": "Depth perception uses cues such as:",
+      "options": [
+        "A) Color only",
+        "B) Binocular and monocular cues",
+        "C) Sound",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "188db413917a6d6687c41549ebe80e34ad5e4cc2",
+      "sectionIndex": 6,
+      "question": "The Gestalt principle of proximity states that:",
+      "options": [
+        "A) Far objects appear smaller",
+        "B) Objects close together are perceived as a group",
+        "C) Similar objects are grouped",
+        "D) Incomplete figures are completed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6fb827528a70e08d671b5bb2a142fe8f65585ed",
+      "sectionIndex": 6,
+      "question": "Color blindness most commonly involves difficulty distinguishing:",
+      "options": [
+        "A) Black and white",
+        "B) Red and green",
+        "C) Blue and yellow",
+        "D) All colors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27ef42406ab5d7d61237d1cc5487e0ed567ca1e4",
+      "sectionIndex": 6,
+      "question": "The cocktail party effect demonstrates:",
+      "options": [
+        "A) Alcohol's effect on perception",
+        "B) Selective attention",
+        "C) Deafness",
+        "D) Social anxiety"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac1777dd2590cab44216d7f98fb7db4ce8dbf833",
+      "sectionIndex": 6,
+      "question": "Perceptual constancy refers to:",
+      "options": [
+        "A) Never changing perception",
+        "B) Perceiving objects as stable despite sensory changes",
+        "C) Always being wrong",
+        "D) Perfect vision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2708b2534371428141c391af4ae9af00795aa2e1",
+      "sectionIndex": 7,
+      "question": "The DSM stands for:",
+      "options": [
+        "A) Diagnostic and Statistical Manual",
+        "B) Disease and Symptom Manual",
+        "C) Disorder Screening Method",
+        "D) Diagnostic Syndrome Manual"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0a8bbb71de79535aac7b9c123748e743e3205dd7",
+      "sectionIndex": 7,
+      "question": "Anxiety disorders include all EXCEPT:",
+      "options": [
+        "A) Phobias",
+        "B) Panic disorder",
+        "C) Schizophrenia",
+        "D) Generalized anxiety disorder"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a157e0bc2e8b35175c1a9077f2425e8e054a40cc",
+      "sectionIndex": 7,
+      "question": "Major depressive disorder is classified as a:",
+      "options": [
+        "A) Anxiety disorder",
+        "B) Mood disorder",
+        "C) Personality disorder",
+        "D) Psychotic disorder"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "642ed023f84c6c98bae3dc8cdd5d7b676da0e9c2",
+      "sectionIndex": 7,
+      "question": "Schizophrenia is characterized by:",
+      "options": [
+        "A) Multiple personalities",
+        "B) Delusions and hallucinations",
+        "C) Only depression",
+        "D) Only anxiety"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ae107cb8390f289620022ff76df55ccc9acd7c3",
+      "sectionIndex": 7,
+      "question": "A phobia is:",
+      "options": [
+        "A) General anxiety",
+        "B) An irrational fear of a specific object or situation",
+        "C) Depression",
+        "D) Anger management issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d432627ef93ce03cd78ccc947e942062cc8cb5c0",
+      "sectionIndex": 7,
+      "question": "OCD stands for:",
+      "options": [
+        "A) Occasional Compulsive Disorder",
+        "B) Obsessive-Compulsive Disorder",
+        "C) Organized Classification Disorder",
+        "D) Overly Cautious Disorder"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aab2277ff78013ea68ad19dd2fac0447aa33b3a7",
+      "sectionIndex": 7,
+      "question": "Systematic desensitization is used to treat:",
+      "options": [
+        "A) Schizophrenia",
+        "B) Phobias",
+        "C) Bipolar disorder",
+        "D) Personality disorders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "747763f97d45230361a81eb7c24a2e4f6192aabb",
+      "sectionIndex": 7,
+      "question": "Cognitive-Behavioral Therapy focuses on:",
+      "options": [
+        "A) Unconscious conflicts",
+        "B) Changing thoughts and behaviors",
+        "C) Medication only",
+        "D) Dream analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6336f44f9aefb3b73464a6b971be4d6ed7b0f5e",
+      "sectionIndex": 7,
+      "question": "The placebo effect demonstrates:",
+      "options": [
+        "A) Medication always works",
+        "B) The power of expectation",
+        "C) Therapy doesn't work",
+        "D) Only pills cure disorders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "110b54d609e33e87e0e0459811ab6b928e3bfea5",
+      "sectionIndex": 7,
+      "question": "Psychosomatic disorders involve:",
+      "options": [
+        "A) Only mental symptoms",
+        "B) Physical symptoms with psychological causes",
+        "C) No real symptoms",
+        "D) Only physical causes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98250684112f5ac0134e7750bbac75074369ef33",
+      "sectionIndex": 8,
+      "question": "Social psychology studies:",
+      "options": [
+        "A) Individual personality only",
+        "B) How people influence and relate to one another",
+        "C) Animals in groups",
+        "D) Sociology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea08f0fa0e3fdfc3760b1f7fa53fe218a1000f6b",
+      "sectionIndex": 8,
+      "question": "Conformity is:",
+      "options": [
+        "A) Being unique",
+        "B) Adjusting behavior to match group standards",
+        "C) Leadership",
+        "D) Rebellion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f6831c401fe126aa1f0cef682c7217c3bb7ee31",
+      "sectionIndex": 8,
+      "question": "The Milgram experiment studied:",
+      "options": [
+        "A) Conformity",
+        "B) Obedience to authority",
+        "C) Group dynamics",
+        "D) Memory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "723985ae2cd885866f69d2100207fa94c60f8859",
+      "sectionIndex": 8,
+      "question": "Cognitive dissonance occurs when:",
+      "options": [
+        "A) Thoughts align perfectly",
+        "B) There's conflict between attitudes and behaviors",
+        "C) Memory fails",
+        "D) Learning occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e251a565764f4e16ec9be443dbd8fb391084d2b7",
+      "sectionIndex": 8,
+      "question": "Prejudice is:",
+      "options": [
+        "A) Fair judgment",
+        "B) Preconceived negative attitude",
+        "C) Positive bias",
+        "D) Accurate assessment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17df223cdaa0e402b4d470f95cc8e8371a9db97a",
+      "sectionIndex": 8,
+      "question": "The bystander effect shows that:",
+      "options": [
+        "A) People always help",
+        "B) People are less likely to help when others are present",
+        "C) Bystanders increase helping",
+        "D) Location doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b565b4cf7f1038ae05d605831aeff7a5d48f9c6a",
+      "sectionIndex": 8,
+      "question": "Social loafing refers to:",
+      "options": [
+        "A) Working harder in groups",
+        "B) Reduced effort in groups",
+        "C) Group leadership",
+        "D) Social anxiety"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66000e5ef36ec20966d733438f615045da5176be",
+      "sectionIndex": 8,
+      "question": "Attribution theory deals with:",
+      "options": [
+        "A) Giving credit",
+        "B) How we explain others' behavior",
+        "C) Group formation",
+        "D) Attitude change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9e330de487b25a5050fef8e5a59aeb15f986ce1",
+      "sectionIndex": 8,
+      "question": "The fundamental attribution error is:",
+      "options": [
+        "A) Always being wrong",
+        "B) Overemphasizing personality factors in others' behavior",
+        "C) Perfect attribution",
+        "D) Ignoring all factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d7f98412a4680fa079a584fde9d512f6f80ba66",
+      "sectionIndex": 8,
+      "question": "Stereotypes are:",
+      "options": [
+        "A) Always accurate",
+        "B) Oversimplified beliefs about groups",
+        "C) Individual assessments",
+        "D) Helpful categories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98b22f7d3193bfaecfb9bb7ac83e835ca2aab41c",
+      "sectionIndex": 9,
+      "question": "IQ stands for:",
+      "options": [
+        "A) Intelligence Quality",
+        "B) Intelligence Quotient",
+        "C) Internal Quality",
+        "D) Intellectual Query"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8b943b768b0d9fb7d78a9bae3dee1586cfa3a8c",
+      "sectionIndex": 9,
+      "question": "The first intelligence test was developed by:",
+      "options": [
+        "A) Wechsler",
+        "B) Binet",
+        "C) Gardner",
+        "D) Sternberg"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d5f03dd98e427ca275a43a81501e4d0192b5344",
+      "sectionIndex": 9,
+      "question": "Gardner proposed the theory of:",
+      "options": [
+        "A) General intelligence",
+        "B) Multiple intelligences",
+        "C) Emotional intelligence",
+        "D) Fluid intelligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13acd1788842ffa41f2baa07f96cd493dd2f5af2",
+      "sectionIndex": 9,
+      "question": "Emotional intelligence involves:",
+      "options": [
+        "A) Only IQ",
+        "B) Understanding and managing emotions",
+        "C) Academic ability",
+        "D) Physical strength"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2eb08ad4a5cc0984ad62b0768e52acc2690e91b",
+      "sectionIndex": 9,
+      "question": "Fluid intelligence refers to:",
+      "options": [
+        "A) Knowledge from experience",
+        "B) Ability to solve new problems",
+        "C) Language skills",
+        "D) Memory only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63e1c7188752f48f3a8b140abb92f31e219db048",
+      "sectionIndex": 9,
+      "question": "Crystallized intelligence involves:",
+      "options": [
+        "A) New problem solving",
+        "B) Accumulated knowledge and skills",
+        "C) Speed of processing",
+        "D) Reaction time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f4caa1dfda1db632e1616d3592748396d67fe1f",
+      "sectionIndex": 9,
+      "question": "A standardized test means:",
+      "options": [
+        "A) It's easy",
+        "B) It's administered and scored consistently",
+        "C) Everyone passes",
+        "D) It's not valid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58fd2b3452045c7b3f739ff2461478d71eabe1ab",
+      "sectionIndex": 9,
+      "question": "Test reliability refers to:",
+      "options": [
+        "A) Validity",
+        "B) Consistency of results",
+        "C) Difficulty",
+        "D) Length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d602e88964f0554547cd7ef84d136ab98cad4221",
+      "sectionIndex": 9,
+      "question": "Test validity means:",
+      "options": [
+        "A) It's reliable",
+        "B) It measures what it claims to measure",
+        "C) It's standardized",
+        "D) It's short"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfeb5a5add9b6fe605708b8fa909f99a0ce20ee7",
+      "sectionIndex": 9,
+      "question": "Norm-referenced tests compare individuals to:",
+      "options": [
+        "A) Themselves",
+        "B) A standard group",
+        "C) Perfect scores",
+        "D) No standard"
+      ],
+      "correct": "B"
+    }
+  ]
+}

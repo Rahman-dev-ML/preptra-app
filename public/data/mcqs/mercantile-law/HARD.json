@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T22:32:17.806Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "4e787a34761caed5fb1e01ab5f75ebad39dd77c9",
+      "sectionIndex": 0,
+      "question": "NAPE mistakenly notifies the wrong tenderer (X) instead of the rightful lowest bidder (Y) due to a typing error. X accepts. Y claims the contract. The legal position is:",
+      "options": [
+        "A) Contract with X is valid due to postal rule",
+        "B) No valid contract exists as consensus ad idem is absent between NAPE's intention and X's acceptance",
+        "C) Both X and Y have valid contracts",
+        "D) Contract vests in Y automatically"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f1826411c844319cbe6d63facad6591add79210",
+      "sectionIndex": 0,
+      "question": "Baber contracts for 50 computers with delivery by March 1. After repeated delays and assurances until May, he refuses final delivery. If the contract specified time as essence:",
+      "options": [
+        "A) Baber cannot refuse as he accepted delays",
+        "B) Baber's conduct waived the time clause, but he can refuse if reasonable notice given",
+        "C) Automatic termination occurred on March 1",
+        "D) Seller can force delivery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "618f780c0aeb83080b81a5fea174f8259dbba0b5",
+      "sectionIndex": 0,
+      "question": "Mr. Brown sells his car to Mr. Green who then discovers a better deal elsewhere. If Green refuses delivery claiming breach:",
+      "options": [
+        "A) Green can claim the price difference",
+        "B) Green has no claim as no loss from breach if he got a better deal",
+        "C) Brown must pay damages",
+        "D) Contract is frustrated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cc33c452fb3905946bc54acb2f48158a5925e91",
+      "sectionIndex": 0,
+      "question": "Contractors demand extra payment for building due to unexpected labor costs and threaten to stop work. The owner agrees under protest. This agreement is:",
+      "options": [
+        "A) Valid modification",
+        "B) Voidable due to economic duress",
+        "C) Void for past consideration",
+        "D) Binding commercial arrangement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2f5c95c6fae88feb20d004da055fd8929c9934d",
+      "sectionIndex": 0,
+      "question": "Mr. Zulfiqar is offered a professorship conditional on canceling his practicing license. He cancels it but is then refused employment. His remedy:",
+      "options": [
+        "A) No remedy as conditional offer",
+        "B) Damages for detrimental reliance/promissory estoppel",
+        "C) Specific performance",
+        "D) Criminal prosecution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7786d963ac71a07b48f3dfa3ad1a07c16aaddac",
+      "sectionIndex": 0,
+      "question": "Tanweer receives offer for washing machines from A (Rs.25,000) and B (Rs.23,000). He posts acceptance to B and tells A verbally he'll consider. B's letter is delayed. Meanwhile, A treats silence as acceptance and delivers. The legal position:",
+      "options": [
+        "A) Contract with A due to conduct",
+        "B) Contract with B when posted regardless of delay",
+        "C) Both contracts valid",
+        "D) No contract with either"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd7ef82081e3dc10fc5104c94571e9738f08faa1",
+      "sectionIndex": 0,
+      "question": "In a sale of seeds, extensive inspection reveals defects after delivery. If inspection was unreasonably prolonged:",
+      "options": [
+        "A) Buyer retains rejection right",
+        "B) Buyer deemed to have accepted by conduct",
+        "C) Seller must replace",
+        "D) Contract is void"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3993ead80c0410db9debdc30351460395b18e2a6",
+      "sectionIndex": 0,
+      "question": "A agrees to sell property to B. Unknown to both, government had acquired it under eminent domain. The contract is:",
+      "options": [
+        "A) Valid and damages payable",
+        "B) Void for mutual mistake as to existence of subject matter",
+        "C) Voidable at B's option",
+        "D) Frustrated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6487b0144a2bc9117a85feeca449ee588405ccc3",
+      "sectionIndex": 0,
+      "question": "Arif buys a used car based on salesperson's statement \"one-owner, excellent condition\" which proves false. Salesperson genuinely believed it true based on documents. This constitutes:",
+      "options": [
+        "A) Fraud requiring intent",
+        "B) Innocent misrepresentation allowing rescission",
+        "C) No remedy",
+        "D) Breach of condition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e630308dfc3525693e6773e802f460061d2c0778",
+      "sectionIndex": 0,
+      "question": "During negotiations, seller knows buyer needs goods for specific lucrative contract but doesn't disclose imminent law change banning such use. After sale, law changes. Buyer's position:",
+      "options": [
+        "A) No remedy due to caveat emptor",
+        "B) Rescission for fraudulent concealment of material fact",
+        "C) Frustration applies",
+        "D) Mistake of law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58cffb60aa182c1aae12f9ad6db42231c1afef5d",
+      "sectionIndex": 1,
+      "question": "Gama, Maja, and Billoo are partners. Gama retires with proper internal agreement but no public notice. Billoo orders goods using old letterhead showing all three names. Supplier seeks payment from:",
+      "options": [
+        "A) Billoo only",
+        "B) All three including retired Gama due to lack of public notice",
+        "C) Only continuing partners",
+        "D) No valid contract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5766daafef82a71e7199f4ad191f536827c0f446",
+      "sectionIndex": 1,
+      "question": "After Asif & Babar partnership dissolution, Asif uses old letterhead to order goods, adding \"dissolved\" in small print. Supplier doesn't notice the addition. Liability lies with:",
+      "options": [
+        "A) Asif alone for fraud",
+        "B) Both partners as dissolution notice insufficient",
+        "C) Neither as partnership ended",
+        "D) Supplier's negligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65d7e7abbfba9380bb4a29f118e381938679da0f",
+      "sectionIndex": 1,
+      "question": "In painters' partnership, employee negligently splashes paint on expensive carpet while partner diverts customer payments for gambling. The firm's liability:",
+      "options": [
+        "A) Only for employee's tort",
+        "B) For both employee's tort and partner's fraud in course of business",
+        "C) Neither as personal acts",
+        "D) Only if authorized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1e14919ed88d0799d441b8e3a073e57f8175f40",
+      "sectionIndex": 1,
+      "question": "Partnership deed allows expulsion by majority vote. Two partners expel third citing \"incompetence\" but real reason is to acquire his share cheaply. The expulsion is:",
+      "options": [
+        "A) Valid if procedure followed",
+        "B) Void for bad faith/improper motive",
+        "C) Voidable at expelled partner's option",
+        "D) Subject to arbitration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a08e3f8ed588ff8a9e42a55123ac5c9d53577f29",
+      "sectionIndex": 1,
+      "question": "A partner commits to arbitration without consulting others, waiving firm's strong legal claim. The arbitration agreement:",
+      "options": [
+        "A) Binds the firm as within apparent authority",
+        "B) Void as beyond implied authority without consent",
+        "C) Binds only that partner",
+        "D) Valid if registered"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3712f1a3b9e3f6404b3c9df5a93a33804c41f11b",
+      "sectionIndex": 1,
+      "question": "Partnership property includes a lease. One partner secretly negotiates new lease in personal name when old expires. The new lease:",
+      "options": [
+        "A) Belongs to partner",
+        "B) Held in constructive trust for firm",
+        "C) Void lease",
+        "D) Firm has no claim"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63cd59a800cc99fcee803d84a9add8eb2a594813",
+      "sectionIndex": 1,
+      "question": "Retiring partner agrees to non-compete but continues advising old clients without charge. When firm sues, the legal position:",
+      "options": [
+        "A) No breach as no payment",
+        "B) Breach regardless of gratuitous nature",
+        "C) Valid competition",
+        "D) Depends on client choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcbd17e8932fa9fcba799fe3cf380fb4e3c004d5",
+      "sectionIndex": 1,
+      "question": "Minor admitted to partnership benefits becomes major but doesn't give notice within 6 months. Subsequently, firm incurs huge debt. Minor's position:",
+      "options": [
+        "A) Not liable as minor when admitted",
+        "B) Fully liable as failed to give notice",
+        "C) Liable only for benefits received",
+        "D) Can still give notice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abecd7988f4fd68a8bf993138efc2dc46c89a9b1",
+      "sectionIndex": 1,
+      "question": "Partners agree to submit disputes to arbitration. One partner bribes arbitrator. Other partner discovers this after adverse award. Remedy available:",
+      "options": [
+        "A) No remedy after award",
+        "B) Court can set aside for arbitrator misconduct",
+        "C) Only fresh arbitration",
+        "D) Award remains binding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dc8f31b18dd8198851c6b73819287f7384cb251",
+      "sectionIndex": 1,
+      "question": "Dormant partner's identity discovered by third party who then extends credit. When firm defaults, dormant partner claims no liability:",
+      "options": [
+        "A) Valid claim as dormant",
+        "B) Liable once identity known and credit extended",
+        "C) Never liable",
+        "D) Liable only if participated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c19bab1630ba8f0903f2d6c4337b8b53ac44ebcc",
+      "sectionIndex": 2,
+      "question": "Company's memorandum authorizes \"trading in goods.\" Directors use profits to build dam claiming it's for \"hydroelectric power for factory.\" This is:",
+      "options": [
+        "A) Valid as incidental to main object",
+        "B) Ultra vires unless fairly incidental to trading",
+        "C) Valid business judgment",
+        "D) Ratifiable by shareholders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "283d4fd333b16285b729ab06fc498ef950f0577b",
+      "sectionIndex": 2,
+      "question": "Promoter contracts for company before incorporation without disclosing non-existence. After incorporation, company uses benefits but denies liability. Legal position:",
+      "options": [
+        "A) Company automatically liable",
+        "B) Company liable by conduct/implied adoption",
+        "C) Only promoter liable",
+        "D) Contract void"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a34663d37969ea455b1a8d86b89aae3ecbe40465",
+      "sectionIndex": 2,
+      "question": "Articles require special notice for removing director. Director removed without notice claims wrongful removal. Company argues business judgment. Court will:",
+      "options": [
+        "A) Not interfere in management",
+        "B) Invalidate removal for procedural breach",
+        "C) Order damages only",
+        "D) Refer to arbitration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb543041514797907a959c7bf20825f365eea883",
+      "sectionIndex": 2,
+      "question": "Company issues shares to X. Y claims pre-emption rights under articles were violated. X is bona fide purchaser without notice. The share transfer:",
+      "options": [
+        "A) Void absolutely",
+        "B) Valid to X but company/directors liable to Y",
+        "C) Voidable at Y's option",
+        "D) Subject to rectification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b918726bd6f9617667bd3804db0df78a833e3942",
+      "sectionIndex": 2,
+      "question": "Directors enter major contract without required board resolution. Third party unaware of internal requirement. Under indoor management rule:",
+      "options": [
+        "A) Contract void",
+        "B) Company bound, directors personally liable",
+        "C) Third party should have checked",
+        "D) Ratification required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ae0bda10a9375870f0784d82239dfd81df2ebd1",
+      "sectionIndex": 2,
+      "question": "Subsidiary company is used to circumvent parent's legal obligations. Creditors seek to pierce corporate veil. Court will examine:",
+      "options": [
+        "A) Separate incorporation conclusive",
+        "B) Whether subsidiary is mere facade/agent",
+        "C) Only fraud cases",
+        "D) Never pierce veil"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81ea3555013843be71e02470f7fc539b03e11a97",
+      "sectionIndex": 2,
+      "question": "Company alters objects clause to enter new business. Minority shareholders claim oppression as this devalues their investment. The alteration:",
+      "options": [
+        "A) Valid if procedure followed",
+        "B) Can be challenged if unfairly prejudicial",
+        "C) Always valid",
+        "D) Business decision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd4ccfabc476e4180bc01f0cacd2f1ebe6b235da",
+      "sectionIndex": 2,
+      "question": "Director uses inside information to trade in company shares through spouse's account. When caught, claims no personal trading. Legal position:",
+      "options": [
+        "A) No liability",
+        "B) Liable for insider trading despite indirect route",
+        "C) Only spouse liable",
+        "D) Internal matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba53279c73fe4dda4426fea49bf6ddd1bd1191c2",
+      "sectionIndex": 2,
+      "question": "Company in financial distress. Directors prefer related party creditors before declaring insolvency. Other creditors challenge. The payments:",
+      "options": [
+        "A) Valid if debts genuine",
+        "B) Voidable as fraudulent preference",
+        "C) Commercial decision",
+        "D) Only immoral"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e412ee2033ffb14f38471ce18eb8961a6ce2b31",
+      "sectionIndex": 2,
+      "question": "Two companies share directors who cause first to sell assets below value to second. Minority shareholders of first company:",
+      "options": [
+        "A) No remedy against second company",
+        "B) Can pursue both companies and directors",
+        "C) Only derivative action",
+        "D) Must sell shares"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2168ca9f66eafdbce461e8978f7a76fd22c3416d",
+      "sectionIndex": 3,
+      "question": "Jamal steals bearer cheque, forges endorsement (unnecessary for bearer), and transfers to innocent Kamal who gives value. Bank dishonors citing theft. Kamal's position:",
+      "options": [
+        "A) No rights due to theft",
+        "B) Valid holder as bearer instrument transferable by delivery",
+        "C) Must trace Jamal",
+        "D) Bank liable for disclosure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4046dacdfbb55c6d95a1d10fdc87ea1c2b1d050f",
+      "sectionIndex": 3,
+      "question": "Bill of exchange accepted by drawee. Before maturity, acceptor adds \"subject to goods being satisfactory.\" Holder claims this invalidates acceptance. Legal position:",
+      "options": [
+        "A) Conditional acceptance valid",
+        "B) Material alteration voids instrument",
+        "C) Holder can treat as dishonored",
+        "D) Both B and C correct"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7fb7614144975e48837bcd358320d77c00957405",
+      "sectionIndex": 3,
+      "question": "A draws bill on B payable to C. C endorses to D, who endorses to E. E alters amount and negotiates to F (holder in due course). F's rights:",
+      "options": [
+        "A) Can recover nothing",
+        "B) Can recover original amount from parties before alteration",
+        "C) Can recover altered amount from E",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5843083d07d1432af018c52c520a1849752d4770",
+      "sectionIndex": 3,
+      "question": "Accommodation bill drawn by A on B for B's benefit. B negotiates to C mentioning accommodation nature. C negotiates to D without disclosure. D's rights against A:",
+      "options": [
+        "A) None as accommodation",
+        "B) Full rights as holder in due course",
+        "C) Only if D unaware",
+        "D) Rights subject to proof of consideration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3963ac39f8e75d8c69b7f341849592797f0f1f84",
+      "sectionIndex": 3,
+      "question": "Cheque dated Sunday presented on Monday. Bank refuses citing \"impossible date.\" Legal position:",
+      "options": [
+        "A) Cheque void",
+        "B) Valid as presumed dated previous/next day",
+        "C) Requires drawer confirmation",
+        "D) Bank correct"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd8fc2a2d5fc551dd3ad435e94b7b385269d5353",
+      "sectionIndex": 3,
+      "question": "Series of post-dated cheques given. Drawer dies after first encashed but before others presented. Bank's duty:",
+      "options": [
+        "A) Must honor all",
+        "B) Cannot honor after notice of death",
+        "C) Only if funds sufficient",
+        "D) Executor decides"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d0d1f37a0366a60d0039cac7fcc63d6239f67c2",
+      "sectionIndex": 3,
+      "question": "Foreign bill dishonored. Holder immediately returns home without protesting. Seeks to sue drawer. Drawer's defense:",
+      "options": [
+        "A) No defense",
+        "B) Failure to protest foreign bill discharges drawer",
+        "C) Only partial discharge",
+        "D) Must still pay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a32616d1f1e52f25c0763eca333faebd2e375ff",
+      "sectionIndex": 3,
+      "question": "Cheque crossing states \"Account Payee Only\" but transferred through endorsements. Final holder presents. Bank's position:",
+      "options": [
+        "A) Must pay holder",
+        "B) Cannot pay except to original payee's account",
+        "C) Crossing invalid",
+        "D) Endorsements override"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2245c70a9756358966af425e5854b055a6e4c0c8",
+      "sectionIndex": 3,
+      "question": "Minor draws promissory note for education loan. On majority, claims no liability. Legal position:",
+      "options": [
+        "A) Note void ab initio",
+        "B) Voidable but necessaries exception may apply",
+        "C) Always binding",
+        "D) Ratification implied"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6cf28408091715888cbbab3221071d8da83a188",
+      "sectionIndex": 3,
+      "question": "Bill payable at bank. Presented day before maturity. Bank refuses saying \"present on due date.\" Holder treats as dishonored. Legal effect:",
+      "options": [
+        "A) Premature dishonor",
+        "B) Valid dishonor excusing notice",
+        "C) Must represent",
+        "D) Holder wrong"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a6763e6d03b1b27262805e07c1fffc4c7fa1779",
+      "sectionIndex": 4,
+      "question": "Seller delivers goods knowing buyer's intended illegal use but says nothing. Buyer later claims refund when caught. Legal position:",
+      "options": [
+        "A) Buyer gets refund",
+        "B) No remedy as seller not party to illegality",
+        "C) Contract void",
+        "D) Seller liable as accomplice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "353a2a5a78602b1f24bd91c34168cef7879fceb8",
+      "sectionIndex": 4,
+      "question": "Sale \"subject to satisfactory survey.\" Buyer delays survey for months then rejects citing defects. Seller claims waiver. Court will examine:",
+      "options": [
+        "A) Absolute right to survey",
+        "B) Whether delay indicates acceptance/waiver",
+        "C) Survey results only",
+        "D) Price determines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbfce1309f1543f65cf9d0c294c0e982b471e30d",
+      "sectionIndex": 4,
+      "question": "Goods sold \"as per sample\" with additional description \"finest quality.\" Goods match sample but not \"finest.\" Buyer's rights:",
+      "options": [
+        "A) No remedy if matches sample",
+        "B) Can reject for breach of description",
+        "C) Only price reduction",
+        "D) Depends on sample quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb9f77a8032374b693c14614b0226768e86331ed",
+      "sectionIndex": 4,
+      "question": "CIF contract where goods destroyed after shipment but before payment. Seller tenders documents. Buyer refuses citing destruction. Legal position:",
+      "options": [
+        "A) Buyer can refuse",
+        "B) Must pay against conforming documents",
+        "C) Frustration applies",
+        "D) Seller bears loss"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce65fd1bcc72733f3faf58aa2406661450507f8b",
+      "sectionIndex": 4,
+      "question": "Buyer inspects goods, notes minor defects, takes delivery saying \"subject to adjustment.\" Later rejects for same defects. Legal position:",
+      "options": [
+        "A) Valid rejection",
+        "B) Acceptance with known defects waives rejection",
+        "C) Only damages claimable",
+        "D) Depends on adjustment meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7291436e30ed446ee57fbc576b4ab87e1897d085",
+      "sectionIndex": 4,
+      "question": "Unpaid seller exercises lien. Buyer becomes insolvent. Liquidator demands delivery claiming lien lost. Seller's position:",
+      "options": [
+        "A) Must deliver",
+        "B) Lien continues despite insolvency",
+        "C) Only proved in liquidation",
+        "D) Lien converts to damages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b674cfac0a599df4bb63d53358a6f17195ff8f8",
+      "sectionIndex": 4,
+      "question": "Seller retains title until payment but allows buyer possession for retail sale. Buyer sells to innocent customer then defaults. Original seller claims goods from customer:",
+      "options": [
+        "A) Valid claim",
+        "B) Customer gets good title as buyer in possession",
+        "C) Depends on registration",
+        "D) Customer liable for conversion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfd0515ed1e8ec25d6ee95ec796a5b4fa5601610",
+      "sectionIndex": 4,
+      "question": "Software sold with shrink-wrap license visible only after purchase. Terms exclude all warranties. Defect causes data loss. Warranty exclusion:",
+      "options": [
+        "A) Valid as industry practice",
+        "B) Ineffective as not part of sale contract",
+        "C) Depends on visibility",
+        "D) Always valid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b81748813d854ba3cb002b465bbeb88660e4e4d",
+      "sectionIndex": 4,
+      "question": "Auctioneer announces \"without reserve\" but withdraws lot when bidding low. Highest bidder sues. Legal position:",
+      "options": [
+        "A) No contract until hammer",
+        "B) Breach of contract with highest bidder",
+        "C) Only damages",
+        "D) Auctioneer's discretion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c123491b1480cd9e1341662653143245fba47a12",
+      "sectionIndex": 4,
+      "question": "Goods delivered in installments. First two accepted, third defective. Buyer rejects entire contract. Seller claims only third installment rejectable:",
+      "options": [
+        "A) Buyer correct",
+        "B) Depends if defect goes to whole contract",
+        "C) Only third rejectable",
+        "D) All accepted by conduct"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "293126171bea39e1b0a895151f20fa9c67bbbe5f",
+      "sectionIndex": 5,
+      "question": "Arbitration clause states \"all disputes.\" Party claims tort of negligence outside contract. Arbitrability depends on:",
+      "options": [
+        "A) Only contract claims covered",
+        "B) Whether tort claim relates to contractual relationship",
+        "C) Court decides",
+        "D) No arbitration for torts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee5629739e725142461eac6ee4d6484b4773c073",
+      "sectionIndex": 5,
+      "question": "Arbitrator decides case on \"equity and good conscience\" without parties' agreement for such approach. Award is:",
+      "options": [
+        "A) Valid discretion",
+        "B) Liable to be set aside for legal error",
+        "C) Better justice",
+        "D) Depends on result"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae9724667efc445f4d4a726910cf8f30a40e8e07",
+      "sectionIndex": 5,
+      "question": "During arbitration, criminal allegations surface. Arbitrator continues and awards damages. Party claims criminal aspects need court. Legal position:",
+      "options": [
+        "A) Arbitrator cannot touch criminal aspects",
+        "B) Can decide civil aspects despite criminal overlap",
+        "C) Entire award void",
+        "D) Police permission needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e892df2ba667ef0281b9b0807df367abb71c915b",
+      "sectionIndex": 5,
+      "question": "Three arbitrators. Two sign award, third refuses claiming improper consultation. Award's validity:",
+      "options": [
+        "A) Invalid without all signatures",
+        "B) Valid if majority properly consulted",
+        "C) Requires umpire",
+        "D) Court must decide"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bc98562ed3b92561369b81c3e396b7ff97fedef",
+      "sectionIndex": 5,
+      "question": "Arbitration award contains speaking order revealing arbitrator met one party privately. Other party discovers through award itself. Remedy:",
+      "options": [
+        "A) No remedy as award final",
+        "B) Set aside for apparent bias/misconduct",
+        "C) Only if prejudice proved",
+        "D) New arbitration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3bb5bc017e0c9587192ebce4a80cc1dc9c07669",
+      "sectionIndex": 5,
+      "question": "Party challenges arbitrator appointment after participating fully and losing. Claims arbitrator was contractually disqualified. Court's approach:",
+      "options": [
+        "A) Technical defect voids award",
+        "B) Waiver by participation without objection",
+        "C) Always hear challenge",
+        "D) Depends on disqualification type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcc1b3c11a0f3625a7c4649b9dd14f38343a9c82",
+      "sectionIndex": 5,
+      "question": "Arbitration agreement requires reasoned award. Arbitrator gives one-line decision. Losing party challenges. Court will:",
+      "options": [
+        "A) Accept any award",
+        "B) Remit for reasons or set aside",
+        "C) Court cannot interfere",
+        "D) Substitute reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0f3e4de79621fcc2000c673faa0d71ad20eb965",
+      "sectionIndex": 5,
+      "question": "International arbitration award requires enforcement locally. Defendant claims against public policy citing tax evasion. Court examines:",
+      "options": [
+        "A) All illegalities void award",
+        "B) Only if fundamental public policy violation",
+        "C) Tax matters separate",
+        "D) Cannot review foreign award"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac9a8cfcbd1f7d373a75a4cae009097d172b43f4",
+      "sectionIndex": 5,
+      "question": "Arbitrator awards specific performance of property sale. Defendant claims arbitrators cannot grant equitable relief. Legal position:",
+      "options": [
+        "A) Only courts grant equitable relief",
+        "B) Arbitrators have full civil court powers unless excluded",
+        "C) Only damages allowed",
+        "D) Depends on property type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c6b1a4bfb52e2ce840d67d2f8fa25f2d5d38a5b",
+      "sectionIndex": 5,
+      "question": "Death of sole arbitrator after hearing but before award. Legal effect:",
+      "options": [
+        "A) Proceedings void",
+        "B) Fresh arbitration unless parties agree otherwise",
+        "C) Court completes",
+        "D) Legal representative continues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "125ca5f1ca0213f935e1f2f9064b004e6721e7a3",
+      "sectionIndex": 6,
+      "question": "Agent authorized to sell property but not below Rs.1 million. Sells for Rs.900,000 to buyer who knows limitation but agent says \"principal desperately needs money.\" Principal's position:",
+      "options": [
+        "A) Bound by sale",
+        "B) Can repudiate as buyer knew limitation",
+        "C) Only damages from agent",
+        "D) Depends on actual need"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7aef6e71d67930293a2d4ab4f877392c9b5d92b0",
+      "sectionIndex": 6,
+      "question": "Del credere agent guarantees buyer's payment. Buyer defaults citing defective goods. Agent's liability:",
+      "options": [
+        "A) None if goods defective",
+        "B) Absolute as del credere",
+        "C) Only if agent at fault",
+        "D) Reduced liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af3454a3191aad87497a1654a1cdcd43a1c334f0",
+      "sectionIndex": 6,
+      "question": "Company director purports to act as agent in personal capacity. Third party deals thinking director acts officially. Company benefits. Legal position:",
+      "options": [
+        "A) Director personally liable",
+        "B) Company liable by conduct/ratification",
+        "C) No valid contract",
+        "D) Third party's mistake"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cdc2d168398b1906b5ce93bf168b7b7adbd013e",
+      "sectionIndex": 6,
+      "question": "Agent secretly acts for both buyer and seller in property deal without disclosure. Discovers fraud and reports to both. Commission claim:",
+      "options": [
+        "A) Entitled from both",
+        "B) Forfeits all rights due to breach of fiduciary duty",
+        "C) One commission only",
+        "D) Court discretion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be7b5c1d7243057d75301e91c76beac9c9fb7676",
+      "sectionIndex": 6,
+      "question": "Power of attorney authorizes \"all acts except sale.\" Agent mortgages property saying it's not a sale. Mortgagee seeks enforcement. Principal's defense:",
+      "options": [
+        "A) Mortgage different from sale",
+        "B) Mortgage beyond authority as substantively similar",
+        "C) Only damages",
+        "D) Ratification implied"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "161ddf4a40774496bdf10995d625efafa50c712f",
+      "sectionIndex": 6,
+      "question": "Agent instructed to buy goods \"at best price.\" Buys from relative at higher price without disclosure. Principal discovers after using goods. Remedy:",
+      "options": [
+        "A) No remedy after use",
+        "B) Secret profit recoverable despite use",
+        "C) Only future termination",
+        "D) Adjustment in price"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f65f16451610b87271a7a31d8968f41fa64ddc7a",
+      "sectionIndex": 6,
+      "question": "Insurance agent fills form incorrectly despite correct information from client. Claim rejected for misstatement. Client's recourse:",
+      "options": [
+        "A) No insurance coverage",
+        "B) Agent/insurer liable as agent's knowledge imputed",
+        "C) Only agent liable",
+        "D) Client should have checked"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbd2e2f41c3ad28746d52f56af944cbe4a92d339",
+      "sectionIndex": 6,
+      "question": "Estate agent introduces buyer but deal completes months later through different agent. First agent claims commission. Entitlement depends on:",
+      "options": [
+        "A) Who completed sale",
+        "B) Whether introduction was effective cause",
+        "C) Time gap defeats claim",
+        "D) Written agreement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8a2af655e902108691f8d45283a947168cb3c9d",
+      "sectionIndex": 6,
+      "question": "Agent with authority to collect cash deposits cheques in personal account then absconds. Principal sues bank. Bank's liability:",
+      "options": [
+        "A) None as agent's act",
+        "B) Liable if collected irregularly inconsistent with authority",
+        "C) Account holder's name determines",
+        "D) Principal's negligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fe89418b1ff27737e78b18d5f6312f18085540b",
+      "sectionIndex": 6,
+      "question": "Minor acts as agent, contracts on principal's behalf. Third party later discovers minority and claims no liability. Legal position:",
+      "options": [
+        "A) Contract void",
+        "B) Principal bound, minor agent not personally liable",
+        "C) Third party can choose",
+        "D) Ratification needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9622d99f27dd80e0020648abe0cf7d16afe5ba4",
+      "sectionIndex": 7,
+      "question": "Life insurance policy taken with deliberate misstatement of age. Insured dies after 10 years. Insurer discovers misstatement. Legal position:",
+      "options": [
+        "A) Policy void ab initio",
+        "B) Proportionate adjustment based on correct premium",
+        "C) No claim payable",
+        "D) Full claim stands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1f44f4d1eb5db78354eb4972592c8c43fddbb10",
+      "sectionIndex": 7,
+      "question": "Divorced wife beneficiary in husband's policy. Husband remarries but doesn't change beneficiary, then dies. Both wives claim. Legal position:",
+      "options": [
+        "A) Automatic revocation on divorce",
+        "B) Depends on policy terms and jurisdiction",
+        "C) Second wife prevails",
+        "D) Equal division"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a8ebd2ce9b429c49a490bbc46cc844474b790af",
+      "sectionIndex": 7,
+      "question": "Marine insurance on goods. Ship deviates from route for crew emergency then sinks. Insurer denies claim citing deviation. Legal position:",
+      "options": [
+        "A) Any deviation voids cover",
+        "B) Justified deviation for emergency doesn't void",
+        "C) Only planned route covered",
+        "D) Partial coverage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bddf51f9c8e6161eb7cc82aab7f71f555b117e0",
+      "sectionIndex": 7,
+      "question": "Fire insurance excludes \"riot damage.\" During political protest, miscreants set fire. Insurer denies citing exclusion. Insured's argument:",
+      "options": [
+        "A) All fires covered",
+        "B) Proximate cause is fire, not riot",
+        "C) Riot not proved",
+        "D) Exclusion invalid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "917bf2a1117303f427ba986349c6df9615aaf35d",
+      "sectionIndex": 7,
+      "question": "Competition Commission finds pharmaceutical companies exchanging pricing information through trade association. Companies claim efficiency. Legal assessment:",
+      "options": [
+        "A) Information exchange always legal",
+        "B) Object or effect of restricting competition",
+        "C) Only if prices fixed",
+        "D) Trade associations exempt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "884d03d327311f0956fefb119c76b56e67ce3b53",
+      "sectionIndex": 7,
+      "question": "Dominant e-commerce platform offers deep discounts forcing competitors out then raises prices. Competition law violation:",
+      "options": [
+        "A) Business strategy",
+        "B) Predatory pricing abuse",
+        "C) Only if monopoly",
+        "D) Consumer benefited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ffd1c5b3f32e689f75e8274be49ed71f830261c",
+      "sectionIndex": 7,
+      "question": "Merger creates 60% market share. Parties claim efficiency gains. Commission's test:",
+      "options": [
+        "A) Market share conclusive",
+        "B) Substantial lessening of competition despite efficiencies",
+        "C) Efficiency always prevails",
+        "D) Consumer prices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c51203ba77c18c037bd3d5c7a7ea6b3f816fa16",
+      "sectionIndex": 7,
+      "question": "Exclusive dealing arrangement between manufacturer and distributors. New entrant complains. Assessment considers:",
+      "options": [
+        "A) Freedom of contract",
+        "B) Foreclosure effect on competition",
+        "C) Only if 100% exclusive",
+        "D) Distributors' choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eed7295161e7f669baedf53a5b8cecc55ad26c3c",
+      "sectionIndex": 7,
+      "question": "Cartel participant provides evidence under leniency. Later withdraws cooperation citing threats. Commission's response:",
+      "options": [
+        "A) Must protect witness",
+        "B) Can revoke leniency for non-cooperation",
+        "C) Leniency irrevocable",
+        "D) Criminal matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29429a9aa34d2b1fd602ac71c43e58ff46a7cfca",
+      "sectionIndex": 7,
+      "question": "Hub-and-spoke conspiracy where manufacturer coordinates pricing through vertical agreements with retailers. Legal analysis:",
+      "options": [
+        "A) Only horizontal agreements illegal",
+        "B) Vertical agreements facilitating horizontal conspiracy",
+        "C) Each agreement separate",
+        "D) Manufacturer innocent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd927652c199299dff00c6e2ffb5d0bbe4793a77",
+      "sectionIndex": 8,
+      "question": "Smart contract automatically executes payment on blockchain. Coding error causes overpayment. Recovery depends on:",
+      "options": [
+        "A) No recovery in blockchain",
+        "B) Legal remedies exist despite automation",
+        "C) Programmer liability only",
+        "D) Risk accepted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce7c0f4acdc6f639c742981d2bc97065e8c60360",
+      "sectionIndex": 8,
+      "question": "Digital signature certificate expired day before crucial contract signed. Discovered after performance. Contract validity:",
+      "options": [
+        "A) Void for invalid signature",
+        "B) Technical defect, substantial compliance suffices",
+        "C) Voidable only",
+        "D) Fresh signature needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9eac41781fd88ff2097ab99013a6cc6e48a3fc5f",
+      "sectionIndex": 8,
+      "question": "AI system authorized to make routine purchases exceeds parameters buying expensive items. Company denies liability. Legal position:",
+      "options": [
+        "A) No agency for AI",
+        "B) Ostensible authority if held out as agent",
+        "C) Programmer liable",
+        "D) No valid contracts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07f675880c0810e4117cc883b52c9fb0545ddefb",
+      "sectionIndex": 8,
+      "question": "Cryptocurrency payment made for goods. Value crashes before delivery. Seller demands extra payment or cancellation. Buyer's position:",
+      "options": [
+        "A) Must pay extra",
+        "B) Risk of value change on seller after payment",
+        "C) Frustrated contract",
+        "D) Renegotiation required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e0195c9fe619147eb4999e3468ba15b76d4200d",
+      "sectionIndex": 8,
+      "question": "Terms of service updated on website with clause \"continued use implies acceptance.\" Major arbitration clause added. User unaware but continues. Binding effect:",
+      "options": [
+        "A) Always binding",
+        "B) Depends on reasonable notice of material changes",
+        "C) Website owner's right",
+        "D) Usage implies agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c76f691a1347a1adc2daaf3e89a05ccf51a55404",
+      "sectionIndex": 8,
+      "question": "Intermediary platform's algorithm promotes defamatory content about business. Business sues platform. Platform claims mere conduit. Liability:",
+      "options": [
+        "A) Complete immunity",
+        "B) Loses immunity if algorithm actively promotes",
+        "C) Only poster liable",
+        "D) No online liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c7b709e3d78116783937e7d7af08564ce752e6f",
+      "sectionIndex": 8,
+      "question": "Cross-border data transfer violates local privacy laws. Contract has foreign jurisdiction clause. Local authorities act. Legal position:",
+      "options": [
+        "A) Contract prevails",
+        "B) Mandatory local law overrides contract",
+        "C) International arbitration",
+        "D) No jurisdiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82bc7f3fc0ff19b7ca83dc382de8179818d4dfbd",
+      "sectionIndex": 8,
+      "question": "Electronic auction glitch allows bid after closing time which appears highest. Auctioneer refuses honoring citing rules. Bidder's claim:",
+      "options": [
+        "A) Technical rules absolute",
+        "B) Promissory estoppel if relied on display",
+        "C) No valid bid",
+        "D) Damages only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c02c31d619fcfd9049e455d18ed35d5851b66424",
+      "sectionIndex": 8,
+      "question": "Ransomware attack during electronic fund transfer. Hacker diverts funds. Bank claims customer's weak security. Liability:",
+      "options": [
+        "A) Customer bears all loss",
+        "B) Depends on security standards and notification",
+        "C) Bank absolutely liable",
+        "D) Insurance only remedy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0bb8595da16456f7611aca1c3a78bcf58793dc27",
+      "sectionIndex": 8,
+      "question": "NFT sold representing digital art. Buyer discovers seller had no rights to underlying art. NFT ownership versus art rights:",
+      "options": [
+        "A) NFT includes all rights",
+        "B) Separate rights requiring specific transfer",
+        "C) Fraud voids everything",
+        "D) Blockchain record conclusive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f444ecf54bac06124c29134e0f41d941a8193de",
+      "sectionIndex": 9,
+      "question": "Partnership, company, and agency issues converge: Partners form company, one acts beyond authority committing company, claims partnership liable. Analysis:",
+      "options": [
+        "A) Separate entities conclusive",
+        "B) Piercing veil if company is partnership's alter ego",
+        "C) Only acting partner liable",
+        "D) Company shields partnership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d3a8043690718a83df4bc38036451f2945f42bb",
+      "sectionIndex": 9,
+      "question": "Sale, negotiable instrument, and fraud: Buyer gives post-dated cheque for goods. Stops payment claiming fraud. Seller negotiated cheque to holder in due course. Multiple claims:",
+      "options": [
+        "A) Holder prevails absolutely",
+        "B) Holder's rights subject to fraud defense availability",
+        "C) Sale issues separate",
+        "D) Criminal matter only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e224c30353ce6431320ec0b0d9215380ef4f31a7",
+      "sectionIndex": 9,
+      "question": "Insurance, arbitration, and limitation: Policy requires arbitration within one year of loss. Claim filed after 11 months, arbitration begins after year. Insurer claims time-bar:",
+      "options": [
+        "A) Arbitration filing suffices",
+        "B) Award must be within limitation",
+        "C) Limitation suspended",
+        "D) Court decides"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2f4ddac032513e9d11d0977e1389c0434b7eb085",
+      "sectionIndex": 9,
+      "question": "Company, contract, and competition: Directors of competing companies agree market division through their companies. Companies claim directors exceeded authority. Competition violation:",
+      "options": [
+        "A) Companies not liable",
+        "B) Companies liable for directors' anti-competitive acts",
+        "C) Only directors personally",
+        "D) Ultra vires defense"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5a59613ce0f878059d483dacbbd708e812ee3e7",
+      "sectionIndex": 9,
+      "question": "Electronic transaction, agency, partnership: Partner uses firm's digital credentials for personal transaction. Third party unaware. Transaction's binding effect:",
+      "options": [
+        "A) Personal act not binding",
+        "B) Apparent authority through credentials",
+        "C) Cybercrime only",
+        "D) Insurance claim"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "168b8368230d46190a9bcec29158f8ec9b61fbce",
+      "sectionIndex": 9,
+      "question": "Sale, arbitration, frustration: COVID lockdown prevents delivery. Arbitration clause says arbitrator decides \"according to fairness.\" Arbitrator excuses performance. Challenge based on:",
+      "options": [
+        "A) Must follow law strictly",
+        "B) Equity jurisdiction if agreed",
+        "C) Frustration automatic",
+        "D) Public policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d664f105d39def35ca0a1a5a69626dd5dd648f4",
+      "sectionIndex": 9,
+      "question": "Guarantee, misrepresentation, discharge: Surety induced by creditor's misrepresentation about debtor's finances. Debtor defaults. Surety discovers misrepresentation after paying. Recourse:",
+      "options": [
+        "A) No remedy after payment",
+        "B) Restitution from creditor for fraudulent inducement",
+        "C) Only against debtor",
+        "D) Guarantee binding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fceb6262a832809515d378e4baefd55267e5098f",
+      "sectionIndex": 9,
+      "question": "Company debentures, trust deed, competing claims: Floating charge crystallizes same day company creates specific charge. Priority depends on:",
+      "options": [
+        "A) Registration date only",
+        "B) Notice and conduct at crystallization",
+        "C) First in time",
+        "D) Specific always prevails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6bfca529081f8d637a0ccda01827b30970bf1ec",
+      "sectionIndex": 9,
+      "question": "International sale, currency, force majeure: Contract in dollars, payment in local currency at exchange rate. Government bans dollar transactions. Seller claims force majeure. Analysis:",
+      "options": [
+        "A) Impossibility excuses",
+        "B) Must pay in alternative legal manner",
+        "C) Contract frustrated",
+        "D) Dollar payment essential"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0233486aae5cc73f8a8d95e7400f58f3147e4da0",
+      "sectionIndex": 9,
+      "question": "Holding out, ratification, limitation: Person allows being represented as partner. Tort claim arises. Actual partners later ratify his acts for business benefit. Limitation runs from:",
+      "options": [
+        "A) Original tort",
+        "B) Ratification relates back",
+        "C) No valid ratification",
+        "D) Fresh limitation"
+      ],
+      "correct": "B"
+    }
+  ]
+}

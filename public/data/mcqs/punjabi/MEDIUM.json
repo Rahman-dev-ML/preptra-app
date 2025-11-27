@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:57:34.875Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1c61f44355dc8f2cab4a1b75c055edafbd21b18f",
+      "sectionIndex": 0,
+      "question": "The folk song \"Dhola\" is considered ancient because it:",
+      "options": [
+        "A) Has simple language",
+        "B) Reflects pre-Islamic cultural elements",
+        "C) Is short in length",
+        "D) Uses modern themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "460ee70464582d4bb1d3264f47b16a971a18046d",
+      "sectionIndex": 0,
+      "question": "Punjabi folk songs preserve social history by:",
+      "options": [
+        "A) Direct historical narration",
+        "B) Embedding cultural values and practices",
+        "C) Government documentation",
+        "D) Written chronicles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8947007be8e52e8138146bf2557ab293c6a59bf3",
+      "sectionIndex": 0,
+      "question": "The difference between \"Mahiya\" and \"Dhola\" lies in:",
+      "options": [
+        "A) Language only",
+        "B) Length and thematic scope",
+        "C) Religious content",
+        "D) Modern vs ancient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84a490ccfe0f1edb01b84cdc119b5e56e45e1842",
+      "sectionIndex": 0,
+      "question": "Wedding songs (Geet) in Punjabi culture function as:",
+      "options": [
+        "A) Entertainment only",
+        "B) Social commentary and ritual markers",
+        "C) Religious obligations",
+        "D) Economic transactions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a02218eacde7a5bf0003aa0736b8d490464967da",
+      "sectionIndex": 0,
+      "question": "The performance tradition of \"Boli\" involves:",
+      "options": [
+        "A) Solo recitation",
+        "B) Competitive improvisation",
+        "C) Written scripts",
+        "D) Silent meditation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39d01e77e9fbb137dfb730a13b19b0d4a8e30b12",
+      "sectionIndex": 0,
+      "question": "Folk songs reflect the \"taqaddus\" (sanctity) of relationships through:",
+      "options": [
+        "A) Direct preaching",
+        "B) Metaphorical representations",
+        "C) Legal documents",
+        "D) Foreign influences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bd0613cfe9c553f2ab691ae58c0d01e2f69a301",
+      "sectionIndex": 0,
+      "question": "The evolution of \"Jugni\" shows:",
+      "options": [
+        "A) Static tradition",
+        "B) Adaptive narrative framework",
+        "C) Decline in quality",
+        "D) Foreign origin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca46f4eb3f72db68c1ec30adbb05ff58523b9ff9",
+      "sectionIndex": 0,
+      "question": "\"Lori\" as the world's most ancient folk song suggests:",
+      "options": [
+        "A) Punjabi superiority",
+        "B) Universal human experience of motherhood",
+        "C) Historical accident",
+        "D) Modern invention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74a98dabf4915054ad3c3b3f9f5a9e1ae65aa2e8",
+      "sectionIndex": 0,
+      "question": "The social function of \"Alahnia\" (mourning songs) is to:",
+      "options": [
+        "A) Increase sadness",
+        "B) Provide cathartic expression",
+        "C) Prevent mourning",
+        "D) Entertainment purpose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4de820650c6390665e336eb5810eb2cd1c0ca8c",
+      "sectionIndex": 0,
+      "question": "Regional variations in folk songs indicate:",
+      "options": [
+        "A) Corruption of tradition",
+        "B) Cultural diversity within Punjab",
+        "C) External influence only",
+        "D) Modern changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1328f2fae5d3c63c3cc2cb7dfb5c750ea83b21ba",
+      "sectionIndex": 1,
+      "question": "Bulleh Shah's \"kafis\" challenge social hierarchy through:",
+      "options": [
+        "A) Political rebellion",
+        "B) Spiritual egalitarianism",
+        "C) Economic theory",
+        "D) Military action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bcff5cad8647791427410713021f98da15a78d9",
+      "sectionIndex": 1,
+      "question": "Sultan Bahu's concept of \"Fana-fi-Allah\" represents:",
+      "options": [
+        "A) Physical death",
+        "B) Ego annihilation in divine",
+        "C) Social isolation",
+        "D) Political power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0d0dd1070a89d1c7ffcb2e38a459d516362c0cc",
+      "sectionIndex": 1,
+      "question": "Waris Shah's Heer functions as encyclopedia because it:",
+      "options": [
+        "A) Has many pages",
+        "B) Encompasses social, cultural, and philosophical dimensions",
+        "C) Lists facts",
+        "D) Copies other works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9926d4ce7e1fd7bac2fe1e77f8546d5f486fea40",
+      "sectionIndex": 1,
+      "question": "Baba Farid's emphasis on ethics suggests:",
+      "options": [
+        "A) Religious dogma",
+        "B) Practical spirituality",
+        "C) Theoretical philosophy",
+        "D) Political ideology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9471c92cc45383815bdba4420ffa595587c74c8",
+      "sectionIndex": 1,
+      "question": "The \"afterlife vision\" in Sultan Bahu's poetry emphasizes:",
+      "options": [
+        "A) Fear of death",
+        "B) Continuity of spiritual journey",
+        "C) Material rewards",
+        "D) Social status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "599e425b9801de3fd6344b92c761ac3602f55f41",
+      "sectionIndex": 1,
+      "question": "Khwaja Ghulam Farid's \"Rohi rang\" represents:",
+      "options": [
+        "A) Desert color",
+        "B) Regional identity in universal themes",
+        "C) Political boundaries",
+        "D) Economic conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14d8cbcfb5563ad80e8f7ed63297b306a6fb38a4",
+      "sectionIndex": 1,
+      "question": "The dialogue between divine and human in Sufi poetry uses:",
+      "options": [
+        "A) Religious language only",
+        "B) Lover-beloved metaphor",
+        "C) Political allegory",
+        "D) Economic symbols"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2db43c4f7fd2a5a5513ac26623f76f9f6ee92f36",
+      "sectionIndex": 1,
+      "question": "Shah Hussain's \"Madho Lal\" identity shows:",
+      "options": [
+        "A) Name change",
+        "B) Transcendence of religious boundaries",
+        "C) Political alliance",
+        "D) Economic partnership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f57f6d9dc032a75486eab709ee5bc53ed5df72f",
+      "sectionIndex": 1,
+      "question": "Mian Muhammad Bakhsh's Saif-ul-Muluk presents:",
+      "options": [
+        "A) Simple adventure",
+        "B) Spiritual allegory of human journey",
+        "C) Historical facts",
+        "D) Political manifesto"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26fcb2e6658b25342453967db4425e6ba9ec0037",
+      "sectionIndex": 1,
+      "question": "The recurring theme of separation (hijr) in Sufi poetry symbolizes:",
+      "options": [
+        "A) Physical distance",
+        "B) Spiritual longing",
+        "C) Social problems",
+        "D) Economic hardship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31328e57d0cdbfb18042b7aeeed23b557b1fa1c7",
+      "sectionIndex": 2,
+      "question": "The narrative structure of \"Heer Waris Shah\" reflects:",
+      "options": [
+        "A) Linear storytelling",
+        "B) Multi-layered social commentary",
+        "C) Simple plot",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78cf8638b745ef7d752414c4c23bd74109f2a622",
+      "sectionIndex": 2,
+      "question": "The political context in 18th-century Punjab influenced Bulleh Shah by:",
+      "options": [
+        "A) Making him political",
+        "B) Deepening spiritual introspection",
+        "C) Causing silence",
+        "D) Promoting violence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f630219833b71e96c61a7084d3baeb61e8cd7ba",
+      "sectionIndex": 2,
+      "question": "Classical Punjabi \"Qissas\" differ from modern novels in:",
+      "options": [
+        "A) Length only",
+        "B) Integration of oral tradition",
+        "C) Language only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d483e51a03abd954a717f4133e44f3151a9eb1a4",
+      "sectionIndex": 2,
+      "question": "The \"Si-harfi\" form allows poets to:",
+      "options": [
+        "A) Write freely",
+        "B) Explore themes systematically",
+        "C) Avoid structure",
+        "D) Copy others"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40c94ae29e4b5c79f689a4112f3e9155e3238378",
+      "sectionIndex": 2,
+      "question": "\"Baramah\" poetry connects human emotions with:",
+      "options": [
+        "A) Political events",
+        "B) Natural cycles",
+        "C) Economic cycles",
+        "D) Foreign seasons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e25d5002e489fe4848b38913b49266ab906ae98",
+      "sectionIndex": 2,
+      "question": "The heroic tradition in \"Vars\" serves to:",
+      "options": [
+        "A) Glorify violence",
+        "B) Preserve cultural memory",
+        "C) Promote war",
+        "D) Reject peace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8ec2a5fb359741f628ff5cd386f34d29e1fb58b",
+      "sectionIndex": 2,
+      "question": "Hashim Shah's \"Sassi Punnu\" emphasizes:",
+      "options": [
+        "A) Physical journey only",
+        "B) Metaphysical quest",
+        "C) Political message",
+        "D) Economic disparity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9795d1ebe020762a2a553cc2290aa69853afa6c7",
+      "sectionIndex": 2,
+      "question": "The role of \"intermediary\" characters in Qissas:",
+      "options": [
+        "A) Fill pages",
+        "B) Facilitate plot and provide commentary",
+        "C) Confuse readers",
+        "D) Add humor only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7c216a8a4b5d60f7e5516edb71ee146e7c0cd3f",
+      "sectionIndex": 2,
+      "question": "Classical poets' use of local references:",
+      "options": [
+        "A) Limits understanding",
+        "B) Grounds universal themes",
+        "C) Shows ignorance",
+        "D) Copies others"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74ccb762a422616f2bb2d4c90e5b555346046758",
+      "sectionIndex": 2,
+      "question": "The transition from oral to written tradition in Punjabi literature:",
+      "options": [
+        "A) Destroyed authenticity",
+        "B) Preserved while transforming",
+        "C) Had no impact",
+        "D) Only modernized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e269d0f1e105ac39d55e825ccf91d2a16a16936b",
+      "sectionIndex": 3,
+      "question": "Najm Hussain Syed's \"Recurrent Patterns\" represents:",
+      "options": [
+        "A) Repetition",
+        "B) Modernist experimentation",
+        "C) Traditional copying",
+        "D) Simple style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd57c16285357a923bf02f4755e103f506d6b02f",
+      "sectionIndex": 3,
+      "question": "The \"psychological criticism\" in modern Punjabi literature:",
+      "options": [
+        "A) Copies Western trends",
+        "B) Explores indigenous consciousness",
+        "C) Rejects tradition",
+        "D) Focuses on disease"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ae05dcabae39c8975c24f8c861b027e2aeac9dd",
+      "sectionIndex": 3,
+      "question": "Munir Niazi's \"poetry of fear\" reflects:",
+      "options": [
+        "A) Personal cowardice",
+        "B) Existential condition",
+        "C) Horror stories",
+        "D) Political fear only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da1c037229670e0a38e2f307684316bb03993eed",
+      "sectionIndex": 3,
+      "question": "Modern Punjabi novel's relationship with partition:",
+      "options": [
+        "A) Ignores it",
+        "B) Processes collective trauma",
+        "C) Celebrates it",
+        "D) Forgets history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82622ad3518fb8d6bf81adeecb21622269c1b5de",
+      "sectionIndex": 3,
+      "question": "Ahmad Rahi's \"Trinjan\" shows innovation through:",
+      "options": [
+        "A) Foreign forms",
+        "B) Reimagining folk elements",
+        "C) Rejecting tradition",
+        "D) Political slogans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5547e83eb388fc97fc7b1b04a977a6753d680b82",
+      "sectionIndex": 3,
+      "question": "The development of Punjabi ghazal by Pir Fazal indicates:",
+      "options": [
+        "A) Arabic imitation",
+        "B) Cultural synthesis",
+        "C) Rejection of Punjabi",
+        "D) Foreign domination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96f008a26879c8b1d8af21ad966756e33ccf2495",
+      "sectionIndex": 3,
+      "question": "Contemporary short story writers address:",
+      "options": [
+        "A) Only rural life",
+        "B) Urban-rural tensions",
+        "C) Only cities",
+        "D) Foreign lands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52e6df0a834fe6b97d2551b2abeaf1d55b9bfa58",
+      "sectionIndex": 3,
+      "question": "The role of \"little magazines\" in Punjabi literature:",
+      "options": [
+        "A) Commercial success",
+        "B) Experimental platform",
+        "C) Government propaganda",
+        "D) Foreign promotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13b40688357ebfc730e52010cf10fd67afd5e118",
+      "sectionIndex": 3,
+      "question": "Feminist voices in modern Punjabi literature:",
+      "options": [
+        "A) Copy Western feminism",
+        "B) Articulate indigenous perspectives",
+        "C) Reject all tradition",
+        "D) Focus on men"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f4430fefc6ec4816787452680c45e5b42bac5be",
+      "sectionIndex": 3,
+      "question": "The impact of technology on Punjabi literature shows:",
+      "options": [
+        "A) Only decline",
+        "B) New possibilities and challenges",
+        "C) No change",
+        "D) Complete transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09ffbff5ed7c93511dd4a9f8fa6e84d192bdb39c",
+      "sectionIndex": 4,
+      "question": "\"Purch Parchol\" as criticism establishes:",
+      "options": [
+        "A) Western standards",
+        "B) Indigenous critical framework",
+        "C) No standards",
+        "D) Random thoughts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3527e42b967a0d25297870e52c504fb8dfdd2fc8",
+      "sectionIndex": 4,
+      "question": "The concept of \"commitment\" in Punjabi literature means:",
+      "options": [
+        "A) Political allegiance",
+        "B) Social consciousness",
+        "C) Personal profit",
+        "D) Entertainment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74bb9488829c6106038d77815dea25b17a3c3e27",
+      "sectionIndex": 4,
+      "question": "Intertextuality in Punjabi literature shows:",
+      "options": [
+        "A) Plagiarism",
+        "B) Cultural continuity",
+        "C) Lack of originality",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8a9961ebb21ef1dac6a70ed3b1aefa25d889d16",
+      "sectionIndex": 4,
+      "question": "The debate on Punjabi as \"non-Aryan\" language implies:",
+      "options": [
+        "A) Racial theory",
+        "B) Distinct linguistic identity",
+        "C) Inferiority",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e774caa150b93edb61d82a8d5f90d991246e74a",
+      "sectionIndex": 4,
+      "question": "Progressive writers' movement influenced Punjabi literature by:",
+      "options": [
+        "A) Destroying tradition",
+        "B) Introducing social realism",
+        "C) Promoting capitalism",
+        "D) Rejecting all change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80614d6e4356848953f7161d0b5d9e3f440efcee",
+      "sectionIndex": 4,
+      "question": "The concept of \"folk consciousness\" in criticism:",
+      "options": [
+        "A) Romanticizes poverty",
+        "B) Validates subaltern voices",
+        "C) Rejects modernity",
+        "D) Promotes elite culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4283edf34f2db253795b5aaf28b695a4a579b195",
+      "sectionIndex": 4,
+      "question": "Postcolonial readings of Punjabi texts reveal:",
+      "options": [
+        "A) Colonial superiority",
+        "B) Resistance strategies",
+        "C) Complete acceptance",
+        "D) No colonial impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "319e5477742b08aabee2c6ec11b2bc7e4a5fb5f9",
+      "sectionIndex": 4,
+      "question": "The \"authentic voice\" debate in Punjabi literature concerns:",
+      "options": [
+        "A) Accent only",
+        "B) Cultural representation",
+        "C) Volume of speech",
+        "D) Foreign approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "319a1ba132fc5315d86c7cb6bcc88f100c1623f7",
+      "sectionIndex": 4,
+      "question": "Gender criticism of classical texts shows:",
+      "options": [
+        "A) No gender issues",
+        "B) Embedded patriarchal structures",
+        "C) Perfect equality",
+        "D) Women's dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ef22e028c77699a8217209ff67d452fdecb0c20",
+      "sectionIndex": 4,
+      "question": "The evolution of Punjabi literary criticism indicates:",
+      "options": [
+        "A) Stagnation",
+        "B) Theoretical sophistication",
+        "C) Western dependence",
+        "D) No development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a331d0be49b5b356cab917978dcb2f800b2ed05f",
+      "sectionIndex": 5,
+      "question": "Muhammad Asif Khan's theory of Punjabi origins suggests:",
+      "options": [
+        "A) Recent development",
+        "B) Ancient non-Aryan roots",
+        "C) Arabic origin",
+        "D) English influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5465b0d5ed3b9ead280e41a350eaa8bc6be7a959",
+      "sectionIndex": 5,
+      "question": "The linguistic evolution of Punjabi shows:",
+      "options": [
+        "A) Isolation",
+        "B) Multiple influences and synthesis",
+        "C) Single source",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6cc85f53bf877557bcfec97b2f4e875276872fa",
+      "sectionIndex": 5,
+      "question": "Dialectical variations in Punjabi indicate:",
+      "options": [
+        "A) Language decay",
+        "B) Regional vitality",
+        "C) Foreign corruption",
+        "D) Modern invention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a07cd094ee116fd86406442d999528daa88cc971",
+      "sectionIndex": 5,
+      "question": "The relationship between Punjabi and Urdu in Pakistan:",
+      "options": [
+        "A) Complete separation",
+        "B) Complex linguistic politics",
+        "C) No connection",
+        "D) Same language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6b28680dcd7790d059c60e5895c5592913fa08f",
+      "sectionIndex": 5,
+      "question": "Code-switching in Punjabi literature serves:",
+      "options": [
+        "A) Confusion",
+        "B) Sociocultural commentary",
+        "C) Showing off",
+        "D) No purpose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e94905d44f6afa695bda54ec9930dfeb4cc4284b",
+      "sectionIndex": 5,
+      "question": "The role of Persian-Arabic vocabulary in Punjabi:",
+      "options": [
+        "A) Foreign imposition",
+        "B) Organic integration",
+        "C) Recent addition",
+        "D) Temporary phase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7359a45697ddefcad22dae708264f97b1bdbcc67",
+      "sectionIndex": 5,
+      "question": "Punjabi's tonal system affects:",
+      "options": [
+        "A) Only pronunciation",
+        "B) Meaning and poetic rhythm",
+        "C) Nothing important",
+        "D) Only singing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f42e0e81991d07c7a28463a502ec0e707f79f59",
+      "sectionIndex": 5,
+      "question": "The standardization debate in Punjabi reflects:",
+      "options": [
+        "A) Simple choice",
+        "B) Cultural-political tensions",
+        "C) No controversy",
+        "D) Universal agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac2dbf1d2da2751351c0ec83452af0d9947f5da2",
+      "sectionIndex": 5,
+      "question": "Oral traditions' influence on written Punjabi:",
+      "options": [
+        "A) Negative only",
+        "B) Stylistic enrichment",
+        "C) No influence",
+        "D) Complete determination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e5154bd4bd8eac585077d5ba5b76d6de5f789fa",
+      "sectionIndex": 5,
+      "question": "The future of Punjabi language depends on:",
+      "options": [
+        "A) Government policy only",
+        "B) Multiple social factors",
+        "C) Individual choice",
+        "D) External forces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6500417ed86025b1330630e61efe014d79f3f691",
+      "sectionIndex": 6,
+      "question": "Punjabi literature's relationship with Hindi-Urdu traditions:",
+      "options": [
+        "A) Complete isolation",
+        "B) Shared heritage with distinctions",
+        "C) Total dependence",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff0438696e38bf74f13fec41966f34f99718610b",
+      "sectionIndex": 6,
+      "question": "The influence of Persian literature on Punjabi:",
+      "options": [
+        "A) Superficial copying",
+        "B) Creative adaptation",
+        "C) No influence",
+        "D) Complete replacement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a0c8103f41c8999001cfc5ee557411918fc8ad1",
+      "sectionIndex": 6,
+      "question": "Comparing Punjabi and Sindhi mystical poetry reveals:",
+      "options": [
+        "A) No similarities",
+        "B) Shared Sufi traditions",
+        "C) Competition",
+        "D) Different religions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7fdf60b05b89c2ae6e3ec1ee9ee98278d2e50c3",
+      "sectionIndex": 6,
+      "question": "Western literary influences on modern Punjabi:",
+      "options": [
+        "A) Wholesale adoption",
+        "B) Selective integration",
+        "C) Total rejection",
+        "D) No awareness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4bc735a9657c6202626ac752a20b6f0e584de22",
+      "sectionIndex": 6,
+      "question": "The concept of \"world literature\" for Punjabi means:",
+      "options": [
+        "A) Losing identity",
+        "B) Global dialogue while maintaining specificity",
+        "C) English translation only",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41834ce3419257683641a00f6be4a3d40b8ab349",
+      "sectionIndex": 6,
+      "question": "Comparative study of Punjabi \"Qissas\" shows:",
+      "options": [
+        "A) Unique to Punjab",
+        "B) Universal narrative patterns",
+        "C) Copied from others",
+        "D) No comparison possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5daac68115b5611e04f568366b53f5db0bbf9627",
+      "sectionIndex": 6,
+      "question": "The migration theme in Punjabi and other literatures:",
+      "options": [
+        "A) Only in Punjabi",
+        "B) Universal human experience",
+        "C) Recent invention",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0091da38cf1b4b8922cb65de9c9c7644e33df12",
+      "sectionIndex": 6,
+      "question": "Modernist movements across Indian languages show:",
+      "options": [
+        "A) No connection",
+        "B) Parallel developments",
+        "C) Punjabi leadership",
+        "D) Foreign imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d35244dcc9be7b9027ca33ec14450e9f8a56a0d4",
+      "sectionIndex": 6,
+      "question": "The treatment of partition in various languages:",
+      "options": [
+        "A) Identical approach",
+        "B) Distinct perspectives",
+        "C) Only in Punjabi",
+        "D) Avoided topic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8358775f9147566cd235c5b28005853df535d773",
+      "sectionIndex": 6,
+      "question": "Cross-cultural dialogue in literature promotes:",
+      "options": [
+        "A) Homogenization",
+        "B) Mutual enrichment",
+        "C) Conflict",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c093ca0b5a617f942052de0c025d33194ef2499",
+      "sectionIndex": 7,
+      "question": "The commodification of Punjabi culture affects literature by:",
+      "options": [
+        "A) Only positive effects",
+        "B) Creating authenticity debates",
+        "C) No impact",
+        "D) Destroying everything"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4707fab7d0475206be7e4c751fc81a634314b770",
+      "sectionIndex": 7,
+      "question": "Diaspora Punjabi writing negotiates:",
+      "options": [
+        "A) Only nostalgia",
+        "B) Multiple identities",
+        "C) Rejection of homeland",
+        "D) No specific themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "851e8d6a52afaea8a1aa96a54d3922f14a01f75f",
+      "sectionIndex": 7,
+      "question": "The role of state patronage in Punjabi literature:",
+      "options": [
+        "A) Always beneficial",
+        "B) Complex blessing and curse",
+        "C) No role",
+        "D) Only harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b88be29b16f1a36ab2b04084f08f74a4e66c384",
+      "sectionIndex": 7,
+      "question": "Digital humanities approaches to Punjabi texts:",
+      "options": [
+        "A) Irrelevant",
+        "B) New analytical possibilities",
+        "C) Destroy tradition",
+        "D) Only for youth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a804318568060a59684ac4b18777eef58032099",
+      "sectionIndex": 7,
+      "question": "Environmental themes in contemporary Punjabi literature:",
+      "options": [
+        "A) Absent",
+        "B) Emerging consciousness",
+        "C) Only rural",
+        "D) Foreign import"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5c882d1a95ad4eba108196a7585e953b497d5bf",
+      "sectionIndex": 7,
+      "question": "The representation of marginalized voices shows:",
+      "options": [
+        "A) Complete inclusion",
+        "B) Ongoing struggles",
+        "C) No awareness",
+        "D) Elite dominance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df49c336b88b989808605366c049149f068a7da9",
+      "sectionIndex": 7,
+      "question": "Translation politics in Punjabi literature involves:",
+      "options": [
+        "A) Simple language transfer",
+        "B) Cultural power dynamics",
+        "C) No politics",
+        "D) Only technical issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ced26852b79f14a85dc32f993a9781444f4a8c8c",
+      "sectionIndex": 7,
+      "question": "The academy's role in Punjabi literature:",
+      "options": [
+        "A) Only preservation",
+        "B) Both enabling and constraining",
+        "C) No influence",
+        "D) Complete control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e60577490e8b80ab19dea67cc8183f96521d9a70",
+      "sectionIndex": 7,
+      "question": "Market forces impact on Punjabi writing:",
+      "options": [
+        "A) No effect",
+        "B) Genre and content pressures",
+        "C) Only improvement",
+        "D) Total destruction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c9d6e57b87f869dc9f07e74a7fba4092a2c02b8",
+      "sectionIndex": 7,
+      "question": "The future of Punjabi criticism requires:",
+      "options": [
+        "A) Western theory only",
+        "B) Indigenous-global dialogue",
+        "C) Rejection of theory",
+        "D) No change needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cb82a8810677ae890979249d4f13fdfa3f638d8",
+      "sectionIndex": 8,
+      "question": "Symbolic analysis of \"Heer\" reveals:",
+      "options": [
+        "A) Simple love story",
+        "B) Multiple interpretive layers",
+        "C) No symbolism",
+        "D) Foreign symbols only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df878b04ea1453f81066d6c1b84a4086de2a31f8",
+      "sectionIndex": 8,
+      "question": "The narrative voice in modern Punjabi fiction:",
+      "options": [
+        "A) Always omniscient",
+        "B) Experimental variations",
+        "C) No innovation",
+        "D) Single perspective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4f616dd6c4d534c60266b2ef0ba859d063d2b2b",
+      "sectionIndex": 8,
+      "question": "Imagery in Sufi poetry functions to:",
+      "options": [
+        "A) Decorate only",
+        "B) Convey ineffable experiences",
+        "C) Confuse readers",
+        "D) Show learning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ef273ce0692078f0fc7852c3f3b74eeb782d916",
+      "sectionIndex": 8,
+      "question": "The structure of \"Kafis\" enables:",
+      "options": [
+        "A) Length restriction",
+        "B) Thematic intensity",
+        "C) Easy memorization only",
+        "D) No special function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51b388dcdae2e3f0a06ea6628fa2b0a84612fa72",
+      "sectionIndex": 8,
+      "question": "Character development in Punjabi novels shows:",
+      "options": [
+        "A) Flat characters only",
+        "B) Psychological complexity",
+        "C) No development",
+        "D) Stereotypes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95c4a98e38f777bf317d2cf22a7e431bfaa2d806",
+      "sectionIndex": 8,
+      "question": "The use of dialogue in modern drama:",
+      "options": [
+        "A) Artificial only",
+        "B) Social realism",
+        "C) No importance",
+        "D) Foreign style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb007aa8d463bb5b1b142440385e17d2025a92da",
+      "sectionIndex": 8,
+      "question": "Metafiction in contemporary Punjabi writing:",
+      "options": [
+        "A) Absent",
+        "B) Self-reflexive awareness",
+        "C) Copying West",
+        "D) Meaningless technique"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46d7b52e968c7217c048697555eae5eba7ec8e88",
+      "sectionIndex": 8,
+      "question": "The function of repetition in folk songs:",
+      "options": [
+        "A) Lack of creativity",
+        "B) Mnemonic and rhythmic purposes",
+        "C) Boring effect",
+        "D) No function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c6045c6064527e79ce1d2a19b85b64a07a31750",
+      "sectionIndex": 8,
+      "question": "Analyzing silence in texts reveals:",
+      "options": [
+        "A) Nothing",
+        "B) Cultural suppressions",
+        "C) Writer's laziness",
+        "D) Technical failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83095e94bb1544c552027d1cff07f6fec4d5730f",
+      "sectionIndex": 8,
+      "question": "Close reading of Punjabi texts requires:",
+      "options": [
+        "A) Translation only",
+        "B) Cultural-linguistic competence",
+        "C) Western theory",
+        "D) Speed reading"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a366ddfcc5266dd26d1af547a09672881eb28fa5",
+      "sectionIndex": 9,
+      "question": "Punjabi literature's response to globalization:",
+      "options": [
+        "A) Complete acceptance",
+        "B) Negotiated resistance",
+        "C) Total rejection",
+        "D) Ignorance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b6d26a53a23ab3c0e1dab15ef6b27fcef5024c3",
+      "sectionIndex": 9,
+      "question": "The representation of caste in literature:",
+      "options": [
+        "A) Always progressive",
+        "B) Complex and evolving",
+        "C) Absent topic",
+        "D) Only regressive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06f5fe5a0bf26cebefd5fd85cd12e0bf05a561ed",
+      "sectionIndex": 9,
+      "question": "Economic themes in contemporary writing:",
+      "options": [
+        "A) Absent",
+        "B) Class consciousness",
+        "C) Only prosperity",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c0f594ea7f2c1966402b5a249d7dd03af6e79f9",
+      "sectionIndex": 9,
+      "question": "The rural-urban divide in literature reflects:",
+      "options": [
+        "A) Simple opposition",
+        "B) Complex transitions",
+        "C) No difference",
+        "D) Urban superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6abbe6eace1cfb5f10dda01081456102e3a35161",
+      "sectionIndex": 9,
+      "question": "Gender representation evolution shows:",
+      "options": [
+        "A) No change",
+        "B) Gradual transformation",
+        "C) Complete equality",
+        "D) Regression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de7b26918c15bc7f7854264da1330ab8cdbb8328",
+      "sectionIndex": 9,
+      "question": "Religious harmony in Punjabi literature:",
+      "options": [
+        "A) Always present",
+        "B) Aspirational and contested",
+        "C) Never mentioned",
+        "D) Only conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb5a04239afc7cc219925477c2aa720d1c644db5",
+      "sectionIndex": 9,
+      "question": "The impact of education on literary production:",
+      "options": [
+        "A) No connection",
+        "B) Expanding voices",
+        "C) Declining quality",
+        "D) Elite monopoly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52e877e1caedf43f90a0239a189672e3ec2d9ef8",
+      "sectionIndex": 9,
+      "question": "Social movements and literature:",
+      "options": [
+        "A) Separate spheres",
+        "B) Mutual influence",
+        "C) Literature leads",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2510070c74a482333d146c2d9f19aedf15643967",
+      "sectionIndex": 9,
+      "question": "The role of literary festivals:",
+      "options": [
+        "A) Entertainment only",
+        "B) Cultural dialogue platform",
+        "C) Elite gathering",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5028be8fb37fc2d5f1e013472d131e6109b990fc",
+      "sectionIndex": 9,
+      "question": "Punjabi literature as soft power:",
+      "options": [
+        "A) No influence",
+        "B) Cultural diplomacy tool",
+        "C) Military weapon",
+        "D) Economic force only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-12T22:19:19.732Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "5d8af8b894eb2891dbfb2fdfbd00d9b215c0ca39",
+      "sectionIndex": 0,
+      "question": "The gradient of a scalar function ? is:",
+      "options": [
+        "A) A scalar",
+        "B) A vector",
+        "C) A tensor",
+        "D) A matrix"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "941aa5ec104871fa9e9cd9ee33f9d89a84b2e55e",
+      "sectionIndex": 0,
+      "question": "The divergence of a vector field results in:",
+      "options": [
+        "A) A vector",
+        "B) A scalar",
+        "C) A tensor",
+        "D) A matrix"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9687e024d705c1fe4ce3c2a7c2c16eed4c8e0827",
+      "sectionIndex": 0,
+      "question": "The curl of a vector field produces:",
+      "options": [
+        "A) A scalar",
+        "B) A vector",
+        "C) A constant",
+        "D) A function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d1c50eca63642e746d56cbb1e10323b845c903d",
+      "sectionIndex": 0,
+      "question": "Which operator is denoted by ^?2?",
+      "options": [
+        "A) Gradient",
+        "B) Divergence",
+        "C) Laplacian",
+        "D) Curl"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "29fdb1d664e3011eee4c48d487ffc5d595c6f12a",
+      "sectionIndex": 0,
+      "question": "Green's theorem relates:",
+      "options": [
+        "A) Line integrals to surface integrals",
+        "B) Line integrals to double integrals",
+        "C) Surface integrals to volume integrals",
+        "D) Single integrals to triple integrals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "847884e967a314b112f4dc1a1dedae05c58bfe6e",
+      "sectionIndex": 0,
+      "question": "Stokes' theorem connects:",
+      "options": [
+        "A) Line integrals to surface integrals",
+        "B) Surface integrals to volume integrals",
+        "C) Double integrals to triple integrals",
+        "D) Single integrals to double integrals"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d2588a00c2cb70279c0b08bd942aadc315f6bf7f",
+      "sectionIndex": 0,
+      "question": "The divergence theorem is also known as:",
+      "options": [
+        "A) Green's theorem",
+        "B) Stokes' theorem",
+        "C) Gauss's theorem",
+        "D) Newton's theorem"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c1c41b41b5119a135d025550ae1b68bca2afbb8c",
+      "sectionIndex": 0,
+      "question": "For a conservative vector field, the curl equals:",
+      "options": [
+        "A) 1",
+        "B) 0",
+        "C) ^z",
+        "D) -1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93670b5a76022648c717e5aa9279630a336f2883",
+      "sectionIndex": 0,
+      "question": "The gradient always points in the direction of:",
+      "options": [
+        "A) Minimum increase",
+        "B) Maximum increase",
+        "C) No change",
+        "D) Constant value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e19993d706a7dcd0cc901de4a5c20eac9cd1be30",
+      "sectionIndex": 0,
+      "question": "In cylindrical coordinates, the coordinate variables are:",
+      "options": [
+        "A) x, y, z",
+        "B) r, θ, z",
+        "C) r, θ, ?",
+        "D) ρ, ?, z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "958819d0a139bbd4ef7139a842e2cf31b83d8efd",
+      "sectionIndex": 1,
+      "question": "A first-order differential equation has highest derivative of order:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba49d62b2bcf7f40dd4a15c95f60f7927bb9502a",
+      "sectionIndex": 1,
+      "question": "The general solution of dy/dx = 2x is:",
+      "options": [
+        "A) y = x2 + C",
+        "B) y = 2x + C",
+        "C) y = x3 + C",
+        "D) y = 2x2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "211308e42c44da588c74f31548381746e06195b1",
+      "sectionIndex": 1,
+      "question": "A homogeneous differential equation has:",
+      "options": [
+        "A) Constant coefficients",
+        "B) Variable coefficients",
+        "C) Zero on right side",
+        "D) Non-zero right side"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "148488904007595a6c6c10386a51c452583b5025",
+      "sectionIndex": 1,
+      "question": "The integrating factor for dy/dx + P(x)y = Q(x) is:",
+      "options": [
+        "A) e^^P(x)dx",
+        "B) e^-^P(x)dx",
+        "C) ^P(x)dx",
+        "D) P(x)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bb64f4e3720369ce96cb1aaeecb17ff614791360",
+      "sectionIndex": 1,
+      "question": "The characteristic equation is used to solve:",
+      "options": [
+        "A) First-order ODEs",
+        "B) Linear ODEs with constant coefficients",
+        "C) Non-linear ODEs",
+        "D) Partial differential equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a893c22a2463d3488f8373ef88e7b1954be66d4",
+      "sectionIndex": 1,
+      "question": "For the equation y'' + 4y = 0, the general solution involves:",
+      "options": [
+        "A) Exponential functions",
+        "B) Polynomial functions",
+        "C) Trigonometric functions",
+        "D) Logarithmic functions"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c6495f6508c79cdea63a226cc82d7e8b648087f3",
+      "sectionIndex": 1,
+      "question": "The method of variation of parameters is used when:",
+      "options": [
+        "A) Equation is homogeneous",
+        "B) Equation is non-homogeneous",
+        "C) Coefficients are constant",
+        "D) Initial conditions are zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7716e99133d269e28593e50a23c65c6506d95a8",
+      "sectionIndex": 1,
+      "question": "A particular solution satisfies:",
+      "options": [
+        "A) Only the homogeneous equation",
+        "B) Only the non-homogeneous equation",
+        "C) Both equations",
+        "D) Neither equation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9783253da1a5f170534c64e0b1746a81b99fa149",
+      "sectionIndex": 1,
+      "question": "The order of a PDE is determined by:",
+      "options": [
+        "A) Number of variables",
+        "B) Highest derivative order",
+        "C) Number of terms",
+        "D) Type of coefficients"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60a7a275797d753a03777ee78764dc89e447b9df",
+      "sectionIndex": 1,
+      "question": "Separation of variables works when:",
+      "options": [
+        "A) PDE can be split into ODEs",
+        "B) Coefficients are constant",
+        "C) Boundary conditions are zero",
+        "D) Initial conditions are given"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8a9f4d97a7893e93293bfbdb385b17842bf60555",
+      "sectionIndex": 2,
+      "question": "Newton's second law states F equals:",
+      "options": [
+        "A) mv",
+        "B) ma",
+        "C) m/a",
+        "D) a/m"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "966d7e4caf8d6bfe7edea534ece4b62b031632b9",
+      "sectionIndex": 2,
+      "question": "Simple harmonic motion has acceleration proportional to:",
+      "options": [
+        "A) Velocity",
+        "B) Time",
+        "C) Displacement",
+        "D) Mass"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3b5bb097f20800b906237bfcb63ace7cc58e8ba9",
+      "sectionIndex": 2,
+      "question": "The center of mass of a uniform rod lies at:",
+      "options": [
+        "A) One end",
+        "B) Midpoint",
+        "C) One-third point",
+        "D) Two-thirds point"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8d98adba624b5f3e0430c1b82167d4045651b7e",
+      "sectionIndex": 2,
+      "question": "In projectile motion, horizontal velocity is:",
+      "options": [
+        "A) Constant",
+        "B) Increasing",
+        "C) Decreasing",
+        "D) Zero"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5ed4015d69b31239ca132556a24eb57b209b435d",
+      "sectionIndex": 2,
+      "question": "Angular momentum L equals:",
+      "options": [
+        "A) mv",
+        "B) I?",
+        "C) r - p",
+        "D) ma"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e47ab50803f4f054501458641cbbcd0c384e202",
+      "sectionIndex": 2,
+      "question": "For circular motion, centripetal acceleration equals:",
+      "options": [
+        "A) v/r",
+        "B) v2/r",
+        "C) vr",
+        "D) r/v"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9753c8064a1ac467918be6f3ea93923b8f37a7f0",
+      "sectionIndex": 2,
+      "question": "The time period of a simple pendulum depends on:",
+      "options": [
+        "A) Mass only",
+        "B) Length only",
+        "C) Length and gravity",
+        "D) Mass and length"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e84adaea6dc16120781fcf439190e5de63738a98",
+      "sectionIndex": 2,
+      "question": "Work done equals force times:",
+      "options": [
+        "A) Time",
+        "B) Velocity",
+        "C) Displacement",
+        "D) Acceleration"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "da9accc00023268aaf69517b17cccd532c04977c",
+      "sectionIndex": 2,
+      "question": "Kinetic energy equals:",
+      "options": [
+        "A) mv",
+        "B) 1⁄2mv2",
+        "C) mv2",
+        "D) 2mv2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0811119db3d6bd7c7a6e3b8e2523a9bcc723135",
+      "sectionIndex": 2,
+      "question": "In equilibrium, the sum of forces equals:",
+      "options": [
+        "A) 1",
+        "B) 0",
+        "C) -1",
+        "D) ^z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9465a36c97b5f55c8dcb3b0708303a20d474878",
+      "sectionIndex": 3,
+      "question": "A scalar is a tensor of order:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2ad39fd5ade92b79110506529b133ff57207b73f",
+      "sectionIndex": 3,
+      "question": "A vector is a tensor of order:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "993318f8fb94a6f5622f5a4c3829370f9fd35375",
+      "sectionIndex": 3,
+      "question": "The Kronecker delta δij equals 1 when:",
+      "options": [
+        "A) i > j",
+        "B) i < j",
+        "C) i = j",
+        "D) i ? j"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "88d4072df9ec948c0dbc731563f9696f9e012d79",
+      "sectionIndex": 3,
+      "question": "The number of components in a second-order tensor in 3D is:",
+      "options": [
+        "A) 3",
+        "B) 6",
+        "C) 9",
+        "D) 27"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "de6b3750de3f013eba024594c5a7fed999649ffa",
+      "sectionIndex": 3,
+      "question": "An orthogonal transformation preserves:",
+      "options": [
+        "A) Angles only",
+        "B) Lengths only",
+        "C) Both angles and lengths",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "666247bf650a85e9da1a8c1e8df7bc55ca17a074",
+      "sectionIndex": 3,
+      "question": "The determinant of an orthogonal matrix is:",
+      "options": [
+        "A) 0",
+        "B) ±1",
+        "C) 2",
+        "D) Any value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47564abc89c84f9a88bd1384f3d0a2c7582ebdec",
+      "sectionIndex": 3,
+      "question": "The Einstein summation convention implies:",
+      "options": [
+        "A) Sum over repeated indices",
+        "B) No summation",
+        "C) Sum over all indices",
+        "D) Multiply indices"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6264cf795de571d4992911de10251594aa09c95c",
+      "sectionIndex": 3,
+      "question": "A symmetric tensor satisfies:",
+      "options": [
+        "A) Aij = -Aji",
+        "B) Aij = Aji",
+        "C) Aij = 0",
+        "D) Aii = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f851bcbcda0cec83426ee32801d3525f60603108",
+      "sectionIndex": 3,
+      "question": "The metric tensor is used to:",
+      "options": [
+        "A) Find derivatives",
+        "B) Measure distances",
+        "C) Calculate forces",
+        "D) Define coordinates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf68dd2c1e5d215ddd23929757784bfd43fc7036",
+      "sectionIndex": 3,
+      "question": "Covariant derivatives account for:",
+      "options": [
+        "A) Coordinate changes",
+        "B) Time changes",
+        "C) Temperature changes",
+        "D) Pressure changes"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cc49e3b97c095f6f3abe1c2b9da8b35cfb8b29e2",
+      "sectionIndex": 4,
+      "question": "The Newton-Raphson method uses:",
+      "options": [
+        "A) Linear approximation",
+        "B) Quadratic approximation",
+        "C) Cubic approximation",
+        "D) Exponential approximation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a3b05c3429a22c7e96ae96a63f923cbcd927463a",
+      "sectionIndex": 4,
+      "question": "The bisection method requires:",
+      "options": [
+        "A) One initial guess",
+        "B) Two initial guesses",
+        "C) Three initial guesses",
+        "D) No initial guess"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95d886600c49c77410fb6d94a4eeee36a8707d39",
+      "sectionIndex": 4,
+      "question": "Simpson's rule uses:",
+      "options": [
+        "A) Linear interpolation",
+        "B) Quadratic interpolation",
+        "C) Cubic interpolation",
+        "D) No interpolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c5840531725be229f043eb24c4224f211345139",
+      "sectionIndex": 4,
+      "question": "The trapezoidal rule approximates area using:",
+      "options": [
+        "A) Rectangles",
+        "B) Trapezoids",
+        "C) Triangles",
+        "D) Circles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a890e7df5665d113e9afc5ab472a03da66190dd",
+      "sectionIndex": 4,
+      "question": "Gauss-Seidel method is used to solve:",
+      "options": [
+        "A) Non-linear equations",
+        "B) Linear systems",
+        "C) Differential equations",
+        "D) Integrals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b1807bf5c8edd983da301ababcf2897337e3c1b",
+      "sectionIndex": 4,
+      "question": "The order of convergence of Newton's method is:",
+      "options": [
+        "A) Linear",
+        "B) Quadratic",
+        "C) Cubic",
+        "D) Exponential"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cdb6c22686330fe1d7748749c35bb4002d2167c",
+      "sectionIndex": 4,
+      "question": "Lagrange interpolation produces:",
+      "options": [
+        "A) A unique polynomial",
+        "B) Multiple polynomials",
+        "C) A trigonometric function",
+        "D) An exponential function"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8b0c13c74d2e283963091b91ed78704f75ad4468",
+      "sectionIndex": 4,
+      "question": "The forward difference formula approximates:",
+      "options": [
+        "A) Integrals",
+        "B) Derivatives",
+        "C) Roots",
+        "D) Matrices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39f44208575314c2566124ea0a42971571679a4f",
+      "sectionIndex": 4,
+      "question": "Fixed-point iteration requires:",
+      "options": [
+        "A) f(x) = 0",
+        "B) f(x) = x",
+        "C) g(x) = x",
+        "D) g(x) = 0"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f585cac923332330eb394ef70f38d27faead8cb1",
+      "sectionIndex": 4,
+      "question": "Euler's method is a numerical method for:",
+      "options": [
+        "A) Integration",
+        "B) Differentiation",
+        "C) Solving ODEs",
+        "D) Finding roots"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "99e39048043b96eb3831c1f40fd9965c1bdc6471",
+      "sectionIndex": 5,
+      "question": "A double integral represents:",
+      "options": [
+        "A) Length",
+        "B) Area",
+        "C) Volume",
+        "D) Hypervolume"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4983b8844bba18e9b90ecef740c5e81c5d73c5cb",
+      "sectionIndex": 5,
+      "question": "The order of integration in a double integral:",
+      "options": [
+        "A) Cannot be changed",
+        "B) Can sometimes be changed",
+        "C) Can always be changed if continuous",
+        "D) Must be alphabetical"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b7b53b7b82150e83cd240529d241fa73486e3b46",
+      "sectionIndex": 5,
+      "question": "A line integral is evaluated along:",
+      "options": [
+        "A) A surface",
+        "B) A curve",
+        "C) A volume",
+        "D) A point"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "448797827967dffcaf6e7199eacb16644ff1ae22",
+      "sectionIndex": 5,
+      "question": "The Jacobian is used when:",
+      "options": [
+        "A) Changing variables",
+        "B) Finding derivatives",
+        "C) Solving equations",
+        "D) Computing limits"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e3a5182a29519eb33ed7e6c0b4efae8943be333b",
+      "sectionIndex": 5,
+      "question": "In polar coordinates, dA equals:",
+      "options": [
+        "A) dr dθ",
+        "B) r dr dθ",
+        "C) r2 dr dθ",
+        "D) dr/dθ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93fd2936066e60a8c1ad1896a9fa3ac693af47ee",
+      "sectionIndex": 5,
+      "question": "A surface integral is denoted by:",
+      "options": [
+        "A) ^",
+        "B) ^",
+        "C) ^_S",
+        "D) ^^^"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8aeb4b2dc3a29a88b7ca19734199fb82bebbab65",
+      "sectionIndex": 5,
+      "question": "The fundamental theorem of calculus relates:",
+      "options": [
+        "A) Derivatives to integrals",
+        "B) Integrals to derivatives",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "27e299d149f028792e3a5738a200d9f92b2e480c",
+      "sectionIndex": 5,
+      "question": "Integration by parts formula is:",
+      "options": [
+        "A) ^u dv = uv + ^v du",
+        "B) ^u dv = uv - ^v du",
+        "C) ^u dv = -uv + ^v du",
+        "D) ^u dv = -uv - ^v du"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3b2cbf179b26c4340801209c3f96d12fb2f5bd7",
+      "sectionIndex": 5,
+      "question": "The area element in spherical coordinates includes:",
+      "options": [
+        "A) r sin θ",
+        "B) r2 sin θ",
+        "C) r cos θ",
+        "D) r2 cos θ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1428c7e4c5e32541d3e603f3d64e20f24a9f2b3d",
+      "sectionIndex": 5,
+      "question": "A triple integral gives:",
+      "options": [
+        "A) Area",
+        "B) Volume",
+        "C) Hypervolume",
+        "D) Length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e59ce066dcc81156c148d2c82eba7205f14ce839",
+      "sectionIndex": 6,
+      "question": "The determinant of a 2-2 matrix [[a,b],[c,d]] is:",
+      "options": [
+        "A) ac - bd",
+        "B) ad - bc",
+        "C) ab - cd",
+        "D) ad + bc"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88de0cd8fecd1901dc6b2d7a06224569216373e3",
+      "sectionIndex": 6,
+      "question": "A square matrix with determinant zero is:",
+      "options": [
+        "A) Orthogonal",
+        "B) Singular",
+        "C) Identity",
+        "D) Diagonal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "047f86cd45901c223dc88f80af0a7222402d8f9c",
+      "sectionIndex": 6,
+      "question": "The inverse of a matrix A is denoted:",
+      "options": [
+        "A) A*",
+        "B) A^T",
+        "C) A^(-1)",
+        "D) |A|"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "40f44d6124d0901df74c3f35b1175b99e5809b8f",
+      "sectionIndex": 6,
+      "question": "The transpose of a matrix interchanges:",
+      "options": [
+        "A) Signs",
+        "B) Rows and columns",
+        "C) Diagonal elements",
+        "D) Determinant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79a6475f51428c24e610467ae86fa215e4d0192a",
+      "sectionIndex": 6,
+      "question": "An identity matrix has:",
+      "options": [
+        "A) All elements 1",
+        "B) All elements 0",
+        "C) 1s on diagonal, 0s elsewhere",
+        "D) 0s on diagonal, 1s elsewhere"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cc8c4cde305a37d7abe257898f7dc1722fba1a7f",
+      "sectionIndex": 6,
+      "question": "Two matrices can be multiplied if:",
+      "options": [
+        "A) They have same size",
+        "B) Columns of first = rows of second",
+        "C) Rows of first = columns of second",
+        "D) They are square"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "567f7b545284c6240c1000789fdc966f669eb837",
+      "sectionIndex": 6,
+      "question": "The rank of a matrix is:",
+      "options": [
+        "A) Number of rows",
+        "B) Number of columns",
+        "C) Number of independent rows",
+        "D) Determinant value"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "970d85bf7fa9cc763b31747a88fa790188628756",
+      "sectionIndex": 6,
+      "question": "Eigenvalues satisfy:",
+      "options": [
+        "A) Ax = x",
+        "B) Ax = λx",
+        "C) Ax = 0",
+        "D) Ax = I"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a06d1c58dc11558e532953232e0f8c02986e04b4",
+      "sectionIndex": 6,
+      "question": "A symmetric matrix has:",
+      "options": [
+        "A) A = -A^T",
+        "B) A = A^T",
+        "C) A = A^(-1)",
+        "D) A = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42c5d1d02d5b98c75aa0a70d074c3c4fe784878c",
+      "sectionIndex": 6,
+      "question": "The trace of a matrix is:",
+      "options": [
+        "A) Sum of all elements",
+        "B) Sum of diagonal elements",
+        "C) Product of diagonal elements",
+        "D) Determinant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6219ec1219e343bb855499ade3558517e91fc79",
+      "sectionIndex": 7,
+      "question": "Fourier series represents periodic functions using:",
+      "options": [
+        "A) Polynomials",
+        "B) Exponentials",
+        "C) Sines and cosines",
+        "D) Logarithms"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fcc4a72aff51baab55ef5afeebb8297aa5da2f48",
+      "sectionIndex": 7,
+      "question": "The period of sin(x) + cos(x) is:",
+      "options": [
+        "A) ?",
+        "B) 2?",
+        "C) ?/2",
+        "D) 4?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df7e09dc32c519aa59a1164916b3fb6249c441d0",
+      "sectionIndex": 7,
+      "question": "An even function satisfies:",
+      "options": [
+        "A) f(-x) = -f(x)",
+        "B) f(-x) = f(x)",
+        "C) f(-x) = 0",
+        "D) f(x) = 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa52ecf8d483970c13fa00375a8efe5db8afafd5",
+      "sectionIndex": 7,
+      "question": "An odd function satisfies:",
+      "options": [
+        "A) f(-x) = f(x)",
+        "B) f(-x) = -f(x)",
+        "C) f(-x) = 1",
+        "D) f(x) = -1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e45613b4a3f01a4fb6a1231ab971df5f7b250a1c",
+      "sectionIndex": 7,
+      "question": "The Fourier series of an even function contains only:",
+      "options": [
+        "A) Sines",
+        "B) Cosines",
+        "C) Both",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "242b6f5b6922bd9ff01ac3fbd8e02c3ba16a5b64",
+      "sectionIndex": 7,
+      "question": "The fundamental frequency of a Fourier series is:",
+      "options": [
+        "A) 2?/T",
+        "B) T/2?",
+        "C) 2?T",
+        "D) 1/T"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bb418e2005745bf2c4ee89c9153440d6fa9b6009",
+      "sectionIndex": 7,
+      "question": "Parseval's theorem relates:",
+      "options": [
+        "A) Time and frequency domains",
+        "B) Real and imaginary parts",
+        "C) Amplitude and phase",
+        "D) Period and frequency"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cd6928ebbfef6f6b5c309f3120a77702ff84a1f6",
+      "sectionIndex": 7,
+      "question": "The DC component of a Fourier series is:",
+      "options": [
+        "A) a,?",
+        "B) a,?/2",
+        "C) 2a,?",
+        "D) a,"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b9876804c3705bc822112fc2d453b2d1d75d771",
+      "sectionIndex": 7,
+      "question": "Gibbs phenomenon occurs at:",
+      "options": [
+        "A) Smooth points",
+        "B) Discontinuities",
+        "C) Maxima",
+        "D) Minima"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9e9486706ebd749622784d9a7d05fc58c6e2553",
+      "sectionIndex": 7,
+      "question": "A periodic function with period T satisfies:",
+      "options": [
+        "A) f(x+T) = -f(x)",
+        "B) f(x+T) = f(x)",
+        "C) f(x+T) = 0",
+        "D) f(x+T) = T"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90eb64ce6bd9acad4ac6793d8a698d9d8483b42e",
+      "sectionIndex": 8,
+      "question": "The heat equation is:",
+      "options": [
+        "A) Elliptic",
+        "B) Parabolic",
+        "C) Hyperbolic",
+        "D) None"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56aadf84968724357b7a8d26cec438bf2861cfa2",
+      "sectionIndex": 8,
+      "question": "The wave equation is:",
+      "options": [
+        "A) Elliptic",
+        "B) Parabolic",
+        "C) Hyperbolic",
+        "D) None"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e39d05b246b6becf6380c3625b421eca3c779d0",
+      "sectionIndex": 8,
+      "question": "Laplace's equation is:",
+      "options": [
+        "A) Elliptic",
+        "B) Parabolic",
+        "C) Hyperbolic",
+        "D) None"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "48dda7371253e3628a5851affeb910cfd690bcfa",
+      "sectionIndex": 8,
+      "question": "The heat equation involves derivatives with respect to:",
+      "options": [
+        "A) Space only",
+        "B) Time only",
+        "C) Space and time",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2a9e4fbd3963cc38763d747120a90d43fb109611",
+      "sectionIndex": 8,
+      "question": "Boundary conditions specify values at:",
+      "options": [
+        "A) Initial time",
+        "B) Boundaries of domain",
+        "C) Interior points",
+        "D) Final time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17b90e9044c853144b5dcee5701841e5cf4b32b1",
+      "sectionIndex": 8,
+      "question": "Initial conditions specify values at:",
+      "options": [
+        "A) t = 0",
+        "B) Boundaries",
+        "C) t = ^z",
+        "D) Random points"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "67951e75fcde6ba034a6b5f1c405a9f565b98106",
+      "sectionIndex": 8,
+      "question": "The method of separation of variables assumes solution form:",
+      "options": [
+        "A) u = X + T",
+        "B) u = X - T",
+        "C) u = X(x)T(t)",
+        "D) u = X/T"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "65e77c41757ff305735e0e8f5923e58e573785e0",
+      "sectionIndex": 8,
+      "question": "D'Alembert's solution applies to:",
+      "options": [
+        "A) Heat equation",
+        "B) Wave equation",
+        "C) Laplace equation",
+        "D) Poisson equation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd5ece85079bc63bce9f9f2e80936d66c1b7d1e7",
+      "sectionIndex": 8,
+      "question": "The maximum principle applies to:",
+      "options": [
+        "A) Wave equation",
+        "B) Heat equation",
+        "C) Both",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bf8e0166be348edfc0178dd1b0964a556c63d79",
+      "sectionIndex": 8,
+      "question": "A well-posed problem requires:",
+      "options": [
+        "A) Solution exists",
+        "B) Solution is unique",
+        "C) Solution depends continuously on data",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0d5c411a73c95d176953d798164d24dda7c2cfff",
+      "sectionIndex": 9,
+      "question": "At a local minimum, the first derivative is:",
+      "options": [
+        "A) Positive",
+        "B) Negative",
+        "C) Zero",
+        "D) Undefined"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5f8f566615900ab534bd9e291e7b1e08dab0b793",
+      "sectionIndex": 9,
+      "question": "The second derivative test checks for:",
+      "options": [
+        "A) Existence",
+        "B) Continuity",
+        "C) Maximum or minimum",
+        "D) Inflection points"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "60984543d21b907fa392645b891f44dc66d7747d",
+      "sectionIndex": 9,
+      "question": "In linear programming, the feasible region is:",
+      "options": [
+        "A) Always unbounded",
+        "B) Always bounded",
+        "C) Set of all feasible solutions",
+        "D) Empty set"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dc2b803bfe10685ffd587971648815e21407fefc",
+      "sectionIndex": 9,
+      "question": "The objective function in optimization is:",
+      "options": [
+        "A) A constraint",
+        "B) Function to maximize/minimize",
+        "C) Always linear",
+        "D) Always quadratic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07aeb7d5981b39bbae71add22c6b4c794150d453",
+      "sectionIndex": 9,
+      "question": "Lagrange multipliers are used for:",
+      "options": [
+        "A) Unconstrained optimization",
+        "B) Constrained optimization",
+        "C) Integration",
+        "D) Differentiation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "454e579aee5e83eaa15609efee31b8a2188bb486",
+      "sectionIndex": 9,
+      "question": "In statics, moment equals:",
+      "options": [
+        "A) Force - time",
+        "B) Force - distance",
+        "C) Mass - velocity",
+        "D) Mass - acceleration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8f7990fb508383ed72ed4f337125bd782247a14",
+      "sectionIndex": 9,
+      "question": "For a body in equilibrium, sum of moments equals:",
+      "options": [
+        "A) 1",
+        "B) 0",
+        "C) -1",
+        "D) Force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf0fc18f93d1b044d5f98ac48094a953235ae76b",
+      "sectionIndex": 9,
+      "question": "The centroid of a triangle is located at:",
+      "options": [
+        "A) Vertex",
+        "B) Midpoint of side",
+        "C) Intersection of medians",
+        "D) Center of circumcircle"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "226f67fe87f5887a5e7c699363af66865addfb26",
+      "sectionIndex": 9,
+      "question": "Friction force is proportional to:",
+      "options": [
+        "A) Area of contact",
+        "B) Normal force",
+        "C) Velocity",
+        "D) Acceleration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bfb08410861d84fe89233b97d39e1572c76025a",
+      "sectionIndex": 9,
+      "question": "The coefficient of static friction is:",
+      "options": [
+        "A) Less than kinetic friction",
+        "B) Greater than kinetic friction",
+        "C) Equal to kinetic friction",
+        "D) Always 1"
+      ],
+      "correct": "B"
+    }
+  ]
+}

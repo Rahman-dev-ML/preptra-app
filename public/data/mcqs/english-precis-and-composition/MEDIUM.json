@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T12:51:17.650Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "31a01f097ef3cfd25db5420f9fab56e89e8c0619",
+      "sectionIndex": 0,
+      "question": "Choose the correct form: \"Had I known about the meeting, I _____ attended.\"",
+      "options": [
+        "A) would",
+        "B) would have",
+        "C) will have",
+        "D) would had"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02a2344b789e83c1c37288fb87c3b1c480392f8e",
+      "sectionIndex": 0,
+      "question": "Identify the error: \"Being a rainy day, I stayed indoors.\"",
+      "options": [
+        "A) Being should be \"It being\"",
+        "B) No error",
+        "C) \"rainy\" should be \"rain\"",
+        "D) \"stayed\" should be \"stay\""
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d1c2a71085842ad67e8721d4729b0a6894c89a64",
+      "sectionIndex": 0,
+      "question": "Choose the correct sentence:",
+      "options": [
+        "A) Neither the students nor the teacher were present",
+        "B) Neither the students nor the teacher was present",
+        "C) Neither the student nor the teachers was present",
+        "D) Neither students nor teacher were present"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5598a9629acf558e561ec6c3295de0c0aca392c",
+      "sectionIndex": 0,
+      "question": "The subjunctive mood is used in:",
+      "options": [
+        "A) I wish I was rich",
+        "B) I wish I were rich",
+        "C) I wish I am rich",
+        "D) I wish I will be rich"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cc96602867ac97e348d4f0626465280a204b281",
+      "sectionIndex": 0,
+      "question": "Identify the dangling modifier: \"Walking down the street, the trees were beautiful.\"",
+      "options": [
+        "A) \"Walking down the street\"",
+        "B) \"the trees\"",
+        "C) \"were beautiful\"",
+        "D) No dangling modifier"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "896f5a9fad0186bd53b420c9daee1f5f99fdff87",
+      "sectionIndex": 0,
+      "question": "Choose the correct form: \"It's high time we _____ home.\"",
+      "options": [
+        "A) go",
+        "B) went",
+        "C) have gone",
+        "D) will go"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d851476be7b9d896dd891c63807f30bc7d90cc02",
+      "sectionIndex": 0,
+      "question": "The sentence \"The more you study, the better you perform\" is an example of:",
+      "options": [
+        "A) Comparative degree",
+        "B) Parallel comparison",
+        "C) Superlative degree",
+        "D) Positive degree"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7da7ccdf5e82ac321bee9750521abb70eaa7211",
+      "sectionIndex": 0,
+      "question": "Select the grammatically correct sentence:",
+      "options": [
+        "A) Between you and I, this is wrong",
+        "B) Between you and me, this is wrong",
+        "C) Between you and myself, this is wrong",
+        "D) Between yourself and me, this is wrong"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e003e68a88d7e78ce3daf1ee50f4556937da641",
+      "sectionIndex": 0,
+      "question": "\"Scarcely had he arrived when the meeting began\" uses:",
+      "options": [
+        "A) Simple past",
+        "B) Past perfect with inversion",
+        "C) Present perfect",
+        "D) Future perfect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b586ff27d404dbd8a81a5b5829f27d5bfde2f609",
+      "sectionIndex": 0,
+      "question": "The correct sequence of tenses requires:",
+      "options": [
+        "A) Random tense usage",
+        "B) Logical time relationship",
+        "C) Same tense throughout",
+        "D) Present tense only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "854d010b7f37a033ff557b7dc9f1cb2c5a38ca79",
+      "sectionIndex": 1,
+      "question": "Synonym of \"ANATHEMA\":",
+      "options": [
+        "A) Blessing",
+        "B) Curse",
+        "C) Prayer",
+        "D) Hymn"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba7a0162ef96b5b7347988d936e28c085bfb540a",
+      "sectionIndex": 1,
+      "question": "Synonym of \"DENOUEMENT\":",
+      "options": [
+        "A) Beginning",
+        "B) Middle",
+        "C) Resolution",
+        "D) Conflict"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f64e5bd7df7b4876350a613c5971d9ce1d90930c",
+      "sectionIndex": 1,
+      "question": "Synonym of \"APOTHEOSIS\":",
+      "options": [
+        "A) Degradation",
+        "B) Glorification",
+        "C) Simplification",
+        "D) Rejection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7596c2c4af86eb755c51c54840e808ed51cb72e5",
+      "sectionIndex": 1,
+      "question": "Synonym of \"TORPOR\":",
+      "options": [
+        "A) Energy",
+        "B) Lethargy",
+        "C) Speed",
+        "D) Enthusiasm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e66d2b80eaecfdd020a1ff5cdc8585020891aee6",
+      "sectionIndex": 1,
+      "question": "Synonym of \"ACRIMONIOUS\":",
+      "options": [
+        "A) Sweet",
+        "B) Bitter",
+        "C) Neutral",
+        "D) Pleasant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de765f59c60eac565922afe024e2be7da44ee757",
+      "sectionIndex": 1,
+      "question": "Synonym of \"LACONIC\":",
+      "options": [
+        "A) Verbose",
+        "B) Concise",
+        "C) Elaborate",
+        "D) Detailed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9950cfb26527dfdbdcfec66e352cb8a9dd99d16f",
+      "sectionIndex": 1,
+      "question": "Synonym of \"CHRONICLE\":",
+      "options": [
+        "A) Future",
+        "B) Record",
+        "C) Forget",
+        "D) Imagine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34d3015b0a3be20d776ed204017183b387967fae",
+      "sectionIndex": 1,
+      "question": "Synonym of \"FRUGAL\":",
+      "options": [
+        "A) Wasteful",
+        "B) Generous",
+        "C) Economical",
+        "D) Lavish"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c779018dcf79f3ef6f3f8beaa14695f006ffadd0",
+      "sectionIndex": 1,
+      "question": "Synonym of \"SEQUESTER\":",
+      "options": [
+        "A) Join",
+        "B) Isolate",
+        "C) Welcome",
+        "D) Introduce"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4db429cc49274f36943e69fadba5a57ec8ea806a",
+      "sectionIndex": 1,
+      "question": "Synonym of \"BRISTLE\":",
+      "options": [
+        "A) Smooth",
+        "B) React angrily",
+        "C) Calm down",
+        "D) Ignore"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bde14914b0570441387b0c5c7b9a009e70687968",
+      "sectionIndex": 2,
+      "question": "Antonym of \"DELETERIOUS\":",
+      "options": [
+        "A) Harmful",
+        "B) Beneficial",
+        "C) Neutral",
+        "D) Dangerous"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9f5c24e22161875409b021d88576d5743d483fe",
+      "sectionIndex": 2,
+      "question": "Antonym of \"CAPRICIOUS\":",
+      "options": [
+        "A) Whimsical",
+        "B) Steady",
+        "C) Changeable",
+        "D) Moody"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3836e72238911e35312e7e2f9bd34633d9a4a82d",
+      "sectionIndex": 2,
+      "question": "Antonym of \"TURBID\":",
+      "options": [
+        "A) Muddy",
+        "B) Clear",
+        "C) Thick",
+        "D) Opaque"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c45019d4b607263148f52f07b237e972c753fff5",
+      "sectionIndex": 2,
+      "question": "Antonym of \"VULGAR\":",
+      "options": [
+        "A) Common",
+        "B) Refined",
+        "C) Crude",
+        "D) Coarse"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ea69bde1306f6710abe1b77f865380790f7dbb5",
+      "sectionIndex": 2,
+      "question": "Antonym of \"HYPOCRISY\":",
+      "options": [
+        "A) Deception",
+        "B) Sincerity",
+        "C) Pretense",
+        "D) Falseness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5b31e49175ba8aa6debd16184addbf3dc7dd195",
+      "sectionIndex": 2,
+      "question": "Antonym of \"INCLEMENT\":",
+      "options": [
+        "A) Harsh",
+        "B) Pleasant",
+        "C) Severe",
+        "D) Stormy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1aad3df110201d262171b3a9bb995f7fa884a1e",
+      "sectionIndex": 2,
+      "question": "Antonym of \"ANNIHILATE\":",
+      "options": [
+        "A) Destroy",
+        "B) Create",
+        "C) Damage",
+        "D) Ruin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e33218ce5fca2b471c06618bf8f29713672e4401",
+      "sectionIndex": 2,
+      "question": "Antonym of \"OBTUSE\":",
+      "options": [
+        "A) Dull",
+        "B) Sharp",
+        "C) Stupid",
+        "D) Slow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98dfd10550e9e411f13d0360c398003c760580f2",
+      "sectionIndex": 2,
+      "question": "Antonym of \"PARSIMONY\":",
+      "options": [
+        "A) Stinginess",
+        "B) Generosity",
+        "C) Thrift",
+        "D) Economy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b77df836b0b33d8ae060ce37291f556e59da1557",
+      "sectionIndex": 2,
+      "question": "Antonym of \"SANGUINE\":",
+      "options": [
+        "A) Optimistic",
+        "B) Pessimistic",
+        "C) Hopeful",
+        "D) Cheerful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f47697be714d35d4aafce4a77b870411b7a9a7b",
+      "sectionIndex": 3,
+      "question": "Differentiate: \"Adverse\" means unfavorable; \"Averse\" means:",
+      "options": [
+        "A) Favorable",
+        "B) Reluctant",
+        "C) Supportive",
+        "D) Harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a8188e582879d0331895fc614b019bb32a25d05",
+      "sectionIndex": 3,
+      "question": "\"Discreet\" means careful; \"Discrete\" means:",
+      "options": [
+        "A) Careless",
+        "B) Separate",
+        "C) United",
+        "D) Cautious"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e488b040cfbab5bdae0238589a0ae72226c573c",
+      "sectionIndex": 3,
+      "question": "\"Emigrate\" means to leave; \"Immigrate\" means:",
+      "options": [
+        "A) To depart",
+        "B) To enter",
+        "C) To travel",
+        "D) To exit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68630196bbeadf69aa04ed0a8f4f7e522b3c1f8b",
+      "sectionIndex": 3,
+      "question": "\"Venal\" means corruptible; \"Venial\" means:",
+      "options": [
+        "A) Serious",
+        "B) Forgivable",
+        "C) Corrupt",
+        "D) Unforgivable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea67433995f544e6a207a43f117698ed3c02da6a",
+      "sectionIndex": 3,
+      "question": "\"Auger\" is a tool; \"Augur\" means:",
+      "options": [
+        "A) To drill",
+        "B) To predict",
+        "C) To cut",
+        "D) To measure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "730573391f9834f057ee9e6029df1df42509423c",
+      "sectionIndex": 3,
+      "question": "\"Born\" means given birth; \"Borne\" means:",
+      "options": [
+        "A) Created",
+        "B) Carried",
+        "C) Delivered",
+        "D) Produced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0255f5d861f06e9c0959be1614f6801c101c3d04",
+      "sectionIndex": 3,
+      "question": "\"Gibe\" means to mock; \"Jibe\" means:",
+      "options": [
+        "A) To insult",
+        "B) To agree",
+        "C) To laugh",
+        "D) To criticize"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8957399b19be6ff3e9ed556b01d07528a6244a81",
+      "sectionIndex": 3,
+      "question": "\"Incredulous\" means skeptical; \"Incredible\" means:",
+      "options": [
+        "A) Believable",
+        "B) Unbelievable",
+        "C) Trusting",
+        "D) Doubtful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7852ee8f299b003b5c6918e73c97c54e4e54ab0a",
+      "sectionIndex": 3,
+      "question": "\"Persecute\" means to oppress; \"Prosecute\" means:",
+      "options": [
+        "A) To defend",
+        "B) To take legal action",
+        "C) To harass",
+        "D) To protect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6c5adac460426893e91529c17591676ce3d1eef",
+      "sectionIndex": 3,
+      "question": "\"Elicit\" means to draw out; \"Illicit\" means:",
+      "options": [
+        "A) Legal",
+        "B) Illegal",
+        "C) Open",
+        "D) Hidden"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe1ab133ff19aa9328ef66935b487c2e7db281f8",
+      "sectionIndex": 4,
+      "question": "\"To beard the lion in his den\" means:",
+      "options": [
+        "A) To be cowardly",
+        "B) To confront someone on their territory",
+        "C) To run away",
+        "D) To hunt animals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39e737b51beeb97e0c121f5647a07e6a28b0f1a4",
+      "sectionIndex": 4,
+      "question": "\"A wild goose chase\" refers to:",
+      "options": [
+        "A) Hunting birds",
+        "B) A futile pursuit",
+        "C) A successful search",
+        "D) An easy task"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e42d4c255f5a26c813a9b8aa5f41e6014ba9b3d5",
+      "sectionIndex": 4,
+      "question": "\"To have an axe to grind\" means:",
+      "options": [
+        "A) To sharpen tools",
+        "B) To have a personal interest",
+        "C) To be prepared",
+        "D) To work hard"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3dad9dc0e680b7cb393c1c0214d59a9564070b5e",
+      "sectionIndex": 4,
+      "question": "\"The writing on the wall\" signifies:",
+      "options": [
+        "A) Graffiti",
+        "B) Clear signs of doom",
+        "C) Ancient texts",
+        "D) Modern art"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "639b7c2f608421216ff567c37bb16d8181223697",
+      "sectionIndex": 4,
+      "question": "\"To throw down the gauntlet\" means:",
+      "options": [
+        "A) To surrender",
+        "B) To issue a challenge",
+        "C) To give up",
+        "D) To lose something"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b840d4fc51b488eefd9fbade10eec664b5a36d6e",
+      "sectionIndex": 4,
+      "question": "\"A red herring\" is:",
+      "options": [
+        "A) A type of fish",
+        "B) A misleading clue",
+        "C) A danger sign",
+        "D) A solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77aa43fc9e5c1b2f32fdeff2f3f6fae330d7d655",
+      "sectionIndex": 4,
+      "question": "\"To be in the doldrums\" means:",
+      "options": [
+        "A) To be happy",
+        "B) To be depressed",
+        "C) To be busy",
+        "D) To be successful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64567c5e28b07b159cedb2693ee2fe2834be2faa",
+      "sectionIndex": 4,
+      "question": "\"Murphy's Law\" states:",
+      "options": [
+        "A) Everything works perfectly",
+        "B) What can go wrong will go wrong",
+        "C) Success is guaranteed",
+        "D) Planning prevents problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c4178a674bf6d38642f22921ac9b97995e70747",
+      "sectionIndex": 4,
+      "question": "\"Hobson's choice\" means:",
+      "options": [
+        "A) Many options",
+        "B) No choice at all",
+        "C) Best choice",
+        "D) Difficult choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f29386c3aa88de2f87290cdcc4c27becc30c4e5e",
+      "sectionIndex": 4,
+      "question": "\"To play devil's advocate\" means:",
+      "options": [
+        "A) To be evil",
+        "B) To argue the opposing view",
+        "C) To support wrongdoing",
+        "D) To be religious"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fef46436a8c3d5bc3e3cac1d3d7bcc97bf7d1676",
+      "sectionIndex": 5,
+      "question": "The main purpose of a précis is to:",
+      "options": [
+        "A) Expand the original",
+        "B) Condense while retaining essence",
+        "C) Add personal opinions",
+        "D) Change the meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9af5d006794cf5ae8be2f9e05ca2dd848eb287f2",
+      "sectionIndex": 5,
+      "question": "In précis writing, the ideal length is:",
+      "options": [
+        "A) Half the original",
+        "B) One-third of original",
+        "C) Same as original",
+        "D) Double the original"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a1de8940f12de7e8aaa7b6918c46d42d2493c54",
+      "sectionIndex": 5,
+      "question": "When answering comprehension questions about \"tone,\" look for:",
+      "options": [
+        "A) Facts only",
+        "B) Author's attitude",
+        "C) Grammar",
+        "D) Length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6422031669a432641edf8b22c52910e5821fc10",
+      "sectionIndex": 5,
+      "question": "\"Inference\" questions require:",
+      "options": [
+        "A) Copying from text",
+        "B) Drawing conclusions",
+        "C) Personal opinion",
+        "D) Guessing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a603d5e464f9ce4dbb570a6afb86fb043a8bc63",
+      "sectionIndex": 5,
+      "question": "The term \"context\" in vocabulary questions means:",
+      "options": [
+        "A) Dictionary definition",
+        "B) Surrounding words/ideas",
+        "C) Etymology",
+        "D) Pronunciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be3b415bb761628ec4a13a1f7de516b67eb99a80",
+      "sectionIndex": 5,
+      "question": "A suitable title for a passage should be:",
+      "options": [
+        "A) Very long",
+        "B) Comprehensive yet concise",
+        "C) Unrelated",
+        "D) Copied from text"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "974167840d3060a4b7e52752645571090692fc69",
+      "sectionIndex": 5,
+      "question": "\"The author's purpose\" refers to:",
+      "options": [
+        "A) Biography",
+        "B) Intention behind writing",
+        "C) Word count",
+        "D) Publication date"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12c7aa3c29179b72cb041a4a590985b709c16c01",
+      "sectionIndex": 5,
+      "question": "Critical reading involves:",
+      "options": [
+        "A) Finding faults only",
+        "B) Analyzing and evaluating",
+        "C) Speed reading",
+        "D) Memorizing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20a4eb1656f8e555d6e8ba648d8cf6c4b7d89565",
+      "sectionIndex": 5,
+      "question": "Identifying the \"main idea\" requires:",
+      "options": [
+        "A) Reading first sentence only",
+        "B) Understanding overall message",
+        "C) Counting paragraphs",
+        "D) Reading last sentence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0644c4486e178873fcd6c2078c6ea9b8f03253f4",
+      "sectionIndex": 5,
+      "question": "\"Reading between the lines\" means:",
+      "options": [
+        "A) Literal reading",
+        "B) Understanding implicit meaning",
+        "C) Skipping lines",
+        "D) Speed reading"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "742a61922746516ede10e988bd6e914cec7fc924",
+      "sectionIndex": 6,
+      "question": "Correct: \"The reason why he failed was because he didn't study.\"",
+      "options": [
+        "A) The reason he failed was that he didn't study",
+        "B) The reason why he failed was that he didn't study",
+        "C) He failed was because he didn't study",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1d5c8d9a084206202e3475215345d869ede470d0",
+      "sectionIndex": 6,
+      "question": "Fix redundancy: \"The final outcome of the match was unexpected.\"",
+      "options": [
+        "A) The final of the match was unexpected",
+        "B) The outcome of the match was unexpected",
+        "C) The final outcome was unexpected",
+        "D) No correction needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a40cb398beede9c8a56d9e69119188bfd02592a",
+      "sectionIndex": 6,
+      "question": "Correct: \"He is one of those who has succeeded.\"",
+      "options": [
+        "A) He is one of those who have succeeded",
+        "B) He is one who has succeeded",
+        "C) He is one of those who had succeeded",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "475cfcc756f9a9fc72f73c6f31ef3bd72430bbff",
+      "sectionIndex": 6,
+      "question": "Fix: \"I could not help but laugh.\"",
+      "options": [
+        "A) I could not help laughing",
+        "B) I could not help to laugh",
+        "C) I could not help but laughing",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "188ff94e5bec0c3689bb2187d22742c3190fa7d7",
+      "sectionIndex": 6,
+      "question": "Correct: \"The data is convincing.\"",
+      "options": [
+        "A) The data are convincing",
+        "B) The datas are convincing",
+        "C) The datum is convincing",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2bde9cd0c1f3b6c2c4b318634eedea2da34a5e2b",
+      "sectionIndex": 6,
+      "question": "Fix: \"Everyone should do their best.\"",
+      "options": [
+        "A) Everyone should do his best",
+        "B) Everyone should do his or her best",
+        "C) Everyone should do one's best",
+        "D) Both A and B are correct"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "cf2fab5cc042c7c76a159d279a7fb594e02843d9",
+      "sectionIndex": 6,
+      "question": "Correct: \"He is regarded to be a genius.\"",
+      "options": [
+        "A) He is regarded as a genius",
+        "B) He is regarded being a genius",
+        "C) He is regarded as being a genius",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3059dddd35ea3aaaaee6e0c0427b339a57c82f81",
+      "sectionIndex": 6,
+      "question": "Fix: \"The committee are divided in their opinion.\"",
+      "options": [
+        "A) The committee is divided in its opinion",
+        "B) The committee are divided in its opinion",
+        "C) The committee is divided in their opinion",
+        "D) Both A and B are correct"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "614c81e5179504ffc4bc06d5e720bf7c8fba819c",
+      "sectionIndex": 6,
+      "question": "Correct: \"He insisted to go alone.\"",
+      "options": [
+        "A) He insisted on going alone",
+        "B) He insisted in going alone",
+        "C) He insisted for going alone",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "edeff75ab59ca84ae4d5bda2d682ec709f75d7b2",
+      "sectionIndex": 6,
+      "question": "Fix: \"The news are shocking.\"",
+      "options": [
+        "A) The news is shocking",
+        "B) The news were shocking",
+        "C) The newses are shocking",
+        "D) No correction needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c7570b2c062a670f985a9138cdea1d11e2fad9b3",
+      "sectionIndex": 7,
+      "question": "A metaphor differs from a simile by:",
+      "options": [
+        "A) Using \"like\" or \"as\"",
+        "B) Not using \"like\" or \"as\"",
+        "C) Being longer",
+        "D) Being shorter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74268a8be5a667383cfa5b915ba7c2a8182d8ea2",
+      "sectionIndex": 7,
+      "question": "\"The pen is mightier than the sword\" is an example of:",
+      "options": [
+        "A) Simile",
+        "B) Metonymy",
+        "C) Hyperbole",
+        "D) Personification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71298f4c6d619a711acabb08a93433c23ebdadcf",
+      "sectionIndex": 7,
+      "question": "Irony involves:",
+      "options": [
+        "A) Direct statement",
+        "B) Opposite of expected meaning",
+        "C) Exaggeration",
+        "D) Comparison"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11dce59f8e861d8196dca7d1181854a86fccc3fd",
+      "sectionIndex": 7,
+      "question": "Alliteration is:",
+      "options": [
+        "A) Rhyme at end",
+        "B) Repetition of initial consonants",
+        "C) Vowel sounds",
+        "D) Sentence structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4aba69af1338902726d045d7246def051755d14",
+      "sectionIndex": 7,
+      "question": "An oxymoron combines:",
+      "options": [
+        "A) Similar ideas",
+        "B) Contradictory terms",
+        "C) Three words",
+        "D) Foreign words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a6fe1cd9724ced977a0c560d75aff167eee6326",
+      "sectionIndex": 7,
+      "question": "Euphemism is used to:",
+      "options": [
+        "A) Exaggerate",
+        "B) Soften harsh reality",
+        "C) Create humor",
+        "D) Show anger"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a658dfd364283bcb2bd79c2cc38de4f5a58ca04",
+      "sectionIndex": 7,
+      "question": "Hyperbole is:",
+      "options": [
+        "A) Understatement",
+        "B) Deliberate exaggeration",
+        "C) Exact description",
+        "D) Subtle hint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a41bdc214f698ca2288e98ce04da0d5afa05b97",
+      "sectionIndex": 7,
+      "question": "Paradox presents:",
+      "options": [
+        "A) Simple truth",
+        "B) Apparent contradiction with truth",
+        "C) False statement",
+        "D) Question"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86ef6c6b2e68196184f39131daf3528a1b8e20fa",
+      "sectionIndex": 7,
+      "question": "Synecdoche uses:",
+      "options": [
+        "A) Whole for whole",
+        "B) Part for whole",
+        "C) Unrelated items",
+        "D) Sound effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fdcc2a5c0b5398af85fb7812b697d904ac9598a",
+      "sectionIndex": 7,
+      "question": "Personification gives:",
+      "options": [
+        "A) Animal traits to humans",
+        "B) Human traits to non-humans",
+        "C) Object traits to humans",
+        "D) No traits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb4688ac6ad086475cedcbc1232d1f7b3e2eb7a3",
+      "sectionIndex": 8,
+      "question": "The semicolon in \"I came; I saw; I conquered\" serves to:",
+      "options": [
+        "A) End sentences",
+        "B) Link related independent clauses",
+        "C) Introduce a list",
+        "D) Show possession"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb7e8bcc233c22df44b5ac8325cea691bbfb2e81",
+      "sectionIndex": 8,
+      "question": "Em dash (?\") is primarily used for:",
+      "options": [
+        "A) Hyphenation",
+        "B) Emphasis or interruption",
+        "C) Subtraction",
+        "D) Connecting words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbf9f4dd3dcbe7a15a070941c1b3053c5cd46de1",
+      "sectionIndex": 8,
+      "question": "Parentheses indicate:",
+      "options": [
+        "A) Most important information",
+        "B) Additional or clarifying information",
+        "C) Quotations",
+        "D) Titles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1d9ad6298cd96e782eb15615c9058f83aa27c9b",
+      "sectionIndex": 8,
+      "question": "The Oxford comma appears:",
+      "options": [
+        "A) After Oxford",
+        "B) Before 'and' in a series",
+        "C) Only in England",
+        "D) Never in lists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e728b31ad8d0c431e5a079533b2bf52bcec61624",
+      "sectionIndex": 8,
+      "question": "Ellipsis (...) indicates:",
+      "options": [
+        "A) End of sentence",
+        "B) Omission or pause",
+        "C) Excitement",
+        "D) Question"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a24bc8ef83ea18bbc7b2052c8a3bcf2dd3aaf4d4",
+      "sectionIndex": 8,
+      "question": "Square brackets [ ] are used to:",
+      "options": [
+        "A) Quote directly",
+        "B) Add editorial information",
+        "C) Show emphasis",
+        "D) End paragraphs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3490adc52da253048537e0e92aa48c630ce1a8e2",
+      "sectionIndex": 8,
+      "question": "A colon should NOT be used:",
+      "options": [
+        "A) Before a list",
+        "B) After a complete sentence",
+        "C) After \"including\"",
+        "D) Before explanation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5daaa2f6ac641e4e1b2f47e5ec404bb8ed7008e6",
+      "sectionIndex": 8,
+      "question": "Apostrophe in \"James's book\" shows:",
+      "options": [
+        "A) Plural",
+        "B) Singular possessive",
+        "C) Contraction",
+        "D) Emphasis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0b9db732f8b52ebe35843864e852aaebb799b7d",
+      "sectionIndex": 8,
+      "question": "Quotation marks for titles are used for:",
+      "options": [
+        "A) Books",
+        "B) Short works",
+        "C) Movies",
+        "D) Albums"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "639ab4bd621f4cc8d185c2b9b8b22e9b17713ee5",
+      "sectionIndex": 8,
+      "question": "The interrobang (?) combines:",
+      "options": [
+        "A) Period and comma",
+        "B) Question and exclamation",
+        "C) Colon and semicolon",
+        "D) Quotes and apostrophe"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c34222bfc13ed905a7ce390941de4c7a18b96d37",
+      "sectionIndex": 9,
+      "question": "A thesis statement should:",
+      "options": [
+        "A) Ask a question",
+        "B) State the main argument",
+        "C) Be very general",
+        "D) Appear in conclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdfd8413230760646d659be606adef381ebd9a4b",
+      "sectionIndex": 9,
+      "question": "Topic sentences:",
+      "options": [
+        "A) End paragraphs",
+        "B) Begin paragraphs with main idea",
+        "C) Only ask questions",
+        "D) Contain all details"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1167228f7bc61643935a95221c344aa58c728783",
+      "sectionIndex": 9,
+      "question": "Transitions help to:",
+      "options": [
+        "A) End essays",
+        "B) Connect ideas smoothly",
+        "C) Add length",
+        "D) Confuse readers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b11fa030068a61e0e821fdcb73522d7d669c3f79",
+      "sectionIndex": 9,
+      "question": "Evidence in essays should be:",
+      "options": [
+        "A) Only personal opinion",
+        "B) Relevant and credible",
+        "C) Made up",
+        "D) Avoided"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc02e39203aa536ea558ca22e554e9c450ccf96a",
+      "sectionIndex": 9,
+      "question": "Counter-arguments should be:",
+      "options": [
+        "A) Ignored",
+        "B) Acknowledged and addressed",
+        "C) Mocked",
+        "D) Accepted fully"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8444335bb2d0a8598440018cac5fb114684acfc4",
+      "sectionIndex": 9,
+      "question": "The conclusion should:",
+      "options": [
+        "A) Introduce new ideas",
+        "B) Synthesize without repetition",
+        "C) Copy introduction",
+        "D) Ask questions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28f3c1da689d8c851c40ac9a603398cdad14711c",
+      "sectionIndex": 9,
+      "question": "Analytical writing differs from descriptive by:",
+      "options": [
+        "A) Being shorter",
+        "B) Examining 'why' and 'how'",
+        "C) Avoiding evidence",
+        "D) Using more adjectives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0e00845ef0d9e5fe1e363962134559dde53699f",
+      "sectionIndex": 9,
+      "question": "Coherence in writing means:",
+      "options": [
+        "A) Using big words",
+        "B) Logical flow of ideas",
+        "C) Long sentences",
+        "D) Complex grammar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2203bd5294d945941cdbb4a99259cd59dfba0ef4",
+      "sectionIndex": 9,
+      "question": "Academic tone requires:",
+      "options": [
+        "A) Slang and contractions",
+        "B) Formal, objective language",
+        "C) Personal anecdotes only",
+        "D) Emotional appeals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a8d6dd3fdb2c3c6e609ac9e830e20d0a257070e",
+      "sectionIndex": 9,
+      "question": "Effective argumentation includes:",
+      "options": [
+        "A) Only one viewpoint",
+        "B) Logic, evidence, and reasoning",
+        "C) Emotional manipulation",
+        "D) Avoiding controversy"
+      ],
+      "correct": "B"
+    }
+  ]
+}

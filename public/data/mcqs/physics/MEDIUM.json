@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:34:09.933Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1dbdd8bd22cd793b4fccd142450b28881e8ad550",
+      "sectionIndex": 0,
+      "question": "If A = 2i + 3j - k and B = i - 2j + 3k, then A-B equals:",
+      "options": [
+        "A) -7",
+        "B) -5",
+        "C) 5",
+        "D) 7"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "51abac8e71e9f0b9af1b46cfcba6d5ac8afe7d7b",
+      "sectionIndex": 0,
+      "question": "The curl of a gradient of any scalar function is always:",
+      "options": [
+        "A) Non-zero",
+        "B) Zero",
+        "C) Unity",
+        "D) Infinity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2b301ce75b83eada2e1a0fb0980aa12f6c824c1",
+      "sectionIndex": 0,
+      "question": "For vectors A = 6i - 8j, the magnitude of 4A is:",
+      "options": [
+        "A) 10",
+        "B) 20",
+        "C) 40",
+        "D) 100"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "830978ecf083122639f15f710a39e81ac9b02419",
+      "sectionIndex": 0,
+      "question": "The angle between vectors A = i + j and B = i - j is:",
+      "options": [
+        "A) 0°",
+        "B) 45°",
+        "C) 90°",
+        "D) 180°"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d2968432b3c150025325b6cce3a93413595ab5cc",
+      "sectionIndex": 0,
+      "question": "If ^?-V represents divergence, what does ^?-V represent?",
+      "options": [
+        "A) Gradient",
+        "B) Curl",
+        "C) Laplacian",
+        "D) Scalar product"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6b95cf76105b950b10baba5b05391c5d4a61513",
+      "sectionIndex": 0,
+      "question": "The volume of a parallelepiped formed by vectors A, B, and C is given by:",
+      "options": [
+        "A) A-(B-C)",
+        "B) A-(B-C)",
+        "C) (A-B)-C",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a7a630ba1db35859f9f273a140c120f12ab71761",
+      "sectionIndex": 0,
+      "question": "For the position vector r = xi + yj + zk, ^?-r equals:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 3",
+        "D) r"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aaf4574283c66ccde5300d3b493fe18031cfed21",
+      "sectionIndex": 0,
+      "question": "The vector triple product A-(B-C) equals:",
+      "options": [
+        "A) B(A-C) - C(A-B)",
+        "B) C(A-B) - B(A-C)",
+        "C) (A-B)C - (A-C)B",
+        "D) (A-B)-C"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e2761a540b724b03d4d4a440a936f6fd199dc21e",
+      "sectionIndex": 0,
+      "question": "If two vectors of equal magnitude have a resultant of the same magnitude, the angle between them is:",
+      "options": [
+        "A) 60°",
+        "B) 90°",
+        "C) 120°",
+        "D) 180°"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f98f9777fbdc764ec1cb69e8031d159dfc7bfc3a",
+      "sectionIndex": 0,
+      "question": "The Laplacian operator ^?2 in Cartesian coordinates is:",
+      "options": [
+        "A) ^,/^,x + ^,/^,y + ^,/^,z",
+        "B) ^,2/^,x2 + ^,2/^,y2 + ^,2/^,z2",
+        "C) (^,/^,x)2 + (^,/^,y)2 + (^,/^,z)2",
+        "D) ^,2/^,x^,y^,z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "179c26cb4943ab218393310f486e7d76c586b0fd",
+      "sectionIndex": 1,
+      "question": "A projectile is launched at 45° with initial velocity v,?. Its maximum height is:",
+      "options": [
+        "A) v,?2/g",
+        "B) v,?2/2g",
+        "C) v,?2/4g",
+        "D) v,?2/8g"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4c54ed5118cc3fbc0749075a28e5cd285fc79471",
+      "sectionIndex": 1,
+      "question": "For a mass-spring system with mass m and spring constant k, the period is:",
+      "options": [
+        "A) 2?^s(k/m)",
+        "B) 2?^s(m/k)",
+        "C) ^s(m/k)",
+        "D) ^s(k/m)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36e1816cc4c82938cec07dcc87d47da2aa204af6",
+      "sectionIndex": 1,
+      "question": "A car rounds a curve of radius 100m with coefficient of friction 0.5. Maximum safe speed is approximately:",
+      "options": [
+        "A) 15 m/s",
+        "B) 22 m/s",
+        "C) 32 m/s",
+        "D) 45 m/s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c93c1567699f6f570dc5764c83f6a3c7796454fc",
+      "sectionIndex": 1,
+      "question": "The moment of inertia of a uniform rod of mass M and length L about its center is:",
+      "options": [
+        "A) ML2/3",
+        "B) ML2/6",
+        "C) ML2/12",
+        "D) ML2/24"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9d6fcfb95caf6955d54d2e038d8a808a319516c3",
+      "sectionIndex": 1,
+      "question": "In SHM, when displacement is half the amplitude, the ratio of kinetic to potential energy is:",
+      "options": [
+        "A) 1:3",
+        "B) 3:1",
+        "C) 1:1",
+        "D) 2:1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c83acbf4834b9a9051ab137ccd857c5ca8a2034e",
+      "sectionIndex": 1,
+      "question": "According to Kepler's third law, if orbital radius doubles, the period increases by factor:",
+      "options": [
+        "A) ^s2",
+        "B) 2",
+        "C) 2^s2",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c3d5d31640144d10a459c190c745a56b5b6db427",
+      "sectionIndex": 1,
+      "question": "A satellite in circular orbit has kinetic energy K. Its total mechanical energy is:",
+      "options": [
+        "A) K",
+        "B) -K",
+        "C) 2K",
+        "D) -K/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94acbaaab7d41651f904aae1eb9bd611366492e6",
+      "sectionIndex": 1,
+      "question": "Angular momentum L and torque \" are related by:",
+      "options": [
+        "A) L = \"t",
+        "B) \" = dL/dt",
+        "C) \" = L/t",
+        "D) L = \"/t"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f588b32ac334b7646f2ed34113245943fed833f5",
+      "sectionIndex": 1,
+      "question": "For a hollow cylinder rolling down an incline, the acceleration is:",
+      "options": [
+        "A) g sin θ",
+        "B) (g sin θ)/2",
+        "C) (g sin θ)/3",
+        "D) (2g sin θ)/3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56fdf8118d824cfc502b3a6bc03d5bed04175d94",
+      "sectionIndex": 1,
+      "question": "If Earth's angular momentum due to rotation is L, and due to revolution is L,,, then:",
+      "options": [
+        "A) L, > L,,",
+        "B) L, < L,,",
+        "C) L, = L,,",
+        "D) Cannot determine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "908823772777f5b6eb151e73c497cf0dd827bb5f",
+      "sectionIndex": 2,
+      "question": "The electric field at distance r from an infinite line charge with linear charge density λ is:",
+      "options": [
+        "A) λ/2?ε,?r",
+        "B) λ/4?ε,?r",
+        "C) λ/2?ε,?r2",
+        "D) λ/4?ε,?r2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bb7f8d02c6febd841a3dab6d2728f84d9f23bfb1",
+      "sectionIndex": 2,
+      "question": "For a parallel plate capacitor with dielectric constant K, the energy density is:",
+      "options": [
+        "A) ε,?E2/2",
+        "B) Kε,?E2/2",
+        "C) ε,?E2/2K",
+        "D) KE2/2ε,?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "162ecf257ea9c801d5a46a05737e818c37d6abbe",
+      "sectionIndex": 2,
+      "question": "The self-inductance of a solenoid with N turns, length l, and area A is:",
+      "options": [
+        "A) μ,?N2A/l",
+        "B) μ,?NA/l",
+        "C) μ,?N2l/A",
+        "D) μ,?Nl/A"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c5ecf28a90c0f70ed6789a14c7522e23b62821bd",
+      "sectionIndex": 2,
+      "question": "In an RLC circuit at resonance, the impedance is:",
+      "options": [
+        "A) Zero",
+        "B) Minimum and equal to R",
+        "C) Maximum",
+        "D) Infinite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d56712d5ead77992ade40481fde19d90186f7043",
+      "sectionIndex": 2,
+      "question": "The Poynting vector represents:",
+      "options": [
+        "A) Electric field intensity",
+        "B) Magnetic field intensity",
+        "C) Energy flux density",
+        "D) Charge density"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d51562e8a301e0fb7201fe0f2ccdac08570b4151",
+      "sectionIndex": 2,
+      "question": "For a transformer with primary turns N, and secondary turns N,,, voltage ratio is:",
+      "options": [
+        "A) N,/N,,",
+        "B) N,,/N,",
+        "C) (N,/N,,)2",
+        "D) ^s(N,/N,,)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ff1c8bb646757e7f2d0b2ba12022c5b91745491",
+      "sectionIndex": 2,
+      "question": "The capacitance of a spherical capacitor with inner radius a and outer radius b is:",
+      "options": [
+        "A) 4?ε,?ab/(b-a)",
+        "B) 4?ε,?(b-a)/ab",
+        "C) 4?ε,?a/b",
+        "D) 4?ε,?b/a"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "95ab89fae8bcc71edf8850dbc198cee71495e308",
+      "sectionIndex": 2,
+      "question": "Lenz's law is a consequence of:",
+      "options": [
+        "A) Conservation of charge",
+        "B) Conservation of energy",
+        "C) Conservation of momentum",
+        "D) Coulomb's law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fadae23804b680fe3e213489884437f3ed6391f7",
+      "sectionIndex": 2,
+      "question": "The magnetic field at the center of a circular loop of radius R carrying current I is:",
+      "options": [
+        "A) μ,?I/2R",
+        "B) μ,?I/4R",
+        "C) μ,?I/2?R",
+        "D) μ,?I/4?R"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fa0537e06ac54f98ec78188d44cfc9db57341361",
+      "sectionIndex": 2,
+      "question": "In electromagnetic waves, E and B are related by:",
+      "options": [
+        "A) E = cB",
+        "B) B = cE",
+        "C) E = B/c",
+        "D) E = B"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "caa578809730338fd99a97402832e4cb43096fb8",
+      "sectionIndex": 3,
+      "question": "In Young's double slit experiment, fringe width is proportional to:",
+      "options": [
+        "A) λ/d",
+        "B) λd",
+        "C) d/λ",
+        "D) 1/λd"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "64ddb8809c3d0f70317069360d883f68fad6abef",
+      "sectionIndex": 3,
+      "question": "For constructive interference in thin films, the path difference must be:",
+      "options": [
+        "A) λ/2",
+        "B) λ/4",
+        "C) nλ",
+        "D) (2n+1)λ/2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c7a696160f118a6273cd93ddf19373e81ad089c2",
+      "sectionIndex": 3,
+      "question": "The resolving power of a diffraction grating with N lines is:",
+      "options": [
+        "A) N",
+        "B) nN",
+        "C) N/n",
+        "D) 1/N"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94fc21b044637ea9ae10b8fa4003dc4df51d1451",
+      "sectionIndex": 3,
+      "question": "In a standing wave, the distance between adjacent nodes is:",
+      "options": [
+        "A) λ",
+        "B) λ/2",
+        "C) λ/4",
+        "D) 2λ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7fe232a4f00f08b2b4ccedf13cb6d947450bd48",
+      "sectionIndex": 3,
+      "question": "The Doppler shift for a source moving toward observer with speed v is:",
+      "options": [
+        "A) f,?(1 + v/c)",
+        "B) f,?(1 - v/c)",
+        "C) f,?/(1 - v/c)",
+        "D) f,?/(1 + v/c)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f4bed44137901b0f964cf1824c4b294a162d46fd",
+      "sectionIndex": 3,
+      "question": "Phase velocity and group velocity are equal when:",
+      "options": [
+        "A) Dispersion is zero",
+        "B) Dispersion is maximum",
+        "C) Frequency is zero",
+        "D) Wavelength is infinite"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "22a77d5647ef751ff4d039292f90d9e28fb0bc8b",
+      "sectionIndex": 3,
+      "question": "For Fraunhofer diffraction by a single slit, the first minimum occurs at angle θ where:",
+      "options": [
+        "A) a sin θ = λ/2",
+        "B) a sin θ = λ",
+        "C) a sin θ = 2λ",
+        "D) a sin θ = 3λ/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55ddbfb497b52b1f8cd0587d56bcdd38995e867a",
+      "sectionIndex": 3,
+      "question": "Coherence length is related to spectral bandwidth \"λ by:",
+      "options": [
+        "A) λ2/\"λ",
+        "B) \"λ/λ2",
+        "C) λ/\"λ",
+        "D) \"λ/λ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "809ae56dacac78f433ed29fa3eac28aece00895e",
+      "sectionIndex": 3,
+      "question": "Brewster's angle for glass (n=1.5) is approximately:",
+      "options": [
+        "A) 45°",
+        "B) 56°",
+        "C) 60°",
+        "D) 30°"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef83e622d7b2de85dc62cacd8cc02647336be5d6",
+      "sectionIndex": 3,
+      "question": "The intensity of unpolarized light after passing through a polarizer is:",
+      "options": [
+        "A) Zero",
+        "B) Unchanged",
+        "C) Half the original",
+        "D) Double the original"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "24159327a7652e4e1269c8291131245626b6d9f6",
+      "sectionIndex": 4,
+      "question": "For an ideal gas undergoing adiabatic process, PVz = constant, where γ equals:",
+      "options": [
+        "A) Cp/Cv",
+        "B) Cv/Cp",
+        "C) Cp - Cv",
+        "D) Cp + Cv"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bb8def496195a347a0b445ec3ce97d5f438c95e1",
+      "sectionIndex": 4,
+      "question": "The efficiency of a Carnot engine operating between 600K and 300K is:",
+      "options": [
+        "A) 25%",
+        "B) 50%",
+        "C) 75%",
+        "D) 100%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f22a3f3f02128f9645de90d8c2cc93433a12dff",
+      "sectionIndex": 4,
+      "question": "In van der Waals equation, the correction factor 'a' accounts for:",
+      "options": [
+        "A) Volume of molecules",
+        "B) Intermolecular forces",
+        "C) Temperature effects",
+        "D) Pressure effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b3f78b2551f885065bee2587d3a13655ecf63a2",
+      "sectionIndex": 4,
+      "question": "For a reversible process, entropy change is:",
+      "options": [
+        "A) Always positive",
+        "B) Always negative",
+        "C) Zero",
+        "D) Can be positive, negative, or zero"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2bb99776fa9771ebe211a528749c9729f70b695e",
+      "sectionIndex": 4,
+      "question": "The specific heat at constant volume for a diatomic gas is:",
+      "options": [
+        "A) 3R/2",
+        "B) 5R/2",
+        "C) 7R/2",
+        "D) R"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d957e00921a7bf840777574197e1707878a5c283",
+      "sectionIndex": 4,
+      "question": "During free expansion of an ideal gas:",
+      "options": [
+        "A) Temperature decreases",
+        "B) Temperature increases",
+        "C) Temperature remains constant",
+        "D) Pressure increases"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d51c661e7f59d5772948b47c4d294a3a13f38dd4",
+      "sectionIndex": 4,
+      "question": "The coefficient of performance of a refrigerator is:",
+      "options": [
+        "A) Always less than 1",
+        "B) Always greater than 1",
+        "C) Can be less or greater than 1",
+        "D) Always equal to 1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fc6a3e0d0490cd3db0a2148c78d9baf104ce1932",
+      "sectionIndex": 4,
+      "question": "For an isothermal process of ideal gas, work done equals:",
+      "options": [
+        "A) nRT",
+        "B) nRT ln(Vf/Vi)",
+        "C) nR(Tf-Ti)",
+        "D) P\"V"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82f8943795bbcd0e5714aa3d1393b9f7afdeda6e",
+      "sectionIndex": 4,
+      "question": "Maxwell-Boltzmann distribution peaks at speed:",
+      "options": [
+        "A) ^s(RT/M)",
+        "B) ^s(2RT/M)",
+        "C) ^s(3RT/M)",
+        "D) ^s(8RT/?M)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a56eb644ecfabeacb3e100cd7cba188b474bab4",
+      "sectionIndex": 4,
+      "question": "The third law of thermodynamics states that entropy approaches:",
+      "options": [
+        "A) Infinity at absolute zero",
+        "B) Zero at absolute zero",
+        "C) Maximum at absolute zero",
+        "D) Negative value at absolute zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3938ba8751adda1d63f3af5107e7f067aec34f3",
+      "sectionIndex": 5,
+      "question": "The de Broglie wavelength of an electron accelerated through potential V is proportional to:",
+      "options": [
+        "A) V",
+        "B) ^sV",
+        "C) 1/V",
+        "D) 1/^sV"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1935657477e6a3f94ff07cd633c5ed94db77bba8",
+      "sectionIndex": 5,
+      "question": "In the photoelectric effect, stopping potential depends on:",
+      "options": [
+        "A) Intensity only",
+        "B) Frequency only",
+        "C) Both intensity and frequency",
+        "D) Neither intensity nor frequency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1faa546e80d742a85c5dc92be902035d4daa883",
+      "sectionIndex": 5,
+      "question": "For a particle in a box of length L, the ground state energy is:",
+      "options": [
+        "A) h2/8mL2",
+        "B) h2/4mL2",
+        "C) h2/2mL2",
+        "D) h2/mL2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "27e1795693724a9cf6dcb06493c4bd8efe49ceeb",
+      "sectionIndex": 5,
+      "question": "The uncertainty relation \"x\"p ? \"/2 implies:",
+      "options": [
+        "A) Position can be exactly known",
+        "B) Momentum can be exactly known",
+        "C) Neither can be exactly known simultaneously",
+        "D) Both can be exactly known"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e42d89ae8bff59f58c839843bce6fbdda3f86dfe",
+      "sectionIndex": 5,
+      "question": "The Bohr radius of hydrogen atom is approximately:",
+      "options": [
+        "A) 0.053 nm",
+        "B) 0.53 nm",
+        "C) 5.3 nm",
+        "D) 53 nm"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "993b72bd0ee3c671292809231c848a38b554d3d8",
+      "sectionIndex": 5,
+      "question": "Compton scattering demonstrates:",
+      "options": [
+        "A) Wave nature of light",
+        "B) Particle nature of light",
+        "C) Wave nature of matter",
+        "D) Continuous nature of energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f1924b928cdc8b6c3f9ae3313eab0a74f1c3a05",
+      "sectionIndex": 5,
+      "question": "The expectation value of momentum for a real wave function is:",
+      "options": [
+        "A) Always positive",
+        "B) Always negative",
+        "C) Always zero",
+        "D) Can be any value"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ed46d9526f2a8687fc71eaf7eba8e07ffdbad053",
+      "sectionIndex": 5,
+      "question": "For quantum harmonic oscillator, zero-point energy is:",
+      "options": [
+        "A) Zero",
+        "B) \"?/2",
+        "C) \"?",
+        "D) 3\"?/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "156970e4e18c1c75c6ea32925c8ee6b3ac2815ff",
+      "sectionIndex": 5,
+      "question": "The transmission coefficient for a particle hitting a barrier depends on:",
+      "options": [
+        "A) Barrier height only",
+        "B) Barrier width only",
+        "C) Both height and width",
+        "D) Neither height nor width"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "86a3cf2263455f715caac7aee3df9f397784b725",
+      "sectionIndex": 5,
+      "question": "Spin quantum number for electron is:",
+      "options": [
+        "A) 0",
+        "B) 1/2",
+        "C) 1",
+        "D) 3/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b439e8622a68a3c99ce1a6c2978790a972f9880d",
+      "sectionIndex": 6,
+      "question": "At speed 0.6c, the Lorentz factor γ is:",
+      "options": [
+        "A) 1.25",
+        "B) 1.5",
+        "C) 1.67",
+        "D) 2.0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d8c0f1836bb8c794f8d553d0f3a8033882b78ea6",
+      "sectionIndex": 6,
+      "question": "Time dilation factor for speed v is:",
+      "options": [
+        "A) ^s(1 - v2/c2)",
+        "B) 1/^s(1 - v2/c2)",
+        "C) 1 - v2/c2",
+        "D) v/c"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "798f6a11d8537098928e546256b7217eb58f3d78",
+      "sectionIndex": 6,
+      "question": "The relativistic momentum is given by:",
+      "options": [
+        "A) mv",
+        "B) mv/^s(1 - v2/c2)",
+        "C) m^s(1 - v2/c2)",
+        "D) mc2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5a7cc80cba7dbd9a11a9971edc120a42ee2aaf8",
+      "sectionIndex": 6,
+      "question": "For a particle with momentum p, total energy E is:",
+      "options": [
+        "A) ^s(p2c2 + m2c4)",
+        "B) pc + mc2",
+        "C) p2c2/2m",
+        "D) pc"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e0a6f10fb9c0076620656e688d5c49524cd73a36",
+      "sectionIndex": 6,
+      "question": "Length contraction occurs only:",
+      "options": [
+        "A) Perpendicular to motion",
+        "B) Along direction of motion",
+        "C) In all directions equally",
+        "D) At angles to motion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e001965b31be4c586cd7baa9b447e9a3d5b57b8a",
+      "sectionIndex": 6,
+      "question": "Two events simultaneous in one frame are:",
+      "options": [
+        "A) Simultaneous in all frames",
+        "B) Not necessarily simultaneous in other frames",
+        "C) Never simultaneous in other frames",
+        "D) Simultaneous only at rest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdfda371e45c5b07e7e22762a1ba8bed2aa1e0b0",
+      "sectionIndex": 6,
+      "question": "The rest energy of an electron (mass 9.1 - 10-31 kg) is approximately:",
+      "options": [
+        "A) 0.051 MeV",
+        "B) 0.51 MeV",
+        "C) 5.1 MeV",
+        "D) 51 MeV"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "976ea6cc187b7ce2cee20ce93186d35100e0837c",
+      "sectionIndex": 6,
+      "question": "Relativistic addition of velocities v, and v,, gives:",
+      "options": [
+        "A) v, + v,,",
+        "B) (v, + v,,)/(1 + v,v,,/c2)",
+        "C) v, + v,, - v,v,,/c",
+        "D) ^s(v,2 + v,,2)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92c969b9108cc78999bfc1fd72399d26f3fa0e89",
+      "sectionIndex": 6,
+      "question": "The invariant interval in spacetime is:",
+      "options": [
+        "A) \"x2 + \"y2 + \"z2 + c2\"t2",
+        "B) \"x2 + \"y2 + \"z2 - c2\"t2",
+        "C) c2\"t2 - \"x2 - \"y2 - \"z2",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b9f4069fccf1184dc7c820317b743331de90b2cc",
+      "sectionIndex": 6,
+      "question": "Mass-energy equivalence implies 1 kg of matter contains energy:",
+      "options": [
+        "A) 9 - 1013 J",
+        "B) 9 - 1014 J",
+        "C) 9 - 1015 J",
+        "D) 9 - 1016 J"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "252ef9f150b9f27248d0d1ee3e32a9a1343144a3",
+      "sectionIndex": 7,
+      "question": "In Bernoulli's equation, the term ρv2/2 represents:",
+      "options": [
+        "A) Static pressure",
+        "B) Dynamic pressure",
+        "C) Total pressure",
+        "D) Atmospheric pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "813c408d7716b2758e658514f9ccfee8b4906f4e",
+      "sectionIndex": 7,
+      "question": "For flow through a Venturi tube, if area reduces by half, velocity:",
+      "options": [
+        "A) Doubles",
+        "B) Halves",
+        "C) Increases four times",
+        "D) Remains same"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "31a54fd9e22532ab4e62012365eed282c761aa0c",
+      "sectionIndex": 7,
+      "question": "Reynolds number determines:",
+      "options": [
+        "A) Compressibility",
+        "B) Viscosity",
+        "C) Flow regime (laminar/turbulent)",
+        "D) Surface tension"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b69148d5606af784ab8ef08bf558fdcdca4b9f31",
+      "sectionIndex": 7,
+      "question": "The terminal velocity of a sphere in viscous fluid is proportional to:",
+      "options": [
+        "A) r",
+        "B) r2",
+        "C) r3",
+        "D) 1/r"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3276c733f0e77518f9fcfb61c84bb5909f3a1997",
+      "sectionIndex": 7,
+      "question": "In a U-tube manometer, pressure difference is proportional to:",
+      "options": [
+        "A) Height difference",
+        "B) Square of height difference",
+        "C) Square root of height difference",
+        "D) Cube of height difference"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e1ac1c17afafa1530a104290eb9cc13f794ad84b",
+      "sectionIndex": 7,
+      "question": "Stokes' law gives drag force proportional to:",
+      "options": [
+        "A) v2",
+        "B) v",
+        "C) ^sv",
+        "D) v3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53a080840b9507fd8c88dbc0834a4d3f42d38198",
+      "sectionIndex": 7,
+      "question": "The equation of continuity A,v, = A,,v,, assumes:",
+      "options": [
+        "A) Compressible flow",
+        "B) Incompressible flow",
+        "C) Turbulent flow",
+        "D) Viscous flow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd38217bbc9ec84763eeb2b960be2a79923b1deb",
+      "sectionIndex": 7,
+      "question": "Torricelli's theorem gives efflux velocity as:",
+      "options": [
+        "A) ^s(gh)",
+        "B) ^s(2gh)",
+        "C) 2gh",
+        "D) gh"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "117bef03b327c7bb2bfcbad64dec7b6d81385b31",
+      "sectionIndex": 7,
+      "question": "The lift force on an airfoil is due to:",
+      "options": [
+        "A) Higher pressure above",
+        "B) Lower pressure above",
+        "C) Equal pressure",
+        "D) No pressure difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b939e9d8828e586fc85013a185ceabd5de04e720",
+      "sectionIndex": 7,
+      "question": "Surface tension has dimensions of:",
+      "options": [
+        "A) Force/length",
+        "B) Force - length",
+        "C) Energy/area",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3dc3540dccff449d2b2c35807a9910407cb15269",
+      "sectionIndex": 8,
+      "question": "The binding energy per nucleon is maximum for:",
+      "options": [
+        "A) Hydrogen",
+        "B) Iron",
+        "C) Uranium",
+        "D) Lead"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "116961a69e6268c75529ad988eb5a07e56dafb54",
+      "sectionIndex": 8,
+      "question": "In beta-minus decay, a neutron converts to:",
+      "options": [
+        "A) Proton + electron",
+        "B) Proton + electron + antineutrino",
+        "C) Proton + positron",
+        "D) Two protons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e1121f9271c65f49c41862ea3e9302bbb9588df",
+      "sectionIndex": 8,
+      "question": "The Q-value of a nuclear reaction represents:",
+      "options": [
+        "A) Heat absorbed",
+        "B) Energy released",
+        "C) Momentum transfer",
+        "D) Angular momentum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ed9c7c6750a252c573f3759de795c2f1907165f",
+      "sectionIndex": 8,
+      "question": "After 3 half-lives, the remaining fraction of radioactive material is:",
+      "options": [
+        "A) 1/3",
+        "B) 1/6",
+        "C) 1/8",
+        "D) 1/9"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e800b127af842c172f0204247a1762ddc7e925a1",
+      "sectionIndex": 8,
+      "question": "The moderator in a nuclear reactor:",
+      "options": [
+        "A) Absorbs neutrons",
+        "B) Slows down neutrons",
+        "C) Speeds up neutrons",
+        "D) Produces neutrons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a9b237ad0f444634111909128117abad77588be",
+      "sectionIndex": 8,
+      "question": "Critical mass is the minimum mass needed for:",
+      "options": [
+        "A) Any nuclear reaction",
+        "B) Self-sustaining chain reaction",
+        "C) Complete fission",
+        "D) Fusion reaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a64f0498780b82e80f7bc77c51c6c138d1aa5c3",
+      "sectionIndex": 8,
+      "question": "The energy released in fusion comes from:",
+      "options": [
+        "A) Chemical bonds",
+        "B) Mass defect",
+        "C) Electron transitions",
+        "D) Neutron capture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "180be5cd3a85d8a7b0c548cdcc5dfdf4d62978fd",
+      "sectionIndex": 8,
+      "question": "The range of nuclear force is approximately:",
+      "options": [
+        "A) Infinite",
+        "B) 10-10 m",
+        "C) 10-15 m",
+        "D) 10-20 m"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1c387d7eb30d9c66db9f55636f2fe37a90bc54b2",
+      "sectionIndex": 8,
+      "question": "Magic numbers in nuclear physics refer to:",
+      "options": [
+        "A) Mass numbers",
+        "B) Numbers of nucleons for extra stability",
+        "C) Atomic numbers only",
+        "D) Neutron numbers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eec4f36f3f520e321f2afb38ce9457c95e5e34a",
+      "sectionIndex": 8,
+      "question": "A breeder reactor:",
+      "options": [
+        "A) Consumes more fuel than it produces",
+        "B) Produces more fuel than it consumes",
+        "C) Produces no fuel",
+        "D) Uses only uranium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93ce6c510823f5bfe718e9e0f45c300bb4e74bce",
+      "sectionIndex": 9,
+      "question": "The energy gap for silicon at room temperature is approximately:",
+      "options": [
+        "A) 0.7 eV",
+        "B) 1.1 eV",
+        "C) 2.2 eV",
+        "D) 5.5 eV"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f2bae9697d5998bf96449725b49265b90e6e945",
+      "sectionIndex": 9,
+      "question": "In a p-type semiconductor, majority carriers are:",
+      "options": [
+        "A) Electrons",
+        "B) Holes",
+        "C) Both equally",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b59618c9143567ec215e84a2d37c4b97432ab99",
+      "sectionIndex": 9,
+      "question": "The Fermi level in intrinsic semiconductor lies:",
+      "options": [
+        "A) In valence band",
+        "B) In conduction band",
+        "C) Near middle of band gap",
+        "D) Above conduction band"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8acc44f76cbc7cb8847d9cf4b9b190b1ddbab7bf",
+      "sectionIndex": 9,
+      "question": "X-ray diffraction follows:",
+      "options": [
+        "A) Snell's law",
+        "B) Bragg's law",
+        "C) Coulomb's law",
+        "D) Ohm's law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "705182b23b7b9b509823e43d4e7762eac7e8ec48",
+      "sectionIndex": 9,
+      "question": "The Hall effect is used to determine:",
+      "options": [
+        "A) Resistance only",
+        "B) Type and concentration of carriers",
+        "C) Temperature coefficient",
+        "D) Thermal conductivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "797fcd9f49f2ec75513be41c24f0dd8760b17f5d",
+      "sectionIndex": 9,
+      "question": "In forward bias, the depletion region of p-n junction:",
+      "options": [
+        "A) Increases",
+        "B) Decreases",
+        "C) Remains constant",
+        "D) Disappears completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b3ba5afad6d0f88ef14da0487ae75280b4ae577",
+      "sectionIndex": 9,
+      "question": "The mobility of charge carriers is defined as:",
+      "options": [
+        "A) Drift velocity per unit field",
+        "B) Current per unit area",
+        "C) Charge per unit time",
+        "D) Field per unit current"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4380eb4af0633bd5d723c69d8db62a59afc36bc7",
+      "sectionIndex": 9,
+      "question": "Diamond structure has coordination number:",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) 6",
+        "D) 8"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ecae02fe5cfacdb98a47d0ef2a14ca1d0f3fa2e",
+      "sectionIndex": 9,
+      "question": "The temperature coefficient of resistance for semiconductors is:",
+      "options": [
+        "A) Positive",
+        "B) Negative",
+        "C) Zero",
+        "D) Infinite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c410af18f21b44b15b23ced9561c030adf8a2791",
+      "sectionIndex": 9,
+      "question": "A MOSFET operates primarily on the principle of:",
+      "options": [
+        "A) Current control",
+        "B) Voltage control of conductivity",
+        "C) Magnetic control",
+        "D) Thermal control"
+      ],
+      "correct": "B"
+    }
+  ]
+}

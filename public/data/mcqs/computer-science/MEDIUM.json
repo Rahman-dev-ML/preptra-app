@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:01:30.727Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "a035f21a3524f5795160048480abeed4c786b901",
+      "sectionIndex": 0,
+      "question": "In virtual memory, when a page fault occurs and all frames are occupied, which page replacement algorithm selects the page that has not been used for the longest time?",
+      "options": [
+        "A) FIFO",
+        "B) LRU",
+        "C) Optimal",
+        "D) Clock"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f346a4dcd6fca337be163b9b2fd716fda0be2263",
+      "sectionIndex": 0,
+      "question": "Which scheduling algorithm can suffer from starvation of low-priority processes?",
+      "options": [
+        "A) First Come First Served",
+        "B) Round Robin",
+        "C) Priority Scheduling",
+        "D) Shortest Job First"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5a0d824ae484de3129e45c0d69ad7fbb5a2a513b",
+      "sectionIndex": 0,
+      "question": "In the OSI model, which layer is responsible for end-to-end error recovery and flow control?",
+      "options": [
+        "A) Network Layer",
+        "B) Transport Layer",
+        "C) Data Link Layer",
+        "D) Session Layer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11db2534fd52a23c90251cf5ccc7839e06f1b9a3",
+      "sectionIndex": 0,
+      "question": "For deadlock to occur, which of the following conditions must ALL be present?",
+      "options": [
+        "A) Mutual exclusion, Hold and wait, No preemption, Circular wait",
+        "B) Mutual exclusion, Priority inversion, Starvation, Circular wait",
+        "C) Hold and wait, Preemption, Priority scheduling, Circular wait",
+        "D) Mutual exclusion, Round robin, No preemption, Linear wait"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ee812e87a8e654ea08f4beeda8078379425f432d",
+      "sectionIndex": 0,
+      "question": "In DMA (Direct Memory Access), who controls the data transfer between memory and I/O devices?",
+      "options": [
+        "A) CPU exclusively",
+        "B) DMA controller",
+        "C) Operating System",
+        "D) Application software"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b23de4993813da4049d8ef193abcf76f4c4ff893",
+      "sectionIndex": 0,
+      "question": "Which virtual memory technique divides programs into fixed-size blocks?",
+      "options": [
+        "A) Segmentation",
+        "B) Paging",
+        "C) Swapping",
+        "D) Caching"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "facd9e4f238f97b8209f3b930c97a619cbe7c28a",
+      "sectionIndex": 0,
+      "question": "In process scheduling, what is the main advantage of Shortest Job First (SJF) algorithm?",
+      "options": [
+        "A) Easy to implement",
+        "B) Minimum average waiting time",
+        "C) Fair to all processes",
+        "D) No starvation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d6864fcb8e2e0e272ac3355b96327e6b913e0a1",
+      "sectionIndex": 0,
+      "question": "Which OSI layer handles routing and logical addressing?",
+      "options": [
+        "A) Physical Layer",
+        "B) Data Link Layer",
+        "C) Network Layer",
+        "D) Transport Layer"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0c5e83d1c70bb82e79135a4f8f70b3371b3d875d",
+      "sectionIndex": 0,
+      "question": "What type of interrupt has the highest priority?",
+      "options": [
+        "A) Software interrupt",
+        "B) Hardware interrupt",
+        "C) Non-maskable interrupt",
+        "D) Maskable interrupt"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "121b9dd65130db36ecbafb15e435514332c818de",
+      "sectionIndex": 0,
+      "question": "In memory management, external fragmentation is associated with:",
+      "options": [
+        "A) Paging",
+        "B) Segmentation",
+        "C) Virtual memory",
+        "D) Cache memory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "912f2e162fd758e8cb02096260cfdb018000668b",
+      "sectionIndex": 1,
+      "question": "What is the time complexity of Binary Search in the worst case?",
+      "options": [
+        "A) O(1)",
+        "B) O(log n)",
+        "C) O(n)",
+        "D) O(n log n)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0a1fc2af09c965981a99751f75d0f67a0f859a8",
+      "sectionIndex": 1,
+      "question": "In a Binary Search Tree, inorder traversal gives nodes in:",
+      "options": [
+        "A) Random order",
+        "B) Descending order",
+        "C) Ascending order",
+        "D) Level order"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "04cfed5766abceaf7b761940218f4d8c6045384e",
+      "sectionIndex": 1,
+      "question": "Which collision resolution technique in hashing uses a linked list at each table position?",
+      "options": [
+        "A) Linear probing",
+        "B) Quadratic probing",
+        "C) Chaining",
+        "D) Double hashing"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "798db64775fa8b93b08900076bf288b0e71c3207",
+      "sectionIndex": 1,
+      "question": "In an AVL tree, the balance factor of any node must be:",
+      "options": [
+        "A) 0, 1, or 2",
+        "B) -1, 0, or 1",
+        "C) -2, -1, 0, 1, or 2",
+        "D) Any integer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34546db13f871cdb70e801bcb85d8997a28d8413",
+      "sectionIndex": 1,
+      "question": "For Selection Sort, how many comparisons are made to sort n elements?",
+      "options": [
+        "A) n",
+        "B) n-1",
+        "C) n(n-1)/2",
+        "D) n2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fc45feaa53759854431db8f9e742390d42288e5a",
+      "sectionIndex": 1,
+      "question": "Which tree traversal visits root node first?",
+      "options": [
+        "A) Inorder",
+        "B) Preorder",
+        "C) Postorder",
+        "D) Level order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be046abd0564eabc59a6a50c3d133c1c23720976",
+      "sectionIndex": 1,
+      "question": "In open addressing for hash collision resolution, linear probing suffers from:",
+      "options": [
+        "A) Memory waste",
+        "B) Primary clustering",
+        "C) Secondary clustering",
+        "D) No issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e993ebb16df60de78462aa6d87f7dcffa45ad975",
+      "sectionIndex": 1,
+      "question": "The worst-case time complexity of Insertion Sort is:",
+      "options": [
+        "A) O(n)",
+        "B) O(n log n)",
+        "C) O(n2)",
+        "D) O(log n)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cfe1908d50773cd67b9a2a5dc9f9ba6b591df84b",
+      "sectionIndex": 1,
+      "question": "A complete binary tree with n nodes has height:",
+      "options": [
+        "A) n",
+        "B) n/2",
+        "C) log,,(n+1)",
+        "D) 2n"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0a828ea8760d0e95fb148fa40b4786f40c53a7ad",
+      "sectionIndex": 1,
+      "question": "Which algorithm is best for sorting nearly sorted data?",
+      "options": [
+        "A) Quick Sort",
+        "B) Heap Sort",
+        "C) Insertion Sort",
+        "D) Selection Sort"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d9c99366bff56a7bb5e8857ad3437c6312db8a12",
+      "sectionIndex": 2,
+      "question": "What is the key difference between function overloading and overriding?",
+      "options": [
+        "A) Overloading occurs in same class, overriding in inheritance",
+        "B) Overloading changes return type, overriding changes parameters",
+        "C) Both are identical concepts",
+        "D) Overloading is runtime, overriding is compile time"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "804b1256aaf8c5c532c42ae929c5613cc371a058",
+      "sectionIndex": 2,
+      "question": "Virtual functions in C++ enable:",
+      "options": [
+        "A) Compile-time polymorphism",
+        "B) Runtime polymorphism",
+        "C) Function overloading",
+        "D) Operator overloading"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "316dcff6df4bf9eb9fdac516c8e8eff10d7e9a81",
+      "sectionIndex": 2,
+      "question": "Which access specifier allows access within the class and its derived classes only?",
+      "options": [
+        "A) Private",
+        "B) Protected",
+        "C) Public",
+        "D) Friend"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bea6d37bddb4339b6066b3201178992e1bca6337",
+      "sectionIndex": 2,
+      "question": "In Java exception hierarchy, which class is the superclass of all exceptions?",
+      "options": [
+        "A) Exception",
+        "B) Error",
+        "C) Throwable",
+        "D) RuntimeException"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "542c25c7a96b36b5ad714532faad31a94b636e5a",
+      "sectionIndex": 2,
+      "question": "A copy constructor is called when:",
+      "options": [
+        "A) Object is created from another object",
+        "B) Object is destroyed",
+        "C) Object is modified",
+        "D) Object is compared"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6b28c4663ceb4220b3201b169c9badcb774af586",
+      "sectionIndex": 2,
+      "question": "Which OOP principle hides implementation details while showing only functionality?",
+      "options": [
+        "A) Inheritance",
+        "B) Polymorphism",
+        "C) Encapsulation",
+        "D) Abstraction"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0ba9aa301ea8881176e57ab670f1dd409b53335d",
+      "sectionIndex": 2,
+      "question": "In C++, a destructor is called:",
+      "options": [
+        "A) When object is created",
+        "B) When object goes out of scope",
+        "C) Manually by programmer",
+        "D) Never automatically"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b561f7f702de3ec64b547630c9d4e1b52c965dfb",
+      "sectionIndex": 2,
+      "question": "Multiple inheritance can lead to which problem?",
+      "options": [
+        "A) Memory leak",
+        "B) Diamond problem",
+        "C) Stack overflow",
+        "D) Null pointer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be9392f6aa8a93821053af0a3f757aea1b3698e7",
+      "sectionIndex": 2,
+      "question": "Which type of polymorphism is achieved through function overloading?",
+      "options": [
+        "A) Runtime polymorphism",
+        "B) Compile-time polymorphism",
+        "C) Dynamic polymorphism",
+        "D) Virtual polymorphism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1dc1f0d29987c02e9abbda6ee428ec484100bbf4",
+      "sectionIndex": 2,
+      "question": "Abstract classes cannot be:",
+      "options": [
+        "A) Inherited",
+        "B) Used as base class",
+        "C) Instantiated",
+        "D) Declared"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b8b1e3539121c27dae435606bc8838e25f205ee",
+      "sectionIndex": 3,
+      "question": "A relation is in 2NF if it is in 1NF and:",
+      "options": [
+        "A) Has no partial dependencies",
+        "B) Has no transitive dependencies",
+        "C) Has a primary key",
+        "D) Has foreign keys"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e82b385e46d6ef73551fd024b878a0d52a27c5bc",
+      "sectionIndex": 3,
+      "question": "In an ER diagram, a weak entity is represented by:",
+      "options": [
+        "A) Rectangle",
+        "B) Double rectangle",
+        "C) Diamond",
+        "D) Double diamond"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15e9bbd3b5520439d12a727201383525d278f178",
+      "sectionIndex": 3,
+      "question": "Which normal form removes transitive dependencies?",
+      "options": [
+        "A) 1NF",
+        "B) 2NF",
+        "C) 3NF",
+        "D) BCNF"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "833360d4a13c2dc27dd18a73cb1eb40cdb84b7fe",
+      "sectionIndex": 3,
+      "question": "A foreign key can reference:",
+      "options": [
+        "A) Any attribute",
+        "B) Only primary key in another table",
+        "C) Primary key or unique key in another table",
+        "D) Only non-key attributes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "222fbd214d9e8105d1ba6d2c7515e7d24ad57bb3",
+      "sectionIndex": 3,
+      "question": "In relational model, what ensures entity integrity?",
+      "options": [
+        "A) Foreign key",
+        "B) Primary key",
+        "C) Candidate key",
+        "D) Super key"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9191af884374af5cfa7b9141e25737dd6880386",
+      "sectionIndex": 3,
+      "question": "Which SQL clause is used to filter groups in aggregate queries?",
+      "options": [
+        "A) WHERE",
+        "B) HAVING",
+        "C) GROUP BY",
+        "D) ORDER BY"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcc9d5a645e08abc74c2b856532fc74d0248376b",
+      "sectionIndex": 3,
+      "question": "A composite key consists of:",
+      "options": [
+        "A) One attribute",
+        "B) Two or more attributes",
+        "C) Only foreign keys",
+        "D) Only numeric fields"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e984e4d830d3791050a6aa5d67d74ed28146ed9c",
+      "sectionIndex": 3,
+      "question": "Database normalization primarily aims to:",
+      "options": [
+        "A) Increase redundancy",
+        "B) Reduce redundancy",
+        "C) Increase storage",
+        "D) Decrease security"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2af93e298f3547152dc5ac10293f4ce8aa9622b",
+      "sectionIndex": 3,
+      "question": "In ER modeling, cardinality ratio 1:N means:",
+      "options": [
+        "A) One-to-one relationship",
+        "B) One-to-many relationship",
+        "C) Many-to-many relationship",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91c8568bbd0b200ce2c871c2f046f91800991ee8",
+      "sectionIndex": 3,
+      "question": "ACID properties ensure:",
+      "options": [
+        "A) Database size",
+        "B) Transaction reliability",
+        "C) Query speed",
+        "D) User interface"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d723b98963ffe49d964149be02c6b2c494f1effd",
+      "sectionIndex": 4,
+      "question": "In TCP/IP model, which layer combines OSI's Session, Presentation, and Application layers?",
+      "options": [
+        "A) Network Layer",
+        "B) Transport Layer",
+        "C) Application Layer",
+        "D) Internet Layer"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "558b22aee6150ab525299737c8d2ab82adabe789",
+      "sectionIndex": 4,
+      "question": "Which routing algorithm requires each router to know the complete network topology?",
+      "options": [
+        "A) Distance Vector",
+        "B) Link State",
+        "C) Path Vector",
+        "D) Static Routing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "221b264b239b9359fa886586103f4f8f9544fcdb",
+      "sectionIndex": 4,
+      "question": "IPv6 addresses are how many bits long?",
+      "options": [
+        "A) 32 bits",
+        "B) 64 bits",
+        "C) 128 bits",
+        "D) 256 bits"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9faf9bc21f7ed0ab20c0742b54e5c98290d68af3",
+      "sectionIndex": 4,
+      "question": "In OSI model, flow control at data link layer is:",
+      "options": [
+        "A) End-to-end",
+        "B) Node-to-node",
+        "C) Application-to-application",
+        "D) Process-to-process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9b9c74b8cc87d9003a55d3f6d24613d0bab7641",
+      "sectionIndex": 4,
+      "question": "HDLC protocol operates at which OSI layer?",
+      "options": [
+        "A) Physical",
+        "B) Data Link",
+        "C) Network",
+        "D) Transport"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b2cee7ed6ebf70cc27782a66e5df5bbeef1877f",
+      "sectionIndex": 4,
+      "question": "The main difference between TCP and UDP is:",
+      "options": [
+        "A) Speed only",
+        "B) TCP is connection-oriented, UDP is connectionless",
+        "C) Port numbers",
+        "D) IP compatibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81ab9859ed056fa3d11e106492b30fae6db2c1c1",
+      "sectionIndex": 4,
+      "question": "In Distance Vector routing, the problem of slow convergence can cause:",
+      "options": [
+        "A) Count to infinity",
+        "B) Packet loss",
+        "C) Increased bandwidth",
+        "D) Better performance"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a556b66b07246b4a309954decebf474398ec32fa",
+      "sectionIndex": 4,
+      "question": "Which device operates at the Network layer?",
+      "options": [
+        "A) Hub",
+        "B) Switch",
+        "C) Router",
+        "D) Repeater"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a4e4db50c665ce6a17ce712714280f352202dd81",
+      "sectionIndex": 4,
+      "question": "The sliding window protocol is used for:",
+      "options": [
+        "A) Encryption",
+        "B) Flow control",
+        "C) Routing",
+        "D) Addressing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e43fbb4646506c30c583ca95673cdbb05f1326e2",
+      "sectionIndex": 4,
+      "question": "NAT (Network Address Translation) helps with:",
+      "options": [
+        "A) Speed improvement",
+        "B) IPv4 address conservation",
+        "C) Security only",
+        "D) Routing efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "752ea391c507e84939440e19c82a1ef142d5e0df",
+      "sectionIndex": 5,
+      "question": "The Spiral model combines features of:",
+      "options": [
+        "A) Waterfall and Prototyping",
+        "B) Agile and V-model",
+        "C) Only iterative approach",
+        "D) Only sequential approach"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "959437544111c1a802f034bc0a1ec8c350b6c776",
+      "sectionIndex": 5,
+      "question": "In Agile methodology, a sprint typically lasts:",
+      "options": [
+        "A) 1 day",
+        "B) 2-4 weeks",
+        "C) 6 months",
+        "D) 1 year"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e3cd6a90dce0b596ac3f28100d273b3d1d55ff4",
+      "sectionIndex": 5,
+      "question": "Which testing ensures that integrated components work together?",
+      "options": [
+        "A) Unit testing",
+        "B) Integration testing",
+        "C) System testing",
+        "D) Acceptance testing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e58d02d9b669f7545938105786b52f7ca5de66b",
+      "sectionIndex": 5,
+      "question": "Smoke testing is performed to:",
+      "options": [
+        "A) Test all features thoroughly",
+        "B) Check basic functionality after build",
+        "C) Test performance",
+        "D) Check security"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62b8c03b5b36fb409e072e7b3d840b9bc13ecbf1",
+      "sectionIndex": 5,
+      "question": "COCOMO model is used for:",
+      "options": [
+        "A) Testing",
+        "B) Design",
+        "C) Cost estimation",
+        "D) Coding"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "64776eab49b8adc9dc58daa5c4a1e29eaef2ae3f",
+      "sectionIndex": 5,
+      "question": "In Extreme Programming (XP), which practice involves two programmers working together?",
+      "options": [
+        "A) Scrum meeting",
+        "B) Pair programming",
+        "C) Code review",
+        "D) Sprint planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98de0ff6343a370505d80a1aae703055f878b683",
+      "sectionIndex": 5,
+      "question": "The main disadvantage of Waterfall model is:",
+      "options": [
+        "A) Too much documentation",
+        "B) Difficulty in accommodating changes",
+        "C) High cost",
+        "D) Requires experienced team"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0557e2eaea3fb77770a40a572e4073cb77cd731c",
+      "sectionIndex": 5,
+      "question": "Requirements that specify system performance are called:",
+      "options": [
+        "A) Functional requirements",
+        "B) Non-functional requirements",
+        "C) User requirements",
+        "D) Business requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b646dde48b4cda130a6e2f708bbb1b025980dc5b",
+      "sectionIndex": 5,
+      "question": "In software testing, white box testing requires:",
+      "options": [
+        "A) No code knowledge",
+        "B) Understanding of internal code structure",
+        "C) Only user interface knowledge",
+        "D) Database knowledge only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95f4e2dd474027500e1e91a3f9301c097ca91e75",
+      "sectionIndex": 5,
+      "question": "The incremental model delivers software in:",
+      "options": [
+        "A) One release",
+        "B) Small increments",
+        "C) Random parts",
+        "D) Yearly updates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b4e1a715ff005e6acb9ddf317ca3344dffb05c9",
+      "sectionIndex": 6,
+      "question": "AJAX stands for:",
+      "options": [
+        "A) Advanced JavaScript and XML",
+        "B) Asynchronous JavaScript and XML",
+        "C) Application JavaScript and XML",
+        "D) Automatic JavaScript and XML"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdd7f488a192f7657be59019bdec9fbd831eb1be",
+      "sectionIndex": 6,
+      "question": "The main difference between GET and POST methods is:",
+      "options": [
+        "A) Speed only",
+        "B) GET shows data in URL, POST doesn't",
+        "C) POST is faster",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b343c61341a1157080dab788a93b42e5940a7bf9",
+      "sectionIndex": 6,
+      "question": "In REST architecture, which HTTP method is used for updating resources?",
+      "options": [
+        "A) GET",
+        "B) POST",
+        "C) PUT",
+        "D) DELETE"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dbe412dc0e4236ae3befd4c8e5c7d6e71a46401d",
+      "sectionIndex": 6,
+      "question": "Client-side scripting is executed on:",
+      "options": [
+        "A) Web server",
+        "B) Database server",
+        "C) User's browser",
+        "D) Application server"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "59eb061bfbb71ea0e6d0b92c843174a1e1c9179e",
+      "sectionIndex": 6,
+      "question": "SOAP web services use which format for data exchange?",
+      "options": [
+        "A) JSON",
+        "B) XML",
+        "C) HTML",
+        "D) Plain text"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af0f6f023450980818ce55e61f2971b606a8251c",
+      "sectionIndex": 6,
+      "question": "Which JavaScript method is used to access HTML elements by ID?",
+      "options": [
+        "A) getElementsByClass()",
+        "B) getElementById()",
+        "C) getElementByName()",
+        "D) querySelector()"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8e4090af877fe254f0b2161ed4204c29c5e5e5a",
+      "sectionIndex": 6,
+      "question": "In HTML forms, the action attribute specifies:",
+      "options": [
+        "A) Form validation",
+        "B) Where to send form data",
+        "C) Form method",
+        "D) Form style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1608a644b5fd340d5ac7f51eda7170d4d835fae1",
+      "sectionIndex": 6,
+      "question": "Cross-site scripting (XSS) is:",
+      "options": [
+        "A) Performance technique",
+        "B) Security vulnerability",
+        "C) Design pattern",
+        "D) Programming language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5194c0e72aa1591cf54696e51ee5afc59c086263",
+      "sectionIndex": 6,
+      "question": "The DOM (Document Object Model) represents:",
+      "options": [
+        "A) Database structure",
+        "B) HTML document structure",
+        "C) Network protocol",
+        "D) File system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "912647332e01e6ea9d106f72476e08ca369ea075",
+      "sectionIndex": 6,
+      "question": "Session management in web applications typically uses:",
+      "options": [
+        "A) Only cookies",
+        "B) Only URL rewriting",
+        "C) Cookies or server-side sessions",
+        "D) Local storage only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9d3f4dd3d23d868b1252437fb1fa85081e46de87",
+      "sectionIndex": 7,
+      "question": "The main advantage of vector graphics over raster graphics is:",
+      "options": [
+        "A) Smaller file size always",
+        "B) Scalability without quality loss",
+        "C) Better color representation",
+        "D) Faster rendering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "883c142660010e687e59aa458bdf1653fa291dde",
+      "sectionIndex": 7,
+      "question": "Ray tracing is primarily used for:",
+      "options": [
+        "A) 2D graphics",
+        "B) Realistic lighting and reflections",
+        "C) Vector graphics",
+        "D) Text rendering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a20f5f06e4e79bf370ad08f9bef9994d9f0e45be",
+      "sectionIndex": 7,
+      "question": "In rasterization, anti-aliasing is used to:",
+      "options": [
+        "A) Increase file size",
+        "B) Smooth jagged edges",
+        "C) Add colors",
+        "D) Compress images"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a2ca73a4e8fb325f001e9c904c55a244caba1ee",
+      "sectionIndex": 7,
+      "question": "Which color model is used for printing?",
+      "options": [
+        "A) RGB",
+        "B) HSV",
+        "C) CMYK",
+        "D) HSL"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0e843a401dca6a87ba050260d9761b1abd3d8010",
+      "sectionIndex": 7,
+      "question": "In 3D graphics, z-buffering is used for:",
+      "options": [
+        "A) Color correction",
+        "B) Hidden surface removal",
+        "C) Texture mapping",
+        "D) Animation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d69af857fae4025d63670b2be097fc0a2d82f5e",
+      "sectionIndex": 7,
+      "question": "Morphological operations like erosion and dilation are used in:",
+      "options": [
+        "A) Vector graphics",
+        "B) Image processing",
+        "C) 3D modeling",
+        "D) Animation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72d235c937e8edc71acc65f34faadfbbd36916c9",
+      "sectionIndex": 7,
+      "question": "The Sobel operator is used for:",
+      "options": [
+        "A) Image compression",
+        "B) Edge detection",
+        "C) Color correction",
+        "D) Noise reduction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c4794d6816afdce573f82cb9b31aa2441407836",
+      "sectionIndex": 7,
+      "question": "In animation, keyframes represent:",
+      "options": [
+        "A) Every frame",
+        "B) Important positions",
+        "C) Background only",
+        "D) Audio sync points"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe7ac8db5089ee97795c7cb3c34bde878250e8a2",
+      "sectionIndex": 7,
+      "question": "Texture mapping applies:",
+      "options": [
+        "A) Colors only",
+        "B) 2D images to 3D surfaces",
+        "C) Shadows only",
+        "D) Transparency only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9621d0dd26419d98fd78ece8d5d3d45807077d2b",
+      "sectionIndex": 7,
+      "question": "Virtual reality requires which refresh rate to avoid motion sickness?",
+      "options": [
+        "A) 30 FPS",
+        "B) 60 FPS",
+        "C) 90+ FPS",
+        "D) 15 FPS"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9414d72d80dd30e68304e639652871370d309d5a",
+      "sectionIndex": 8,
+      "question": "Which type of malware can replicate itself without user intervention?",
+      "options": [
+        "A) Trojan horse",
+        "B) Worm",
+        "C) Spyware",
+        "D) Adware"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78055d7e16e3bf4b1fe6f6f3d3f85413dac057c9",
+      "sectionIndex": 8,
+      "question": "SSL/TLS operates at which OSI layer?",
+      "options": [
+        "A) Network",
+        "B) Transport",
+        "C) Session",
+        "D) Application"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b7f822b21b4177188650ad114d67734a6696733",
+      "sectionIndex": 8,
+      "question": "In cybersecurity, what does \"defense in depth\" mean?",
+      "options": [
+        "A) Single strong firewall",
+        "B) Multiple layers of security",
+        "C) Deep packet inspection",
+        "D) Password depth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "679d05a56f2644fe82cdaa18647cc58aba611759",
+      "sectionIndex": 8,
+      "question": "SQL injection attacks target:",
+      "options": [
+        "A) Network layer",
+        "B) Operating system",
+        "C) Database queries",
+        "D) Hardware"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "946d461fa2217bd84c261aae85cea7aeb4c25fdd",
+      "sectionIndex": 8,
+      "question": "Digital evidence preservation requires maintaining:",
+      "options": [
+        "A) Only the data",
+        "B) Chain of custody",
+        "C) Hardware only",
+        "D) Software only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25b3c2ed542895f6aa17a42903f88c2cc2875867",
+      "sectionIndex": 8,
+      "question": "A man-in-the-middle attack compromises:",
+      "options": [
+        "A) Only passwords",
+        "B) Communication between parties",
+        "C) Only websites",
+        "D) Only emails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bec48f0f263253ce04db7c5db3201db92c887fca",
+      "sectionIndex": 8,
+      "question": "Which encryption type uses the same key for encryption and decryption?",
+      "options": [
+        "A) Asymmetric",
+        "B) Symmetric",
+        "C) Hash",
+        "D) Digital signature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f9a374aaf2cdf32e80068fccef69ca87a4464c1",
+      "sectionIndex": 8,
+      "question": "Intrusion Detection Systems (IDS) can be:",
+      "options": [
+        "A) Only network-based",
+        "B) Only host-based",
+        "C) Network-based or host-based",
+        "D) Application-based only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cdac1af2f32462b285c825ec0e3b1bf1f323cebe",
+      "sectionIndex": 8,
+      "question": "The principle of least privilege means:",
+      "options": [
+        "A) No access to anyone",
+        "B) Minimum necessary access rights",
+        "C) Maximum access to all",
+        "D) Guest access only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb3584f2d12beac4fbfc1a246d61a33afd047b8e",
+      "sectionIndex": 8,
+      "question": "Two-factor authentication combines:",
+      "options": [
+        "A) Two passwords",
+        "B) Something you know and something you have",
+        "C) Two usernames",
+        "D) Two email addresses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e84e266b48bc452149d00d478e93d6e6d586780a",
+      "sectionIndex": 9,
+      "question": "Moore's Law states that transistor density doubles approximately every:",
+      "options": [
+        "A) 6 months",
+        "B) 18 months",
+        "C) 3 years",
+        "D) 5 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7d6c40434562b7f9e395ebe3e455487bfa4138d",
+      "sectionIndex": 9,
+      "question": "In compiler design, lexical analysis produces:",
+      "options": [
+        "A) Machine code",
+        "B) Tokens",
+        "C) Assembly code",
+        "D) Object code"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed7ac42c836dedf463b8109d8ede29c00b7929ad",
+      "sectionIndex": 9,
+      "question": "The Harvard architecture differs from Von Neumann in:",
+      "options": [
+        "A) CPU design",
+        "B) Separate memory for instructions and data",
+        "C) Input/output handling",
+        "D) Clock speed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47fa12c896cc5c9dc1b36b297a83f68582358429",
+      "sectionIndex": 9,
+      "question": "In parallel processing, Amdahl's Law determines:",
+      "options": [
+        "A) Memory usage",
+        "B) Maximum speedup",
+        "C) Power consumption",
+        "D) Cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfe971a88256c1f378c31d17fa4ba6781d8cad37",
+      "sectionIndex": 9,
+      "question": "Big O notation O(n log n) typically represents complexity of:",
+      "options": [
+        "A) Linear search",
+        "B) Efficient sorting algorithms",
+        "C) Constant time operations",
+        "D) Exponential algorithms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bce77fffd3e56fd6b069fd295256ee35b328c348",
+      "sectionIndex": 9,
+      "question": "In machine learning, supervised learning requires:",
+      "options": [
+        "A) No data",
+        "B) Labeled training data",
+        "C) Only test data",
+        "D) Unlabeled data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c96c93ff0b4215e26a931bba275b56ef3179a407",
+      "sectionIndex": 9,
+      "question": "The CAP theorem states that distributed systems can guarantee at most:",
+      "options": [
+        "A) One property",
+        "B) Two of three properties",
+        "C) All three properties",
+        "D) No properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1efb73c34502ec9757295ee94c052c5c9e0c0900",
+      "sectionIndex": 9,
+      "question": "In blockchain technology, consensus mechanisms ensure:",
+      "options": [
+        "A) Speed only",
+        "B) Agreement on data state",
+        "C) Privacy only",
+        "D) Compression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ed288fefe61f132b4156f004e993d244bd88d4d",
+      "sectionIndex": 9,
+      "question": "Quantum computing uses which unit instead of bits?",
+      "options": [
+        "A) Bytes",
+        "B) Qubits",
+        "C) Nibbles",
+        "D) Words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19860e4366418d1012ca6c94c193c013bd689042",
+      "sectionIndex": 9,
+      "question": "The halting problem proves that:",
+      "options": [
+        "A) All programs terminate",
+        "B) Some problems are undecidable",
+        "C) Computers will stop working",
+        "D) All algorithms are efficient"
+      ],
+      "correct": "B"
+    }
+  ]
+}

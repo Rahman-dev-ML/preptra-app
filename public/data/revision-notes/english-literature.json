@@ -1,0 +1,364 @@
+{
+  "subject": "English Literature (CSS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 12,
+  "categories": [
+    "Syllabus & Past Papers",
+    "Romantic Poetry",
+    "Victorian Literature",
+    "Shakespeare & Drama",
+    "Modernism & 20th Century",
+    "Literary Theory & Criticism",
+    "Non-Fiction Essays & Rhetoric"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Official Syllabus & Recent Past Papers (Must-Have)",
+      "content": "Use the FPSC syllabus to anchor prep and map each author/work to marks. Practice with recent descriptive papers to gauge weightage (poetry, drama, novel, essays, theory).",
+      "keyTakeaways": [
+        "Paper spans Essays, Short Stories, Poetry, Drama, Novel, Literary Theory/Criticism.",
+        "Start from FPSC PDFs; then drill recurring authors and theories.",
+        "Attempt timed papers from 2021–2024 to calibrate depth/speed."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Descriptive Papers (English Literature)",
+          "url": "https://fpsc.gov.pk/category/css-2023-descriptive-papers-516644049-2024-06-27",
+          "type": "official",
+          "description": "Recent descriptive papers (includes English Literature)."
+        },
+        {
+          "title": "FPSC/CSSAspirants — English Literature Syllabus (PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/English-Literature-CSS-Syllabus.pdf",
+          "type": "syllabus",
+          "description": "Marks breakup and reading list."
+        },
+        {
+          "title": "The CSS Point — Past Papers 2000–2020",
+          "url": "https://thecsspoint.com/css-past-papers/english-literature-past-papers/",
+          "type": "past-papers",
+          "description": "Archive for trend analysis."
+        }
+      ],
+      "importance": "high",
+      "category": "Syllabus & Past Papers",
+      "topics": ["Syllabus", "Past Papers", "Weightage", "Timing"]
+    },
+    {
+      "id": "2",
+      "title": "Wordsworth's Nature & 'Tintern Abbey'",
+      "content": "Core Romantic theme of memory, nature's moral education, and the shift from youthful ecstasy to mature reflection. Frequently examined for close reading and thematic essays.",
+      "keyTakeaways": [
+        "Memory mediates nature → mind; adulthood compensates with 'philosophic mind'.",
+        "Link to Romantic aesthetics: sublime, imagination, time/change.",
+        "Use line-referenced analysis for introduction/body/close-reading."
+      ],
+      "resources": [
+        {
+          "title": "LitCharts — 'Tintern Abbey' Analysis",
+          "url": "https://www.litcharts.com/poetry/william-wordsworth/lines-composed-a-few-miles-above-tintern-abbey",
+          "type": "analysis",
+          "description": "Themes, line-by-line guide."
+        },
+        {
+          "title": "SparkNotes — Wordsworth's Poetry",
+          "url": "https://www.sparknotes.com/poetry/wordsworth/section1/",
+          "type": "study",
+          "description": "Accessible summary/context."
+        }
+      ],
+      "importance": "high",
+      "category": "Romantic Poetry",
+      "topics": ["Wordsworth", "Nature", "Memory", "Sublime"]
+    },
+    {
+      "id": "3",
+      "title": "Keats' Odes: Sensuousness, Hellenism, Pleasure–Pain",
+      "content": "Expect questions on sensuous imagery, negative capability, and classical form. Compare 'Nightingale', 'Grecian Urn', 'Melancholy', 'Autumn'.",
+      "keyTakeaways": [
+        "Keats fuses sensory richness with philosophical melancholy.",
+        "Pleasure–pain co-presence is a recurring argumentative thread.",
+        "Quote economically; analyze form (ode structure) + imagery."
+      ],
+      "resources": [
+        {
+          "title": "Open-access paper on Keats' Odes",
+          "url": "https://www.allresearchjournal.com/archives/2023/vol9issue3/PartC/9-9-50-313.pdf",
+          "type": "research-article",
+          "description": "Themes across the Odes."
+        },
+        {
+          "title": "Hyperbolit — What is an Ode? (Keats focus)",
+          "url": "https://hyperbolit.com/2021/02/28/what-is-an-ode-reading-keats-ode-on-melancholy-to-find-out/",
+          "type": "article",
+          "description": "Form and context refresher."
+        }
+      ],
+      "importance": "high",
+      "category": "Romantic Poetry",
+      "topics": ["Keats", "Odes", "Sensuousness", "Negative Capability"]
+    },
+    {
+      "id": "4",
+      "title": "Dickens' 'Hard Times': Utilitarianism & Industrial Modernity",
+      "content": "CSS loves Dickens as social critic. 'Hard Times' targets facts-only pedagogy, mechanized labor, and moral arithmetic of utility.",
+      "keyTakeaways": [
+        "Contrast 'facts' vs. imagination/humanity (Gradgrind system).",
+        "Map industrial Coketown to social critique (education/family).",
+        "Use Utilitarianism definitions to sharpen argument."
+      ],
+      "resources": [
+        {
+          "title": "Scholarly PDF — Critique of Utilitarianism in 'Hard Times'",
+          "url": "https://www.socialresearchfoundation.com/upoadreserchpapers/6/482/220106035909charles%20dickens%20hard%20times_%20a%20critique%20of%20utilitarianism.docx.pdf",
+          "type": "research-article",
+          "description": "Focused academic discussion."
+        },
+        {
+          "title": "Context article on Utilitarianism in Dickens",
+          "url": "https://simplelinesdegrowth.wordpress.com/2018/02/20/hard-times-dickens/",
+          "type": "article",
+          "description": "Readable overview for examples."
+        }
+      ],
+      "importance": "high",
+      "category": "Victorian Literature",
+      "topics": ["Dickens", "Utilitarianism", "Industrialization", "Social Critique"]
+    },
+    {
+      "id": "5",
+      "title": "George Eliot: Psychological Realism ('The Mill on the Floss')",
+      "content": "Eliot's narrative voice, interiority, and ethical realism make her a CSS favorite. Expect questions on Maggie Tulliver, Bildung, and gender constraints.",
+      "keyTakeaways": [
+        "'Sympathy' and moral choice underpin Eliot's realism.",
+        "Track setting (St. Ogg's) and social pressures shaping character arcs.",
+        "Use close-reading of narrator intrusions to evidence 'psychological realism'."
+      ],
+      "resources": [
+        {
+          "title": "SparkNotes — The Mill on the Floss (analysis)",
+          "url": "https://www.sparknotes.com/lit/millonthefloss/section1/",
+          "type": "study",
+          "description": "Chapter/theme outlines."
+        },
+        {
+          "title": "EBSCO Research Starter — Setting/Context",
+          "url": "https://www.ebsco.com/research-starters/literature-and-writing/mill-floss-analysis-setting",
+          "type": "reference",
+          "description": "Reference overview (library resource)."
+        }
+      ],
+      "importance": "medium",
+      "category": "Victorian Literature",
+      "topics": ["George Eliot", "Realism", "Bildungsroman", "Gender"]
+    },
+    {
+      "id": "6",
+      "title": "Shaw's 'Pygmalion': Social Satire, Class & Language",
+      "content": "Frequent essay prompts on class mobility, phonetics, and gender politics. Situate Eliza's transformation against Edwardian class codes.",
+      "keyTakeaways": [
+        "Language functions as social currency and control.",
+        "Satire exposes arbitrariness of 'respectability'.",
+        "Compare with 'art for art's sake' vs. Shaw's social purpose."
+      ],
+      "resources": [
+        {
+          "title": "Research article — Satire in 'Pygmalion'",
+          "url": "https://www.ijstr.org/final-print/dec2019/Satirical-Vein-In-George-Bernard-Shaws-Plays.pdf",
+          "type": "research-article",
+          "description": "Satirical method & social critique."
+        },
+        {
+          "title": "Journal piece — Pygmalion as social commentary",
+          "url": "https://www.ijsrst.com/IJSRST1622175",
+          "type": "research-article",
+          "description": "Concise scholarly framing."
+        }
+      ],
+      "importance": "high",
+      "category": "Victorian Literature",
+      "topics": ["Shaw", "Satire", "Class", "Gender", "Sociolinguistics"]
+    },
+    {
+      "id": "7",
+      "title": "Shakespeare's 'Hamlet': Delay, Revenge & Tragic Form",
+      "content": "Perennial CSS topic: motives for delay, problem of action vs. thought, role of Gertrude/Ophelia, and revenge-tragedy conventions.",
+      "keyTakeaways": [
+        "Frame delay via ethics, epistemic doubt, and dramaturgy.",
+        "Use revenge-tragedy template (ghost–villain–avenger) as scaffold.",
+        "Integrate soliloquy analysis ('To be…') with text evidence."
+      ],
+      "resources": [
+        {
+          "title": "University Lecture — Hamlet (overview)",
+          "url": "https://johnstoniatexts.x10host.com/lectures/hamletlecture.html",
+          "type": "lecture-notes",
+          "description": "Genre framing and key arcs."
+        },
+        {
+          "title": "CrashCourse Literature — Hamlet Parts 1 & 2 (YouTube)",
+          "url": "https://www.youtube.com/playlist?list=PLM9PMNjtZCS-GOMhM7fMJnj7F6jNjrau7",
+          "type": "video",
+          "description": "Fast, exam-oriented refreshers."
+        }
+      ],
+      "importance": "high",
+      "category": "Shakespeare & Drama",
+      "topics": ["Hamlet", "Revenge Tragedy", "Delay", "Soliloquy"]
+    },
+    {
+      "id": "8",
+      "title": "Beckett's 'Waiting for Godot': Absurdism & Existential Themes",
+      "content": "Expect theory-linked answers (Absurdism, existentialism), minimalism, cyclical time, and language breakdown.",
+      "keyTakeaways": [
+        "Form embodies meaning: repetition, stasis, comic-tragic tone.",
+        "Map Camusian absurd vs. religious/meaning horizons.",
+        "Close-read stage directions and pauses for argument support."
+      ],
+      "resources": [
+        {
+          "title": "Open-access thesis/article on Absurdity in 'Godot'",
+          "url": "https://dspace.univ-tlemcen.dz/bitstream/112/21354/1/A_Study_of_Absurdity_in_Samuel_Beckett%E2%80%99s_Waiting_for_Godot.pdf",
+          "type": "research-article",
+          "description": "Absurdist framework and motifs."
+        },
+        {
+          "title": "Full text (study copy) — 'Waiting for Godot'",
+          "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Waiting-for-Godot.pdf",
+          "type": "text",
+          "description": "Reference text for quotations."
+        }
+      ],
+      "importance": "high",
+      "category": "Modernism & 20th Century",
+      "topics": ["Beckett", "Absurdism", "Existentialism", "Theatre of the Absurd"]
+    },
+    {
+      "id": "9",
+      "title": "Eliot's 'The Waste Land': Fragmentation, Allusion & Post-WWI Disillusion",
+      "content": "CSS frequently probes structure (5 parts), voices, mythic method, and spiritual desiccation vs. renewal.",
+      "keyTakeaways": [
+        "Pair text with author's notes and modernist context.",
+        "Use select allusions (Upanishads; Thames; Tiresias) judiciously.",
+        "Relate to post-war malaise + private biography (with restraint)."
+      ],
+      "resources": [
+        {
+          "title": "Project Gutenberg — Full Text",
+          "url": "https://www.gutenberg.org/files/1321/1321-h/1321-h.htm",
+          "type": "text",
+          "description": "Authoritative public-domain copy."
+        },
+        {
+          "title": "Yale Modernism Lab — Context & Analysis",
+          "url": "https://campuspress.yale.edu/modernismlab/the-waste-land/",
+          "type": "university-article",
+          "description": "Concise scholarly intro."
+        },
+        {
+          "title": "Open Yale Courses — Modern Poetry (Eliot lectures)",
+          "url": "https://oyc.yale.edu/english/engl-310",
+          "type": "course",
+          "description": "Lecture series incl. Eliot/Yeats/Pound."
+        }
+      ],
+      "importance": "high",
+      "category": "Modernism & 20th Century",
+      "topics": ["T. S. Eliot", "Modernism", "Mythic Method", "Allusion"]
+    },
+    {
+      "id": "10",
+      "title": "Non-Fiction Prose: Orwell's 'Politics and the English Language'",
+      "content": "Regular essay and MCQ focus: Orwell's six rules, link between thought and language, political obfuscation.",
+      "keyTakeaways": [
+        "Style is ethical: clarity battles euphemism and doublespeak.",
+        "Illustrate rules with your own re-writes in answers.",
+        "Contextualize 1946 Horizon publication; ongoing relevance."
+      ],
+      "resources": [
+        {
+          "title": "The Orwell Foundation — Full Text",
+          "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
+          "type": "official",
+          "description": "Canonical source for quotation."
+        },
+        {
+          "title": "Archive.org — Original print version",
+          "url": "https://archive.org/details/PoliticsAndTheEnglishLanguage",
+          "type": "archive",
+          "description": "Historical publication context."
+        }
+      ],
+      "importance": "high",
+      "category": "Non-Fiction Essays & Rhetoric",
+      "topics": ["Orwell", "Style", "Language & Politics", "Rhetoric"]
+    },
+    {
+      "id": "11",
+      "title": "Literary Theory Toolkit for CSS Answers",
+      "content": "Use theory as lens, not name-dropping. Common CSS frameworks: Formalism/New Criticism, Feminist, Marxist, Post-colonial, Reader-Response, Structuralism/Deconstruction.",
+      "keyTakeaways": [
+        "State the lens in one line; apply to a short passage/example.",
+        "Balance authorial context with text-immanent analysis.",
+        "Avoid over-theorizing—keep argument serviceable to the text."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Literary Theory (PDF mirror)",
+          "url": "https://mseffie.com/assignments/heart_of_darkness/Purdue%20OWL%20Literary%20Theory.pdf",
+          "type": "reference",
+          "description": "Concise lens summaries."
+        },
+        {
+          "title": "Internet Encyclopedia of Philosophy — Aesthetic Formalism",
+          "url": "https://iep.utm.edu/aesthetic-formalism/",
+          "type": "encyclopedia",
+          "description": "Useful for form-centric answers."
+        },
+        {
+          "title": "Routledge Encyclopedia — Feminist Literary Criticism",
+          "url": "https://www.rep.routledge.com/articles/thematic/feminist-literary-criticism/v-1",
+          "type": "encyclopedia",
+          "description": "High-level overview."
+        }
+      ],
+      "importance": "high",
+      "category": "Literary Theory & Criticism",
+      "topics": ["Formalism", "Feminist", "Marxist", "Reader-Response", "Post-colonial"]
+    },
+    {
+      "id": "12",
+      "title": "Primary Texts (Authoritative, Free) for Quotations",
+      "content": "Keep a local corpus for quick quotation with line numbers/sections. Use reputable public-domain sources.",
+      "keyTakeaways": [
+        "Quote sparingly but precisely (act/scene; stanza/line).",
+        "Build a personal 'evidence bank' for fast recall in essays.",
+        "Cross-check any web PDF with recognized editions."
+      ],
+      "resources": [
+        {
+          "title": "Project Gutenberg — 'The Waste Land'",
+          "url": "https://www.gutenberg.org/ebooks/1321",
+          "type": "text",
+          "description": "Sectioned with notes."
+        },
+        {
+          "title": "Project Gutenberg — 'Pride and Prejudice'",
+          "url": "https://www.gutenberg.org/files/1342/1342-h/1342-h.htm",
+          "type": "text",
+          "description": "Clean, citeable HTML."
+        },
+        {
+          "title": "Waiting for Godot — Study Text (PDF)",
+          "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Waiting-for-Godot.pdf",
+          "type": "text",
+          "description": "Portable reference copy."
+        }
+      ],
+      "importance": "medium",
+      "category": "Modernism & 20th Century",
+      "topics": ["Primary Texts", "Citation", "Quotations"]
+    }
+  ]
+}

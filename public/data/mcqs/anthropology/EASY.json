@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T07:38:31.368Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "cb5630e10915c2c4595097836b7a69b148b48261",
+      "sectionIndex": 0,
+      "question": "Anthropology is the study of:",
+      "options": [
+        "A) Ancient civilizations only",
+        "B) Human beings and their cultures",
+        "C) Animals only",
+        "D) Plants and animals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50f84bd5c1f14728d23f62b9101ca03ca1565832",
+      "sectionIndex": 0,
+      "question": "The word \"anthropology\" comes from Greek words meaning:",
+      "options": [
+        "A) Study of society",
+        "B) Study of culture",
+        "C) Study of humans",
+        "D) Study of behavior"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f70e80c910860c9f6671b2ae8a8b8c5ca21b4c3d",
+      "sectionIndex": 0,
+      "question": "How many main fields/branches does anthropology traditionally have?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8614aa09b0def25d48b2e3c059a32c569f34c974",
+      "sectionIndex": 0,
+      "question": "Cultural anthropology studies:",
+      "options": [
+        "A) Human fossils",
+        "B) Contemporary human cultures",
+        "C) Human genetics",
+        "D) Ancient artifacts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d0db04b73b69e4a6b7e8c35db4ef7f5b037d676",
+      "sectionIndex": 0,
+      "question": "Physical/Biological anthropology focuses on:",
+      "options": [
+        "A) Cultural practices",
+        "B) Human evolution and biological variation",
+        "C) Language development",
+        "D) Archaeological sites"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd392a04b0fccd52ae3f9ad10cd42661e685b630",
+      "sectionIndex": 0,
+      "question": "Linguistic anthropology examines:",
+      "options": [
+        "A) Written texts only",
+        "B) Human language in cultural context",
+        "C) Computer languages",
+        "D) Animal communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d703360d22353e0d64bb3a5e87f51959d3f65d36",
+      "sectionIndex": 0,
+      "question": "Archaeology studies:",
+      "options": [
+        "A) Living cultures",
+        "B) Past human cultures through material remains",
+        "C) Human biology",
+        "D) Modern societies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8418d389a40ecac90869f8ed283255040d746d3",
+      "sectionIndex": 0,
+      "question": "Applied anthropology refers to:",
+      "options": [
+        "A) Theoretical research",
+        "B) Practical application of anthropological knowledge",
+        "C) Laboratory studies",
+        "D) Historical analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99baa3fba9537515a89ab5fd9987defe5d2916ea",
+      "sectionIndex": 0,
+      "question": "Which field of anthropology studies human fossils?",
+      "options": [
+        "A) Cultural anthropology",
+        "B) Linguistic anthropology",
+        "C) Physical anthropology",
+        "D) Applied anthropology"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "13103cfa2e853e8c3a81d82ec8058707726c2859",
+      "sectionIndex": 0,
+      "question": "Anthropology differs from sociology primarily in its:",
+      "options": [
+        "A) Methods only",
+        "B) Holistic and cross-cultural approach",
+        "C) Focus on modern societies",
+        "D) Statistical analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "699828fbfa9b39b8d8d0899f3d1f29a679e157cc",
+      "sectionIndex": 1,
+      "question": "Culture is best defined as:",
+      "options": [
+        "A) Art and music only",
+        "B) Learned and shared patterns of behavior and beliefs",
+        "C) Biological inheritance",
+        "D) Individual habits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35a6792f5fa52aa889f5af08f5b262668f45498e",
+      "sectionIndex": 1,
+      "question": "Which characteristic is NOT true of culture?",
+      "options": [
+        "A) It is learned",
+        "B) It is shared",
+        "C) It is biologically inherited",
+        "D) It is symbolic"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b265e3915dcc3db5e47b7a3067126122307ac662",
+      "sectionIndex": 1,
+      "question": "Ethnocentrism means:",
+      "options": [
+        "A) Studying ethnic groups",
+        "B) Judging other cultures by one's own cultural standards",
+        "C) Cultural equality",
+        "D) Ethnic diversity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "603a17911547dc02240d399b301b5fcd17cbbdba",
+      "sectionIndex": 1,
+      "question": "Cultural relativism is:",
+      "options": [
+        "A) Believing all cultures are the same",
+        "B) Understanding cultures in their own context",
+        "C) Ranking cultures",
+        "D) Ignoring cultural differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cfbbc3df3be9b3e1abd2bd51e67a7a79e348ee4",
+      "sectionIndex": 1,
+      "question": "Enculturation is the process of:",
+      "options": [
+        "A) Biological evolution",
+        "B) Learning one's own culture",
+        "C) Studying other cultures",
+        "D) Cultural change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fedba54080e6cfd7510eeeaa1e7247e634daadbf",
+      "sectionIndex": 1,
+      "question": "A symbol in anthropological terms is:",
+      "options": [
+        "A) A mathematical sign",
+        "B) Something that represents something else",
+        "C) A religious object only",
+        "D) A written word only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a63e3e707f25faf0e099541e76ca5f53f2035d0e",
+      "sectionIndex": 1,
+      "question": "Material culture includes:",
+      "options": [
+        "A) Ideas and beliefs",
+        "B) Physical objects made by humans",
+        "C) Language",
+        "D) Social norms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2614c476a87a33c9dd889526bdba783513a3368d",
+      "sectionIndex": 1,
+      "question": "Non-material culture consists of:",
+      "options": [
+        "A) Tools and buildings",
+        "B) Ideas, beliefs, and values",
+        "C) Archaeological artifacts",
+        "D) Natural resources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "913d18434991fdeff1a02ce5074f6273fae72b77",
+      "sectionIndex": 1,
+      "question": "Cultural diffusion refers to:",
+      "options": [
+        "A) Loss of culture",
+        "B) Spread of cultural traits between societies",
+        "C) Cultural isolation",
+        "D) Cultural destruction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1fb0b9c1a2afd9fbd76184d48c4f37cfee2bbbe",
+      "sectionIndex": 1,
+      "question": "A subculture is:",
+      "options": [
+        "A) An inferior culture",
+        "B) A group within a larger culture with distinct traits",
+        "C) A foreign culture",
+        "D) Ancient culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e6b890c5b7c63ca3c6a2ff81a91c52c6b129a95",
+      "sectionIndex": 2,
+      "question": "Kinship refers to:",
+      "options": [
+        "A) Friendship only",
+        "B) Relationships based on blood and marriage",
+        "C) Neighborhood relations",
+        "D) Work relationships"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8351f9826b983583ae3fe6efa9f8a73f93e1ed68",
+      "sectionIndex": 2,
+      "question": "A nuclear family consists of:",
+      "options": [
+        "A) All relatives",
+        "B) Parents and their children",
+        "C) Three generations",
+        "D) Single parent only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05fe35070ba937e14d6ce13b2059ab7f3ba87f61",
+      "sectionIndex": 2,
+      "question": "An extended family includes:",
+      "options": [
+        "A) Friends",
+        "B) Multiple generations of relatives",
+        "C) Nuclear family only",
+        "D) Adopted children only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "574f37061b734f164c45a3a07059caa48258e3f5",
+      "sectionIndex": 2,
+      "question": "Patrilineal descent traces ancestry through:",
+      "options": [
+        "A) Mother's line",
+        "B) Father's line",
+        "C) Both parents equally",
+        "D) Eldest child"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed55b846251f38d1b7cdec7d536f53b75d800149",
+      "sectionIndex": 2,
+      "question": "Matrilineal descent traces ancestry through:",
+      "options": [
+        "A) Father's line",
+        "B) Mother's line",
+        "C) Eldest son",
+        "D) Youngest child"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dee5791514c3f70e8d3fe8be428ef86150d582b",
+      "sectionIndex": 2,
+      "question": "Exogamy means:",
+      "options": [
+        "A) Marrying within one's group",
+        "B) Marrying outside one's group",
+        "C) Not marrying",
+        "D) Multiple marriages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdc5d94e389a1b1c5a7283b3760132412799ae94",
+      "sectionIndex": 2,
+      "question": "Endogamy means:",
+      "options": [
+        "A) Marrying outside one's group",
+        "B) Marrying within one's group",
+        "C) Divorce",
+        "D) Single marriage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "782833ce17f5b2e2adf7012b870364122ba1e11c",
+      "sectionIndex": 2,
+      "question": "Polygamy refers to:",
+      "options": [
+        "A) One spouse",
+        "B) Multiple spouses",
+        "C) No marriage",
+        "D) Child marriage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38e64c1a7e9b2034a78ae61cd94bc759dc94b062",
+      "sectionIndex": 2,
+      "question": "Monogamy means:",
+      "options": [
+        "A) Multiple spouses",
+        "B) One spouse at a time",
+        "C) No marriage",
+        "D) Group marriage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34e121152b3144b9176830c0092ae67b23b3b0b2",
+      "sectionIndex": 2,
+      "question": "Bride price is:",
+      "options": [
+        "A) Payment from bride's family to groom",
+        "B) Payment from groom's family to bride's family",
+        "C) Wedding expenses",
+        "D) Divorce settlement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c300d6b8575bd59d9f88777a3dcbe1112b4af6d",
+      "sectionIndex": 3,
+      "question": "Participant observation involves:",
+      "options": [
+        "A) Watching from a distance",
+        "B) Living with and participating in the culture studied",
+        "C) Laboratory experiments",
+        "D) Survey research only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e46fee36b1ed33a8b4850c1e00c92d1e5355727",
+      "sectionIndex": 3,
+      "question": "Ethnography is:",
+      "options": [
+        "A) Study of ethnic groups only",
+        "B) Detailed description of a culture",
+        "C) Statistical analysis",
+        "D) Historical research"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12b8500c5a1efa09a52c6aacd3ffc560b39bb3ac",
+      "sectionIndex": 3,
+      "question": "Fieldwork in anthropology typically involves:",
+      "options": [
+        "A) Library research only",
+        "B) Extended time living in the community studied",
+        "C) Laboratory work",
+        "D) Online surveys"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3808644ff330212a15cf4f8145253d74bed9ddc",
+      "sectionIndex": 3,
+      "question": "An informant in anthropological research is:",
+      "options": [
+        "A) A spy",
+        "B) A member of the studied culture who provides information",
+        "C) A government official",
+        "D) A translator only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eed0340a328ea2b9558266f4d9a5262ff80f9050",
+      "sectionIndex": 3,
+      "question": "Qualitative research in anthropology focuses on:",
+      "options": [
+        "A) Numbers and statistics",
+        "B) Detailed descriptions and meanings",
+        "C) Laboratory measurements",
+        "D) Mathematical models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca47d3c283d26b402eb40a2cb7c3028a83a430bb",
+      "sectionIndex": 3,
+      "question": "Quantitative research emphasizes:",
+      "options": [
+        "A) Personal stories",
+        "B) Numerical data and statistics",
+        "C) Participant observation",
+        "D) Cultural meanings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83b9966806fa222268a7e62ba6d4a96b14aadbff",
+      "sectionIndex": 3,
+      "question": "An ethnographic interview is:",
+      "options": [
+        "A) Job interview",
+        "B) In-depth conversation about cultural practices",
+        "C) Police interrogation",
+        "D) Medical examination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07cc96fb067a83a56ade3679ee7bce738d4ec6a9",
+      "sectionIndex": 3,
+      "question": "The emic perspective refers to:",
+      "options": [
+        "A) Outsider's view",
+        "B) Insider's view of their own culture",
+        "C) Scientific view",
+        "D) Historical view"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b919adbbfb5924e642a7e0c8f9e48635d8d75d7",
+      "sectionIndex": 3,
+      "question": "The etic perspective refers to:",
+      "options": [
+        "A) Insider's view",
+        "B) Outsider's analytical view",
+        "C) Personal opinion",
+        "D) Government view"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5c742a1236e608f8f8026ef09ec8f774e4ce50b",
+      "sectionIndex": 3,
+      "question": "Field notes are:",
+      "options": [
+        "A) Musical notation",
+        "B) Detailed written observations during fieldwork",
+        "C) Laboratory results",
+        "D) Statistical data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9bafa592c62d35160986ac8b895472eecfbcb4b",
+      "sectionIndex": 4,
+      "question": "Reciprocity in economic anthropology means:",
+      "options": [
+        "A) One-way giving",
+        "B) Mutual exchange of goods or services",
+        "C) Market economy",
+        "D) Theft"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6617cf554a535ed9822d02f0dac4bef73b14089b",
+      "sectionIndex": 4,
+      "question": "Redistribution involves:",
+      "options": [
+        "A) Direct exchange between individuals",
+        "B) Centralized collection and reallocation of resources",
+        "C) Market sales",
+        "D) Barter only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e8e203e622d5954f33f11a56bbab3bd9ce16b01",
+      "sectionIndex": 4,
+      "question": "Market exchange is characterized by:",
+      "options": [
+        "A) Gift giving",
+        "B) Buying and selling with prices",
+        "C) Forced distribution",
+        "D) No exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "559d75c5315874b9e3d4c3dbb8e591e8c8f292c6",
+      "sectionIndex": 4,
+      "question": "A band is a political organization typically found in:",
+      "options": [
+        "A) Industrial societies",
+        "B) Hunter-gatherer societies",
+        "C) Agricultural states",
+        "D) Modern nations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "254e86a6d841c15c6e93b9bc1530990edd69e79a",
+      "sectionIndex": 4,
+      "question": "A tribe differs from a band in having:",
+      "options": [
+        "A) Smaller population",
+        "B) More formal leadership and larger population",
+        "C) No leadership",
+        "D) Industrial economy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d48664a5aa0dce05cb08ff9ca720d7c85de1a901",
+      "sectionIndex": 4,
+      "question": "A chiefdom has:",
+      "options": [
+        "A) No central authority",
+        "B) Hereditary leadership with ranked positions",
+        "C) Democratic elections",
+        "D) Corporate structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77d2946f95f387d48f73e9f597b4efd359c09602",
+      "sectionIndex": 4,
+      "question": "A state is characterized by:",
+      "options": [
+        "A) No government",
+        "B) Centralized government with laws and territory",
+        "C) Tribal councils only",
+        "D) Band organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c6b951397b18c6034be2707656c885d40067845",
+      "sectionIndex": 4,
+      "question": "Social stratification refers to:",
+      "options": [
+        "A) Geographic layers",
+        "B) Hierarchical arrangement of social groups",
+        "C) Equal distribution",
+        "D) Random organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7d44afeb21820fa9819ce6b35f149e7bacd0e37",
+      "sectionIndex": 4,
+      "question": "An egalitarian society has:",
+      "options": [
+        "A) Strict hierarchy",
+        "B) Relative equality among members",
+        "C) Caste system",
+        "D) Slavery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5761bc242e2375649315b6135ccd2fc912de8a62",
+      "sectionIndex": 4,
+      "question": "Ranked societies have:",
+      "options": [
+        "A) Complete equality",
+        "B) Differential prestige but equal access to resources",
+        "C) No social differences",
+        "D) Industrial economy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb076960470407c3f8f9c9f7979c717d1d8c2e93",
+      "sectionIndex": 5,
+      "question": "Animism is the belief that:",
+      "options": [
+        "A) Animals are gods",
+        "B) Natural objects have spirits or souls",
+        "C) There is only one god",
+        "D) There are no spirits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb6a232372e060f6d4934412b71a30b45da52cb8",
+      "sectionIndex": 5,
+      "question": "Tylor considered animism to be:",
+      "options": [
+        "A) The most advanced religion",
+        "B) The earliest form of religion",
+        "C) A modern belief",
+        "D) Scientifically proven"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f365fa7c559c1bb97b0bad3f7b5bd7a8f3788e5",
+      "sectionIndex": 5,
+      "question": "Polytheism means belief in:",
+      "options": [
+        "A) No gods",
+        "B) Multiple gods",
+        "C) One god",
+        "D) Nature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d91abf474855893b4e97d0de396b0478035cf86f",
+      "sectionIndex": 5,
+      "question": "Monotheism means belief in:",
+      "options": [
+        "A) Many gods",
+        "B) One god",
+        "C) No gods",
+        "D) Animal spirits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "784e619aba3b89ab6003dfd2d05006d4e61d163e",
+      "sectionIndex": 5,
+      "question": "A ritual is:",
+      "options": [
+        "A) Random behavior",
+        "B) Formalized, repetitive behavior with symbolic meaning",
+        "C) Daily routine",
+        "D) Scientific experiment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3757e4be9ad7039668b550ccf16d2687ebb48c7",
+      "sectionIndex": 5,
+      "question": "A myth in anthropological terms is:",
+      "options": [
+        "A) A false story",
+        "B) A sacred narrative explaining origins",
+        "C) Modern fiction",
+        "D) Historical fact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2a885c1b141212f6d139a50380cc37d0a34bc9e",
+      "sectionIndex": 5,
+      "question": "Magic differs from religion in being:",
+      "options": [
+        "A) More scientific",
+        "B) Manipulation of supernatural for specific goals",
+        "C) Always evil",
+        "D) More organized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9ff27cd128cb9061ae155ac6cac721eb5a0c085",
+      "sectionIndex": 5,
+      "question": "A shaman is:",
+      "options": [
+        "A) Political leader",
+        "B) Religious specialist who mediates with spirits",
+        "C) Warrior",
+        "D) Farmer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59d284a25d48f51b5d32bbe25dfc6a4a9dc42742",
+      "sectionIndex": 5,
+      "question": "Totemism involves:",
+      "options": [
+        "A) Worship of tools",
+        "B) Spiritual connection between groups and natural species",
+        "C) Sun worship",
+        "D) Ancestor neglect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e29c4cbef3ebc6ca909e13358f2a78e5a1f4b31",
+      "sectionIndex": 5,
+      "question": "Supernatural refers to:",
+      "options": [
+        "A) Natural phenomena",
+        "B) Forces beyond natural/scientific understanding",
+        "C) Technology",
+        "D) Physical world"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c60af80085a4cf3a1001519f2bf5e3d216fec9b",
+      "sectionIndex": 6,
+      "question": "Edward Tylor is known for his work on:",
+      "options": [
+        "A) Kinship only",
+        "B) Cultural evolution and primitive religion",
+        "C) Modern economics",
+        "D) Genetics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d63217a37aa2d9580d491663582050f4f5dc9972",
+      "sectionIndex": 6,
+      "question": "Lewis Henry Morgan studied:",
+      "options": [
+        "A) European history",
+        "B) Kinship systems and social evolution",
+        "C) Biological evolution",
+        "D) Modern politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "615daec3f6efd0043a7dc615df00707ce0e32e05",
+      "sectionIndex": 6,
+      "question": "Franz Boas is considered the father of:",
+      "options": [
+        "A) British anthropology",
+        "B) American anthropology",
+        "C) French anthropology",
+        "D) German anthropology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8f6239d20f1d4c1b7a9bc07e4b980438c5adf0b",
+      "sectionIndex": 6,
+      "question": "Bronislaw Malinowski is famous for:",
+      "options": [
+        "A) Armchair anthropology",
+        "B) Participant observation method",
+        "C) Statistical analysis",
+        "D) Historical research"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe5588e34f1de70f04d2d0ec1cab30caf4cf3236",
+      "sectionIndex": 6,
+      "question": "Margaret Mead studied:",
+      "options": [
+        "A) European societies",
+        "B) Gender roles in Pacific societies",
+        "C) Ancient civilizations",
+        "D) Modern technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f581e45ecb5c22ba408935ba316245568a58ba67",
+      "sectionIndex": 6,
+      "question": "Claude Lévi-Strauss developed:",
+      "options": [
+        "A) Functionalism",
+        "B) Structural anthropology",
+        "C) Cultural materialism",
+        "D) Symbolic anthropology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab8a420db903a9166ede738620becdec03a14034",
+      "sectionIndex": 6,
+      "question": "Clifford Geertz is known for:",
+      "options": [
+        "A) Biological anthropology",
+        "B) Interpretive anthropology and thick description",
+        "C) Archaeological methods",
+        "D) Linguistic analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ffaee8c6b4eb433f06d266af86bdcabc31d09584",
+      "sectionIndex": 6,
+      "question": "A.R. Radcliffe-Brown promoted:",
+      "options": [
+        "A) Cultural relativism",
+        "B) Structural-functionalism",
+        "C) Marxist anthropology",
+        "D) Postmodernism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37aaf7e208b61e64c36321d0d4e83a5835e54f17",
+      "sectionIndex": 6,
+      "question": "Karl Marx's influence on anthropology relates to:",
+      "options": [
+        "A) Religion only",
+        "B) Class conflict and economic systems",
+        "C) Kinship studies",
+        "D) Biological evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ca980284c605bbad50e87b7babd8616ada2d8f7",
+      "sectionIndex": 6,
+      "question": "E.E. Evans-Pritchard studied:",
+      "options": [
+        "A) American society",
+        "B) African societies, especially the Nuer",
+        "C) Asian religions",
+        "D) European history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c35c740458b0ccc51efc183e91b2df2f6abb605e",
+      "sectionIndex": 7,
+      "question": "Applied anthropology aims to:",
+      "options": [
+        "A) Keep knowledge theoretical",
+        "B) Solve practical human problems",
+        "C) Study ancient cultures only",
+        "D) Avoid modern issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b8e5ac876d56aeeaaf7192e434fa8ea060d83a4",
+      "sectionIndex": 7,
+      "question": "Medical anthropology studies:",
+      "options": [
+        "A) Western medicine only",
+        "B) Health, illness, and healing in cultural context",
+        "C) Biology only",
+        "D) Hospital administration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80f92bc64c0d498bdbf9a4e0568406c7a5fc1e88",
+      "sectionIndex": 7,
+      "question": "Development anthropology focuses on:",
+      "options": [
+        "A) Child development",
+        "B) Economic and social development programs",
+        "C) Photography",
+        "D) Urban planning only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db7648d2ce2a4e083d1aac107655323f107c1118",
+      "sectionIndex": 7,
+      "question": "Urban anthropology studies:",
+      "options": [
+        "A) Rural areas only",
+        "B) Cities and urban life",
+        "C) Agriculture",
+        "D) Forests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8d2bee86826c20acafa650c954fb1140f38e7c",
+      "sectionIndex": 7,
+      "question": "Environmental anthropology examines:",
+      "options": [
+        "A) Laboratory environments",
+        "B) Human-environment relationships",
+        "C) Weather only",
+        "D) Geology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f3bfcb8abc74e96e74270da830c7ad4b068f9d3",
+      "sectionIndex": 7,
+      "question": "Business anthropology applies anthropological methods to:",
+      "options": [
+        "A) Academic research only",
+        "B) Corporate and business settings",
+        "C) Government only",
+        "D) Non-profit organizations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "169ce81645c39b5ad69e7550416147a0aafd33c8",
+      "sectionIndex": 7,
+      "question": "Forensic anthropology involves:",
+      "options": [
+        "A) Studying living populations",
+        "B) Identifying human remains for legal purposes",
+        "C) Cultural studies",
+        "D) Language analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71afd90675a357e53351a4eaff0b5fd04a129924",
+      "sectionIndex": 7,
+      "question": "Educational anthropology studies:",
+      "options": [
+        "A) University administration",
+        "B) Learning and teaching in cultural context",
+        "C) Textbook writing",
+        "D) School buildings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "557976d2e661dedc7b0574d1fdf639554f5e6d2d",
+      "sectionIndex": 7,
+      "question": "Legal anthropology examines:",
+      "options": [
+        "A) Lawyers only",
+        "B) Law and legal systems across cultures",
+        "C) Crime statistics",
+        "D) Court buildings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c7e4e90a19661c7c5d0c8ae15b16122bc1d65aa",
+      "sectionIndex": 7,
+      "question": "Digital anthropology studies:",
+      "options": [
+        "A) Numbers",
+        "B) Digital media and online cultures",
+        "C) Calculators",
+        "D) Ancient counting systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbc126e0d314520ecdb9bef70712af8264013dd8",
+      "sectionIndex": 8,
+      "question": "The kinship system in Pakistan is primarily:",
+      "options": [
+        "A) Matrilineal",
+        "B) Patrilineal",
+        "C) Bilateral",
+        "D) No kinship system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b94690b35db080f6dc56119f5aed2b292bdb6134",
+      "sectionIndex": 8,
+      "question": "The joint family system in Pakistan typically includes:",
+      "options": [
+        "A) Nuclear family only",
+        "B) Multiple generations living together",
+        "C) Single individuals",
+        "D) Friends only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5889429f4e72a27dc49c4f71ccb29b9312461175",
+      "sectionIndex": 8,
+      "question": "Biradari in Pakistani context refers to:",
+      "options": [
+        "A) Individual identity",
+        "B) Kinship-based social group",
+        "C) Political party",
+        "D) Religious sect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95377da5d856c250fca39ce3d3e6306ffee88c15",
+      "sectionIndex": 8,
+      "question": "Purdah system relates to:",
+      "options": [
+        "A) Economic system",
+        "B) Gender segregation and women's seclusion",
+        "C) Agricultural practice",
+        "D) Educational system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6914944a1f720f1602609f019edaabb4a40d1b4f",
+      "sectionIndex": 8,
+      "question": "Sectarianism in Pakistan refers to:",
+      "options": [
+        "A) Economic sectors",
+        "B) Religious divisions and conflicts",
+        "C) Geographic regions",
+        "D) Age groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91e2593e4fb21cf8b1419c0a1317531d5737d5ce",
+      "sectionIndex": 8,
+      "question": "The caste system in Pakistan is:",
+      "options": [
+        "A) Absent",
+        "B) Present in various forms despite Islamic principles",
+        "C) Only in cities",
+        "D) Government policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88c0672fe271e752a69316b132fe37312470ae2b",
+      "sectionIndex": 8,
+      "question": "Tribal areas in Pakistan are characterized by:",
+      "options": [
+        "A) Modern governance only",
+        "B) Traditional tribal law and customs",
+        "C) No organization",
+        "D) Industrial economy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3130917e9714fdb37201de23b3086bdab30473ee",
+      "sectionIndex": 8,
+      "question": "The jirga system is:",
+      "options": [
+        "A) Educational system",
+        "B) Traditional dispute resolution mechanism",
+        "C) Modern court",
+        "D) Economic policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f77194c41536c81a7d1fdcb9a661e03f8feaa356",
+      "sectionIndex": 8,
+      "question": "Rural-urban migration in Pakistan is driven by:",
+      "options": [
+        "A) Tourism",
+        "B) Economic opportunities and education",
+        "C) Government orders",
+        "D) Climate only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df8466988302429a0a01b77f0c2a463debb37e1c",
+      "sectionIndex": 8,
+      "question": "Extended family support in Pakistan provides:",
+      "options": [
+        "A) Financial burden only",
+        "B) Social security and mutual assistance",
+        "C) No benefits",
+        "D) Legal problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ff3b12f8d58e61dc3c1527699bc0e7a150d171a",
+      "sectionIndex": 9,
+      "question": "Holism in anthropology means:",
+      "options": [
+        "A) Studying parts separately",
+        "B) Studying cultures as integrated wholes",
+        "C) Religious belief",
+        "D) Partial analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2644aa6644fef237e589b690ceae9ca84ace5621",
+      "sectionIndex": 9,
+      "question": "Cross-cultural comparison involves:",
+      "options": [
+        "A) Studying one culture only",
+        "B) Comparing different cultures",
+        "C) Ignoring differences",
+        "D) Judging cultures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9464e4336a29c7ea820c76baa40d55f90ae8b42",
+      "sectionIndex": 9,
+      "question": "Adaptation in anthropology refers to:",
+      "options": [
+        "A) Biological change only",
+        "B) Cultural and biological adjustments to environment",
+        "C) Giving up",
+        "D) Migration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb7e2057a96514ce9a1420785e7c0bbadeced079",
+      "sectionIndex": 9,
+      "question": "Innovation means:",
+      "options": [
+        "A) Tradition",
+        "B) Creating new cultural elements",
+        "C) Copying others",
+        "D) Resistance to change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7578839b22650e66c6c07a80398f40123d97937e",
+      "sectionIndex": 9,
+      "question": "Acculturation is:",
+      "options": [
+        "A) Loss of culture",
+        "B) Cultural change through contact",
+        "C) Isolation",
+        "D) Biological change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7e10a00244b86d04159867b2430da67b583fe62",
+      "sectionIndex": 9,
+      "question": "Assimilation means:",
+      "options": [
+        "A) Maintaining differences",
+        "B) Absorption into dominant culture",
+        "C) Cultural isolation",
+        "D) Creating new culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c8a7131d35d3166092af255c2f84df9160cea9b",
+      "sectionIndex": 9,
+      "question": "Fieldwork typically lasts:",
+      "options": [
+        "A) A few days",
+        "B) Extended period, often a year or more",
+        "C) One hour",
+        "D) One week"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0f4011fb121217eed8bffe70ce9303dd9185c5c",
+      "sectionIndex": 9,
+      "question": "Globalization affects cultures by:",
+      "options": [
+        "A) No impact",
+        "B) Increasing interconnection and change",
+        "C) Preserving traditions only",
+        "D) Stopping communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f419be054c4c250f0d4388a5e4ecf2956fedfd1",
+      "sectionIndex": 9,
+      "question": "Indigenous peoples are:",
+      "options": [
+        "A) Recent immigrants",
+        "B) Original inhabitants of a region",
+        "C) Urban populations",
+        "D) Government officials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce549e140ff264051ddd727643662fed02cd2199",
+      "sectionIndex": 9,
+      "question": "Cultural heritage includes:",
+      "options": [
+        "A) Natural resources only",
+        "B) Traditions, monuments, and practices from the past",
+        "C) Modern technology",
+        "D) Future plans"
+      ],
+      "correct": "B"
+    }
+  ]
+}

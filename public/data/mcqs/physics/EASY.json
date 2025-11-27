@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:33:50.295Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "ef2e3d484d4eff81ede4fb374d94d82143d006b5",
+      "sectionIndex": 0,
+      "question": "Which of the following is a scalar quantity?",
+      "options": [
+        "A) Force",
+        "B) Velocity",
+        "C) Temperature",
+        "D) Acceleration"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8b19774668f0b394b71a03c6790079457825cf2a",
+      "sectionIndex": 0,
+      "question": "The dot product of two perpendicular vectors is:",
+      "options": [
+        "A) Maximum",
+        "B) Zero",
+        "C) One",
+        "D) Negative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51fe4d9aa36de20db5f4018d6eab4a80da57f09a",
+      "sectionIndex": 0,
+      "question": "A vector has magnitude 5 units. If it is multiplied by 3, its new magnitude is:",
+      "options": [
+        "A) 5 units",
+        "B) 8 units",
+        "C) 15 units",
+        "D) 25 units"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "97c06d28a782f65b7f055e139babda7485c6ddbb",
+      "sectionIndex": 0,
+      "question": "The cross product of two parallel vectors is:",
+      "options": [
+        "A) Maximum",
+        "B) Zero",
+        "C) One",
+        "D) Infinity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0849083193348a35e7ebb89e01ab1f144235e760",
+      "sectionIndex": 0,
+      "question": "Which operation on vectors results in a scalar?",
+      "options": [
+        "A) Cross product",
+        "B) Addition",
+        "C) Dot product",
+        "D) Subtraction"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f944cc930700293a457873ca94ee1c5dc3ecb7b2",
+      "sectionIndex": 0,
+      "question": "A unit vector has magnitude:",
+      "options": [
+        "A) Zero",
+        "B) One",
+        "C) Infinity",
+        "D) Variable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ee78d8b0deb3062c6dcf6806af96e9d3b286232",
+      "sectionIndex": 0,
+      "question": "The gradient of a scalar field is a:",
+      "options": [
+        "A) Scalar",
+        "B) Vector",
+        "C) Tensor",
+        "D) Constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44fea4a347ae3fe109d66d4cd37b9d8a179cddae",
+      "sectionIndex": 0,
+      "question": "Vector addition follows which law?",
+      "options": [
+        "A) Distributive law",
+        "B) Commutative law",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9a6b4f4e353b8ff999c9a849be7ca8f7aaae34d3",
+      "sectionIndex": 0,
+      "question": "The magnitude of vector A = 3i + 4j is:",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 7"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cea06ca778bd07df96c83832039edd015c1673c7",
+      "sectionIndex": 0,
+      "question": "The divergence of a vector field results in a:",
+      "options": [
+        "A) Vector",
+        "B) Scalar",
+        "C) Matrix",
+        "D) Tensor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64587aff8e4ba6fdb77ff2a02134003e70147e3c",
+      "sectionIndex": 1,
+      "question": "Newton's first law is also known as:",
+      "options": [
+        "A) Law of gravity",
+        "B) Law of inertia",
+        "C) Law of acceleration",
+        "D) Law of action-reaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d21c8c1179e614f44b6c474216aa5899a25ae93",
+      "sectionIndex": 1,
+      "question": "The SI unit of force is:",
+      "options": [
+        "A) Kilogram",
+        "B) Newton",
+        "C) Joule",
+        "D) Watt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "add416e60a599649ae47b064d126ce10d19bbcd5",
+      "sectionIndex": 1,
+      "question": "Work done is maximum when force and displacement are:",
+      "options": [
+        "A) Perpendicular",
+        "B) Parallel",
+        "C) Anti-parallel",
+        "D) At 45 degrees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35a0fceb51ec08eb9dfd70c948173497b0233fce",
+      "sectionIndex": 1,
+      "question": "The kinetic energy of a body depends on its:",
+      "options": [
+        "A) Position only",
+        "B) Mass and velocity",
+        "C) Height only",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06d888d266566a653a5e9ade2d4c3bf1360e63ef",
+      "sectionIndex": 1,
+      "question": "In uniform circular motion, which quantity remains constant?",
+      "options": [
+        "A) Velocity",
+        "B) Acceleration",
+        "C) Speed",
+        "D) Direction"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "280954ef827db3292aa90720261fa946ab6082f7",
+      "sectionIndex": 1,
+      "question": "The period of a simple pendulum depends on:",
+      "options": [
+        "A) Mass only",
+        "B) Length and gravity",
+        "C) Amplitude only",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4a2b4a39fce0c13781588ab32cb9fba7a5ed0ca",
+      "sectionIndex": 1,
+      "question": "Angular momentum is conserved when:",
+      "options": [
+        "A) External force is applied",
+        "B) External torque is zero",
+        "C) Speed changes",
+        "D) Mass changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44bee3fed886ed44e93bda33e388d2f114cb3dd0",
+      "sectionIndex": 1,
+      "question": "The center of mass of a uniform rod lies at:",
+      "options": [
+        "A) One end",
+        "B) One-third from end",
+        "C) Its center",
+        "D) Two-thirds from end"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "61b78846692a94935e0d382291a98eadb230e60c",
+      "sectionIndex": 1,
+      "question": "Simple harmonic motion occurs when restoring force is:",
+      "options": [
+        "A) Constant",
+        "B) Proportional to displacement",
+        "C) Proportional to velocity",
+        "D) Zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bb242d62e389c041626096bf330deb1edad7372",
+      "sectionIndex": 1,
+      "question": "Kepler's second law states that:",
+      "options": [
+        "A) Orbits are circular",
+        "B) Equal areas are swept in equal times",
+        "C) Period squared is proportional to radius cubed",
+        "D) Force is inversely proportional to distance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2294ad3fae477f62c38c1c6ee773c03b5f96e84",
+      "sectionIndex": 2,
+      "question": "The SI unit of electric charge is:",
+      "options": [
+        "A) Ampere",
+        "B) Volt",
+        "C) Coulomb",
+        "D) Ohm"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cd0a807bacbc89cb6686aeac3970487637bff342",
+      "sectionIndex": 2,
+      "question": "Ohm's law relates:",
+      "options": [
+        "A) Charge and time",
+        "B) Voltage and current",
+        "C) Power and energy",
+        "D) Force and charge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb2b047fd68a2fd7c534debde80f8f1a54d995d9",
+      "sectionIndex": 2,
+      "question": "A capacitor stores:",
+      "options": [
+        "A) Current",
+        "B) Resistance",
+        "C) Electric charge",
+        "D) Magnetic field"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ae60729028dd102a0bc64fb5da19a617cbb3ae7f",
+      "sectionIndex": 2,
+      "question": "The direction of induced emf is given by:",
+      "options": [
+        "A) Newton's law",
+        "B) Lenz's law",
+        "C) Ohm's law",
+        "D) Hooke's law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22891c8a61229267019fcf9018cc08c8b2c205ac",
+      "sectionIndex": 2,
+      "question": "In a parallel circuit, which quantity remains the same across all components?",
+      "options": [
+        "A) Current",
+        "B) Voltage",
+        "C) Resistance",
+        "D) Power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72687e15e0f4923e27ae8ad587c42e09b61ca8a4",
+      "sectionIndex": 2,
+      "question": "The unit of inductance is:",
+      "options": [
+        "A) Ohm",
+        "B) Farad",
+        "C) Henry",
+        "D) Weber"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "802530cddb6d7ebbe86edbea7bd9a8b5367a3fe3",
+      "sectionIndex": 2,
+      "question": "A transformer works on the principle of:",
+      "options": [
+        "A) Mutual induction",
+        "B) Self induction",
+        "C) Static electricity",
+        "D) Thermoelectricity"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "38f7b5b2cfdfb9b4d2ff71aa685cb5449688e7aa",
+      "sectionIndex": 2,
+      "question": "Electric field lines:",
+      "options": [
+        "A) Can cross each other",
+        "B) Never cross each other",
+        "C) Form closed loops",
+        "D) Are always circular"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a8d514771295ef9342cbb1e90190a343b548978",
+      "sectionIndex": 2,
+      "question": "The force between two charges is described by:",
+      "options": [
+        "A) Newton's law",
+        "B) Coulomb's law",
+        "C) Gauss's law",
+        "D) Ampere's law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ec567fb8c6df6f794e34f80baf5ac197b70215a",
+      "sectionIndex": 2,
+      "question": "A diode allows current to flow:",
+      "options": [
+        "A) In both directions",
+        "B) In one direction only",
+        "C) Not at all",
+        "D) Only in AC circuits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbcb5aa0a34e592d2379f9c59037f56f8560f5bb",
+      "sectionIndex": 3,
+      "question": "The speed of light in vacuum is approximately:",
+      "options": [
+        "A) 3 - 106 m/s",
+        "B) 3 - 107 m/s",
+        "C) 3 - 108 m/s",
+        "D) 3 - 109 m/s"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "858983c4ee3723fe43b39e85a863ae8c045ac38d",
+      "sectionIndex": 3,
+      "question": "Wave frequency is measured in:",
+      "options": [
+        "A) Meters",
+        "B) Seconds",
+        "C) Hertz",
+        "D) Watts"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d3569833d659c1d9ecb90c7900b6eb986d7085cc",
+      "sectionIndex": 3,
+      "question": "Constructive interference occurs when waves are:",
+      "options": [
+        "A) Out of phase",
+        "B) In phase",
+        "C) Perpendicular",
+        "D) Opposite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c891b553162ed344ffd6603f9758fc9455f9ca7c",
+      "sectionIndex": 3,
+      "question": "The bending of light around obstacles is called:",
+      "options": [
+        "A) Reflection",
+        "B) Refraction",
+        "C) Diffraction",
+        "D) Dispersion"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1f3e920a2690a3e0934dc88a2297383631a22a82",
+      "sectionIndex": 3,
+      "question": "Colors in soap bubbles are due to:",
+      "options": [
+        "A) Pigmentation",
+        "B) Thin film interference",
+        "C) Chemical reaction",
+        "D) Heat"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6c77650824bd7ad727ed2ce7353e0bee9598bfd",
+      "sectionIndex": 3,
+      "question": "Sound waves are:",
+      "options": [
+        "A) Transverse waves",
+        "B) Longitudinal waves",
+        "C) Electromagnetic waves",
+        "D) Surface waves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "952b46034185d27f4f1c865f6085d92bbb9fe284",
+      "sectionIndex": 3,
+      "question": "The Doppler effect occurs when:",
+      "options": [
+        "A) Temperature changes",
+        "B) Source or observer moves",
+        "C) Medium changes",
+        "D) Amplitude increases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd5519a600d13ee9be1b49e80a5dcbf1d99c2f39",
+      "sectionIndex": 3,
+      "question": "Total internal reflection occurs when light travels from:",
+      "options": [
+        "A) Air to water",
+        "B) Denser to rarer medium",
+        "C) Rarer to denser medium",
+        "D) Vacuum to air"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b5b5e679e7b4426d52641b9e88c75f9c88087f6",
+      "sectionIndex": 3,
+      "question": "A converging lens has:",
+      "options": [
+        "A) Negative focal length",
+        "B) Positive focal length",
+        "C) Zero focal length",
+        "D) Infinite focal length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a94083a749510a7a1d0a3eacb6f506922d39ac3c",
+      "sectionIndex": 3,
+      "question": "Polarization is a property of:",
+      "options": [
+        "A) Longitudinal waves only",
+        "B) Transverse waves only",
+        "C) All waves",
+        "D) Sound waves only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a206dc7dd6f82610fa5c80e5b53c35c03b0460c",
+      "sectionIndex": 4,
+      "question": "The first law of thermodynamics is essentially:",
+      "options": [
+        "A) Conservation of mass",
+        "B) Conservation of energy",
+        "C) Conservation of momentum",
+        "D) Conservation of charge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a147653e6df144be4289f6698ba190d7c88f392f",
+      "sectionIndex": 4,
+      "question": "Temperature is a measure of:",
+      "options": [
+        "A) Total energy",
+        "B) Average kinetic energy",
+        "C) Potential energy",
+        "D) Heat capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e771d49d08762e12ede41ff4435dc869b6675e9",
+      "sectionIndex": 4,
+      "question": "In an isothermal process:",
+      "options": [
+        "A) Volume is constant",
+        "B) Pressure is constant",
+        "C) Temperature is constant",
+        "D) Heat is constant"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "021312040d84d1489afcbc957694266f6af7f70c",
+      "sectionIndex": 4,
+      "question": "The efficiency of a Carnot engine depends on:",
+      "options": [
+        "A) Working substance",
+        "B) Temperature difference",
+        "C) Engine size",
+        "D) Fuel type"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eb12568f48270d53156d09ca29d2ac5ac8fe1ea",
+      "sectionIndex": 4,
+      "question": "Entropy always increases in:",
+      "options": [
+        "A) Reversible processes",
+        "B) Irreversible processes",
+        "C) Isothermal processes",
+        "D) Adiabatic processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f9a83bdc18a513d29344fee48874406c6273295",
+      "sectionIndex": 4,
+      "question": "In an adiabatic process:",
+      "options": [
+        "A) Temperature is constant",
+        "B) No heat is exchanged",
+        "C) Pressure is constant",
+        "D) Work is zero"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cde6e7477f87dd8de2c293daa64b955c5cbf076",
+      "sectionIndex": 4,
+      "question": "The zeroth law of thermodynamics defines:",
+      "options": [
+        "A) Energy",
+        "B) Entropy",
+        "C) Temperature",
+        "D) Heat"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7c5e0d5661593de184905437c6311aad0061f390",
+      "sectionIndex": 4,
+      "question": "Heat flows naturally from:",
+      "options": [
+        "A) Cold to hot",
+        "B) Hot to cold",
+        "C) Either direction",
+        "D) Neither direction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2c248116498e8b4424af889e29943d678320803",
+      "sectionIndex": 4,
+      "question": "The specific heat capacity of water is:",
+      "options": [
+        "A) 1 cal/g°C",
+        "B) 10 cal/g°C",
+        "C) 100 cal/g°C",
+        "D) 1000 cal/g°C"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3806a8b414f1f18fecd07a3ebb3b5c9e15f449de",
+      "sectionIndex": 4,
+      "question": "A heat engine converts:",
+      "options": [
+        "A) Work to heat",
+        "B) Heat to work",
+        "C) Mass to energy",
+        "D) Energy to mass"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8b1a1b8d19f3f2803a231bb6d3e8a30db93981",
+      "sectionIndex": 5,
+      "question": "The photoelectric effect demonstrates that light has:",
+      "options": [
+        "A) Wave nature only",
+        "B) Particle nature",
+        "C) Neither property",
+        "D) Mass"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8a486780e08750485e15ab1059641caf28a666e",
+      "sectionIndex": 5,
+      "question": "Planck's constant has units of:",
+      "options": [
+        "A) Energy",
+        "B) Action (energy - time)",
+        "C) Force",
+        "D) Power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "494da8ebb169cc7452c6ae204ba9ff4fdca3119e",
+      "sectionIndex": 5,
+      "question": "According to de Broglie, matter has:",
+      "options": [
+        "A) Only particle nature",
+        "B) Only wave nature",
+        "C) Both wave and particle nature",
+        "D) Neither property"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "682d8bfeb0fd7c8ae158f556fc248eea956a6ae7",
+      "sectionIndex": 5,
+      "question": "The uncertainty principle was proposed by:",
+      "options": [
+        "A) Einstein",
+        "B) Planck",
+        "C) Bohr",
+        "D) Heisenberg"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "208e195a2e091ece628faf622e4348182f4db75f",
+      "sectionIndex": 5,
+      "question": "In the Bohr model, electrons:",
+      "options": [
+        "A) Spiral into nucleus",
+        "B) Orbit in fixed energy levels",
+        "C) Are stationary",
+        "D) Move randomly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e71184c43544d41253911607cc72e30ecab3ac34",
+      "sectionIndex": 5,
+      "question": "A photon has:",
+      "options": [
+        "A) Mass but no charge",
+        "B) Charge but no mass",
+        "C) Neither mass nor charge",
+        "D) Both mass and charge"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1c0a10fa18dd0bf2ec57f8c6b4e9f2b9d60de9c8",
+      "sectionIndex": 5,
+      "question": "The energy of a photon is proportional to its:",
+      "options": [
+        "A) Wavelength",
+        "B) Speed",
+        "C) Frequency",
+        "D) Amplitude"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "24e42aff5b55566dd59c4bb748802c1499926cea",
+      "sectionIndex": 5,
+      "question": "Quantum mechanics describes:",
+      "options": [
+        "A) Only large objects",
+        "B) Only microscopic particles",
+        "C) Only photons",
+        "D) Only electrons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db7103ee02620b4f57662166240ecc4165e90cce",
+      "sectionIndex": 5,
+      "question": "Wave function represents:",
+      "options": [
+        "A) Energy",
+        "B) Probability amplitude",
+        "C) Force",
+        "D) Mass"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f5a8c7e55b558edc2dace884c96287b5dfc1669",
+      "sectionIndex": 5,
+      "question": "The Schrödinger equation is:",
+      "options": [
+        "A) A wave equation",
+        "B) A particle equation",
+        "C) An energy equation",
+        "D) A force equation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7fe3cd74ad5119ce750896df92ae51e7b4b3f1fd",
+      "sectionIndex": 6,
+      "question": "Special relativity deals with:",
+      "options": [
+        "A) Accelerated frames",
+        "B) Inertial frames",
+        "C) Rotating frames",
+        "D) All frames"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a9990f6b0f8f51c7ab24ced120c98c021992bb3",
+      "sectionIndex": 6,
+      "question": "According to Einstein, the speed of light is:",
+      "options": [
+        "A) Variable",
+        "B) Constant for all observers",
+        "C) Infinite",
+        "D) Zero in vacuum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3e6d499fc2f9860f386e264fa78b6fd42a94874",
+      "sectionIndex": 6,
+      "question": "Time dilation means:",
+      "options": [
+        "A) Time speeds up",
+        "B) Time slows down",
+        "C) Time stops",
+        "D) Time reverses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54577c3e4e8f72f529a65874856cdfdd98d6bfc2",
+      "sectionIndex": 6,
+      "question": "E = mc2 shows that:",
+      "options": [
+        "A) Energy and mass are unrelated",
+        "B) Energy and mass are equivalent",
+        "C) Mass is constant",
+        "D) Energy is constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f3e8c10380afc8e285063b9966dda4d6fcc58bc",
+      "sectionIndex": 6,
+      "question": "Length contraction occurs:",
+      "options": [
+        "A) Perpendicular to motion",
+        "B) Along direction of motion",
+        "C) In all directions",
+        "D) Not at all"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "969b37402f900faaf4ace82b8a60f80a6d917469",
+      "sectionIndex": 6,
+      "question": "At speeds much less than c, relativistic effects are:",
+      "options": [
+        "A) Maximum",
+        "B) Negligible",
+        "C) Infinite",
+        "D) Negative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b10c41b120ef5dd6392e27d3fcb534c66615ff3a",
+      "sectionIndex": 6,
+      "question": "The Lorentz transformation relates:",
+      "options": [
+        "A) Mass and energy",
+        "B) Space and time coordinates",
+        "C) Force and acceleration",
+        "D) Charge and current"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdcb5572de74e3e167db7bd5a54a5a5250d49694",
+      "sectionIndex": 6,
+      "question": "Simultaneity in relativity is:",
+      "options": [
+        "A) Absolute",
+        "B) Relative",
+        "C) Impossible",
+        "D) Universal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70344d661338d7727abd633beebc761b8142bda4",
+      "sectionIndex": 6,
+      "question": "Rest mass of a photon is:",
+      "options": [
+        "A) Very small",
+        "B) Very large",
+        "C) Zero",
+        "D) Infinite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dfe8208a76a104fa40cbb8e1da7eb89af2852d15",
+      "sectionIndex": 6,
+      "question": "General relativity describes:",
+      "options": [
+        "A) Only time",
+        "B) Only space",
+        "C) Gravity as curved spacetime",
+        "D) Electromagnetic forces"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3adee1ddbd3105509af7f24cae63e52dfb98780f",
+      "sectionIndex": 7,
+      "question": "Bernoulli's principle relates:",
+      "options": [
+        "A) Mass and volume",
+        "B) Pressure and velocity",
+        "C) Temperature and pressure",
+        "D) Density and temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "424cc65edab4cf0c2ad876a0f788de74f4504cd0",
+      "sectionIndex": 7,
+      "question": "Pascal's law applies to:",
+      "options": [
+        "A) Gases only",
+        "B) Liquids only",
+        "C) Incompressible fluids",
+        "D) Solids only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f4c2f5ce35166790cfac10bb6149c013eb0bf852",
+      "sectionIndex": 7,
+      "question": "Viscosity is a measure of:",
+      "options": [
+        "A) Density",
+        "B) Internal friction",
+        "C) External pressure",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46b5627478d399e585c1d0c139e3aa3e070b55a1",
+      "sectionIndex": 7,
+      "question": "Archimedes' principle deals with:",
+      "options": [
+        "A) Pressure",
+        "B) Buoyancy",
+        "C) Viscosity",
+        "D) Surface tension"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e430221e6063102b20806c45f418a76ef3d46b5f",
+      "sectionIndex": 7,
+      "question": "Streamline flow is also called:",
+      "options": [
+        "A) Turbulent flow",
+        "B) Laminar flow",
+        "C) Random flow",
+        "D) Circular flow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6c2fea57c54a52a5f6e3f1d161a825f658e0647",
+      "sectionIndex": 7,
+      "question": "Surface tension is due to:",
+      "options": [
+        "A) Gravity",
+        "B) Cohesive forces",
+        "C) External pressure",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca15d599f53fa761b7503019a8e154e5fb37bb2e",
+      "sectionIndex": 7,
+      "question": "A fluid at rest experiences:",
+      "options": [
+        "A) Shear stress",
+        "B) Normal stress only",
+        "C) No stress",
+        "D) Tensile stress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99df37bd7f397f19383dd761603d426c36565475",
+      "sectionIndex": 7,
+      "question": "The continuity equation is based on:",
+      "options": [
+        "A) Conservation of energy",
+        "B) Conservation of mass",
+        "C) Conservation of momentum",
+        "D) Conservation of charge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cc8c809fb7582593d8da82c201b2728ccdc87be",
+      "sectionIndex": 7,
+      "question": "Pressure in a fluid increases with:",
+      "options": [
+        "A) Height",
+        "B) Depth",
+        "C) Temperature only",
+        "D) Volume"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "790afc6f446d42edc1cca26e18f04fdea6afc266",
+      "sectionIndex": 7,
+      "question": "Terminal velocity occurs when:",
+      "options": [
+        "A) Acceleration is maximum",
+        "B) Net force is zero",
+        "C) Velocity is zero",
+        "D) Mass is minimum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65088dcf6f5c5f2192097442947c1f554b98ad8e",
+      "sectionIndex": 8,
+      "question": "The nucleus contains:",
+      "options": [
+        "A) Electrons only",
+        "B) Protons and neutrons",
+        "C) Neutrons only",
+        "D) Protons only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "335a128c469bd17ee11356ecb395e61557425dea",
+      "sectionIndex": 8,
+      "question": "Alpha particles are:",
+      "options": [
+        "A) Electrons",
+        "B) Helium nuclei",
+        "C) Neutrons",
+        "D) Photons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44eca71747b1fe25dcea63d0ce2629caaa900333",
+      "sectionIndex": 8,
+      "question": "Beta decay involves emission of:",
+      "options": [
+        "A) Helium nucleus",
+        "B) Electron or positron",
+        "C) Neutron",
+        "D) Proton"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1197cccf9461a86a5398fce4acc6077598b78dd",
+      "sectionIndex": 8,
+      "question": "Half-life is the time for:",
+      "options": [
+        "A) Complete decay",
+        "B) Half the atoms to decay",
+        "C) Double the atoms",
+        "D) No decay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "025eec9e230197b1a22aa8ec8f123645293c7146",
+      "sectionIndex": 8,
+      "question": "Nuclear fission involves:",
+      "options": [
+        "A) Combining nuclei",
+        "B) Splitting heavy nuclei",
+        "C) Electron capture",
+        "D) Proton emission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df140127802224aab05b18f6db741e70b9e1e580",
+      "sectionIndex": 8,
+      "question": "Nuclear fusion powers:",
+      "options": [
+        "A) Nuclear reactors",
+        "B) The Sun",
+        "C) X-ray machines",
+        "D) Batteries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "325e076c9da022d99a72840d0117606100e425dd",
+      "sectionIndex": 8,
+      "question": "Gamma rays are:",
+      "options": [
+        "A) Particles",
+        "B) High-energy photons",
+        "C) Electrons",
+        "D) Neutrons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0a6a4c1cf852a8d80dae8d1096a0824fe94d0a9",
+      "sectionIndex": 8,
+      "question": "The strong nuclear force:",
+      "options": [
+        "A) Is long-range",
+        "B) Holds nucleus together",
+        "C) Repels protons",
+        "D) Acts on electrons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be896f024a30ba76d18d3421a0a53721c922f867",
+      "sectionIndex": 8,
+      "question": "Radioactivity was discovered by:",
+      "options": [
+        "A) Einstein",
+        "B) Curie",
+        "C) Becquerel",
+        "D) Rutherford"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5b1d88c302b94684e8441a5a585dbd4c9a730acf",
+      "sectionIndex": 8,
+      "question": "Chain reaction occurs in:",
+      "options": [
+        "A) All radioactive decay",
+        "B) Nuclear fission",
+        "C) Alpha decay only",
+        "D) Beta decay only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b352b530945e1a63cddd04f4d018936db2424e23",
+      "sectionIndex": 9,
+      "question": "In conductors, the valence band and conduction band:",
+      "options": [
+        "A) Don't exist",
+        "B) Overlap",
+        "C) Are far apart",
+        "D) Are empty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa786263eeb260f570a3856c7099937417cbbbe1",
+      "sectionIndex": 9,
+      "question": "Semiconductors have:",
+      "options": [
+        "A) No energy gap",
+        "B) Small energy gap",
+        "C) Large energy gap",
+        "D) Infinite energy gap"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5ea4cc5097d0dcbebffb414b0bad9f80baf5e53",
+      "sectionIndex": 9,
+      "question": "Doping a semiconductor:",
+      "options": [
+        "A) Makes it an insulator",
+        "B) Changes its conductivity",
+        "C) Makes it a metal",
+        "D) Has no effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b83c6a4b09e092a162236ecc9bdae80510711b1",
+      "sectionIndex": 9,
+      "question": "A p-n junction acts as:",
+      "options": [
+        "A) Resistor",
+        "B) Capacitor",
+        "C) Diode",
+        "D) Inductor"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9c64e4fa2e1f281178775c1d2a63f5a1b56ea357",
+      "sectionIndex": 9,
+      "question": "In metals, electrical resistance increases with:",
+      "options": [
+        "A) Decreasing temperature",
+        "B) Increasing temperature",
+        "C) Constant temperature",
+        "D) Zero temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0bb0b70bb56e2702debc66f7eff727801c20e0db",
+      "sectionIndex": 9,
+      "question": "Superconductors have:",
+      "options": [
+        "A) High resistance",
+        "B) Zero resistance",
+        "C) Infinite resistance",
+        "D) Variable resistance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "335cdca0120e730ff509ba8ea9e6d4132dfeffd1",
+      "sectionIndex": 9,
+      "question": "The band gap in insulators is:",
+      "options": [
+        "A) Zero",
+        "B) Small",
+        "C) Large",
+        "D) Negative"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8624a6539ab3c3a1dddc7b7c5977801e16fb3742",
+      "sectionIndex": 9,
+      "question": "Transistors can act as:",
+      "options": [
+        "A) Amplifiers",
+        "B) Switches",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1974bd3578890b13f8215417d2300b46f0589ed6",
+      "sectionIndex": 9,
+      "question": "Crystal structure is studied using:",
+      "options": [
+        "A) Visible light",
+        "B) X-ray diffraction",
+        "C) Sound waves",
+        "D) Radio waves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea0cd9b3045c2cc0fb0db222994b3ff58e856ebf",
+      "sectionIndex": 9,
+      "question": "Silicon is a:",
+      "options": [
+        "A) Metal",
+        "B) Insulator",
+        "C) Semiconductor",
+        "D) Superconductor"
+      ],
+      "correct": "C"
+    }
+  ]
+}

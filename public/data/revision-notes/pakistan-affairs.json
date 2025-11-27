@@ -1,0 +1,811 @@
+{
+  "subject": "Pakistan Affairs",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 26,
+  "categories": [
+    "Historical Foundations & Ideology",
+    "Constitution, Federalism & Institutions",
+    "Elections, Governance & Public Policy",
+    "Economy, Public Finance & Development",
+    "Energy, Water & Infrastructure",
+    "Foreign Policy, Security & Geostrategy",
+    "Society, Demography & Social Sectors",
+    "Climate Change, Environment & Disasters",
+    "Regional Studies (CPEC, Gwadar, Balochistan, Kashmir)",
+    "Exam Skills (Comparative/Critical/MCQs)"
+  ],
+  "notes": [
+    {
+      "id": "PA-001",
+      "title": "Ideology of Pakistan & Two-Nation Theory (Evolution & Critiques)",
+      "content": "Trace pre-partition currents from reformist movements (Sir Syed, Shah Waliullah) to Lahore Resolution; link ideology to constitutional Objectives Resolution and contemporary debates.",
+      "keyTakeaways": [
+        "Understand ideological milestones and their constitutional imprint.",
+        "Use primary texts and resolutions to anchor arguments.",
+        "Balance historical narrative with contemporary relevance."
+      ],
+      "resources": [
+        {
+          "title": "FPSC Pakistan Affairs—Recent Paper Format",
+          "url": "https://www.fpsc.gov.pk/assets/media/2025-06-05-06-29-55-GK3-PAK-AFFAIRS-.pdf",
+          "type": "exam",
+          "description": "Recent exam format and questions"
+        },
+        {
+          "title": "Constitution of Pakistan (amended to Oct 21, 2024)",
+          "url": "https://pabalochistan.gov.pk/storage/7796/67f8b1f9c93af_Constitution-amended-upto-the-21st-October%2C-2024.pdf",
+          "type": "primary",
+          "description": "Latest constitutional text"
+        },
+        {
+          "title": "NA—18th Amendment Act Text",
+          "url": "https://www.na.gov.pk/uploads/documents/1302138356_934.pdf",
+          "type": "primary",
+          "description": "Constitutional amendment text"
+        }
+      ],
+      "importance": "high",
+      "category": "Historical Foundations & Ideology",
+      "topics": ["Ideology of Pakistan", "Lahore Resolution", "Objectives Resolution"]
+    },
+    {
+      "id": "PA-002",
+      "title": "Constitutional Evolution: 1973 Constitution to 18th Amendment & After",
+      "content": "Map major amendments (esp. 18th) and their impact on parliamentary supremacy, provincial autonomy, CCI, NFC; connect to recurring exam questions on federal structure.",
+      "keyTakeaways": [
+        "18th Amendment deepened devolution and strengthened parliamentary system.",
+        "CCI is central for inter-governmental coordination.",
+        "Know Articles 153–160 (CCI/NFC) and 175A (judiciary)."
+      ],
+      "resources": [
+        {
+          "title": "Constitution (as modified up to Oct 21, 2024)",
+          "url": "https://pabalochistan.gov.pk/storage/7796/67f8b1f9c93af_Constitution-amended-upto-the-21st-October%2C-2024.pdf",
+          "type": "primary",
+          "description": "Complete constitutional text"
+        },
+        {
+          "title": "18th Amendment—Act Text",
+          "url": "https://www.na.gov.pk/uploads/documents/1302138356_934.pdf",
+          "type": "primary",
+          "description": "Amendment details"
+        },
+        {
+          "title": "World Bank—Making Federalism Work (18th Amendment analysis)",
+          "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/687281468057882110",
+          "type": "analysis",
+          "description": "Impact analysis"
+        },
+        {
+          "title": "Implementation Commission—Final Report (post-18th)",
+          "url": "https://ipc.gov.pk/SiteImage/Misc/files/Year%20Books/Final%20Report%20of%20Implementation%20Commission.pdf",
+          "type": "report",
+          "description": "Implementation assessment"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitution, Federalism & Institutions",
+      "topics": ["1973 Constitution", "18th Amendment", "Federalism", "Concurrent List"]
+    },
+    {
+      "id": "PA-003",
+      "title": "Council of Common Interests (CCI): Role & Performance",
+      "content": "Explain CCI's constitutional basis, rules of procedure, and agenda areas (energy, water, census, inter-provincial matters). Use recent meetings for examples.",
+      "keyTakeaways": [
+        "CCI ensures cooperative federalism on shared subjects.",
+        "Post-18th, meeting frequency and scope expanded.",
+        "Census approval and energy policy are recurring CCI issues."
+      ],
+      "resources": [
+        {
+          "title": "CCI Secretariat—About & Meetings",
+          "url": "https://cci.gov.pk/",
+          "type": "primary",
+          "description": "Official CCI portal"
+        },
+        {
+          "title": "CCI—Meetings Overview",
+          "url": "https://cci.gov.pk/Detail/OTQ5NjU3ZTgtZDY3Mi00NWQzLWIyZTQtMGU1ZmM3NDFlNGQ2",
+          "type": "primary",
+          "description": "Meeting records"
+        },
+        {
+          "title": "Inter-Provincial Coordination: CCI Brief",
+          "url": "https://ipc.gov.pk/Detail/YTMyNGEyYmMtYTg1Ni00OGMzLWI0ODktYWIwYWYwYzY0MDVm",
+          "type": "primary",
+          "description": "Coordination mechanisms"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitution, Federalism & Institutions",
+      "topics": ["CCI", "Cooperative Federalism", "Census", "Energy Policy"]
+    },
+    {
+      "id": "PA-004",
+      "title": "National Finance Commission (NFC) Awards—Focus on 7th NFC (2009/10)",
+      "content": "Explain vertical & horizontal distribution formula; criteria beyond population; fiscal implications for provinces; typical exam comparisons (pre/post-7th NFC).",
+      "keyTakeaways": [
+        "7th NFC increased provincial share to 57.5% (yrs 2–5).",
+        "Horizontal shares added poverty, inverse density, revenue.",
+        "Interplay with devolution and provincial service delivery."
+      ],
+      "resources": [
+        {
+          "title": "SBP—Special Section on NFC 2009",
+          "url": "https://www.sbp.org.pk/reports/quarterly/fy10/first/specialsection2.pdf",
+          "type": "analysis",
+          "description": "Economic analysis of NFC award"
+        },
+        {
+          "title": "PIDE—7th NFC Award Evaluation",
+          "url": "https://file.pide.org.pk/pdfpideresearch/ms-08-the-7th-nfc-award-an-evaluation.pdf",
+          "type": "analysis",
+          "description": "Performance evaluation"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitution, Federalism & Institutions",
+      "topics": ["NFC", "Fiscal Federalism", "Provincial Finance"]
+    },
+    {
+      "id": "PA-005",
+      "title": "Elections & Electoral Administration",
+      "content": "Structure of ECP, election frameworks, recent GE-2024 references (forms, returns, annual report) for data-backed answers on processes and reforms.",
+      "keyTakeaways": [
+        "Use ECP primary documents (forms/reports) for accurate description.",
+        "Relate census delimitations & electoral rolls to representation.",
+        "Discuss transparency tools and post-election reviews."
+      ],
+      "resources": [
+        {
+          "title": "ECP—General Elections 2024 Portal",
+          "url": "https://ecp.gov.pk/general-elections-2024",
+          "type": "portal",
+          "description": "Election data and results"
+        },
+        {
+          "title": "ECP—Annual Report 2024",
+          "url": "https://www.ecp.gov.pk/storage/files/2/annual%20report/Annual%20Report-2024-web.pdf",
+          "type": "report",
+          "description": "Electoral performance review"
+        },
+        {
+          "title": "ECP—General & Annual Reports Index",
+          "url": "https://www.ecp.gov.pk/reports",
+          "type": "portal",
+          "description": "Comprehensive reports archive"
+        }
+      ],
+      "importance": "medium",
+      "category": "Elections, Governance & Public Policy",
+      "topics": ["ECP", "GE-2024", "Electoral Forms", "Delimitation"]
+    },
+    {
+      "id": "PA-006",
+      "title": "Demography & Census (PBS 2023 Digital Census)",
+      "content": "Use PBS 2023 final and detailed results to discuss population distribution, urbanization, literacy, density—tie into policy (representation, service delivery).",
+      "keyTakeaways": [
+        "Quote official PBS final/detailed tables for numeric accuracy.",
+        "Connect province-wise trends to fiscal and planning decisions.",
+        "Use district tables for case-study style answers."
+      ],
+      "resources": [
+        {
+          "title": "PBS—2023 Census Announcement & Links",
+          "url": "https://www.pbs.gov.pk/content/announcement-results-7th-population-and-housing-census-2023-digital-census",
+          "type": "primary",
+          "description": "Official census results"
+        },
+        {
+          "title": "PBS—Detailed Results (PDF/Excel)",
+          "url": "https://www.pbs.gov.pk/digital-census/detailed-results",
+          "type": "primary",
+          "description": "Comprehensive data tables"
+        },
+        {
+          "title": "PBS—Population Census Portal",
+          "url": "https://www.pbs.gov.pk/content/population-census",
+          "type": "portal",
+          "description": "Census data hub"
+        }
+      ],
+      "importance": "high",
+      "category": "Society, Demography & Social Sectors",
+      "topics": ["Census 2023", "Urbanization", "Population Policy"]
+    },
+    {
+      "id": "PA-007",
+      "title": "Macroeconomy: Current Snapshot & Trends (Use Latest PES & SBP)",
+      "content": "Build data-driven narratives on growth, inflation, monetary policy, external accounts; cite latest Economic Survey and SBP Annual Report/Statistical Supplement.",
+      "keyTakeaways": [
+        "Always date-stamp statistics in answers.",
+        "Cross-check PES chapter data with SBP annual/SS.",
+        "Relate macro stabilization to IMF/WB/ADB support and reforms."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Economic Survey 2024–25 (Chapters)",
+          "url": "https://www.finance.gov.pk/survey_2025.html",
+          "type": "primary",
+          "description": "Comprehensive economic data"
+        },
+        {
+          "title": "PES Overview 2024–25 (PDF)",
+          "url": "https://www.finance.gov.pk/survey/chapter_25/overview_2024_25.pdf",
+          "type": "primary",
+          "description": "Economic overview summary"
+        },
+        {
+          "title": "SBP Annual Report FY24—Complete",
+          "url": "https://www.sbp.org.pk/reports/annual/aarFY24/Complete.pdf",
+          "type": "report",
+          "description": "Central bank assessment"
+        },
+        {
+          "title": "SBP Statistical Supplement FY24",
+          "url": "https://www.sbp.org.pk/reports/annual/aarFY24/Statistical-Supplement/Complete.pdf",
+          "type": "data",
+          "description": "Detailed economic statistics"
+        }
+      ],
+      "importance": "high",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["Growth", "Inflation", "Monetary Policy", "External Sector"]
+    },
+    {
+      "id": "PA-008",
+      "title": "Budget & Public Finance (FY2025–26): Priorities, Taxes & Deficit",
+      "content": "Summarize budget priorities, revenue measures, fiscal deficit targets; use Finance Division's 'Budget in Brief' plus FBR Year Book for tax performance.",
+      "keyTakeaways": [
+        "Quote Budget-in-Brief for aggregates and policy statements.",
+        "Use FBR Year Book for revenue composition & compliance.",
+        "Link NFC & devolution to social sector spending space."
+      ],
+      "resources": [
+        {
+          "title": "Budget in Brief FY2025–26",
+          "url": "https://www.finance.gov.pk/budget/budget_2025_26/budget_in_brief_10062025.pdf",
+          "type": "primary",
+          "description": "Budget summary and priorities"
+        },
+        {
+          "title": "Finance Division—Explanatory Statements (ABS)",
+          "url": "https://www.finance.gov.pk/budget/budget_2025_26/abs_eng_10062025.pdf",
+          "type": "primary",
+          "description": "Detailed budget allocations"
+        },
+        {
+          "title": "FBR Year Book 2023–24",
+          "url": "https://download1.fbr.gov.pk/Docs/20256121862732676FBR-YEARBOOK-2023-24.pdf",
+          "type": "report",
+          "description": "Tax revenue performance"
+        },
+        {
+          "title": "FBR—Year Books Archive",
+          "url": "https://www.fbr.gov.pk/fbr-year-books/142253/132039",
+          "type": "portal",
+          "description": "Historical tax data"
+        }
+      ],
+      "importance": "high",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["Budget", "Tax Policy", "Fiscal Deficit", "Public Expenditure"]
+    },
+    {
+      "id": "PA-009",
+      "title": "IMF, World Bank & ADB: Programs and Reforms",
+      "content": "Outline current IMF EFF/RSF reviews and reform conditions; connect WB CPF (10-year lending plan) and ADB CPS priorities to structural reforms and public investment.",
+      "keyTakeaways": [
+        "Explain why macro stabilization + structural reforms go together.",
+        "Use official IMF/WB press and review docs for up-to-date facts.",
+        "Discuss climate-linked financing (RSF) and social protection."
+      ],
+      "resources": [
+        {
+          "title": "IMF—Pakistan Country Page",
+          "url": "https://www.imf.org/en/Countries/PAK",
+          "type": "portal",
+          "description": "IMF engagement overview"
+        },
+        {
+          "title": "IMF—First Review EFF & RSF (May 2025)",
+          "url": "https://www.imf.org/en/Publications/CR/Issues/2025/05/17/Pakistan-First-Review-Under-the-Extended-Arrangement-Under-the-Extended-Fund-Facility-567021",
+          "type": "report",
+          "description": "Program review details"
+        },
+        {
+          "title": "World Bank—Pakistan Overview/CPF Updates",
+          "url": "https://www.worldbank.org/en/country/pakistan/overview",
+          "type": "portal",
+          "description": "Development partnership"
+        },
+        {
+          "title": "ADB—Country Partnership Strategy 2021–2025",
+          "url": "https://www.adb.org/documents/pakistan-country-partnership-strategy-2021-2025",
+          "type": "strategy",
+          "description": "Development strategy"
+        }
+      ],
+      "importance": "high",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["IMF", "World Bank", "ADB", "Reforms"]
+    },
+    {
+      "id": "PA-010",
+      "title": "Energy Sector: Generation Mix, Circular Debt & Reforms",
+      "content": "Use NEPRA State of Industry Report to discuss capacity, dispatch, distribution losses, and reform pathways (tariffing, governance, renewables).",
+      "keyTakeaways": [
+        "Cite NEPRA SIR for authoritative numbers and bottlenecks.",
+        "Link energy reforms to fiscal pressures and competitiveness.",
+        "Discuss renewable targets vis-à-vis grid constraints."
+      ],
+      "resources": [
+        {
+          "title": "NEPRA—State of Industry Report 2024",
+          "url": "https://nepra.org.pk/publications/State%20of%20Industry%20Reports/State%20of%20Industry%20Report%202024.pdf",
+          "type": "report",
+          "description": "Comprehensive energy sector analysis"
+        },
+        {
+          "title": "NEPRA—Publications Hub",
+          "url": "https://www.nepra.org.pk/",
+          "type": "portal",
+          "description": "Energy regulatory reports"
+        },
+        {
+          "title": "Pakistan Electricity Review 2024 (contextual analysis)",
+          "url": "https://uploads.renewablesfirst.org/Pakistan_Electricity_Review_2024_5_9c8be41fcc.pdf",
+          "type": "analysis",
+          "description": "Independent sector analysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Energy, Water & Infrastructure",
+      "topics": ["NEPRA", "Circular Debt", "Generation Mix", "Renewables"]
+    },
+    {
+      "id": "PA-011",
+      "title": "Water Governance: IRSA, Water Apportionment Accord, Dams",
+      "content": "Explain IRSA's mandate, inter-provincial allocations, and major hydropower/storage projects (Tarbela, Mangla, Dasu, Mohmand, Diamer-Bhasha).",
+      "keyTakeaways": [
+        "Quote IRSA Act and WAA 1991 for legal basis.",
+        "Use WAPDA pages for up-to-date project status.",
+        "Link water storage to food, energy, and climate resilience."
+      ],
+      "resources": [
+        {
+          "title": "IRSA—Official Site (Act, WAA, Updates)",
+          "url": "https://pakirsa.gov.pk/",
+          "type": "primary",
+          "description": "Water authority portal"
+        },
+        {
+          "title": "IRSA Act 1992 (Text)",
+          "url": "https://mowr.gov.pk/SiteImage/Misc/files/IRSA%20Act%201992.pdf",
+          "type": "primary",
+          "description": "Legal framework"
+        },
+        {
+          "title": "WAPDA—Projects (Hydropower & Water)",
+          "url": "https://www.wapda.gov.pk/projects/63c2ac4e5f1f55cb03a15d4f",
+          "type": "primary",
+          "description": "Infrastructure projects"
+        }
+      ],
+      "importance": "high",
+      "category": "Energy, Water & Infrastructure",
+      "topics": ["IRSA", "WAA 1991", "Hydropower", "Storage"]
+    },
+    {
+      "id": "PA-012",
+      "title": "CPEC: Transport, Energy & Industrial Cooperation",
+      "content": "Summarize CPEC phases, flagship transport/energy projects, and Gwadar's role; discuss Phase-II tilt to SEZs, agriculture, and industrial cooperation.",
+      "keyTakeaways": [
+        "Use official CPEC portal project lists for authoritative references.",
+        "Relate connectivity to regional trade and logistics.",
+        "Discuss security and sustainability dimensions."
+      ],
+      "resources": [
+        {
+          "title": "CPEC—Transport Infrastructure Projects",
+          "url": "https://cpec.gov.pk/infrastructure",
+          "type": "primary",
+          "description": "Infrastructure project details"
+        },
+        {
+          "title": "CPEC—Energy Projects",
+          "url": "https://cpec.gov.pk/energy",
+          "type": "primary",
+          "description": "Energy sector investments"
+        },
+        {
+          "title": "CPEC—Gwadar Port & Free Zone (project page)",
+          "url": "https://cpec.gov.pk/project-details/36",
+          "type": "primary",
+          "description": "Gwadar development details"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Studies (CPEC, Gwadar, Balochistan, Kashmir)",
+      "topics": ["CPEC", "SEZs", "Connectivity", "Gwadar"]
+    },
+    {
+      "id": "PA-013",
+      "title": "Gwadar Port & Balochistan: Geostrategy & Development",
+      "content": "Use GPA official site for port functions; connect Gwadar to logistics chains, fisheries, energy imports; discuss local development concerns.",
+      "keyTakeaways": [
+        "Gwadar's strategic location complements overland corridors.",
+        "Local benefits depend on integration with provincial economy.",
+        "Security, water, and power reliability are enabling factors."
+      ],
+      "resources": [
+        {
+          "title": "Gwadar Port Authority—Official",
+          "url": "https://gwadarport.gov.pk/",
+          "type": "primary",
+          "description": "Port operations and development"
+        }
+      ],
+      "importance": "medium",
+      "category": "Regional Studies (CPEC, Gwadar, Balochistan, Kashmir)",
+      "topics": ["Gwadar", "Balochistan", "Ports", "Logistics"]
+    },
+    {
+      "id": "PA-014",
+      "title": "Kashmir Issue: UNMOGIP & UNSC Framework",
+      "content": "Outline UN involvement (UNMOGIP) and early UNSC resolutions; show how ceasefire/plebiscite frameworks shaped subsequent bilateral agreements.",
+      "keyTakeaways": [
+        "Quote UN mission facts (location, HQ, mandate history).",
+        "UNSC early resolutions provide historical legal context.",
+        "Relate to Simla Agreement and bilateralism debates."
+      ],
+      "resources": [
+        {
+          "title": "UN Peacekeeping—UNMOGIP Fact Sheet",
+          "url": "https://peacekeeping.un.org/en/mission/unmogip",
+          "type": "primary",
+          "description": "UN mission details"
+        },
+        {
+          "title": "UNMOGIP—Mission Fact Sheet (PDF)",
+          "url": "https://peacekeeping.un.org/en/unmogip-mission-fact-sheet",
+          "type": "primary",
+          "description": "Mission overview"
+        },
+        {
+          "title": "UNSC Resolution 47 (1948) – text (Refworld)",
+          "url": "https://www.refworld.org/legal/resolution/unsc/1948/en/112999",
+          "type": "primary",
+          "description": "Historical UN resolution"
+        }
+      ],
+      "importance": "high",
+      "category": "Regional Studies (CPEC, Gwadar, Balochistan, Kashmir)",
+      "topics": ["Kashmir", "UNMOGIP", "UNSC", "Ceasefire"]
+    },
+    {
+      "id": "PA-015",
+      "title": "SCO & Pakistan's Regional Diplomacy",
+      "content": "Explain Pakistan's SCO membership context; economic, security, and connectivity cooperation areas; cite SCO secretariat for institutional overview.",
+      "keyTakeaways": [
+        "SCO complements Pakistan's continental connectivity agenda.",
+        "Agenda spans security, economics, culture.",
+        "Use current summit communiqués for examples."
+      ],
+      "resources": [
+        {
+          "title": "SCO—About & Secretariat",
+          "url": "https://eng.sectsco.org/about_sco/",
+          "type": "primary",
+          "description": "SCO institutional framework"
+        }
+      ],
+      "importance": "medium",
+      "category": "Foreign Policy, Security & Geostrategy",
+      "topics": ["SCO", "Regionalism", "Connectivity"]
+    },
+    {
+      "id": "PA-016",
+      "title": "Foreign Policy: Multilateral Engagements & Economic Diplomacy",
+      "content": "Use IMF/WB/ADB/UN sources to demonstrate how economic stabilization ties to diplomacy; include climate finance pivot (RSF).",
+      "keyTakeaways": [
+        "Economic diplomacy is central (IMF, WB CPF, ADB CPS).",
+        "Climate-linked finance increasingly shapes policy choices.",
+        "Back claims with official communiqués and reviews."
+      ],
+      "resources": [
+        {
+          "title": "IMF—Pakistan Press Release (May 2025)",
+          "url": "https://www.imf.org/en/News/Articles/2025/05/09/pr-25137-pakistan-imf-completes-1st-rev-of-eff-arrang-and-approves-req-for-arrang-under-rsf",
+          "type": "press",
+          "description": "Recent IMF engagement"
+        },
+        {
+          "title": "World Bank—Pakistan Country Page",
+          "url": "https://www.worldbank.org/en/country/pakistan",
+          "type": "portal",
+          "description": "Development partnership"
+        },
+        {
+          "title": "ADB—CPS 2021–2025",
+          "url": "https://www.adb.org/sites/default/files/institutional-document/674016/pak-cps-2021-2025.pdf",
+          "type": "strategy",
+          "description": "Regional development strategy"
+        }
+      ],
+      "importance": "medium",
+      "category": "Foreign Policy, Security & Geostrategy",
+      "topics": ["Economic Diplomacy", "Climate Finance", "Multilateralism"]
+    },
+    {
+      "id": "PA-017",
+      "title": "Agriculture & Food Security",
+      "content": "Summarize agriculture's share, crops, productivity constraints; tie to water governance, climate, and MNFSR policy documents.",
+      "keyTakeaways": [
+        "Productivity hinges on water management & inputs.",
+        "Climate resilience and value chains are key themes.",
+        "Use PES agriculture chapter + MNFSR strategic docs."
+      ],
+      "resources": [
+        {
+          "title": "MNFSR—Official Portal (Publications)",
+          "url": "https://mnfsr.gov.pk/",
+          "type": "portal",
+          "description": "Agriculture ministry resources"
+        },
+        {
+          "title": "National Pathways for Food Systems Transformation (MNFSR)",
+          "url": "https://summitdialogues.org/wp-content/uploads/2021/09/National-Pathways-for-Food-Systems-Transformation-in-Pakistan-Sep-15-2021.pdf",
+          "type": "strategy",
+          "description": "Food systems strategy"
+        },
+        {
+          "title": "PES 2024–25—Agriculture Chapter",
+          "url": "https://www.finance.gov.pk/survey_2025.html",
+          "type": "primary",
+          "description": "Agricultural economic data"
+        }
+      ],
+      "importance": "high",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["Agriculture", "Food Security", "Value Chains"]
+    },
+    {
+      "id": "PA-018",
+      "title": "Human Development: Poverty, HDI & Social Protection",
+      "content": "Use UNDP/UN Pakistan updates for HDI and MPI; link to poverty trends and social protection reforms; cross-reference WB diagnostics.",
+      "keyTakeaways": [
+        "Always contextualize indicators with methodology and year.",
+        "Discuss inequalities and regional disparities.",
+        "Cite social protection programs under fiscal constraints."
+      ],
+      "resources": [
+        {
+          "title": "UNDP Pakistan—HDR 2023/24 Summary",
+          "url": "https://www.undp.org/pakistan/press-releases/undps-2023-2024-human-development-report-points-global-gridlock-increased-inequality-and-political-polarization",
+          "type": "brief",
+          "description": "Human development assessment"
+        },
+        {
+          "title": "UN Pakistan—HDR 2025 Media Update",
+          "url": "https://pakistan.un.org/en/293932-media-update-united-nations-pakistan-7-may-2025",
+          "type": "press",
+          "description": "Recent development updates"
+        },
+        {
+          "title": "World Bank—Pakistan Data (WDI)",
+          "url": "https://data.worldbank.org/country/Pakistan",
+          "type": "data",
+          "description": "Development indicators"
+        }
+      ],
+      "importance": "medium",
+      "category": "Society, Demography & Social Sectors",
+      "topics": ["HDI", "Poverty", "MPI", "Social Protection"]
+    },
+    {
+      "id": "PA-019",
+      "title": "Climate Change: Policy, NDCs & Loss-Damage Discourse",
+      "content": "Summarize Pakistan's climate policy architecture (NCCP 2012; updates), NDC 2021 and NDC 3.0 (2025 draft), and adaptation/mitigation priorities.",
+      "keyTakeaways": [
+        "Use official MoCC/NDC documents for targets and sectors.",
+        "Connect climate finance to development planning.",
+        "Discuss vulnerability (floods) and resilience measures."
+      ],
+      "resources": [
+        {
+          "title": "MoCC—Updated NDC 2021",
+          "url": "https://mocc.gov.pk/PolicyDetail/Y2Y4NjI4NDItZDlkZS00Mzc2LWJkOGMtNzMxZmYyODRjZTZj",
+          "type": "primary",
+          "description": "National climate commitments"
+        },
+        {
+          "title": "UNFCCC—Pakistan NDC 3.0 (Sep 2025 draft)",
+          "url": "https://unfccc.int/sites/default/files/2025-09/Pakistan_NDC3.0_24%20Sep.pdf",
+          "type": "primary",
+          "description": "Latest climate targets"
+        },
+        {
+          "title": "MoCC—Official Portal",
+          "url": "https://www.mocc.gov.pk/",
+          "type": "portal",
+          "description": "Climate policy hub"
+        }
+      ],
+      "importance": "high",
+      "category": "Climate Change, Environment & Disasters",
+      "topics": ["NDC", "Climate Policy", "Adaptation", "Mitigation"]
+    },
+    {
+      "id": "PA-020",
+      "title": "Disaster Management & Resilience",
+      "content": "Situate climate disasters within governance and budgeting; reference budget allocations and institutional frameworks (NDMA/provincial DMAs).",
+      "keyTakeaways": [
+        "Budgetary signals show prioritization of resilience.",
+        "Coordination across federal–provincial tiers is crucial.",
+        "Use recent floods as case studies for lessons learned."
+      ],
+      "resources": [
+        {
+          "title": "Budget ABS—Disaster-related Allocations (FY2025–26)",
+          "url": "https://www.finance.gov.pk/budget/budget_2025_26/abs_eng_10062025.pdf",
+          "type": "primary",
+          "description": "Disaster management funding"
+        }
+      ],
+      "importance": "medium",
+      "category": "Climate Change, Environment & Disasters",
+      "topics": ["NDMA", "Resilience", "Budgeting"]
+    },
+    {
+      "id": "PA-021",
+      "title": "Manufacturing, Industry & SMEs",
+      "content": "Use PES manufacturing/mining chapter and SBP sector scans; relate energy pricing, exchange rate stability, and credit conditions to industrial output.",
+      "keyTakeaways": [
+        "Energy costs and access to finance critically shape output.",
+        "Exchange rate and inflation stabilization lower uncertainty.",
+        "SEZs and logistics (CPEC) can spur clustering."
+      ],
+      "resources": [
+        {
+          "title": "PES 2024–25—Manufacturing & Mining",
+          "url": "https://www.finance.gov.pk/survey_2025.html",
+          "type": "primary",
+          "description": "Industrial sector data"
+        },
+        {
+          "title": "SBP Annual Report FY24",
+          "url": "https://www.sbp.org.pk/reports/annual/aarFY24/Complete.pdf",
+          "type": "report",
+          "description": "Financial sector analysis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["Industry", "SMEs", "Competitiveness"]
+    },
+    {
+      "id": "PA-022",
+      "title": "Money & Credit: Monetary Policy and Financial Sector",
+      "content": "Explain monetary policy transmission, inflation targeting band, and financial inclusion; use SBP reports for credible references.",
+      "keyTakeaways": [
+        "Policy rate decisions reflect inflation outlook & external risks.",
+        "Financial sector health ties to growth and stability.",
+        "Cite SBP Governor's Annual Report & MPS excerpts where relevant."
+      ],
+      "resources": [
+        {
+          "title": "SBP—Governor's Annual Report 2023–24",
+          "url": "https://www.sbp.org.pk/reports/annual/Gov-AR/pdf/2024/Gov-AR.pdf",
+          "type": "report",
+          "description": "Central bank policy review"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["Monetary Policy", "Inflation", "Banking"]
+    },
+    {
+      "id": "PA-023",
+      "title": "Trade, Balance of Payments & External Sector",
+      "content": "Present a structured view of exports, imports, remittances, and current account; cite SBP/PBS and WB data portals; relate to competitiveness and diversification.",
+      "keyTakeaways": [
+        "Use balance of payments tables and trade stats precisely.",
+        "Remittances and services exports are key cushions.",
+        "Diversification and productivity are recurring prescriptions."
+      ],
+      "resources": [
+        {
+          "title": "SBP Statistical Supplement (External Sector tables)",
+          "url": "https://www.sbp.org.pk/reports/annual/aarFY24/Statistical-Supplement/Complete.pdf",
+          "type": "data",
+          "description": "External sector statistics"
+        },
+        {
+          "title": "World Bank—Pakistan WDI",
+          "url": "https://data.worldbank.org/country/Pakistan",
+          "type": "data",
+          "description": "International trade data"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economy, Public Finance & Development",
+      "topics": ["Exports", "Imports", "Remittances", "Current Account"]
+    },
+    {
+      "id": "PA-024",
+      "title": "Public Administration & Bureaucracy: Reform Debates",
+      "content": "Anchor answers in constitutional provisions, devolution context, and service delivery outcomes post-18th; draw on CCI/IPC and PES governance notes.",
+      "keyTakeaways": [
+        "Devolution changed center–province roles.",
+        "Intergovernmental coordination is critical for outcomes.",
+        "Evidence-based reforms link to fiscal and HR capacity."
+      ],
+      "resources": [
+        {
+          "title": "IPC—18th Amendment Implementation (Report)",
+          "url": "https://ipc.gov.pk/SiteImage/Misc/files/Year%20Books/Final%20Report%20of%20Implementation%20Commission.pdf",
+          "type": "report",
+          "description": "Implementation assessment"
+        }
+      ],
+      "importance": "medium",
+      "category": "Elections, Governance & Public Policy",
+      "topics": ["Civil Service", "Devolution", "Governance"]
+    },
+    {
+      "id": "PA-025",
+      "title": "Regional Connectivity: CPEC Logistics, SEZs & Trade Corridors",
+      "content": "Go beyond project lists—explain corridor logic, border nodes, inland dry ports, and how SEZs can integrate with export strategies.",
+      "keyTakeaways": [
+        "Corridor effects depend on soft infrastructure and reforms.",
+        "SEZ success: utilities, skills, logistics, and policy certainty.",
+        "Tie to SCO/regional markets for exam's comparative angles."
+      ],
+      "resources": [
+        {
+          "title": "CPEC—Infrastructure Projects (authoritative list)",
+          "url": "https://cpec.gov.pk/infrastructure",
+          "type": "primary",
+          "description": "Infrastructure development"
+        },
+        {
+          "title": "CPEC—Energy Projects (authoritative list)",
+          "url": "https://cpec.gov.pk/energy",
+          "type": "primary",
+          "description": "Energy infrastructure"
+        }
+      ],
+      "importance": "medium",
+      "category": "Regional Studies (CPEC, Gwadar, Balochistan, Kashmir)",
+      "topics": ["Logistics", "SEZs", "Trade Corridors"]
+    },
+    {
+      "id": "PA-026",
+      "title": "Exam Skills: Comparative, Critical & MCQ Readiness",
+      "content": "Build source-backed outlines, comparison matrices (e.g., Nehru Report vs. Fourteen Points; Simla Agreement vs. UNSC 47), and MCQ fact-sheets.",
+      "keyTakeaways": [
+        "Always cite a primary source or top-tier institutional report.",
+        "Date-stamp every statistic; avoid generic claims.",
+        "Practice with latest FPSC papers and structure answers to rubric."
+      ],
+      "resources": [
+        {
+          "title": "FPSC Pakistan Affairs—2024/2025 Papers",
+          "url": "https://www.fpsc.gov.pk/category/css-2023-descriptive-papers-516644049-2024-06-27",
+          "type": "exam",
+          "description": "Recent exam papers"
+        },
+        {
+          "title": "FPSC—Practice Paper (GK mix)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-06-13-Practice_paper_01-12-2021_Final.pdf",
+          "type": "exam",
+          "description": "Practice questions"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Skills (Comparative/Critical/MCQs)",
+      "topics": ["Comparative Analysis", "Critical Essays", "MCQs"]
+    }
+  ]
+}

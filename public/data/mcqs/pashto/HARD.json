@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T20:10:30.397Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1ad661ce7c0b92fc4804ebf768bc4698affb8e4c",
+      "sectionIndex": 0,
+      "question": "Rahman Baba's integration of Sufi epistemology with Pashtun ethics represents:",
+      "options": [
+        "A) Simple syncretism",
+        "B) A sophisticated philosophical synthesis creating indigenous metaphysical framework",
+        "C) Mere translation of Persian concepts",
+        "D) Rejection of local traditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "980c1605fd6308063711f1c2e5c311050a10e2b6",
+      "sectionIndex": 0,
+      "question": "The tension between oral and written traditions in Pashto literature reveals:",
+      "options": [
+        "A) Clear superiority of writing",
+        "B) Competing epistemologies with different truth claims and validation methods",
+        "C) No significant difference",
+        "D) Evolutionary progression only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1aa5af8ab004481d25ff5c428a8177974e9705eb",
+      "sectionIndex": 0,
+      "question": "Ghani Khan's rebellious philosophy can be read as:",
+      "options": [
+        "A) Personal eccentricity",
+        "B) Postcolonial subversion using indigenous modernism against hegemonic structures",
+        "C) Western influence only",
+        "D) Traditional mysticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25b4ebf561b25ad3c2ea5be32ef0366c9ed759e1",
+      "sectionIndex": 0,
+      "question": "The concept of \"Nazuk Khayali\" in Hameed Baba transcends mere delicacy to represent:",
+      "options": [
+        "A) Feminine weakness",
+        "B) An aesthetic philosophy privileging nuance over directness as resistance strategy",
+        "C) Imitation of Urdu",
+        "D) Lack of substance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8214431d6402ade9529f5e8a97f6ea113c6bf092",
+      "sectionIndex": 0,
+      "question": "The Roshaniya movement's linguistic innovations demonstrate:",
+      "options": [
+        "A) Random changes",
+        "B) Systematic vernacularization as political and theological democratization",
+        "C) Corruption of language",
+        "D) Elite manipulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97cd053ee090d0511a993cab26b94e0ca9d01678",
+      "sectionIndex": 0,
+      "question": "Khushal Khan Khattak's multigeneric corpus suggests:",
+      "options": [
+        "A) Lack of focus",
+        "B) A totalizing intellectual project encompassing statecraft, theology, and aesthetics",
+        "C) Simple variety",
+        "D) Commercial motivations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bebf9fa7fb89b2e5c3cdd2a753b2ea1c23e9a26",
+      "sectionIndex": 0,
+      "question": "The relationship between \"badal\" (revenge) and justice in Pashto narratives reveals:",
+      "options": [
+        "A) Primitive violence",
+        "B) Complex negotiations between individual agency and collective ethics",
+        "C) Legal absence",
+        "D) Simple vengeance culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc201024900cc8e19080e9ed645806a416c1e7c7",
+      "sectionIndex": 0,
+      "question": "Modern Pashto criticism's engagement with Western theory shows:",
+      "options": [
+        "A) Derivative thinking",
+        "B) Selective appropriation creating hybrid analytical frameworks",
+        "C) Complete rejection",
+        "D) Uncritical acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23b6df0833a192555ad00d010591a37a97452fed",
+      "sectionIndex": 0,
+      "question": "The persistence of classical forms in contemporary Pashto poetry indicates:",
+      "options": [
+        "A) Conservatism",
+        "B) Strategic deployment of tradition as cultural capital and resistance",
+        "C) Inability to innovate",
+        "D) Market demands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ad522300b4e066285818deff9b87aa39cc225e1",
+      "sectionIndex": 0,
+      "question": "The gendered discourse in Pashto literature operates through:",
+      "options": [
+        "A) Simple patriarchy",
+        "B) Complex intersections of honor, agency, and social reproduction",
+        "C) Complete exclusion",
+        "D) Recent feminism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a87ce7690d8318f4a571cb2f8f017afb1bbac430",
+      "sectionIndex": 1,
+      "question": "The untranslatability of certain Pashto concepts suggests:",
+      "options": [
+        "A) Language deficiency",
+        "B) Incommensurable worldviews requiring thick translation and cultural glossing",
+        "C) Simple vocabulary gaps",
+        "D) Isolation from other languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a7e587311fcf341b1f9d278a24176c35d141843",
+      "sectionIndex": 1,
+      "question": "Translating Pashto's tonal variations into non-tonal languages requires:",
+      "options": [
+        "A) Ignoring tones",
+        "B) Compensatory strategies addressing semantic and pragmatic losses",
+        "C) Literal transcription",
+        "D) Footnotes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "018b199f80263b01b681970f39fc90ca239eca6f",
+      "sectionIndex": 1,
+      "question": "The politics of translating Pashto literature into English involves:",
+      "options": [
+        "A) Neutral transfer",
+        "B) Negotiating orientalist expectations while asserting cultural specificity",
+        "C) Simple language conversion",
+        "D) Commercial considerations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52f0cb4b7bf4438e4b626f0122ce67d4eea414b6",
+      "sectionIndex": 1,
+      "question": "Proverb translation's cultural load demonstrates:",
+      "options": [
+        "A) Universal wisdom",
+        "B) Embedded epistemologies requiring functional rather than formal equivalence",
+        "C) Simple metaphors",
+        "D) Easy correspondence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b796925927091243191563168a846f0e88c60b2",
+      "sectionIndex": 1,
+      "question": "The challenge of translating Sufi terminology in Pashto poetry:",
+      "options": [
+        "A) Technical difficulty only",
+        "B) Mediating between esoteric specificity and exoteric accessibility",
+        "C) Dictionary consultation",
+        "D) Avoiding religious terms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b70bae694848e207bde02393d2eeb09748732674",
+      "sectionIndex": 1,
+      "question": "Classical allusions in Pashto require translators to:",
+      "options": [
+        "A) Provide footnotes",
+        "B) Navigate between domestication and foreignization strategies",
+        "C) Omit references",
+        "D) Modernize completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6ca664b753c797572c1c5d8449df93d7510f10a",
+      "sectionIndex": 1,
+      "question": "The role of translator's agency in Pashto literature involves:",
+      "options": [
+        "A) Mechanical transfer",
+        "B) Co-creation requiring ethical consideration of representation politics",
+        "C) Invisible mediation",
+        "D) Literal accuracy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bb6385bba7bba8a52dc7bf6989b404648cd8fd3",
+      "sectionIndex": 1,
+      "question": "Translating Pashto oral literature into written form entails:",
+      "options": [
+        "A) Simple transcription",
+        "B) Ontological transformation affecting meaning and reception",
+        "C) No significant change",
+        "D) Improvement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14df77e5ca6c3dd625ce52f6608fd8b0324cf8f5",
+      "sectionIndex": 1,
+      "question": "The asymmetry in Pashto-English translation reflects:",
+      "options": [
+        "A) Language superiority",
+        "B) Geopolitical power dynamics affecting cultural capital circulation",
+        "C) Technical issues only",
+        "D) Market size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f2eeb15ec43a5013f683348bf45aee3f54605fe",
+      "sectionIndex": 1,
+      "question": "Comparative translation analysis of Pashto texts reveals:",
+      "options": [
+        "A) Single correct version",
+        "B) Multiple valid interpretations reflecting translator's ideological positions",
+        "C) Progressive improvement",
+        "D) Objective standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cc7ecbfe0b8e16e2829fa64dfb7da21f02f49e5",
+      "sectionIndex": 2,
+      "question": "The concept of \"fana\" in Pashto Sufi poetry operates as:",
+      "options": [
+        "A) Death wish",
+        "B) Dialectical negation enabling higher synthesis of self and divine",
+        "C) Simple annihilation",
+        "D) Poetic convention only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92265762d46006bc8e2b646fb39f52536cd943ff",
+      "sectionIndex": 2,
+      "question": "Aesthetic judgment in Pashto literary tradition derives from:",
+      "options": [
+        "A) Fixed rules",
+        "B) Dynamic interaction between inherited forms and innovative expression",
+        "C) Western standards",
+        "D) Religious law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "009c161f1d3f35e31f3d4cc1c4d6345797bfd6b3",
+      "sectionIndex": 2,
+      "question": "The phenomenology of \"watan\" (homeland) in Pashto poetry reveals:",
+      "options": [
+        "A) Geographic reference",
+        "B) Lived space constituted through memory, loss, and imagination",
+        "C) Political boundaries",
+        "D) Simple patriotism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7410b0a84ad08ddcee48f8aa6e2713ac84d0408a",
+      "sectionIndex": 2,
+      "question": "Time consciousness in classical Pashto narratives shows:",
+      "options": [
+        "A) Linear progression",
+        "B) Cyclical and mythic temporalities challenging modern chronology",
+        "C) No pattern",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2d914e1868004c83cff364454b899dc363b15a0",
+      "sectionIndex": 2,
+      "question": "The ethics of hospitality (melmastia) as literary theme represents:",
+      "options": [
+        "A) Social custom",
+        "B) Fundamental ontology of self-other relations in Pashtun philosophy",
+        "C) Economic exchange",
+        "D) Simple generosity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5aee167a0152a1ed0fb69e1136e2ff5c54cc9a04",
+      "sectionIndex": 2,
+      "question": "The sublime in Pashto war poetry emerges through:",
+      "options": [
+        "A) Violence glorification",
+        "B) Aesthetic transformation of terror into cultural meaning",
+        "C) Historical documentation",
+        "D) Entertainment value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e1862a85ccfa9bb499adf2b02546ed22ab94f2b",
+      "sectionIndex": 2,
+      "question": "Memory's function in Pashto literature operates as:",
+      "options": [
+        "A) Historical record",
+        "B) Active reconstruction serving present identity needs",
+        "C) Nostalgia only",
+        "D) Accurate preservation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f0bd1c3f28f9142a9b9f8493170c3a39970db5f",
+      "sectionIndex": 2,
+      "question": "The relationship between language and being in Pashto poetry suggests:",
+      "options": [
+        "A) Communication tool",
+        "B) Constitutive force shaping consciousness and world",
+        "C) Ornamental function",
+        "D) Simple expression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2222df9fd60fdb3936757a348bbd16d1141407da",
+      "sectionIndex": 2,
+      "question": "Irony in modern Pashto literature functions as:",
+      "options": [
+        "A) Humor device",
+        "B) Epistemological critique of certainty and authority",
+        "C) Western import",
+        "D) Stylistic variety"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1f9f10d7d53f643b911887b56a709405f77d431",
+      "sectionIndex": 2,
+      "question": "The aesthetic category of \"nazakat\" (delicacy) represents:",
+      "options": [
+        "A) Weakness",
+        "B) Refined sensibility as form of cultural resistance",
+        "C) Feminine quality only",
+        "D) Persian influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d41936f50006be247769ad12cfb337abfbedafec",
+      "sectionIndex": 3,
+      "question": "The Bani Israel origin theory's persistence indicates:",
+      "options": [
+        "A) Historical truth",
+        "B) Strategic identity construction linking Pashtuns to Abrahamic authority",
+        "C) Genetic evidence",
+        "D) Random belief"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ca13a66d364b7d4db2392db4dd945e62644f340",
+      "sectionIndex": 3,
+      "question": "Pashtunwali's representation in literature reveals:",
+      "options": [
+        "A) Fixed code",
+        "B) Contested terrain of competing interpretations and modernizations",
+        "C) Universal agreement",
+        "D) Ancient law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d03153b48daa11f828f82ba08ad734d800ba689",
+      "sectionIndex": 3,
+      "question": "The colonial encounter's impact on Pashto literature shows:",
+      "options": [
+        "A) Total domination",
+        "B) Complex negotiations producing hybrid forms and resistant readings",
+        "C) No effect",
+        "D) Beneficial influence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2ba528c29a1d481498837a19dcbb914b03a28ed",
+      "sectionIndex": 3,
+      "question": "Gender politics in contemporary Pashto writing demonstrates:",
+      "options": [
+        "A) Simple progress",
+        "B) Intersectional struggles within patriarchal and nationalist frameworks",
+        "C) Western feminism",
+        "D) Traditional roles only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e39ac3d7dc2b6df45dc82b71dcd9fcb9c00aebf9",
+      "sectionIndex": 3,
+      "question": "The nation-state's effect on Pashto literature reveals:",
+      "options": [
+        "A) Natural boundaries",
+        "B) Artificial divisions creating split consciousness and dual loyalties",
+        "C) Improved organization",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a32994e4c99d8aca8eece8a9767f10676d567ae5",
+      "sectionIndex": 3,
+      "question": "Class representation in Pashto literature shows:",
+      "options": [
+        "A) Classless society",
+        "B) Masked hierarchies beneath tribal egalitarian ideology",
+        "C) Only elite voices",
+        "D) No class consciousness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f2f44bd1c0b1cae3ae48f213a61db553a194e0f",
+      "sectionIndex": 3,
+      "question": "The militarization of Pashtun society affects literature through:",
+      "options": [
+        "A) War themes only",
+        "B) Deep structural impacts on narrative possibilities and gender relations",
+        "C) Heroic tales",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de46d9b2d5f5aa20dcf6f5e425d340ea3ca49a31",
+      "sectionIndex": 3,
+      "question": "Religious authority in Pashto literature operates via:",
+      "options": [
+        "A) Direct control",
+        "B) Complex negotiations between textual Islam and customary practices",
+        "C) Secular rejection",
+        "D) Single interpretation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d39ba1c7f019abc3d7f1de7ee59ab243b7a54d4",
+      "sectionIndex": 3,
+      "question": "The development discourse in contemporary Pashto writing reveals:",
+      "options": [
+        "A) Progress narrative",
+        "B) Ambivalent engagement with modernity's promises and threats",
+        "C) Rejection of change",
+        "D) Uncritical acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dfbf4ebdb23726f9cd791f9fd11309089c2404d",
+      "sectionIndex": 3,
+      "question": "Diaspora Pashto literature's relationship to homeland shows:",
+      "options": [
+        "A) Simple nostalgia",
+        "B) Transnational consciousness reconstructing identity across borders",
+        "C) Complete assimilation",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dde33146d85e693fa7edaa165dbde7ee176f4220",
+      "sectionIndex": 4,
+      "question": "Comparing Pashto ghazal with Persian tradition reveals:",
+      "options": [
+        "A) Mere imitation",
+        "B) Creative adaptation producing distinct aesthetic grounded in different worldview",
+        "C) Failed copying",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1029fd5a757f224233a22710e4ab4de7d32b6adf",
+      "sectionIndex": 4,
+      "question": "The influence of Indo-Persian literary culture on Pashto shows:",
+      "options": [
+        "A) Cultural domination",
+        "B) Selective appropriation maintaining indigenous characteristics",
+        "C) Complete replacement",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70f04d95e3ee27057b8b5ec39025a82e19b80dc3",
+      "sectionIndex": 4,
+      "question": "Pashto's relationship with Urdu in Pakistan demonstrates:",
+      "options": [
+        "A) Hierarchical diglossia",
+        "B) Complex negotiations of prestige, power, and cultural capital",
+        "C) Equal status",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "055d4e881dcf68dcf3b102eb983f134e402c04dc",
+      "sectionIndex": 4,
+      "question": "Comparing oral traditions across Pashtun regions reveals:",
+      "options": [
+        "A) Uniformity",
+        "B) Dialectical unity maintaining diversity within shared framework",
+        "C) Complete difference",
+        "D) No pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "808afaa28fa5f215e217998f21f2c1c7e2b69b3e",
+      "sectionIndex": 4,
+      "question": "The reception of world literature in Pashto shows:",
+      "options": [
+        "A) Direct translation",
+        "B) Filtered appropriation through local aesthetic and ideological lenses",
+        "C) Rejection",
+        "D) Passive reception"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5db2670c313c1d756bf9ce9d26e384ef4a3d13b",
+      "sectionIndex": 4,
+      "question": "Modernist experimentation in Pashto versus other languages reveals:",
+      "options": [
+        "A) Delayed imitation",
+        "B) Parallel developments with culturally specific innovations",
+        "C) No modernism",
+        "D) Superior achievement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb123457474c4fe5b38c3370721eddbefa09ae93",
+      "sectionIndex": 4,
+      "question": "Postcolonial literature across South Asia shows Pashto's:",
+      "options": [
+        "A) Isolation",
+        "B) Unique position negotiating multiple imperialisms",
+        "C) Typical pattern",
+        "D) No postcolonial features"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e27f58b5b1cced23d7e12416c3fed3500b1b737",
+      "sectionIndex": 4,
+      "question": "Comparing women's writing across regional languages reveals:",
+      "options": [
+        "A) Pashto absence",
+        "B) Specific constraints and opportunities within Pashtun context",
+        "C) Identical patterns",
+        "D) No comparison possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a0d150ad25de434423f47f7a8ca5e4d784c44ba",
+      "sectionIndex": 4,
+      "question": "The epic tradition in Pashto versus other cultures shows:",
+      "options": [
+        "A) Direct borrowing",
+        "B) Indigenous development with transcultural elements",
+        "C) No epic tradition",
+        "D) Pure originality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54a6580c45857386b766bdeed101bfad7d2b7cc9",
+      "sectionIndex": 4,
+      "question": "Digital literature developments across languages position Pashto as:",
+      "options": [
+        "A) Backward",
+        "B) Navigating between preservation and innovation imperatives",
+        "C) Leading edge",
+        "D) Completely traditional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e75152d4eaf7299b273e052f3c82fcec1435b562",
+      "sectionIndex": 5,
+      "question": "The semantic field of honor-related vocabulary in Pashto reveals:",
+      "options": [
+        "A) Simple concepts",
+        "B) Complex gradations encoding entire worldview",
+        "C) Borrowed terms",
+        "D) Limited vocabulary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17e91f83ab27952ee4e7d424766f40c3efc2d113",
+      "sectionIndex": 5,
+      "question": "Code-switching in contemporary Pashto literature functions as:",
+      "options": [
+        "A) Language mixing",
+        "B) Political statement about identity and cultural boundaries",
+        "C) Inability to maintain purity",
+        "D) Modern corruption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8d45c860b2725c2b374d1265d53e747f487992e",
+      "sectionIndex": 5,
+      "question": "The morphological richness of Pashto enables:",
+      "options": [
+        "A) Complexity only",
+        "B) Nuanced expression of aspect, mood, and evidentiality",
+        "C) Difficulty in learning",
+        "D) No special features"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a0739a75dee4d2359816597cc0737dadee5df8c",
+      "sectionIndex": 5,
+      "question": "Dialectical variations in literary Pashto indicate:",
+      "options": [
+        "A) Language fragmentation",
+        "B) Vitality through unity in diversity",
+        "C) Need for standardization",
+        "D) Communication barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e86e812abdc0fab2a21206c1bd3f9d6efd2247e0",
+      "sectionIndex": 5,
+      "question": "The pragmatics of address terms in Pashto literature encode:",
+      "options": [
+        "A) Simple politeness",
+        "B) Complex social hierarchies and relationship dynamics",
+        "C) Gender only",
+        "D) Age distinctions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5664fe90d0d0514971006298163191bff3cac4f",
+      "sectionIndex": 5,
+      "question": "Metaphorical systems in Pashto reveal:",
+      "options": [
+        "A) Universal patterns",
+        "B) Culturally specific conceptual mappings",
+        "C) Poverty of expression",
+        "D) Random imagery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e83182bebaa0329e9bae18f2f7842f27b7ef51ac",
+      "sectionIndex": 5,
+      "question": "The syntax of classical versus modern Pashto shows:",
+      "options": [
+        "A) Degradation",
+        "B) Evolution reflecting changing consciousness structures",
+        "C) No change",
+        "D) Random variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d22a3c0398a3237a6d74a2bacf904f2e40eedb71",
+      "sectionIndex": 5,
+      "question": "Lexical borrowing patterns in Pashto indicate:",
+      "options": [
+        "A) Language weakness",
+        "B) Historical layers of cultural contact and power relations",
+        "C) Random adoption",
+        "D) Corruption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ce3c58f888ac16bb92861498f71d7bb98644c7f",
+      "sectionIndex": 5,
+      "question": "The semantics of kinship terms in literature reveals:",
+      "options": [
+        "A) Biological relations",
+        "B) Social constructions encoding rights and obligations",
+        "C) Simple family",
+        "D) Universal patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7c4899988185a6233664c6099eea341bfe9ea84",
+      "sectionIndex": 5,
+      "question": "Prosodic features in Pashto poetry create:",
+      "options": [
+        "A) Musical effect only",
+        "B) Meaning through rhythm reinforcing semantic content",
+        "C) Difficulty",
+        "D) Arbitrary patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ad2593f0f0cea69df8dd5d6f0617a37f08d33f5",
+      "sectionIndex": 6,
+      "question": "The Roshaniya movement's textual legacy demonstrates:",
+      "options": [
+        "A) Religious deviation",
+        "B) Indigenous intellectual tradition challenging orthodox hegemonies",
+        "C) Foreign influence",
+        "D) Failed experiment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cb8e8e0de8fa69373f8f18a00161c611f192cac",
+      "sectionIndex": 6,
+      "question": "Mughal-Pashtun literary exchanges reveal:",
+      "options": [
+        "A) One-way influence",
+        "B) Complex cultural negotiations and mutual transformations",
+        "C) Pashtun isolation",
+        "D) Complete assimilation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b30dfe5149c87c1128d18401b447ee5d1cd3f7c",
+      "sectionIndex": 6,
+      "question": "The British colonial period's impact on Pashto shows:",
+      "options": [
+        "A) Destruction only",
+        "B) Paradoxical stimulation through opposition and documentation",
+        "C) No effect",
+        "D) Only negative impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ac41cf6d9ceae5b5aeab9c8a6dd1eadf87faf20",
+      "sectionIndex": 6,
+      "question": "Soviet influence on Afghan Pashto literature created:",
+      "options": [
+        "A) Communist propaganda",
+        "B) Complex ideological negotiations and formal innovations",
+        "C) No lasting impact",
+        "D) Complete transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b450d2e1bd2fb940d779b9cdefcf151fea3928bf",
+      "sectionIndex": 6,
+      "question": "The role of madrasas in preserving Pashto literature:",
+      "options": [
+        "A) Negative only",
+        "B) Contradictory preservation within religious frameworks",
+        "C) No role",
+        "D) Pure benefit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cc19db3f6b6144d5848f5ae9c782fb9d700cf92",
+      "sectionIndex": 6,
+      "question": "Partition's effect on Pashto literary geography shows:",
+      "options": [
+        "A) Clean division",
+        "B) Continuing cross-border flows despite political boundaries",
+        "C) Complete separation",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "197251b0607a3f14c07a1d7291756c6a6c7a16af",
+      "sectionIndex": 6,
+      "question": "The Taliban period's impact on Pashto literature reveals:",
+      "options": [
+        "A) Total suppression",
+        "B) Underground creativity and exile productivity",
+        "C) No literature",
+        "D) Only religious writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56d7a2810b56195798c721abb5fd671ee11e1aab",
+      "sectionIndex": 6,
+      "question": "Modernization's effect on traditional forms shows:",
+      "options": [
+        "A) Replacement",
+        "B) Dialectical transformation maintaining continuity",
+        "C) No change",
+        "D) Complete abandonment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4b43c08e6a38cb72b7253fa76afad7c9d9b3e3c",
+      "sectionIndex": 6,
+      "question": "The role of war in Pashto literary production:",
+      "options": [
+        "A) Destruction only",
+        "B) Catalyst for innovation and identity assertion",
+        "C) No relationship",
+        "D) Only war poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc04a80818bc8ca4aed8b471dac8bb017f1b334f",
+      "sectionIndex": 6,
+      "question": "Urban Pashto literature's relationship to tradition:",
+      "options": [
+        "A) Complete break",
+        "B) Anxious negotiations between authenticity and modernity",
+        "C) No difference",
+        "D) Superior development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8f37377827b797ccdcdf797fe2174bdade28a6a",
+      "sectionIndex": 7,
+      "question": "The commercialization of Pashto literature reveals:",
+      "options": [
+        "A) Economic success",
+        "B) Tensions between market demands and artistic integrity",
+        "C) No market",
+        "D) Pure benefit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00007b665732ca3dbdfa12ff1156ee59f14f1cca",
+      "sectionIndex": 7,
+      "question": "Academic study of Pashto literature shows:",
+      "options": [
+        "A) Objective analysis",
+        "B) Embedded power relations affecting canon formation",
+        "C) Complete coverage",
+        "D) No biases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91c12f4bf40ef70347fc4094df962da81f3ed2b0",
+      "sectionIndex": 7,
+      "question": "The role of literary prizes in Pashto:",
+      "options": [
+        "A) Merit recognition",
+        "B) Cultural politics of visibility and legitimation",
+        "C) No impact",
+        "D) Pure encouragement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44b5bdfb12d14f79ec5d21708c2470129122429e",
+      "sectionIndex": 7,
+      "question": "Digital archiving challenges for Pashto include:",
+      "options": [
+        "A) Technical only",
+        "B) Epistemological questions about selection and representation",
+        "C) No challenges",
+        "D) Complete solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bc739ca73f41c57e12c9d9170b928660fe44efb",
+      "sectionIndex": 7,
+      "question": "The future of Pashto literary criticism requires:",
+      "options": [
+        "A) Western theory",
+        "B) Indigenous theoretical frameworks in dialogue with global concepts",
+        "C) No theory",
+        "D) Traditional methods only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b76938e6c5970784ac4f88252f18149bb16f1f29",
+      "sectionIndex": 7,
+      "question": "Cross-media adaptation of Pashto literature raises:",
+      "options": [
+        "A) Technical issues",
+        "B) Questions of authenticity and cultural translation",
+        "C) No concerns",
+        "D) Only benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6822d0b292b33990e67c4f0dbfa3f9d4ba4fc730",
+      "sectionIndex": 7,
+      "question": "The role of state institutions in Pashto literature:",
+      "options": [
+        "A) Pure support",
+        "B) Complex dynamics of promotion and control",
+        "C) No role",
+        "D) Only negative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbd5bc61cdfd959630fdf422a7895e0fe10ad4b5",
+      "sectionIndex": 7,
+      "question": "International translation of Pashto literature involves:",
+      "options": [
+        "A) Simple transfer",
+        "B) Geopolitical considerations affecting selection and framing",
+        "C) No politics",
+        "D) Pure literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcbf32531522b0e1e166ad7e3021385c578d26c5",
+      "sectionIndex": 7,
+      "question": "The environmental turn in recent Pashto writing reflects:",
+      "options": [
+        "A) Fashion",
+        "B) Deep ecological consciousness rooted in land-based culture",
+        "C) Western influence",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac0b968ae509cc2c8830ea7ab34356fe66e56528",
+      "sectionIndex": 7,
+      "question": "Youth engagement with Pashto literature shows:",
+      "options": [
+        "A) Decline",
+        "B) Transformation through new media and hybrid forms",
+        "C) No interest",
+        "D) Traditional only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58ab5f6c799a1ae901aa095e3e4bd9c31226bd0a",
+      "sectionIndex": 8,
+      "question": "Poststructuralist reading of Pashto texts reveals:",
+      "options": [
+        "A) Clear meanings",
+        "B) Unstable significations requiring constant reinterpretation",
+        "C) No application",
+        "D) Western imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bccba822e6f404607ad6692ab465c0a6d37c7ae",
+      "sectionIndex": 8,
+      "question": "Psychoanalytic criticism of Pashto literature uncovers:",
+      "options": [
+        "A) Mental illness",
+        "B) Collective unconscious patterns specific to Pashtun experience",
+        "C) Universal complexes",
+        "D) No insights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe6cc4c300fb94bc9218b53c7bb587e64bb25f2a",
+      "sectionIndex": 8,
+      "question": "Feminist analysis of classical texts shows:",
+      "options": [
+        "A) Absence of women",
+        "B) Complex presence through absence and coded representations",
+        "C) Gender equality",
+        "D) Simple misogyny"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "971259434361849bc78dc1738a02f22d1dadc7fd",
+      "sectionIndex": 8,
+      "question": "Ecocritical reading of Pashto literature reveals:",
+      "options": [
+        "A) Nature description",
+        "B) Human-environment relationships as cultural constructions",
+        "C) No environmental awareness",
+        "D) Recent concern only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf9d3f9df975549d3f329a8ad44f5050afb2b061",
+      "sectionIndex": 8,
+      "question": "Marxist analysis of Pashto literature demonstrates:",
+      "options": [
+        "A) Class struggle only",
+        "B) Complex mediations between base and superstructure",
+        "C) No class awareness",
+        "D) Communist propaganda"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6af68fc985d150d9513dec58c1b8d04d5a38000c",
+      "sectionIndex": 8,
+      "question": "Postcolonial theory applied to Pashto shows:",
+      "options": [
+        "A) Simple application",
+        "B) Need for modification given multiple colonialisms",
+        "C) No relevance",
+        "D) Complete fit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e8e95724dd5b5bae28f5f21a8b29d5eb5166e8e",
+      "sectionIndex": 8,
+      "question": "Narratological analysis reveals:",
+      "options": [
+        "A) Story patterns",
+        "B) Culturally specific narrative structures and functions",
+        "C) Universal structures",
+        "D) No patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b606cad57c4ee7f614fba651d62ffa759754d773",
+      "sectionIndex": 8,
+      "question": "Reception theory for Pashto literature indicates:",
+      "options": [
+        "A) Passive reading",
+        "B) Active meaning construction within interpretive communities",
+        "C) Single meaning",
+        "D) Author's intention only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02a9f0df44cafa97b13ba396965ae801d2793dc8",
+      "sectionIndex": 8,
+      "question": "Cultural studies approach shows:",
+      "options": [
+        "A) High culture only",
+        "B) Literature as site of cultural negotiation and identity formation",
+        "C) Popular degradation",
+        "D) No culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcb86744f8bac0b2c3ff6a5d3f62c173792d3dfe",
+      "sectionIndex": 8,
+      "question": "Interdisciplinary analysis reveals:",
+      "options": [
+        "A) Confusion",
+        "B) Rich insights from multiple perspective integration",
+        "C) Disciplinary purity",
+        "D) No benefit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01af9237ad6fe44afdd6bcbfe423996d8ab07c97",
+      "sectionIndex": 9,
+      "question": "The crisis of Pashto in urban contexts requires:",
+      "options": [
+        "A) Rural retreat",
+        "B) Creative strategies balancing authenticity with contemporary relevance",
+        "C) English adoption",
+        "D) No action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "885178fd88757e801bb66c4353a56aab5a6cf7f8",
+      "sectionIndex": 9,
+      "question": "Artificial intelligence's potential for Pashto literature includes:",
+      "options": [
+        "A) Threat only",
+        "B) Tools for preservation and new creative possibilities",
+        "C) No relevance",
+        "D) Complete replacement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "022a95850846ced63f9b8f932b394753402ca9c8",
+      "sectionIndex": 9,
+      "question": "Global Pashto literature networks show:",
+      "options": [
+        "A) Fragmentation",
+        "B) Emerging transnational consciousness and solidarity",
+        "C) No connection",
+        "D) National boundaries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b113639aec9f676cfdb4c3c92e1abdee5ee6d0e5",
+      "sectionIndex": 9,
+      "question": "The role of translation technology for Pashto:",
+      "options": [
+        "A) Perfect solution",
+        "B) Assistance requiring human cultural mediation",
+        "C) Threat to translators",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45d1f29fa19388bab1472bddc9fc945f76ba4de7",
+      "sectionIndex": 9,
+      "question": "Climate change narratives in Pashto literature reflect:",
+      "options": [
+        "A) Global copying",
+        "B) Indigenous environmental knowledge meeting planetary crisis",
+        "C) No awareness",
+        "D) Scientific data only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35aa146d008fae2ac86b604756cc7555ab78921f",
+      "sectionIndex": 9,
+      "question": "The future of Pashto literary studies requires:",
+      "options": [
+        "A) Traditional continuation",
+        "B) Radical reimagining of disciplinary boundaries and methods",
+        "C) No change",
+        "D) Western models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbb24613c5b13441bb21f565c8d76b5fe1396596",
+      "sectionIndex": 9,
+      "question": "Digital humanities for Pashto offers:",
+      "options": [
+        "A) Technical tools only",
+        "B) New analytical possibilities raising theoretical questions",
+        "C) No relevance",
+        "D) Threat to tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3ce9ad544e02d870633efe0b4173b2cab3d7125",
+      "sectionIndex": 9,
+      "question": "The next generation of Pashto writers faces:",
+      "options": [
+        "A) Easy path",
+        "B) Challenge of innovation within tradition preservation",
+        "C) No opportunities",
+        "D) Only obstacles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06309b94f106deef2cd689d07ce801add9da104b",
+      "sectionIndex": 9,
+      "question": "International recognition of Pashto literature depends on:",
+      "options": [
+        "A) Quality only",
+        "B) Complex factors including geopolitics and cultural capital",
+        "C) Translation only",
+        "D) Marketing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f75e25430cd39cf79756ea5ee658c9975340165",
+      "sectionIndex": 9,
+      "question": "The ultimate question for Pashto literature's future is:",
+      "options": [
+        "A) Survival",
+        "B) How to maintain cultural specificity while engaging global conversations",
+        "C) Isolation",
+        "D) Assimilation"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PrepTra - CSS & MDCAT Exam Preparation",
+  "short_name": "PrepTra",
+  "description": "Complete exam preparation platform for CSS and MDCAT with comprehensive analysis and past papers",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 

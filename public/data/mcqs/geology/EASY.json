@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T10:59:28.121Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "3cc361409e15d0a3d961dab8fd9760c8b3cb233a",
+      "sectionIndex": 0,
+      "question": "Strike is the:",
+      "options": [
+        "A) Angle of dip",
+        "B) Direction of horizontal line on a bedding plane",
+        "C) Vertical angle",
+        "D) Thickness of bed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcb05bc3fe0671e3d4912c4d496f1cc4eb31ab2d",
+      "sectionIndex": 0,
+      "question": "A normal fault is caused by:",
+      "options": [
+        "A) Compression",
+        "B) Tension",
+        "C) Shear",
+        "D) Rotation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2310fe779a07e2942347a9b7c7b3ea5c17359b6",
+      "sectionIndex": 0,
+      "question": "A graben is:",
+      "options": [
+        "A) Uplifted block",
+        "B) Down-dropped block between two faults",
+        "C) Folded structure",
+        "D) Volcanic feature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b0e3ec592eb353c3e0cffa7951c263d90718a37",
+      "sectionIndex": 0,
+      "question": "An anticline is a fold that:",
+      "options": [
+        "A) Curves downward",
+        "B) Curves upward",
+        "C) Is horizontal",
+        "D) Is vertical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bd09639cfafa98dc388db2edcf641cd573096f6",
+      "sectionIndex": 0,
+      "question": "Strike-slip faults have movement that is:",
+      "options": [
+        "A) Vertical",
+        "B) Horizontal",
+        "C) Diagonal",
+        "D) Rotational"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55b78788c1a3c2e042dbcdbf23a2cc635b4c9a10",
+      "sectionIndex": 0,
+      "question": "The hanging wall is the block:",
+      "options": [
+        "A) Below the fault",
+        "B) Above the fault",
+        "C) To the left",
+        "D) To the right"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "026b7bf42ac3e8b46badc63553fdf80502f26c8a",
+      "sectionIndex": 0,
+      "question": "A syncline is a fold that:",
+      "options": [
+        "A) Curves upward",
+        "B) Curves downward",
+        "C) Is flat",
+        "D) Is vertical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c1ea059211531721af8521a46391621c5099da8",
+      "sectionIndex": 0,
+      "question": "Joints differ from faults in that joints have:",
+      "options": [
+        "A) Movement",
+        "B) No movement",
+        "C) Large displacement",
+        "D) Curved surfaces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95f0f1eb8ee9f81a6d4c41905926df53e487e3ac",
+      "sectionIndex": 0,
+      "question": "The San Andreas Fault is an example of:",
+      "options": [
+        "A) Normal fault",
+        "B) Reverse fault",
+        "C) Strike-slip fault",
+        "D) Thrust fault"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bb632e5a9a8155d09a4f7a74837305d5f68d3338",
+      "sectionIndex": 0,
+      "question": "Unconformities represent:",
+      "options": [
+        "A) Continuous deposition",
+        "B) Gaps in the rock record",
+        "C) Fault surfaces",
+        "D) Fold axes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa6eada9bd26ef3b6a2254b17512275f5273f992",
+      "sectionIndex": 1,
+      "question": "The most abundant mineral group in Earth's crust is:",
+      "options": [
+        "A) Carbonates",
+        "B) Silicates",
+        "C) Oxides",
+        "D) Sulfides"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5970b7837b12321973cc4110ab8fc24245f1be2",
+      "sectionIndex": 1,
+      "question": "Quartz has a hardness of:",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "92a6c91abeeaac7d9469e4ed8051908c239a0c96",
+      "sectionIndex": 1,
+      "question": "Feldspar is composed primarily of:",
+      "options": [
+        "A) Silicon only",
+        "B) Aluminum, silicon, and oxygen",
+        "C) Carbon and calcium",
+        "D) Iron and magnesium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "489a81b7438809ec002d17d08a18f67e0ddcc6d3",
+      "sectionIndex": 1,
+      "question": "Granite is classified as:",
+      "options": [
+        "A) Volcanic rock",
+        "B) Plutonic rock",
+        "C) Sedimentary rock",
+        "D) Metamorphic rock"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "580c56a1a422158970493dc9b47f3b6027b528e8",
+      "sectionIndex": 1,
+      "question": "Basalt is:",
+      "options": [
+        "A) Coarse-grained",
+        "B) Fine-grained",
+        "C) Glassy",
+        "D) Crystalline only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a61e98b0ff5dcaa4e4a591d4d75cb5ba92ef46ca",
+      "sectionIndex": 1,
+      "question": "The rock cycle shows that:",
+      "options": [
+        "A) Rocks don't change",
+        "B) Any rock can become any other rock type",
+        "C) Only igneous rocks change",
+        "D) Only sedimentary rocks change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58c6cc70373f9195b0378c6a7c917dc626963103",
+      "sectionIndex": 1,
+      "question": "Olivine is typically:",
+      "options": [
+        "A) White",
+        "B) Pink",
+        "C) Green",
+        "D) Blue"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e762ae08bc94e9a5f0568cf9133f2636967b4e98",
+      "sectionIndex": 1,
+      "question": "Limestone is primarily composed of:",
+      "options": [
+        "A) Quartz",
+        "B) Calcite",
+        "C) Feldspar",
+        "D) Clay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3611191d72e200d78488ac2df6f13714ec51175c",
+      "sectionIndex": 1,
+      "question": "Obsidian is:",
+      "options": [
+        "A) Crystalline rock",
+        "B) Volcanic glass",
+        "C) Sedimentary rock",
+        "D) Metamorphic rock"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "539f4cf80da6ee35a54b7477516f401e0784f3cf",
+      "sectionIndex": 1,
+      "question": "Cleavage in minerals refers to:",
+      "options": [
+        "A) Color",
+        "B) Tendency to break along planes",
+        "C) Hardness",
+        "D) Crystal shape"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6c5897a5fdb29c31647bac667febdf646f85d9c",
+      "sectionIndex": 2,
+      "question": "The principle of superposition states that:",
+      "options": [
+        "A) Older rocks are on top",
+        "B) Younger rocks are on top",
+        "C) All rocks are the same age",
+        "D) Age cannot be determined"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b09762ae20a8c98c76ad1659b5123a7c944921f",
+      "sectionIndex": 2,
+      "question": "Index fossils are useful because they:",
+      "options": [
+        "A) Are very common",
+        "B) Have short time ranges and wide distribution",
+        "C) Are very rare",
+        "D) Only occur locally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66f750ce6b7ecd1a9b17c1319abe0054382b96a4",
+      "sectionIndex": 2,
+      "question": "The Paleozoic Era is known as the age of:",
+      "options": [
+        "A) Mammals",
+        "B) Dinosaurs",
+        "C) Ancient life",
+        "D) Humans"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9fddeee79593174105c7f12cdf0a5058cc7495a6",
+      "sectionIndex": 2,
+      "question": "Trilobites are important fossils from the:",
+      "options": [
+        "A) Mesozoic",
+        "B) Paleozoic",
+        "C) Cenozoic",
+        "D) Precambrian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88a655e83aa5a69fc99b1ddffc657c97f8be2de9",
+      "sectionIndex": 2,
+      "question": "The geological time scale is divided into:",
+      "options": [
+        "A) Only years",
+        "B) Eras, periods, and epochs",
+        "C) Only centuries",
+        "D) Only millions of years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3e3b5ef4d5c26570fd36cf8b58eb7099fd3dac7",
+      "sectionIndex": 2,
+      "question": "Foraminifera are:",
+      "options": [
+        "A) Plants",
+        "B) Single-celled organisms",
+        "C) Dinosaurs",
+        "D) Corals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "111d3c3cdbe6659cbb7c40cc1a6864b5f00a52f4",
+      "sectionIndex": 2,
+      "question": "The Mesozoic Era is known as the age of:",
+      "options": [
+        "A) Fish",
+        "B) Mammals",
+        "C) Dinosaurs",
+        "D) Humans"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7145d3491c831979b1d23a5a7c88ac4ca166bc26",
+      "sectionIndex": 2,
+      "question": "A formation is:",
+      "options": [
+        "A) Any rock",
+        "B) A mappable rock unit",
+        "C) Only sedimentary rock",
+        "D) Only igneous rock"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3e083c06b27b05805b285ec815b3adaae513b44",
+      "sectionIndex": 2,
+      "question": "Biostratigraphy uses:",
+      "options": [
+        "A) Rock types",
+        "B) Fossils",
+        "C) Minerals",
+        "D) Structures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecd99d18e2786e142f5b49d4aa55dedf1703265f",
+      "sectionIndex": 2,
+      "question": "The Cenozoic Era is known as the age of:",
+      "options": [
+        "A) Fish",
+        "B) Reptiles",
+        "C) Mammals",
+        "D) Trilobites"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7247566f0dbe149a0140184fe0646a8433dc1c95",
+      "sectionIndex": 3,
+      "question": "Coal is formed from:",
+      "options": [
+        "A) Marine organisms",
+        "B) Plant material",
+        "C) Volcanic ash",
+        "D) Sand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "764c6fba4977d8b6fa6547e389da2f912823f5a1",
+      "sectionIndex": 3,
+      "question": "Petroleum is typically found in:",
+      "options": [
+        "A) Igneous rocks",
+        "B) Metamorphic rocks",
+        "C) Sedimentary rocks",
+        "D) All rock types"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1289049f1bd1974202a5bd90389105d1073f45e9",
+      "sectionIndex": 3,
+      "question": "The Thar coal field is located in:",
+      "options": [
+        "A) Punjab",
+        "B) Sindh",
+        "C) KPK",
+        "D) Balochistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef84c715f11cc73872e568f1fd5e3fe3b2828994",
+      "sectionIndex": 3,
+      "question": "Chromite in Pakistan is mainly found in:",
+      "options": [
+        "A) Sindh",
+        "B) Punjab",
+        "C) Balochistan",
+        "D) Gilgit"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a77e61004ccee835457d56186dbdce72e422517d",
+      "sectionIndex": 3,
+      "question": "Gold is often associated with:",
+      "options": [
+        "A) Limestone",
+        "B) Quartz veins",
+        "C) Shale",
+        "D) Basalt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d569483dc2c01fb4b7af9fec973e05354888a1d",
+      "sectionIndex": 3,
+      "question": "Salt Range is famous for:",
+      "options": [
+        "A) Gold",
+        "B) Rock salt",
+        "C) Diamond",
+        "D) Silver"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07af0c5302adae7b462cb722349b0f2b99628d57",
+      "sectionIndex": 3,
+      "question": "A reservoir rock must have:",
+      "options": [
+        "A) Low porosity",
+        "B) High porosity and permeability",
+        "C) No pores",
+        "D) Only fractures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec34632163ec02c8be31a9230409eb8f35a6c7ce",
+      "sectionIndex": 3,
+      "question": "Source rocks for hydrocarbons are typically:",
+      "options": [
+        "A) Sandstone",
+        "B) Organic-rich shale",
+        "C) Granite",
+        "D) Quartzite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95898d82d3d1781afc2cbc59d4aa447d0554ff45",
+      "sectionIndex": 3,
+      "question": "Gemstones in Pakistan include:",
+      "options": [
+        "A) Diamond only",
+        "B) Emerald, ruby, and topaz",
+        "C) Only quartz",
+        "D) Only garnet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6327aaf7448768ac337fff5f6be09c9d6e59df4d",
+      "sectionIndex": 3,
+      "question": "Copper deposits are often associated with:",
+      "options": [
+        "A) Sedimentary rocks only",
+        "B) Porphyry systems",
+        "C) Metamorphic rocks only",
+        "D) Surface deposits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef941d70ecae3a4bd7cd584f2bad40e634880577",
+      "sectionIndex": 4,
+      "question": "Seismic waves include:",
+      "options": [
+        "A) Only P-waves",
+        "B) P-waves and S-waves",
+        "C) Only surface waves",
+        "D) Only sound waves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f7ea5d97147ada619b8613aa0b392de0bfdbbd8",
+      "sectionIndex": 4,
+      "question": "P-waves are:",
+      "options": [
+        "A) Shear waves",
+        "B) Compressional waves",
+        "C) Surface waves",
+        "D) Love waves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d99216fa0bf60c18041c3161d6b986becf117a2",
+      "sectionIndex": 4,
+      "question": "S-waves cannot travel through:",
+      "options": [
+        "A) Solids",
+        "B) Liquids",
+        "C) Gases",
+        "D) Crust"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81fbd0ff0a0f37e2d76e04156dacba486181a180",
+      "sectionIndex": 4,
+      "question": "The Richter scale measures:",
+      "options": [
+        "A) Earthquake depth",
+        "B) Earthquake magnitude",
+        "C) Earthquake duration",
+        "D) Damage only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d8ede05034b8da33818de7000ad83b72c9c2613",
+      "sectionIndex": 4,
+      "question": "Gravity surveys detect:",
+      "options": [
+        "A) Temperature",
+        "B) Density variations",
+        "C) Color",
+        "D) Age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4828a7fa898c88dc44b7cb9a3730148d0f84f85c",
+      "sectionIndex": 4,
+      "question": "Magnetic surveys are useful for finding:",
+      "options": [
+        "A) Water only",
+        "B) Iron-bearing minerals",
+        "C) Gold only",
+        "D) Oil only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5efb471cf412cd744796aebb504f101bf65f9b10",
+      "sectionIndex": 4,
+      "question": "Resistivity surveys measure:",
+      "options": [
+        "A) Temperature",
+        "B) Electrical resistance",
+        "C) Magnetism",
+        "D) Gravity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3436f273f8e5a2915a65a8df44d35a8da5b9d52a",
+      "sectionIndex": 4,
+      "question": "Well logs are used to:",
+      "options": [
+        "A) Measure tree rings",
+        "B) Evaluate subsurface formations",
+        "C) Record earthquakes",
+        "D) Measure rainfall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "893fb8e18a582bc6f801a7f61924f23e2b688aca",
+      "sectionIndex": 4,
+      "question": "The epicenter is:",
+      "options": [
+        "A) Below the surface",
+        "B) Surface point above the focus",
+        "C) Deepest point",
+        "D) Fault plane"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9979f0b312084054d513211480d22dd1460610b9",
+      "sectionIndex": 4,
+      "question": "Drilling mud is used to:",
+      "options": [
+        "A) Make mess",
+        "B) Cool bit and remove cuttings",
+        "C) Add weight only",
+        "D) Measure depth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58f3763e23b7f9a150f23924d3a93e1829fd456d",
+      "sectionIndex": 5,
+      "question": "Landslides are commonly triggered by:",
+      "options": [
+        "A) Dry conditions",
+        "B) Heavy rainfall",
+        "C) Cold weather",
+        "D) Wind"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dd58736373c30c5e87a7b4349057d34e1b2db1a",
+      "sectionIndex": 5,
+      "question": "An aquifer is:",
+      "options": [
+        "A) Impermeable rock",
+        "B) Water-bearing rock formation",
+        "C) Dry rock",
+        "D) Surface water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee89be14a77c3536905e1592f124afd8077648cb",
+      "sectionIndex": 5,
+      "question": "Porosity refers to:",
+      "options": [
+        "A) Rock strength",
+        "B) Void space in rock",
+        "C) Rock color",
+        "D) Rock age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3f597eeeb135438a4954e554d8e0162b412d9fb",
+      "sectionIndex": 5,
+      "question": "Permeability is:",
+      "options": [
+        "A) Total pore space",
+        "B) Ability to transmit fluids",
+        "C) Rock hardness",
+        "D) Rock density"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1e80a38b227efcfcc569869aaad5556e6111ee8",
+      "sectionIndex": 5,
+      "question": "Confined aquifers are:",
+      "options": [
+        "A) Open to surface",
+        "B) Bounded by impermeable layers",
+        "C) Always dry",
+        "D) Only in mountains"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3af57b9cf722a6a4d0df32210b675ac0c671f94e",
+      "sectionIndex": 5,
+      "question": "Dam sites require rocks that are:",
+      "options": [
+        "A) Soft and porous",
+        "B) Strong and impermeable",
+        "C) Weathered",
+        "D) Fractured"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e216e3e3b96175131666c9fb9ba2d7531e44af67",
+      "sectionIndex": 5,
+      "question": "The water table is:",
+      "options": [
+        "A) Furniture",
+        "B) Top of saturated zone",
+        "C) Bottom of aquifer",
+        "D) Surface water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95a2b7f23ec92c4b2b308b0ee8d86e378b4df2df",
+      "sectionIndex": 5,
+      "question": "Soil erosion is accelerated by:",
+      "options": [
+        "A) Vegetation",
+        "B) Deforestation",
+        "C) Rock cover",
+        "D) Cold climate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a81a78c942fc917c8028617674312351df6a429d",
+      "sectionIndex": 5,
+      "question": "Mangla Dam is built on:",
+      "options": [
+        "A) Indus River",
+        "B) Jhelum River",
+        "C) Chenab River",
+        "D) Ravi River"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7796ab57f1de9ca68fd29a627f03b0ab0b33613b",
+      "sectionIndex": 5,
+      "question": "Tarbela Dam is built on:",
+      "options": [
+        "A) Jhelum River",
+        "B) Indus River",
+        "C) Chenab River",
+        "D) Sutlej River"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27df1e86f50aa1b6b895c69db0fdce16875baa75",
+      "sectionIndex": 6,
+      "question": "The Salt Range is located in:",
+      "options": [
+        "A) Sindh",
+        "B) Punjab",
+        "C) KPK",
+        "D) Balochistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "810b8a37c22136c2a9f1694f8513549e6b990f3d",
+      "sectionIndex": 6,
+      "question": "The Himalayas were formed by collision of:",
+      "options": [
+        "A) African and Eurasian plates",
+        "B) Indian and Eurasian plates",
+        "C) Pacific and Indian plates",
+        "D) Australian and Indian plates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ba8b3ca23efb8fe2a87916bb2c0afa5703fcc0c",
+      "sectionIndex": 6,
+      "question": "The Chaman Fault is a:",
+      "options": [
+        "A) Normal fault",
+        "B) Transform fault",
+        "C) Reverse fault",
+        "D) Thrust fault"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2320f91fa59e9c330e4b19e88df5660ceed229a",
+      "sectionIndex": 6,
+      "question": "The Indus Basin contains mainly:",
+      "options": [
+        "A) Igneous rocks",
+        "B) Sedimentary rocks",
+        "C) Metamorphic rocks",
+        "D) Volcanic rocks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75a17c3c08c0440c60b32f334de5fffa4244e6f5",
+      "sectionIndex": 6,
+      "question": "Balochistan contains significant deposits of:",
+      "options": [
+        "A) Diamond",
+        "B) Chromite and copper",
+        "C) Gold only",
+        "D) Silver only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5737dd9ee43f2af77fbfcc9d88379b936afc4cb",
+      "sectionIndex": 6,
+      "question": "The Main Mantle Thrust is located in:",
+      "options": [
+        "A) Southern Pakistan",
+        "B) Northern Pakistan",
+        "C) Eastern Pakistan",
+        "D) Western Pakistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c373366a6a9abd652a8e5e08b8e6c9b4152ec08",
+      "sectionIndex": 6,
+      "question": "Khewra mines produce:",
+      "options": [
+        "A) Coal",
+        "B) Rock salt",
+        "C) Gold",
+        "D) Copper"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f1d186fc7533d6e6a48c3ca5f2d623ee5f7ce07",
+      "sectionIndex": 6,
+      "question": "The Potwar Plateau is known for:",
+      "options": [
+        "A) Coal",
+        "B) Oil and gas",
+        "C) Gold",
+        "D) Diamonds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c250d1e69537381f00de071a7c4357aca407cba",
+      "sectionIndex": 6,
+      "question": "Reko Diq contains deposits of:",
+      "options": [
+        "A) Coal",
+        "B) Copper and gold",
+        "C) Salt",
+        "D) Limestone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b30ec5f2a9195919cdb00efe97643a7172421f6",
+      "sectionIndex": 6,
+      "question": "The Makran coast is characterized by:",
+      "options": [
+        "A) Coral reefs",
+        "B) Mud volcanoes",
+        "C) Granite cliffs",
+        "D) Sand dunes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3dcd1c32bc20f9e356d3b01c3d33b241390146b7",
+      "sectionIndex": 7,
+      "question": "Clastic sediments are:",
+      "options": [
+        "A) Chemical precipitates",
+        "B) Fragments of pre-existing rocks",
+        "C) Organic remains",
+        "D) Volcanic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acb8fb35dbeb85f2fc9625af00419121bad50e45",
+      "sectionIndex": 7,
+      "question": "Cross-bedding indicates:",
+      "options": [
+        "A) Still water",
+        "B) Current flow",
+        "C) Deep ocean",
+        "D) Glacial environment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31097c89351dfeb0718d1400e66bf45996bab03d",
+      "sectionIndex": 7,
+      "question": "Sandstone is composed mainly of:",
+      "options": [
+        "A) Clay",
+        "B) Quartz grains",
+        "C) Calcite",
+        "D) Feldspar only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fbd8bf6fbe2fe9ed3db7b8e6c42655adbcfc480",
+      "sectionIndex": 7,
+      "question": "Mudstone forms in:",
+      "options": [
+        "A) High energy environment",
+        "B) Low energy environment",
+        "C) Glacial environment",
+        "D) Desert only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71edaba9c39f7c1a5ead50122993ff4b8b7747ef",
+      "sectionIndex": 7,
+      "question": "Conglomerate contains:",
+      "options": [
+        "A) Only sand",
+        "B) Rounded pebbles",
+        "C) Only clay",
+        "D) Only silt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dc3c178543bdeb123a8ed756cba23da04d83253",
+      "sectionIndex": 7,
+      "question": "Evaporites form from:",
+      "options": [
+        "A) River deposits",
+        "B) Evaporation of water",
+        "C) Glacial action",
+        "D) Wind only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edf78cd6b9049a64e0fe2e05908b39370e7ef42d",
+      "sectionIndex": 7,
+      "question": "Turbidites are deposited by:",
+      "options": [
+        "A) Wind",
+        "B) Turbidity currents",
+        "C) Glaciers",
+        "D) Rivers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bb6816340cadd8ff8311bfbcad33470b76a667c",
+      "sectionIndex": 7,
+      "question": "Ripple marks indicate:",
+      "options": [
+        "A) Still water",
+        "B) Moving water or wind",
+        "C) Deep ocean",
+        "D) Glacial action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d898fd14d54d0984d4d8708bdb8a071a7c8234f2",
+      "sectionIndex": 7,
+      "question": "Graded bedding shows:",
+      "options": [
+        "A) Uniform grain size",
+        "B) Fining upward sequence",
+        "C) Random distribution",
+        "D) No pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44022a38c78f7563169f3d5cee3bdc73939fee89",
+      "sectionIndex": 7,
+      "question": "Delta deposits form where:",
+      "options": [
+        "A) Rivers meet ocean",
+        "B) In deep ocean",
+        "C) In deserts",
+        "D) In glaciers"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5e3e53f66da1db7a21f2c189f0e2cc424c9d79be",
+      "sectionIndex": 8,
+      "question": "Metamorphism means:",
+      "options": [
+        "A) Melting",
+        "B) Change in form",
+        "C) Erosion",
+        "D) Deposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "808cd1c82b989e8d852388572ef4f1a70843f262",
+      "sectionIndex": 8,
+      "question": "Contact metamorphism is caused by:",
+      "options": [
+        "A) Pressure only",
+        "B) Heat from intrusions",
+        "C) Water only",
+        "D) Wind"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d30ee3b0f87521b5f1d9d2f124628de8a1d725e",
+      "sectionIndex": 8,
+      "question": "Regional metamorphism is caused by:",
+      "options": [
+        "A) Local heating",
+        "B) Pressure and heat over large areas",
+        "C) Surface weathering",
+        "D) Erosion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9ccf6b8b136d6d510867dd1c38ae4448aa81b30",
+      "sectionIndex": 8,
+      "question": "Slate is formed from:",
+      "options": [
+        "A) Sandstone",
+        "B) Shale",
+        "C) Limestone",
+        "D) Granite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93e1a605dda8c6241db21016ac3f61f383d71f3c",
+      "sectionIndex": 8,
+      "question": "Marble is formed from:",
+      "options": [
+        "A) Sandstone",
+        "B) Limestone",
+        "C) Shale",
+        "D) Basalt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e78da5542f1c01d005901d5f4da297bd3f7434b",
+      "sectionIndex": 8,
+      "question": "Quartzite is formed from:",
+      "options": [
+        "A) Limestone",
+        "B) Sandstone",
+        "C) Shale",
+        "D) Granite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d48525659b7e673d508f79aec14153e631c043c",
+      "sectionIndex": 8,
+      "question": "Foliation in metamorphic rocks refers to:",
+      "options": [
+        "A) Color",
+        "B) Layered or banded appearance",
+        "C) Crystal size",
+        "D) Hardness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5ce80f91caa500b3e94093273b05d0d334ae623",
+      "sectionIndex": 8,
+      "question": "Gneiss shows:",
+      "options": [
+        "A) No structure",
+        "B) Banded structure",
+        "C) Glassy texture",
+        "D) Vesicular texture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53717e5045f26b93f509e38d427333e70b6ae1e9",
+      "sectionIndex": 8,
+      "question": "Phyllite has:",
+      "options": [
+        "A) Dull surface",
+        "B) Shiny surface",
+        "C) No cleavage",
+        "D) Large crystals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5234964d9d7964d6b89f674a229eaab310e9fad4",
+      "sectionIndex": 8,
+      "question": "Metamorphic grade refers to:",
+      "options": [
+        "A) Quality",
+        "B) Intensity of metamorphism",
+        "C) Age",
+        "D) Location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43e5de0f6621ccd6265b13251bd5ea0fbd452638",
+      "sectionIndex": 9,
+      "question": "Groundwater flows:",
+      "options": [
+        "A) Only upward",
+        "B) From high to low hydraulic head",
+        "C) Only horizontally",
+        "D) Only downward"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc9aad1bb975314b161f1dda5b00d4904db5ff32",
+      "sectionIndex": 9,
+      "question": "Artesian wells occur when:",
+      "options": [
+        "A) Water table is high",
+        "B) Confined aquifer is under pressure",
+        "C) Rainfall is heavy",
+        "D) Rivers are nearby"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f94301719c3808081ec6cf0078b912bbb10c867f",
+      "sectionIndex": 9,
+      "question": "Hard water contains high amounts of:",
+      "options": [
+        "A) Sodium",
+        "B) Calcium and magnesium",
+        "C) Iron only",
+        "D) Chlorine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ee2b4f3b5381c3115190bb42676d14f5ab2a31c",
+      "sectionIndex": 9,
+      "question": "Geothermal energy comes from:",
+      "options": [
+        "A) Sun",
+        "B) Earth's internal heat",
+        "C) Wind",
+        "D) Tides"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34ba60a6c211fd24f47689d8fbb23c06752f8003",
+      "sectionIndex": 9,
+      "question": "Slope stability is affected by:",
+      "options": [
+        "A) Color of rock",
+        "B) Water content and angle",
+        "C) Temperature only",
+        "D) Age only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0febeb72be0e96254ad743fa4120d92fa40c47b4",
+      "sectionIndex": 9,
+      "question": "The best foundation rock is:",
+      "options": [
+        "A) Clay",
+        "B) Solid bedrock",
+        "C) Sand",
+        "D) Soil"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb91a395bc4c038e3cb6b2db981254cefedc1d19",
+      "sectionIndex": 9,
+      "question": "Tunnels should avoid:",
+      "options": [
+        "A) Hard rock",
+        "B) Fault zones",
+        "C) Dry areas",
+        "D) Stable rock"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c7c24911f91b1adba0ac4adcdad2fd5ee50ffe2",
+      "sectionIndex": 9,
+      "question": "Acid mine drainage is caused by:",
+      "options": [
+        "A) Pure water",
+        "B) Oxidation of sulfide minerals",
+        "C) Limestone",
+        "D) Salt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "757d683699096bde537f15014c807e1b538aacfb",
+      "sectionIndex": 9,
+      "question": "Remote sensing uses:",
+      "options": [
+        "A) Touch only",
+        "B) Satellite and aerial imagery",
+        "C) Ground surveys only",
+        "D) Drilling only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9216a241da8b31866488aae613d1e3866852a240",
+      "sectionIndex": 9,
+      "question": "GIS stands for:",
+      "options": [
+        "A) Geological Investigation System",
+        "B) Geographic Information System",
+        "C) General Information Service",
+        "D) Geological Indexing System"
+      ],
+      "correct": "B"
+    }
+  ]
+}

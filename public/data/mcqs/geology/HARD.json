@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:00:11.115Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "bb30757b46ab861bcfcbbb5626cce08644eebb5e",
+      "sectionIndex": 0,
+      "question": "The development of thrust systems in the Himalayas demonstrates principles of:",
+      "options": [
+        "A) Simple compression",
+        "B) Critical wedge theory and duplex formation",
+        "C) Extensional tectonics",
+        "D) Strike-slip deformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a51a24bdeb3863bc866d5a1934bbc78b7abaf93d",
+      "sectionIndex": 0,
+      "question": "Transpressional tectonics in the Chaman Fault system results in:",
+      "options": [
+        "A) Simple strike-slip motion",
+        "B) Positive flower structures and restraining bends",
+        "C) Normal faulting only",
+        "D) Uniform slip distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0580593ad24072e7d6fdecdffc9cc846c93f3ab",
+      "sectionIndex": 0,
+      "question": "The concept of strain partitioning in oblique convergence explains:",
+      "options": [
+        "A) Uniform deformation",
+        "B) Separation into thrust and strike-slip components",
+        "C) Random fault patterns",
+        "D) Surface effects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53693dbb0fbe16e3e13caefc56ea0d516bc48191",
+      "sectionIndex": 0,
+      "question": "Fault rock evolution from cataclasite to mylonite indicates:",
+      "options": [
+        "A) Decreasing strain",
+        "B) Increasing depth and temperature conditions",
+        "C) Surface processes",
+        "D) No systematic change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "516d176cc51a21a88423c93669451a0f04c9d36a",
+      "sectionIndex": 0,
+      "question": "The relationship between paleostress analysis and fault kinematics requires:",
+      "options": [
+        "A) Simple measurements",
+        "B) Integration of fault slip data and mechanical constraints",
+        "C) Age dating only",
+        "D) Surface mapping only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1bc3692eca927dd7f602101cb925a50a095538f",
+      "sectionIndex": 0,
+      "question": "Progressive deformation in fold-thrust belts shows:",
+      "options": [
+        "A) Instantaneous deformation",
+        "B) Piggyback sequence and syntectonic sedimentation",
+        "C) Random thrust development",
+        "D) No systematic pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58102e0b9d72d00f3cf649924f0194e37e74e1f9",
+      "sectionIndex": 0,
+      "question": "The mechanics of fault reactivation involve:",
+      "options": [
+        "A) New stress fields only",
+        "B) Critically oriented pre-existing weaknesses",
+        "C) Random occurrence",
+        "D) Surface processes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6984901e46dd4e1b605eb4ba50a01a5b3073c29",
+      "sectionIndex": 0,
+      "question": "Sheath fold development in high-strain zones indicates:",
+      "options": [
+        "A) Low strain",
+        "B) Extreme non-coaxial deformation",
+        "C) Brittle deformation",
+        "D) Surface folding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "980ee369b3e858b0f2074f887c5e2adcd45eafe5",
+      "sectionIndex": 0,
+      "question": "The relationship between seismicity and active faulting requires understanding of:",
+      "options": [
+        "A) Historical records only",
+        "B) Fault segmentation and rupture dynamics",
+        "C) Surface morphology only",
+        "D) Rock types only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57ec9052b2f6868c0563e2dae355fa7d7002bc8e",
+      "sectionIndex": 0,
+      "question": "Balanced cross-section construction constraints include:",
+      "options": [
+        "A) Artistic interpretation",
+        "B) Line length, area balance, and viable kinematics",
+        "C) Vertical exaggeration",
+        "D) Color coding only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d804acd26cc14904259a2da43ed7f05d77b1fef",
+      "sectionIndex": 1,
+      "question": "The petrogenesis of adakites involves:",
+      "options": [
+        "A) Normal arc magmatism",
+        "B) Slab melting in specific P-T conditions",
+        "C) Continental rifting",
+        "D) Impact melting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eee97daf67bfb71fc3e4d89b6e64ddaf7586e8da",
+      "sectionIndex": 1,
+      "question": "Symplectite textures in high-grade metamorphic rocks indicate:",
+      "options": [
+        "A) Primary crystallization",
+        "B) Reaction relationships and decompression",
+        "C) Simple cooling",
+        "D) Weathering effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "188b4b1138c26ea37be222f0d0a9869842c165de",
+      "sectionIndex": 1,
+      "question": "The role of volatiles in lowering solidus temperatures explains:",
+      "options": [
+        "A) Dry melting only",
+        "B) Flux melting in subduction zones",
+        "C) Crystal settling",
+        "D) Surface weathering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54894fa39c62cc65f5f59d17a71edec886c2d322",
+      "sectionIndex": 1,
+      "question": "Oscillatory zoning in plagioclase reflects:",
+      "options": [
+        "A) Post-crystallization alteration",
+        "B) Magma chamber dynamics and recharge",
+        "C) Simple cooling",
+        "D) Metamorphic growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6fd7c3658a24b571b1d08c6cce162b6b4309ff3",
+      "sectionIndex": 1,
+      "question": "The aluminum saturation index (ASI) in granites indicates:",
+      "options": [
+        "A) Color variations",
+        "B) Source characteristics and melting conditions",
+        "C) Age relationships",
+        "D) Geographic location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f07aad303f5e666e01aa4f9c5342af24e3846401",
+      "sectionIndex": 1,
+      "question": "Pseudosection modeling in metamorphic petrology provides:",
+      "options": [
+        "A) Sample locations",
+        "B) P-T evolution paths and phase equilibria",
+        "C) Age constraints only",
+        "D) Chemical analyses only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d81efbad06153d37558aec943db0a7278ab78637",
+      "sectionIndex": 1,
+      "question": "The concept of magma mixing versus mingling is distinguished by:",
+      "options": [
+        "A) Temperature only",
+        "B) Degree of chemical homogenization",
+        "C) Depth of occurrence",
+        "D) Time involved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a853c4d3df9030e4cdbcc2042b91d908e104d6b",
+      "sectionIndex": 1,
+      "question": "Corona textures in metamorphic rocks represent:",
+      "options": [
+        "A) Primary features",
+        "B) Disequilibrium reaction boundaries",
+        "C) Weathering rinds",
+        "D) Fluid inclusions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a558b24f684914690b036e555afca5e46e7bd1c9",
+      "sectionIndex": 1,
+      "question": "The transition from blueschist to eclogite facies involves:",
+      "options": [
+        "A) Temperature increase only",
+        "B) Complex dehydration reactions",
+        "C) Pressure decrease",
+        "D) No mineralogical change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43e5dc22a0a27feadc35db755d3eda40db8e6957",
+      "sectionIndex": 1,
+      "question": "Melt extraction mechanisms in migmatites include:",
+      "options": [
+        "A) Surface erosion",
+        "B) Deformation-enhanced segregation",
+        "C) Weathering",
+        "D) Sedimentation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d5dec707deef4549da86ef80da51c4a2164e1ac",
+      "sectionIndex": 2,
+      "question": "Sequence stratigraphic analysis of mixed carbonate-siliciclastic systems requires:",
+      "options": [
+        "A) Simple facies mapping",
+        "B) Understanding of reciprocal sedimentation",
+        "C) Age dating only",
+        "D) Structural analysis only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e74b34e616d17f31f5a1cb0dd261bfdbf3a92574",
+      "sectionIndex": 2,
+      "question": "The concept of stratigraphic completeness relates to:",
+      "options": [
+        "A) Thickness measurements",
+        "B) Sedimentation rate versus hiatus duration",
+        "C) Fossil content",
+        "D) Rock color"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7a478177ed83c6998f3c99b7f3e241a4dae8d8e",
+      "sectionIndex": 2,
+      "question": "Cyclostratigraphy applications in deep time involve:",
+      "options": [
+        "A) Random patterns",
+        "B) Milankovitch forcing and astronomical calibration",
+        "C) Tectonic cycles only",
+        "D) Biological cycles only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91e669c6ccd749d98eedb52b50015236ffc7e5ba",
+      "sectionIndex": 2,
+      "question": "Biostratigraphic resolution limits are controlled by:",
+      "options": [
+        "A) Fossil size",
+        "B) Evolutionary rates and preservation potential",
+        "C) Rock type only",
+        "D) Geographic location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "921737bf54b627f262dcbce3a337b1fa7380ddaf",
+      "sectionIndex": 2,
+      "question": "The integration of chemostratigraphy with biostratigraphy provides:",
+      "options": [
+        "A) Age only",
+        "B) High-resolution correlation and environmental proxies",
+        "C) Fossil identification",
+        "D) Rock composition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d522d532b4651ae1023bf7c66da41c328a639b7",
+      "sectionIndex": 2,
+      "question": "Taphonomic biases in the fossil record affect:",
+      "options": [
+        "A) All organisms equally",
+        "B) Paleoecological interpretations and diversity estimates",
+        "C) Preservation quality only",
+        "D) Discovery probability only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7e38345f5ccadf07cf19a62f3130c3df6869a70",
+      "sectionIndex": 2,
+      "question": "Event stratigraphy concepts integrate:",
+      "options": [
+        "A) Normal sedimentation only",
+        "B) Catastrophic events as correlation tools",
+        "C) Gradual changes only",
+        "D) Local variations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41b1add49d25392839eb6a452a19d6ed37082f55",
+      "sectionIndex": 2,
+      "question": "The problem of time-averaging in paleontological samples affects:",
+      "options": [
+        "A) Sample size only",
+        "B) Paleoecological and evolutionary interpretations",
+        "C) Preservation only",
+        "D) Collection methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca58826d3f95a9bfb69ccf90786313fec766b6bd",
+      "sectionIndex": 2,
+      "question": "Graphic correlation methods in biostratigraphy optimize:",
+      "options": [
+        "A) Visual display",
+        "B) Composite range charts and correlation",
+        "C) Sample collection",
+        "D) Fossil preparation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf607e029b463af6329ae7cfbb737d2da05ccb2e",
+      "sectionIndex": 2,
+      "question": "The relationship between eustasy and local tectonics requires:",
+      "options": [
+        "A) Global correlations only",
+        "B) Backstripping and subsidence analysis",
+        "C) Sea level curves only",
+        "D) Fossil evidence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5e2115b8d3d8b15ca781aaa98cc855a1882a525",
+      "sectionIndex": 3,
+      "question": "The P-T-X conditions for porphyry copper formation involve:",
+      "options": [
+        "A) Surface conditions",
+        "B) Specific volatile saturation and fluid exsolution",
+        "C) Deep mantle conditions",
+        "D) Sedimentary processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46d4e02a080b5ea2ab610d285378a67722311b55",
+      "sectionIndex": 3,
+      "question": "Critical metals in modern technology require understanding of:",
+      "options": [
+        "A) Traditional ore deposits only",
+        "B) Unconventional sources and extraction methods",
+        "C) Historical mining only",
+        "D) Simple beneficiation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f224729fd4efbebbcdf45d72378081f8640c46a2",
+      "sectionIndex": 3,
+      "question": "The role of organic matter maturation in MVT deposits involves:",
+      "options": [
+        "A) Direct metal source",
+        "B) Sulfate reduction and metal complexation",
+        "C) No relationship",
+        "D) Temperature indicator only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63696cd824ef86645b966f56d7e0941a7c09d1d8",
+      "sectionIndex": 3,
+      "question": "Supergenetic enrichment processes in ore deposits create:",
+      "options": [
+        "A) Primary mineralization",
+        "B) Economic concentration through weathering",
+        "C) Dispersion only",
+        "D) No change in grade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be91af5a78600ecaf7aca03d8c2640038c5bd8df",
+      "sectionIndex": 3,
+      "question": "The application of mineral systems analysis integrates:",
+      "options": [
+        "A) Ore mineralogy only",
+        "B) Source-pathway-trap concepts across scales",
+        "C) Mining methods",
+        "D) Economic factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3fb32505dc8aca5023e6408da0093d3687f9039",
+      "sectionIndex": 3,
+      "question": "REE deposit formation mechanisms include:",
+      "options": [
+        "A) Simple igneous crystallization",
+        "B) Carbonatite magmatism and ion adsorption",
+        "C) Placer concentration only",
+        "D) Metamorphic concentration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3910ce67e94d3012dcfa574b7140e00f6f5115ee",
+      "sectionIndex": 3,
+      "question": "The relationship between petroleum systems and basin evolution requires:",
+      "options": [
+        "A) Temperature history only",
+        "B) Integrated burial, thermal, and structural history",
+        "C) Source rock presence only",
+        "D) Current structure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08068120861531215cb507ba4528f387c431521d",
+      "sectionIndex": 3,
+      "question": "Unconventional hydrocarbon resources challenge traditional concepts through:",
+      "options": [
+        "A) Location only",
+        "B) Self-sourced systems and nanoscale porosity",
+        "C) Depth of occurrence",
+        "D) Age differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e73d7189fd47197f47388e12f1da95d4787b65f",
+      "sectionIndex": 3,
+      "question": "The economics of ore deposits must consider:",
+      "options": [
+        "A) Grade only",
+        "B) Geometallurgy and social license",
+        "C) Location only",
+        "D) Historical prices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "937d621f7089dbcb606265b4260e342f86d6a4d3",
+      "sectionIndex": 3,
+      "question": "Carbon sequestration in geological formations requires:",
+      "options": [
+        "A) Depth only",
+        "B) Seal integrity and geochemical trapping",
+        "C) Temperature only",
+        "D) Pressure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b414864194ed602dd32874a49a3e7c34f8169bd0",
+      "sectionIndex": 4,
+      "question": "Full waveform inversion in seismic processing provides:",
+      "options": [
+        "A) Simple velocity models",
+        "B) High-resolution subsurface property estimation",
+        "C) Surface information only",
+        "D) Amplitude information only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ced2cb473861a6b96f653ec1813abb1befe838af",
+      "sectionIndex": 4,
+      "question": "Magnetotelluric depth penetration versus resolution trade-offs involve:",
+      "options": [
+        "A) Equipment limitations only",
+        "B) Skin depth and frequency-dependent sampling",
+        "C) Processing time only",
+        "D) Data storage only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91cd15daa1b58b1e9afc02415da8e3990b51a562",
+      "sectionIndex": 4,
+      "question": "Joint inversion of geophysical datasets addresses:",
+      "options": [
+        "A) Data redundancy",
+        "B) Non-uniqueness through complementary sensitivities",
+        "C) Cost reduction only",
+        "D) Time savings only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd8565c7a94e9b1cfd25a29207219c2941cf7155",
+      "sectionIndex": 4,
+      "question": "AVO analysis in hydrocarbon exploration exploits:",
+      "options": [
+        "A) Amplitude variations only",
+        "B) Poisson's ratio contrasts and fluid effects",
+        "C) Offset distances only",
+        "D) Frequency content only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97371821afa7ece9509455a8c7a5ced1d977f557",
+      "sectionIndex": 4,
+      "question": "Time-lapse geophysical monitoring applications require:",
+      "options": [
+        "A) Repeated measurements only",
+        "B) Understanding of repeatability and change detection",
+        "C) Better equipment",
+        "D) More personnel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e13231c8dcace0344b58a99e2708dcd4a9bad20",
+      "sectionIndex": 4,
+      "question": "The resolution of potential field data is fundamentally limited by:",
+      "options": [
+        "A) Instrument precision",
+        "B) Upward continuation and source depth",
+        "C) Processing software",
+        "D) Operator skill"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a0128a76f943b9d8b3d91d11802d96039253ed1",
+      "sectionIndex": 4,
+      "question": "Passive seismic methods for exploration utilize:",
+      "options": [
+        "A) Artificial sources only",
+        "B) Natural and cultural noise for subsurface imaging",
+        "C) Earthquake data only",
+        "D) Surface waves only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f219328ccc29a404778499ed62d33d8dbb3218e8",
+      "sectionIndex": 4,
+      "question": "Machine learning applications in geophysical interpretation address:",
+      "options": [
+        "A) Automation only",
+        "B) Pattern recognition in high-dimensional data",
+        "C) Cost reduction only",
+        "D) Speed improvement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cfa37b432f6f3aa01a7668793f31949590666e5",
+      "sectionIndex": 4,
+      "question": "Anisotropy in geophysical properties affects:",
+      "options": [
+        "A) Isotropic media only",
+        "B) Survey design and interpretation strategies",
+        "C) Equipment calibration only",
+        "D) Data storage only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "189c7e3a067fa20a0cb37e4ad29072714822da5d",
+      "sectionIndex": 4,
+      "question": "Uncertainty quantification in geophysical inversion requires:",
+      "options": [
+        "A) Error bars only",
+        "B) Bayesian frameworks and ensemble methods",
+        "C) Repeated measurements",
+        "D) Statistical averages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72a88450a34d8851599ee684f8304ab4e86539c9",
+      "sectionIndex": 5,
+      "question": "Coupled hydro-mechanical processes in fractured rock masses involve:",
+      "options": [
+        "A) Independent systems",
+        "B) Stress-dependent permeability and fluid pressure effects",
+        "C) Surface water only",
+        "D) Temperature effects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "453ad83383abfc58cac2fbc4427b48df05903642",
+      "sectionIndex": 5,
+      "question": "Probabilistic seismic hazard assessment integrates:",
+      "options": [
+        "A) Deterministic scenarios only",
+        "B) Source characterization and ground motion prediction",
+        "C) Historical records only",
+        "D) Maximum credible events only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "620fb40761ac31e1b4a87a1ebbc5e1da483eba26",
+      "sectionIndex": 5,
+      "question": "The concept of geological barriers for nuclear waste disposal requires:",
+      "options": [
+        "A) Depth only",
+        "B) Multiple barrier system and long-term stability",
+        "C) Hard rock only",
+        "D) Dry conditions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "298a6e52c2586481d8dff9e8b3469933ab117700",
+      "sectionIndex": 5,
+      "question": "Thermo-hydro-mechanical-chemical (THMC) coupling affects:",
+      "options": [
+        "A) Temperature only",
+        "B) Repository evolution and contaminant transport",
+        "C) Mechanical properties only",
+        "D) Chemical reactions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3842cb517730cb275cb63f69c9634522fcd7c1f3",
+      "sectionIndex": 5,
+      "question": "Advanced slope stability analysis incorporates:",
+      "options": [
+        "A) Factor of safety only",
+        "B) Strain-softening and progressive failure",
+        "C) Limit equilibrium only",
+        "D) Infinite slope assumptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf2c13f114ad7e928f882edfda842fa7031eb59f",
+      "sectionIndex": 5,
+      "question": "Managed aquifer recharge optimization requires:",
+      "options": [
+        "A) Water availability only",
+        "B) Hydrogeological characterization and water quality",
+        "C) Injection wells only",
+        "D) Surface spreading only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "441462482f1f3b5a0092cd91ceba76155a8e5554",
+      "sectionIndex": 5,
+      "question": "The concept of geological resilience in hazard assessment involves:",
+      "options": [
+        "A) Rock strength only",
+        "B) System recovery capacity and thresholds",
+        "C) Historical events only",
+        "D) Current conditions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7215e4081cbaac5057b8e6b437ede5b3fa8a828b",
+      "sectionIndex": 5,
+      "question": "Submarine landslide triggers differ from subaerial by:",
+      "options": [
+        "A) Gravity only",
+        "B) Pore pressure dynamics and gas hydrates",
+        "C) Slope angle only",
+        "D) Material properties only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af0c9c31f4a6ebe5f7af6936818595d66129015d",
+      "sectionIndex": 5,
+      "question": "Urban geology challenges include:",
+      "options": [
+        "A) Mapping only",
+        "B) Anthropogenic deposits and modified hydrology",
+        "C) Natural hazards only",
+        "D) Foundation conditions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a748c85038bd57d82b87197feab10cea4e687463",
+      "sectionIndex": 5,
+      "question": "Climate change impacts on geological hazards involve:",
+      "options": [
+        "A) Temperature only",
+        "B) Permafrost thaw and precipitation patterns",
+        "C) Sea level only",
+        "D) No significant effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1f09ff84efd22f45c78f7bc6827e898653254f5",
+      "sectionIndex": 6,
+      "question": "The Kohistan Island Arc's significance in Himalayan evolution includes:",
+      "options": [
+        "A) Simple collision",
+        "B) Double subduction and crustal growth",
+        "C) Passive margin only",
+        "D) Transform boundary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a7bda8adb0f948daed40061f6940f12cffc3c41",
+      "sectionIndex": 6,
+      "question": "The Main Mantle Thrust's reactivation history shows:",
+      "options": [
+        "A) Single movement phase",
+        "B) Multiple deformation episodes and out-of-sequence thrusting",
+        "C) Normal faulting only",
+        "D) No reactivation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c042dc218cac95c8550f8f6d04e07cecd92d121",
+      "sectionIndex": 6,
+      "question": "The Katawaz Basin's relationship to regional tectonics involves:",
+      "options": [
+        "A) Simple foreland basin",
+        "B) Remnant ocean basin and transpression",
+        "C) Rift basin",
+        "D) Cratonic basin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9c6e6c12c6499f743881b66b111a46336655aff",
+      "sectionIndex": 6,
+      "question": "Sulaiman Fold Belt kinematics demonstrate:",
+      "options": [
+        "A) Simple compression",
+        "B) Oblique convergence and lateral escape",
+        "C) Extension only",
+        "D) Strike-slip only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ddbe9d33e416b7d295c45c4b7deae0e00755adc",
+      "sectionIndex": 6,
+      "question": "The Nanga Parbat syntaxis represents:",
+      "options": [
+        "A) Simple uplift",
+        "B) Tectonic aneurysm and rapid exhumation",
+        "C) Erosional remnant",
+        "D) Volcanic center"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6ea5584057f9b87b9da1a90f310b38f10499ce8",
+      "sectionIndex": 6,
+      "question": "Makran subduction zone seismicity patterns indicate:",
+      "options": [
+        "A) Uniform behavior",
+        "B) Segmentation and variable coupling",
+        "C) No earthquakes",
+        "D) Surface faulting only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1eaf09a38e1fe31999ae3ffc4d3ab8e220ed504d",
+      "sectionIndex": 6,
+      "question": "The petroleum systems of the Potwar Basin show:",
+      "options": [
+        "A) Single source rock",
+        "B) Multiple sources and complex migration",
+        "C) Biogenic gas only",
+        "D) No hydrocarbons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9c970290fd9722965ef9e212617f3694c06be10",
+      "sectionIndex": 6,
+      "question": "Metallogenic provinces of Pakistan reflect:",
+      "options": [
+        "A) Random distribution",
+        "B) Tectonic settings and crustal evolution",
+        "C) Surface weathering only",
+        "D) Recent mineralization only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "860c3fba5d5fc56526dfa289706def7373f60487",
+      "sectionIndex": 6,
+      "question": "The Indus Delta's evolution involves:",
+      "options": [
+        "A) River deposition only",
+        "B) Climate, tectonics, and anthropogenic impacts",
+        "C) Sea level change only",
+        "D) Wave action only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c410e091917116f9163be57cc750ef965748e5da",
+      "sectionIndex": 6,
+      "question": "Neotectonic activity in Pakistan requires monitoring through:",
+      "options": [
+        "A) Historical records only",
+        "B) Geodesy, paleoseismology, and geomorphology",
+        "C) Seismographs only",
+        "D) Visual observation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bedd2b8d2b80d12ce0953d6f6241ca114fdd269",
+      "sectionIndex": 7,
+      "question": "Sequence stratigraphic stacking patterns in greenhouse versus icehouse conditions show:",
+      "options": [
+        "A) No difference",
+        "B) Amplitude and frequency variations in cycles",
+        "C) Random patterns",
+        "D) Uniform sequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd4742c87e55ed3ee3a05fca83d4758f6f9c2764",
+      "sectionIndex": 7,
+      "question": "The role of sediment supply versus accommodation in stratigraphic architecture involves:",
+      "options": [
+        "A) Independent factors",
+        "B) Complex feedback systems and autogenic processes",
+        "C) Accommodation only",
+        "D) Supply only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "545a47db011e2a1b5fd38b6b0e089ed9d76c1612",
+      "sectionIndex": 7,
+      "question": "Diagenetic modeling of reservoir quality requires:",
+      "options": [
+        "A) Temperature history only",
+        "B) Integrated kinetic and fluid flow models",
+        "C) Burial depth only",
+        "D) Current conditions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a55c141b5027d68f9673c76503df14af8cb04299",
+      "sectionIndex": 7,
+      "question": "Source-to-sink sediment routing systems integrate:",
+      "options": [
+        "A) Erosion only",
+        "B) Climate, tectonics, and surface processes",
+        "C) Deposition only",
+        "D) Transport only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c21509d9e5e541e4b956066028fe2ed270022a6d",
+      "sectionIndex": 7,
+      "question": "Carbonate factory response to environmental perturbations shows:",
+      "options": [
+        "A) Constant production",
+        "B) Threshold behaviors and ecological shifts",
+        "C) Linear responses",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c117205c8b32e4a2220ed84e9a15be91762ccd7",
+      "sectionIndex": 7,
+      "question": "Contourite depositional systems indicate:",
+      "options": [
+        "A) Turbidity currents",
+        "B) Bottom current reworking and drift deposits",
+        "C) Wave action",
+        "D) Tidal deposits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0b7254d5f87f15da70d41e2214876d6cdae12a1",
+      "sectionIndex": 7,
+      "question": "The concept of incomplete mixing in sediment transport affects:",
+      "options": [
+        "A) Average properties only",
+        "B) Provenance signals and age distributions",
+        "C) Transport distance only",
+        "D) Grain size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05f86906e26812ba8fefe5df947e87805f680788",
+      "sectionIndex": 7,
+      "question": "Biogeochemical cycling in sediments influences:",
+      "options": [
+        "A) Physical properties only",
+        "B) Early diagenesis and element mobility",
+        "C) Deposition only",
+        "D) Color only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3ceec162c8e8b66fa0dadb90e2c61938f03273a",
+      "sectionIndex": 7,
+      "question": "Seismic geomorphology applications reveal:",
+      "options": [
+        "A) Structure only",
+        "B) Depositional elements and reservoir architecture",
+        "C) Faults only",
+        "D) Horizons only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f32662010a02b4a2ad8f715c2d5b226ce1d6cc32",
+      "sectionIndex": 7,
+      "question": "Mass transport complexes in deep-water systems show:",
+      "options": [
+        "A) Simple slides",
+        "B) Multi-phase deformation and flow transformation",
+        "C) Uniform deposits",
+        "D) Surface expression only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95f507ca5ec51ae798b6dcaf42a41756318350de",
+      "sectionIndex": 8,
+      "question": "Ultra-high pressure metamorphism indicators include:",
+      "options": [
+        "A) Garnet only",
+        "B) Coesite and diamond inclusions",
+        "C) Chlorite",
+        "D) Biotite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a29026419781b5d520f07d855b24e620d890b13",
+      "sectionIndex": 8,
+      "question": "Diffusion-controlled corona development requires:",
+      "options": [
+        "A) High temperature only",
+        "B) Chemical potential gradients and kinetic barriers",
+        "C) Pressure only",
+        "D) Time only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "442b0360fbacbd42f396acee55c55039118fd497",
+      "sectionIndex": 8,
+      "question": "P-T-t path reconstruction integrates:",
+      "options": [
+        "A) Peak conditions only",
+        "B) Thermobarometry, geochronology, and modeling",
+        "C) Field observations only",
+        "D) Mineral assemblages only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84445b36c9265ebffcf1d4d5face43323fd07426",
+      "sectionIndex": 8,
+      "question": "Channelized melt flow in the lower crust creates:",
+      "options": [
+        "A) Uniform melting",
+        "B) Heterogeneous deformation and differentiation",
+        "C) No structural control",
+        "D) Surface effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee055767a026f5e126ba5b6553497deb5bf2f72c",
+      "sectionIndex": 8,
+      "question": "The role of fluids in metamorphic reactions includes:",
+      "options": [
+        "A) Heat transfer only",
+        "B) Catalysis, mass transfer, and rheological effects",
+        "C) No significant role",
+        "D) Cooling only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bbaf7a37416e3913d548c8072d6c93f435a017c",
+      "sectionIndex": 8,
+      "question": "Reaction kinetics overstepping in metamorphism produces:",
+      "options": [
+        "A) Equilibrium assemblages",
+        "B) Metastable phases and reaction textures",
+        "C) No observable effects",
+        "D) Complete reactions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70926564326c95dfa29c551fe116f7a3398a60b3",
+      "sectionIndex": 8,
+      "question": "Strain localization in polymineralic rocks depends on:",
+      "options": [
+        "A) Stress only",
+        "B) Rheological contrasts and reaction softening",
+        "C) Temperature only",
+        "D) Grain size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4df3c3ae448de469aa3fc14e681a45d6a663d49",
+      "sectionIndex": 8,
+      "question": "Metamorphic core complex formation involves:",
+      "options": [
+        "A) Simple uplift",
+        "B) Extensional unroofing and ductile flow",
+        "C) Compression only",
+        "D) Erosion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee721bf0a1dc3598a6dda42ae0220afb8b0c505d",
+      "sectionIndex": 8,
+      "question": "Phase equilibria modeling limitations include:",
+      "options": [
+        "A) Thermodynamic data only",
+        "B) Solution models and kinetic factors",
+        "C) Computer power",
+        "D) Software availability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "337e51460cb8c9c8a82c3cbde65b0cbe5fca06d6",
+      "sectionIndex": 8,
+      "question": "Metamorphic field gradients preserve information about:",
+      "options": [
+        "A) Current conditions",
+        "B) Tectonic processes and crustal architecture",
+        "C) Surface temperature",
+        "D) Rock age only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70c7af81b96e692ebcceb1bdfd87d4fe6f9c0975",
+      "sectionIndex": 9,
+      "question": "Coupled process modeling in geological disposal requires:",
+      "options": [
+        "A) Single physics",
+        "B) Multi-physics integration across scales",
+        "C) Temperature only",
+        "D) Simple assumptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d43ece29cbe7c141749242397b47aa485709ff7",
+      "sectionIndex": 9,
+      "question": "Geomechanical reservoir modeling for CO2 storage must consider:",
+      "options": [
+        "A) Porosity only",
+        "B) Fault stability and caprock integrity",
+        "C) Temperature only",
+        "D) Depth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5551af978450d401c74ae5cbeac16a13f902b3b4",
+      "sectionIndex": 9,
+      "question": "Induced seismicity mechanisms in enhanced geothermal systems involve:",
+      "options": [
+        "A) Natural earthquakes only",
+        "B) Pore pressure diffusion and thermal stresses",
+        "C) Surface loading",
+        "D) Tectonic stress only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd9a27dc97f9110a5b309a18439ab7c153ae7043",
+      "sectionIndex": 9,
+      "question": "Machine learning for mineral prospectivity requires:",
+      "options": [
+        "A) Geological maps only",
+        "B) Multi-dataset integration and feature engineering",
+        "C) Satellite images only",
+        "D) Historical mines only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fee95759a484160262f13197b6c14f84457370e",
+      "sectionIndex": 9,
+      "question": "Uncertainty propagation in geological models affects:",
+      "options": [
+        "A) Visualization only",
+        "B) Decision-making and risk assessment",
+        "C) Model construction only",
+        "D) Data collection only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7237b06cfed5035295969df5c78e510b5eb1c9f9",
+      "sectionIndex": 9,
+      "question": "Critical zone science integrates:",
+      "options": [
+        "A) Soil only",
+        "B) Near-surface Earth system processes",
+        "C) Bedrock only",
+        "D) Atmosphere only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d3d32ac628a6a19861132046af1c9b000c7de7d",
+      "sectionIndex": 9,
+      "question": "Planetary geology analogs for Earth processes provide:",
+      "options": [
+        "A) Curiosity only",
+        "B) End-member conditions and process understanding",
+        "C) No relevance",
+        "D) Entertainment value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "013f762f3f1b178d81737748b66f4995c191235e",
+      "sectionIndex": 9,
+      "question": "Deep-time climate proxies calibration requires:",
+      "options": [
+        "A) Modern analogs only",
+        "B) Understanding of diagenetic overprinting",
+        "C) Temperature measurements",
+        "D) Ice core data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bc0a415a845c1eb9890265162b3d952fcfa1af6",
+      "sectionIndex": 9,
+      "question": "Geological aspects of renewable energy include:",
+      "options": [
+        "A) Solar panels only",
+        "B) Geothermal, materials, and storage solutions",
+        "C) Wind patterns",
+        "D) Tidal forces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cd7f7a06c6cfb36e438b62274deee46f0291bc1",
+      "sectionIndex": 9,
+      "question": "The future of applied geology requires:",
+      "options": [
+        "A) Traditional methods only",
+        "B) Interdisciplinary integration and emerging technologies",
+        "C) Field work only",
+        "D) Laboratory analysis only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

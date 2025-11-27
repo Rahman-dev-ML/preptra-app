@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:57:54.638Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "9603aca35ca91834e30b589076795fe1437f4c43",
+      "sectionIndex": 0,
+      "question": "The assertion that \"Lori\" is the world's most ancient folk song requires critical examination because:",
+      "options": [
+        "A) It lacks historical evidence",
+        "B) It conflates universal human experience with specific cultural claims of primacy",
+        "C) Lullabies don't exist in other cultures",
+        "D) Punjabi culture is newest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7933333e79643614c8c3b735ecc5f31a992a92c1",
+      "sectionIndex": 0,
+      "question": "The dialectical relationship between folk songs and social history suggests that:",
+      "options": [
+        "A) Songs merely reflect society",
+        "B) Songs both preserve and actively construct social memory",
+        "C) History creates songs",
+        "D) Songs are historically irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb159ed0a6e699adedf079dcab51bc1e168e434f",
+      "sectionIndex": 0,
+      "question": "The epistemological function of \"Dhola\" in pre-Islamic Punjab indicates:",
+      "options": [
+        "A) Simple entertainment value",
+        "B) Alternative historiography challenging textual hegemonies",
+        "C) Religious propaganda",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dad333872f8eb6401de92d1e82eb2e04c9e5c22b",
+      "sectionIndex": 0,
+      "question": "The performative aspects of \"Boli\" can be analyzed through:",
+      "options": [
+        "A) Written text only",
+        "B) Speech act theory and embodied knowledge frameworks",
+        "C) Musical notation",
+        "D) Silent reading"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14ab0f2c4eaa9aff642c71adc2bf4a763c94ee41",
+      "sectionIndex": 0,
+      "question": "The concept of \"taqaddus\" (sanctity) in kinship songs operates through:",
+      "options": [
+        "A) Direct religious instruction",
+        "B) Symbolic encoding of social contracts within aesthetic forms",
+        "C) Legal enforcement",
+        "D) Economic incentives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d38d291c8936f00602dde006b8bb2b72d38bd1e7",
+      "sectionIndex": 0,
+      "question": "Regional variations in folk songs challenge the notion of:",
+      "options": [
+        "A) Punjabi language",
+        "B) Homogeneous cultural identity while revealing internal heterogeneity",
+        "C) All variations",
+        "D) Musical differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46aa90ff0ba50ed3106741d97b36c9419d3cc7d1",
+      "sectionIndex": 0,
+      "question": "The transition from oral to written folk traditions involves:",
+      "options": [
+        "A) Simple transcription",
+        "B) Fundamental epistemological shifts in knowledge production",
+        "C) No significant change",
+        "D) Improvement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcfb76131ab37f2d4d3cecaf67dbf1b467528960",
+      "sectionIndex": 0,
+      "question": "The gender dynamics in wedding songs reveal:",
+      "options": [
+        "A) Equal representation",
+        "B) Negotiated spaces within patriarchal structures",
+        "C) Matriarchal dominance",
+        "D) No gender consciousness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e16c0513844395aa9dec5f073a292d91c223cdc",
+      "sectionIndex": 0,
+      "question": "The commodification of folk performances in contemporary Punjab:",
+      "options": [
+        "A) Preserves authenticity",
+        "B) Creates nostalgic simulacra divorced from lived traditions",
+        "C) Has no impact",
+        "D) Improves quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fdab1908eacde7763ca1d64b47a44c407e62466",
+      "sectionIndex": 0,
+      "question": "The theoretical framework for analyzing folk literature must account for:",
+      "options": [
+        "A) Text alone",
+        "B) Performance, context, and power relations",
+        "C) Musical elements only",
+        "D) Historical dates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "020b71fce177ee2d54133884aea970a34f4350b2",
+      "sectionIndex": 1,
+      "question": "Sultan Bahu's concept of \"Fana-fi-Allah\" and \"Fana-fil-Murshid\" represents:",
+      "options": [
+        "A) Simple devotion",
+        "B) Sophisticated theodicy reconciling transcendence with immanence",
+        "C) Contradiction in terms",
+        "D) Political strategy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9434cfd3897b7c38f61b12bb4974e6daf667d4b4",
+      "sectionIndex": 1,
+      "question": "The hermeneutical challenge in interpreting Bulleh Shah's \"kafis\" lies in:",
+      "options": [
+        "A) Language difficulty",
+        "B) Multiple registers operating simultaneously?\"spiritual, social, political",
+        "C) Simple meaning",
+        "D) Translation issues only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53ed0fc7a831c1dad0757684b40db9d5e7a39627",
+      "sectionIndex": 1,
+      "question": "Waris Shah's Heer as \"Encyclopedia of Punjab\" functions through:",
+      "options": [
+        "A) Information compilation",
+        "B) Narrative strategies embedding ethnographic, philosophical, and political discourses",
+        "C) Length of text",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "236f8b456651a318ee15d5ddf0308c861c5bc184",
+      "sectionIndex": 1,
+      "question": "The antinomian elements in Sufi poetry challenge:",
+      "options": [
+        "A) Only religious orthodoxy",
+        "B) Entire epistemological foundations of law, society, and selfhood",
+        "C) Political authority only",
+        "D) Economic systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3536fe9c4f8731b351bd89a190666f8c0536c18",
+      "sectionIndex": 1,
+      "question": "The lover-beloved metaphor in Punjabi Sufism differs from Persian tradition by:",
+      "options": [
+        "A) No difference",
+        "B) Incorporating indigenous devotional practices and social relations",
+        "C) Rejecting the metaphor",
+        "D) Using different words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "596067f5dbc7ab49eff4b2f2c4a227a3d02aa76c",
+      "sectionIndex": 1,
+      "question": "Khwaja Ghulam Farid's \"Rohi\" imagery functions as:",
+      "options": [
+        "A) Geographic description",
+        "B) Psycho-spiritual landscape mapping interior desolation",
+        "C) Tourist promotion",
+        "D) Agricultural reference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "251678deeace6ecef43cdd81798777fd7bff09fa",
+      "sectionIndex": 1,
+      "question": "The intertextuality between Quranic references and folk motifs in Sufi poetry:",
+      "options": [
+        "A) Shows religious knowledge",
+        "B) Creates syncretic hermeneutics challenging orthodox interpretations",
+        "C) Proves authenticity",
+        "D) Decorates text"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef97bb4ae34f9444671098dd48b2e1f9bc568df3",
+      "sectionIndex": 1,
+      "question": "The concept of \"Ishq-e-Majazi\" leading to \"Ishq-e-Haqiqi\" implies:",
+      "options": [
+        "A) Rejection of human love",
+        "B) Phenomenological progression through embodied experience",
+        "C) Platonic idealism",
+        "D) Ascetic practices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b40e2b2df23dec07a02e22148e12854d43ece277",
+      "sectionIndex": 1,
+      "question": "The political unconscious in 18th-century Sufi poetry reveals:",
+      "options": [
+        "A) Deliberate activism",
+        "B) Coded resistance to multiple imperialisms",
+        "C) Complete withdrawal",
+        "D) Collaboration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "171f310ae5d2c3465da577b05138a8a79d40fbf6",
+      "sectionIndex": 1,
+      "question": "The paradox of ineffability in Sufi expression manifests through:",
+      "options": [
+        "A) Silence",
+        "B) Linguistic excess attempting to capture trans-linguistic experience",
+        "C) Simple statements",
+        "D) Prose explanations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b514bc61ac0e74bd206c7dedb88d0db03ede5aef",
+      "sectionIndex": 2,
+      "question": "The narrative structure of Punjabi \"Qissas\" challenges Western novel theory by:",
+      "options": [
+        "A) Being longer",
+        "B) Integrating multiple temporalities and causalities",
+        "C) Lacking structure",
+        "D) Simple chronology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc00b6ea25120f0bca3aef0e1b877f7210e8ad00",
+      "sectionIndex": 2,
+      "question": "The function of seemingly digressive episodes in \"Heer Waris Shah\":",
+      "options": [
+        "A) Poor editing",
+        "B) Rhizomatic narrative strategy reflecting non-linear consciousness",
+        "C) Entertainment value",
+        "D) Filling pages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "653916e7c812ad9f27ea9182efd2f0921987d7f4",
+      "sectionIndex": 2,
+      "question": "The \"Si-harfi\" form's alphabetic constraint produces:",
+      "options": [
+        "A) Artificial limitation",
+        "B) Generative tension between form and meaning",
+        "C) Easy memorization",
+        "D) No special effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1356f3f410df1b199373f33f53177fd37b9e7174",
+      "sectionIndex": 2,
+      "question": "The phenomenology of listening in classical Punjabi narratives:",
+      "options": [
+        "A) Passive reception",
+        "B) Co-creative meaning-making between performer and audience",
+        "C) Individual reading",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abe36c700678ad88e3cc2d9d4cdcd603f8252b73",
+      "sectionIndex": 2,
+      "question": "The chronotope in \"Sassi Punnu\" operates through:",
+      "options": [
+        "A) Linear time-space",
+        "B) Mythic geography transcending historical specificity",
+        "C) Realistic settings",
+        "D) Modern timeline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17168142c0eb231c9d8445adcfda6dbe106c89f0",
+      "sectionIndex": 2,
+      "question": "The metanarrative commentary in classical texts functions to:",
+      "options": [
+        "A) Explain plot",
+        "B) Create self-reflexive textuality aware of its constructedness",
+        "C) Show learning",
+        "D) Extend length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0bea016dbf85c3472f648665fe6eb72dc187ba05",
+      "sectionIndex": 2,
+      "question": "Gender performativity in classical narratives reveals:",
+      "options": [
+        "A) Fixed roles",
+        "B) Subversive potential within hegemonic structures",
+        "C) No gender awareness",
+        "D) Modern feminism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06eeedc683e90e4f8e903f46936ceb2be0b45d0d",
+      "sectionIndex": 2,
+      "question": "The relationship between \"Qissa\" and \"history\" in Punjabi tradition:",
+      "options": [
+        "A) Clear distinction",
+        "B) Interpenetrating modes of truth-telling",
+        "C) Qissa is fiction",
+        "D) History is fact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a91fe2a90c60a5b144dda86c6e768e3469fbc925",
+      "sectionIndex": 2,
+      "question": "The oral formulaic theory applied to Punjabi classics shows:",
+      "options": [
+        "A) Memorization only",
+        "B) Dynamic recreation in each performance",
+        "C) Fixed text",
+        "D) Declining quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c84da5cdc72371131a14a038d19b6c2132aa915",
+      "sectionIndex": 2,
+      "question": "The concept of \"tragic joy\" in Punjabi romance narratives:",
+      "options": [
+        "A) Contradiction",
+        "B) Dialectical synthesis of suffering and transcendence",
+        "C) Pessimism",
+        "D) Happy endings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32e7fe8772be27f06ee46b57f82ac91de87fe65e",
+      "sectionIndex": 3,
+      "question": "Najm Hussain Syed's experimental narratives employ:",
+      "options": [
+        "A) Traditional forms",
+        "B) Phenomenological reduction to explore consciousness",
+        "C) Western copying",
+        "D) Simple modernism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f55a92eba6b290d2fe5c3370476dbd99973a858b",
+      "sectionIndex": 3,
+      "question": "The \"psychological turn\" in Punjabi criticism must be understood as:",
+      "options": [
+        "A) Freudian application",
+        "B) Culturally specific psychoanalysis engaging with collective trauma",
+        "C) Individual focus only",
+        "D) Medical approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "126807e9a309d8dd4bc14edbe63a2c227eb2483a",
+      "sectionIndex": 3,
+      "question": "Munir Niazi's \"poetry of dread\" can be read through:",
+      "options": [
+        "A) Personal biography",
+        "B) Existential phenomenology and postcolonial anxiety",
+        "C) Horror genre",
+        "D) Mental illness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2e042ce38c3bf12afd4b9a3ace3be72df44b82c",
+      "sectionIndex": 3,
+      "question": "The partition's representation in Punjabi literature differs from official historiography by:",
+      "options": [
+        "A) Dates and facts",
+        "B) Affective history privileging embodied memory",
+        "C) Ignoring partition",
+        "D) Celebrating division"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13762d443fd8f4a966e15374acd90108db3addd1",
+      "sectionIndex": 3,
+      "question": "Contemporary Punjabi fiction's narrative strategies show:",
+      "options": [
+        "A) Realist tradition",
+        "B) Postmodern techniques adapted to local concerns",
+        "C) Pure experimentation",
+        "D) Traditional storytelling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "61d513ab79cd02ed69259c6beba6caf4ca2a2b28",
+      "sectionIndex": 3,
+      "question": "The development of Punjabi literary criticism reveals:",
+      "options": [
+        "A) Western dependence",
+        "B) Syncretic methodology combining indigenous and global frameworks",
+        "C) No theoretical base",
+        "D) Random observations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "709f3f6be3a347370fa4c77f908a166b41c9b227",
+      "sectionIndex": 3,
+      "question": "The concept of \"commitment\" in progressive Punjabi literature:",
+      "options": [
+        "A) Political propaganda",
+        "B) Aesthetic politics negotiating form and content",
+        "C) Party membership",
+        "D) Social realism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f39a590f9e5da0e642d97bcc8f906ed226dc229",
+      "sectionIndex": 3,
+      "question": "Feminist readings of Punjabi literature must account for:",
+      "options": [
+        "A) Western feminism only",
+        "B) Intersectional analysis including caste, class, and religion",
+        "C) Gender alone",
+        "D) Elite women only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed1e17ab7eddc7e5dc4fa8d037e1f59c0c892ace",
+      "sectionIndex": 3,
+      "question": "The postcolonial condition of Punjabi literature manifests through:",
+      "options": [
+        "A) Anti-British themes",
+        "B) Linguistic anxiety and cultural hybridization",
+        "C) Pure nativism",
+        "D) Western imitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8de163703482f3ce9efbb73dd7fec2435646957c",
+      "sectionIndex": 3,
+      "question": "Digital humanities approaches to Punjabi texts reveal:",
+      "options": [
+        "A) Technical innovation only",
+        "B) New patterns while raising questions of cultural translation",
+        "C) No insights",
+        "D) Data without meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ece2b663a3280c1e111062b43448db5a87452b8b",
+      "sectionIndex": 4,
+      "question": "Muhammad Asif Khan's non-Aryan hypothesis for Punjabi:",
+      "options": [
+        "A) Linguistic fact",
+        "B) Challenges Indo-European hegemony while risking essentialization",
+        "C) Proven theory",
+        "D) Racial superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44834c0519896cde9bc041d68582f51dcc44a408",
+      "sectionIndex": 4,
+      "question": "The tripartite linguistic situation (Punjabi-Urdu-English) creates:",
+      "options": [
+        "A) Clear hierarchies",
+        "B) Complex diglossic and triglossic relationships",
+        "C) No problems",
+        "D) Equal languages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f868f0823015e8ea4bbe14705e4de007b7900b24",
+      "sectionIndex": 4,
+      "question": "The standardization debates in Punjabi reveal:",
+      "options": [
+        "A) Technical issues only",
+        "B) Deep ideological conflicts about authenticity and modernity",
+        "C) Universal agreement",
+        "D) No controversy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9437f47ba3d44ec61892762341cbf4f4944191ac",
+      "sectionIndex": 4,
+      "question": "Code-switching in contemporary Punjabi literature:",
+      "options": [
+        "A) Shows confusion",
+        "B) Performs multilingual identity and cultural negotiations",
+        "C) Degrades language",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "996e9413a71f8342a6b90e15176f08dad3022b2d",
+      "sectionIndex": 4,
+      "question": "The script controversy (Shahmukhi vs Gurmukhi) represents:",
+      "options": [
+        "A) Writing preference",
+        "B) Competing nationalisms and religious identities",
+        "C) Technical choice",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c0432a393ce95ff5f7426fe5a2a56c42279c2f6",
+      "sectionIndex": 4,
+      "question": "Punjabi's relationship with Sanskrit/Prakrit versus Dravidian elements:",
+      "options": [
+        "A) Clear genealogy",
+        "B) Complicates linear linguistic evolution theories",
+        "C) Pure Sanskrit",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4c4dcec76b4a15c271c31df894e820545ad8699",
+      "sectionIndex": 4,
+      "question": "The decline thesis of Punjabi in Pakistan:",
+      "options": [
+        "A) Objective fact",
+        "B) Contested narrative masking complex vitality patterns",
+        "C) Complete death",
+        "D) Thriving everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0fb3687e79248c06a7df8c666c78d88a3042399",
+      "sectionIndex": 4,
+      "question": "Linguistic purism movements in Punjabi:",
+      "options": [
+        "A) Preserve authenticity",
+        "B) Construct artificial boundaries ignoring historical hybridization",
+        "C) Necessary development",
+        "D) Universal support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db4a834b44f484ba13009d107278e1ca0580fdb0",
+      "sectionIndex": 4,
+      "question": "The role of Punjabi in identity formation:",
+      "options": [
+        "A) Simple correlation",
+        "B) Performative construction through iterative practices",
+        "C) No connection",
+        "D) Fixed identity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7982d68c0dff0b2620d1abd8ecff345f1e93d501",
+      "sectionIndex": 4,
+      "question": "The future of Punjabi in globalized contexts requires:",
+      "options": [
+        "A) Isolation",
+        "B) Strategic cosmopolitanism maintaining distinctiveness",
+        "C) English adoption",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc9f700f2f7fae0a2c2dec80866c9af710f230f3",
+      "sectionIndex": 5,
+      "question": "Punjabi literature's position in world literature:",
+      "options": [
+        "A) Marginal only",
+        "B) Challenges center-periphery models through regional cosmopolitanism",
+        "C) Central position",
+        "D) No place"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "967d954d19eadcfc0a8d40629945abfd6a7bcd8c",
+      "sectionIndex": 5,
+      "question": "The influence of Russian formalism on modern Punjabi criticism:",
+      "options": [
+        "A) Direct application",
+        "B) Mediated adaptation through progressive movements",
+        "C) No influence",
+        "D) Complete adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0173ba13a46d88c20964df12dc1441e208bdf36a",
+      "sectionIndex": 5,
+      "question": "Comparing Punjabi and Latin American magical realism reveals:",
+      "options": [
+        "A) Punjabi copying",
+        "B) Parallel developments from different cultural matrices",
+        "C) No similarity",
+        "D) Direct influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11080618242c026f4004a3a1e91e3d3dabd4f34d",
+      "sectionIndex": 5,
+      "question": "The untranslatability of certain Punjabi concepts indicates:",
+      "options": [
+        "A) Language deficiency",
+        "B) Cultural specificity requiring thick translation",
+        "C) Universal concepts",
+        "D) Poor vocabulary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9873950249fadef7c2ccf923ae28bc57d41bd91",
+      "sectionIndex": 5,
+      "question": "Punjabi literature's dialogue with postcolonial theory:",
+      "options": [
+        "A) One-way reception",
+        "B) Mutual interrogation and modification",
+        "C) Rejection",
+        "D) Ignorance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cca3960242180ba883ccff487686dce600f1066",
+      "sectionIndex": 5,
+      "question": "The category of \"minor literature\" (Deleuze-Guattari) applied to Punjabi:",
+      "options": [
+        "A) Inferior status",
+        "B) Revolutionary potential within major languages",
+        "C) Small readership",
+        "D) Low quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bcb6912b1068145f1b2645bf9a358edb992e050",
+      "sectionIndex": 5,
+      "question": "Comparative studies of partition literature across languages show:",
+      "options": [
+        "A) Identical trauma",
+        "B) Differentiated experiences within shared catastrophe",
+        "C) Punjabi uniqueness",
+        "D) No comparison"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2fa222ba2c31576b05605b060136fb229723043",
+      "sectionIndex": 5,
+      "question": "The world-systems theory perspective on Punjabi literature:",
+      "options": [
+        "A) Irrelevant",
+        "B) Reveals semi-peripheral dynamics and possibilities",
+        "C) Core position",
+        "D) Complete periphery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b9449f0fb6a62c4e7f02c1c3f9c7a5420b38490",
+      "sectionIndex": 5,
+      "question": "Translation as a mode of Punjabi literary production:",
+      "options": [
+        "A) Secondary activity",
+        "B) Primary creative and political practice",
+        "C) Betrayal",
+        "D) Technical exercise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e524c24db5f92e7182f33f41880a5dfe5e66d52c",
+      "sectionIndex": 5,
+      "question": "The cosmopolitan-vernacular tension in Punjabi literature:",
+      "options": [
+        "A) Either-or choice",
+        "B) Productive dialectic generating innovation",
+        "C) Vernacular only",
+        "D) Cosmopolitan only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7af8fd07b3aa99160bb7f122dd95c675c179ac94",
+      "sectionIndex": 6,
+      "question": "The representation of caste in Punjabi literature:",
+      "options": [
+        "A) Absent topic",
+        "B) Complex negotiations between visibility and erasure",
+        "C) Open discussion",
+        "D) Only upper caste"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cabd88b442b7707188cbaf1c8fbb2c9a054522b",
+      "sectionIndex": 6,
+      "question": "The construction of \"Punjabiyat\" in literary discourse:",
+      "options": [
+        "A) Natural identity",
+        "B) Invented tradition managing heterogeneity",
+        "C) Fixed culture",
+        "D) No construction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d0e8dcc573c99f9f667b5e502ee7b74c3576926",
+      "sectionIndex": 6,
+      "question": "The role of literature in partition memory:",
+      "options": [
+        "A) Historical record",
+        "B) Counter-memory challenging official narratives",
+        "C) Entertainment",
+        "D) Trauma repetition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f6636b2ae75d83cc072de553bc1c860598f3ad2",
+      "sectionIndex": 6,
+      "question": "Popular culture's relationship with Punjabi literature:",
+      "options": [
+        "A) Degradation",
+        "B) Mutual constitution and tension",
+        "C) No relationship",
+        "D) Literature superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c715382bd20dd3f02b2ba8683307ad5bb37a4c85",
+      "sectionIndex": 6,
+      "question": "The representation of sexuality in Punjabi literature:",
+      "options": [
+        "A) Absent",
+        "B) Coded through devotional and folk metaphors",
+        "C) Explicit only",
+        "D) Western influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f60ee0557606528e1023d45eb781d7c43ba70f3",
+      "sectionIndex": 6,
+      "question": "Diaspora Punjabi literature's authenticity claims:",
+      "options": [
+        "A) Less authentic",
+        "B) Complicate essentialist notions of cultural belonging",
+        "C) More authentic",
+        "D) No authenticity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81c90b73c3cab4c0442e460bedcdfdffbce841e6",
+      "sectionIndex": 6,
+      "question": "The environmental turn in recent Punjabi writing:",
+      "options": [
+        "A) New theme",
+        "B) Reconnection with land-based epistemologies",
+        "C) Foreign import",
+        "D) Urban rejection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3a72407d6a0b8d3b20b48ff0ceb72995453ee9c",
+      "sectionIndex": 6,
+      "question": "Digital culture's impact on Punjabi literary production:",
+      "options": [
+        "A) Destruction",
+        "B) Remediation creating hybrid forms",
+        "C) No impact",
+        "D) Complete transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "433b52682de676a69f7bb4b02849e38d03d8bb91",
+      "sectionIndex": 6,
+      "question": "The politics of literary prizes in Punjabi:",
+      "options": [
+        "A) Merit only",
+        "B) Cultural capital distribution mechanisms",
+        "C) No politics",
+        "D) Random selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53d74650b6be703e4e158260b6e79eba5168b273",
+      "sectionIndex": 6,
+      "question": "Literature's role in language revitalization:",
+      "options": [
+        "A) Passive reflection",
+        "B) Active agent in linguistic futures",
+        "C) No role",
+        "D) Hindrance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0609a51fb5c6bd9738d8b16fed0e6ea4e82bb1b3",
+      "sectionIndex": 7,
+      "question": "Applying Bakhtin's chronotope to Punjabi narratives reveals:",
+      "options": [
+        "A) Western theory imposed",
+        "B) Culturally specific time-space configurations",
+        "C) Universal patterns",
+        "D) No application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd44cc5e8ca11d7c1090ae6431c4759298d278b9",
+      "sectionIndex": 7,
+      "question": "The subaltern in Punjabi literature speaks through:",
+      "options": [
+        "A) Direct representation",
+        "B) Strategic silences and formal innovations",
+        "C) Elite mediation only",
+        "D) Cannot speak"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72d7b9d8af403cfab4b40f38ad40d6e744a2134b",
+      "sectionIndex": 7,
+      "question": "Derrida's différance in Punjabi linguistic context:",
+      "options": [
+        "A) Irrelevant concept",
+        "B) Multiplied through tonal variations",
+        "C) French theory only",
+        "D) No application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55d13fdebb7d088c5e40b0894f5df36fc3b72838",
+      "sectionIndex": 7,
+      "question": "Affect theory's relevance to Punjabi literature:",
+      "options": [
+        "A) Emotional study only",
+        "B) Embodied knowledge systems beyond representation",
+        "C) Western imposition",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "211b1d61a1125a8dcdc3cf694fadb9b5efee4cef",
+      "sectionIndex": 7,
+      "question": "The poststructuralist challenge to Punjabi literary canon:",
+      "options": [
+        "A) Destroys tradition",
+        "B) Reveals canonical violence and exclusions",
+        "C) No challenge",
+        "D) Supports canon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b707a0b64ee52dd48474740251a5f8ad4d566fb",
+      "sectionIndex": 7,
+      "question": "Indigenous theory from Punjabi literature offers:",
+      "options": [
+        "A) No theory",
+        "B) Alternative epistemologies to Western frameworks",
+        "C) Same as Western",
+        "D) Inferior concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d7117bb546dc6e02ea3a9c10130cf4619dfe8f4",
+      "sectionIndex": 7,
+      "question": "The biopolitics of language in Punjabi context:",
+      "options": [
+        "A) Abstract concept",
+        "B) Lived reality of linguistic governance",
+        "C) No connection",
+        "D) Medical only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9a38c3218dfd663a6bf482f4794ac61e85bf703",
+      "sectionIndex": 7,
+      "question": "Posthumanist readings of Punjabi texts:",
+      "options": [
+        "A) Impossible",
+        "B) Reveal non-anthropocentric ontologies",
+        "C) Science fiction only",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "924d6966dd75b670b4d6a6f59900fb158ae376a6",
+      "sectionIndex": 7,
+      "question": "The archive of Punjabi literature:",
+      "options": [
+        "A) Complete record",
+        "B) Structured absences requiring counter-archival practices",
+        "C) No gaps",
+        "D) Government record"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a120ac626a824ef15bdba5852e96dccbdf444af6",
+      "sectionIndex": 7,
+      "question": "Methodological nationalism in Punjabi studies:",
+      "options": [
+        "A) Necessary framework",
+        "B) Limitation requiring transnational perspectives",
+        "C) Only approach",
+        "D) No nationalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2440708cabc8e6aeb3514f67835cd047c8ecbee7",
+      "sectionIndex": 8,
+      "question": "The creative writing vs criticism debate in Punjabi:",
+      "options": [
+        "A) Clear hierarchy",
+        "B) False binary masking institutional politics",
+        "C) Creativity superior",
+        "D) Criticism superior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "966779cce071dd08050c0e02797213672e21fee2",
+      "sectionIndex": 8,
+      "question": "The question of literary autonomy in Punjabi context:",
+      "options": [
+        "A) Complete autonomy",
+        "B) Relative autonomy within social determinations",
+        "C) No autonomy",
+        "D) Political control only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5eb9de16d8ae228f247973c479d28ee1b6112bc",
+      "sectionIndex": 8,
+      "question": "The new materialism's implications for Punjabi studies:",
+      "options": [
+        "A) Return to Marxism",
+        "B) Attention to material-semiotic assemblages",
+        "C) Rejection of culture",
+        "D) Economic focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb3bcb20b39ca99391e55cceb162964d33dcd633",
+      "sectionIndex": 8,
+      "question": "The decolonial option for Punjabi literature:",
+      "options": [
+        "A) Postcolonial enough",
+        "B) Epistemic delinking from Western categories",
+        "C) Neo-colonialism",
+        "D) No need"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "580c9c8d65bfdb47052b20ae9870e59f9127f535",
+      "sectionIndex": 8,
+      "question": "Artificial Intelligence and Punjabi literature:",
+      "options": [
+        "A) Threat only",
+        "B) Challenges human-centered definitions of creativity",
+        "C) No impact",
+        "D) Complete replacement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d078258871389dcebf88f914e087eb468c73a0e2",
+      "sectionIndex": 8,
+      "question": "The Anthropocene and Punjabi literary imagination:",
+      "options": [
+        "A) Scientific concept only",
+        "B) Demands new narrative forms for planetary crisis",
+        "C) Western worry",
+        "D) No relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e5bc0387733ce05ff355cb0ccedad66581f0ae1",
+      "sectionIndex": 8,
+      "question": "The politics of close vs distant reading:",
+      "options": [
+        "A) Methodological choice",
+        "B) Ideological positions on literary knowledge",
+        "C) No politics",
+        "D) Same results"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2457c54afd65785180192fa75b241752d22831cc",
+      "sectionIndex": 8,
+      "question": "The future of Punjabi literary studies:",
+      "options": [
+        "A) Traditional continuation",
+        "B) Radical reimagining of disciplinary boundaries",
+        "C) Death of literature",
+        "D) No change needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fffe1199a191b47538b8e1267a4373537d1f07b",
+      "sectionIndex": 8,
+      "question": "The role of artificial languages in preserving Punjabi:",
+      "options": [
+        "A) Replacement threat",
+        "B) Potential augmentation tools",
+        "C) No connection",
+        "D) Enemy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97cb5a571e02f3811ccd6939cdc570e7d9f5cb05",
+      "sectionIndex": 8,
+      "question": "The ethics of studying Punjabi literature:",
+      "options": [
+        "A) No ethical dimension",
+        "B) Responsibility to communities and futures",
+        "C) Academic only",
+        "D) Personal choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41c0c27952d32fd24fd8e9b905a4ed0746802255",
+      "sectionIndex": 9,
+      "question": "The integration of performance studies with Punjabi literature:",
+      "options": [
+        "A) Separate fields",
+        "B) Necessary expansion beyond textual paradigms",
+        "C) Performance only",
+        "D) Text only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25120e12768df37077cf375f3f2d3c21473c0707",
+      "sectionIndex": 9,
+      "question": "Quantum theory metaphors in recent Punjabi criticism:",
+      "options": [
+        "A) Scientific pretension",
+        "B) Productive analogies for indeterminacy and multiplicity",
+        "C) No relevance",
+        "D) Exact application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da8c0de87a646c9c5581eb29c194d806583e9a5c",
+      "sectionIndex": 9,
+      "question": "The challenge of big data to Punjabi literary studies:",
+      "options": [
+        "A) Quantification only",
+        "B) Complementary scales of analysis",
+        "C) Replacement of reading",
+        "D) No challenge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78871b5d16eb1f4b7dcb97e871405fc0598d3ddc",
+      "sectionIndex": 9,
+      "question": "The commons movement and Punjabi literature:",
+      "options": [
+        "A) Economic issue only",
+        "B) Models for knowledge sharing beyond property",
+        "C) No connection",
+        "D) Private ownership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "934a74638cd0da2e48f58db285594872c9d4cd22",
+      "sectionIndex": 9,
+      "question": "Biosemiotics and Punjabi nature writing:",
+      "options": [
+        "A) Forced connection",
+        "B) Recognition of meaning-making beyond human",
+        "C) Science only",
+        "D) No application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e0d009b98288b910052907418a6f3dc9111e35f",
+      "sectionIndex": 9,
+      "question": "The politics of hope in contemporary Punjabi literature:",
+      "options": [
+        "A) Naive optimism",
+        "B) Critical utopianism amid crisis",
+        "C) Pessimism only",
+        "D) No politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45b67e6b9284547ab86ab0b8e12339ec83007be2",
+      "sectionIndex": 9,
+      "question": "Assemblage theory for Punjabi literary networks:",
+      "options": [
+        "A) Network analysis only",
+        "B) Dynamic material-social configurations",
+        "C) Technical tool",
+        "D) No theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a280ec374fe03c43f38dff322fc87a035eb03a78",
+      "sectionIndex": 9,
+      "question": "The sonic dimensions of Punjabi literature:",
+      "options": [
+        "A) Music only",
+        "B) Fundamental to meaning beyond semantics",
+        "C) Secondary aspect",
+        "D) No importance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21148b8e3fef6cb389e54777ccb22024939fea61",
+      "sectionIndex": 9,
+      "question": "Speculative futures in Punjabi writing:",
+      "options": [
+        "A) Science fiction only",
+        "B) Decolonial imagination of alternatives",
+        "C) Western genre",
+        "D) No speculation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfd3bdbf9f3c4cf967db59f4f8d81aa4d326264c",
+      "sectionIndex": 9,
+      "question": "The ultimate question for Punjabi literature:",
+      "options": [
+        "A) Survival",
+        "B) Transformation while maintaining ethical commitments",
+        "C) Museum piece",
+        "D) Global dominance"
+      ],
+      "correct": "B"
+    }
+  ]
+}

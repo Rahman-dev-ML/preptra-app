@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-12T20:54:04.259Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "710c0bcb4acf15c5717e75f2d1a1edc55ee75fad",
+      "sectionIndex": 0,
+      "question": "The botanical name for rice is:",
+      "options": [
+        "A) Triticum aestivum",
+        "B) Oryza sativa",
+        "C) Gossypium hirsutum",
+        "D) Zea mays"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3401c6ca089dee52899bd7f748a4639134dfff74",
+      "sectionIndex": 0,
+      "question": "Olericulture specifically refers to the cultivation of:",
+      "options": [
+        "A) Fruits and nuts",
+        "B) Ornamental plants",
+        "C) Vegetables",
+        "D) Field crops"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e25a2562874318ebaffdf60f6eacaa20c188bade",
+      "sectionIndex": 0,
+      "question": "Sericulture is primarily associated with:",
+      "options": [
+        "A) Fish farming",
+        "B) Silk production",
+        "C) Bee keeping",
+        "D) Mushroom cultivation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "890399b508f5b374b8d8262c6e481ff61e433e12",
+      "sectionIndex": 0,
+      "question": "The \"White Revolution\" in agriculture refers to:",
+      "options": [
+        "A) Cotton production increase",
+        "B) Milk production enhancement",
+        "C) Sugar production boost",
+        "D) Rice production improvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e2780c00323e7fe9a28c0c1ff5c50e66e60a041",
+      "sectionIndex": 0,
+      "question": "The botanical name for cotton is:",
+      "options": [
+        "A) Brassica napus",
+        "B) Oryza sativa",
+        "C) Gossypium hirsutum",
+        "D) Triticum aestivum"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2701ff46fb8b1d7d54dd7315a0972cad3e8fc774",
+      "sectionIndex": 0,
+      "question": "Wheat inflorescence is botanically called:",
+      "options": [
+        "A) Panicle",
+        "B) Spike",
+        "C) Raceme",
+        "D) Cyme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "065fa2ccc42887d0b010d974634d9c4b42e5f2c0",
+      "sectionIndex": 0,
+      "question": "Which of the following is classified as a root crop?",
+      "options": [
+        "A) Tomato",
+        "B) Onion",
+        "C) Sweet potato",
+        "D) Cabbage"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "74342f3968b60066070abacd8b6b2e43cd76f73c",
+      "sectionIndex": 0,
+      "question": "Organic farming specifically excludes the use of:",
+      "options": [
+        "A) Compost manure",
+        "B) Green manure",
+        "C) Synthetic chemical fertilizers",
+        "D) Crop rotation practices"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8c332ac485dbf795c568068d59f07bafb30b4ecc",
+      "sectionIndex": 0,
+      "question": "The term \"hybrid vigour\" is scientifically known as:",
+      "options": [
+        "A) Epistasis",
+        "B) Heterosis",
+        "C) Linkage",
+        "D) Pleiotropy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ba733c6620214112b6446873e624c75d75282c5",
+      "sectionIndex": 0,
+      "question": "Photoperiodism in plants refers to their response to:",
+      "options": [
+        "A) Light intensity variations",
+        "B) Day length duration",
+        "C) Light quality spectrum",
+        "D) Light direction changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d4e84c7c739608ecff72a157cf86b303e563600",
+      "sectionIndex": 0,
+      "question": "Allelopathy is the phenomenon where:",
+      "options": [
+        "A) Plants help each other grow symbiotically",
+        "B) Plants compete for soil nutrients",
+        "C) Plants produce chemicals affecting other plants",
+        "D) Plants share water resources mutually"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "37ba09814ce3f4ca6665df9431e7cbc7cf130d33",
+      "sectionIndex": 0,
+      "question": "Which enzyme is most essential for photosynthesis?",
+      "options": [
+        "A) Amylase",
+        "B) RuBisCO",
+        "C) Pepsin",
+        "D) Invertase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ebe52333b3f28720d7fc972965c4d676f069498",
+      "sectionIndex": 0,
+      "question": "Genetic diversity primarily refers to:",
+      "options": [
+        "A) Variation within a single species",
+        "B) Number of species in an ecosystem",
+        "C) Variety of ecosystems present",
+        "D) Habitat complexity levels"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a902c9ab696e8109ad6bef7d6df0196cdc413a25",
+      "sectionIndex": 0,
+      "question": "The scientific study of heredity is called:",
+      "options": [
+        "A) Ecology",
+        "B) Genetics",
+        "C) Taxonomy",
+        "D) Morphology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8a030717e83c257b51b6cda65722470a31c8d31",
+      "sectionIndex": 0,
+      "question": "Basic seed in agricultural terminology is:",
+      "options": [
+        "A) Seed produced by local farmers",
+        "B) Seed maintained by research institutions",
+        "C) Imported commercial seed",
+        "D) Hybrid seed varieties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a31b7a1e3b434d8464bf0d80c5a276d0b4175198",
+      "sectionIndex": 1,
+      "question": "Despite good crop production, farmers remain frustrated primarily due to:",
+      "options": [
+        "A) Lack of quality seeds",
+        "B) Poor marketing systems and price volatility",
+        "C) Unfavorable weather conditions",
+        "D) Soil fertility problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5b636ab8aee6882dd393c54f6cd262d4bdd55ad",
+      "sectionIndex": 1,
+      "question": "Agricultural marketing system improvements can break stagnation by addressing:",
+      "options": [
+        "A) Increasing input costs",
+        "B) Reducing crop diversity",
+        "C) Better price control mechanisms",
+        "D) Limiting market access"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fadb18072a5924fdee827b6e0d358a7b2dcdc4a0",
+      "sectionIndex": 1,
+      "question": "The main bottleneck in agricultural commodity marketing is:",
+      "options": [
+        "A) Overproduction of crops",
+        "B) Inadequate storage and transportation facilities",
+        "C) Excessive crop varieties",
+        "D) Too much government support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1445987caddf9f61ffb4a285889e8f3ae32f027",
+      "sectionIndex": 1,
+      "question": "Value-added agriculture primarily focuses on:",
+      "options": [
+        "A) Increasing cultivated land area",
+        "B) Processing and improving product quality",
+        "C) Using more chemical fertilizers",
+        "D) Growing only traditional crops"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d731e9c497308fa8a1744f66e7277ab842dd6b0",
+      "sectionIndex": 1,
+      "question": "Land reforms in agriculture primarily aim to:",
+      "options": [
+        "A) Increase only large farm sizes",
+        "B) Redistribute land more equitably",
+        "C) Reduce overall crop production",
+        "D) Eliminate small-scale farmers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7b292453c64016caff020519f389e4adb0e10be",
+      "sectionIndex": 1,
+      "question": "Corporate farming differs from traditional farming mainly in:",
+      "options": [
+        "A) Types of crops grown",
+        "B) Scale of operation and management approach",
+        "C) Soil types utilized",
+        "D) Weather dependency factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "488eb8323ee778093841e7aba4fcf79e6bbfb6ad",
+      "sectionIndex": 1,
+      "question": "The law of inheritance affects agriculture by:",
+      "options": [
+        "A) Fragmenting land holdings over generations",
+        "B) Increasing soil fertility naturally",
+        "C) Improving crop varieties automatically",
+        "D) Reducing pest problems significantly"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8a936ea62f5f6a976dd0f54e008811367ee8635c",
+      "sectionIndex": 1,
+      "question": "Agricultural price instability is mainly caused by:",
+      "options": [
+        "A) Consistent weather patterns",
+        "B) Market fluctuations and policy changes",
+        "C) Steady consumer demand",
+        "D) Fixed production costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8069346fe987bc7debf6a6a9e4c7e2283a71befc",
+      "sectionIndex": 1,
+      "question": "Rural demographic shift towards mini-urbanization affects:",
+      "options": [
+        "A) Only population numbers",
+        "B) Gender roles and infrastructure development",
+        "C) Soil quality exclusively",
+        "D) Weather patterns significantly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1dc9e9941c4c2aeffe941b84e5eacb936ff60ff3",
+      "sectionIndex": 1,
+      "question": "Cottage industries in rural areas primarily help in:",
+      "options": [
+        "A) Large-scale manufacturing only",
+        "B) Employment generation and value addition",
+        "C) Reducing agricultural production",
+        "D) Urban development exclusively"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d318bfd2decec3ace2de9973b212c113753bb75",
+      "sectionIndex": 2,
+      "question": "Genetic Engineering and Biotechnology are considered important for 21st century agriculture because they:",
+      "options": [
+        "A) Are completely new discoveries",
+        "B) Offer solutions for crop improvement and stress tolerance",
+        "C) Replace traditional farming entirely",
+        "D) Eliminate the need for fertilizers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e2628dc71d87088d638b0cc00f363fc474a9102",
+      "sectionIndex": 2,
+      "question": "The primary goal of genetic manipulation in field crops is to improve:",
+      "options": [
+        "A) Soil fertility only",
+        "B) Plant tolerance to biotic and abiotic stress",
+        "C) Water availability",
+        "D) Farm mechanization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40c44b2164bd7e334c4e20ecc78d4b42c9c129e3",
+      "sectionIndex": 2,
+      "question": "The basic laws of inheritance have helped crop improvement by enabling:",
+      "options": [
+        "A) Soil conservation",
+        "B) Systematic breeding and variety development",
+        "C) Pest control",
+        "D) Water management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79a54f05e18ea67657abd03066114c50973ad02c",
+      "sectionIndex": 2,
+      "question": "Modern genetic techniques for crop improvement offer the prospect of:",
+      "options": [
+        "A) Eliminating all plant diseases",
+        "B) Creating significant advances in agricultural productivity",
+        "C) Replacing all traditional crops",
+        "D) Eliminating the need for water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e52aa9ef6243213d8722e1cd00a58f59c263377",
+      "sectionIndex": 2,
+      "question": "The application of genetic engineering in agriculture covers improvements in:",
+      "options": [
+        "A) Only plant crops",
+        "B) Only animal livestock",
+        "C) Both plants and animals",
+        "D) Only soil properties"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "28dd5b6de6d3adbd39c7564ba0ecb266c0d066ea",
+      "sectionIndex": 2,
+      "question": "Traditional breeding methods differ from molecular techniques in:",
+      "options": [
+        "A) Speed and precision of genetic changes",
+        "B) Cost factors only",
+        "C) Crop types used",
+        "D) Soil requirements"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e14da76151598857d3029ef01ff9cb90cfc16645",
+      "sectionIndex": 2,
+      "question": "The benefits and risks of GM crops should be evaluated considering:",
+      "options": [
+        "A) Only economic factors",
+        "B) Both advantages and potential environmental concerns",
+        "C) Only yield improvements",
+        "D) Only cost reductions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "daf450bfaadf4169241b9b88c4eab57c27a49b2b",
+      "sectionIndex": 2,
+      "question": "Biotechnology contributes to food security through:",
+      "options": [
+        "A) Increasing farm sizes only",
+        "B) Biofortification and stress-resistant varieties",
+        "C) Reducing crop diversity",
+        "D) Eliminating traditional farming"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1f6778e397f4bf75b58b59ee673454d5c2fca08",
+      "sectionIndex": 2,
+      "question": "Low productivity of cereal crops in Pakistan is caused by:",
+      "options": [
+        "A) Excessive rainfall only",
+        "B) Multiple factors including genetics, technology, and management",
+        "C) Too much fertilizer use",
+        "D) Excessive mechanization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3f31fbea50403173dbdf3086e95a7e5764fde5d",
+      "sectionIndex": 2,
+      "question": "Grain production sustainability despite falling international prices requires:",
+      "options": [
+        "A) Reducing production costs only",
+        "B) Integrated approach including genetics and efficient practices",
+        "C) Eliminating exports",
+        "D) Growing only local varieties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9306d2d045f8ba199ec3ce827180432caf37c67d",
+      "sectionIndex": 2,
+      "question": "Biofortification in crops refers to:",
+      "options": [
+        "A) Increasing crop size",
+        "B) Enhancing nutritional content",
+        "C) Improving soil fertility",
+        "D) Reducing water requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27c6f9142d608856157220730eeabe9cc8e49092",
+      "sectionIndex": 2,
+      "question": "Biotechnology innovations for drought resistance help in:",
+      "options": [
+        "A) Eliminating irrigation needs",
+        "B) Developing water-efficient crop varieties",
+        "C) Increasing water availability",
+        "D) Changing weather patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "639a74b0428e1671fdae31601ffc5c30049d1532",
+      "sectionIndex": 2,
+      "question": "Conservation and utilization of plant genetic resources is important for:",
+      "options": [
+        "A) Maintaining biodiversity and future crop improvement",
+        "B) Reducing farm sizes",
+        "C) Eliminating traditional varieties",
+        "D) Increasing fertilizer use"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "aecc45fd3aacbe3adb1fbe40f20046bad3c78aa7",
+      "sectionIndex": 2,
+      "question": "The role of molecular biology in crop improvement includes:",
+      "options": [
+        "A) Soil testing only",
+        "B) Precise genetic modification and marker-assisted breeding",
+        "C) Water management",
+        "D) Pest identification only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52ec65a644eef6dcd89cd2a49fc123175af97867",
+      "sectionIndex": 2,
+      "question": "The prospects of new technologies leading to another green revolution depend on:",
+      "options": [
+        "A) Government policies only",
+        "B) Integration of biotechnology with sustainable practices",
+        "C) Increasing farm sizes",
+        "D) Eliminating small farmers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d9d49280a014521dca99bce6875e41c85acfc9b",
+      "sectionIndex": 3,
+      "question": "Soil texture and structure affect plant growth by influencing:",
+      "options": [
+        "A) Plant height only",
+        "B) Water retention and nutrient availability",
+        "C) Leaf color only",
+        "D) Flowering time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c72382e40532a8b08e6cb45841c7ca7b658fed0d",
+      "sectionIndex": 3,
+      "question": "The significance of different phases of soil in plant nutrition relates to:",
+      "options": [
+        "A) Color variations only",
+        "B) Solid, liquid, and gaseous components affecting root function",
+        "C) Soil depth only",
+        "D) Surface temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c46ce8d02dc1deaedb42dbdcef72d917286542a5",
+      "sectionIndex": 3,
+      "question": "Water functions in soil and plants include:",
+      "options": [
+        "A) Temperature regulation only",
+        "B) Nutrient transport, turgor maintenance, and photosynthesis",
+        "C) Root anchoring only",
+        "D) Leaf support only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fbf8103ca7ae93bac8f3ec0ab8aec7a5dc48b1a",
+      "sectionIndex": 3,
+      "question": "Water stress conditions affect plant growth by:",
+      "options": [
+        "A) Improving root development",
+        "B) Reducing photosynthesis and metabolic processes",
+        "C) Increasing flowering",
+        "D) Enhancing fruit quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70818461920b051f27577627be7743470c69e63c",
+      "sectionIndex": 3,
+      "question": "The main causes of soil salinity in irrigated agriculture include:",
+      "options": [
+        "A) Excessive organic matter",
+        "B) Poor drainage and high evaporation rates",
+        "C) Too much crop rotation",
+        "D) Excessive tillage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a151597bc03e12a91a017e30d6d24393f72a66c",
+      "sectionIndex": 3,
+      "question": "Appropriate recommendations to reclaim saline-sodic soils include:",
+      "options": [
+        "A) Adding more salt",
+        "B) Improving drainage and applying gypsum",
+        "C) Reducing irrigation",
+        "D) Eliminating all crops"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81152f82af557c39c3cf3e066c064c7f8552b542",
+      "sectionIndex": 3,
+      "question": "Soil erosion in rainfed areas can be controlled by:",
+      "options": [
+        "A) Removing all vegetation",
+        "B) Contour farming and terracing",
+        "C) Increasing tillage frequency",
+        "D) Using only chemical fertilizers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6e3b8fa91875474ab6c164b79430427ad8704d0",
+      "sectionIndex": 3,
+      "question": "Soil fertility of arable lands can be maintained through:",
+      "options": [
+        "A) Continuous monoculture",
+        "B) Integrated nutrient management and organic matter addition",
+        "C) Excessive tillage",
+        "D) Eliminating crop rotation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86b5f986db2d6aba29ff59cca206edc77c47df0f",
+      "sectionIndex": 3,
+      "question": "Trees help in reclaiming water-logged and saline soils by:",
+      "options": [
+        "A) Increasing salt content",
+        "B) Improving drainage and salt uptake",
+        "C) Reducing soil depth",
+        "D) Eliminating soil organisms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3dba5a384ab096d4391da736e0b16b52517a9a0b",
+      "sectionIndex": 3,
+      "question": "Modern irrigation techniques like drip and sprinkler systems help in:",
+      "options": [
+        "A) Increasing water waste",
+        "B) Improving water use efficiency",
+        "C) Reducing crop yields",
+        "D) Increasing soil salinity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77836cc4e5805e547a3fb4f7b26f52afd8b88d0e",
+      "sectionIndex": 3,
+      "question": "The role of natural resources (soil, water, solar energy) in crop production can be improved through:",
+      "options": [
+        "A) Ignoring conservation practices",
+        "B) Innovative water-saving and energy-efficient technologies",
+        "C) Using only traditional methods",
+        "D) Eliminating modern equipment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79adc030bc5702cb5c894502002cdbac15f649b9",
+      "sectionIndex": 3,
+      "question": "IPNM (Integrated Plant Nutrient Management) aims to:",
+      "options": [
+        "A) Use only chemical fertilizers",
+        "B) Balance fertilization with organic inputs for soil health",
+        "C) Eliminate all fertilizers",
+        "D) Reduce crop productivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed719fc122065ad2fad6be3f791afe7aae079b14",
+      "sectionIndex": 3,
+      "question": "Chemical fertilizer efficiency can be improved by:",
+      "options": [
+        "A) Applying excessive amounts",
+        "B) Proper timing, placement, and balanced application",
+        "C) Using only one type of fertilizer",
+        "D) Ignoring soil testing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68385c830a4e4d811effd0dedfa2b666c7ecacae",
+      "sectionIndex": 3,
+      "question": "Agro-industrial waste can be best utilized as plant nutrients through:",
+      "options": [
+        "A) Direct burning",
+        "B) Composting and value addition processes",
+        "C) Dumping in water bodies",
+        "D) Ignoring completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8145a725f9b379effe20dda148e2026eb91faea2",
+      "sectionIndex": 3,
+      "question": "Zero tillage compared to mechanized tillage offers advantages in:",
+      "options": [
+        "A) Increasing soil erosion",
+        "B) Soil conservation and reduced labor requirements",
+        "C) Increasing fuel consumption",
+        "D) Reducing crop yields"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4553a78aa2199dcd43f15a9495f52401e085caa0",
+      "sectionIndex": 4,
+      "question": "The principles of Integrated Pest Management include:",
+      "options": [
+        "A) Using only chemical pesticides",
+        "B) Combining biological, cultural, and chemical methods",
+        "C) Eliminating all insects",
+        "D) Using maximum pesticide doses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59b560aa044a04743c5b7d17df53480c62c68aba",
+      "sectionIndex": 4,
+      "question": "Biotic stresses affecting crop production can be managed through:",
+      "options": [
+        "A) Increasing pesticide use only",
+        "B) Comprehensive IPM approach with multiple control strategies",
+        "C) Eliminating all beneficial insects",
+        "D) Using only resistant varieties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fbe0a59864cde18d6ea3d42b50acf57f1568236",
+      "sectionIndex": 4,
+      "question": "Various components of IPM Technology include:",
+      "options": [
+        "A) Chemical control only",
+        "B) Economic thresholds, biological control, and cultural practices",
+        "C) Pest elimination only",
+        "D) Maximum pesticide application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a58d21f8bcc39ddd0f8d6be34fdcb1936c58a292",
+      "sectionIndex": 4,
+      "question": "Different economic decision levels in IPM help in:",
+      "options": [
+        "A) Maximizing pesticide profits",
+        "B) Determining when control measures are economically justified",
+        "C) Eliminating all pests",
+        "D) Increasing production costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6cb7260f32d5adfc331f1907cf8c1f8e4b0661f",
+      "sectionIndex": 4,
+      "question": "Indiscriminate use of pesticides is discouraged because it leads to:",
+      "options": [
+        "A) Increased crop yields",
+        "B) Resistance development and environmental pollution",
+        "C) Better pest control",
+        "D) Reduced production costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbc4d747311f5ba1429f521f2364233728ecac30",
+      "sectionIndex": 4,
+      "question": "IPM plays a role in sustainable agriculture by:",
+      "options": [
+        "A) Increasing chemical inputs",
+        "B) Reducing environmental impact while maintaining productivity",
+        "C) Eliminating all natural enemies",
+        "D) Maximizing pesticide use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9740252005c4b3e40f43fcb90518e13961b4b547",
+      "sectionIndex": 4,
+      "question": "Biological control in IPM involves:",
+      "options": [
+        "A) Using more chemicals",
+        "B) Utilizing natural enemies and beneficial organisms",
+        "C) Eliminating all insects",
+        "D) Increasing pest populations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "091a77f317aa98750cf4fe77caba92996eb309ab",
+      "sectionIndex": 4,
+      "question": "Cultural methods in pest management include:",
+      "options": [
+        "A) Using only pesticides",
+        "B) Crop rotation, sanitation, and resistant varieties",
+        "C) Eliminating crop diversity",
+        "D) Increasing pest habitats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62043ea3c5cf7dca241271f383575e24e6859f2b",
+      "sectionIndex": 4,
+      "question": "Integrated management practices should consider:",
+      "options": [
+        "A) Only economic factors",
+        "B) Effectiveness, economic viability, and environmental safety",
+        "C) Only pest elimination",
+        "D) Maximum chemical use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8beadfb3d8cfd5312051223fa13c4c143cc15152",
+      "sectionIndex": 4,
+      "question": "IPM (Integrated Pest Management) and IVM (Integrated Vector Management) differ in:",
+      "options": [
+        "A) Both target the same organisms",
+        "B) IPM focuses on crop pests, IVM on disease vectors",
+        "C) No difference exists",
+        "D) Both use identical methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71b93d07773c6fb2b73b4f1d308ce5eb6dbeb0d8",
+      "sectionIndex": 5,
+      "question": "The horticultural industry in Pakistan is considered emerging because of its:",
+      "options": [
+        "A) Limited market potential",
+        "B) High-value production and export opportunities",
+        "C) Low profitability",
+        "D) Traditional farming methods only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cecf61f493f1d53b7fbc08d51c0f04e10f7becd3",
+      "sectionIndex": 5,
+      "question": "Major problems limiting horticultural crop productivity include:",
+      "options": [
+        "A) Excessive government support",
+        "B) Technology gaps, marketing issues, and infrastructure constraints",
+        "C) Too much research",
+        "D) Excessive mechanization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e60a1c78aee4b6e13ff50f8bf2622afafb4ea68",
+      "sectionIndex": 5,
+      "question": "Horticultural crops can play a better role than major crops by:",
+      "options": [
+        "A) Requiring more water",
+        "B) Providing higher economic returns per unit area",
+        "C) Needing more labor",
+        "D) Having longer growing seasons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73cd45e8dbf72658701ec8f921b168db92f57e73",
+      "sectionIndex": 5,
+      "question": "Asexual propagation techniques for fruit plants include:",
+      "options": [
+        "A) Seed propagation only",
+        "B) Grafting, budding, and cutting methods",
+        "C) Natural reproduction only",
+        "D) Cross-pollination methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26fbb39a7743a6fd200f935b2d387bbabf27d92a",
+      "sectionIndex": 5,
+      "question": "Factors affecting plant growth include:",
+      "options": [
+        "A) Soil type only",
+        "B) Light, water, nutrients, and temperature",
+        "C) Plant age only",
+        "D) Seed size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41015e51a109a500104567b7925979249d3cf3fb",
+      "sectionIndex": 5,
+      "question": "Prerequisites for successful plant propagation include:",
+      "options": [
+        "A) Using old seeds only",
+        "B) Proper environmental conditions and quality propagation material",
+        "C) Maximum fertilizer application",
+        "D) Continuous watering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f81daa6a2ceb2c88e81c734d768dce60133f468",
+      "sectionIndex": 5,
+      "question": "Measures to bridge yield gaps between national average and potential yield include:",
+      "options": [
+        "A) Reducing research activities",
+        "B) Improved agronomic practices and technology adoption",
+        "C) Using only traditional varieties",
+        "D) Eliminating extension services"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a06b9996ee74cfcc694133d0dd2a4c1735dc7d2f",
+      "sectionIndex": 5,
+      "question": "Tunnel farming in horticulture provides:",
+      "options": [
+        "A) No advantages",
+        "B) Controlled environment and year-round production",
+        "C) Increased pest problems",
+        "D) Higher water requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2da4f5fc815456d4c273ddbf5c94fbea61d8173",
+      "sectionIndex": 5,
+      "question": "Organic horticultural production emphasizes:",
+      "options": [
+        "A) Maximum chemical use",
+        "B) Natural inputs and sustainable practices",
+        "C) Ignoring soil health",
+        "D) Monoculture systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96f51e7e367840b6106fc1ecf86fe2bba5771077",
+      "sectionIndex": 5,
+      "question": "Value addition in horticultural crops involves:",
+      "options": [
+        "A) Selling raw produce only",
+        "B) Processing, packaging, and quality improvement",
+        "C) Reducing product quality",
+        "D) Eliminating market linkages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69a9375f3a3c2c070ac91d576f226ea628593fe8",
+      "sectionIndex": 6,
+      "question": "Sustainable forest management practices include:",
+      "options": [
+        "A) Clear cutting all forests",
+        "B) Selective harvesting and regeneration planning",
+        "C) Eliminating all trees",
+        "D) Ignoring biodiversity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47f679e75b70a735c10dbe29e4ab85ed071d3809",
+      "sectionIndex": 6,
+      "question": "Different silvicultural systems suitable for forests include:",
+      "options": [
+        "A) Even-aged management only",
+        "B) Both even-aged and uneven-aged management systems",
+        "C) No management needed",
+        "D) Only clear cutting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9aeb4741c9a67a3dd5b84d27c0097423e14b0753",
+      "sectionIndex": 6,
+      "question": "Silvicultural operations at different growth stages include:",
+      "options": [
+        "A) No intervention needed",
+        "B) Thinning, pruning, and regeneration techniques",
+        "C) Only harvesting",
+        "D) Eliminating undergrowth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a970b174e808eeee12f5242d12bb442208a2ce1",
+      "sectionIndex": 6,
+      "question": "Climatic and edaphic factors that accelerate desertification include:",
+      "options": [
+        "A) Excessive rainfall",
+        "B) Low rainfall, soil degradation, and poor vegetation cover",
+        "C) High soil fertility",
+        "D) Dense forest cover"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba9be4dfb8c17f98e3ed3e4258e4c8e7aeec64ae",
+      "sectionIndex": 6,
+      "question": "Conventional forest classification in Pakistan is based on:",
+      "options": [
+        "A) Tree height only",
+        "B) Ecosystem types, climatic zones, and species composition",
+        "C) Economic value only",
+        "D) Accessibility factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2393cab3d74e7b7b67129ef0924a3045a6b5014f",
+      "sectionIndex": 6,
+      "question": "The role of agroforestry in forage scarcity mitigation includes:",
+      "options": [
+        "A) Reducing forage production",
+        "B) Integrating trees with forage crops for enhanced productivity",
+        "C) Eliminating livestock",
+        "D) Increasing water scarcity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37e53d22f74d7a50c42b30e2a00c9587f85e6f05",
+      "sectionIndex": 6,
+      "question": "Integrated management of rangelands and livestock production involves:",
+      "options": [
+        "A) Overgrazing practices",
+        "B) Sustainable grazing systems and rangeland rehabilitation",
+        "C) Eliminating all vegetation",
+        "D) Ignoring carrying capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51cb3eed21949fc4724b1d2f3d96fb5ec49bc0dc",
+      "sectionIndex": 6,
+      "question": "Climate-smart policies for forest sustainability should address:",
+      "options": [
+        "A) Ignoring climate change",
+        "B) Restoration strategies and climate resilience integration",
+        "C) Increasing deforestation",
+        "D) Eliminating forest protection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "949f61f0d46f93a79d85315205c5a881ef6a7085",
+      "sectionIndex": 6,
+      "question": "Integrated watershed management addresses competing water demands by:",
+      "options": [
+        "A) Eliminating forest cover",
+        "B) Balancing agricultural, industrial, and domestic water needs",
+        "C) Increasing water pollution",
+        "D) Ignoring community participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2283346036391acf23cf6139cd440d2dc360221",
+      "sectionIndex": 6,
+      "question": "Pakistan Forest Policy integration with Forest Act effectiveness requires:",
+      "options": [
+        "A) Ignoring legal frameworks",
+        "B) Aligning strategic goals with actionable legal measures",
+        "C) Eliminating forest laws",
+        "D) Reducing forest area"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5b2d05c5f869ac97d6cbd00c42b992dbd662634",
+      "sectionIndex": 6,
+      "question": "Major wood-based industries in Pakistan require:",
+      "options": [
+        "A) Only imported wood",
+        "B) Sustainable wood supply and efficient utilization",
+        "C) Eliminating all forests",
+        "D) Using only plastic materials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74d303b9ebcbaefb92b497fb5d2f856004ad7cbb",
+      "sectionIndex": 6,
+      "question": "The potential of ecotourism in Pakistan's forests includes:",
+      "options": [
+        "A) Environmental degradation",
+        "B) Economic benefits while conserving biodiversity",
+        "C) Eliminating wildlife",
+        "D) Increasing pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89753fa4ec403a272a5d100fe1c965c4a7acad0e",
+      "sectionIndex": 6,
+      "question": "Social forestry programs aim to:",
+      "options": [
+        "A) Exclude local communities",
+        "B) Involve communities in forest management and conservation",
+        "C) Eliminate all trees",
+        "D) Reduce forest benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29955175ceb595f989cad61477bb45eb833316a4",
+      "sectionIndex": 6,
+      "question": "Eucalyptus camaldulensis is not recommended for agroforestry because it:",
+      "options": [
+        "A) Grows too slowly",
+        "B) Competes heavily with crops for water and nutrients",
+        "C) Provides no economic benefits",
+        "D) Cannot adapt to local conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5d579888e1fbc9830430104c83b481ceb43a7e8",
+      "sectionIndex": 6,
+      "question": "Rangelands are important for Pakistan's agricultural economy because they:",
+      "options": [
+        "A) Provide only timber",
+        "B) Support livestock production and rural livelihoods",
+        "C) Have no economic value",
+        "D) Compete with crop production"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10a87f8f3dfd22783e4f4621c8e3bd370e6f102c",
+      "sectionIndex": 7,
+      "question": "The applicability of Precision Agriculture in prevailing farming systems depends on:",
+      "options": [
+        "A) Ignoring technology",
+        "B) GPS, remote sensing, and variable rate application technologies",
+        "C) Using only traditional methods",
+        "D) Eliminating mechanization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2648b471334debec4938e2817b3136299c9fd5f5",
+      "sectionIndex": 7,
+      "question": "Changes foreseen in farming systems in post-climate change era include:",
+      "options": [
+        "A) No adaptations needed",
+        "B) Drought-resistant varieties and improved irrigation methods",
+        "C) Eliminating all crops",
+        "D) Ignoring weather patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b247f1bdc576b8bb436e18f565c66ba47223825b",
+      "sectionIndex": 7,
+      "question": "Integrated agriculture approach for sustainability involves:",
+      "options": [
+        "A) Monoculture systems only",
+        "B) Combining crop, livestock, and forestry elements",
+        "C) Eliminating diversity",
+        "D) Using only one farming method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "422df25f7b07b6a1cb91e11bbb40d5a45941e567",
+      "sectionIndex": 7,
+      "question": "Rainfed agriculture in Pakistan faces challenges that can be addressed through:",
+      "options": [
+        "A) Ignoring water conservation",
+        "B) Water-efficient practices and drought-tolerant varieties",
+        "C) Eliminating all crops",
+        "D) Using only irrigated methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4438751944bc797693903e4178f45d34de4c0562",
+      "sectionIndex": 7,
+      "question": "Food security, safety, and climate change challenges can be tackled through:",
+      "options": [
+        "A) Ignoring climate impacts",
+        "B) Integrated policies combining technology and sustainable practices",
+        "C) Reducing food production",
+        "D) Eliminating agricultural research"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "323c90727102b5d74cdad6865b51c6d8127c2e68",
+      "sectionIndex": 7,
+      "question": "Insufficient edible oil production in Pakistan can be enhanced through:",
+      "options": [
+        "A) Importing all oil requirements",
+        "B) Addressing technology gaps and improving input quality",
+        "C) Eliminating oilseed crops",
+        "D) Reducing cultivation area"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2d6a3312265f07438fe90e53cdcfabfc000f074",
+      "sectionIndex": 7,
+      "question": "The choice between organic and conventional farming should consider:",
+      "options": [
+        "A) Only economic factors",
+        "B) Yield, environmental impact, and long-term sustainability",
+        "C) Only production costs",
+        "D) Market preferences only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bbc6e63fa1f317d7dbf87f23e788209408ec8f63",
+      "sectionIndex": 7,
+      "question": "Alternate energy sources in agriculture for carbon credits include:",
+      "options": [
+        "A) Only fossil fuels",
+        "B) Biofuels and renewable energy sources",
+        "C) Nuclear energy only",
+        "D) Coal-based energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06041ea40324568de9d05e2ac43358fab3bee5b6",
+      "sectionIndex": 7,
+      "question": "Cottage industries improve rural development by:",
+      "options": [
+        "A) Competing with agriculture",
+        "B) Creating employment and adding value to agricultural products",
+        "C) Eliminating farming activities",
+        "D) Reducing rural income"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c510efbcc0a5535ffafb362df4b7bcb0a6c41287",
+      "sectionIndex": 7,
+      "question": "The significance of small ruminants in the existing food chain includes:",
+      "options": [
+        "A) Limited economic value",
+        "B) Protein supply, export potential, and integration with crop systems",
+        "C) Only wool production",
+        "D) Environmental degradation"
+      ],
+      "correct": "B"
+    }
+  ]
+}

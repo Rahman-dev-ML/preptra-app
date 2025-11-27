@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:18:40.750Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "11328ff7948b7e9fe9f15f88e6a339929a4cb253",
+      "sectionIndex": 0,
+      "question": "The incompleteness of second-order logic compared to first-order logic demonstrates that:",
+      "options": [
+        "A) Second-order logic is weaker in expressive power",
+        "B) Completeness and expressive power are inversely related in formal systems",
+        "C) First-order logic can express all mathematical truths",
+        "D) Gödel's theorems don't apply to higher-order logics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f05232827e1b13c27159f86b4d018b0422fd43dc",
+      "sectionIndex": 0,
+      "question": "The Löwenheim-Skolem theorem's philosophical implications challenge:",
+      "options": [
+        "A) The determinacy of mathematical structures by formal theories",
+        "B) The validity of deductive reasoning",
+        "C) Only syntactic properties of logic",
+        "D) The consistency of arithmetic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3c9e7ea62eafb0df5019373d3d2e187ef01f2dde",
+      "sectionIndex": 0,
+      "question": "Quine's criticism of the analytic-synthetic distinction undermines:",
+      "options": [
+        "A) Only empirical knowledge",
+        "B) The foundation of logical positivism and a priori knowledge",
+        "C) All forms of knowledge equally",
+        "D) Only synthetic propositions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed32462ae27871e8f9e5c4c3e0b2f3528fe48044",
+      "sectionIndex": 0,
+      "question": "The problem with relevance logic's rejection of \"ex falso quodlibet\" is:",
+      "options": [
+        "A) It makes all arguments valid",
+        "B) It requires revising fundamental proof techniques while maintaining mathematical reasoning",
+        "C) It accepts contradictions universally",
+        "D) It eliminates modus ponens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9131e418f6b1d578ec6103fa06c330d225c907b9",
+      "sectionIndex": 0,
+      "question": "Tarski's undefinability theorem shows that:",
+      "options": [
+        "A) Truth is a meaningless concept",
+        "B) A language cannot contain its own truth predicate without contradiction",
+        "C) All languages are incomplete",
+        "D) Semantic concepts are reducible to syntactic ones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eecf0df6e3b215e22b7a1806b39027e71fc4ccfb",
+      "sectionIndex": 0,
+      "question": "The philosophical significance of non-monotonic logic lies in:",
+      "options": [
+        "A) Rejecting all classical principles",
+        "B) Modeling defeasible reasoning where conclusions can be withdrawn",
+        "C) Proving more theorems than classical logic",
+        "D) Eliminating uncertainty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ddea4e94ed5e95d3477dd15474f9a5bd3c2eda9",
+      "sectionIndex": 0,
+      "question": "Kripke's possible worlds semantics for modal logic assumes:",
+      "options": [
+        "A) All worlds are equally real",
+        "B) Accessibility relations that may be philosophically questionable",
+        "C) Only one possible world exists",
+        "D) Necessity and possibility are identical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8076837d989a3dd4e52ab3c90c4b81806e49479b",
+      "sectionIndex": 0,
+      "question": "The debate over logical pluralism versus monism concerns:",
+      "options": [
+        "A) Whether multiple people can use logic",
+        "B) Whether there is one correct logic or many legitimate logics",
+        "C) The number of logical symbols needed",
+        "D) Only classical versus intuitionistic logic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5772678fd0232198d758cd0a8d824c4de845d65",
+      "sectionIndex": 0,
+      "question": "Proof-theoretic semantics challenges truth-conditional semantics by:",
+      "options": [
+        "A) Denying the existence of proofs",
+        "B) Grounding meaning in inference rules rather than truth conditions",
+        "C) Making all statements true",
+        "D) Rejecting formal methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "631dcee778809f028de224a454799f0fac8c1acd",
+      "sectionIndex": 0,
+      "question": "The revision theory of truth addresses the liar paradox by:",
+      "options": [
+        "A) Banning self-reference",
+        "B) Treating truth assignments as evolving through revision sequences",
+        "C) Accepting contradictions",
+        "D) Eliminating the concept of truth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f22e19f108c9612ab5d669c0680e651c38c68667",
+      "sectionIndex": 1,
+      "question": "The pessimistic meta-induction combined with structural realism suggests:",
+      "options": [
+        "A) Science never progresses",
+        "B) We should believe in mathematical structures but not theoretical entities",
+        "C) All scientific theories are equally false",
+        "D) Observation is theory-free"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9556d467462d04d672406c23f6278db926645c61",
+      "sectionIndex": 1,
+      "question": "Van Fraassen's constructive empiricism differs from scientific realism in:",
+      "options": [
+        "A) Rejecting empirical adequacy",
+        "B) Committing only to observable phenomena, not unobservable entities",
+        "C) Denying the success of science",
+        "D) Accepting all theoretical terms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90a98d07c131f5e32aeebf40a4429f2a9c57111a",
+      "sectionIndex": 1,
+      "question": "The Duhem-Quine thesis implies that:",
+      "options": [
+        "A) Single hypotheses can be tested in isolation",
+        "B) Disconfirming evidence can be accommodated by adjusting auxiliary assumptions",
+        "C) All theories are equally confirmed",
+        "D) Observation uniquely determines theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f65cff97f8f191f73b3c6cecaa2b77a617e41fc",
+      "sectionIndex": 1,
+      "question": "Cartwright's critique of fundamental laws argues:",
+      "options": [
+        "A) Laws are exceptionless",
+        "B) Phenomenological laws are more true than fundamental laws",
+        "C) Science doesn't use laws",
+        "D) All laws are equally abstract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "448590a10e66be4ebe314a54b187073fe8ffdf93",
+      "sectionIndex": 1,
+      "question": "The problem of theory-ladenness of observation is most acute for:",
+      "options": [
+        "A) Logical positivism's observational-theoretical distinction",
+        "B) Pragmatism's theory of truth",
+        "C) Idealism's metaphysics",
+        "D) Ethical naturalism"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f09fa2593066ab010aa5f2a95788748c554487d6",
+      "sectionIndex": 1,
+      "question": "Hacking's entity realism maintains that:",
+      "options": [
+        "A) All theoretical entities exist",
+        "B) We should believe in entities we can manipulate, not necessarily in theories",
+        "C) No theoretical entities exist",
+        "D) Theories and entities stand or fall together"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47612af4d3602528dca654801046333a92e2ba24",
+      "sectionIndex": 1,
+      "question": "The new experimentalism's emphasis on experiment independence suggests:",
+      "options": [
+        "A) Experiments merely test theories",
+        "B) Experimental knowledge can have epistemic priority over theory",
+        "C) All experiments require theory",
+        "D) Observation is passive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "feae9abaea41fdbceb7dc80cc06dcd505b6ce25f",
+      "sectionIndex": 1,
+      "question": "Bayesian confirmation theory's problem of priors reflects:",
+      "options": [
+        "A) Mathematical errors in probability",
+        "B) The subjective element in seemingly objective scientific reasoning",
+        "C) The impossibility of updating beliefs",
+        "D) Determinism in science"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f235716e07afb39f6adce53835eb3084ef44ce6",
+      "sectionIndex": 1,
+      "question": "The underdetermination of theory by evidence becomes most problematic when combined with:",
+      "options": [
+        "A) Scientific realism's truth claims",
+        "B) Instrumentalism's predictions",
+        "C) Pragmatism's success criterion",
+        "D) Logical positivism's verification"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6c399dd64bb0f1a3c06b2c8e303c741936faa385",
+      "sectionIndex": 1,
+      "question": "Social epistemology's challenge to traditional epistemology lies in:",
+      "options": [
+        "A) Denying individual knowledge",
+        "B) Showing knowledge's irreducibly social dimensions and power relations",
+        "C) Rejecting all scientific knowledge",
+        "D) Promoting relativism exclusively"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "944d8fe4fe5c82990b7906007a82dd4d59231eac",
+      "sectionIndex": 2,
+      "question": "The combination of eternalism and the experience of temporal passage creates:",
+      "options": [
+        "A) No philosophical problem",
+        "B) The problem of explaining subjective time within objective spacetime",
+        "C) A proof of presentism",
+        "D) The necessity of time travel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fea3121a5728420bad443fea5a1f8c2226620d00",
+      "sectionIndex": 2,
+      "question": "Emergence theory's \"downward causation\" faces the problem of:",
+      "options": [
+        "A) Violating causal closure of the physical",
+        "B) Being too reductionist",
+        "C) Denying emergent properties",
+        "D) Accepting substance dualism"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9865a8c431d84184217227763cf0cbe89e38b31c",
+      "sectionIndex": 2,
+      "question": "The grounding relation in contemporary metaphysics attempts to:",
+      "options": [
+        "A) Eliminate fundamental reality",
+        "B) Provide non-causal dependence between levels of reality",
+        "C) Reduce everything to physics",
+        "D) Deny explanatory relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9ad8f3fc84b391a490bdb1f0f9258afddcadeef",
+      "sectionIndex": 2,
+      "question": "Four-dimensionalism's solution to the problem of change requires accepting:",
+      "options": [
+        "A) That objects lack temporal parts",
+        "B) Temporal parts and the rejection of enduring objects",
+        "C) Presentism about time",
+        "D) The unreality of change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f1e4948d66a9e719b33baeffd129bd44dcdf413",
+      "sectionIndex": 2,
+      "question": "The combination problem for panpsychism arises from:",
+      "options": [
+        "A) Denying consciousness exists",
+        "B) Explaining how micro-experiences combine into macro-consciousness",
+        "C) Accepting materialism",
+        "D) Rejecting mental properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "998d862729e41bd46925d13c8ed4d6f1909dec8a",
+      "sectionIndex": 2,
+      "question": "Modal realism's \"preclusion problem\" shows that:",
+      "options": [
+        "A) Possible worlds don't exist",
+        "B) Contingent beings cannot causally create necessary beings",
+        "C) All worlds are identical",
+        "D) Modality reduces to actuality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d40f684db37655c6a9e6c213701a3a06c8d0e9d",
+      "sectionIndex": 2,
+      "question": "The metaphysics of laws of nature must explain:",
+      "options": [
+        "A) Only their logical form",
+        "B) Their apparent necessity while being empirically discoverable",
+        "C) Why they're always false",
+        "D) Their reduction to events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee3ae62fc5404f0d46c7e009904afd02471c930e",
+      "sectionIndex": 2,
+      "question": "Constitution without identity (as in statue/clay cases) challenges:",
+      "options": [
+        "A) Only material objects",
+        "B) Traditional one-one correspondence between objects and matter",
+        "C) The existence of statues",
+        "D) All constitutional relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89883c6bc50b76f22513a4129e83a5f4ae4f032c",
+      "sectionIndex": 2,
+      "question": "The problem of temporary intrinsics for perdurantism is that:",
+      "options": [
+        "A) Properties never change",
+        "B) It seems to make intrinsic properties relational to temporal parts",
+        "C) Objects lack properties",
+        "D) Time doesn't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "779508ae85d0583fa2cde9811363729d5d72fa2f",
+      "sectionIndex": 2,
+      "question": "Ontological dependence without grounding suggests:",
+      "options": [
+        "A) All dependence is causal",
+        "B) Multiple irreducible dependence relations in reality's structure",
+        "C) Nothing depends on anything",
+        "D) Only grounding exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a496bc7f4807e895407007f12d3d005fc344db6b",
+      "sectionIndex": 3,
+      "question": "The Frege-Geach problem challenges non-cognitivism by showing:",
+      "options": [
+        "A) Moral statements are always true",
+        "B) The embedding problem for non-cognitive attitudes in logical contexts",
+        "C) Cognitivism is correct",
+        "D) Logic doesn't apply to ethics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "147e6b3e07338a271a0f9adc50f71aeb777a995a",
+      "sectionIndex": 3,
+      "question": "Moral particularism's rejection of moral principles implies:",
+      "options": [
+        "A) Nihilism about ethics",
+        "B) Context-sensitive moral judgment without exceptionless rules",
+        "C) Absolute situational ethics",
+        "D) The impossibility of moral reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0c07fdc5c0ca0feaa71d5091b8d1f10f6d21f9a",
+      "sectionIndex": 3,
+      "question": "The \"central problem\" for virtue ethics is:",
+      "options": [
+        "A) Virtues don't exist",
+        "B) The apparent circularity between right action and virtuous agents",
+        "C) Consequences don't matter",
+        "D) Rules are supreme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ec9715672dc912f8a3ccf2156170ce2ce6ebe2c",
+      "sectionIndex": 3,
+      "question": "Korsgaard's constitutivist approach grounds morality in:",
+      "options": [
+        "A) External commands",
+        "B) The constitutive features of rational agency itself",
+        "C) Empirical facts",
+        "D) Social conventions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efe8ef7774941137ee316282c5403ef7e175d5ef",
+      "sectionIndex": 3,
+      "question": "The contingency of moral motivation challenges:",
+      "options": [
+        "A) Only externalist theories",
+        "B) Internalist theories that link moral judgment to motivation necessarily",
+        "C) All moral theories equally",
+        "D) The existence of motivation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4240ac8fbfad9ac2f0a9e6b1a5d806ff74d259a",
+      "sectionIndex": 3,
+      "question": "Quasi-realism attempts to:",
+      "options": [
+        "A) Deny moral practice",
+        "B) Explain realist-seeming features from an anti-realist base",
+        "C) Prove moral realism",
+        "D) Eliminate moral discourse"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae6f64b8ee39f1475d0518ce5fd800e5b71ca75a",
+      "sectionIndex": 3,
+      "question": "The \"normative question\" that naturalistic theories face is:",
+      "options": [
+        "A) Whether nature exists",
+        "B) Why natural facts should guide action",
+        "C) How to observe morality",
+        "D) Whether ethics is scientific"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2ebbc78a63d74fb7f82b9c1e334e245152a4f8a",
+      "sectionIndex": 3,
+      "question": "Moral twin earth arguments challenge:",
+      "options": [
+        "A) Only non-naturalism",
+        "B) Naturalistic semantic theories of moral terms",
+        "C) The existence of other planets",
+        "D) All metaethical theories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dce563e675733a5dee5c53138fcdb09ec9d1066",
+      "sectionIndex": 3,
+      "question": "The supervenience of moral on natural properties without reduction suggests:",
+      "options": [
+        "A) Reductionism is true",
+        "B) Non-reductive moral realism or anti-realism",
+        "C) No relationship exists",
+        "D) Identity of properties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38af554c41cfb0bab8bfb34845b9d9553c6700b6",
+      "sectionIndex": 3,
+      "question": "Evolutionary debunking arguments threaten moral realism by:",
+      "options": [
+        "A) Proving evolution false",
+        "B) Showing moral beliefs might lack truth-tracking origins",
+        "C) Supporting moral realism",
+        "D) Denying moral beliefs exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4b46778f052f7420d6dd36886d6004c07536970",
+      "sectionIndex": 4,
+      "question": "The tension between Al-Ghazali's occasionalism and scientific causation reflects:",
+      "options": [
+        "A) Simple contradiction",
+        "B) Deep issues about divine action and natural regularity",
+        "C) Rejection of all causation",
+        "D) Acceptance of determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b651cc0657f0da5f5b644619fcd8a384fccba67f",
+      "sectionIndex": 4,
+      "question": "Ibn Rushd's \"harmony thesis\" faces the challenge of:",
+      "options": [
+        "A) Making philosophy irrelevant",
+        "B) Reconciling Aristotelian eternalism with creation ex nihilo",
+        "C) Rejecting all Greek thought",
+        "D) Embracing pure fideism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8dbc479b27cd2ce5e40357e77f3e7d5be07f384",
+      "sectionIndex": 4,
+      "question": "Mulla Sadra's \"substantial motion\" revolutionizes Islamic metaphysics by:",
+      "options": [
+        "A) Denying all change",
+        "B) Making substance itself dynamic rather than static",
+        "C) Returning to Aristotle",
+        "D) Rejecting existence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb87c61257a9f0433cf288d63240ec561fb85c97",
+      "sectionIndex": 4,
+      "question": "The problem of God's knowledge of particulars in Ibn Sina reveals:",
+      "options": [
+        "A) Divine ignorance",
+        "B) Tension between divine simplicity and complete knowledge",
+        "C) Rejection of divine attributes",
+        "D) Acceptance of anthropomorphism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecfb55fb1d06afaaeb5fc5e0d467780908a1a7f9",
+      "sectionIndex": 4,
+      "question": "Iqbal's critique of Hegelian dialectics while appropriating Bergson shows:",
+      "options": [
+        "A) Simple eclecticism",
+        "B) Selective synthesis based on Islamic principles of becoming",
+        "C) Rejection of all Western thought",
+        "D) Uncritical acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "845476eba6302927fc4afdd4424305bac4428e5c",
+      "sectionIndex": 4,
+      "question": "The Ash'arite doctrine of acquisition (kasb) attempts to:",
+      "options": [
+        "A) Deny human action",
+        "B) Preserve divine sovereignty while maintaining moral responsibility",
+        "C) Assert absolute free will",
+        "D) Reject divine power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23b414bfcded89f6dd057e2aafdaf8fda3608ba1",
+      "sectionIndex": 4,
+      "question": "Suhrawardi's illuminationism challenges Peripatetic philosophy by:",
+      "options": [
+        "A) Rejecting all reasoning",
+        "B) Prioritizing intuitive over discursive knowledge",
+        "C) Denying light metaphors",
+        "D) Embracing materialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c3ca3231108622dbbbac2f18a60d9601abd2013",
+      "sectionIndex": 4,
+      "question": "The tension in Islamic philosophy between ta'wil and zahir reflects:",
+      "options": [
+        "A) Simple disagreement",
+        "B) Fundamental hermeneutical issues about multiple levels of meaning",
+        "C) Rejection of interpretation",
+        "D) Literalism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dee65e6b71f4dbed51d2fb3492363c265c67a990",
+      "sectionIndex": 4,
+      "question": "Ibn Arabi's \"unity of existence\" versus \"unity of witness\" debate concerns:",
+      "options": [
+        "A) Mystical experience only",
+        "B) Ontological versus epistemological interpretations of divine-world relation",
+        "C) Polytheism",
+        "D) Atheism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "855183d7c4addfe4e32b033ea9f57ad7c85582ed",
+      "sectionIndex": 4,
+      "question": "The problem of harmonizing Islamic atomism with Aristotelian hylomorphism shows:",
+      "options": [
+        "A) Both are identical",
+        "B) Competing metaphysical frameworks within Islamic thought",
+        "C) Rejection of both",
+        "D) Simple synthesis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8120f34257e77e9da6c9a7ab4ed869a41514553d",
+      "sectionIndex": 5,
+      "question": "Heidegger's ontological difference resolves the problem of Being by:",
+      "options": [
+        "A) Identifying Being with beings",
+        "B) Distinguishing Being itself from particular beings",
+        "C) Denying existence",
+        "D) Embracing nihilism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0535282f065889e38c512cb49f1d3c992bff7328",
+      "sectionIndex": 5,
+      "question": "Levinas's critique of ontology as \"totalizing\" suggests ethics is:",
+      "options": [
+        "A) Derivative from Being",
+        "B) \"First philosophy\" prior to ontology",
+        "C) Impossible",
+        "D) Reducible to politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "793866ea14fec2b75823e408852ea56f1312dc4e",
+      "sectionIndex": 5,
+      "question": "Derrida's \"différance\" undermines logocentrism by showing:",
+      "options": [
+        "A) Presence is primary",
+        "B) Meaning depends on difference and deferral, not presence",
+        "C) Language is transparent",
+        "D) Signs are self-sufficient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "720c460ee2b681f0a87a281ca9b0339162909e7f",
+      "sectionIndex": 5,
+      "question": "Foucault's genealogical method differs from traditional history by:",
+      "options": [
+        "A) Seeking origins",
+        "B) Revealing contingent power relations in seemingly natural categories",
+        "C) Affirming progress",
+        "D) Finding essences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1b04f3253c9f2f56f2e20ba52b45b1ce305c15a",
+      "sectionIndex": 5,
+      "question": "Deleuze's \"plane of immanence\" rejects transcendence by:",
+      "options": [
+        "A) Denying reality",
+        "B) Locating all being on a single ontological level",
+        "C) Affirming hierarchy",
+        "D) Embracing dualism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e07d8f78f25ccc73a6a97a9c80304c432649eb7c",
+      "sectionIndex": 5,
+      "question": "Habermas's critique of postmodernism centers on:",
+      "options": [
+        "A) Aesthetic preferences",
+        "B) The performative contradiction in rejecting reason through reasoning",
+        "C) Supporting irrationalism",
+        "D) Denying modernity's existence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0646e39381ab85b9e87042fc94825726a850fcf",
+      "sectionIndex": 5,
+      "question": "Žižek's synthesis of German idealism and psychoanalysis reveals:",
+      "options": [
+        "A) Their incompatibility",
+        "B) The subject as constituted by fundamental antagonism",
+        "C) Simple unity",
+        "D) Rejection of both traditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee40a1d6db81512889664a91f31507c415136aaf",
+      "sectionIndex": 5,
+      "question": "Agamben's \"bare life\" concept critiques sovereignty by showing:",
+      "options": [
+        "A) Life's sanctity",
+        "B) The production of killable life through sovereign exception",
+        "C) Sovereignty's legitimacy",
+        "D) Life's political nature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d72e8d033035dc83bae9564a4bc87bf40e51a0d",
+      "sectionIndex": 5,
+      "question": "Butler's performativity theory challenges essentialism by showing:",
+      "options": [
+        "A) Fixed identities",
+        "B) Identity as constituted through repeated acts",
+        "C) Performance is fake",
+        "D) Essence precedes existence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3cf7cb612b3f8835248e8b52c58e2cf1627d34c",
+      "sectionIndex": 5,
+      "question": "Badiou's \"event\" breaks with postmodern relativism by:",
+      "options": [
+        "A) Denying change",
+        "B) Asserting truth's possibility through revolutionary rupture",
+        "C) Embracing relativism",
+        "D) Rejecting mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2261e53bb5b22cbcb96f066beab6bb5f78ab6cd5",
+      "sectionIndex": 6,
+      "question": "The hard problem of consciousness challenges physicalism by:",
+      "options": [
+        "A) Denying brain states",
+        "B) Showing explanatory gap between physical processes and qualia",
+        "C) Proving dualism",
+        "D) Rejecting consciousness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfe45675528040ba26e6e02782f33beec9e5687d",
+      "sectionIndex": 6,
+      "question": "Two-dimensional semantic theory attempts to reconcile:",
+      "options": [
+        "A) Contradictions",
+        "B) Kripkean necessity with Fregean cognitive significance",
+        "C) All semantic theories",
+        "D) Syntax with pragmatics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e092da8a4c7506e709e501a62190f2c19351c0fa",
+      "sectionIndex": 6,
+      "question": "The extended mind thesis's \"parity principle\" implies:",
+      "options": [
+        "A) Minds are only internal",
+        "B) Cognitive processes can constitutively include external elements",
+        "C) Technology is irrelevant",
+        "D) Minds don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7aad11405011513ea0a68fa8175492e9c96d836c",
+      "sectionIndex": 6,
+      "question": "Personal identity's \"fission cases\" challenge psychological continuity by:",
+      "options": [
+        "A) Denying psychology matters",
+        "B) Creating branching where identity must be one-one",
+        "C) Proving bodily continuity",
+        "D) Eliminating persons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df2973a7b5e04c237e66c43e95fdd8c8c8dbdd79",
+      "sectionIndex": 6,
+      "question": "The knowledge argument (Mary) targets physicalism by claiming:",
+      "options": [
+        "A) Physical facts don't exist",
+        "B) Complete physical knowledge leaves out phenomenal knowledge",
+        "C) Color blindness",
+        "D) Science is complete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af33c41025320c919c60370cd706d99516753faa",
+      "sectionIndex": 6,
+      "question": "Functionalism's \"inverted spectrum\" problem suggests:",
+      "options": [
+        "A) Functions determine all",
+        "B) Qualitative states might vary despite functional equivalence",
+        "C) No mental states exist",
+        "D) Behaviorism is correct"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3392f3ce426aa2675d43690d006bc1f10ca0c6f",
+      "sectionIndex": 6,
+      "question": "The combination of externalism and self-knowledge creates:",
+      "options": [
+        "A) No issues",
+        "B) The problem of knowing our thoughts' contents without knowing environment",
+        "C) Internalism's truth",
+        "D) Skepticism about others"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25714189f68ca1a9279b54435b1920ba77ab82c6",
+      "sectionIndex": 6,
+      "question": "Davidson's anomalous monism attempts to preserve:",
+      "options": [
+        "A) Dualism",
+        "B) Mental causation within physical monism without psychophysical laws",
+        "C) Strict laws",
+        "D) Epiphenomenalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff10a6bc67402d16a18eaa1e6f287f2f0b4d6243",
+      "sectionIndex": 6,
+      "question": "The exclusion problem for mental causation arises from:",
+      "options": [
+        "A) Accepting overdetermination",
+        "B) Causal closure plus irreducibility seeming to exclude mental causes",
+        "C) Denying physical causes",
+        "D) Substance dualism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "841c39d601dfd49b719946ddfecfb602e3f531e0",
+      "sectionIndex": 6,
+      "question": "Representationalism about consciousness faces \"transparency\" because:",
+      "options": [
+        "A) Consciousness is opaque",
+        "B) We seem aware of objects, not mental representations",
+        "C) Representations don't exist",
+        "D) Direct realism is false"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7894d326bc88d52e1c90a1f3e059cbb4ebec565f",
+      "sectionIndex": 7,
+      "question": "The boundary problem for democratic theory involves:",
+      "options": [
+        "A) Geographic borders only",
+        "B) Who legitimately constitutes \"the people\" making decisions",
+        "C) Voting procedures",
+        "D) Term limits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9dfe11c3fd5dd900792d7a768a14461248117b00",
+      "sectionIndex": 7,
+      "question": "Ideal theory's critics argue it:",
+      "options": [
+        "A) Is too practical",
+        "B) Obscures injustice by assuming compliance and favorable conditions",
+        "C) Addresses real problems",
+        "D) Is insufficiently ambitious"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc5544d2a20551d0a3e8701b8ddb43738b116575",
+      "sectionIndex": 7,
+      "question": "The capabilities approach versus resourcism debate concerns:",
+      "options": [
+        "A) Identical metrics",
+        "B) Whether to focus on means or functionings/beings",
+        "C) Rejecting measurement",
+        "D) Economic growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95798e00caed94e6c298805ba81a2228a06371fd",
+      "sectionIndex": 7,
+      "question": "Epistocracy's challenge to democracy raises questions about:",
+      "options": [
+        "A) Universal expertise",
+        "B) The relationship between political knowledge and political authority",
+        "C) Rejecting all government",
+        "D) Perfect information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "373a2bb02ebb804325325d0a317df770c2d7fcb3",
+      "sectionIndex": 7,
+      "question": "Structural injustice differs from individual wrongdoing in:",
+      "options": [
+        "A) Being less serious",
+        "B) Arising from social processes without clear individual fault",
+        "C) Having single causes",
+        "D) Easy solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f47f535b5b5e8a489c1d48a737ffe49c1f14587",
+      "sectionIndex": 7,
+      "question": "The non-identity problem challenges intergenerational justice by:",
+      "options": [
+        "A) Denying future generations",
+        "B) Showing our actions determine who will exist",
+        "C) Proving obligations",
+        "D) Ignoring consequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86d2415f7a20244610bd904335787104cdc6432f",
+      "sectionIndex": 7,
+      "question": "Relational egalitarianism critiques distributive theories for:",
+      "options": [
+        "A) Addressing inequality",
+        "B) Missing social relations and status hierarchies",
+        "C) Being too relational",
+        "D) Ignoring distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bba718e9af39703bb2473cfa89ddfefcdf27caf8",
+      "sectionIndex": 7,
+      "question": "The circumstances of justice (moderate scarcity) implies:",
+      "options": [
+        "A) Justice always applies",
+        "B) Justice emerges only under specific conditions",
+        "C) Abundance eliminates ethics",
+        "D) Scarcity is permanent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f57ccb6e95453941de0bec0bfc98758346c8635e",
+      "sectionIndex": 7,
+      "question": "Republican freedom as non-domination differs from negative liberty by:",
+      "options": [
+        "A) Being identical",
+        "B) Focusing on arbitrary power rather than actual interference",
+        "C) Rejecting all freedom",
+        "D) Requiring total control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08baf8a273f5acd313c61d3aaf6bd3bb6bbe12c6",
+      "sectionIndex": 7,
+      "question": "The legitimacy/authority distinction matters because:",
+      "options": [
+        "A) They're synonymous",
+        "B) Right to rule differs from capacity to create obligations",
+        "C) Neither exists",
+        "D) Both are unlimited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe64dde415eabf15489a4a43acb6fb5ed10b9bca",
+      "sectionIndex": 8,
+      "question": "The rule-following paradox suggests:",
+      "options": [
+        "A) Rules are clear",
+        "B) No fact determines unique interpretation of rules",
+        "C) Language is impossible",
+        "D) Private rules exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63561db43ec9162b220a2b3f8baa51241dbfe021",
+      "sectionIndex": 8,
+      "question": "Semantic minimalism versus contextualism debates whether:",
+      "options": [
+        "A) Context never matters",
+        "B) Semantics delivers minimal or rich truth conditions",
+        "C) Pragmatics doesn't exist",
+        "D) Meaning is fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "813faec6ee440188af8485691fbefe3e001424e8",
+      "sectionIndex": 8,
+      "question": "The problem of empty names for Millian theories is:",
+      "options": [
+        "A) All names refer",
+        "B) Explaining meaningful statements about non-existents",
+        "C) Names lack meaning",
+        "D) Reference is description"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efc56e0930c554b665fec9e03109f9ae8ae29dcb",
+      "sectionIndex": 8,
+      "question": "Indexicals challenge compositionality by:",
+      "options": [
+        "A) Having fixed meanings",
+        "B) Contributing context-dependent elements to truth conditions",
+        "C) Lacking semantic value",
+        "D) Being non-linguistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4172433962bf86900c4a189724dde704cbdf55b4",
+      "sectionIndex": 8,
+      "question": "The Fregean versus Russellian debate about propositional content concerns:",
+      "options": [
+        "A) Surface grammar",
+        "B) Whether propositions include modes of presentation",
+        "C) Rejecting propositions",
+        "D) Syntax only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc7b995aff296b9c30047a88856f1ddd1db02fd2",
+      "sectionIndex": 8,
+      "question": "Kaplan's character/content distinction handles indexicals by:",
+      "options": [
+        "A) Denying they have meaning",
+        "B) Separating linguistic meaning from propositional contribution",
+        "C) Making them names",
+        "D) Eliminating context"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4743aaef77572befbcbdb434537d39fcfc324c4",
+      "sectionIndex": 8,
+      "question": "The problem of logical omniscience for possible worlds semantics:",
+      "options": [
+        "A) Enhances realism",
+        "B) Makes all necessary truths believed by all agents",
+        "C) Denies logic",
+        "D) Proves bounded rationality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9460f7b190deb482a0581037d072bf704a581025",
+      "sectionIndex": 8,
+      "question": "Semantic externalism's \"slow switch\" cases show:",
+      "options": [
+        "A) Meaning never changes",
+        "B) Content can change without internal differences",
+        "C) Twin earth is impossible",
+        "D) Internalism is obvious"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17f628b6b0b76c72e915e29e3f06be6145c80801",
+      "sectionIndex": 8,
+      "question": "The paradox of analysis questions whether:",
+      "options": [
+        "A) Analysis is possible",
+        "B) Informative analyses can preserve meaning",
+        "C) Concepts exist",
+        "D) Language is learnable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c9c87f2deb5649f39f55aa2212321a7a66b9ab0",
+      "sectionIndex": 8,
+      "question": "Inferentialist semantics challenges truth-conditional approaches by:",
+      "options": [
+        "A) Accepting truth primacy",
+        "B) Grounding meaning in inference rules rather than reference",
+        "C) Denying inference",
+        "D) Embracing correspondence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42c4fb82a397b394dc4775b9dbc2ea3698d35745",
+      "sectionIndex": 9,
+      "question": "The hard problem of consciousness combined with quantum mechanics suggests:",
+      "options": [
+        "A) Dualism is proven",
+        "B) Either radical emergence or fundamental role for consciousness",
+        "C) Mechanism explains all",
+        "D) Physics is complete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ee37d82c3385772218c86db2d57222b73b431ab",
+      "sectionIndex": 9,
+      "question": "Virtue epistemology's integration with virtue ethics implies:",
+      "options": [
+        "A) Knowledge reduces to ethics",
+        "B) Intellectual virtues parallel moral virtues structurally",
+        "C) No connection exists",
+        "D) Ethics is epistemology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2561f6b1120eadf7003cc1f72f9660221bf79ba3",
+      "sectionIndex": 9,
+      "question": "The intersection of personal identity with moral responsibility requires:",
+      "options": [
+        "A) Strict identity",
+        "B) Explaining responsibility across psychological/physical changes",
+        "C) Denying responsibility",
+        "D) Cartesian souls"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08eb70b4c54b3fd10a6abca1bbcf9d676462a296",
+      "sectionIndex": 9,
+      "question": "Experimental philosophy's challenge to intuitions undermines:",
+      "options": [
+        "A) Only empirical claims",
+        "B) Traditional philosophical methodology's universality claims",
+        "C) All philosophy",
+        "D) Science alone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c304438c0eae0e1c2e0983978df55d585b2c7016",
+      "sectionIndex": 9,
+      "question": "The relationship between semantic content and mental content raises:",
+      "options": [
+        "A) No issues",
+        "B) Priority questions about language and thought",
+        "C) Behaviorist solutions",
+        "D) Elimination of both"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bc2f9cce11719c75f48e77bd6904354a67d3fd1",
+      "sectionIndex": 9,
+      "question": "Neuroethics's discoveries about moral judgment challenge:",
+      "options": [
+        "A) Neuroscience",
+        "B) Rationalist assumptions in moral philosophy",
+        "C) All moral claims",
+        "D) Brain studies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ee9b93117e48fb3bb567fd0ba4684a8d0a62ae6",
+      "sectionIndex": 9,
+      "question": "The intersection of time and modality in persistence requires:",
+      "options": [
+        "A) Eternalism",
+        "B) Coordinating temporal and modal analyses of objects",
+        "C) Presentism only",
+        "D) Possibilism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7149a073c16f1431eca9e37a1a7739c0ac1d431f",
+      "sectionIndex": 9,
+      "question": "Social epistemology's insights for political philosophy imply:",
+      "options": [
+        "A) Knowledge is individual",
+        "B) Democratic deliberation faces deep epistemic challenges",
+        "C) Politics ignores truth",
+        "D) Expertise doesn't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "591919845c0ae65f9b5ec27abafc6f7e785acf22",
+      "sectionIndex": 9,
+      "question": "The unity of consciousness problem intersects with mereology in asking:",
+      "options": [
+        "A) Whether parts exist",
+        "B) How conscious parts compose unified wholes",
+        "C) Denying composition",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd5dc7e3fde0c9ba8aef9d102208c93ea2fce7cb",
+      "sectionIndex": 9,
+      "question": "The convergence of metaethics and metaphysics of mind suggests:",
+      "options": [
+        "A) Independence",
+        "B) Parallel problems about irreducibility and causation",
+        "C) Easy reduction",
+        "D) Disciplinary isolation"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T19:57:05.024Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "12e473008c10e4c1f30039a368f09a62e92100a4",
+      "sectionIndex": 0,
+      "question": "Which folk song is considered the most ancient in Punjabi tradition?",
+      "options": [
+        "A) Mahiya",
+        "B) Dhola",
+        "C) Lori",
+        "D) Tappa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dee20b2c32ffe959d24eb52ff9eb8c7e8ea50dc",
+      "sectionIndex": 0,
+      "question": "Lori is primarily a:",
+      "options": [
+        "A) Wedding song",
+        "B) Lullaby",
+        "C) War song",
+        "D) Religious song"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6ed93259c6902903010ea36ea24da2b3d8f686c",
+      "sectionIndex": 0,
+      "question": "Folk songs in Punjabi culture primarily preserve:",
+      "options": [
+        "A) Only entertainment",
+        "B) Social history and culture",
+        "C) Only religious teachings",
+        "D) Political ideology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "179a6bb5a050294bb267e1fcf3abac9ddbd29d9c",
+      "sectionIndex": 0,
+      "question": "Mahiya is traditionally a:",
+      "options": [
+        "A) Long narrative poem",
+        "B) Short lyrical folk song",
+        "C) Religious hymn",
+        "D) War ballad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8782ed2fa16210c7d4073868ad7e4e2df2d2718c",
+      "sectionIndex": 0,
+      "question": "The folk song \"Dhola\" is associated with:",
+      "options": [
+        "A) Modern times",
+        "B) Ancient tradition",
+        "C) British period",
+        "D) Mughal era"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bb9184ded90eaec94f306e0b5b403000eaaff61",
+      "sectionIndex": 0,
+      "question": "Punjabi wedding songs are called:",
+      "options": [
+        "A) Ghazals",
+        "B) Geet",
+        "C) Qawwali",
+        "D) Bhajan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd13f2def533104c5014255a9f0fb91a218cf455",
+      "sectionIndex": 0,
+      "question": "Boli is a type of:",
+      "options": [
+        "A) Classical poem",
+        "B) Folk song genre",
+        "C) Modern novel",
+        "D) Religious text"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6c87885db09fe6a6433cb8083addcd279bbbad0",
+      "sectionIndex": 0,
+      "question": "Folk songs reflect Punjab's:",
+      "options": [
+        "A) Only language",
+        "B) Culture and society",
+        "C) Only politics",
+        "D) Only economy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0116a8f9b0768d3bb3c0386e544c3a6e8a7362b1",
+      "sectionIndex": 0,
+      "question": "The performance of folk songs traditionally involves:",
+      "options": [
+        "A) Solo singing only",
+        "B) Community participation",
+        "C) Written scripts",
+        "D) Foreign instruments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c0bce89ac0780ee2f24d7c6d8457ba2e1f33ebd",
+      "sectionIndex": 0,
+      "question": "Tappa is characterized by:",
+      "options": [
+        "A) Long verses",
+        "B) Short, quick rhythm",
+        "C) No rhythm",
+        "D) Silent performance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ae4375e64f1dd36096d53a9ef89d7bc25c20cf0",
+      "sectionIndex": 1,
+      "question": "Baba Farid is also known as:",
+      "options": [
+        "A) Ganj Shakar",
+        "B) Shah Hussain",
+        "C) Data Sahib",
+        "D) Pir Meher"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a023df7805add141c6587ef1fee1aa522c8cd70b",
+      "sectionIndex": 1,
+      "question": "Bulleh Shah was born in:",
+      "options": [
+        "A) Lahore",
+        "B) Kasur",
+        "C) Multan",
+        "D) Sialkot"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a7e7b0013594c4ef27ef54be6a5015edcb80486",
+      "sectionIndex": 1,
+      "question": "Sultan Bahu's poetry is primarily in the form of:",
+      "options": [
+        "A) Ghazals",
+        "B) Si-harfi (Abyat)",
+        "C) Rubai",
+        "D) Masnavi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d9de6f69daecfc26840e9fc1d4d6d5d84863a4b",
+      "sectionIndex": 1,
+      "question": "Waris Shah is famous for writing:",
+      "options": [
+        "A) Sassi Punnu",
+        "B) Heer",
+        "C) Sohni Mahiwal",
+        "D) Mirza Sahiban"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d664930c5c676c4a673c399be7364d2f7f596975",
+      "sectionIndex": 1,
+      "question": "The main theme of Sufi poetry is:",
+      "options": [
+        "A) Political power",
+        "B) Divine love",
+        "C) Economic prosperity",
+        "D) Social status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b8aa015091129537e82b9767b74d10d5f640cf8",
+      "sectionIndex": 1,
+      "question": "Khwaja Ghulam Farid belonged to:",
+      "options": [
+        "A) Kasur",
+        "B) Bahawalpur",
+        "C) Lahore",
+        "D) Multan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce6322f4495bbee03c5543fda3a26fbf85745874",
+      "sectionIndex": 1,
+      "question": "Shah Hussain is known as:",
+      "options": [
+        "A) Madho Lal",
+        "B) Lal Shahbaz",
+        "C) Shah Sahib",
+        "D) Pir Sahib"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "87cacfc4ea8ac2dfbaed1131a1c99fea8fc1af8f",
+      "sectionIndex": 1,
+      "question": "The language of Baba Farid's poetry is:",
+      "options": [
+        "A) Persian only",
+        "B) Old Punjabi",
+        "C) Arabic only",
+        "D) Hindi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3efbc4aff6b24e0104bc104f900d658e305410fe",
+      "sectionIndex": 1,
+      "question": "Mian Muhammad Bakhsh wrote:",
+      "options": [
+        "A) Heer",
+        "B) Saif-ul-Muluk",
+        "C) Sassi Punnu",
+        "D) Yusuf Zulaikha"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf335f71f6cc07c6933c6c290478464d58f4aa5f",
+      "sectionIndex": 1,
+      "question": "Sufi poets used poetry to:",
+      "options": [
+        "A) Gain wealth",
+        "B) Spread spiritual message",
+        "C) Political propaganda",
+        "D) Entertainment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a871f2b6a2917681c94c4a1d762fab9a72f89f0b",
+      "sectionIndex": 2,
+      "question": "\"Heer\" by Waris Shah is considered:",
+      "options": [
+        "A) A simple love story",
+        "B) Encyclopedia of Punjab",
+        "C) Religious text only",
+        "D) Historical document only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad713cd3af808d32387f3b1f451e1141d331a33e",
+      "sectionIndex": 2,
+      "question": "Saif-ul-Muluk is a story of:",
+      "options": [
+        "A) War",
+        "B) Human courage and spirit",
+        "C) Politics",
+        "D) Economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae3ff087665bb9d94dc3eda7a3f7b39248935da8",
+      "sectionIndex": 2,
+      "question": "The author of \"Sassi Punnu\" is:",
+      "options": [
+        "A) Waris Shah",
+        "B) Hashim Shah",
+        "C) Bulleh Shah",
+        "D) Sultan Bahu"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ab8951949815e90af319619fdac3fd9795f9e31",
+      "sectionIndex": 2,
+      "question": "\"Mirza Sahiban\" was written by:",
+      "options": [
+        "A) Hafiz Barkhurdar",
+        "B) Waris Shah",
+        "C) Peelu",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "125698a8abc3f3e5c0bdb8e1d413a38ca898ea40",
+      "sectionIndex": 2,
+      "question": "Kafi is a form of:",
+      "options": [
+        "A) Prose",
+        "B) Poetic genre",
+        "C) Novel",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d78ece538eb4cc650d2d8c243cfe0403995b3c7",
+      "sectionIndex": 2,
+      "question": "Dohra is a:",
+      "options": [
+        "A) Two-line verse",
+        "B) Four-line verse",
+        "C) Eight-line verse",
+        "D) Single line"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "301dfc881cb166dce957588999a3445e7ce5d65c",
+      "sectionIndex": 2,
+      "question": "Si-harfi contains how many stanzas?",
+      "options": [
+        "A) 10",
+        "B) 20",
+        "C) 30",
+        "D) 40"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7f75cb9a83f7108a03165e91c219c966e8c6b8d7",
+      "sectionIndex": 2,
+      "question": "The traditional Punjabi narrative poems are called:",
+      "options": [
+        "A) Qissa",
+        "B) Novel",
+        "C) Short story",
+        "D) Essay"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e4930bf4c55510ce17f128469873df850a0acd1e",
+      "sectionIndex": 2,
+      "question": "Var is a form of:",
+      "options": [
+        "A) Love poetry",
+        "B) Heroic ballad",
+        "C) Religious hymn",
+        "D) Lullaby"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c5bf92ac8146aa8fe755981b3190f85e7807c29",
+      "sectionIndex": 2,
+      "question": "Punjabi classical literature is primarily preserved through:",
+      "options": [
+        "A) Only written texts",
+        "B) Oral and written tradition",
+        "C) Foreign archives",
+        "D) Government records"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b68e9bc1588decff21d3a8ca92d94d85f2983f1",
+      "sectionIndex": 3,
+      "question": "Najm Hussain Syed is known for:",
+      "options": [
+        "A) Only poetry",
+        "B) Poetry and criticism",
+        "C) Only novels",
+        "D) Only dramas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7e56553e2018f6e887f31bfe222fc6e5ca91b1c",
+      "sectionIndex": 3,
+      "question": "Ashfaq Ahmad wrote:",
+      "options": [
+        "A) Only novels",
+        "B) Dramas and stories",
+        "C) Only poetry",
+        "D) Only criticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14d90ecfecc129fd157fa3d63a4b3c8627e1fd6d",
+      "sectionIndex": 3,
+      "question": "Munir Niazi is considered a poet of:",
+      "options": [
+        "A) Joy",
+        "B) Fear and mystery",
+        "C) Politics",
+        "D) Economics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0613165c50f61c4a244256cd7d3ef5fce52e85ee",
+      "sectionIndex": 3,
+      "question": "Ahmad Rahi is famous for:",
+      "options": [
+        "A) Film songs and poetry",
+        "B) Only novels",
+        "C) Only criticism",
+        "D) Only dramas"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c056351ebb2c3bcbf0bc189f193569c8059cf81f",
+      "sectionIndex": 3,
+      "question": "Sharif Kunjahi wrote:",
+      "options": [
+        "A) Heer",
+        "B) Jagrate",
+        "C) Sassi",
+        "D) Sohni"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "604b4c0522b94bc6ed1fabdf3eed9ad55ebbcd74",
+      "sectionIndex": 3,
+      "question": "Anwar Masood is known for:",
+      "options": [
+        "A) Tragic poetry",
+        "B) Humorous poetry",
+        "C) Epic poetry",
+        "D) Religious poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77494c98cb89ffa780083c0086e01af4725b134b",
+      "sectionIndex": 3,
+      "question": "Pir Fazal Gujrati is called:",
+      "options": [
+        "A) King of Punjabi drama",
+        "B) Father of Punjabi ghazal",
+        "C) Master of folk songs",
+        "D) Pioneer of novels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41cfffdb982c367a7e188d92897e4826bb9e2b48",
+      "sectionIndex": 3,
+      "question": "Farkhanda Lodhi is known for:",
+      "options": [
+        "A) Poetry",
+        "B) Short stories",
+        "C) Drama",
+        "D) Criticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7031811ee1ec01bfe14537416582f18b65319899",
+      "sectionIndex": 3,
+      "question": "Dr. Faqir Muhammad Faqir contributed to:",
+      "options": [
+        "A) Only poetry",
+        "B) Punjabi linguistics",
+        "C) Only novels",
+        "D) Only drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fa1a285dc8d6e28f21c39efbaaa486464050b73",
+      "sectionIndex": 3,
+      "question": "Hafeez Taib is famous for:",
+      "options": [
+        "A) Ghazals",
+        "B) Naat poetry",
+        "C) Epic poetry",
+        "D) War poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d79f28aec4e01f175eddd19658e62fd50c18129b",
+      "sectionIndex": 4,
+      "question": "Qissa in Punjabi literature means:",
+      "options": [
+        "A) Short story",
+        "B) Narrative poem/tale",
+        "C) Essay",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ad11dff392f8c35f71536acddb4a6472841e876",
+      "sectionIndex": 4,
+      "question": "Var traditionally narrates:",
+      "options": [
+        "A) Love stories",
+        "B) Heroic deeds",
+        "C) Comic tales",
+        "D) Children's stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfe2eef37384b1ffa0df0337f3dd2ba8d1ba0435",
+      "sectionIndex": 4,
+      "question": "Baramah describes:",
+      "options": [
+        "A) Twelve months",
+        "B) Four seasons",
+        "C) One day",
+        "D) One week"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d6ad28a59cf8cca0a33db46197e67c0a5bb2b835",
+      "sectionIndex": 4,
+      "question": "Siharfi is written in:",
+      "options": [
+        "A) Arabic alphabet",
+        "B) Punjabi alphabet order",
+        "C) Persian alphabet",
+        "D) English alphabet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59c138d00fb31b7dc7efc75fd08e1d3265d8106a",
+      "sectionIndex": 4,
+      "question": "Sadd in Punjabi literature refers to:",
+      "options": [
+        "A) Happy songs",
+        "B) Songs of longing",
+        "C) War songs",
+        "D) Religious songs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6187fa1d28f51b0449e63be7a8d7df7984ac2a4",
+      "sectionIndex": 4,
+      "question": "Chhand means:",
+      "options": [
+        "A) Prose",
+        "B) Verse/meter",
+        "C) Drama",
+        "D) Novel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b141ddfd288f3ee0b08fcacfd528327727910ec",
+      "sectionIndex": 4,
+      "question": "Alahnia are songs of:",
+      "options": [
+        "A) Joy",
+        "B) Mourning",
+        "C) Marriage",
+        "D) Birth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e44b878904c975722d1b2a23bd1006ec4d11d68",
+      "sectionIndex": 4,
+      "question": "Giddha is associated with:",
+      "options": [
+        "A) Men's folk dance",
+        "B) Women's folk dance",
+        "C) Religious ceremony",
+        "D) War dance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5655b6fd2c7c83757c3f03e3a7a1389521d2fba9",
+      "sectionIndex": 4,
+      "question": "Bhangra originated as:",
+      "options": [
+        "A) Religious dance",
+        "B) Harvest celebration",
+        "C) Wedding dance",
+        "D) War dance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c185a95d6f4ae257a2ffa6331651d8232b31eb7a",
+      "sectionIndex": 4,
+      "question": "Jugni is a form of:",
+      "options": [
+        "A) Classical music",
+        "B) Folk narrative",
+        "C) Modern poetry",
+        "D) Written drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc7e551276337f9fb8ef65d4cb53c731213e31f2",
+      "sectionIndex": 5,
+      "question": "Punjabi language belongs to:",
+      "options": [
+        "A) Dravidian family",
+        "B) Indo-Aryan family",
+        "C) Sino-Tibetan family",
+        "D) Semitic family"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b27f0b4b645bc249b6717dbeb35a0173e242d5d",
+      "sectionIndex": 5,
+      "question": "The Punjabi script currently used in Pakistan is:",
+      "options": [
+        "A) Devanagari",
+        "B) Shahmukhi",
+        "C) Roman",
+        "D) Arabic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f2eb53d15f6c82a48e3e03d862680629386b707",
+      "sectionIndex": 5,
+      "question": "Gurmukhi script is used for Punjabi in:",
+      "options": [
+        "A) Pakistan",
+        "B) India",
+        "C) Bangladesh",
+        "D) Afghanistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fe3e1b61c31caa9556278af55b3f60623cd8866",
+      "sectionIndex": 5,
+      "question": "How many tones does Punjabi have?",
+      "options": [
+        "A) One",
+        "B) Two",
+        "C) Three",
+        "D) Four"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0d7f2bcac009d10f681e56be86caccb01e374269",
+      "sectionIndex": 5,
+      "question": "The oldest form of Punjabi is found in:",
+      "options": [
+        "A) Modern texts",
+        "B) Baba Farid's verses",
+        "C) British documents",
+        "D) Mughal records"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8117b2073d0f8410eb4fef43b44d96c1ecaef0f",
+      "sectionIndex": 5,
+      "question": "Punjabi dialects include:",
+      "options": [
+        "A) Only Majhi",
+        "B) Multiple varieties",
+        "C) Only Pothohari",
+        "D) Only Multani"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef13f90de29f619448a8cc31f20e892e76db3746",
+      "sectionIndex": 5,
+      "question": "Majhi dialect is considered:",
+      "options": [
+        "A) Least important",
+        "B) Standard Punjabi",
+        "C) Foreign influence",
+        "D) Modern invention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "000e09f221f7bd685f1f12dabc5efb7a0ad33337",
+      "sectionIndex": 5,
+      "question": "Linguistics is the study of:",
+      "options": [
+        "A) Literature only",
+        "B) Language scientifically",
+        "C) Poetry only",
+        "D) Drama only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "116ff8429e626c44b5f6b57e220c3baf73c09eea",
+      "sectionIndex": 5,
+      "question": "Phonetics deals with:",
+      "options": [
+        "A) Word meanings",
+        "B) Sound production",
+        "C) Grammar rules",
+        "D) Writing systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c080b768f7493bc08b732516b1b47bc0a7fbcf43",
+      "sectionIndex": 5,
+      "question": "Punjabi vocabulary has influences from:",
+      "options": [
+        "A) Only Sanskrit",
+        "B) Multiple languages",
+        "C) Only Arabic",
+        "D) Only English"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "419bd5d3040f23a213a337ccb8d805b631a319ab",
+      "sectionIndex": 6,
+      "question": "Punjabi Sufi poetry emphasizes:",
+      "options": [
+        "A) Material wealth",
+        "B) Spiritual unity",
+        "C) Political power",
+        "D) Social division"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "814d0e362309767de47f8715e62ed172d8c6e6eb",
+      "sectionIndex": 6,
+      "question": "The concept of 'Ishq' in Sufi poetry means:",
+      "options": [
+        "A) Hatred",
+        "B) Divine love",
+        "C) Fear",
+        "D) Anger"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1703a2fe032c01a7d2c8a1bd9747b94bb983bac",
+      "sectionIndex": 6,
+      "question": "Heer Ranjha represents:",
+      "options": [
+        "A) Only romance",
+        "B) Social commentary",
+        "C) War story",
+        "D) Religious text"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f97f4aa1e3c78e88a37b2921e710c3b2eff8234",
+      "sectionIndex": 6,
+      "question": "Punjabi literature often uses the metaphor of:",
+      "options": [
+        "A) Ocean and ships",
+        "B) Lover and beloved",
+        "C) Mountains and valleys",
+        "D) Stars and moon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f627228dedc1a897404509303b19971c81317d9a",
+      "sectionIndex": 6,
+      "question": "The theme of separation (viraha) is common in:",
+      "options": [
+        "A) Comedy",
+        "B) Folk songs",
+        "C) Political poetry",
+        "D) Scientific writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "167cdc32181f60db1eef596bb63ea73b148b71bb",
+      "sectionIndex": 6,
+      "question": "Punjabi poets often compare the soul to:",
+      "options": [
+        "A) Stone",
+        "B) Bird",
+        "C) Mountain",
+        "D) River"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1b6afcc092b968a011ceb2ca8bfba0d45164180",
+      "sectionIndex": 6,
+      "question": "The concept of 'fana' in Sufi poetry means:",
+      "options": [
+        "A) Birth",
+        "B) Annihilation in divine",
+        "C) Wealth",
+        "D) Power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4e04da5e127130297c92c799728a4543cc9616d",
+      "sectionIndex": 6,
+      "question": "Religious harmony is promoted in:",
+      "options": [
+        "A) Classical poetry only",
+        "B) Sufi literature",
+        "C) Modern novels only",
+        "D) Political writings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35d48980b13b52037578c8739949ed2a57e2c6f6",
+      "sectionIndex": 6,
+      "question": "The river motif in Punjabi literature symbolizes:",
+      "options": [
+        "A) Barrier",
+        "B) Life and flow",
+        "C) Death",
+        "D) Stagnation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03f3f1f893467321c29c4d81368315c5e0cdc711",
+      "sectionIndex": 6,
+      "question": "Folk wisdom is preserved through:",
+      "options": [
+        "A) Academic books only",
+        "B) Proverbs and songs",
+        "C) Government records",
+        "D) Foreign archives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a1466c41a1bf0d8dfab4727810faf721b3cacfe",
+      "sectionIndex": 7,
+      "question": "Literary criticism involves:",
+      "options": [
+        "A) Only praising",
+        "B) Analysis and evaluation",
+        "C) Only condemning",
+        "D) Copying texts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9d3505f4de93a24264de8d8a05a4ee6a8ce4a60",
+      "sectionIndex": 7,
+      "question": "'Purch Parchol' is a work of:",
+      "options": [
+        "A) Poetry",
+        "B) Literary criticism",
+        "C) Novel",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ae603d7004adc84240e6c36cf0a2428de0a05bd",
+      "sectionIndex": 7,
+      "question": "Psychological criticism examines:",
+      "options": [
+        "A) Only plot",
+        "B) Characters' mental states",
+        "C) Only language",
+        "D) Only setting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c85333344e6254cc258db55426f70619f4d17590",
+      "sectionIndex": 7,
+      "question": "Textual analysis focuses on:",
+      "options": [
+        "A) Author's life only",
+        "B) The text itself",
+        "C) Reader's opinion only",
+        "D) Publisher's choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7966844a12a005263a85adaaca7766d370d95cef",
+      "sectionIndex": 7,
+      "question": "Comparative literature involves:",
+      "options": [
+        "A) Single text study",
+        "B) Comparing different works",
+        "C) Translation only",
+        "D) Grammar only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dee90dbeac402d7fed4dc23d7ee9dac5e72f2ec7",
+      "sectionIndex": 7,
+      "question": "Theme in literature refers to:",
+      "options": [
+        "A) Plot summary",
+        "B) Central idea",
+        "C) Character names",
+        "D) Setting only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f572be6a374d652be5a7c4deb7ce9f683d9e6d5d",
+      "sectionIndex": 7,
+      "question": "Symbolism uses:",
+      "options": [
+        "A) Direct statements only",
+        "B) Objects to represent ideas",
+        "C) No meaning",
+        "D) Random words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "560c2a2714ec39396a3f8c09452e47d6674f6d14",
+      "sectionIndex": 7,
+      "question": "Metaphor is:",
+      "options": [
+        "A) Direct comparison",
+        "B) Implied comparison",
+        "C) No comparison",
+        "D) Scientific fact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6320befe690e424f6124d2b22ef587fbd0b1391a",
+      "sectionIndex": 7,
+      "question": "Literary movements show:",
+      "options": [
+        "A) Random changes",
+        "B) Historical development",
+        "C) No pattern",
+        "D) Only decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea50e01cfbfca141657a6568fa7cf63608b78116",
+      "sectionIndex": 7,
+      "question": "Context in literature includes:",
+      "options": [
+        "A) Text only",
+        "B) Historical background",
+        "C) Future predictions",
+        "D) Unrelated events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85dcff894d33db6188fae2cea0d3e6995377c314",
+      "sectionIndex": 8,
+      "question": "Punjabi drama developed:",
+      "options": [
+        "A) In ancient times",
+        "B) In modern period",
+        "C) Never developed",
+        "D) Only in films"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "866372addd01b5fe684046891d4c637209cede58",
+      "sectionIndex": 8,
+      "question": "The essay in Punjabi is called:",
+      "options": [
+        "A) Mazmoon",
+        "B) Inshaia",
+        "C) Kahani",
+        "D) Natak"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f1b7b91d033b2f92dab73ebf2ce5b4dd80fba58",
+      "sectionIndex": 8,
+      "question": "Short story in Punjabi emerged:",
+      "options": [
+        "A) In medieval period",
+        "B) In 20th century",
+        "C) In ancient times",
+        "D) Never emerged"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f131d6704ebd4c45263a2b4fe7ceddea3b3ffa29",
+      "sectionIndex": 8,
+      "question": "Punjabi novel as a genre started:",
+      "options": [
+        "A) Very early",
+        "B) In modern times",
+        "C) In medieval period",
+        "D) In ancient times"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40b1d4704140a625db11cd93cf983d6d0675f716",
+      "sectionIndex": 8,
+      "question": "Autobiography in Punjabi is called:",
+      "options": [
+        "A) Jeevni",
+        "B) Aap Beeti",
+        "C) Kahani",
+        "D) Qissa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbfa8ab01735f5134083f83f164d15036231b110",
+      "sectionIndex": 8,
+      "question": "Literary magazines promoted:",
+      "options": [
+        "A) Only old literature",
+        "B) New writing",
+        "C) Only translations",
+        "D) Only criticism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eee5908ff6bcc14b0bb25df777063eed908bb46d",
+      "sectionIndex": 8,
+      "question": "Film songs contributed to:",
+      "options": [
+        "A) Decline of Punjabi",
+        "B) Popularizing Punjabi",
+        "C) No effect",
+        "D) Only entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86e2f7426d078bd3cfcb3a8c08f47cd633cf1fbb",
+      "sectionIndex": 8,
+      "question": "Radio played a role in:",
+      "options": [
+        "A) Destroying folk songs",
+        "B) Preserving oral tradition",
+        "C) No role",
+        "D) Only news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a071933abf96f3bf29a90faa452a01a758a78d2",
+      "sectionIndex": 8,
+      "question": "Modern technology affects literature by:",
+      "options": [
+        "A) Only negative impact",
+        "B) New platforms for expression",
+        "C) No impact",
+        "D) Destroying tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "572c8d79866e3e9e38d17fab40d327ed89481078",
+      "sectionIndex": 8,
+      "question": "Translation helps:",
+      "options": [
+        "A) Destroy original",
+        "B) Cross-cultural exchange",
+        "C) No purpose",
+        "D) Only students"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c54c2492cfb6605f4642aba41c13aa9f4a9fb82",
+      "sectionIndex": 9,
+      "question": "Modern Punjabi literature addresses:",
+      "options": [
+        "A) Only traditional themes",
+        "B) Contemporary issues",
+        "C) No themes",
+        "D) Only love stories"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa175269b0d2e7bb4e4a21f31da0b7a600573f12",
+      "sectionIndex": 9,
+      "question": "Women writers in Punjabi:",
+      "options": [
+        "A) Don't exist",
+        "B) Are increasingly visible",
+        "C) Only write poetry",
+        "D) Only translate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9d49efb7fe68b63bc276d0f6f67640f1dc909d2",
+      "sectionIndex": 9,
+      "question": "Diaspora Punjabi literature reflects:",
+      "options": [
+        "A) Only homeland",
+        "B) Migration experiences",
+        "C) Only foreign lands",
+        "D) No specific theme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a28485a948acb8b32f86e2b6549b62defda8e4cc",
+      "sectionIndex": 9,
+      "question": "Digital media provides:",
+      "options": [
+        "A) No benefit",
+        "B) New publishing platforms",
+        "C) Only problems",
+        "D) Only entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5af7eaa7042a47b630067b2b9ddffb35ee1d82fc",
+      "sectionIndex": 9,
+      "question": "Contemporary criticism includes:",
+      "options": [
+        "A) Only traditional methods",
+        "B) Multiple approaches",
+        "C) No methodology",
+        "D) Only Western theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e97868d0c2756e4c21d09f229b2b239dfc831843",
+      "sectionIndex": 9,
+      "question": "Regional literature shows:",
+      "options": [
+        "A) Uniformity",
+        "B) Diversity within Punjab",
+        "C) No variation",
+        "D) Only one style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "116aa6c37af58ba600d4079f2680e94b2c7f63fc",
+      "sectionIndex": 9,
+      "question": "Youth interest in Punjabi:",
+      "options": [
+        "A) Is declining only",
+        "B) Shows revival signs",
+        "C) Doesn't exist",
+        "D) Is forced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "704783e1def4f38dc52ddb57f6372ba748ed566c",
+      "sectionIndex": 9,
+      "question": "Punjabi literature's future depends on:",
+      "options": [
+        "A) Government only",
+        "B) Writers and readers",
+        "C) Foreign support",
+        "D) Chance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa392af2dfddcd269b60df9a30add03e40e2668b",
+      "sectionIndex": 9,
+      "question": "Cross-media adaptation includes:",
+      "options": [
+        "A) Only films",
+        "B) Various platforms",
+        "C) No adaptation",
+        "D) Only theater"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3ca09a244768cecfbe1083e2cc8334366564a3c",
+      "sectionIndex": 9,
+      "question": "Punjabi literature's strength lies in:",
+      "options": [
+        "A) Imitation only",
+        "B) Rich cultural heritage",
+        "C) Foreign influence",
+        "D) Modern themes only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

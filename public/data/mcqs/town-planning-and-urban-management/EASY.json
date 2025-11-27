@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T20:43:00.811Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "eb2a641614759870eed50cd3d499f05705adfc93",
+      "sectionIndex": 0,
+      "question": "What is Town Planning?",
+      "options": [
+        "A) Building design only",
+        "B) Systematic arrangement and design of urban areas",
+        "C) Road construction",
+        "D) Agriculture planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "990457dbcd00431c32e4b8c7c53fbd12f85a67fa",
+      "sectionIndex": 0,
+      "question": "A Master Plan typically covers a period of:",
+      "options": [
+        "A) 1-2 years",
+        "B) 5-10 years",
+        "C) 20-25 years",
+        "D) 50 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "65cc1117791d463c14a2f91604c08856c6a3d6fa",
+      "sectionIndex": 0,
+      "question": "The primary purpose of urban planning is to:",
+      "options": [
+        "A) Increase population",
+        "B) Improve quality of life in cities",
+        "C) Build more roads",
+        "D) Reduce rural areas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10b21dd96d99acf756fc58d037b882549ab56dc7",
+      "sectionIndex": 0,
+      "question": "Which professional leads a town planning team?",
+      "options": [
+        "A) Architect only",
+        "B) Engineer only",
+        "C) Town Planner",
+        "D) Economist only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "90f0a3b6938368ee25376a31938e1b89fbea6c8e",
+      "sectionIndex": 0,
+      "question": "Urban area is distinguished from rural area primarily by:",
+      "options": [
+        "A) Population density",
+        "B) Agriculture only",
+        "C) Roads only",
+        "D) Buildings only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6621019125704485f7a68b0b0d26027eacefaf3a",
+      "sectionIndex": 0,
+      "question": "A city is typically defined as having a population of at least:",
+      "options": [
+        "A) 1,000 people",
+        "B) 10,000 people",
+        "C) 100,000 people",
+        "D) 1 million people"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "291b28b64cd3c510b96bc646543ddf9939f3605f",
+      "sectionIndex": 0,
+      "question": "Town planning is considered a:",
+      "options": [
+        "A) Single discipline",
+        "B) Multidisciplinary field",
+        "C) Pure science",
+        "D) Art only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a9e9082bab09650aa391accd473801919f5b1a0",
+      "sectionIndex": 0,
+      "question": "The systematic study of cities is called:",
+      "options": [
+        "A) Geography",
+        "B) Urbanism",
+        "C) Architecture",
+        "D) Engineering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae3f673f5039ac9b42bb9d096937ef49ddf91cda",
+      "sectionIndex": 0,
+      "question": "Urban development refers to:",
+      "options": [
+        "A) Population growth only",
+        "B) Physical and socio-economic growth of cities",
+        "C) Building construction only",
+        "D) Road development only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28bb7a4342661b793b089d30456d70a49b7f495c",
+      "sectionIndex": 0,
+      "question": "Regional planning covers:",
+      "options": [
+        "A) Single city only",
+        "B) Multiple cities and surrounding areas",
+        "C) One neighborhood",
+        "D) One building"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "340ccea6ae477294fbf75d61ebf992292167adf6",
+      "sectionIndex": 1,
+      "question": "A Master Plan is also known as:",
+      "options": [
+        "A) Building plan",
+        "B) Comprehensive plan",
+        "C) Road plan",
+        "D) Housing plan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da00c78d21992eefa27294d61750f0e29f1274e0",
+      "sectionIndex": 1,
+      "question": "The first step in preparing a Master Plan is:",
+      "options": [
+        "A) Construction",
+        "B) Survey and data collection",
+        "C) Building roads",
+        "D) Population control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f8d812c492810e3ba0b2136357988684a054a5d",
+      "sectionIndex": 1,
+      "question": "Master Plans typically include:",
+      "options": [
+        "A) Land use plans only",
+        "B) Multiple sectoral plans",
+        "C) Building designs only",
+        "D) Population data only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54ce1b00b046e048afabc20808e75db4d029680b",
+      "sectionIndex": 1,
+      "question": "Who approves a Master Plan?",
+      "options": [
+        "A) Engineers only",
+        "B) Local government authority",
+        "C) Architects only",
+        "D) Residents only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cdc1664a368d5fc2ba02b0c35e849d3d4d1fdae",
+      "sectionIndex": 1,
+      "question": "Master Plan implementation requires:",
+      "options": [
+        "A) Money only",
+        "B) Coordination among multiple agencies",
+        "C) Engineers only",
+        "D) Buildings only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f4e1facd770bdc04f27487e8d3f3b26a0dc1dcd",
+      "sectionIndex": 1,
+      "question": "The Master Plan of Islamabad was prepared by:",
+      "options": [
+        "A) Local architects",
+        "B) Constantinos Doxiadis",
+        "C) British planners",
+        "D) Indian planners"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adda4d8e663bcd804887acabcff417821432d438",
+      "sectionIndex": 1,
+      "question": "A Master Plan is reviewed and updated:",
+      "options": [
+        "A) Never",
+        "B) Every year",
+        "C) Every 5-10 years",
+        "D) Every 50 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5fd8963341804007297f4ec9f6620d7c20272bff",
+      "sectionIndex": 1,
+      "question": "Master Planning helps in:",
+      "options": [
+        "A) Random development",
+        "B) Organized urban growth",
+        "C) Population reduction",
+        "D) Agriculture only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "938eeba7173f749a597ac9790994c5c291a21f80",
+      "sectionIndex": 1,
+      "question": "Public participation in Master Planning is:",
+      "options": [
+        "A) Not allowed",
+        "B) Important for success",
+        "C) Discouraged",
+        "D) Illegal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2690c6527ccd18e16013f799d8e0e98ea2eed879",
+      "sectionIndex": 1,
+      "question": "Master Plans are legally:",
+      "options": [
+        "A) Optional guidelines",
+        "B) Binding documents",
+        "C) Suggestions only",
+        "D) Not recognized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "428beebbb61ecc57223505b8772150703f9fcd19",
+      "sectionIndex": 2,
+      "question": "Urbanization means:",
+      "options": [
+        "A) Building houses",
+        "B) Movement of people from rural to urban areas",
+        "C) Agriculture development",
+        "D) Forest clearing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1855ee51b7393fdcb53e26afd73988fbe8dbca2d",
+      "sectionIndex": 2,
+      "question": "The main cause of urbanization in Pakistan is:",
+      "options": [
+        "A) Tourism",
+        "B) Rural-urban migration",
+        "C) Foreign investment only",
+        "D) Government orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5b3bcbe66da6b3fb87eafbe4de4bd4b87329006",
+      "sectionIndex": 2,
+      "question": "Urban sprawl refers to:",
+      "options": [
+        "A) Vertical growth",
+        "B) Uncontrolled horizontal expansion",
+        "C) Population decrease",
+        "D) Agricultural growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "291045245bc00f5246f07c20783a5ea14f20658f",
+      "sectionIndex": 2,
+      "question": "Rapid urbanization can lead to:",
+      "options": [
+        "A) Only benefits",
+        "B) Both opportunities and challenges",
+        "C) Only problems",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bcfe55c460251edc50d250c60d4812180b41fde",
+      "sectionIndex": 2,
+      "question": "The percentage of Pakistan's urban population is approximately:",
+      "options": [
+        "A) 10%",
+        "B) 36-40%",
+        "C) 70%",
+        "D) 90%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12ff001038421b82f25b95aef5912a81c83209ee",
+      "sectionIndex": 2,
+      "question": "Megacities have populations exceeding:",
+      "options": [
+        "A) 1 million",
+        "B) 5 million",
+        "C) 10 million",
+        "D) 50 million"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "495e7822d574a6f5c3aa89c93b32cc3fd903de57",
+      "sectionIndex": 2,
+      "question": "Urban growth rate in Pakistan is:",
+      "options": [
+        "A) Negative",
+        "B) Zero",
+        "C) Among the highest in Asia",
+        "D) Lowest in the world"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f1fdce2c9222f0bff317a5ead944f07d0e1091ff",
+      "sectionIndex": 2,
+      "question": "Informal settlements are also called:",
+      "options": [
+        "A) Planned areas",
+        "B) Slums or katchi abadis",
+        "C) Commercial areas",
+        "D) Industrial zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "747cf5ebbe32c691f1790ff16bbd38361b8aceb9",
+      "sectionIndex": 2,
+      "question": "Urbanization can contribute to:",
+      "options": [
+        "A) Economic growth",
+        "B) Only poverty",
+        "C) Only pollution",
+        "D) Rural development only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2766f1db82c844f78be4252fdf70facf444c44f5",
+      "sectionIndex": 2,
+      "question": "Managing urbanization requires:",
+      "options": [
+        "A) Stopping city growth",
+        "B) Planned development strategies",
+        "C) Reducing population",
+        "D) Eliminating cities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "714bd91bbb8bccc716f3e8341f616557cbc74236",
+      "sectionIndex": 3,
+      "question": "Zoning is a tool for:",
+      "options": [
+        "A) Population count",
+        "B) Controlling land use",
+        "C) Building design",
+        "D) Tax collection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a64b3ea39b6608cc526bf103c0e7cd642282e4d0",
+      "sectionIndex": 3,
+      "question": "Residential zones are marked with color:",
+      "options": [
+        "A) Red",
+        "B) Yellow",
+        "C) Blue",
+        "D) Green"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a612e56c94c675a1106ab71b3d485be0ea0d1d83",
+      "sectionIndex": 3,
+      "question": "Commercial zones are typically colored:",
+      "options": [
+        "A) Yellow",
+        "B) Red",
+        "C) Green",
+        "D) Blue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3666bfa0243ce9bedd33efab70a0f2767183f10e",
+      "sectionIndex": 3,
+      "question": "Industrial zones are usually marked:",
+      "options": [
+        "A) Green",
+        "B) Purple/Violet",
+        "C) Yellow",
+        "D) White"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d599baa640714df6d2f572d7c7e905dde401f04f",
+      "sectionIndex": 3,
+      "question": "Mixed-use zoning allows:",
+      "options": [
+        "A) Only residential",
+        "B) Multiple compatible uses",
+        "C) Only commercial",
+        "D) Only industrial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52265b861b31934f04fc41adafc571c2506f4fe7",
+      "sectionIndex": 3,
+      "question": "The purpose of zoning is to:",
+      "options": [
+        "A) Increase taxes",
+        "B) Separate incompatible land uses",
+        "C) Reduce population",
+        "D) Eliminate businesses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5eb21c3acf4f99ff8565f83497f84641269b3ee5",
+      "sectionIndex": 3,
+      "question": "Green belts in cities are for:",
+      "options": [
+        "A) Agriculture only",
+        "B) Environmental protection and recreation",
+        "C) Industries",
+        "D) Parking"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "364dbb8ebf69655091c85609ad07a424c485bb29",
+      "sectionIndex": 3,
+      "question": "Floor Area Ratio (FAR) controls:",
+      "options": [
+        "A) Building height only",
+        "B) Building density",
+        "C) Plot size",
+        "D) Road width"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c571415ff5980c69f647a31ac70ab4d9c78bab80",
+      "sectionIndex": 3,
+      "question": "Building bylaws regulate:",
+      "options": [
+        "A) Population",
+        "B) Construction standards",
+        "C) Business hours",
+        "D) Traffic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d916b88eccd840f03eaed422b923656a3d451d3c",
+      "sectionIndex": 3,
+      "question": "Development control helps in:",
+      "options": [
+        "A) Stopping all development",
+        "B) Guiding orderly development",
+        "C) Increasing population",
+        "D) Reducing businesses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2212777b89e6cc7bc6c76d701ae41f23c3968a31",
+      "sectionIndex": 4,
+      "question": "Urban transportation planning aims to:",
+      "options": [
+        "A) Eliminate cars",
+        "B) Improve mobility and accessibility",
+        "C) Build more roads only",
+        "D) Reduce population"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5de3f58d58677701fd5c2a9039184d20df36a922",
+      "sectionIndex": 4,
+      "question": "Public transport includes:",
+      "options": [
+        "A) Private cars only",
+        "B) Buses, trains, and metros",
+        "C) Walking only",
+        "D) Bicycles only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9817487b9a9e1cf597843bb0f6c090d1dbe93dd",
+      "sectionIndex": 4,
+      "question": "Traffic congestion is caused by:",
+      "options": [
+        "A) Too few vehicles",
+        "B) Imbalance between road capacity and vehicle volume",
+        "C) Wide roads",
+        "D) Good planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66fe97af32794de829ac437c63222f3609d8c8a8",
+      "sectionIndex": 4,
+      "question": "Intelligent Transport Systems (ITS) use:",
+      "options": [
+        "A) Manual systems only",
+        "B) Technology for traffic management",
+        "C) More roads",
+        "D) More vehicles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d9dc7d949dac9aebe6d197e59eb9b3a4414d261",
+      "sectionIndex": 4,
+      "question": "Sustainable transport promotes:",
+      "options": [
+        "A) More private cars",
+        "B) Public transport and non-motorized options",
+        "C) Only walking",
+        "D) No movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11e013b6181ccd4e8ac9100d63306fe7c8bc239d",
+      "sectionIndex": 4,
+      "question": "Transit-Oriented Development (TOD) focuses on:",
+      "options": [
+        "A) Car parking",
+        "B) Development around public transport",
+        "C) Rural areas",
+        "D) Industrial zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46eb6f438173f6a533975b4eb9f5ca6ab96899ca",
+      "sectionIndex": 4,
+      "question": "Pedestrian facilities include:",
+      "options": [
+        "A) Highways only",
+        "B) Sidewalks and crossings",
+        "C) Parking lots",
+        "D) Gas stations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fdfff0a7634851460c5e629a852a25135b4e7b9",
+      "sectionIndex": 4,
+      "question": "Traffic signals help in:",
+      "options": [
+        "A) Stopping all traffic",
+        "B) Managing traffic flow",
+        "C) Increasing accidents",
+        "D) Reducing roads"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "151f9d8ade77c9d781bbe3f747f88ec117b36e11",
+      "sectionIndex": 4,
+      "question": "Ring roads are built to:",
+      "options": [
+        "A) Increase city traffic",
+        "B) Bypass city centers",
+        "C) Replace all roads",
+        "D) Eliminate transport"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95d0ad9dfa8e561393f1c02f38f02d985676c210",
+      "sectionIndex": 4,
+      "question": "Parking management is important for:",
+      "options": [
+        "A) Increasing congestion",
+        "B) Efficient use of urban space",
+        "C) Eliminating cars",
+        "D) Rural development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f2b1d765919d20838c98f4e0a55a90fb3301d14",
+      "sectionIndex": 5,
+      "question": "Affordable housing means:",
+      "options": [
+        "A) Free houses",
+        "B) Housing within economic reach of low-income groups",
+        "C) Luxury homes",
+        "D) Government housing only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f83c406da97371cd755900d3e7d981997fa8f24f",
+      "sectionIndex": 5,
+      "question": "Low-income housing schemes include:",
+      "options": [
+        "A) Only villas",
+        "B) Sites and services schemes",
+        "C) Luxury apartments",
+        "D) Commercial buildings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce7a7d561f365d7910984e7e4c17b3940e3b6586",
+      "sectionIndex": 5,
+      "question": "Housing shortage in Pakistan affects mainly:",
+      "options": [
+        "A) Rich people",
+        "B) Low and middle-income groups",
+        "C) Nobody",
+        "D) Foreigners only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0861bcffe6be5a09cd85376d66c3dd483f08778b",
+      "sectionIndex": 5,
+      "question": "Katchi abadis are:",
+      "options": [
+        "A) Planned settlements",
+        "B) Informal/squatter settlements",
+        "C) Commercial areas",
+        "D) Industrial zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e2e110344298152cc207e23e98cfebf2a9543fe",
+      "sectionIndex": 5,
+      "question": "Site and services schemes provide:",
+      "options": [
+        "A) Complete houses",
+        "B) Plots with basic infrastructure",
+        "C) Only land",
+        "D) Only loans"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78b2d659300f91aa5f10e34bee335dc72b851b08",
+      "sectionIndex": 5,
+      "question": "Public housing is provided by:",
+      "options": [
+        "A) Private developers only",
+        "B) Government agencies",
+        "C) International organizations only",
+        "D) NGOs only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "693d189ccf595896e5557bbff741e3895368db27",
+      "sectionIndex": 5,
+      "question": "Housing policy aims to:",
+      "options": [
+        "A) Reduce population",
+        "B) Ensure adequate shelter for all",
+        "C) Build luxury homes only",
+        "D) Eliminate cities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19ea4ba0ef1b2c79499898139cd360614109eea7",
+      "sectionIndex": 5,
+      "question": "Incremental housing allows:",
+      "options": [
+        "A) Immediate complete construction",
+        "B) Gradual improvement over time",
+        "C) No construction",
+        "D) Demolition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcb5085729693d2b9a7d5745a4f920882d972e40",
+      "sectionIndex": 5,
+      "question": "Housing finance includes:",
+      "options": [
+        "A) Gifts only",
+        "B) Loans and subsidies",
+        "C) Charity only",
+        "D) No support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4245d70819ea024f4132053cee470e230049692",
+      "sectionIndex": 5,
+      "question": "Regularization of katchi abadis means:",
+      "options": [
+        "A) Demolition",
+        "B) Providing legal status and services",
+        "C) Ignoring them",
+        "D) Moving them"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fa87b327a8d0f24c9ab9efecebe343c904a4acd",
+      "sectionIndex": 6,
+      "question": "Basic urban services include:",
+      "options": [
+        "A) Entertainment only",
+        "B) Water, sanitation, and electricity",
+        "C) Luxury facilities",
+        "D) Tourism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40e4fd8c23baa9b59582a5aff272e7bce356bb54",
+      "sectionIndex": 6,
+      "question": "Sewerage systems are for:",
+      "options": [
+        "A) Water supply",
+        "B) Wastewater disposal",
+        "C) Electricity",
+        "D) Gas supply"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6bc4985f274e0c96d6a09f1fe2e9eb46b9c6cee3",
+      "sectionIndex": 6,
+      "question": "Solid waste management includes:",
+      "options": [
+        "A) Collection and disposal of garbage",
+        "B) Water treatment",
+        "C) Air cleaning",
+        "D) Noise control"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "93bc8f96fed2751bfc15bae3bcdaa78482727a78",
+      "sectionIndex": 6,
+      "question": "Urban infrastructure is:",
+      "options": [
+        "A) Optional",
+        "B) Essential for city functioning",
+        "C) Only for rich areas",
+        "D) Not important"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28220e13b18424cf8c2bb8dec707d530dc2aba56",
+      "sectionIndex": 6,
+      "question": "Street lighting improves:",
+      "options": [
+        "A) Day visibility",
+        "B) Night safety and security",
+        "C) Nothing",
+        "D) Pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "975d4cd43b4d786f53dfda00a26ae53966bec17b",
+      "sectionIndex": 6,
+      "question": "Storm water drainage prevents:",
+      "options": [
+        "A) Rain",
+        "B) Urban flooding",
+        "C) Development",
+        "D) Traffic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d3fde41a10a755a9d90166a2dc1d7289ee94e8e",
+      "sectionIndex": 6,
+      "question": "Water supply planning considers:",
+      "options": [
+        "A) Current needs only",
+        "B) Present and future demand",
+        "C) Past consumption only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "396d2d2185da265fbf7cf0cc2a2e2daccc0cb137",
+      "sectionIndex": 6,
+      "question": "Public parks provide:",
+      "options": [
+        "A) Commercial space",
+        "B) Recreation and environmental benefits",
+        "C) Parking only",
+        "D) Housing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3880e4cd18401376748041b50e169b9c3519895a",
+      "sectionIndex": 6,
+      "question": "Urban services should be:",
+      "options": [
+        "A) For rich areas only",
+        "B) Equitably distributed",
+        "C) Minimal",
+        "D) Expensive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2046049f4a9b0360a413ebd97a1f4a8fef0b4ca",
+      "sectionIndex": 6,
+      "question": "Infrastructure maintenance is:",
+      "options": [
+        "A) Not needed",
+        "B) Essential for sustainability",
+        "C) Waste of money",
+        "D) Optional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e46f8b4d41b78ccda1ed5d299e612eda15c67a2",
+      "sectionIndex": 7,
+      "question": "GIS stands for:",
+      "options": [
+        "A) General Information System",
+        "B) Geographic Information System",
+        "C) Global Internet Service",
+        "D) Government Information Service"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7485401cacb1a81a03d5bd93c8f74e51feb57f53",
+      "sectionIndex": 7,
+      "question": "GIS is used in planning for:",
+      "options": [
+        "A) Entertainment",
+        "B) Spatial analysis and mapping",
+        "C) Cooking",
+        "D) Sports"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c08f5f69e2048becff992139479d6c66f3fffbcb",
+      "sectionIndex": 7,
+      "question": "Remote sensing uses:",
+      "options": [
+        "A) Ground surveys only",
+        "B) Satellite imagery",
+        "C) Manual counting",
+        "D) Guesswork"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b39b28155769454b09e5bd7a003b701d2f92529c",
+      "sectionIndex": 7,
+      "question": "Maps in planning show:",
+      "options": [
+        "A) Pictures only",
+        "B) Spatial information",
+        "C) Population names",
+        "D) Nothing useful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4df057f4ba4b3dfe265245ad5399d95cda25052d",
+      "sectionIndex": 7,
+      "question": "Data collection methods include:",
+      "options": [
+        "A) Guessing only",
+        "B) Surveys and censuses",
+        "C) Assumptions only",
+        "D) No methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8270d8c629a4f9095f922578a5e75af57e009191",
+      "sectionIndex": 7,
+      "question": "Computer-aided design (CAD) helps in:",
+      "options": [
+        "A) Population counting",
+        "B) Creating planning drawings",
+        "C) Traffic management",
+        "D) Waste collection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d76bc65a511ceb77b9d6712f823e3691b17511a2",
+      "sectionIndex": 7,
+      "question": "Planning software assists in:",
+      "options": [
+        "A) Manual work only",
+        "B) Analysis and visualization",
+        "C) Creating problems",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3be11d03ce151c967bf4286f591c1d96a6380a34",
+      "sectionIndex": 7,
+      "question": "GPS technology helps in:",
+      "options": [
+        "A) Time management",
+        "B) Location identification",
+        "C) Population control",
+        "D) Building design"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48caad18a8b6531a1092a47782322438d7cb05bc",
+      "sectionIndex": 7,
+      "question": "Digital planning tools improve:",
+      "options": [
+        "A) Confusion",
+        "B) Efficiency and accuracy",
+        "C) Costs only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d4e52de796acf9550c35b40f722b6990b75d8d1",
+      "sectionIndex": 7,
+      "question": "Modern planning requires:",
+      "options": [
+        "A) No technology",
+        "B) Integration of various tools",
+        "C) Paper only",
+        "D) Ancient methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7794efaf41f2a0b7d294fe0b337fb2c749c51f28",
+      "sectionIndex": 8,
+      "question": "The Indus Valley Civilization showed:",
+      "options": [
+        "A) No planning",
+        "B) Advanced urban planning",
+        "C) Rural planning only",
+        "D) Poor planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bef92607ec4cf1181f06d911d38262a0e16713fe",
+      "sectionIndex": 8,
+      "question": "Harappa and Mohenjo-daro had:",
+      "options": [
+        "A) Random streets",
+        "B) Grid-pattern streets",
+        "C) No streets",
+        "D) Curved streets only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74ef79a72348cbe08df153143f789c03ae8429af",
+      "sectionIndex": 8,
+      "question": "Ancient cities had:",
+      "options": [
+        "A) No drainage",
+        "B) Sophisticated drainage systems",
+        "C) Open sewers only",
+        "D) No water system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05991d325e46eab178069a23ffee7d1442c7b56a",
+      "sectionIndex": 8,
+      "question": "Greek cities introduced:",
+      "options": [
+        "A) No planning concepts",
+        "B) Agora (public spaces)",
+        "C) Slums only",
+        "D) Industrial zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcf5c828c85289481bf58820115b603821e27060",
+      "sectionIndex": 8,
+      "question": "Roman cities featured:",
+      "options": [
+        "A) No organization",
+        "B) Forums and grid patterns",
+        "C) Random development",
+        "D) No public spaces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf5770a87f10fdbeea5a1095b1b68a09aefa933c",
+      "sectionIndex": 8,
+      "question": "Medieval cities were often:",
+      "options": [
+        "A) Well-planned",
+        "B) Organic and walled",
+        "C) Without boundaries",
+        "D) Modern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e9d6ce849561b717154151648f0960cd710a66d",
+      "sectionIndex": 8,
+      "question": "Renaissance planning emphasized:",
+      "options": [
+        "A) Chaos",
+        "B) Geometric patterns and aesthetics",
+        "C) No design",
+        "D) Informal growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1afe967250a0fa8b994f2d1b681c622e721ef61f",
+      "sectionIndex": 8,
+      "question": "Industrial Revolution led to:",
+      "options": [
+        "A) Better cities immediately",
+        "B) Urban problems requiring planning",
+        "C) No change",
+        "D) Rural development only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2773d89538448899ffcf9e77dc196ac47bc71445",
+      "sectionIndex": 8,
+      "question": "Garden City concept was proposed by:",
+      "options": [
+        "A) Le Corbusier",
+        "B) Ebenezer Howard",
+        "C) Doxiadis",
+        "D) Hippodamus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "388ca92ea5e0acc701dfb62c7b816e9ec16addd0",
+      "sectionIndex": 8,
+      "question": "Modern planning emerged in:",
+      "options": [
+        "A) Ancient times",
+        "B) Late 19th/early 20th century",
+        "C) 21st century",
+        "D) Medieval period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63b7bbb92d4405d49fb033490771fdf607ce668a",
+      "sectionIndex": 9,
+      "question": "Sustainable development means:",
+      "options": [
+        "A) No development",
+        "B) Meeting present needs without compromising future",
+        "C) Rapid growth only",
+        "D) Economic growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87bab834272030d44eb061b3262fa6d948fb40a2",
+      "sectionIndex": 9,
+      "question": "SDG-11 focuses on:",
+      "options": [
+        "A) Agriculture",
+        "B) Sustainable cities and communities",
+        "C) Oceans",
+        "D) Forests only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31d93e85dbb8253723d2f6a4399cdad4f57ce20b",
+      "sectionIndex": 9,
+      "question": "Green buildings use:",
+      "options": [
+        "A) More energy",
+        "B) Environmentally friendly design",
+        "C) No technology",
+        "D) More water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8ea0d0c23d027cb230f976246320841c77ca959",
+      "sectionIndex": 9,
+      "question": "Climate change affects cities through:",
+      "options": [
+        "A) No impact",
+        "B) Heat waves, flooding, and extreme weather",
+        "C) Better weather",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34c843e5e09d3e08100002748e2797b704a487d9",
+      "sectionIndex": 9,
+      "question": "Smart cities use:",
+      "options": [
+        "A) No technology",
+        "B) Technology for better services",
+        "C) Manual systems only",
+        "D) Old methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b24b89b79d6e45ee6527c2709d0b2a90312c1bde",
+      "sectionIndex": 9,
+      "question": "Urban resilience means:",
+      "options": [
+        "A) Rigid cities",
+        "B) Ability to adapt to challenges",
+        "C) No change capacity",
+        "D) Weakness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fcdce80e2a7f230093af6684883965ed16baddb",
+      "sectionIndex": 9,
+      "question": "COVID-19 pandemic showed need for:",
+      "options": [
+        "A) No planning",
+        "B) Flexible and healthy city design",
+        "C) Crowded spaces",
+        "D) Less planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b57ebfdb4a0a25dbb6ac243cb484c6f97b9a329",
+      "sectionIndex": 9,
+      "question": "Future cities will need:",
+      "options": [
+        "A) Old methods only",
+        "B) Innovative and adaptive planning",
+        "C) No planning",
+        "D) Less technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ef74e9996a63e33ce22161de50d31231046aeae",
+      "sectionIndex": 9,
+      "question": "Renewable energy in cities includes:",
+      "options": [
+        "A) Coal only",
+        "B) Solar and wind power",
+        "C) Oil only",
+        "D) No energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc241d39d5868df4ce691c012faa219b9b456a43",
+      "sectionIndex": 9,
+      "question": "Circular economy in cities promotes:",
+      "options": [
+        "A) Waste increase",
+        "B) Reduce, reuse, recycle",
+        "C) Linear consumption",
+        "D) More pollution"
+      ],
+      "correct": "B"
+    }
+  ]
+}

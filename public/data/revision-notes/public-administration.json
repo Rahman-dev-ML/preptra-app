@@ -1,0 +1,768 @@
+{
+  "subject": "Public Administration",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Theories & Thinkers",
+    "Organization & Management",
+    "Public Policy",
+    "Budgeting & Financial Management",
+    "Human Resource Management",
+    "Leadership & Motivation",
+    "Accountability & Integrity",
+    "Procurement & Contracting",
+    "Audit & Public Financial Management",
+    "E-Government & Digital Transformation",
+    "Local Government & Devolution (Pakistan)",
+    "Pakistan Administrative & Legal Framework",
+    "Comparative Admin & NPM",
+    "Public Safety & Police Reforms",
+    "Governance Indicators & Evidence"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Woodrow Wilson & the Politics–Administration Dichotomy",
+      "content": "Wilson's 1887 essay set early boundaries between political decision-making and administrative execution. For exams: define the dichotomy, critique its limits in democratic/participatory governance, and link to Pakistan's practice where bureaucrats often influence policy design.",
+      "keyTakeaways": [
+        "Politics (ends) vs. administration (means) is a heuristic, not a hard wall.",
+        "Modern governance blends evidence-based policy with political accountability.",
+        "Use Pakistan examples (cabinet divisions, rules of business) to show overlaps."
+      ],
+      "resources": [
+        {
+          "title": "Woodrow Wilson — The Study of Administration (PDF)",
+          "url": "https://faculty.fiu.edu/~revellk/pad3003/Wilson.pdf",
+          "type": "primary",
+          "description": "Seminal 1887 essay"
+        },
+        {
+          "title": "Teaching American History — The Study of Administration",
+          "url": "https://teachingamericanhistory.org/document/the-study-of-administration-2/",
+          "type": "article",
+          "description": "Annotated excerpt & context"
+        }
+      ],
+      "importance": "high",
+      "category": "Theories & Thinkers",
+      "topics": ["Politics–Administration", "Classical Public Administration", "Wilson 1887"]
+    },
+    {
+      "id": "2",
+      "title": "Max Weber's Ideal Bureaucracy: Features & Critiques",
+      "content": "Weber's legal-rational authority emphasizes hierarchy, merit, rules, and impersonality. Examiners ask for features, advantages (predictability) and critiques (rigidity, goal displacement), and Pakistan's fit with Weberian ideals.",
+      "keyTakeaways": [
+        "Core features: hierarchy, specialization, formal rules, merit appointments.",
+        "Critiques: red-tape, rigidity; NPM challenges rule-driven models.",
+        "Apply to Pakistan's Civil Servants Act & recruitment systems."
+      ],
+      "resources": [
+        {
+          "title": "Civil Servants Act, 1973 (Official PDF)",
+          "url": "https://www.establishment.gov.pk/SiteImage/Misc/files/Civil%20Servants%20Act%2C%201973%281%29.pdf",
+          "type": "law",
+          "description": "Legal framework for federal civil service"
+        },
+        {
+          "title": "FPSC — CSS Syllabi (Public Administration)",
+          "url": "https://www.fpsc.gov.pk/category/css-syllabi-1493570691-2024-06-11",
+          "type": "syllabus",
+          "description": "Official topics list"
+        }
+      ],
+      "importance": "high",
+      "category": "Theories & Thinkers",
+      "topics": ["Weber", "Legal-Rational Authority", "Bureaucracy"]
+    },
+    {
+      "id": "3",
+      "title": "Scientific Management (F.W. Taylor) vs. Weberian Bureaucracy",
+      "content": "Compare task optimization (Taylor) with rule-bound hierarchy (Weber). Examiners like 'Taylor vs. Weber' essays: efficiency vs. legitimacy; standardization vs. discretion.",
+      "keyTakeaways": [
+        "Taylor: time-and-motion studies, standardized tasks, performance focus.",
+        "Weber: authority legitimacy, rules, and formal structures.",
+        "Synthesis: use performance management within legal-rational oversight."
+      ],
+      "resources": [
+        {
+          "title": "Taylor — Principles of Scientific Management (Archive PDF)",
+          "url": "https://archive.org/download/principlesofscie00taylrich/principlesofscie00taylrich.pdf",
+          "type": "book",
+          "description": "Primary text"
+        },
+        {
+          "title": "Saylor/LoC Excerpts (Taylor 1911)",
+          "url": "https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST363-7.1.3-Frederick-W-Taylor.pdf",
+          "type": "excerpt",
+          "description": "Key principles & summary"
+        }
+      ],
+      "importance": "high",
+      "category": "Theories & Thinkers",
+      "topics": ["Taylorism", "Efficiency", "Comparative Theory"]
+    },
+    {
+      "id": "4",
+      "title": "Gulick & Urwick: POSDCORB and Executive Functions",
+      "content": "POSDCORB (Planning, Organizing, Staffing, Directing, Co-ordinating, Reporting, Budgeting) remains an exam staple. Use it to structure answers on managerial roles and evaluate its limits (overly inward-looking, ignores external stakeholders).",
+      "keyTakeaways": [
+        "Use POSDCORB as a mnemonic framework for management questions.",
+        "Critique: weak on environment/strategy; complement with systems view.",
+        "Bridge to modern performance budgeting and reporting in Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "Papers on the Science of Administration (1937) — Gulick & Urwick (PDF)",
+          "url": "https://archive.org/download/papersonscienceo00guli/papersonscienceo00guli.pdf",
+          "type": "primary",
+          "description": "Original collection"
+        },
+        {
+          "title": "MLS University handout on POSDCORB (PDF)",
+          "url": "https://mlsu.ac.in/econtents/2746_Functions%20of%20Management.pdf",
+          "type": "note",
+          "description": "Concise explainer"
+        }
+      ],
+      "importance": "high",
+      "category": "Organization & Management",
+      "topics": ["POSDCORB", "Executive Functions", "Reporting & Budgeting"]
+    },
+    {
+      "id": "5",
+      "title": "Human Relations & the Hawthorne Studies",
+      "content": "Human Relations School (Mayo/Roethlisberger) highlighted social factors at work. Exams ask for the Hawthorne Effect, methods, and implications for motivation/leadership in public organizations.",
+      "keyTakeaways": [
+        "Attention & social context can raise productivity (Hawthorne).",
+        "Modern view: be cautious—methodological critiques exist.",
+        "Link to civil service HRM (communication, participation, morale)."
+      ],
+      "resources": [
+        {
+          "title": "Harvard Business School — Hawthorne Collection",
+          "url": "https://www.library.hbs.edu/hc/hawthorne/09.html",
+          "type": "archive",
+          "description": "Human Relations Movement"
+        },
+        {
+          "title": "SimplyPsychology — Hawthorne Effect",
+          "url": "https://www.simplypsychology.org/hawthorne-effect.html",
+          "type": "article",
+          "description": "Concept & critiques"
+        }
+      ],
+      "importance": "medium",
+      "category": "Leadership & Motivation",
+      "topics": ["Hawthorne Effect", "Elton Mayo", "OB in Public Service"]
+    },
+    {
+      "id": "6",
+      "title": "Public Service Motivation (PSM)",
+      "content": "PSM explains pro-social motives of public employees (commitment to public interest, compassion, self-sacrifice). Useful to justify HRM practices beyond extrinsic incentives.",
+      "keyTakeaways": [
+        "PSM predicts attraction/retention in government roles.",
+        "Measure via Perry's (1996) validated scale.",
+        "Design HR systems that recognize intrinsic motives."
+      ],
+      "resources": [
+        {
+          "title": "Perry (1996) — Measuring Public Service Motivation (JPART)",
+          "url": "https://academic.oup.com/jpart/article-abstract/6/1/5/923013",
+          "type": "paper",
+          "description": "Seminal article"
+        },
+        {
+          "title": "Research overview/book on PSM (2025)",
+          "url": "https://www.researchgate.net/publication/369262822_Public_Service_Motivation",
+          "type": "overview",
+          "description": "Recent synthesis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Human Resource Management",
+      "topics": ["PSM", "Intrinsic Motivation", "Public HRM"]
+    },
+    {
+      "id": "7",
+      "title": "New Public Management (NPM) & Post-NPM Reforms",
+      "content": "NPM introduced performance, market mechanisms, and managerialism; post-NPM stresses collaboration, networks, and whole-of-government. Exams: define NPM, discuss pros/cons, applicability to developing countries.",
+      "keyTakeaways": [
+        "NPM: performance contracts, autonomy, customer orientation.",
+        "Post-NPM: integration, coordination, shared services.",
+        "Developing country context requires capacity, accountability, equity."
+      ],
+      "resources": [
+        {
+          "title": "OECD — Public Administration after NPM",
+          "url": "https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html",
+          "type": "report",
+          "description": "Comparative reforms"
+        },
+        {
+          "title": "EBSCO Research Starters — NPM overview",
+          "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/new-public-management-npm",
+          "type": "encyclopedia",
+          "description": "Concise definitional primer"
+        },
+        {
+          "title": "OECD — Public Employment & Management",
+          "url": "https://www.oecd.org/en/topics/policy-issues/public-employment-and-management.html",
+          "type": "portal",
+          "description": "Workforce-centric reforms"
+        }
+      ],
+      "importance": "high",
+      "category": "Comparative Admin & NPM",
+      "topics": ["NPM", "Post-NPM", "Performance Management"]
+    },
+    {
+      "id": "8",
+      "title": "Public Policy Cycle & Implementation (Pakistan Focus)",
+      "content": "Define agenda-setting → formulation → adoption → implementation → evaluation. For Pakistan, stress coordination, capacity, and judicial/oversight interactions.",
+      "keyTakeaways": [
+        "Implementation failure often due to capacity & inter-agency coordination.",
+        "Evaluation and audit feedback loops are integral to learning.",
+        "Use Pakistan's PFM Act & audit architecture as institutional examples."
+      ],
+      "resources": [
+        {
+          "title": "Public Finance Management Act, 2019 (Latest update PDF)",
+          "url": "https://www.finance.gov.pk/budget/pfm_act_2019_30june2024.pdf",
+          "type": "law",
+          "description": "Legal backbone for budgeting & performance"
+        },
+        {
+          "title": "World Bank — WGI Overview",
+          "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+          "type": "portal",
+          "description": "Governance evidence for evaluation"
+        }
+      ],
+      "importance": "high",
+      "category": "Public Policy",
+      "topics": ["Policy Cycle", "Implementation", "Evaluation"]
+    },
+    {
+      "id": "9",
+      "title": "Budgeting Systems: Line-Item, Performance, PPBS, ZBB",
+      "content": "Contrast traditional line-item control with performance budgeting, PPBS, and Zero-Based Budgeting. Connect to Pakistan's medium-term performance budgeting mandates.",
+      "keyTakeaways": [
+        "Line-item ensures control; performance/PPBS improve allocative efficiency.",
+        "PFM Act calls for medium-term performance-based budgeting.",
+        "Use 'Budget in Brief' for current aggregates & priorities."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Budget in Brief FY 2025-26 (PDF)",
+          "url": "https://www.finance.gov.pk/budget/budget_2025_26/budget_in_brief_10062025.pdf",
+          "type": "official",
+          "description": "Executive summary of the budget"
+        },
+        {
+          "title": "Federal Budget Documents 2025-26 (Portal)",
+          "url": "https://www.finance.gov.pk/fb_2025_26.html",
+          "type": "portal",
+          "description": "All core budget docs"
+        },
+        {
+          "title": "PFM Act 2019 (Original text)",
+          "url": "https://www.finance.gov.pk/PublicFinanceManagementAct_2019.pdf",
+          "type": "law",
+          "description": "Mandates performance budgeting"
+        }
+      ],
+      "importance": "high",
+      "category": "Budgeting & Financial Management",
+      "topics": ["Performance Budgeting", "PPBS", "ZBB", "Budget in Brief"]
+    },
+    {
+      "id": "10",
+      "title": "Pakistan's Public Financial Management (PFM) Architecture",
+      "content": "Know treasury single account (TSA), chart of accounts (CoA), roles of MoF, CGA, AGP, and audit types. Examiners ask 'explain PFM reforms since 2019' with examples.",
+      "keyTakeaways": [
+        "CoA elements: entity, object, fund, function, project.",
+        "PFM Act supports TSA, reporting, performance info.",
+        "AGP conducts financial/compliance/performance audits."
+      ],
+      "resources": [
+        {
+          "title": "Chart of Accounts (CoA) — Govt. manuals (PDF)",
+          "url": "https://paaa.gov.pk/download/05%20Chart%20of%20Accounts.pdf",
+          "type": "manual",
+          "description": "CoA elements & coding"
+        },
+        {
+          "title": "FABS — Accounting Policies & Procedures (PDF)",
+          "url": "https://fabs.gov.pk/downloads/03-Accounting-Policie-and-Procedures-Manual.pdf",
+          "type": "manual",
+          "description": "Processes under New Accounting Model"
+        },
+        {
+          "title": "AGP — Audit Guidelines (PDF)",
+          "url": "https://agp.gov.pk/SiteImage/Misc/files/RRA%20Audit%20Guidelines%20final%20rereview.pdf",
+          "type": "manual",
+          "description": "Audit approach & reporting"
+        },
+        {
+          "title": "PIDE Working Paper — PFM Reforms (TSA)",
+          "url": "https://file.pide.org.pk/pdfpideresearch/wp-23-8-public-finance-management-reforms-in-pakistan.pdf",
+          "type": "paper",
+          "description": "Reforms analysis"
+        },
+        {
+          "title": "ADB — PFM Systems in Pakistan (PDF)",
+          "url": "https://www.adb.org/sites/default/files/linked-documents/54193-001-sd-04.pdf",
+          "type": "report",
+          "description": "Donor perspective on PFM"
+        }
+      ],
+      "importance": "high",
+      "category": "Audit & Public Financial Management",
+      "topics": ["TSA", "CoA", "AGP", "CGA", "PFM Act 2019"]
+    },
+    {
+      "id": "11",
+      "title": "Public Procurement in Pakistan (PPRA Rules 2004)",
+      "content": "Understand principles (value for money, transparency, open competition), thresholds, methods (open tendering, single-source exceptions), and complaints review.",
+      "keyTakeaways": [
+        "PPRA Rules 2004 are the baseline for federal procurement.",
+        "Maintain records, advertise opportunities, and avoid SPL without justification.",
+        "Link to audit and anti-corruption oversight."
+      ],
+      "resources": [
+        {
+          "title": "PPRA Rules 2004 (Official PDF)",
+          "url": "https://ppra.org.pk/doc/rules.pdf",
+          "type": "law",
+          "description": "Federal procurement rules"
+        },
+        {
+          "title": "AJK PPRA Rules 2004 (PDF mirror)",
+          "url": "https://pndajk.gov.pk/uploadfiles/downloads/PPRA%20rules%202004.pdf",
+          "type": "reference",
+          "description": "Accessible copy for study"
+        }
+      ],
+      "importance": "high",
+      "category": "Procurement & Contracting",
+      "topics": ["PPRA", "Open Competition", "Complaints"]
+    },
+    {
+      "id": "12",
+      "title": "Accountability Institutions: Ombudsman, NAB, RTI",
+      "content": "Map three pillars: (i) Wafaqi Mohtasib (maladministration), (ii) NAB (corruption/corrupt practices), (iii) Right of Access to Information Act (transparency).",
+      "keyTakeaways": [
+        "Ombudsman offers citizen grievance redress against federal agencies.",
+        "NAB operates under NAO 1999—know key offenses and powers.",
+        "RTI Act 2017 provides proactive and reactive disclosure rights."
+      ],
+      "resources": [
+        {
+          "title": "Wafaqi Mohtasib — Official Site",
+          "url": "https://mohtasib.gov.pk/",
+          "type": "portal",
+          "description": "Mandate & complaint process"
+        },
+        {
+          "title": "NAB — National Accountability Ordinance 1999 (Updated PDF)",
+          "url": "https://nab.gov.pk/wp-content/uploads/2025/02/Updated_NAO_1999_Sept24.pdf",
+          "type": "law",
+          "description": "Latest consolidated version"
+        },
+        {
+          "title": "Right of Access to Information Act 2017 (Gazette PDF)",
+          "url": "https://rti.gov.pk/SiteImage/Misc/files/The-Right-of-Access-to-Information-Act-2017-Gazette.pdf",
+          "type": "law",
+          "description": "Federal RTI statute"
+        }
+      ],
+      "importance": "high",
+      "category": "Accountability & Integrity",
+      "topics": ["Ombudsman", "NAB", "RTI", "Transparency"]
+    },
+    {
+      "id": "13",
+      "title": "Police Order 2002 & Public Safety",
+      "content": "Police Order 2002 replaced the colonial Police Act 1861, introduced public safety commissions, clearer duties, and oversight. Exams often ask for reforms content and implementation challenges.",
+      "keyTakeaways": [
+        "Emphasis on efficiency, accountability, and service orientation.",
+        "Structure: responsibilities, organization, public safety architecture.",
+        "Amendments and provincial variations exist—cite updated versions."
+      ],
+      "resources": [
+        {
+          "title": "Police Order, 2002 (Punjab Laws PDF)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/the_police_order-_2002-pdf.pdf",
+          "type": "law",
+          "description": "Consolidated text"
+        },
+        {
+          "title": "National Police Bureau — Police Order resources",
+          "url": "https://www.npb.gov.pk/police-order",
+          "type": "portal",
+          "description": "Links to English/Amendments"
+        },
+        {
+          "title": "Police Order 2002 (Updated 2006 PDF)",
+          "url": "https://policehumanrightsresources.org/content/uploads/2016/07/Police-Order-2002-with-Amendment-Ordinance-2006.pdf?x80005=",
+          "type": "law",
+          "description": "Amended version"
+        }
+      ],
+      "importance": "medium",
+      "category": "Public Safety & Police Reforms",
+      "topics": ["Police Order 2002", "Public Safety", "Oversight"]
+    },
+    {
+      "id": "14",
+      "title": "Devolution & Local Government (2001 Ordinances) — Pakistan",
+      "content": "NRB's Devolution Plan (2001) created a three-tier local system (district, tehsil, union). For exams, compare design vs. implementation and subsequent reversals/reforms.",
+      "keyTakeaways": [
+        "Design promised participation & accountability; implementation varied.",
+        "Women's representation increased; fiscal/administrative autonomy debated.",
+        "Know provincial LGO texts and post-18th Amendment dynamics."
+      ],
+      "resources": [
+        {
+          "title": "Sindh Local Government Ordinance 2001 (PDF)",
+          "url": "https://sindhlaws.gov.pk/setup/publications_SindhCode/PUB-16-000088.pdf",
+          "type": "law",
+          "description": "Provincial LGO text"
+        },
+        {
+          "title": "NWFP/Sindh/Balochistan LGO 2001 (reference PDF)",
+          "url": "https://www.humanrightsinitiative.org/programs/ACT/Pakistan/Local%20Government%20Ordinance%202001.pdf",
+          "type": "law",
+          "description": "Historic consolidated copy"
+        },
+        {
+          "title": "USIP — Devolution of Power in Pakistan (2018)",
+          "url": "https://www.usip.org/sites/default/files/2018-03/sr_422_mohammad_ali_final.pdf",
+          "type": "report",
+          "description": "Assessment post-2001"
+        },
+        {
+          "title": "World Bank Policy Research — Pakistan Devolution (2008)",
+          "url": "https://documents1.worldbank.org/curated/en/659921468059088010/pdf/wps4610.pdf",
+          "type": "paper",
+          "description": "Evidence on local service delivery"
+        }
+      ],
+      "importance": "high",
+      "category": "Local Government & Devolution (Pakistan)",
+      "topics": ["NRB", "Devolution Plan 2001", "Local Governance"]
+    },
+    {
+      "id": "15",
+      "title": "Right to Information (RTI) & Open Government",
+      "content": "RTI 2017 ensures citizens' access to records with specified exemptions; vital for governance, anti-corruption, and citizen participation.",
+      "keyTakeaways": [
+        "Use RTI to demand proactive disclosure and submit information requests.",
+        "Public information officers designated in each federal body.",
+        "Appeal mechanisms available for denied/delayed requests."
+      ],
+      "resources": [
+        {
+          "title": "RTI Act 2017 (FBR copy PDF)",
+          "url": "https://download1.fbr.gov.pk/Docs/20181091110018405RightofAccesstoInformationAct2017.pdf",
+          "type": "law",
+          "description": "Accessible official copy"
+        },
+        {
+          "title": "MoFA — RTI page",
+          "url": "https://mofa.gov.pk/right-to-access-information-act",
+          "type": "portal",
+          "description": "Ministry-level implementation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Accountability & Integrity",
+      "topics": ["Open Government", "Transparency", "Citizen Rights"]
+    },
+    {
+      "id": "16",
+      "title": "Auditing in Government: Roles, Types, & Reports (AGP)",
+      "content": "Differentiate financial, compliance, and performance audits; understand the Auditor General's reporting process to parliament and PAC oversight.",
+      "keyTakeaways": [
+        "AGP issues certification, compliance, and performance audit reports.",
+        "Audit supports accountability and informs future budgetary choices.",
+        "Know report structure and follow-up mechanisms."
+      ],
+      "resources": [
+        {
+          "title": "AGP — Audit Report Types (PDF Chapter)",
+          "url": "https://www.agp.gov.pk/SiteImage/Misc/files/Chapter%2012%20070804.pdf",
+          "type": "manual",
+          "description": "Report taxonomy"
+        },
+        {
+          "title": "AGAJK — Audit Code (2025 PDF)",
+          "url": "https://agajk.gov.pk/wp-content/uploads/2025/02/Audit-Code.pdf",
+          "type": "code",
+          "description": "Rules & directions for audits"
+        }
+      ],
+      "importance": "high",
+      "category": "Audit & Public Financial Management",
+      "topics": ["AGP", "PAC", "Performance Audit"]
+    },
+    {
+      "id": "17",
+      "title": "Pakistan Budget: Current Context & Exam Data Points",
+      "content": "Use up-to-date aggregates, priorities, and reforms from FY 2025-26 for data-rich answers (deficit targets, sectoral allocations, revenue measures).",
+      "keyTakeaways": [
+        "Cite official 'Budget in Brief' for numbers; avoid outdated figures.",
+        "Connect budget choices to governance reforms and IMF program.",
+        "Relate to performance budgeting requirements (PFM Act)."
+      ],
+      "resources": [
+        {
+          "title": "Budget in Brief 2025-26 (Official PDF)",
+          "url": "https://www.finance.gov.pk/budget/budget_2025_26/budget_in_brief_10062025.pdf",
+          "type": "official",
+          "description": "Key aggregates & priorities"
+        },
+        {
+          "title": "Federal Budget Documents 2025-26 (Portal)",
+          "url": "https://www.finance.gov.pk/fb_2025_26.html",
+          "type": "portal",
+          "description": "All budget docs & speeches"
+        }
+      ],
+      "importance": "high",
+      "category": "Budgeting & Financial Management",
+      "topics": ["FY2025-26", "Deficit & Revenues", "Allocations"]
+    },
+    {
+      "id": "18",
+      "title": "Governance Indicators for Evidence-Based Answers",
+      "content": "Use international indicators to benchmark Pakistan's governance dimensions (voice, stability, effectiveness, regulatory quality, rule of law, control of corruption).",
+      "keyTakeaways": [
+        "Use WGI for trends and cross-country comparisons.",
+        "Discuss limitations (perception-based, aggregation methods).",
+        "Support policy evaluation & reform arguments with data."
+      ],
+      "resources": [
+        {
+          "title": "WGI — World Bank Overview",
+          "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+          "type": "portal",
+          "description": "Concepts & downloads"
+        },
+        {
+          "title": "WGI DataBank (Interactive)",
+          "url": "https://databank.worldbank.org/id/13b543de",
+          "type": "data",
+          "description": "Extract Pakistan series"
+        },
+        {
+          "title": "WGI Methodology Paper (PDF)",
+          "url": "https://www.worldbank.org/content/dam/sites/govindicators/doc/wgimethodologypaper.pdf",
+          "type": "methodology",
+          "description": "Interpretation cautions"
+        }
+      ],
+      "importance": "medium",
+      "category": "Governance Indicators & Evidence",
+      "topics": ["WGI", "Comparative Metrics", "Evidence Use"]
+    },
+    {
+      "id": "19",
+      "title": "Digital Government & Service Delivery (Pakistan)",
+      "content": "Digital Pakistan Policy (2018) envisions a digital ecosystem for efficient service delivery, transparency, and economic growth. Exams: define e-governance and discuss Pakistan's policy/institutional enablers.",
+      "keyTakeaways": [
+        "Digital transformation demands capacity, interoperability, RTI, cybersecurity.",
+        "Policies: Digital Pakistan, Broadband Policy; multiple agencies involved.",
+        "Tie to citizen-facing portals, procurement e-tendering, and service digitization."
+      ],
+      "resources": [
+        {
+          "title": "Digital Pakistan Policy 2018 (Official PDF)",
+          "url": "https://moib.gov.pk/Downloads/Policy/DIGITAL_PAKISTAN_POLICY%2822-05-2018%29.pdf",
+          "type": "policy",
+          "description": "Government policy"
+        },
+        {
+          "title": "MoITT — Policies & Plans Page",
+          "url": "https://moitt.gov.pk/Detail/ZTA5MTI4ZWUtMzdhMS00ZDRhLWE0YmUtZjJjNThhYTdjNzdl",
+          "type": "portal",
+          "description": "Related ICT policies"
+        },
+        {
+          "title": "UNFPA Factsheet — Digital Transformation (Pakistan)",
+          "url": "https://pakistan.unfpa.org/sites/default/files/pub-pdf/2024-10/Factsheet_Digital%20Transformation.pdf",
+          "type": "factsheet",
+          "description": "Snapshot of digital agenda items"
+        }
+      ],
+      "importance": "medium",
+      "category": "E-Government & Digital Transformation",
+      "topics": ["E-Gov", "Digital Services", "Policy Framework"]
+    },
+    {
+      "id": "20",
+      "title": "Civil Service Reforms — Debates & Webinars",
+      "content": "Use contemporary debates to enrich essays on HRM, performance, and accountability in Pakistan's civil service.",
+      "keyTakeaways": [
+        "Reforms face political economy constraints and capacity gaps.",
+        "Themes: recruitment, training, lateral entry, evaluation, pay & incentives.",
+        "Cite webinar insights to add currency to answers."
+      ],
+      "resources": [
+        {
+          "title": "PIDE Webinar — Civil Service Reforms (Dr. Ishrat Husain)",
+          "url": "https://pide.org.pk/webinar/civil-service-reforms-with-ishrat-husain/",
+          "type": "webinar",
+          "description": "Policy discussion"
+        },
+        {
+          "title": "YouTube — PIDE Civil Service Reforms (Recording)",
+          "url": "https://www.youtube.com/watch?v=fRuKuIHdKEI",
+          "type": "video",
+          "description": "Public talk & Q/A"
+        },
+        {
+          "title": "Dr. Ishrat Husain — Videos hub",
+          "url": "https://ishrathusain.iba.edu.pk/videos.html",
+          "type": "portal",
+          "description": "Talks on governance & reforms"
+        }
+      ],
+      "importance": "medium",
+      "category": "Human Resource Management",
+      "topics": ["Civil Service Reform", "Performance", "Training"]
+    },
+    {
+      "id": "21",
+      "title": "Ombudsman (Wafaqi Mohtasib): Complaint Process & Regulations",
+      "content": "Know jurisdiction (federal agencies), exclusions, filing steps, and investigation process to illustrate administrative accountability beyond courts.",
+      "keyTakeaways": [
+        "Citizens can lodge online complaints; service matters are limited.",
+        "Regulations guide investigation & disposal of complaints.",
+        "Use as example of non-judicial grievance redress."
+      ],
+      "resources": [
+        {
+          "title": "Wafaqi Mohtasib — About & Process",
+          "url": "https://mohtasib.gov.pk/Detail/ZGRjN2MxYjMtMTM1Yi00MmZmLWI2M2MtOTAxNjc4MGYxNWQ2",
+          "type": "guide",
+          "description": "Jurisdiction & steps"
+        },
+        {
+          "title": "Online Complaint Portal",
+          "url": "https://www.mohtasib.gov.pk/Detail/NWRkZDJmMTYtZmRiOC00MTAyLTk2ZDItZGVlNTkxMTdmNTEz",
+          "type": "service",
+          "description": "File a complaint"
+        },
+        {
+          "title": "Investigation & Disposal Regulations 2013 (PDF)",
+          "url": "https://www.mohtasib.gov.pk/SiteImage/Downloads/disposal_regulation_2013.pdf",
+          "type": "regulation",
+          "description": "Procedural rules"
+        }
+      ],
+      "importance": "medium",
+      "category": "Accountability & Integrity",
+      "topics": ["Ombudsman", "G2C Redress", "Administrative Justice"]
+    },
+    {
+      "id": "22",
+      "title": "Pakistan Administrative Laws — Core References",
+      "content": "Anchor essays with primary laws that define administration: Civil Servants Act, Police Order, RTI, NAO (NAB).",
+      "keyTakeaways": [
+        "Quote relevant sections to strengthen legal grounding.",
+        "Show evolution (e.g., post-2001 police reforms).",
+        "Relate statutes to governance principles."
+      ],
+      "resources": [
+        {
+          "title": "Civil Servants Act 1973 (Official PDF)",
+          "url": "https://www.establishment.gov.pk/SiteImage/Misc/files/Civil%20Servants%20Act%2C%201973%281%29.pdf",
+          "type": "law",
+          "description": "Federal civil service law"
+        },
+        {
+          "title": "Police Order, 2002 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5prag%3D%3D-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Codified text"
+        },
+        {
+          "title": "NAO 1999 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5ljaQ%3D%3D-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Anti-corruption statute"
+        },
+        {
+          "title": "RTI Act 2017 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Noa5c%3D-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Transparency law"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Administrative & Legal Framework",
+      "topics": ["Administrative Law", "Statutory Basis", "Governance"]
+    },
+    {
+      "id": "23",
+      "title": "Syllabus Alignment & Past Paper Themes",
+      "content": "Use the official CSS syllabus to structure prep (concepts, policy, HRM, budgeting, accountability, Pakistan context). Cross-map with recurring exam themes (bureaucracy vs. NPM, good governance, budgeting systems, HRM reforms, devolution).",
+      "keyTakeaways": [
+        "Follow FPSC syllabus headings for comprehensive coverage.",
+        "Anchor each theme with at least one Pakistan law/policy and one comparative source.",
+        "Practice comparative essays (Weber vs. Taylor; NPM vs. Classical)."
+      ],
+      "resources": [
+        {
+          "title": "CSS Public Administration — Official Syllabus Page",
+          "url": "https://www.fpsc.gov.pk/category/css-syllabi-1493570691-2024-06-11",
+          "type": "syllabus",
+          "description": "FPSC source of truth"
+        },
+        {
+          "title": "Syllabus (clean PDF copy)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Public-Administration-CSS-Syllabus.pdf",
+          "type": "syllabus",
+          "description": "Printable version"
+        }
+      ],
+      "importance": "high",
+      "category": "Comparative Admin & NPM",
+      "topics": ["Syllabus Mapping", "Past Papers", "Exam Strategy"]
+    },
+    {
+      "id": "24",
+      "title": "Suggested Lectures & Debates (Video) for Enrichment",
+      "content": "Cite authoritative videos to add currency and examples to essays (civil service reform, devolution, leadership).",
+      "keyTakeaways": [
+        "Blend theory with current affairs and policy debates.",
+        "Use academic sources for conceptual questions; policy talks for application.",
+        "Document key stats/quotes with official reports."
+      ],
+      "resources": [
+        {
+          "title": "PIDE Webinar — Civil Service Reforms (YouTube)",
+          "url": "https://m.youtube.com/live/q9IBHq8O-08",
+          "type": "video",
+          "description": "Policy discussion recording"
+        },
+        {
+          "title": "Local Government in Pakistan — EconFest Debate (YouTube)",
+          "url": "https://www.youtube.com/watch?v=8XLtLoBr2AM",
+          "type": "video",
+          "description": "Devolution debate"
+        },
+        {
+          "title": "Harvard Kennedy School — Public Leadership Channel",
+          "url": "https://www.youtube.com/user/HarvardKennedySchool",
+          "type": "channel",
+          "description": "Leadership/governance lectures"
+        }
+      ],
+      "importance": "medium",
+      "category": "Governance Indicators & Evidence",
+      "topics": ["Lectures", "Policy Debates", "Leadership"]
+    }
+  ]
+}

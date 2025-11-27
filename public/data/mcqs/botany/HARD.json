@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-12T21:32:41.482Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "47e8b9e3241b08479fc745a87169a4ba39c2dc1b",
+      "sectionIndex": 0,
+      "question": "In the life cycle of Polysiphonia, if carpospores give rise to tetrasporophytes and tetraspores produce gametophytes, what explains the chromosome number variation in different phases?",
+      "options": [
+        "A) Meiosis occurs during carpospore formation",
+        "B) Meiosis occurs during tetraspore formation",
+        "C) Mitosis produces haploid cells",
+        "D) Fertilization occurs twice per cycle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b69a09b7404af8094499fe4a4ef8110c61b6cd09",
+      "sectionIndex": 0,
+      "question": "The evolutionary significance of heteromorphic alternation of generations in brown algae compared to isomorphic patterns suggests:",
+      "options": [
+        "A) Adaptation to different ecological niches by different phases",
+        "B) Reduced genetic variation",
+        "C) Simpler reproductive mechanisms",
+        "D) Lower metabolic costs"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "80ca3b4c781e6eca04c3fea03d9bd590ac4188d1",
+      "sectionIndex": 0,
+      "question": "In Anthoceros, the unique feature of indeterminate growth of sporophyte with intercalary meristem indicates:",
+      "options": [
+        "A) Primitive condition linking to vascular plants",
+        "B) Advanced condition among bryophytes",
+        "C) Convergent evolution with algae",
+        "D) Degenerate pteridophyte ancestry"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6a2724eb2fe14a3e8d33ed75bbc9c08081e12d02",
+      "sectionIndex": 0,
+      "question": "The presence of conducting strands in the seta of Polytrichum but not in other mosses suggests:",
+      "options": [
+        "A) Polyphyletic origin of mosses",
+        "B) Parallel evolution of conducting tissues",
+        "C) Secondary loss in other mosses",
+        "D) Misidentification of cell types"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab19f659d4a3f5b44a46faaf169fddeec1da18b3",
+      "sectionIndex": 0,
+      "question": "If a Chara species shows 89% reduction in chromosome number from zygote to mature plant, this indicates:",
+      "options": [
+        "A) Regular mitotic divisions",
+        "B) Immediate meiosis after fertilization",
+        "C) Chromosome elimination during development",
+        "D) Polyploid gametophyte formation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71db96f0c065085ffa3f1798f9607646636239be",
+      "sectionIndex": 0,
+      "question": "The evolutionary transition from isogamy to oogamy in Volvocales demonstrates:",
+      "options": [
+        "A) Increasing cellular differentiation and complexity",
+        "B) Decreasing reproductive efficiency",
+        "C) Response to terrestrial habitats",
+        "D) Reduction in genetic diversity"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f9a24780315ea4918e4e8846372c7b1dcbbb069e",
+      "sectionIndex": 0,
+      "question": "The phenomenon of \"false branching\" in Scytonema differs from true branching because:",
+      "options": [
+        "A) It lacks meristematic cells",
+        "B) Hormogonia break through sheath laterally",
+        "C) Only reproductive cells branch",
+        "D) Branches are always unicellular"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96bb41fa24d047d018074361411d49e4b8b59246",
+      "sectionIndex": 0,
+      "question": "Gemma cups in Marchantia exhibit bilateral symmetry rather than radial, which suggests:",
+      "options": [
+        "A) Adaptation for directional dispersal",
+        "B) Evolutionary link to higher plants",
+        "C) Response to gravity",
+        "D) Protection from desiccation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c29a24b60e7aaa026f8ad15d00c171df02bdf816",
+      "sectionIndex": 0,
+      "question": "The reduction of chromosome number in the apophysis cells of moss sporophyte compared to spore mother cells indicates:",
+      "options": [
+        "A) Somatic chromosome elimination",
+        "B) Differential DNA replication",
+        "C) Meiosis has not yet occurred",
+        "D) Polyploid sporophyte tissue"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e19ab6e3c34f527b8abd5e85e9bde051bb611619",
+      "sectionIndex": 0,
+      "question": "In Ectocarpus, the plurilocular and unilocular sporangia on the same plant producing different spore types demonstrates:",
+      "options": [
+        "A) Environmental control of reproduction",
+        "B) Temporal separation of sexual and asexual cycles",
+        "C) Genetic mosaicism",
+        "D) Nutritional differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f66feb72ed5c50d44d3dd06465569acd93930b17",
+      "sectionIndex": 1,
+      "question": "The placement of Gnetales with angiosperms in some molecular phylogenies despite their gymnospermous features suggests:",
+      "options": [
+        "A) Convergent evolution of vessel elements",
+        "B) Paraphyly of gymnosperms",
+        "C) Misinterpretation of molecular data",
+        "D) Horizontal gene transfer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9b12151805b67362c4c6c0f97508c8b7ea3d16b",
+      "sectionIndex": 1,
+      "question": "The conflict between morphological and molecular data in placing Ceratophyllum (hornworts) indicates:",
+      "options": [
+        "A) Rapid evolutionary radiation",
+        "B) Long branch attraction artifacts",
+        "C) Morphological stasis despite genetic change",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c16dc75bc9fc17aa907942f0f49212110c96ccf7",
+      "sectionIndex": 1,
+      "question": "The discovery that Amborella trichopoda is sister to all other angiosperms has implications for understanding:",
+      "options": [
+        "A) Origin of vessel elements",
+        "B) Evolution of double fertilization",
+        "C) Basal angiosperm features",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "79f2974d3b0e9a494653ec4618538b59699f08e0",
+      "sectionIndex": 1,
+      "question": "The APG IV system's emphasis on monophyletic groups has resulted in:",
+      "options": [
+        "A) Elimination of some traditional families",
+        "B) Recognition of previously unrecognized relationships",
+        "C) Changes in ordinal classifications",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "aef748d838ccd80447abb2af158e1d925bc0dd21",
+      "sectionIndex": 1,
+      "question": "The concept of \"cryptic species\" in plants challenges traditional taxonomy because:",
+      "options": [
+        "A) Morphologically identical populations may be genetically distinct",
+        "B) Gene flow prevents speciation",
+        "C) Polyploidy is common",
+        "D) Hybridization is frequent"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "06f533369b523719d0bd66cf0eeb8abe456d8a1e",
+      "sectionIndex": 1,
+      "question": "The use of DNA barcoding in plants is complicated by:",
+      "options": [
+        "A) Low substitution rates in chloroplast genes",
+        "B) Frequent hybridization",
+        "C) Polyploidy",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ebfaaebee15ae065d9cea0c513581de5399b7d4a",
+      "sectionIndex": 1,
+      "question": "The phenomenon of \"taxonomic inflation\" refers to:",
+      "options": [
+        "A) Increasing number of recognized species",
+        "B) Oversplitting of taxa based on minor differences",
+        "C) Recognition of cryptic diversity",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0d6312be0fa0949dc08ef63098ee6c88c089c9e1",
+      "sectionIndex": 1,
+      "question": "Phylogenetic species concept differs from biological species concept in:",
+      "options": [
+        "A) Emphasis on reproductive isolation",
+        "B) Recognition of ancestral-descendant relationships",
+        "C) Applicability to asexual organisms",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d5610745d3b600c6904baeab174a4c397f3c00a7",
+      "sectionIndex": 1,
+      "question": "The inclusion of paraphyletic groups in classification systems is controversial because:",
+      "options": [
+        "A) They don't reflect evolutionary relationships accurately",
+        "B) They are practical for identification",
+        "C) They maintain nomenclatural stability",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7159a10bc326c1f08592d6148b986a2d0c1b0dce",
+      "sectionIndex": 1,
+      "question": "The principle of reciprocal illumination in taxonomy refers to:",
+      "options": [
+        "A) Using multiple character sets to verify relationships",
+        "B) Comparing specimens under different light conditions",
+        "C) Cross-referencing different classification systems",
+        "D) Validating names through type specimens"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "45967ae1c4d8599fa668f43a5a05cf8316d19039",
+      "sectionIndex": 2,
+      "question": "The presence of tension wood in angiosperms and compression wood in gymnosperms, despite serving similar functions, indicates:",
+      "options": [
+        "A) Convergent evolution at anatomical level",
+        "B) Different mechanical solutions to gravitropic responses",
+        "C) Fundamental differences in cell wall chemistry",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "cf7eda966e832110a14fb3a3b1e49d5f282c3614",
+      "sectionIndex": 2,
+      "question": "The evolutionary advantage of vessels with simple perforation plates over scalariform plates in terms of Hagen-Poiseuille equation relates to:",
+      "options": [
+        "A) Reduced resistance proportional to fourth power of radius",
+        "B) Increased mechanical strength",
+        "C) Prevention of cavitation",
+        "D) Enhanced lateral transport"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3d6996761f039bf396fb85bdba76e36ab1c82281",
+      "sectionIndex": 2,
+      "question": "The transition from scaled protostele to medullated protostele to siphonostele represents:",
+      "options": [
+        "A) Increasing parenchymatization for storage",
+        "B) Improved mechanical support",
+        "C) Enhanced transport efficiency",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "046e114185775611ca993e040a6879b9463f63e0",
+      "sectionIndex": 2,
+      "question": "The presence of transfer cells with wall ingrowths at strategic locations indicates:",
+      "options": [
+        "A) Sites of active solute transport",
+        "B) Mechanical stress points",
+        "C) Water conservation zones",
+        "D) Pathogen resistance sites"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "caac6d634ae38ddf560f29e4be7b7d3d2d57c80a",
+      "sectionIndex": 2,
+      "question": "The Casparian strip's effectiveness as an apoplastic barrier depends on:",
+      "options": [
+        "A) Suberin deposition only",
+        "B) Lignin-suberin complexes",
+        "C) Tight junction between cells and wall deposits",
+        "D) Cutin infiltration"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b29796c6965fbd044b0bbc3ac8d4059bf265aab2",
+      "sectionIndex": 2,
+      "question": "Kranz anatomy's efficiency in C4 plants results from:",
+      "options": [
+        "A) Reduced photorespiration only",
+        "B) CO2 concentration mechanism",
+        "C) Spatial separation of C3 and C4 cycles",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "08ac638aa8b412f2a76d6ce5409a741f17322b90",
+      "sectionIndex": 2,
+      "question": "The evolutionary reduction of megaphyll to microphyll-like structures in some aquatic angiosperms demonstrates:",
+      "options": [
+        "A) Evolutionary reversal",
+        "B) Adaptive convergence",
+        "C) Heterochrony",
+        "D) Paedomorphosis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d20cc824ed1dc80c87369da2ef9b565ebf38411",
+      "sectionIndex": 2,
+      "question": "The presence of anomalous secondary growth in some dicots (like Dracaena) challenges the concept that:",
+      "options": [
+        "A) Secondary growth is exclusive to dicots",
+        "B) Cambium always produces regular rings",
+        "C) Monocots lack secondary growth",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "539e98fe47f7f06c544c8941e715fb8fbdbd6c57",
+      "sectionIndex": 2,
+      "question": "The correlation between vessel element length and end wall angle suggests:",
+      "options": [
+        "A) Developmental constraints",
+        "B) Optimization for flow dynamics",
+        "C) Phylogenetic baggage",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "989df0e0c82e159f41c2beb8e87681e34fd5d0da",
+      "sectionIndex": 2,
+      "question": "The paradox of increasing xylem cavitation resistance with decreasing vessel diameter while maintaining conductivity is resolved by:",
+      "options": [
+        "A) Pit membrane properties",
+        "B) Vessel grouping patterns",
+        "C) Redundancy in transport pathways",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "47d54269803b81b196f0d4f4c01c987e0c7a5ecf",
+      "sectionIndex": 3,
+      "question": "The quantum yield of photosynthesis drops from theoretical 0.125 to actual 0.03-0.05 primarily due to:",
+      "options": [
+        "A) Back reactions in PSII",
+        "B) Alternative electron pathways",
+        "C) Photorespiration and other losses",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "198e61fa2d937541e9e4681596f9b6513b4981ab",
+      "sectionIndex": 3,
+      "question": "The evolution of C4 photosynthesis independently in 62 lineages suggests:",
+      "options": [
+        "A) Simple genetic changes required",
+        "B) Strong selective pressure in certain environments",
+        "C) Pre-existing metabolic flexibility",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b95fdb4aa7ad24d0fa796e4fd9c5dd8711828bfe",
+      "sectionIndex": 3,
+      "question": "The state transitions between PSI and PSII involving LHCII phosphorylation represent:",
+      "options": [
+        "A) Short-term light quality acclimation",
+        "B) Long-term adaptation",
+        "C) Circadian regulation",
+        "D) Stress response only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a0799ec4f44ee5303eed8e6e1c813ee241cff147",
+      "sectionIndex": 3,
+      "question": "The malate valve in chloroplasts serves to:",
+      "options": [
+        "A) Export reducing equivalents only",
+        "B) Balance ATP/NADPH ratios",
+        "C) Prevent over-reduction of stroma",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c269d1bdc9d6f0f6caa54d37035216c1a3f0e5dc",
+      "sectionIndex": 3,
+      "question": "The engagement of alternative oxidase pathway under stress conditions:",
+      "options": [
+        "A) Maintains electron flow when cytochrome pathway is inhibited",
+        "B) Prevents ROS formation",
+        "C) Dissipates excess reducing power",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9c28c137f203d0bd8af0a418fbe1a4d7ceaf09b8",
+      "sectionIndex": 3,
+      "question": "The discovery of γ-aminobutyric acid (GABA) shunt in plants suggests:",
+      "options": [
+        "A) Links between carbon and nitrogen metabolism",
+        "B) Stress signaling pathways",
+        "C) pH regulation mechanism",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3aa0ebb68f0599c77c33ecd7d2490c2113b79096",
+      "sectionIndex": 3,
+      "question": "The role of carbonic anhydrase in C4 plants differs from C3 plants in:",
+      "options": [
+        "A) Maintaining CO2/HCO3- equilibrium in different compartments",
+        "B) Facilitating PEPCase activity",
+        "C) Preventing CO2 leakage",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d824909a57e98e84eebdf6bb3e299eaed4f40d96",
+      "sectionIndex": 3,
+      "question": "The photorespiratory pathway's retention despite its apparent inefficiency suggests:",
+      "options": [
+        "A) Essential role in nitrogen metabolism",
+        "B) Protection against photoinhibition",
+        "C) Evolutionary constraint",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "501a89704cd953931360abd18cc309957939bd53",
+      "sectionIndex": 3,
+      "question": "The regulation of Rubisco by Rubisco activase involves:",
+      "options": [
+        "A) ATP-dependent conformational changes",
+        "B) Removal of inhibitory sugar phosphates",
+        "C) Carbamylation state modulation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "563e09a95cee4a3927242789c408f562908057bb",
+      "sectionIndex": 3,
+      "question": "The NDH complex in chloroplasts differs from mitochondrial Complex I in:",
+      "options": [
+        "A) Subunit composition",
+        "B) Proton pumping stoichiometry",
+        "C) Physiological role",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7adb3ee412b0fe17e2077a3c7bc024a878b33a19",
+      "sectionIndex": 4,
+      "question": "The auxin-induced acidification hypothesis for cell elongation is complicated by:",
+      "options": [
+        "A) Calcium-dependent protein kinases modulating H+-ATPase",
+        "B) Temporal disconnect between acidification and growth",
+        "C) Involvement of XTH enzymes",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "132b10987703c22b34c7a71d8814717337ddc740",
+      "sectionIndex": 4,
+      "question": "The discovery of strigolactones as hormones controlling shoot branching revealed:",
+      "options": [
+        "A) Integration with auxin transport",
+        "B) Dual role in parasitic plant germination",
+        "C) Evolution from apocarotenoid pathway",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7e6be2b045934ee508f8b237a35abc2fa828d718",
+      "sectionIndex": 4,
+      "question": "The GA-DELLA interaction paradigm demonstrates:",
+      "options": [
+        "A) Protein degradation as regulatory mechanism",
+        "B) Conservation across plant kingdom",
+        "C) Integration with other hormone pathways",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "acb51b3e2a828046d53fa1cd2e7a05de32b25ad7",
+      "sectionIndex": 4,
+      "question": "The \"florigen\" concept's validation through FT protein movement indicates:",
+      "options": [
+        "A) Protein can act as long-distance signal",
+        "B) mRNA movement is not required",
+        "C) Conservation of photoperiodic mechanisms",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "413783620f0a7175914523bb78c1393d78180521",
+      "sectionIndex": 4,
+      "question": "The cytokinin two-component signaling system's similarity to bacterial systems suggests:",
+      "options": [
+        "A) Evolutionary origin from endosymbiosis",
+        "B) Horizontal gene transfer",
+        "C) Convergent evolution",
+        "D) Ancient origin predating plants"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7acd26a6daa9c290a08bf9fdac7d3fbd78a0aaa3",
+      "sectionIndex": 4,
+      "question": "The role of peptide hormones (like CLV3) in plant development challenges the classical view because:",
+      "options": [
+        "A) They act at nanomolar concentrations",
+        "B) Require specific receptor kinases",
+        "C) Show limited mobility",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "abb54252002acb4ef9ceae208c4d5bbeb64601d1",
+      "sectionIndex": 4,
+      "question": "The ABA-independent drought stress pathways involving DREB transcription factors indicate:",
+      "options": [
+        "A) Redundancy in stress responses",
+        "B) Temporal separation of responses",
+        "C) Tissue-specific regulation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "20e16d3ca3975b29f92baf28887e53b02c04f8e9",
+      "sectionIndex": 4,
+      "question": "The discovery of karrikins as smoke-derived germination stimulants suggests:",
+      "options": [
+        "A) Adaptation to fire-prone environments",
+        "B) Cross-talk with strigolactone signaling",
+        "C) Evolution of new receptor systems",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "55b50699a6f38fa60c2fccf3f70bf595497b1fc7",
+      "sectionIndex": 4,
+      "question": "The mobile transcription factors like FD interacting with florigen demonstrate:",
+      "options": [
+        "A) Protein-protein interactions in long-distance signaling",
+        "B) Integration of multiple pathways",
+        "C) Combinatorial control of development",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9ddf542c63ef036889d1b217f3b569a94d125426",
+      "sectionIndex": 4,
+      "question": "The thermospermine's role distinct from spermine in xylem differentiation indicates:",
+      "options": [
+        "A) Specificity in polyamine functions",
+        "B) Evolution of regulatory mechanisms",
+        "C) Link between metabolism and development",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6b5b6fd6faf342df1393120107e7b90a23a8bc05",
+      "sectionIndex": 5,
+      "question": "The intermediate disturbance hypothesis predicts maximum diversity at moderate disturbance levels because:",
+      "options": [
+        "A) Competitive exclusion is prevented",
+        "B) Both r- and K-strategists coexist",
+        "C) Resource heterogeneity is maximized",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "851a0de88e39c63021599d4fa4071b8b903be91f",
+      "sectionIndex": 5,
+      "question": "The paradox of enrichment in ecosystems refers to:",
+      "options": [
+        "A) Decreased stability with increased productivity",
+        "B) Lower diversity in nutrient-rich systems",
+        "C) Destabilization of predator-prey dynamics",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "72ad26d6f55bb3b95718ac59cc9995b499339dcb",
+      "sectionIndex": 5,
+      "question": "The concept of \"ecosystem engineers\" applies to plants through:",
+      "options": [
+        "A) Physical habitat modification",
+        "B) Biogeochemical cycling alterations",
+        "C) Microclimate creation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a9717e22cf46f2e704d4d8e9f7d11ec4c85c8dc7",
+      "sectionIndex": 5,
+      "question": "The storage effect in promoting species coexistence requires:",
+      "options": [
+        "A) Temporal environmental variation",
+        "B) Buffered population growth",
+        "C) Species-specific responses to environment",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7ab98eae7d4aca9ae39d9442f9b87ebba067ec17",
+      "sectionIndex": 5,
+      "question": "The janzen-Connell hypothesis explains tropical forest diversity through:",
+      "options": [
+        "A) Distance-dependent seedling mortality",
+        "B) Host-specific pathogens",
+        "C) Negative density dependence",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f3874fdf413336ab3c288677509138fe63a34a1d",
+      "sectionIndex": 5,
+      "question": "The concept of \"evolutionary rescue\" in climate change context involves:",
+      "options": [
+        "A) Rapid evolutionary adaptation",
+        "B) Gene flow from adapted populations",
+        "C) Phenotypic plasticity",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a41dfa0c4e4a0cf00e63ff004bfc7c31b82ee9a6",
+      "sectionIndex": 5,
+      "question": "The portfolio effect in ecosystem stability refers to:",
+      "options": [
+        "A) Statistical averaging reducing variance",
+        "B) Asynchronous species responses",
+        "C) Functional redundancy",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "16e335a183f4ffe2a6ba7c29e992c5636d982f90",
+      "sectionIndex": 5,
+      "question": "The concept of \"green world hypothesis\" is challenged by:",
+      "options": [
+        "A) Discovery of extensive herbivory in some systems",
+        "B) Bottom-up control in many ecosystems",
+        "C) Nutrient limitation effects",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "20508a106e583f22d89c1214e2ca94e74aa7027b",
+      "sectionIndex": 5,
+      "question": "The alternative stable states in ecosystems can result from:",
+      "options": [
+        "A) Positive feedback loops",
+        "B) Hysteresis effects",
+        "C) Non-linear dynamics",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "004b5c2646a3625a25798e0d6bc5c472379aa13c",
+      "sectionIndex": 5,
+      "question": "The concept of \"biological homogenization\" results from:",
+      "options": [
+        "A) Species invasions",
+        "B) Habitat fragmentation",
+        "C) Climate change",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e08e908950d05d1c5686a3950b18874ae5902d71",
+      "sectionIndex": 6,
+      "question": "The C-value paradox in plant genomes is explained by:",
+      "options": [
+        "A) Polyploidy events",
+        "B) Transposable element proliferation",
+        "C) Differences in deletion mechanisms",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5a657b058b78749a4b4b75f69dedde49672656fe",
+      "sectionIndex": 6,
+      "question": "The concept of \"genome dominance\" in allopolyploids manifests as:",
+      "options": [
+        "A) Biased gene expression",
+        "B) Preferential chromosome pairing",
+        "C) Epigenetic modifications",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2f26b8a9c79ec04ccc45dd94e5021f82920a0812",
+      "sectionIndex": 6,
+      "question": "The phenomenon of \"concerted evolution\" in ribosomal genes occurs through:",
+      "options": [
+        "A) Gene conversion",
+        "B) Unequal crossing over",
+        "C) Biased DNA repair",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a4f41ebcc7cf063688caa1675a68597efe8cfe28",
+      "sectionIndex": 6,
+      "question": "The \"transcriptional compensation\" observed in polyploids indicates:",
+      "options": [
+        "A) Dosage balance constraints",
+        "B) Epigenetic regulation",
+        "C) Selective silencing",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3842e53f5682613123408733ab565106840d150c",
+      "sectionIndex": 6,
+      "question": "The role of small RNAs in hybrid incompatibility suggests:",
+      "options": [
+        "A) Epigenetic conflicts between genomes",
+        "B) Transposon activation",
+        "C) Aberrant gene expression",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e409b68a0e797a3d635d3d03f05998448370fffe",
+      "sectionIndex": 6,
+      "question": "The \"minority cytotype exclusion\" principle predicts:",
+      "options": [
+        "A) Frequency-dependent selection against rare cytotypes",
+        "B) Reproductive isolation mechanisms",
+        "C) Polyploid establishment barriers",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "728ae40138e91c318f9a0400e409f97565d6f821",
+      "sectionIndex": 6,
+      "question": "The phenomenon of \"genomic shock\" following hybridization involves:",
+      "options": [
+        "A) Transposon activation",
+        "B) Chromosome restructuring",
+        "C) Epigenetic reprogramming",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0e820b2bc558719cc496b03242bd4533c7f27689",
+      "sectionIndex": 6,
+      "question": "The evolutionary significance of \"pseudogenes\" in plants includes:",
+      "options": [
+        "A) Source of genetic variation",
+        "B) Regulatory RNA production",
+        "C) Subfunctionalization following duplication",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8d504a6f48b4162ab1be5499479596de0f3cdd38",
+      "sectionIndex": 6,
+      "question": "The \"two-step theory\" of polyploid evolution proposes:",
+      "options": [
+        "A) Initial formation followed by diploidization",
+        "B) Minority cytotype disadvantage",
+        "C) Gradual fertility restoration",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "65822dc322fc8ab04ed80bb920a96c6e9fd03703",
+      "sectionIndex": 6,
+      "question": "The concept of \"evolutionary capacitance\" through HSP90 suggests:",
+      "options": [
+        "A) Hidden genetic variation",
+        "B) Environment-dependent phenotypes",
+        "C) Rapid adaptation potential",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "aac55729ff4c44ffafa78d4be2350e5daa9f376e",
+      "sectionIndex": 7,
+      "question": "The discovery of nuclear dynamics in arbuscular mycorrhizal fungi challenges traditional concepts because:",
+      "options": [
+        "A) Nuclei are genetically different within same cytoplasm",
+        "B) No sexual stage is known",
+        "C) Horizontal gene transfer occurs",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "4dcd68f245e0324ce57a5d9b9eb5645b566c574b",
+      "sectionIndex": 7,
+      "question": "The \"wood wide web\" concept of mycorrhizal networks demonstrates:",
+      "options": [
+        "A) Inter-plant carbon transfer",
+        "B) Kin recognition mechanisms",
+        "C) Information transfer about herbivory",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b10ce80ca85560ebe5ca4ddd9e111a68857c9c36",
+      "sectionIndex": 7,
+      "question": "The lichen \"species pair\" concept is problematic because:",
+      "options": [
+        "A) Same mycobiont associates with different photobionts",
+        "B) Horizontal transmission of photobionts",
+        "C) Cryptic diversity in both partners",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b85ed7817895e1a692ba6160bb19ed7c2f75dfb4",
+      "sectionIndex": 7,
+      "question": "The evolution of ectomycorrhizae from saprotrophic ancestors involved:",
+      "options": [
+        "A) Loss of lignin-degrading enzymes",
+        "B) Gain of symbiosis-specific genes",
+        "C) Convergent evolution in multiple lineages",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "84afffed76b8d04ecf04e1024ec6855640311da9",
+      "sectionIndex": 7,
+      "question": "The \"mycorrhizal-associated nutrient economy\" hypothesis proposes:",
+      "options": [
+        "A) Ecosystem-level nutrient cycling differences",
+        "B) Climate-dependent distribution patterns",
+        "C) Evolutionary feedback loops",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ddf98a6839d202b732eb3ac8e6c03b2264f88cf1",
+      "sectionIndex": 7,
+      "question": "The phenomenon of \"lichenization\" occurring independently multiple times suggests:",
+      "options": [
+        "A) Pre-adaptation in fungi",
+        "B) Limited suitable photobiont partners",
+        "C) Strong selective advantages",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a425705739de90ef3b0dd58ebe57dcc37cf2790e",
+      "sectionIndex": 7,
+      "question": "The \"dual nomenclature\" system for fungi with sexual/asexual stages was abandoned because:",
+      "options": [
+        "A) Molecular phylogeny links different stages",
+        "B) One fungus-one name principle",
+        "C) Practical taxonomic considerations",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "be4782d2673ea1a0118522afd12a87f01ec431db",
+      "sectionIndex": 7,
+      "question": "The endophytic continuum hypothesis suggests:",
+      "options": [
+        "A) Endophytes can become pathogens under stress",
+        "B) Latent saprotrophs exist in living tissues",
+        "C) Context-dependent symbiotic outcomes",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "60095e86620b278aa238985ed29f33da22945e73",
+      "sectionIndex": 7,
+      "question": "The discovery of dark septate endophytes challenges mycorrhizal paradigms because:",
+      "options": [
+        "A) They lack specialized structures",
+        "B) Function varies with environment",
+        "C) Phylogenetically diverse group",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6d8fb24894d2134f58d53e23907fee366b65291f",
+      "sectionIndex": 7,
+      "question": "The \"foraging\" behavior of fungal mycelia demonstrates:",
+      "options": [
+        "A) Decision-making without central nervous system",
+        "B) Resource allocation optimization",
+        "C) Memory of resource locations",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b72341ff478e46b27f987f6172ccc4586fb41478",
+      "sectionIndex": 8,
+      "question": "The \"anthophyte hypothesis\" grouping Gnetales with angiosperms based on morphology conflicts with molecular data, suggesting:",
+      "options": [
+        "A) Morphological convergence",
+        "B) Long branch attraction in molecular analyses",
+        "C) Different rates of molecular evolution",
+        "D) All of the above"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "353bc82d061c96ceb21995300d34d752c82ab975",
+      "sectionIndex": 8,
+      "question": "The evolution of heterospory independently in multiple plant lineages indicates:",
+      "options": [
+        "A) Strong selection for separate male/female programs",
+        "B) Pre-existing developmental flexibility",
+        "C) Link to endosporic development",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5fdeb18994d377c8bf03253f9c9d4bd684632834",
+      "sectionIndex": 8,
+      "question": "The \"mostly male\" hypothesis for angiosperm flower evolution proposes:",
+      "options": [
+        "A) Flowers derived from male gymnosperm cones",
+        "B) Female parts added secondarily",
+        "C) Explains perianth position",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0483202dc3022ee744e2c6819126f05b6a9e9c62",
+      "sectionIndex": 8,
+      "question": "The phenomenon of \"deep morphological stasis\" in some fern lineages despite genetic divergence suggests:",
+      "options": [
+        "A) Developmental constraint",
+        "B) Stabilizing selection",
+        "C) Functional optimization",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b60b631ef4d85600ff0e26b6ffccc14110c5eb12",
+      "sectionIndex": 8,
+      "question": "The evolution of CAM photosynthesis in vascular plants demonstrates:",
+      "options": [
+        "A) Repeated recruitment of existing pathways",
+        "B) Few genetic changes required",
+        "C) Strong selection in arid environments",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "69e03140a17c7bcc1df77356e7d01e670b3921c2",
+      "sectionIndex": 8,
+      "question": "The \"telome theory\" of megaphyll evolution is supported by:",
+      "options": [
+        "A) Fossil evidence of intermediate forms",
+        "B) Developmental genetic studies",
+        "C) Comparative morphology",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a33a3fdb9f38b1a7cac6bbf9759b47bd4e242fae",
+      "sectionIndex": 8,
+      "question": "The paradox of wind pollination evolving from insect pollination in many lineages suggests:",
+      "options": [
+        "A) Trade-offs between precision and quantity",
+        "B) Habitat-dependent advantages",
+        "C) Release from pollinator limitation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "faf78b807da4a4b4a32c436346d3ff11c5708b08",
+      "sectionIndex": 8,
+      "question": "The \"selfing syndrome\" in plants involves correlated evolution of:",
+      "options": [
+        "A) Reduced flower size",
+        "B) Lower pollen/ovule ratios",
+        "C) Decreased attractiveness traits",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "eb792bc5428fdea530ffdd97b693a145507bda2c",
+      "sectionIndex": 8,
+      "question": "The evolution of dioecy from hermaphroditism requires:",
+      "options": [
+        "A) Male and female sterility mutations",
+        "B) Intermediate gynodioecy or androdioecy",
+        "C) Sex chromosome evolution",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9048279175dfdb1b578c455b6b24d06cb374844f",
+      "sectionIndex": 8,
+      "question": "The \"compensatory base change\" model for RNA secondary structure evolution demonstrates:",
+      "options": [
+        "A) Maintenance of structure despite sequence divergence",
+        "B) Correlated substitutions",
+        "C) Functional constraints",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "601307f483ba25c63b3c43098ccd2c12b876ade3",
+      "sectionIndex": 9,
+      "question": "The discovery of liquid-liquid phase separation in nucleoli and stress granules reveals:",
+      "options": [
+        "A) Non-membrane bound compartmentalization",
+        "B) Dynamic assembly/disassembly",
+        "C) Concentration-dependent formation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "21b28f21849daa98b29c9ff99f81ca3cacadd5e9",
+      "sectionIndex": 9,
+      "question": "The \"RNA thermosensor\" mechanism in plants involves:",
+      "options": [
+        "A) Temperature-dependent secondary structures",
+        "B) Ribosome accessibility changes",
+        "C) Alternative splicing regulation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "fd802992bc2917840fce01b734b38516b6a66c6a",
+      "sectionIndex": 9,
+      "question": "The concept of \"retrograde signaling\" from organelles to nucleus demonstrates:",
+      "options": [
+        "A) Bidirectional communication",
+        "B) Metabolic state integration",
+        "C) Stress response coordination",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b16d73714b274e767c7429e710f9da0da0d24125",
+      "sectionIndex": 9,
+      "question": "The \"ribosome heterogeneity\" hypothesis proposes:",
+      "options": [
+        "A) Specialized ribosomes for specific mRNAs",
+        "B) Tissue-specific ribosomal proteins",
+        "C) Regulatory potential of translation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d3b3533fcf783681e930ba558d596ea6d10b43b6",
+      "sectionIndex": 9,
+      "question": "The phenomenon of \"transcriptional memory\" in plants involves:",
+      "options": [
+        "A) Chromatin modifications persisting through mitosis",
+        "B) Faster response to repeated stress",
+        "C) Epigenetic inheritance potential",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "4697e0398883958d1770caf63ab65fcc71860a6e",
+      "sectionIndex": 9,
+      "question": "The \"nuclear pore complex selectivity\" paradox of rapid transport despite high selectivity is resolved by:",
+      "options": [
+        "A) FG-nucleoporin interactions",
+        "B) Entropy-driven mechanisms",
+        "C) Ran-GTP gradient",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6d0d7590cc871bd824b314ca30aabc0dea29aaaf",
+      "sectionIndex": 9,
+      "question": "The discovery of \"metabolons\" challenges traditional views because:",
+      "options": [
+        "A) Enzymes physically associate",
+        "B) Substrate channeling occurs",
+        "C) Regulation through assembly/disassembly",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8059dc803cdd5d2b614e3e218aaa3edd45a0477a",
+      "sectionIndex": 9,
+      "question": "The \"peroxisome-mitochondria metabolic coupling\" in photorespiration requires:",
+      "options": [
+        "A) Physical proximity",
+        "B) Metabolite transporters",
+        "C) Redox balance maintenance",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "55ff3383d31d883248b55711b03c7382047ba286",
+      "sectionIndex": 9,
+      "question": "The concept of \"chronobiology\" in plants integrating circadian and circannual rhythms involves:",
+      "options": [
+        "A) Multiple oscillator systems",
+        "B) Temperature compensation",
+        "C) Photoperiod measurement",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1e3796aab93ec7e831736ac087f3b87704cfe709",
+      "sectionIndex": 9,
+      "question": "The \"prion-like\" behavior of certain plant proteins in flowering time control suggests:",
+      "options": [
+        "A) Conformational templating",
+        "B) Epigenetic inheritance",
+        "C) Switch-like responses",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    }
+  ]
+}

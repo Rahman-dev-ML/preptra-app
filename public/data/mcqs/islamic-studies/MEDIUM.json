@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:56:33.090Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "04b95b115d1970007fe827fd3082eb88cfcd2278",
+      "sectionIndex": 0,
+      "question": "The concept of Tawheed encompasses which three aspects?",
+      "options": [
+        "A) Prayer, fasting, and charity",
+        "B) Tawheed ar-Rububiyyah, al-Uluhiyyah, and al-Asma wa-Sifat",
+        "C) Faith, prayer, and pilgrimage",
+        "D) Quran, Sunnah, and Ijma"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "098534605b5e8d345f508e18b97abbfa50dcc244",
+      "sectionIndex": 0,
+      "question": "The theological difference between Qadar and Qada relates to:",
+      "options": [
+        "A) No difference exists",
+        "B) Divine decree versus divine predestination",
+        "C) Human actions versus divine actions",
+        "D) Past versus future"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27e1f6dd869c4c23dcb0f3c160a5dd8778a2cd28",
+      "sectionIndex": 0,
+      "question": "The concept of Barzakh refers to:",
+      "options": [
+        "A) Paradise",
+        "B) Hell",
+        "C) Intermediate state between death and resurrection",
+        "D) Bridge on Day of Judgment"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "21f50d5aa9afcd205ffe8c8b94fca176649b4505",
+      "sectionIndex": 0,
+      "question": "The Mutazilite position on human free will emphasized:",
+      "options": [
+        "A) Complete predestination",
+        "B) Human responsibility and divine justice",
+        "C) No human choice",
+        "D) Fatalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55a003b7bfc6b46ce27af3e1eecd221e93c4dba6",
+      "sectionIndex": 0,
+      "question": "The Asharite theological school's position on divine attributes is:",
+      "options": [
+        "A) Attributes are separate from essence",
+        "B) Attributes are identical with essence",
+        "C) Attributes don't exist",
+        "D) Attributes are created"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24258b226621f4e1fd284ada6b826eaf4d33cc53",
+      "sectionIndex": 0,
+      "question": "The concept of Shafa'ah (intercession) on Day of Judgment is primarily associated with:",
+      "options": [
+        "A) Angels only",
+        "B) Prophet Muhammad (PBUH)",
+        "C) All Muslims",
+        "D) Scholars only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2ed46d613e91badd453a29d064fbc9e149a8804",
+      "sectionIndex": 0,
+      "question": "The difference between major (kabair) and minor (saghair) sins affects:",
+      "options": [
+        "A) Punishment only",
+        "B) Forgiveness mechanisms and repentance requirements",
+        "C) No difference",
+        "D) Worldly consequences only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a17ace86abb5a7971a4bf849f84db3986969fce0",
+      "sectionIndex": 0,
+      "question": "The concept of Tawbah (repentance) requires which conditions?",
+      "options": [
+        "A) Regret only",
+        "B) Regret, seeking forgiveness, and resolution not to repeat",
+        "C) Verbal statement only",
+        "D) Compensation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3dfe0e98051bedcbb133e13022a5e0b09653ba3",
+      "sectionIndex": 0,
+      "question": "The theological debate about the Quran being created or uncreated led to:",
+      "options": [
+        "A) No significant impact",
+        "B) The Mihna (Inquisition) period",
+        "C) New schools of thought",
+        "D) Political changes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e96189da27feaa4fab3d543846553ec3799e3c1",
+      "sectionIndex": 0,
+      "question": "The concept of Iman fluctuating (increasing/decreasing) is accepted by:",
+      "options": [
+        "A) Khawarij only",
+        "B) Ahl as-Sunnah",
+        "C) Mutazila only",
+        "D) None of the schools"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8061380a3b42f84ac6a5146feb3f74f6ee2704c1",
+      "sectionIndex": 1,
+      "question": "The wisdom behind five daily prayers at specific times relates to:",
+      "options": [
+        "A) Convenience only",
+        "B) Spiritual discipline and remembrance throughout daily activities",
+        "C) Following Jewish tradition",
+        "D) Astronomical observations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a592a43dbca9885838b4f570df2775e9ca67744f",
+      "sectionIndex": 1,
+      "question": "The nisab of silver for Zakat is:",
+      "options": [
+        "A) 200 dirhams",
+        "B) 500 dirhams",
+        "C) 595 grams",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8428eeafcf1e1e4fae7ab747e9d2c3cdb5b9eab1",
+      "sectionIndex": 1,
+      "question": "The categories of Zakat recipients (Asnaf) mentioned in Quran are:",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 8",
+        "D) 10"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5993c6e5dd1a10e949e68f1f102574425788b54c",
+      "sectionIndex": 1,
+      "question": "The difference between Zakat and Sadaqah is:",
+      "options": [
+        "A) No difference",
+        "B) Zakat is obligatory with specific rules; Sadaqah is voluntary",
+        "C) Amount only",
+        "D) Recipients only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b820b115ab94df7c0bf5dd2f2b3b9e36b50887d0",
+      "sectionIndex": 1,
+      "question": "Travelers who cannot fast during Ramadan must:",
+      "options": [
+        "A) Pay Fidyah only",
+        "B) Make up missed days later",
+        "C) Feed poor instead",
+        "D) No obligation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45bcf0d5e8f0e4edb68ad15f78bed01869cd88ba",
+      "sectionIndex": 1,
+      "question": "The spiritual dimension of Hajj symbolizes:",
+      "options": [
+        "A) Tourism",
+        "B) Unity, equality, and spiritual rebirth",
+        "C) Economic activity",
+        "D) Social gathering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "549ae05f0156770f419147e2db5ab4ffeeb5aa05",
+      "sectionIndex": 1,
+      "question": "The difference between Hajj al-Tamattu, Qiran, and Ifrad relates to:",
+      "options": [
+        "A) Time of year",
+        "B) Combination with Umrah and Ihram practices",
+        "C) Number of days",
+        "D) Cost differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f230294dd286c9641fc16410a231dac2e4741d7",
+      "sectionIndex": 1,
+      "question": "Jihad an-Nafs (struggle against self) is considered:",
+      "options": [
+        "A) Lesser Jihad",
+        "B) Greater Jihad",
+        "C) Not real Jihad",
+        "D) Equal to military Jihad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8b9ad31b8d5cafb785c287ea1417f76e6b23d3c",
+      "sectionIndex": 1,
+      "question": "The conditions for obligatory Jihad include:",
+      "options": [
+        "A) Individual decision",
+        "B) Legitimate authority and defensive purpose",
+        "C) Economic gain",
+        "D) Spreading faith by force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "976d4bb04d013f31377cce6d76f55df0439983a5",
+      "sectionIndex": 1,
+      "question": "The concept of Khushu in prayer refers to:",
+      "options": [
+        "A) Physical movements",
+        "B) Spiritual concentration and humility",
+        "C) Recitation speed",
+        "D) Prayer timing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ce4b9a0522d62283ea1233de2e863492cb7493f",
+      "sectionIndex": 2,
+      "question": "The compilation of Quran during Abu Bakr's time was prompted by:",
+      "options": [
+        "A) Personal interest",
+        "B) Battle of Yamamah casualties among Huffaz",
+        "C) Political reasons",
+        "D) Umar's suggestion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80b3b65a967961552183580be74d88abfacb2282",
+      "sectionIndex": 2,
+      "question": "The difference between Muhkam and Mutashabih verses relates to:",
+      "options": [
+        "A) Length",
+        "B) Clear versus allegorical meanings",
+        "C) Makki versus Madani",
+        "D) Legal versus spiritual"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e445f7e47c9ab2e7a71351b27f4a580eb4c0c144",
+      "sectionIndex": 2,
+      "question": "The science of Asbab an-Nuzul deals with:",
+      "options": [
+        "A) Recitation methods",
+        "B) Occasions of revelation",
+        "C) Grammatical analysis",
+        "D) Translation issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "238b8c1a7091a58250c84ece4ef4209c9eb98502",
+      "sectionIndex": 2,
+      "question": "The classification of Hadith as Sahih requires:",
+      "options": [
+        "A) Famous narrators only",
+        "B) Continuous chain, reliable narrators, and consistency",
+        "C) Written documentation",
+        "D) Multiple versions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ade12e12799cc71f14d9933f373c5520ee03f16",
+      "sectionIndex": 2,
+      "question": "Hadith Qudsi differs from regular Hadith in:",
+      "options": [
+        "A) Chain of narration",
+        "B) Content attributed to Allah but in Prophet's words",
+        "C) Authenticity level",
+        "D) Legal application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da224998b84cad402d9ed079763fdf0365edad3c",
+      "sectionIndex": 2,
+      "question": "The concept of Naskh (abrogation) in Quran refers to:",
+      "options": [
+        "A) Contradictions",
+        "B) Progressive revelation replacing earlier rulings",
+        "C) Textual errors",
+        "D) Different readings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "509859200647653e761d2fc9a5970085decd1dd5",
+      "sectionIndex": 2,
+      "question": "The difference between Qira'at refers to:",
+      "options": [
+        "A) Translation variations",
+        "B) Authorized recitation methods",
+        "C) Personal preferences",
+        "D) Regional dialects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98b80309c2294887fa763d2a505cc2d89fc63b8f",
+      "sectionIndex": 2,
+      "question": "Isnad criticism in Hadith science evaluates:",
+      "options": [
+        "A) Content only",
+        "B) Chain of transmission reliability",
+        "C) Language style",
+        "D) Historical context"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f3ccdc042386f9843936605e5ba9f92b5603084",
+      "sectionIndex": 2,
+      "question": "The Hadith \"Actions are judged by intentions\" has implications for:",
+      "options": [
+        "A) Worship only",
+        "B) All aspects of Muslim life and deeds",
+        "C) Legal matters only",
+        "D) Business only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06549bef425388d41c1e17a8491438aed04b7e81",
+      "sectionIndex": 2,
+      "question": "The principle of understanding Quran through Quran means:",
+      "options": [
+        "A) Ignoring Hadith",
+        "B) Inter-textual interpretation",
+        "C) Literal reading only",
+        "D) Personal opinion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20aaaee6e064d1d61f9860491147316777226dcc",
+      "sectionIndex": 3,
+      "question": "The conditions for valid Ijma include:",
+      "options": [
+        "A) Agreement of any Muslims",
+        "B) Consensus of qualified scholars of an era",
+        "C) Majority vote",
+        "D) Written documentation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63c01bdaa1921702925571adb97033b0fdbe4bff",
+      "sectionIndex": 3,
+      "question": "Qiyas consists of four elements (arkan):",
+      "options": [
+        "A) Asl, Far', Illah, and Hukm",
+        "B) Quran, Sunnah, Ijma, and Opinion",
+        "C) Judge, plaintiff, defendant, and witness",
+        "D) Intention, action, result, and consequence"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "af93d12dd658cea1144de507529e792af54ff10d",
+      "sectionIndex": 3,
+      "question": "The difference between Ijtihad and Taqlid is:",
+      "options": [
+        "A) No difference",
+        "B) Independent reasoning versus following established opinions",
+        "C) Individual versus collective",
+        "D) Modern versus traditional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6f68655c4e6a5f742808a5b16a9680b270a43de",
+      "sectionIndex": 3,
+      "question": "Maslaha Mursalah as a source of law refers to:",
+      "options": [
+        "A) Personal benefit",
+        "B) Public interest not specified in primary sources",
+        "C) Governmental decisions",
+        "D) Majority opinion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc15f2d15fad9cb9aafeb19a3c5a8b65b3a6df44",
+      "sectionIndex": 3,
+      "question": "The concept of Sadd adh-Dhara'i means:",
+      "options": [
+        "A) Opening opportunities",
+        "B) Blocking means that lead to evil",
+        "C) Creating new laws",
+        "D) Following precedent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7d8986d79fa013441921d7c41322debdc52bdeb",
+      "sectionIndex": 3,
+      "question": "The difference between Hudud and Ta'zir punishments is:",
+      "options": [
+        "A) Severity only",
+        "B) Fixed divine penalties versus discretionary penalties",
+        "C) Public versus private",
+        "D) Criminal versus civil"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "237178f6859903cf612c5036bcb1419680d83c1a",
+      "sectionIndex": 3,
+      "question": "The conditions for testimony in Hudud cases require:",
+      "options": [
+        "A) One witness",
+        "B) Specific number and qualifications depending on crime",
+        "C) Written evidence",
+        "D) Confession only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "667c4c1879b4d9cddf92bee4df7f1ffcb172a544",
+      "sectionIndex": 3,
+      "question": "The concept of Istishab in Islamic law means:",
+      "options": [
+        "A) Seeking goodness",
+        "B) Presumption of continuity",
+        "C) Public interest",
+        "D) Analogy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a33c9f1928c3a4a6a2c17f46fd8705fc422ca848",
+      "sectionIndex": 3,
+      "question": "The principle \"certainty is not removed by doubt\" applies to:",
+      "options": [
+        "A) Worship only",
+        "B) All legal matters",
+        "C) Criminal cases only",
+        "D) Financial transactions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f282f62ab77784c8d57e520255d743ce0b33cda2",
+      "sectionIndex": 3,
+      "question": "The role of Urf (custom) in Islamic law is:",
+      "options": [
+        "A) Primary source",
+        "B) Secondary source when not contradicting Shariah",
+        "C) Not recognized",
+        "D) Superior to Quran"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3dcfaace4cf99a652b8bb59d2f60b3b97d18f533",
+      "sectionIndex": 4,
+      "question": "The Treaty of Hudaybiyyah was initially seen as defeat but proved victorious because:",
+      "options": [
+        "A) Military strength increased",
+        "B) It allowed peaceful propagation and demonstrated diplomatic wisdom",
+        "C) Makkans converted immediately",
+        "D) Economic benefits only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3de984f0b60466d4688d8cc4c0bed8376354f687",
+      "sectionIndex": 4,
+      "question": "The Prophet's treatment of prisoners at Badr set precedent for:",
+      "options": [
+        "A) Harsh punishment",
+        "B) Humane treatment and ransom or teaching for freedom",
+        "C) Immediate execution",
+        "D) Lifelong slavery"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "429bbf0ec1a97989b16795e336ba636cba0edbbb",
+      "sectionIndex": 4,
+      "question": "The Constitution of Madinah established:",
+      "options": [
+        "A) Islamic theocracy only",
+        "B) Pluralistic society with rights for all communities",
+        "C) Arab dominance",
+        "D) Exclusion of non-Muslims"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "562e6ddb6e1a92f3b32243900ac13e9c5a892bc6",
+      "sectionIndex": 4,
+      "question": "The Prophet's military strategy emphasized:",
+      "options": [
+        "A) Maximum casualties",
+        "B) Minimal conflict and psychological warfare",
+        "C) Scorched earth tactics",
+        "D) Continuous warfare"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "543814a709e3728e4f9230a673ea51142c37e25d",
+      "sectionIndex": 4,
+      "question": "The Isra and Mi'raj journey's significance includes:",
+      "options": [
+        "A) Physical travel only",
+        "B) Spiritual elevation and prescription of prayers",
+        "C) Meeting other prophets only",
+        "D) Seeing paradise only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "858b0de217064e1a3ba5eec4372d62cd2669216a",
+      "sectionIndex": 4,
+      "question": "The Prophet's approach to gradual prohibition (like alcohol) demonstrates:",
+      "options": [
+        "A) Indecisiveness",
+        "B) Wisdom in social reform",
+        "C) Compromise with society",
+        "D) Lack of planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3cc7ed37a19c2f21441b9a29d29e0213f02202b",
+      "sectionIndex": 4,
+      "question": "The letters to various kings and rulers indicate:",
+      "options": [
+        "A) Political ambition",
+        "B) Universal message of Islam",
+        "C) Threat of war",
+        "D) Economic treaties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2afc639695b5c7c6a285e52dbcf2c3511015d32b",
+      "sectionIndex": 4,
+      "question": "The Year of Delegations (Am al-Wufud) marked:",
+      "options": [
+        "A) Military campaigns",
+        "B) Widespread acceptance of Islam in Arabia",
+        "C) Economic prosperity",
+        "D) Construction projects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "604de3be07a9e19ac90bc732e7c4e2896d37d09f",
+      "sectionIndex": 4,
+      "question": "The Prophet's farewell sermon emphasized:",
+      "options": [
+        "A) Arab superiority",
+        "B) Human equality and rights",
+        "C) Continuation of tribal customs",
+        "D) Economic policies only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02d645b9c4324ec28dfcbb8173625049ebc17f7d",
+      "sectionIndex": 4,
+      "question": "The concept of Sunnah encompasses:",
+      "options": [
+        "A) Sayings only",
+        "B) Sayings, actions, tacit approvals, and characteristics",
+        "C) Written instructions only",
+        "D) Worship methods only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e72b9b4c2fafee35de7c35369be202c77a76dcad",
+      "sectionIndex": 5,
+      "question": "The principle of Shura in governance requires:",
+      "options": [
+        "A) Democracy only",
+        "B) Consultation in decision-making",
+        "C) Voting by all",
+        "D) Tribal council"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b92b2fd4a3b7bdd6263f4e6b9238a2b21248e846",
+      "sectionIndex": 5,
+      "question": "The selection methods of the four Caliphs demonstrate:",
+      "options": [
+        "A) One fixed method",
+        "B) Flexibility in leadership selection",
+        "C) Hereditary rule",
+        "D) Military coup"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5271371f1aaa2ce2b938ff91f3b43459795bd728",
+      "sectionIndex": 5,
+      "question": "The concept of Khilafah differs from monarchy in:",
+      "options": [
+        "A) Name only",
+        "B) Accountability and purpose of serving Shariah",
+        "C) Power level",
+        "D) Territory size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef16be3be1f214cee5c4b56ab1b1beffdd830807",
+      "sectionIndex": 5,
+      "question": "The institution of Hisbah served as:",
+      "options": [
+        "A) Military police",
+        "B) Market regulation and moral enforcement",
+        "C) Tax collection",
+        "D) Foreign ministry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a9506418a30f6577315c3e5a6ada8eb642d7df1",
+      "sectionIndex": 5,
+      "question": "The Bayt al-Mal's functions included:",
+      "options": [
+        "A) Personal wealth storage",
+        "B) Public treasury and social welfare",
+        "C) Military budget only",
+        "D) Zakat collection only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0db6aeac04e2d13bc71dc55336cb52c5d004989b",
+      "sectionIndex": 5,
+      "question": "The principle of justice (Adl) in Islamic governance requires:",
+      "options": [
+        "A) Equal outcomes",
+        "B) Equal treatment and rights protection",
+        "C) Preference for Muslims",
+        "D) Majority rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd719b400ae340e1ab8dbd1ff57084e3733257cf",
+      "sectionIndex": 5,
+      "question": "The relationship between Shariah and Siyasah is:",
+      "options": [
+        "A) Contradictory",
+        "B) Complementary with Siyasah serving Shariah objectives",
+        "C) Unrelated",
+        "D) Siyasah overrides Shariah"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47941faa1cfc9c2ae28a0d725674171f352b7842",
+      "sectionIndex": 5,
+      "question": "The qualifications for a Caliph include:",
+      "options": [
+        "A) Arab origin only",
+        "B) Justice, knowledge, and capability",
+        "C) Wealth and power",
+        "D) Military experience only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "790f0910d23784292aeb45337eefdca4d3756c92",
+      "sectionIndex": 5,
+      "question": "The concept of Ahl al-Dhimmah provided:",
+      "options": [
+        "A) Second-class status",
+        "B) Protected status with rights and obligations",
+        "C) No rights",
+        "D) Forced conversion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "119ce45792477af536408ad4bce7337adf943e28",
+      "sectionIndex": 5,
+      "question": "Islamic public law (Siyasah Shar'iyyah) allows:",
+      "options": [
+        "A) Abandoning Shariah",
+        "B) Administrative flexibility within Shariah bounds",
+        "C) Secular governance",
+        "D) Personal rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4508ce432472297a7a90a86a4499b663bcf90dd6",
+      "sectionIndex": 6,
+      "question": "The Quranic verse about men being \"qawwamun\" over women refers to:",
+      "options": [
+        "A) Superiority in all aspects",
+        "B) Financial responsibility and protection",
+        "C) Intellectual superiority",
+        "D) Religious authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "325399dea266606477857a6d180e7267fa99c736",
+      "sectionIndex": 6,
+      "question": "Women's testimony in financial matters being half relates to:",
+      "options": [
+        "A) Intellectual deficiency",
+        "B) Social context and corroboration in specific cases",
+        "C) All legal matters",
+        "D) Permanent ruling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "704ca79c0d1dbd0921712ec885e549bc3082d0a8",
+      "sectionIndex": 6,
+      "question": "The Islamic inheritance system's wisdom in giving daughters half of sons' shares considers:",
+      "options": [
+        "A) Gender discrimination",
+        "B) Overall financial obligations and rights",
+        "C) Cultural preference",
+        "D) Arbitrary decision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95f415ba2cf47b2a282bbe8820923228b717d731",
+      "sectionIndex": 6,
+      "question": "Female scholarship in Islamic history includes figures like:",
+      "options": [
+        "A) No significant scholars",
+        "B) Aisha (RA), Fatima al-Fihri, and many others",
+        "C) Modern scholars only",
+        "D) Teachers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23ceffe041e9c18bfdd75946126ea1aaecafe0cf",
+      "sectionIndex": 6,
+      "question": "The concept of Hijab in broader sense encompasses:",
+      "options": [
+        "A) Clothing only",
+        "B) Modesty in dress, behavior, and social interaction",
+        "C) Face covering only",
+        "D) Cultural practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03752f3efa82a54e3a14494299bbcd70ded09f3a",
+      "sectionIndex": 6,
+      "question": "Women's participation in early Islamic society included:",
+      "options": [
+        "A) Domestic roles only",
+        "B) Business, education, healthcare, and consultation",
+        "C) No public role",
+        "D) Religious activities only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67c0383704932cc23c5d13006d3d21bc1eb9fdf4",
+      "sectionIndex": 6,
+      "question": "The right of Khula (woman-initiated divorce) demonstrates:",
+      "options": [
+        "A) No divorce rights",
+        "B) Islamic recognition of women's agency",
+        "C) Modern addition",
+        "D) Cultural practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b250db0afb0597512b35d4991f60c748baad1d0",
+      "sectionIndex": 6,
+      "question": "The Quranic address uses \"believing men and women\" to indicate:",
+      "options": [
+        "A) Linguistic style",
+        "B) Spiritual equality and individual responsibility",
+        "C) Men's preference",
+        "D) Separate rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87f2d46e3c028fdecb6df1efaabdb2f259846783",
+      "sectionIndex": 6,
+      "question": "The prohibition of female infanticide in Islam addressed:",
+      "options": [
+        "A) Arab custom only",
+        "B) Fundamental human rights and gender justice",
+        "C) Population increase",
+        "D) Economic concerns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea55edc26d5fb0ec78fcf594423ca84aa2b8aad7",
+      "sectionIndex": 6,
+      "question": "Islamic feminism differs from secular feminism in:",
+      "options": [
+        "A) Goals only",
+        "B) Framework rooted in Islamic sources",
+        "C) No difference",
+        "D) Rejection of rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a6c3a59781b124c259b01403215c81ad68a5609",
+      "sectionIndex": 7,
+      "question": "The challenge of Islamophobia requires Muslims to:",
+      "options": [
+        "A) Isolation",
+        "B) Enhanced dialogue and authentic representation",
+        "C) Abandoning identity",
+        "D) Confrontation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6c543187737352c6a164fad4922eb19cf7574ef",
+      "sectionIndex": 7,
+      "question": "Islamic finance principles address modern economic crises through:",
+      "options": [
+        "A) Profit maximization",
+        "B) Risk-sharing and asset-backed transactions",
+        "C) Interest with limits",
+        "D) Speculation approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "089aef790d1ae0f8aecb2497a3f53fe33775694d",
+      "sectionIndex": 7,
+      "question": "The concept of Jihad versus terrorism distinguishes between:",
+      "options": [
+        "A) Methods only",
+        "B) Legitimate resistance and indiscriminate violence",
+        "C) No difference",
+        "D) Regional variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11851b380e181b5c5b8f3f21887082bf4de0691b",
+      "sectionIndex": 7,
+      "question": "Muslim minorities in secular states face the challenge of:",
+      "options": [
+        "A) Complete assimilation",
+        "B) Balancing religious identity with civic participation",
+        "C) Isolation only",
+        "D) Abandoning faith"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d619ccb51b2ce4b7e099350ccb9ca258cc87d135",
+      "sectionIndex": 7,
+      "question": "The role of OIC in addressing Muslim issues has been:",
+      "options": [
+        "A) Completely successful",
+        "B) Limited by political divisions",
+        "C) No impact",
+        "D) Military focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6750967c8b950a04c90f22230e254a05f5f9e53e",
+      "sectionIndex": 7,
+      "question": "Contemporary Ijtihad must address:",
+      "options": [
+        "A) Historical issues only",
+        "B) Modern challenges within Islamic framework",
+        "C) Abandoning tradition",
+        "D) Following one school"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06a37d7a9faed9147004a7592ec1f0134982d6de",
+      "sectionIndex": 7,
+      "question": "The integration of Islamic values in modern education requires:",
+      "options": [
+        "A) Separate systems",
+        "B) Holistic approach combining revelation and reason",
+        "C) Secular education only",
+        "D) Religious subjects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e506860337da61843f6e3bd6d407b30f4269eea1",
+      "sectionIndex": 7,
+      "question": "Muslim women's dress codes in Western societies raise questions of:",
+      "options": [
+        "A) Fashion only",
+        "B) Religious freedom and cultural integration",
+        "C) Legal uniformity",
+        "D) Economic impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ffdc3056062a3f72f86fba2134681a6d0fb1d444",
+      "sectionIndex": 7,
+      "question": "The Arab Spring's relationship to Islamic governance showed:",
+      "options": [
+        "A) Secular demands only",
+        "B) Complex aspirations including justice and dignity",
+        "C) Religious revolution",
+        "D) Economic focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b36c6fd2ccda4b5532b3dfc3f4b460d7dc6a74ca",
+      "sectionIndex": 7,
+      "question": "Climate change from Islamic perspective requires:",
+      "options": [
+        "A) No action",
+        "B) Environmental stewardship as trust (Amanah)",
+        "C) Industrial development",
+        "D) Fatalistic acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7a7f32a986ecc79f76308dcbc017b49f420e32b6",
+      "sectionIndex": 8,
+      "question": "The concept of Ihsan in worship and dealings means:",
+      "options": [
+        "A) Basic compliance",
+        "B) Excellence as if seeing Allah",
+        "C) Speed in actions",
+        "D) Public display"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d35974c7d2e911084be2aa04231bf6b6e888765",
+      "sectionIndex": 8,
+      "question": "The relationship between Taqwa and social behavior manifests in:",
+      "options": [
+        "A) Private worship only",
+        "B) Ethical conduct in all interactions",
+        "C) Avoiding society",
+        "D) Ritual observance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1ef5733df7af2aa5e5ecbfc5017add02c9d18b0",
+      "sectionIndex": 8,
+      "question": "Islamic business ethics prohibit Gharar because:",
+      "options": [
+        "A) Complexity",
+        "B) Excessive uncertainty leading to disputes",
+        "C) Profit reduction",
+        "D) Competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa92a37a2c6e87d43afa8f764574b6fa1eb84ce2",
+      "sectionIndex": 8,
+      "question": "The concept of Amanah (trust) in leadership means:",
+      "options": [
+        "A) Personal benefit",
+        "B) Fulfilling responsibilities with integrity",
+        "C) Power accumulation",
+        "D) Delegation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a50d612dca459e2dc91efd67fcbd4940e958d584",
+      "sectionIndex": 8,
+      "question": "Husn al-Dhann (good assumption) about others promotes:",
+      "options": [
+        "A) Naivety",
+        "B) Social harmony and positive relations",
+        "C) Ignorance",
+        "D) Weakness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f79ad9667f83d20058f957cec7bff4bc1f6f59a0",
+      "sectionIndex": 8,
+      "question": "The balance between hope (Raja) and fear (Khawf) creates:",
+      "options": [
+        "A) Confusion",
+        "B) Spiritual equilibrium",
+        "C) Extremism",
+        "D) Complacency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "292568d1c0167122a6edc27d3cd9c20e4bb47265",
+      "sectionIndex": 8,
+      "question": "Islamic environmental ethics stem from:",
+      "options": [
+        "A) Modern concerns",
+        "B) Khilafah (stewardship) concept",
+        "C) Economic needs",
+        "D) Political pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f894268a8af57d08c9b2e97140e280d6fd330f2e",
+      "sectionIndex": 8,
+      "question": "The prohibition of Riba addresses:",
+      "options": [
+        "A) All profit",
+        "B) Exploitation and unjust enrichment",
+        "C) Business growth",
+        "D) Investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c072a3c57a0f64868e59bb946a039c7e8f77bc0",
+      "sectionIndex": 8,
+      "question": "Enjoining good and forbidding evil (Amr bil-Maruf) requires:",
+      "options": [
+        "A) Force always",
+        "B) Wisdom and appropriate methods",
+        "C) Individual action only",
+        "D) Government only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5c09ccbac412aa788745ad8fc900d61b201e64e",
+      "sectionIndex": 8,
+      "question": "The concept of Tawbah (repentance) emphasizes:",
+      "options": [
+        "A) Despair over sins",
+        "B) Hope in divine mercy with sincere reform",
+        "C) Public confession",
+        "D) Repeated sinning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e2f5c54d5b798df593acf4984f692dc8e2dd092",
+      "sectionIndex": 9,
+      "question": "The Abbasid revolution succeeded through:",
+      "options": [
+        "A) Military might alone",
+        "B) Coalition of various groups with religious legitimacy",
+        "C) Foreign support",
+        "D) Economic incentives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e4e021c564dba1670a95904f47b15704ce95371",
+      "sectionIndex": 9,
+      "question": "The translation movement in Baghdad preserved:",
+      "options": [
+        "A) Arabic texts only",
+        "B) Greek, Persian, and Indian knowledge",
+        "C) Religious books only",
+        "D) Poetry only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5169e8aaa2c3b80a3ce81c60baf04485d3d0822",
+      "sectionIndex": 9,
+      "question": "The decline of Muslim Spain resulted from:",
+      "options": [
+        "A) Single cause",
+        "B) Internal divisions and external pressures",
+        "C) Lack of military",
+        "D) Economic failure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f40c0b3c5dad9db41187296aac9fe61b225d1da",
+      "sectionIndex": 9,
+      "question": "The Crusades' impact on Muslim-Christian relations included:",
+      "options": [
+        "A) Permanent hostility",
+        "B) Complex interactions including cultural exchange",
+        "C) No lasting effect",
+        "D) Complete isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69a33134c112e8e91d9273161280d3208e761d93",
+      "sectionIndex": 9,
+      "question": "The Ottoman millet system demonstrated:",
+      "options": [
+        "A) Religious persecution",
+        "B) Pluralistic governance model",
+        "C) Forced conversion",
+        "D) Secular approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c197ea206504f37087926dcc647cd74e2e5770ce",
+      "sectionIndex": 9,
+      "question": "Islamic architectural principles emphasize:",
+      "options": [
+        "A) Decoration only",
+        "B) Function, beauty, and spiritual symbolism",
+        "C) Copying others",
+        "D) Simplicity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91a449ab0ed9890937f1e0ecfdd791f3868ac677",
+      "sectionIndex": 9,
+      "question": "The development of Islamic sciences showed:",
+      "options": [
+        "A) Religious focus only",
+        "B) Integration of revelation and empirical observation",
+        "C) Rejection of reason",
+        "D) Foreign dependence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1242099250c51808f705c4134afc4fe9fb0e6789",
+      "sectionIndex": 9,
+      "question": "The role of Waqf in Islamic civilization provided:",
+      "options": [
+        "A) Personal wealth",
+        "B) Sustainable social institutions",
+        "C) Government control",
+        "D) Economic stagnation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc1faa2bbfb83e323bc34ca32398cbaad3aa1a5f",
+      "sectionIndex": 9,
+      "question": "Islamic calligraphy's development reflects:",
+      "options": [
+        "A) Artistic preference only",
+        "B) Reverence for divine word and cultural expression",
+        "C) Inability to draw",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfaf8c4f079acc0a94640f9ecf7c58e07532cf8c",
+      "sectionIndex": 9,
+      "question": "The legacy of Islamic civilization for modern world includes:",
+      "options": [
+        "A) Historical artifacts only",
+        "B) Scientific method, institutions, and cultural synthesis",
+        "C) Religious practices only",
+        "D) Architectural styles only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

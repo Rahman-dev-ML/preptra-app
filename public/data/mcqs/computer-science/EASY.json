@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:00:44.344Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "d0c3e838cf999f52093ddac795f6328f10b7485a",
+      "sectionIndex": 0,
+      "question": "What is the primary function of an operating system?",
+      "options": [
+        "A) Running applications only",
+        "B) Managing computer resources",
+        "C) Playing games",
+        "D) Browsing internet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a32f18d96fb96844b463ef0a2cd2613d4f6158eb",
+      "sectionIndex": 0,
+      "question": "Virtual memory allows a computer to:",
+      "options": [
+        "A) Run faster",
+        "B) Use hard disk space as RAM",
+        "C) Delete files automatically",
+        "D) Connect to internet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0195ce45a9aa7c9208909aae4d9582a1b4cf3a64",
+      "sectionIndex": 0,
+      "question": "Which scheduling algorithm serves processes in the order they arrive?",
+      "options": [
+        "A) Shortest Job First",
+        "B) Priority Scheduling",
+        "C) First Come First Served",
+        "D) Round Robin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4140d82b083de90dacc8594ef17999ca6ec01349",
+      "sectionIndex": 0,
+      "question": "A deadlock occurs when:",
+      "options": [
+        "A) Computer crashes",
+        "B) Processes wait for each other indefinitely",
+        "C) Memory is full",
+        "D) CPU overheats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23019b3a5cc8689ebe7a78715a638f0a4b3c37ae",
+      "sectionIndex": 0,
+      "question": "An interrupt is:",
+      "options": [
+        "A) A signal to get CPU attention",
+        "B) A virus",
+        "C) A programming error",
+        "D) A network protocol"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "34da4e967a3c707214a4720c3c429af390ed82f8",
+      "sectionIndex": 0,
+      "question": "Paging is a technique used in:",
+      "options": [
+        "A) Printing",
+        "B) Memory management",
+        "C) File storage",
+        "D) Network routing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65255072f24bcd2405e5e9005d64ffd72e41f5de",
+      "sectionIndex": 0,
+      "question": "Which is NOT a process state?",
+      "options": [
+        "A) Running",
+        "B) Waiting",
+        "C) Sleeping",
+        "D) Terminated"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6040eedf6a6aeca7f86cb1b73d1a596d9b56cfb5",
+      "sectionIndex": 0,
+      "question": "The kernel is:",
+      "options": [
+        "A) Hardware component",
+        "B) Core part of OS",
+        "C) Type of virus",
+        "D) Programming language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d0b09b479eb094b363226d33e05d414b27aef7d",
+      "sectionIndex": 0,
+      "question": "Multitasking means:",
+      "options": [
+        "A) One task at a time",
+        "B) Multiple tasks simultaneously",
+        "C) Deleting tasks",
+        "D) Creating tasks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6c3f2984a585320491398cb8015c0fe80c60abb",
+      "sectionIndex": 0,
+      "question": "A thread is:",
+      "options": [
+        "A) Smallest unit of processing",
+        "B) Type of cable",
+        "C) Network protocol",
+        "D) Storage device"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "62fcc847bf349530ad4d1668e0a66ee28ff522c2",
+      "sectionIndex": 1,
+      "question": "An array stores elements in:",
+      "options": [
+        "A) Random locations",
+        "B) Contiguous memory locations",
+        "C) Different computers",
+        "D) Cloud storage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d923c06387e1b2e5e74006ca47db55abfd272bc6",
+      "sectionIndex": 1,
+      "question": "Binary search requires data to be:",
+      "options": [
+        "A) Unsorted",
+        "B) Sorted",
+        "C) Numeric only",
+        "D) Text only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7817e68aec5b64c526a44ff7adcc351e794e9f8a",
+      "sectionIndex": 1,
+      "question": "A stack follows which principle?",
+      "options": [
+        "A) First In First Out",
+        "B) Last In First Out",
+        "C) Random Access",
+        "D) Priority Based"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49abee28363ef1454db5ccd657d6c7e0405debd7",
+      "sectionIndex": 1,
+      "question": "A queue follows which principle?",
+      "options": [
+        "A) Last In First Out",
+        "B) First In First Out",
+        "C) Random Access",
+        "D) Size Based"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfde06f88e3824594ba78096d7ddd0d8e4fedacb",
+      "sectionIndex": 1,
+      "question": "In a binary tree, each node has maximum:",
+      "options": [
+        "A) One child",
+        "B) Two children",
+        "C) Three children",
+        "D) Unlimited children"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f53726ecec758ac930e7ff33bebf47bb3f873cd",
+      "sectionIndex": 1,
+      "question": "The time complexity of linear search is:",
+      "options": [
+        "A) O(1)",
+        "B) O(log n)",
+        "C) O(n)",
+        "D) O(n2)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "15e870837a130e9b68be74de7a7f9580cadf4b80",
+      "sectionIndex": 1,
+      "question": "A linked list stores data in:",
+      "options": [
+        "A) Array",
+        "B) Nodes with pointers",
+        "C) Stack",
+        "D) Queue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c070e919d3d4e37aebc5123fa112cb91fc89f3d",
+      "sectionIndex": 1,
+      "question": "Bubble sort compares:",
+      "options": [
+        "A) First and last elements",
+        "B) Adjacent elements",
+        "C) Random elements",
+        "D) Odd elements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2224f9a0a09b984bb98d6a5ff45a7353eb30ff1f",
+      "sectionIndex": 1,
+      "question": "Which data structure uses LIFO?",
+      "options": [
+        "A) Queue",
+        "B) Array",
+        "C) Stack",
+        "D) Tree"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2e84b70a291d86fdb0d7c0c711ea3f5b65e7e755",
+      "sectionIndex": 1,
+      "question": "Hash table is used for:",
+      "options": [
+        "A) Slow searching",
+        "B) Fast searching",
+        "C) Sorting only",
+        "D) Printing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "716f045d7eb9b7ba1fb82e74c6db1d03d6972316",
+      "sectionIndex": 2,
+      "question": "OOP stands for:",
+      "options": [
+        "A) Object Oriented Programming",
+        "B) Online Operating Platform",
+        "C) Open Office Program",
+        "D) Optimal Output Process"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6d805970b8326d341f2ca70e7791c6b0d3d22ec8",
+      "sectionIndex": 2,
+      "question": "Inheritance allows a class to:",
+      "options": [
+        "A) Delete properties",
+        "B) Inherit properties from parent class",
+        "C) Hide all methods",
+        "D) Create loops"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3b773f6c637a976493208abfd083c630f8d58a2",
+      "sectionIndex": 2,
+      "question": "Encapsulation means:",
+      "options": [
+        "A) Deleting data",
+        "B) Hiding implementation details",
+        "C) Creating loops",
+        "D) Making variables public"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "667f17ad940752ff3b020c2b5026a132a9293231",
+      "sectionIndex": 2,
+      "question": "A constructor is called when:",
+      "options": [
+        "A) Object is destroyed",
+        "B) Object is created",
+        "C) Program ends",
+        "D) Loop starts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46972aea21fa795346ba7e61015f024182ed33a8",
+      "sectionIndex": 2,
+      "question": "Polymorphism allows:",
+      "options": [
+        "A) One interface, multiple implementations",
+        "B) Multiple interfaces, one implementation",
+        "C) No interfaces",
+        "D) Deleting objects"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9c9e482b86b7f83c94cf91958dcdee81837dbfbf",
+      "sectionIndex": 2,
+      "question": "Which is NOT a pillar of OOP?",
+      "options": [
+        "A) Inheritance",
+        "B) Encapsulation",
+        "C) Compilation",
+        "D) Polymorphism"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ef448d7158518af3df236666b351a87f52512051",
+      "sectionIndex": 2,
+      "question": "A class is:",
+      "options": [
+        "A) An object",
+        "B) A blueprint for objects",
+        "C) A function",
+        "D) A variable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "546cfdba69d5f85d1f9b0e4de27b61a79f715526",
+      "sectionIndex": 2,
+      "question": "Private members of a class are accessible:",
+      "options": [
+        "A) Everywhere",
+        "B) Only within the class",
+        "C) In other programs",
+        "D) On internet"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e214887d5a7d543d60bd095c0f0364e1ade5b54d",
+      "sectionIndex": 2,
+      "question": "Function overloading means:",
+      "options": [
+        "A) Deleting functions",
+        "B) Same name, different parameters",
+        "C) Different name, same parameters",
+        "D) No functions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aaffcb4ef21f5ae807eb97153d7ba051b6f383ce",
+      "sectionIndex": 2,
+      "question": "An abstract class:",
+      "options": [
+        "A) Cannot be instantiated",
+        "B) Has no methods",
+        "C) Has no variables",
+        "D) Must be deleted"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d5faef6946cf1a85814bfda222d57e7a6ed6e2a0",
+      "sectionIndex": 3,
+      "question": "SQL stands for:",
+      "options": [
+        "A) Simple Query Language",
+        "B) Structured Query Language",
+        "C) System Query Language",
+        "D) Software Query Language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a0841b192d26bad1843548e9937672f5d13d593",
+      "sectionIndex": 3,
+      "question": "A primary key:",
+      "options": [
+        "A) Can have duplicates",
+        "B) Uniquely identifies a record",
+        "C) Is always numeric",
+        "D) Can be null"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ecd658f269747c21bc418ae422c5ef1b2c452ef",
+      "sectionIndex": 3,
+      "question": "Which SQL command retrieves data?",
+      "options": [
+        "A) INSERT",
+        "B) UPDATE",
+        "C) SELECT",
+        "D) DELETE"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "eb2a6a68c0b0ace85c013992785bc89f883fe8f5",
+      "sectionIndex": 3,
+      "question": "A foreign key:",
+      "options": [
+        "A) Has no relation",
+        "B) References primary key in another table",
+        "C) Must be unique",
+        "D) Cannot be null"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9a676755440ea81dcae478ee09d98058ea526b6",
+      "sectionIndex": 3,
+      "question": "Normalization reduces:",
+      "options": [
+        "A) Data redundancy",
+        "B) Data security",
+        "C) Number of tables",
+        "D) Query speed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f1e22de589b076b45244eef07a68434e5e433f36",
+      "sectionIndex": 3,
+      "question": "DBMS stands for:",
+      "options": [
+        "A) Data Basic Management System",
+        "B) Database Management System",
+        "C) Digital Base Management System",
+        "D) Direct Base Management System"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d3a5bfb04c3207f1135e09a65154f901aa0ff37",
+      "sectionIndex": 3,
+      "question": "Which is a DDL command?",
+      "options": [
+        "A) SELECT",
+        "B) INSERT",
+        "C) CREATE",
+        "D) UPDATE"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8827aece636e5a5854b1d05400ffabfd3d989804",
+      "sectionIndex": 3,
+      "question": "A table row is also called:",
+      "options": [
+        "A) Attribute",
+        "B) Field",
+        "C) Record",
+        "D) Schema"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8141282cd166fad9ba24d5fc9b0471b28a1a8ec6",
+      "sectionIndex": 3,
+      "question": "1NF requires:",
+      "options": [
+        "A) No primary key",
+        "B) Atomic values",
+        "C) Multiple values per cell",
+        "D) No data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b01a75e61b6683022c767cf884f64cc7ef92f955",
+      "sectionIndex": 3,
+      "question": "An ERD shows:",
+      "options": [
+        "A) Error messages",
+        "B) Entity relationships",
+        "C) Email records",
+        "D) Encryption methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "193dd3d4fe2d9f8ef8526800d62b54bb0215359e",
+      "sectionIndex": 4,
+      "question": "How many layers are in the OSI model?",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a64159514956ae347286555f813230fb17a766b0",
+      "sectionIndex": 4,
+      "question": "TCP/IP stands for:",
+      "options": [
+        "A) Transfer Control Protocol/Internet Protocol",
+        "B) Transmission Control Protocol/Internet Protocol",
+        "C) Total Control Protocol/Internal Protocol",
+        "D) Technical Control Protocol/Internet Protocol"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c379b346ba04531f47a78b6c20f29681913b6aad",
+      "sectionIndex": 4,
+      "question": "An IP address is used to:",
+      "options": [
+        "A) Store files",
+        "B) Identify devices on network",
+        "C) Create passwords",
+        "D) Print documents"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d85adff43bc5368b747142545daa66fefbfe319",
+      "sectionIndex": 4,
+      "question": "LAN stands for:",
+      "options": [
+        "A) Large Area Network",
+        "B) Local Area Network",
+        "C) Long Area Network",
+        "D) Limited Area Network"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95f7a326e94d8730528dffc391cdee634495251f",
+      "sectionIndex": 4,
+      "question": "Which device connects different networks?",
+      "options": [
+        "A) Hub",
+        "B) Switch",
+        "C) Router",
+        "D) Cable"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "49b0247c2f0828f3f96cb4481e36ac075ade59a1",
+      "sectionIndex": 4,
+      "question": "HTTP stands for:",
+      "options": [
+        "A) HyperText Transfer Protocol",
+        "B) High Transfer Text Protocol",
+        "C) HyperText Transport Protocol",
+        "D) High Text Transfer Protocol"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d9c854c1c25a31828cbcb1c1bb5f7a4869e2ae8e",
+      "sectionIndex": 4,
+      "question": "The physical layer deals with:",
+      "options": [
+        "A) Applications",
+        "B) Data packets",
+        "C) Electrical signals",
+        "D) User interface"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "eda3835d8d8b1fdeab737c60dfc90ce392e5ebb6",
+      "sectionIndex": 4,
+      "question": "DNS converts:",
+      "options": [
+        "A) Numbers to letters",
+        "B) Domain names to IP addresses",
+        "C) Files to folders",
+        "D) Text to images"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd18579551d3313eb926a707cdff08193299b7c8",
+      "sectionIndex": 4,
+      "question": "A firewall is used for:",
+      "options": [
+        "A) Cooling system",
+        "B) Network security",
+        "C) Data storage",
+        "D) Printing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dece15f7bcecaf8074509d07518f91231aa750c4",
+      "sectionIndex": 4,
+      "question": "Which is NOT a network topology?",
+      "options": [
+        "A) Star",
+        "B) Ring",
+        "C) Square",
+        "D) Bus"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cafac3e1c2e041e4bb5895bd613ffa2a775ff0e6",
+      "sectionIndex": 5,
+      "question": "SDLC stands for:",
+      "options": [
+        "A) Software Development Life Cycle",
+        "B) System Development Life Cycle",
+        "C) Software Design Life Cycle",
+        "D) System Design Life Cycle"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b4a61f5f3b8ef17445c0c34e60b3db27d3e7df1a",
+      "sectionIndex": 5,
+      "question": "Which comes first in software development?",
+      "options": [
+        "A) Testing",
+        "B) Coding",
+        "C) Requirements gathering",
+        "D) Maintenance"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6e735ef4ad5df34e2c4711288f9ec695fd88c978",
+      "sectionIndex": 5,
+      "question": "Unit testing tests:",
+      "options": [
+        "A) Entire system",
+        "B) Individual components",
+        "C) User interface only",
+        "D) Network only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e61ac537b0ed7e64d3768796ee56b707be015dd",
+      "sectionIndex": 5,
+      "question": "Waterfall model is:",
+      "options": [
+        "A) Iterative",
+        "B) Sequential",
+        "C) Random",
+        "D) Circular"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75f0f0b26bdcf8e063995d333f0e50dfaf9a6587",
+      "sectionIndex": 5,
+      "question": "Agile methodology emphasizes:",
+      "options": [
+        "A) Long planning phases",
+        "B) Iterative development",
+        "C) No documentation",
+        "D) Single release"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14f9c18dad9fe885df79e4cd0be46792bcce65f3",
+      "sectionIndex": 5,
+      "question": "A bug is:",
+      "options": [
+        "A) Hardware component",
+        "B) Software defect",
+        "C) Network cable",
+        "D) Storage device"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6df1d8de021482a0e12806b4d2c6496e9a488d0f",
+      "sectionIndex": 5,
+      "question": "Integration testing tests:",
+      "options": [
+        "A) Individual units",
+        "B) Combined components",
+        "C) Single functions",
+        "D) Hardware only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "291deffea43986c3bae433c63f719a803388a7be",
+      "sectionIndex": 5,
+      "question": "Documentation is important for:",
+      "options": [
+        "A) Future maintenance",
+        "B) Slowing development",
+        "C) Increasing cost",
+        "D) Reducing quality"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "56845ea7e1497cd3c0c9f2b7dacf94ee5711ec5a",
+      "sectionIndex": 5,
+      "question": "Which is NOT a testing type?",
+      "options": [
+        "A) Unit testing",
+        "B) System testing",
+        "C) Random testing",
+        "D) Acceptance testing"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3e20bd716f2e1ec24130ca3f46a5391d5c135c5e",
+      "sectionIndex": 5,
+      "question": "Software maintenance includes:",
+      "options": [
+        "A) Only bug fixes",
+        "B) Updates and improvements",
+        "C) Hardware repair",
+        "D) Network setup"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89a7152795991fa2bf231e32711c991266f717d2",
+      "sectionIndex": 6,
+      "question": "HTML stands for:",
+      "options": [
+        "A) High Text Markup Language",
+        "B) HyperText Markup Language",
+        "C) HyperText Making Language",
+        "D) High Text Making Language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ecacadc9b03d5101f87c4f8a19e7e63f6a7e05b",
+      "sectionIndex": 6,
+      "question": "CSS is used for:",
+      "options": [
+        "A) Programming logic",
+        "B) Styling web pages",
+        "C) Database queries",
+        "D) Network security"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0eb879f9852e70cca52e3c6db348aa07fe6eea13",
+      "sectionIndex": 6,
+      "question": "JavaScript is primarily a:",
+      "options": [
+        "A) Server-side language",
+        "B) Client-side language",
+        "C) Database language",
+        "D) System language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "815deea383826eff98d5f8c1a3e6e0928c7dee41",
+      "sectionIndex": 6,
+      "question": "A web browser is:",
+      "options": [
+        "A) Server software",
+        "B) Client software",
+        "C) Database",
+        "D) Operating system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a0d16f44b7b742506ce48bc87268436bbe7d39e",
+      "sectionIndex": 6,
+      "question": "URL stands for:",
+      "options": [
+        "A) Universal Resource Locator",
+        "B) Uniform Resource Locator",
+        "C) Unique Resource Locator",
+        "D) United Resource Locator"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df8eaca7cfcc6776dfe8ef70697101274f7593f3",
+      "sectionIndex": 6,
+      "question": "Which tag creates a hyperlink in HTML?",
+      "options": [
+        "A) <link>",
+        "B) <a>",
+        "C) <href>",
+        "D) <url>"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ffa9e36f481ad3d3b314f26956fbd8fd728b93d8",
+      "sectionIndex": 6,
+      "question": "HTTP uses which port by default?",
+      "options": [
+        "A) 21",
+        "B) 25",
+        "C) 80",
+        "D) 443"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9871a36bf3d073e6b0da9ab8e5cc029ab2f5d0ba",
+      "sectionIndex": 6,
+      "question": "A cookie is:",
+      "options": [
+        "A) Hardware device",
+        "B) Small data file",
+        "C) Virus type",
+        "D) Network protocol"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4c9f50c204ae4a10d9999ce816d5eeaac524186",
+      "sectionIndex": 6,
+      "question": "AJAX allows:",
+      "options": [
+        "A) Page refresh",
+        "B) Asynchronous updates",
+        "C) File deletion",
+        "D) Virus scanning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f020640153344638b284661fcacbffb33d70180",
+      "sectionIndex": 6,
+      "question": "Which is NOT a web browser?",
+      "options": [
+        "A) Chrome",
+        "B) Firefox",
+        "C) Excel",
+        "D) Safari"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a652ea29cdcc5befc084a105b4b0980d4cb7d8e8",
+      "sectionIndex": 7,
+      "question": "RGB stands for:",
+      "options": [
+        "A) Red Green Blue",
+        "B) Red Gray Black",
+        "C) Real Graphics Base",
+        "D) Random Graphics Blue"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "94a5e8571826582d680eec143f9ed85ab5c332c2",
+      "sectionIndex": 7,
+      "question": "A pixel is:",
+      "options": [
+        "A) Type of software",
+        "B) Smallest unit of display",
+        "C) Network protocol",
+        "D) Storage device"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efe96e71a778c83d6f5bda4815360f1f9381102e",
+      "sectionIndex": 7,
+      "question": "Vector graphics are:",
+      "options": [
+        "A) Pixel-based",
+        "B) Mathematical equations-based",
+        "C) Text-based",
+        "D) Sound-based"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5b4c94eff51ab4045790660f0143715ba793ea9",
+      "sectionIndex": 7,
+      "question": "Raster graphics are:",
+      "options": [
+        "A) Equation-based",
+        "B) Pixel-based",
+        "C) Text-based",
+        "D) Vector-based"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a36883ed666f2a7c968b5ed7591ea90a263f6604",
+      "sectionIndex": 7,
+      "question": "Resolution refers to:",
+      "options": [
+        "A) Problem solving",
+        "B) Image clarity",
+        "C) Network speed",
+        "D) Memory size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcee2ec7538e06afd10bbc4dbbd825ab14fd0e58",
+      "sectionIndex": 7,
+      "question": "Which format is vector-based?",
+      "options": [
+        "A) JPEG",
+        "B) PNG",
+        "C) SVG",
+        "D) BMP"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "142f67c8ba2c1d6ace38651ae0b651c3aa3a2fbf",
+      "sectionIndex": 7,
+      "question": "Animation is:",
+      "options": [
+        "A) Single image",
+        "B) Series of images",
+        "C) Text document",
+        "D) Audio file"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ae4412a9ae58b54886280e61ef3e0cebf584b9e",
+      "sectionIndex": 7,
+      "question": "3D graphics add which dimension?",
+      "options": [
+        "A) Width",
+        "B) Height",
+        "C) Depth",
+        "D) Time"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5430cc36116c7816af3af0802fa1dca4ea32b0a4",
+      "sectionIndex": 7,
+      "question": "Rendering means:",
+      "options": [
+        "A) Deleting images",
+        "B) Creating final image",
+        "C) Copying images",
+        "D) Storing images"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96d855e0332900e6fb3d3626532d265c15061d91",
+      "sectionIndex": 7,
+      "question": "Which is NOT a color model?",
+      "options": [
+        "A) RGB",
+        "B) CMYK",
+        "C) XYZ",
+        "D) ABC"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "19c9a3022973b8786f596c5966419a350ca6839f",
+      "sectionIndex": 8,
+      "question": "A virus is:",
+      "options": [
+        "A) Hardware problem",
+        "B) Malicious software",
+        "C) Network cable",
+        "D) Storage device"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ca91562ab0a3b89ea441065d4fca7b5f0b244c4",
+      "sectionIndex": 8,
+      "question": "Encryption protects:",
+      "options": [
+        "A) Hardware",
+        "B) Data confidentiality",
+        "C) Power supply",
+        "D) Monitor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "968bfd6de27b78e5096bf637618f1777e168ba91",
+      "sectionIndex": 8,
+      "question": "A password should be:",
+      "options": [
+        "A) Simple",
+        "B) Your name",
+        "C) Complex and unique",
+        "D) \"password\""
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "953c775cdb8b974b99e2ad6be60352fa3b93a87e",
+      "sectionIndex": 8,
+      "question": "Phishing is:",
+      "options": [
+        "A) Computer game",
+        "B) Fraudulent attempt to obtain information",
+        "C) Programming language",
+        "D) Network protocol"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1c0406ec73f88c7673eba2f7217ac24920fe32e",
+      "sectionIndex": 8,
+      "question": "Antivirus software:",
+      "options": [
+        "A) Creates viruses",
+        "B) Detects and removes malware",
+        "C) Speeds up computer",
+        "D) Manages files"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3736c99125a302b19892ab63216564b07b153483",
+      "sectionIndex": 8,
+      "question": "A firewall blocks:",
+      "options": [
+        "A) All traffic",
+        "B) Unauthorized access",
+        "C) Authorized users",
+        "D) Power supply"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1866041303295853b783e0b9e9c4fe6215a124db",
+      "sectionIndex": 8,
+      "question": "HTTPS is more secure than HTTP because of:",
+      "options": [
+        "A) Speed",
+        "B) Encryption",
+        "C) Simplicity",
+        "D) Cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77b17b383f43f39a47ac4f3c974742c10c528d11",
+      "sectionIndex": 8,
+      "question": "Two-factor authentication uses:",
+      "options": [
+        "A) One password",
+        "B) Two different verification methods",
+        "C) No password",
+        "D) Only biometrics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "088cf4925d513c42021e35ff5db8eed5fbfbb63a",
+      "sectionIndex": 8,
+      "question": "Backup is important for:",
+      "options": [
+        "A) Slowing system",
+        "B) Data recovery",
+        "C) Creating viruses",
+        "D) Reducing storage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d103f1efadf16e0a1cfb39e8a587e311a1df53c",
+      "sectionIndex": 8,
+      "question": "Which is NOT a security threat?",
+      "options": [
+        "A) Virus",
+        "B) Trojan",
+        "C) Antivirus",
+        "D) Worm"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e2732fa6bbed13b00b9d563ae9600c49b2437194",
+      "sectionIndex": 9,
+      "question": "CPU stands for:",
+      "options": [
+        "A) Central Processing Unit",
+        "B) Central Power Unit",
+        "C) Computer Processing Unit",
+        "D) Computer Power Unit"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c665308196ef64e53ae4c2aa72af65b000de0f02",
+      "sectionIndex": 9,
+      "question": "RAM is:",
+      "options": [
+        "A) Permanent storage",
+        "B) Temporary storage",
+        "C) Network device",
+        "D) Input device"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98ba127421f600df3b3bd6a737d65af3d08ee628",
+      "sectionIndex": 9,
+      "question": "Which is an input device?",
+      "options": [
+        "A) Monitor",
+        "B) Printer",
+        "C) Keyboard",
+        "D) Speaker"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0fc14edc6ec313bf9f0672be80a263fe5a1d8d97",
+      "sectionIndex": 9,
+      "question": "Which is an output device?",
+      "options": [
+        "A) Mouse",
+        "B) Scanner",
+        "C) Monitor",
+        "D) Microphone"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5629b89d0760ee65fd2f35276a31974a5e6a8db3",
+      "sectionIndex": 9,
+      "question": "Binary system uses:",
+      "options": [
+        "A) 0 and 1",
+        "B) 1 to 10",
+        "C) A to Z",
+        "D) All numbers"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "58737f84ee38ad1f883f32938ff157cd4a2b6e9a",
+      "sectionIndex": 9,
+      "question": "1 GB equals:",
+      "options": [
+        "A) 1000 MB",
+        "B) 1024 MB",
+        "C) 100 MB",
+        "D) 10000 MB"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "639f1291643ea7b996ad8c4953f001bd520008d2",
+      "sectionIndex": 9,
+      "question": "ROM stands for:",
+      "options": [
+        "A) Random Only Memory",
+        "B) Read Only Memory",
+        "C) Read Once Memory",
+        "D) Random Open Memory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e10c1aa0f1e34d94d1a1d08515c19957a9efcd47",
+      "sectionIndex": 9,
+      "question": "Which is system software?",
+      "options": [
+        "A) Word processor",
+        "B) Operating system",
+        "C) Game",
+        "D) Browser"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b6811a016e46236802e33829e39f581c0385abc",
+      "sectionIndex": 9,
+      "question": "ALU stands for:",
+      "options": [
+        "A) Arithmetic Logic Unit",
+        "B) Advanced Logic Unit",
+        "C) Arithmetic Learning Unit",
+        "D) Advanced Learning Unit"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "16991d6d091b72f606c01eb525329f07e67ca6d6",
+      "sectionIndex": 9,
+      "question": "A bit is:",
+      "options": [
+        "A) 8 bytes",
+        "B) Smallest unit of data",
+        "C) 1024 bytes",
+        "D) Type of software"
+      ],
+      "correct": "B"
+    }
+  ]
+}

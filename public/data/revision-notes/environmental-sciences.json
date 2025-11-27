@@ -1,0 +1,603 @@
+{
+  "subject": "Environmental Sciences",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 22,
+  "categories": [
+    "Risk Analysis & Assessment",
+    "International Environmental Policy & Agreements",
+    "Climate Change: Science, Mitigation & Adaptation",
+    "Air Pollution, Ozone Depletion & Smog",
+    "Hazardous Waste & Toxic Substances",
+    "Environmental Impact Assessment (EIA) & Public Participation",
+    "Wastewater, Solid & Hospital Waste Management",
+    "Energy Resources & Clean Development Mechanism (CDM)",
+    "Water Resources & National Policies",
+    "Bioremediation, Anaerobic Treatment & Environmental Geology",
+    "Biodiversity, Wetlands & Ecosystem Health",
+    "Occupational Health & Safety; Tools (GIS/RS)"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Risk Analysis—EPA's Four-Step Paradigm + Risk Communication",
+      "content": "Definition and scope of risk analysis for environmental decision-making. The canonical NRC/EPA paradigm: (1) Hazard Identification → does the stressor cause harm? (2) Dose–Response Assessment → quantify exposure–effect relation; (3) Exposure Assessment → magnitude, frequency, duration, routes; (4) Risk Characterization → integrate evidence, uncertainty, and describe risk. Risk management and risk communication are complementary (e.g., EPA's SALT framework and 'Seven Cardinal Rules').",
+      "keyTakeaways": [
+        "Know the four steps and the distinct outputs of each.",
+        "Separate science (assessment) from policy (management).",
+        "Plan early for communication; engage stakeholders throughout."
+      ],
+      "resources": [
+        {
+          "title": "Conducting a Human Health Risk Assessment (EPA)",
+          "url": "https://www.epa.gov/risk/conducting-human-health-risk-assessment",
+          "type": "article",
+          "description": "Official 4-step process with subpages"
+        },
+        {
+          "title": "Human Health Risk Assessment (EPA overview)",
+          "url": "https://www.epa.gov/risk/human-health-risk-assessment",
+          "type": "article",
+          "description": "Step-by-step with links"
+        },
+        {
+          "title": "NRC Risk Assessment Paradigm (EPA)",
+          "url": "https://www.epa.gov/fera/nrc-risk-assessment-paradigm",
+          "type": "article",
+          "description": "Foundational framework"
+        },
+        {
+          "title": "Risk Communication (EPA portal)",
+          "url": "https://www.epa.gov/risk-communication",
+          "type": "article",
+          "description": "Approach & SALT framework"
+        },
+        {
+          "title": "Seven Cardinal Rules of Risk Communication (EPA/ORAU PDF)",
+          "url": "https://www.orau.gov/hsc/ercwbt/content/ERCcdcynergy/Content/activeinformation/resources/EPA_Seven_Cardinal_Rules.pdf",
+          "type": "pdf",
+          "description": "Practical principles"
+        }
+      ],
+      "importance": "high",
+      "category": "Risk Analysis & Assessment",
+      "topics": ["Risk Assessment", "EPA Framework", "Risk Communication", "Stakeholder Engagement"]
+    },
+    {
+      "id": "2",
+      "title": "Rio Summit 1992—Rio Declaration & Agenda 21",
+      "content": "The 1992 Earth Summit set 27 Rio Principles (e.g., precautionary principle, polluter-pays, common but differentiated responsibilities) and adopted Agenda 21—a comprehensive action plan for sustainable development, including conventions on climate (UNFCCC) and biodiversity.",
+      "keyTakeaways": [
+        "Rio Principles still anchor modern environmental law.",
+        "Agenda 21 organized national actions across sectors.",
+        "Rio launched UNFCCC/UNCBD treaty regimes."
+      ],
+      "resources": [
+        {
+          "title": "Rio Declaration on Environment and Development (UN)",
+          "url": "https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf",
+          "type": "pdf",
+          "description": "Official text"
+        }
+      ],
+      "importance": "high",
+      "category": "International Environmental Policy & Agreements",
+      "topics": ["Rio Summit", "Rio Declaration", "Agenda 21", "Sustainable Development"]
+    },
+    {
+      "id": "3",
+      "title": "UNFCCC—Core Provisions & Purpose",
+      "content": "The UNFCCC (1992) aims to stabilize GHG concentrations to prevent dangerous anthropogenic interference with the climate system. It sets non-binding commitments (inventory, reporting, mitigation/adaptation programs) and creates the COP process, financing and technology transfer mechanisms.",
+      "keyTakeaways": [
+        "Framework treaty—platform for protocols/agreements.",
+        "Differentiated responsibilities recognized.",
+        "MRV (measurement, reporting, verification) underpins progress."
+      ],
+      "resources": [
+        {
+          "title": "UNFCCC (Official Text)",
+          "url": "https://unfccc.int/resource/docs/convkp/conveng.pdf",
+          "type": "pdf",
+          "description": "Treaty text"
+        }
+      ],
+      "importance": "high",
+      "category": "International Environmental Policy & Agreements",
+      "topics": ["UNFCCC", "Climate Change", "GHG Emissions", "MRV"]
+    },
+    {
+      "id": "4",
+      "title": "Kyoto Protocol—Targets, Mechanisms & Debates",
+      "content": "Kyoto (1997) set binding emission targets for Annex I countries in the first commitment period and introduced market mechanisms: Emissions Trading, Joint Implementation (JI), and Clean Development Mechanism (CDM). Controversies included limited coverage, differential commitments, and market integrity concerns.",
+      "keyTakeaways": [
+        "First binding GHG targets for developed countries.",
+        "CDM allowed certified reductions via projects in developing countries.",
+        "Paved the way (and revealed gaps) for Paris Agreement."
+      ],
+      "resources": [
+        {
+          "title": "Kyoto Protocol (Official Text)",
+          "url": "https://unfccc.int/resource/docs/convkp/kpeng.pdf",
+          "type": "pdf",
+          "description": "Treaty text"
+        }
+      ],
+      "importance": "high",
+      "category": "International Environmental Policy & Agreements",
+      "topics": ["Kyoto Protocol", "CDM", "Emissions Trading", "Carbon Markets"]
+    },
+    {
+      "id": "5",
+      "title": "Paris Agreement (2015)—NDCs & Global Stocktake",
+      "content": "Paris establishes the long-term temperature goal (well below 2°C; pursue 1.5°C), nationally determined contributions (NDCs), transparency framework, global stocktake (every 5 years), and scaled climate finance.",
+      "keyTakeaways": [
+        "Bottom-up NDCs with increasing ambition over time.",
+        "Global Stocktake informs ratcheting mechanism.",
+        "Adaptation, loss & damage recognized alongside mitigation."
+      ],
+      "resources": [
+        {
+          "title": "Paris Agreement (Official Text)",
+          "url": "https://unfccc.int/sites/default/files/english_paris_agreement.pdf",
+          "type": "pdf",
+          "description": "Treaty text"
+        }
+      ],
+      "importance": "high",
+      "category": "International Environmental Policy & Agreements",
+      "topics": ["Paris Agreement", "NDCs", "Global Stocktake", "Climate Finance"]
+    },
+    {
+      "id": "6",
+      "title": "Pakistan—National Climate Change Policy (2012) & Updates",
+      "content": "Pakistan's NCCP (2012) outlines sectoral adaptation/mitigation, institutional roles, and mainstreaming climate into planning; subsequent policy updates deepen alignment with NDCs and provincial roles post-18th Amendment.",
+      "keyTakeaways": [
+        "Prioritizes water, agriculture, disaster risk management, energy.",
+        "Emphasizes MRV, financing, and capacity building.",
+        "Links to EIA/SEA, and climate-resilient development."
+      ],
+      "resources": [
+        {
+          "title": "National Climate Change Policy 2012 (Pakistan)",
+          "url": "https://www.climate.gov.pk/wp-content/uploads/2023/03/nccp2012.pdf",
+          "type": "pdf",
+          "description": "MoCC official PDF"
+        }
+      ],
+      "importance": "high",
+      "category": "Climate Change: Science, Mitigation & Adaptation",
+      "topics": ["Pakistan Climate Policy", "NCCP", "Adaptation", "Mitigation"]
+    },
+    {
+      "id": "7",
+      "title": "National Drinking Water Policy (2009)—Pakistan",
+      "content": "Policy framework for safe drinking water access, water safety plans, standards enforcement, and institutional coordination across federal/provincial levels.",
+      "keyTakeaways": [
+        "Focus on water quality monitoring and rural access.",
+        "Integration with sanitation and health surveillance.",
+        "Supports SDG 6 targets."
+      ],
+      "resources": [
+        {
+          "title": "National Drinking Water Policy 2009 (Pakistan)",
+          "url": "https://unhabitat.org/sites/default/files/download-manager-files/National%20Drinking%20Water%20Policy%202009.pdf",
+          "type": "pdf",
+          "description": "Official policy document (hosted by UN-Habitat)"
+        }
+      ],
+      "importance": "medium",
+      "category": "Water Resources & National Policies",
+      "topics": ["Drinking Water Policy", "Water Quality", "SDG 6", "Pakistan"]
+    },
+    {
+      "id": "8",
+      "title": "Greenhouse Effect, GHGs & Pakistan's Vulnerability",
+      "content": "Physical mechanism: greenhouse gases absorb/emit infrared radiation, warming the troposphere and surface. Key gases: CO₂, CH₄, N₂O, F-gases. Pakistan contributes <1% of global emissions yet is highly exposed to climate risks (floods, heat, glacial melt).",
+      "keyTakeaways": [
+        "Understand radiative forcing and major GHG sources.",
+        "Mitigation + adaptation both required for semi-arid contexts.",
+        "Use country risk profiles for exam answers and policy design."
+      ],
+      "resources": [
+        {
+          "title": "Greenhouse Effect Explained (NASA)",
+          "url": "https://climate.nasa.gov/faq/19/what-is-the-greenhouse-effect/",
+          "type": "article",
+          "description": "Mechanism & FAQs"
+        },
+        {
+          "title": "Climate Risk Country Profile: Pakistan (World Bank/ADB)",
+          "url": "https://openknowledge.worldbank.org/entities/publication/1fee7f49-7fe1-5642-befb-6b283539fd0c",
+          "type": "article",
+          "description": "Country climate risks & projections"
+        }
+      ],
+      "importance": "high",
+      "category": "Climate Change: Science, Mitigation & Adaptation",
+      "topics": ["Greenhouse Effect", "GHGs", "Climate Vulnerability", "Pakistan"]
+    },
+    {
+      "id": "9",
+      "title": "Mitigation & Adaptation—Strategies with Pakistan Context",
+      "content": "Mitigation: renewable energy, efficiency, fugitive methane control, afforestation, and low-carbon transport. Adaptation: climate-smart agriculture, water storage & governance, early warning systems, resilient infrastructure, and urban heat/smog management.",
+      "keyTakeaways": [
+        "Align national strategies to NDC and risk indices.",
+        "Prioritize no-regrets measures and co-benefits (air quality, health).",
+        "Integrate DRR and climate finance instruments."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Country Climate & Development Report (World Bank)",
+          "url": "https://openknowledge.worldbank.org/entities/publication/614ddc2b-ca31-53c9-b59c-6bf12a56d336",
+          "type": "article",
+          "description": "Mitigation/adaptation pathways"
+        }
+      ],
+      "importance": "high",
+      "category": "Climate Change: Science, Mitigation & Adaptation",
+      "topics": ["Mitigation Strategies", "Adaptation Measures", "Climate Finance", "Pakistan"]
+    },
+    {
+      "id": "10",
+      "title": "Ozone Layer—Montreal Protocol, Kigali Amendment & Chemistry",
+      "content": "Stratospheric ozone depletion is driven by halogen radicals (Cl, Br) from CFCs/halons; recovery is a global success story of the Montreal Protocol and later Kigali Amendment (HFC phase-down).",
+      "keyTakeaways": [
+        "Catalytic cycles of Cl/Br destroy O₃; polar stratospheric clouds enable rapid springtime loss.",
+        "Montreal Protocol phased out ODS; Kigali addresses HFC climate forcing.",
+        "Ozone recovery is underway but requires vigilance."
+      ],
+      "resources": [
+        {
+          "title": "Montreal Protocol (Official Text)",
+          "url": "https://ozone.unep.org/treaties/montreal-protocol/text",
+          "type": "article",
+          "description": "Ozone Secretariat"
+        },
+        {
+          "title": "Kigali Amendment (Official Text)",
+          "url": "https://ozone.unep.org/treaties/montreal-protocol/amendments/kigali-amendment-2016-amendment-montreal-protocol-substances",
+          "type": "article",
+          "description": "HFC phasedown"
+        },
+        {
+          "title": "WMO Scientific Assessment of Ozone Depletion 2022—Executive Summary",
+          "url": "https://library.wmo.int/records/item/63400-scientific-assessment-of-ozone-depletion-2022-executive-summary",
+          "type": "article",
+          "description": "Latest assessment"
+        },
+        {
+          "title": "NOAA: Twenty Questions & Answers About the Ozone Layer (2022)",
+          "url": "https://csl.noaa.gov/assessments/ozone/2022/twentyquestions/",
+          "type": "article",
+          "description": "Accessible chemistry primer"
+        }
+      ],
+      "importance": "high",
+      "category": "Air Pollution, Ozone Depletion & Smog",
+      "topics": ["Ozone Depletion", "Montreal Protocol", "Kigali Amendment", "CFCs"]
+    },
+    {
+      "id": "11",
+      "title": "Air Pollution & Smog—Formation, Pollutants, Control Policies",
+      "content": "Criteria air pollutants and their sources (PM, O₃, NO₂, SO₂, CO, Pb). Photochemical smog forms via VOC + NOx under sunlight producing ozone and secondary aerosols. Control levers: fuel/vehicle standards, industrial emissions controls, crop-residue management, congestion/transport measures, and incentives/fines.",
+      "keyTakeaways": [
+        "Address precursors (NOx/VOC) to reduce ozone/smog.",
+        "Combine regulatory standards with economic instruments.",
+        "Meteorology (inversions) strongly modulates episodes."
+      ],
+      "resources": [
+        {
+          "title": "Common Air Pollutants (EPA)",
+          "url": "https://www.epa.gov/criteria-air-pollutants",
+          "type": "article",
+          "description": "Criteria pollutants overview"
+        },
+        {
+          "title": "VOCs & Smog (Hong Kong EPD explainer)",
+          "url": "https://www.epd.gov.hk/epd/english/environmentinhk/air/prob_solutions/vocs_smog.html",
+          "type": "article",
+          "description": "Clear primer on photochemical smog"
+        }
+      ],
+      "importance": "high",
+      "category": "Air Pollution, Ozone Depletion & Smog",
+      "topics": ["Air Pollution", "Smog Formation", "Criteria Pollutants", "Control Strategies"]
+    },
+    {
+      "id": "12",
+      "title": "Hazardous Waste—Definitions, Classification & CERCLA/Superfund",
+      "content": "Hazardous waste identification under RCRA (listed, characteristic—ignitability, corrosivity, reactivity, toxicity). CERCLA (Superfund) governs cleanup of contaminated sites and liability.",
+      "keyTakeaways": [
+        "Know RCRA vs CERCLA roles; cradle-to-grave vs cleanup.",
+        "Classification informs handling, storage, transport & disposal.",
+        "Public participation is integral at Superfund sites."
+      ],
+      "resources": [
+        {
+          "title": "Hazardous Waste Identification (EPA RCRA overview)",
+          "url": "https://www.epa.gov/hw/learn-basics-hazardous-waste",
+          "type": "article",
+          "description": "Generation & classification basics"
+        },
+        {
+          "title": "Overview of Superfund (CERCLA) (EPA)",
+          "url": "https://www.epa.gov/superfund/what-superfund",
+          "type": "article",
+          "description": "Purpose & process"
+        }
+      ],
+      "importance": "high",
+      "category": "Hazardous Waste & Toxic Substances",
+      "topics": ["Hazardous Waste", "RCRA", "CERCLA", "Superfund"]
+    },
+    {
+      "id": "13",
+      "title": "EIA vs IEE (Pakistan) & When to Start an EIA",
+      "content": "Initial Environmental Examination (IEE) applies to smaller projects with limited impacts; full Environmental Impact Assessment (EIA) for projects with significant adverse impacts. In the project cycle, EIA should begin at pre-feasibility/feasibility (screening) so that alternatives and mitigation can shape design.",
+      "keyTakeaways": [
+        "Screening determines IEE vs EIA; scoping engages stakeholders.",
+        "Baseline studies precede impact prediction & mitigation planning.",
+        "EIA informs decision-making before licensing and includes monitoring plans."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan IEE/EIA Regulations (2000) – Overview Page",
+          "url": "https://environment.gov.pk/Detail/NmE1ZmU0NzgtMjUxYS00ZDliLWI4MGMtMjQzZGM0M2JhNDk2",
+          "type": "article",
+          "description": "Pak-EPA regs portal"
+        },
+        {
+          "title": "IAIA: Best Practice Principles of EIA",
+          "url": "https://iaia.org/wp-content/uploads/2025/02/BEST-PRACTICE-Principles-of-EIA.pdf",
+          "type": "pdf",
+          "description": "International best practice"
+        },
+        {
+          "title": "IISD: EIA—7 Steps (Screening → Monitoring)",
+          "url": "https://www.iisd.org/learning/eia/eia-7-steps/",
+          "type": "article",
+          "description": "Concise stepwise guide"
+        }
+      ],
+      "importance": "high",
+      "category": "Environmental Impact Assessment (EIA) & Public Participation",
+      "topics": ["EIA", "IEE", "Pakistan Regulations", "Project Cycle"]
+    },
+    {
+      "id": "14",
+      "title": "Public Participation in EIA & SEA—Principles and Practice",
+      "content": "Effective participation improves legitimacy and outcomes: inclusive access, early engagement (screening/scoping), transparent information, and feedback loops into follow-up/monitoring.",
+      "keyTakeaways": [
+        "Design participation to be timely, representative, and iterative.",
+        "SEA complements EIA at policy/plan level; both require PP.",
+        "Transboundary projects need special PP procedures."
+      ],
+      "resources": [
+        {
+          "title": "IAIA Public Participation—Best Practice",
+          "url": "https://iaia.org/wp-content/uploads/2025/02/BEST-PRACTICE-Public-Participation.pdf",
+          "type": "pdf",
+          "description": "Core PP principles"
+        },
+        {
+          "title": "IAIA: PP in IA Follow-up (2023)",
+          "url": "https://iaia.org/wp-content/uploads/2025/02/BEST-PRACTICE-Public-participation-in-IA-Follow-up.pdf",
+          "type": "pdf",
+          "description": "Stakeholder roles post-approval"
+        },
+        {
+          "title": "UNECE Guidance on Public Participation in EIA (Transboundary)",
+          "url": "https://unece.org/environment-policy/publications/guidance-public-participation-eia-transboundary-context",
+          "type": "article",
+          "description": "Espoo Convention guidance"
+        }
+      ],
+      "importance": "high",
+      "category": "Environmental Impact Assessment (EIA) & Public Participation",
+      "topics": ["Public Participation", "SEA", "Stakeholder Engagement", "Transboundary EIA"]
+    },
+    {
+      "id": "15",
+      "title": "Wastewater—Key Physico-Chemical Parameters & Treatment Trains",
+      "content": "Core parameters: pH, temperature, TSS/TDS, BOD/COD, nutrients (N, P), pathogens, metals, priority organics. Typical treatment: preliminary → primary → secondary (biological) → tertiary/advanced (nutrient removal, disinfection).",
+      "keyTakeaways": [
+        "BOD/COD relate to organic load; TSS to settleable solids.",
+        "Select processes by influent characteristics and discharge/reuse standard.",
+        "Sludge handling (thickening, digestion, dewatering) is integral."
+      ],
+      "resources": [
+        {
+          "title": "EPA Wastewater Technology Fact Sheets (Index)",
+          "url": "https://www.epa.gov/eg/wastewater-technology-fact-sheets",
+          "type": "article",
+          "description": "Unit processes & design notes"
+        },
+        {
+          "title": "WHO Guidelines—Safe Use of Wastewater (Vol. 1)",
+          "url": "https://www.who.int/water_sanitation_health/wastewater/gwwuvol1/en/",
+          "type": "article",
+          "description": "Health-protective framework"
+        }
+      ],
+      "importance": "high",
+      "category": "Wastewater, Solid & Hospital Waste Management",
+      "topics": ["Wastewater Treatment", "BOD/COD", "Treatment Processes", "Sludge Management"]
+    },
+    {
+      "id": "16",
+      "title": "Solid Waste—Sustainable Management & Global Trends",
+      "content": "Integrated SWM hierarchy: reduce → reuse → recycle/compost → energy recovery → sanitary landfill. Urbanization drives rising waste; policy, finance, and behavior change are critical.",
+      "keyTakeaways": [
+        "Plan whole-system solutions (collection, segregation, markets).",
+        "Compost/AD for organics; EPR for packaging; sanitary landfills for residuals.",
+        "Leverage data from What a Waste 2.0 for benchmarking."
+      ],
+      "resources": [
+        {
+          "title": "World Bank: What a Waste 2.0 (Full Report PDF)",
+          "url": "https://documents1.worldbank.org/curated/en/697271544470229584/pdf/What-a-Waste-2-0-A-Global-Snapshot-of-Solid-Waste-Management-to-2050.pdf",
+          "type": "pdf",
+          "description": "Authoritative global data"
+        },
+        {
+          "title": "What a Waste 2.0—Data Portal",
+          "url": "https://datatopics.worldbank.org/what-a-waste/",
+          "type": "database",
+          "description": "Interactive country/city data"
+        }
+      ],
+      "importance": "high",
+      "category": "Wastewater, Solid & Hospital Waste Management",
+      "topics": ["Solid Waste Management", "Waste Hierarchy", "EPR", "Circular Economy"]
+    },
+    {
+      "id": "17",
+      "title": "Hospital Waste—Pakistan Rules & Practice",
+      "content": "Hospital Waste Management Rules (2005) define responsibilities, segregation (color coding), storage, transport, treatment, and final disposal; provinces have additional rules/guides.",
+      "keyTakeaways": [
+        "Every hospital must implement a waste management plan.",
+        "Segregation at source is the foundation of safe handling.",
+        "Training, records, and audits are mandatory."
+      ],
+      "resources": [
+        {
+          "title": "Hospital Waste Management Rules, 2005 (Govt. of Pakistan)",
+          "url": "https://epd.punjab.gov.pk/system/files/hospital-waste-management-rules-2005-pdf.pdf",
+          "type": "pdf",
+          "description": "Official rules (Punjab EPD copy of federal rules)"
+        },
+        {
+          "title": "Rules, Regulations & NEQS (Pak-EPA portal)",
+          "url": "https://environment.gov.pk/Detail/MDUzMDI1OGItYWYzZC00NzQ0LTlhZWItZjYzY2RkOTkyZGVh",
+          "type": "article",
+          "description": "Central repository"
+        }
+      ],
+      "importance": "medium",
+      "category": "Wastewater, Solid & Hospital Waste Management",
+      "topics": ["Hospital Waste", "Medical Waste", "Color Coding", "Pakistan Rules"]
+    },
+    {
+      "id": "18",
+      "title": "Energy & CDM—Outcomes and Lessons",
+      "content": "Alternative/renewable energy reduces emissions and co-pollutants. The CDM catalyzed thousands of projects (renewables, industrial gases, methane). Lessons on additionality, monitoring, and sustainable-development co-benefits inform current carbon markets.",
+      "keyTakeaways": [
+        "Project-based mechanisms need robust MRV and safeguards.",
+        "Renewables and efficiency often deliver strong co-benefits.",
+        "Today's Article 6 markets build on CDM experience."
+      ],
+      "resources": [
+        {
+          "title": "UNFCCC: Clean Development Mechanism (About)",
+          "url": "https://cdm.unfccc.int/about/index.html",
+          "type": "article",
+          "description": "Mechanism overview & stats"
+        }
+      ],
+      "importance": "medium",
+      "category": "Energy Resources & Clean Development Mechanism (CDM)",
+      "topics": ["CDM", "Renewable Energy", "Carbon Markets", "Article 6"]
+    },
+    {
+      "id": "19",
+      "title": "Eutrophication—Drivers, Impacts & Control",
+      "content": "Excess nutrients (N, P) → algal blooms → hypoxia/anoxia, fish kills, toxin production. Sources: agriculture runoff, sewage, detergents. Control: nutrient source reduction, tertiary treatment, riparian buffers, watershed management.",
+      "keyTakeaways": [
+        "Differentiate natural vs cultural eutrophication.",
+        "Manage at watershed scale; monitor chlorophyll, DO, nutrients.",
+        "Balance point-source and diffuse controls."
+      ],
+      "resources": [
+        {
+          "title": "EPA: Nutrient Pollution & Eutrophication",
+          "url": "https://www.epa.gov/nutrient-policy-data/what-eutrophication",
+          "type": "article",
+          "description": "Plain-language overview"
+        },
+        {
+          "title": "NOAA: What is eutrophication?",
+          "url": "https://oceanservice.noaa.gov/facts/eutrophication.html",
+          "type": "article",
+          "description": "Concise explainer"
+        }
+      ],
+      "importance": "high",
+      "category": "Water Resources & National Policies",
+      "topics": ["Eutrophication", "Nutrient Pollution", "Algal Blooms", "Watershed Management"]
+    },
+    {
+      "id": "20",
+      "title": "Bioremediation & Anaerobic Digestion (AD) for Biogas",
+      "content": "Bioremediation employs microbes/plants to degrade, transform, or immobilize contaminants in soil/groundwater (in-situ/ex-situ). Anaerobic digestion stages—hydrolysis, acidogenesis, acetogenesis, methanogenesis—convert organics to biogas and digestate.",
+      "keyTakeaways": [
+        "Match bioremediation strategy to contaminant/matrix and site hydrogeology.",
+        "AD reduces waste volume and yields energy + soil amendments.",
+        "Monitoring (redox, VOCs, methane yield) is essential."
+      ],
+      "resources": [
+        {
+          "title": "EPA CLU-IN: Bioremediation Overview",
+          "url": "https://clu-in.org/contaminantfocus/default.focus/sec/Bioremediation/",
+          "type": "article",
+          "description": "Tech overview & case studies"
+        },
+        {
+          "title": "EPA AgSTAR: Anaerobic Digestion Basics",
+          "url": "https://www.epa.gov/agstar/anaerobic-digestion-basics",
+          "type": "article",
+          "description": "Process steps & benefits"
+        }
+      ],
+      "importance": "medium",
+      "category": "Bioremediation, Anaerobic Treatment & Environmental Geology",
+      "topics": ["Bioremediation", "Anaerobic Digestion", "Biogas", "Contaminated Sites"]
+    },
+    {
+      "id": "21",
+      "title": "Biodiversity, Wetlands & Ramsar—Pakistan Focus",
+      "content": "Biodiversity has instrumental (ecosystem services) and intrinsic value. Drivers of loss: habitat change, invasive species, overexploitation, pollution, climate change. Wetlands are critical for water regulation, habitat, and disaster risk reduction; Ramsar lists sites of international importance (Pakistan has multiple sites).",
+      "keyTakeaways": [
+        "Conservation mixes protected areas, sustainable use, and restoration.",
+        "Wetland management plans must be participatory and adaptive.",
+        "Mainstream biodiversity into sectors (agri, water, urban)."
+      ],
+      "resources": [
+        {
+          "title": "Ramsar—Countries & Sites (Pakistan listing)",
+          "url": "https://www.ramsar.org/country/pakistan",
+          "type": "article",
+          "description": "Official Ramsar site list & factsheets"
+        }
+      ],
+      "importance": "high",
+      "category": "Biodiversity, Wetlands & Ecosystem Health",
+      "topics": ["Biodiversity", "Wetlands", "Ramsar Sites", "Ecosystem Services"]
+    },
+    {
+      "id": "22",
+      "title": "Legal Foundations—Pakistan Environmental Protection Act (1997) & EIA Baseline",
+      "content": "PEPA 1997 establishes the legal basis for environmental protection, federal–provincial institutions, NEQS, and EIA requirements. Baseline studies in EIA capture existing environmental and social conditions (air, water, soil, biodiversity, land use, noise, socioeconomics) to compare project impacts against current state.",
+      "keyTakeaways": [
+        "Cite PEPA sections when framing compliance answers.",
+        "Baseline defines significance of impacts and mitigation priorities.",
+        "Monitoring & reporting are legal obligations post-approval."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Environmental Laws Compendium (incl. PEPA 1997)",
+          "url": "https://ljcp.gov.pk/SiteImage/Misc/files/Environmental%20Laws%20Compendium.pdf",
+          "type": "pdf",
+          "description": "Compiled official texts"
+        },
+        {
+          "title": "CBD/IAIA Training: EIA Steps & Baseline",
+          "url": "https://www.cbd.int/marine/soi/soi-training-modules/SOI-module-EIA_Training-Guide-en.pdf",
+          "type": "pdf",
+          "description": "Stepwise EIA incl. baseline guidance"
+        }
+      ],
+      "importance": "high",
+      "category": "Environmental Impact Assessment (EIA) & Public Participation",
+      "topics": ["PEPA 1997", "Environmental Law", "EIA Baseline", "NEQS"]
+    }
+  ]
+}

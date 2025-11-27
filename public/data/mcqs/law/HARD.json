@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:49:55.788Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "cf289a3f4ab1dc678e0c5f1f7d4fa1f16476ecd1",
+      "sectionIndex": 0,
+      "question": "In a suit where A sues B for property possession, B's claim that he holds for C (not party to suit) constitutes:",
+      "options": [
+        "A) Res judicata",
+        "B) Constructive res judicata",
+        "C) Jus tertii",
+        "D) Lis pendens"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8162d1818cbda3e992c43fe4dcf72e3a6724e8cd",
+      "sectionIndex": 0,
+      "question": "When decree-holder discovers judgment-debtor's property was fraudulently transferred, the appropriate remedy is:",
+      "options": [
+        "A) Fresh suit for declaration",
+        "B) Execution application under Order 21 Rule 66",
+        "C) Review application",
+        "D) Criminal complaint only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "899a6ac870d7aadaab00a304f857329fea71bce5",
+      "sectionIndex": 0,
+      "question": "If High Court passes decree beyond pecuniary jurisdiction but parties don't object, the decree is:",
+      "options": [
+        "A) Void ab initio",
+        "B) Voidable at instance of parties",
+        "C) Valid due to acquiescence",
+        "D) Automatically reversed"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8333feb6d69c8afb15911c6cfbb1a755108fb061",
+      "sectionIndex": 0,
+      "question": "Order 2 Rule 2 CPC bars subsequent suit on:",
+      "options": [
+        "A) Different cause of action",
+        "B) Omitted ground from same cause",
+        "C) New facts arising later",
+        "D) Continuing cause of action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a02ee3cac9d9e265169642d6346a38bc803abe6d",
+      "sectionIndex": 0,
+      "question": "In computing limitation for appeal, time taken for obtaining certified copy is excluded under:",
+      "options": [
+        "A) Section 12 Limitation Act",
+        "B) Section 5 Limitation Act",
+        "C) Section 14 Limitation Act",
+        "D) Not excluded"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4eb8d73a901b66f7b9147e23a1127265b7957fa8",
+      "sectionIndex": 0,
+      "question": "Garnishee order under Order 21 Rule 46 creates relationship of:",
+      "options": [
+        "A) Creditor-debtor between court and garnishee",
+        "B) Trust between garnishee and judgment-debtor",
+        "C) Agency between decree-holder and garnishee",
+        "D) Attachment preventing garnishee from paying judgment-debtor"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "fef020bf4bdd922c5b4beef3be9714e7ea74c4d9",
+      "sectionIndex": 0,
+      "question": "When plaint doesn't disclose cause of action but defendant doesn't raise objection and contests on merits:",
+      "options": [
+        "A) Suit must fail",
+        "B) Defect cured by waiver",
+        "C) Court must reject suo moto",
+        "D) Revision lies to High Court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "708d89782c7b6e4e197589f427dc8cc496af3ea1",
+      "sectionIndex": 0,
+      "question": "Principles of res judicata apply to execution proceedings when:",
+      "options": [
+        "A) Never apply",
+        "B) Questions decided in earlier execution",
+        "C) Only between decree-holder and judgment-debtor",
+        "D) Fresh execution after 3 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b83bed090a59939fb4280ff1f7475a006dc8927",
+      "sectionIndex": 0,
+      "question": "Order 23 Rule 1 withdrawal differs from abandonment in:",
+      "options": [
+        "A) Permission required vs unilateral act",
+        "B) Costs consequences",
+        "C) Future suit barred differently",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7a3334f553ed7629f4de8d5e5353016324d59c5a",
+      "sectionIndex": 0,
+      "question": "Abatement of suit doesn't occur when:",
+      "options": [
+        "A) Sole plaintiff dies",
+        "B) One of several defendants dies",
+        "C) Cause of action survives",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0ccd1aa95c458df7e4b5e6ffdafc64db01a78d0a",
+      "sectionIndex": 1,
+      "question": "A agrees to pay B Rs.10,000 if B's house burns. B's house burns due to B's negligence. The contract is:",
+      "options": [
+        "A) Void as wagering",
+        "B) Valid insurance contract",
+        "C) Voidable at A's option",
+        "D) Frustrated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d1cd6a22b9c3cc3181f3dd9d61cdf315e808cd6",
+      "sectionIndex": 1,
+      "question": "A promises B to drop prosecution against B for robbery. The agreement is:",
+      "options": [
+        "A) Valid if consideration present",
+        "B) Void under Section 23",
+        "C) Voidable",
+        "D) Valid compromise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab816ba47846a303e8f696a2d0a6f0096b094795",
+      "sectionIndex": 1,
+      "question": "Parda-nashin lady's contract is presumed influenced unless:",
+      "options": [
+        "A) Written form",
+        "B) Independent advice proved",
+        "C) Husband consents",
+        "D) Court approves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "221bcab3ab60b71010f4e1bc283ecd111c852c02",
+      "sectionIndex": 1,
+      "question": "Section 74 Contract Act on liquidated damages:",
+      "options": [
+        "A) Allows full stipulated amount",
+        "B) Requires proof of actual loss",
+        "C) Reasonable compensation not exceeding stipulated",
+        "D) Punitive damages permitted"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "935a47efdb193feb8d74743eb5a73f511359712d",
+      "sectionIndex": 1,
+      "question": "A contracts to marry B. Before time fixed, A marries C. B can claim:",
+      "options": [
+        "A) Specific performance",
+        "B) Damages for breach",
+        "C) Both A and B",
+        "D) No remedy in contract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a7e0e00157fc7876c1bab6b305cd1473416bbfb",
+      "sectionIndex": 1,
+      "question": "Hadley v Baxendale rule limits damages to:",
+      "options": [
+        "A) All losses flowing from breach",
+        "B) Losses in reasonable contemplation",
+        "C) Actual losses only",
+        "D) Liquidated amount"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "959f68359c9910a560187072afb5e4393bf536d2",
+      "sectionIndex": 1,
+      "question": "When time is essence of contract, delay results in:",
+      "options": [
+        "A) Automatic termination",
+        "B) Right to terminate",
+        "C) Damages only",
+        "D) Extended time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5e635ccb94c5328bd39c1301985410c09f46b13",
+      "sectionIndex": 1,
+      "question": "Carlill v Carbolic Smoke Ball established:",
+      "options": [
+        "A) Invitation to treat",
+        "B) Unilateral contract to world",
+        "C) Wagering agreement",
+        "D) Conditional gift"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa121fbc796005ac7f470d9bb5aa4557fe10ca9d",
+      "sectionIndex": 1,
+      "question": "Doctrine of privity prevents:",
+      "options": [
+        "A) Assignment of rights",
+        "B) Third party enforcement",
+        "C) Agency contracts",
+        "D) Trust beneficiaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89305e65c02cdfcd8fe1615696a72e9b2106ae6e",
+      "sectionIndex": 1,
+      "question": "Quantum meruit applies when:",
+      "options": [
+        "A) Express contract exists",
+        "B) Contract void but work done",
+        "C) Damages inadequate",
+        "D) Specific performance available"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1eaa2d67a5a34d827f00640e7d698723ba7dc782",
+      "sectionIndex": 2,
+      "question": "In Donoghue v Stevenson, Lord Atkin's neighbour principle established:",
+      "options": [
+        "A) Strict liability",
+        "B) Duty of care to foreseeable victims",
+        "C) Res ipsa loquitur",
+        "D) Absolute liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f31f17e6a3530cf03002b1b10380c007ac42724b",
+      "sectionIndex": 2,
+      "question": "Bolton v Stone principle regarding cricket ball hitting plaintiff establishes:",
+      "options": [
+        "A) Strict liability for dangerous sports",
+        "B) No liability if risk remote",
+        "C) Assumption of risk",
+        "D) Contributory negligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "048785fc58a8c0a318dd96f846a38bb68c6c5c5e",
+      "sectionIndex": 2,
+      "question": "Ryland v Fletcher doesn't apply when:",
+      "options": [
+        "A) Natural use of land",
+        "B) Escape due to vis major",
+        "C) Statutory authority",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0b58863ec205ddbac7e3aad9875312c01685fa48",
+      "sectionIndex": 2,
+      "question": "Nervous shock claims require:",
+      "options": [
+        "A) Physical impact",
+        "B) Recognized psychiatric illness",
+        "C) Direct witnessing only",
+        "D) Family relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "025833ac35a481650d28fdbce95ed55b4bcd0d83",
+      "sectionIndex": 2,
+      "question": "Volenti doctrine failed in Smith v Baker because:",
+      "options": [
+        "A) Minor involved",
+        "B) Mere knowledge isn't consent to risk",
+        "C) Employer-employee relationship",
+        "D) Statutory duty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0443ff1198c66d418d479b3f82824ec922bd7b4",
+      "sectionIndex": 2,
+      "question": "In defamation, Sim v Stretch defined defamatory as lowering plaintiff in estimation of:",
+      "options": [
+        "A) All society",
+        "B) Right-thinking members",
+        "C) Plaintiff's peers",
+        "D) Reasonable person"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e5d2295a7745338ac71cdef79c1f8d22888a95b",
+      "sectionIndex": 2,
+      "question": "Rookes v Barnard established exemplary damages available when:",
+      "options": [
+        "A) Any tort",
+        "B) Oppressive governmental action",
+        "C) Profit from tort",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "865300b8940f9a9fedbb2dccea18843e0a9cd643",
+      "sectionIndex": 2,
+      "question": "Pure economic loss is recoverable in negligence when:",
+      "options": [
+        "A) Always",
+        "B) Never",
+        "C) Special relationship exists",
+        "D) Large amount"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "712626bc8641ca3dd02a125eaefa2c125a91ddd3",
+      "sectionIndex": 2,
+      "question": "The but-for test is displaced by material contribution test when:",
+      "options": [
+        "A) Multiple causes",
+        "B) Single clear cause",
+        "C) No causation",
+        "D) Statutory liability"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "acf9afd63e37cf2b82f3bf8ad03ba6dcda4c6ed0",
+      "sectionIndex": 2,
+      "question": "Caparo Industries v Dickman three-fold test requires:",
+      "options": [
+        "A) Foreseeability only",
+        "B) Proximity only",
+        "C) Fair, just, reasonable only",
+        "D) All three elements"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ca69963d06d0d565bc3f8fbc0672a8f5bf1677cb",
+      "sectionIndex": 3,
+      "question": "When investigating officer's opinion in case diary contradicts his court testimony:",
+      "options": [
+        "A) Diary prevails",
+        "B) Can be confronted under Section 172",
+        "C) Cannot be used at all",
+        "D) Treated as evidence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a98a7cc9a6a6caae1f4cebc34a79609f2b80a56c",
+      "sectionIndex": 3,
+      "question": "Confession before police followed by recovery of weapon is admissible to extent of:",
+      "options": [
+        "A) Entire confession",
+        "B) Recovery fact only",
+        "C) Information leading to discovery",
+        "D) Nothing admissible"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c7b8083886850774a5e4ce0b47eae2dc7211b85e",
+      "sectionIndex": 3,
+      "question": "Section 319 CrPC power to proceed against non-accused requires:",
+      "options": [
+        "A) Fresh FIR",
+        "B) Evidence during trial",
+        "C) Prosecution application",
+        "D) Preliminary inquiry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f4e7efe210b6ca69ba79872100accf0702ed29b",
+      "sectionIndex": 3,
+      "question": "In warrant trial, if charge framing order passed without supplying documents:",
+      "options": [
+        "A) Proceedings void",
+        "B) Curable under Section 465",
+        "C) Depends on prejudice",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b54cb053469a82a0388b5599bfb98ea5ffd283ae",
+      "sectionIndex": 3,
+      "question": "Magistrate taking cognizance under Section 190(1)(c) on own knowledge:",
+      "options": [
+        "A) Can't try case",
+        "B) Must record reasons",
+        "C) Becomes witness",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "364a2b61809332d29931002e906e3051a006c01f",
+      "sectionIndex": 3,
+      "question": "Section 311 CrPC power to summon witnesses is:",
+      "options": [
+        "A) Limited to prosecution/defence list",
+        "B) For discovering truth",
+        "C) Only before arguments",
+        "D) With party consent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "479e256106ffb2b59dc31859197933dce451662e",
+      "sectionIndex": 3,
+      "question": "When multiple FIRs filed for same occurrence:",
+      "options": [
+        "A) All must be investigated",
+        "B) First prevails",
+        "C) Counter-FIR prohibited",
+        "D) Court decides which valid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b74ee164d362ac8cd1f371a79c258b1756d6973",
+      "sectionIndex": 3,
+      "question": "Anticipatory bail under Section 438 operates:",
+      "options": [
+        "A) Till regular bail",
+        "B) Till chargesheet",
+        "C) As per court's order",
+        "D) Till trial ends"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "35eb06784c175fa28582c84d5d27f8c8d6ed97cf",
+      "sectionIndex": 3,
+      "question": "Victim's right to appeal acquittal requires:",
+      "options": [
+        "A) State support",
+        "B) Leave of court",
+        "C) Special law provision",
+        "D) No specific requirement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a89621f0cac3c9453fe0703f314ccb560fccd81c",
+      "sectionIndex": 3,
+      "question": "Section 482 can't be invoked to:",
+      "options": [
+        "A) Quash inherently defective proceedings",
+        "B) Convert findings of fact",
+        "C) Prevent abuse of process",
+        "D) Secure ends of justice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b14fe1214646ad3704c6f6adfb0e1ec35689569",
+      "sectionIndex": 4,
+      "question": "A intends to kill B, shoots at B but kills C whom A didn't see. This is murder of C under:",
+      "options": [
+        "A) Transferred malice",
+        "B) Knowledge",
+        "C) Constructive intent",
+        "D) Section 301"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0fdc5504648734c50cbc8b87e5141281d49d6baa",
+      "sectionIndex": 4,
+      "question": "Right of private defence against insane person:",
+      "options": [
+        "A) Not available",
+        "B) Available with restraint",
+        "C) Full force permitted",
+        "D) Only escape allowed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e701fb512d1fb606a6d98b7d4733ce21c1a07f95",
+      "sectionIndex": 4,
+      "question": "A instigates B to burn C's house. B sets fire but it's extinguished. A is guilty of:",
+      "options": [
+        "A) No offence",
+        "B) Abetment of mischief",
+        "C) Criminal conspiracy",
+        "D) Attempt to mischief"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83fb34ccf1e61cf4df5d07b123ebce7ece288755",
+      "sectionIndex": 4,
+      "question": "Distinction between Section 34 and 149 IPC is:",
+      "options": [
+        "A) Number of persons",
+        "B) Common intention vs object",
+        "C) Prior meeting of minds",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ec322b474403a6b6f7efc9401fbc00f9be810e8c",
+      "sectionIndex": 4,
+      "question": "A makes false entry in register kept under law. This constitutes:",
+      "options": [
+        "A) Cheating",
+        "B) Forgery",
+        "C) Falsification of accounts",
+        "D) Criminal breach of trust"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5d8b32e0615b3f7b35853e0cbda33fb99f195b87",
+      "sectionIndex": 4,
+      "question": "Hurt becomes grievous hurt when:",
+      "options": [
+        "A) Hospitalization required",
+        "B) Designated injuries in Section 320",
+        "C) Permanent damage",
+        "D) Multiple injuries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64babda4c3f7f42a436826dd97b74f4e966dc6a8",
+      "sectionIndex": 4,
+      "question": "A puts jewels into B's pocket intending to fix theft on B. A commits:",
+      "options": [
+        "A) Theft",
+        "B) No offence",
+        "C) Section 120B",
+        "D) Mischief"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0025beffbbc8dd02987e379b624142eaf94dfbd",
+      "sectionIndex": 4,
+      "question": "In joint liability under Section 34, presence at scene:",
+      "options": [
+        "A) Essential",
+        "B) Not required if common intention",
+        "C) Presumed from act",
+        "D) Question of fact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03a4ce88c07467ff7cecf155225750b9a984a4ba",
+      "sectionIndex": 4,
+      "question": "Preparation distinguished from attempt when:",
+      "options": [
+        "A) Proximate to commission",
+        "B) Impossible to retreat",
+        "C) Unequivocal act",
+        "D) All indicate attempt"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a4b113d77543250a37224497eaf0a30b9004bab9",
+      "sectionIndex": 4,
+      "question": "McNaughten rules for insanity require accused to prove:",
+      "options": [
+        "A) Mental disease",
+        "B) Didn't know act wrong",
+        "C) Both A and B",
+        "D) Medical certificate"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ab6413186c5a6b469cfc3e97054230ba07c58b27",
+      "sectionIndex": 5,
+      "question": "When accused's statement under Section 342 CrPC admits incriminating facts but offers explanation:",
+      "options": [
+        "A) Whole must be accepted/rejected",
+        "B) Court can accept part",
+        "C) Explanation presumed true",
+        "D) Requires corroboration"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "27d2712a38ba37c4c00bdb6b0bebbfaa7517a02f",
+      "sectionIndex": 5,
+      "question": "Section 106 Evidence Act shifting burden applies when:",
+      "options": [
+        "A) All criminal cases",
+        "B) Facts specially within accused's knowledge",
+        "C) Prosecution fails",
+        "D) Death cases only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b9d3f644484c754de18c29731eafbb43e6e188e",
+      "sectionIndex": 5,
+      "question": "Tape-recorded conversation is admissible when:",
+      "options": [
+        "A) Always as document",
+        "B) Voice identified and relevant",
+        "C) Original produced",
+        "D) All conditions met"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "4876c589097abb4c2617eacb111632fb10273beb",
+      "sectionIndex": 5,
+      "question": "Previous statement of witness can be used:",
+      "options": [
+        "A) As substantive evidence",
+        "B) For contradiction only",
+        "C) To corroborate with leave",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6c77bad48d5176169e19e6030ff383343173b790",
+      "sectionIndex": 5,
+      "question": "Section 32(1) dying declaration admissible even if:",
+      "options": [
+        "A) Declarant survives",
+        "B) Not expecting death",
+        "C) About property dispute",
+        "D) Incomplete statement"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "df781980beee090b3cfc53205a6d8eba7c0905e9",
+      "sectionIndex": 5,
+      "question": "Presumption under Section 114 illustration (g) regarding accomplice:",
+      "options": [
+        "A) Irrebuttable",
+        "B) Rebuttable requiring corroboration",
+        "C) Rule of law",
+        "D) Not applicable to approver"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1439fa9c589e18a51f7694a64ef586ef12560bef",
+      "sectionIndex": 5,
+      "question": "DNA evidence is admissible under:",
+      "options": [
+        "A) Section 45 as expert opinion",
+        "B) Section 9 as explanatory fact",
+        "C) Section 59 requiring oral evidence",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "267363523157400ed55fbf4c06d513434e148f58",
+      "sectionIndex": 5,
+      "question": "Test identification parade evidentiary value:",
+      "options": [
+        "A) Substantive evidence",
+        "B) Corroborative only",
+        "C) Mandatory requirement",
+        "D) Conclusive proof"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77713cb4aeb7005f82b82453df8e1d1b452714a7",
+      "sectionIndex": 5,
+      "question": "Hostile witness examination permits:",
+      "options": [
+        "A) Leading questions only",
+        "B) Cross-examination by party calling",
+        "C) Impeaching credit",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "559a2928bfec77ddb3995f73037cab6223416426",
+      "sectionIndex": 5,
+      "question": "Electronic evidence under Section 65B requires:",
+      "options": [
+        "A) Original device",
+        "B) Certificate of authenticity",
+        "C) Expert testimony",
+        "D) All requirements vary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af5b3fe45c4244a9583db3cb4f11be5f68f5ee34",
+      "sectionIndex": 6,
+      "question": "When arbitration clause exists but suit filed, court must:",
+      "options": [
+        "A) Dismiss suit",
+        "B) Stay proceedings if applied before statement on substance",
+        "C) Decide jurisdiction first",
+        "D) Refer automatically"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "897890f339435b50e1c058e3c2983f0f26dc8e88",
+      "sectionIndex": 6,
+      "question": "Arbitrator exceeding jurisdiction renders award:",
+      "options": [
+        "A) Wholly void",
+        "B) Severable if possible",
+        "C) Voidable at option",
+        "D) Subject to correction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98efa225d0bbdb4e12b50688295fdd4b3b7448e3",
+      "sectionIndex": 6,
+      "question": "In international commercial arbitration, public policy means:",
+      "options": [
+        "A) Domestic public policy",
+        "B) International public policy",
+        "C) Basic notions of justice",
+        "D) Forum state's law"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a9b04a5260af179c4bca4050c72a951e96f6a7ef",
+      "sectionIndex": 6,
+      "question": "Konkola Copper Mines principle on arbitrator removal requires:",
+      "options": [
+        "A) Actual bias proved",
+        "B) Real danger of bias",
+        "C) Appearance sufficient",
+        "D) Criminal conduct"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c347984fb5541917ede254d70367d05d98733cd0",
+      "sectionIndex": 6,
+      "question": "When main contract void for incapacity, arbitration clause:",
+      "options": [
+        "A) Also void",
+        "B) Survives if separable",
+        "C) Requires fresh agreement",
+        "D) Court decides validity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7862cc8edaa4d95dd187914d11166208ef700eed",
+      "sectionIndex": 6,
+      "question": "Emergency arbitrator's order is:",
+      "options": [
+        "A) Final award",
+        "B) Interim measure",
+        "C) Not enforceable",
+        "D) Requires court confirmation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5df80f6bcd7c257a87e5b22c6b82c67fabef0ee",
+      "sectionIndex": 6,
+      "question": "Arbitrability excludes disputes relating to:",
+      "options": [
+        "A) All statutory rights",
+        "B) In rem rights generally",
+        "C) Criminal matters",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c4910fd08f324e74813db5334107f5e461eb7119",
+      "sectionIndex": 6,
+      "question": "BALCO judgment prospectively changed:",
+      "options": [
+        "A) Supervisory jurisdiction",
+        "B) Seat theory application",
+        "C) Part I applicability",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "12ae1e0d5d05e424cdccbd4afd52b5f82ce76eb0",
+      "sectionIndex": 6,
+      "question": "Section 11(6) appointment by Chief Justice is:",
+      "options": [
+        "A) Administrative",
+        "B) Judicial",
+        "C) Arbitrary",
+        "D) Delegable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b396edc36fcbe87717dd6bc5e626ae09a99044f",
+      "sectionIndex": 6,
+      "question": "Award-debtor's application under Section 34 after limitation with explanation:",
+      "options": [
+        "A) Court has discretion",
+        "B) Strict limitation applies",
+        "C) Section 5 Limitation Act applies",
+        "D) Depends on merit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02fc969e937b1b657aba7389858ddbde86eee6ca",
+      "sectionIndex": 7,
+      "question": "When court decree is passed by court without territorial jurisdiction but parties submit to it:",
+      "options": [
+        "A) Decree void",
+        "B) Decree valid by consent",
+        "C) Voidable at instance",
+        "D) Requires ratification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1248ca8c8063a333670ecb8c947fac0ae3206d28",
+      "sectionIndex": 7,
+      "question": "Fractional share decree-holder executing entire property must:",
+      "options": [
+        "A) Refund proportionate amount",
+        "B) Hold as trustee",
+        "C) Account to co-sharers",
+        "D) All apply"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "4b9f142c1ea5d74736a2e961fa81fc9beb3b3fda",
+      "sectionIndex": 7,
+      "question": "Caveat filed after institution but before service prevents:",
+      "options": [
+        "A) Proceedings",
+        "B) Ex-parte order only",
+        "C) Final decree",
+        "D) Execution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4d1c8c85b64a74a4f712a32e261d148060b1756",
+      "sectionIndex": 7,
+      "question": "Order 21 Rule 58 rateable distribution applies when:",
+      "options": [
+        "A) Multiple decree-holders",
+        "B) Assets insufficient",
+        "C) Before realization",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9000bed42c1cdaed02679d09afb0e865791c8aa5",
+      "sectionIndex": 7,
+      "question": "Foreign judgment merger doctrine means:",
+      "options": [
+        "A) Original cause extinguished",
+        "B) Can sue on original",
+        "C) Both remedies available",
+        "D) Fresh limitation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4377c3441069efdcce8f8291e693cdb07548a38b",
+      "sectionIndex": 7,
+      "question": "Letters Patent Appeal maintainability depends on:",
+      "options": [
+        "A) Value",
+        "B) Whether judgment by single judge",
+        "C) Subject matter",
+        "D) All factors"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "53c32325b6462f30cece97dcf36bfcc79fd94a73",
+      "sectionIndex": 7,
+      "question": "Group of companies doctrine in arbitration binds:",
+      "options": [
+        "A) Only signatories",
+        "B) Non-signatory affiliates in circumstances",
+        "C) Parent company always",
+        "D) Never non-parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "058e7b8494cc766d238ce7e687a948430411a56a",
+      "sectionIndex": 7,
+      "question": "Anti-suit injunction in international litigation requires:",
+      "options": [
+        "A) Vexatious proceedings",
+        "B) Forum non conveniens",
+        "C) Oppressive conduct",
+        "D) All may justify"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6da389718f4bcc08349cf4437527c6929d281c6f",
+      "sectionIndex": 7,
+      "question": "Protective costs order in public interest litigation:",
+      "options": [
+        "A) Mandatory",
+        "B) Discretionary on criteria",
+        "C) Not permissible",
+        "D) Only for poor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b9dfc0cf819e3b587c7e94fe2fbd788e3d1807b",
+      "sectionIndex": 7,
+      "question": "Restitution under Section 144 CPC includes:",
+      "options": [
+        "A) Principal amount only",
+        "B) Interest and damages",
+        "C) Mesne profits",
+        "D) All consequential"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a02cf16774036729504e81b7ab8018ee14d0c891",
+      "sectionIndex": 8,
+      "question": "Basic structure doctrine limits:",
+      "options": [
+        "A) Legislative power",
+        "B) Amendment power",
+        "C) Executive action",
+        "D) Judicial review"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d57b2a1570db44a4d1518cb440e0c9417c73482e",
+      "sectionIndex": 8,
+      "question": "Prospective overruling applies when:",
+      "options": [
+        "A) Criminal law",
+        "B) Reliance on precedent",
+        "C) Court discretion",
+        "D) Constitutional matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6be5b677300a7f93593414178e74a7a5971d720",
+      "sectionIndex": 8,
+      "question": "Curative petition after review dismissed lies when:",
+      "options": [
+        "A) Always available",
+        "B) Violation of natural justice",
+        "C) Abuse of process",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "40824d3670845e70e33e0c40943b204560a057c5",
+      "sectionIndex": 8,
+      "question": "Manifest arbitrariness test post-Shayara Bano requires:",
+      "options": [
+        "A) Reasonable classification",
+        "B) Capricious/irrational action",
+        "C) Procedural fairness",
+        "D) Proportionality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed3a80c9ad82d29770b4f3d26da78d8b07007c29",
+      "sectionIndex": 8,
+      "question": "Wednesbury unreasonableness means decision:",
+      "options": [
+        "A) Court disagrees",
+        "B) No reasonable authority would take",
+        "C) Lacks reasons",
+        "D) Procedurally unfair"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fab01eb46bea1f8829081447569162d8f1eb9cf",
+      "sectionIndex": 8,
+      "question": "Third-party rights in specific performance suit:",
+      "options": [
+        "A) Always protected",
+        "B) Subject to notice/bona fides",
+        "C) Never affected",
+        "D) Require intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83e67fcc2d20fc70bed297ac3c6217376e6d8f34",
+      "sectionIndex": 8,
+      "question": "Promissory estoppel against government requires:",
+      "options": [
+        "A) Statutory backing",
+        "B) Clear promise and detriment",
+        "C) Written assurance",
+        "D) Cabinet approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "392bacd1a43eeded752ace745c94d2f9d8bf63b3",
+      "sectionIndex": 8,
+      "question": "Double jeopardy protection doesn't apply when:",
+      "options": [
+        "A) Different offences",
+        "B) Same transaction",
+        "C) Higher court trial",
+        "D) Separate sovereigns"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4592a07caed3022e74dd256d35c9886680cacc26",
+      "sectionIndex": 8,
+      "question": "Epistolary jurisdiction allows:",
+      "options": [
+        "A) Email filing",
+        "B) Letter treated as petition",
+        "C) Informal procedures",
+        "D) Ex-parte orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5409a60ce4750f62d45bde4dd6823a405f704bd9",
+      "sectionIndex": 8,
+      "question": "Sub silentio precedent means:",
+      "options": [
+        "A) Binding authority",
+        "B) Not binding",
+        "C) Persuasive only",
+        "D) Overruled"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9923de7a6b00bd8c87b5589c7e3dddc7646f978",
+      "sectionIndex": 9,
+      "question": "Information under RTI Act excludes:",
+      "options": [
+        "A) All government records",
+        "B) Cabinet papers conditionally",
+        "C) Court records",
+        "D) Legislature proceedings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "118e7f2ff56e05998c42e34ba68233c87cde702c",
+      "sectionIndex": 9,
+      "question": "Clinical establishment liability under consumer law requires:",
+      "options": [
+        "A) Deficiency in service",
+        "B) Medical negligence",
+        "C) Either sufficient",
+        "D) Criminal intent"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "50456009566b6e551a3770579f5ff44449c2e9d9",
+      "sectionIndex": 9,
+      "question": "Insolvency moratorium doesn't stay:",
+      "options": [
+        "A) All proceedings",
+        "B) Personal guarantor proceedings",
+        "C) Criminal prosecution",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f408975884563c2aac37d8f6bfe424e1bddfe214",
+      "sectionIndex": 9,
+      "question": "Environmental clearance violation allows:",
+      "options": [
+        "A) Closure only",
+        "B) Ex post facto regularization conditionally",
+        "C) Criminal action only",
+        "D) No remedy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b14daf8bff20a2ff750b9e8aec6c782dd74fb2c3",
+      "sectionIndex": 9,
+      "question": "Aadhaar-bank account linking mandatory for:",
+      "options": [
+        "A) All accounts",
+        "B) Subsidy/benefit accounts",
+        "C) NRI accounts",
+        "D) Corporate accounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad9f466c0d8c6607c97b8b059ab4f845b664063c",
+      "sectionIndex": 9,
+      "question": "Blockchain evidence authentication requires:",
+      "options": [
+        "A) Source code disclosure",
+        "B) Hash value verification",
+        "C) Expert certificate",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ab72ac5061759c2d04e05ed4ea76603d7c762550",
+      "sectionIndex": 9,
+      "question": "Cross-border insolvency under IBC follows:",
+      "options": [
+        "A) Territorial approach",
+        "B) Universal approach",
+        "C) Modified universalism",
+        "D) Reciprocity only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "79dfbfdac65d4065572596a32fb43673b270e7c1",
+      "sectionIndex": 9,
+      "question": "Safe harbour circular by RBI protects:",
+      "options": [
+        "A) All banking decisions",
+        "B) Commercial decisions within policy",
+        "C) Fraud cases",
+        "D) Wilful defaulters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edd9a817898a997186f3f499b6939c6eea69e90d",
+      "sectionIndex": 9,
+      "question": "Dynamic/continuing injunction in IP matters means:",
+      "options": [
+        "A) Time-bound order",
+        "B) Covers future infringements",
+        "C) Requires fresh suit",
+        "D) Limited to prayer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7079da417627f6a49627474c0f89f32cde834a11",
+      "sectionIndex": 9,
+      "question": "ODR (Online Dispute Resolution) award enforcement requires:",
+      "options": [
+        "A) Physical signature",
+        "B) Digital signature sufficient",
+        "C) Court authentication",
+        "D) Notarization"
+      ],
+      "correct": "B"
+    }
+  ]
+}

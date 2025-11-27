@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:43:24.303Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "c8907602dc10c065102f77d46511950bc65f5f02",
+      "sectionIndex": 0,
+      "question": "The Lowry-Brønsted concept is less restrictive than Arrhenius because:",
+      "options": [
+        "A) It only applies to aqueous solutions",
+        "B) It includes non-aqueous proton transfer reactions",
+        "C) It requires hydroxide ions",
+        "D) It only works for strong acids"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32e204b3442ff37625346ce2df3831d0fbf86e05",
+      "sectionIndex": 0,
+      "question": "Among H,,SO,\" and HClO,\", the stronger acid is HClO,\" because:",
+      "options": [
+        "A) It has more oxygen atoms",
+        "B) Chlorine is more electronegative than sulfur",
+        "C) It has greater resonance stabilization of conjugate base",
+        "D) It is a smaller molecule"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4568de4c903c0a42b8a3623a99e5a1ddae0e2ece",
+      "sectionIndex": 0,
+      "question": "When BCl,f reacts with diethyl ether, the Lewis acid-base interaction involves:",
+      "options": [
+        "A) Proton transfer from BCl,f",
+        "B) Electron pair donation from oxygen to boron",
+        "C) Chloride ion transfer",
+        "D) Hydrogen bonding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2caf2e2ec9d614c3e6b60ad7fc4a2674d01845df",
+      "sectionIndex": 0,
+      "question": "A buffer solution of pH 4.5 can be prepared using acetic acid (pKa = 4.76) by:",
+      "options": [
+        "A) Using equal concentrations of acid and salt",
+        "B) Using more acid than salt",
+        "C) Using more salt than acid",
+        "D) Using only the acid"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d1752380e5144a13fd8020847d15f1c8fb7d99a0",
+      "sectionIndex": 0,
+      "question": "In acid-base catalysis, the rate enhancement occurs through:",
+      "options": [
+        "A) Changing the equilibrium constant",
+        "B) Lowering the activation energy",
+        "C) Increasing the temperature",
+        "D) Changing the reaction products"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc7f9dc1cc9af52137eee7ba06f965799f9e89de",
+      "sectionIndex": 0,
+      "question": "Hard acids preferentially bind to hard bases due to:",
+      "options": [
+        "A) Similar sizes only",
+        "B) Electrostatic interactions",
+        "C) Covalent bonding",
+        "D) Van der Waals forces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f14f4180668d657efccdacc458fade6056bd8a8",
+      "sectionIndex": 0,
+      "question": "The pH of a 5.0 - 10-2 M NaOH solution is:",
+      "options": [
+        "A) 1.3",
+        "B) 12.7",
+        "C) 7.0",
+        "D) 14.0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5c471e93af87afee252eecde529e0bbb8377866",
+      "sectionIndex": 0,
+      "question": "Symbiosis in HSAB theory refers to:",
+      "options": [
+        "A) Biological interactions",
+        "B) Enhanced stability when similar types combine",
+        "C) Decreased stability",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "036ce1203d56c79fd395762ff21305f2a291be98",
+      "sectionIndex": 0,
+      "question": "H,fPO,\" is a stronger acid than H,fAsO,\" because:",
+      "options": [
+        "A) P is larger than As",
+        "B) P-O bonds are stronger than As-O bonds",
+        "C) As is more metallic",
+        "D) P has more electrons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "909ad2bb728546afd8e704836e7ae2e7d2f1cfcc",
+      "sectionIndex": 0,
+      "question": "The Henderson-Hasselbalch equation is most accurate when:",
+      "options": [
+        "A) pH << pKa",
+        "B) pH >> pKa",
+        "C) pH ?^ pKa",
+        "D) pH = 7"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "eff359ae6a38a9d151ba2c60550cded351983af5",
+      "sectionIndex": 1,
+      "question": "For 6 moles of H,, expanding isothermally from 1.0 to 0.1 atm at 30°C, the work done is:",
+      "options": [
+        "A) -34.6 kJ",
+        "B) +34.6 kJ",
+        "C) -69.2 kJ",
+        "D) +69.2 kJ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e37c893b8e7ed39d08e5d68411bc709a39e344ac",
+      "sectionIndex": 1,
+      "question": "The efficiency of a steam engine operating between 130°C and 45°C is:",
+      "options": [
+        "A) 21%",
+        "B) 35%",
+        "C) 65%",
+        "D) 85%"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "208fd0b193ecfaf16958d4671e89395ae266a357",
+      "sectionIndex": 1,
+      "question": "The Clausius-Clapeyron equation is particularly useful for:",
+      "options": [
+        "A) Calculating reaction rates",
+        "B) Determining vapor pressure changes with temperature",
+        "C) Finding equilibrium constants",
+        "D) Measuring heat capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5928d734a48978cd8e171478c826c58be3ca0e19",
+      "sectionIndex": 1,
+      "question": "The relationship between \"G and equilibrium constant K is:",
+      "options": [
+        "A) \"G = RT ln K",
+        "B) \"G = -RT ln K",
+        "C) \"G° = -RT ln K",
+        "D) \"G° = RT ln K"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b730994c79d6ad68dbcc23031bdda210323af1a3",
+      "sectionIndex": 1,
+      "question": "For a reversible process at constant T and P, the condition is:",
+      "options": [
+        "A) \"G > 0",
+        "B) \"G < 0",
+        "C) \"G = 0",
+        "D) \"H = 0"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b803508d76d66db72885bcdddb95e36e4423ca3e",
+      "sectionIndex": 1,
+      "question": "The work function in thermodynamics represents:",
+      "options": [
+        "A) Mechanical work only",
+        "B) Maximum useful work at constant T",
+        "C) Heat absorbed",
+        "D) Internal energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "30b74256426652de8fb14fc925114a804e9739ad",
+      "sectionIndex": 1,
+      "question": "According to the third law of thermodynamics:",
+      "options": [
+        "A) Entropy is always positive",
+        "B) Entropy approaches zero at 0 K for perfect crystals",
+        "C) Entropy is conserved",
+        "D) Entropy always increases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fd3fe943567af7912b2a53f6b7810febe60eded",
+      "sectionIndex": 1,
+      "question": "Heat capacity at constant pressure (Cp) exceeds Cv by:",
+      "options": [
+        "A) RT",
+        "B) R",
+        "C) 2R",
+        "D) R/T"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2b20f6b9f08c8c0bf421ebcece492558c5ac805",
+      "sectionIndex": 1,
+      "question": "The criteria for spontaneity at constant T and P is:",
+      "options": [
+        "A) \"H < 0",
+        "B) \"S > 0",
+        "C) \"G < 0",
+        "D) \"U < 0"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "005df793d55b8436a402769cb67c1f194be1fd37",
+      "sectionIndex": 1,
+      "question": "In an adiabatic expansion of an ideal gas:",
+      "options": [
+        "A) Temperature remains constant",
+        "B) Temperature increases",
+        "C) Temperature decreases",
+        "D) Pressure remains constant"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "882f8cce8a9dfb3ce764e169e199940cab3b883e",
+      "sectionIndex": 2,
+      "question": "Crystal field stabilization energy (CFSE) for d4 in octahedral field (high spin) is:",
+      "options": [
+        "A) -0.6\",?",
+        "B) -1.2\",?",
+        "C) -0.4\",?",
+        "D) -1.6\",?"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c3fe24de2bd96a3b383075a8c9516c51fd7f30c2",
+      "sectionIndex": 2,
+      "question": "The Jahn-Teller effect is most pronounced in:",
+      "options": [
+        "A) d3 octahedral complexes",
+        "B) d6 low spin octahedral",
+        "C) d9 octahedral complexes",
+        "D) d10 complexes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7ad6151c13e34ce3b3edefa0526f9e13b731bb20",
+      "sectionIndex": 2,
+      "question": "[CoF,?]3- is paramagnetic while [Co(NH,f),?]3+ is diamagnetic because:",
+      "options": [
+        "A) F- is a weak field ligand, NH,f is strong field",
+        "B) Co has different oxidation states",
+        "C) F- is smaller than NH,f",
+        "D) Fluoride complexes are always paramagnetic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9debe0af0da53c3729d5636ff7178618ee187d56",
+      "sectionIndex": 2,
+      "question": "The spectrochemical series arranges ligands:",
+      "options": [
+        "A) By size",
+        "B) By charge",
+        "C) By crystal field splitting ability",
+        "D) By electronegativity"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "506cdfee13e0dceb109deea2a7bf2e5d2ecf03c4",
+      "sectionIndex": 2,
+      "question": "Sc3+ compounds are colorless because:",
+      "options": [
+        "A) Sc3+ has no d electrons",
+        "B) d-d transitions are forbidden",
+        "C) Sc3+ is too small",
+        "D) Light is completely absorbed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5caa61109370f1bb77ac61046acef74434218617",
+      "sectionIndex": 2,
+      "question": "The violet color of [Ti(H,,O),?]3+ corresponds to absorption at:",
+      "options": [
+        "A) 400 nm",
+        "B) 500 nm",
+        "C) 600 nm",
+        "D) 700 nm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8a1fc031f2b04441016d217ce4217958a811931",
+      "sectionIndex": 2,
+      "question": "Crystal field splitting in tetrahedral complexes compared to octahedral is:",
+      "options": [
+        "A) \"t = \",?",
+        "B) \"t = (4/9)\",?",
+        "C) \"t = (9/4)\",?",
+        "D) \"t = 2\",?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c029e5648be8d593f933651e5e8f8322f3bb1f1",
+      "sectionIndex": 2,
+      "question": "The magnetic moment of a complex with 3 unpaired electrons is approximately:",
+      "options": [
+        "A) 1.73 BM",
+        "B) 2.83 BM",
+        "C) 3.87 BM",
+        "D) 4.90 BM"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e5b497687ef738f3b9bf895d4712d80631fcdbd5",
+      "sectionIndex": 2,
+      "question": "Low spin complexes are favored by:",
+      "options": [
+        "A) Weak field ligands",
+        "B) Strong field ligands",
+        "C) High temperature",
+        "D) Low pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c305670f9a5f60073a185b0c57e41df6134b70c",
+      "sectionIndex": 2,
+      "question": "The chelate effect is due to:",
+      "options": [
+        "A) Enthalpy factors only",
+        "B) Entropy factors only",
+        "C) Both enthalpy and entropy factors",
+        "D) Neither factor"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8d57e5258db1a234013dae81ef63ac2190575ab8",
+      "sectionIndex": 3,
+      "question": "For a second-order reaction with different initial concentrations [A],? and [B],?:",
+      "options": [
+        "A) Rate = k[A][B]",
+        "B) 1/[A] - 1/[A],? = kt",
+        "C) ln([B],?[A]/[A],?[B]) = ([B],? - [A],?)kt",
+        "D) [A] = [A],? - kt"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ba5b5e14c0b010181c644d5d71c2779400913181",
+      "sectionIndex": 3,
+      "question": "The half-life of a first-order reaction with k = 0.693 min-1 is:",
+      "options": [
+        "A) 0.5 min",
+        "B) 1.0 min",
+        "C) 1.5 min",
+        "D) 2.0 min"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "216a433cc472297eb73d1a965e9e3e0d5c0e92ad",
+      "sectionIndex": 3,
+      "question": "For an exothermic reaction, increasing temperature:",
+      "options": [
+        "A) Shifts equilibrium right",
+        "B) Shifts equilibrium left",
+        "C) No effect on equilibrium",
+        "D) Increases Kp"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd796d46483bc356a3e38016cd03c2672c52b95f",
+      "sectionIndex": 3,
+      "question": "The Arrhenius equation predicts that reaction rate doubles for every:",
+      "options": [
+        "A) 5°C increase",
+        "B) 10°C increase",
+        "C) 15°C increase",
+        "D) 20°C increase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75152d55659335a6b95167aa59ae011b06b210cf",
+      "sectionIndex": 3,
+      "question": "In SN1 mechanism, the rate-determining step is:",
+      "options": [
+        "A) Nucleophilic attack",
+        "B) Carbocation formation",
+        "C) Product formation",
+        "D) Leaving group departure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0d7677dbdc2bfbce9dcb293d3f49f2394f40baa",
+      "sectionIndex": 3,
+      "question": "A pseudo first-order reaction occurs when:",
+      "options": [
+        "A) One reactant is catalyst",
+        "B) One reactant is in large excess",
+        "C) Temperature is very high",
+        "D) Pressure is constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c1d574295639755edc61291ee0473c4e921c1f1",
+      "sectionIndex": 3,
+      "question": "For the reaction 2A ?' B, if [A] decreases from 0.5M to 0.25M in 100s, the rate is:",
+      "options": [
+        "A) 0.0025 M/s",
+        "B) 0.00125 M/s",
+        "C) 0.005 M/s",
+        "D) 0.001 M/s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b36e507ff191d7c671aeb91d9feff4a31e41810",
+      "sectionIndex": 3,
+      "question": "The activation energy can be determined from:",
+      "options": [
+        "A) Single rate measurement",
+        "B) Plot of ln k vs 1/T",
+        "C) Equilibrium constant",
+        "D) Reaction order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c67749c4d21c0923ff5e69685f34f25856cb439a",
+      "sectionIndex": 3,
+      "question": "Enzyme catalysis typically follows:",
+      "options": [
+        "A) Zero-order kinetics",
+        "B) First-order kinetics",
+        "C) Michaelis-Menten kinetics",
+        "D) Third-order kinetics"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "de31d2a12db54c3daa3d5a11274bd413a2953540",
+      "sectionIndex": 3,
+      "question": "For a reaction with half-life = 20 min, 75% completion requires:",
+      "options": [
+        "A) 20 min",
+        "B) 30 min",
+        "C) 40 min",
+        "D) 60 min"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "362a9b72ff6dd1173b908e56fa6d86847bcc440b",
+      "sectionIndex": 4,
+      "question": "Benzene undergoes electrophilic substitution rather than addition to:",
+      "options": [
+        "A) Maintain sp3 hybridization",
+        "B) Preserve aromatic stability",
+        "C) Avoid ring strain",
+        "D) Increase reactivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8aa0fc17176a1e4728a34aa80db3f2ec87816f7",
+      "sectionIndex": 4,
+      "question": "The reaction of sodium ethoxide with CH,fBr is 10,000 times faster than with neopentyl bromide due to:",
+      "options": [
+        "A) Inductive effects",
+        "B) Steric hindrance",
+        "C) Hyperconjugation",
+        "D) Resonance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "def1e3f193a2163737e993ab45454014df926605",
+      "sectionIndex": 4,
+      "question": "To synthesize maleic anhydride from benzene requires:",
+      "options": [
+        "A) Direct oxidation",
+        "B) Friedel-Crafts followed by oxidation",
+        "C) Catalytic oxidation with V,,O,.",
+        "D) Nitration followed by reduction"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "77040ce9c08475d0cd80bb74f2e965f5c420f93e",
+      "sectionIndex": 4,
+      "question": "The product of propyne with H,,O/HgSO,\"/H,,SO,\" is:",
+      "options": [
+        "A) Propanol",
+        "B) Propanal",
+        "C) Acetone",
+        "D) Propanoic acid"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ef24b5bca3348adeebb6e6ded42bd8da82a88ccd",
+      "sectionIndex": 4,
+      "question": "In E/Z nomenclature, priority is determined by:",
+      "options": [
+        "A) Alphabetical order",
+        "B) Cahn-Ingold-Prelog rules",
+        "C) Size of groups",
+        "D) Number of carbons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0bf8d43e356a8616c0ed4594e5a98fe523afde2",
+      "sectionIndex": 4,
+      "question": "Grignard reagents act as nucleophiles due to:",
+      "options": [
+        "A) Positive carbon",
+        "B) Negative carbon character",
+        "C) Free radical",
+        "D) Carbene formation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ceb45c47ac3bb80c7d7662f629c993b5d1bb373",
+      "sectionIndex": 4,
+      "question": "The bromination of benzene requires FeBr,f because:",
+      "options": [
+        "A) Br,, is not reactive enough",
+        "B) FeBr,f generates Br+ electrophile",
+        "C) FeBr,f is a reducing agent",
+        "D) To prevent polysubstitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8484e7b29bf602cb48493f265c652931d7a0dc1d",
+      "sectionIndex": 4,
+      "question": "Halogens are o/p-directing but deactivating because:",
+      "options": [
+        "A) They donate electrons by resonance but withdraw by induction",
+        "B) They are bulky",
+        "C) They form hydrogen bonds",
+        "D) They are electronegative only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3fb4566521dbe1200866a75258ba684f55d95967",
+      "sectionIndex": 4,
+      "question": "The Kolbe reaction produces:",
+      "options": [
+        "A) Alcohols",
+        "B) Alkanes",
+        "C) Alkenes",
+        "D) Aldehydes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adb71f8dfbbd7d96d1280c2b4fb5c66697f15e77",
+      "sectionIndex": 4,
+      "question": "Resolution of racemic mixtures can be achieved by:",
+      "options": [
+        "A) Distillation",
+        "B) Crystallization with chiral agent",
+        "C) Simple filtration",
+        "D) Chromatography only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7305b63677008f11c48e063e21b527133a139fee",
+      "sectionIndex": 5,
+      "question": "The energy of a particle in a 1D box of length L is proportional to:",
+      "options": [
+        "A) n/L2",
+        "B) n2/L2",
+        "C) n2/L",
+        "D) n/L"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6add55152a30648cc15fe857be67787ed147ab7",
+      "sectionIndex": 5,
+      "question": "A well-behaved wave function must be:",
+      "options": [
+        "A) Continuous only",
+        "B) Continuous, single-valued, and normalizable",
+        "C) Complex",
+        "D) Time-independent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "561afd3422eb010204ccbd238084149764b71807",
+      "sectionIndex": 5,
+      "question": "The Born interpretation of |^|2 represents:",
+      "options": [
+        "A) Energy density",
+        "B) Probability density",
+        "C) Charge density",
+        "D) Mass density"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25a302ba75408ff1ad9ac89782a113dce759ce03",
+      "sectionIndex": 5,
+      "question": "Zero-point energy for particle in a box equals:",
+      "options": [
+        "A) 0",
+        "B) h2/8mL2",
+        "C) h2/2mL2",
+        "D) h2/4mL2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60fd70ecbdb4d9131d46d88f6208a775b94621aa",
+      "sectionIndex": 5,
+      "question": "The Heisenberg uncertainty principle states:",
+      "options": [
+        "A) \"x - \"p ? h/4?",
+        "B) \"x - \"p = 0",
+        "C) \"x = \"p",
+        "D) \"x - \"p ? h"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f9baf43eb7b02bfaec8c23da59a4708ec2dd9c63",
+      "sectionIndex": 5,
+      "question": "Eigenfunctions of the Hamiltonian operator represent:",
+      "options": [
+        "A) Position states",
+        "B) Momentum states",
+        "C) Energy states",
+        "D) Time states"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "127aa10f79bbbffc9e96e8fd902d21db3d2ba0a1",
+      "sectionIndex": 5,
+      "question": "The degeneracy of a particle in a 3D cubic box for n,2 + n,,2 + n,f2 = 6 is:",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 6",
+        "D) 9"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20ba455c8c88df4ce5c5d36e20627151c2676208",
+      "sectionIndex": 5,
+      "question": "The photoelectric effect demonstrates that:",
+      "options": [
+        "A) Light has wave properties only",
+        "B) Electron energy depends on light intensity",
+        "C) Electron energy depends on light frequency",
+        "D) Electrons are waves"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b7403f50a5010b83b3f69916816af3eeab7a2717",
+      "sectionIndex": 5,
+      "question": "For hydrogen atom, orbitals with same n but different l:",
+      "options": [
+        "A) Have same energy",
+        "B) Have different energies",
+        "C) Don't exist",
+        "D) Are orthogonal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1fb7389d380f0a73879b545bfa8f345e9b60dd61",
+      "sectionIndex": 5,
+      "question": "The radial distribution function 4?r2R2 represents:",
+      "options": [
+        "A) Probability at a point",
+        "B) Probability in a spherical shell",
+        "C) Energy distribution",
+        "D) Angular distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72565392c804656f1962bcbd59260a54c5c6a1e0",
+      "sectionIndex": 6,
+      "question": "Chemical reduction is not suitable for aluminum extraction because:",
+      "options": [
+        "A) Al,,O,f is too stable",
+        "B) Aluminum is too reactive",
+        "C) No suitable reducing agent exists economically",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9f74762d9289be813977a16aa3f98e73719e281a",
+      "sectionIndex": 6,
+      "question": "In the blast furnace, the reducing agent for Fe,,O,f is:",
+      "options": [
+        "A) C",
+        "B) CO",
+        "C) CO,,",
+        "D) H,,"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b2ba1d70e69e767d593018ed8df276fd998adda",
+      "sectionIndex": 6,
+      "question": "The role of cryolite in aluminum extraction is to:",
+      "options": [
+        "A) Reduce Al,,O,f",
+        "B) Lower melting point and increase conductivity",
+        "C) Prevent oxidation",
+        "D) Act as catalyst"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cd523685ab5da8b89ac02deafd71ddf3a20c260",
+      "sectionIndex": 6,
+      "question": "Acid rain with pH < 5.6 is primarily due to:",
+      "options": [
+        "A) Natural CO,,",
+        "B) SO,, and NO,\" emissions",
+        "C) Organic acids",
+        "D) HCl emissions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6f8e2691951e3e1c0a9fbe0626e4b2d8bb7788c",
+      "sectionIndex": 6,
+      "question": "In the contact process, the optimal temperature for SO,, oxidation is:",
+      "options": [
+        "A) 100-200°C",
+        "B) 400-450°C",
+        "C) 700-800°C",
+        "D) 1000°C"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b8e4340a0191eadfa6d17db557d08e1f36c21e2",
+      "sectionIndex": 6,
+      "question": "The greenhouse effect is enhanced by gases that:",
+      "options": [
+        "A) Absorb UV radiation",
+        "B) Absorb IR radiation",
+        "C) Reflect visible light",
+        "D) Emit X-rays"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c0f227de2b56191db405d5c81238c041fc1f855",
+      "sectionIndex": 6,
+      "question": "Urea synthesis industrially involves:",
+      "options": [
+        "A) NH,f + CO,, at high pressure",
+        "B) NH,f + CO at low pressure",
+        "C) N,, + H,,O",
+        "D) HNO,f + NH,f"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "40a140ed5b474de6d10a3311932017487902e6ff",
+      "sectionIndex": 6,
+      "question": "The main environmental concern with phosphate fertilizers is:",
+      "options": [
+        "A) Air pollution",
+        "B) Eutrophication",
+        "C) Acid rain",
+        "D) Ozone depletion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39104d0f3e81701b56cd5f1c550c9f878a112e91",
+      "sectionIndex": 6,
+      "question": "Cement setting involves formation of:",
+      "options": [
+        "A) Calcium oxide",
+        "B) Calcium hydroxide",
+        "C) Calcium silicate hydrates",
+        "D) Calcium carbonate"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "35cbbfe0996e44198b3854effe0a6e953a283f2a",
+      "sectionIndex": 6,
+      "question": "The efficiency of pollution control depends on:",
+      "options": [
+        "A) Temperature only",
+        "B) Technology and enforcement",
+        "C) Cost only",
+        "D) Public awareness only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76fdf8d3f5632a89cb6cf479a74a5cd9791e8e66",
+      "sectionIndex": 7,
+      "question": "The coupling constant in NMR is independent of:",
+      "options": [
+        "A) Nuclear spin",
+        "B) Field strength",
+        "C) Chemical environment",
+        "D) Bond connectivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c745719b7ea81a791282171373d4de175a39a5e",
+      "sectionIndex": 7,
+      "question": "IR stretching frequency increases with:",
+      "options": [
+        "A) Increasing mass",
+        "B) Decreasing bond strength",
+        "C) Increasing bond strength",
+        "D) Larger atoms"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c51f2201f527c46836c04b2bb9a0f1f07cc5e9a5",
+      "sectionIndex": 7,
+      "question": "The UV absorption at 279 nm in acetone is due to:",
+      "options": [
+        "A) f?'f* transition",
+        "B) n?'f* transition",
+        "C) n?'?* transition",
+        "D) ??'?* transition"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "26856968144172cd26d2625a4bb20f590fe50610",
+      "sectionIndex": 7,
+      "question": "Diastereotopic protons in NMR:",
+      "options": [
+        "A) Always have same chemical shift",
+        "B) May have different chemical shifts",
+        "C) Don't couple",
+        "D) Are always equivalent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "132c5b3a4ac92f6647b2c26a4f2238131b9aaf31",
+      "sectionIndex": 7,
+      "question": "13C NMR is less sensitive than 1H because:",
+      "options": [
+        "A) 13C has lower gyromagnetic ratio",
+        "B) 13C has 1.1% natural abundance",
+        "C) Both A and B",
+        "D) 13C doesn't have spin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b8b210e794cd170ef1506a628f20b3be7f7076cc",
+      "sectionIndex": 7,
+      "question": "The fingerprint region in IR is useful for:",
+      "options": [
+        "A) Functional group identification",
+        "B) Molecular identity confirmation",
+        "C) Quantitative analysis",
+        "D) Temperature measurement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0ccf0b2a396715b3a0ee6ebdc4721f5605092cd",
+      "sectionIndex": 7,
+      "question": "Chemical shift differences in aromatic protons are due to:",
+      "options": [
+        "A) Mass differences",
+        "B) Anisotropic effects",
+        "C) Temperature",
+        "D) Solvent only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bc9b5d3bdaa54794d8b9a5940b2d72b3ae8480e",
+      "sectionIndex": 7,
+      "question": "Solvents for IR should not have:",
+      "options": [
+        "A) High boiling point",
+        "B) Strong absorption in region of interest",
+        "C) Low viscosity",
+        "D) High purity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "956627994abda406e3306220b5b93b9baca70801",
+      "sectionIndex": 7,
+      "question": "Mass spectrometry fragmentation patterns help identify:",
+      "options": [
+        "A) Molecular weight only",
+        "B) Structural features",
+        "C) Optical activity",
+        "D) Crystal structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a85640bd276ff5b7484d04c4731e1d9c14b7bf4b",
+      "sectionIndex": 7,
+      "question": "Integration in 1H NMR provides:",
+      "options": [
+        "A) Chemical shift",
+        "B) Coupling constant",
+        "C) Relative number of protons",
+        "D) Molecular weight"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "341d4ce87b5d80bf5efe091f90f15a50bfb7bd99",
+      "sectionIndex": 8,
+      "question": "The Nernst equation at 25°C for a one-electron transfer is:",
+      "options": [
+        "A) E = E° - 0.0257 ln Q",
+        "B) E = E° - 0.0591 log Q",
+        "C) E = E° + 0.0591 log Q",
+        "D) E = E° - RT/F ln Q"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51ea878166054527b8728513fe01c0675fea354d",
+      "sectionIndex": 8,
+      "question": "Kohlrausch's law allows determination of:",
+      "options": [
+        "A) Cell potential",
+        "B) Limiting molar conductivity",
+        "C) pH",
+        "D) Solubility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fdf18179b936096f6873a2ac0d078578eafa2f5",
+      "sectionIndex": 8,
+      "question": "The transport number of an ion depends on:",
+      "options": [
+        "A) Its mobility only",
+        "B) Its concentration only",
+        "C) Both mobility and concentration",
+        "D) Temperature only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ad944cd1f3034e79eeb373e9ed13c6f54383ad07",
+      "sectionIndex": 8,
+      "question": "For the reaction Zn + Cu2+ ?' Zn2+ + Cu, the cell notation is:",
+      "options": [
+        "A) Cu|Cu2+||Zn2+|Zn",
+        "B) Zn|Zn2+||Cu2+|Cu",
+        "C) Zn2+|Zn||Cu|Cu2+",
+        "D) Cu2+|Cu||Zn|Zn2+"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4934ac7f13c72b589cd4a08a5eb955c5236bacdf",
+      "sectionIndex": 8,
+      "question": "The Debye-Hückel theory applies best to:",
+      "options": [
+        "A) Concentrated solutions",
+        "B) Dilute solutions",
+        "C) Non-electrolytes",
+        "D) Solids"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4386fed08c5931ed89a05e73f01f075c3b886e17",
+      "sectionIndex": 8,
+      "question": "Conductivity measurements can be used to follow:",
+      "options": [
+        "A) Color changes",
+        "B) Precipitation reactions",
+        "C) Temperature changes",
+        "D) Pressure changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b020be036bbc8aacf979161669a9a06dfc45e43",
+      "sectionIndex": 8,
+      "question": "The pH of a buffer changes minimally when:",
+      "options": [
+        "A) Large amounts of acid/base are added",
+        "B) Small amounts of acid/base are added",
+        "C) Temperature changes",
+        "D) Diluted significantly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d14d2ca5fd6d8b4e83490cb641f897ec79c7c17",
+      "sectionIndex": 8,
+      "question": "Overpotential in electrolysis is due to:",
+      "options": [
+        "A) Resistance only",
+        "B) Kinetic barriers",
+        "C) Temperature effects",
+        "D) Concentration changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a636468564ca6942d147c67c4bd572960dd0680",
+      "sectionIndex": 8,
+      "question": "The glass electrode measures pH by:",
+      "options": [
+        "A) Color change",
+        "B) Potential difference",
+        "C) Current flow",
+        "D) Resistance change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dceda164a12b59f1f4aa26b0345e73bb1490891c",
+      "sectionIndex": 8,
+      "question": "Standard electrode potentials are measured relative to:",
+      "options": [
+        "A) Calomel electrode",
+        "B) Silver electrode",
+        "C) Standard hydrogen electrode",
+        "D) Platinum electrode"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7494863e2710b27d8b5f6abe543c279b57638113",
+      "sectionIndex": 9,
+      "question": "The relationship between Cp and Cv for ideal gases (Cp - Cv = R) arises from:",
+      "options": [
+        "A) Molecular interactions",
+        "B) PV work during expansion",
+        "C) Quantum effects",
+        "D) Temperature dependence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "579e51e2b6c129472d1438f07ab017a11c4846be",
+      "sectionIndex": 9,
+      "question": "Langmuir adsorption isotherm assumes:",
+      "options": [
+        "A) Multilayer adsorption",
+        "B) Monolayer adsorption",
+        "C) No adsorption",
+        "D) Chemical reaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0416ce8a79a47b8206c2d78934e446c9b2da4c9",
+      "sectionIndex": 9,
+      "question": "The phase rule F = C - P + 2 for a one-component system gives:",
+      "options": [
+        "A) F = 3 - P",
+        "B) F = 1 - P + 2",
+        "C) F = P - 1",
+        "D) F = 2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1e366271a263b693a45d4731c9eaa37af489ca8a",
+      "sectionIndex": 9,
+      "question": "Soft acids prefer soft bases because of:",
+      "options": [
+        "A) Size matching only",
+        "B) Covalent bonding tendency",
+        "C) Ionic interactions",
+        "D) Hydrogen bonding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d35d59f574f73e81accd2211b1dcd048146f43cd",
+      "sectionIndex": 9,
+      "question": "The heat of combustion of propane (C,fH,^) can be calculated using:",
+      "options": [
+        "A) Hess's law only",
+        "B) Bond energies only",
+        "C) Heat of formation data",
+        "D) Calorimetry only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fabc83badd6ee0df925212ade9ba2a869187d33c",
+      "sectionIndex": 9,
+      "question": "Resonance in benzene contributes approximately:",
+      "options": [
+        "A) 10 kJ/mol stability",
+        "B) 36 kJ/mol stability",
+        "C) 150 kJ/mol stability",
+        "D) 250 kJ/mol stability"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ebe4c72f19e7e648a67616713391f18a85c360d0",
+      "sectionIndex": 9,
+      "question": "The third law of thermodynamics allows determination of:",
+      "options": [
+        "A) Relative entropy only",
+        "B) Absolute entropy values",
+        "C) Enthalpy only",
+        "D) Free energy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1bd0622fb0bf46945acdcc0dbe2cce41ffe208f",
+      "sectionIndex": 9,
+      "question": "Chromatographic separation depends on:",
+      "options": [
+        "A) Differential partitioning",
+        "B) Molecular weight only",
+        "C) Charge only",
+        "D) Color"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9bb0b389d76def2825045dd4b7939b81ee4a4e2e",
+      "sectionIndex": 9,
+      "question": "The Gibbs-Helmholtz equation relates:",
+      "options": [
+        "A) G to H only",
+        "B) G to S only",
+        "C) G to both H and T",
+        "D) H to S only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "67596173b5e1b561d82b4dc5436bd5ebd9a8f9bd",
+      "sectionIndex": 9,
+      "question": "Werner's coordination theory successfully explained:",
+      "options": [
+        "A) Isomerism in complexes",
+        "B) Variable valency",
+        "C) Both A and B",
+        "D) Crystal field effects"
+      ],
+      "correct": "C"
+    }
+  ]
+}

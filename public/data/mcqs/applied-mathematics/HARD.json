@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-12T22:20:05.367Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "7b73eb2adef13a871753dac11d84596a21576b5e",
+      "sectionIndex": 0,
+      "question": "For F = (x2y)i + (y2z)j + (z2x)k, the value of ^_C (^?-F)-dr where C is the intersection of x2+y2=1 and z=xy is:",
+      "options": [
+        "A) ?/2",
+        "B) ?",
+        "C) 2?",
+        "D) 0"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "dfbc3b3a8375881770ceb54cfddab835f891e7af",
+      "sectionIndex": 0,
+      "question": "If ? satisfies ^?2? = 0 in a simply connected region and ^_C (^,?/^,n)ds = 0 for every closed curve C, then:",
+      "options": [
+        "A) ? is constant",
+        "B) ? is harmonic but not constant",
+        "C) ? has isolated singularities",
+        "D) ? is multivalued"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1a3a89920455514fa0388030cdf71595f5ca1c7c",
+      "sectionIndex": 0,
+      "question": "The vector field F = (2xy+z3)i + x2j + 3xz2k is conservative. The potential function ? such that F = ^?? and ?(0,0,0) = 0 is:",
+      "options": [
+        "A) x2y + xz3",
+        "B) x2y + xz3 + C",
+        "C) 2x2y + z3",
+        "D) xy2 + xz3"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "707388b3bea5ff88fd9b28c3bca3f502eb319098",
+      "sectionIndex": 0,
+      "question": "For the transformation u = x2-y2, v = 2xy, the Jacobian ^,(x,y)/^,(u,v) equals:",
+      "options": [
+        "A) 1/(4(x2+y2))",
+        "B) 4(x2+y2)",
+        "C) 1/(2(x2+y2))",
+        "D) 2(x2+y2)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "946af01a1ce941364835c0829fffc366dfba7ad6",
+      "sectionIndex": 0,
+      "question": "In orthogonal curvilinear coordinates with scale factors h,, h,,, h,f, the Laplacian of a scalar ? is:",
+      "options": [
+        "A) Complex expression involving all scale factors and their derivatives",
+        "B) Simple sum of second derivatives",
+        "C) Product of scale factors times derivatives",
+        "D) Independent of scale factors"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3bf4cd7b0d340a226ecbe09b97efb2c5c170e4fe",
+      "sectionIndex": 0,
+      "question": "The surface integral ^_S r-n dS over the ellipsoid x2/a2 + y2/b2 + z2/c2 = 1 equals:",
+      "options": [
+        "A) 4?abc/3",
+        "B) 4?abc",
+        "C) 4?(a+b+c)/3",
+        "D) 4?(ab+bc+ca)/3"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b76debb5fc2677ef24991ada91c796bb28f1cb8",
+      "sectionIndex": 0,
+      "question": "If F = f(r)r where r = |r|, then ^?-F equals:",
+      "options": [
+        "A) 0 always",
+        "B) 0 only if f is constant",
+        "C) f'(r)r-r/r",
+        "D) Non-zero for all f"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "47dfeebcadb73449af29174e4f55a9d92391a21b",
+      "sectionIndex": 0,
+      "question": "The Green's function for ^?2u = f in a sphere of radius a with u = 0 on boundary involves:",
+      "options": [
+        "A) Only distance between points",
+        "B) Image points outside sphere",
+        "C) Legendre polynomials",
+        "D) Bessel functions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "952cfd6b5e848d388db41b85cf5620040d29bc61",
+      "sectionIndex": 0,
+      "question": "For a vector field with ^?-F = 0 and ^?-F = 0 in a simply connected domain:",
+      "options": [
+        "A) F must be zero",
+        "B) F = ^?? where ^?2? = 0",
+        "C) F is constant",
+        "D) F has vector potential"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "860c413ab6565e5fdf9e265378f0552db74c2033",
+      "sectionIndex": 0,
+      "question": "The helicity integral ^_V F-(^?-F)dV for a divergence-free field F is:",
+      "options": [
+        "A) Always zero",
+        "B) Topological invariant",
+        "C) Related to linking number",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "364b99e239314ef8f20d39f40a8d59a4a9d14e5c",
+      "sectionIndex": 1,
+      "question": "The Green's function for y'' + y = δ(x-ξ) with y(0) = y(?) = 0 is:",
+      "options": [
+        "A) sin(x<)sin(x>)/sin(?)",
+        "B) sin(x)sin(ξ)/sin(|x-ξ|)",
+        "C) [sin(x)sin(?-ξ)]/sin(?) for x<ξ",
+        "D) cos(x-ξ)H(x-ξ)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b06a4cb6f3b292e4f86d7ee5f4f4a73e7e7a80ac",
+      "sectionIndex": 1,
+      "question": "Near an irregular singular point, the behavior of solutions to x3y'' + xy' + y = 0 is:",
+      "options": [
+        "A) Power series",
+        "B) Frobenius series",
+        "C) Essential singularity",
+        "D) Logarithmic terms only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ad143e4b5f2991b25974ab9f70287a10723267c2",
+      "sectionIndex": 1,
+      "question": "The WKB approximation for y'' + q(x)y = 0 with large q(x) > 0 gives solutions proportional to:",
+      "options": [
+        "A) q^(-1/4)exp(±^^sq dx)",
+        "B) q^(1/4)exp(±^^sq dx)",
+        "C) exp(±^q dx)",
+        "D) q^(-1/2)sin(^^sq dx)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "35a4a680679e867aa7708409f0fdc6f049cea1e7",
+      "sectionIndex": 1,
+      "question": "For the nonlinear equation y'' + sin(y) = 0 (pendulum equation), the period for large amplitude A approaches:",
+      "options": [
+        "A) 2?",
+        "B) 4K(k)/? where K is complete elliptic integral",
+        "C) ^z",
+        "D) 2?^s(1+A2/8)"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e77eca13a5fd36562f25ce614bc68220133d5130",
+      "sectionIndex": 1,
+      "question": "The Sturm-Liouville problem -y'' + q(x)y = λy with y(0) = y(L) = 0 has:",
+      "options": [
+        "A) Finite number of eigenvalues",
+        "B) Eigenvalues λ,T ~ n2?2/L2 as n?'^z",
+        "C) Orthogonal eigenfunctions with specific weight",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5e81425c054bf0c9702a58450cb5db9d2d49bcc8",
+      "sectionIndex": 1,
+      "question": "The method of multiple scales for εy'' + y' + y = 0 introduces:",
+      "options": [
+        "A) Single slow time scale",
+        "B) Fast and slow time scales",
+        "C) Only spatial scales",
+        "D) Logarithmic scales"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02788f688ea527a10c74e46e3abd9a61d0db3797",
+      "sectionIndex": 1,
+      "question": "For the Ricatti equation y' = y2 + p(x)y + q(x), if one solution y, is known, the general solution is:",
+      "options": [
+        "A) y, + 1/u where u satisfies linear ODE",
+        "B) y, + u where u satisfies Bernoulli equation",
+        "C) cy, for constant c",
+        "D) Cannot be found in closed form"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "931d8708261a90904eb5fb4b94fcc1bccc2fc479",
+      "sectionIndex": 1,
+      "question": "The monodromy matrix for a periodic coefficient equation y' = A(t)y determines:",
+      "options": [
+        "A) Stability only",
+        "B) Floquet multipliers",
+        "C) Fundamental matrix",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9f1a824e4c613205b63ae205b7083f859b770a0d",
+      "sectionIndex": 1,
+      "question": "For the Thomas-Fermi equation y'' = y^(3/2)/^sx with y(0) = 1, y(^z) = 0, the solution behaves as:",
+      "options": [
+        "A) x^(-3) as x?'^z",
+        "B) 144/x3 as x?'^z",
+        "C) exp(-x) as x?'^z",
+        "D) 1/x as x?'^z"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdc06a3da6b5143a2106e5e8c12657343a7af6dc",
+      "sectionIndex": 1,
+      "question": "The connection formula in WKB theory across a turning point involves:",
+      "options": [
+        "A) Airy functions",
+        "B) Bessel functions",
+        "C) Error functions",
+        "D) Hypergeometric functions"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "223f042913d4d0e979b8e26429ca39b5e8794d3c",
+      "sectionIndex": 2,
+      "question": "In the restricted three-body problem, the Lagrange points L,\" and L,. are stable when the mass ratio μ satisfies:",
+      "options": [
+        "A) μ < 1/2",
+        "B) μ < (1-^s(23/27))/2",
+        "C) μ < 1/3",
+        "D) Always stable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1eb2d9993d1eb6f521510b00ecd010242f3926c",
+      "sectionIndex": 2,
+      "question": "For a symmetric top with principal moments I, = I,, ? I,f, the precession frequency in torque-free motion is:",
+      "options": [
+        "A) ?,f(I,f-I,)/I,",
+        "B) ?,fI,f/I,",
+        "C) ?,f(I,-I,f)/I,f",
+        "D) Independent of ?,f"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "331a9690299f4355af933095a1d59c01fb4a385f",
+      "sectionIndex": 2,
+      "question": "The Routh procedure for cyclic coordinates in a Lagrangian with ignorable coordinate q, gives effective potential:",
+      "options": [
+        "A) V + p,2/2m",
+        "B) V + L,2/2I where L, is conserved angular momentum",
+        "C) Modified Lagrangian with one less degree of freedom",
+        "D) Original potential unchanged"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "34ffbd330aee98e8b0e508deee7e9a7a92941ae3",
+      "sectionIndex": 2,
+      "question": "In the Kepler problem with perturbing potential εV,(r), the secular change in semi-major axis is:",
+      "options": [
+        "A) Zero for any central perturbation",
+        "B) Proportional to ^,V,/^,r",
+        "C) Depends on eccentricity",
+        "D) Both A and C"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a93ba7a5a469f965b94b8495a564249661215bdb",
+      "sectionIndex": 2,
+      "question": "The Hannay angle in adiabatic classical mechanics is analogous to:",
+      "options": [
+        "A) Berry phase in quantum mechanics",
+        "B) Action variable",
+        "C) Precession angle",
+        "D) Euler angle"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ddd18ea69a939b80f77c2b91d7e472cdd6b2fa73",
+      "sectionIndex": 2,
+      "question": "For a particle in rotating coordinates, the deflection of a projectile due to Coriolis force to first order in Ω is:",
+      "options": [
+        "A) Eastward in northern hemisphere",
+        "B) Proportional to Ω-v",
+        "C) Maximum at poles",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "51a62b4c1645039c6e007ce9f4977a57c18cf9cd",
+      "sectionIndex": 2,
+      "question": "The Poincaré-Bendixson theorem for 2D dynamical systems implies:",
+      "options": [
+        "A) Chaos is impossible",
+        "B) Bounded trajectories approach fixed points or limit cycles",
+        "C) All trajectories are periodic",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a485c0b275c311a51a899e507ecc356fe8b406f4",
+      "sectionIndex": 2,
+      "question": "In celestial mechanics, the Tisserand parameter is conserved during:",
+      "options": [
+        "A) All orbital changes",
+        "B) Close encounters with planets",
+        "C) Specific restricted three-body interactions",
+        "D) Tidal interactions"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1de453f424f9581168f4adcd88247e93cbc89ef9",
+      "sectionIndex": 2,
+      "question": "The KAM theorem states that for small perturbations of integrable Hamiltonian systems:",
+      "options": [
+        "A) All tori are destroyed",
+        "B) Rational tori survive",
+        "C) Most irrational tori survive",
+        "D) Only resonant tori survive"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1a59acbd68ae55295d2aa0364c7de048df51728f",
+      "sectionIndex": 2,
+      "question": "The Lyapunov exponent for chaotic motion in the Hénon-Heiles potential is:",
+      "options": [
+        "A) Always positive",
+        "B) Zero",
+        "C) Positive for energies above critical value",
+        "D) Always negative"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d08933644636a720a270221c87db6af28c51be52",
+      "sectionIndex": 3,
+      "question": "The Riemann curvature tensor R^α_βγδ in terms of Christoffel symbols involves:",
+      "options": [
+        "A) First derivatives of \" only",
+        "B) Second derivatives of metric only",
+        "C) Products and derivatives of \"",
+        "D) Metric components only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dd4bd98c326d040ece399c74b8446bf00589ff14",
+      "sectionIndex": 3,
+      "question": "The number of independent components of the Riemann tensor in n dimensions is:",
+      "options": [
+        "A) n4",
+        "B) n2(n2-1)/12",
+        "C) n2(n+1)/2",
+        "D) n(n-1)/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5e78e3035a35c5e58c9aa04d306ea754d67a88f",
+      "sectionIndex": 3,
+      "question": "The Bianchi identities for the Riemann tensor imply:",
+      "options": [
+        "A) R_αβγδ + R_αγδβ + R_αδβγ = 0",
+        "B) Conservation of energy-momentum",
+        "C) Vanishing of covariant derivative of Ricci tensor",
+        "D) Both A and B in Einstein's theory"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "365d9731052d59c958073c3138bcee2be552374a",
+      "sectionIndex": 3,
+      "question": "In non-coordinate bases with structure constants C^k_ij, the connection coefficients:",
+      "options": [
+        "A) Vanish identically",
+        "B) Equal Christoffel symbols",
+        "C) Include torsion terms",
+        "D) Contain structure constants"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0c018ed14871a771887e052fe8fea73d2cc9c4b9",
+      "sectionIndex": 3,
+      "question": "The Weyl tensor represents:",
+      "options": [
+        "A) Trace of Riemann tensor",
+        "B) Traceless part of Riemann tensor",
+        "C) Antisymmetric part of connection",
+        "D) Covariant derivative of metric"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3b2ae0cd1a68bfb5ba7b3989635fd658cea0854",
+      "sectionIndex": 3,
+      "question": "Killing vectors ξ^μ satisfy Killing's equation ^?_μξ_ν + ^?_νξ_μ = 0 and represent:",
+      "options": [
+        "A) Gauge transformations",
+        "B) Symmetries of the metric",
+        "C) Coordinate singularities",
+        "D) Tensor densities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a3b1456c7f34696289be132270d65069b76254f",
+      "sectionIndex": 3,
+      "question": "The Lie derivative of a tensor along a vector field:",
+      "options": [
+        "A) Requires a connection",
+        "B) Is independent of connection",
+        "C) Vanishes for Killing vectors",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f018c4cae8cbc096583f40bf90c87575e494f5c6",
+      "sectionIndex": 3,
+      "question": "In Riemannian geometry, the sectional curvature K(?) for a 2-plane ? is:",
+      "options": [
+        "A) Average of Ricci curvature",
+        "B) Gaussian curvature of geodesic surface",
+        "C) Related to R_αβγδ contracted with ?",
+        "D) Always positive"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dee3055fe9d9902aca3dddfdf6c835217ef26a8a",
+      "sectionIndex": 3,
+      "question": "The holonomy group of a connection describes:",
+      "options": [
+        "A) Parallel transport around closed loops",
+        "B) Symmetries of the manifold",
+        "C) Gauge transformations",
+        "D) Coordinate changes"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b429d3497ae534e202966c138bf521bd10fab8c4",
+      "sectionIndex": 3,
+      "question": "For a conformally flat metric g_μν = Ω2η_μν, the Weyl tensor:",
+      "options": [
+        "A) Equals that of flat space",
+        "B) Vanishes identically",
+        "C) Is proportional to Ω",
+        "D) Depends on derivatives of Ω"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8ad3f6e39c45cee4969ed0ae11765cf3b5f4cc4",
+      "sectionIndex": 4,
+      "question": "The optimal SOR relaxation parameter for the discrete Laplacian on an n-n grid is approximately:",
+      "options": [
+        "A) 1 + ?/n",
+        "B) 2 - 2?/n",
+        "C) 1.5",
+        "D) 2/(1+sin(?/n))"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69dec3692f252bf4fff064ac4af8f6556b46af6f",
+      "sectionIndex": 4,
+      "question": "In adaptive mesh refinement for PDEs, the error estimator should scale as:",
+      "options": [
+        "A) h^p where p is method order",
+        "B) h^(p+1)",
+        "C) h^(2p)",
+        "D) Independent of h"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1d57f27eb256836ecb95a4956cd62c713d049d1d",
+      "sectionIndex": 4,
+      "question": "The CFL condition for hyperbolic PDEs requires:",
+      "options": [
+        "A) \"t ? C\"x/|λ_max|",
+        "B) \"t ? \"x2",
+        "C) \"t = \"x",
+        "D) No restriction on \"t"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0312c86778f2af6a749b438d70371b2c382e14e2",
+      "sectionIndex": 4,
+      "question": "Symplectic integrators for Hamiltonian systems preserve:",
+      "options": [
+        "A) Energy exactly",
+        "B) Phase space volume",
+        "C) Angular momentum",
+        "D) All constants of motion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c4138cec4bcaf32bf1f2beac4a7690a42de3703",
+      "sectionIndex": 4,
+      "question": "The condition number of the Hilbert matrix H_ij = 1/(i+j-1) grows as:",
+      "options": [
+        "A) n2",
+        "B) e^n",
+        "C) n!",
+        "D) e^(3.5n)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "19adf9a2b6d4db5fd411b022b5c3b58d8af34ad5",
+      "sectionIndex": 4,
+      "question": "In multigrid methods, the smoothing property requires high-frequency errors to be:",
+      "options": [
+        "A) Amplified",
+        "B) Damped by relaxation",
+        "C) Transferred to coarse grid",
+        "D) Preserved exactly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5511d6517bf70ff319a65d6aa1af9b9d5a2552cd",
+      "sectionIndex": 4,
+      "question": "For stiff ODEs, backward differentiation formulas (BDF) of order k are:",
+      "options": [
+        "A) A-stable for all k",
+        "B) A-stable for k ? 2",
+        "C) L-stable for all k",
+        "D) Unstable for k > 6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1170b2b9eaa0f3ed14f3f21e3f161e316b07462a",
+      "sectionIndex": 4,
+      "question": "The Lax equivalence theorem states that for linear PDEs:",
+      "options": [
+        "A) Consistency implies convergence",
+        "B) Stability implies convergence",
+        "C) Consistency + Stability = Convergence",
+        "D) Convergence implies stability"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3d47f301152d137e9c922ea18f71c8cd376b1c6d",
+      "sectionIndex": 4,
+      "question": "In spectral methods for PDEs, the Gibbs phenomenon can be mitigated by:",
+      "options": [
+        "A) Using more modes",
+        "B) Filtering high frequencies",
+        "C) Adaptive grids",
+        "D) Lower-order methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe72560a3727a1a2306bba0fe19267298293ccb0",
+      "sectionIndex": 4,
+      "question": "The complexity of fast multipole method for N-body problems is:",
+      "options": [
+        "A) O(N2)",
+        "B) O(N log N)",
+        "C) O(N)",
+        "D) O(N^(3/2))"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2da00451a90e676f0b5f9f4b1bdd4a778df1dc44",
+      "sectionIndex": 5,
+      "question": "The residue of f(z) = z2/(e^z - 1) at z = 2?i is:",
+      "options": [
+        "A) -4?2",
+        "B) 4?2",
+        "C) -2?i",
+        "D) 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3df6759fb9e89fa01a3e2469bde3bb74fc7f4a4e",
+      "sectionIndex": 5,
+      "question": "For the integral ^,?^^z sin(x)/x dx using contour integration, the appropriate contour includes:",
+      "options": [
+        "A) Simple semicircle",
+        "B) Indented semicircle avoiding origin",
+        "C) Rectangular contour",
+        "D) Keyhole contour"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a1b23694390aa32c1f39e7859da9f2464a53ee6",
+      "sectionIndex": 5,
+      "question": "The asymptotic expansion of ^,?^^z e^(-x2) cos(2bx) dx as b?'^z by stationary phase is:",
+      "options": [
+        "A) ^s? e^(-b2)",
+        "B) ^s(?/2) b^(-1) e^(-b2)",
+        "C) ^s?/2",
+        "D) ?b^(-2)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0472370aa6e4a4538bfbd49b5f4675d36f215fe4",
+      "sectionIndex": 5,
+      "question": "The Mellin transform of f(x) = e^(-x) - e^(-2x) has poles at:",
+      "options": [
+        "A) s = 1, 2",
+        "B) s = -1, -2",
+        "C) All integers",
+        "D) No poles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "865674a49317716ca04cc60cd056d52ea49cc7c7",
+      "sectionIndex": 5,
+      "question": "Using the Bromwich integral for inverse Laplace transform of 1/(s2+1)2, the result is:",
+      "options": [
+        "A) (sin t - t cos t)/2",
+        "B) t sin t/2",
+        "C) (sin t + t cos t)/2",
+        "D) t2 sin t"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "500f5ecac7b578629ff9cb7a10e86984fd4ec53b",
+      "sectionIndex": 5,
+      "question": "The branch cut for log(z2-1) to make it single-valued should be placed:",
+      "options": [
+        "A) Along negative real axis",
+        "B) From -1 to 1",
+        "C) From -^z to -1 and 1 to ^z",
+        "D) Any of the above works"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e7f68e286b4c137f71e5c870d909393810b736fc",
+      "sectionIndex": 5,
+      "question": "For the elliptic integral K(k) = ^,?^(?/2) dθ/^s(1-k2sin2θ), as k?'1-:",
+      "options": [
+        "A) K ~ ?/2",
+        "B) K ~ log(4/^s(1-k2))",
+        "C) K ~ 1/(1-k2)",
+        "D) K remains finite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3c23eb307ad7bb1cd5f3f9352320f4db441d4fc",
+      "sectionIndex": 5,
+      "question": "The Watson lemma for ^,?^^z e^(-λt) t^α f(t) dt as λ?'^z gives leading term:",
+      "options": [
+        "A) λ^(-α-1) \"(α+1) f(0)",
+        "B) λ^(-1) f(0)",
+        "C) Independent of α",
+        "D) Depends on all derivatives of f"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e6c0715d64e09859da0651d7c46bb275640597c5",
+      "sectionIndex": 5,
+      "question": "The monodromy of solutions around a regular singular point of the hypergeometric equation involves:",
+      "options": [
+        "A) Rational multiples of 2?i",
+        "B) Logarithmic terms only",
+        "C) Connection coefficients relating solutions",
+        "D) Simple poles only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7f6f0b96bfb8489f8245d569b376879e88b0d2cb",
+      "sectionIndex": 5,
+      "question": "For evaluating ^ dz/[z(z2+1)3], the residue at z = i contributes:",
+      "options": [
+        "A) ?i/8",
+        "B) -?i/16",
+        "C) 3?i/16",
+        "D) 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "849ef39336896479b00e3c33c9711680c084a5ca",
+      "sectionIndex": 6,
+      "question": "The Fredholm alternative for K compact states that (I-K)u = f has a solution if and only if:",
+      "options": [
+        "A) f is orthogonal to null space of (I-K*)",
+        "B) K has no eigenvalue 1",
+        "C) f is in range of K",
+        "D) Kernel is symmetric"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0966b5c73a87a4618a4dedbcc0fdabc2563ea34d",
+      "sectionIndex": 6,
+      "question": "For the singular integral equation with Cauchy kernel, the index is determined by:",
+      "options": [
+        "A) Winding number of coefficient",
+        "B) Order of singularity",
+        "C) Dimension of kernel",
+        "D) Type of domain"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "51617514506113ed88994dda852be6877e85ff1b",
+      "sectionIndex": 6,
+      "question": "The spectrum of the compact operator Kf(x) = ^,?1 e^(xy) f(y) dy consists of:",
+      "options": [
+        "A) Continuous spectrum only",
+        "B) Point spectrum accumulating at 0",
+        "C) Essential spectrum",
+        "D) Empty set"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6f880757e3a32a37c6daaa7025a6e925ba9c626",
+      "sectionIndex": 6,
+      "question": "In the Wiener-Hopf method, the factorization K(α) = K,S(α)K,<(α) requires:",
+      "options": [
+        "A) K analytic everywhere",
+        "B) Specific growth conditions at infinity",
+        "C) K real on real axis",
+        "D) K periodic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ced71ffe2ee93dd51a6be5d25aea6649c7fa3de",
+      "sectionIndex": 6,
+      "question": "The resolvent kernel R(x,y;λ) for K satisfies:",
+      "options": [
+        "A) R = K + λKR",
+        "B) R = K + λRK",
+        "C) (I-λK)R = K",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "16b9572000c2a6f973322a6210c062f23bf6eea3",
+      "sectionIndex": 6,
+      "question": "For Volterra equation u(x) = f(x) + λ^,?x K(x,y)u(y)dy, the Neumann series converges:",
+      "options": [
+        "A) For |λ| < 1/||K||",
+        "B) For all λ",
+        "C) Only for λ = 0",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8cedd7643b52621fe1c33787c286065fa5a1848",
+      "sectionIndex": 6,
+      "question": "The trace formula for an integral operator relates:",
+      "options": [
+        "A) Trace to integral of kernel diagonal",
+        "B) Eigenvalues to kernel",
+        "C) Determinant to trace",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b31ad7b9b72723405ef9b1150902f4aa82e229d5",
+      "sectionIndex": 6,
+      "question": "Green's function for Sturm-Liouville operator L with homogeneous BCs satisfies:",
+      "options": [
+        "A) LG = 0",
+        "B) LG = δ(x-ξ)",
+        "C) Symmetry G(x,ξ) = G(ξ,x)",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a7e7040d37793c8b55bbbd37d5f0aaa1a738b231",
+      "sectionIndex": 6,
+      "question": "The method of successive approximations for nonlinear integral equations converges when:",
+      "options": [
+        "A) Lipschitz constant < 1",
+        "B) Kernel is positive",
+        "C) Domain is bounded",
+        "D) Initial guess is close"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "938461806dbc1ecdfdc58d5848e47e611310d79f",
+      "sectionIndex": 6,
+      "question": "For the Abel integral equation ^,?x u(t)/^s(x-t) dt = f(x), the solution involves:",
+      "options": [
+        "A) Differentiation only",
+        "B) Another singular integral",
+        "C) Fourier transform",
+        "D) Laplace transform"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e091cc69f5007c3b3671f01bc6aab57cf6440a8",
+      "sectionIndex": 7,
+      "question": "The Paley-Wiener theorem characterizes Fourier transforms of functions with compact support as:",
+      "options": [
+        "A) Entire functions of exponential type",
+        "B) Rapidly decreasing functions",
+        "C) Band-limited functions",
+        "D) Periodic functions"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e27be229214652145492ce22e8e5019dff5e851b",
+      "sectionIndex": 7,
+      "question": "For the Gibbs phenomenon, the overshoot for the partial sum S,T of the Fourier series approaches:",
+      "options": [
+        "A) ^,?^? (sin t)/t dt - ?/2 ?^ 0.089",
+        "B) 0.05",
+        "C) 0.18",
+        "D) Depends on jump size"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "765875ec3d68ad929bf2551ca201f66ed2cf1ee9",
+      "sectionIndex": 7,
+      "question": "The uncertainty principle \"x\"k ? 1/2 is saturated by:",
+      "options": [
+        "A) Gaussian only",
+        "B) Any function with compact support",
+        "C) Sinc function",
+        "D) Wavelets"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6a87e5c0986706c5a8f3c3d240efc376cd2dec30",
+      "sectionIndex": 7,
+      "question": "The continuous wavelet transform with admissible wavelet ^ requires:",
+      "options": [
+        "A) ^^ dx = 0",
+        "B) ^|^,(?)|2/|?| d? < ^z",
+        "C) ^ ^^ L2(\")",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9c826c01ada65f7058833eddcdc079e695203512",
+      "sectionIndex": 7,
+      "question": "The Shannon sampling theorem fails when:",
+      "options": [
+        "A) Signal is not band-limited",
+        "B) Sampling rate < 2- max frequency",
+        "C) Signal has discontinuities",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7f8cd243c5bcdd171ec4c3ac8271ec33f8af4841",
+      "sectionIndex": 7,
+      "question": "For fractional Fourier transform of order α, the kernel is:",
+      "options": [
+        "A) exp(iαxy)",
+        "B) exp(i cot(α)x2/2) exp(-i csc(α)xy) exp(i cot(α)y2/2)",
+        "C) (x+y)^α",
+        "D) J_α(xy)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "590025c13ac34ea515bd651a16c2a42efdb6828a",
+      "sectionIndex": 7,
+      "question": "The Poisson summation formula ^'f(n) = ^'f,(2?n) requires:",
+      "options": [
+        "A) f absolutely integrable",
+        "B) f and f, in L1",
+        "C) Sufficient decay of f and f,",
+        "D) f continuous"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2838b35216fdc6ae4f4c50f8f8cfff34ba857523",
+      "sectionIndex": 7,
+      "question": "Meyer wavelets achieve:",
+      "options": [
+        "A) Compact support in space",
+        "B) Compact support in frequency",
+        "C) Optimal time-frequency localization",
+        "D) Orthogonal decomposition with smooth wavelets"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "24256bf5a589bdc09f06ec6af22944e8c3a9d724",
+      "sectionIndex": 7,
+      "question": "The Wigner distribution W(x,k) for quantum/signal analysis satisfies:",
+      "options": [
+        "A) W ? 0 everywhere",
+        "B) ^W dk gives |^(x)|2",
+        "C) Can be negative",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e5e5bb46c1f0a7051cdaab7f572acf2f6219406f",
+      "sectionIndex": 7,
+      "question": "The prolate spheroidal wave functions are eigenfunctions of:",
+      "options": [
+        "A) Fourier transform",
+        "B) Finite Fourier transform on [-1,1]",
+        "C) Time and band limiting operator",
+        "D) Laplacian"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aca6cb0c757cbe48b0c0cf090fdceadf2f4ca9b1",
+      "sectionIndex": 8,
+      "question": "The Euler-Lagrange equation for ^F(x,y,y',y'')dx is:",
+      "options": [
+        "A) ^,F/^,y - d/dx(^,F/^,y') = 0",
+        "B) ^,F/^,y - d/dx(^,F/^,y') + d2/dx2(^,F/^,y'') = 0",
+        "C) Complex expression with boundary terms",
+        "D) Requires integration by parts twice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a63428174a0092fc2d911dd0b116d68189a01248",
+      "sectionIndex": 8,
+      "question": "The transversality condition for free endpoint problems states:",
+      "options": [
+        "A) y(b) = 0",
+        "B) [^,F/^,y']_{x=b} = 0",
+        "C) F - y'^,F/^,y' = 0 at x = b",
+        "D) Natural boundary condition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "216c9593d6e4311dcbf90b1ce1c9a875847e4b5d",
+      "sectionIndex": 8,
+      "question": "For the isoperimetric problem with constraint ^G dx = constant, the modified functional includes:",
+      "options": [
+        "A) Penalty term",
+        "B) Lagrange multiplier λ",
+        "C) Barrier function",
+        "D) Slack variable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95eb2db56dee707db34868a0483d7113088c827d",
+      "sectionIndex": 8,
+      "question": "The Hamilton-Jacobi-Bellman equation for optimal control arises from:",
+      "options": [
+        "A) Pontryagin's principle",
+        "B) Dynamic programming",
+        "C) Calculus of variations",
+        "D) Lagrange multipliers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6277d323b506a8b9aae926995122467913579e9",
+      "sectionIndex": 8,
+      "question": "The Legendre condition for a minimum requires:",
+      "options": [
+        "A) ^,2F/^,y'2 > 0",
+        "B) ^,2F/^,y2 > 0",
+        "C) Jacobi equation has no conjugate points",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "fa729a6a435e33a83d7ed05349d999d85c8546b8",
+      "sectionIndex": 8,
+      "question": "Noether's theorem relates symmetries to:",
+      "options": [
+        "A) Conservation laws",
+        "B) Integrability",
+        "C) Stability",
+        "D) Periodicity"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3168a409c7b4438157b5dab792e6eed36e03083b",
+      "sectionIndex": 8,
+      "question": "The Weierstrass excess function E(x,y,y',p) tests for:",
+      "options": [
+        "A) Local minimum",
+        "B) Strong minimum",
+        "C) Existence",
+        "D) Uniqueness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4d13bae3b18ef755c30fb7658b6f1e920f472ee",
+      "sectionIndex": 8,
+      "question": "In optimal control with state constraints g(x,u) ? 0, the multipliers:",
+      "options": [
+        "A) Are continuous",
+        "B) May contain measures",
+        "C) Satisfy complementary slackness",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "104353831c51b7d19d61e4103ab95933c2450a03",
+      "sectionIndex": 8,
+      "question": "The field of extremals for a variational problem provides:",
+      "options": [
+        "A) Sufficient condition via Weierstrass",
+        "B) Envelope of solutions",
+        "C) Hamilton-Jacobi equation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d04f77ddd15f65eb399be2256587d22e7aed144a",
+      "sectionIndex": 8,
+      "question": "Bang-bang control arises when:",
+      "options": [
+        "A) System is linear",
+        "B) Control appears linearly in Hamiltonian",
+        "C) Cost is quadratic",
+        "D) Time is fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2137bf370ad7ca026edba4999e1c694a6ef2f3eb",
+      "sectionIndex": 9,
+      "question": "The Fokker-Planck equation for the SDE dX = μ(X)dt + f(X)dW is:",
+      "options": [
+        "A) ^,p/^,t = -^,(μp)/^,x + ^,2(f2p)/^,x2",
+        "B) ^,p/^,t = -^,(μp)/^,x + 1⁄2^,2(f2p)/^,x2",
+        "C) ^,p/^,t = μ^,p/^,x + f2^,2p/^,x2",
+        "D) Depends on Ito vs Stratonovich"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4194a98fce4cf7ba657d89c78c8a2c60bcd9c44",
+      "sectionIndex": 9,
+      "question": "The Feynman-Kac formula connects SDEs to:",
+      "options": [
+        "A) ODEs",
+        "B) PDEs",
+        "C) Integral equations",
+        "D) Algebraic equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d71b21c430ce3b1afe69918b78cf1557eab82f5",
+      "sectionIndex": 9,
+      "question": "For mean-field equations, the McKean-Vlasov limit describes:",
+      "options": [
+        "A) Small noise limit",
+        "B) Large particle number limit",
+        "C) Long time behavior",
+        "D) Rare events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7027adafe3cebc07e3142666dc8bd369bff68f3c",
+      "sectionIndex": 9,
+      "question": "The Cameron-Martin theorem describes:",
+      "options": [
+        "A) Change of measure for Brownian motion",
+        "B) Large deviations",
+        "C) Ergodic properties",
+        "D) Martingale convergence"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5d3e2525cb807a038deb8fa97b6303444686e8ea",
+      "sectionIndex": 9,
+      "question": "Homogenization of SDEs with rapidly oscillating coefficients yields:",
+      "options": [
+        "A) Averaged equation",
+        "B) Same equation with renormalized coefficients",
+        "C) Effective diffusion coefficient",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "18cd5c869e3750ec6a02b7c63ebd9d7851b2c926",
+      "sectionIndex": 9,
+      "question": "The Donsker invariance principle states that random walk converges to:",
+      "options": [
+        "A) Normal distribution",
+        "B) Brownian motion",
+        "C) Poisson process",
+        "D) Stable process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c17b6f10e5ff7892ab23527972530190afcdd44",
+      "sectionIndex": 9,
+      "question": "Large deviation principle for empirical measures involves:",
+      "options": [
+        "A) Rate function from relative entropy",
+        "B) Exponential decay rates",
+        "C) Variational characterization",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "709268e7698b52c4ea63f933cc8e4967e20ed22a",
+      "sectionIndex": 9,
+      "question": "The Malliavin calculus extends to Wiener space:",
+      "options": [
+        "A) Ito calculus",
+        "B) Differential calculus",
+        "C) Variational calculus",
+        "D) Functional calculus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84568d7946b5d2d81f6c899e87ede21935d3dc08",
+      "sectionIndex": 9,
+      "question": "For the KPZ equation ^,h/^,t = ν^?2h + λ(^?h)2 + η, the scaling exponents satisfy:",
+      "options": [
+        "A) z = 3/2 in 1D",
+        "B) z = 2 always",
+        "C) Depend on dimension",
+        "D) Both A and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b44682d95c739fe171beea4795fae67ec8a90c4e",
+      "sectionIndex": 9,
+      "question": "The replica method in statistical mechanics involves:",
+      "options": [
+        "A) Averaging log Z via lim n?'0 (Z^n-1)/n",
+        "B) Multiple copies of system",
+        "C) Analytical continuation",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    }
+  ]
+}

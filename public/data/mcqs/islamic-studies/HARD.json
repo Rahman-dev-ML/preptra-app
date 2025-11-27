@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:56:51.124Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "b1f5aa4ae6b340d078dac246cd347a8deab1b823",
+      "sectionIndex": 0,
+      "question": "The Ash'ari-Maturidi synthesis in Sunni theology represents:",
+      "options": [
+        "A) Complete agreement",
+        "B) Nuanced differences on divine attributes and human agency",
+        "C) Fundamental opposition",
+        "D) Regional variations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08f7236292ac91f8aacf6df0b1ada283e66d8626",
+      "sectionIndex": 0,
+      "question": "The theological implications of the Mu'tazila doctrine of created Quran challenged:",
+      "options": [
+        "A) Prophetic authority",
+        "B) Divine transcendence and nature of revelation",
+        "C) Hadith authenticity",
+        "D) Legal methodology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16402f5298483ad475d2d657c005d243db76f767",
+      "sectionIndex": 0,
+      "question": "Ibn Taymiyyah's critique of philosophical theology (kalam) centered on:",
+      "options": [
+        "A) Rejection of reason",
+        "B) Privileging scriptural methodology over Greek-influenced rationalism",
+        "C) Anti-intellectualism",
+        "D) Political motivations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb701bb2583f60e1aa722135b51b1f02005d38c6",
+      "sectionIndex": 0,
+      "question": "The concept of wahdat al-wujud (unity of existence) versus wahdat al-shuhud represents:",
+      "options": [
+        "A) Semantic difference",
+        "B) Fundamental divergence in understanding divine-creation relationship",
+        "C) Political factions",
+        "D) Geographic schools"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3be14a8e5759a683bc8c41e6e6ed528981faac41",
+      "sectionIndex": 0,
+      "question": "The theological problem of reconciling divine omniscience with human free will involves:",
+      "options": [
+        "A) Simple contradiction",
+        "B) Complex discussions on temporal knowledge and moral agency",
+        "C) Rejection of one aspect",
+        "D) Practical irrelevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "031a184e10ab3f03af23270e09a39f63b2f17801",
+      "sectionIndex": 0,
+      "question": "Al-Ghazali's \"Incoherence of the Philosophers\" primarily targeted:",
+      "options": [
+        "A) All philosophy",
+        "B) Specific Aristotelian-Avicennian doctrines incompatible with Islamic theology",
+        "C) Scientific inquiry",
+        "D) Legal reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd30d8c959ea0201f644352143651f6e2b7a4446",
+      "sectionIndex": 0,
+      "question": "The development of 'ilm al-kalam responded to:",
+      "options": [
+        "A) Internal needs only",
+        "B) Hellenistic challenges and internal theological disputes",
+        "C) Political pressure",
+        "D) Economic factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94b259eb535561acef043359d14570bb390642d4",
+      "sectionIndex": 0,
+      "question": "The concept of kasb (acquisition) in human actions attempts to:",
+      "options": [
+        "A) Deny free will",
+        "B) Reconcile divine creation with human responsibility",
+        "C) Promote fatalism",
+        "D) Simplify theology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53f91a6e3e802a795b0ef1fb0b23b62a654ff0de",
+      "sectionIndex": 0,
+      "question": "Post-classical theological developments like the wujudi argument demonstrate:",
+      "options": [
+        "A) Stagnation",
+        "B) Continued sophistication in rational theology",
+        "C) Western influence",
+        "D) Decline in reasoning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b84f0e58d2579fd7848fc97569a9584cd9913702",
+      "sectionIndex": 0,
+      "question": "Contemporary theological challenges from neuroscience and physics require:",
+      "options": [
+        "A) Rejection of science",
+        "B) Renewed theological engagement with empirical findings",
+        "C) Separate domains",
+        "D) Traditional responses only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df756578a3de923a0f979c30dac3956756d07786",
+      "sectionIndex": 1,
+      "question": "The jurisprudential principle of rukhsah (concession) in worship reflects:",
+      "options": [
+        "A) Laxity",
+        "B) Systematic accommodation of human limitations within divine law",
+        "C) Modern innovation",
+        "D) Cultural adaptation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba3136c80d5dda61f18628ac1921fdba4a5c7639",
+      "sectionIndex": 1,
+      "question": "The socio-economic philosophy underlying Zakat transcends charity to establish:",
+      "options": [
+        "A) Voluntary giving",
+        "B) Structural redistribution mechanism challenging wealth concentration",
+        "C) Tax system",
+        "D) Religious ritual only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ab5d9b56e55dc7af62b112c2704769af9d39e9e",
+      "sectionIndex": 1,
+      "question": "The phenomenology of Islamic prayer (khushu') intersects with:",
+      "options": [
+        "A) Physical movements only",
+        "B) Consciousness studies and embodied cognition",
+        "C) Cultural practices",
+        "D) Time management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a49b798d25de5262978a7e3fc6d15c9c2595838",
+      "sectionIndex": 1,
+      "question": "The Hajj's egalitarian symbolism confronts contemporary Muslims with:",
+      "options": [
+        "A) Ritual performance",
+        "B) Tension between ideal unity and actual socio-economic stratification",
+        "C) Travel logistics",
+        "D) Historical reenactment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "efe23de4d881ad4c7eac73b7297a6f3f61b8852b",
+      "sectionIndex": 1,
+      "question": "The evolution of Jihad doctrine from classical to contemporary periods reveals:",
+      "options": [
+        "A) Unchanging concept",
+        "B) Dynamic reinterpretation responding to changed geopolitical realities",
+        "C) Abandonment of principle",
+        "D) Purely defensive stance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8afa797d8307ccdd6ef86359b72d7013c976b7f9",
+      "sectionIndex": 1,
+      "question": "The relationship between ritual purity and spiritual purification in Islamic thought suggests:",
+      "options": [
+        "A) Arbitrary rules",
+        "B) Psycho-spiritual pedagogy through physical discipline",
+        "C) Health concerns only",
+        "D) Cultural practices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3fee498ccee3a1ad188ea3c9bc189c23d832d75",
+      "sectionIndex": 1,
+      "question": "Modern challenges to traditional Zakat calculation include:",
+      "options": [
+        "A) Simple mathematics",
+        "B) Complex financial instruments and wealth forms",
+        "C) Inflation only",
+        "D) Collection methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75122b7e76c82f1e5923d36876a249ad6b5bf165",
+      "sectionIndex": 1,
+      "question": "The performative aspects of Islamic rituals analyzed through anthropological lens reveal:",
+      "options": [
+        "A) Mere repetition",
+        "B) Identity construction and community formation",
+        "C) Individual practice",
+        "D) Historical tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa3d3bc5837af0c359fa9592cacae02434054aa7",
+      "sectionIndex": 1,
+      "question": "The debate over moon-sighting versus calculation for Islamic months reflects:",
+      "options": [
+        "A) Scientific ignorance",
+        "B) Tension between textual methodology and astronomical certainty",
+        "C) Regional preference",
+        "D) Political divisions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a47bd180d0716d4c3396ea489344ee5c9cabcda5",
+      "sectionIndex": 1,
+      "question": "Contemporary bioethical issues in fasting (medical conditions, Arctic regions) require:",
+      "options": [
+        "A) Rigid application",
+        "B) Sophisticated jurisprudential reasoning on objectives versus forms",
+        "C) Individual choice",
+        "D) Medical opinion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db5cd1f634517f24083b2ede6a35b3f525a44fd9",
+      "sectionIndex": 2,
+      "question": "The hermeneutical principle of al-'am wa'l-khass demonstrates:",
+      "options": [
+        "A) Contradiction",
+        "B) Sophisticated textual interpretation methodology",
+        "C) Translation issues",
+        "D) Historical development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3062582a5aeb81bb68f4193960bd8c45390c3e4",
+      "sectionIndex": 2,
+      "question": "Contemporary approaches to Hadith authentication beyond traditional isnad criticism include:",
+      "options": [
+        "A) Rejection of method",
+        "B) Historical-critical and content analysis methods",
+        "C) Blind acceptance",
+        "D) Political considerations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5189579bc7a884c6a94b2f25f1768f732dedee37",
+      "sectionIndex": 2,
+      "question": "The intertextuality between Quranic narratives and Biblical traditions suggests:",
+      "options": [
+        "A) Borrowing",
+        "B) Dialogical revelation addressing existing religious consciousness",
+        "C) Historical errors",
+        "D) Cultural influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73fb4ce4f369641900b39e2f2398c2b8e4536c47",
+      "sectionIndex": 2,
+      "question": "The phenomenon of variant readings (qira'at) theologically implies:",
+      "options": [
+        "A) Textual corruption",
+        "B) Divine accommodation of linguistic diversity",
+        "C) Human error",
+        "D) Regional differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "213b5f496e2674a8a1d83e59b99443ab7aebb91d",
+      "sectionIndex": 2,
+      "question": "Modern linguistic analysis of Quranic Arabic reveals:",
+      "options": [
+        "A) Simple language",
+        "B) Sophisticated rhetorical structures challenging translation",
+        "C) Dialectical variations",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ebbbc72a5aff91c14ae9636acdc7e4e4a90b58b",
+      "sectionIndex": 2,
+      "question": "The relationship between asbab al-nuzul and universal applicability demonstrates:",
+      "options": [
+        "A) Contradiction",
+        "B) Particular-universal dialectic in revelation",
+        "C) Historical limitation",
+        "D) Contextual irrelevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34892b9c713a49a9deee2ce88092fa1fb9879690",
+      "sectionIndex": 2,
+      "question": "Critical hadith studies' engagement with orientalist critiques produced:",
+      "options": [
+        "A) Defensive apologetics",
+        "B) Methodological refinements and historical consciousness",
+        "C) Rejection of tradition",
+        "D) Western adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eabb77b126f799d33c28222fd4a3424f733bd82",
+      "sectionIndex": 2,
+      "question": "The concept of mutawatir versus ahad narrations impacts:",
+      "options": [
+        "A) Historical interest",
+        "B) Epistemological certainty and legal application",
+        "C) No practical difference",
+        "D) Scholarly debates only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7f8e6fbf3326c5eecd58cb199b1f4232c962f29",
+      "sectionIndex": 2,
+      "question": "Fazlur Rahman's \"double movement\" theory of Quranic interpretation proposes:",
+      "options": [
+        "A) Literal reading",
+        "B) Historical contextualization returning to contemporary application",
+        "C) Rejection of tradition",
+        "D) Philosophical approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "200191978d1787ebf5b5442b549acae923bb1d12",
+      "sectionIndex": 2,
+      "question": "The integration of maqasid (objectives) approach with textual interpretation addresses:",
+      "options": [
+        "A) Legal technicalities",
+        "B) Spirit-letter tension in contemporary applications",
+        "C) Historical curiosity",
+        "D) Academic exercise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6bf8abfd3842f21b44281ba45b76dcb78197546",
+      "sectionIndex": 3,
+      "question": "The epistemological foundations of qiyas involve assumptions about:",
+      "options": [
+        "A) Textual clarity",
+        "B) Divine wisdom's accessibility through rational inference",
+        "C) Human authority",
+        "D) Precedent following"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c988173eadf48f2d304b2aaaceaac52065fa7cf2",
+      "sectionIndex": 3,
+      "question": "The tension between 'urf (custom) and nass (text) in Islamic law reveals:",
+      "options": [
+        "A) Legal confusion",
+        "B) Dynamic interaction between universal principles and cultural particulars",
+        "C) Textual supremacy",
+        "D) Cultural dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f4930fb8acabc88c571b8bdf08fc34c2130dfdc",
+      "sectionIndex": 3,
+      "question": "Contemporary ijtihad's challenges include navigating:",
+      "options": [
+        "A) Traditional texts only",
+        "B) Unprecedented issues requiring interdisciplinary expertise",
+        "C) Political pressure",
+        "D) Economic interests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f1faa6eb737c1585bd9fed4ecd780d446a3159a",
+      "sectionIndex": 3,
+      "question": "The concept of siyasah shar'iyyah provides space for:",
+      "options": [
+        "A) Secular law",
+        "B) Governance flexibility within Islamic legal objectives",
+        "C) Abandoning Shariah",
+        "D) Arbitrary rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3fd6a989a3f0d30373fa4706fb063891402a959",
+      "sectionIndex": 3,
+      "question": "The debate over codification of Islamic law reflects tensions between:",
+      "options": [
+        "A) Schools only",
+        "B) Flexibility of traditional jurisprudence and modern legal certainty",
+        "C) Countries",
+        "D) Scholars"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11bddb6933eb1146375d14be2e0d8b95fa0acb68",
+      "sectionIndex": 3,
+      "question": "Maqasid-based jurisprudence potentially:",
+      "options": [
+        "A) Replaces traditional methods",
+        "B) Complements text-based reasoning with teleological considerations",
+        "C) Abandons texts",
+        "D) Promotes relativism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "477c2c2811594a7bafafc8d5a03c29bf0985f80e",
+      "sectionIndex": 3,
+      "question": "The relationship between Islamic law and international law requires:",
+      "options": [
+        "A) Complete separation",
+        "B) Complex negotiations on sovereignty and universal values",
+        "C) Rejection of one",
+        "D) Simple adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7b461477d08ed8f86132f509f168ea26e607c91",
+      "sectionIndex": 3,
+      "question": "Gender-sensitive readings of Islamic legal texts employ:",
+      "options": [
+        "A) Modern feminism only",
+        "B) Hermeneutical strategies within Islamic methodological framework",
+        "C) Rejection of texts",
+        "D) Cultural relativism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "748a1e3c26824335dce9d76cb576fea1dd61de4f",
+      "sectionIndex": 3,
+      "question": "The challenge of minority fiqh (fiqh al-aqalliyyat) involves:",
+      "options": [
+        "A) Isolation",
+        "B) Balancing Islamic identity with civic integration",
+        "C) Assimilation",
+        "D) Legal separation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0246fca90a2e2ec4c685240f8f3197d33e9d462",
+      "sectionIndex": 3,
+      "question": "Post-colonial Islamic legal reform movements demonstrate:",
+      "options": [
+        "A) Western imitation",
+        "B) Complex negotiation between authenticity and modernity",
+        "C) Return to past",
+        "D) Abandonment of law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dca45f5086e7a99c91eda6d9ff27bf2e64473ac8",
+      "sectionIndex": 4,
+      "question": "The Prophet's paradigm shift from tribal to ethical-religious identity represents:",
+      "options": [
+        "A) Political strategy",
+        "B) Fundamental transformation of social consciousness",
+        "C) Economic necessity",
+        "D) Personal preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c1b700e8c1043693abdc92374d524c3f1f6266c",
+      "sectionIndex": 4,
+      "question": "Analysis of Prophetic military campaigns through just war theory reveals:",
+      "options": [
+        "A) Aggressive expansion",
+        "B) Defensive strategy with ethical constraints unprecedented in context",
+        "C) Pacifism",
+        "D) Conventional warfare"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6aa86b46aea5518fcd92bfa0729e63a6ea335ee3",
+      "sectionIndex": 4,
+      "question": "The Prophetic model of religious pluralism in Medina challenges:",
+      "options": [
+        "A) Islamic supremacy",
+        "B) Exclusivist readings through practical coexistence framework",
+        "C) Modern secularism",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9fbd7c253926a67021805a4de840ddc82f508c5",
+      "sectionIndex": 4,
+      "question": "The pedagogical methods in Prophetic teaching demonstrate:",
+      "options": [
+        "A) Rote learning",
+        "B) Sophisticated understanding of human psychology and gradual reform",
+        "C) Theoretical abstraction",
+        "D) Cultural limitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6732fac2fe2137ce04cad327452a5b060fd68999",
+      "sectionIndex": 4,
+      "question": "Contemporary leadership studies' analysis of Prophetic leadership reveals:",
+      "options": [
+        "A) Charismatic authority only",
+        "B) Transformational leadership integrating spiritual and temporal dimensions",
+        "C) Authoritarian model",
+        "D) Democratic ideals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53beb710d9e67395fdcda5bdfafbae0b6485879a",
+      "sectionIndex": 4,
+      "question": "The Prophetic economic model's relevance to modern capitalism lies in:",
+      "options": [
+        "A) Rejection of profit",
+        "B) Ethical constraints on wealth accumulation and distribution",
+        "C) Primitive economy",
+        "D) Socialism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "751975d1efc8183b5b6cd9de61c78ffd465d05cd",
+      "sectionIndex": 4,
+      "question": "Gender relations in Prophetic practice versus later interpretations show:",
+      "options": [
+        "A) Unchanging norms",
+        "B) More progressive original practice overlaid with cultural accretions",
+        "C) Modern values",
+        "D) Contradictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd766aff8d92147ae44f76b1dd63e65b44177adc",
+      "sectionIndex": 4,
+      "question": "The Prophetic approach to conflict resolution emphasized:",
+      "options": [
+        "A) Military solutions",
+        "B) Multilayered strategies prioritizing reconciliation",
+        "C) Avoidance",
+        "D) Domination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d755c4cc12d08c13bec83dc1a2659ad2ff5ae64a",
+      "sectionIndex": 4,
+      "question": "Psychological analysis of Prophetic night journey (Isra/Mi'raj) narratives reveals:",
+      "options": [
+        "A) Literal account only",
+        "B) Spiritual experiences transcending ordinary consciousness",
+        "C) Symbolic story",
+        "D) Historical impossibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cede9fb42e872298143524f9a6b62234232ffed9",
+      "sectionIndex": 4,
+      "question": "The Prophetic model's contemporary applicability requires:",
+      "options": [
+        "A) Literal imitation",
+        "B) Principled extraction adapting to changed contexts",
+        "C) Historical study only",
+        "D) Selective adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32087de4a2d55614c401677fa8d2a7f93aef7e89",
+      "sectionIndex": 5,
+      "question": "The caliphate's theological-political dimensions reveal tensions between:",
+      "options": [
+        "A) Theory and practice",
+        "B) Divine sovereignty and human agency in governance",
+        "C) Democracy and theocracy",
+        "D) Past and present"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bc8f1006b111a947b6c74cf63038369454619cc",
+      "sectionIndex": 5,
+      "question": "Contemporary Islamic political thought's engagement with democracy shows:",
+      "options": [
+        "A) Wholesale adoption",
+        "B) Critical appropriation distinguishing procedures from philosophical foundations",
+        "C) Complete rejection",
+        "D) Confusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b17a78e9889df1703960e4e36fef324fdec7a6f",
+      "sectionIndex": 5,
+      "question": "The concept of hakimiyyah (divine sovereignty) in modern Islamist thought represents:",
+      "options": [
+        "A) Traditional concept",
+        "B) Modern ideological construction responding to secular nationalism",
+        "C) Quranic term",
+        "D) Universal agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fe673ff45ad5e5c98391dcaececa89c00dd24d6",
+      "sectionIndex": 5,
+      "question": "Post-colonial Muslim states' struggles with Islamic identity reflect:",
+      "options": [
+        "A) Religious decline",
+        "B) Complex negotiations between inherited institutions and Islamic legitimacy",
+        "C) Western conspiracy",
+        "D) Economic factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a738d6947c322e7124981d363bdc51e520372bc",
+      "sectionIndex": 5,
+      "question": "The feasibility of Islamic welfare state in global capitalism requires:",
+      "options": [
+        "A) Isolation",
+        "B) Creative institutional arrangements balancing Islamic principles with economic realities",
+        "C) Socialist revolution",
+        "D) Capitalist adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4197c09563b09a99946f104b34f32649d75ced8",
+      "sectionIndex": 5,
+      "question": "Shura's (consultation) relationship to modern democracy involves:",
+      "options": [
+        "A) Identical concepts",
+        "B) Overlapping but distinct theoretical foundations and practices",
+        "C) Complete opposition",
+        "D) Semantic difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2c8926011f4d01ad2879f410ca4821405b617df",
+      "sectionIndex": 5,
+      "question": "The role of ulama in modern governance raises questions about:",
+      "options": [
+        "A) Religious authority only",
+        "B) Expertise, representation, and democratic legitimacy",
+        "C) Traditional roles",
+        "D) Educational qualifications"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac21014f54a37d88ccea4075ec81128345f13a7b",
+      "sectionIndex": 5,
+      "question": "Islamic international relations theory challenges Westphalian order through:",
+      "options": [
+        "A) Military jihad",
+        "B) Alternative conceptions of sovereignty and ummah solidarity",
+        "C) Isolation",
+        "D) Acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cecff2834f2c8ee4d7546f42c93956a8e30d57d3",
+      "sectionIndex": 5,
+      "question": "The application of hudud in contemporary contexts involves debates over:",
+      "options": [
+        "A) Textual interpretation only",
+        "B) Conditions, procedures, and objectives within modern legal systems",
+        "C) Abolition",
+        "D) Harsh implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aafb462267659e1d4591c4216d2e4656327194e5",
+      "sectionIndex": 5,
+      "question": "Citizenship concepts in Islamic political thought must reconcile:",
+      "options": [
+        "A) Nothing",
+        "B) Religious community with territorial nation-state framework",
+        "C) Complete separation",
+        "D) Historical models only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a33895e9f31b2f9570a134d8f8ab02d59b82755c",
+      "sectionIndex": 6,
+      "question": "Feminist hermeneutics of Quran challenges traditional exegesis through:",
+      "options": [
+        "A) Rejection of text",
+        "B) Linguistic analysis and holistic reading strategies",
+        "C) Western feminism",
+        "D) Male exclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bea22acb86246a2ef23afe9833f21bee85b3996e",
+      "sectionIndex": 6,
+      "question": "The public-private divide in Islamic gender discourse reflects:",
+      "options": [
+        "A) Natural order",
+        "B) Historical construction influenced by cultural patriarchy",
+        "C) Divine command",
+        "D) Biological necessity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b24f551580babe62d2bffccab5459cd72f04a7a0",
+      "sectionIndex": 6,
+      "question": "Contemporary debates on women's leadership examine:",
+      "options": [
+        "A) Clear prohibition",
+        "B) Contextual hadith interpretation versus Quranic principles",
+        "C) Modern innovation",
+        "D) Cultural preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d50511d78f7585f36d93bf46410082e1f4aa5c9d",
+      "sectionIndex": 6,
+      "question": "The intersection of Islamic law and international women's rights requires:",
+      "options": [
+        "A) Choosing one",
+        "B) Critical engagement identifying commonalities and specificities",
+        "C) Rejection of both",
+        "D) Surface harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e314ae0228488a6c4282e36a498079a0d0acd32",
+      "sectionIndex": 6,
+      "question": "Economic participation of women in early Islam versus later restrictions indicates:",
+      "options": [
+        "A) Regression",
+        "B) Impact of cultural practices on religious interpretation",
+        "C) Clear religious mandate",
+        "D) Economic necessity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3c8049986cc3eea99510671c2384c94518cd31d",
+      "sectionIndex": 6,
+      "question": "The debate over women's mosque access reflects:",
+      "options": [
+        "A) Religious clarity",
+        "B) Cultural practices masquerading as religious norms",
+        "C) Safety concerns only",
+        "D) Architectural issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a7e0d0df1b4a4b4993521d19636e8f91cc95bb1",
+      "sectionIndex": 6,
+      "question": "Islamic feminism's methodology differs from secular feminism in:",
+      "options": [
+        "A) Goals only",
+        "B) Epistemological framework rooted in religious sources",
+        "C) No significant difference",
+        "D) Rejection of equality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "460988c26348bc68ebf13188206546041827bee5",
+      "sectionIndex": 6,
+      "question": "Contemporary bioethical issues (contraception, abortion) require analysis of:",
+      "options": [
+        "A) Traditional rulings only",
+        "B) Maqasid framework balancing individual and societal considerations",
+        "C) Western medical ethics",
+        "D) Cultural norms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98c7fa8f6b680a8ae1b84db80bb6c5388a5be0f5",
+      "sectionIndex": 6,
+      "question": "The modesty discourse's evolution shows:",
+      "options": [
+        "A) Fixed requirements",
+        "B) Dynamic interaction between religious principles and cultural expressions",
+        "C) Western influence only",
+        "D) Male domination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81a8f6e1276b34c0dff70d9e6ada0223c4cd24ce",
+      "sectionIndex": 6,
+      "question": "Muslim women's agency in religious interpretation challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Male monopoly on religious authority",
+        "C) Religious texts",
+        "D) Social order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b723fde329e639899ffa11fe2a440465656f803",
+      "sectionIndex": 7,
+      "question": "The epistemological crisis facing Muslim youth involves:",
+      "options": [
+        "A) Simple faith crisis",
+        "B) Navigating between traditional authority and modern knowledge systems",
+        "C) Western influence only",
+        "D) Educational failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34aeeb3de4fba89641591d5ee5f0bc851d5d5cce",
+      "sectionIndex": 7,
+      "question": "Islamic responses to environmental crisis must address:",
+      "options": [
+        "A) Scientific solutions only",
+        "B) Theological anthropology and economic structures",
+        "C) Traditional practices",
+        "D) Government policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5a930a9f33a6df564e855921e6d6ddefc8c03b8",
+      "sectionIndex": 7,
+      "question": "The halal economy phenomenon represents:",
+      "options": [
+        "A) Dietary laws only",
+        "B) Identity politics intersecting with global capitalism",
+        "C) Economic protectionism",
+        "D) Marketing strategy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52bfe82d1841048e3a349d6585ed822902a9676c",
+      "sectionIndex": 7,
+      "question": "Muslim minorities' navigation of secular liberalism involves:",
+      "options": [
+        "A) Assimilation",
+        "B) Negotiating religious freedom within liberal constraints",
+        "C) Isolation",
+        "D) Confrontation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e197907180458ed1cce505810372b9827cc5889d",
+      "sectionIndex": 7,
+      "question": "The challenge of artificial intelligence for Islamic ethics includes:",
+      "options": [
+        "A) Technical issues only",
+        "B) Questions of consciousness, moral agency, and human dignity",
+        "C) Economic impact",
+        "D) Legal frameworks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "daa62467c42e3281875a72512c0197592ea1d65e",
+      "sectionIndex": 7,
+      "question": "Contemporary jihadi movements' ideological foundations reveal:",
+      "options": [
+        "A) Traditional Islam",
+        "B) Modern political ideologies dressed in religious language",
+        "C) Legitimate resistance",
+        "D) Mental illness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6482c0334f9fcf593f89f3684e59dbb64c7bef7",
+      "sectionIndex": 7,
+      "question": "The Islamic finance industry's Shariah-compliance debates expose:",
+      "options": [
+        "A) Simple application",
+        "B) Tensions between form and substance in financial engineering",
+        "C) Complete success",
+        "D) Western rejection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd6c36a07555e07e158d3b80fbb7f702acd07570",
+      "sectionIndex": 7,
+      "question": "Digital fatwa platforms' impact on religious authority shows:",
+      "options": [
+        "A) Democratization only",
+        "B) Fragmentation and contestation of traditional structures",
+        "C) Improved access",
+        "D) Quality enhancement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "487ee9a782cac689db54eed1b5c0fdaeed9a2ab7",
+      "sectionIndex": 7,
+      "question": "The phenomenon of \"everyday Islam\" studies reveals:",
+      "options": [
+        "A) Uniform practice",
+        "B) Lived religion's complexity beyond normative prescriptions",
+        "C) Decline in observance",
+        "D) Cultural Islam only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5942840d35a39b2d813158083eeb93d55c1b2057",
+      "sectionIndex": 7,
+      "question": "Post-secular discussions' relevance for Islam involves:",
+      "options": [
+        "A) Return to tradition",
+        "B) Rethinking religion's public role beyond secularization thesis",
+        "C) Rejection of modernity",
+        "D) Western framework"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5700d4037d8f75bdec66b2a138a07dc4078eb010",
+      "sectionIndex": 8,
+      "question": "Virtue ethics in Islamic philosophy (Miskawayh, Tusi) integrates:",
+      "options": [
+        "A) Greek thought only",
+        "B) Aristotelian insights with Quranic moral psychology",
+        "C) Rejection of philosophy",
+        "D) Sufi practices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3926bb3f2a6799400d4e969fc652c6fd51cfd1d3",
+      "sectionIndex": 8,
+      "question": "The relationship between Shariah and akhlaq reveals:",
+      "options": [
+        "A) Identity",
+        "B) Law as minimum, ethics as excellence",
+        "C) Separation",
+        "D) Contradiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c053c0129b400998cb8ef70148c37b52e88861dd",
+      "sectionIndex": 8,
+      "question": "Contemporary bioethics' engagement with Islamic principles shows:",
+      "options": [
+        "A) Simple prohibition",
+        "B) Principled reasoning balancing benefits and harms",
+        "C) Technological rejection",
+        "D) Western adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b14540735bf7361529a1b34a0a3319dd3b1ce049",
+      "sectionIndex": 8,
+      "question": "The concept of moral agency in deterministic universe requires:",
+      "options": [
+        "A) Fatalism",
+        "B) Sophisticated theological-philosophical synthesis",
+        "C) Free will denial",
+        "D) Practical ignoring"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b848a49f2fd1311754ba468edb8eecb0f3830bdb",
+      "sectionIndex": 8,
+      "question": "Environmental ethics from tawhidic worldview challenges:",
+      "options": [
+        "A) Development",
+        "B) Anthropocentric exploitation through holistic stewardship",
+        "C) Conservation only",
+        "D) Economic growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b75538cdbdaaeb961ddce1864aeba8677be35f1",
+      "sectionIndex": 8,
+      "question": "Islamic economic ethics' critique of neoliberalism centers on:",
+      "options": [
+        "A) Profit rejection",
+        "B) Commodification of social relations and distributive justice",
+        "C) Market denial",
+        "D) State control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dff8b72f420531eb1ec484ae356ccd1a3a2b8d63",
+      "sectionIndex": 8,
+      "question": "The ethics of difference (ikhtilaf) in Islamic tradition provides:",
+      "options": [
+        "A) Relativism",
+        "B) Framework for principled pluralism",
+        "C) Conflict justification",
+        "D) Unity enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "256aa6aee355b8fa09c763b037320242b0092165",
+      "sectionIndex": 8,
+      "question": "Sexual ethics in Islam beyond legal categories involves:",
+      "options": [
+        "A) Prohibition only",
+        "B) Spiritual and psychological dimensions of human intimacy",
+        "C) Cultural taboos",
+        "D) Medical aspects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d69305cbcdcfe8a05161eeed64613dda2e370735",
+      "sectionIndex": 8,
+      "question": "The concept of moral excellence (ihsan) as methodology suggests:",
+      "options": [
+        "A) Perfectionism",
+        "B) Dynamic process of ethical becoming",
+        "C) Static achievement",
+        "D) Elite practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4612bed491ad559ab1e2d7bb639850511fe398df",
+      "sectionIndex": 8,
+      "question": "Post-colonial ethics requires Muslim thinkers to:",
+      "options": [
+        "A) Reject tradition",
+        "B) Decolonize moral imagination while maintaining authenticity",
+        "C) Adopt Western ethics",
+        "D) Return to past"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e3f5e4ecd38757070e59e88ebe96b1f1ca525835",
+      "sectionIndex": 9,
+      "question": "The \"decline thesis\" in Islamic historiography reflects:",
+      "options": [
+        "A) Historical fact",
+        "B) Orientalist narrative requiring critical deconstruction",
+        "C) Muslim admission",
+        "D) Economic reality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa0bb119c75abb95aee4b03faf4f15dd5186ca6e",
+      "sectionIndex": 9,
+      "question": "The Mongol destruction's long-term impact challenges narratives of:",
+      "options": [
+        "A) Continuity",
+        "B) Simple civilizational collapse versus adaptation",
+        "C) Recovery",
+        "D) Progress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01b55e2ed1ea5a3d7c46c893c5b00dc61894a354",
+      "sectionIndex": 9,
+      "question": "The \"Andalusian paradigm\" in contemporary Muslim memory serves:",
+      "options": [
+        "A) Historical accuracy",
+        "B) Mythologized golden age obscuring complex realities",
+        "C) Tourism promotion",
+        "D) Academic interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c7a7f56361180968356c91b827a98776823826f",
+      "sectionIndex": 9,
+      "question": "Colonial encounter's impact on Islamic knowledge systems produced:",
+      "options": [
+        "A) Simple destruction",
+        "B) Epistemological rupture requiring ongoing negotiation",
+        "C) Improvement",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e19032a69d0e77ecc5ae5557b2cab692aa235ae",
+      "sectionIndex": 9,
+      "question": "The \"Islamic Golden Age\" narrative critically examined reveals:",
+      "options": [
+        "A) Muslim superiority",
+        "B) Complex transcultural exchanges beyond civilizational boundaries",
+        "C) Isolation",
+        "D) Divine favor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f085b5e64b536ff99a2c8936da471e21187ebd62",
+      "sectionIndex": 9,
+      "question": "Contemporary heritage destruction by extremists represents:",
+      "options": [
+        "A) Religious purification",
+        "B) Modern iconoclasm erasing complex histories",
+        "C) Return to origins",
+        "D) Anti-Western stance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd55bc2cdd02fa53b3a4f85122a7752b7c350ca7",
+      "sectionIndex": 9,
+      "question": "The \"translation movement\" reassessed shows:",
+      "options": [
+        "A) Passive transmission",
+        "B) Creative appropriation and transformation",
+        "C) Cultural betrayal",
+        "D) Simple preservation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "962036952d68aa89332f46e64cf570a7c4f2aed7",
+      "sectionIndex": 9,
+      "question": "Post-colonial nation-states' relationship with Islamic heritage involves:",
+      "options": [
+        "A) Simple continuation",
+        "B) Selective appropriation for legitimacy",
+        "C) Complete rejection",
+        "D) Authentic preservation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63647f6a6f90dd397a8122a42fb9f14c51bb5299",
+      "sectionIndex": 9,
+      "question": "The concept of \"Islamic art\" problematized reveals:",
+      "options": [
+        "A) Clear category",
+        "B) Orientalist construction versus diverse regional traditions",
+        "C) Religious expression only",
+        "D) Decorative tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eca564bf2dd7ed3b5ffab2e67e12a561ede8c5f0",
+      "sectionIndex": 9,
+      "question": "Muslim intellectual history's future requires:",
+      "options": [
+        "A) Traditional methods only",
+        "B) Critical engagement with multiple knowledge traditions",
+        "C) Western frameworks",
+        "D) Isolation from global thought"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "subject": "Law (CSS/PMS Pakistan)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 20,
+  "categories": [
+    "Civil Procedure (CPC)",
+    "Contract Act, 1872",
+    "Law of Torts",
+    "Evidence (QSO 1984)",
+    "Criminal Procedure (CrPC 1898)",
+    "Pakistan Penal Code (PPC 1860)",
+    "Arbitration & ADR",
+    "Procedural Distinctions",
+    "Legal Maxims & Drafting",
+    "Exam Strategy & Pakistan Context"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Res Sub Judice (S.10) vs. Res Judicata (S.11) CPC",
+      "content": "High-frequency exam area: define, contrast, and apply tests. Cover parties, matter directly and substantially in issue, competent jurisdiction, finality, constructive res judicata (Explanation IV), former suit vs. subsequent suit, and typical pitfalls in problem questions.",
+      "keyTakeaways": [
+        "S.10 stays trial where matter is already pending elsewhere; S.11 bars re-litigation where matter already finally decided.",
+        "Constructive res judicata bars grounds that might and ought to have been taken earlier.",
+        "Always check identity of parties, title, issues, and competent court."
+      ],
+      "resources": [
+        {
+          "title": "CPC Full Text (Punjab Code)",
+          "url": "https://punjabcode.punjab.gov.pk/uploads/articles/THE_CODE_OF_CIVIL_PROCEDURE%2C_1908.pdf",
+          "type": "statute",
+          "description": "Authoritative text incl. S.10–11"
+        },
+        {
+          "title": "Federal Judicial Academy — Article on Res Judicata",
+          "url": "https://www.fja.gov.pk/files/articles/RESJUDICATA.pdf",
+          "type": "article",
+          "description": "Explains constructive res judicata"
+        },
+        {
+          "title": "Lecture: Res Judicata (Pakistan focus)",
+          "url": "https://www.youtube.com/watch?v=T_zerQhYHl8",
+          "type": "video",
+          "description": "Section 11 CPC walkthrough"
+        }
+      ],
+      "importance": "high",
+      "category": "Civil Procedure (CPC)",
+      "topics": ["Section 10", "Section 11", "Constructive Res Judicata", "Bar to Trial"]
+    },
+    {
+      "id": "2",
+      "title": "Jurisdiction & Institution of Suits",
+      "content": "Territorial, pecuniary, and subject-matter jurisdiction; place of suing; cause of action; objections and waiver (S.21). Link to common problem statements in CSS on court competence.",
+      "keyTakeaways": [
+        "Jurisdictional defects are fatal; some objections can be waived if not taken at earliest.",
+        "Always map facts to S.15–20 CPC (place of suing).",
+        "Relief may fail if wrong forum chosen."
+      ],
+      "resources": [
+        {
+          "title": "CPC — Arrangements of Sections",
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/13813/1/the_code_of_civil_procedure%2C_1908.pdf",
+          "type": "statute",
+          "description": "Quick section navigation (helpful index)"
+        },
+        {
+          "title": "CPC (Pakistan Code portal)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apeb-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Official portal entry"
+        }
+      ],
+      "importance": "high",
+      "category": "Civil Procedure (CPC)",
+      "topics": ["Jurisdiction", "Place of Suing", "Objections", "Waiver"]
+    },
+    {
+      "id": "3",
+      "title": "Pleadings, Amendment & Return/Rejection of Plaint",
+      "content": "Rules of pleadings (Order VI–VII), amendment principles, return vs. rejection of plaint, valuation, limitation hints.",
+      "keyTakeaways": [
+        "Facts not law; material particulars essential.",
+        "Amendments allowed to determine real controversy if no prejudice.",
+        "Rejection under Order VII Rule 11 is on face of plaint."
+      ],
+      "resources": [
+        {
+          "title": "CPC Text (Punjab Laws site)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/code-of-civil-procedure-1908-dated-15-02-2021-doc-1-1-pdf.pdf",
+          "type": "statute",
+          "description": "Orders VI–VII"
+        }
+      ],
+      "importance": "medium",
+      "category": "Civil Procedure (CPC)",
+      "topics": ["Order VI", "Order VII", "Amendment", "O7R11"]
+    },
+    {
+      "id": "4",
+      "title": "Temporary Injunctions & Inherent Powers",
+      "content": "Order XXXIX rules, three-fold test (prima facie case, balance of convenience, irreparable loss). S.151 CPC inherent powers and limits.",
+      "keyTakeaways": [
+        "Injunction ≠ automatic; establish all three limbs.",
+        "Breach invites contempt; undertake as to damages may apply.",
+        "S.151 cannot override explicit provisions."
+      ],
+      "resources": [
+        {
+          "title": "CPC Full Text",
+          "url": "https://punjabcode.punjab.gov.pk/uploads/articles/THE_CODE_OF_CIVIL_PROCEDURE%2C_1908.pdf",
+          "type": "statute",
+          "description": "Order XXXIX & S.151"
+        }
+      ],
+      "importance": "high",
+      "category": "Civil Procedure (CPC)",
+      "topics": ["Injunction", "O39", "S.151", "Equitable Relief"]
+    },
+    {
+      "id": "5",
+      "title": "Appeal, Review, and Revision",
+      "content": "Differentiate statutory right of appeal, narrow revisional jurisdiction (S.115 CPC), and review by same court. Common CSS short-note.",
+      "keyTakeaways": [
+        "Appeal = reappraisal by higher court; Revision = jurisdictional/procedural errors only.",
+        "Review is exceptional and lies before the same court.",
+        "Quote grounds & timelines succinctly."
+      ],
+      "resources": [
+        {
+          "title": "Section 115 CPC (Pakistan Kanoon digest entry)",
+          "url": "https://pakistankanoon.com/statutes/cpc/s-115/",
+          "type": "article",
+          "description": "Scope of revision with recent case abstracts"
+        },
+        {
+          "title": "PU Journal article — Appeal vs Revision (Arbitration lens)",
+          "url": "https://pu.edu.pk/images/journal/history/PDF-FILES/3_59_3_22.pdf",
+          "type": "paper",
+          "description": "Doctrinal differences explained"
+        }
+      ],
+      "importance": "high",
+      "category": "Procedural Distinctions",
+      "topics": ["Appeal", "Revision", "Review", "Jurisdictional Error"]
+    },
+    {
+      "id": "6",
+      "title": "Essentials of a Valid Contract",
+      "content": "Offer/acceptance, consideration, free consent, competency, lawful object. Frequent CSS essay or short-question.",
+      "keyTakeaways": [
+        "Minor's agreement void ab initio; no ratification.",
+        "Consideration can move from promisee or any other person (as per Act's text).",
+        "Agreements opposed to public policy are void."
+      ],
+      "resources": [
+        {
+          "title": "Contract Act 1872 — Pakistan Code",
+          "url": "https://www.pakistancode.gov.pk/english/UY2FqaJw2-apaUY2Fqa-a50%3D-sg-jjjjjjjjjjjjj-con-51",
+          "type": "statute",
+          "description": "Primary source"
+        },
+        {
+          "title": "Contract Act PDF (Punjab Laws)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/Contract_Act_1872.doc.pdf",
+          "type": "statute",
+          "description": "Downloadable version"
+        }
+      ],
+      "importance": "high",
+      "category": "Contract Act, 1872",
+      "topics": ["Offer", "Acceptance", "Consideration", "Capacity"]
+    },
+    {
+      "id": "7",
+      "title": "Void vs. Voidable Agreements + Quasi Contracts",
+      "content": "Common traps: unlawful object, agreements in restraint of trade, mistake; undue influence, coercion (voidable). Restitution/unjust enrichment (S.68–72).",
+      "keyTakeaways": [
+        "Void: unenforceable from inception; Voidable: valid until avoided by aggrieved party.",
+        "Section 27: restraint of trade generally void (limited exceptions).",
+        "Quasi contracts impose obligations independent of consent."
+      ],
+      "resources": [
+        {
+          "title": "Contract Act — Sections on Void Agreements",
+          "url": "https://paklawyer.com/wp-content/uploads/2019/10/Contract-Act-1872-1.pdf",
+          "type": "statute",
+          "description": "Sections 23–30, 68–72"
+        },
+        {
+          "title": "Explainer (void vs voidable) — Games of Law",
+          "url": "https://gamesoflaw.com/international/void-and-voidable-contracts-in-pakistan/",
+          "type": "article",
+          "description": "Plain-language overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Contract Act, 1872",
+      "topics": ["Void", "Voidable", "Restraint of Trade", "Quasi Contract"]
+    },
+    {
+      "id": "8",
+      "title": "Guarantee, Bailment & Agency — Problem Areas",
+      "content": "Surety's liability co-extensive with principal debtor; bailor/bailee duties; agency by ratification and estoppel. Past papers often test distinctions and rights/duties.",
+      "keyTakeaways": [
+        "Guarantee requires consideration; continuing guarantees may be revoked as to future transactions.",
+        "Bailment requires delivery of possession; lien rights differ (particular vs. general).",
+        "Agency: principal bound if agent acts within authority or if later ratified."
+      ],
+      "resources": [
+        {
+          "title": "Contract Act (relevant chapters)",
+          "url": "https://www.pakistancode.gov.pk/english/UY2FqaJw2-apaUY2Fqa-a50%3D-sg-jjjjjjjjjjjjj-con-51",
+          "type": "statute",
+          "description": "Guarantee, Bailment, Agency"
+        }
+      ],
+      "importance": "medium",
+      "category": "Contract Act, 1872",
+      "topics": ["Guarantee", "Bailment", "Agency", "Lien"]
+    },
+    {
+      "id": "9",
+      "title": "Negligence, Defenses & Vicarious Liability (Torts)",
+      "content": "Define duty, breach, causation, remoteness; defenses (volenti, contributory negligence, statutory authority); employer's liability and independent contractor exceptions.",
+      "keyTakeaways": [
+        "Caparo-style duty analysis (persuasive); in Pakistan, common-law principles applied.",
+        "Contributory negligence reduces damages proportionately.",
+        "Vicarious liability hinges on course of employment."
+      ],
+      "resources": [
+        {
+          "title": "Defamation & Torts overview — Britannica",
+          "url": "https://www.britannica.com/topic/defamation",
+          "type": "reference",
+          "description": "Defamation, libel vs. slander basics"
+        }
+      ],
+      "importance": "high",
+      "category": "Law of Torts",
+      "topics": ["Negligence", "Defenses", "Vicarious Liability"]
+    },
+    {
+      "id": "10",
+      "title": "Libel vs. Slander + Defamation Elements",
+      "content": "Frequently asked short-note. Define defamation; distinguish libel (written/broadcast) and slander (spoken). Touch on defenses (truth, privilege, fair comment).",
+      "keyTakeaways": [
+        "Libel is generally actionable per se; slander often requires proof of special damage (jurisdiction-specific).",
+        "Broadcast defamation often treated as libel due to permanence.",
+        "Always state defenses succinctly."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Libel vs. Slander",
+          "url": "https://www.britannica.com/story/whats-the-difference-between-libel-and-slander",
+          "type": "article",
+          "description": "Clear distinction"
+        },
+        {
+          "title": "Investopedia — Libel overview",
+          "url": "https://www.investopedia.com/terms/l/libel.asp",
+          "type": "article",
+          "description": "Examples & defenses"
+        }
+      ],
+      "importance": "high",
+      "category": "Law of Torts",
+      "topics": ["Defamation", "Libel", "Slander", "Defenses"]
+    },
+    {
+      "id": "11",
+      "title": "Rylands v. Fletcher (Strict Liability / Nuisance)",
+      "content": "Classic CSS favorite. State rule (non-natural use + escape of dangerous thing), policy rationale, and modern treatment as a sub-species of nuisance; list recognized exceptions.",
+      "keyTakeaways": [
+        "Rule imposes strict liability without proof of negligence.",
+        "Exceptions: act of God, act of stranger, plaintiff's default, statutory authority, consent.",
+        "Modern cases narrow scope; still examinable doctrine."
+      ],
+      "resources": [
+        {
+          "title": "Case Note — Rylands v Fletcher",
+          "url": "https://en.wikipedia.org/wiki/Rylands_v_Fletcher",
+          "type": "reference",
+          "description": "Summary + developments"
+        },
+        {
+          "title": "LawTeacher Case Summary",
+          "url": "https://www.lawteacher.net/cases/rylands-v-fletcher.php",
+          "type": "article",
+          "description": "Concise recap with points"
+        }
+      ],
+      "importance": "medium",
+      "category": "Law of Torts",
+      "topics": ["Strict Liability", "Nuisance", "Exceptions"]
+    },
+    {
+      "id": "12",
+      "title": "Qanun-e-Shahadat (QSO) — Evidence Types & Burden",
+      "content": "Primary vs. secondary evidence, admissions vs. confessions, relevancy of facts, estoppel, competency of witnesses, expert opinion. Frequently examined via short-notes.",
+      "keyTakeaways": [
+        "Primary evidence preferred; secondary allowed under specific grounds.",
+        "Confession must be voluntary; accomplice evidence requires caution.",
+        "Burden initially on prosecution/plaintiff; can shift under presumptions."
+      ],
+      "resources": [
+        {
+          "title": "QSO 1984 — Punjab Laws PDF",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/qanun-e-shahadat-order-1984-doc-pdf.pdf",
+          "type": "statute",
+          "description": "Full text"
+        },
+        {
+          "title": "QSO — Pakistan Code entry",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5plaw%3D%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Portal reference"
+        }
+      ],
+      "importance": "high",
+      "category": "Evidence (QSO 1984)",
+      "topics": ["Primary vs Secondary", "Burden of Proof", "Confession", "Estoppel"]
+    },
+    {
+      "id": "13",
+      "title": "Confessions: S.164 CrPC — Procedure & Admissibility",
+      "content": "Recording by Magistrate, voluntariness, safeguards, and evidentiary value; link with Articles of QSO. Repeated in 2012–2024 papers.",
+      "keyTakeaways": [
+        "Strict compliance with S.164 formalities is essential.",
+        "Retracted confession requires corroboration.",
+        "Magistrate must explain rights and ensure voluntariness."
+      ],
+      "resources": [
+        {
+          "title": "CrPC S.164 (PLJ Lawsite extract)",
+          "url": "https://www.pljlawsite.com/html/Crpc164.htm",
+          "type": "statute",
+          "description": "Section text excerpt"
+        },
+        {
+          "title": "Sindh Judicial Academy — Confession Manual",
+          "url": "https://sja.gos.pk/assets/manuals/Confession-Statement.pdf",
+          "type": "guideline",
+          "description": "Practical checklist for S.164"
+        },
+        {
+          "title": "ILO/NatLex — CrPC (as amended)",
+          "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/68440/PAK68440.pdf",
+          "type": "statute",
+          "description": "Consolidated CrPC PDF"
+        }
+      ],
+      "importance": "high",
+      "category": "Criminal Procedure (CrPC 1898)",
+      "topics": ["Section 164", "Voluntariness", "Retracted Confession"]
+    },
+    {
+      "id": "14",
+      "title": "Bail, Arrest Without Warrant & Trial Types",
+      "content": "Differentiate bailable vs. non-bailable; arrest without warrant circumstances; summary vs. sessions trial flow.",
+      "keyTakeaways": [
+        "Police powers and judicial discretion must be balanced with rights.",
+        "Summarize forms, forums, and timelines in an exam-friendly table.",
+        "Quote relevant sections for quick marks."
+      ],
+      "resources": [
+        {
+          "title": "CrPC — Official PDFs",
+          "url": "https://www.fmu.gov.pk/docs/laws/Code_of_criminal_procedure_1898.pdf",
+          "type": "statute",
+          "description": "Primary text"
+        }
+      ],
+      "importance": "medium",
+      "category": "Criminal Procedure (CrPC 1898)",
+      "topics": ["Bail", "Arrest", "Summary Trials"]
+    },
+    {
+      "id": "15",
+      "title": "PPC: Private Defence (Ss.96–106) & General Exceptions",
+      "content": "Core definitions, boundaries, proportionality, when right extends to causing death; common MCQs and scenario questions.",
+      "keyTakeaways": [
+        "Nothing is an offence done in exercise of private defence (S.96); scope detailed in Ss.97–106.",
+        "No more harm than necessary; right arises with imminent threat.",
+        "Limitations near public servants/acts with color of office."
+      ],
+      "resources": [
+        {
+          "title": "PPC — Consolidated PDF (UNODC/Sherloc)",
+          "url": "https://sherloc.unodc.org/cld/uploads/res/document/pak/1860/pakistan_penal_code_1860_html/Pakistan_Penal_Code_1860_incorporating_amendments_to_16_February_2017.pdf",
+          "type": "statute",
+          "description": "Sections 96–106 included"
+        },
+        {
+          "title": "Paradigm Shift — Self-Defence in Pakistan",
+          "url": "https://www.paradigmshift.com.pk/self-defence-pakistan/",
+          "type": "article",
+          "description": "Readable overview with sections cited"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Penal Code (PPC 1860)",
+      "topics": ["Private Defence", "Proportionality", "Exceptions"]
+    },
+    {
+      "id": "16",
+      "title": "Theft, Extortion, Robbery, Dacoity — Distinctions",
+      "content": "Classic differentiation set; define each offence, mental element, and aggravating factors; add quick examples to avoid mixing extortion vs. robbery.",
+      "keyTakeaways": [
+        "Robbery is aggravated theft or extortion; presence of fear/instant harm is key.",
+        "Dacoity involves five or more persons.",
+        "Precise statutory language earns marks."
+      ],
+      "resources": [
+        {
+          "title": "PPC Text (FMU PDF)",
+          "url": "https://www.fmu.gov.pk/docs/laws/Pakistan%20Penal%20Code.pdf",
+          "type": "statute",
+          "description": "Core theft/robbery sections"
+        },
+        {
+          "title": "PPC Online (Pakistani.org)",
+          "url": "https://www.pakistani.org/pakistan/legislation/1860/actXLVof1860.html",
+          "type": "statute",
+          "description": "Searchable HTML"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Penal Code (PPC 1860)",
+      "topics": ["Theft", "Extortion", "Robbery", "Dacoity"]
+    },
+    {
+      "id": "17",
+      "title": "Arbitration in Pakistan: 1940 Act & 2011 Act (Foreign Awards)",
+      "content": "Domestic arbitration framework (Arbitration Act 1940): agreements, reference, awards, court intervention. Recognition & enforcement of foreign awards under the 2011 Act (New York Convention).",
+      "keyTakeaways": [
+        "1940 Act governs domestic arbitration (with court's supervisory powers).",
+        "2011 Act streamlines enforcement of foreign arbitral awards.",
+        "Exam tip: distinguish 'seat' vs. 'venue' and domestic vs. foreign awards."
+      ],
+      "resources": [
+        {
+          "title": "Arbitration Act 1940 — Pakistan Code",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-cJab-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Domestic arbitration law"
+        },
+        {
+          "title": "Recognition & Enforcement Act 2011 — Pakistan Code",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2FsaJg%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Foreign arbitral awards"
+        },
+        {
+          "title": "Punjab Laws — Arbitration Act PDF",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/the_arbitration_act-_1940-pdf.pdf",
+          "type": "statute",
+          "description": "Downloadable text"
+        }
+      ],
+      "importance": "high",
+      "category": "Arbitration & ADR",
+      "topics": ["Arbitration Act 1940", "NY Convention", "Enforcement"]
+    },
+    {
+      "id": "18",
+      "title": "Interpleader Suits (S.88 & Order XXXV CPC)",
+      "content": "Where stakeholder faces rival claims to same property; plaintiff claims no interest except charges/costs. Common short case-study in papers.",
+      "keyTakeaways": [
+        "Condition: adverse claims between defendants; plaintiff neutral.",
+        "No interpleader if a pending suit can resolve rights.",
+        "Decree determines entitlement between rival claimants."
+      ],
+      "resources": [
+        {
+          "title": "Interpleader (Drishti Judiciary explainer)",
+          "url": "https://www.drishtijudiciary.com/ttp-code-of-civil-procedure/interpleader-suit",
+          "type": "article",
+          "description": "Conditions and parties"
+        }
+      ],
+      "importance": "medium",
+      "category": "Civil Procedure (CPC)",
+      "topics": ["Section 88", "Order 35", "Stakeholder"]
+    },
+    {
+      "id": "19",
+      "title": "CSS Law Syllabus & Past Papers — Orientation",
+      "content": "Download latest syllabus and browse descriptive papers. Use to scope breadth across CPC, CrPC, PPC, QSO, Arbitration.",
+      "keyTakeaways": [
+        "Align notes to syllabus headings to avoid scope creep.",
+        "Scan FPSC descriptive papers for pattern recognition.",
+        "Map each topic to 2–3 high-yield cases/sections."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Descriptive Papers (2025)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "official",
+          "description": "Official PDFs"
+        },
+        {
+          "title": "CSS Law Syllabus (compiled PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Law-CSS-Syllabus.pdf",
+          "type": "syllabus",
+          "description": "Subject outline"
+        },
+        {
+          "title": "FPSC Scheme/Syllabus (general)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "official",
+          "description": "Revised scheme doc"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Pakistan Context",
+      "topics": ["Syllabus", "Past Papers", "Patterning"]
+    },
+    {
+      "id": "20",
+      "title": "Video Playlists & Lectures (Quick Rev)",
+      "content": "Use selective, high-signal videos for last-mile revision (res judicata, constitutional/mercantile law overlap, general CSS approach).",
+      "keyTakeaways": [
+        "Watch with statute open; pause to cross-check sections.",
+        "Summarize each video into 5 bullet points for Anki/notes.",
+        "Don't over-consume; prioritize solving past questions."
+      ],
+      "resources": [
+        {
+          "title": "Res Judicata — CPC Lecture (PK)",
+          "url": "https://www.youtube.com/watch?v=T_zerQhYHl8",
+          "type": "video",
+          "description": "Section 11 CPC"
+        },
+        {
+          "title": "CSS Constitutional Law — Syllabus/Past Papers",
+          "url": "https://www.youtube.com/watch?v=N4qFBIw69No",
+          "type": "video",
+          "description": "Strategy talk"
+        },
+        {
+          "title": "CSS Prep Strategy — Beginners",
+          "url": "https://www.youtube.com/watch?v=_5DeUh06MUw",
+          "type": "video",
+          "description": "Planning & timeline"
+        }
+      ],
+      "importance": "medium",
+      "category": "Exam Strategy & Pakistan Context",
+      "topics": ["Video", "Playlists", "Strategy"]
+    }
+  ]
+}

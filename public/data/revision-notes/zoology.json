@@ -1,0 +1,838 @@
+{
+  "subject": "Zoology",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 28,
+  "categories": [
+    "Invertebrate Zoology",
+    "Chordates & Vertebrates",
+    "Cell Biology",
+    "Genetics",
+    "Physiology",
+    "Evolution & Phylogeny",
+    "Ecology & Environment",
+    "Applied Zoology & Parasitology",
+    "Exam Diagrams & Key Terms"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Protozoa: Asexual Reproduction & Conjugation in Paramecium",
+      "content": "Binary fission is the primary reproductive mode; ciliates also perform conjugation (exchange of micronuclei). Know autogamy vs. conjugation, and exam diagrams of nuclear events.",
+      "keyTakeaways": [
+        "Binary fission increases numbers; conjugation restores vitality and genetic variation.",
+        "Macronucleus controls metabolism; micronuclei handle heredity and meiosis.",
+        "Typical exam asks: steps of conjugation with labeled diagram."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Paramecium (conjugation overview)",
+          "url": "https://www.britannica.com/science/Paramecium",
+          "type": "article",
+          "description": "Concise description of fission & conjugation"
+        },
+        {
+          "title": "NCBI Bookshelf — Protozoa (Medical Microbiology Ch. 85)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK8325/",
+          "type": "textbook",
+          "description": "Authoritative protozoa basics"
+        },
+        {
+          "title": "Britannica — Macronucleus / Autogamy",
+          "url": "https://www.britannica.com/science/macronucleus",
+          "type": "article",
+          "description": "Nuclear roles in ciliates"
+        },
+        {
+          "title": "Microbe Notes — Reproduction in Paramecium",
+          "url": "https://microbenotes.com/reproduction-in-paramecium/",
+          "type": "article",
+          "description": "Stepwise diagrams & stages"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Protozoa", "Paramecium", "Binary Fission", "Conjugation", "Autogamy"]
+    },
+    {
+      "id": "2",
+      "title": "Protozoa: Contractile Vacuole & Osmoregulation",
+      "content": "Explain how contractile vacuole complex (CVC) maintains osmotic balance in freshwater protozoa; frequent MCQ hotspot.",
+      "keyTakeaways": [
+        "CVC alternates filling and expulsion to prevent lysis in hypotonic media.",
+        "V-ATPase–rich membranes drive fluid accumulation; expulsion via fusion at plasma membrane.",
+        "Activity increases as external osmolarity decreases."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Contractile Vacuole",
+          "url": "https://www.britannica.com/science/contractile-vacuole",
+          "type": "article",
+          "description": "Function & distribution"
+        },
+        {
+          "title": "PubMed Review — Osmoregulation and Contractile Vacuoles of Protozoa",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11952235/",
+          "type": "review",
+          "description": "Mechanism & structure of CVC"
+        },
+        {
+          "title": "NCBI Bookshelf — Protozoa (Medical Microbiology)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK8325/",
+          "type": "textbook",
+          "description": "Notes on osmoregulation in protozoa"
+        }
+      ],
+      "importance": "medium",
+      "category": "Invertebrate Zoology",
+      "topics": ["Osmoregulation", "Contractile Vacuole", "V-ATPase"]
+    },
+    {
+      "id": "3",
+      "title": "Porifera: Canal Systems (Ascon, Sycon, Leucon) & Spicules",
+      "content": "Trace water flow in the three canal types; identify spicule forms (calcareous/siliceous) and their secretion.",
+      "keyTakeaways": [
+        "Leuconoid has highest surface area and efficiency.",
+        "Spicule type is a taxonomic character and shows skeletal support.",
+        "Typical exam: labeled flow path + spicule sketches."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Sponges Water Circulation",
+          "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Introductory_Biology_(CK-12)/11%3A_Invertebrates/11.3%3A_Sponges",
+          "type": "article",
+          "description": "Ascon–Sycon–Leucon overview"
+        },
+        {
+          "title": "Britannica — Sponge (Form & Function)",
+          "url": "https://www.britannica.com/animal/sponge-animal/Form-and-function-of-internal-features",
+          "type": "article",
+          "description": "Spicules & canal systems"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Porifera", "Canal System", "Spicules"]
+    },
+    {
+      "id": "4",
+      "title": "Cnidaria: Polymorphism & Coral Reefs (Ecology/Economy)",
+      "content": "Explain polyp–medusa polymorphism (e.g., Obelia, siphonophores) and coral reef importance, threats, and conservation.",
+      "keyTakeaways": [
+        "Division of labor among zooids increases colony efficiency.",
+        "Reefs provide biodiversity, coastal protection, and fisheries value.",
+        "Ocean warming/acidification compromises calcification."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Siphonophore & Polymorphism",
+          "url": "https://www.britannica.com/animal/siphonophore",
+          "type": "article",
+          "description": "Colonial organization"
+        },
+        {
+          "title": "NOAA — Ocean Acidification Basics",
+          "url": "https://oceanacidification.noaa.gov/what-is-ocean-acidification/",
+          "type": "article",
+          "description": "Impact on coral/shell formation"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Cnidaria", "Polymorphism", "Coral Reefs", "Ocean Acidification"]
+    },
+    {
+      "id": "5",
+      "title": "Platyhelminthes: Parasitic Adaptations & Flame Cells",
+      "content": "Describe morphological and physiological adaptations of parasitic flatworms; protonephridia/flame cells for excretion.",
+      "keyTakeaways": [
+        "Reduced sensory systems, strong adhesions, and complex life cycles aid parasitism.",
+        "Flame cells drive filtrate via cilia; osmoregulation critical in flatworms.",
+        "Common essay: life cycle and control of Fasciola hepatica."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Invertebrate Excretory Systems",
+          "url": "https://www.britannica.com/science/excretion/Invertebrate-excretory-systems",
+          "type": "article",
+          "description": "Flame cell function"
+        },
+        {
+          "title": "NCBI Bookshelf — Introduction to Parasitology",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK8262/",
+          "type": "textbook",
+          "description": "Parasitic strategies overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Platyhelminthes", "Flame Cells", "Parasitic Adaptations", "Fasciola"]
+    },
+    {
+      "id": "6",
+      "title": "Annelida: Metamerism & Nephridia",
+      "content": "Define true segmentation and advantages (locomotion, redundancy); compare protonephridia vs. metanephridia.",
+      "keyTakeaways": [
+        "Segmentation enables localized control and regeneration.",
+        "Nephridia maintain osmotic and nitrogen balance across segments.",
+        "Draw a typical earthworm nephridial system with labels."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Annelid",
+          "url": "https://www.britannica.com/animal/annelid",
+          "type": "article",
+          "description": "Segmentation & organ systems"
+        },
+        {
+          "title": "LibreTexts — Excretory Systems in Invertebrates",
+          "url": "https://bio.libretexts.org/Bookshelves/Zoology/Animal_Biology/Excretory_Systems",
+          "type": "article",
+          "description": "Nephridia types"
+        }
+      ],
+      "importance": "medium",
+      "category": "Invertebrate Zoology",
+      "topics": ["Annelida", "Metamerism", "Nephridia"]
+    },
+    {
+      "id": "7",
+      "title": "Arthropoda: Exoskeleton, Molting & Insect Leg Modifications",
+      "content": "Explain chitinous exoskeleton (protection/attachment, limits growth) and molting; classify leg types (cursorial, saltatorial, raptorial, natatorial, fossorial).",
+      "keyTakeaways": [
+        "Exoskeleton requires ecdysis; hormones (ecdysone) regulate molting.",
+        "Leg morphology correlates with habitat and behavior; a frequent figure-based MCQ.",
+        "Crustaceans vs. insects: cuticle composition and calcification differ."
+      ],
+      "resources": [
+        {
+          "title": "Animal Diversity Web — Arthropoda Overview",
+          "url": "https://animaldiversity.org/accounts/Arthropoda/",
+          "type": "article",
+          "description": "Exoskeleton & diversity"
+        },
+        {
+          "title": "UF IFAS — Insect Leg Types",
+          "url": "https://entnemdept.ufl.edu/creatures/misc/legs.htm",
+          "type": "article",
+          "description": "Raptorial/saltatorial etc. with photos"
+        },
+        {
+          "title": "Britannica — Insect (External Features)",
+          "url": "https://www.britannica.com/animal/insect/General-features",
+          "type": "article",
+          "description": "Cuticle and appendages"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Arthropoda", "Exoskeleton", "Ecdysis", "Insect Legs"]
+    },
+    {
+      "id": "8",
+      "title": "Mollusca: Torsion in Gastropods & Shell/Foot Modifications",
+      "content": "Define torsion (90–180° rotation) and its consequences (mantle cavity anterior); relate to coiling and body-plan changes.",
+      "keyTakeaways": [
+        "Torsion repositions anus and mantle; potential fouling mitigated by asymmetry.",
+        "Adaptive significance debated; cite classic and modern papers.",
+        "Know diagrams: pre-/post-torsion larva, adult mantle cavity."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Gastropods (torsion)",
+          "url": "https://www.britannica.com/animal/gastropod",
+          "type": "article",
+          "description": "Overview incl. torsion"
+        },
+        {
+          "title": "PMC — Evidence that Gastropod Torsion is Driven by Asymmetric Development",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3169068/",
+          "type": "research",
+          "description": "Developmental mechanisms"
+        },
+        {
+          "title": "Ghiselin (1966) — Adaptive Significance of Torsion (PDF)",
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.1966.tb03370.x",
+          "type": "paper",
+          "description": "Classic evolutionary hypothesis"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Mollusca", "Gastropoda", "Torsion", "Shell", "Foot"]
+    },
+    {
+      "id": "9",
+      "title": "Echinodermata: Water Vascular System & Tube Feet",
+      "content": "Structure (madreporite → stone canal → ring & radial canals → ampullae → tube feet) and functions (locomotion, feeding, respiration).",
+      "keyTakeaways": [
+        "Unique coelomic hydraulic system; exam favorites: labeling & function.",
+        "Tube feet use adhesion (suction+mucus) and sensory roles.",
+        "Comparative note: variability among classes (asteroids, echinoids, holothurians)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Water-Vascular System",
+          "url": "https://www.britannica.com/science/water-vascular-system",
+          "type": "article",
+          "description": "Definition & function"
+        },
+        {
+          "title": "Britannica — Echinoderm Form & Function",
+          "url": "https://www.britannica.com/animal/echinoderm/Form-and-function-of-internal-features",
+          "type": "article",
+          "description": "Detailed internal systems"
+        },
+        {
+          "title": "PMC — Ordovician Water Vascular Architecture",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5746540/",
+          "type": "research",
+          "description": "Evolutionary context"
+        }
+      ],
+      "importance": "high",
+      "category": "Invertebrate Zoology",
+      "topics": ["Echinodermata", "Water Vascular System", "Tube Feet"]
+    },
+    {
+      "id": "10",
+      "title": "Chordate Origins & Amphioxus (Cephalochordata)",
+      "content": "Amphioxus exemplifies chordate hallmarks (notochord, dorsal nerve cord, pharyngeal slits, post-anal tail) and informs vertebrate origins.",
+      "keyTakeaways": [
+        "Used as a model for ancestral chordate body plan and genomics.",
+        "Amphioxus retains notochord in adults; lacks cranium and vertebrae.",
+        "Recent genomes refine cephalochordate phylogeny and regulatory evolution."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Amphioxus",
+          "url": "https://www.britannica.com/animal/amphioxus",
+          "type": "article",
+          "description": "Anatomy & features"
+        },
+        {
+          "title": "eLife — Amphioxus as a Model (2023)",
+          "url": "https://elifesciences.org/articles/87028",
+          "type": "review",
+          "description": "Modern synthesis of amphioxus biology"
+        },
+        {
+          "title": "Nature — Amphioxus Functional Genomics (2018)",
+          "url": "https://www.nature.com/articles/s41586-018-0734-6",
+          "type": "paper",
+          "description": "Genome & regulatory evolution"
+        }
+      ],
+      "importance": "high",
+      "category": "Chordates & Vertebrates",
+      "topics": ["Chordata", "Cephalochordata", "Amphioxus", "Evolution"]
+    },
+    {
+      "id": "11",
+      "title": "Hemichordata vs. Chordata",
+      "content": "Contrast hemichordate traits (stomochord, pharyngeal slits) with chordates; clarify evolutionary relationships.",
+      "keyTakeaways": [
+        "Stomochord ≠ notochord; shared features reflect deuterostome ancestry.",
+        "Common exam: table of differences + examples (Acorn worms, Pterobranchs)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Hemichordate",
+          "url": "https://www.britannica.com/animal/hemichordate",
+          "type": "article",
+          "description": "Traits & classification"
+        },
+        {
+          "title": "U. Hawai'i — Phylum Chordata (context)",
+          "url": "https://manoa.hawaii.edu/exploringourfluidearth/biological/invertebrates/phylum-chordata",
+          "type": "article",
+          "description": "Chordate hallmarks"
+        }
+      ],
+      "importance": "medium",
+      "category": "Chordates & Vertebrates",
+      "topics": ["Hemichordata", "Chordata", "Comparative Anatomy"]
+    },
+    {
+      "id": "12",
+      "title": "Vertebrate Circulatory System: Evolution of the Heart",
+      "content": "Trace evolutionary transition from single circulation (fish) to double circulation (birds/mammals); aortic arch patterns.",
+      "keyTakeaways": [
+        "Partitioning increases oxygenation efficiency; relates to endothermy.",
+        "Know representative heart diagrams (2-, 3-, 3.5-, 4-chambered)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Vertebrate Circulatory System",
+          "url": "https://www.britannica.com/science/circulatory-system/Vertebrate-circulatory-systems",
+          "type": "article",
+          "description": "Comparative hearts"
+        },
+        {
+          "title": "OpenStax Biology 2e — Circulatory Systems in Animals",
+          "url": "https://openstax.org/books/biology-2e/pages/40-2-circulatory-systems",
+          "type": "textbook",
+          "description": "Accessible overview with figures"
+        }
+      ],
+      "importance": "high",
+      "category": "Chordates & Vertebrates",
+      "topics": ["Heart Evolution", "Aortic Arches", "Double Circulation"]
+    },
+    {
+      "id": "13",
+      "title": "Kidney & Nephron (Mammals) + Urea Cycle (Liver)",
+      "content": "Describe nephron structure and urine formation; link hepatic urea cycle converting ammonia → urea → renal excretion.",
+      "keyTakeaways": [
+        "RAAS and ADH regulate fluid/electrolyte balance.",
+        "Clinical angle: urea cycle disorders cause hyperammonemia.",
+        "Exam often integrates liver–kidney physiology."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax A&P 2e — Urinary System (Ch. 25)",
+          "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-introduction",
+          "type": "textbook",
+          "description": "Kidney anatomy & homeostasis"
+        },
+        {
+          "title": "Britannica — Nephron",
+          "url": "https://www.britannica.com/science/nephron",
+          "type": "article",
+          "description": "Functional unit details"
+        },
+        {
+          "title": "NCBI Bookshelf — Physiology, Urea Cycle (StatPearls)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK513323/",
+          "type": "textbook",
+          "description": "Hepatic urea cycle physiology"
+        }
+      ],
+      "importance": "high",
+      "category": "Physiology",
+      "topics": ["Kidney", "Nephron", "Urea Cycle", "RAAS"]
+    },
+    {
+      "id": "14",
+      "title": "Respiration: Reptiles vs. Birds vs. Mammals",
+      "content": "Compare lung structure (faveoli in reptiles; parabronchi/air sacs in birds; alveoli in mammals) and gas-exchange strategies.",
+      "keyTakeaways": [
+        "Birds have unidirectional airflow and cross-current exchange; highest efficiency.",
+        "Mammals use alveolar tidal ventilation; reptiles use aspiration pump with less subdivision.",
+        "Name key structures in labeled diagrams."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Respiratory System (Birds)",
+          "url": "https://www.britannica.com/science/respiratory-system/Birds",
+          "type": "article",
+          "description": "Parabronchi & air capillaries"
+        },
+        {
+          "title": "Britannica — Respiratory System (Reptiles/Amphibians overview)",
+          "url": "https://www.britannica.com/science/respiratory-system/Amphibians",
+          "type": "article",
+          "description": "Reptilian lung complexity"
+        },
+        {
+          "title": "Britannica — Pulmonary Alveolus",
+          "url": "https://www.britannica.com/science/pulmonary-alveolus",
+          "type": "article",
+          "description": "Alveolar gas exchange"
+        }
+      ],
+      "importance": "high",
+      "category": "Physiology",
+      "topics": ["Respiration", "Parabronchi", "Alveoli", "Faveoli"]
+    },
+    {
+      "id": "15",
+      "title": "Aves: Flight Adaptations & Migration",
+      "content": "Skeletal (keeled sternum), muscular (powerful pectorals), respiratory (air sacs), and feather adaptations; migration drivers and navigation.",
+      "keyTakeaways": [
+        "Weight reduction + power generation underpin flight.",
+        "Migration involves photoperiod, geomagnetic cues, and wind patterns.",
+        "Common short note: advantages of air sacs."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Bird: Flight",
+          "url": "https://www.britannica.com/animal/bird/Flight",
+          "type": "article",
+          "description": "Flight mechanics & anatomy"
+        },
+        {
+          "title": "Cornell Lab — Bird Migration (All About Birds)",
+          "url": "https://www.allaboutbirds.org/news/tag/migration/",
+          "type": "article",
+          "description": "Migration primers & guides"
+        }
+      ],
+      "importance": "medium",
+      "category": "Chordates & Vertebrates",
+      "topics": ["Bird Flight", "Air Sacs", "Migration"]
+    },
+    {
+      "id": "16",
+      "title": "Mammals: Placenta & Types of Placentation",
+      "content": "Structure–function of placenta; classify placentation (epitheliochorial, endotheliochorial, hemochorial).",
+      "keyTakeaways": [
+        "Maternal–fetal interface varies by group; affects antibody transfer.",
+        "Placental hormones support gestation; clinical correlations in humans."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Placenta",
+          "url": "https://www.britannica.com/science/placenta",
+          "type": "article",
+          "description": "Layers & exchange"
+        },
+        {
+          "title": "NCBI Bookshelf — Endocrinology of Pregnancy",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK279054/",
+          "type": "textbook",
+          "description": "Hormonal roles"
+        }
+      ],
+      "importance": "medium",
+      "category": "Chordates & Vertebrates",
+      "topics": ["Placenta", "Placentation", "Maternal-Fetal Interface"]
+    },
+    {
+      "id": "17",
+      "title": "Mammalian Dentition",
+      "content": "Tooth formulas, heterodonty, and dietary adaptations (carnivore vs. herbivore).",
+      "keyTakeaways": [
+        "Incisor–canine–premolar–molar patterns correlate with feeding.",
+        "Know human dental formula and comparisons."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Tooth: Mammals",
+          "url": "https://www.britannica.com/science/tooth-anatomy/Mammals",
+          "type": "article",
+          "description": "Dentition types & function"
+        },
+        {
+          "title": "ADW — Mammalian Teeth",
+          "url": "https://animaldiversity.org/collections/mammal_anatomy/teeth/",
+          "type": "article",
+          "description": "Photo-rich reference"
+        }
+      ],
+      "importance": "low",
+      "category": "Chordates & Vertebrates",
+      "topics": ["Dentition", "Diet", "Heterodonty"]
+    },
+    {
+      "id": "18",
+      "title": "Cell Biology: Membranes & Organelles (ER, Golgi, Mitochondria, Lysosomes)",
+      "content": "Describe fluid mosaic model and organelle roles; link to secretion and energy metabolism.",
+      "keyTakeaways": [
+        "ER/Golgi handle protein processing; mitochondria power ATP; lysosomes for autophagy.",
+        "Common MCQ: organelle–function matching."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Membranes & Organelles",
+          "url": "https://www.khanacademy.org/science/biology/structure-of-a-cell",
+          "type": "course",
+          "description": "Concise concept pages"
+        },
+        {
+          "title": "OpenStax Biology 2e — Cell Structure",
+          "url": "https://openstax.org/books/biology-2e/pages/4-introduction",
+          "type": "textbook",
+          "description": "Full chapter with figures"
+        }
+      ],
+      "importance": "high",
+      "category": "Cell Biology",
+      "topics": ["Cell Membrane", "ER", "Golgi", "Mitochondria", "Lysosomes"]
+    },
+    {
+      "id": "19",
+      "title": "DNA Replication, Transcription & Translation",
+      "content": "Semiconservative replication; central dogma; transcriptional control and ribosomal translation.",
+      "keyTakeaways": [
+        "DNA polymerases need primers; proofreading affects mutation rate.",
+        "Transcription factors & promoters regulate gene expression.",
+        "Ribosomes read codons; wobble explains tRNA economy."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax Biology 2e — DNA Replication",
+          "url": "https://openstax.org/books/biology-2e/pages/9-2-dna-replication",
+          "type": "textbook",
+          "description": "Illustrated walkthrough"
+        },
+        {
+          "title": "OpenStax Biology 2e — From DNA to Protein",
+          "url": "https://openstax.org/books/biology-2e/pages/15-introduction",
+          "type": "textbook",
+          "description": "Transcription/translation chapters"
+        }
+      ],
+      "importance": "high",
+      "category": "Cell Biology",
+      "topics": ["DNA Replication", "Transcription", "Translation"]
+    },
+    {
+      "id": "20",
+      "title": "Genetics: Mendel's Laws & Variations",
+      "content": "Law of segregation and independent assortment; extensions (incomplete dominance, codominance, multiple alleles).",
+      "keyTakeaways": [
+        "Use Punnett squares & probability; watch for non-Mendelian patterns.",
+        "Sex linkage affects phenotype ratios."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Law of Segregation",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/mendelian-genetics-ap/a/the-law-of-segregation",
+          "type": "article",
+          "description": "Core principle"
+        },
+        {
+          "title": "Khan Academy — Variations on Mendel's Laws",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/non-mendelian-genetics/a/variations-on-mendels-laws-overview",
+          "type": "article",
+          "description": "Non-Mendelian patterns"
+        },
+        {
+          "title": "PMC (2024) — Clarifying Mendelian vs non-Mendelian",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11228857/",
+          "type": "review",
+          "description": "Modern clarifications"
+        }
+      ],
+      "importance": "high",
+      "category": "Genetics",
+      "topics": ["Mendel", "Segregation", "Independent Assortment", "Non-Mendelian"]
+    },
+    {
+      "id": "21",
+      "title": "Linkage, Crossing Over & Mapping",
+      "content": "Explain linked genes, recombination frequency, and map unit (cM); typical numerical problems.",
+      "keyTakeaways": [
+        "RF ≈ map distance for small distances; double crossovers complicate estimates.",
+        "Test cross setups are standard exam items."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Gene Linkage & Recombination",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/linkage-and-recombination/a/gene-linkage-and-recombination",
+          "type": "article",
+          "description": "With examples & practice"
+        },
+        {
+          "title": "Nature Education (Scitable) — Linkage & Mapping",
+          "url": "https://www.nature.com/scitable/definition/linkage-genetic-140/",
+          "type": "article",
+          "description": "Concept definitions"
+        }
+      ],
+      "importance": "high",
+      "category": "Genetics",
+      "topics": ["Linkage", "Crossing Over", "Mapping", "Test Cross"]
+    },
+    {
+      "id": "22",
+      "title": "Sex-Linked Inheritance & X-Linked Disorders",
+      "content": "Patterns of X-linked recessive/dominant traits; pedigree analysis.",
+      "keyTakeaways": [
+        "Males hemizygous for X; carrier females influence transmission.",
+        "Worked examples with Punnett squares are essential."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Sex Linkage",
+          "url": "https://www.khanacademy.org/science/ap-biology/heredity/linked-genes/a/sex-linkage",
+          "type": "article",
+          "description": "Core patterns & examples"
+        },
+        {
+          "title": "GeneReviews — X-Linked Disorders (index)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK1116/",
+          "type": "reference",
+          "description": "Clinical genetics compendium"
+        }
+      ],
+      "importance": "medium",
+      "category": "Genetics",
+      "topics": ["Sex Linkage", "Pedigrees", "X-Linked"]
+    },
+    {
+      "id": "23",
+      "title": "Hardy–Weinberg Equilibrium (HWE)",
+      "content": "Population genetics null model; conditions and p² + 2pq + q² calculations with applications.",
+      "keyTakeaways": [
+        "Use HWE to detect evolution (selection, drift, migration, nonrandom mating).",
+        "Exam staples: carrier frequency, allele frequency, and deviation tests."
+      ],
+      "resources": [
+        {
+          "title": "UC Berkeley — HWE Concept Page",
+          "url": "https://evolution.berkeley.edu/concepts/350101-1316-hardy-weinberg-describes-expectations-about-the-gene-pool-of-a-population-that-isnt-evolving/",
+          "type": "article",
+          "description": "Authoritative explainer"
+        },
+        {
+          "title": "Khan Academy — Hardy–Weinberg",
+          "url": "https://www.khanacademy.org/science/ap-biology/natural-selection/hardy-weinberg-equilibrium/a/hardy-weinberg-mechanisms-of-evolution",
+          "type": "article",
+          "description": "Worked examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Genetics",
+      "topics": ["Hardy–Weinberg", "Population Genetics", "Allele Frequency"]
+    },
+    {
+      "id": "24",
+      "title": "Evolution: Darwin vs. Lamarck & Natural Selection",
+      "content": "Contrast mechanisms; articulate Darwin's evidence and the modern synthesis.",
+      "keyTakeaways": [
+        "Natural selection acts on heritable variation; Lamarckian inheritance rejected (with rare epigenetic caveats).",
+        "Be ready to write short critical essays with examples."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Natural Selection",
+          "url": "https://www.britannica.com/science/natural-selection",
+          "type": "article",
+          "description": "Definition & mechanisms"
+        },
+        {
+          "title": "Britannica — Evolution (Science of Evolution)",
+          "url": "https://www.britannica.com/science/evolution-scientific-theory/The-science-of-evolution",
+          "type": "article",
+          "description": "Modern synthesis overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Evolution & Phylogeny",
+      "topics": ["Darwin", "Lamarck", "Selection", "Adaptation"]
+    },
+    {
+      "id": "25",
+      "title": "Biogeochemical Cycles (Nitrogen, Phosphorus) & Food Webs",
+      "content": "Cycle components and human impacts; distinguish food chains vs. web; sedimentary vs. gaseous cycles.",
+      "keyTakeaways": [
+        "Nitrogen fixation/nitrification/denitrification pathways are common MCQs.",
+        "Food webs better reflect ecosystem stability than simple chains."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Biogeochemical Cycles",
+          "url": "https://www.khanacademy.org/science/high-school-biology/hs-ecology/hs-biogeochemical-cycles/a/biogeochemical-cycles",
+          "type": "article",
+          "description": "Nitrogen & phosphorus cycle"
+        },
+        {
+          "title": "Britannica — Biogeochemical Cycle",
+          "url": "https://www.britannica.com/science/biogeochemical-cycle",
+          "type": "article",
+          "description": "Core definitions"
+        },
+        {
+          "title": "Khan Academy — Food Webs",
+          "url": "https://www.khanacademy.org/science/biology/ecology/ecological-relationships/a/food-chains-food-webs-and-energy-pyramids",
+          "type": "article",
+          "description": "Food chains vs. webs"
+        }
+      ],
+      "importance": "high",
+      "category": "Ecology & Environment",
+      "topics": ["Nitrogen Cycle", "Phosphorus Cycle", "Food Web"]
+    },
+    {
+      "id": "26",
+      "title": "Pond Ecosystem: Structure & Energy Flow",
+      "content": "Abiotic/biotic components; producers→consumers→decomposers; classic short essay with diagram.",
+      "keyTakeaways": [
+        "Stratification and nutrient cycling define productivity.",
+        "Decomposers close the loop; energy flow is unidirectional."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ecosystem (freshwater/pond examples)",
+          "url": "https://www.britannica.com/science/ecosystem/Freshwater-systems",
+          "type": "article",
+          "description": "Freshwater systems overview"
+        },
+        {
+          "title": "LibreTexts — Freshwater Ecosystems",
+          "url": "https://bio.libretexts.org/Bookshelves/Ecology/Introductory_Ecology/07%3A_Aquatic_Ecosystems",
+          "type": "article",
+          "description": "Lake/pond components"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ecology & Environment",
+      "topics": ["Pond Ecosystem", "Energy Flow", "Decomposers"]
+    },
+    {
+      "id": "27",
+      "title": "Applied Zoology & Parasitology: Protozoan & Vector-Borne Diseases",
+      "content": "Medical importance of protozoa (malaria, leishmaniasis, amebiasis) and vector control (Aedes, Anopheles).",
+      "keyTakeaways": [
+        "Life cycles guide control strategies (break transmission).",
+        "Integrated Vector Management (IVM) combines environmental, biological, and chemical tools."
+      ],
+      "resources": [
+        {
+          "title": "CDC — Malaria (Life Cycle & Resources)",
+          "url": "https://www.cdc.gov/malaria/about/biology/index.html",
+          "type": "guideline",
+          "description": "Lifecycle graphics & control"
+        },
+        {
+          "title": "CDC — Leishmaniasis (Clinical Overview)",
+          "url": "https://www.cdc.gov/parasites/leishmaniasis/index.html",
+          "type": "guideline",
+          "description": "Epidemiology & prevention"
+        },
+        {
+          "title": "WHO — Dengue Vector Control (Guidance)",
+          "url": "https://www.who.int/teams/global-malaria-programme/vector-control/dengue-and-severe-dengue",
+          "type": "guideline",
+          "description": "Aedes control strategies"
+        }
+      ],
+      "importance": "high",
+      "category": "Applied Zoology & Parasitology",
+      "topics": ["Malaria", "Leishmaniasis", "Amebiasis", "Vector Control"]
+    },
+    {
+      "id": "28",
+      "title": "Climate Change & Zoology: Greenhouse Effect and Ocean Acidification (Impacts on Animals)",
+      "content": "Summarize greenhouse effect and CO₂ trends; ecological impacts on calcifiers (molluscs, corals) and food webs.",
+      "keyTakeaways": [
+        "Rising CO₂ lowers ocean pH, reducing carbonate availability for shells.",
+        "Use recent, authoritative data sources (NOAA, IPCC) in answers."
+      ],
+      "resources": [
+        {
+          "title": "NOAA — Basics of the Carbon Cycle & Greenhouse Effect",
+          "url": "https://www.noaa.gov/basics-of-carbon-cycle-and-greenhouse-effect",
+          "type": "article",
+          "description": "Clear primer"
+        },
+        {
+          "title": "IPCC AR6 Synthesis Report (2023) — PDF",
+          "url": "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf",
+          "type": "report",
+          "description": "Authoritative assessment"
+        },
+        {
+          "title": "NOAA — Ocean Acidification Overview",
+          "url": "https://oceanacidification.noaa.gov/what-is-ocean-acidification/",
+          "type": "article",
+          "description": "OA mechanism & biology"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ecology & Environment",
+      "topics": ["Greenhouse Effect", "Ocean Acidification", "Molluscs", "Corals"]
+    }
+  ]
+}

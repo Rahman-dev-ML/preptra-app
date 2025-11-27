@@ -1,0 +1,797 @@
+{
+  "subject": "Psychology",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 28,
+  "categories": [
+    "Schools & History",
+    "Biological Bases of Behavior",
+    "Learning & Conditioning",
+    "Developmental Psychology",
+    "Personality",
+    "Intelligence",
+    "Perception & Attention",
+    "Emotion & Motivation",
+    "Research Methods & Ethics",
+    "Psychological Testing & Measurement",
+    "Abnormal & Clinical Psychology",
+    "Social Psychology",
+    "Industrial/Organizational Psychology",
+    "Health Psychology",
+    "Forensic Psychology",
+    "Pakistan/FPSC Context"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Schools of Psychology: Structuralism, Functionalism, Behaviorism, Gestalt, Cognitive, Humanistic",
+      "content": "Contrast early schools (Structuralism—Titchener, introspection; Functionalism—James, adaptive functions) with Behaviorism (Watson/Skinner), Gestalt (perceptual organization), Cognitive revolution (information processing), and Humanistic (Rogers/Maslow). Map typical exam prompts that ask for comparisons, criticisms, and legacy in modern psychology.",
+      "keyTakeaways": [
+        "Know methods: introspection vs. experiment vs. observation.",
+        "Gestalt's 'the whole is other than the sum of parts'.",
+        "Cognitive perspective integrates biology, memory, language; humanistic adds agency/values."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Psychology 2e (Ch. 1)",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Free comprehensive intro text covering major schools"
+        },
+        {
+          "title": "Gestalt overview (Wagemans et al.)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3482144/",
+          "type": "review article",
+          "description": "Principles of grouping in perception"
+        }
+      ],
+      "importance": "high",
+      "category": "Schools & History",
+      "topics": ["Structuralism", "Functionalism", "Behaviorism", "Gestalt", "Cognitive", "Humanistic"]
+    },
+    {
+      "id": "2",
+      "title": "Nervous System & Brain: CNS, PNS, Lobes, Endocrine links",
+      "content": "Outline CNS (brain, spinal cord) and PNS (somatic/autonomic—sympathetic vs parasympathetic). Brain lobes' core functions and high-yield nuclei. Endocrine system's role in behavior and stress responses.",
+      "keyTakeaways": [
+        "CNS integrates; PNS relays—ANS controls involuntary responses.",
+        "Frontal: executive control; Temporal: audition/memory; Parietal: somatosensory; Occipital: vision.",
+        "Endocrine (pituitary, thyroid, adrenals) modulates arousal, metabolism, stress."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Biopsychology chapters",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "CNS/PNS, brain anatomy, hormones"
+        },
+        {
+          "title": "NIMH — Depression basics (biology & treatment)",
+          "url": "https://www.nimh.nih.gov/health/topics/depression",
+          "type": "gov overview",
+          "description": "Authoritative clinical framing"
+        }
+      ],
+      "importance": "high",
+      "category": "Biological Bases of Behavior",
+      "topics": ["CNS", "PNS", "Lobes", "Endocrine", "ANS"]
+    },
+    {
+      "id": "3",
+      "title": "Classical Conditioning (Pavlov) — Core Mechanisms & Applications",
+      "content": "Unconditioned stimulus (US) → Unconditioned response (UR); pair neutral stimulus → becomes conditioned stimulus (CS) producing conditioned response (CR). Generalization, discrimination, extinction, spontaneous recovery.",
+      "keyTakeaways": [
+        "Learning via associations; timing and contingency matter.",
+        "Therapy links: exposure, systematic desensitization foundations."
+      ],
+      "resources": [
+        {
+          "title": "StatPearls — Classical Conditioning",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470326/",
+          "type": "reference",
+          "description": "Medical/clinical framing with examples"
+        },
+        {
+          "title": "SimplyPsychology — Classical Conditioning",
+          "url": "https://www.simplypsychology.org/classical-conditioning.html",
+          "type": "article",
+          "description": "Accessible diagrams & examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Learning & Conditioning",
+      "topics": ["US/UR/CS/CR", "Extinction", "Generalization", "Conditioned responses"]
+    },
+    {
+      "id": "4",
+      "title": "Operant Conditioning (Thorndike → Skinner): Reinforcement & Punishment",
+      "content": "Behavior shaped by consequences. Law of Effect (Thorndike): satisfying outcomes strengthen S-R bonds; Skinner formalized reinforcement (positive/negative) and punishment with schedules (fixed/variable ratio/interval).",
+      "keyTakeaways": [
+        "Reinforcement increases behavior; punishment decreases—be precise with terms.",
+        "Variable-ratio schedules produce high, steady responding (e.g., gambling)."
+      ],
+      "resources": [
+        {
+          "title": "Verywell Mind — Operant Conditioning overview",
+          "url": "https://www.verywellmind.com/operant-conditioning-a2-2794863",
+          "type": "article",
+          "description": "Skinner concepts, types & examples"
+        },
+        {
+          "title": "SimplyPsychology — Schedules of Reinforcement",
+          "url": "https://www.simplypsychology.org/schedules-of-reinforcement.html",
+          "type": "article",
+          "description": "Fixed/variable ratio & interval with graphs"
+        },
+        {
+          "title": "Britannica — Thorndike's Law of Effect",
+          "url": "https://www.britannica.com/science/Thorndikes-law-of-effect",
+          "type": "reference",
+          "description": "Historical anchor"
+        }
+      ],
+      "importance": "high",
+      "category": "Learning & Conditioning",
+      "topics": ["Law of Effect", "Reinforcement", "Punishment", "Schedules"]
+    },
+    {
+      "id": "5",
+      "title": "Observational/Social Learning — Bandura's Bobo Doll",
+      "content": "Learning via observation, modeling, vicarious reinforcement; cognition mediates behavior beyond simple conditioning.",
+      "keyTakeaways": [
+        "Children imitate aggressive models; media implications.",
+        "Four processes: attention, retention, reproduction, motivation."
+      ],
+      "resources": [
+        {
+          "title": "Bandura (1961) Original Paper (PDF)",
+          "url": "https://users.sussex.ac.uk/~grahamh/RM1web/Classic%20papers/Bandura1961.pdf",
+          "type": "primary paper",
+          "description": "Transmission of aggression study"
+        },
+        {
+          "title": "SimplyPsychology — Bobo Doll Summary",
+          "url": "https://www.simplypsychology.org/bobo-doll.html",
+          "type": "article",
+          "description": "Key results & evaluation"
+        }
+      ],
+      "importance": "high",
+      "category": "Learning & Conditioning",
+      "topics": ["Social Learning", "Modeling", "Vicarious Reinforcement"]
+    },
+    {
+      "id": "6",
+      "title": "Piaget's Cognitive Development — 4 Stages & Exam Applications",
+      "content": "Sensorimotor (object permanence), Preoperational (egocentrism), Concrete Operational (conservation), Formal Operational (abstract reasoning).",
+      "keyTakeaways": [
+        "Order and ages are frequently tested.",
+        "Apply stages to education and parenting scenarios."
+      ],
+      "resources": [
+        {
+          "title": "SimplyPsychology — Piaget",
+          "url": "https://www.simplypsychology.org/piaget.html",
+          "type": "article",
+          "description": "Stages with evaluation"
+        },
+        {
+          "title": "Verywell Mind — Piaget's 4 Stages",
+          "url": "https://www.verywellmind.com/piagets-stages-of-cognitive-development-2795457",
+          "type": "article",
+          "description": "Concise stage guide"
+        }
+      ],
+      "importance": "high",
+      "category": "Developmental Psychology",
+      "topics": ["Object Permanence", "Conservation", "Abstract Reasoning"]
+    },
+    {
+      "id": "7",
+      "title": "Moral Development — Kohlberg vs. Gilligan",
+      "content": "Kohlberg's 3 levels/6 stages (justice-oriented reasoning) vs. Gilligan's ethics of care critique (context, relationships, care).",
+      "keyTakeaways": [
+        "Contrast justice vs. care orientations; cultural/gender debate.",
+        "Scenario-based exam questions often test stage identification."
+      ],
+      "resources": [
+        {
+          "title": "SimplyPsychology — Kohlberg",
+          "url": "https://www.simplypsychology.org/kohlberg.html",
+          "type": "article",
+          "description": "Stages & critiques"
+        },
+        {
+          "title": "Verywell Mind — Gilligan's Theory",
+          "url": "https://www.verywellmind.com/the-carol-gilligan-theory-and-a-woman-s-sense-of-self-5198408",
+          "type": "article",
+          "description": "Ethics of care perspective"
+        },
+        {
+          "title": "ThoughtCo — Ethics of Care (Gilligan)",
+          "url": "https://www.thoughtco.com/ethics-of-care-4691476",
+          "type": "article",
+          "description": "Plain-language explanation"
+        }
+      ],
+      "importance": "high",
+      "category": "Developmental Psychology",
+      "topics": ["Kohlberg", "Gilligan", "Ethics of Care", "Justice Orientation"]
+    },
+    {
+      "id": "8",
+      "title": "Emotion Theories — James-Lange, Cannon-Bard, Schachter-Singer",
+      "content": "Physiology → emotion (James-Lange) vs. simultaneous (Cannon-Bard) vs. physiology + cognitive label (Schachter-Singer). Include appraisal and facial feedback add-ons.",
+      "keyTakeaways": [
+        "Differentiate order of events and role of cognition.",
+        "Be ready for diagrammatic comparisons."
+      ],
+      "resources": [
+        {
+          "title": "Verywell Mind — Theories of Emotion (comparative)",
+          "url": "https://www.verywellmind.com/theories-of-emotion-2795717",
+          "type": "article",
+          "description": "Table comparing six theories"
+        },
+        {
+          "title": "OpenStax — Emotion chapter",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Detailed coverage of major theories"
+        }
+      ],
+      "importance": "high",
+      "category": "Emotion & Motivation",
+      "topics": ["James-Lange", "Cannon-Bard", "Two-Factor", "Appraisal", "Facial Feedback"]
+    },
+    {
+      "id": "9",
+      "title": "Intelligence: Fluid vs. Crystallized; Multiple Intelligences; Major Tests",
+      "content": "Cattell-Horn: fluid (novel problem solving) vs. crystallized (acquired knowledge). Gardner's MI broadens domains (8–9 types). WAIS/WISC and Stanford-Binet as standardized IQ measures.",
+      "keyTakeaways": [
+        "Distinguish CHC model vs. Gardner's MI (empirical debates).",
+        "Know what WAIS/WISC/SB5 measure and when each is used."
+      ],
+      "resources": [
+        {
+          "title": "Verywell Mind — Fluid vs. Crystallized",
+          "url": "https://www.verywellmind.com/fluid-intelligence-vs-crystallized-intelligence-2795004",
+          "type": "article",
+          "description": "Clear contrasts with examples"
+        },
+        {
+          "title": "SimplyPsychology — Multiple Intelligences",
+          "url": "https://www.simplypsychology.org/multiple-intelligences.html",
+          "type": "article",
+          "description": "Overview of MI types"
+        },
+        {
+          "title": "Pearson — WAIS-IV (test information)",
+          "url": "https://www.pearsonassessments.com/en-us/Store/Professional-Assessments/Cognition-%26-Neuro/Wechsler-Adult-Intelligence-Scale-%7C-Fourth-Edition/p/100000392",
+          "type": "publisher page",
+          "description": "Official overview of WAIS"
+        },
+        {
+          "title": "APA Dictionary — Stanford–Binet",
+          "url": "https://dictionary.apa.org/stanford-binet-intelligence-scale",
+          "type": "reference",
+          "description": "Definition & scope"
+        }
+      ],
+      "importance": "high",
+      "category": "Intelligence",
+      "topics": ["Fluid", "Crystallized", "MI", "WAIS", "Stanford–Binet"]
+    },
+    {
+      "id": "10",
+      "title": "Perception: Gestalt Laws & Depth Cues",
+      "content": "Gestalt principles (proximity, similarity, continuity, closure, symmetry) explain how we organize stimuli; depth perception via binocular and monocular cues.",
+      "keyTakeaways": [
+        "Be able to apply a principle to a figure.",
+        "Monocular cues (linear perspective, texture gradient) are common MCQs."
+      ],
+      "resources": [
+        {
+          "title": "IxDF — Gestalt Principles (design & perception)",
+          "url": "https://www.interaction-design.org/literature/topics/gestalt-principles",
+          "type": "article",
+          "description": "Principles with visuals"
+        },
+        {
+          "title": "Wagemans et al. — Gestalt Review",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3482144/",
+          "type": "review article",
+          "description": "Scholarly synthesis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Perception & Attention",
+      "topics": ["Gestalt", "Grouping", "Depth Cues"]
+    },
+    {
+      "id": "11",
+      "title": "Motivation: Biological vs. Social Motives; Maslow's Hierarchy",
+      "content": "Differentiate biogenic (hunger, thirst) vs. sociogenic (achievement, affiliation, power) motives; integrate Maslow's needs and critiques.",
+      "keyTakeaways": [
+        "Hierarchy is flexible; cultural/contextual modifiers exist.",
+        "Achievement motivation connects to workplace outcomes."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Motivation",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Coverage of drives/needs"
+        }
+      ],
+      "importance": "medium",
+      "category": "Emotion & Motivation",
+      "topics": ["Biogenic", "Sociogenic", "Maslow"]
+    },
+    {
+      "id": "12",
+      "title": "Research Methods: Variables, Designs, Reliability & Validity",
+      "content": "Independent vs. dependent variables, experimental/quasi designs; reliability (test-retest, inter-rater, internal consistency) vs. validity (construct, criterion, content).",
+      "keyTakeaways": [
+        "Reliability ≠ validity; both needed for sound measures.",
+        "Know threats to validity and how to control them."
+      ],
+      "resources": [
+        {
+          "title": "APA Dictionary — Validity",
+          "url": "https://dictionary.apa.org/validity",
+          "type": "reference",
+          "description": "Definitions & types"
+        },
+        {
+          "title": "OpenTextBC — Reliability & Validity",
+          "url": "https://opentextbc.ca/researchmethods/chapter/reliability-and-validity-of-measurement/",
+          "type": "open text",
+          "description": "Plain-language treatment with examples"
+        },
+        {
+          "title": "APA PsycTests — Method field values",
+          "url": "https://www.apa.org/pubs/databases/training/psyctests-method-values",
+          "type": "guidance",
+          "description": "Assessment metadata definitions"
+        }
+      ],
+      "importance": "high",
+      "category": "Research Methods & Ethics",
+      "topics": ["IV/DV", "Experimental Design", "Reliability", "Validity"]
+    },
+    {
+      "id": "13",
+      "title": "Ethics in Psychological Research: Belmont + APA Code",
+      "content": "Belmont principles (Respect, Beneficence, Justice) underpin IRB processes; APA Code operationalizes professional standards (confidentiality, consent, competence).",
+      "keyTakeaways": [
+        "Link historical abuses to modern safeguards.",
+        "Apply principles to vignettes (e.g., deception, vulnerable populations)."
+      ],
+      "resources": [
+        {
+          "title": "HHS — Belmont Report (official)",
+          "url": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html",
+          "type": "gov page",
+          "description": "Ethical foundation"
+        },
+        {
+          "title": "APA — Ethics Code",
+          "url": "https://www.apa.org/ethics/code",
+          "type": "policy",
+          "description": "Current standards and principles"
+        },
+        {
+          "title": "Harvard HPOD — Belmont Plain-Language Summary (PDF)",
+          "url": "https://hpod.law.harvard.edu/pdf/Belmont-Report-Plain-Language-Summary.pdf",
+          "type": "summary",
+          "description": "Quick exam-friendly brief"
+        }
+      ],
+      "importance": "high",
+      "category": "Research Methods & Ethics",
+      "topics": ["Belmont", "APA Ethics", "IRB", "Informed Consent"]
+    },
+    {
+      "id": "14",
+      "title": "Psychological Testing: Standardization, Reliability & Validity",
+      "content": "Define standardized tests, norms, error; interpret reliability coefficients and validate tests for intended uses.",
+      "keyTakeaways": [
+        "Always report intended purpose and population.",
+        "Misuse of tests is an ethical violation."
+      ],
+      "resources": [
+        {
+          "title": "APA Dictionary — Standardized Test",
+          "url": "https://dictionary.apa.org/standardized-test",
+          "type": "reference",
+          "description": "Core definition"
+        },
+        {
+          "title": "APA — Guidelines for Psychological Assessment (PDF)",
+          "url": "https://www.apa.org/about/policy/guidelines-psychological-assessment-evaluation.pdf",
+          "type": "guideline",
+          "description": "Best practices"
+        }
+      ],
+      "importance": "high",
+      "category": "Psychological Testing & Measurement",
+      "topics": ["Standardization", "Norms", "Reliability", "Validity"]
+    },
+    {
+      "id": "15",
+      "title": "Projective vs. Objective Tests (Rorschach, TAT, MMPI)",
+      "content": "Contrast projective techniques (ambiguous stimuli → projection) with objective inventories (standardized items/scales). Evaluate psychometrics and clinical utility.",
+      "keyTakeaways": [
+        "Projectives face validity/reliability debates; use cautiously.",
+        "Objective tests (e.g., MMPI) have stronger norms and validity scales."
+      ],
+      "resources": [
+        {
+          "title": "SimplyPsychology — Projective Tests (TAT focus)",
+          "url": "https://www.simplypsychology.org/what-is-a-projective-test.html",
+          "type": "article",
+          "description": "How projectives are used"
+        },
+        {
+          "title": "PMC — Systematic review of projective techniques (2025)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12025577/",
+          "type": "review",
+          "description": "Recent evidence base"
+        }
+      ],
+      "importance": "medium",
+      "category": "Psychological Testing & Measurement",
+      "topics": ["Rorschach", "TAT", "MMPI", "Validity"]
+    },
+    {
+      "id": "16",
+      "title": "Major Disorders — Anxiety, Mood, Schizophrenia (high-yield DSM concepts)",
+      "content": "Recognize core DSM-5-TR criteria patterns (e.g., GAD's 6-month worry + 3+ symptoms), symptom clusters of depressive disorders, and schizophrenia positive/negative symptoms. Treatment overviews (CBT, medication).",
+      "keyTakeaways": [
+        "Memorize hallmark features & differentials (panic vs. GAD vs. phobia).",
+        "Pair with evidence-based therapies (CBT first-line for many)."
+      ],
+      "resources": [
+        {
+          "title": "APA — DSM-5-TR Fact Sheets",
+          "url": "https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/dsm-5-tr-fact-sheets",
+          "type": "official resource",
+          "description": "Updated criteria notes"
+        },
+        {
+          "title": "NIMH — Depression (publications)",
+          "url": "https://www.nimh.nih.gov/health/publications/depression",
+          "type": "gov overview",
+          "description": "Symptoms, types, treatment"
+        },
+        {
+          "title": "NCBI — GAD DSM Table",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519704/table/ch3.t15/",
+          "type": "reference",
+          "description": "DSM-IV → DSM-5 comparison (GAD)"
+        }
+      ],
+      "importance": "high",
+      "category": "Abnormal & Clinical Psychology",
+      "topics": ["GAD", "MDD", "Schizophrenia", "DSM-5-TR"]
+    },
+    {
+      "id": "17",
+      "title": "Therapies — CBT & REBT (Evidence & Techniques)",
+      "content": "CBT (Beck): identify & restructure maladaptive cognitions; REBT (Ellis): dispute irrational beliefs (ABC model).",
+      "keyTakeaways": [
+        "CBT is highly evidence-based across common disorders.",
+        "REBT emphasizes active disputation and philosophic change."
+      ],
+      "resources": [
+        {
+          "title": "APA — What is CBT?",
+          "url": "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral",
+          "type": "official explainer",
+          "description": "Plain summary & efficacy"
+        },
+        {
+          "title": "NCBI — CBT (StatPearls)",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK470241/",
+          "type": "reference",
+          "description": "Clinical scope & evidence"
+        },
+        {
+          "title": "Albert Ellis Institute — REBT",
+          "url": "https://albertellis.org/rebt-cbt-therapy/",
+          "type": "institute page",
+          "description": "Foundations & practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Abnormal & Clinical Psychology",
+      "topics": ["CBT", "REBT", "Cognitive Restructuring", "ABC model"]
+    },
+    {
+      "id": "18",
+      "title": "Systematic Desensitization & Exposure",
+      "content": "Behavioral treatment (Wolpe) that pairs relaxation with graded exposure to feared stimuli; modern variants use in-vivo/imaginal/VR exposure.",
+      "keyTakeaways": [
+        "Hierarchy building and relaxation training are exam staples.",
+        "Extends classical conditioning principles to therapy."
+      ],
+      "resources": [
+        {
+          "title": "PMC — Systematic Desensitization (history)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3215612/",
+          "type": "history/review",
+          "description": "Origins and method"
+        },
+        {
+          "title": "SimplyPsychology — Systematic Desensitization",
+          "url": "https://www.simplypsychology.org/systematic-desensitisation.html",
+          "type": "article",
+          "description": "Steps & evaluation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Abnormal & Clinical Psychology",
+      "topics": ["Exposure", "Wolpe", "Phobias"]
+    },
+    {
+      "id": "19",
+      "title": "Social Psychology: Obedience & Power of Situations",
+      "content": "Milgram's obedience experiments demonstrate compliance under authority; Stanford Prison Experiment highlights situational roles and ethical controversies.",
+      "keyTakeaways": [
+        "Discuss ethics (consent, debrief, distress).",
+        "Modern critiques question methodology and interpretations."
+      ],
+      "resources": [
+        {
+          "title": "Milgram (1963) — Behavioral Study of Obedience (PDF)",
+          "url": "https://www.columbia.edu/cu/psychology/terrace/w1001/readings/milgram.pdf",
+          "type": "primary paper",
+          "description": "Original journal article"
+        },
+        {
+          "title": "Stanford — Prison Experiment archive",
+          "url": "https://exhibits.stanford.edu/spe",
+          "type": "archive",
+          "description": "Primary materials & timeline"
+        },
+        {
+          "title": "TIME — Reassessment/Critiques of SPE",
+          "url": "https://time.com/7175067/stanford-prison-experiment-docuseries-real-story/",
+          "type": "article",
+          "description": "Recent critical perspective"
+        }
+      ],
+      "importance": "high",
+      "category": "Social Psychology",
+      "topics": ["Obedience", "Authority", "SPE", "Ethics"]
+    },
+    {
+      "id": "20",
+      "title": "Attribution, Attitudes & Dissonance",
+      "content": "Attribution theories (Heider; Kelley's covariation model) explain person vs. situation causes. Cognitive dissonance (Festinger) drives attitude/behavior change.",
+      "keyTakeaways": [
+        "Use consensus/consistency/distinctiveness triad for Kelley.",
+        "Dissonance reduction strategies (change belief, change behavior, add cognitions)."
+      ],
+      "resources": [
+        {
+          "title": "SimplyPsychology — Attribution Theory",
+          "url": "https://www.simplypsychology.org/attribution-theory.html",
+          "type": "article",
+          "description": "Kelley's model"
+        },
+        {
+          "title": "Wiley chapter PDF — Malle (2022) Attribution Theories",
+          "url": "https://research.clps.brown.edu/SocCogSci/Publications/Pubs/Malle%20%282022%29%20Attribution%20theories.pdf",
+          "type": "chapter",
+          "description": "Scholarly review"
+        },
+        {
+          "title": "Verywell Mind — Cognitive Dissonance",
+          "url": "https://www.verywellmind.com/what-is-cognitive-dissonance-2795012",
+          "type": "article",
+          "description": "Accessible summary"
+        }
+      ],
+      "importance": "high",
+      "category": "Social Psychology",
+      "topics": ["Attribution", "Cognitive Dissonance", "Attitudes"]
+    },
+    {
+      "id": "21",
+      "title": "Emotional Intelligence (EI) — Goleman's Model & Evidence",
+      "content": "EI includes self-awareness, self-management, social awareness, and relationship management; relevance to leadership and health outcomes.",
+      "keyTakeaways": [
+        "Differentiate EI models (ability vs. mixed).",
+        "Use in organizational settings with validated measures."
+      ],
+      "resources": [
+        {
+          "title": "PMC — EI in Healthcare (Goleman's 4 components)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7329378/",
+          "type": "review",
+          "description": "Defines core EI domains"
+        },
+        {
+          "title": "EI Consortium — Daniel Goleman profile",
+          "url": "https://www.eiconsortium.org/members/goleman.htm",
+          "type": "reference",
+          "description": "Background & publications"
+        }
+      ],
+      "importance": "medium",
+      "category": "Personality",
+      "topics": ["EI", "Goleman", "Leadership"]
+    },
+    {
+      "id": "22",
+      "title": "Personality Theories & Assessment",
+      "content": "Psychoanalytic (Freud), Trait (Big Five), Humanistic (Rogers), Social-cognitive (Bandura). Link theories to assessment approaches and typical critiques.",
+      "keyTakeaways": [
+        "Trait approach emphasizes stability and factor models.",
+        "Humanistic highlights self-concept; social-cognitive: reciprocal determinism."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Personality chapter",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Theory survey + tests"
+        }
+      ],
+      "importance": "high",
+      "category": "Personality",
+      "topics": ["Freud", "Big Five", "Rogers", "Bandura"]
+    },
+    {
+      "id": "23",
+      "title": "Sensation vs. Perception",
+      "content": "Differentiate sensory transduction from perceptual interpretation; determinants of perception include attention, context, expectations (top-down vs. bottom-up).",
+      "keyTakeaways": [
+        "Exam MCQs frequently ask for examples of top-down effects.",
+        "Apply to illusions and reading tasks."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Sensation & Perception",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Foundations with figures"
+        }
+      ],
+      "importance": "medium",
+      "category": "Perception & Attention",
+      "topics": ["Transduction", "Top-down", "Bottom-up"]
+    },
+    {
+      "id": "24",
+      "title": "Industrial/Organizational (I/O) Psychology Essentials",
+      "content": "Leadership, motivation at work, job satisfaction, organizational culture, stress & conflict, selection and assessment basics.",
+      "keyTakeaways": [
+        "Tie reinforcement and goal-setting to productivity.",
+        "Leadership: transactional vs. transformational contrasts."
+      ],
+      "resources": [
+        {
+          "title": "FPSC CSS Psychology Syllabus (PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Psychology-CSS-Syllabus.pdf",
+          "type": "syllabus",
+          "description": "Official CSS topic list (includes I/O)"
+        },
+        {
+          "title": "OpenStax — Industrial-Organizational Psychology",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Ch. on workplace psychology"
+        }
+      ],
+      "importance": "medium",
+      "category": "Industrial/Organizational Psychology",
+      "topics": ["Leadership", "Motivation", "Job Satisfaction", "Culture"]
+    },
+    {
+      "id": "25",
+      "title": "Health Psychology — Stress, Coping, Social Support",
+      "content": "Biopsychosocial model; stress appraisal, coping strategies, role of social support in outcomes; behavior change frameworks.",
+      "keyTakeaways": [
+        "Stress models (e.g., transactional) show appraisal's role.",
+        "Health behaviors linked to motivation/emotion content."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Health Psychology",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Behavioral health and stress"
+        }
+      ],
+      "importance": "medium",
+      "category": "Health Psychology",
+      "topics": ["Stress", "Coping", "Social Support"]
+    },
+    {
+      "id": "26",
+      "title": "Forensic Psychology — Eyewitness, Confessions, Law",
+      "content": "Memory fallibility, suggestibility, and lineup procedures; interrogation effects; expert testimony boundaries.",
+      "keyTakeaways": [
+        "Reliability of eyewitness testimony is limited; emphasize procedures that reduce bias.",
+        "Ethical constraints in assessments for legal contexts."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Forensic/Legal topics (select sections)",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Intro coverage suitable for exam"
+        }
+      ],
+      "importance": "medium",
+      "category": "Forensic Psychology",
+      "topics": ["Eyewitness", "Suggestibility", "Lineups"]
+    },
+    {
+      "id": "27",
+      "title": "High-Yield Experiments & Critiques",
+      "content": "Milgram (obedience), Zimbardo (prison), Bandura (Bobo), Pavlov (conditioning), Skinner (operant), Piaget (conservation tasks). Include methodological critiques and modern replications/debates.",
+      "keyTakeaways": [
+        "Always pair classic findings with ethical/method critiques.",
+        "Know DV/IV and sample/setting limits."
+      ],
+      "resources": [
+        {
+          "title": "Milgram 1963 (PDF)",
+          "url": "https://www.columbia.edu/cu/psychology/terrace/w1001/readings/milgram.pdf",
+          "type": "primary paper",
+          "description": "Original obedience study"
+        },
+        {
+          "title": "Stanford Prison Experiment archive",
+          "url": "https://exhibits.stanford.edu/spe",
+          "type": "archive",
+          "description": "Primary documents"
+        },
+        {
+          "title": "TIME — SPE recent critique",
+          "url": "https://time.com/7175067/stanford-prison-experiment-docuseries-real-story/",
+          "type": "article",
+          "description": "Contemporary reassessment"
+        }
+      ],
+      "importance": "high",
+      "category": "Schools & History",
+      "topics": ["Milgram", "Zimbardo", "Bandura", "Pavlov", "Skinner", "Piaget"]
+    },
+    {
+      "id": "28",
+      "title": "CSS/FPSC Alignment & Topic Map",
+      "content": "Map your study to the FPSC CSS Psychology syllabus: nature/scope; biological bases; sensation/perception; learning/memory; motivation/emotion; assessment/testing; personality; intelligence; social influence/group dynamics; developmental; abnormal/clinical; I/O; health; forensic.",
+      "keyTakeaways": [
+        "Use the official syllabus as the spine; plug in the above notes under each heading.",
+        "Practice with past MCQs/long questions on repeated patterns (Piaget, conditioning, emotion theories, DSM basics)."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabi (official page)",
+          "url": "https://www.fpsc.gov.pk/category/css-syllabi-1493570691-2024-06-11",
+          "type": "official",
+          "description": "Latest syllabus hub"
+        },
+        {
+          "title": "CSS Psychology Syllabus (PDF mirror)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/Psychology-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Full outline"
+        },
+        {
+          "title": "OpenStax — Psychology 2e",
+          "url": "https://openstax.org/details/books/psychology-2e",
+          "type": "textbook",
+          "description": "Free, exam-aligned coverage"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan/FPSC Context",
+      "topics": ["FPSC", "CSS", "Syllabus Mapping"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T21:11:55.914Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "6a3b720389f513d60e0bc18835245b0e5ce467d9",
+      "sectionIndex": 0,
+      "question": "The New England Confederation of 1643 was formed primarily because:",
+      "options": [
+        "A) Economic prosperity",
+        "B) Defense against Native Americans and Dutch encroachment",
+        "C) Religious uniformity",
+        "D) Trade agreements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b55b5faab4acf7a9e5223ca6bee050b8182da4c",
+      "sectionIndex": 0,
+      "question": "The Enlightenment influenced the American Revolution by:",
+      "options": [
+        "A) Promoting monarchy",
+        "B) Emphasizing natural rights and social contract theory",
+        "C) Supporting mercantilism",
+        "D) Encouraging isolationism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "449acd490d28e9ed14613c4871b1cc613538ea6d",
+      "sectionIndex": 0,
+      "question": "The Stamp Act Crisis of 1765 was significant because it:",
+      "options": [
+        "A) Raised minimal revenue",
+        "B) United colonies in opposition to taxation without representation",
+        "C) Was easily accepted",
+        "D) Only affected merchants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e90d4067f2af61c4e01b02db60aa1a8525ced0c",
+      "sectionIndex": 0,
+      "question": "The phrase \"The Revolution was effected before the war commenced\" means:",
+      "options": [
+        "A) Military preparation was complete",
+        "B) Ideological transformation preceded armed conflict",
+        "C) Foreign alliances were secured",
+        "D) Economic independence was achieved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71c53428bb1785a02256cd6f01623f7a6a430b26",
+      "sectionIndex": 0,
+      "question": "The Articles of Confederation failed primarily due to:",
+      "options": [
+        "A) Too much federal power",
+        "B) Inability to tax and regulate commerce effectively",
+        "C) Strong executive branch",
+        "D) Judicial overreach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db7285f1cdb43e9c9d772a483fee41cbcca61250",
+      "sectionIndex": 0,
+      "question": "The Great Compromise at the Constitutional Convention resolved:",
+      "options": [
+        "A) Slavery issues",
+        "B) Representation between large and small states",
+        "C) Executive powers",
+        "D) Bill of Rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af49c727f1a3450b0728bf47f4918d5fb40b68c1",
+      "sectionIndex": 0,
+      "question": "The Federalist Papers argued for:",
+      "options": [
+        "A) Weak central government",
+        "B) Ratification through reasoned analysis of governmental structure",
+        "C) Direct democracy",
+        "D) Confederation model"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4838be716c50e83baad7e45d44f8e8e2fb8ca01",
+      "sectionIndex": 0,
+      "question": "Anti-Federalists opposed the Constitution because:",
+      "options": [
+        "A) It was too weak",
+        "B) It lacked a bill of rights and concentrated power",
+        "C) It gave states too much power",
+        "D) It was too democratic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48998000191b4bfc65a3b3feb7f49636701066e2",
+      "sectionIndex": 0,
+      "question": "The three-fifths compromise addressed:",
+      "options": [
+        "A) Trade regulations",
+        "B) Counting slaves for representation and taxation",
+        "C) Western territories",
+        "D) Executive selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74f65ba841559a699dea46640bf2e2fcf1fef382",
+      "sectionIndex": 0,
+      "question": "The Whiskey Rebellion tested:",
+      "options": [
+        "A) State power",
+        "B) Federal authority to enforce tax law",
+        "C) Military weakness",
+        "D) Foreign relations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9db305b37d06d0f25c2656061deef72442224f26",
+      "sectionIndex": 1,
+      "question": "Jefferson's \"Revolution of 1800\" was significant because:",
+      "options": [
+        "A) It was violent",
+        "B) It marked peaceful transfer of power between parties",
+        "C) It ended federalism",
+        "D) It established monarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "283901eefb13f5b25f76a2b6c7203e03778aba2c",
+      "sectionIndex": 1,
+      "question": "The Louisiana Purchase was constitutionally problematic because:",
+      "options": [
+        "A) It was too expensive",
+        "B) Strict construction didn't explicitly allow territorial acquisition",
+        "C) France opposed it",
+        "D) Spain claimed it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b97abf76aa1112b48e2959769c2f5e8cddbc02e",
+      "sectionIndex": 1,
+      "question": "Marbury v. Madison established:",
+      "options": [
+        "A) Presidential supremacy",
+        "B) Judicial review of legislative acts",
+        "C) States' rights",
+        "D) Congressional power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37ee460a6ea2e37d7dda30dfeb2cbe83d16acf4d",
+      "sectionIndex": 1,
+      "question": "The Hartford Convention reflected:",
+      "options": [
+        "A) Western expansion",
+        "B) New England Federalist opposition to War of 1812",
+        "C) Support for Madison",
+        "D) Military strategy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2436a2a2a06184e0d66b4ae3f6f60202b931d340",
+      "sectionIndex": 1,
+      "question": "The Monroe Doctrine's significance lay in:",
+      "options": [
+        "A) Military power",
+        "B) Asserting hemispheric influence and anti-colonialism",
+        "C) European alliance",
+        "D) Trade policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a602955964251a3e929bda32052a5b5a6f7ad39a",
+      "sectionIndex": 1,
+      "question": "Jacksonian Democracy differed from Jeffersonian by:",
+      "options": [
+        "A) Opposing democracy",
+        "B) Emphasizing common man participation and spoils system",
+        "C) Supporting aristocracy",
+        "D) Limiting suffrage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a241cdfc08443a1696ddc576d80b7e89179a2bf2",
+      "sectionIndex": 1,
+      "question": "The Bank War under Jackson reflected:",
+      "options": [
+        "A) Economic prosperity",
+        "B) Conflict between democratic ideals and financial elites",
+        "C) Support for Hamilton",
+        "D) Fiscal conservatism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32d076249bc25995ab37b525ccf7051417264e9b",
+      "sectionIndex": 1,
+      "question": "The Indian Removal Act demonstrated:",
+      "options": [
+        "A) Humanitarian policy",
+        "B) Conflict between expansion and Native rights",
+        "C) Constitutional adherence",
+        "D) Judicial supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72179e0b3df13f4dc55bc3c67719bd40cdd84e39",
+      "sectionIndex": 1,
+      "question": "The nullification crisis revealed:",
+      "options": [
+        "A) National unity",
+        "B) Tensions between federal authority and state sovereignty",
+        "C) Economic prosperity",
+        "D) Judicial weakness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2fb7ec32f2e0b5fec154e08338912ae8c27e402",
+      "sectionIndex": 1,
+      "question": "The Second Great Awakening's impact included:",
+      "options": [
+        "A) Decreased religiosity",
+        "B) Reform movements and democratization of religion",
+        "C) Catholic dominance",
+        "D) Secular government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0d39aaea88fcd3b4497b4e8ec65f65ef96d65f2",
+      "sectionIndex": 2,
+      "question": "The Missouri Compromise of 1820 attempted to:",
+      "options": [
+        "A) End slavery",
+        "B) Balance free and slave states while limiting expansion",
+        "C) Promote abolition",
+        "D) Encourage immigration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f444e87e5e615700fe05b59f94b2f0b428aa2f0c",
+      "sectionIndex": 2,
+      "question": "The Compromise of 1850 failed to resolve tensions because:",
+      "options": [
+        "A) It was too radical",
+        "B) It contained contradictory provisions satisfying neither side",
+        "C) It ended slavery",
+        "D) It was never implemented"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77cab61c942dcaf0a77376008d4b277814d63d6e",
+      "sectionIndex": 2,
+      "question": "The Kansas-Nebraska Act's popular sovereignty principle led to:",
+      "options": [
+        "A) Peaceful settlement",
+        "B) \"Bleeding Kansas\" and sectional violence",
+        "C) National unity",
+        "D) Compromise"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8cee6be738634453b63c98cecb7f287afa2d122",
+      "sectionIndex": 2,
+      "question": "The Dred Scott decision intensified conflict by:",
+      "options": [
+        "A) Freeing slaves",
+        "B) Denying Black citizenship and Congress's power to limit slavery",
+        "C) Supporting abolition",
+        "D) Strengthening federal power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5c58ee4b512ded3aeb1cfa46737cd4badef0ca9",
+      "sectionIndex": 2,
+      "question": "John Brown's raid on Harpers Ferry significance was:",
+      "options": [
+        "A) Military success",
+        "B) Polarizing sections and martyrdom for both sides",
+        "C) Ending slavery",
+        "D) Uniting the nation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12bad2acc3c00e19065c4699e59d46155dc88227",
+      "sectionIndex": 2,
+      "question": "Lincoln's election in 1860 triggered secession because:",
+      "options": [
+        "A) He promised to end slavery",
+        "B) Republicans represented sectional party threatening Southern interests",
+        "C) He was an abolitionist",
+        "D) He threatened war"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8b185b642b92c220c72e96ca854ce520c0e8fa",
+      "sectionIndex": 2,
+      "question": "The Civil War transformed from preserving Union to ending slavery through:",
+      "options": [
+        "A) Initial planning",
+        "B) Military necessity and moral imperative convergence",
+        "C) Congressional mandate",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a89768662e1ae6adb12f970d9e78c71798c49c1",
+      "sectionIndex": 2,
+      "question": "The Emancipation Proclamation's limitations included:",
+      "options": [
+        "A) Freeing all slaves",
+        "B) Applying only to rebellious states as war measure",
+        "C) Constitutional amendment",
+        "D) Immediate enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "721a04696cf904518ee883a8fb6bc62c04455db5",
+      "sectionIndex": 2,
+      "question": "Reconstruction's failure resulted from:",
+      "options": [
+        "A) Too much federal support",
+        "B) Northern fatigue and Southern resistance",
+        "C) Economic prosperity",
+        "D) Racial harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e0f671c0ac512686afa42a123f432d4703adffe",
+      "sectionIndex": 2,
+      "question": "The Compromise of 1877 effectively:",
+      "options": [
+        "A) Strengthened Reconstruction",
+        "B) Ended federal protection of Black rights",
+        "C) Promoted equality",
+        "D) Resolved all issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca5dfdecbdcc3eeba923dfff3dc3f58a2e5c56d8",
+      "sectionIndex": 3,
+      "question": "The transformation from rural to urban America (1865-1920) resulted from:",
+      "options": [
+        "A) Government planning",
+        "B) Industrialization, immigration, and technological change",
+        "C) Agricultural prosperity",
+        "D) Population decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fc0f8205f40716934c33afaa729d3f36717baa0",
+      "sectionIndex": 3,
+      "question": "The Gilded Age's characteristics included:",
+      "options": [
+        "A) Economic equality",
+        "B) Rapid growth alongside corruption and inequality",
+        "C) Social harmony",
+        "D) Government regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1eea65428731b3a1e43c1d982a4c92f2bae77ab",
+      "sectionIndex": 3,
+      "question": "The Progressive Movement emerged in response to:",
+      "options": [
+        "A) Economic prosperity",
+        "B) Industrial capitalism's excesses and social problems",
+        "C) Foreign threats",
+        "D) Agricultural issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd515103acc0b24ac88787041d91d51b761eb87d",
+      "sectionIndex": 3,
+      "question": "The difference between Populism and Progressivism was:",
+      "options": [
+        "A) No difference",
+        "B) Rural agricultural versus urban middle-class reform base",
+        "C) Conservative versus liberal",
+        "D) Regional only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3348573d570a592f01c49510c0d8e7071ee40523",
+      "sectionIndex": 3,
+      "question": "Theodore Roosevelt's Square Deal represented:",
+      "options": [
+        "A) Laissez-faire",
+        "B) Balancing corporate power with public interest",
+        "C) Socialism",
+        "D) Status quo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "875bda58f53e0878c6e80729e325f1f597c66e2a",
+      "sectionIndex": 3,
+      "question": "The Federal Reserve Act of 1913 addressed:",
+      "options": [
+        "A) Trade policy",
+        "B) Banking instability and elastic currency need",
+        "C) Agriculture",
+        "D) Immigration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b931bcf25b675b5ff9c62a0d1507f574138f6c37",
+      "sectionIndex": 3,
+      "question": "Women's suffrage succeeded through:",
+      "options": [
+        "A) Single strategy",
+        "B) Multiple approaches including state campaigns and federal amendment",
+        "C) Court decisions",
+        "D) Executive order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48e5143fbef9ba0d4604d594331e3bbfbf2dc206",
+      "sectionIndex": 3,
+      "question": "The Progressive Era's limitations included:",
+      "options": [
+        "A) Too much change",
+        "B) Racial exclusion and limited structural reform",
+        "C) Economic decline",
+        "D) Foreign interference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a186da7c2bc7b6d4b1bd70cb933a503178750f3f",
+      "sectionIndex": 3,
+      "question": "World War I's impact on Progressivism was:",
+      "options": [
+        "A) Strengthening reforms",
+        "B) Ending reform momentum through war priorities",
+        "C) No effect",
+        "D) Accelerating change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0260cd1bfcd874a49be64dfd6c405a5dd22f9e28",
+      "sectionIndex": 3,
+      "question": "Prohibition's failure demonstrated:",
+      "options": [
+        "A) Successful reform",
+        "B) Limits of moral legislation and unintended consequences",
+        "C) Popular support",
+        "D) Government efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a894497b7657ee27490e6c8a1bb42f6d1012bfc",
+      "sectionIndex": 4,
+      "question": "The Spanish-American War marked a turning point because:",
+      "options": [
+        "A) It was defensive",
+        "B) America acquired overseas empire and global responsibilities",
+        "C) It was unsuccessful",
+        "D) It promoted isolationism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6a8daf84c98339605b559a7732f4c87025ce7c0",
+      "sectionIndex": 4,
+      "question": "The Open Door Policy in China reflected:",
+      "options": [
+        "A) Military conquest",
+        "B) Economic imperialism without formal colonization",
+        "C) Isolation",
+        "D) European cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93751c3fb1732a8a62076d2e05944fce15491217",
+      "sectionIndex": 4,
+      "question": "Dollar Diplomacy under Taft aimed to:",
+      "options": [
+        "A) Reduce spending",
+        "B) Use economic influence for political goals",
+        "C) Promote democracy",
+        "D) Military intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66f5eea4d6c111a0c5335856d4bcd7edceb15416",
+      "sectionIndex": 4,
+      "question": "Wilson's Fourteen Points failed because:",
+      "options": [
+        "A) They were too harsh",
+        "B) Idealistic principles conflicted with Allied revenge and realpolitik",
+        "C) Germany rejected them",
+        "D) America opposed them"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5853f2d1a816a926f53bd9f9258b8a173a9884f3",
+      "sectionIndex": 4,
+      "question": "U.S. rejection of the League of Nations resulted from:",
+      "options": [
+        "A) Popular support",
+        "B) Senate concerns over sovereignty and Article X",
+        "C) Wilson's support",
+        "D) International pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d2b7b32e2c9f4c572b3107f90d8a020d27e1518",
+      "sectionIndex": 4,
+      "question": "Interwar isolationism reflected:",
+      "options": [
+        "A) Weakness",
+        "B) Disillusionment with WWI and focus on domestic issues",
+        "C) Pacifism only",
+        "D) Economic prosperity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfdeb728008a6a41c18e85c950ad05ced5c2eba1",
+      "sectionIndex": 4,
+      "question": "The Good Neighbor Policy represented:",
+      "options": [
+        "A) European focus",
+        "B) Shift from intervention to cooperation in Latin America",
+        "C) Asian emphasis",
+        "D) African involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "748e903ab3a1c65af553e012a1bb9613ac614cde",
+      "sectionIndex": 4,
+      "question": "Pearl Harbor's impact was:",
+      "options": [
+        "A) Limited",
+        "B) Transforming isolationist sentiment to interventionist consensus",
+        "C) Temporary",
+        "D) Regional only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dc1a38f4d40cd9c5294a48f838f16057d0f067b",
+      "sectionIndex": 4,
+      "question": "The Truman Doctrine established:",
+      "options": [
+        "A) Isolation",
+        "B) Containment policy and global anti-communist commitment",
+        "C) Cooperation with USSR",
+        "D) Neutrality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78b0e19ffaebd8e6811872d186ecfe4b53209ef2",
+      "sectionIndex": 4,
+      "question": "The Marshall Plan succeeded by:",
+      "options": [
+        "A) Military force",
+        "B) Linking economic aid to political stability and alignment",
+        "C) Threatening enemies",
+        "D) Minimal investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2308b6d584c8335fd8bedbea7392e519ad22da4",
+      "sectionIndex": 5,
+      "question": "The Cold War's origins involved:",
+      "options": [
+        "A) Single cause",
+        "B) Ideological conflict, power vacuum, and mutual misperceptions",
+        "C) Soviet aggression only",
+        "D) American imperialism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3439665091bdd6d39c091cd0b118eed5ee4d9d3b",
+      "sectionIndex": 5,
+      "question": "Containment strategy evolved from:",
+      "options": [
+        "A) Military doctrine",
+        "B) Kennan's analysis of Soviet behavior and expansion",
+        "C) Public opinion",
+        "D) UN policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "993fb43e868660859f17dc51dfad5771ef836727",
+      "sectionIndex": 5,
+      "question": "McCarthyism represented:",
+      "options": [
+        "A) Legitimate security",
+        "B) Anti-communist hysteria damaging civil liberties",
+        "C) Foreign policy",
+        "D) Economic policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cf6bdf688a4f8c9d919908979d881ad3f876c9e",
+      "sectionIndex": 5,
+      "question": "The Korean War's significance included:",
+      "options": [
+        "A) Clear victory",
+        "B) Limited war doctrine and militarized containment",
+        "C) Ending communism",
+        "D) Unifying Korea"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f5d7b8470bc189fac5fe53dfcb26bc7e4eb0f60",
+      "sectionIndex": 5,
+      "question": "The Cuban Missile Crisis resolution showed:",
+      "options": [
+        "A) Soviet weakness",
+        "B) Nuclear brinkmanship dangers and compromise necessity",
+        "C) American dominance",
+        "D) Military solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f574e69bcc54d65d00799e5ab9f1787b035740e",
+      "sectionIndex": 5,
+      "question": "Vietnam War escalation reflected:",
+      "options": [
+        "A) Clear strategy",
+        "B) Domino theory fears and credibility concerns",
+        "C) Popular support",
+        "D) Quick victory expectation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "856d6e086344ee9c301b1b3e25ec57ae113120ac",
+      "sectionIndex": 5,
+      "question": "Détente emerged from:",
+      "options": [
+        "A) Soviet collapse",
+        "B) Mutual recognition of stalemate costs",
+        "C) American weakness",
+        "D) Ideological convergence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cad6f31e94eebaa0be724ba8f5abb5df0c4eeb1d",
+      "sectionIndex": 5,
+      "question": "The Carter Doctrine regarding the Persian Gulf showed:",
+      "options": [
+        "A) Isolationism",
+        "B) Expanding containment to resource protection",
+        "C) Peaceful intentions",
+        "D) UN leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fca98e9fbddccc9c85f3cf3bc714d4ac8599ebfb",
+      "sectionIndex": 5,
+      "question": "Reagan's Cold War strategy combined:",
+      "options": [
+        "A) Appeasement",
+        "B) Military buildup with negotiation opportunities",
+        "C) Isolationism",
+        "D) Immediate war"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebe2a2864f42f3758697c8b9528496a8af03fe01",
+      "sectionIndex": 5,
+      "question": "The Cold War's end resulted from:",
+      "options": [
+        "A) Military victory",
+        "B) Soviet internal crisis and reform attempts",
+        "C) American invasion",
+        "D) UN intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42680fb8e4e372361f8b5b68dbfafbd4f09ad23b",
+      "sectionIndex": 6,
+      "question": "The Civil Rights Movement's success depended on:",
+      "options": [
+        "A) Federal support only",
+        "B) Grassroots activism, federal intervention, and media coverage",
+        "C) Supreme Court only",
+        "D) Presidential leadership only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcff0388219b0dfd4eb564c5be3c34820d1efb3a",
+      "sectionIndex": 6,
+      "question": "Brown v. Board's implementation challenges showed:",
+      "options": [
+        "A) Easy compliance",
+        "B) Gap between legal victory and social reality",
+        "C) Immediate success",
+        "D) No resistance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db21b31dd302638b5520fe8a0812aae9091d2041",
+      "sectionIndex": 6,
+      "question": "The Montgomery Bus Boycott succeeded through:",
+      "options": [
+        "A) Violence",
+        "B) Economic pressure and community organization",
+        "C) Federal troops",
+        "D) Quick resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40da0f44f1ecf0ffedff3bfefcd391d931063505",
+      "sectionIndex": 6,
+      "question": "The sit-in movement's significance was:",
+      "options": [
+        "A) Limited impact",
+        "B) Youth leadership and direct action tactics",
+        "C) Adult control",
+        "D) Government initiative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e1a51dc3df05014432b186a94b47d0c1bcdf813",
+      "sectionIndex": 6,
+      "question": "The Freedom Rides tested:",
+      "options": [
+        "A) Bus quality",
+        "B) Federal commitment to enforcing desegregation",
+        "C) State authority",
+        "D) Public opinion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6400b034339ff38a538fecead104e11c0b5286b",
+      "sectionIndex": 6,
+      "question": "The March on Washington's impact included:",
+      "options": [
+        "A) Immediate legislation",
+        "B) Public pressure leading to Civil Rights Act",
+        "C) No effect",
+        "D) Decreased support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02c707cad09124c7bcc8e9ab50773ea42ec67e65",
+      "sectionIndex": 6,
+      "question": "Black Power's emergence reflected:",
+      "options": [
+        "A) Satisfaction with progress",
+        "B) Frustration with slow change and desire for self-determination",
+        "C) White support",
+        "D) Government policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "638d71718a555a5462f4a7f2a9410ae4b7cf9531",
+      "sectionIndex": 6,
+      "question": "The women's movement's \"second wave\" addressed:",
+      "options": [
+        "A) Suffrage only",
+        "B) Workplace equality and social roles beyond voting",
+        "C) No new issues",
+        "D) Men's rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43edbd911782549a7a09cb19dcb7bff26d70f51c",
+      "sectionIndex": 6,
+      "question": "The anti-war movement's effectiveness lay in:",
+      "options": [
+        "A) Stopping war immediately",
+        "B) Constraining policy options and eroding public support",
+        "C) Military victory",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d64f04dea25853274adf1f7d512b73fbb35785ef",
+      "sectionIndex": 6,
+      "question": "The environmental movement emerged from:",
+      "options": [
+        "A) Single event",
+        "B) Confluence of pollution awareness and quality of life concerns",
+        "C) Government initiative",
+        "D) Corporate leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d67459b91dcc1ac21277cff374249b1d92830eb",
+      "sectionIndex": 7,
+      "question": "The Great Depression's causes included:",
+      "options": [
+        "A) Single factor",
+        "B) Overproduction, speculation, and international instability",
+        "C) Natural disaster",
+        "D) War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a9a4be8a2b73e66282d14cc8e472dd4d6a6b440",
+      "sectionIndex": 7,
+      "question": "The New Deal's philosophy represented:",
+      "options": [
+        "A) Socialism",
+        "B) Pragmatic experimentation with government intervention",
+        "C) Fascism",
+        "D) Pure capitalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b4ec46705b3ea14edcdc8f8ebac6bdcd19b2fef",
+      "sectionIndex": 7,
+      "question": "Opposition to the New Deal came from:",
+      "options": [
+        "A) Poor only",
+        "B) Both conservative business and radical left critics",
+        "C) No one",
+        "D) Foreign powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d62ed89bd210b36b920604f26f0e0ab81c6233d5",
+      "sectionIndex": 7,
+      "question": "World War II's economic impact included:",
+      "options": [
+        "A) Depression deepening",
+        "B) Full employment and industrial expansion",
+        "C) Economic decline",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3118a07b630dfd61c2c9ee1fb4bfdd3af9912207",
+      "sectionIndex": 7,
+      "question": "The postwar economic boom resulted from:",
+      "options": [
+        "A) Luck",
+        "B) Pent-up demand, government spending, and global dominance",
+        "C) Natural resources only",
+        "D) European aid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6a7dbff452a1c4f798882942bad66529f64ccf8",
+      "sectionIndex": 7,
+      "question": "The Great Society's limitations stemmed from:",
+      "options": [
+        "A) Lack of programs",
+        "B) Vietnam War costs and implementation challenges",
+        "C) Too much success",
+        "D) No opposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e284bc799d4eb3c4a87e7ea75d3e52a7235a8ef",
+      "sectionIndex": 7,
+      "question": "Stagflation in the 1970s challenged:",
+      "options": [
+        "A) Nothing",
+        "B) Keynesian economics and postwar assumptions",
+        "C) Conservative ideas",
+        "D) Growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3ea87f7f7cd8bfe7c44187ed38dbcc0ecd5ede0",
+      "sectionIndex": 7,
+      "question": "Reagan's economic policies aimed to:",
+      "options": [
+        "A) Increase government",
+        "B) Reduce government role through tax cuts and deregulation",
+        "C) Maintain status quo",
+        "D) Expand welfare"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6e953e14bbaa3be6921309b94b3fb33adbf0f87",
+      "sectionIndex": 7,
+      "question": "The 2008 financial crisis revealed:",
+      "options": [
+        "A) System strength",
+        "B) Deregulation risks and systemic vulnerabilities",
+        "C) No problems",
+        "D) Government efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad41de1cb4427849e54374c96fce9d3a4bda66e2",
+      "sectionIndex": 7,
+      "question": "Economic inequality's growth reflects:",
+      "options": [
+        "A) Natural progression",
+        "B) Technological change, globalization, and policy choices",
+        "C) Temporary fluctuation",
+        "D) Media exaggeration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01489bafceb7790fb010818c4b71f4ac5dbd0bed",
+      "sectionIndex": 8,
+      "question": "American exceptionalism influenced foreign policy by:",
+      "options": [
+        "A) Promoting isolation",
+        "B) Justifying intervention through missionary democracy",
+        "C) Accepting others",
+        "D) Avoiding involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca6571cb4b6086afbf5a4143f65bae0d335d7649",
+      "sectionIndex": 8,
+      "question": "The \"American Century\" concept reflected:",
+      "options": [
+        "A) Modesty",
+        "B) Post-WWII dominance and responsibility assumptions",
+        "C) Isolation",
+        "D) Decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8832bb48a5d02fb8ab2bbc54732bf5a8dbdf889d",
+      "sectionIndex": 8,
+      "question": "NATO's creation and expansion showed:",
+      "options": [
+        "A) Temporary alliance",
+        "B) Institutionalized American security guarantee evolution",
+        "C) Weak commitment",
+        "D) European leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edea30efad54676a9c3e1e79d4d3ad14589ebf0d",
+      "sectionIndex": 8,
+      "question": "The \"New World Order\" after Cold War aimed for:",
+      "options": [
+        "A) American empire",
+        "B) Multilateral cooperation under American leadership",
+        "C) UN dominance",
+        "D) Chaos"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8936b204837ebc66ef562f27cbb82e51cef3c70",
+      "sectionIndex": 8,
+      "question": "The War on Terror's impact included:",
+      "options": [
+        "A) Quick resolution",
+        "B) Prolonged conflicts and civil liberties debates",
+        "C) Clear victory",
+        "D) No consequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b630247e60242117647f0e443a5476b74a5bad12",
+      "sectionIndex": 8,
+      "question": "American soft power operates through:",
+      "options": [
+        "A) Military only",
+        "B) Cultural influence, values promotion, and institutions",
+        "C) Threats",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a51ba54e40af8e84dddcc4b9c6cb9b430adc09c4",
+      "sectionIndex": 8,
+      "question": "The \"pivot to Asia\" strategy reflected:",
+      "options": [
+        "A) European focus",
+        "B) Recognition of shifting global power dynamics",
+        "C) Abandoning allies",
+        "D) Isolationism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29a6ff4bf811a014a03c16c647bcfde44d5a8ce3",
+      "sectionIndex": 8,
+      "question": "Trade policy debates reveal:",
+      "options": [
+        "A) Consensus",
+        "B) Tensions between global integration and domestic interests",
+        "C) No controversy",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "400bd830bf60c133d162093bd28196046c59e9f9",
+      "sectionIndex": 8,
+      "question": "Climate change policy shows:",
+      "options": [
+        "A) Unanimous agreement",
+        "B) Conflict between economic interests and global responsibility",
+        "C) No American role",
+        "D) Easy solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2f4cfc1555c091b1151ef605b5ca7db71deb785",
+      "sectionIndex": 8,
+      "question": "Cyber security challenges demonstrate:",
+      "options": [
+        "A) Traditional threats",
+        "B) New vulnerabilities in interconnected world",
+        "C) No concerns",
+        "D) Simple defense"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1dc6700d35775a52767a842300ec0b92b555dcc",
+      "sectionIndex": 9,
+      "question": "Political polarization's causes include:",
+      "options": [
+        "A) Media only",
+        "B) Geographic sorting, media echo chambers, and institutional changes",
+        "C) Recent development",
+        "D) Foreign interference only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4680b865c49b07d7eb790d3a5b2667aec9d87cd",
+      "sectionIndex": 9,
+      "question": "Immigration debates reflect:",
+      "options": [
+        "A) New issue",
+        "B) Recurring tensions about identity, economy, and law",
+        "C) Solved problem",
+        "D) No controversy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4509b9d8f5a2b967392cc58bd609ef841e684e74",
+      "sectionIndex": 9,
+      "question": "The role of technology in society shows:",
+      "options": [
+        "A) Only benefits",
+        "B) Disruption of privacy, work, and democratic discourse",
+        "C) No impact",
+        "D) Simple progress"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ef81f43126d95568d6a582dc8daf6430559ce75",
+      "sectionIndex": 9,
+      "question": "Healthcare reform debates center on:",
+      "options": [
+        "A) Cost only",
+        "B) Balancing access, quality, and cost with ideological views",
+        "C) No issues",
+        "D) Universal agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81bfdde3a05fa181a19507c814cdb05b31f5653c",
+      "sectionIndex": 9,
+      "question": "Educational challenges involve:",
+      "options": [
+        "A) Funding only",
+        "B) Equity, standards, and preparing for changing economy",
+        "C) No problems",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25d4aa21fec5f459eb67ccf04b6a7f69f2789cad",
+      "sectionIndex": 9,
+      "question": "Infrastructure needs reflect:",
+      "options": [
+        "A) Maintenance only",
+        "B) Deferred investment and modernization requirements",
+        "C) No issues",
+        "D) Adequate systems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "453836c2527fe40cc4d3911907c7b59cbe946251",
+      "sectionIndex": 9,
+      "question": "Federal-state relations show:",
+      "options": [
+        "A) Clear boundaries",
+        "B) Ongoing negotiation over authority and resources",
+        "C) No conflicts",
+        "D) Perfect harmony"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ed71de7951ea3f8fcc95a48fe681045db50de08",
+      "sectionIndex": 9,
+      "question": "Supreme Court nominations have become contentious due to:",
+      "options": [
+        "A) Personalities",
+        "B) Recognition of judicial impact on policy and rights",
+        "C) No reason",
+        "D) Media coverage only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0a77b64a0ad72b9658fdcf0f3d5cdbcf3b52c89",
+      "sectionIndex": 9,
+      "question": "Energy policy debates involve:",
+      "options": [
+        "A) Oil only",
+        "B) Balancing economic, environmental, and security concerns",
+        "C) No controversy",
+        "D) Simple choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d2423e19f4124ac5fde763649218e4d6d824cc5",
+      "sectionIndex": 9,
+      "question": "American identity questions reflect:",
+      "options": [
+        "A) Fixed definition",
+        "B) Ongoing negotiation of pluralism and common values",
+        "C) No debate",
+        "D) Universal agreement"
+      ],
+      "correct": "B"
+    }
+  ]
+}

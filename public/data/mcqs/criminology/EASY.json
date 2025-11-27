@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:02:42.249Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "2faad698c5a70f97bf3abf6a83ac62b57f70a741",
+      "sectionIndex": 0,
+      "question": "Criminology is the scientific study of:",
+      "options": [
+        "A) Law only",
+        "B) Crime and criminal behavior",
+        "C) Psychology only",
+        "D) Sociology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2c790b742d560bd997aacfb3d4e0a69eadd620f",
+      "sectionIndex": 0,
+      "question": "The scope of criminology includes:",
+      "options": [
+        "A) Criminal law only",
+        "B) Forensics only",
+        "C) Criminal law, forensics, and criminal investigation",
+        "D) Psychology only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "62dc131e9e0f0e1ab4617700c86d4d0ea1574707",
+      "sectionIndex": 0,
+      "question": "Criminology as a scientific discipline developed during:",
+      "options": [
+        "A) Ancient times",
+        "B) Medieval period",
+        "C) 18th-19th centuries",
+        "D) 21st century"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3a6fc7ae36346b7b88aad0f2a7fcdeca2b2b020a",
+      "sectionIndex": 0,
+      "question": "The importance of criminology in Pakistan has been:",
+      "options": [
+        "A) Decreasing",
+        "B) Increasing",
+        "C) Remaining constant",
+        "D) Non-existent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f661883fab4974fcfd44438bdd42cc7bcd94fcb",
+      "sectionIndex": 0,
+      "question": "Crime is different from sin because:",
+      "options": [
+        "A) They are the same",
+        "B) Crime violates legal codes, sin violates religious codes",
+        "C) Sin is more serious",
+        "D) Crime is not punishable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b855b3a952b41bab0a4aa630bc6bc24bf771385b",
+      "sectionIndex": 0,
+      "question": "Deviance refers to:",
+      "options": [
+        "A) Criminal behavior only",
+        "B) Behavior that violates social norms",
+        "C) Legal behavior",
+        "D) Religious behavior only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74a3b96d0b1b466a979af200f6d695622183dd41",
+      "sectionIndex": 0,
+      "question": "A vice is best described as:",
+      "options": [
+        "A) A serious crime",
+        "B) A moral failing or bad habit",
+        "C) A legal requirement",
+        "D) A social norm"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a63d35724f0917ad703cf7e7a6d1fd5d1ceeb9f",
+      "sectionIndex": 0,
+      "question": "Crime is considered a major social problem because:",
+      "options": [
+        "A) It affects society's well-being",
+        "B) It is rare",
+        "C) It only affects individuals",
+        "D) It is natural"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ec9462391893f01fff88fdd6dbc17affa1808a67",
+      "sectionIndex": 0,
+      "question": "The study of criminal etiology focuses on:",
+      "options": [
+        "A) Punishment",
+        "B) Causes of crime",
+        "C) Court procedures",
+        "D) Police work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "170adcbda6c010e702dc269712242a2e69d9bd4a",
+      "sectionIndex": 0,
+      "question": "Penology is the study of:",
+      "options": [
+        "A) Crime causation",
+        "B) Criminal investigation",
+        "C) Punishment and corrections",
+        "D) Criminal law"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5dac1b2dae9d8fa9fdcc91cb92bb946ca1f5bdb5",
+      "sectionIndex": 1,
+      "question": "Robert Merton's theory of Anomie suggests that crime results from:",
+      "options": [
+        "A) Biological factors",
+        "B) Strain between cultural goals and means",
+        "C) Mental illness",
+        "D) Poverty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96b57ba9f0743e8461068a1994daa40b25db0dac",
+      "sectionIndex": 1,
+      "question": "Anomie refers to:",
+      "options": [
+        "A) A type of crime",
+        "B) A state of normlessness",
+        "C) A punishment",
+        "D) A criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "455547503b56176ee525f420d68b423c541b4f29",
+      "sectionIndex": 1,
+      "question": "Biological theories of criminality focus on:",
+      "options": [
+        "A) Social factors",
+        "B) Physical and genetic factors",
+        "C) Economic factors",
+        "D) Political factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "371dc5fe2f66cd17a39ca8405961659f3a296fb5",
+      "sectionIndex": 1,
+      "question": "Travis Hirschi's social bonding theory states that crime occurs when:",
+      "options": [
+        "A) Bonds to society are weak",
+        "B) People are poor",
+        "C) Laws are unclear",
+        "D) Police are absent"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7617d451476ea6e1cf3224ad4947197c694e9825",
+      "sectionIndex": 1,
+      "question": "Differential Association theory was developed by:",
+      "options": [
+        "A) Robert Merton",
+        "B) Travis Hirschi",
+        "C) Edwin Sutherland",
+        "D) Cesare Lombroso"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "803c756d43b5eb3c4901dccf44fa1a151c18b2c6",
+      "sectionIndex": 1,
+      "question": "According to Differential Association theory, criminal behavior is:",
+      "options": [
+        "A) Inherited",
+        "B) Learned",
+        "C) Random",
+        "D) Instinctive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc6bfa78ed6765a1ff53f2192cf0ebded771177c",
+      "sectionIndex": 1,
+      "question": "Labelling theory suggests that:",
+      "options": [
+        "A) Labels don't matter",
+        "B) Being labeled as deviant can lead to more deviance",
+        "C) Only positive labels matter",
+        "D) Labels prevent crime"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "605027306833c0beabdd023d8dcf3f51e782daeb",
+      "sectionIndex": 1,
+      "question": "Phrenology is the study of:",
+      "options": [
+        "A) Fingerprints",
+        "B) Skull shape to determine character",
+        "C) DNA",
+        "D) Behavior patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e2ff8dac17d343916b9522d76ea881eb4141fc0",
+      "sectionIndex": 1,
+      "question": "Left realism in criminology focuses on:",
+      "options": [
+        "A) Ignoring crime",
+        "B) Taking crime seriously and addressing its causes",
+        "C) Only punishment",
+        "D) Only rehabilitation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "def6ad807604f91904e6096b86ac615fa50f2b2c",
+      "sectionIndex": 1,
+      "question": "Criminal typology refers to:",
+      "options": [
+        "A) Typing skills",
+        "B) Classification of criminals",
+        "C) Court procedures",
+        "D) Investigation methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a912fc49a18d48b6489a133695ea1fa249505b8",
+      "sectionIndex": 2,
+      "question": "Juvenile delinquency refers to:",
+      "options": [
+        "A) Adult crime",
+        "B) Criminal behavior by minors",
+        "C) School attendance",
+        "D) Good behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a19a2b351d551665d666656291b73ed6dfc1b66f",
+      "sectionIndex": 2,
+      "question": "The juvenile justice system in Pakistan deals with offenders typically under age:",
+      "options": [
+        "A) 16",
+        "B) 18",
+        "C) 21",
+        "D) 25"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "104d7f8fedb26beb7e3f70b8b7995338b33636fe",
+      "sectionIndex": 2,
+      "question": "A juvenile court is designed to:",
+      "options": [
+        "A) Punish children harshly",
+        "B) Handle cases involving minors",
+        "C) Try adults",
+        "D) Ignore youth crime"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "348214d54f21f5846e34e1bff8a533ad0729e3a1",
+      "sectionIndex": 2,
+      "question": "Risk factors for juvenile delinquency include:",
+      "options": [
+        "A) Good education",
+        "B) Poverty and family problems",
+        "C) Strong family bonds",
+        "D) High income"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b1b7353faace5bcdcc662034108c8830d0ce0fe",
+      "sectionIndex": 2,
+      "question": "Protective factors against juvenile delinquency include:",
+      "options": [
+        "A) Gang membership",
+        "B) School dropout",
+        "C) Strong family support",
+        "D) Drug use"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b0b6741410a1115d00be2e33f52e263183f848f9",
+      "sectionIndex": 2,
+      "question": "Juvenile probation is:",
+      "options": [
+        "A) Imprisonment",
+        "B) Community supervision for youth offenders",
+        "C) Death penalty",
+        "D) Fine only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d8c2f95b763f3f32213fc5ae2228207e58090ad",
+      "sectionIndex": 2,
+      "question": "The main goal of juvenile justice is:",
+      "options": [
+        "A) Punishment only",
+        "B) Rehabilitation and reform",
+        "C) Revenge",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cde568c1f67772cd81e23f3892f729b1a72b217",
+      "sectionIndex": 2,
+      "question": "Environmental factors in juvenile delinquency include:",
+      "options": [
+        "A) Genetics only",
+        "B) Neighborhood and peer influences",
+        "C) Age only",
+        "D) Gender only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a41075f9e40da6e1f0a7b3e8b23b768a16f7f9b",
+      "sectionIndex": 2,
+      "question": "Rehabilitation centers for juveniles focus on:",
+      "options": [
+        "A) Punishment only",
+        "B) Education and skill development",
+        "C) Isolation only",
+        "D) Physical labor only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77b16365534d315e1e9f107ac93216353da01249",
+      "sectionIndex": 2,
+      "question": "Professional counseling for juvenile delinquents aims to:",
+      "options": [
+        "A) Increase punishment",
+        "B) Address behavioral and emotional issues",
+        "C) Ignore problems",
+        "D) Create more rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4368f664a8cb22ebfd8f546dd541dd83cfac49e4",
+      "sectionIndex": 3,
+      "question": "Criminal investigation is the process of:",
+      "options": [
+        "A) Punishing criminals",
+        "B) Discovering facts about crimes",
+        "C) Making laws",
+        "D) Building prisons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1346e49cddbc48de8ef4eb9d4089274e99b5e828",
+      "sectionIndex": 3,
+      "question": "The first principle of criminal investigation is:",
+      "options": [
+        "A) Arrest everyone",
+        "B) Preserve the crime scene",
+        "C) Ignore evidence",
+        "D) Question witnesses last"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "455e29e406c19134f253c1442924d14df330468f",
+      "sectionIndex": 3,
+      "question": "Interviewing is different from interrogation because:",
+      "options": [
+        "A) They are the same",
+        "B) Interviewing is conversational, interrogation is accusatory",
+        "C) Interrogation comes first",
+        "D) Interviewing uses force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8d974feb65334de9af6bfaf0ab3f1b8c6e79ecb",
+      "sectionIndex": 3,
+      "question": "A crime scene is important because it:",
+      "options": [
+        "A) Contains evidence",
+        "B) Is always outdoors",
+        "C) Never changes",
+        "D) Has no value"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2897db76b720e66ec80174d3511133ed1a375a48",
+      "sectionIndex": 3,
+      "question": "Forensic criminal investigation uses:",
+      "options": [
+        "A) Guesswork only",
+        "B) Scientific methods",
+        "C) Intuition only",
+        "D) No technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc1d1c59194052c76ece04cd0ecfddd7cf4e433e",
+      "sectionIndex": 3,
+      "question": "Crime scene search patterns include:",
+      "options": [
+        "A) Random searching",
+        "B) Systematic patterns like grid or spiral",
+        "C) No pattern needed",
+        "D) Only straight lines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e070632594f1b4f4cace7f1cd02a57f0383430be",
+      "sectionIndex": 3,
+      "question": "Modern techniques for crime detection include:",
+      "options": [
+        "A) DNA analysis",
+        "B) Torture only",
+        "C) Guessing",
+        "D) Ignoring evidence"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3641b51daf4411e67092b35086ed90c996bcad90",
+      "sectionIndex": 3,
+      "question": "The main goal of interrogation is to:",
+      "options": [
+        "A) Harm suspects",
+        "B) Obtain truthful information",
+        "C) Create fear",
+        "D) Waste time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a455335c957dc7f2681c12894b0ecdf330a8074",
+      "sectionIndex": 3,
+      "question": "Human rights during interrogation:",
+      "options": [
+        "A) Don't matter",
+        "B) Must be protected",
+        "C) Can be ignored",
+        "D) Are optional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "30cbb051995175745ee003a32040f96c8fd6fc8b",
+      "sectionIndex": 3,
+      "question": "Evidence collection requires:",
+      "options": [
+        "A) Careful documentation",
+        "B) No records",
+        "C) Quick disposal",
+        "D) Contamination"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8a05f23f6fc60a54095e60ca3cb7ac5a927e5f6c",
+      "sectionIndex": 4,
+      "question": "Crime control agencies include:",
+      "options": [
+        "A) Police only",
+        "B) Police, courts, and corrections",
+        "C) Schools only",
+        "D) Hospitals only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b7e694066da27fd1b992f54581ddd32152e5c50",
+      "sectionIndex": 4,
+      "question": "The police force in Pakistan has origins in:",
+      "options": [
+        "A) Ancient times",
+        "B) Colonial period",
+        "C) 1990s",
+        "D) 2020s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2d0f061ea32eeac40dbd70b060babe70c04a38c",
+      "sectionIndex": 4,
+      "question": "Intelligence-led policing focuses on:",
+      "options": [
+        "A) Random patrols",
+        "B) Using information to prevent crime",
+        "C) Ignoring data",
+        "D) Only reacting to crime"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5f14e6d2038c317c42ef363deb692a571a2266d",
+      "sectionIndex": 4,
+      "question": "INTERPOL stands for:",
+      "options": [
+        "A) International Police",
+        "B) Internal Police",
+        "C) Internet Police",
+        "D) Interstate Police"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e99e6efdbbe0ded5d25ea4073063751cca3f1e77",
+      "sectionIndex": 4,
+      "question": "INTERPOL was founded in:",
+      "options": [
+        "A) 2000",
+        "B) 1914",
+        "C) 1950",
+        "D) 1980"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bde67e0433b499cdcbcb0cdfec0b2d283c0bc20c",
+      "sectionIndex": 4,
+      "question": "Community policing involves:",
+      "options": [
+        "A) Police working alone",
+        "B) Police partnering with communities",
+        "C) Military control",
+        "D) No public involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15cef3b195c3f51eb136247b26b0758d1092bed9",
+      "sectionIndex": 4,
+      "question": "The main challenge for police in Pakistan includes:",
+      "options": [
+        "A) Too many resources",
+        "B) Limited resources and training",
+        "C) No crime",
+        "D) Too few laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bef1571bc9b34c390ac772edd5762728939ac4b9",
+      "sectionIndex": 4,
+      "question": "Modern policing strategies include:",
+      "options": [
+        "A) Only foot patrols",
+        "B) Technology and data analysis",
+        "C) No planning",
+        "D) Random actions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09db3e8998018c4dc3e76fc0ee1be886c0d7a3dc",
+      "sectionIndex": 4,
+      "question": "EUROPOL operates in:",
+      "options": [
+        "A) Asia",
+        "B) Europe",
+        "C) America",
+        "D) Africa"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e357fc7280f8aa6f9612b7d99d56764030560c82",
+      "sectionIndex": 4,
+      "question": "The International Police Association (IPA) promotes:",
+      "options": [
+        "A) Conflict",
+        "B) International police cooperation",
+        "C) Isolation",
+        "D) Competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "640fdfd509b3c8a9f659e51e8cca6441cabd7d5c",
+      "sectionIndex": 5,
+      "question": "Cyber crime involves:",
+      "options": [
+        "A) Physical theft only",
+        "B) Crimes using computers and internet",
+        "C) Street crime",
+        "D) No technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6ccf3dff1a90c33cfebf65c16b0f4713ede592d",
+      "sectionIndex": 5,
+      "question": "Money laundering is:",
+      "options": [
+        "A) Washing money",
+        "B) Making illegal money appear legal",
+        "C) Destroying money",
+        "D) Printing money"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b755e5f0952798c4858f3be7515fa9cadcb237cb",
+      "sectionIndex": 5,
+      "question": "Organized crime refers to:",
+      "options": [
+        "A) Random criminal acts",
+        "B) Structured criminal enterprises",
+        "C) Legal business",
+        "D) Individual crimes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "346abbd66c5b3d1e95be16cf66f5fdccb6ee275f",
+      "sectionIndex": 5,
+      "question": "Radicalization is the process of:",
+      "options": [
+        "A) Becoming moderate",
+        "B) Adopting extreme views",
+        "C) Learning languages",
+        "D) Getting education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fd312d445235ddef5d3b4d9784698ff952536fd",
+      "sectionIndex": 5,
+      "question": "The FIA in Pakistan stands for:",
+      "options": [
+        "A) Federal Investigation Agency",
+        "B) Foreign Investigation Agency",
+        "C) Financial Investigation Agency",
+        "D) Federal Insurance Agency"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ab6306d71584ff33e98aed77ca3f5f5c0bec6a61",
+      "sectionIndex": 5,
+      "question": "Trade-Based Money Laundering (TBML) uses:",
+      "options": [
+        "A) Only cash",
+        "B) Trade transactions to disguise illegal funds",
+        "C) No documents",
+        "D) Only banks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8de930397d7fbc8aca2f5f4dcf8d902fa298e1b2",
+      "sectionIndex": 5,
+      "question": "Cryptocurrencies pose money laundering risks because:",
+      "options": [
+        "A) They are physical",
+        "B) They can be anonymous",
+        "C) They are illegal",
+        "D) They don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "508a6665ec0a1338c4efe48187c65c4baef5c1e7",
+      "sectionIndex": 5,
+      "question": "Terrorists use the internet to:",
+      "options": [
+        "A) Play games only",
+        "B) Spread ideology and recruit",
+        "C) Shop only",
+        "D) Nothing criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0635868ceb9e14b6f5edbc10dc899a8d6950ca4a",
+      "sectionIndex": 5,
+      "question": "Human trafficking is controlled internationally by:",
+      "options": [
+        "A) No one",
+        "B) Coordinated police efforts",
+        "C) Traffickers",
+        "D) Individual countries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e9cf59c843f63966749a20d4003e9ee31c52b88",
+      "sectionIndex": 5,
+      "question": "Cybercrime prevention includes:",
+      "options": [
+        "A) Avoiding computers",
+        "B) Security measures and education",
+        "C) No internet use",
+        "D) Ignoring threats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81a4c49d7982a8061bf9668277a2bdd5f32b6652",
+      "sectionIndex": 6,
+      "question": "Probation is:",
+      "options": [
+        "A) Imprisonment",
+        "B) Supervised release in the community",
+        "C) Death penalty",
+        "D) Fine only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "084a89369e0594649f8c6db992765d06c6141531",
+      "sectionIndex": 6,
+      "question": "Conditions of probation may include:",
+      "options": [
+        "A) No conditions",
+        "B) Regular reporting and good behavior",
+        "C) Unlimited freedom",
+        "D) Leaving the country"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "075cfa2e157ab35881f151b5b09bc3bfd7be5444",
+      "sectionIndex": 6,
+      "question": "Recidivism means:",
+      "options": [
+        "A) First-time offense",
+        "B) Returning to criminal behavior",
+        "C) Good behavior",
+        "D) Victim support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1102564640e56b6976d21a1df915eddaedee5cc",
+      "sectionIndex": 6,
+      "question": "The goal of corrections is:",
+      "options": [
+        "A) Revenge only",
+        "B) Rehabilitation and public safety",
+        "C) Torture",
+        "D) Profit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77a3f24d0ff9e4145b04026bd40a79814192484e",
+      "sectionIndex": 6,
+      "question": "Institutional corrections include:",
+      "options": [
+        "A) Prisons and jails",
+        "B) Schools",
+        "C) Hospitals",
+        "D) Parks"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7a719705081652c007ab5e0809d8a25e923aea1e",
+      "sectionIndex": 6,
+      "question": "Community corrections include:",
+      "options": [
+        "A) Prison only",
+        "B) Probation and parole",
+        "C) Exile",
+        "D) No supervision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0942ed6a6e926de7657079d58abdf56608784773",
+      "sectionIndex": 6,
+      "question": "Reintegration means:",
+      "options": [
+        "A) Isolation forever",
+        "B) Helping offenders return to society",
+        "C) Permanent imprisonment",
+        "D) Deportation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b501168adbc2638b599029eaf09e5f836fd89854",
+      "sectionIndex": 6,
+      "question": "Modern correctional strategies emphasize:",
+      "options": [
+        "A) Punishment only",
+        "B) Education and treatment",
+        "C) Isolation only",
+        "D) No programs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3aa3540e8bad42c5bb74a37036ddbedf8d545f5",
+      "sectionIndex": 6,
+      "question": "Rehabilitation centers provide:",
+      "options": [
+        "A) Punishment only",
+        "B) Treatment and skills training",
+        "C) Entertainment only",
+        "D) No services"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43fa0dca0bc8647d2e6ed85aa0da6d110cab380f",
+      "sectionIndex": 6,
+      "question": "Alternative sentencing includes:",
+      "options": [
+        "A) Only prison",
+        "B) Community service and treatment programs",
+        "C) No consequences",
+        "D) Death penalty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d3d274409c85d0001728b3d67cc9e661fa53fc3",
+      "sectionIndex": 7,
+      "question": "Forensic science applies:",
+      "options": [
+        "A) Guesswork",
+        "B) Scientific methods to legal questions",
+        "C) No methods",
+        "D) Only opinions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73d8e5c6ab64cc3bb9317e5c061923eed2f159e0",
+      "sectionIndex": 7,
+      "question": "DNA evidence is used to:",
+      "options": [
+        "A) Identify individuals",
+        "B) Change laws",
+        "C) Create crimes",
+        "D) Nothing useful"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "eabd0736df6b0d5466a184566604d3b47a3a70ce",
+      "sectionIndex": 7,
+      "question": "Fingerprints are unique to:",
+      "options": [
+        "A) Families",
+        "B) Each individual",
+        "C) No one",
+        "D) Twins only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c00f6364e81fe17c1f7200a250c170520982f7e",
+      "sectionIndex": 7,
+      "question": "Forensic evidence must be:",
+      "options": [
+        "A) Destroyed",
+        "B) Properly collected and preserved",
+        "C) Ignored",
+        "D) Contaminated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b20202e6950046acf39ae4c87f87c56994953a04",
+      "sectionIndex": 7,
+      "question": "Ballistics is the study of:",
+      "options": [
+        "A) Balls",
+        "B) Firearms and projectiles",
+        "C) Dancing",
+        "D) Music"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4037beb308861cc359c2029af07a81a93fa28776",
+      "sectionIndex": 7,
+      "question": "Toxicology in forensics examines:",
+      "options": [
+        "A) Toxic personalities",
+        "B) Poisons and drugs",
+        "C) Clean water",
+        "D) Fresh air"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67565a896f7e558decf617faa1d5562e56fd4d04",
+      "sectionIndex": 7,
+      "question": "Digital forensics involves:",
+      "options": [
+        "A) Film photography",
+        "B) Computer and electronic evidence",
+        "C) No technology",
+        "D) Only phones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c20305dad7ca979a1049c8d3dc7ae083704c771a",
+      "sectionIndex": 7,
+      "question": "Chain of custody ensures:",
+      "options": [
+        "A) Evidence contamination",
+        "B) Evidence integrity",
+        "C) Evidence loss",
+        "D) No documentation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "243b4ea1decb7e09969af3630a5725479842cf33",
+      "sectionIndex": 7,
+      "question": "Forensic pathology determines:",
+      "options": [
+        "A) Disease only",
+        "B) Cause of death",
+        "C) Future health",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47d0a0b1220d53bcebeadfad548aae146c2e4aa5",
+      "sectionIndex": 7,
+      "question": "Crime scene photography is important for:",
+      "options": [
+        "A) Art",
+        "B) Documentation",
+        "C) Entertainment",
+        "D) No reason"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d7b1aa67e05a1ebf1716c365f2dbccb6a8f8316",
+      "sectionIndex": 8,
+      "question": "White-collar crime typically involves:",
+      "options": [
+        "A) Violence",
+        "B) Financial fraud",
+        "C) Street crime",
+        "D) No victims"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8155919c902e35fb8f91f3183d502b3434b4627",
+      "sectionIndex": 8,
+      "question": "White-collar criminals are often:",
+      "options": [
+        "A) Unemployed",
+        "B) Business professionals",
+        "C) Only poor",
+        "D) Only young"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "934847da8b7801c83fda4df02d8a92dd4f660f2e",
+      "sectionIndex": 8,
+      "question": "Financial crimes include:",
+      "options": [
+        "A) Only theft",
+        "B) Fraud, embezzlement, money laundering",
+        "C) No money involved",
+        "D) Only violence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13feade22fbca270653b54a10570c648ed7fbc0e",
+      "sectionIndex": 8,
+      "question": "Corporate crime affects:",
+      "options": [
+        "A) No one",
+        "B) Shareholders and public",
+        "C) Only CEOs",
+        "D) Only government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a484c3d8c0ab30595a096a308f810e1aa410a70b",
+      "sectionIndex": 8,
+      "question": "Insider trading is:",
+      "options": [
+        "A) Legal",
+        "B) Using confidential information for profit",
+        "C) Public information",
+        "D) Required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9722b563a2bd82e57e2f5e076963f4a65513f16e",
+      "sectionIndex": 8,
+      "question": "Tax evasion is:",
+      "options": [
+        "A) Legal tax planning",
+        "B) Illegal avoidance of taxes",
+        "C) Paying extra taxes",
+        "D) No crime"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aea5c5977a1809e1d8fe386006f2d23822df9ab3",
+      "sectionIndex": 8,
+      "question": "Embezzlement involves:",
+      "options": [
+        "A) Borrowing money",
+        "B) Stealing funds entrusted to you",
+        "C) Legal transfers",
+        "D) Gifts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57a0baf439890fe835109f41e376dcc7ee8d6157",
+      "sectionIndex": 8,
+      "question": "Ponzi schemes:",
+      "options": [
+        "A) Are legal investments",
+        "B) Use new investors to pay earlier ones",
+        "C) Always succeed",
+        "D) Government approved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb9bb05173a1993f2a5e16c46e2d60199dabfce5",
+      "sectionIndex": 8,
+      "question": "Identity theft involves:",
+      "options": [
+        "A) Changing your name legally",
+        "B) Using someone else's personal information",
+        "C) No crime",
+        "D) Self-improvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7bbc774902e88059e46e0dce5a3204cb8b83a70",
+      "sectionIndex": 8,
+      "question": "Corruption includes:",
+      "options": [
+        "A) Honest dealings",
+        "B) Bribery and abuse of power",
+        "C) Legal activities",
+        "D) Good governance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5efc46b6ab0d2c9b23c6d8de740f997f46d35840",
+      "sectionIndex": 9,
+      "question": "Criminal law defines:",
+      "options": [
+        "A) Only procedures",
+        "B) What constitutes crimes and punishments",
+        "C) Civil disputes",
+        "D) No rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "236cd1db4dc6ef3e8af637f84db71fecf54e8166",
+      "sectionIndex": 9,
+      "question": "Criminal courts in Pakistan include:",
+      "options": [
+        "A) Only Supreme Court",
+        "B) Trial courts, High Courts, Supreme Court",
+        "C) No courts",
+        "D) Only local courts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e8e1a3cf9e169590b05dbc7f4c1645c0cca9c08",
+      "sectionIndex": 9,
+      "question": "The purpose of criminal courts is to:",
+      "options": [
+        "A) Make laws",
+        "B) Determine guilt and impose sentences",
+        "C) Collect taxes",
+        "D) Register marriages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c1a3e453090ca6d53341a96cc809cc770ae97bd",
+      "sectionIndex": 9,
+      "question": "Criminal procedure includes:",
+      "options": [
+        "A) Random actions",
+        "B) Legal steps from arrest to trial",
+        "C) No rules",
+        "D) Only sentencing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "673dc0c13aa66a93567993d24e1f8b7fcf114d1b",
+      "sectionIndex": 9,
+      "question": "The right to fair trial includes:",
+      "options": [
+        "A) No rights",
+        "B) Legal representation and due process",
+        "C) Immediate conviction",
+        "D) No defense"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "411530d194522ccc23981d6b4ed5a68a8104599d",
+      "sectionIndex": 9,
+      "question": "Evidence in criminal cases must be:",
+      "options": [
+        "A) Made up",
+        "B) Relevant and admissible",
+        "C) Hidden",
+        "D) Destroyed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c843ae4492cca1aa3a1b594e22aabd58a7840d2",
+      "sectionIndex": 9,
+      "question": "The burden of proof in criminal cases is:",
+      "options": [
+        "A) On the defendant",
+        "B) On the prosecution",
+        "C) On the judge",
+        "D) On no one"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15a2a554f7a08214e8b39ae161331e102a90d8ca",
+      "sectionIndex": 9,
+      "question": "Criminal justice reform aims to:",
+      "options": [
+        "A) Increase crime",
+        "B) Improve fairness and effectiveness",
+        "C) Eliminate all laws",
+        "D) Remove courts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "beecc5e568a057bde3753dd216ae7a0940283880",
+      "sectionIndex": 9,
+      "question": "Bail allows:",
+      "options": [
+        "A) Permanent freedom",
+        "B) Temporary release before trial",
+        "C) Immediate conviction",
+        "D) No conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c66de410c94b04c89d976c14d3d67f00d1b1ecbb",
+      "sectionIndex": 9,
+      "question": "The criminal justice system includes:",
+      "options": [
+        "A) Only police",
+        "B) Police, courts, and corrections",
+        "C) Only judges",
+        "D) Only prisons"
+      ],
+      "correct": "B"
+    }
+  ]
+}

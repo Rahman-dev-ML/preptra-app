@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T10:55:35.502Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "cc5480ff08c3ab8bcb096bc41c1d5cf68713c415",
+      "sectionIndex": 0,
+      "question": "When a parent loses control but retains significant influence, the retained investment is:",
+      "options": [
+        "A) Kept at carrying amount",
+        "B) Remeasured at fair value with gain/loss",
+        "C) Written off",
+        "D) Consolidated partially"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8bb5353e17f3b42163abd42669f73093f388698",
+      "sectionIndex": 0,
+      "question": "In hyperinflationary economies, non-monetary assets are:",
+      "options": [
+        "A) Not adjusted",
+        "B) Restated using general price index",
+        "C) Written down",
+        "D) Converted to foreign currency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5534c707549b1c9a2635a3582fe43e8056ad8961",
+      "sectionIndex": 0,
+      "question": "For share-based payments with graded vesting, IFRS 2 requires:",
+      "options": [
+        "A) Straight-line recognition",
+        "B) Each tranche as separate grant",
+        "C) Cliff vesting treatment",
+        "D) No recognition until vested"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dd2559f97cd6506980025dce5d329177988fc01",
+      "sectionIndex": 0,
+      "question": "Functional currency determination primarily depends on:",
+      "options": [
+        "A) Parent company currency",
+        "B) Primary economic environment",
+        "C) Management choice",
+        "D) Tax jurisdiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fbf9bcdd4995d1d85e9ddd53ef7a7db5cd61bd0",
+      "sectionIndex": 0,
+      "question": "A compound financial instrument with debt and equity features requires:",
+      "options": [
+        "A) Full debt classification",
+        "B) Split accounting using residual method",
+        "C) Full equity classification",
+        "D) Off-balance sheet treatment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b12e613edaf844cebe00b406a4958108fb70088",
+      "sectionIndex": 0,
+      "question": "Expected credit losses under IFRS 9 use:",
+      "options": [
+        "A) Incurred loss model",
+        "B) Forward-looking information",
+        "C) Historical data only",
+        "D) Management discretion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf5aaa81da7f7451decf25f1949aa993f42d918d",
+      "sectionIndex": 0,
+      "question": "When control is obtained without ownership change (e.g., contract), consolidation:",
+      "options": [
+        "A) Not required",
+        "B) Still required",
+        "C) Optional",
+        "D) Prohibited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "484961063689414921a310e07a636b605444f008",
+      "sectionIndex": 0,
+      "question": "Reverse acquisition accounting treats:",
+      "options": [
+        "A) Legal acquirer as accounting acquirer",
+        "B) Legal subsidiary as accounting acquirer",
+        "C) Both as acquirers",
+        "D) Neither as acquirer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "230e99bc192d57e8fb22a99f3d0f505e1c149bc4",
+      "sectionIndex": 0,
+      "question": "Deemed disposal from share dilution requires:",
+      "options": [
+        "A) No accounting",
+        "B) Gain/loss recognition",
+        "C) Prospective adjustment",
+        "D) Retrospective restatement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e38c942f73538103aa699e48e705860722cf8d7b",
+      "sectionIndex": 0,
+      "question": "Variable interest entity consolidation depends on:",
+      "options": [
+        "A) Voting control only",
+        "B) Primary beneficiary status",
+        "C) 50% ownership",
+        "D) Board representation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b01e9c982ce81aa64bdaeebf703ffe7e07f53423",
+      "sectionIndex": 1,
+      "question": "In Theory of Constraints, throughput accounting ratio above 1.0 indicates:",
+      "options": [
+        "A) Constraint is limiting",
+        "B) Product profitable relative to constraint",
+        "C) Need to reduce costs",
+        "D) Excess capacity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59739214e761bc9c49f5bf9d6886e1e919efbf38",
+      "sectionIndex": 1,
+      "question": "Real options valuation in capital budgeting considers:",
+      "options": [
+        "A) Fixed cash flows only",
+        "B) Managerial flexibility value",
+        "C) Historical costs",
+        "D) Accounting profits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ca22b7c16b89b01fbdc7b6ef1e6fa48b279b3fb",
+      "sectionIndex": 1,
+      "question": "Economic order quantity model breaks down when:",
+      "options": [
+        "A) Demand is constant",
+        "B) Quantity discounts exist",
+        "C) Lead time is zero",
+        "D) Storage unlimited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17e7d733d1c5a3cb445ea902d325d6628d213f97",
+      "sectionIndex": 1,
+      "question": "Learning curve effects in cost estimation assume:",
+      "options": [
+        "A) Linear cost reduction",
+        "B) Logarithmic improvement",
+        "C) No improvement",
+        "D) Random variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d81728229df8d7e954fa3bb4967c72be3c507fa",
+      "sectionIndex": 1,
+      "question": "Target costing gap closure prioritizes:",
+      "options": [
+        "A) Price increases first",
+        "B) Value engineering",
+        "C) Quality reduction",
+        "D) Market exit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f15c6fdbacc76dbdc5395986606fd87b5188c647",
+      "sectionIndex": 1,
+      "question": "Backflush costing is inappropriate when:",
+      "options": [
+        "A) JIT is implemented",
+        "B) Significant WIP exists",
+        "C) Cycle time is short",
+        "D) Demand stable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc4f765db7569869beb01bd8c9d9fe91baf94650",
+      "sectionIndex": 1,
+      "question": "Economic value to customer pricing considers:",
+      "options": [
+        "A) Cost plus markup",
+        "B) Customer's next best alternative",
+        "C) Competitor pricing only",
+        "D) Historical prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6debcfb3ff7d0dcbbf6da4c20738a5a90056e0f3",
+      "sectionIndex": 1,
+      "question": "Pareto analysis in ABC costing typically finds:",
+      "options": [
+        "A) Equal resource consumption",
+        "B) 80/20 distribution",
+        "C) Normal distribution",
+        "D) Random pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02ffca7591864bd5c983e082718cf2e11a197e69",
+      "sectionIndex": 1,
+      "question": "Time-driven ABC addresses traditional ABC's:",
+      "options": [
+        "A) Accuracy",
+        "B) Complexity and maintenance cost",
+        "C) Theoretical basis",
+        "D) Acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fd4d62a8f0291da76cb0603624cbfc7cdff64c0",
+      "sectionIndex": 1,
+      "question": "Beyond budgeting philosophy advocates:",
+      "options": [
+        "A) Detailed annual budgets",
+        "B) Adaptive management processes",
+        "C) Zero-based budgeting",
+        "D) Incremental budgeting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3614e032a3046f4a5feacc6170d22cada52ca942",
+      "sectionIndex": 2,
+      "question": "When component auditor uses lower materiality, group auditor should:",
+      "options": [
+        "A) Accept without question",
+        "B) Evaluate aggregation risk",
+        "C) Require same materiality",
+        "D) Ignore difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c7fc5bcdd0237ab8ce60450b2d8532f1169ee63",
+      "sectionIndex": 2,
+      "question": "Key audit matters in the audit report:",
+      "options": [
+        "A) Include all risks",
+        "B) Most significant assessed risks",
+        "C) Only fraud risks",
+        "D) Standard wording"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e505f571970e2ec98c17ca8bffead0e7028b878",
+      "sectionIndex": 2,
+      "question": "Service organization controls (SOC) reports Type 2 differs from Type 1 by:",
+      "options": [
+        "A) Design only vs. operating effectiveness",
+        "B) No difference",
+        "C) Broader scope",
+        "D) Different auditor"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ed668aed5f9a9a29451f2a822c69b0fca5a2f60f",
+      "sectionIndex": 2,
+      "question": "Professional judgment documentation should demonstrate:",
+      "options": [
+        "A) Perfect decisions",
+        "B) Reasonable informed judgment",
+        "C) Hindsight",
+        "D) Minimal work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92487f31aed0d9e3b2ec9cc8f53f973dcc0ec4b2",
+      "sectionIndex": 2,
+      "question": "Data analytics in risk assessment may reveal:",
+      "options": [
+        "A) All misstatements",
+        "B) Unexpected patterns requiring investigation",
+        "C) Immaterial items only",
+        "D) Nothing useful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a01638c09bb6a8d605f477e66c626a49779375b",
+      "sectionIndex": 2,
+      "question": "Audit evidence from automated controls is more reliable when:",
+      "options": [
+        "A) Tested once",
+        "B) General IT controls are effective",
+        "C) Manual override exists",
+        "D) Recently implemented"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53d6b09ed05faedee7577704026ad51aa717b944",
+      "sectionIndex": 2,
+      "question": "Related party transaction audit challenges include:",
+      "options": [
+        "A) Easy identification",
+        "B) Substance versus legal form",
+        "C) Standard pricing",
+        "D) Full disclosure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccba894405e6443f6aa0094ca1803618555a289b",
+      "sectionIndex": 2,
+      "question": "Going concern substantial doubt period extends:",
+      "options": [
+        "A) 6 months",
+        "B) 12 months from financial statements date",
+        "C) 18 months",
+        "D) 24 months"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f508aa1daeada119ffb74fa5b9e5ff33b638e83d",
+      "sectionIndex": 2,
+      "question": "Management bias in estimates is best addressed by:",
+      "options": [
+        "A) Accepting explanations",
+        "B) Retrospective review patterns",
+        "C) Using management's expert",
+        "D) Avoiding estimates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcd3120f9199f5479eaf481905421820a0966ffa",
+      "sectionIndex": 2,
+      "question": "Fraud brainstorming sessions should:",
+      "options": [
+        "A) Follow standard agenda",
+        "B) Challenge assumptions about trust",
+        "C) Exclude senior members",
+        "D) Focus on prior frauds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5cdeaf0528395189d6467deece1eac5a59648357",
+      "sectionIndex": 3,
+      "question": "BEPS Action Plan addresses:",
+      "options": [
+        "A) Tax rate competition",
+        "B) Base erosion and profit shifting",
+        "C) Tax simplification",
+        "D) Developing countries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63c39ab6f1faa00f27b01262654a3909eb39d1ec",
+      "sectionIndex": 3,
+      "question": "Controlled foreign corporation rules prevent:",
+      "options": [
+        "A) Foreign investment",
+        "B) Deferral of passive income",
+        "C) Active business",
+        "D) Repatriation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf8664031b745f50359a3cf8cc1ba62bc21986b4",
+      "sectionIndex": 3,
+      "question": "Transfer pricing arm's length principle uses:",
+      "options": [
+        "A) Cost plus fixed margin",
+        "B) Comparable uncontrolled price priority",
+        "C) Group synergies",
+        "D) Tax minimization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83a998eb957bc778fcd56f508da7acccd2e40bba",
+      "sectionIndex": 3,
+      "question": "Hybrid mismatch arrangements exploit:",
+      "options": [
+        "A) Rate differences",
+        "B) Classification differences",
+        "C) Timing only",
+        "D) Currency differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8cf4bfbc42388ddde5282dbcbd7f9ca9d1234d4",
+      "sectionIndex": 3,
+      "question": "Digital permanent establishment concept addresses:",
+      "options": [
+        "A) Physical presence requirement",
+        "B) Server location",
+        "C) Customer location",
+        "D) Cloud computing"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fdf32d9fc256142fa0010acc6b5ae2c3995daceb",
+      "sectionIndex": 3,
+      "question": "Patent box regimes must meet:",
+      "options": [
+        "A) No requirements",
+        "B) Modified nexus approach",
+        "C) Local ownership",
+        "D) R&D spending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb0240f7c0673d033fff395ce305e8d70468b13a",
+      "sectionIndex": 3,
+      "question": "Anti-treaty shopping measures include:",
+      "options": [
+        "A) Lower rates",
+        "B) Limitation on benefits",
+        "C) No restrictions",
+        "D) Automatic exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b9ed0dcd39c17aeec28fa567067c4c1499dbd74",
+      "sectionIndex": 3,
+      "question": "Exit taxation applies to:",
+      "options": [
+        "A) Immigration",
+        "B) Unrealized gains on emigration",
+        "C) Salary income",
+        "D) Inheritance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99e1bb18f40030cbd19ba5e71a6693081fd3513c",
+      "sectionIndex": 3,
+      "question": "Pillar Two global minimum tax targets:",
+      "options": [
+        "A) All companies",
+        "B) Large multinationals",
+        "C) Digital only",
+        "D) Small business"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "057fc11f1f43ab8717ab277c481f6546b696c6f0",
+      "sectionIndex": 3,
+      "question": "Substance requirements focus on:",
+      "options": [
+        "A) Legal form",
+        "B) Economic activities and value creation",
+        "C) Documentation only",
+        "D) Tax payments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f46ee894aaabd7bd7d938bc0074550a3e73f4bb",
+      "sectionIndex": 4,
+      "question": "In cash flow hedge accounting, ineffectiveness is:",
+      "options": [
+        "A) Ignored",
+        "B) Recognized in profit/loss immediately",
+        "C) Deferred in OCI",
+        "D) Not possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3059d78efb8b2285ffad6901af3094e5da74d70c",
+      "sectionIndex": 4,
+      "question": "Hedge effectiveness testing under IFRS 9 requires:",
+      "options": [
+        "A) 80-125% corridor",
+        "B) Economic relationship demonstration",
+        "C) Perfect matching",
+        "D) Retrospective only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f9335b85039eea9c112c7800113aae0dadb1146",
+      "sectionIndex": 4,
+      "question": "Credit value adjustment (CVA) in derivative valuation reflects:",
+      "options": [
+        "A) Market risk only",
+        "B) Counterparty credit risk",
+        "C) Own credit risk",
+        "D) Liquidity risk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "256b51fce7839e926af13966ff75382544972d04",
+      "sectionIndex": 4,
+      "question": "Embedded derivatives separation is required when:",
+      "options": [
+        "A) Always",
+        "B) Not closely related to host",
+        "C) Management chooses",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "caf0bdd96ef8b675109f598d5710811bbdf75ce4",
+      "sectionIndex": 4,
+      "question": "Net investment hedge of foreign operation can use:",
+      "options": [
+        "A) Derivatives only",
+        "B) Derivatives or non-derivative instruments",
+        "C) Forward contracts only",
+        "D) Natural hedges only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c5c09f8ab9f65f68cf2dc0e60da0033f1093079",
+      "sectionIndex": 4,
+      "question": "Dynamic hedging strategies require:",
+      "options": [
+        "A) Static positions",
+        "B) Continuous rebalancing",
+        "C) Annual adjustment",
+        "D) No changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e4ada0143c8d9c4b807fc0742077700892a2491",
+      "sectionIndex": 4,
+      "question": "Macro hedging under IFRS differs from:",
+      "options": [
+        "A) Micro hedging",
+        "B) General hedge accounting",
+        "C) Natural hedging",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db4127a140cdf9eeb6905d391c629d5abbb7f157",
+      "sectionIndex": 4,
+      "question": "Own use exemption for commodity contracts requires:",
+      "options": [
+        "A) Financial settlement",
+        "B) Physical delivery intention",
+        "C) Trading purpose",
+        "D) Speculation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "299a5a6bf41a7fe22dc44ac58996c4304164fc08",
+      "sectionIndex": 4,
+      "question": "Hypothetical derivative method is used for:",
+      "options": [
+        "A) Actual derivatives",
+        "B) Effectiveness assessment",
+        "C) Pricing only",
+        "D) Risk management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "999ff3515278ed3f704b64d261dbc5cf60d63652",
+      "sectionIndex": 4,
+      "question": "Discontinuation of hedge accounting triggers:",
+      "options": [
+        "A) Retrospective adjustment",
+        "B) Prospective treatment",
+        "C) Full reversal",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21e169fe38c8d0832984adfc952b0034f1d9c7ea",
+      "sectionIndex": 5,
+      "question": "Benford's Law analysis is most effective for:",
+      "options": [
+        "A) Small datasets",
+        "B) Naturally occurring numbers",
+        "C) Assigned numbers",
+        "D) Round numbers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8913f3ea05e384b6a1df7916ba041b6c055544a",
+      "sectionIndex": 5,
+      "question": "Financial statement fraud often involves:",
+      "options": [
+        "A) Immaterial amounts",
+        "B) Management override",
+        "C) Low-level employees",
+        "D) External parties only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71ab5898b081d0890faf2c5dc28e0fd1627e8b89",
+      "sectionIndex": 5,
+      "question": "Horizontal analysis anomalies combined with ratio changes suggest:",
+      "options": [
+        "A) Normal fluctuation",
+        "B) Potential manipulation",
+        "C) Improved performance",
+        "D) Market conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a93657eda13792efad9617ff0ba961e813d25850",
+      "sectionIndex": 5,
+      "question": "The fraud diamond adds which element to the triangle?",
+      "options": [
+        "A) Opportunity",
+        "B) Capability",
+        "C) Pressure",
+        "D) Rationalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d83417e8358f3c8e2b310b05534f9c8e193c147",
+      "sectionIndex": 5,
+      "question": "Digital forensics in financial investigation requires:",
+      "options": [
+        "A) Physical documents only",
+        "B) Chain of custody protocols",
+        "C) Management permission only",
+        "D) IT department help"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23a5a130d6c3f6567a72f85ca16eabf1823af6cd",
+      "sectionIndex": 5,
+      "question": "Revenue recognition fraud indicators include:",
+      "options": [
+        "A) Consistent growth",
+        "B) Bill-and-hold arrangements spike",
+        "C) Normal credit terms",
+        "D) Stable customers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e13303d7d7ede690c4ca80d74bc06835b48febe",
+      "sectionIndex": 5,
+      "question": "Asset misappropriation schemes typically involve:",
+      "options": [
+        "A) Financial reporting",
+        "B) Conversion of assets",
+        "C) Accounting principles",
+        "D) External auditors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7a41d494b37f950a2d0f8b160ecfbe7b17991df",
+      "sectionIndex": 5,
+      "question": "Corruption red flags include:",
+      "options": [
+        "A) Competitive bidding",
+        "B) Sole-source contracts increase",
+        "C) Multiple vendors",
+        "D) Transparent process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22239005358936208bc2c265111d7c2c4c26305f",
+      "sectionIndex": 5,
+      "question": "Financial profile analysis compares:",
+      "options": [
+        "A) Industry averages only",
+        "B) Lifestyle to known income",
+        "C) Education level",
+        "D) Job title"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12035f265ea041551263d1343bf283733d8f21df",
+      "sectionIndex": 5,
+      "question": "Interview techniques in fraud examination emphasize:",
+      "options": [
+        "A) Accusatory approach",
+        "B) Cognitive interviewing methods",
+        "C) Written questions only",
+        "D) Group interviews"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5f54f26d8b588c0a753207ac2c28eebb663a165",
+      "sectionIndex": 6,
+      "question": "Terminal value calculation using exit multiple implies:",
+      "options": [
+        "A) Perpetual growth",
+        "B) Sale at multiple",
+        "C) Liquidation",
+        "D) No value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2dcc1459d604c57e38c63199524f782f46617704",
+      "sectionIndex": 6,
+      "question": "Weighted average cost of capital for private companies requires:",
+      "options": [
+        "A) Market values",
+        "B) Adjusted beta estimation",
+        "C) Book values",
+        "D) Industry average"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e70b54f1053e9758f0ae4cf21ff4533e197bd78f",
+      "sectionIndex": 6,
+      "question": "Control premium reflects:",
+      "options": [
+        "A) Minority discount",
+        "B) Strategic and synergy value",
+        "C) Market price",
+        "D) Book value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75b069816fb05b8893190bc9715149f4425b8272",
+      "sectionIndex": 6,
+      "question": "Purchase price allocation prioritizes:",
+      "options": [
+        "A) Goodwill maximization",
+        "B) Identifiable intangibles",
+        "C) Tangible assets",
+        "D) Working capital"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65c11a68b095596d9344535a81e6fa589444f0f6",
+      "sectionIndex": 6,
+      "question": "Contingent consideration fair value uses:",
+      "options": [
+        "A) Maximum amount",
+        "B) Probability-weighted scenarios",
+        "C) Minimum amount",
+        "D) Fixed amount"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e78443ab4b6ec9dd99bffd4de1cbb0106f54fd9f",
+      "sectionIndex": 6,
+      "question": "Comparable company analysis adjusts for:",
+      "options": [
+        "A) Nothing",
+        "B) Size, growth, and risk differences",
+        "C) Industry only",
+        "D) Country only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49d9df42fdf53633d3cdb613eb22cf6826f6aa93",
+      "sectionIndex": 6,
+      "question": "Synergy realization in M&A typically:",
+      "options": [
+        "A) Exceeds projections",
+        "B) Falls short of estimates",
+        "C) Matches exactly",
+        "D) Is immediate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ded9f0717a1e6f6089beb03c132c87bd331c313",
+      "sectionIndex": 6,
+      "question": "Earnout provisions address:",
+      "options": [
+        "A) Fixed price",
+        "B) Valuation gaps and risk",
+        "C) Tax only",
+        "D) Legal issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1d22c1d6e5983055d4f1812af1f9dfdee147b16",
+      "sectionIndex": 6,
+      "question": "Fairness opinion standards require:",
+      "options": [
+        "A) Guarantee of price",
+        "B) Financial analysis disclosure",
+        "C) Success fee only",
+        "D) Management approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4beb4e8e0ab4f05009685cc372f235192a922201",
+      "sectionIndex": 6,
+      "question": "Cross-border M&A complexity includes:",
+      "options": [
+        "A) Language only",
+        "B) Tax, legal, and cultural integration",
+        "C) Currency only",
+        "D) Time zones"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e6f7849807056b4d995d1bf65be015b271c051f",
+      "sectionIndex": 7,
+      "question": "Value at Risk (VaR) limitations include:",
+      "options": [
+        "A) Too conservative",
+        "B) Tail risk underestimation",
+        "C) Complexity",
+        "D) Data requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fe97aa3e3268325312a1263384f6cd172c2938b",
+      "sectionIndex": 7,
+      "question": "Stress testing differs from VaR by:",
+      "options": [
+        "A) Using normal conditions",
+        "B) Extreme scenario analysis",
+        "C) Historical data only",
+        "D) Single factor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a338646da9517f6ddc5d6189e21c66113a74ea2e",
+      "sectionIndex": 7,
+      "question": "Operational risk capital under Basel III uses:",
+      "options": [
+        "A) Basic indicator only",
+        "B) Standardized or advanced approaches",
+        "C) No measurement",
+        "D) Fixed percentage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f5cb0afb4c7143fbcaa638721c92a1df468fb6e",
+      "sectionIndex": 7,
+      "question": "Model risk management requires:",
+      "options": [
+        "A) Model avoidance",
+        "B) Independent validation",
+        "C) Simple models only",
+        "D) Management override"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a392c99bb028ef3bd37e0e531de9f331e4cc40f",
+      "sectionIndex": 7,
+      "question": "Cyber risk quantification challenges include:",
+      "options": [
+        "A) Too much data",
+        "B) Evolving threat landscape",
+        "C) Static environment",
+        "D) Clear patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eadd136dbd16bef2b5fd382e45074f1a21806aa",
+      "sectionIndex": 7,
+      "question": "Risk appetite framework cascades from:",
+      "options": [
+        "A) Bottom up",
+        "B) Board to operational levels",
+        "C) External requirements",
+        "D) Competitors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "379d44c2783c961ecde9b45fd8f26051e1b2b09e",
+      "sectionIndex": 7,
+      "question": "Key risk indicators differ from key performance indicators by:",
+      "options": [
+        "A) No difference",
+        "B) Forward-looking focus",
+        "C) Historical only",
+        "D) Financial only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db981ed23470f9b065235fbf216600fdf2311124",
+      "sectionIndex": 7,
+      "question": "Three lines of defense model positions internal audit as:",
+      "options": [
+        "A) First line",
+        "B) Third line",
+        "C) Second line",
+        "D) Outside model"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71311ab071224260cd94a9be666ac6fc793b8a09",
+      "sectionIndex": 7,
+      "question": "Emerging risk identification requires:",
+      "options": [
+        "A) Historical analysis",
+        "B) Horizon scanning",
+        "C) Current risks only",
+        "D) Internal focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3345ac100af1836554af03bd6a257f925061d850",
+      "sectionIndex": 7,
+      "question": "Risk culture assessment examines:",
+      "options": [
+        "A) Policies only",
+        "B) Behaviors and decisions",
+        "C) Structure only",
+        "D) Reports only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b92a5ebe8e78606b6a9c1999f9f3d03fec040b72",
+      "sectionIndex": 8,
+      "question": "Integrated reporting connects:",
+      "options": [
+        "A) Financial data only",
+        "B) Financial and non-financial value creation",
+        "C) Sustainability only",
+        "D) Governance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6abea3cbf11a12750ea026d09849010ad45bb361",
+      "sectionIndex": 8,
+      "question": "Materiality in sustainability context differs by:",
+      "options": [
+        "A) Same as financial",
+        "B) Stakeholder perspective inclusion",
+        "C) Lower threshold",
+        "D) Management view"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bfd5c0e962722cbc2bad30e003bb6168870f426",
+      "sectionIndex": 8,
+      "question": "Scope 3 emissions reporting challenges include:",
+      "options": [
+        "A) Direct control",
+        "B) Value chain data collection",
+        "C) Measurement ease",
+        "D) Limited impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a629b54af549e69fe1f1b79d71da18f0b3467378",
+      "sectionIndex": 8,
+      "question": "Natural capital accounting assigns value to:",
+      "options": [
+        "A) Buildings only",
+        "B) Ecosystem services",
+        "C) Traditional assets",
+        "D) Technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "029b4b1278fa9c87935f20f1bb0ec782f1164313",
+      "sectionIndex": 8,
+      "question": "TCFD recommendations emphasize:",
+      "options": [
+        "A) Current performance",
+        "B) Climate scenario analysis",
+        "C) Historical data",
+        "D) Voluntary disclosure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8eefa1838e34c955347e9c915bc9a4eb6ce4c56e",
+      "sectionIndex": 8,
+      "question": "Double materiality concept considers:",
+      "options": [
+        "A) Financial impact only",
+        "B) Impact on and by company",
+        "C) Environmental only",
+        "D) Social only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a55ce8dbf60a68b4318a211b5a576a7fbf485d7",
+      "sectionIndex": 8,
+      "question": "Assurance on sustainability reports faces:",
+      "options": [
+        "A) Same standards as financial",
+        "B) Evolving standards and scope",
+        "C) No challenges",
+        "D) Mandatory requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e933a0e7db9c20c6328206cecddb6a23bad392c0",
+      "sectionIndex": 8,
+      "question": "SDG impact measurement requires:",
+      "options": [
+        "A) Output metrics only",
+        "B) Outcome and impact indicators",
+        "C) Input measures",
+        "D) Activity counts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93ab77e7e7389907e3374fdfe61d509ab3c92814",
+      "sectionIndex": 8,
+      "question": "Greenwashing risk mitigation needs:",
+      "options": [
+        "A) Marketing focus",
+        "B) Substantive action alignment",
+        "C) Claims avoidance",
+        "D) PR management"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2c4837eea0839e8ce01cf9215be60cb714143fc",
+      "sectionIndex": 8,
+      "question": "Integrated thinking promotes:",
+      "options": [
+        "A) Silo management",
+        "B) Connectivity across capitals",
+        "C) Financial focus only",
+        "D) Short-term view"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40085cba10562b26dc76cd2d3a3a0534fb62c84e",
+      "sectionIndex": 9,
+      "question": "Blockchain in audit trails provides:",
+      "options": [
+        "A) Editability",
+        "B) Immutable records",
+        "C) Centralized control",
+        "D) Offline access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35fbf79dd0f7af0af6ecab8d5712b30747859b65",
+      "sectionIndex": 9,
+      "question": "Machine learning in audit risk assessment:",
+      "options": [
+        "A) Replaces judgment",
+        "B) Enhances pattern recognition",
+        "C) Eliminates sampling",
+        "D) Guarantees detection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c755f94e2653ce19ab2bd7c00f2e263f998e6360",
+      "sectionIndex": 9,
+      "question": "Robotic process automation in accounting best suits:",
+      "options": [
+        "A) Judgment tasks",
+        "B) Rule-based repetitive processes",
+        "C) Strategic decisions",
+        "D) Creative work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb566ab5d19f178b72b8145f7fb5e1577902314a",
+      "sectionIndex": 9,
+      "question": "Continuous auditing implementation requires:",
+      "options": [
+        "A) Annual reviews",
+        "B) Embedded audit modules",
+        "C) Manual processes",
+        "D) Reduced controls"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "957ed8258d050928aaf3a928228eeb4fe2c5df8f",
+      "sectionIndex": 9,
+      "question": "API-based reporting enables:",
+      "options": [
+        "A) Batch processing",
+        "B) Real-time data exchange",
+        "C) Manual entry",
+        "D) Paper forms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5be01082565eb96170423cf6c7f8d5b7151e03c3",
+      "sectionIndex": 9,
+      "question": "Predictive analytics in credit assessment uses:",
+      "options": [
+        "A) Historical ratios only",
+        "B) Alternative data sources",
+        "C) Management promises",
+        "D) Fixed rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ab0302ea7d41f88c5c448f83e4284a6447528bd",
+      "sectionIndex": 9,
+      "question": "Digital twin technology in cost management creates:",
+      "options": [
+        "A) Physical copies",
+        "B) Virtual operation models",
+        "C) Backup systems",
+        "D) Archive data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38af251e6b77f35283db501bf0aa14a4838ef103",
+      "sectionIndex": 9,
+      "question": "Quantum computing impact on cryptography requires:",
+      "options": [
+        "A) No change",
+        "B) Post-quantum security preparation",
+        "C) Current methods",
+        "D) Weaker encryption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47483c91bf3549909338a3ce7b1382bf4a3e07e7",
+      "sectionIndex": 9,
+      "question": "Edge computing in financial services addresses:",
+      "options": [
+        "A) Central processing",
+        "B) Latency and data sovereignty",
+        "C) Cost only",
+        "D) Storage needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89dcbae958816f092f4efec4629ea7dc166e149e",
+      "sectionIndex": 9,
+      "question": "Zero-knowledge proofs enable:",
+      "options": [
+        "A) Full disclosure",
+        "B) Verification without revelation",
+        "C) No verification",
+        "D) Public knowledge"
+      ],
+      "correct": "B"
+    }
+  ]
+}

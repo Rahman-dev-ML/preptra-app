@@ -1,0 +1,534 @@
+{
+  "subject": "Economics (CSS)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 15,
+  "categories": [
+    "Microeconomics",
+    "Macroeconomics",
+    "International Economics",
+    "Development Economics",
+    "Pakistan Economy & Policy",
+    "Data Sources & Statistical Tools"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Price Elasticity of Demand (Formulas, Midpoint, Exam Graphs)",
+      "content": "Master definition, determinants, and midpoint method with worked examples; know typical MCQ traps (elastic vs inelastic ranges) and diagram labeling.",
+      "keyTakeaways": [
+        "Use midpoint formula to avoid base-bias.",
+        "Elasticity guides pricing & tax incidence.",
+        "Relate elasticity to total revenue tests."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Price elasticity (midpoint method)",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-tutorial/v/price-elasticity-of-demand",
+          "type": "video",
+          "description": "Step-by-step midpoint method"
+        },
+        {
+          "title": "Khan Academy — More on elasticity of demand",
+          "url": "https://www.khanacademy.org/economics-finance-domain/microeconomics/elasticity-tutorial/price-elasticity-tutorial/v/more-on-elasticity-of-demand",
+          "type": "video",
+          "description": "Common pitfalls & intuition"
+        },
+        {
+          "title": "OpenStax — Principles of Microeconomics 2e (Elasticity chapter)",
+          "url": "https://openstax.org/details/books/principles-microeconomics-2e",
+          "type": "textbook",
+          "description": "Free textbook with review problems"
+        }
+      ],
+      "importance": "high",
+      "category": "Microeconomics",
+      "topics": ["Elasticity", "Midpoint Method", "Total Revenue"]
+    },
+    {
+      "id": "2",
+      "title": "Market Structures (Perfect Competition, Monopoly, Monopolistic, Oligopoly)",
+      "content": "Contrast assumptions, diagrams, efficiency outcomes, and exam-style long questions (price discrimination, deadweight loss).",
+      "keyTakeaways": [
+        "Know cost/revenue curves & profit-max rules.",
+        "PC is benchmark; monopoly DWL shown via triangle.",
+        "Monopolistic competition: excess capacity result."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Types of competition",
+          "url": "https://www.khanacademy.org/economics-finance-domain/economics-personal-finance-va/x3ed8f3aede624754%3Aproducers-and-consumers-in-markets/x3ed8f3aede624754%3Amarket-structures-and-competition/v/types-of-competition",
+          "type": "video",
+          "description": "High-level overview"
+        },
+        {
+          "title": "Khan Academy — Perfect & imperfect competition",
+          "url": "https://www.khanacademy.org/economics-finance-domain/ap-microeconomics/imperfect-competition/introduction-to-imperfect-competition/v/perfect-and-imperfect-competition",
+          "type": "video",
+          "description": "Short visual recap"
+        },
+        {
+          "title": "OpenStax — Principles of Microeconomics 2e",
+          "url": "https://openstax.org/details/books/principles-microeconomics-2e",
+          "type": "textbook",
+          "description": "Chs on PC/Monopoly/Monopolistic/Oligopoly"
+        }
+      ],
+      "importance": "high",
+      "category": "Microeconomics",
+      "topics": ["Perfect Competition", "Monopoly", "Oligopoly", "Price Discrimination"]
+    },
+    {
+      "id": "3",
+      "title": "IS–LM Model (Goods–Money Market Equilibrium)",
+      "content": "Derive IS from goods market and LM from money market; use shocks to analyze fiscal/monetary policy; expected in diagrams and policy essays.",
+      "keyTakeaways": [
+        "IS: lower r → higher I → higher Y.",
+        "LM: higher real money supply → lower r.",
+        "Policy mix questions appear frequently."
+      ],
+      "resources": [
+        {
+          "title": "Wikipedia — IS–LM model (good reference overview)",
+          "url": "https://en.wikipedia.org/wiki/IS%E2%80%93LM_model",
+          "type": "article",
+          "description": "History, equations, and diagrams"
+        },
+        {
+          "title": "Khan Academy — Government spending & IS-LM",
+          "url": "https://www.youtube.com/watch?v=pzQnc_0eZA8",
+          "type": "video",
+          "description": "Fiscal shift of IS curve"
+        },
+        {
+          "title": "Khan Academy — Investment & real interest rates (IS-LM link)",
+          "url": "https://www.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/macroeconomics-is-lm/v/investment-and-real-interest-rates",
+          "type": "video",
+          "description": "Mechanics behind IS"
+        },
+        {
+          "title": "OpenStax — Principles of Macroeconomics 2e",
+          "url": "https://openstax.org/details/books/principles-macroeconomics-2e",
+          "type": "textbook",
+          "description": "IS-LM-style policy analysis chapters"
+        }
+      ],
+      "importance": "high",
+      "category": "Macroeconomics",
+      "topics": ["IS Curve", "LM Curve", "Policy Mix"]
+    },
+    {
+      "id": "4",
+      "title": "Monetary Policy in Pakistan (SBP MPS + Framework)",
+      "content": "Use SBP Monetary Policy Statements for current stance, rationale, and inflation outlook; cite in essays for Pakistan-specific analysis.",
+      "keyTakeaways": [
+        "Quote latest policy rate & inflation outlook.",
+        "Note SBP's targets and risks section.",
+        "Use Compendium for data tables."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Monetary Policy Statement (Sep 15, 2025)",
+          "url": "https://www.sbp.org.pk/m_policy/2025/MPS-Sep-2025-Eng.pdf",
+          "type": "report",
+          "description": "Most recent stance & outlook"
+        },
+        {
+          "title": "SBP — Monetary Policy Statement (Jul 30, 2025)",
+          "url": "https://www.sbp.org.pk/m_policy/2025/MPS-July-2025-Eng.pdf",
+          "type": "report",
+          "description": "Prior decision & analysis"
+        },
+        {
+          "title": "SBP — Monetary Policy Information Compendium",
+          "url": "https://www.sbp.org.pk/m_policy/mon.asp",
+          "type": "portal",
+          "description": "Historical MPS + data packs"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Economy & Policy",
+      "topics": ["SBP", "Policy Rate", "Inflation Outlook"]
+    },
+    {
+      "id": "5",
+      "title": "Fiscal Policy & Budget (Pakistan)",
+      "content": "Quote measures from Budget in Brief and MTBSP; connect to deficits, taxes, PSDP, and sectoral priorities.",
+      "keyTakeaways": [
+        "Always cite FY and document page.",
+        "Relate budget stance to output gap/inflation.",
+        "Use MTBSP for medium-term context."
+      ],
+      "resources": [
+        {
+          "title": "Finance Division — Federal Budget Documents 2025-26 (hub)",
+          "url": "https://www.finance.gov.pk/fb_2025_26.html",
+          "type": "portal",
+          "description": "All official budget files"
+        },
+        {
+          "title": "Budget in Brief 2025-26 (PDF)",
+          "url": "https://www.finance.gov.pk/budget/budget_2025_26/budget_in_brief_10062025.pdf",
+          "type": "report",
+          "description": "Key allocations & aggregates"
+        },
+        {
+          "title": "Medium-Term Budget Strategy Paper FY2024-25 to FY2026-27",
+          "url": "https://finance.gov.pk/budget/MTBSP_2024_25_2026_27.pdf",
+          "type": "report",
+          "description": "Medium-term fiscal path"
+        },
+        {
+          "title": "Finance Division — Press Releases (budget updates)",
+          "url": "https://www.finance.gov.pk/press_releases.html",
+          "type": "portal",
+          "description": "Official fiscal communications"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Economy & Policy",
+      "topics": ["Budget", "Deficit", "PSDP", "Tax Policy"]
+    },
+    {
+      "id": "6",
+      "title": "Inflation Measurement in Pakistan (CPI, SPI, YoY/MoM)",
+      "content": "Use PBS monthly CPI releases and SPI for weekly trends; connect to SBP MPS for policy implications.",
+      "keyTakeaways": [
+        "Quote base year (2015-16) and CPI basket.",
+        "Differentiate YoY vs MoM in answers.",
+        "Use SPI for short-run price pressures."
+      ],
+      "resources": [
+        {
+          "title": "PBS — CPI Press Releases (index)",
+          "url": "https://www.pbs.gov.pk/press-releases",
+          "type": "portal",
+          "description": "Monthly CPI announcements"
+        },
+        {
+          "title": "PBS — CPI Press Release (May 2025, PDF)",
+          "url": "https://www.pbs.gov.pk/sites/default/files/price_statistics/cpi/Press%20Release%20May%2C%202025.pdf",
+          "type": "report",
+          "description": "Official CPI figures & tables"
+        },
+        {
+          "title": "PBS — Weekly SPI portal",
+          "url": "https://www.pbs.gov.pk/spi",
+          "type": "portal",
+          "description": "High-frequency price indicator"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Economy & Policy",
+      "topics": ["CPI", "SPI", "Inflation"]
+    },
+    {
+      "id": "7",
+      "title": "Balance of Payments (Definitions + Pakistan Data)",
+      "content": "Explain current/capital/financial accounts; cite SBP BPM6 data and use IMF BPM6 manual for definitions.",
+      "keyTakeaways": [
+        "CAB sign convention matters in exam.",
+        "Use SBP BPM6 monthly/annual tables.",
+        "Relate BOP to exchange rate pressures."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Summary Balance of Payments (BPM6, PDF)",
+          "url": "https://www.sbp.org.pk/ecodata/Balancepayment_BPM6.pdf",
+          "type": "data",
+          "description": "Latest BoP summary"
+        },
+        {
+          "title": "SBP EasyData — Monthly BoP (BPM6) dataset",
+          "url": "https://easydata.sbp.org.pk/apex/f?cs=1B25722420322956C75438ADD306E4B0A&p=10%3A211%3A%3A%3ANO%3ARP%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_BOP_BPM6SUM_M%2C210",
+          "type": "portal",
+          "description": "Time series explorer"
+        },
+        {
+          "title": "IMF — Balance of Payments Manual (BPM6)",
+          "url": "https://www.imf.org/external/pubs/ft/bop/2007/bop6.htm",
+          "type": "reference",
+          "description": "Official concepts & methodology"
+        }
+      ],
+      "importance": "high",
+      "category": "International Economics",
+      "topics": ["BoP", "Current Account", "BPM6"]
+    },
+    {
+      "id": "8",
+      "title": "Exchange Rates & Regimes (Pakistan context + theory)",
+      "content": "Cover fixed/floating/managed regimes; use SBP for actual PKR series and NEER/REER; link to BoP answers.",
+      "keyTakeaways": [
+        "Know PKR trends from SBP datasets.",
+        "Explain pass-through to inflation.",
+        "Use NEER/REER for competitiveness."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Mark-to-Market Revaluation Exchange Rates",
+          "url": "https://www.sbp.org.pk/ecodata/rates/m2m/m2m-current.asp",
+          "type": "data",
+          "description": "Official exchange-rate tables"
+        },
+        {
+          "title": "SBP EasyData — Bank Floating Average Exchange Rates (PKR)",
+          "url": "https://easydata.sbp.org.pk/apex/f?cs=1746DFA1FF99658D2D9AD50BDDCD7840F&p=10%3A211%3A853936934448%3A%3ANO%3A%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_ER_FAERPKR_M%2C210",
+          "type": "portal",
+          "description": "Monthly averages"
+        },
+        {
+          "title": "OpenStax — Principles of Macroeconomics 2e (Exchange rate chapter)",
+          "url": "https://openstax.org/details/books/principles-macroeconomics-2e",
+          "type": "textbook",
+          "description": "Regimes & policy impacts"
+        }
+      ],
+      "importance": "high",
+      "category": "International Economics",
+      "topics": ["Exchange Rate", "Managed Float", "REER/NEER"]
+    },
+    {
+      "id": "9",
+      "title": "International Trade: Pakistan Profiles (WTO, WITS, Comtrade)",
+      "content": "Use official profiles for exports/imports, partners, tariff indicators; cite tables/years explicitly.",
+      "keyTakeaways": [
+        "Prefer WTO/WITS for exam stats.",
+        "Always note data year/version.",
+        "Use product/partner tables for specifics."
+      ],
+      "resources": [
+        {
+          "title": "WTO — Pakistan Member Information",
+          "url": "https://www.wto.org/english/thewto_e/countries_e/pakistan_e.htm",
+          "type": "portal",
+          "description": "Official WTO member page"
+        },
+        {
+          "title": "WTO — Trade Profiles (global PDF, incl. Pakistan)",
+          "url": "https://www.wto.org/english/res_e/booksp_e/trade_profiles23_e.pdf",
+          "type": "report",
+          "description": "Comparable indicators"
+        },
+        {
+          "title": "WTO — Tariff & Trade Data (Pakistan profile)",
+          "url": "https://ttd.wto.org/en/profiles/pakistan",
+          "type": "data",
+          "description": "Applied tariffs & trade patterns"
+        },
+        {
+          "title": "WITS — Pakistan Trade Summary",
+          "url": "https://wits.worldbank.org/CountryProfile/en/Country/PAK/Year/2023/Summary",
+          "type": "data",
+          "description": "Exports/imports, partners, products"
+        },
+        {
+          "title": "UN Comtrade — Data portal",
+          "url": "https://comtrade.un.org/",
+          "type": "portal",
+          "description": "Granular HS-level trade data"
+        }
+      ],
+      "importance": "high",
+      "category": "International Economics",
+      "topics": ["Trade", "Tariffs", "WTO", "WITS", "Comtrade"]
+    },
+    {
+      "id": "10",
+      "title": "Economic Growth Theories (Harrod–Domar, Solow–Swan, Lewis, Rostow)",
+      "content": "Define core assumptions/results; diagram Solow steady state; link to Pakistan's capital accumulation, labor surplus, and structural change.",
+      "keyTakeaways": [
+        "Harrod–Domar: savings/capital-output ratio.",
+        "Solow: diminishing returns; role of TFP.",
+        "Lewis/Rostow: structural transformation paths."
+      ],
+      "resources": [
+        {
+          "title": "OpenStax — Principles of Macroeconomics 2e (Growth chapters)",
+          "url": "https://openstax.org/details/books/principles-macroeconomics-2e",
+          "type": "textbook",
+          "description": "Free, exam-ready coverage"
+        },
+        {
+          "title": "Wikipedia — Harrod–Domar model",
+          "url": "https://en.wikipedia.org/wiki/Harrod%E2%80%93Domar_model",
+          "type": "article",
+          "description": "Concise derivations"
+        },
+        {
+          "title": "Wikipedia — Solow–Swan model",
+          "url": "https://en.wikipedia.org/wiki/Solow%E2%80%93Swan_model",
+          "type": "article",
+          "description": "Steady-state & golden rule"
+        },
+        {
+          "title": "Wikipedia — Dual-sector (Lewis) model",
+          "url": "https://en.wikipedia.org/wiki/Dual-sector_model",
+          "type": "article",
+          "description": "Labor surplus to modern sector"
+        },
+        {
+          "title": "Wikipedia — Rostow's stages of growth",
+          "url": "https://en.wikipedia.org/wiki/Rostow%27s_stages_of_growth",
+          "type": "article",
+          "description": "Historical take-off sequence"
+        }
+      ],
+      "importance": "medium",
+      "category": "Development Economics",
+      "topics": ["Growth Models", "TFP", "Structural Change"]
+    },
+    {
+      "id": "11",
+      "title": "Poverty & Human Development (Pakistan)",
+      "content": "Use current poverty/inequality briefs and HDI ranks; connect to growth, labor markets, and social protection in essays.",
+      "keyTakeaways": [
+        "Cite the latest Poverty & Equity Brief.",
+        "Use HDI for multi-dimensional view.",
+        "Relate policy to outcomes."
+      ],
+      "resources": [
+        {
+          "title": "World Bank — Pakistan Poverty & Equity Brief (Apr 2025)",
+          "url": "https://www.worldbank.org/en/country/pakistan/publication/poverty-and-equity-brief-pakistan-april-2025",
+          "type": "brief",
+          "description": "Latest poverty facts & charts"
+        },
+        {
+          "title": "UNDP — Pakistan Human Development Profile",
+          "url": "https://hdr.undp.org/data-center/country-insights#/ranks",
+          "type": "data",
+          "description": "HDI levels & trends"
+        }
+      ],
+      "importance": "medium",
+      "category": "Development Economics",
+      "topics": ["Poverty", "Inequality", "HDI"]
+    },
+    {
+      "id": "12",
+      "title": "Taxation & FBR (Revenues, Policy, Tax Expenditures)",
+      "content": "Support fiscal answers with FBR yearbooks, performance reports, and tax-expenditure estimates; quote figures with FY and source.",
+      "keyTakeaways": [
+        "Use FBR Year Book for collection trends.",
+        "Tax Expenditure = foregone revenue via exemptions.",
+        "Tie tax structure to growth/inflation distribution."
+      ],
+      "resources": [
+        {
+          "title": "FBR — Year Book 2023-24 (PDF)",
+          "url": "https://download1.fbr.gov.pk/Docs/20256121862732676FBR-YEARBOOK-2023-24.pdf",
+          "type": "report",
+          "description": "Targets vs. achievements"
+        },
+        {
+          "title": "FBR — Revenue Division Year Book 2023-24 (PDF)",
+          "url": "https://download1.fbr.gov.pk/Docs/202411516115312997FBR-REVENUE-DIVISION-YEAR-BOOK2023-24.pdf",
+          "type": "report",
+          "description": "Structure & trends"
+        },
+        {
+          "title": "FBR — Press Releases",
+          "url": "https://fbr.gov.pk/pr",
+          "type": "portal",
+          "description": "Monthly/quarterly updates"
+        },
+        {
+          "title": "FBR — Tax Expenditure Report 2024 (PDF)",
+          "url": "https://fbr.gov.pk/Budget2024-25/FinanceBill/Tax-Exp-Report.pdf",
+          "type": "report",
+          "description": "Estimate of foregone revenues"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Economy & Policy",
+      "topics": ["Tax to GDP", "Exemptions", "Revenue Performance"]
+    },
+    {
+      "id": "13",
+      "title": "Energy Sector & Circular Debt (for policy essays)",
+      "content": "Use NEPRA's State of Industry for power sector metrics (capacity, generation mix, losses) and reference circular debt dynamics.",
+      "keyTakeaways": [
+        "Quote latest NEPRA figures with year.",
+        "Link power losses to fiscal/BoP pressures.",
+        "Energy pricing → inflation pass-through."
+      ],
+      "resources": [
+        {
+          "title": "NEPRA — State of Industry Report (hub)",
+          "url": "https://nepra.org.pk/SOI.php",
+          "type": "portal",
+          "description": "Access latest SOI report/PDF"
+        },
+        {
+          "title": "Finance Division — Fiscal Risk Statement (Mar 2025)",
+          "url": "https://www.finance.gov.pk/publications/Fiscal_Risk_Statement_March_2025.pdf",
+          "type": "report",
+          "description": "Risks incl. energy sector"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pakistan Economy & Policy",
+      "topics": ["Power Sector", "Circular Debt", "Inflation"]
+    },
+    {
+      "id": "14",
+      "title": "Agriculture vs. Industry (Pakistan Economic Survey Chapters)",
+      "content": "Support sectoral essays with PES chapter stats on value-added, growth, and policy initiatives.",
+      "keyTakeaways": [
+        "Cite PES 2024-25 chapter/section.",
+        "Mention weather, inputs, and prices.",
+        "Tie industry to exports & jobs."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Economic Survey 2024-25 (hub with chapters)",
+          "url": "https://www.finance.gov.pk/survey_2025.html",
+          "type": "portal",
+          "description": "Chapters: Agriculture; Manufacturing & Mining; Money & Credit, etc."
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Economy & Policy",
+      "topics": ["Agriculture", "Manufacturing", "Sectoral Growth"]
+    },
+    {
+      "id": "15",
+      "title": "Go-To Data Portals (time series you can cite fast)",
+      "content": "Bookmark these for quick, citable stats in essays/MCQs (BoP, FX, CPI, trade).",
+      "keyTakeaways": [
+        "Always include date/frequency/source.",
+        "Prefer official portals for Pakistan stats.",
+        "Cross-check figures across sources."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Economic Data (datasets list & updates)",
+          "url": "https://www.sbp.org.pk/ecodata/index2.asp",
+          "type": "portal",
+          "description": "BoP, FX, reserves, debt, remittances"
+        },
+        {
+          "title": "SBP EasyData — NEER/REER dataset",
+          "url": "https://easydata.sbp.org.pk/apex/f?cs=17DB4772A01D723201E2C27E035A5541A&p=10%3A211%3A5045682508810%3A%3ANO%3ARP%3AP211_DATASET_TYPE_CODE%2CP211_PAGE_ID%3ATS_GP_ER_REERNEER_M%2C210",
+          "type": "portal",
+          "description": "Competitiveness indices"
+        },
+        {
+          "title": "PBS — Home (latest CPI/SPI & QIM)",
+          "url": "https://www.pbs.gov.pk/",
+          "type": "portal",
+          "description": "Official price & production stats"
+        },
+        {
+          "title": "WITS — Pakistan trade snapshot",
+          "url": "https://wits.worldbank.org/countrysnapshot/PAK",
+          "type": "data",
+          "description": "Quick trade indicators"
+        }
+      ],
+      "importance": "high",
+      "category": "Data Sources & Statistical Tools",
+      "topics": ["Datasets", "Time Series", "Official Sources"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T07:50:40.141Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "a1bbf825d30471cd2f6a8c49b658db1f594a9e3e",
+      "sectionIndex": 0,
+      "question": "Approximately what percentage of Earth's surface is covered by water?",
+      "options": [
+        "A) 51%",
+        "B) 61%",
+        "C) 71%",
+        "D) 81%"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c70c7cabcec73bb08dded0907ffa94d934b87501",
+      "sectionIndex": 0,
+      "question": "The Earth's core is primarily composed of:",
+      "options": [
+        "A) Silicon and oxygen",
+        "B) Iron and nickel",
+        "C) Carbon and hydrogen",
+        "D) Aluminum and magnesium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9869b666a520ece72a8eee6d25ee557a481c0e17",
+      "sectionIndex": 0,
+      "question": "The lithosphere refers to:",
+      "options": [
+        "A) The atmosphere",
+        "B) The Earth's crust and upper mantle",
+        "C) The ocean floor only",
+        "D) The inner core"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2399d276ad38ac681a5e7ae974f849643e16f2d6",
+      "sectionIndex": 0,
+      "question": "Which layer of the Earth is in a liquid state?",
+      "options": [
+        "A) Inner core",
+        "B) Outer core",
+        "C) Mantle",
+        "D) Crust"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f87a96b6a54fa1e5f5a6f2bbe78d8db7916e67ff",
+      "sectionIndex": 0,
+      "question": "The asthenosphere is characterized by:",
+      "options": [
+        "A) Solid rock",
+        "B) Liquid metal",
+        "C) Partially molten rock",
+        "D) Gas"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "332286ff456f56c2305b97f4391d4d12df07826d",
+      "sectionIndex": 0,
+      "question": "Who is known as the \"Father of Geography\"?",
+      "options": [
+        "A) Aristotle",
+        "B) Eratosthenes",
+        "C) Ptolemy",
+        "D) Strabo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73440512266c99521641a20e91125a5561c47063",
+      "sectionIndex": 0,
+      "question": "The study of earthquakes is called:",
+      "options": [
+        "A) Volcanology",
+        "B) Seismology",
+        "C) Geology",
+        "D) Meteorology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d59ff6f28ad7553ad08d75a449541c15e638e74a",
+      "sectionIndex": 0,
+      "question": "The Richter scale measures:",
+      "options": [
+        "A) Wind speed",
+        "B) Temperature",
+        "C) Earthquake magnitude",
+        "D) Ocean depth"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3b4fb5e61e1ca9d92c1ff3d318ca0f0b26490fda",
+      "sectionIndex": 0,
+      "question": "The point on Earth's surface directly above an earthquake focus is called:",
+      "options": [
+        "A) Hypocenter",
+        "B) Epicenter",
+        "C) Core",
+        "D) Fault"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3afb0a2e5db427299ec0c7c96df96a97e1e37a3a",
+      "sectionIndex": 0,
+      "question": "Continental drift theory was proposed by:",
+      "options": [
+        "A) Harry Hess",
+        "B) Alfred Wegener",
+        "C) Charles Darwin",
+        "D) James Hutton"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0bf1888dd266d8a47ee99828cdb06ae85e96585c",
+      "sectionIndex": 1,
+      "question": "The Köppen climate classification uses which letter for tropical climates?",
+      "options": [
+        "A) A",
+        "B) B",
+        "C) C",
+        "D) D"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3268a75e07da489a6db59ce98187ac16b860e27a",
+      "sectionIndex": 1,
+      "question": "Mediterranean climate is characterized by:",
+      "options": [
+        "A) Hot dry summers and mild wet winters",
+        "B) Hot wet summers and cold dry winters",
+        "C) Year-round rainfall",
+        "D) Year-round drought"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fe21e3e560d561e86037ca2f621ce3808610615b",
+      "sectionIndex": 1,
+      "question": "Monsoon climate is primarily found in:",
+      "options": [
+        "A) Europe",
+        "B) South America",
+        "C) South Asia",
+        "D) Antarctica"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fd40cef126a3f704de4e3b74446a8f390303c965",
+      "sectionIndex": 1,
+      "question": "The doldrums refer to:",
+      "options": [
+        "A) High pressure areas",
+        "B) Calm areas near the equator",
+        "C) Storm zones",
+        "D) Polar regions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c2776c901d18414c35675d042be2ce685a534b2",
+      "sectionIndex": 1,
+      "question": "The Coriolis force is caused by:",
+      "options": [
+        "A) Ocean currents",
+        "B) Earth's rotation",
+        "C) Solar radiation",
+        "D) Lunar gravity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20ee13fce5babcdb2afe9b2de226e3bc6b057790",
+      "sectionIndex": 1,
+      "question": "Albedo refers to:",
+      "options": [
+        "A) Cloud formation",
+        "B) Reflectivity of a surface",
+        "C) Wind speed",
+        "D) Humidity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8987ff877d942f65193dea758f51c66e5c8d703",
+      "sectionIndex": 1,
+      "question": "Which wind belt is found at 30° latitude?",
+      "options": [
+        "A) Trade winds",
+        "B) Westerlies",
+        "C) Horse latitudes",
+        "D) Polar easterlies"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "df52ec0d222d45332447f9c4b82ba0bca9072328",
+      "sectionIndex": 1,
+      "question": "The greenhouse effect is primarily caused by:",
+      "options": [
+        "A) Oxygen",
+        "B) Nitrogen",
+        "C) Carbon dioxide",
+        "D) Helium"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7b077440a15b037fdeccc1d70aa8b5cc913485ae",
+      "sectionIndex": 1,
+      "question": "The ozone layer is found in the:",
+      "options": [
+        "A) Troposphere",
+        "B) Stratosphere",
+        "C) Mesosphere",
+        "D) Thermosphere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8734fda1bd45e6fb6b9d4bcb177cf11869f6854",
+      "sectionIndex": 1,
+      "question": "Cyclones in the Northern Hemisphere rotate:",
+      "options": [
+        "A) Clockwise",
+        "B) Counter-clockwise",
+        "C) Both directions",
+        "D) They don't rotate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "956e1665614c58009e40ad35aaf4bb830973edac",
+      "sectionIndex": 2,
+      "question": "The Gulf Stream is a:",
+      "options": [
+        "A) Cold current",
+        "B) Warm current",
+        "C) Tidal current",
+        "D) Deep water current"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9985d1b34a1f686f06cba1858d249fa99b0746bd",
+      "sectionIndex": 2,
+      "question": "The Kuroshio Current flows in the:",
+      "options": [
+        "A) Atlantic Ocean",
+        "B) Pacific Ocean",
+        "C) Indian Ocean",
+        "D) Arctic Ocean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "282ff945ae6e1c3f2d939c2e9a8991641c7cf549",
+      "sectionIndex": 2,
+      "question": "Ocean currents are primarily driven by:",
+      "options": [
+        "A) Tides only",
+        "B) Wind and density differences",
+        "C) Earthquakes",
+        "D) River discharge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4f7cf28818519eb0505bfe7d2ade76b3b4327cf",
+      "sectionIndex": 2,
+      "question": "The Agulhas Current flows along the coast of:",
+      "options": [
+        "A) South America",
+        "B) North America",
+        "C) Africa",
+        "D) Australia"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "da3b7f4c93bffefed34c3f0d4aa0584de59d2039",
+      "sectionIndex": 2,
+      "question": "Spring tides occur during:",
+      "options": [
+        "A) Spring season only",
+        "B) New and full moon",
+        "C) Half moon",
+        "D) Summer solstice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "29239f2e52d8812ef05b8d9178dfb56a4487dfd5",
+      "sectionIndex": 2,
+      "question": "Neap tides occur when:",
+      "options": [
+        "A) Moon is at right angles to the sun",
+        "B) Moon is aligned with the sun",
+        "C) During eclipses",
+        "D) In winter"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bbde1933b706bd297ea65de6e35775187c3d7403",
+      "sectionIndex": 2,
+      "question": "The water cycle is also known as:",
+      "options": [
+        "A) Carbon cycle",
+        "B) Nitrogen cycle",
+        "C) Hydrological cycle",
+        "D) Rock cycle"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "49e3bac8aaee141d99da960231bf9364d71fcab2",
+      "sectionIndex": 2,
+      "question": "Most of Earth's freshwater is stored in:",
+      "options": [
+        "A) Rivers",
+        "B) Lakes",
+        "C) Glaciers and ice caps",
+        "D) Atmosphere"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a7801bb7882dea504788d7e29d7f2b096c9f7282",
+      "sectionIndex": 2,
+      "question": "A river's mouth where it meets the sea is called:",
+      "options": [
+        "A) Source",
+        "B) Tributary",
+        "C) Delta or estuary",
+        "D) Confluence"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f1b9d76966a2e0b0faf075c048b374e95778436d",
+      "sectionIndex": 2,
+      "question": "The deepest part of the ocean is:",
+      "options": [
+        "A) Puerto Rico Trench",
+        "B) Java Trench",
+        "C) Mariana Trench",
+        "D) Peru-Chile Trench"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "23f394fd008e137136b6dc1d9e040a84a6203839",
+      "sectionIndex": 3,
+      "question": "Granite is an example of:",
+      "options": [
+        "A) Sedimentary rock",
+        "B) Igneous rock",
+        "C) Metamorphic rock",
+        "D) Artificial rock"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e65a68ce326220f50dd7da2a5c1b509229d672d0",
+      "sectionIndex": 3,
+      "question": "Sandstone is classified as:",
+      "options": [
+        "A) Igneous rock",
+        "B) Metamorphic rock",
+        "C) Sedimentary rock",
+        "D) Volcanic rock"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8f7276a2769bacb0cf89bdac78dfc571516967ed",
+      "sectionIndex": 3,
+      "question": "Marble is formed from:",
+      "options": [
+        "A) Granite",
+        "B) Limestone",
+        "C) Sandstone",
+        "D) Basalt"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3ebd4c3323a6b0da6822c12fe1c77715e98d5dd",
+      "sectionIndex": 3,
+      "question": "Intrusive igneous rocks are characterized by:",
+      "options": [
+        "A) Fine crystals",
+        "B) Large crystals",
+        "C) No crystals",
+        "D) Glass-like texture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc51e22dc1b19925e0d019e3df4d64ceb2d2852a",
+      "sectionIndex": 3,
+      "question": "Extrusive igneous rocks form from:",
+      "options": [
+        "A) Underground magma",
+        "B) Surface lava",
+        "C) Sediment compression",
+        "D) Metamorphism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db5ec883f23222c1f027dd51df730769d33f931f",
+      "sectionIndex": 3,
+      "question": "Stalactites hang from:",
+      "options": [
+        "A) The floor",
+        "B) The ceiling",
+        "C) Cave walls",
+        "D) Outside caves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7423ccaccf3f3125e96281ecf42408d0df646455",
+      "sectionIndex": 3,
+      "question": "Stalagmites grow from:",
+      "options": [
+        "A) The ceiling",
+        "B) The floor",
+        "C) Cave walls",
+        "D) Water surface"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea3483fedeafef6b1f1fd2c7435d2467b8ff2f41",
+      "sectionIndex": 3,
+      "question": "A hanging valley is formed by:",
+      "options": [
+        "A) River erosion",
+        "B) Glacial erosion",
+        "C) Wind erosion",
+        "D) Chemical weathering"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "244d1e0c81b9e0388583abf07a8dc482e1238adc",
+      "sectionIndex": 3,
+      "question": "Moraines are deposits left by:",
+      "options": [
+        "A) Rivers",
+        "B) Wind",
+        "C) Glaciers",
+        "D) Ocean waves"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d1b7ed6d50bc5b87c86e91c0645a017a19ff5a2f",
+      "sectionIndex": 3,
+      "question": "U-shaped valleys are typically formed by:",
+      "options": [
+        "A) River erosion",
+        "B) Glacial erosion",
+        "C) Wind erosion",
+        "D) Tectonic activity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95d15f059f67231806bb3ae749417da58552a543",
+      "sectionIndex": 4,
+      "question": "The Mercator projection is best for:",
+      "options": [
+        "A) Showing true area",
+        "B) Navigation",
+        "C) Polar regions",
+        "D) Small-scale maps"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e925a0871ce7e8a89c919a88fdc0e2cf684820f7",
+      "sectionIndex": 4,
+      "question": "Conical projections are best for mapping:",
+      "options": [
+        "A) The entire world",
+        "B) Mid-latitude regions",
+        "C) Polar regions",
+        "D) Equatorial regions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38111ed6d56b8f77615b63c23036560d2cc653ad",
+      "sectionIndex": 4,
+      "question": "Zenithal projections are also known as:",
+      "options": [
+        "A) Cylindrical projections",
+        "B) Azimuthal projections",
+        "C) Conical projections",
+        "D) Pseudocylindrical projections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7afda0c6f3243c2365dcefc3689249aff8fb904",
+      "sectionIndex": 4,
+      "question": "A rhumb line on a Mercator projection appears as:",
+      "options": [
+        "A) A curved line",
+        "B) A straight line",
+        "C) A circle",
+        "D) An ellipse"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ddf39b172395d5ef7a2ffbc6450f9418d0ee62a",
+      "sectionIndex": 4,
+      "question": "Map scale 1:100,000 means:",
+      "options": [
+        "A) 1 cm = 100,000 km",
+        "B) 1 cm = 100,000 m",
+        "C) 1 cm = 1 km",
+        "D) 1 unit = 100,000 units"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "94d59998786aab16ef7d0e7a166d3aaeea690567",
+      "sectionIndex": 4,
+      "question": "Contour lines that are close together indicate:",
+      "options": [
+        "A) Gentle slope",
+        "B) Steep slope",
+        "C) Flat land",
+        "D) Water body"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f6ceab1ac70890d4e16e797284e7e3ef17e0153",
+      "sectionIndex": 4,
+      "question": "Latitude lines are also called:",
+      "options": [
+        "A) Meridians",
+        "B) Parallels",
+        "C) Great circles",
+        "D) Rhumb lines"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acbfbed623db94687b8d5001cc72673da33db373",
+      "sectionIndex": 4,
+      "question": "Longitude lines are also called:",
+      "options": [
+        "A) Parallels",
+        "B) Meridians",
+        "C) Equators",
+        "D) Tropics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17fcef631ee033ca2a84d8f3b8cb18552573cbba",
+      "sectionIndex": 4,
+      "question": "The Prime Meridian passes through:",
+      "options": [
+        "A) Paris",
+        "B) Washington",
+        "C) Greenwich",
+        "D) Berlin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "86fc38e5dd6ea9c32955baf02309de88b4173033",
+      "sectionIndex": 4,
+      "question": "The International Date Line roughly follows:",
+      "options": [
+        "A) 0° longitude",
+        "B) 90° longitude",
+        "C) 180° longitude",
+        "D) 270° longitude"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f1095d796052ea8be3d8198d9fc6b98605ffe23a",
+      "sectionIndex": 5,
+      "question": "CBD stands for:",
+      "options": [
+        "A) Central Banking District",
+        "B) Central Business District",
+        "C) Commercial Building District",
+        "D) City Boundary District"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb5371fdcbd848dfe1915663fc445af7208bf5e1",
+      "sectionIndex": 5,
+      "question": "The study of population is called:",
+      "options": [
+        "A) Demography",
+        "B) Democracy",
+        "C) Geography",
+        "D) Geology"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4e1a294cdcb29245f5412b299c2e47e8d76289cf",
+      "sectionIndex": 5,
+      "question": "Ecumene refers to:",
+      "options": [
+        "A) Economic zones",
+        "B) Permanently inhabited areas",
+        "C) Desert regions",
+        "D) Ocean areas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d0e147d4f2ee69639564bf37d49eccaa82b068b",
+      "sectionIndex": 5,
+      "question": "Primary economic activities include:",
+      "options": [
+        "A) Manufacturing",
+        "B) Services",
+        "C) Agriculture and mining",
+        "D) Banking"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d34dfc7d0f9c1b2c3b1d0db36ee596440c50674b",
+      "sectionIndex": 5,
+      "question": "Secondary economic activities include:",
+      "options": [
+        "A) Farming",
+        "B) Manufacturing",
+        "C) Retail",
+        "D) Tourism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0af7d9f6579255234ad668cfea36b4042c924943",
+      "sectionIndex": 5,
+      "question": "Tertiary economic activities include:",
+      "options": [
+        "A) Mining",
+        "B) Agriculture",
+        "C) Services",
+        "D) Fishing"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d86cade34d1bfc4eb774e9a102e3d665bbe01073",
+      "sectionIndex": 5,
+      "question": "The Green Revolution primarily involved:",
+      "options": [
+        "A) Environmental conservation",
+        "B) High-yielding crop varieties",
+        "C) Organic farming",
+        "D) Forest protection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3789015eb5be0e1aa9c125036fed4681445b2712",
+      "sectionIndex": 5,
+      "question": "Shifting cultivation is also known as:",
+      "options": [
+        "A) Plantation farming",
+        "B) Slash and burn",
+        "C) Intensive farming",
+        "D) Factory farming"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "412831097166460133aadca634b6ff0f69d69fa4",
+      "sectionIndex": 5,
+      "question": "Transhumance refers to:",
+      "options": [
+        "A) Permanent settlement",
+        "B) Seasonal movement of livestock",
+        "C) Daily commuting",
+        "D) International migration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ff925892e682754d1b7baa90b97a9e3d07b1ddf",
+      "sectionIndex": 5,
+      "question": "A megacity has a population of at least:",
+      "options": [
+        "A) 1 million",
+        "B) 5 million",
+        "C) 10 million",
+        "D) 20 million"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1a4f27c722270395dae2784d62537cc04f44a7d2",
+      "sectionIndex": 6,
+      "question": "The longest river in Pakistan is:",
+      "options": [
+        "A) Jhelum",
+        "B) Chenab",
+        "C) Indus",
+        "D) Ravi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f009a65e5e88094cf5942afabfe0c6b8dd992700",
+      "sectionIndex": 6,
+      "question": "The Indus River originates from:",
+      "options": [
+        "A) India",
+        "B) Pakistan",
+        "C) Tibet",
+        "D) Afghanistan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7113177ce92df9dc3b9e40ea5c775d5bc87920f1",
+      "sectionIndex": 6,
+      "question": "The hottest city in Pakistan is often considered to be:",
+      "options": [
+        "A) Karachi",
+        "B) Lahore",
+        "C) Jacobabad",
+        "D) Islamabad"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "63dd77242cac54a39d12a667b691d21224de9bc9",
+      "sectionIndex": 6,
+      "question": "The Durand Line forms the border between:",
+      "options": [
+        "A) Pakistan and India",
+        "B) Pakistan and Afghanistan",
+        "C) Pakistan and Iran",
+        "D) Pakistan and China"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea9aab872d8b3b4871aaa847c9f33f596bfc602f",
+      "sectionIndex": 6,
+      "question": "The Siwalik Hills are part of:",
+      "options": [
+        "A) Karakoram Range",
+        "B) Hindu Kush",
+        "C) Himalayas",
+        "D) Sulaiman Range"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7c786779a379134137c93a22a0cd2e4bcf3f3df0",
+      "sectionIndex": 6,
+      "question": "Gwadar Port is located in:",
+      "options": [
+        "A) Sindh",
+        "B) Balochistan",
+        "C) Punjab",
+        "D) KPK"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e7069103bc30ba2f919d8ed26704175d3a48889",
+      "sectionIndex": 6,
+      "question": "The capital of Bangladesh is:",
+      "options": [
+        "A) Colombo",
+        "B) Dhaka",
+        "C) Kathmandu",
+        "D) Thimphu"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6f89c433760a667b2e988febd11c1b24e6836f8",
+      "sectionIndex": 6,
+      "question": "The monsoon in South Asia primarily comes from:",
+      "options": [
+        "A) Arctic Ocean",
+        "B) Pacific Ocean",
+        "C) Indian Ocean",
+        "D) Atlantic Ocean"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "663e1e68feab13d5f6fe698813a19376f6299d08",
+      "sectionIndex": 6,
+      "question": "The Thar Desert is located between:",
+      "options": [
+        "A) India and China",
+        "B) Pakistan and India",
+        "C) Pakistan and Iran",
+        "D) India and Nepal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4914a9225a365e4b6096cea203bb31f7ce06d4cb",
+      "sectionIndex": 6,
+      "question": "Rice bowl of South Asia refers to:",
+      "options": [
+        "A) Punjab",
+        "B) Bengal Delta",
+        "C) Deccan Plateau",
+        "D) Kashmir Valley"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27f7c5f1ec3bb4146e074fc9f6b0e65951e8af0d",
+      "sectionIndex": 7,
+      "question": "Environmental determinism suggests that:",
+      "options": [
+        "A) Humans control environment",
+        "B) Environment controls human activities",
+        "C) No relationship exists",
+        "D) Both have equal influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b11cceefead581d5570b13c8b9faf53a56eb2c5d",
+      "sectionIndex": 7,
+      "question": "Possibilism suggests that:",
+      "options": [
+        "A) Environment determines everything",
+        "B) Humans can modify their environment",
+        "C) No possibilities exist",
+        "D) Geography is fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7eb2c258d1b20aa679997c70da1d974fe1a775be",
+      "sectionIndex": 7,
+      "question": "Deforestation primarily causes:",
+      "options": [
+        "A) Increased rainfall",
+        "B) Soil erosion",
+        "C) Lower temperatures",
+        "D) More wildlife"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e68dfe62593b9dbbd7605f61bbc8257fb75d2f1",
+      "sectionIndex": 7,
+      "question": "The Kyoto Protocol deals with:",
+      "options": [
+        "A) Ocean pollution",
+        "B) Climate change",
+        "C) Deforestation",
+        "D) Urbanization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d8d3516e57381044c80fdeb4f217187026f9151",
+      "sectionIndex": 7,
+      "question": "Sustainable development means:",
+      "options": [
+        "A) No development",
+        "B) Meeting present needs without compromising future",
+        "C) Maximum exploitation",
+        "D) Slow development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a464422ca6706f77d45ac48e362f063cf4a06568",
+      "sectionIndex": 7,
+      "question": "Global warming is primarily caused by:",
+      "options": [
+        "A) Ozone depletion",
+        "B) Greenhouse gases",
+        "C) Acid rain",
+        "D) Nuclear radiation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e436e2e75d7f7d1c122421179293c5fff1df6eb0",
+      "sectionIndex": 7,
+      "question": "Acid rain is caused by:",
+      "options": [
+        "A) Carbon dioxide only",
+        "B) Sulfur dioxide and nitrogen oxides",
+        "C) Oxygen",
+        "D) Water vapor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12e178602197de0949b98a94177923693b582040",
+      "sectionIndex": 7,
+      "question": "The term \"carbon footprint\" refers to:",
+      "options": [
+        "A) Foot size",
+        "B) Total greenhouse gas emissions",
+        "C) Coal mining",
+        "D) Forest area"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "203eee8e91736bb1ac0c79ade67f273ee21b520c",
+      "sectionIndex": 7,
+      "question": "Biodiversity hotspots are areas with:",
+      "options": [
+        "A) High temperature",
+        "B) High species diversity",
+        "C) No life",
+        "D) Only plants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9043415f7ea5e5e64f50bb4dc49ef6a7c5f1e26",
+      "sectionIndex": 7,
+      "question": "Renewable energy sources include:",
+      "options": [
+        "A) Coal",
+        "B) Solar and wind",
+        "C) Petroleum",
+        "D) Natural gas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2513da122a14edac391df26e6d6e6e0e0a83fb78",
+      "sectionIndex": 8,
+      "question": "Weber's industrial location theory emphasizes:",
+      "options": [
+        "A) Labor only",
+        "B) Transport costs",
+        "C) Market only",
+        "D) Climate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5155f256c381961e19f7d0ec8c4bbac9c3a7b37",
+      "sectionIndex": 8,
+      "question": "The term \"agglomeration\" in geography refers to:",
+      "options": [
+        "A) Dispersion",
+        "B) Clustering of activities",
+        "C) Agricultural zones",
+        "D) Mountain formation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eeee4196060e196e94bcb6e4606b105fc4f0d3e5",
+      "sectionIndex": 8,
+      "question": "Cottage industries are characterized by:",
+      "options": [
+        "A) Large factories",
+        "B) Small-scale home production",
+        "C) Government ownership",
+        "D) Foreign investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37dc22b8327b1f09fe97f5b0900b1dd8fce68d26",
+      "sectionIndex": 8,
+      "question": "The Ruhr Valley is famous for:",
+      "options": [
+        "A) Agriculture",
+        "B) Heavy industry",
+        "C) Tourism",
+        "D) Fishing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c60f0e55915aa08b2228fe30d3c1a80879c0498",
+      "sectionIndex": 8,
+      "question": "Silicon Valley is known for:",
+      "options": [
+        "A) Agriculture",
+        "B) Technology industry",
+        "C) Mining",
+        "D) Textiles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a744bbefa19de9e9875ec22c9fb104f43f33536f",
+      "sectionIndex": 8,
+      "question": "OPEC deals with:",
+      "options": [
+        "A) Agriculture",
+        "B) Petroleum",
+        "C) Textiles",
+        "D) Technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "529fed7c4aa3089e2642d659c6a5c8f5f3393599",
+      "sectionIndex": 8,
+      "question": "Subsistence farming means:",
+      "options": [
+        "A) Large-scale export",
+        "B) Growing for family consumption",
+        "C) Cash crops only",
+        "D) No farming"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1770397dbe2d0419fad74af30b410edf7ca2a24",
+      "sectionIndex": 8,
+      "question": "Commercial farming is characterized by:",
+      "options": [
+        "A) Small plots",
+        "B) Production for market",
+        "C) No machinery",
+        "D) Family labor only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3719ba8180c7564dd45b09796f595f26bb630e7c",
+      "sectionIndex": 8,
+      "question": "Pastoral nomadism involves:",
+      "options": [
+        "A) Crop cultivation",
+        "B) Herding livestock",
+        "C) Fishing",
+        "D) Mining"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b8f9860a6adcd54bc9be76b6c92905d93854439",
+      "sectionIndex": 8,
+      "question": "The primary sector includes:",
+      "options": [
+        "A) Manufacturing",
+        "B) Extraction of raw materials",
+        "C) Services",
+        "D) Construction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ecd8df1385e0f368d9b399253dc752fb65801cd",
+      "sectionIndex": 9,
+      "question": "Pakistan's highest peak is:",
+      "options": [
+        "A) Nanga Parbat",
+        "B) K2",
+        "C) Broad Peak",
+        "D) Gasherbrum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c2c9b1c4b0a73418986ba8a2f89efd630c0f1577",
+      "sectionIndex": 9,
+      "question": "The Indus Waters Treaty was signed between:",
+      "options": [
+        "A) Pakistan and China",
+        "B) Pakistan and India",
+        "C) Pakistan and Afghanistan",
+        "D) Pakistan and Iran"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbd33d5d0a3d158ec13f97c7b2d5caa6dea3bdce",
+      "sectionIndex": 9,
+      "question": "Pakistan's largest province by area is:",
+      "options": [
+        "A) Punjab",
+        "B) Sindh",
+        "C) Balochistan",
+        "D) KPK"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dbebdfdee9b0b9c5061b521c6e23043301e3eace",
+      "sectionIndex": 9,
+      "question": "The Mangla Dam is built on the:",
+      "options": [
+        "A) Indus River",
+        "B) Jhelum River",
+        "C) Chenab River",
+        "D) Ravi River"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c000f763813692249143d253ede49f32b3f347c",
+      "sectionIndex": 9,
+      "question": "Tarbela Dam is built on the:",
+      "options": [
+        "A) Indus River",
+        "B) Jhelum River",
+        "C) Chenab River",
+        "D) Sutlej River"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a04c6d0da40e2c328d26d62787a5bbd17788a615",
+      "sectionIndex": 9,
+      "question": "Pakistan's main port city is:",
+      "options": [
+        "A) Gwadar",
+        "B) Karachi",
+        "C) Ormara",
+        "D) Pasni"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4b8804b0fb6e882327d3e52f70fb564da264024",
+      "sectionIndex": 9,
+      "question": "The Khyber Pass connects Pakistan with:",
+      "options": [
+        "A) India",
+        "B) China",
+        "C) Afghanistan",
+        "D) Iran"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b7dd4d026420cacf76945b32e9c0d035ea43e069",
+      "sectionIndex": 9,
+      "question": "Pakistan's national language is:",
+      "options": [
+        "A) Punjabi",
+        "B) Sindhi",
+        "C) Urdu",
+        "D) English"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "db81af241848accbd2749c30b65c6ea16a893a6b",
+      "sectionIndex": 9,
+      "question": "The Cholistan Desert is located in:",
+      "options": [
+        "A) Sindh",
+        "B) Punjab",
+        "C) Balochistan",
+        "D) KPK"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78c0f0e81601039a0df60ee8f5af81533b9c75e1",
+      "sectionIndex": 9,
+      "question": "Pakistan gained independence in:",
+      "options": [
+        "A) 1945",
+        "B) 1946",
+        "C) 1947",
+        "D) 1948"
+      ],
+      "correct": "C"
+    }
+  ]
+}

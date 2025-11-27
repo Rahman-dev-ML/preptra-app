@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:33:50.234Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "ee74dde7ae88026a15730e1ad7b472cafb368ddb",
+      "sectionIndex": 0,
+      "question": "Who is considered the \"Father of Sociology\" according to some scholars?",
+      "options": [
+        "A) Karl Marx",
+        "B) Auguste Comte",
+        "C) Ibn Khaldun",
+        "D) Max Weber"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d74912830ee623f5d4d41de7b5401a7409d1f067",
+      "sectionIndex": 0,
+      "question": "Emile Durkheim's concept of \"mechanical solidarity\" refers to:",
+      "options": [
+        "A) Industrial societies",
+        "B) Traditional societies with shared values",
+        "C) Modern capitalist systems",
+        "D) Conflict-based societies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e8be4f20523b19e2d3fb0592d57b12e9624a954",
+      "sectionIndex": 0,
+      "question": "Max Weber is best known for his work on:",
+      "options": [
+        "A) Suicide types",
+        "B) Bureaucracy and Protestant Ethic",
+        "C) Communist manifesto",
+        "D) Social contract theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b387fa618414c92c17fc203c2cd44813274602c3",
+      "sectionIndex": 0,
+      "question": "Karl Marx's theory primarily focuses on:",
+      "options": [
+        "A) Religion and society",
+        "B) Class conflict and capitalism",
+        "C) Bureaucratic efficiency",
+        "D) Cultural evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff0b3150ede4bbd658d37db3f30981084a21d013",
+      "sectionIndex": 0,
+      "question": "Auguste Comte's \"Law of Three Stages\" includes:",
+      "options": [
+        "A) Primitive, Modern, Postmodern",
+        "B) Theological, Metaphysical, Positivistic",
+        "C) Agricultural, Industrial, Information",
+        "D) Traditional, Transitional, Modern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f699740b918edab3846889e21249d6931b5ed989",
+      "sectionIndex": 0,
+      "question": "The concept of \"alienation\" is associated with:",
+      "options": [
+        "A) Emile Durkheim",
+        "B) Max Weber",
+        "C) Karl Marx",
+        "D) Herbert Spencer"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1c8bd9563d9dcdc14cd0b44918ad782ddc821300",
+      "sectionIndex": 0,
+      "question": "Durkheim classified suicide into how many types?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3619adee3235153d5721ff464123f4e9fd8765b3",
+      "sectionIndex": 0,
+      "question": "Ibn Khaldun's contribution to sociology includes the concept of:",
+      "options": [
+        "A) Bureaucracy",
+        "B) Asabiya (social cohesion)",
+        "C) Anomie",
+        "D) Class struggle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "738c58f3f7b64a52b157f8d843e5373342e673ae",
+      "sectionIndex": 0,
+      "question": "Weber's term \"Verstehen\" means:",
+      "options": [
+        "A) Social conflict",
+        "B) Understanding social action",
+        "C) Economic determinism",
+        "D) Cultural lag"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4715d8218d288f064784f25bdb0d6271fa989c80",
+      "sectionIndex": 0,
+      "question": "The \"Division of Labor\" was studied by both:",
+      "options": [
+        "A) Marx and Durkheim",
+        "B) Weber and Comte",
+        "C) Spencer and Parsons",
+        "D) Merton and Mills"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "efbeb2649ae53186b20c81e7829470da08a84f17",
+      "sectionIndex": 0,
+      "question": "Comte believed sociology should be based on:",
+      "options": [
+        "A) Speculation",
+        "B) Religious doctrine",
+        "C) Scientific method",
+        "D) Political ideology"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "224605bf588e4468b257eb57521dd83d1814d3e1",
+      "sectionIndex": 0,
+      "question": "Marx's \"Labor Theory of Value\" suggests:",
+      "options": [
+        "A) Labor creates economic value",
+        "B) Labor has no value",
+        "C) Only capital creates value",
+        "D) Value is subjective"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6c0e0900b1699d1c7cbf95d6233455b620a6bfa9",
+      "sectionIndex": 0,
+      "question": "Durkheim's \"organic solidarity\" is found in:",
+      "options": [
+        "A) Traditional societies",
+        "B) Modern industrial societies",
+        "C) Feudal systems",
+        "D) Hunter-gatherer groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d87d2069a2eb149bc31decc4f7d7b27e4b57ee6d",
+      "sectionIndex": 1,
+      "question": "Quantitative research primarily deals with:",
+      "options": [
+        "A) Feelings and emotions",
+        "B) Numerical data and statistics",
+        "C) Personal narratives",
+        "D) Historical documents"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "843a6a7fc0ce503d1c4cdd508ffb5e19d2255f40",
+      "sectionIndex": 1,
+      "question": "A hypothesis is:",
+      "options": [
+        "A) A proven fact",
+        "B) A testable prediction",
+        "C) A research conclusion",
+        "D) A data collection method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad01652b009e83caa0d511dee74e861928b1a754",
+      "sectionIndex": 1,
+      "question": "Stratified random sampling involves:",
+      "options": [
+        "A) Selecting anyone available",
+        "B) Dividing population into groups before sampling",
+        "C) Choosing only volunteers",
+        "D) Using convenience sampling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc3558de738fa6f4861aa9d198b4668573e571e2",
+      "sectionIndex": 1,
+      "question": "Survey research is best used when:",
+      "options": [
+        "A) Studying rare phenomena",
+        "B) Needing in-depth personal stories",
+        "C) Collecting data from large populations",
+        "D) Observing natural behavior"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0cf8a80bd9d51cb9c803bf3d83cae020a0546504",
+      "sectionIndex": 1,
+      "question": "Variables in research can be:",
+      "options": [
+        "A) Independent only",
+        "B) Dependent only",
+        "C) Independent or dependent",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "80aeebaf913042dc56cc8132947238909f35c6f9",
+      "sectionIndex": 1,
+      "question": "Qualitative research focuses on:",
+      "options": [
+        "A) Statistical analysis",
+        "B) Understanding meanings and experiences",
+        "C) Large sample sizes",
+        "D) Experimental control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e63389867bca3447987b8f9e809b9005a92f887",
+      "sectionIndex": 1,
+      "question": "Primary data refers to:",
+      "options": [
+        "A) Published research",
+        "B) Government statistics",
+        "C) Data collected firsthand by researcher",
+        "D) Historical records"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c4683e91e8e89b8694695739f073b5b546acb363",
+      "sectionIndex": 1,
+      "question": "The first step in social research is usually:",
+      "options": [
+        "A) Data analysis",
+        "B) Problem identification",
+        "C) Report writing",
+        "D) Sampling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40c47b54a914fb6ada90436ad26afe0d14a3b625",
+      "sectionIndex": 1,
+      "question": "Ethnography is a method that involves:",
+      "options": [
+        "A) Laboratory experiments",
+        "B) Statistical surveys",
+        "C) In-depth cultural study",
+        "D) Historical analysis"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9d93b9f71152935a7b060d8ea8653bb62e0899ce",
+      "sectionIndex": 1,
+      "question": "A nominal variable is one that:",
+      "options": [
+        "A) Has numerical value",
+        "B) Has categories without order",
+        "C) Can be ranked",
+        "D) Has equal intervals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9955a51bf7d5221b56b52a05096428d69e5b579f",
+      "sectionIndex": 1,
+      "question": "Internal validity refers to:",
+      "options": [
+        "A) Generalizability of results",
+        "B) Accuracy of measuring what is intended",
+        "C) Sample size",
+        "D) Research cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "990af1e4aa1ee2e2c76493d45473999c14479798",
+      "sectionIndex": 1,
+      "question": "Interviews in research can be:",
+      "options": [
+        "A) Structured only",
+        "B) Unstructured only",
+        "C) Structured, semi-structured, or unstructured",
+        "D) Written only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b4b6712296af82dd2717d747c2815b712e20e636",
+      "sectionIndex": 1,
+      "question": "The population in research refers to:",
+      "options": [
+        "A) Only people",
+        "B) The entire group being studied",
+        "C) Sample size",
+        "D) Research location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d34f3eb25403b25f9192c15a9213606029d60684",
+      "sectionIndex": 2,
+      "question": "Social change refers to:",
+      "options": [
+        "A) Individual behavior changes",
+        "B) Alterations in social structures and institutions",
+        "C) Political elections only",
+        "D) Economic growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8186db5bb549b050989c98e759c9c5c0b94627f2",
+      "sectionIndex": 2,
+      "question": "Cultural lag occurs when:",
+      "options": [
+        "A) All culture changes equally",
+        "B) Material culture changes faster than non-material",
+        "C) Culture never changes",
+        "D) Culture changes too slowly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd94a97bc952eaa64b95fb06f35eb225e144a590",
+      "sectionIndex": 2,
+      "question": "Industrialization in Pakistan has led to:",
+      "options": [
+        "A) Decreased urbanization",
+        "B) Increased rural-urban migration",
+        "C) Elimination of agriculture",
+        "D) Reduced education"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "350abaf99d50c4948fca64ae1fc8ba9657dec3c9",
+      "sectionIndex": 2,
+      "question": "Factors that accelerate social change include:",
+      "options": [
+        "A) Tradition only",
+        "B) Technology and education",
+        "C) Resistance to change",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "844518f47e757fbc39fe253e1401147b26cf2d6f",
+      "sectionIndex": 2,
+      "question": "Modernization theory suggests that:",
+      "options": [
+        "A) All societies remain traditional",
+        "B) Societies progress from traditional to modern",
+        "C) Change is impossible",
+        "D) Only Western societies modernize"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b0187d25ad3cde107730ad4273f840bdd57e2c1",
+      "sectionIndex": 2,
+      "question": "Urbanization refers to:",
+      "options": [
+        "A) Rural development",
+        "B) Movement of people to cities",
+        "C) Agricultural expansion",
+        "D) Population decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c03063efbb2c60adaa4dff8a8d95331cf4855b3",
+      "sectionIndex": 2,
+      "question": "Social change can be:",
+      "options": [
+        "A) Planned only",
+        "B) Unplanned only",
+        "C) Both planned and unplanned",
+        "D) Neither"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3b27ea8e40cee774d1c2cb316157e2cd8f96a160",
+      "sectionIndex": 2,
+      "question": "The process of globalization involves:",
+      "options": [
+        "A) Local isolation",
+        "B) Increased interconnectedness worldwide",
+        "C) Cultural preservation only",
+        "D) Economic decline"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1540c492cdefc97fe43352c450803694bcf7034",
+      "sectionIndex": 2,
+      "question": "Resistance to social change often comes from:",
+      "options": [
+        "A) Youth only",
+        "B) Vested interests and traditions",
+        "C) Education",
+        "D) Technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05abfc678c8ec609dd9272c3556579cc6be63aec",
+      "sectionIndex": 2,
+      "question": "Evolution in sociology refers to:",
+      "options": [
+        "A) Biological change",
+        "B) Gradual social development",
+        "C) Revolution",
+        "D) Stagnation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea12a1be2604a8c1af41ee48f92acd0cf5e02e04",
+      "sectionIndex": 2,
+      "question": "The impact of social media on society is an example of:",
+      "options": [
+        "A) Cultural lag",
+        "B) Technological social change",
+        "C) Traditional values",
+        "D) Social stagnation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "505e9d2eb4541f68f98d61b84b9904588dd139a4",
+      "sectionIndex": 2,
+      "question": "Population growth affects social change by:",
+      "options": [
+        "A) Having no impact",
+        "B) Creating pressure for resources and services",
+        "C) Reducing change",
+        "D) Eliminating culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bfd0ca2661e16ff1e8eb66dbe1a2a64effc4f52",
+      "sectionIndex": 2,
+      "question": "Educational expansion typically leads to:",
+      "options": [
+        "A) Social stagnation",
+        "B) Increased social mobility",
+        "C) Cultural decline",
+        "D) Economic recession"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0309e6024f208d05417a8bf9d94a5b1e7e2602bb",
+      "sectionIndex": 3,
+      "question": "Culture includes:",
+      "options": [
+        "A) Material objects only",
+        "B) Both material and non-material elements",
+        "C) Language only",
+        "D) Food only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b01f3b15c085d011f509ab74a783de4e2ae81104",
+      "sectionIndex": 3,
+      "question": "Socialization is the process of:",
+      "options": [
+        "A) Making friends",
+        "B) Learning cultural norms and values",
+        "C) Economic development",
+        "D) Political participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0f96d983c8fd2f3557de7e67b4de8c94a0b8c55",
+      "sectionIndex": 3,
+      "question": "The primary agent of socialization is:",
+      "options": [
+        "A) Media",
+        "B) Family",
+        "C) Government",
+        "D) Workplace"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0955aa2dd9e994bba6cc8f03e5f0a8c358fa1f29",
+      "sectionIndex": 3,
+      "question": "Ethnocentrism means:",
+      "options": [
+        "A) Appreciating all cultures",
+        "B) Judging other cultures by one's own standards",
+        "C) Cultural relativism",
+        "D) Having no culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cde7e380dbff75625045d0756b9dbcd847728b2d",
+      "sectionIndex": 3,
+      "question": "Cultural diffusion refers to:",
+      "options": [
+        "A) Cultural isolation",
+        "B) Spread of cultural elements between societies",
+        "C) Cultural destruction",
+        "D) Cultural stagnation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4745039012d4a183c57ca63d9336f26b0dd2719c",
+      "sectionIndex": 3,
+      "question": "Norms are:",
+      "options": [
+        "A) Laws only",
+        "B) Rules and expectations for behavior",
+        "C) Punishments",
+        "D) Rewards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ecc9fc3bf5518b80ef7f6e55dd0422ea6d5eedb",
+      "sectionIndex": 3,
+      "question": "Values in culture represent:",
+      "options": [
+        "A) Monetary worth",
+        "B) Shared beliefs about what is important",
+        "C) Rules only",
+        "D) Traditions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76eab58a5ab2143d11455528c234fa73002df282",
+      "sectionIndex": 3,
+      "question": "A subculture is:",
+      "options": [
+        "A) Inferior culture",
+        "B) Group with distinct patterns within larger culture",
+        "C) No culture",
+        "D) Dominant culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7a4511aea076d970487214a593117c26aba2d6c",
+      "sectionIndex": 3,
+      "question": "Cultural relativism means:",
+      "options": [
+        "A) All cultures are identical",
+        "B) Understanding cultures in their own context",
+        "C) One culture is superior",
+        "D) Cultures cannot be studied"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f085b7c33b86f3beb3d46f205fde341e6bfaf76c",
+      "sectionIndex": 3,
+      "question": "Language is important for culture because it:",
+      "options": [
+        "A) Has no relevance",
+        "B) Transmits and preserves culture",
+        "C) Prevents change",
+        "D) Isolates groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de8ccc7be6f3b65fb50ba553e6c13b4a92aeb664",
+      "sectionIndex": 3,
+      "question": "Resocialization occurs when:",
+      "options": [
+        "A) Nothing changes",
+        "B) People learn new norms for new situations",
+        "C) Culture disappears",
+        "D) Socialization fails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea480cd1e63cc449f478bfb70b40e3a0b25de113",
+      "sectionIndex": 3,
+      "question": "Gender socialization refers to:",
+      "options": [
+        "A) Biological differences",
+        "B) Learning gender roles and expectations",
+        "C) Genetic traits",
+        "D) Physical development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fab9fa7e4942d832622030b9537bede79208a23",
+      "sectionIndex": 3,
+      "question": "Peer groups influence socialization by:",
+      "options": [
+        "A) Having no effect",
+        "B) Providing alternative values and behaviors",
+        "C) Replacing family completely",
+        "D) Preventing development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "423103f5178157e53912b8dd3122c15e6c5e06d7",
+      "sectionIndex": 4,
+      "question": "The feudal system in Pakistan primarily affects:",
+      "options": [
+        "A) Urban areas only",
+        "B) Rural agricultural areas",
+        "C) Industrial sector",
+        "D) Service sector"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0a934a6a40cfe913371697a64b4908fbe6573bc",
+      "sectionIndex": 4,
+      "question": "Biradari system in Pakistan refers to:",
+      "options": [
+        "A) Political parties",
+        "B) Kinship-based social groups",
+        "C) Economic classes",
+        "D) Educational institutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09337778d3aceb81d325ccebfb36afc02b1a7184",
+      "sectionIndex": 4,
+      "question": "Major cause of poverty in Pakistan includes:",
+      "options": [
+        "A) Overpopulation only",
+        "B) Multiple factors including inequality and lack of resources",
+        "C) Too much wealth",
+        "D) Excessive development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68178d6e7c14fe836da3c9dbf8a59f776be91c1e",
+      "sectionIndex": 4,
+      "question": "Rural-urban migration in Pakistan is mainly due to:",
+      "options": [
+        "A) Tourism",
+        "B) Economic opportunities and services",
+        "C) Climate preferences",
+        "D) Government orders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "711ff9fab1454352505259e26cf9fd30e8cbc588",
+      "sectionIndex": 4,
+      "question": "The role of family in Pakistani society is:",
+      "options": [
+        "A) Minimal",
+        "B) Central to social structure",
+        "C) Declining completely",
+        "D) Only economic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea1f304edd5f236850f1e6bbc0179afe8dcdccb6",
+      "sectionIndex": 4,
+      "question": "Drug abuse in Pakistan is considered:",
+      "options": [
+        "A) Not a problem",
+        "B) A significant social problem",
+        "C) Only an individual issue",
+        "D) A Western problem only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4bc64f701a8cd6a47afa046cbd17fececb55d03",
+      "sectionIndex": 4,
+      "question": "Women's status in Pakistani society is affected by:",
+      "options": [
+        "A) Legal rights only",
+        "B) Cultural, religious, and economic factors",
+        "C) Education only",
+        "D) Western influence only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9322c17ff7255467e91ff895d2338d4d74d9abc",
+      "sectionIndex": 4,
+      "question": "The youth bulge in Pakistan refers to:",
+      "options": [
+        "A) Aging population",
+        "B) Large proportion of young people",
+        "C) Population decline",
+        "D) Gender imbalance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "666ada1c51c0ce2ee874e13edbb75a49ae24107f",
+      "sectionIndex": 4,
+      "question": "Terrorism in Pakistan has impacted:",
+      "options": [
+        "A) Military only",
+        "B) Overall social fabric and development",
+        "C) No significant impact",
+        "D) Tourism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "651e1c9bf76bcd84a8ca61b40d866dd511f3e7ca",
+      "sectionIndex": 4,
+      "question": "The caste system in Pakistan:",
+      "options": [
+        "A) Does not exist",
+        "B) Influences social stratification",
+        "C) Only affects Hindus",
+        "D) Is legally enforced"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78d6addf92d00d88cd0be71814d729df8d132898",
+      "sectionIndex": 4,
+      "question": "NGOs in Pakistan primarily work on:",
+      "options": [
+        "A) Profit making",
+        "B) Social development and welfare",
+        "C) Political campaigns",
+        "D) Military affairs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e87ad2a5d2bce454c9fab05abcb8ae548d786c5f",
+      "sectionIndex": 4,
+      "question": "Education in Pakistan faces challenges of:",
+      "options": [
+        "A) Over-funding",
+        "B) Access, quality, and inequality",
+        "C) Too many schools",
+        "D) Excessive literacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6114aaaa1e100f417becc895108e1a8a1513701",
+      "sectionIndex": 4,
+      "question": "The 18th Amendment affected Pakistan by:",
+      "options": [
+        "A) Centralizing power",
+        "B) Devolving powers to provinces",
+        "C) Creating new provinces",
+        "D) Eliminating provinces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0dbc8a4055279640bdb31028cdb1f8293c2517a",
+      "sectionIndex": 5,
+      "question": "Social control refers to:",
+      "options": [
+        "A) Military rule",
+        "B) Mechanisms to ensure conformity to norms",
+        "C) Economic policies",
+        "D) Educational curriculum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86e9aeda92fe139db4555105195b08f514ff7ce8",
+      "sectionIndex": 5,
+      "question": "Formal social control includes:",
+      "options": [
+        "A) Family pressure",
+        "B) Laws and legal system",
+        "C) Peer influence",
+        "D) Social customs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aaf9dd75d03dd104ba0f8f7df5724edcbb3a47b8",
+      "sectionIndex": 5,
+      "question": "Deviance is behavior that:",
+      "options": [
+        "A) Is always criminal",
+        "B) Violates social norms",
+        "C) Is always harmful",
+        "D) Never changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23045e2caf91517fef8a58ae3b0c58fb11988239",
+      "sectionIndex": 5,
+      "question": "Informal social control operates through:",
+      "options": [
+        "A) Courts only",
+        "B) Social pressure and sanctions",
+        "C) Written laws",
+        "D) Police force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da41e7d8eac605784e2ee77f2178936ea77050b7",
+      "sectionIndex": 5,
+      "question": "Labeling theory suggests:",
+      "options": [
+        "A) Labels have no effect",
+        "B) Being labeled deviant can lead to more deviance",
+        "C) All labels are positive",
+        "D) Society needs no labels"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "848a05ebd739a6605d0f33e5524b6e5d94a8c735",
+      "sectionIndex": 5,
+      "question": "Primary deviance refers to:",
+      "options": [
+        "A) Serious crimes only",
+        "B) Initial acts of rule breaking",
+        "C) Repeated offenses",
+        "D) Legal violations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff5ea55092c4debaf7751b4455f0a4f6dc98effe",
+      "sectionIndex": 5,
+      "question": "Social control mechanisms in Pakistan include:",
+      "options": [
+        "A) Western laws only",
+        "B) Mix of traditional and modern systems",
+        "C) No control systems",
+        "D) Only religious laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "675b4ddaa99885084815a267fe87fd8041539e74",
+      "sectionIndex": 5,
+      "question": "Juvenile delinquency refers to:",
+      "options": [
+        "A) Adult crime",
+        "B) Law violations by minors",
+        "C) School dropout",
+        "D) Family problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41adfe574ce6fe4450f6adb46cc6fe3c1526ce56",
+      "sectionIndex": 5,
+      "question": "Strain theory explains deviance as result of:",
+      "options": [
+        "A) Genetic factors",
+        "B) Gap between cultural goals and means",
+        "C) Mental illness only",
+        "D) Foreign influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b23f8bd8cfd594073ed0a2255570ea8aff36a70c",
+      "sectionIndex": 5,
+      "question": "Consequences of weak social control include:",
+      "options": [
+        "A) Perfect order",
+        "B) Increased deviance and disorder",
+        "C) Economic growth",
+        "D) Cultural development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b32ca9a09a6234c7c26cb09513b1f46394ee79a",
+      "sectionIndex": 5,
+      "question": "Rehabilitation of deviants aims to:",
+      "options": [
+        "A) Punish permanently",
+        "B) Reintegrate into society",
+        "C) Isolate forever",
+        "D) Ignore the problem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33556dcb8fd54557612c90a8a733f9fc0b0f3a6b",
+      "sectionIndex": 5,
+      "question": "Crime as a social problem requires:",
+      "options": [
+        "A) Individual solutions only",
+        "B) Comprehensive social approaches",
+        "C) Ignoring it",
+        "D) Harsher punishments only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c922d791c9ae8c175126fcf85fb88964ba0c2a8f",
+      "sectionIndex": 5,
+      "question": "The role of religion in social control is:",
+      "options": [
+        "A) Non-existent",
+        "B) Providing moral guidelines",
+        "C) Only punitive",
+        "D) Purely ceremonial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c2172995ac098968758cb708167fea19cbed771",
+      "sectionIndex": 6,
+      "question": "Social institutions are:",
+      "options": [
+        "A) Buildings only",
+        "B) Organized patterns meeting social needs",
+        "C) Government offices",
+        "D) Temporary groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9b4758e2b57859b4ad79ad5e31d1a8db0d8afcc",
+      "sectionIndex": 6,
+      "question": "The family as an institution provides:",
+      "options": [
+        "A) Economic support only",
+        "B) Multiple functions including socialization",
+        "C) No significant role",
+        "D) Entertainment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52b184a714f09765b9f954a02623ba2078a02ef6",
+      "sectionIndex": 6,
+      "question": "Education as a social institution serves to:",
+      "options": [
+        "A) Provide degrees only",
+        "B) Transmit knowledge and cultural values",
+        "C) Create unemployment",
+        "D) Maintain inequality only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd5011998e1890e29f51299472806790f47daffe",
+      "sectionIndex": 6,
+      "question": "Religion as a social institution offers:",
+      "options": [
+        "A) Rituals only",
+        "B) Meaning, community, and moral guidance",
+        "C) Economic benefits only",
+        "D) Political power only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b70ede798cf94b5103d7be8d403abcf7ad81e02",
+      "sectionIndex": 6,
+      "question": "The economic institution primarily deals with:",
+      "options": [
+        "A) Money only",
+        "B) Production and distribution of resources",
+        "C) Banking only",
+        "D) Shopping only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cf36e36e4a719ce5ae44571c4ebd2489abcfa22",
+      "sectionIndex": 6,
+      "question": "Political institutions in a democracy include:",
+      "options": [
+        "A) Military only",
+        "B) Legislature, executive, and judiciary",
+        "C) Monarchy",
+        "D) Dictatorship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a1aaa91391014807cd5eb7761a880c7edfbd12d",
+      "sectionIndex": 6,
+      "question": "Marriage as an institution regulates:",
+      "options": [
+        "A) Love only",
+        "B) Family formation and social relationships",
+        "C) Economic transactions only",
+        "D) Religious practices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e18fabfa9a2a157fff54e9af503d859d9ea2fe93",
+      "sectionIndex": 6,
+      "question": "Healthcare institutions aim to:",
+      "options": [
+        "A) Make profit only",
+        "B) Maintain public health and treat illness",
+        "C) Conduct research only",
+        "D) Train doctors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f7025c02fee38f53402db4773eb708e52dd2cd7",
+      "sectionIndex": 6,
+      "question": "Media as a social institution functions to:",
+      "options": [
+        "A) Entertain only",
+        "B) Inform, educate, and shape public opinion",
+        "C) Make money only",
+        "D) Spread rumors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "028a893a3a46480d2cbf8e61da961e4dad6c972d",
+      "sectionIndex": 6,
+      "question": "Legal institutions exist to:",
+      "options": [
+        "A) Punish only",
+        "B) Maintain order and justice",
+        "C) Create laws only",
+        "D) Employ lawyers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fafe9275111e32df88d66daf5f40e4f89118a1da",
+      "sectionIndex": 6,
+      "question": "Social institutions are interconnected, meaning:",
+      "options": [
+        "A) They work in isolation",
+        "B) Changes in one affect others",
+        "C) They have no relationship",
+        "D) They compete only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10543b10c1d949344f68fa2592be92db452dc6b4",
+      "sectionIndex": 7,
+      "question": "Functionalism views society as:",
+      "options": [
+        "A) Constant conflict",
+        "B) System of interconnected parts",
+        "C) Random collection",
+        "D) Unchangeable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e762cbfcf577b9f7bbcabd8bbb6519fbafca340b",
+      "sectionIndex": 7,
+      "question": "Conflict theory emphasizes:",
+      "options": [
+        "A) Social harmony",
+        "B) Competition for resources and power",
+        "C) Individual psychology",
+        "D) Cultural unity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc35744563626f96abc8d49bee1c7bfe33068356",
+      "sectionIndex": 7,
+      "question": "Symbolic interactionism focuses on:",
+      "options": [
+        "A) Large-scale structures",
+        "B) Face-to-face interactions and meanings",
+        "C) Economic systems",
+        "D) Political power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d48f6b7e9a2a926c16f8869495f364de84778dd2",
+      "sectionIndex": 7,
+      "question": "Structural functionalism suggests social problems arise from:",
+      "options": [
+        "A) Individual failures only",
+        "B) Dysfunction in social systems",
+        "C) Too much order",
+        "D) Lack of conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2b0237e86a907f87b316f23857db29867c86ef9",
+      "sectionIndex": 7,
+      "question": "The Frankfurt School is associated with:",
+      "options": [
+        "A) Functionalism",
+        "B) Critical theory",
+        "C) Symbolic interactionism",
+        "D) Positivism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70eba315509df1382ec97d3489dac733994f3b9d",
+      "sectionIndex": 7,
+      "question": "Postmodernism in sociology challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Grand narratives and absolute truths",
+        "C) Small-scale research",
+        "D) Empirical methods only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5855e79ab53e3db0a6a932c5fc1d890840fedd0c",
+      "sectionIndex": 7,
+      "question": "G.H. Mead contributed to:",
+      "options": [
+        "A) Conflict theory",
+        "B) Symbolic interactionism",
+        "C) Functionalism",
+        "D) Marxism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "718ea33eb830b76e8470f91d792425e6d0e73c55",
+      "sectionIndex": 7,
+      "question": "Social action theory was developed by:",
+      "options": [
+        "A) Durkheim",
+        "B) Weber",
+        "C) Marx",
+        "D) Comte"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccde70db4ff75d9b7618ee52878e4def39a5c1cc",
+      "sectionIndex": 7,
+      "question": "Feminist theory in sociology examines:",
+      "options": [
+        "A) Women only",
+        "B) Gender inequality and power relations",
+        "C) Men only",
+        "D) Biology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b30f53c3e4fc5ef588720fda3ed73819c28de33",
+      "sectionIndex": 7,
+      "question": "Rational choice theory assumes people:",
+      "options": [
+        "A) Are irrational",
+        "B) Make calculated decisions",
+        "C) Follow emotions only",
+        "D) Have no choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a94a4ca78ab7c1c37ef51ccbd5cf863265babfc",
+      "sectionIndex": 7,
+      "question": "Contemporary sociology increasingly focuses on:",
+      "options": [
+        "A) Single perspectives only",
+        "B) Multiple perspectives and interdisciplinary approaches",
+        "C) Rejecting all theory",
+        "D) Historical analysis only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

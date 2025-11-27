@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:56:39.784Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "6cfbbf3b355f0e5d8675932493838b4fdab656f5",
+      "sectionIndex": 0,
+      "question": "The difference between material and formal sources of international law is:",
+      "options": [
+        "A) Material sources are binding, formal are not",
+        "B) Material sources explain origin, formal sources are legally binding",
+        "C) No difference exists",
+        "D) Material sources are treaties only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62afdb0cd21b0a060ddbfa2738d40d6fe89c553d",
+      "sectionIndex": 0,
+      "question": "According to positivist theory, international law derives from:",
+      "options": [
+        "A) Natural law",
+        "B) Divine law",
+        "C) State consent and practice",
+        "D) Moral principles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0fed623732af4dd8292933413dd95d384f9a5f68",
+      "sectionIndex": 0,
+      "question": "The persistent objector rule allows states to:",
+      "options": [
+        "A) Veto any custom",
+        "B) Opt out of emerging customary law if consistently objected",
+        "C) Change existing customs",
+        "D) Create new customs unilaterally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2251b36416542f425455ee4a82219d21d37e8f02",
+      "sectionIndex": 0,
+      "question": "Jus cogens norms can be modified by:",
+      "options": [
+        "A) Any treaty",
+        "B) Security Council",
+        "C) Subsequent peremptory norm only",
+        "D) State practice"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cfee03d6ec30811f6565095792c098a9d6b3e2fc",
+      "sectionIndex": 0,
+      "question": "The relationship between treaties and custom when both exist:",
+      "options": [
+        "A) Treaty always prevails",
+        "B) Custom always prevails",
+        "C) Lex specialis and lex posterior principles apply",
+        "D) Neither prevails"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b2775ac535e9c3906643bc859ffddf67c3a5e22d",
+      "sectionIndex": 0,
+      "question": "Regional custom requires:",
+      "options": [
+        "A) Global acceptance",
+        "B) Regional state practice and opinio juris",
+        "C) UN approval",
+        "D) ICJ decision"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0a5a32efc371aa86208ab9bbd770ac085f495a5",
+      "sectionIndex": 0,
+      "question": "Soft law instruments influence hard law through:",
+      "options": [
+        "A) Direct enforcement",
+        "B) Crystallizing into custom or informing treaties",
+        "C) Replacing treaties",
+        "D) Automatic binding effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82fb870c56a095da8e86d2b2f75b28c5e7373c08",
+      "sectionIndex": 0,
+      "question": "The Lotus principle establishes:",
+      "options": [
+        "A) States can't act internationally",
+        "B) What isn't prohibited is permitted",
+        "C) Everything is prohibited",
+        "D) Consent isn't required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5628d7409aeb1471302e2543179b1829a86dfda5",
+      "sectionIndex": 0,
+      "question": "Article 53 of Vienna Convention defines jus cogens as norms:",
+      "options": [
+        "A) Accepted by some states",
+        "B) Accepted and recognized by international community as whole",
+        "C) Created by UN",
+        "D) Established by ICJ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d08c3f55333e051ae12a775eb3622640c743c795",
+      "sectionIndex": 0,
+      "question": "Subsidiary sources under Article 38(1)(d) are used:",
+      "options": [
+        "A) As primary law",
+        "B) To determine rules of law",
+        "C) Instead of treaties",
+        "D) To override custom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bfbba8613c04d083e4a2eca9c377128711764ca",
+      "sectionIndex": 1,
+      "question": "The constitutive theory of recognition means:",
+      "options": [
+        "A) Recognition creates statehood",
+        "B) Recognition confirms existing statehood",
+        "C) Recognition is optional",
+        "D) Recognition is automatic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2f515e7b46987a4c307215dfcf4f3a42f886833c",
+      "sectionIndex": 1,
+      "question": "The declaratory theory suggests:",
+      "options": [
+        "A) Recognition creates states",
+        "B) Statehood exists independently of recognition",
+        "C) UN membership required",
+        "D) Recognition is mandatory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d902e9eeac675acb42360442ed3116f37110c5a9",
+      "sectionIndex": 1,
+      "question": "Premature recognition of a secessionist entity constitutes:",
+      "options": [
+        "A) Valid recognition",
+        "B) Intervention in domestic affairs",
+        "C) Humanitarian act",
+        "D) Customary practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e52b66b0c5fe1e04fc038e52adfa0e9266e3da72",
+      "sectionIndex": 1,
+      "question": "The Estrada Doctrine advocates:",
+      "options": [
+        "A) Explicit recognition",
+        "B) Non-recognition policy",
+        "C) Automatic recognition of governments",
+        "D) Conditional recognition"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "78f73caca9601f2aaa647880a4897e34f68fed20",
+      "sectionIndex": 1,
+      "question": "State succession rules differ for:",
+      "options": [
+        "A) All situations equally",
+        "B) Decolonization vs. separation vs. dissolution",
+        "C) No differences exist",
+        "D) Only treaty succession"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca13204cbd280b3c6966ad1cd4fec7c7b14f30c6",
+      "sectionIndex": 1,
+      "question": "The clean slate doctrine applies primarily to:",
+      "options": [
+        "A) All state succession",
+        "B) Newly independent states",
+        "C) Merger of states",
+        "D) Government changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85c0f9ccf534d34b90e981264d83e80f7ccf8925",
+      "sectionIndex": 1,
+      "question": "Sovereignty in the 21st century is:",
+      "options": [
+        "A) Absolute",
+        "B) Limited by international obligations",
+        "C) Increasing",
+        "D) Irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "149879eb524a358dd3224153a011ef3c947f5503",
+      "sectionIndex": 1,
+      "question": "The Responsibility to Protect (R2P) challenges sovereignty by:",
+      "options": [
+        "A) Eliminating it",
+        "B) Allowing intervention for mass atrocities",
+        "C) Strengthening it",
+        "D) Ignoring it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d0d2fa23b6e12478e81be3c42c08cceb7a89027",
+      "sectionIndex": 1,
+      "question": "Failed states raise questions about:",
+      "options": [
+        "A) Continued sovereignty despite ineffective control",
+        "B) Automatic termination",
+        "C) UN trusteeship",
+        "D) Mandatory intervention"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e8ff73f8a554618429a945a004febc67bd480c4f",
+      "sectionIndex": 1,
+      "question": "The Montevideo criteria are:",
+      "options": [
+        "A) Exhaustive requirements",
+        "B) Minimum requirements",
+        "C) Optional guidelines",
+        "D) Outdated principles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e52b59cdcaa2c34ff5b948e13f876f202905cf5",
+      "sectionIndex": 2,
+      "question": "The effects doctrine allows jurisdiction over:",
+      "options": [
+        "A) Acts abroad with domestic effects",
+        "B) Only domestic acts",
+        "C) No foreign acts",
+        "D) All global acts"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5dc766f9ddc165b12dc045e0309bfb659843841c",
+      "sectionIndex": 2,
+      "question": "Universal jurisdiction applies to:",
+      "options": [
+        "A) All crimes",
+        "B) Crimes of universal concern (genocide, piracy)",
+        "C) Civil matters",
+        "D) Commercial disputes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "374d0ba8078ba4ffbadf147c9132a27443cd53f6",
+      "sectionIndex": 2,
+      "question": "The Lotus Case established that jurisdiction:",
+      "options": [
+        "A) Is unlimited",
+        "B) Requires permissive rule",
+        "C) Exists unless prohibited",
+        "D) Is territorial only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "72232f571ae22a93ad3a53185218a58fd0c46aed",
+      "sectionIndex": 2,
+      "question": "Diplomatic immunity ratione personae covers:",
+      "options": [
+        "A) Official acts only",
+        "B) All acts during tenure",
+        "C) Past acts only",
+        "D) Future acts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa70ef47ad5a8c10e9543b9711ebae253e40cb5a",
+      "sectionIndex": 2,
+      "question": "Immunity ratione materiae:",
+      "options": [
+        "A) Ends with office",
+        "B) Continues for official acts",
+        "C) Covers personal acts",
+        "D) Never ends"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba4be7322d77d6fec6daaf71b81a663e3aad4324",
+      "sectionIndex": 2,
+      "question": "The Pinochet Case established:",
+      "options": [
+        "A) Absolute immunity for heads of state",
+        "B) No immunity for international crimes",
+        "C) Enhanced immunity",
+        "D) Retroactive immunity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57b0752283d23135937281fe2eeec3acc06ca95d",
+      "sectionIndex": 2,
+      "question": "Commercial exception to state immunity means:",
+      "options": [
+        "A) No immunity for any economic activity",
+        "B) No immunity for commercial acts (acta jure gestionis)",
+        "C) Full immunity retained",
+        "D) Partial immunity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8ed95e5209fac565f7995f9d493afc4eac84ecb",
+      "sectionIndex": 2,
+      "question": "The Arrest Warrant Case (Congo v Belgium) held:",
+      "options": [
+        "A) No immunity for international crimes",
+        "B) Immunity for incumbent foreign ministers",
+        "C) Universal jurisdiction prevails",
+        "D) Immunity is outdated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2fc62fc8c3b891352c77d227a189fda0ffee6e2",
+      "sectionIndex": 2,
+      "question": "Functional necessity theory justifies immunity based on:",
+      "options": [
+        "A) State dignity",
+        "B) Need to perform functions",
+        "C) Historical practice",
+        "D) Reciprocity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e0b8f257dbe90207f3e99ba36f6430b963150e8",
+      "sectionIndex": 2,
+      "question": "Waiver of immunity must be:",
+      "options": [
+        "A) Implied",
+        "B) Express and by sending state",
+        "C) By receiving state",
+        "D) Automatic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0457d84068cc5226ea519235dfbc4dfd61b56d94",
+      "sectionIndex": 3,
+      "question": "The difference between innocent and transit passage:",
+      "options": [
+        "A) No difference",
+        "B) Transit passage allows submerged submarines",
+        "C) Innocent passage is faster",
+        "D) Transit passage in territorial sea"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "785bd59cc66f1b11a2253fec63da85e224442c81",
+      "sectionIndex": 3,
+      "question": "Archipelagic waters are:",
+      "options": [
+        "A) High seas",
+        "B) Internal waters of archipelagic states",
+        "C) International straits",
+        "D) Territorial seas"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01a452e4c15048598eafcd8ed09cf30d1d407fe6",
+      "sectionIndex": 3,
+      "question": "The Area under UNCLOS refers to:",
+      "options": [
+        "A) EEZ",
+        "B) Deep seabed beyond national jurisdiction",
+        "C) Continental shelf",
+        "D) Territorial sea"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90c096b055e330d5daf2b5eb226642a05e7990c9",
+      "sectionIndex": 3,
+      "question": "Hot pursuit must:",
+      "options": [
+        "A) Begin in internal waters only",
+        "B) Be continuous and begin in coastal state waters",
+        "C) End at boundary",
+        "D) Use force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff10199f4790530cbfaa2cdcdb863aefa7d164fe",
+      "sectionIndex": 3,
+      "question": "Continental shelf rights exist:",
+      "options": [
+        "A) Only after declaration",
+        "B) Ipso facto and ab initio",
+        "C) After delimitation",
+        "D) With UN approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60658dd55cedb6394e163bda0a0b22976a03eb7b",
+      "sectionIndex": 3,
+      "question": "UNCLOS dispute settlement includes:",
+      "options": [
+        "A) ICJ only",
+        "B) ITLOS, arbitration, ICJ options",
+        "C) No mechanism",
+        "D) Security Council"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d3c5a4c1cd1079d49d094ed9e0b36c640f4c56c",
+      "sectionIndex": 3,
+      "question": "Marine scientific research in EEZ requires:",
+      "options": [
+        "A) No permission",
+        "B) Coastal state consent",
+        "C) UN approval",
+        "D) Payment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "108d289a8d996ee69dc1676a6b82b1bc44000f2d",
+      "sectionIndex": 3,
+      "question": "Historic waters claims must demonstrate:",
+      "options": [
+        "A) Recent use",
+        "B) Long usage, effectiveness, acquiescence",
+        "C) UN recognition",
+        "D) Treaty basis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49fb8154596e2bdddf113caa5cff527797b3a6a8",
+      "sectionIndex": 3,
+      "question": "Straight baselines can be used when:",
+      "options": [
+        "A) Always",
+        "B) Coastline deeply indented or fringe of islands",
+        "C) For convenience",
+        "D) To extend territory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4150940d93e5159edbe22e861656030b4c41325",
+      "sectionIndex": 3,
+      "question": "Freedom of high seas excludes:",
+      "options": [
+        "A) Navigation",
+        "B) Fishing",
+        "C) Sovereignty claims",
+        "D) Scientific research"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b41c06195a676ccaaf8e124547bd8bf818723f46",
+      "sectionIndex": 4,
+      "question": "A treaty conflict between parties to both treaties is resolved by:",
+      "options": [
+        "A) Voiding both",
+        "B) Lex posterior and lex specialis principles",
+        "C) ICJ decision required",
+        "D) First treaty prevails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b50f0850cca94840f106a22f5673e15db78b7bd8",
+      "sectionIndex": 4,
+      "question": "Treaty interpretation under Articles 31-32 VCLT follows:",
+      "options": [
+        "A) Literal approach only",
+        "B) Ordinary meaning in context and object/purpose",
+        "C) Preparatory works primarily",
+        "D) State preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38ecf0f2b0bb10bf029ce4881d3e543bae16abf8",
+      "sectionIndex": 4,
+      "question": "Invalid consent to treaty includes:",
+      "options": [
+        "A) All diplomatic pressure",
+        "B) Coercion of state or representative",
+        "C) Economic pressure",
+        "D) Political influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4132e5ae67c88c9186395693d90b9bda5de74c83",
+      "sectionIndex": 4,
+      "question": "Fundamental change of circumstances requires:",
+      "options": [
+        "A) Any change",
+        "B) Unforeseen change to essential basis",
+        "C) Minor inconvenience",
+        "D) Economic difficulty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23a81ba555614332f2709f2b52c41deae58eaa11",
+      "sectionIndex": 4,
+      "question": "Treaty amendment differs from modification in:",
+      "options": [
+        "A) No difference",
+        "B) Amendment affects all parties, modification inter se",
+        "C) Procedure only",
+        "D) Legal effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "640aec71a14a0e7ab8b0fbd3b8f45b92bce37922",
+      "sectionIndex": 4,
+      "question": "Provisional application of treaties:",
+      "options": [
+        "A) Is binding",
+        "B) Creates no obligations",
+        "C) Requires all signatures",
+        "D) Is permanent"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "405df28418a83c18e0746a0352c42e37ec1ea3eb",
+      "sectionIndex": 4,
+      "question": "Third states and treaties (pacta tertiis rule):",
+      "options": [
+        "A) Are automatically bound",
+        "B) Not bound without consent",
+        "C) Bound if beneficial",
+        "D) Never affected"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1910312826b463593ef16c14f08d4f96928986ad",
+      "sectionIndex": 4,
+      "question": "Treaties creating objective regimes:",
+      "options": [
+        "A) Bind third states",
+        "B) Create erga omnes obligations",
+        "C) Both possible in specific cases",
+        "D) Are invalid"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b243cfe6e54c147b78b989fe437a7fab0602ac1a",
+      "sectionIndex": 4,
+      "question": "The Vienna Convention on Treaties applies to:",
+      "options": [
+        "A) All agreements",
+        "B) Written treaties between states",
+        "C) Oral agreements",
+        "D) Private contracts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2072958b46cd60928e4af969e3516b6c75e089cc",
+      "sectionIndex": 4,
+      "question": "Successive treaties on same subject with different parties create:",
+      "options": [
+        "A) Automatic invalidity",
+        "B) Complex priority rules under Article 30",
+        "C) No conflict",
+        "D) UN intervention"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db2ba75f051dc15e56f28d0ba269ad7d70f8c95b",
+      "sectionIndex": 5,
+      "question": "The Nicaragua Case established that self-defense requires:",
+      "options": [
+        "A) Any threat",
+        "B) Armed attack of sufficient gravity",
+        "C) Security Council approval",
+        "D) Regional authorization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13b38a563c1a31eda9f415c10da4ecff55d3331b",
+      "sectionIndex": 5,
+      "question": "Anticipatory self-defense under Caroline criteria requires:",
+      "options": [
+        "A) Imminent threat leaving no choice",
+        "B) Any future threat",
+        "C) Certainty of attack",
+        "D) UN approval"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8208b5c67b25114cfca43aec7dcb69a6c53f3ae6",
+      "sectionIndex": 5,
+      "question": "Non-state actors and self-defense post-9/11:",
+      "options": [
+        "A) No self-defense allowed",
+        "B) Self-defense if state harbors/supports",
+        "C) Unlimited response",
+        "D) Only law enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "570e295744cdcea982b172528de1a275f1f7678c",
+      "sectionIndex": 5,
+      "question": "Humanitarian intervention without UN authorization is:",
+      "options": [
+        "A) Clearly legal",
+        "B) Illegal but sometimes legitimate debate",
+        "C) Always permitted",
+        "D) Prohibited absolutely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4e667cc1df5339dd55bd781aad5e2535de572dc",
+      "sectionIndex": 5,
+      "question": "Security Council authorization under Chapter VII requires:",
+      "options": [
+        "A) Unanimous vote",
+        "B) 9 votes including P5 concurrence",
+        "C) Simple majority",
+        "D) No voting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf4e4fbb97336e473becd5b0a8b8b9757301454f",
+      "sectionIndex": 5,
+      "question": "Regional organizations can use force:",
+      "options": [
+        "A) Freely",
+        "B) Only with Security Council authorization",
+        "C) Never",
+        "D) Against members only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1159869da7f643865c56c86b72d2a07d2589a1f",
+      "sectionIndex": 5,
+      "question": "Peacekeeping vs. peace enforcement differs in:",
+      "options": [
+        "A) Cost only",
+        "B) Consent and use of force",
+        "C) Duration",
+        "D) UN involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3b3a0223e3a7e874f401388d9271e749aea7cac",
+      "sectionIndex": 5,
+      "question": "The Uniting for Peace Resolution allows:",
+      "options": [
+        "A) General Assembly to override veto",
+        "B) GA recommendations when SC blocked",
+        "C) Automatic intervention",
+        "D) Individual state action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50bfd4c25a8db424f4c4c56e3cb4301bdbefce0b",
+      "sectionIndex": 5,
+      "question": "Cyber attacks trigger self-defense when:",
+      "options": [
+        "A) Any cyber intrusion",
+        "B) Effects equivalent to armed attack",
+        "C) Never",
+        "D) Economic damage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3aa1eab0d58702881a62422b1f8e6d88de88ae4f",
+      "sectionIndex": 5,
+      "question": "Collective self-defense requires:",
+      "options": [
+        "A) Prior treaty only",
+        "B) Request from victim state",
+        "C) Regional approval",
+        "D) No conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45cdb68165cde857b3d9b5f823c1f95c29ff9efe",
+      "sectionIndex": 6,
+      "question": "The difference between good offices and mediation:",
+      "options": [
+        "A) No difference",
+        "B) Good offices facilitate, mediation proposes solutions",
+        "C) Mediation is binding",
+        "D) Good offices are formal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ffd8136b5aec461811d7d256b0e7c1fa01179720",
+      "sectionIndex": 6,
+      "question": "ICJ compulsory jurisdiction under Article 36(2) requires:",
+      "options": [
+        "A) All states accept",
+        "B) Optional clause declaration",
+        "C) UN membership",
+        "D) No declaration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "618e2dff0ffab6a02d378577986608998a96a367",
+      "sectionIndex": 6,
+      "question": "Forum prorogatum means:",
+      "options": [
+        "A) Chosen forum",
+        "B) Jurisdiction by subsequent consent",
+        "C) Exclusive jurisdiction",
+        "D) No jurisdiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdb1481299efc42e973874388d0ee737a4020799",
+      "sectionIndex": 6,
+      "question": "Advisory opinions differ from contentious cases:",
+      "options": [
+        "A) Not binding vs. binding on parties",
+        "B) Same effect",
+        "C) More authoritative",
+        "D) Less reasoned"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "62a46e467d7f85153c69aa2ee07090c441180a99",
+      "sectionIndex": 6,
+      "question": "Provisional measures by ICJ:",
+      "options": [
+        "A) Are suggestions",
+        "B) Are binding (LaGrand Case)",
+        "C) Require compliance by third states",
+        "D) Are never urgent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5563862d9247ddfad3eec2e7f1db7805492e8e7e",
+      "sectionIndex": 6,
+      "question": "Arbitral awards can be challenged for:",
+      "options": [
+        "A) Any error",
+        "B) Excess jurisdiction, corruption, procedure",
+        "C) Disagreement",
+        "D) New evidence always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54c59670b4c473f122e55e7e2387b03edf01a2b1",
+      "sectionIndex": 6,
+      "question": "ITLOS jurisdiction includes:",
+      "options": [
+        "A) All maritime disputes",
+        "B) UNCLOS disputes with consent",
+        "C) Automatic jurisdiction",
+        "D) Advisory only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b87ed965ffab8b3b5d6a230f9ab5996655ff6c3",
+      "sectionIndex": 6,
+      "question": "Diplomatic protection requires:",
+      "options": [
+        "A) Nationality link only",
+        "B) Nationality and exhaustion of local remedies",
+        "C) UN approval",
+        "D) ICJ permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5206828bd9e3c81a74e7fa6e871fe2c11159a6d",
+      "sectionIndex": 6,
+      "question": "The Nottebohm Case established:",
+      "options": [
+        "A) Nationality is absolute",
+        "B) Genuine link required for diplomatic protection",
+        "C) Dual nationality prohibited",
+        "D) State discretion unlimited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bd8e0c770131c7cdb3bf25f769e2b95e5bcc84f",
+      "sectionIndex": 6,
+      "question": "Fact-finding commissions:",
+      "options": [
+        "A) Make binding decisions",
+        "B) Establish facts for dispute resolution",
+        "C) Replace courts",
+        "D) Are mandatory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ce8d294d3902d29807ead70936996b293bbae52",
+      "sectionIndex": 7,
+      "question": "Attribution to state includes acts by:",
+      "options": [
+        "A) State organs only",
+        "B) Organs, de facto agents, instructed persons",
+        "C) All citizens",
+        "D) Government only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "062653cc0d031deef9361e68ca5f7988884da182",
+      "sectionIndex": 7,
+      "question": "Ultra vires acts by state organs:",
+      "options": [
+        "A) Never attributable",
+        "B) Attributable if apparent authority",
+        "C) Always private",
+        "D) Require authorization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "953ecead462a428e75199fa5a1f0c4aaf7f89bcd",
+      "sectionIndex": 7,
+      "question": "The ILC Articles on State Responsibility are:",
+      "options": [
+        "A) A binding treaty",
+        "B) Codification of customary law",
+        "C) Optional guidelines",
+        "D) Academic work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7e9456f2a369e8091826c9966f99dfa40f5170a",
+      "sectionIndex": 7,
+      "question": "Serious breaches of jus cogens obligations require:",
+      "options": [
+        "A) Normal reparation",
+        "B) Non-recognition and non-assistance",
+        "C) No special consequences",
+        "D) UN action only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2220b72cc2df9b14789d157bd477891c5c3a0c4",
+      "sectionIndex": 7,
+      "question": "Countermeasures must be:",
+      "options": [
+        "A) Punitive",
+        "B) Proportionate and reversible",
+        "C) Military",
+        "D) Permanent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bf00f67da38a97f5c13b9a617ef612090d25a64",
+      "sectionIndex": 7,
+      "question": "The Chorzów Factory principle requires:",
+      "options": [
+        "A) Punishment",
+        "B) Full reparation wiping out consequences",
+        "C) Apology only",
+        "D) Minimal compensation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43486f26c622fe0f56ebe0b32592e0335b298880",
+      "sectionIndex": 7,
+      "question": "Satisfaction as reparation includes:",
+      "options": [
+        "A) Money only",
+        "B) Acknowledgment, apology, guarantees",
+        "C) Territory",
+        "D) Force"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60fdf7f2bd4e4ee4b1b600b470de7a71c0092d90",
+      "sectionIndex": 7,
+      "question": "Contributory fault by injured state:",
+      "options": [
+        "A) Bars all claims",
+        "B) Reduces reparation proportionately",
+        "C) Is irrelevant",
+        "D) Transfers responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "016f68b82cfe2e13be8a602dc365bd637610b216",
+      "sectionIndex": 7,
+      "question": "Force majeure requires:",
+      "options": [
+        "A) Any difficulty",
+        "B) Irresistible force or unforeseen event",
+        "C) State choice",
+        "D) UN declaration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f96ee2c83b6b7994b7d08a88d214c55c24d993ec",
+      "sectionIndex": 7,
+      "question": "Necessity as a defense requires:",
+      "options": [
+        "A) Any state interest",
+        "B) Essential interest and grave peril",
+        "C) Economic benefit",
+        "D) Political advantage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9817262d9de0ae71badbf3f46a498373cef9d567",
+      "sectionIndex": 8,
+      "question": "International organizations' legal personality means:",
+      "options": [
+        "A) Same as states",
+        "B) Functional personality for objectives",
+        "C) No legal capacity",
+        "D) Unlimited powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df3083c96b38fc72658a23c992d0eedc37c8aab2",
+      "sectionIndex": 8,
+      "question": "The Reparations Advisory Opinion established:",
+      "options": [
+        "A) No UN legal personality",
+        "B) UN has international legal personality",
+        "C) Only states have personality",
+        "D) Limited to headquarters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86bd30c612df449eea39b75607649324ab828c91",
+      "sectionIndex": 8,
+      "question": "Implied powers doctrine means IOs have:",
+      "options": [
+        "A) All powers",
+        "B) Powers necessary for functions",
+        "C) Only express powers",
+        "D) No limits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98c6e0f480f2db6297dfca1718ee78067219258e",
+      "sectionIndex": 8,
+      "question": "IO privileges and immunities are based on:",
+      "options": [
+        "A) Sovereignty",
+        "B) Functional necessity",
+        "C) Courtesy",
+        "D) Politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27a62b40bd8a97750073f6be8fde4c2705960bb5",
+      "sectionIndex": 8,
+      "question": "Ultra vires acts by IOs:",
+      "options": [
+        "A) Are always void",
+        "B) May bind if apparent authority",
+        "C) Never challenged",
+        "D) Always valid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e2bd8e7d2bccd6e592a7fdef6eff5729f950007",
+      "sectionIndex": 8,
+      "question": "UN Security Council decisions can be reviewed by:",
+      "options": [
+        "A) ICJ freely",
+        "B) Limited review for ultra vires",
+        "C) Never reviewed",
+        "D) General Assembly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40f6bfe16c6eb76a53fd6c2e641565b3c4909af3",
+      "sectionIndex": 8,
+      "question": "Regional organizations' relationship to UN:",
+      "options": [
+        "A) Independent",
+        "B) Chapter VIII subordination for force",
+        "C) Superior",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06b8b5c8f47e367bdaf91612236bb16b23ea7a5a",
+      "sectionIndex": 8,
+      "question": "International civil service principles include:",
+      "options": [
+        "A) National loyalty",
+        "B) Independence and impartiality",
+        "C) Home state control",
+        "D) Political activity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2996f37de2ae58bc4fcccc52b2f95b9e6e86755a",
+      "sectionIndex": 8,
+      "question": "Treaty-making by IOs:",
+      "options": [
+        "A) Prohibited",
+        "B) Within competence",
+        "C) Unlimited",
+        "D) Requires state approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dfb3c01ca7b1d57f27ccc02c8961a099a675790",
+      "sectionIndex": 8,
+      "question": "Dissolution of IOs:",
+      "options": [
+        "A) Automatic",
+        "B) By constituent instrument or members",
+        "C) UN decision",
+        "D) Never possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd438c2806f59f271ae850e357c85edcd9406a68",
+      "sectionIndex": 9,
+      "question": "Cyberspace sovereignty means:",
+      "options": [
+        "A) No state control",
+        "B) Territorial jurisdiction over infrastructure",
+        "C) Complete freedom",
+        "D) UN control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e082c4b86c942886572fec7a0e232a437b66083",
+      "sectionIndex": 9,
+      "question": "Climate change and state responsibility:",
+      "options": [
+        "A) No obligation",
+        "B) Due diligence and harm prevention",
+        "C) Absolute liability",
+        "D) Voluntary only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c41146377e3b4970255d993b2c66ceb0d72afaa3",
+      "sectionIndex": 9,
+      "question": "R2P's three pillars are:",
+      "options": [
+        "A) Prevent, react, rebuild",
+        "B) State duty, assistance, intervention",
+        "C) Military only",
+        "D) Economic measures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c313cea7085feef6533d08c694acf75039f42ea8",
+      "sectionIndex": 9,
+      "question": "Universal jurisdiction for international crimes:",
+      "options": [
+        "A) Requires territorial link",
+        "B) No traditional jurisdiction link needed",
+        "C) Needs victim nationality",
+        "D) Treaty requirement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be41084cc05297b993127fd7aa0d74e8e046982b",
+      "sectionIndex": 9,
+      "question": "Extraterritorial human rights obligations:",
+      "options": [
+        "A) Don't exist",
+        "B) Apply where state exercises control",
+        "C) Unlimited",
+        "D) Domestic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3871f994a92a6e4c89513822e9c2a4afda2a7a69",
+      "sectionIndex": 9,
+      "question": "Non-state actors in international law:",
+      "options": [
+        "A) No status",
+        "B) Limited rights and obligations emerging",
+        "C) Full subjects",
+        "D) Replace states"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e05e02f3b49f889b2fb53dacfa76e9cc077659e",
+      "sectionIndex": 9,
+      "question": "Hybrid courts combine:",
+      "options": [
+        "A) Civil and criminal",
+        "B) International and domestic elements",
+        "C) Multiple states",
+        "D) UN control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7619ac498e7802ac4a9790b0c9496c393d5e6ee0",
+      "sectionIndex": 9,
+      "question": "Transnational corporations' obligations:",
+      "options": [
+        "A) None",
+        "B) Emerging through soft law and treaties",
+        "C) Same as states",
+        "D) Voluntary only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cc096f4e73b1cbe5582e4999ee8d95b6c822002",
+      "sectionIndex": 9,
+      "question": "Indigenous peoples' rights include:",
+      "options": [
+        "A) Secession",
+        "B) Self-determination within states",
+        "C) No special rights",
+        "D) Automatic independence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad8eac60e37f53b0923e48f3d17cedf27eb8e73f",
+      "sectionIndex": 9,
+      "question": "Space law's res communis principle means:",
+      "options": [
+        "A) First come first served",
+        "B) Common heritage, no appropriation",
+        "C) State sovereignty",
+        "D) Commercial ownership"
+      ],
+      "correct": "B"
+    }
+  ]
+}

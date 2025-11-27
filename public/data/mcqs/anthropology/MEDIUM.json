@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T07:38:50.406Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "bce269cb7fae2514b8cc77999510c01a9e7c1414",
+      "sectionIndex": 0,
+      "question": "The main difference between qualitative and quantitative research methods in anthropology is:",
+      "options": [
+        "A) Qualitative is easier than quantitative",
+        "B) Qualitative seeks meaning and context while quantitative seeks statistical patterns",
+        "C) Only quantitative is scientific",
+        "D) They are essentially the same"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "08aea8ed4112377a8ee1ec345e759f2b7bca56e1",
+      "sectionIndex": 0,
+      "question": "Objectivity versus subjectivity in anthropological research reflects the tension between:",
+      "options": [
+        "A) Good and bad research",
+        "B) Scientific detachment and cultural understanding through empathy",
+        "C) Male and female researchers",
+        "D) Modern and traditional methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa3e3a9e37ce4b0e644fa1cea4eefe1fc0d54546",
+      "sectionIndex": 0,
+      "question": "The distinction between technique, method, and methodology in anthropology is:",
+      "options": [
+        "A) There is no difference",
+        "B) Technique is a tool, method is procedure, methodology is overall approach",
+        "C) They are interchangeable terms",
+        "D) Only methodology matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c405314192b98c722d8355835e4b48b3907ec59b",
+      "sectionIndex": 0,
+      "question": "Thick description, as proposed by Clifford Geertz, means:",
+      "options": [
+        "A) Writing long ethnographies",
+        "B) Detailed analysis of cultural meanings behind observed behaviors",
+        "C) Statistical analysis",
+        "D) Surface-level observation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9c95110fd8487dad6f94ab78f5706c117f2bb96",
+      "sectionIndex": 0,
+      "question": "The emic-etic distinction is important because:",
+      "options": [
+        "A) It shows insider versus outsider perspectives on culture",
+        "B) It is outdated",
+        "C) Only emic matters",
+        "D) Only etic is scientific"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f11066c4ef25a77651f589610e4d15595e298224",
+      "sectionIndex": 0,
+      "question": "Participant observation paradoxically requires:",
+      "options": [
+        "A) Complete detachment",
+        "B) Both involvement and analytical distance",
+        "C) No participation",
+        "D) Only observation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78ee08db2195fb070cc746534d8e665a98d77292",
+      "sectionIndex": 0,
+      "question": "Ethnographic present tense has been criticized because:",
+      "options": [
+        "A) It's grammatically incorrect",
+        "B) It presents cultures as unchanging and timeless",
+        "C) It's too modern",
+        "D) It's confusing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c32ac847ed98901cd8fb7fbd6ff20ba80fad1c8",
+      "sectionIndex": 0,
+      "question": "Reflexivity in anthropological research means:",
+      "options": [
+        "A) Using mirrors",
+        "B) Acknowledging how the researcher affects the research",
+        "C) Automatic responses",
+        "D) Quick thinking"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37a006456b347f50a7f5bc26772149879a28b398",
+      "sectionIndex": 0,
+      "question": "Multi-sited ethnography emerged in response to:",
+      "options": [
+        "A) Lack of funding",
+        "B) Globalization and transnational connections",
+        "C) Researcher preferences",
+        "D) Government requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f95e0768a347107fd38e2f0c15277676e3c71686",
+      "sectionIndex": 0,
+      "question": "The crisis of representation in anthropology refers to:",
+      "options": [
+        "A) Artistic problems",
+        "B) Questions about authority to speak for others",
+        "C) Photography issues",
+        "D) Map-making difficulties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2f258d8ea0204c03737a85631f63d53f24e4cf4",
+      "sectionIndex": 1,
+      "question": "Adaptive culture becomes maladaptive when:",
+      "options": [
+        "A) It never does",
+        "B) Previously beneficial traits become harmful in new conditions",
+        "C) People resist change",
+        "D) Technology advances"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d811d0e59dcd316cb94f55198911bbede00b6dfe",
+      "sectionIndex": 1,
+      "question": "Cultural relativism's main limitation is:",
+      "options": [
+        "A) It's too flexible",
+        "B) Potential inability to critique harmful practices",
+        "C) It's ethnocentric",
+        "D) It promotes change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f2f70264b70bea2b5372358c24447d8faf6873a",
+      "sectionIndex": 1,
+      "question": "Barriers to social change in traditional societies often include:",
+      "options": [
+        "A) Only economic factors",
+        "B) Complex interaction of values, social structure, and vested interests",
+        "C) Lack of technology only",
+        "D) Government policies only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66402c3f0ae01b684ef356ad9b1a3b0a97ea18cb",
+      "sectionIndex": 1,
+      "question": "Applied anthropology can best address contemporary problems by:",
+      "options": [
+        "A) Imposing solutions",
+        "B) Understanding cultural context before proposing culturally appropriate solutions",
+        "C) Ignoring local culture",
+        "D) Using only Western models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aec88834fd9772a26e5e1bb1d14bdcf4775548d0",
+      "sectionIndex": 1,
+      "question": "The relationship between ethnocentrism and cultural relativism is:",
+      "options": [
+        "A) They are the same",
+        "B) They represent opposing approaches to understanding culture",
+        "C) Both are equally valid",
+        "D) Neither is useful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fa3b6c357067a1e2b1cef1f1de9fca0bbf5c09f",
+      "sectionIndex": 1,
+      "question": "Cultural homogenization through globalization:",
+      "options": [
+        "A) Is complete worldwide",
+        "B) Faces resistance through local cultural adaptations",
+        "C) Only affects poor countries",
+        "D) Is always beneficial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebe73c6b2682d2f890a61a6a2b022d377d249b9c",
+      "sectionIndex": 1,
+      "question": "Enculturation differs from acculturation in that:",
+      "options": [
+        "A) They are identical",
+        "B) Enculturation is learning one's own culture, acculturation is cultural change through contact",
+        "C) Acculturation comes first",
+        "D) Only children experience enculturation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "852b3ba589632211c61caf3454087f99c2ee024b",
+      "sectionIndex": 1,
+      "question": "Culture responds to biological and psychological needs by:",
+      "options": [
+        "A) Ignoring them",
+        "B) Creating institutionalized ways to satisfy them",
+        "C) Suppressing them",
+        "D) Only addressing biological needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "293a6eda665d1f8bc32d465c3e7666540d0ee99f",
+      "sectionIndex": 1,
+      "question": "Social change in simple societies differs from complex societies in:",
+      "options": [
+        "A) Rate of change only",
+        "B) Sources, mechanisms, and consequences of change",
+        "C) No real difference",
+        "D) Simple societies don't change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce3b209e98a27f1677ac4b595819cf61dd02bdbb",
+      "sectionIndex": 1,
+      "question": "Cultural lag occurs when:",
+      "options": [
+        "A) Culture moves too fast",
+        "B) Material culture changes faster than non-material culture",
+        "C) All aspects change equally",
+        "D) Culture stops changing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3a7462c153bd47386670703f8628e67c001c088",
+      "sectionIndex": 2,
+      "question": "Kinship systems affect political allegiances by:",
+      "options": [
+        "A) Having no connection",
+        "B) Creating networks of obligation and support",
+        "C) Only in primitive societies",
+        "D) Through government laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78b176f0c94b8be6f86337bddefe38535424dfe6",
+      "sectionIndex": 2,
+      "question": "The difference between consanguine and affine relatives is:",
+      "options": [
+        "A) There is no difference",
+        "B) Blood relations versus relations through marriage",
+        "C) Close versus distant relatives",
+        "D) Living versus deceased relatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f844eec49a534ecd212e3c15717a360947647ee",
+      "sectionIndex": 2,
+      "question": "Patrilineal societies often correlate with:",
+      "options": [
+        "A) Gender equality",
+        "B) Male dominance and patrilocal residence",
+        "C) Matriarchal rule",
+        "D) No pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb4d3d639402c792057798982808f3f0633823af",
+      "sectionIndex": 2,
+      "question": "The function of exogamy rules is to:",
+      "options": [
+        "A) Limit marriage choices",
+        "B) Create alliances and prevent inbreeding",
+        "C) Keep wealth concentrated",
+        "D) Promote conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4557d3def40a797847db03d89418e49896fe2f63",
+      "sectionIndex": 2,
+      "question": "Kinship terminology systems reflect:",
+      "options": [
+        "A) Random naming",
+        "B) Social organization and cultural values",
+        "C) Biological relationships only",
+        "D) Universal patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c377849ee790c7cfc59e0cdd1f95b14eb52b69e",
+      "sectionIndex": 2,
+      "question": "The shift from extended to nuclear families often correlates with:",
+      "options": [
+        "A) Cultural decline",
+        "B) Industrialization and urbanization",
+        "C) Improved family relations",
+        "D) Government mandate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d899ae5c7382747d9f87c74609a24719eb3fd83",
+      "sectionIndex": 2,
+      "question": "Descent groups serve multiple functions including:",
+      "options": [
+        "A) Only naming children",
+        "B) Identity, property rights, and social support",
+        "C) Creating confusion",
+        "D) Limiting freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c23dd2ef81499be34b2b97971159862b64473b56",
+      "sectionIndex": 2,
+      "question": "Marriage rules and preferences reveal:",
+      "options": [
+        "A) Personal choice only",
+        "B) Social structure and cultural strategies",
+        "C) Random patterns",
+        "D) Biological imperatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9090fd1067e3872eed536411dc77509150d00ad7",
+      "sectionIndex": 2,
+      "question": "Kinship's role in Pakistan's socio-cultural life includes:",
+      "options": [
+        "A) Minor influence",
+        "B) Major influence on politics, economics, and social identity",
+        "C) Only naming patterns",
+        "D) Declining importance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c37ba7cde594b65264719e72b65d69d458ad0e6",
+      "sectionIndex": 2,
+      "question": "The manifest versus latent functions of family illustrate:",
+      "options": [
+        "A) No difference",
+        "B) Intended versus unintended consequences",
+        "C) Open versus hidden families",
+        "D) Modern versus traditional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4cbf1dfd2c9041c08537337c539f7a4045289ff",
+      "sectionIndex": 3,
+      "question": "The evolution from reciprocity to market exchange reflects:",
+      "options": [
+        "A) Simple progress",
+        "B) Increasing social complexity and role specialization",
+        "C) Moral decline",
+        "D) No real change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e88fac7e4c54950b5ea333a70a6ae4bf43969134",
+      "sectionIndex": 3,
+      "question": "Reciprocity differs from redistribution in:",
+      "options": [
+        "A) No significant way",
+        "B) Direct exchange versus centralized collection and reallocation",
+        "C) Being more primitive",
+        "D) Requiring money"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9601c798419d28cb66a762c256e1644b616f7fc5",
+      "sectionIndex": 3,
+      "question": "Primitive economic systems are characterized by:",
+      "options": [
+        "A) Lack of organization",
+        "B) Embedded economy within social relations",
+        "C) Pure self-interest",
+        "D) Market prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4848054a6a3e4a880e1450c4c0ca8272057d8f56",
+      "sectionIndex": 3,
+      "question": "The substantivist-formalist debate in economic anthropology concerns:",
+      "options": [
+        "A) Research methods",
+        "B) Whether economic theory applies universally or is culture-specific",
+        "C) Writing styles",
+        "D) Fieldwork locations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d44dade26fc4663d47430b84e7808442d6d06a74",
+      "sectionIndex": 3,
+      "question": "Gift exchange, as analyzed by Mauss, demonstrates:",
+      "options": [
+        "A) Simple generosity",
+        "B) Complex social obligations and relationship building",
+        "C) Economic inefficiency",
+        "D) Primitive thought"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fd907a649f704af63eb8708c507c4e7a12b1473",
+      "sectionIndex": 3,
+      "question": "The concept of \"embedded economy\" means:",
+      "options": [
+        "A) Hidden economy",
+        "B) Economic activities integrated within social institutions",
+        "C) Underground markets",
+        "D) Fixed prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8da7f3874201b5862b617eec835738cffed0f3f7",
+      "sectionIndex": 3,
+      "question": "Cultural production and consumption of commodities reveals:",
+      "options": [
+        "A) Only economic value",
+        "B) How objects carry cultural meanings and social relations",
+        "C) Waste",
+        "D) Efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "774ea7460574ae81fe1e0fe95e6535e2a487142b",
+      "sectionIndex": 3,
+      "question": "Modern market systems differ from traditional exchange in:",
+      "options": [
+        "A) Using money",
+        "B) Impersonal transactions and price mechanisms",
+        "C) Being more honest",
+        "D) Location only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d99948cfb05f9e91f3c508365b698733b957fa4f",
+      "sectionIndex": 3,
+      "question": "Economic systems relate to social stratification through:",
+      "options": [
+        "A) No connection",
+        "B) Differential access to resources and accumulation",
+        "C) Random distribution",
+        "D) Government control only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5eac9c763eead2e4858a85ef9db62a7261f632a1",
+      "sectionIndex": 3,
+      "question": "Food production systems influence social organization by:",
+      "options": [
+        "A) No influence",
+        "B) Determining settlement patterns, division of labor, and social hierarchy",
+        "C) Only providing nutrition",
+        "D) Through taste preferences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a64c73ae55385c92a9d27b3729332909989b6d06",
+      "sectionIndex": 4,
+      "question": "The progression from bands to states represents:",
+      "options": [
+        "A) Inevitable evolution",
+        "B) Increasing political complexity and centralization",
+        "C) Moral progress",
+        "D) No real change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bea3b37e80588d861dad48f4f1484225aa8727e8",
+      "sectionIndex": 4,
+      "question": "Conflict theory, particularly Marx's approach, emphasizes:",
+      "options": [
+        "A) Harmony",
+        "B) How economic relations create class struggle",
+        "C) Conflict avoidance",
+        "D) Individual conflicts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7617f0d807e6873dea7528d62b541590ee957ba8",
+      "sectionIndex": 4,
+      "question": "Internal versus external conflict theories differ in:",
+      "options": [
+        "A) No real difference",
+        "B) Focus on within-society versus between-society conflicts",
+        "C) Violence levels",
+        "D) Time periods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46867b7c29ce79fc9e7f67d4b431d48f889e516e",
+      "sectionIndex": 4,
+      "question": "Social stratification systems vary in:",
+      "options": [
+        "A) Name only",
+        "B) Basis of inequality, rigidity, and mobility possibilities",
+        "C) All being equal",
+        "D) Geographic location only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6dc6db4037d62dcd839df6a605d707ebe32a7080",
+      "sectionIndex": 4,
+      "question": "The relationship between kinship and political organization shows:",
+      "options": [
+        "A) No connection",
+        "B) How kinship provides basis for political authority in many societies",
+        "C) Opposition",
+        "D) Modern separation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f87fe670c97c97b2f65aa9ec8a9fa9d6625b717",
+      "sectionIndex": 4,
+      "question": "Bands differ from tribes primarily in:",
+      "options": [
+        "A) Location",
+        "B) Size, leadership structure, and social complexity",
+        "C) Time period",
+        "D) Language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7f685368524ee65e47d8936f44a51374724445b",
+      "sectionIndex": 4,
+      "question": "Chiefdoms represent a transitional form because:",
+      "options": [
+        "A) They are temporary",
+        "B) They combine kinship organization with emergent hierarchy",
+        "C) They are fictional",
+        "D) They exist everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "444b388f49fa05ac76a6df9453c8998fc3cd46d2",
+      "sectionIndex": 4,
+      "question": "State formation theories emphasize different factors including:",
+      "options": [
+        "A) Single cause",
+        "B) Warfare, irrigation, trade, and population pressure",
+        "C) Divine right only",
+        "D) Accident"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e2a44897b05f4a34dc89b7ab3051d39550141a2",
+      "sectionIndex": 4,
+      "question": "Power and authority differ in that:",
+      "options": [
+        "A) They are synonymous",
+        "B) Power is ability to compel, authority is legitimate right",
+        "C) Authority requires force",
+        "D) Power is always legitimate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4279e702dc2739a956728e651fb76388c0d3626",
+      "sectionIndex": 4,
+      "question": "Political instability in Pakistan can be analyzed through:",
+      "options": [
+        "A) Single factor",
+        "B) Intersection of kinship, ethnicity, religion, and economic factors",
+        "C) External forces only",
+        "D) Historical accident"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71719a0a3e0772aa1d35a97f692c3b1d2b9de00a",
+      "sectionIndex": 5,
+      "question": "Tylor's evolutionary scheme of religion has been criticized for:",
+      "options": [
+        "A) Being too complex",
+        "B) Assuming unilinear progress and Western superiority",
+        "C) Including too many types",
+        "D) Being too simple"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "816075a0a1f699cb9839e9f3ded7610bd1fd984c",
+      "sectionIndex": 5,
+      "question": "The function of primitive religion includes:",
+      "options": [
+        "A) Only spiritual needs",
+        "B) Explaining nature, social control, and community solidarity",
+        "C) Entertainment only",
+        "D) Economic benefits only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "649a15cd5be702a6f603f074f67ea661d4ffcd8d",
+      "sectionIndex": 5,
+      "question": "Supernatural beliefs persist in modern societies because:",
+      "options": [
+        "A) Lack of education",
+        "B) They address existential questions science cannot answer",
+        "C) Government promotion",
+        "D) Media influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "034eb12b60cb16dfcd4f3f88b04c36b6ab17749c",
+      "sectionIndex": 5,
+      "question": "The anthropological approach to religion differs from theology by:",
+      "options": [
+        "A) Being anti-religious",
+        "B) Studying religion as cultural phenomenon rather than truth claims",
+        "C) Promoting atheism",
+        "D) Ignoring believers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "877e37d4764466c9023d66e164d6c8b1df196eb4",
+      "sectionIndex": 5,
+      "question": "Ritual serves multiple functions including:",
+      "options": [
+        "A) Time-wasting",
+        "B) Social integration, transition marking, and anxiety reduction",
+        "C) Entertainment only",
+        "D) Economic gain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78fbbc88adceb89b2528dfc834f99a3c17bb8aa5",
+      "sectionIndex": 5,
+      "question": "The distinction between magic and religion lies in:",
+      "options": [
+        "A) Geographic location",
+        "B) Manipulation versus supplication of supernatural",
+        "C) Good versus evil",
+        "D) Modern versus ancient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4bc4c56c60013126c279eb5ee06a06a4b17ac87",
+      "sectionIndex": 5,
+      "question": "Religious symbols work by:",
+      "options": [
+        "A) Direct representation",
+        "B) Condensing complex meanings and evoking emotions",
+        "C) Logical argument",
+        "D) Scientific proof"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3be708992d9e3cf073bafe972297d95438914379",
+      "sectionIndex": 5,
+      "question": "Comparative study of religions reveals:",
+      "options": [
+        "A) One true religion",
+        "B) Common functions despite varied forms",
+        "C) All religions are false",
+        "D) No patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b905ff21ee5bca45cbbb11c6ae2ec044f204d0c",
+      "sectionIndex": 5,
+      "question": "Secularization theory predicted religion would decline but:",
+      "options": [
+        "A) It has disappeared",
+        "B) Religion has transformed and persisted in new forms",
+        "C) It has increased everywhere",
+        "D) Nothing changed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "106af32b9057dbbba94b72d065ad4a865ce7a38b",
+      "sectionIndex": 5,
+      "question": "Divine religions differ from others in claiming:",
+      "options": [
+        "A) No difference",
+        "B) Revealed truth and monotheistic focus",
+        "C) Greater antiquity",
+        "D) More followers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9914dcfb99b2090b086e665f8b71fe964fdf2b56",
+      "sectionIndex": 6,
+      "question": "Structural-functionalism, as promoted by Radcliffe-Brown, views society as:",
+      "options": [
+        "A) Chaotic",
+        "B) Integrated system where parts function to maintain whole",
+        "C) Conflicted",
+        "D) Random collection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2ac429ead026c21b6a70e3cceb86f9a28d4b4ab",
+      "sectionIndex": 6,
+      "question": "Cultural materialism argues that:",
+      "options": [
+        "A) Culture is purely ideational",
+        "B) Material conditions determine cultural practices",
+        "C) Materials don't matter",
+        "D) Only symbols matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45e9b73b41ef8afb54c22fff80451ce4e91c3e70",
+      "sectionIndex": 6,
+      "question": "Interpretive anthropology, associated with Geertz, emphasizes:",
+      "options": [
+        "A) Statistical analysis",
+        "B) Understanding cultural meanings through thick description",
+        "C) Biological factors",
+        "D) Economic determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfcc0e796e8f8e6284a31597ab57a2fead82df7f",
+      "sectionIndex": 6,
+      "question": "Margaret Mead's work on gender showed:",
+      "options": [
+        "A) Universal gender roles",
+        "B) Cultural variability in gender expectations",
+        "C) Biological determinism",
+        "D) No patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67f9dada11eb705f8f89bf495c541edb5d3fb753",
+      "sectionIndex": 6,
+      "question": "Lévi-Strauss's structuralism seeks:",
+      "options": [
+        "A) Surface meanings",
+        "B) Underlying universal mental structures",
+        "C) Historical change",
+        "D) Individual variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed1a1b97fe3800d996f62d1395f564a290fea261",
+      "sectionIndex": 6,
+      "question": "The Manchester School focused on:",
+      "options": [
+        "A) British society",
+        "B) Social conflict and change in African societies",
+        "C) Ancient civilizations",
+        "D) Symbolic analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c7bfa0eef5738dcc1e5203fec209ddcc4317436",
+      "sectionIndex": 6,
+      "question": "Practice theory attempts to:",
+      "options": [
+        "A) Ignore individuals",
+        "B) Bridge structure and agency",
+        "C) Focus only on rules",
+        "D) Reject culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9720e55827682b7cc25f030065b112bd1110593a",
+      "sectionIndex": 6,
+      "question": "Postmodern anthropology critiques:",
+      "options": [
+        "A) Only modern societies",
+        "B) Anthropological authority and representation",
+        "C) Research methods",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbbf26a62b96e7ad39518ac667bd0475e3913e95",
+      "sectionIndex": 6,
+      "question": "Feminist anthropology revealed:",
+      "options": [
+        "A) No gender bias",
+        "B) Male bias in earlier anthropological work",
+        "C) Women don't exist",
+        "D) Gender is irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e286c44e277dd32991b7591430a0a47f31f3381",
+      "sectionIndex": 6,
+      "question": "Medical anthropology shows how:",
+      "options": [
+        "A) Biology determines health",
+        "B) Culture shapes illness experience and healing",
+        "C) Only Western medicine works",
+        "D) Disease is universal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "adef83b39a6b0ef8517184a98df50b09ded14801",
+      "sectionIndex": 7,
+      "question": "Applied anthropology's effectiveness depends on:",
+      "options": [
+        "A) Imposing solutions",
+        "B) Understanding local context and involving communities",
+        "C) Ignoring culture",
+        "D) Quick fixes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0892de8ba04066daf296eee8cc3580bbbd0a698",
+      "sectionIndex": 7,
+      "question": "Development anthropology critiques include:",
+      "options": [
+        "A) Too helpful",
+        "B) Potentially reinforcing power inequalities",
+        "C) Too slow",
+        "D) Over-funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db93ffa7708648dcc246d37f14d0296c5f6392fc",
+      "sectionIndex": 7,
+      "question": "Urban anthropology reveals:",
+      "options": [
+        "A) Cities are all alike",
+        "B) Urban diversity and community formation patterns",
+        "C) Rural superiority",
+        "D) Urban uniformity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58a7d7f960b65be9e776db03723102faa4822194",
+      "sectionIndex": 7,
+      "question": "Solving global issues through anthropology requires:",
+      "options": [
+        "A) Western solutions",
+        "B) Culturally sensitive approaches recognizing local knowledge",
+        "C) Ignoring diversity",
+        "D) One-size-fits-all"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a24daa7cdb3787c70ba90eb8bdbf43c32c430263",
+      "sectionIndex": 7,
+      "question": "Corporate anthropology demonstrates:",
+      "options": [
+        "A) Business irrelevance",
+        "B) How cultural analysis improves organizational effectiveness",
+        "C) Profit is everything",
+        "D) Culture doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ca28ca87223658c0965c93462b0acd561e0aa06",
+      "sectionIndex": 7,
+      "question": "Environmental anthropology's contribution includes:",
+      "options": [
+        "A) Nature over culture",
+        "B) Understanding human-environment interactions culturally",
+        "C) Ignoring humans",
+        "D) Pure conservation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdd6ef2d599845cfcf9c71efca0ab73f79e8b0b0",
+      "sectionIndex": 7,
+      "question": "The challenge of applied work includes:",
+      "options": [
+        "A) Too much time",
+        "B) Balancing scientific objectivity with advocacy",
+        "C) Too much funding",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acc7985ac929b7706314dd8697e7fb9eae38d658",
+      "sectionIndex": 7,
+      "question": "Anthropological insights on poverty show:",
+      "options": [
+        "A) Simple laziness",
+        "B) Structural factors and cultural adaptations",
+        "C) Individual failure",
+        "D) Genetic factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff4bd52fe24978adfdc6c0651b8418749102790c",
+      "sectionIndex": 7,
+      "question": "Educational anthropology reveals:",
+      "options": [
+        "A) One best system",
+        "B) How cultural background affects learning",
+        "C) Culture is irrelevant",
+        "D) Only formal education matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f608a9fd231ebe9667b4f32b93e87d8c09ad4c96",
+      "sectionIndex": 7,
+      "question": "Public health interventions fail when:",
+      "options": [
+        "A) Well-funded",
+        "B) Ignoring cultural beliefs and practices",
+        "C) Using local languages",
+        "D) Involving communities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e400058feb68c8211a9d0a3b811781aa828f2b46",
+      "sectionIndex": 8,
+      "question": "Globalization's impact on local cultures shows:",
+      "options": [
+        "A) Complete homogenization",
+        "B) Complex processes of adaptation and resistance",
+        "C) No effect",
+        "D) Only positive changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4388f5546c41c430111b27f283f7c9ecdf97af8f",
+      "sectionIndex": 8,
+      "question": "Identity politics in multicultural societies involves:",
+      "options": [
+        "A) Simple categories",
+        "B) Complex negotiations of multiple identities",
+        "C) Fixed identities",
+        "D) No politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "341fd087e9bee285757f806e16d4c73e86c2be07",
+      "sectionIndex": 8,
+      "question": "Migration studies reveal:",
+      "options": [
+        "A) Simple push-pull",
+        "B) Complex transnational networks and identities",
+        "C) One-way movement",
+        "D) No patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "054fafb16682e64d562653403c9dab04bddef288",
+      "sectionIndex": 8,
+      "question": "Digital anthropology shows:",
+      "options": [
+        "A) Technology destroys culture",
+        "B) New forms of community and cultural expression",
+        "C) No anthropological relevance",
+        "D) Only negative effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "711387a674af34f7adf8d1c374dfe0a80c10c18a",
+      "sectionIndex": 8,
+      "question": "Climate change anthropology examines:",
+      "options": [
+        "A) Weather only",
+        "B) Cultural perceptions and adaptations to environmental change",
+        "C) Natural science only",
+        "D) No human dimension"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "409e073dc854e0ced9eaf57958cd138c90ac3df5",
+      "sectionIndex": 8,
+      "question": "Gender studies in anthropology now include:",
+      "options": [
+        "A) Women only",
+        "B) Intersectionality and multiple gender identities",
+        "C) Binary only",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57010b853f85c7ed741a38d68e70f0af0ff40419",
+      "sectionIndex": 8,
+      "question": "Indigenous rights movements use anthropology to:",
+      "options": [
+        "A) Reject all research",
+        "B) Document culture and support land claims",
+        "C) Assimilate",
+        "D) Isolate themselves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3324a49f81e5171e44ed8e399afea0d8b30d04aa",
+      "sectionIndex": 8,
+      "question": "Medical pluralism refers to:",
+      "options": [
+        "A) Many diseases",
+        "B) Multiple healing systems coexisting",
+        "C) One system only",
+        "D) No system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9198e59af7a91d0b725df3219d4f084439bbfb5",
+      "sectionIndex": 8,
+      "question": "Urban poverty differs from rural in:",
+      "options": [
+        "A) Amount only",
+        "B) Social networks, survival strategies, and visibility",
+        "C) No difference",
+        "D) Being easier"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0be1a671b9d426ec3b9dd026630abfcc13c8e5ec",
+      "sectionIndex": 8,
+      "question": "Terrorism's anthropological analysis reveals:",
+      "options": [
+        "A) Simple evil",
+        "B) Complex cultural and political contexts",
+        "C) No patterns",
+        "D) Individual pathology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c958d27884830438142fa2a1c1f5308fac648f0",
+      "sectionIndex": 9,
+      "question": "Sectarianism in Pakistan can be understood through:",
+      "options": [
+        "A) Religion only",
+        "B) Intersection of identity, politics, and economic competition",
+        "C) Foreign conspiracy",
+        "D) Ancient hatred"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f66b53373dca4a952eb812d5203a5be8da8ca18a",
+      "sectionIndex": 9,
+      "question": "The relationship between poverty and population in Pakistan shows:",
+      "options": [
+        "A) Simple correlation",
+        "B) Complex interaction with cultural and structural factors",
+        "C) No relationship",
+        "D) Population causes poverty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d562a61fcb2425ac28b4529ce7d6d2ae8bb29960",
+      "sectionIndex": 9,
+      "question": "Development failures in Pakistan often result from:",
+      "options": [
+        "A) Lack of resources only",
+        "B) Ignoring local social organization and cultural values",
+        "C) Too much planning",
+        "D) External factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db62f7be4d945aad27c6af7439e9ccc082761a02",
+      "sectionIndex": 9,
+      "question": "Gender issues in Pakistan require understanding:",
+      "options": [
+        "A) Western feminism only",
+        "B) Local cultural contexts and Islamic interpretations",
+        "C) Biology only",
+        "D) Law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b5c122cbc0246f459573bc6c5a79136fd0ee716",
+      "sectionIndex": 9,
+      "question": "Tribal areas' integration challenges include:",
+      "options": [
+        "A) Geography only",
+        "B) Different legal systems and social organization",
+        "C) Language only",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82b63ae5a156bcb579f9b85e385f4a30e80dad1e",
+      "sectionIndex": 9,
+      "question": "Educational problems in Pakistan involve:",
+      "options": [
+        "A) Funding only",
+        "B) Cultural values, language issues, and social stratification",
+        "C) Teacher shortage only",
+        "D) Buildings only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7bf6e8a9cb2dc1335cc7e9358aba0440d79ae49",
+      "sectionIndex": 9,
+      "question": "Political instability's anthropological dimensions include:",
+      "options": [
+        "A) Elections only",
+        "B) Kinship networks, ethnic politics, and patronage",
+        "C) Constitution only",
+        "D) External interference only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a95230935a16ae7dd36c37ea01696fafa0d0dd03",
+      "sectionIndex": 9,
+      "question": "Religious diversity management requires:",
+      "options": [
+        "A) Conversion",
+        "B) Understanding multiple religious interpretations and practices",
+        "C) Uniformity",
+        "D) Secularization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d91f1e100cd3336e7582e4e9c435fb42a043dfe",
+      "sectionIndex": 9,
+      "question": "Economic development strategies should consider:",
+      "options": [
+        "A) GDP only",
+        "B) Local economic systems and cultural values",
+        "C) Foreign models only",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcd88bff5a518c9a24631b2172509f3764b04912",
+      "sectionIndex": 9,
+      "question": "Social change in Pakistan faces:",
+      "options": [
+        "A) No obstacles",
+        "B) Complex interplay of tradition, religion, and modernization",
+        "C) Simple resistance",
+        "D) Government opposition only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

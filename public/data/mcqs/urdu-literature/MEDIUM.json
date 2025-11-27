@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:06:55.759Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "699e93299676a8a572074fc31c74cf33387b6b62",
+      "sectionIndex": 0,
+      "question": "The Progressive Writers' Movement differed from Sir Syed Movement in:",
+      "options": [
+        "A) Time period only",
+        "B) Focus on socialist realism vs educational reform",
+        "C) Language used",
+        "D) Geographic scope only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e94c83f67c9aa6a9d9d8d4d3e5a6b67070ef2b94",
+      "sectionIndex": 0,
+      "question": "The impact of Partition literature on Urdu fiction primarily manifested as:",
+      "options": [
+        "A) Romantic themes",
+        "B) Themes of displacement, identity crisis, and trauma",
+        "C) Nature poetry",
+        "D) Historical fiction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f83968ae6f1c3c3c0f131aa9121df45252291cb",
+      "sectionIndex": 0,
+      "question": "The conflict between Progressive and Modernist writers centered on:",
+      "options": [
+        "A) Language choice",
+        "B) Social commitment vs artistic freedom",
+        "C) Regional differences",
+        "D) Religious themes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbef8f3fce71fa16ce4326e6ee9bbaa6f749b185",
+      "sectionIndex": 0,
+      "question": "Halqa-e-Arbab-e-Zauq's contribution to modernism was:",
+      "options": [
+        "A) Promoting classical forms",
+        "B) Encouraging experimental writing",
+        "C) Religious literature",
+        "D) Political essays only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc214d99f164b5cecfd1bc1ab6194cd2fd72d172",
+      "sectionIndex": 0,
+      "question": "The influence of Russian literature on Progressive writers resulted in:",
+      "options": [
+        "A) Romantic poetry",
+        "B) Socialist realist fiction",
+        "C) Religious themes",
+        "D) Nature writing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9d1d5e1ac70928f59142dfce0091605e9b4a1ec",
+      "sectionIndex": 0,
+      "question": "Post-colonial Urdu literature's main concern is:",
+      "options": [
+        "A) Pre-Islamic history",
+        "B) Cultural identity and decolonization",
+        "C) Medieval romance",
+        "D) Classical forms only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1c5a6b05daa876cf6019212d72c0f4224fb295f",
+      "sectionIndex": 0,
+      "question": "The Aligarh Movement's impact on prose was:",
+      "options": [
+        "A) Negative",
+        "B) Development of simple, functional prose",
+        "C) No impact",
+        "D) Poetry focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf9f1a487639ebbcf23c286af8f4b79a29b01129",
+      "sectionIndex": 0,
+      "question": "Modernist poets rejected traditional forms because:",
+      "options": [
+        "A) They couldn't write them",
+        "B) To express contemporary sensibilities",
+        "C) Publisher demands",
+        "D) Reader preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0dd0cbd4c62ef4b76bd35301837a9ed079deb8cb",
+      "sectionIndex": 0,
+      "question": "The relationship between Marxism and Progressive literature:",
+      "options": [
+        "A) No connection",
+        "B) Ideological foundation for social themes",
+        "C) Opposition",
+        "D) Coincidental"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a67741b15457f9d7e947f852cac54000786d2f8",
+      "sectionIndex": 0,
+      "question": "Neo-classical movement attempted to:",
+      "options": [
+        "A) Reject all tradition",
+        "B) Revive classical forms with modern content",
+        "C) Copy Western literature",
+        "D) Focus on prose only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64485beecd48f44b4e06d013131dd3ba94be2f60",
+      "sectionIndex": 1,
+      "question": "Ghalib's poetry differs from Mir's in:",
+      "options": [
+        "A) Language only",
+        "B) Philosophical depth vs emotional intensity",
+        "C) Form only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "805146a0f4386dc7a0fb23d4772ca8a9d6b7dc2e",
+      "sectionIndex": 1,
+      "question": "Iqbal's concept of Khudi influenced later poets to:",
+      "options": [
+        "A) Write love poetry",
+        "B) Explore self-realization themes",
+        "C) Abandon philosophy",
+        "D) Focus on nature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b423c841170f6dd240f47378b909361f370f760f",
+      "sectionIndex": 1,
+      "question": "Manto's partition stories differ from other writers in:",
+      "options": [
+        "A) Happy endings",
+        "B) Psychological realism and brutal honesty",
+        "C) Romantic approach",
+        "D) Historical accuracy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88649a834be770d9edb9ad3ae67f8c126c36a990",
+      "sectionIndex": 1,
+      "question": "Ahmed Nadeem Qasmi's contribution to both poetry and fiction shows:",
+      "options": [
+        "A) Confusion",
+        "B) Versatility in exploring human psychology",
+        "C) Commercial approach",
+        "D) Limited range"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b5ccbb8d9156f1789ad8fe971940c1de7402cb7",
+      "sectionIndex": 1,
+      "question": "Faiz's progressive poetry balanced:",
+      "options": [
+        "A) Only politics",
+        "B) Revolutionary ideas with aesthetic beauty",
+        "C) Religious themes only",
+        "D) Personal emotions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cffb24da39059f55bae60584c915593c57ff8b28",
+      "sectionIndex": 1,
+      "question": "Ismat Chughtai's feminist themes challenged:",
+      "options": [
+        "A) Grammar rules",
+        "B) Patriarchal social norms",
+        "C) Literary forms",
+        "D) Publishing industry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c64b09cfdebc7973e3d265002a548ee3e765943a",
+      "sectionIndex": 1,
+      "question": "The difference between Josh and Iqbal's revolutionary poetry:",
+      "options": [
+        "A) Language only",
+        "B) Emotional fervor vs philosophical revolution",
+        "C) No difference",
+        "D) Regional variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b95617065ef9639c739e9bd583bdd4e99561074",
+      "sectionIndex": 1,
+      "question": "Majeed Amjad's modernist poetry introduced:",
+      "options": [
+        "A) Classical forms",
+        "B) Concrete imagery and psychological landscapes",
+        "C) Political slogans",
+        "D) Religious verses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5dc8f825714ab506d98cc5e77445d3fd670f4b6b",
+      "sectionIndex": 1,
+      "question": "Hali's Musaddas served as:",
+      "options": [
+        "A) Entertainment",
+        "B) Social awakening through historical reflection",
+        "C) Love poetry",
+        "D) Nature description"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5de72f82291c10471e4829682647583260e9e344",
+      "sectionIndex": 1,
+      "question": "Premchand's Urdu fiction before Hindi focused on:",
+      "options": [
+        "A) Fantasy",
+        "B) Rural life and social reform",
+        "C) Urban elite",
+        "D) Historical romance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c503bb2a90bade8e33d62fe419e6f25be039916",
+      "sectionIndex": 2,
+      "question": "The transformation of dastan to novel involved:",
+      "options": [
+        "A) Translation only",
+        "B) Shift from fantasy to realism",
+        "C) Length reduction",
+        "D) Language change only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2c2d265f44082b25109944e068c110cfaf28bc0",
+      "sectionIndex": 2,
+      "question": "Modern ghazal differs from classical in:",
+      "options": [
+        "A) Number of couplets",
+        "B) Contemporary themes within traditional form",
+        "C) Language only",
+        "D) Elimination of meter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b6b69079949f6a5d64cb1c400492dfdb8086436",
+      "sectionIndex": 2,
+      "question": "The development of psychological realism in Urdu fiction came through:",
+      "options": [
+        "A) Western influence only",
+        "B) Integration of stream of consciousness",
+        "C) Religious texts",
+        "D) Classical poetry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc5a391037cbb7c02100f95002e70e4819a697c2",
+      "sectionIndex": 2,
+      "question": "Azad nazm emerged because:",
+      "options": [
+        "A) Poets forgot meters",
+        "B) Need for freer expression",
+        "C) Publisher demands",
+        "D) Reader preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee88229651c48c9f5846df1e602941106905c304",
+      "sectionIndex": 2,
+      "question": "The essay form evolved from:",
+      "options": [
+        "A) Poetry",
+        "B) Utilitarian prose to literary expression",
+        "C) Drama",
+        "D) Letters only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdb25bb73d9a3b59aa066d35bb3fed555b6f36d7",
+      "sectionIndex": 2,
+      "question": "Afsana as distinct from dastan emphasizes:",
+      "options": [
+        "A) Length only",
+        "B) Realistic plots and economy of expression",
+        "C) Fantasy elements",
+        "D) Multiple plots"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1502cac4702cb88aeda21390038a20fb6e161194",
+      "sectionIndex": 2,
+      "question": "The nazm-e-jadeed movement revolutionized:",
+      "options": [
+        "A) Spelling",
+        "B) Thematic and formal boundaries",
+        "C) Publishing",
+        "D) Distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c052b5e46f9ce1f1f4bdf5ea98f150c66b1f67a",
+      "sectionIndex": 2,
+      "question": "Marsiya evolved beyond Karbala to include:",
+      "options": [
+        "A) Only religious themes",
+        "B) Universal themes of sacrifice",
+        "C) Comedy",
+        "D) Romance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a33b5788b4a954357c0f3a3105b82e518d2589d",
+      "sectionIndex": 2,
+      "question": "The prose poem in Urdu represents:",
+      "options": [
+        "A) Failed poetry",
+        "B) Hybrid form breaking boundaries",
+        "C) Translation error",
+        "D) Classical revival"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a447e94c7362f30dd505bfbdf042767966774114",
+      "sectionIndex": 2,
+      "question": "Biographical literature shifted from hagiography to:",
+      "options": [
+        "A) Fiction",
+        "B) Critical analytical biography",
+        "C) Poetry",
+        "D) Drama"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7767800d2e61a53f3af645998da90019684ad58",
+      "sectionIndex": 3,
+      "question": "The use of symbolism in modern Urdu poetry serves to:",
+      "options": [
+        "A) Confuse readers",
+        "B) Express complex ideas indirectly",
+        "C) Follow tradition",
+        "D) Increase length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "affbd397d732a2729f291044998c1c480dcc6add",
+      "sectionIndex": 3,
+      "question": "Intertextuality in contemporary Urdu literature:",
+      "options": [
+        "A) Is plagiarism",
+        "B) Creates dialogue with literary tradition",
+        "C) Shows lack of originality",
+        "D) Is accidental"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ca6235f71c72764fb2932e4a63942230e11b767",
+      "sectionIndex": 3,
+      "question": "The tension between zabaan (language) and bayaan (expression) reflects:",
+      "options": [
+        "A) Grammar issues",
+        "B) Form versus content debate",
+        "C) Regional differences",
+        "D) Historical change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3835cbff798f45ae1ee9201d29e0cc7894794347",
+      "sectionIndex": 3,
+      "question": "Magical realism in Urdu fiction combines:",
+      "options": [
+        "A) Two genres",
+        "B) Reality with fantastical elements",
+        "C) Poetry and prose",
+        "D) Drama and novel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a142d532ece2ae8215da6535f2a065268ee7b18",
+      "sectionIndex": 3,
+      "question": "The concept of nazuk khayali in ghazal represents:",
+      "options": [
+        "A) Weakness",
+        "B) Delicate imagination and subtle thought",
+        "C) Simple ideas",
+        "D) Direct expression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7799bf8774f16d1f0bfccb8a03a22cde2719505",
+      "sectionIndex": 3,
+      "question": "Irony in progressive literature functions as:",
+      "options": [
+        "A) Humor only",
+        "B) Social criticism tool",
+        "C) Decoration",
+        "D) Tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2934539c6e049dc3d5d18947c60f0fea3d81ae7d",
+      "sectionIndex": 3,
+      "question": "The dramatization of interior monologue shows:",
+      "options": [
+        "A) Poor writing",
+        "B) Psychological depth",
+        "C) External action",
+        "D) Simple narrative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db3b8f59f62fc0714c637037230fe031c18ebcd7",
+      "sectionIndex": 3,
+      "question": "Colloquial language in modern fiction serves:",
+      "options": [
+        "A) To simplify",
+        "B) Authenticity and character development",
+        "C) Word count",
+        "D) Publisher preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdff9419280b8bb09c47ae68ac0ca7a7b7f41b1f",
+      "sectionIndex": 3,
+      "question": "The juxtaposition of classical and modern imagery creates:",
+      "options": [
+        "A) Confusion",
+        "B) Temporal dialogue and contrast",
+        "C) Length",
+        "D) Difficulty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4778c81a876a0f486f1c0f8e1c1a6e3b0cfef57",
+      "sectionIndex": 3,
+      "question": "Meta-fictional elements in contemporary writing:",
+      "options": [
+        "A) Are errors",
+        "B) Self-consciously examine fiction-making",
+        "C) Copy Western trends",
+        "D) Lack purpose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "862b925f5739b9e3dfa13ad5671b9f8b768e221e",
+      "sectionIndex": 4,
+      "question": "The impact of 1857 on Urdu literature was:",
+      "options": [
+        "A) Minimal",
+        "B) Shift from court to public literature",
+        "C) Only on poetry",
+        "D) Temporary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd917f76374513e68e8de17df43961fe6579c174",
+      "sectionIndex": 4,
+      "question": "Western education's influence on Urdu writers led to:",
+      "options": [
+        "A) Abandonment of Urdu",
+        "B) New genres and critical thinking",
+        "C) Only translations",
+        "D) Decline in quality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff3fc24b707f92b6478ac0ad12d4cf5ab4b2a825",
+      "sectionIndex": 4,
+      "question": "The role of literary journals in modernization:",
+      "options": [
+        "A) Distribution only",
+        "B) Platform for experimentation and debate",
+        "C) Advertisement",
+        "D) Archive only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fb52003fb04d3167992966b00175ed8298f3640",
+      "sectionIndex": 4,
+      "question": "Urban-rural divide in Urdu literature reflects:",
+      "options": [
+        "A) Geography only",
+        "B) Socio-economic tensions and perspectives",
+        "C) Language differences",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fc336b6ae288b1ce63d8a562a456df0d762125f",
+      "sectionIndex": 4,
+      "question": "The influence of Persian tradition continues in:",
+      "options": [
+        "A) Vocabulary only",
+        "B) Aesthetic sensibilities and forms",
+        "C) Script only",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce5abd19b72dbdcd8737fec1f754c2e3387cd67d",
+      "sectionIndex": 4,
+      "question": "Post-independence Urdu literature in India deals with:",
+      "options": [
+        "A) Same themes",
+        "B) Minority identity and secular values",
+        "C) Pakistan only",
+        "D) Historical themes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e544c76f79aaa50ad587e0bdd44ffb59206dae9b",
+      "sectionIndex": 4,
+      "question": "The coffeehouse culture influenced:",
+      "options": [
+        "A) Coffee consumption",
+        "B) Literary discussions and movements",
+        "C) Business only",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e94b918db9400e5ceb3a624a033608174cc80fc0",
+      "sectionIndex": 4,
+      "question": "Film's impact on Urdu literature includes:",
+      "options": [
+        "A) Negative only",
+        "B) New narrative techniques and reach",
+        "C) No relationship",
+        "D) Competition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cc20f9c3c0d214e3c25b0984912eb145a1a5968",
+      "sectionIndex": 4,
+      "question": "The relationship between Urdu and Hindi literature:",
+      "options": [
+        "A) Complete separation",
+        "B) Shared heritage with distinct evolution",
+        "C) Same literature",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7ee81d39cf12c44e2cf9d4f4a3549da31f15375",
+      "sectionIndex": 4,
+      "question": "Globalization's effect on Urdu literature:",
+      "options": [
+        "A) Isolation",
+        "B) Diaspora writing and new themes",
+        "C) Decline",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c0bd64804abc4bb1acb28c6a018a7d04b26eb1a",
+      "sectionIndex": 5,
+      "question": "Structural analysis of ghazal reveals:",
+      "options": [
+        "A) Random couplets",
+        "B) Unity through convention and technique",
+        "C) No pattern",
+        "D) Simple form"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5bc9c059269c01a97b61ad59dab3ccf2324dda8",
+      "sectionIndex": 5,
+      "question": "Psychoanalytic criticism of Partition literature uncovers:",
+      "options": [
+        "A) Historical facts",
+        "B) Collective trauma and unconscious",
+        "C) Political views",
+        "D) Economic data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ef31ea6854ef0eef636f6b610b40bf46b88dae7",
+      "sectionIndex": 5,
+      "question": "Feminist reading of classical texts reveals:",
+      "options": [
+        "A) No relevance",
+        "B) Hidden gender dynamics",
+        "C) Support for patriarchy",
+        "D) Neutral stance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45122d6f05f9e9e168d59cdebaf0c494f69ccabe",
+      "sectionIndex": 5,
+      "question": "Post-colonial analysis of colonial period literature shows:",
+      "options": [
+        "A) Complete acceptance",
+        "B) Resistance and negotiation",
+        "C) No awareness",
+        "D) Rejection only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa932b99986e23892366830e5b71077303360799",
+      "sectionIndex": 5,
+      "question": "Marxist interpretation emphasizes:",
+      "options": [
+        "A) Form only",
+        "B) Class relations and material conditions",
+        "C) Individual psychology",
+        "D) Aesthetic beauty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8897a988727b3000b40e4277f818268745a87930",
+      "sectionIndex": 5,
+      "question": "New Historicism in Urdu criticism examines:",
+      "options": [
+        "A) Facts only",
+        "B) Literature as cultural artifact",
+        "C) Form only",
+        "D) Author biography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c5ad1c65a0caabf9922c642767f139405c3b187",
+      "sectionIndex": 5,
+      "question": "Reception theory applied to classical texts:",
+      "options": [
+        "A) Is irrelevant",
+        "B) Shows changing interpretations",
+        "C) Proves decline",
+        "D) Has no value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04bc76a207ba9d0930bed5a7f418e9e577ce95cd",
+      "sectionIndex": 5,
+      "question": "Comparative criticism reveals:",
+      "options": [
+        "A) Differences only",
+        "B) Cross-cultural influences and parallels",
+        "C) Superiority",
+        "D) Isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cb33fa1249a8bbf4e3b49c93faca74898b36a30",
+      "sectionIndex": 5,
+      "question": "Deconstructive reading of traditional forms:",
+      "options": [
+        "A) Destroys them",
+        "B) Reveals internal contradictions",
+        "C) Supports them",
+        "D) Ignores them"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8b168445def24c9859af69d4ff95653388efebc",
+      "sectionIndex": 5,
+      "question": "Cultural criticism approach studies:",
+      "options": [
+        "A) High literature only",
+        "B) Literature within cultural practices",
+        "C) Grammar only",
+        "D) Metrics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09bcfe22d94ca8ae359b2cf924bf58a6d05bd4de",
+      "sectionIndex": 6,
+      "question": "Environmental consciousness in recent poetry reflects:",
+      "options": [
+        "A) Western influence only",
+        "B) Global and local ecological concerns",
+        "C) Fashion",
+        "D) Publisher demands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6a3e9503637b54752b0011175b561bd9310f5a4",
+      "sectionIndex": 6,
+      "question": "Technology's representation in contemporary fiction:",
+      "options": [
+        "A) Is avoided",
+        "B) Shows changing social dynamics",
+        "C) Is always negative",
+        "D) Has no place"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c76e103375288c898c54140e9dde3e74b5f80450",
+      "sectionIndex": 6,
+      "question": "Gender identity exploration in modern literature:",
+      "options": [
+        "A) Follows tradition",
+        "B) Challenges binary constructions",
+        "C) Avoids the topic",
+        "D) Is superficial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24371fae75a40f2fa1548aae76ce2d53737f88e0",
+      "sectionIndex": 6,
+      "question": "The theme of alienation in urban poetry stems from:",
+      "options": [
+        "A) Western copying",
+        "B) Modern industrial society",
+        "C) Lack of talent",
+        "D) Publishing trends"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d90cb0f276cad73a0bb09c32eec3604310427e5a",
+      "sectionIndex": 6,
+      "question": "Diaspora literature's dual consciousness represents:",
+      "options": [
+        "A) Confusion",
+        "B) Negotiating multiple identities",
+        "C) Betrayal",
+        "D) Simple nostalgia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eacdc53fc35c1f30c7e545cfac6e981e895755fa",
+      "sectionIndex": 6,
+      "question": "War on terror's impact created literature of:",
+      "options": [
+        "A) Propaganda",
+        "B) Resistance and human cost",
+        "C) Support only",
+        "D) Silence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0a87aa5edf7210138bd598917c4ccaf439c95d7",
+      "sectionIndex": 6,
+      "question": "Economic liberalization themes explore:",
+      "options": [
+        "A) Progress only",
+        "B) Social disruption and inequality",
+        "C) Technical details",
+        "D) Government policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf3eb8a21e7b1825fbf327619a9daf01cb920cf2",
+      "sectionIndex": 6,
+      "question": "Religious extremism in contemporary writing:",
+      "options": [
+        "A) Is promoted",
+        "B) Critically examined",
+        "C) Ignored",
+        "D) Celebrated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fca4a722caeaa047cd7dbe7bdc20a7db3594965c",
+      "sectionIndex": 6,
+      "question": "Youth culture in modern fiction reflects:",
+      "options": [
+        "A) Western values only",
+        "B) Generational conflicts and aspirations",
+        "C) Degradation",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90afa0cd5668bb7e6c1fa402b24a0143e4853806",
+      "sectionIndex": 6,
+      "question": "Social media's influence appears as:",
+      "options": [
+        "A) Negative only",
+        "B) New forms and themes",
+        "C) Destruction",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a7a08542bdcdc65dbfe5d686ae60c4bd6419949",
+      "sectionIndex": 7,
+      "question": "Code-switching in contemporary texts:",
+      "options": [
+        "A) Shows poor Urdu",
+        "B) Reflects multilingual reality",
+        "C) Is accidental",
+        "D) Should be avoided"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9cd2118827cd5f78a2aa6040cadee7ae9ec29a0",
+      "sectionIndex": 7,
+      "question": "The democratization of language means:",
+      "options": [
+        "A) Lower standards",
+        "B) Inclusive accessible expression",
+        "C) Political language",
+        "D) Simplified grammar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1916e1cc78a995a2bcece7dfeb81f96f2a05a260",
+      "sectionIndex": 7,
+      "question": "Regional variations in literary Urdu:",
+      "options": [
+        "A) Are errors",
+        "B) Enrich expressive possibilities",
+        "C) Should be eliminated",
+        "D) Don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1d38084fa570791f89b903affa5bf12967ccaf5",
+      "sectionIndex": 7,
+      "question": "The debate over Persian versus Hindi words:",
+      "options": [
+        "A) Is resolved",
+        "B) Continues as cultural identity issue",
+        "C) Is irrelevant",
+        "D) Favors Persian"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f58ec0a6c619806c23abdd3f8d6e044c41a0052",
+      "sectionIndex": 7,
+      "question": "Colloquialization of poetry serves:",
+      "options": [
+        "A) To dumb down",
+        "B) Connect with contemporary readers",
+        "C) Commercial interests",
+        "D) Laziness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02663839e525ba10cea02987755846f0edb34b85",
+      "sectionIndex": 7,
+      "question": "Technical terminology in modern prose:",
+      "options": [
+        "A) Corrupts Urdu",
+        "B) Expands expressive range",
+        "C) Is unnecessary",
+        "D) Is temporary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c3bbf2ae45fca584e6ef6aa6cc79203e056691b",
+      "sectionIndex": 7,
+      "question": "The shift from ornate to simple style:",
+      "options": [
+        "A) Shows decline",
+        "B) Reflects democratic impulse",
+        "C) Is universal",
+        "D) Is temporary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae81d1585d3e1ebbc3efe827054284f50f2e823d",
+      "sectionIndex": 7,
+      "question": "Experimentation with syntax demonstrates:",
+      "options": [
+        "A) Grammar errors",
+        "B) Creative innovation",
+        "C) Foreign influence only",
+        "D) Lack of knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "629c3f599709d11088354362c18414aa82c74ab1",
+      "sectionIndex": 7,
+      "question": "Mixed genre writing indicates:",
+      "options": [
+        "A) Confusion",
+        "B) Postmodern sensibility",
+        "C) Failure",
+        "D) Trend following"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b0cf911a2531a36bbfcedc3189c5e37543a0d49",
+      "sectionIndex": 7,
+      "question": "Visual poetry in Urdu:",
+      "options": [
+        "A) Is impossible",
+        "B) Explores form-meaning relationship",
+        "C) Copies West",
+        "D) Has no value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6f77fd6c19782bf07a039d6d451d36e262bf68b",
+      "sectionIndex": 8,
+      "question": "The shift from mushaira to literary festival:",
+      "options": [
+        "A) Shows decline",
+        "B) Reflects changing cultural spaces",
+        "C) Is temporary",
+        "D) Has no significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85efba8a1223baeebbdb6cd93dead2ecb0498eaf",
+      "sectionIndex": 8,
+      "question": "Online publishing's impact:",
+      "options": [
+        "A) Destroys literature",
+        "B) Democratizes access and creation",
+        "C) Is minimal",
+        "D) Only affects sales"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "501f210adeb6732381f16c44ac31a1e9c4fe02f4",
+      "sectionIndex": 8,
+      "question": "The role of translation in Urdu literature:",
+      "options": [
+        "A) Corrupts purity",
+        "B) Enriches through exchange",
+        "C) Is one-way",
+        "D) Is unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0b2ea3f752ce9adf125dac5d4c2dbb1a081a21d",
+      "sectionIndex": 8,
+      "question": "Literary prizes influence:",
+      "options": [
+        "A) Quality only",
+        "B) Canon formation and market",
+        "C) Nothing",
+        "D) Sales only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbc543df7f4f5d68a07d4e40beb47de3cbb78b6e",
+      "sectionIndex": 8,
+      "question": "Academic versus popular criticism:",
+      "options": [
+        "A) Are opposed",
+        "B) Serve different functions",
+        "C) One is superior",
+        "D) Should merge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43ee0f3d7e8ea1405d2a10e81f06284ed458fa96",
+      "sectionIndex": 8,
+      "question": "Book clubs and reading groups:",
+      "options": [
+        "A) Are Western",
+        "B) Create new reading communities",
+        "C) Harm literature",
+        "D) Are elite only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25114dd97e3f51dd9db9079d266746f1af4d5415",
+      "sectionIndex": 8,
+      "question": "The decline of traditional patronage led to:",
+      "options": [
+        "A) Literature's end",
+        "B) Market-driven diverse writing",
+        "C) Better literature",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35b5ece31e7f882d21757a33636b529c09dfac8d",
+      "sectionIndex": 8,
+      "question": "Multi-media adaptations:",
+      "options": [
+        "A) Corrupt texts",
+        "B) Extend literary reach",
+        "C) Are inferior",
+        "D) Should be banned"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8043535980e4140b804e5459a30cad1092ff94ed",
+      "sectionIndex": 8,
+      "question": "Literary activism connects:",
+      "options": [
+        "A) Politics ruins art",
+        "B) Literature with social change",
+        "C) Is propaganda",
+        "D) Is new"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20120e3ed697c3ab654b1a1264ff96a72dc9206c",
+      "sectionIndex": 8,
+      "question": "Cross-border literary exchange:",
+      "options": [
+        "A) Is impossible",
+        "B) Transcends political divisions",
+        "C) Is illegal",
+        "D) Has stopped"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f93dacb10fda10f71aee1c522aaaf359609accf",
+      "sectionIndex": 9,
+      "question": "Graphic novels in Urdu represent:",
+      "options": [
+        "A) Decline",
+        "B) Visual narrative innovation",
+        "C) Children's literature",
+        "D) Western copying"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c66f0526edc3ff61e42454bb3030b07d5ce87784",
+      "sectionIndex": 9,
+      "question": "Eco-criticism in Urdu:",
+      "options": [
+        "A) Is irrelevant",
+        "B) Addresses environmental crisis",
+        "C) Is Western only",
+        "D) Has no tradition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75370c5457f78d4baaf6ee9d90e9c44b85001a89",
+      "sectionIndex": 9,
+      "question": "Digital humanities applications:",
+      "options": [
+        "A) Threaten tradition",
+        "B) Offer new research tools",
+        "C) Are unnecessary",
+        "D) Are temporary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ee5302c60dd3131b28f7a2fb489838bab9db825",
+      "sectionIndex": 9,
+      "question": "Minority literature within Urdu:",
+      "options": [
+        "A) Doesn't exist",
+        "B) Expresses diverse voices",
+        "C) Is separate",
+        "D) Is inferior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aad1e2e896c0fadc7d0825865efcf1767bfd1955",
+      "sectionIndex": 9,
+      "question": "Experimental theater incorporates:",
+      "options": [
+        "A) Traditional forms only",
+        "B) Multimedia and participation",
+        "C) Western techniques only",
+        "D) No innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce5c77cd9c5d88d28f166da35c9fa7fed8f3b1d9",
+      "sectionIndex": 9,
+      "question": "Life writing genres expand to include:",
+      "options": [
+        "A) Fiction only",
+        "B) Blogs, memoirs, testimonies",
+        "C) Biography only",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0467d4152550da12e578cb2436cb1b1a71474de3",
+      "sectionIndex": 9,
+      "question": "Literary journalism emerges as:",
+      "options": [
+        "A) Contradiction",
+        "B) Hybrid creative form",
+        "C) Journalism only",
+        "D) Literature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9acc9590b9bb604673a59cb8d4f15a6ce95b23cc",
+      "sectionIndex": 9,
+      "question": "Community writing projects:",
+      "options": [
+        "A) Lower standards",
+        "B) Democratize creativity",
+        "C) Are temporary",
+        "D) Fail always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ba36f34c670ae4eee9018622d09eb425a74644d",
+      "sectionIndex": 9,
+      "question": "Archive digitization efforts:",
+      "options": [
+        "A) Destroy originals",
+        "B) Preserve and provide access",
+        "C) Are unnecessary",
+        "D) Are complete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90ce317e68b176a0527412f5fd0db17dc5fefc91",
+      "sectionIndex": 9,
+      "question": "Artificial intelligence and Urdu literature:",
+      "options": [
+        "A) Will replace writers",
+        "B) Offers tools and challenges",
+        "C) Is irrelevant",
+        "D) Is impossible"
+      ],
+      "correct": "B"
+    }
+  ]
+}

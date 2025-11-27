@@ -1,0 +1,665 @@
+{
+  "subject": "Criminology",
+  "lastUpdated": "2025-09-11",
+  "totalNotes": 24,
+  "categories": [
+    "Foundations & Scope",
+    "Classical & Biological Theories",
+    "Sociological Theories",
+    "Juvenile Delinquency & Justice",
+    "Investigation, Interviewing & Forensics",
+    "Policing & Crime Control Agencies",
+    "Cybercrime & Digital Evidence",
+    "Money Laundering & Financial Crime",
+    "Courts, Corrections & Recidivism",
+    "Community Policing & Radicalization"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Nature, Scope & Importance of Criminology (with Pakistan focus)",
+      "content": "Criminology studies crime, criminals, victims, and social reactions to crime using scientific methods. Scope spans criminal law, causes of crime, measurement, prevention, and policy. In Pakistan, scope extends to reforms in policing (Police Order 2002), juvenile justice (JJSA 2018), cybercrime (PECA 2016), forensic capacity (PFSA), and counter-terrorism/CVE policies.",
+      "keyTakeaways": [
+        "Criminology integrates theory, empirical methods, and policy evaluation.",
+        "Pakistan's reforms shape applied criminology: policing, juvenile justice, cybercrime, forensics.",
+        "Evidence-based approaches and human-rights safeguards are essential."
+      ],
+      "resources": [
+        {
+          "title": "Police Order, 2002 (Pakistan)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/the_police_order-_2002-pdf.pdf",
+          "type": "law",
+          "description": "Legal framework for policing in Pakistan."
+        },
+        {
+          "title": "Juvenile Justice System Act 2018",
+          "url": "https://www.mohr.gov.pk/Detail/MDcwYTE5ZWUtZDA4Ny00MDgyLThkNjctMGZmZDBkMjFlOGRj",
+          "type": "law",
+          "description": "JJSA 2018 overview (Ministry of Human Rights)."
+        },
+        {
+          "title": "Prevention of Electronic Crimes Act (PECA) 2016",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Jvbp8%253D-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Cybercrime law in Pakistan."
+        },
+        {
+          "title": "Punjab Forensic Science Agency (PFSA)",
+          "url": "https://pfsa.punjab.gov.pk/",
+          "type": "website",
+          "description": "Government forensic capability in Punjab."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Scope",
+      "topics": ["Criminology scope", "Pakistan reforms", "Scientific methods"]
+    },
+    {
+      "id": "2",
+      "title": "Defining Crime, Deviance, Sin & Vice; Typologies of Criminal Behavior",
+      "content": "Crime: legal violation; deviance: norm violation; sin: religious transgression; vice: moral failing (often legally permitted). Typologies classify behavior by legal category, motive, method, or offender characteristics (e.g., violent vs. property; white-collar; organized; cyber; juvenile).",
+      "keyTakeaways": [
+        "Distinguish legal vs. moral vs. social norms.",
+        "Typologies aid risk assessment, prevention, and sentencing.",
+        "Overlap exists; categories are tools, not essences."
+      ],
+      "resources": [
+        {
+          "title": "Code of Criminal Procedure, 1898 (structure of courts/procedure)",
+          "url": "https://sherloc.unodc.org/cld/uploads/res/document/code-of-criminal-procedure--1898_html/Code_of_Criminal_Procedure_1898_incorporating_amendments_to_16_February_2017.pdf",
+          "type": "law",
+          "description": "Criminal process backbone (as amended to 2017)."
+        }
+      ],
+      "importance": "high",
+      "category": "Foundations & Scope",
+      "topics": ["Crime definition", "Deviance", "Criminal typologies"]
+    },
+    {
+      "id": "3",
+      "title": "Classical & Biological Perspectives",
+      "content": "Classical school (free will, deterrence) underpins proportionality. Early biological ideas (phrenology/physiognomy) are discredited historically but important context. Contemporary biosocial research considers genetics, neurobiology, and environment with ethical safeguards.",
+      "keyTakeaways": [
+        "Deterrence informs sentencing and policing visibility.",
+        "Historical biological theories explain the evolution of thought, not current policy.",
+        "Modern biosocial work must avoid determinism and respect rights."
+      ],
+      "resources": [
+        {
+          "title": "Definitions from 2020–2021 exam context (historical terms)",
+          "url": "https://en.wikipedia.org/wiki/Phrenology",
+          "type": "article",
+          "description": "Historical reference (use cautiously alongside peer-reviewed sources)."
+        }
+      ],
+      "importance": "medium",
+      "category": "Classical & Biological Theories",
+      "topics": ["Classical school", "Deterrence", "Biological theories"]
+    },
+    {
+      "id": "4",
+      "title": "Sociological Theories I: Anomie & Strain",
+      "content": "Merton's Anomie/Strain: crime arises when cultural goals (e.g., success) are emphasized but legitimate means are blocked, producing adaptations (innovation, ritualism, retreatism, rebellion).",
+      "keyTakeaways": [
+        "Links structural inequality to crime rates.",
+        "Policy: expand legitimate opportunities; reduce strain via education, jobs."
+      ],
+      "resources": [
+        {
+          "title": "Merton (1938) 'Social Structure and Anomie'",
+          "url": "https://www.soc.umn.edu/~uggen/Merton_1938.pdf",
+          "type": "paper",
+          "description": "Seminal article (archival/teaching copy)."
+        }
+      ],
+      "importance": "high",
+      "category": "Sociological Theories",
+      "topics": ["Anomie", "Strain theory", "Merton"]
+    },
+    {
+      "id": "5",
+      "title": "Sociological Theories II: Differential Association",
+      "content": "Sutherland: criminal behavior is learned through interaction in intimate groups; crime occurs when definitions favorable to violation outweigh unfavorable ones.",
+      "keyTakeaways": [
+        "Focus on learning processes and peer networks.",
+        "Implications for prevention via pro-social associations."
+      ],
+      "resources": [
+        {
+          "title": "Sutherland (1947) Differential Association (overview)",
+          "url": "https://www.britannica.com/topic/differential-association",
+          "type": "reference",
+          "description": "Concept summary; supplement with textbooks."
+        }
+      ],
+      "importance": "high",
+      "category": "Sociological Theories",
+      "topics": ["Differential association", "Sutherland", "Learning theory"]
+    },
+    {
+      "id": "6",
+      "title": "Sociological Theories III: Social Bond/Control",
+      "content": "Hirschi: crime occurs when bonds to society (attachment, commitment, involvement, belief) are weak or broken.",
+      "keyTakeaways": [
+        "Prevention strengthens pro-social bonds (family, school, work).",
+        "Explains age–crime curve and informal controls."
+      ],
+      "resources": [
+        {
+          "title": "Hirschi (1969) Causes of Delinquency (extract)",
+          "url": "https://www.sas.upenn.edu/~haroldfs/601sociol/hirschi/hirschi.html",
+          "type": "article",
+          "description": "Key concepts summarized for study."
+        }
+      ],
+      "importance": "high",
+      "category": "Sociological Theories",
+      "topics": ["Social bond theory", "Hirschi", "Control theory"]
+    },
+    {
+      "id": "7",
+      "title": "Sociological Theories IV: Labeling",
+      "content": "Labelling theory: social reaction and stigmatizing labels can amplify deviance (secondary deviance). Youth are particularly vulnerable; diversion and restorative approaches mitigate harms.",
+      "keyTakeaways": [
+        "Focus on consequences of official reactions.",
+        "Promotes diversion, sealing records, rehabilitation."
+      ],
+      "resources": [
+        {
+          "title": "Becker (1963) Outsiders (excerpts/overview)",
+          "url": "https://monoskop.org/images/0/0a/Becker_Howard_S_Outsiders_Studies_in_the_Sociology_of_Deviance_1963.pdf",
+          "type": "book",
+          "description": "Seminal text (for academic study)."
+        }
+      ],
+      "importance": "high",
+      "category": "Sociological Theories",
+      "topics": ["Labeling theory", "Secondary deviance", "Becker"]
+    },
+    {
+      "id": "8",
+      "title": "Realist Perspectives & Key Concepts",
+      "content": "Left realism emphasizes relative deprivation and community responses; right realism stresses control, deterrence, and routine activity guardianship. Historical biological notions (phrenology/physiognomy) are referenced only as contrasts.",
+      "keyTakeaways": [
+        "Realist views inform practical policy mixes: prevention + enforcement.",
+        "Balance social programs with situational crime prevention."
+      ],
+      "resources": [
+        {
+          "title": "Realist criminology overview",
+          "url": "https://oxfordre.com/criminology/display/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-135",
+          "type": "reference",
+          "description": "Scholarly overview (Oxford Research Encyclopedia)."
+        }
+      ],
+      "importance": "medium",
+      "category": "Sociological Theories",
+      "topics": ["Left realism", "Right realism", "Policy approaches"]
+    },
+    {
+      "id": "9",
+      "title": "Juvenile Delinquency: Definitions, Causes, Risk/Protective Factors",
+      "content": "Juvenile delinquency involves offenses committed by minors. Risk factors: poverty, school failure, peer deviance, trauma; protective factors: family support, mentoring, pro-social activities, education.",
+      "keyTakeaways": [
+        "Multi-level risks; interventions must be family-, school-, and community-based.",
+        "Diversion and probation reduce labeling harms."
+      ],
+      "resources": [
+        {
+          "title": "UNODC Youth Crime Prevention (policy page)",
+          "url": "https://www.unodc.org/unodc/justice-and-prison-reform/cpcj-crime-prevention-youth.html",
+          "type": "web",
+          "description": "Evidence-based prevention focus on youth."
+        }
+      ],
+      "importance": "high",
+      "category": "Juvenile Delinquency & Justice",
+      "topics": ["Juvenile delinquency", "Risk factors", "Protective factors"]
+    },
+    {
+      "id": "10",
+      "title": "Pakistan's Juvenile Justice: Law & Practice",
+      "content": "JJSA 2018 introduced diversion, age determination, legal aid, and specialized courts; implementation challenges persist (capacity, resources). Probation services derive from the Probation of Offenders Ordinance 1960 and related rules.",
+      "keyTakeaways": [
+        "JJSA centers diversion and rehabilitation.",
+        "Coordination across police, prosecution, courts, social services is crucial."
+      ],
+      "resources": [
+        {
+          "title": "Juvenile Justice System Act 2018 (official)",
+          "url": "https://www.mohr.gov.pk/Detail/MDcwYTE5ZWUtZDA4Ny00MDgyLThkNjctMGZmZDBkMjFlOGRj",
+          "type": "law",
+          "description": "Government page on JJSA."
+        },
+        {
+          "title": "JJSA & International Human Rights (RSIL analysis)",
+          "url": "https://rsilpak.org/wp-content/uploads/2023/11/Juvenile-Justice-System-Act-2018-and-International-Human-Rights.pdf",
+          "type": "report",
+          "description": "Legal analysis and gaps."
+        },
+        {
+          "title": "Probation of Offenders Ordinance, 1960",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/52-probation-of-offenders-ordinance-1960-xlv-of-1960-pdf.pdf",
+          "type": "law",
+          "description": "Primary statute for probation."
+        },
+        {
+          "title": "PRI: Probation & Parole in Pakistan (overview)",
+          "url": "https://cdn.penalreform.org/wp-content/uploads/2013/05/Probation-and-parole-system-in-Pakistan_English-1.pdf",
+          "type": "report",
+          "description": "System overview and challenges."
+        }
+      ],
+      "importance": "high",
+      "category": "Juvenile Delinquency & Justice",
+      "topics": ["JJSA 2018", "Diversion", "Probation"]
+    },
+    {
+      "id": "11",
+      "title": "Principles of Criminal Investigation",
+      "content": "Core principles: preserve life; secure and preserve the scene; document thoroughly; maintain continuity/chain of custody; follow legal/rights-compliant procedures; integrate forensics; maintain objectivity.",
+      "keyTakeaways": [
+        "First responder actions determine evidential integrity.",
+        "Documentation + chain of custody underpin admissibility."
+      ],
+      "resources": [
+        {
+          "title": "NIJ: Crime Scene Investigation Guide",
+          "url": "https://www.ojp.gov/pdffiles1/nij/178280.pdf",
+          "type": "guide",
+          "description": "Comprehensive best-practice guide."
+        },
+        {
+          "title": "FBI Crime Scene Guide (archived)",
+          "url": "https://www.fbi.gov/about-us/lab/forensic-science-communications/fsc/april2000/twgcsi.pdf",
+          "type": "guide",
+          "description": "Procedural reference."
+        },
+        {
+          "title": "UNODC Crime Scene Awareness (non-forensic personnel)",
+          "url": "https://www.unodc.org/documents/scientific/Crime_scene_awareness__Ebook.pdf",
+          "type": "manual",
+          "description": "Concise field guidance."
+        }
+      ],
+      "importance": "high",
+      "category": "Investigation, Interviewing & Forensics",
+      "topics": ["Crime scene", "Investigation principles", "Chain of custody"]
+    },
+    {
+      "id": "12",
+      "title": "Crime Scene Search Patterns & Documentation",
+      "content": "Common patterns: spiral, strip/line, grid, zone/quadrant, wheel/ray—selected by scene layout and resources. Documentation: notes, photographs, sketches, evidence logs; establish entry/exit log and cordons.",
+      "keyTakeaways": [
+        "Choose patterns to maximize coverage and minimize contamination.",
+        "Documentation must be contemporaneous and complete."
+      ],
+      "resources": [
+        {
+          "title": "UNODC Crime Scene Manual (ST/NAR/39)",
+          "url": "https://www.unodc.org/unodc/en/scientists/crime-scene-and-physical-evidence-awareness-for-non-forensic-personnel.html",
+          "type": "manual",
+          "description": "Official details and downloadable PDF."
+        }
+      ],
+      "importance": "medium",
+      "category": "Investigation, Interviewing & Forensics",
+      "topics": ["Search patterns", "Documentation", "Crime scene management"]
+    },
+    {
+      "id": "13",
+      "title": "Interviewing vs. Interrogation & Human Rights",
+      "content": "Modern practice favors rapport-based investigative interviewing over accusatory interrogation. The Méndez Principles set science-, law-, and ethics-based standards: plan, build rapport, open questions, record, ensure legal safeguards (lawyer, doctor, notification), reject coercion/torture.",
+      "keyTakeaways": [
+        "Effective interviews elicit reliable information and reduce false confessions.",
+        "Audio-video recording and early access to counsel are key safeguards."
+      ],
+      "resources": [
+        {
+          "title": "Méndez Principles (full text)",
+          "url": "https://www.wcl.american.edu/impact/initiatives-programs/center/publications/documents/upload/mendez-principles.pdf",
+          "type": "standard",
+          "description": "Principles on Effective Interviewing (2021)."
+        },
+        {
+          "title": "UNODC Investigative Interviewing (overview)",
+          "url": "https://www.unodc.org/unodc/justice-and-prison-reform/investigative-interviewing.html",
+          "type": "web",
+          "description": "UNODC's approach and resources."
+        },
+        {
+          "title": "UN Manual on Investigative Interviewing (2024)",
+          "url": "https://resourcehub01.blob.core.windows.net/%24web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.01%20Manual%20on%20Investigative%20Interviewing%20for%20Criminal%20Investigation%20%282024%29.pdf",
+          "type": "manual",
+          "description": "Implementation guide grounded in the Méndez Principles."
+        }
+      ],
+      "importance": "high",
+      "category": "Investigation, Interviewing & Forensics",
+      "topics": ["Investigative interviewing", "Méndez Principles", "Human rights"]
+    },
+    {
+      "id": "14",
+      "title": "Forensic Science in Pakistan (PFSA & Practice)",
+      "content": "PFSA provides multidisciplinary services (DNA, crime scene, fingerprints, firearms, digital forensics). Proper evidence packaging, sealing, and paperwork are mandatory for admissibility.",
+      "keyTakeaways": [
+        "Coordinate early with PFSA to select appropriate tests.",
+        "Scene processing quality directly affects lab outcomes."
+      ],
+      "resources": [
+        {
+          "title": "PFSA – Crime & Death Scene Department",
+          "url": "https://pfsa.punjab.gov.pk/crime_death_scene_department",
+          "type": "web",
+          "description": "Scope and procedures."
+        },
+        {
+          "title": "Crime scene investigation in Pakistan (review)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7219144/",
+          "type": "article",
+          "description": "Peer-reviewed perspective on CSI practice."
+        }
+      ],
+      "importance": "high",
+      "category": "Investigation, Interviewing & Forensics",
+      "topics": ["PFSA", "Forensic science", "Evidence handling"]
+    },
+    {
+      "id": "15",
+      "title": "Policing in Pakistan: History, Structure & Reforms",
+      "content": "Colonial legacy (Police Act 1861) → reforms via Police Order 2002 emphasizing accountability bodies, public safety commissions, and service orientation. Further provincial adaptations and ongoing reform debates.",
+      "keyTakeaways": [
+        "Shift from force-centric to service-oriented policing remains a work in progress.",
+        "Legal architecture matters for legitimacy and effectiveness."
+      ],
+      "resources": [
+        {
+          "title": "Police Order 2002 (Updated version PDF)",
+          "url": "https://policehumanrightsresources.org/content/uploads/2016/07/Police-Order-2002-with-Amendment-Ordinance-2006.pdf?x80005=",
+          "type": "law",
+          "description": "Text with early amendments."
+        },
+        {
+          "title": "Evaluation of Police Order 2002 (2024)",
+          "url": "https://www.advancelrf.org/wp-content/uploads/2024/07/Vol-6-No.-2-6.pdf",
+          "type": "article",
+          "description": "Scholarly evaluation."
+        }
+      ],
+      "importance": "high",
+      "category": "Policing & Crime Control Agencies",
+      "topics": ["Police Order 2002", "Police reforms", "Pakistan policing"]
+    },
+    {
+      "id": "16",
+      "title": "International Police Cooperation: INTERPOL, EUROPOL & IPA",
+      "content": "INTERPOL connects NCBs (I-24/7), notices (incl. new Silver Notice for asset tracing), and analytical support; EUROPOL supports EU Member States with ECTC and analysis projects; the International Police Association (IPA) is a professional friendship/learning network enhancing cooperation.",
+      "keyTakeaways": [
+        "INTERPOL facilitates data/intelligence sharing and asset recovery.",
+        "EUROPOL provides operational analysis hubs (e.g., ECTC).",
+        "IPA fosters professional exchange and trust across borders."
+      ],
+      "resources": [
+        {
+          "title": "INTERPOL – Pakistan NCB page",
+          "url": "https://www.interpol.int/en/Who-we-are/Member-countries/Asia-South-Pacific/PAKISTAN",
+          "type": "web",
+          "description": "How NCB Pakistan interacts with INTERPOL."
+        },
+        {
+          "title": "INTERPOL Silver Notice (2025)",
+          "url": "https://www.interpol.int/en/News-and-Events/News/2025/INTERPOL-publishes-first-Silver-Notice-targeting-criminal-assets",
+          "type": "news",
+          "description": "Asset tracing notice for criminal proceeds."
+        },
+        {
+          "title": "EUROPOL – About & ECTC",
+          "url": "https://www.europol.europa.eu/about-europol",
+          "type": "web",
+          "description": "Agency mission and support."
+        },
+        {
+          "title": "International Police Association (mission)",
+          "url": "https://www.ipa-international.org/about",
+          "type": "web",
+          "description": "IPA aims and global footprint."
+        }
+      ],
+      "importance": "medium",
+      "category": "Policing & Crime Control Agencies",
+      "topics": ["INTERPOL", "EUROPOL", "International cooperation"]
+    },
+    {
+      "id": "17",
+      "title": "Cybercrime: Law, Prevention & Digital Evidence",
+      "content": "PECA 2016 criminalizes unauthorized access, cyber terrorism, hate speech online, etc. Digital evidence handling requires rapid preservation, imaging, and chain of custody; first-responder actions are critical.",
+      "keyTakeaways": [
+        "Use standard digital evidence protocols; avoid altering data.",
+        "Early engagement with specialized cyber units (FIA CCW) is essential."
+      ],
+      "resources": [
+        {
+          "title": "PECA 2016 (official)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Jvbp8%253D-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Primary statute."
+        },
+        {
+          "title": "FIA Cyber Crime Wing (reporting/overview)",
+          "url": "https://fia.gov.pk/ccw",
+          "type": "web",
+          "description": "Official portal and complaint process."
+        },
+        {
+          "title": "NIJ: Electronic Crime Scene Investigation (Guide)",
+          "url": "https://www.ojp.gov/pdffiles1/nij/219941.pdf",
+          "type": "guide",
+          "description": "Detailed first-responder guidance."
+        }
+      ],
+      "importance": "high",
+      "category": "Cybercrime & Digital Evidence",
+      "topics": ["PECA 2016", "Digital evidence", "Cybercrime"]
+    },
+    {
+      "id": "18",
+      "title": "Money Laundering: FATF Standards, TBML & Crypto Risks",
+      "content": "Pakistan's AML framework is anchored in AMLA 2010 and amendments, aligned to FATF 40 Recommendations. High-risk typologies include trade-based money laundering (TBML), misuse of MVTS/hawala, and virtual assets.",
+      "keyTakeaways": [
+        "Risk-based AML/CFT controls must cover TBML and virtual assets.",
+        "International cooperation (INTERPOL IFCACC; FIUs) is vital."
+      ],
+      "resources": [
+        {
+          "title": "FATF 40 Recommendations (latest PDF)",
+          "url": "https://www.fatf-gafi.org/content/dam/fatf-gafi/recommendations/FATF%20Recommendations%202012.pdf.coredownload.inline.pdf",
+          "type": "standard",
+          "description": "Updated FATF standards (June 2025 update indicated on FATF site)."
+        },
+        {
+          "title": "Pakistan AMLA 2010 (official)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Npaplq-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Anti-Money Laundering Act, 2010."
+        },
+        {
+          "title": "UNODC – Virtual Currencies AML/CFT Manual",
+          "url": "https://www.unodc.org/documents/middleeastandnorthafrica/money-laundering/FULL10-UNODCVirtualCurrencies-final.pdf.pdf",
+          "type": "manual",
+          "description": "Operational guidance on crypto risks."
+        },
+        {
+          "title": "GAO Report on TBML",
+          "url": "https://www.gao.gov/assets/gao-20-333.pdf",
+          "type": "report",
+          "description": "U.S. GAO overview of TBML threats."
+        }
+      ],
+      "importance": "high",
+      "category": "Money Laundering & Financial Crime",
+      "topics": ["FATF", "TBML", "Crypto", "AML/CFT"]
+    },
+    {
+      "id": "19",
+      "title": "Juvenile Probation: Organization & Administration",
+      "content": "Probation provides community-based supervision with conditions and rehabilitative services. In Pakistan, statutory basis is the Probation of Offenders Ordinance 1960 and provincial rules; coordination with social welfare departments is typical.",
+      "keyTakeaways": [
+        "Individualized case plans, graduated responses, family involvement.",
+        "Clear reporting, curfew/attendance conditions, education/vocational support."
+      ],
+      "resources": [
+        {
+          "title": "Probation of Offenders Ordinance 1960",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-a5acZQ%3D%3D-sg-jjjjjjjjjjjjj",
+          "type": "law",
+          "description": "Official code entry."
+        },
+        {
+          "title": "West Pakistan Probation of Offenders Rules, 1961",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/probation-of-ofenders-rules-1961-pdf.pdf",
+          "type": "rules",
+          "description": "Procedural rules for probation practice."
+        }
+      ],
+      "importance": "medium",
+      "category": "Juvenile Delinquency & Justice",
+      "topics": ["Probation", "Juvenile supervision", "Community corrections"]
+    },
+    {
+      "id": "20",
+      "title": "Recidivism: Institutional & Community Corrections",
+      "content": "Recidivism is reduced through evidence-based corrections: cognitive-behavioral programs, education, vocational training, substance use treatment, family reintegration, and post-release supervision. Community corrections (probation, parole, community service) often outperform incarceration for low-risk offenders.",
+      "keyTakeaways": [
+        "Match interventions to risk/need (RNR model).",
+        "Aftercare and reintegration planning start at intake."
+      ],
+      "resources": [
+        {
+          "title": "PRI overview (Pakistan context)",
+          "url": "https://cdn.penalreform.org/wp-content/uploads/2013/05/Probation-and-parole-system-in-Pakistan_English-1.pdf",
+          "type": "report",
+          "description": "Challenges and recommendations."
+        }
+      ],
+      "importance": "medium",
+      "category": "Courts, Corrections & Recidivism",
+      "topics": ["Recidivism", "RNR model", "Community corrections"]
+    },
+    {
+      "id": "21",
+      "title": "Criminal Courts in Pakistan: Procedures & Challenges",
+      "content": "Criminal process under CrPC: investigation, charge, trial, evidence, appeal. Procedural delays, resources, and witness protection are key challenges; reforms aim at speed, fairness, and due process.",
+      "keyTakeaways": [
+        "Understand CrPC structure to map bottlenecks.",
+        "Fair-trial rights (e.g., Article 10A) must be operationalized."
+      ],
+      "resources": [
+        {
+          "title": "CrPC (consolidated text – UNODC/Sherloc)",
+          "url": "https://sherloc.unodc.org/cld/uploads/res/document/code-of-criminal-procedure--1898_html/Code_of_Criminal_Procedure_1898_incorporating_amendments_to_16_February_2017.pdf",
+          "type": "law",
+          "description": "Reference text."
+        }
+      ],
+      "importance": "medium",
+      "category": "Courts, Corrections & Recidivism",
+      "topics": ["CrPC", "Criminal procedure", "Court challenges"]
+    },
+    {
+      "id": "22",
+      "title": "Community Policing: Philosophy, Strategies & Evaluation",
+      "content": "Community policing rests on partnerships + problem solving (SARA). Strategies include joint problem analysis, transparency, foot patrols, youth engagement, and accountability. Benefits: trust, tailored prevention, legitimacy; challenges: sustaining resources, measuring outcomes.",
+      "keyTakeaways": [
+        "Treat community as co-producer of safety.",
+        "Use evidence (hot spots, problem-oriented policing) alongside COP."
+      ],
+      "resources": [
+        {
+          "title": "COPS 'Community Policing Defined'",
+          "url": "https://portal.cops.usdoj.gov/resourcecenter/content.ashx/cops-p157-pub.pdf",
+          "type": "guide",
+          "description": "Core framework and elements."
+        },
+        {
+          "title": "UNODC Introductory Handbook on Policing Urban Space",
+          "url": "https://www.unodc.org/pdf/criminal_justice/Introductory_Handbook_on_Policing_Urban_Space.pdf",
+          "type": "handbook",
+          "description": "Includes COP and problem-oriented approaches."
+        },
+        {
+          "title": "What Works in Community Policing? (Berkeley Law)",
+          "url": "https://www.law.berkeley.edu/files/What_Works_in_Community_Policing.pdf",
+          "type": "review",
+          "description": "Evidence synthesis on COP effectiveness."
+        }
+      ],
+      "importance": "high",
+      "category": "Community Policing & Radicalization",
+      "topics": ["Community policing", "SARA model", "Problem-oriented policing"]
+    },
+    {
+      "id": "23",
+      "title": "Radicalization: Definitions, Factors & Prevention",
+      "content": "Radicalization is a process leading some individuals toward violent extremism; influenced by push/pull factors (grievances, identity needs, networks, propaganda). Prevention emphasizes whole-of-society approaches, human rights, youth empowerment, education, and community resilience.",
+      "keyTakeaways": [
+        "Address both structural drivers and individual pathways.",
+        "Programs should be context-specific and rights-compliant."
+      ],
+      "resources": [
+        {
+          "title": "UNDP PVE Annual Report (2021)",
+          "url": "https://www.undp.org/sites/g/files/zskgke326/files/2022-08/UNDP-PVE-2021-Annual-Report-V2.pdf",
+          "type": "report",
+          "description": "Push/pull factors and programming."
+        },
+        {
+          "title": "OSCE Guidebook on P/CVE (Central Asia)",
+          "url": "https://www.osce.org/files/f/documents/a/7/444340_0.pdf",
+          "type": "guide",
+          "description": "Whole-of-society approach."
+        },
+        {
+          "title": "NACTA – National PVE Policy (2025)",
+          "url": "https://www.nacta.gov.pk/wp-content/uploads/2025/02/National-Prevention-of-Violent-Extremism-Policy.pdf",
+          "type": "policy",
+          "description": "Pakistan's updated PVE policy framework."
+        }
+      ],
+      "importance": "high",
+      "category": "Community Policing & Radicalization",
+      "topics": ["Radicalization", "PVE", "CVE", "Push/pull factors"]
+    },
+    {
+      "id": "24",
+      "title": "Intelligence-Led Policing (ILP) & Organized Crime",
+      "content": "ILP uses crime analysis and criminal intelligence to prioritize prolific offenders and serious harm. Coordination with financial crime units and international partners (INTERPOL, EUROPOL) is key against organized crime, trafficking, and money laundering.",
+      "keyTakeaways": [
+        "Data-driven targeting of serious harm improves resource allocation.",
+        "Link ILP with AML/CFT and asset recovery."
+      ],
+      "resources": [
+        {
+          "title": "EUROPOL – Analysis Projects & Strategy",
+          "url": "https://www.europol.europa.eu/operations-services-innovation/europol-analysis-projects",
+          "type": "web",
+          "description": "Operational support against serious organized crime."
+        },
+        {
+          "title": "INTERPOL – Role in Fighting Financial Crime (IFCACC)",
+          "url": "https://www.interpol.int/en/Crimes/Financial-crime/Our-role-in-fighting-financial-crime",
+          "type": "web",
+          "description": "Global coordination, including virtual assets."
+        },
+        {
+          "title": "FIA Pakistan – Organized Crime/INTERPOL link",
+          "url": "https://www.fia.gov.pk/interpol",
+          "type": "web",
+          "description": "NCB and cooperation details."
+        }
+      ],
+      "importance": "high",
+      "category": "Policing & Crime Control Agencies",
+      "topics": ["ILP", "Organized crime", "Crime analysis"]
+    }
+  ]
+}

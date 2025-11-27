@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T21:11:36.872Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "c0db4ea2270ffe15746258932409b89fc8162698",
+      "sectionIndex": 0,
+      "question": "Christopher Columbus first landed in the Americas in:",
+      "options": [
+        "A) 1490",
+        "B) 1491",
+        "C) 1492",
+        "D) 1493"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cc9d198fcc7a49f7324709d5ab84da771488e87d",
+      "sectionIndex": 0,
+      "question": "During his first voyage, Columbus landed at:",
+      "options": [
+        "A) Florida",
+        "B) Virginia",
+        "C) Watlings Island in the Bahamas",
+        "D) Cuba"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a251abfa158d8f5b48d745f9f790e1efa673e411",
+      "sectionIndex": 0,
+      "question": "The first permanent English colony in America was:",
+      "options": [
+        "A) Plymouth",
+        "B) Jamestown",
+        "C) Boston",
+        "D) Philadelphia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1070d3c56a282a119f48abff142cb331517c8835",
+      "sectionIndex": 0,
+      "question": "Jamestown was founded in:",
+      "options": [
+        "A) 1605",
+        "B) 1607",
+        "C) 1609",
+        "D) 1620"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84b5b428c2ad4350378a5754071866249f146825",
+      "sectionIndex": 0,
+      "question": "The Pilgrims reached Plymouth in:",
+      "options": [
+        "A) 1607",
+        "B) 1620",
+        "C) 1630",
+        "D) 1640"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d53021f41a14f54892d94467f6b0ddbdd2ffa04",
+      "sectionIndex": 0,
+      "question": "The ship that brought the Pilgrims to Plymouth was called:",
+      "options": [
+        "A) Santa Maria",
+        "B) Speedwell",
+        "C) Mayflower",
+        "D) Discovery"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2454b5e7e7919107124e09c8d3b11fb46a58f70f",
+      "sectionIndex": 0,
+      "question": "Which colony was named after Queen Elizabeth I?",
+      "options": [
+        "A) Maryland",
+        "B) Georgia",
+        "C) Virginia",
+        "D) Carolina"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d8ffe52e8cdbbd36581dc1c4aa616feff0c22f9a",
+      "sectionIndex": 0,
+      "question": "The New England Confederation was formed in:",
+      "options": [
+        "A) 1620",
+        "B) 1630",
+        "C) 1643",
+        "D) 1650"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fd362b2975157f3858359d60138b2fa415f9f5aa",
+      "sectionIndex": 0,
+      "question": "Which state was famous for its gold mines?",
+      "options": [
+        "A) Nevada",
+        "B) Colorado",
+        "C) California",
+        "D) Arizona"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "da179c84fb8f41f20bb47002592511adccd24f49",
+      "sectionIndex": 0,
+      "question": "The original 13 colonies were established by:",
+      "options": [
+        "A) Spain",
+        "B) France",
+        "C) Britain",
+        "D) Netherlands"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f5666a4f6ed7dc35a1e2cb1d031f8efeed719cff",
+      "sectionIndex": 1,
+      "question": "The Declaration of Independence was signed in:",
+      "options": [
+        "A) 1774",
+        "B) 1775",
+        "C) 1776",
+        "D) 1777"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f82bfd41c287a8608ea69a2f54567ce526c7e77f",
+      "sectionIndex": 1,
+      "question": "The main author of the Declaration of Independence was:",
+      "options": [
+        "A) George Washington",
+        "B) Benjamin Franklin",
+        "C) John Adams",
+        "D) Thomas Jefferson"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f9113bb906d708a8a2fb9dc87029c6ae474eab1d",
+      "sectionIndex": 1,
+      "question": "The U.S. Constitution was adopted in:",
+      "options": [
+        "A) 1787",
+        "B) 1788",
+        "C) 1789",
+        "D) 1790"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20f72288dbf39c5861774eca45f366537cbffb8e",
+      "sectionIndex": 1,
+      "question": "The Bill of Rights was added to the Constitution in:",
+      "options": [
+        "A) 1789",
+        "B) 1790",
+        "C) 1791",
+        "D) 1792"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "82e76201fc38489d7e79172d49da89be4d747074",
+      "sectionIndex": 1,
+      "question": "The first ten amendments are known as:",
+      "options": [
+        "A) Articles of Confederation",
+        "B) Bill of Rights",
+        "C) Constitutional Amendments",
+        "D) Freedom Charter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9981f970c725ac52414dc860dfbefaec67de3030",
+      "sectionIndex": 1,
+      "question": "The \"Father of the American Constitution\" is:",
+      "options": [
+        "A) Thomas Jefferson",
+        "B) George Washington",
+        "C) James Madison",
+        "D) Alexander Hamilton"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fa79a392968048a42b68ba0b3f1e4586118ff3ae",
+      "sectionIndex": 1,
+      "question": "The Constitution provides for how many branches of government?",
+      "options": [
+        "A) Two",
+        "B) Three",
+        "C) Four",
+        "D) Five"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "212eadbaf0a83fbd8652c4706497c679af71888f",
+      "sectionIndex": 1,
+      "question": "The system of checks and balances ensures:",
+      "options": [
+        "A) Financial stability",
+        "B) No branch becomes too powerful",
+        "C) Equal representation",
+        "D) State rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "605b8c4e9e85e962b194ef90df23dce21794d23d",
+      "sectionIndex": 1,
+      "question": "Amendments to the Constitution may be proposed by:",
+      "options": [
+        "A) The President only",
+        "B) Congress",
+        "C) The Supreme Court",
+        "D) State governors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3df9d40688323786d2931da3c0b5dc68ff66b3cf",
+      "sectionIndex": 1,
+      "question": "The Philadelphia Convention was originally called to:",
+      "options": [
+        "A) Write a new constitution",
+        "B) Amend the Articles of Confederation",
+        "C) Declare independence",
+        "D) Elect a president"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "810f42ae025da2eca1e2016d6fd5381ec38352ac",
+      "sectionIndex": 2,
+      "question": "The first President of the United States was:",
+      "options": [
+        "A) Thomas Jefferson",
+        "B) John Adams",
+        "C) George Washington",
+        "D) Benjamin Franklin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2204c5f4295e91325ec8a12f84105f6ef245b3d8",
+      "sectionIndex": 2,
+      "question": "Abraham Lincoln was President during:",
+      "options": [
+        "A) Revolutionary War",
+        "B) War of 1812",
+        "C) Civil War",
+        "D) Spanish-American War"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9bdf4d729621da4d08643819854e640d8e52d147",
+      "sectionIndex": 2,
+      "question": "Which President served four consecutive terms?",
+      "options": [
+        "A) George Washington",
+        "B) Theodore Roosevelt",
+        "C) Franklin D. Roosevelt",
+        "D) Harry Truman"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d0f0b8452c0675312cc485183bf41f7193829517",
+      "sectionIndex": 2,
+      "question": "Thomas Jefferson became President in:",
+      "options": [
+        "A) 1796",
+        "B) 1800",
+        "C) 1804",
+        "D) 1808"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d3120f1daef57fee4ceee5a4b738ffc6885df10",
+      "sectionIndex": 2,
+      "question": "Andrew Jackson represented which type of democracy?",
+      "options": [
+        "A) Aristocratic",
+        "B) Popular/Common man",
+        "C) Elite",
+        "D) Monarchical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9eb0dca5d274c23f037eee71d7f58f7d54d9c8cf",
+      "sectionIndex": 2,
+      "question": "The New Deal was associated with:",
+      "options": [
+        "A) Theodore Roosevelt",
+        "B) Franklin D. Roosevelt",
+        "C) Harry Truman",
+        "D) Dwight Eisenhower"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3967a1d05fb344061ab466f3a91e7be85933cae",
+      "sectionIndex": 2,
+      "question": "Woodrow Wilson was President during:",
+      "options": [
+        "A) Civil War",
+        "B) Spanish-American War",
+        "C) World War I",
+        "D) World War II"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1fa71c7e22001b9d53cc8d63a452b4bb0ace2ccb",
+      "sectionIndex": 2,
+      "question": "Which President was responsible for the Apollo Project?",
+      "options": [
+        "A) Dwight Eisenhower",
+        "B) John F. Kennedy",
+        "C) Lyndon Johnson",
+        "D) Richard Nixon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ef6bd7497afdad613e26cd335c58430197f0c0d",
+      "sectionIndex": 2,
+      "question": "The Truman Doctrine was announced by:",
+      "options": [
+        "A) Theodore Roosevelt",
+        "B) Franklin Roosevelt",
+        "C) Harry S. Truman",
+        "D) Dwight Eisenhower"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4435489bfe23c583f9eece18529825cf7a8a23af",
+      "sectionIndex": 2,
+      "question": "Which President was at the Camp David Accords?",
+      "options": [
+        "A) Gerald Ford",
+        "B) Jimmy Carter",
+        "C) Ronald Reagan",
+        "D) George H.W. Bush"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "707d1e5af8e5d4937662ee422a6c4179646125eb",
+      "sectionIndex": 3,
+      "question": "The American War of Independence ended with the Treaty of Paris in:",
+      "options": [
+        "A) 1781",
+        "B) 1782",
+        "C) 1783",
+        "D) 1784"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1a6fff2d44e57111d878524259146e292ce88be9",
+      "sectionIndex": 3,
+      "question": "The War of 1812 was fought against:",
+      "options": [
+        "A) France",
+        "B) Spain",
+        "C) Britain",
+        "D) Mexico"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dd943d1a561f411caf3a73a083b686f6add6fb87",
+      "sectionIndex": 3,
+      "question": "The American Civil War lasted from:",
+      "options": [
+        "A) 1850-1854",
+        "B) 1860-1865",
+        "C) 1861-1865",
+        "D) 1862-1866"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d31803e9a9c2685c0ad013ef881b84cbf69cb9c8",
+      "sectionIndex": 3,
+      "question": "The Battle of Bull Run was fought during:",
+      "options": [
+        "A) Revolutionary War",
+        "B) Civil War",
+        "C) War of 1812",
+        "D) Mexican War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3427e8bdb2227a3510f285628b3bcbc221b03467",
+      "sectionIndex": 3,
+      "question": "The President of the Confederacy was:",
+      "options": [
+        "A) Robert E. Lee",
+        "B) Jefferson Davis",
+        "C) Stonewall Jackson",
+        "D) Alexander Stephens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60199fd78042ae7e8c0a2d6e1332f3577b034ae6",
+      "sectionIndex": 3,
+      "question": "The United States entered World War I in:",
+      "options": [
+        "A) 1914",
+        "B) 1915",
+        "C) 1916",
+        "D) 1917"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "50ba7660bb264044bc4eb0935203ebc6499e0b7b",
+      "sectionIndex": 3,
+      "question": "Pearl Harbor was attacked in:",
+      "options": [
+        "A) 1939",
+        "B) 1940",
+        "C) 1941",
+        "D) 1942"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "334368077d5fc1cec9a9caf4af66cf9c22f8fe54",
+      "sectionIndex": 3,
+      "question": "American troops left Vietnam in:",
+      "options": [
+        "A) 1973",
+        "B) 1974",
+        "C) 1975",
+        "D) 1976"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "30eee0a136aad400ad9889e655616ec7c627ee14",
+      "sectionIndex": 3,
+      "question": "The Korean War began in:",
+      "options": [
+        "A) 1948",
+        "B) 1950",
+        "C) 1952",
+        "D) 1954"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "648629f0381452e483b283d140b849cdfd06452e",
+      "sectionIndex": 3,
+      "question": "Operation Desert Storm was part of:",
+      "options": [
+        "A) Vietnam War",
+        "B) Korean War",
+        "C) Gulf War",
+        "D) Afghanistan War"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1a4f42cfcd4a0521da7cf20e16771f6d8ffa2451",
+      "sectionIndex": 4,
+      "question": "The Louisiana Purchase occurred in:",
+      "options": [
+        "A) 1800",
+        "B) 1803",
+        "C) 1805",
+        "D) 1810"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5d20780cd1f141356d232e79e63c44461f97110",
+      "sectionIndex": 4,
+      "question": "Florida was acquired from Spain under the:",
+      "options": [
+        "A) Louisiana Purchase",
+        "B) Adams-Onis Treaty",
+        "C) Gadsden Purchase",
+        "D) Treaty of Guadalupe Hidalgo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7df7667df35062acf893aedbd23b09f98ea55908",
+      "sectionIndex": 4,
+      "question": "Alaska was purchased from:",
+      "options": [
+        "A) Britain",
+        "B) Canada",
+        "C) Russia",
+        "D) France"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "01ccaca73ac54972d8c57e91fb707c43cde93cf3",
+      "sectionIndex": 4,
+      "question": "Texas was annexed in:",
+      "options": [
+        "A) 1836",
+        "B) 1840",
+        "C) 1845",
+        "D) 1850"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c792542ab5df6307a1f6d7f433819df8b288dcf9",
+      "sectionIndex": 4,
+      "question": "The Mexican Cession resulted from:",
+      "options": [
+        "A) Purchase",
+        "B) Mexican-American War",
+        "C) Negotiation",
+        "D) Gift"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43fe4aa76315ee09829c599df373e4e039e73da6",
+      "sectionIndex": 4,
+      "question": "The Oregon Territory was settled with Britain in:",
+      "options": [
+        "A) 1840",
+        "B) 1844",
+        "C) 1846",
+        "D) 1850"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b155540d601ac633fec36283c1eda3a785f26a93",
+      "sectionIndex": 4,
+      "question": "Hawaii was annexed in:",
+      "options": [
+        "A) 1893",
+        "B) 1898",
+        "C) 1900",
+        "D) 1905"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f07660f7b43ed47e84f7aeb6ef65417a51d4c980",
+      "sectionIndex": 4,
+      "question": "The Gadsden Purchase was made to facilitate:",
+      "options": [
+        "A) Agriculture",
+        "B) Mining",
+        "C) Railroad construction",
+        "D) Military bases"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dbc8bb4bfda3aac0b9a95c36c86491c16a74c034",
+      "sectionIndex": 4,
+      "question": "\"Manifest Destiny\" referred to:",
+      "options": [
+        "A) Religious mission",
+        "B) Westward expansion",
+        "C) Industrial growth",
+        "D) Naval power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5c36789f5b2d994ac3dc88491328314e081421c",
+      "sectionIndex": 4,
+      "question": "The phrase \"Go west, young man\" is associated with:",
+      "options": [
+        "A) Gold Rush",
+        "B) Manifest Destiny",
+        "C) Railroad building",
+        "D) All of these"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "141acb9959cf7f390417a97ae13b8639de822eac",
+      "sectionIndex": 5,
+      "question": "The Civil Rights Movement peaked in the:",
+      "options": [
+        "A) 1940s",
+        "B) 1950s",
+        "C) 1960s",
+        "D) 1970s"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2895c029ae09cbc67c3f80bcfbde2865dbaf311e",
+      "sectionIndex": 5,
+      "question": "\"I have a dream\" was spoken by:",
+      "options": [
+        "A) Malcolm X",
+        "B) Martin Luther King Jr.",
+        "C) Rosa Parks",
+        "D) John Lewis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e120b3ae2aacc607c100144599968b52e2a3fd12",
+      "sectionIndex": 5,
+      "question": "American women got the right to vote in:",
+      "options": [
+        "A) 1865",
+        "B) 1900",
+        "C) 1920",
+        "D) 1945"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f9e8d4b68d7d1484f708852dd1a75dc8d1c21bec",
+      "sectionIndex": 5,
+      "question": "The 19th Amendment granted:",
+      "options": [
+        "A) Abolition of slavery",
+        "B) Women's suffrage",
+        "C) Prohibition",
+        "D) Income tax"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4cd5549f684c8cbb3ffd22002e930c369520a999",
+      "sectionIndex": 5,
+      "question": "The Seneca Falls Convention was held in:",
+      "options": [
+        "A) 1828",
+        "B) 1838",
+        "C) 1848",
+        "D) 1858"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "395b1943f263ab1c96facc4815ed7f82e1541204",
+      "sectionIndex": 5,
+      "question": "Martin Luther King won the Nobel Peace Prize in:",
+      "options": [
+        "A) 1962",
+        "B) 1963",
+        "C) 1964",
+        "D) 1965"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d9b5a866ce4ebbbfc7fd7f0bc87665dd1803054d",
+      "sectionIndex": 5,
+      "question": "The Underground Railroad helped:",
+      "options": [
+        "A) Build railways",
+        "B) Escaped slaves",
+        "C) Coal miners",
+        "D) Immigrants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03f1d455ba61a7e0885304842ae1c89489f1c02b",
+      "sectionIndex": 5,
+      "question": "The Emancipation Proclamation was issued in:",
+      "options": [
+        "A) 1861",
+        "B) 1862",
+        "C) 1863",
+        "D) 1864"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a6cfc4335448c916d1b5a05f7ebab407d9f74025",
+      "sectionIndex": 5,
+      "question": "Brown v. Board of Education occurred in:",
+      "options": [
+        "A) 1950",
+        "B) 1952",
+        "C) 1954",
+        "D) 1956"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "562b6b77544ed5d957966423b4133e13e5ffe5e0",
+      "sectionIndex": 5,
+      "question": "The Montgomery Bus Boycott began in:",
+      "options": [
+        "A) 1953",
+        "B) 1954",
+        "C) 1955",
+        "D) 1956"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7fb1e0db0fbd0ad240b0844ad964aead6e7e4110",
+      "sectionIndex": 6,
+      "question": "The Great Depression began in:",
+      "options": [
+        "A) 1927",
+        "B) 1928",
+        "C) 1929",
+        "D) 1930"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "12cc7a6dd8d458ae979b65a8e09119e5376fdc86",
+      "sectionIndex": 6,
+      "question": "The New Deal was a response to:",
+      "options": [
+        "A) World War I",
+        "B) Great Depression",
+        "C) World War II",
+        "D) Cold War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dae35aaddb1305daa1d7002826052c3346c01b45",
+      "sectionIndex": 6,
+      "question": "The Industrial Revolution in America began in the:",
+      "options": [
+        "A) Late 1700s",
+        "B) Early 1800s",
+        "C) Mid 1800s",
+        "D) Late 1800s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9589a061a5adc343d3030d64715bb0c9cadfe299",
+      "sectionIndex": 6,
+      "question": "The Gold Rush of 1849 occurred in:",
+      "options": [
+        "A) Alaska",
+        "B) Colorado",
+        "C) California",
+        "D) Nevada"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "73d5aeb60560c0b8ec97d5aa1727c578a5e11681",
+      "sectionIndex": 6,
+      "question": "The Panic of 1893 was a:",
+      "options": [
+        "A) War scare",
+        "B) Economic depression",
+        "C) Natural disaster",
+        "D) Political crisis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51cd686deb6ae68d1e1b70b0ab67aa3edc3714d9",
+      "sectionIndex": 6,
+      "question": "The Federal Reserve was created in:",
+      "options": [
+        "A) 1903",
+        "B) 1913",
+        "C) 1923",
+        "D) 1933"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0cea91963f649d675a75869f28978b98c4414256",
+      "sectionIndex": 6,
+      "question": "Social Security was established in:",
+      "options": [
+        "A) 1925",
+        "B) 1930",
+        "C) 1935",
+        "D) 1940"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0ff33a4f62888dc73b92c39b58eb7f9468a85fe6",
+      "sectionIndex": 6,
+      "question": "The Marshall Plan provided:",
+      "options": [
+        "A) Military aid",
+        "B) Economic aid to Europe",
+        "C) Domestic relief",
+        "D) Space funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d0c6cff37ed72108e1237cab3a27a9917c808c01",
+      "sectionIndex": 6,
+      "question": "The Interstate Highway System was built under:",
+      "options": [
+        "A) Roosevelt",
+        "B) Truman",
+        "C) Eisenhower",
+        "D) Kennedy"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c6f38ae41e835392c51a97ec434d261064b51537",
+      "sectionIndex": 6,
+      "question": "The dot-com bubble burst in:",
+      "options": [
+        "A) 1998",
+        "B) 2000",
+        "C) 2002",
+        "D) 2004"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4014fb542458992ce736069e8ebcd741e9a87591",
+      "sectionIndex": 7,
+      "question": "The Monroe Doctrine was proclaimed in:",
+      "options": [
+        "A) 1820",
+        "B) 1823",
+        "C) 1825",
+        "D) 1830"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "394834387428c7e0374ec55fd4319f68238a209b",
+      "sectionIndex": 7,
+      "question": "The Open Door Policy related to:",
+      "options": [
+        "A) Immigration",
+        "B) Trade with China",
+        "C) European relations",
+        "D) Latin America"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71a40b8e3e5498fff4dd168d7d4d40c11e181415",
+      "sectionIndex": 7,
+      "question": "NATO was formed in:",
+      "options": [
+        "A) 1945",
+        "B) 1947",
+        "C) 1949",
+        "D) 1951"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3e4e97a17fc16ad794de6c0496720080af753de4",
+      "sectionIndex": 7,
+      "question": "The Cold War lasted approximately:",
+      "options": [
+        "A) 20 years",
+        "B) 30 years",
+        "C) 45 years",
+        "D) 60 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f6da85ef6e29a9cbbf061acc8f0b24cacb09e0b4",
+      "sectionIndex": 7,
+      "question": "The Cuban Missile Crisis occurred in:",
+      "options": [
+        "A) 1960",
+        "B) 1961",
+        "C) 1962",
+        "D) 1963"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ab62e73c17719eb349e4bec9cd7122b4bbb422ca",
+      "sectionIndex": 7,
+      "question": "The League of Nations was rejected by the U.S. Senate in:",
+      "options": [
+        "A) 1918",
+        "B) 1919",
+        "C) 1920",
+        "D) 1921"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0f46df68c828a6bd6523577448f13a0dfeec84d0",
+      "sectionIndex": 7,
+      "question": "The United Nations was founded in:",
+      "options": [
+        "A) 1943",
+        "B) 1944",
+        "C) 1945",
+        "D) 1946"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fc822ddbacb499706de096e191975b53eec43f0c",
+      "sectionIndex": 7,
+      "question": "The Marshall Plan was announced in:",
+      "options": [
+        "A) 1945",
+        "B) 1946",
+        "C) 1947",
+        "D) 1948"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "29cac65e40b23e5c225decae046aef221a5c1c1d",
+      "sectionIndex": 7,
+      "question": "The Spanish-American War occurred in:",
+      "options": [
+        "A) 1896",
+        "B) 1897",
+        "C) 1898",
+        "D) 1899"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "60e1e08e8d21c09410d65b6e96d99309fd99d928",
+      "sectionIndex": 7,
+      "question": "The Good Neighbor Policy was toward:",
+      "options": [
+        "A) Canada",
+        "B) Latin America",
+        "C) Europe",
+        "D) Asia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d32779a11de88ad9b3c404e108be65753beff180",
+      "sectionIndex": 8,
+      "question": "The Mayflower Compact was signed in:",
+      "options": [
+        "A) 1619",
+        "B) 1620",
+        "C) 1621",
+        "D) 1622"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0432ad00f6364462841c26ba3b7a589c80d29363",
+      "sectionIndex": 8,
+      "question": "The first Thanksgiving was celebrated in:",
+      "options": [
+        "A) 1620",
+        "B) 1621",
+        "C) 1622",
+        "D) 1623"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83dddaaa362bf44acc6ac002ed17131fa1350d14",
+      "sectionIndex": 8,
+      "question": "The Salem Witch Trials occurred in:",
+      "options": [
+        "A) 1690",
+        "B) 1691",
+        "C) 1692",
+        "D) 1693"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5c35e3ef75ddb98419288b3d1f92529ea3de3953",
+      "sectionIndex": 8,
+      "question": "The Great Awakening was a:",
+      "options": [
+        "A) Political movement",
+        "B) Religious revival",
+        "C) Economic boom",
+        "D) Educational reform"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2ea58b4167651653f1f2bdf3a8ec4bce2682fb9",
+      "sectionIndex": 8,
+      "question": "Louis Armstrong was a famous:",
+      "options": [
+        "A) Pianist",
+        "B) Drummer",
+        "C) Trumpeter",
+        "D) Saxophonist"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "68d10f2f2d3307abfe2c770482d02b839c9c1ab6",
+      "sectionIndex": 8,
+      "question": "The Jazz Age refers to the:",
+      "options": [
+        "A) 1910s",
+        "B) 1920s",
+        "C) 1930s",
+        "D) 1940s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8557bc90a036a67b42eedbc7d8f398cf85c284f8",
+      "sectionIndex": 8,
+      "question": "Prohibition lasted from:",
+      "options": [
+        "A) 1919-1933",
+        "B) 1920-1930",
+        "C) 1920-1933",
+        "D) 1925-1935"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e1cff503adf4951c42ad8d3e1f5a777091849747",
+      "sectionIndex": 8,
+      "question": "The Harlem Renaissance was centered in:",
+      "options": [
+        "A) Chicago",
+        "B) Detroit",
+        "C) New York",
+        "D) Philadelphia"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8ed3090223bf999a44b7990e454890bc58cba819",
+      "sectionIndex": 8,
+      "question": "The first American university was:",
+      "options": [
+        "A) Yale",
+        "B) Harvard",
+        "C) Princeton",
+        "D) Columbia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68241e61cbe1a28dbf3921d4355f9c0dbf15785e",
+      "sectionIndex": 8,
+      "question": "Ellis Island served as:",
+      "options": [
+        "A) Military base",
+        "B) Immigration station",
+        "C) Prison",
+        "D) Quarantine center"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19ef8f917c9546be62592578ef32bfb2024ef150",
+      "sectionIndex": 9,
+      "question": "The Watergate scandal involved President:",
+      "options": [
+        "A) Johnson",
+        "B) Nixon",
+        "C) Ford",
+        "D) Carter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2866432c25f90406f3139011e631b0e00556efc7",
+      "sectionIndex": 9,
+      "question": "Ronald Reagan called the Soviet Union:",
+      "options": [
+        "A) A great power",
+        "B) An evil empire",
+        "C) A worthy adversary",
+        "D) A failed state"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "370075d83c424e033165d0b71e25229e180b1595",
+      "sectionIndex": 9,
+      "question": "The September 11 attacks occurred in:",
+      "options": [
+        "A) 2000",
+        "B) 2001",
+        "C) 2002",
+        "D) 2003"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c73b7196fc4e7cd37cfb578e4b31f04064d6c6a4",
+      "sectionIndex": 9,
+      "question": "The War on Terror began under President:",
+      "options": [
+        "A) Clinton",
+        "B) George W. Bush",
+        "C) Obama",
+        "D) Trump"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09b31e573c7b23e7a224ce60cfc033fbd33d766e",
+      "sectionIndex": 9,
+      "question": "The first African American President was:",
+      "options": [
+        "A) Colin Powell",
+        "B) Jesse Jackson",
+        "C) Barack Obama",
+        "D) Condoleezza Rice"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ee98919c43ecae6f3ce61d8593ed4320b6585caa",
+      "sectionIndex": 9,
+      "question": "The Panama Canal was completed in:",
+      "options": [
+        "A) 1904",
+        "B) 1910",
+        "C) 1914",
+        "D) 1920"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7f5f7c32884f2bc483341b903b2937557ba1e51b",
+      "sectionIndex": 9,
+      "question": "The Space Race was primarily with:",
+      "options": [
+        "A) China",
+        "B) Soviet Union",
+        "C) Europe",
+        "D) Japan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba71acf30f869c968489cba79e838521df6c63ce",
+      "sectionIndex": 9,
+      "question": "Americans first landed on the moon in:",
+      "options": [
+        "A) 1967",
+        "B) 1968",
+        "C) 1969",
+        "D) 1970"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "15b284449310d13ad9cb631541359cdfd94d204d",
+      "sectionIndex": 9,
+      "question": "The Berlin Wall fell in:",
+      "options": [
+        "A) 1987",
+        "B) 1988",
+        "C) 1989",
+        "D) 1990"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "757a7793d864ee1062226601d191f0488b0ea36c",
+      "sectionIndex": 9,
+      "question": "NAFTA was signed in:",
+      "options": [
+        "A) 1991",
+        "B) 1992",
+        "C) 1993",
+        "D) 1994"
+      ],
+      "correct": "C"
+    }
+  ]
+}

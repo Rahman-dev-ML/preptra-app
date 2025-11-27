@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:28:27.748Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "3ee7bd845bc65a22ebc9e7fb57927c58c22e4318",
+      "sectionIndex": 0,
+      "question": "The Spiral of Silence theory suggests that people are less likely to express opinions when they perceive:",
+      "options": [
+        "A) Media support",
+        "B) They are in the minority",
+        "C) Government backing",
+        "D) Financial benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf7aee7438e70e4db59215f70f9b117ad3ec0662",
+      "sectionIndex": 0,
+      "question": "In the Diffusion of Innovation theory, the early majority comprises approximately:",
+      "options": [
+        "A) 2.5%",
+        "B) 13.5%",
+        "C) 34%",
+        "D) 50%"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7397e7bf8eb8dfd486f931a0f3c32843d4562c7f",
+      "sectionIndex": 0,
+      "question": "The cultivation theory proposed by George Gerbner suggests that heavy TV viewing:",
+      "options": [
+        "A) Improves critical thinking",
+        "B) Shapes perception of reality",
+        "C) Reduces media influence",
+        "D) Increases diversity of thought"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10465116e6690960dfbb748f90e2d6e0d0e67ca0",
+      "sectionIndex": 0,
+      "question": "The knowledge gap hypothesis predicts that information flow increases gaps between:",
+      "options": [
+        "A) Countries",
+        "B) Socioeconomic groups",
+        "C) Age groups",
+        "D) Gender groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da1985125f7b6b1e39981c16819dcead395cf3a1",
+      "sectionIndex": 0,
+      "question": "In Lasswell's communication model, the question \"To what effect?\" refers to:",
+      "options": [
+        "A) Channel efficiency",
+        "B) Message impact",
+        "C) Source credibility",
+        "D) Audience size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1545fffb443dd817ee69c2b3e12b9d6333f9e8ab",
+      "sectionIndex": 0,
+      "question": "The selective exposure theory suggests audiences:",
+      "options": [
+        "A) Watch everything equally",
+        "B) Seek information confirming existing beliefs",
+        "C) Avoid all media",
+        "D) Prefer opposing viewpoints"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65858edfb35ea502142e5f1b44715bbcff21c26c",
+      "sectionIndex": 0,
+      "question": "McCombs and Shaw's agenda-setting study focused on:",
+      "options": [
+        "A) 1968 Chapel Hill voters",
+        "B) 1972 Watergate scandal",
+        "C) 1980 Iranian hostage crisis",
+        "D) 1960 Kennedy-Nixon debates"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ae4c04078abcccccc55dcd9cd5d2044d217d3cb1",
+      "sectionIndex": 0,
+      "question": "The dependency theory of media effects is strongest when:",
+      "options": [
+        "A) Media is limited",
+        "B) Social stability exists",
+        "C) Social change and conflict occur",
+        "D) Audiences are educated"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1882a6015def4a789ecee43c30562574d489484a",
+      "sectionIndex": 0,
+      "question": "Framing theory differs from agenda-setting in that it:",
+      "options": [
+        "A) Tells what to think",
+        "B) Tells how to think about issues",
+        "C) Ignores public opinion",
+        "D) Focuses on entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47a1519e687c6092d4f7d7fa9ae1ac7cf8d44e33",
+      "sectionIndex": 0,
+      "question": "The limited effects paradigm emerged after studying:",
+      "options": [
+        "A) Radio's impact",
+        "B) 1940 presidential election",
+        "C) Television introduction",
+        "D) Internet adoption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c8338038028e6640fc982036bd7230f3dfdd9a6",
+      "sectionIndex": 1,
+      "question": "The Civil and Military Gazette, where Rudyard Kipling worked, was published from:",
+      "options": [
+        "A) Delhi",
+        "B) Lahore",
+        "C) Karachi",
+        "D) Bombay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e2eeebe3e4692a12c046902c65e9dbce725c994",
+      "sectionIndex": 1,
+      "question": "Maulana Abul Kalam Azad's Al-Hilal was banned by the British in:",
+      "options": [
+        "A) 1910",
+        "B) 1914",
+        "C) 1918",
+        "D) 1920"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dbd30e2500fc3ab6285bcc4c4dcb39fa8e5c0c9",
+      "sectionIndex": 1,
+      "question": "The Pakistan Times was founded in 1947 by:",
+      "options": [
+        "A) Faiz Ahmed Faiz",
+        "B) Mian Iftikharuddin",
+        "C) Hamid Nizami",
+        "D) Zafar Ali Khan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea55f5401c59239edd478f37f51e80a2a74a2bb6",
+      "sectionIndex": 1,
+      "question": "The Press and Publications Ordinance was promulgated in:",
+      "options": [
+        "A) 1960",
+        "B) 1963",
+        "C) 1965",
+        "D) 1970"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c15ad8086673e791a1e4bfdfc51f8df25daae273",
+      "sectionIndex": 1,
+      "question": "Zamindar's role in the Pakistan Movement included:",
+      "options": [
+        "A) Supporting British rule",
+        "B) Opposing Muslim League",
+        "C) Advocating for Muslim rights",
+        "D) Promoting Hindu-Muslim unity"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aa4cb12b663c4f01665353b46d5c4d02e42b738a",
+      "sectionIndex": 1,
+      "question": "The first Urdu newspaper in the subcontinent was:",
+      "options": [
+        "A) Jam-e-Jahan Numa",
+        "B) Delhi Urdu Akhbar",
+        "C) Zamindar",
+        "D) Inqilab"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "25b791459d9f7cda683fb7ff78b3fb0c9a11dc49",
+      "sectionIndex": 1,
+      "question": "Radio Pakistan became Pakistan Broadcasting Corporation in:",
+      "options": [
+        "A) 1965",
+        "B) 1970",
+        "C) 1973",
+        "D) 1976"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ff16359541df8ccf014c0a0103f91b266085ed83",
+      "sectionIndex": 1,
+      "question": "The concept of \"Muslim journalism\" in pre-partition India emphasized:",
+      "options": [
+        "A) Religious news only",
+        "B) Community advocacy and political rights",
+        "C) Opposition to all British policies",
+        "D) Urdu language exclusivity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ec85edb58a3404de7e4b18e2d361d5f6a1bfe8c",
+      "sectionIndex": 1,
+      "question": "Newspapers faced severe restrictions during which Pakistani period:",
+      "options": [
+        "A) 1950s democratic era",
+        "B) 1977-1988 martial law",
+        "C) 1990s civilian rule",
+        "D) Post-2000 liberalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eaf94d3ba3da62b3dd00644f80ddd9454804d798",
+      "sectionIndex": 1,
+      "question": "The Progressive Papers Limited, which published Pakistan Times, was taken over by government in:",
+      "options": [
+        "A) 1955",
+        "B) 1959",
+        "C) 1963",
+        "D) 1971"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0565b4fe9f31cece2048c38c5502870f0e0cdb39",
+      "sectionIndex": 2,
+      "question": "Herman and Chomsky's Propaganda Model identifies how many filters:",
+      "options": [
+        "A) Three",
+        "B) Five",
+        "C) Seven",
+        "D) Ten"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4afe3ce424ca78ada575659cb29f76f0b88a0a53",
+      "sectionIndex": 2,
+      "question": "The CNN effect refers to:",
+      "options": [
+        "A) 24-hour news cycle",
+        "B) Media's influence on foreign policy",
+        "C) Breaking news format",
+        "D) International broadcasting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d2bbe6dfdd15866d50ca8e4c208be3b0c0712bd",
+      "sectionIndex": 2,
+      "question": "Pack journalism results in:",
+      "options": [
+        "A) Diverse coverage",
+        "B) Homogeneous reporting",
+        "C) Investigative depth",
+        "D) Local focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ba903d34c3d5f8091332d21474fa395420c18dc",
+      "sectionIndex": 2,
+      "question": "The public sphere concept by Habermas requires:",
+      "options": [
+        "A) Government control",
+        "B) Rational-critical debate",
+        "C) Entertainment focus",
+        "D) Profit motivation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9767ca14cfa0989efc36e78e7e3ccd6074d99a4",
+      "sectionIndex": 2,
+      "question": "Mediatization of politics means:",
+      "options": [
+        "A) Media covers politics",
+        "B) Politics adapts to media logic",
+        "C) Politicians own media",
+        "D) Media avoids politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e675d475380a12003fb118120151e1174cf4f666",
+      "sectionIndex": 2,
+      "question": "The watchdog role faces challenges from:",
+      "options": [
+        "A) Public support",
+        "B) Corporate and political pressures",
+        "C) Technology advances",
+        "D) Educational improvements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b8975eba6615a2cf6a716bedad679ec722b2091",
+      "sectionIndex": 2,
+      "question": "Infotainment represents:",
+      "options": [
+        "A) Educational programming",
+        "B) Blending information with entertainment",
+        "C) Children's content",
+        "D) Documentary films"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16d0daf4997fcde5dca0b11628b48cf31600e293",
+      "sectionIndex": 2,
+      "question": "Media's socializing function is strongest during:",
+      "options": [
+        "A) Adulthood",
+        "B) Childhood and adolescence",
+        "C) Old age",
+        "D) Middle age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84828c43f14a7ff23f2dee0a5edf0735d2eb2710",
+      "sectionIndex": 2,
+      "question": "The correlation function of media involves:",
+      "options": [
+        "A) Statistical analysis",
+        "B) Interpreting events and issues",
+        "C) Entertainment programming",
+        "D) Advertising placement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d96952f2df9fae0080c73b7c46d73d6b6a1e607",
+      "sectionIndex": 2,
+      "question": "Media convergence has led to:",
+      "options": [
+        "A) Specialized roles",
+        "B) Multi-skilled journalists",
+        "C) Reduced workload",
+        "D) Higher salaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "383d91fe2ccb582735f0e9046b691b46d57ddd8d",
+      "sectionIndex": 3,
+      "question": "The Newspaper Employees Act of 1973 provides for:",
+      "options": [
+        "A) Censorship rules",
+        "B) Wage boards and job security",
+        "C) Government control",
+        "D) Tax exemptions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d892a0d200e734bda6853f780f18ac7916a1c949",
+      "sectionIndex": 3,
+      "question": "PEMRA Ordinance 2002 replaced:",
+      "options": [
+        "A) Press Council Act",
+        "B) RAMRA 1997",
+        "C) PTV Act",
+        "D) Copyright Ordinance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1aa83afbd0d7359f1b17d110f6db7eb1f2dfbf4",
+      "sectionIndex": 3,
+      "question": "The Contempt of Court Act 2012 attempts to balance:",
+      "options": [
+        "A) Judicial privacy and media profits",
+        "B) Free speech and judicial dignity",
+        "C) Government secrecy and public interest",
+        "D) Criminal trials and civil cases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdb54d0fcf101c1aa8da01297e0d80abc63cd682",
+      "sectionIndex": 3,
+      "question": "Under PECA 2016, online defamation is punishable by:",
+      "options": [
+        "A) Warning only",
+        "B) Up to 3 years imprisonment",
+        "C) Fine only",
+        "D) Community service"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a66e378f878d7c78988f202c727da4100c04676",
+      "sectionIndex": 3,
+      "question": "The Right to Information Act in Pakistan was passed at federal level in:",
+      "options": [
+        "A) 2013",
+        "B) 2015",
+        "C) 2017",
+        "D) 2019"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c49854daf2aad3a688c2038970efbf6c3bb0925d",
+      "sectionIndex": 3,
+      "question": "CPNE's Code of Ethics emphasizes:",
+      "options": [
+        "A) Government cooperation",
+        "B) Truth, objectivity, and fair play",
+        "C) Profit maximization",
+        "D) Entertainment value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a700221e454e9c55cb70e68cc4c4d6ef0bba824",
+      "sectionIndex": 3,
+      "question": "The Defamation Ordinance 2002 was criticized for:",
+      "options": [
+        "A) Being too lenient",
+        "B) Criminalizing defamation",
+        "C) Protecting media only",
+        "D) Ignoring online content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fc6e4659ecc36a1bb73159dbe50f9d43953630d",
+      "sectionIndex": 3,
+      "question": "Press clubs in Pakistan primarily function as:",
+      "options": [
+        "A) Government offices",
+        "B) Professional and social organizations",
+        "C) News agencies",
+        "D) Training institutes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "74f0ff6d4e413dd188fd76392efb0e31f39b5900",
+      "sectionIndex": 3,
+      "question": "The APNS represents interests of:",
+      "options": [
+        "A) Journalists",
+        "B) Newspaper owners",
+        "C) Readers",
+        "D) Advertisers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b285972ebc1e216ad1bb74c9f433476ed7704bf",
+      "sectionIndex": 3,
+      "question": "Media tribunals under various laws have been criticized for:",
+      "options": [
+        "A) Efficiency",
+        "B) Undermining regular courts",
+        "C) Transparency",
+        "D) Supporting media freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fc65042932e7833d0c48707fdda31c4bc11cca9",
+      "sectionIndex": 4,
+      "question": "The concept of \"public interest\" in journalism is often contested because:",
+      "options": [
+        "A) It's clearly defined",
+        "B) It varies by context and perspective",
+        "C) Laws specify it clearly",
+        "D) Everyone agrees on it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65496cd2df043622de8db58c51f3e9afa4b92f68",
+      "sectionIndex": 4,
+      "question": "Embedded journalism during conflicts raises concerns about:",
+      "options": [
+        "A) Safety only",
+        "B) Objectivity and independence",
+        "C) Technology access",
+        "D) Language barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03fb67006bedfab9899010b0a89cc64e89e1d6c2",
+      "sectionIndex": 4,
+      "question": "The \"veil of ignorance\" in ethical decision-making was proposed by:",
+      "options": [
+        "A) Kant",
+        "B) John Rawls",
+        "C) Bentham",
+        "D) Aristotle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5ef446aeafad2f062dc83fd279477277dd68ddd",
+      "sectionIndex": 4,
+      "question": "Checkbook journalism violates ethical principles because it:",
+      "options": [
+        "A) Costs too much",
+        "B) Compromises source credibility",
+        "C) Takes too long",
+        "D) Requires approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b2b5b4b880a31ad906f82d5e07a8a8a6c6439e8",
+      "sectionIndex": 4,
+      "question": "The harm limitation principle requires journalists to:",
+      "options": [
+        "A) Avoid all negative stories",
+        "B) Balance public need with potential harm",
+        "C) Only report positive news",
+        "D) Get government permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2595c7724572f4fc45838943ffbaa05a414226c1",
+      "sectionIndex": 4,
+      "question": "Shield laws protect journalists':",
+      "options": [
+        "A) Personal safety",
+        "B) Confidential sources",
+        "C) Salaries",
+        "D) Equipment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1054eec3f180c589709ee7693c78a39bc68ac3af",
+      "sectionIndex": 4,
+      "question": "The doctrine of prior restraint generally:",
+      "options": [
+        "A) Is encouraged",
+        "B) Is presumptively unconstitutional",
+        "C) Applies to all media",
+        "D) Protects national security only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4be518cd04a704a22a2c3d3983db2549e786f7c6",
+      "sectionIndex": 4,
+      "question": "Advertorials blur the line between:",
+      "options": [
+        "A) Print and broadcast",
+        "B) Editorial and advertising content",
+        "C) Local and national news",
+        "D) Facts and opinions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd9a6dc68cab87415df369d1a3b70523189b72cd",
+      "sectionIndex": 4,
+      "question": "The SPJ Code of Ethics' four main principles include all EXCEPT:",
+      "options": [
+        "A) Seek truth",
+        "B) Minimize harm",
+        "C) Maximize profit",
+        "D) Act independently"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2fb5fd36b04c684479cac5058d43fc01696fd43c",
+      "sectionIndex": 4,
+      "question": "Post-publication review differs from pre-censorship in:",
+      "options": [
+        "A) Preventing publication",
+        "B) Allowing publication then accountability",
+        "C) Government control",
+        "D) Editorial oversight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46b5eb3d79dbdad4af677872093d821e776047a2",
+      "sectionIndex": 5,
+      "question": "Edward Bernays' contribution to PR included:",
+      "options": [
+        "A) Inventing press releases",
+        "B) Applying psychology to PR",
+        "C) Creating PRSA",
+        "D) Developing social media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69102209af1fbf21da0a97ce4cbca8188d5bc862",
+      "sectionIndex": 5,
+      "question": "The two-way symmetric model of PR emphasizes:",
+      "options": [
+        "A) One-way communication",
+        "B) Mutual understanding and dialogue",
+        "C) Propaganda techniques",
+        "D) Media manipulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f59c72b10d73606c670aaf870df906c62808322d",
+      "sectionIndex": 5,
+      "question": "Integrated Marketing Communications (IMC) coordinates:",
+      "options": [
+        "A) Only advertising",
+        "B) All promotional elements",
+        "C) PR only",
+        "D) Sales only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8807528bcacfafc0ef85cc76dc742ef366301de7",
+      "sectionIndex": 5,
+      "question": "The PESO model in PR stands for:",
+      "options": [
+        "A) Public, External, Social, Official",
+        "B) Paid, Earned, Shared, Owned media",
+        "C) Press, Electronic, Satellite, Online",
+        "D) Primary, Extended, Secondary, Optional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "baae31722cb9f317cf3e8622759cbf000187c10d",
+      "sectionIndex": 5,
+      "question": "Crisis communication's \"golden hour\" refers to:",
+      "options": [
+        "A) First hour after crisis",
+        "B) Planning phase",
+        "C) Media briefing time",
+        "D) Recovery period"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "343b802327e230c1004835b8f3db021bbd33d554",
+      "sectionIndex": 5,
+      "question": "Astroturfing in PR is controversial because it:",
+      "options": [
+        "A) Uses real grass",
+        "B) Creates fake grassroots movements",
+        "C) Costs too much",
+        "D) Requires permits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa78b00f06309b95beb8610b60c896267436e796",
+      "sectionIndex": 5,
+      "question": "The Excellence Theory in PR was developed by:",
+      "options": [
+        "A) Edward Bernays",
+        "B) James Grunig",
+        "C) Ivy Lee",
+        "D) Harold Burson"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee5eb3bd49cdb5e53641820909371330203bd0d5",
+      "sectionIndex": 5,
+      "question": "Native advertising challenges include:",
+      "options": [
+        "A) Technical difficulties",
+        "B) Transparency and disclosure",
+        "C) High costs only",
+        "D) Limited reach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "523cef5a809b6da06d98890a5ab89c9c7ae591c2",
+      "sectionIndex": 5,
+      "question": "PR measurement has shifted from AVE to:",
+      "options": [
+        "A) Circulation only",
+        "B) Outcome-based metrics",
+        "C) Impression counts",
+        "D) Award counts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1663147543ec704f6d0ddda66858bcb8ecce079",
+      "sectionIndex": 5,
+      "question": "The Barcelona Principles emphasize:",
+      "options": [
+        "A) AVE as primary metric",
+        "B) Outcomes over outputs",
+        "C) Quantity over quality",
+        "D) Traditional media only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bcc15ac4582dabef67bc633456fc9b08ca04ac7",
+      "sectionIndex": 6,
+      "question": "The Dominant Paradigm of development was challenged for:",
+      "options": [
+        "A) Being too inclusive",
+        "B) Top-down approach and Western bias",
+        "C) Focusing on culture",
+        "D) Emphasizing participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27624aa46ffaae24c898c2c05874a31098cb6796",
+      "sectionIndex": 6,
+      "question": "Paulo Freire's contribution to development communication emphasized:",
+      "options": [
+        "A) Mass media campaigns",
+        "B) Dialogical and participatory approach",
+        "C) Government control",
+        "D) Technology transfer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a891ad770a4c204681f09581d3f73b0c53f52223",
+      "sectionIndex": 6,
+      "question": "The Dependency Theory suggests that:",
+      "options": [
+        "A) Development is linear",
+        "B) Underdevelopment is structural",
+        "C) Media causes development",
+        "D) Culture doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "403cebe127efbe83c7457b7390e138df5d66d3c5",
+      "sectionIndex": 6,
+      "question": "Communication for Social Change differs from DSC in:",
+      "options": [
+        "A) Using media only",
+        "B) Emphasizing community dialogue",
+        "C) Government funding",
+        "D) Urban focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d55e19342d6d612f171bacbf8813226e4de75af1",
+      "sectionIndex": 6,
+      "question": "The Diffusion of Innovations in development contexts often fails due to:",
+      "options": [
+        "A) Good planning",
+        "B) Cultural incompatibility",
+        "C) Too much funding",
+        "D) Expert knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40b671a2985a2b721fb7b651d964aae0ba9ad1ac",
+      "sectionIndex": 6,
+      "question": "Entertainment-Education strategy uses:",
+      "options": [
+        "A) Formal education only",
+        "B) Popular media for social messages",
+        "C) Traditional lectures",
+        "D) Academic journals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28cd7027c128af2a2550bea3a8dd6242c1db3376",
+      "sectionIndex": 6,
+      "question": "The Knowledge, Attitude, Practice (KAP) model assumes:",
+      "options": [
+        "A) Circular relationship",
+        "B) Linear progression",
+        "C) No relationship",
+        "D) Random change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa22571937c6f451992d5a424f9608edb7db54f3",
+      "sectionIndex": 6,
+      "question": "Participatory Rural Appraisal emphasizes:",
+      "options": [
+        "A) Expert knowledge",
+        "B) Local knowledge and participation",
+        "C) Urban methods",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5c1b514e21b1281d1b5ea0d0f311f3ebec85d86",
+      "sectionIndex": 6,
+      "question": "Development communication evaluation focuses on:",
+      "options": [
+        "A) Media reach only",
+        "B) Behavioral and social change",
+        "C) Government approval",
+        "D) Budget efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8551eba5b34589b240baef7b0855e1780ece64f1",
+      "sectionIndex": 6,
+      "question": "The Alternative Development paradigm prioritizes:",
+      "options": [
+        "A) Economic growth only",
+        "B) Human development and sustainability",
+        "C) Technology transfer",
+        "D) Media expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f84bd0dcba9b7f6822c23a04173bd00de09da6a",
+      "sectionIndex": 7,
+      "question": "Algorithmic journalism raises concerns about:",
+      "options": [
+        "A) Speed only",
+        "B) Human judgment and context",
+        "C) Cost savings",
+        "D) Technology access"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9e906591bcbdd33b504f8648cd575e32f2a9f68",
+      "sectionIndex": 7,
+      "question": "The filter bubble phenomenon was identified by:",
+      "options": [
+        "A) Mark Zuckerberg",
+        "B) Eli Pariser",
+        "C) Tim Berners-Lee",
+        "D) Steve Jobs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db82bb38e6b21588486bda524acb0fbaa66ae5e0",
+      "sectionIndex": 7,
+      "question": "Blockchain technology in journalism could help with:",
+      "options": [
+        "A) Faster writing",
+        "B) Content verification and micropayments",
+        "C) Better design",
+        "D) Larger audiences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de455746b4c93dc2c0f91e4d237662b93904269c",
+      "sectionIndex": 7,
+      "question": "The attention economy affects journalism by:",
+      "options": [
+        "A) Increasing quality",
+        "B) Incentivizing clickbait",
+        "C) Reducing competition",
+        "D) Improving accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ee074fc106288b59fee913bd7155abd0e4f2c80",
+      "sectionIndex": 7,
+      "question": "Data journalism requires skills in:",
+      "options": [
+        "A) Writing only",
+        "B) Statistics and visualization",
+        "C) Photography",
+        "D) Broadcasting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44a924068b4ec699448b8fed21025a1e70bdb45c",
+      "sectionIndex": 7,
+      "question": "The \"platform-agnostic\" approach means:",
+      "options": [
+        "A) Avoiding all platforms",
+        "B) Creating content for multiple platforms",
+        "C) Using one platform only",
+        "D) Opposing technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52d715e14b56d79ca9af4f0eb0cad851cc78bae9",
+      "sectionIndex": 7,
+      "question": "Verification tools like reverse image search help combat:",
+      "options": [
+        "A) Slow news",
+        "B) Visual misinformation",
+        "C) Copyright issues",
+        "D) Design problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62ab46403166f2661e02465a08717ea61fc6fe97",
+      "sectionIndex": 7,
+      "question": "The digital first strategy prioritizes:",
+      "options": [
+        "A) Print edition",
+        "B) Online publication",
+        "C) Broadcast only",
+        "D) Social media only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62776406bc8ac75af6075a38198a32688a963ebc",
+      "sectionIndex": 7,
+      "question": "Personalization algorithms can create:",
+      "options": [
+        "A) Diverse perspectives",
+        "B) Information silos",
+        "C) Better journalism",
+        "D) Slower news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fac08c083e075e773810408e307c67274df8566",
+      "sectionIndex": 7,
+      "question": "The concept of \"dark social\" refers to:",
+      "options": [
+        "A) Negative content",
+        "B) Private sharing channels",
+        "C) Night-time posting",
+        "D) Anonymous sources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ce6d9b447cdd64b4b8fd2ea47b2fcfa513c2448",
+      "sectionIndex": 8,
+      "question": "The MacBride Report (1980) called for:",
+      "options": [
+        "A) More Western media",
+        "B) New World Information Order",
+        "C) Ending UNESCO",
+        "D) Privatizing media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8b37e36506874b1a75fd88315705dfd347948e3",
+      "sectionIndex": 8,
+      "question": "Cultural proximity theory explains why audiences prefer:",
+      "options": [
+        "A) Foreign content",
+        "B) Culturally similar content",
+        "C) Only local news",
+        "D) Government media"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc8d778797ee62a62b60b8f5ad26f0612027e376",
+      "sectionIndex": 8,
+      "question": "Contra-flow in global media refers to:",
+      "options": [
+        "A) Western dominance",
+        "B) Non-Western media influence",
+        "C) Technical problems",
+        "D) Censorship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b40fc21e262a2d03d271cdb29c1359c1451054fb",
+      "sectionIndex": 8,
+      "question": "The concept of \"soft power\" was developed by:",
+      "options": [
+        "A) Noam Chomsky",
+        "B) Joseph Nye",
+        "C) Marshall McLuhan",
+        "D) Manuel Castells"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7db52aa4e776a6fbe4dcaa39ac0c438a99b512d7",
+      "sectionIndex": 8,
+      "question": "Deterritorialization of media means:",
+      "options": [
+        "A) Land disputes",
+        "B) Content transcending borders",
+        "C) Local focus only",
+        "D) Government control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1974fe0b0489a5d733c95ae7866c5c66bb85d874",
+      "sectionIndex": 8,
+      "question": "The digital divide's second level concerns:",
+      "options": [
+        "A) Access only",
+        "B) Skills and usage quality",
+        "C) Device ownership",
+        "D) Internet speed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e48baf336d4d97628c53f07a8c37d66d1346983",
+      "sectionIndex": 8,
+      "question": "Hybridization in media culture creates:",
+      "options": [
+        "A) Pure local content",
+        "B) Mixed cultural forms",
+        "C) Western content only",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "568e8a03f4c9fa0a0cfaeef77333c6226e5888d3",
+      "sectionIndex": 8,
+      "question": "Time-space compression affects news by:",
+      "options": [
+        "A) Slowing coverage",
+        "B) Accelerating global awareness",
+        "C) Limiting reach",
+        "D) Reducing importance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b35b1c9507b6c979926c0912d5d4030d7d7cc206",
+      "sectionIndex": 8,
+      "question": "The \"BRICS\" media alliance represents:",
+      "options": [
+        "A) Western cooperation",
+        "B) Alternative to Western media",
+        "C) Entertainment focus",
+        "D) Technology standards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c46d58c93d4943d29106588c8023fa139d2590ad",
+      "sectionIndex": 8,
+      "question": "Cosmopolitan journalism requires:",
+      "options": [
+        "A) Local focus only",
+        "B) Global perspective with local relevance",
+        "C) Foreign languages only",
+        "D) International travel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56008e3a8bf042bdf24caccfd19e15bb0d3859ea",
+      "sectionIndex": 9,
+      "question": "Deepfakes pose threats to journalism through:",
+      "options": [
+        "A) Copyright only",
+        "B) Authenticity and verification challenges",
+        "C) Production costs",
+        "D) Technical complexity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88b41e44139d0fca29ca146f280c3c0189f7d63f",
+      "sectionIndex": 9,
+      "question": "The \"post-truth\" era is characterized by:",
+      "options": [
+        "A) More accuracy",
+        "B) Emotions over facts",
+        "C) Better verification",
+        "D) Increased trust"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c781e548c654085eb97cc86a56f27407798d9015",
+      "sectionIndex": 9,
+      "question": "Solutions journalism differs from traditional reporting by:",
+      "options": [
+        "A) Avoiding problems",
+        "B) Focusing on responses to problems",
+        "C) Only positive news",
+        "D) Government focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92742c37d6d15a761b23f3fc26bcb28f9addfef7",
+      "sectionIndex": 9,
+      "question": "The \"hostile media effect\" occurs when:",
+      "options": [
+        "A) Media attacks audiences",
+        "B) Partisans perceive bias against their side",
+        "C) Journalists fight",
+        "D) Technology fails"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd9c520774d21684d75b894c91db9fdf9b9a01b8",
+      "sectionIndex": 9,
+      "question": "Constructive journalism aims to:",
+      "options": [
+        "A) Build buildings",
+        "B) Include solution-focused reporting",
+        "C) Avoid all negative news",
+        "D) Support government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "deb0e1f8d0b79c8d84637cae821543b32dc28b53",
+      "sectionIndex": 9,
+      "question": "The \"news finds me\" perception among youth indicates:",
+      "options": [
+        "A) Active news seeking",
+        "B) Passive news consumption",
+        "C) News avoidance",
+        "D) Subscription increase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3f334fafe8390ec727eca0ed3a163dd9ebc5824",
+      "sectionIndex": 9,
+      "question": "Collaborative journalism projects like Panama Papers show:",
+      "options": [
+        "A) Competition benefits",
+        "B) Power of cross-border cooperation",
+        "C) Individual success",
+        "D) Technology limits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "419553dea708cac02886dd80792d548aaed63090",
+      "sectionIndex": 9,
+      "question": "The \"trust recession\" in media is caused by:",
+      "options": [
+        "A) Economic factors only",
+        "B) Multiple factors including polarization",
+        "C) Technology alone",
+        "D) Lack of news"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b05e675f7643fe9999e162970c7f669f04e356f0",
+      "sectionIndex": 9,
+      "question": "Subscription models challenge journalism by requiring:",
+      "options": [
+        "A) Free content",
+        "B) Value demonstration to readers",
+        "C) More advertising",
+        "D) Government support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ff2aaf07006a7d32258727a032a78a396eab2b5",
+      "sectionIndex": 9,
+      "question": "AI in journalism offers opportunities but raises concerns about:",
+      "options": [
+        "A) Speed only",
+        "B) Job displacement and ethical decisions",
+        "C) Cost only",
+        "D) Training needs"
+      ],
+      "correct": "B"
+    }
+  ]
+}

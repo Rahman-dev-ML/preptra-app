@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:23:21.793Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "66be475603885b00e9da3fb9136e9d8221a08277",
+      "sectionIndex": 0,
+      "question": "The fundamental tension between internal and external validity reflects:",
+      "options": [
+        "A) Poor research design",
+        "B) The trade-off between experimental control and real-world generalizability",
+        "C) Statistical errors",
+        "D) Measurement problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13d50a14edb11b205a564eb7758a94d582df05e9",
+      "sectionIndex": 0,
+      "question": "Meta-analysis addresses the file drawer problem through:",
+      "options": [
+        "A) Better filing systems",
+        "B) Statistical techniques to detect and correct for publication bias",
+        "C) Ignoring unpublished studies",
+        "D) Only using published research"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1dee5fdff34c5dc4674f1bd66be0d8a5f779275",
+      "sectionIndex": 0,
+      "question": "The difference between mediation and moderation in research models is:",
+      "options": [
+        "A) They are synonymous terms",
+        "B) Mediation explains how effects occur; moderation identifies when effects change",
+        "C) Only statistical significance",
+        "D) Sample size requirements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9124af58e7c656fdab8c60550f13baf95d39506c",
+      "sectionIndex": 0,
+      "question": "Bayesian approaches to psychology differ from frequentist statistics by:",
+      "options": [
+        "A) Being easier to calculate",
+        "B) Incorporating prior probabilities and updating beliefs with evidence",
+        "C) Rejecting all previous research",
+        "D) Using larger samples"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4112b5648761fa932068b785e82074a7972b23da",
+      "sectionIndex": 0,
+      "question": "The replication crisis revealed that psychology's \"false positive\" rate may be high due to:",
+      "options": [
+        "A) Intentional fraud only",
+        "B) P-hacking, small samples, and publication bias combined",
+        "C) Poor training",
+        "D) Lack of theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8ceb884fcf2d2020bfdeb96bc0a52d11b842a65",
+      "sectionIndex": 0,
+      "question": "Effect sizes are more informative than p-values because they:",
+      "options": [
+        "A) Are always larger",
+        "B) Indicate magnitude of difference rather than just statistical significance",
+        "C) Require smaller samples",
+        "D) Eliminate bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4633eb1af84bc010a5a03449ffa0c46089fb16c2",
+      "sectionIndex": 0,
+      "question": "The \"WEIRD\" problem in psychology refers to:",
+      "options": [
+        "A) Strange findings",
+        "B) Overreliance on Western, Educated, Industrialized, Rich, Democratic samples",
+        "C) Abnormal psychology focus",
+        "D) Unusual methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd43962c31d55a30909aa0df410cdb62aa524f67",
+      "sectionIndex": 0,
+      "question": "Ecological momentary assessment improves on traditional methods by:",
+      "options": [
+        "A) Using natural settings only",
+        "B) Capturing real-time data in natural contexts reducing recall bias",
+        "C) Being cheaper",
+        "D) Requiring no technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7b0ce4213cfafce4c7bf3f3b0b024b3d03d95dc",
+      "sectionIndex": 0,
+      "question": "Network analysis in psychopathology challenges traditional models by:",
+      "options": [
+        "A) Using internet data",
+        "B) Viewing symptoms as causally connected rather than reflecting latent disease",
+        "C) Rejecting all diagnosis",
+        "D) Focusing on single symptoms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2abd7f2b19c0c37f78df47fd7e8b1abc35dd122",
+      "sectionIndex": 0,
+      "question": "Open science practices in psychology aim to:",
+      "options": [
+        "A) Share everything publicly",
+        "B) Increase transparency, reproducibility, and cumulative knowledge",
+        "C) Eliminate peer review",
+        "D) Speed up publication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42a0b56c0f0911ea71df79ca41f49b3a5d3629c2",
+      "sectionIndex": 1,
+      "question": "The default mode network's discovery revolutionized understanding of:",
+      "options": [
+        "A) Sleep only",
+        "B) Brain activity during rest and self-referential thinking",
+        "C) Motor control",
+        "D) Visual processing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "902167bbb21d7a8dd57f166e741856f0977ed25e",
+      "sectionIndex": 1,
+      "question": "Epigenetic mechanisms in behavioral development demonstrate:",
+      "options": [
+        "A) Genetic determinism",
+        "B) How environmental experiences can alter gene expression without changing DNA",
+        "C) Lamarckian evolution",
+        "D) Fixed inheritance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e4ce982b2c9751a1b41434e1f40a0bc1cfa01b7",
+      "sectionIndex": 1,
+      "question": "The predictive coding framework suggests the brain:",
+      "options": [
+        "A) Reacts to all stimuli equally",
+        "B) Constantly generates predictions and updates based on prediction errors",
+        "C) Only processes current input",
+        "D) Has no expectations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dda6296220ae9329831196ad6bdd2972fb469789",
+      "sectionIndex": 1,
+      "question": "Optogenetics has advanced neuroscience by allowing:",
+      "options": [
+        "A) Better brain imaging",
+        "B) Precise control of specific neurons using light",
+        "C) Genetic testing only",
+        "D) Drug development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7a100e4079f54ad1b2defcc653215818b79578b",
+      "sectionIndex": 1,
+      "question": "The connectome project's implications for psychology include:",
+      "options": [
+        "A) Proving the soul exists",
+        "B) Mapping neural connections to understand individual differences",
+        "C) Showing all brains are identical",
+        "D) Eliminating need for behavior study"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dde0955b81c654470667481d2d4efacfe749c657",
+      "sectionIndex": 1,
+      "question": "Glial cells' role in cognition challenges the neuron doctrine by:",
+      "options": [
+        "A) Replacing neurons",
+        "B) Showing glia actively participate in information processing",
+        "C) Proving neurons don't matter",
+        "D) Being more numerous"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f5ac226e9a4a514ddb6aeeecd8f998033df16c3",
+      "sectionIndex": 1,
+      "question": "The gut-brain axis research reveals:",
+      "options": [
+        "A) Digestion is purely mechanical",
+        "B) Bidirectional communication affecting mood and cognition",
+        "C) The brain controls everything",
+        "D) Gut bacteria are harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "348a65e219af1bd4a8961b7106c0b2bf76da2dc1",
+      "sectionIndex": 1,
+      "question": "Transgenerational trauma transmission may occur through:",
+      "options": [
+        "A) Stories only",
+        "B) Epigenetic modifications, parenting behaviors, and stress systems",
+        "C) Genetic mutations",
+        "D) Cultural learning only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b722f0bd0b32bc201242ebd2cecf8888633cae1",
+      "sectionIndex": 1,
+      "question": "Neural oscillations coordinate brain function by:",
+      "options": [
+        "A) Random firing",
+        "B) Synchronizing activity across regions at specific frequencies",
+        "C) Preventing communication",
+        "D) Maintaining constant activity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35fa347970bf1f6e4271b855cea73a0ea42f3c59",
+      "sectionIndex": 1,
+      "question": "The discovery of adult neurogenesis challenged the dogma that:",
+      "options": [
+        "A) Children learn",
+        "B) The adult brain cannot generate new neurons",
+        "C) Brains can change",
+        "D) Memory exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fafabf9bfe81f1187b2f066ef4ca75ba153a047e",
+      "sectionIndex": 2,
+      "question": "The binding problem in consciousness asks:",
+      "options": [
+        "A) How to tie things together",
+        "B) How separate neural processes create unified conscious experience",
+        "C) About molecular bonds",
+        "D) How memories stick"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3a5b827cdfbddd5b63dacb75c8accee7dceea044",
+      "sectionIndex": 2,
+      "question": "Dual-process theories across domains suggest:",
+      "options": [
+        "A) Everything is double",
+        "B) Automatic/controlled or System 1/System 2 processes reflect fundamental cognitive architecture",
+        "C) Two researchers needed",
+        "D) Binary thinking only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f8c91919ccb2dd96aa39123c49e47480a8d2376",
+      "sectionIndex": 2,
+      "question": "The hard problem of consciousness refers to:",
+      "options": [
+        "A) Difficulty studying consciousness",
+        "B) Explaining how physical processes give rise to subjective experience",
+        "C) Complex mathematics",
+        "D) Measuring awareness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e959d2083b4e5a9059be9ac8ba76cac324c31ab5",
+      "sectionIndex": 2,
+      "question": "Embodied cognition theories challenge traditional cognitive science by:",
+      "options": [
+        "A) Focusing on bodies only",
+        "B) Arguing cognition is shaped by bodily interactions with environment",
+        "C) Rejecting mental processes",
+        "D) Studying athletes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66b362235fb65c5483961f3a8459121671a79609",
+      "sectionIndex": 2,
+      "question": "Metacognitive accuracy research shows:",
+      "options": [
+        "A) Perfect self-knowledge",
+        "B) Systematic biases in judging one's own cognitive abilities",
+        "C) No self-awareness exists",
+        "D) Accuracy improves with age"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53f2d65cb8d358b326ba0c9d5565b849a11c3dc1",
+      "sectionIndex": 2,
+      "question": "The global workspace theory of consciousness proposes:",
+      "options": [
+        "A) Worldwide consciousness",
+        "B) Information becomes conscious when globally accessible across brain",
+        "C) Local processing only",
+        "D) No neural basis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d87a050563029d1d62a08cd4c46b3439cad8b4a",
+      "sectionIndex": 2,
+      "question": "Cognitive load theory's implications for education include:",
+      "options": [
+        "A) More is always better",
+        "B) Working memory limits constrain effective instructional design",
+        "C) No limits exist",
+        "D) Load doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44bcced02577e46b9ca7989f9e5fd7e3fd444ee0",
+      "sectionIndex": 2,
+      "question": "The extended mind thesis argues:",
+      "options": [
+        "A) Telepathy exists",
+        "B) Cognitive processes can extend beyond brain into tools and environment",
+        "C) Minds are infinite",
+        "D) Technology is harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79abe7ecfe27e72690e34413a7fa4fddf0867c29",
+      "sectionIndex": 2,
+      "question": "Predictive processing accounts unify perception and action by:",
+      "options": [
+        "A) Separating them completely",
+        "B) Both involving prediction error minimization",
+        "C) Eliminating distinction",
+        "D) Random processes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "122f17bf54f8eb67260459645f60579aaf87ad9c",
+      "sectionIndex": 2,
+      "question": "Change blindness research reveals:",
+      "options": [
+        "A) Perfect perception",
+        "B) Conscious awareness captures far less than subjective experience suggests",
+        "C) Vision problems",
+        "D) Attention to everything"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97567294191017f079b1a2271d3f05e0ebcd572b",
+      "sectionIndex": 3,
+      "question": "The differential susceptibility hypothesis proposes:",
+      "options": [
+        "A) All children are equally affected",
+        "B) Some individuals are more sensitive to both positive and negative environments",
+        "C) Genetics don't matter",
+        "D) Environment has no effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77cdeb6ceeb82b791474891257fb74392943f6ef",
+      "sectionIndex": 3,
+      "question": "Dynamic systems theory in development emphasizes:",
+      "options": [
+        "A) Linear progression",
+        "B) Multiple interacting components producing emergent developmental patterns",
+        "C) Fixed stages",
+        "D) Single causes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41808506e0646051b84c139f1c7c6310f2ff460e",
+      "sectionIndex": 3,
+      "question": "The grandmother hypothesis in evolutionary psychology suggests:",
+      "options": [
+        "A) Grandmothers are unimportant",
+        "B) Post-reproductive survival evolved to enhance inclusive fitness through childcare",
+        "C) Only mothers matter",
+        "D) Evolution stopped"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc50790ef9096f7c6ba59d7168806d07a7e1a3d6",
+      "sectionIndex": 3,
+      "question": "Sensitive periods differ from critical periods in:",
+      "options": [
+        "A) No difference exists",
+        "B) Sensitive periods show heightened plasticity without absolute boundaries",
+        "C) Being less important",
+        "D) Occurring later"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4460583e2f9ea682e56b4fab9a29dedbacbb9ef0",
+      "sectionIndex": 3,
+      "question": "Gene-environment correlation types (passive, evocative, active) demonstrate:",
+      "options": [
+        "A) Genes and environment are independent",
+        "B) Complex bidirectional influences between genetics and experience",
+        "C) Environment dominates",
+        "D) Genes dominate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "179452c62f3bd6c97e0ab8764edba6afd06472df",
+      "sectionIndex": 3,
+      "question": "The orchid-dandelion hypothesis parallels differential susceptibility in suggesting:",
+      "options": [
+        "A) Flower preferences",
+        "B) Some children thrive anywhere while others need optimal conditions",
+        "C) All children are orchids",
+        "D) Gardening helps development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e26bad1afe8c962819c7e930af3382529f3e1d73",
+      "sectionIndex": 3,
+      "question": "Developmental cascades refer to:",
+      "options": [
+        "A) Water features",
+        "B) How early experiences propagate across domains and time",
+        "C) Single-time effects",
+        "D) Inevitable outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "578de62ce11311ca97546668920a26898de14254",
+      "sectionIndex": 3,
+      "question": "The timing of puberty's psychological effects demonstrates:",
+      "options": [
+        "A) Biology is destiny",
+        "B) Interaction between biological changes and social context",
+        "C) No psychological impact",
+        "D) Universal experiences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9e4d6fe0f70cb56ebbd45a39237ce6499b0f18b",
+      "sectionIndex": 3,
+      "question": "Executive function development's protracted timeline reflects:",
+      "options": [
+        "A) Slow learners",
+        "B) Prefrontal cortex maturation extending into mid-twenties",
+        "C) Quick development",
+        "D) No change after childhood"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d2977dd57343c8af013cf6ac0fc9cc3f7f32ffa",
+      "sectionIndex": 3,
+      "question": "Intergenerational transmission of attachment patterns occurs through:",
+      "options": [
+        "A) Genetics only",
+        "B) Complex mechanisms including caregiving behaviors and reflective functioning",
+        "C) Direct teaching",
+        "D) Random chance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de6f30355a5d42858cd3831d78d9457acbd5e7d8",
+      "sectionIndex": 4,
+      "question": "The person-situation debate's resolution through interactionism revealed:",
+      "options": [
+        "A) Personality doesn't exist",
+        "B) Behavior emerges from dynamic person-situation transactions",
+        "C) Situations dominate",
+        "D) Traits are fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8ed63fa4574f3f28862894014471d9e125ed773",
+      "sectionIndex": 4,
+      "question": "The HEXACO model adds Honesty-Humility to the Big Five based on:",
+      "options": [
+        "A) Theoretical preference",
+        "B) Cross-cultural lexical studies revealing six factors",
+        "C) Clinical need",
+        "D) Random choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b01e2c5f1bb78e3aa2c2a51f8e611ef50a21a0bd",
+      "sectionIndex": 4,
+      "question": "Personality coherence manifests through:",
+      "options": [
+        "A) Identical behavior across situations",
+        "B) If-then contingencies and functional equivalence of behaviors",
+        "C) No consistency",
+        "D) Perfect prediction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "794d0d8590b3f9e2f82e9bbde32984d6c95a4f18",
+      "sectionIndex": 4,
+      "question": "The dark triad traits (narcissism, Machiavellianism, psychopathy) share:",
+      "options": [
+        "A) Nothing in common",
+        "B) Callous manipulation and self-promotion at others' expense",
+        "C) Positive outcomes only",
+        "D) Clinical diagnosis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dac7fd09997f5134e6b6d047ff47fe973004f87",
+      "sectionIndex": 4,
+      "question": "Volitional personality change research suggests:",
+      "options": [
+        "A) Personality is fixed",
+        "B) Intentional efforts can produce lasting personality changes",
+        "C) Change is impossible",
+        "D) Only therapy works"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38b7f99a864483730dd9b8c2e331aaf89944431e",
+      "sectionIndex": 4,
+      "question": "Cultural differences in personality structure challenge universality by:",
+      "options": [
+        "A) Showing identical patterns",
+        "B) Revealing culture-specific factors and different factor structures",
+        "C) Proving personality doesn't exist",
+        "D) Using different languages only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99f3bab2ab36aaf452ecd316b6a0cf01dd84ad7b",
+      "sectionIndex": 4,
+      "question": "The bandwidth-fidelity dilemma in assessment refers to:",
+      "options": [
+        "A) Internet speed",
+        "B) Trade-off between broad prediction and specific accuracy",
+        "C) Sound quality",
+        "D) Test length only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59db2ef2d8cf89348a6433a79e54d26eb49a77b2",
+      "sectionIndex": 4,
+      "question": "Personality disorders' dimensional reconceptualization reflects:",
+      "options": [
+        "A) Categorical thinking",
+        "B) Recognition of continuous distributions and trait extremes",
+        "C) Distinct types",
+        "D) No change needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ac4affc848883a36d89095eadf1cdb46610329e",
+      "sectionIndex": 4,
+      "question": "The actor-observer asymmetry in personality judgment shows:",
+      "options": [
+        "A) Perfect agreement",
+        "B) Systematic differences in trait attribution to self versus others",
+        "C) No differences",
+        "D) Actors are better judges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d425625503db7a33b30d0e73c67fa4840c6c5c8c",
+      "sectionIndex": 4,
+      "question": "Narrative identity complements trait approaches by:",
+      "options": [
+        "A) Replacing them",
+        "B) Capturing how people construct meaningful life stories",
+        "C) Being unscientific",
+        "D) Focusing on fiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ebeed39a20fede5a2569aea235b77cab335e1ac",
+      "sectionIndex": 5,
+      "question": "The affect-as-information hypothesis demonstrates:",
+      "options": [
+        "A) Emotions are irrelevant",
+        "B) Emotional states serve as heuristic cues for judgments",
+        "C) Information prevents emotion",
+        "D) Affect equals cognition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "894e4ff798ba126c7556b83ade850b0db49b1862",
+      "sectionIndex": 5,
+      "question": "Emotional granularity's relationship to well-being suggests:",
+      "options": [
+        "A) Simple emotions are better",
+        "B) Differentiated emotional experiences predict better regulation",
+        "C) Complexity causes problems",
+        "D) Basic emotions suffice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d75638b3d909e09c861554c1b3fa7f3e7ce81ab",
+      "sectionIndex": 5,
+      "question": "The constructed emotion theory challenges basic emotions by:",
+      "options": [
+        "A) Denying emotions exist",
+        "B) Proposing emotions emerge from core affect and conceptualization",
+        "C) Accepting all emotions as basic",
+        "D) Focusing on expression only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c563ffa5f9159c1702a5a4438dc01abf45a4d40",
+      "sectionIndex": 5,
+      "question": "Interoceptive accuracy's role in emotion reveals:",
+      "options": [
+        "A) Body signals don't matter",
+        "B) Individual differences in body awareness affect emotional experience",
+        "C) Perfect accuracy in everyone",
+        "D) Emotions are purely mental"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ab2443bd6df2506301cccdba433f88f332f9cb2",
+      "sectionIndex": 5,
+      "question": "Meta-emotions (emotions about emotions) influence:",
+      "options": [
+        "A) Nothing important",
+        "B) Emotion regulation strategies and psychological outcomes",
+        "C) Only philosophers",
+        "D) Primary emotions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "880726e0d69ae2d4f523083dce305a77761b6f1e",
+      "sectionIndex": 5,
+      "question": "The paradox of choice in affective forecasting shows:",
+      "options": [
+        "A) More choice increases happiness",
+        "B) People overestimate impact and duration of future emotions",
+        "C) Predictions are accurate",
+        "D) Choice doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4a1a70434533d1704531c6c5f1667dc7f299164",
+      "sectionIndex": 5,
+      "question": "Emotional capital in organizations represents:",
+      "options": [
+        "A) Financial resources",
+        "B) Collective emotional resources affecting performance and resilience",
+        "C) Individual emotions only",
+        "D) Weakness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49d8fbf191c76f3ca3464051da66df68dcdebd54",
+      "sectionIndex": 5,
+      "question": "The broaden-and-build theory's upward spirals indicate:",
+      "options": [
+        "A) Negative emotions are stronger",
+        "B) Positive emotions create resources that generate more positive emotions",
+        "C) Spirals go down only",
+        "D) Emotions don't build"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc4d9d2ce2476d5818623198776bf495d357567b",
+      "sectionIndex": 5,
+      "question": "Affect regulation flexibility involves:",
+      "options": [
+        "A) Rigid strategies",
+        "B) Adaptive selection of regulation strategies based on context",
+        "C) No regulation",
+        "D) One best strategy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9ece4d60ea00b88b5786227bbc60845f3ac6d37",
+      "sectionIndex": 5,
+      "question": "The emotion paradox in psychopathy reveals:",
+      "options": [
+        "A) No emotional differences",
+        "B) Intact emotional experience but impaired emotional learning",
+        "C) Complete absence of emotion",
+        "D) Enhanced emotions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b39e701d927891396f400a867f7d17a90eb14073",
+      "sectionIndex": 6,
+      "question": "The p-factor in psychopathology suggests:",
+      "options": [
+        "A) Disorders are completely distinct",
+        "B) General psychopathology factor underlies multiple disorders",
+        "C) No commonalities exist",
+        "D) Single disorder exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64fbd1258f1b6e06a33441a9225439250aeea51f",
+      "sectionIndex": 6,
+      "question": "Network theories of mental disorders propose:",
+      "options": [
+        "A) Traditional disease models",
+        "B) Disorders emerge from causal interactions among symptoms",
+        "C) Single causes",
+        "D) No connections between symptoms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9dd0e8a9019b5f4a70b8439d12ca424a3e3647c2",
+      "sectionIndex": 6,
+      "question": "The dodo bird verdict in psychotherapy suggests:",
+      "options": [
+        "A) Therapy doesn't work",
+        "B) Different therapies show roughly equivalent outcomes",
+        "C) One therapy is best",
+        "D) Animals need therapy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "851c3ab75a2963794f0600d963455593a355e9b7",
+      "sectionIndex": 6,
+      "question": "Mechanisms of change in psychotherapy remain unclear because:",
+      "options": [
+        "A) Therapy doesn't change anything",
+        "B) Multiple pathways and common factors complicate specific attribution",
+        "C) Research is impossible",
+        "D) Change is instant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c63ca6c2b28928f0820bbfbb429c904edf9a4af2",
+      "sectionIndex": 6,
+      "question": "The dimensional approach to psychopathology challenges:",
+      "options": [
+        "A) All classification",
+        "B) Categorical diagnosis by recognizing continuous distributions",
+        "C) Need for diagnosis",
+        "D) Treatment necessity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "867a297fe7cddcdee992e5479a82f13fa1a7a32a",
+      "sectionIndex": 6,
+      "question": "Ecological momentary interventions represent:",
+      "options": [
+        "A) Traditional therapy",
+        "B) Real-time, context-sensitive therapeutic responses",
+        "C) Nature therapy only",
+        "D) Delayed treatment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93a49228eea62496d10ebf724954be6b127fc91c",
+      "sectionIndex": 6,
+      "question": "The treatment-etiology fallacy warns against:",
+      "options": [
+        "A) All treatment",
+        "B) Inferring disorder causes from treatment effectiveness",
+        "C) Biological treatments",
+        "D) Psychological treatments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86cbf1260e7cb5b34b60a07dcb8374fcb1ed18b2",
+      "sectionIndex": 6,
+      "question": "Precision medicine in psychiatry faces challenges because:",
+      "options": [
+        "A) Medications work universally",
+        "B) Heterogeneity within diagnostic categories limits biomarker utility",
+        "C) Precision isn't needed",
+        "D) One size fits all"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c69b617b858279abb509fd7cd31bd60a365f06d5",
+      "sectionIndex": 6,
+      "question": "The clinician-researcher gap persists due to:",
+      "options": [
+        "A) Lack of communication only",
+        "B) Different priorities, timescales, and outcome definitions",
+        "C) No real gap exists",
+        "D) Clinicians don't read research"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b6f971d6a00f7b39036a40e72a415e891bf44bf",
+      "sectionIndex": 6,
+      "question": "Transdiagnostic approaches gain traction by:",
+      "options": [
+        "A) Creating more diagnoses",
+        "B) Targeting common processes across multiple disorders",
+        "C) Avoiding diagnosis",
+        "D) Focusing on single disorders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcafcf9bfdbafe54f82bcd2708e28c17a57aaecc",
+      "sectionIndex": 7,
+      "question": "System justification theory's psychological mechanisms include:",
+      "options": [
+        "A) Always rebelling",
+        "B) Motivated reasoning to perceive unfair systems as legitimate",
+        "C) Perfect justice perception",
+        "D) No psychological effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fac11ed084427df11c8e109acab71ef0ca812d6",
+      "sectionIndex": 7,
+      "question": "Cultural psychology's mutual constitution principle means:",
+      "options": [
+        "A) Cultures are separate from minds",
+        "B) Culture and psyche make each other up",
+        "C) Universal psychology",
+        "D) Culture doesn't affect psychology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bce1e113c7731e90ed1f660ed6f419af299d37a6",
+      "sectionIndex": 7,
+      "question": "The WEIRD bias in psychology undermines claims of universality by:",
+      "options": [
+        "A) Including everyone",
+        "B) Basing theories on narrow, unrepresentative populations",
+        "C) Being too inclusive",
+        "D) No bias exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebf7329018f11c0bab5580258d54e1740e6ce961",
+      "sectionIndex": 7,
+      "question": "Implicit bias interventions show limited effectiveness possibly because:",
+      "options": [
+        "A) Bias doesn't exist",
+        "B) Deep-seated associations resist brief interventions",
+        "C) Perfect success",
+        "D) No one tries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "41031dc7ddf43b0dd41a899b8cec35880cb31514",
+      "sectionIndex": 7,
+      "question": "The minimal group paradigm demonstrates:",
+      "options": [
+        "A) Groups don't matter",
+        "B) Mere categorization sufficient for in-group favoritism",
+        "C) Complex requirements for bias",
+        "D) No group effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20f4f174db942f2b168a4ef5a611472fbe8a6d77",
+      "sectionIndex": 7,
+      "question": "Terror management theory explains diverse behaviors through:",
+      "options": [
+        "A) Fear of terrorism",
+        "B) Unconscious death anxiety motivating worldview defense",
+        "C) Management techniques",
+        "D) No explanatory power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f9a3fd1241f62d87f7291ee843de9cc14af3082",
+      "sectionIndex": 7,
+      "question": "The cultural syndrome approach identifies:",
+      "options": [
+        "A) Mental illness only",
+        "B) Shared patterns of beliefs, behaviors, and practices within cultures",
+        "C) Universal patterns",
+        "D) No cultural differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bf39d9c81e4ff8a87337bb57613ac3863f3f142",
+      "sectionIndex": 7,
+      "question": "Intergroup contact's effectiveness depends on:",
+      "options": [
+        "A) Any contact",
+        "B) Optimal conditions including equal status and institutional support",
+        "C) Separation",
+        "D) Contact amount only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d904e31d87262cda9eb9e53f2f6244908a7c6b4",
+      "sectionIndex": 7,
+      "question": "Social identity threat encompasses:",
+      "options": [
+        "A) Physical threats only",
+        "B) Multiple threats to valued social identities affecting performance",
+        "C) No real effects",
+        "D) Individual identity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d63eb72094d88edd434091da57162f213ed85811",
+      "sectionIndex": 7,
+      "question": "Cultural neuroscience reveals:",
+      "options": [
+        "A) Identical brains globally",
+        "B) Cultural experiences shape neural structure and function",
+        "C) Biology trumps culture",
+        "D) No neural differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7ec347af010e683fc4f279432a26220b7426319",
+      "sectionIndex": 8,
+      "question": "Nudge interventions' ethical implications include:",
+      "options": [
+        "A) No ethical concerns",
+        "B) Tension between libertarian paternalism and manipulation",
+        "C) Always ethical",
+        "D) Always unethical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8eaaf3b466a8b15143a97a57a6df6dfd84f22962",
+      "sectionIndex": 8,
+      "question": "The replication crisis in priming research revealed:",
+      "options": [
+        "A) Priming doesn't exist",
+        "B) Effect sizes smaller and more context-dependent than claimed",
+        "C) Perfect replication",
+        "D) No issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51b7fb79f1a49eee141ac90fe66fc189f7f9250a",
+      "sectionIndex": 8,
+      "question": "Digital phenotyping in mental health promises:",
+      "options": [
+        "A) Replace clinicians",
+        "B) Continuous behavioral monitoring for early intervention",
+        "C) Privacy invasion only",
+        "D) No clinical value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbb5fde30fa0d28db69c1fb13ab56f93d6e410b4",
+      "sectionIndex": 8,
+      "question": "The goldilocks principle in developmental technology use suggests:",
+      "options": [
+        "A) Technology is harmful",
+        "B) Optimal usage levels vary by individual and context",
+        "C) More is better",
+        "D) Complete avoidance needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40f0d37fac3ce65dd7915e0ba681d6931c1f4979",
+      "sectionIndex": 8,
+      "question": "Wise interventions succeed through:",
+      "options": [
+        "A) Complex procedures",
+        "B) Targeting specific psychological processes with minimal intervention",
+        "C) Long duration",
+        "D) High cost"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0f5d2cc4c0d68a801efdcd4cf9a6ea3c8028a69",
+      "sectionIndex": 8,
+      "question": "The science of science communication shows:",
+      "options": [
+        "A) Facts convince everyone",
+        "B) Identity-protective cognition and motivated reasoning shape reception",
+        "C) Simple solutions exist",
+        "D) Communication doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe4c3c2cf22fa2d280f67aa5c0b84f3de7bebab7",
+      "sectionIndex": 8,
+      "question": "Behavioral economics integration with psychology reveals:",
+      "options": [
+        "A) Rational decision-making",
+        "B) Systematic cognitive biases affecting economic behavior",
+        "C) Economics dominates",
+        "D) Psychology irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "451565e975f0e70e9787a3cef238255d906b56ff",
+      "sectionIndex": 8,
+      "question": "Machine learning in psychology offers:",
+      "options": [
+        "A) Replacement for theory",
+        "B) Pattern detection complementing hypothesis-driven research",
+        "C) Perfect prediction",
+        "D) No advantages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da495a6e2afd9d09132bf0372d18799222255870",
+      "sectionIndex": 8,
+      "question": "The credibility revolution in psychology emphasizes:",
+      "options": [
+        "A) Trusting all research",
+        "B) Preregistration, larger samples, and open data",
+        "C) Secrecy",
+        "D) Small studies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d716d786eca2b0f976d1807913cb47ced32c6cf",
+      "sectionIndex": 8,
+      "question": "Cyberpsychology's unique contributions include:",
+      "options": [
+        "A) Studying computers only",
+        "B) How digital environments create novel psychological phenomena",
+        "C) Traditional psychology online",
+        "D) No new insights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef82c2e1ea1fdbcb3bd140e3bed6b0baacb4ab21",
+      "sectionIndex": 9,
+      "question": "The theory crisis in psychology reflects:",
+      "options": [
+        "A) Too many theories",
+        "B) Lack of cumulative, falsifiable theoretical frameworks",
+        "C) No need for theory",
+        "D) Perfect theories exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a8385bed8662de89488ddfa487d3ca0daecdc45",
+      "sectionIndex": 9,
+      "question": "Computational psychiatry advances treatment by:",
+      "options": [
+        "A) Using computers only",
+        "B) Mathematical modeling of cognitive processes in mental illness",
+        "C) Replacing therapists",
+        "D) Simplifying disorders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95dc57608d02f730ee6793284d8df952f9d4e9fa",
+      "sectionIndex": 9,
+      "question": "The generalizability crisis extends beyond WEIRD to include:",
+      "options": [
+        "A) No other issues",
+        "B) Temporal, situational, and measurement-specific constraints",
+        "C) Perfect generalization",
+        "D) Only cultural issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3ed4949f43cb5e81ea5513f770818a24b63a8aa",
+      "sectionIndex": 9,
+      "question": "Neurodiversity movements challenge psychology by:",
+      "options": [
+        "A) Denying disabilities",
+        "B) Reframing differences as variations rather than deficits",
+        "C) Opposing all treatment",
+        "D) No scientific impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7feeffd70a5c31b53025a5908ae47e70a43cffc2",
+      "sectionIndex": 9,
+      "question": "The integration of evolutionary and cultural psychology reveals:",
+      "options": [
+        "A) Opposition only",
+        "B) Gene-culture coevolution shaping psychological mechanisms",
+        "C) Evolution stopped",
+        "D) Culture is unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2742722846109b80f0210c7b163344f36ef98d39",
+      "sectionIndex": 9,
+      "question": "Quantum cognition models offer:",
+      "options": [
+        "A) Mystical explanations",
+        "B) Mathematical frameworks for contextual and uncertain phenomena",
+        "C) Replace classical models",
+        "D) No advantages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "413329da6306e95f9d8d3c2bb3d8a38e477d48af",
+      "sectionIndex": 9,
+      "question": "The measurement crisis in psychology involves:",
+      "options": [
+        "A) Broken rulers",
+        "B) Poor construct validity and measurement practices",
+        "C) Perfect measurement",
+        "D) No measurements needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1daf34645a3ce4f25e30182a8453f302c9cdabd",
+      "sectionIndex": 9,
+      "question": "Personalized psychology's promise and challenges include:",
+      "options": [
+        "A) One-size-fits-all works",
+        "B) Tailoring interventions while avoiding algorithmic bias",
+        "C) No individual differences",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36aff011ce85636dda56b8d7f1cef3490138036d",
+      "sectionIndex": 9,
+      "question": "The boundary between normal and pathological challenges psychology to:",
+      "options": [
+        "A) Maintain clear distinctions",
+        "B) Recognize dimensional nature while preserving clinical utility",
+        "C) Pathologize everything",
+        "D) Normalize everything"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12abf71f5e7dc3d95b0d2823380ae61684c5eed5",
+      "sectionIndex": 9,
+      "question": "Psychology's future scientific status depends on:",
+      "options": [
+        "A) Current methods suffice",
+        "B) Addressing reproducibility, theory, and generalizability simultaneously",
+        "C) Abandoning science",
+        "D) No changes needed"
+      ],
+      "correct": "B"
+    }
+  ]
+}

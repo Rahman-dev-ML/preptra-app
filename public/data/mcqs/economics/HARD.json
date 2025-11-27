@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:21:24.949Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "85b78ed5665ac1e3e1d5c68ad15c7df0b1588e8b",
+      "sectionIndex": 0,
+      "question": "The Sonnenschein-Mantel-Debreu theorem implies that:",
+      "options": [
+        "A) General equilibrium always exists",
+        "B) Aggregate excess demand functions can have any shape consistent with continuity",
+        "C) Markets always clear",
+        "D) Walras' law is invalid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbd38ca5cc25535759df81711a9e0fe7f1260334",
+      "sectionIndex": 0,
+      "question": "The second theorem of welfare economics requires which controversial assumption?",
+      "options": [
+        "A) Perfect competition only",
+        "B) Convex preferences and production sets",
+        "C) No externalities",
+        "D) Perfect information only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5183fbe342e4204d0c7215304726b413c820eff4",
+      "sectionIndex": 0,
+      "question": "Arrow's impossibility theorem demonstrates that:",
+      "options": [
+        "A) Democracy is impossible",
+        "B) No voting system can satisfy all reasonable fairness criteria",
+        "C) Dictatorships are efficient",
+        "D) Markets fail everywhere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "187d595c0ccd69cdc9ecfb3db4df2d2ef9b88288",
+      "sectionIndex": 0,
+      "question": "The folk theorem in repeated games suggests:",
+      "options": [
+        "A) Cooperation is impossible",
+        "B) Many equilibria possible including cooperative outcomes",
+        "C) Only Nash equilibrium exists",
+        "D) Games must be finite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf5f1fee81f49d5d2e8ac9fcddcf76cba8a32610",
+      "sectionIndex": 0,
+      "question": "The Myerson-Satterthwaite theorem shows:",
+      "options": [
+        "A) Efficient trade always occurs",
+        "B) No mechanism achieves efficiency in bilateral trade with private information",
+        "C) Markets are perfect",
+        "D) Information doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63a3a24ae942c68633453fc0741d566eb2af8b58",
+      "sectionIndex": 0,
+      "question": "Dynamic inconsistency in optimal control implies:",
+      "options": [
+        "A) All policies are consistent",
+        "B) Optimal plans may not be optimal to follow through",
+        "C) Time doesn't matter",
+        "D) Commitment has no value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c98a3ad46faf931a1bedcf9d89f2d3a40225cb9e",
+      "sectionIndex": 0,
+      "question": "The envelope theorem's economic significance is:",
+      "options": [
+        "A) Purely mathematical",
+        "B) Optimal value functions' derivatives equal optimized objective's partial derivatives",
+        "C) No economic meaning",
+        "D) Only applies to consumer theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43eed4e9b67d69e869f98938bd3594c429887d2a",
+      "sectionIndex": 0,
+      "question": "The Gorman aggregation conditions are restrictive because they require:",
+      "options": [
+        "A) Identical preferences",
+        "B) Linear Engel curves with identical slopes across consumers",
+        "C) No income effects",
+        "D) Perfect substitutes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6013d88c162b69057213a630812c3047f8c8832a",
+      "sectionIndex": 0,
+      "question": "The Lipsey-Lancaster theorem of second best implies:",
+      "options": [
+        "A) Second best is always inferior",
+        "B) Piecemeal reforms may reduce welfare",
+        "C) All distortions should be removed",
+        "D) Partial reforms always help"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c69a3795d8df3c98bc3964dbf741061adffd5c6",
+      "sectionIndex": 0,
+      "question": "The Lucas critique fundamentally challenged:",
+      "options": [
+        "A) All economic theory",
+        "B) Econometric policy evaluation without structural parameters",
+        "C) Mathematical economics",
+        "D) Microeconomics only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c221f330ea4b07deb1ed472a56a6793f0379cc7",
+      "sectionIndex": 1,
+      "question": "The Calvo pricing model's key insight is:",
+      "options": [
+        "A) Prices adjust instantly",
+        "B) Staggered price adjustment creates persistent real effects",
+        "C) Money is neutral",
+        "D) Inflation is costless"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00e15f2d733bc648ea4458d909fab7ac17bbdc7b",
+      "sectionIndex": 1,
+      "question": "The Taylor principle requires central banks to:",
+      "options": [
+        "A) Keep rates constant",
+        "B) Raise nominal rates more than one-for-one with inflation",
+        "C) Target money supply",
+        "D) Ignore inflation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6de6713ac86c9adff47cb4939af6b89d38181d00",
+      "sectionIndex": 1,
+      "question": "The fiscal theory of price level suggests:",
+      "options": [
+        "A) Fiscal policy doesn't matter",
+        "B) Price level adjusts to satisfy government budget constraint",
+        "C) Only monetary policy matters",
+        "D) Deficits don't affect inflation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eec06d46c4accb01f7cfb9d75b4faad6824cf172",
+      "sectionIndex": 1,
+      "question": "Blanchard-Kahn conditions ensure:",
+      "options": [
+        "A) Static equilibrium",
+        "B) Unique stable rational expectations equilibrium",
+        "C) Multiple equilibria",
+        "D) No solution exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3031db74c6d6a2e9c1d9a03b727dd27d00e85a5",
+      "sectionIndex": 1,
+      "question": "The zero lower bound problem implies:",
+      "options": [
+        "A) Interest rates can be negative",
+        "B) Conventional monetary policy loses effectiveness",
+        "C) Fiscal policy doesn't work",
+        "D) Inflation is impossible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bc19d613e188b289aee70bdfea24ad6a05e4872",
+      "sectionIndex": 1,
+      "question": "DSGE models' main criticism is:",
+      "options": [
+        "A) Too simple",
+        "B) Inadequate treatment of financial frictions and heterogeneity",
+        "C) Too much realism",
+        "D) No mathematics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "93695e2e241fb117af28b29ac7398a023cc481d1",
+      "sectionIndex": 1,
+      "question": "The divine coincidence breaks down when:",
+      "options": [
+        "A) There are no shocks",
+        "B) Cost-push shocks create inflation-output tradeoffs",
+        "C) Policy is perfect",
+        "D) Markets clear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9bca2926ef8dd2aea9f0d1eed7197811fd0424f",
+      "sectionIndex": 1,
+      "question": "Hysteresis in unemployment means:",
+      "options": [
+        "A) Temporary shocks only",
+        "B) Temporary shocks have permanent effects",
+        "C) No persistence",
+        "D) Natural rate is fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ffa1ec29910307d93379ea01b33d29e130d41983",
+      "sectionIndex": 1,
+      "question": "The Balassa-Samuelson effect's relevance for monetary unions:",
+      "options": [
+        "A) No relevance",
+        "B) Creates persistent inflation differentials",
+        "C) Ensures convergence",
+        "D) Eliminates differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "622a87a8ec9fc84b6e70a77374713823df4910e7",
+      "sectionIndex": 1,
+      "question": "Forward guidance effectiveness depends critically on:",
+      "options": [
+        "A) Current rates only",
+        "B) Central bank credibility and commitment",
+        "C) Fiscal policy",
+        "D) Exchange rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18d50318626a961330c6fa3e5aae6927f6edc4a4",
+      "sectionIndex": 2,
+      "question": "The transfer problem's modern relevance includes:",
+      "options": [
+        "A) No modern relevance",
+        "B) Euro area imbalances and adjustment mechanisms",
+        "C) Only historical interest",
+        "D) Trade theory only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21ee3c01e6ebcf82d158d753768c18e67f1ca9ae",
+      "sectionIndex": 2,
+      "question": "The Feldstein-Horioka puzzle suggests:",
+      "options": [
+        "A) Perfect capital mobility",
+        "B) Home bias in investment despite financial integration",
+        "C) No capital flows",
+        "D) Trade determines investment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70fc439fd44e75e154618461b33dda455e73e23a",
+      "sectionIndex": 2,
+      "question": "Original sin in international finance refers to:",
+      "options": [
+        "A) Religious concept",
+        "B) Inability to borrow abroad in domestic currency",
+        "C) Trade deficits",
+        "D) Fixed exchange rates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a7b604704cac8a876951a09940227ad2d87f3bb",
+      "sectionIndex": 2,
+      "question": "The trilemma becomes a dilemma when:",
+      "options": [
+        "A) Capital controls work perfectly",
+        "B) Financial cycles limit monetary independence even with floating rates",
+        "C) Exchange rates are fixed",
+        "D) Trade is free"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "782508cd810048c1250583b20b2c2bb6ff655338",
+      "sectionIndex": 2,
+      "question": "Sudden stops in capital flows are particularly damaging because:",
+      "options": [
+        "A) They're predictable",
+        "B) Current account adjustment requires sharp output contraction",
+        "C) They never happen",
+        "D) Capital doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "492416b689c3c19c5196bcf719100ad14e1c25c9",
+      "sectionIndex": 2,
+      "question": "The global financial cycle challenges the view that:",
+      "options": [
+        "A) Finance matters",
+        "B) Floating exchange rates provide full insulation",
+        "C) Capital flows exist",
+        "D) Cycles don't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e13d33d2d792bdd07ee8bf02ac1bac1e5539cbc5",
+      "sectionIndex": 2,
+      "question": "Currency competition theories predict:",
+      "options": [
+        "A) Single currency dominance",
+        "B) Network effects may perpetuate suboptimal currency arrangements",
+        "C) Equal currency use",
+        "D) No international currencies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf055abaf095e611bac3f7a91128cc9caedcc082",
+      "sectionIndex": 2,
+      "question": "The Triffin dilemma for reserve currencies involves:",
+      "options": [
+        "A) No conflict",
+        "B) Conflict between domestic objectives and liquidity provision",
+        "C) Trade balance only",
+        "D) Fiscal policy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d58278495a8648dc9d4917def69f4536eb9888e7",
+      "sectionIndex": 2,
+      "question": "Optimal currency area theory's endogeneity implies:",
+      "options": [
+        "A) Fixed criteria",
+        "B) Currency union may create conditions for its success",
+        "C) No change over time",
+        "D) Politics don't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7852be0149dc4b0d3a738caa25dbc18696e7a3c5",
+      "sectionIndex": 2,
+      "question": "Global value chains complicate trade policy because:",
+      "options": [
+        "A) They don't exist",
+        "B) Protection hurts domestic firms using imported inputs",
+        "C) Trade increases",
+        "D) Simplify analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16aeded3a5d4fef702ef9f2f8cd97ccd0fa6586b",
+      "sectionIndex": 3,
+      "question": "The identification revolution in development economics emphasizes:",
+      "options": [
+        "A) Theory over empirics",
+        "B) Causal inference through experimental and quasi-experimental methods",
+        "C) Descriptive statistics",
+        "D) Mathematical models only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cc20607bb303c50ab8f4446a5e4b45f5aab20b3",
+      "sectionIndex": 3,
+      "question": "Poverty trap models' empirical evidence suggests:",
+      "options": [
+        "A) Universal existence",
+        "B) Context-specific with limited general evidence",
+        "C) Never exist",
+        "D) Always exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7db345c02864ef38fc62900c823e6efa90cdd9b1",
+      "sectionIndex": 3,
+      "question": "The institutions versus geography debate's nuanced view recognizes:",
+      "options": [
+        "A) Only institutions matter",
+        "B) Complex interactions between institutional and geographic factors",
+        "C) Only geography matters",
+        "D) Neither matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1469ad07adcef32cc8f45e0781fcb26b3fc2dbf",
+      "sectionIndex": 3,
+      "question": "Behavioral development economics challenges assume:",
+      "options": [
+        "A) Perfect rationality holds",
+        "B) Psychological factors constrain development",
+        "C) Culture doesn't matter",
+        "D) Only incentives matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "488b37c72130c064299f58ffa3540e7cff20e793",
+      "sectionIndex": 3,
+      "question": "The macro-micro disconnect in development refers to:",
+      "options": [
+        "A) Perfect consistency",
+        "B) Micro-interventions' success not translating to macro-growth",
+        "C) No relationship",
+        "D) Automatic scaling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58f30d0aceed06767089c58e72f0d721ba5814ab",
+      "sectionIndex": 3,
+      "question": "Political economy of reform failure often involves:",
+      "options": [
+        "A) Technical problems only",
+        "B) Concentrated costs and diffuse benefits",
+        "C) No political factors",
+        "D) Perfect implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cab0a9d1ac14bade824439c62e7f7ee37feba1e9",
+      "sectionIndex": 3,
+      "question": "The capability approach differs from welfarism by:",
+      "options": [
+        "A) Focusing on income only",
+        "B) Emphasizing freedoms and functionings",
+        "C) Ignoring distribution",
+        "D) Measuring GDP only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0378b623f2949179aa6dc01d31b88bb8f75f647d",
+      "sectionIndex": 3,
+      "question": "Graduation from poverty programs' key innovation is:",
+      "options": [
+        "A) Cash transfers only",
+        "B) Combining multiple interventions addressing different constraints",
+        "C) Single intervention",
+        "D) No follow-up"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0ea71684d251af1d9801934a5c24b519ccea246",
+      "sectionIndex": 3,
+      "question": "The external validity problem in RCTs means:",
+      "options": [
+        "A) Internal validity doesn't matter",
+        "B) Results may not generalize to different contexts",
+        "C) Experiments always work",
+        "D) Theory is useless"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ef536679902afcdad84b403d2167946895702f5",
+      "sectionIndex": 3,
+      "question": "Complexity economics approaches development as:",
+      "options": [
+        "A) Linear process",
+        "B) Emergent properties from interacting agents",
+        "C) Simple accumulation",
+        "D) Predetermined path"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3bc654fb7ef299a7610409ef0a12296f467b9231",
+      "sectionIndex": 4,
+      "question": "The Grossman-Stiglitz paradox implies:",
+      "options": [
+        "A) Markets are always efficient",
+        "B) Perfectly efficient markets eliminate incentives for information gathering",
+        "C) Information is free",
+        "D) Markets fail completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e50591e9a523f76e1a59346b78ef99d823922c37",
+      "sectionIndex": 4,
+      "question": "Diamond-Dybvig model shows bank runs can be:",
+      "options": [
+        "A) Only fundamental-based",
+        "B) Self-fulfilling prophecies from coordination failure",
+        "C) Impossible",
+        "D) Always prevented"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2c3162bbb6c6d07724eb80b75ece820baaeed71",
+      "sectionIndex": 4,
+      "question": "The Minsky moment occurs when:",
+      "options": [
+        "A) Growth accelerates",
+        "B) Speculative borrowers cannot service debt from cash flows",
+        "C) Stability increases",
+        "D) Regulation tightens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75ab62ed154a4bef7a9e7e9997ea626b77ce031c",
+      "sectionIndex": 4,
+      "question": "Fire sale externalities in financial markets create:",
+      "options": [
+        "A) Efficiency",
+        "B) Amplification mechanisms for systemic risk",
+        "C) Stability",
+        "D) No effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "915b01ea7bdeda9b176b2d09a90f94d9d2bc27c3",
+      "sectionIndex": 4,
+      "question": "The Goodhart's law problem for financial regulation:",
+      "options": [
+        "A) Doesn't exist",
+        "B) Regulated metrics lose information content",
+        "C) Regulation always works",
+        "D) Metrics improve"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78bc8a4ed78a4866d1ae58ed0ffcf311af6de087",
+      "sectionIndex": 4,
+      "question": "Macroprudential policy differs from microprudential by:",
+      "options": [
+        "A) No difference",
+        "B) Focusing on systemic risk versus individual institution safety",
+        "C) Being weaker",
+        "D) Ignoring risk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8789c90b92f4fc2314d7fdf915447af9fd7108e0",
+      "sectionIndex": 4,
+      "question": "The risk-taking channel of monetary policy suggests:",
+      "options": [
+        "A) No relationship",
+        "B) Low rates encourage excessive risk-taking",
+        "C) High rates increase risk",
+        "D) Policy doesn't affect risk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6400e0d7a736f2d399b96bdf58481863378f6516",
+      "sectionIndex": 4,
+      "question": "Global financial safety nets' incompleteness reflects:",
+      "options": [
+        "A) Perfect coverage",
+        "B) Moral hazard concerns limiting unconditional support",
+        "C) No need exists",
+        "D) Technical impossibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd6e74c5b822d62eb6b7bbfb73eb840295de6ef4",
+      "sectionIndex": 4,
+      "question": "The doom loop between banks and sovereigns involves:",
+      "options": [
+        "A) No connection",
+        "B) Mutual reinforcement of credit risks",
+        "C) Automatic stability",
+        "D) One-way causation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ceba7addcfd380f81206bb42b19e897b7408552d",
+      "sectionIndex": 4,
+      "question": "Regulatory arbitrage persists because:",
+      "options": [
+        "A) Identical rules everywhere",
+        "B) Jurisdictional competition and innovation",
+        "C) No incentives exist",
+        "D) Perfect enforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "370e1668d63ef71b5d124f160eb39d3ce0092bbe",
+      "sectionIndex": 5,
+      "question": "The Acemoglu-Robinson framework emphasizes:",
+      "options": [
+        "A) Geography only",
+        "B) Inclusive versus extractive institutions",
+        "C) Culture only",
+        "D) Resources determine development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b8294ce11dca455b69c501afa6e1a55a12625ab",
+      "sectionIndex": 5,
+      "question": "The selectorate theory predicts policy choices based on:",
+      "options": [
+        "A) Public interest",
+        "B) Size of winning coalition relative to selectorate",
+        "C) Democracy only",
+        "D) Economic factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a4b7a3e11d6bb3b5b12763969fd049e04fadcde",
+      "sectionIndex": 5,
+      "question": "Regulatory capture theory's modern versions emphasize:",
+      "options": [
+        "A) Simple corruption",
+        "B) Cultural and intellectual capture mechanisms",
+        "C) No capture possible",
+        "D) Perfect regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f0103e8c1c684d17b39e6333966cc5a1dcbd68b",
+      "sectionIndex": 5,
+      "question": "The political resource curse operates through:",
+      "options": [
+        "A) Economic channels only",
+        "B) Weakened accountability from non-tax revenues",
+        "C) No political effects",
+        "D) Strengthened democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "731f6b57ad1425c7b5bd226c04aa1646df67094a",
+      "sectionIndex": 5,
+      "question": "Commitment problems in political economy arise because:",
+      "options": [
+        "A) Perfect commitment exists",
+        "B) Future governments cannot be bound",
+        "C) Contracts are enforceable",
+        "D) Time doesn't matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d005d06911db7bc8fc028d5e60e0e99af8cde9db",
+      "sectionIndex": 5,
+      "question": "The median voter theorem's limitations include:",
+      "options": [
+        "A) Always accurate",
+        "B) Multidimensional policy spaces and restricted agendas",
+        "C) No limitations",
+        "D) Perfect prediction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eeac92c015c75d57a2293a2ad4977ea3ebd9eea",
+      "sectionIndex": 5,
+      "question": "Political business cycles persist despite rational expectations due to:",
+      "options": [
+        "A) Voter ignorance only",
+        "B) Asymmetric information about competence",
+        "C) No persistence",
+        "D) Perfect information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e4befc626b445df033f8a43dcd6fa9a4a6189d1",
+      "sectionIndex": 5,
+      "question": "Olson's collective action problem implies:",
+      "options": [
+        "A) Groups always form",
+        "B) Concentrated interests dominate diffuse interests",
+        "C) No organization occurs",
+        "D) Equal representation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0364070b72a2d27ae6736126bcb134157adf029",
+      "sectionIndex": 5,
+      "question": "The Tullock paradox questions why:",
+      "options": [
+        "A) Rent-seeking is excessive",
+        "B) Observed rent-seeking seems too small",
+        "C) No rent-seeking occurs",
+        "D) Competition doesn't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e4d9597212454ef9e952f7915f9231b1d58f8f8",
+      "sectionIndex": 5,
+      "question": "Constitutional political economy focuses on:",
+      "options": [
+        "A) Day-to-day politics",
+        "B) Rules of the game rather than plays",
+        "C) No rules needed",
+        "D) Outcomes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf80d010490016a8ea347cf58a4acbcfb57b9cec",
+      "sectionIndex": 6,
+      "question": "Modern Monetary Theory's controversial claim is:",
+      "options": [
+        "A) Deficits always matter",
+        "B) Monetary sovereign governments face no financial constraints",
+        "C) Gold standard return",
+        "D) Fixed exchange rates optimal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01b97163407915cefc8ac94d161ee3e703d14d9c",
+      "sectionIndex": 6,
+      "question": "The secular stagnation versus financial cycle debate centers on:",
+      "options": [
+        "A) Short-term fluctuations",
+        "B) Structural versus financial causes of low rates",
+        "C) No debate exists",
+        "D) Growth is high"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c712d7ad350272f7809a1f6860abbdc06d6b7081",
+      "sectionIndex": 6,
+      "question": "Post-Keynesian endogenous money theory challenges:",
+      "options": [
+        "A) All economics",
+        "B) Exogenous money supply in orthodox theory",
+        "C) Banking existence",
+        "D) Credit creation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a78ffebb881521c76af77c92b0b3fdf508fb151",
+      "sectionIndex": 6,
+      "question": "Agent-based models offer advantages in:",
+      "options": [
+        "A) Simplicity",
+        "B) Capturing emergent phenomena and heterogeneity",
+        "C) Analytical solutions",
+        "D) Equilibrium analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26aa6a0fc21ade1e9724d788f3b4bff892882890",
+      "sectionIndex": 6,
+      "question": "The micro-foundations debate questions whether:",
+      "options": [
+        "A) Micro matters",
+        "B) Representative agent models adequately capture macro phenomena",
+        "C) Math is useful",
+        "D) Aggregation is possible"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "898bf2d3b232d7698f5b2f883a2d3cabe1deb03e",
+      "sectionIndex": 6,
+      "question": "Network economics insights for financial stability include:",
+      "options": [
+        "A) Networks don't matter",
+        "B) Connectivity can increase and decrease stability",
+        "C) Always stable",
+        "D) Always unstable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d203095e3d2543d5536c24937449b62a041f295",
+      "sectionIndex": 6,
+      "question": "Quantum economics proposes:",
+      "options": [
+        "A) Classical mechanics",
+        "B) Uncertainty and entanglement in economic interactions",
+        "C) Deterministic outcomes",
+        "D) No innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cbbe4153426a5c5dbcb700d30b5f2ec5c34e094",
+      "sectionIndex": 6,
+      "question": "The ergodicity debate in economics questions:",
+      "options": [
+        "A) Mathematical methods",
+        "B) Time and ensemble average equivalence assumptions",
+        "C) All statistics",
+        "D) Determinism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03a1194873123052e1f04f67fec24dff1b53d38d",
+      "sectionIndex": 6,
+      "question": "Complexity economics critiques of equilibrium include:",
+      "options": [
+        "A) Equilibrium always exists",
+        "B) Economy as adaptive system far from equilibrium",
+        "C) Simple dynamics",
+        "D) Predictability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b62beb315aa2430d4392e5649d0d0a4f14b7bd3",
+      "sectionIndex": 6,
+      "question": "The performativity thesis suggests economic theories:",
+      "options": [
+        "A) Only describe",
+        "B) Shape the reality they purport to describe",
+        "C) Have no effect",
+        "D) Are always wrong"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a398b6e3c446085745a22d79b06f8f42448a7bf8",
+      "sectionIndex": 7,
+      "question": "Pakistan's elite capture manifests economically through:",
+      "options": [
+        "A) Equal distribution",
+        "B) Tax exemptions and subsidies benefiting narrow interests",
+        "C) No capture",
+        "D) Perfect competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a11510c0076f6896ac7f7fed5b6e57f5eea6dfc8",
+      "sectionIndex": 7,
+      "question": "The real estate sector's dominance in Pakistan reflects:",
+      "options": [
+        "A) Productive investment",
+        "B) Distorted incentives favoring unproductive assets",
+        "C) Economic efficiency",
+        "D) Export promotion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9976b58899a3408249429156bb2ebdd067420579",
+      "sectionIndex": 7,
+      "question": "Pakistan's missing middle in manufacturing indicates:",
+      "options": [
+        "A) Balanced growth",
+        "B) Polarization between micro and large firms",
+        "C) No manufacturing",
+        "D) Perfect distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2345fae1f06f4d8023fce5d9e1e08df62f5b70bd",
+      "sectionIndex": 7,
+      "question": "The informal economy's persistence in Pakistan suggests:",
+      "options": [
+        "A) Regulatory success",
+        "B) High compliance costs and weak enforcement capacity",
+        "C) No informal sector",
+        "D) Perfect formalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79fae168ea5fde91692293616817beb71b14f929",
+      "sectionIndex": 7,
+      "question": "Pakistan's civil-military imbalance affects economics through:",
+      "options": [
+        "A) No effect",
+        "B) Resource allocation and policy credibility",
+        "C) Enhanced stability",
+        "D) Reduced spending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77cfb5abfd7ba749be439e5ee1b7ccb75c2d9ddc",
+      "sectionIndex": 7,
+      "question": "Provincial disparities post-18th Amendment reveal:",
+      "options": [
+        "A) Perfect federalism",
+        "B) Capacity constraints and political economy challenges",
+        "C) No disparities",
+        "D) Automatic convergence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "415e4a3c57a964434d85cdabaa71757c994c0137",
+      "sectionIndex": 7,
+      "question": "Pakistan's demographic transition's economic implications include:",
+      "options": [
+        "A) Automatic dividend",
+        "B) Need for job creation exceeding historical capacity",
+        "C) No challenges",
+        "D) Reduced pressure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00bcb13629236b651a2d1e4f049f52ba9312cdc3",
+      "sectionIndex": 7,
+      "question": "The water crisis-economy nexus in Pakistan involves:",
+      "options": [
+        "A) Abundant water",
+        "B) Agricultural productivity and urban-rural conflicts",
+        "C) No connection",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2cb106dfd2297d30c9e72026fbea4f0b5e59051",
+      "sectionIndex": 7,
+      "question": "CPEC's debt sustainability concerns center on:",
+      "options": [
+        "A) Grant financing",
+        "B) Revenue generation versus debt service obligations",
+        "C) No debt",
+        "D) Automatic success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c82b39bb3c163a9787ace8d96484b034b718f550",
+      "sectionIndex": 7,
+      "question": "Pakistan's premature deindustrialization reflects:",
+      "options": [
+        "A) Natural progression",
+        "B) Globalization and domestic policy failures",
+        "C) No industry loss",
+        "D) Service success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83d359cb96b6cfb5ef4187a4097ce9e8571a9725",
+      "sectionIndex": 8,
+      "question": "The identification problem in econometrics fundamentally asks:",
+      "options": [
+        "A) What to study",
+        "B) Whether observed correlations reflect causal relationships",
+        "C) How to collect data",
+        "D) Which theory to use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83461d90fe9ad9dc76b564e98f5e26a6b4b16efa",
+      "sectionIndex": 8,
+      "question": "External validity versus internal validity tradeoffs mean:",
+      "options": [
+        "A) Both always achieved",
+        "B) Precise causal estimates may not generalize",
+        "C) Neither matters",
+        "D) No tradeoff exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d3d1bef2e09739a1d01f593444e24152bab7f31",
+      "sectionIndex": 8,
+      "question": "The pre-analysis plan movement aims to address:",
+      "options": [
+        "A) Theory development",
+        "B) Publication bias and specification searching",
+        "C) Data collection",
+        "D) Policy design"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e4cd44ce7aa9ff1441e51cf164f02c8fc697d38",
+      "sectionIndex": 8,
+      "question": "Structural versus reduced-form debates center on:",
+      "options": [
+        "A) Mathematics only",
+        "B) Theory-based versus atheoretical identification",
+        "C) No differences",
+        "D) Complexity only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "576a48965038ab48ed35acd03f9cbcc8e4c35400",
+      "sectionIndex": 8,
+      "question": "The credibility revolution's limitation is:",
+      "options": [
+        "A) Too much credibility",
+        "B) Focus on identified effects over important questions",
+        "C) No limitations",
+        "D) Theory emphasis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "630b1fe74b804e2ac249bb4a2072547734960f73",
+      "sectionIndex": 8,
+      "question": "Machine learning in economics offers:",
+      "options": [
+        "A) Causal inference",
+        "B) Prediction and pattern recognition",
+        "C) Theory replacement",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f810c09eae25e76816a29e86b5e9991a2aca04ba",
+      "sectionIndex": 8,
+      "question": "The microfoundations dogma is criticized for:",
+      "options": [
+        "A) Being too micro",
+        "B) Imposing unrealistic representative agent assumptions",
+        "C) Mathematical rigor",
+        "D) Empirical focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7dc9549a49a5ac73ea1df7c44a46232dc07fc59",
+      "sectionIndex": 8,
+      "question": "Behavioral welfare economics faces the challenge of:",
+      "options": [
+        "A) No challenges",
+        "B) Defining welfare with non-standard preferences",
+        "C) Too much data",
+        "D) Simplicity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5c25a1e3abaf76b7e9f6ac1c4547685335a5b36",
+      "sectionIndex": 8,
+      "question": "The Lucas critique's empirical relevance remains debated because:",
+      "options": [
+        "A) Universal acceptance",
+        "B) Parameter stability despite policy changes in some contexts",
+        "C) No empirical work",
+        "D) Clear resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80bdf82bd979c365245da2b33668aa297f324193",
+      "sectionIndex": 8,
+      "question": "Randomization inference offers advantages in:",
+      "options": [
+        "A) Large samples only",
+        "B) Finite sample validity without distributional assumptions",
+        "C) Theory testing",
+        "D) Structural modeling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4fc8c5585c7749a01fbbb253eba5a4537c1c6d5",
+      "sectionIndex": 9,
+      "question": "Artificial intelligence's economic implications include:",
+      "options": [
+        "A) No change",
+        "B) Potential technological unemployment and inequality",
+        "C) Universal benefit",
+        "D) Simple transition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "001acfb269d83df8df55b8cd8f1dc3edae136885",
+      "sectionIndex": 9,
+      "question": "Central bank digital currencies challenge:",
+      "options": [
+        "A) Nothing",
+        "B) Traditional monetary transmission and financial stability",
+        "C) Cash only",
+        "D) Commercial banks only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3306cac55a54888cb7662d6e5a7e3fd50c059aa6",
+      "sectionIndex": 9,
+      "question": "The carbon pricing debate's complexity involves:",
+      "options": [
+        "A) Simple solution",
+        "B) Distributional effects and international coordination",
+        "C) No challenges",
+        "D) Automatic success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cbbf7fba7b86448a2130afe89b13188f5a8b856",
+      "sectionIndex": 9,
+      "question": "Degrowth economics questions:",
+      "options": [
+        "A) Nothing",
+        "B) GDP growth as welfare metric and ecological limits",
+        "C) All progress",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "425e22a779e4df919246ffb238b0a73c65779fdc",
+      "sectionIndex": 9,
+      "question": "The platform economy challenges traditional economics through:",
+      "options": [
+        "A) No challenges",
+        "B) Network effects and regulatory arbitrage",
+        "C) Simple competition",
+        "D) Clear frameworks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "522392b4d776598d8c9ad4f8b73b42bac4aaa088",
+      "sectionIndex": 9,
+      "question": "Universal basic income's macroeconomic effects include:",
+      "options": [
+        "A) Only positive",
+        "B) Uncertain impacts on labor supply and inflation",
+        "C) No effects",
+        "D) Guaranteed success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4aad0018c5c30108006feb153afb2aa89658f6ab",
+      "sectionIndex": 9,
+      "question": "The longevity economy poses challenges for:",
+      "options": [
+        "A) Healthcare only",
+        "B) Pension systems and intergenerational transfers",
+        "C) No challenges",
+        "D) Youth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d31409350d0dc2fd968a5d64db2e7c6edd15ffc7",
+      "sectionIndex": 9,
+      "question": "Quantum computing's potential in economics includes:",
+      "options": [
+        "A) No applications",
+        "B) Solving complex optimization and simulation problems",
+        "C) Current methods sufficient",
+        "D) Theory only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09cdf90dc4568c5b1a3ca7c7861b64e07e5b875c",
+      "sectionIndex": 9,
+      "question": "The space economy's emergence raises questions about:",
+      "options": [
+        "A) No economic relevance",
+        "B) Property rights and governance frameworks",
+        "C) Earth only",
+        "D) Simple extension"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fd6ed72ef9d56efba0856fac7c0b2fa4df451d95",
+      "sectionIndex": 9,
+      "question": "Post-pandemic economics must grapple with:",
+      "options": [
+        "A) Return to normal",
+        "B) Structural shifts in work, globalization, and state capacity",
+        "C) No changes",
+        "D) Temporary adjustments"
+      ],
+      "correct": "B"
+    }
+  ]
+}

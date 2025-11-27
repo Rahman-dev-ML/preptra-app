@@ -1,0 +1,374 @@
+{
+  "subject": "Mercantile Law (CSS Pakistan)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 12,
+  "categories": [
+    "Law of Contract, 1872",
+    "Sale of Goods Act, 1930",
+    "Partnership Act, 1932",
+    "Companies Act, 2017",
+    "Negotiable Instruments Act, 1881",
+    "Arbitration Act, 1940",
+    "Competition Act, 2010",
+    "Electronic Transactions & EFT",
+    "Consumer Protection",
+    "Currency & SBP Context",
+    "Agency & Special Doctrines",
+    "Exam Strategy & Past Papers"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Essentials of a Valid Contract (Contract Act, 1872)",
+      "content": "Define contract (offer, acceptance, consideration, capacity, free consent, lawful object). Master sections on proposal/acceptance (S.2–9), void/voidable agreements, and performance/discharge for MCQs and long questions.",
+      "keyTakeaways": [
+        "All contracts are agreements, but not all agreements are contracts (S.2).",
+        "Free consent (coercion, undue influence, fraud, misrepresentation, mistake) drives voidability.",
+        "Discharge can occur by performance, agreement, impossibility, breach, and operation of law."
+      ],
+      "resources": [
+        {
+          "title": "Contract Act, 1872 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-a50%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "Contract Act, 1872 (Punjab Laws PDF)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/Contract_Act_1872.doc.pdf",
+          "type": "pdf",
+          "description": "Downloadable copy"
+        }
+      ],
+      "importance": "high",
+      "category": "Law of Contract, 1872",
+      "topics": ["Offer & Acceptance", "Consideration", "Capacity", "Free Consent", "Discharge"]
+    },
+    {
+      "id": "2",
+      "title": "Free Consent: Coercion, Undue Influence, Fraud, Misrepresentation, Mistake",
+      "content": "CSS repeatedly asks to distinguish grounds that vitiate consent and their legal effects (void vs. voidable). Prepare illustrations and case-style reasoning.",
+      "keyTakeaways": [
+        "Coercion vs. undue influence differ by source of pressure and relationship.",
+        "Fraud/misrepresentation: remedy often rescission + damages (where applicable).",
+        "Bilateral vs. unilateral mistake affects validity differently."
+      ],
+      "resources": [
+        {
+          "title": "Contract Act — Consent & Free Consent provisions",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-a50%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Sections on consent (S.13–22)"
+        }
+      ],
+      "importance": "high",
+      "category": "Law of Contract, 1872",
+      "topics": ["Coercion", "Undue Influence", "Fraud", "Misrepresentation", "Mistake"]
+    },
+    {
+      "id": "3",
+      "title": "Sale of Goods: Conditions vs. Warranties, Caveat Emptor, Passing of Property, Unpaid Seller",
+      "content": "Focus on when title passes, implied conditions (merchantable quality, fitness), and unpaid seller's rights (lien, stoppage-in-transit, resale).",
+      "keyTakeaways": [
+        "Distinguish condition/warranty; breach of condition allows rejection.",
+        "Caveat emptor has key exceptions (implied terms, reliance).",
+        "Timing rules determine risk/title transfer and exam hypotheticals."
+      ],
+      "resources": [
+        {
+          "title": "Sale of Goods Act, 1930 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw2-apaUY2Fqa-a5aU-sg-jjjjjjjjjjjjj-con-14227/Rki82H.php",
+          "type": "statute",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "Sale of Goods Act, 1930 (Punjab Laws PDF)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/sale_of_goods_act-_1930-pdf.pdf",
+          "type": "pdf",
+          "description": "Downloadable copy"
+        }
+      ],
+      "importance": "high",
+      "category": "Sale of Goods Act, 1930",
+      "topics": ["Conditions/Warranties", "Caveat Emptor", "Passing of Property", "Unpaid Seller"]
+    },
+    {
+      "id": "4",
+      "title": "Partnership: Formation, Implied Authority, Minor Partner, Dissolution",
+      "content": "CSS often tests partnership vs. company, rights/obligations inter se, and limitations on implied authority. Prepare dissolution modes and consequences.",
+      "keyTakeaways": [
+        "Partnership is a relation to share profits carried on by all or any acting for all.",
+        "Implied authority excludes certain acts unless custom/usage extends it.",
+        "Minor can be admitted to benefits, not full partnership."
+      ],
+      "resources": [
+        {
+          "title": "Partnership Act, 1932 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw2-apaUY2Fqa-a5ab-sg-jjjjjjjjjjjjj-con-14246",
+          "type": "statute",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "Partnership Act, 1932 (PDF)",
+          "url": "https://punjabcode.punjab.gov.pk/uploads/articles/THE_PARTNERSHIP_ACT%2C_1932.pdf",
+          "type": "pdf",
+          "description": "Downloadable copy"
+        }
+      ],
+      "importance": "high",
+      "category": "Partnership Act, 1932",
+      "topics": ["Definition", "Implied Authority", "Minor Partner", "Dissolution"]
+    },
+    {
+      "id": "5",
+      "title": "Company Law: Separate Personality, Memorandum & Articles, Meetings, Directors, Charges",
+      "content": "Move beyond definitions to governance and remedies: alteration of constitutional documents, statutory meetings/reports, directors' qualifications/liabilities, fixed vs. floating charges, minority protection.",
+      "keyTakeaways": [
+        "Companies Act 2017 replaced the 1984 Ordinance; rely on current sections.",
+        "Doctrine of indoor management protects third parties dealing with company.",
+        "Understand incorporation regulations and SECP circulars for compliance angles."
+      ],
+      "resources": [
+        {
+          "title": "Companies Act, 2017 (SECP)",
+          "url": "https://www.secp.gov.pk/companies-act-2017/",
+          "type": "statute",
+          "description": "Primary portal + updates"
+        },
+        {
+          "title": "Companies Act, 2017 (PDF)",
+          "url": "https://www.psx.com.pk/psx/themes/psx/documents/legal-framework/SECP/act/companies-act-2017/companiesAct2017.pdf",
+          "type": "pdf",
+          "description": "Full text PDF"
+        },
+        {
+          "title": "Companies (Incorporation) Regulations, 2017",
+          "url": "https://www.secp.gov.pk/document/the-companies-incorporation-regulations-2017-updated-may-03-2023/",
+          "type": "regulation",
+          "description": "Incorporation rules"
+        },
+        {
+          "title": "Doctrine of Indoor Management — explainer",
+          "url": "https://blog.ipleaders.in/doctrine-of-indoor-management/",
+          "type": "article",
+          "description": "Concept refresher"
+        }
+      ],
+      "importance": "high",
+      "category": "Companies Act, 2017",
+      "topics": ["Separate Personality", "MOA/AOA", "Meetings", "Directors", "Charges", "Indoor Management"]
+    },
+    {
+      "id": "6",
+      "title": "Negotiable Instruments: PN, BoE, Cheque; Presumptions, Discharge, Dishonour",
+      "content": "Master statutory presumptions, parties' liabilities, endorsement/negotiation, and notice of dishonour. Crossing of cheques and payment in due course show up often.",
+      "keyTakeaways": [
+        "Section 13 recognizes PN, BoE, cheque; presumptions favor holder in due course.",
+        "Discharge of maker/acceptor/endorser tested via modes and timelines.",
+        "Compare inland vs. foreign instruments; crossing rules for cheques."
+      ],
+      "resources": [
+        {
+          "title": "Negotiable Instruments Act, 1881 (SBP PDF)",
+          "url": "https://www.sbp.org.pk/about/act/NegotiableAct1881.pdf",
+          "type": "pdf",
+          "description": "Authoritative copy"
+        },
+        {
+          "title": "Negotiable Instruments Act (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-bpc%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Online text"
+        }
+      ],
+      "importance": "high",
+      "category": "Negotiable Instruments Act, 1881",
+      "topics": ["PN/BoE/Cheque", "Holder in Due Course", "Crossing", "Notice of Dishonour", "Discharge"]
+    },
+    {
+      "id": "7",
+      "title": "Arbitration: Agreement, Appointment, Powers, Award & Setting Aside",
+      "content": "Know when courts stay proceedings, remove arbitrators, and grounds to set aside or modify awards. Apply to partnership/company and commercial disputes.",
+      "keyTakeaways": [
+        "Arbitration Act 1940 governs (domestic) with court supervision.",
+        "Misconduct or jurisdictional errors can vitiate awards.",
+        "Arbitration agreement must be in writing; scope matters."
+      ],
+      "resources": [
+        {
+          "title": "Arbitration Act, 1940 (Punjab Laws PDF)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/the_arbitration_act-_1940-pdf.pdf",
+          "type": "pdf",
+          "description": "Downloadable text"
+        },
+        {
+          "title": "Arbitration Act, 1940 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-cJab-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Online text"
+        }
+      ],
+      "importance": "high",
+      "category": "Arbitration Act, 1940",
+      "topics": ["Stay of Suits", "Appointment/Removal", "Misconduct", "Award", "Set-aside"]
+    },
+    {
+      "id": "8",
+      "title": "Competition Law: Prohibited Agreements, Abuse of Dominance, Merger Control",
+      "content": "Explain Section 4 (anti-competitive agreements), Section 3 (abuse), and merger approvals. Use local market examples for analysis.",
+      "keyTakeaways": [
+        "Competition Commission of Pakistan enforces CA 2010.",
+        "Leniency, exemptions, and penalties are examinable.",
+        "Merger review: thresholds, timelines, and second-phase scrutiny."
+      ],
+      "resources": [
+        {
+          "title": "Competition Act, 2010 (NA PDF)",
+          "url": "https://na.gov.pk/uploads/documents/1306740606_319.pdf",
+          "type": "pdf",
+          "description": "Gazetted text"
+        },
+        {
+          "title": "CCP — Competition Act overview",
+          "url": "https://cc.gov.pk/home/func_comp_act",
+          "type": "website",
+          "description": "Enforcement & guidance"
+        }
+      ],
+      "importance": "medium",
+      "category": "Competition Act, 2010",
+      "topics": ["Section 4", "Abuse of Dominance", "Merger Control", "Penalties"]
+    },
+    {
+      "id": "9",
+      "title": "Electronic Transactions & E-Signatures; Electronic Funds Transfers",
+      "content": "ETO 2002 gives legal recognition to electronic records/signatures. PS&EFT Act 2007 regulates payment systems and consumer protections (unauthorized transfers, disclosures).",
+      "keyTakeaways": [
+        "E-records/e-signatures have evidentiary recognition under ETO.",
+        "SBP regulates payment systems; operators designated and supervised.",
+        "Know consumer liability rules for unauthorized EFT and disclosure duties."
+      ],
+      "resources": [
+        {
+          "title": "Electronic Transactions Ordinance, 2002 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apaUY2Fta5Y%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "Payment Systems & Electronic Fund Transfers Act, 2007 (SBP PDF)",
+          "url": "https://www.sbp.org.pk/psd/2007/EFT_Act_2007.pdf",
+          "type": "pdf",
+          "description": "Full text"
+        },
+        {
+          "title": "PS&EFT Regulations (SBP)",
+          "url": "https://www.sbp.org.pk/psd/2018/C3-Annex-A.pdf",
+          "type": "regulation",
+          "description": "Operational regulations"
+        }
+      ],
+      "importance": "medium",
+      "category": "Electronic Transactions & EFT",
+      "topics": ["E-Signatures", "E-Records", "Payment Systems", "Unauthorized EFT Liability"]
+    },
+    {
+      "id": "10",
+      "title": "Consumer Protection (Provincial Acts) & Contract Remedies",
+      "content": "Although federal framework is limited, provinces (e.g., Punjab) have consumer statutes. Link exam answers to contractual remedies plus special consumer forums where applicable.",
+      "keyTakeaways": [
+        "Punjab CPA 2005 creates specific rights, forums, and penalties.",
+        "Use consumer law to complement Sale of Goods warranty/defect scenarios.",
+        "Discuss evolving jurisprudence and enforcement challenges."
+      ],
+      "resources": [
+        {
+          "title": "Punjab Consumer Protection Act, 2005 (FAOLEX PDF)",
+          "url": "https://faolex.fao.org/docs/pdf/pak195698.pdf",
+          "type": "pdf",
+          "description": "Text of Act"
+        },
+        {
+          "title": "Islamabad Consumer Protection Act, 1995 (Pakistan Code)",
+          "url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apqVYw%3D%3D-sg-jjjjjjjjjjjjj",
+          "type": "statute",
+          "description": "Capital territory law"
+        },
+        {
+          "title": "Academic Review — Consumer Protection in Pakistan",
+          "url": "https://www.iiu.edu.pk/wp-content/uploads/2023/03/ILR-Vol-6-Issue-2-Article-1-280323.pdf",
+          "type": "pdf",
+          "description": "Context & critique"
+        }
+      ],
+      "importance": "medium",
+      "category": "Consumer Protection",
+      "topics": ["Provincial CPAs", "Forums & Remedies", "Interaction with Contract/Sales"]
+    },
+    {
+      "id": "11",
+      "title": "Currency, Paper Money & SBP Context (for NI & policy questions)",
+      "content": "Understand why only SBP can issue bearer notes and policy backdrop for negotiable instruments and payments.",
+      "keyTakeaways": [
+        "State Bank of Pakistan Act confers issuance/monetary authority.",
+        "Link to NI Act questions on bearer instruments and policy rationale."
+      ],
+      "resources": [
+        {
+          "title": "State Bank of Pakistan Act, 1956 (SBP official)",
+          "url": "https://www.sbp.org.pk/about/act/sbp-act.pdf",
+          "type": "pdf",
+          "description": "Current text (as amended)"
+        }
+      ],
+      "importance": "low",
+      "category": "Currency & SBP Context",
+      "topics": ["SBP Authority", "Bearer Notes", "Policy"]
+    },
+    {
+      "id": "12",
+      "title": "Exam Strategy: Syllabus Mapping + Past Papers + Video Aids",
+      "content": "Start with FPSC syllabus, then solve descriptive papers 2024–2021 and older (2000–2015). Supplement with concise lectures/playlists for revision and paper-attempt tips.",
+      "keyTakeaways": [
+        "Build notes per syllabus headings (Contract → Sales → Partnership → Company → NI → Arbitration → Competition → E-Transactions/EFT → Consumer).",
+        "Practice problem-style answers with statutory citations.",
+        "Use solved-paper videos only as a check; rely on statutes."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Mercantile Law (Descriptive Papers, 2024/2025)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "website",
+          "description": "Past descriptive papers"
+        },
+        {
+          "title": "FPSC — 2024 Descriptive Pack (includes Mercantile Law)",
+          "url": "https://www.fpsc.gov.pk/category/css-2023-descriptive-papers-815643912-2024-06-13",
+          "type": "website",
+          "description": "Archive portal"
+        },
+        {
+          "title": "Legacy Past Papers (2000–2015)",
+          "url": "https://thecsspoint.com/css-past-papers/mercantile-law-past-papers/",
+          "type": "website",
+          "description": "Topic trends"
+        },
+        {
+          "title": "CSS 2021 Solved Paper (YouTube)",
+          "url": "https://www.youtube.com/watch?v=giu5wCd69wo",
+          "type": "video",
+          "description": "Walkthrough & tips"
+        },
+        {
+          "title": "Nearpeer: Mercantile Law playlists",
+          "url": "https://www.youtube.com/c/CSSOnlinewithNearpeer/playlists",
+          "type": "video",
+          "description": "Topic-wise lectures"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & Past Papers",
+      "topics": ["Syllabus", "Past Papers", "Solved Walkthroughs", "Playlists"]
+    }
+  ]
+}

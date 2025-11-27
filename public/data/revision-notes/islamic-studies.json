@@ -1,0 +1,756 @@
+{
+  "subject": "Islamic Studies (CSS/FPSC)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 30,
+  "categories": [
+    "Aqidah (Creed) & Theology",
+    "Qur'an & Tafsir",
+    "Hadith & Sunnah Methodology",
+    "Sīrah & Early Caliphate",
+    "Usul al-Fiqh, Ijma & Ijtihad",
+    "Pillars of Islam & Worship",
+    "Ethics, Tazkiyah & Character",
+    "Governance, Law & Human Rights",
+    "Islamic Economics & Finance",
+    "Women, Family & Society",
+    "Interfaith & Coexistence",
+    "Contemporary Issues & Extremism",
+    "Bioethics & Environment",
+    "Pakistan Context & Exam Orientation"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Tawḥīd (Oneness of Allah): Meaning, Evidence, Implications",
+      "content": "Define tawḥīd (rubūbiyyah, ulūhiyyah, asmāʾ wa ṣifāt). Link to Qur'anic proofs (e.g., Sūrah al-Ikhlāṣ) and to ethics/law: exclusive worship, moral accountability, unity of life.",
+      "keyTakeaways": [
+        "Tawḥīd is the organizing principle of Islamic worldview.",
+        "Shirk undermines social justice by displacing divine authority.",
+        "Exam answers should connect doctrine to personal/public ethics."
+      ],
+      "resources": [
+        {
+          "title": "Qur'an — Sūrah al-Ikhlāṣ (112)",
+          "url": "https://quran.com/112",
+          "type": "primary",
+          "description": "Concise statement of tawḥīd"
+        },
+        {
+          "title": "Stanford Encyclopedia — Arabic & Islamic Philosophy of Religion",
+          "url": "https://plato.stanford.edu/entries/arabic-islamic-religion/",
+          "type": "reference",
+          "description": "Philosophical context of creed"
+        },
+        {
+          "title": "Oxford Reference — Tawḥīd",
+          "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803102225190",
+          "type": "reference",
+          "description": "Concise definition"
+        }
+      ],
+      "importance": "high",
+      "category": "Aqidah (Creed) & Theology",
+      "topics": ["Tawḥīd", "Shirk", "Aqīdah"]
+    },
+    {
+      "id": "2",
+      "title": "Ākhirah & Accountability (Day of Judgment)",
+      "content": "Explain belief in the Hereafter, its psychological and social effects: accountability, justice, public morality, stewardship; tie to verses on human dignity and justice.",
+      "keyTakeaways": [
+        "Belief in Ākhirah anchors ethical conduct beyond legal enforcement.",
+        "Use Qur'an 17:70 for dignity and 5:8 for justice in answers."
+      ],
+      "resources": [
+        {
+          "title": "Qur'an 17:70 — Dignity of the Children of Adam",
+          "url": "https://quran.com/en/al-isra/70",
+          "type": "primary",
+          "description": "Human dignity basis"
+        },
+        {
+          "title": "Qur'an 5:8 — Stand for Justice",
+          "url": "https://quran.com/en/al-maidah/8",
+          "type": "primary",
+          "description": "Justice as righteousness"
+        }
+      ],
+      "importance": "high",
+      "category": "Aqidah (Creed) & Theology",
+      "topics": ["Day of Judgment", "Ethics", "Dignity", "Justice"]
+    },
+    {
+      "id": "3",
+      "title": "Sources of Sharīʿah: Qur'an, Sunnah, Ijmāʿ, Qiyās",
+      "content": "Define each source with examples; show hierarchy and how classical/modern jurists use them; add Pakistan-exam angle.",
+      "keyTakeaways": [
+        "Qur'an & authentic Sunnah are primary; ijmāʿ consolidates; qiyās extends rulings.",
+        "Cite contemporary fiqh bodies for applied examples."
+      ],
+      "resources": [
+        {
+          "title": "Kamali — Principles of Islamic Jurisprudence (Textbook)",
+          "url": "https://www.al-islam.org/sites/default/files/books/old/Principles-of-Islamic-Jurisprudence-by-Mohammad-Hashim-Kamali_0.pdf",
+          "type": "textbook",
+          "description": "Usul al-fiqh foundations"
+        },
+        {
+          "title": "International Islamic Fiqh Academy (IIFA) — Resolutions",
+          "url": "https://en.iifa-aifi.org/resolutions/",
+          "type": "reference",
+          "description": "Applied ijmāʿ-type resolutions"
+        }
+      ],
+      "importance": "high",
+      "category": "Usul al-Fiqh, Ijma & Ijtihad",
+      "topics": ["Usul", "Ijmāʿ", "Qiyās", "Sources"]
+    },
+    {
+      "id": "4",
+      "title": "Ijtihād Today: Conditions, Scope & Limits",
+      "content": "Define ijtihād, mujtahid prerequisites, and domains; contrast with taqlīd; give modern institutional examples.",
+      "keyTakeaways": [
+        "Ijtihād serves maslahah within Qur'an–Sunnah bounds.",
+        "Cite modern collective ijtihād (academy, central banks)."
+      ],
+      "resources": [
+        {
+          "title": "Kamali — Principles (Ijtihād chapter)",
+          "url": "https://www.al-islam.org/sites/default/files/books/old/Principles-of-Islamic-Jurisprudence-by-Mohammad-Hashim-Kamali_0.pdf",
+          "type": "textbook",
+          "description": "Classical requirements"
+        },
+        {
+          "title": "IIFA — Contemporary Resolutions (banking, bioethics)",
+          "url": "https://en.iifa-aifi.org/resolutions/",
+          "type": "reference",
+          "description": "Collective rulings"
+        }
+      ],
+      "importance": "high",
+      "category": "Usul al-Fiqh, Ijma & Ijtihad",
+      "topics": ["Ijtihād", "Taqlīd", "Collective Ijtihād"]
+    },
+    {
+      "id": "5",
+      "title": "Maqāṣid al-Sharīʿah (Higher Objectives)",
+      "content": "Cover classical five essentials (religion, life, intellect, lineage, property) and contemporary expansions; exam-friendly frameworks.",
+      "keyTakeaways": [
+        "Use maqāṣid to justify policy (Zakat targeting, financial inclusion).",
+        "Balance maqāṣid with textual evidence (no 'free-for-all')."
+      ],
+      "resources": [
+        {
+          "title": "Jasser Auda — Maqasid al-Shariah: A Beginner's Guide (IIIT, PDF)",
+          "url": "https://iiit.org/wp-content/uploads/2018/11/Maqasid-Al-Shariah-A-Beginners-Guide.pdf",
+          "type": "book",
+          "description": "Modern maqāṣid method"
+        }
+      ],
+      "importance": "high",
+      "category": "Usul al-Fiqh, Ijma & Ijtihad",
+      "topics": ["Maqāṣid", "Maslahah"]
+    },
+    {
+      "id": "6",
+      "title": "Studying the Qur'an: Reliable Text & Tafsīr Tools",
+      "content": "How to quote verses with context, cross-reference tafsīr, and build arguments.",
+      "keyTakeaways": [
+        "Always pair translation with reputable tafsīr.",
+        "Use verses on justice (5:8), dignity (17:70), diversity (49:13), no compulsion (2:256)."
+      ],
+      "resources": [
+        {
+          "title": "Quran.com (Arabic & translations + tafsīr)",
+          "url": "https://quran.com/en/al-isra/70-80",
+          "type": "primary",
+          "description": "Multi-translation portal"
+        },
+        {
+          "title": "Altafsir.com — Classical Tafsīr Library",
+          "url": "https://www.altafsir.com/",
+          "type": "reference",
+          "description": "Jalālayn, Ibn Kathīr, etc."
+        }
+      ],
+      "importance": "high",
+      "category": "Qur'an & Tafsir",
+      "topics": ["Qur'an Study", "Tafsīr", "Exam Quotations"]
+    },
+    {
+      "id": "7",
+      "title": "Hadith Methodology: Authenticity & Use in Answers",
+      "content": "Brief the hadith canon, grading, and how to cite hadith with reliability remarks.",
+      "keyTakeaways": [
+        "Mention collection, book, hadith number, and grade if relevant.",
+        "Prefer Ṣaḥīḥayn for legal proofs; mention weakness when applicable."
+      ],
+      "resources": [
+        {
+          "title": "Sunnah.com — Canonical Collections",
+          "url": "https://sunnah.com/",
+          "type": "reference",
+          "description": "Searchable hadith with grading"
+        },
+        {
+          "title": "Example citation — Sunan Ibn Mājah 3932 (Sanctity of believer)",
+          "url": "https://sunnah.com/ibnmajah:3932",
+          "type": "primary",
+          "description": "Shows how to cite/grade"
+        }
+      ],
+      "importance": "high",
+      "category": "Hadith & Sunnah Methodology",
+      "topics": ["Hadith Grading", "Citation", "Sunnah"]
+    },
+    {
+      "id": "8",
+      "title": "Sīrah Focus: Treaty of Ḥudaybiyyah as Strategic Peacemaking",
+      "content": "Explain context, controversial clauses, long-term outcomes; extract principles of diplomacy and conflict de-escalation.",
+      "keyTakeaways": [
+        "Short-term compromise enabled long-term victory (Fath Makkah).",
+        "Use for questions on coexistence and statecraft."
+      ],
+      "resources": [
+        {
+          "title": "Sh. Yasir Qadhi — Sīrah (YouTube playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLAEA99D24CA2F9A8F",
+          "type": "video",
+          "description": "Detailed lecture series"
+        }
+      ],
+      "importance": "high",
+      "category": "Sīrah & Early Caliphate",
+      "topics": ["Hudaybiyyah", "Diplomacy", "Sīrah"]
+    },
+    {
+      "id": "9",
+      "title": "The Charter/'Constitution' of Madinah",
+      "content": "Pluralistic governance model: citizenship, minority rights, mutual defense, rule of law; how to reference it academically.",
+      "keyTakeaways": [
+        "Use annotated translations + academic analysis.",
+        "Connect to contemporary constitutionalism & rights discourse."
+      ],
+      "resources": [
+        {
+          "title": "Annotated Translation — The \"Constitution\" of Madinah",
+          "url": "https://f.hubspotusercontent10.net/hubfs/4713562/Website-Paper-PDFs/Medina%20Paper-Final.pdf",
+          "type": "article",
+          "description": "Intro + annotated text"
+        },
+        {
+          "title": "IIUM Law Journal — Madinah Charter & Modern Constitution",
+          "url": "https://journals.iium.edu.my/iiumlj/index.php/iiumlj/article/download/713/351/2723",
+          "type": "article",
+          "description": "Legal analysis"
+        }
+      ],
+      "importance": "high",
+      "category": "Sīrah & Early Caliphate",
+      "topics": ["Madinah Charter", "Rights", "Citizenship"]
+    },
+    {
+      "id": "10",
+      "title": "Khilāfah & Early Islamic Governance",
+      "content": "Define khilāfah, selection/accountability, Shūrā, justice; avoid anachronism; cite balanced sources.",
+      "keyTakeaways": [
+        "Differentiate prophetic state, Rightly-Guided Caliphate, and later models.",
+        "Use primary letters (e.g., ʿAlī → Mālik al-Ashtar) for governance ethics."
+      ],
+      "resources": [
+        {
+          "title": "Nahj al-Balāghah — Letter 53 (to Mālik al-Ashtar)",
+          "url": "https://al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-53-order-malik-al-ashtar",
+          "type": "primary",
+          "description": "Classical governance guidance"
+        }
+      ],
+      "importance": "medium",
+      "category": "Governance, Law & Human Rights",
+      "topics": ["Khilāfah", "Shūrā", "Accountability"]
+    },
+    {
+      "id": "11",
+      "title": "Ṣalāh: Philosophy & Social Impact",
+      "content": "Categories (farḍ, sunnah, nawāfil), spiritual discipline, social cohesion; include public ethics link (punctuality, integrity).",
+      "keyTakeaways": [
+        "Link individual discipline → societal order in essays.",
+        "Use verses/hadith that connect prayer to moral reform."
+      ],
+      "resources": [
+        {
+          "title": "Qur'an — 29:45 (Prayer restrains immorality)",
+          "url": "https://quran.com/29/45",
+          "type": "primary",
+          "description": "Ethical impact of prayer"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pillars of Islam & Worship",
+      "topics": ["Prayer", "Ethics"]
+    },
+    {
+      "id": "12",
+      "title": "Ṣawm (Fasting): Personal & Collective Benefits",
+      "content": "Taqwā cultivation, empathy, health, solidarity; policy angles (workplace accommodations).",
+      "keyTakeaways": [
+        "Support with Qur'an 2:183 and Prophetic practice.",
+        "Discuss societal impacts (charity spikes, self-regulation)."
+      ],
+      "resources": [
+        {
+          "title": "Qur'an — 2:183 (Purpose of fasting)",
+          "url": "https://quran.com/2/183",
+          "type": "primary",
+          "description": "Taqwā rationale"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pillars of Islam & Worship",
+      "topics": ["Fasting", "Taqwā"]
+    },
+    {
+      "id": "13",
+      "title": "Ḥajj: Unity, Equality & Global Ethics",
+      "content": "Rituals + philosophy (unity, discipline, equality); individual & collective benefits; modern management lessons.",
+      "keyTakeaways": [
+        "Tie to human equality and global Muslim solidarity.",
+        "Use Ḥajj to answer on transnational brotherhood."
+      ],
+      "resources": [
+        {
+          "title": "Qur'an — 22:27–28 (Purpose of Hajj)",
+          "url": "https://quran.com/22/27-28",
+          "type": "primary",
+          "description": "Objectives of pilgrimage"
+        }
+      ],
+      "importance": "medium",
+      "category": "Pillars of Islam & Worship",
+      "topics": ["Hajj", "Unity"]
+    },
+    {
+      "id": "14",
+      "title": "Zakāt: Poverty Relief & Wealth Circulation",
+      "content": "Objectives, recipients, macroeconomic role; Pakistan context (institutions, compliance).",
+      "keyTakeaways": [
+        "Argue zakāt as automatic redistribution with spiritual intent.",
+        "Cite regulators for policy integration."
+      ],
+      "resources": [
+        {
+          "title": "State Bank of Pakistan — Islamic Banking Bulletin (Sept 2023)",
+          "url": "https://www.sbp.org.pk/ibd/Bulletin/2023/Islamic_Banking_Bulletin_September_2023.pdf",
+          "type": "report",
+          "description": "Sector overview & standards"
+        }
+      ],
+      "importance": "high",
+      "category": "Islamic Economics & Finance",
+      "topics": ["Zakāt", "Redistribution", "Pakistan"]
+    },
+    {
+      "id": "15",
+      "title": "Islamic Finance: Standards & Governance (Pakistan Focus)",
+      "content": "Differentiate ribā-free contracts, role of standards, and governance frameworks (SBP, SECP, AAOIFI).",
+      "keyTakeaways": [
+        "Quote local frameworks in Pakistan-centric essays.",
+        "Link finance topics with maqāṣid (fairness, risk-sharing)."
+      ],
+      "resources": [
+        {
+          "title": "SBP — Shariah Governance Framework for IBIs (2024 Annex)",
+          "url": "https://www.sbp.org.pk/ifpd/2024/C8-Annex.pdf",
+          "type": "regulation",
+          "description": "Governance requirements"
+        },
+        {
+          "title": "SBP — Compendium of AAOIFI Shariah Standards (Adopted)",
+          "url": "https://www.sbp.org.pk/ifpd/2024/C7-Annex.pdf",
+          "type": "regulation",
+          "description": "Adopted standards in PK"
+        },
+        {
+          "title": "AAOIFI — Shariah Standards (Overview)",
+          "url": "https://aaoifi.com/shariyah-standards/?lang=en",
+          "type": "standards",
+          "description": "Global reference"
+        },
+        {
+          "title": "SECP — Shariah Governance Regulations (2023)",
+          "url": "https://www.mufap.com.pk/Upload/WebDoc/Regulations/Shariah-Governance-Regulations-20231177.pdf",
+          "type": "regulation",
+          "description": "Capital markets governance"
+        }
+      ],
+      "importance": "high",
+      "category": "Islamic Economics & Finance",
+      "topics": ["Ribā", "AAOIFI", "SBP", "SECP"]
+    },
+    {
+      "id": "16",
+      "title": "Women's Rights: Veil (Hijab) — Theology, Law, and Agency",
+      "content": "Discuss hijab as devotion, modesty ethics, and social debates; avoid culture vs. religion conflation.",
+      "keyTakeaways": [
+        "Frame hijab within God-servitude and dignity, not only politics.",
+        "Acknowledge global contexts; cite credible scholarship."
+      ],
+      "resources": [
+        {
+          "title": "Yaqeen — Hijab: Spotlighting Servitude to God",
+          "url": "https://yaqeeninstitute.org/read/paper/hijab-spotlighting-servitude-to-god",
+          "type": "article",
+          "description": "Theological framing"
+        }
+      ],
+      "importance": "high",
+      "category": "Women, Family & Society",
+      "topics": ["Hijab", "Modesty", "Agency"]
+    },
+    {
+      "id": "17",
+      "title": "Women's Rights: Inheritance — Myths vs Reality",
+      "content": "Clarify shares are context-dependent; women sometimes inherit equal/more; discuss maintenance obligations and fairness.",
+      "keyTakeaways": [
+        "Use precise scenarios; avoid blanket 'half' claims.",
+        "Ground in Qur'an 4:11 and fiqh principles."
+      ],
+      "resources": [
+        {
+          "title": "Yaqeen — Women in Islamic Law: Five Prevalent Myths",
+          "url": "https://yaqeeninstitute.org/read/paper/women-in-islamic-law-examining-five-prevalent-myths",
+          "type": "article",
+          "description": "Evidence-based clarifications"
+        },
+        {
+          "title": "Academic Article — Islamic Inheritance & Gender (2023)",
+          "url": "https://www.scielo.org.za/scielo.php?pid=S2077-49072023000100017&script=sci_arttext",
+          "type": "article",
+          "description": "Do women face discrimination?"
+        }
+      ],
+      "importance": "high",
+      "category": "Women, Family & Society",
+      "topics": ["Inheritance", "Family Law", "Fairness"]
+    },
+    {
+      "id": "18",
+      "title": "Human Dignity, Diversity & No Compulsion",
+      "content": "Use Qur'an 17:70, 49:13, 2:256, 5:8 to argue for justice, pluralism, voluntary faith.",
+      "keyTakeaways": [
+        "Anchor rights language in primary sources.",
+        "Good for comparative religion/ethics questions."
+      ],
+      "resources": [
+        {
+          "title": "Q 17:70 — Dignity",
+          "url": "https://quran.com/en/al-isra/70",
+          "type": "primary",
+          "description": "Human dignity"
+        },
+        {
+          "title": "Q 49:13 — Diversity",
+          "url": "https://quran.com/en/al-hujurat/13",
+          "type": "primary",
+          "description": "Nations & tribes to know one another"
+        },
+        {
+          "title": "Q 2:256 — No Compulsion",
+          "url": "https://quran.com/en/al-baqarah/256",
+          "type": "primary",
+          "description": "Freedom of conscience"
+        },
+        {
+          "title": "Q 5:8 — Justice",
+          "url": "https://quran.com/en/al-maidah/8",
+          "type": "primary",
+          "description": "Justice even with opponents"
+        }
+      ],
+      "importance": "high",
+      "category": "Governance, Law & Human Rights",
+      "topics": ["Human Rights", "Pluralism", "Justice"]
+    },
+    {
+      "id": "19",
+      "title": "Jihād vs Terrorism: Norms of War & Civilian Immunity",
+      "content": "Define legitimate armed struggle; distinguish prohibited aggression; emphasize civilian protection and treaties.",
+      "keyTakeaways": [
+        "Cite consensus statements rejecting terrorism.",
+        "Use seerah and classical fiqh on conduct of war."
+      ],
+      "resources": [
+        {
+          "title": "The Amman Message — Jihad & Law of War (RISS/Jordan)",
+          "url": "https://rissc.jo/the-amman-message/",
+          "type": "reference",
+          "description": "Consensus & resources"
+        },
+        {
+          "title": "Amman Message — Overview of Condemnations",
+          "url": "https://ammanmessage.com/introduction/8/",
+          "type": "reference",
+          "description": "Statements against extremism"
+        }
+      ],
+      "importance": "high",
+      "category": "Contemporary Issues & Extremism",
+      "topics": ["Jihād", "Terrorism", "International Law"]
+    },
+    {
+      "id": "20",
+      "title": "Extremism in Pakistan: Policy Responses & Religious Framing",
+      "content": "Outline 20-point National Action Plan (NAP), role of ulema, education, and community resilience.",
+      "keyTakeaways": [
+        "Quote official NACTA/NAP items for exam credibility.",
+        "Tie to Qur'anic justice & sanctity of life."
+      ],
+      "resources": [
+        {
+          "title": "NACTA — National Action Plan (20 Points)",
+          "url": "https://nacta.gov.pk/national-action-plan/",
+          "type": "policy",
+          "description": "Official Pakistan policy"
+        }
+      ],
+      "importance": "high",
+      "category": "Contemporary Issues & Extremism",
+      "topics": ["NACTA", "Policy", "Pakistan"]
+    },
+    {
+      "id": "21",
+      "title": "Interfaith: 'A Common Word' & Coexistence",
+      "content": "Use Qur'anic ethics + Prophet's covenants; showcase modern Muslim initiatives for peaceful relations.",
+      "keyTakeaways": [
+        "Frame coexistence as prophetic practice + modern duty.",
+        "Useful for comparative religion essays."
+      ],
+      "resources": [
+        {
+          "title": "'A Common Word Between Us and You' (Official site)",
+          "url": "https://www.acommonword.com",
+          "type": "initiative",
+          "description": "Muslim–Christian dialogue charter"
+        }
+      ],
+      "importance": "medium",
+      "category": "Interfaith & Coexistence",
+      "topics": ["Dialogue", "Coexistence"]
+    },
+    {
+      "id": "22",
+      "title": "Human Rights in the Farewell Sermon",
+      "content": "Summarize core rights (life, property, dignity, anti-racism, women's rights) as articulated in the Prophet's last sermon; link to modern frameworks.",
+      "keyTakeaways": [
+        "Cite hadith sources and seerah narrations with prudence.",
+        "Bridge classical rights → modern constitutional language."
+      ],
+      "resources": [
+        {
+          "title": "Sahih Muslim — 1218 (Farewell Pilgrimage narrations)",
+          "url": "https://sunnah.com/muslim:1218",
+          "type": "primary",
+          "description": "Farewell Hajj reports"
+        }
+      ],
+      "importance": "medium",
+      "category": "Governance, Law & Human Rights",
+      "topics": ["Farewell Sermon", "Rights", "Equality"]
+    },
+    {
+      "id": "23",
+      "title": "Bioethics: Organ Donation, Vaccination & End-of-Life Care",
+      "content": "Summarize major fiqh resolutions permitting/debating organ donation; principles: necessity, harm-benefit, consent.",
+      "keyTakeaways": [
+        "Reference collective resolutions (IIFA/IOMS).",
+        "Highlight maqāṣid (preservation of life) and safeguards."
+      ],
+      "resources": [
+        {
+          "title": "International Islamic Fiqh Academy — Resolutions (English)",
+          "url": "https://en.iifa-aifi.org/resolutions/",
+          "type": "reference",
+          "description": "Bioethics rulings (organ donation, etc.)"
+        }
+      ],
+      "importance": "medium",
+      "category": "Bioethics & Environment",
+      "topics": ["Bioethics", "Organ Donation", "Vaccination"]
+    },
+    {
+      "id": "24",
+      "title": "Environmental Ethics: Islam & Climate Responsibility",
+      "content": "Khilāfah (stewardship), balance (mīzān), prohibition of fasād; showcase Muslim climate declarations.",
+      "keyTakeaways": [
+        "Use faith-based declarations as policy bridges.",
+        "Cite Qur'anic principles for sustainability essays."
+      ],
+      "resources": [
+        {
+          "title": "Islamic Climate Change Declaration (Toolkit)",
+          "url": "https://had-int.org/wp-content/uploads/2023/04/Climate-Change-Tool-Kit.pdf",
+          "type": "report",
+          "description": "Toolkit around 2015 declaration"
+        },
+        {
+          "title": "Al-Mīzān: A Covenant for the Earth",
+          "url": "https://jliflc.com/resources/al-mizan-a-covenant-for-the-earth/",
+          "type": "charter",
+          "description": "Islamic charter on environment"
+        },
+        {
+          "title": "Yale Forum — Islam & Environmental Statements",
+          "url": "https://fore.yale.edu/World-Religions/Islam/Statements",
+          "type": "reference",
+          "description": "Curated statements"
+        }
+      ],
+      "importance": "medium",
+      "category": "Bioethics & Environment",
+      "topics": ["Environment", "Climate", "Stewardship"]
+    },
+    {
+      "id": "25",
+      "title": "Comparative: Islam & Western Social Thought",
+      "content": "Compare ethics of family, modesty, economy, human rights; avoid strawman; use scripture + reputable scholarship.",
+      "keyTakeaways": [
+        "Structure on convergences/divergences + practical outcomes.",
+        "Cite maqāṣid to articulate Islamic social rationale."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Arabic & Islamic Philosophy (context)",
+          "url": "https://plato.stanford.edu/entries/arabic-islamic-religion/",
+          "type": "reference",
+          "description": "Philosophical background"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ethics, Tazkiyah & Character",
+      "topics": ["Comparative Thought", "Ethics"]
+    },
+    {
+      "id": "26",
+      "title": "Tazkiyah (Self-Purification) & Ḥayāʾ (Modesty) as Social Capital",
+      "content": "Define tazkiyah, virtues (ṣabr, shukr, ikhlāṣ), and ḥayāʾ; societal benefits (trust, reduced vice).",
+      "keyTakeaways": [
+        "Connect inner reform to public outcomes.",
+        "Use concrete examples (charity, civility)."
+      ],
+      "resources": [
+        {
+          "title": "Yaqeen — Ḥayāʾ: More Than Just Modesty",
+          "url": "https://yaqeeninstitute.org/read/paper/haya-more-than-just-modesty",
+          "type": "article",
+          "description": "Moral psychology of ḥayāʾ"
+        }
+      ],
+      "importance": "medium",
+      "category": "Ethics, Tazkiyah & Character",
+      "topics": ["Tazkiyah", "Ḥayāʾ", "Morality"]
+    },
+    {
+      "id": "27",
+      "title": "Muslim Ummah: Unity, Challenges & Reform",
+      "content": "Diagnose disunity causes (political, economic, sectarian), propose Qur'an-Sunnah based remedies; cite consensual initiatives.",
+      "keyTakeaways": [
+        "Balance idealism with institutional realism.",
+        "Reference Amman Message for intra-Muslim recognition."
+      ],
+      "resources": [
+        {
+          "title": "The Amman Message — Overview & Three Points",
+          "url": "https://rissc.jo/the-amman-message/",
+          "type": "reference",
+          "description": "Consensus on madhāhib, takfīr, authority"
+        }
+      ],
+      "importance": "high",
+      "category": "Interfaith & Coexistence",
+      "topics": ["Ummah", "Unity", "Reform"]
+    },
+    {
+      "id": "28",
+      "title": "Pakistan Legal & Institutional Landscape (Sharīʿah Interfaces)",
+      "content": "Know the roles of CII (advisory), Federal Shariat Court, SBP/SECP (finance). Useful for Pakistan-specific exam angles.",
+      "keyTakeaways": [
+        "Quote institutions accurately; avoid overstating authority.",
+        "Use official pages for definitions and scope."
+      ],
+      "resources": [
+        {
+          "title": "Council of Islamic Ideology (Pakistan) — Official",
+          "url": "http://www.cii.gov.pk",
+          "type": "official",
+          "description": "Advisory body on Islamic laws"
+        },
+        {
+          "title": "Federal Shariat Court — Official",
+          "url": "http://www.federalshariatcourt.gov.pk",
+          "type": "official",
+          "description": "Constitutional court on Sharīʿah compliance"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context & Exam Orientation",
+      "topics": ["CII", "FSC", "Law"]
+    },
+    {
+      "id": "29",
+      "title": "FPSC Orientation: Syllabus, Past Papers & MCQs",
+      "content": "Always align prep with latest FPSC syllabus/past papers; practice compulsory MCQs and translation items.",
+      "keyTakeaways": [
+        "Download current syllabus and latest descriptive papers.",
+        "Track notices for changes (date sheet, rules)."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabi (2016 & onwards)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "official",
+          "description": "Core syllabus (Islamic Studies included)"
+        },
+        {
+          "title": "FPSC — CSS-2025 Descriptive Papers (Islamic Studies)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "official",
+          "description": "Latest descriptive PDFs"
+        },
+        {
+          "title": "FPSC — Islamic Studies MCQ Practice (2024)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-06-13-Practice_paper_01-12-2021_Final.pdf",
+          "type": "official",
+          "description": "Sample MCQs bank"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Context & Exam Orientation",
+      "topics": ["FPSC", "Syllabus", "MCQs"]
+    },
+    {
+      "id": "30",
+      "title": "Prophetic Military Ethics & Leadership",
+      "content": "Extract leadership model from sīrah (mercy, rules of engagement, treaty-keeping); use in extremism & governance questions.",
+      "keyTakeaways": [
+        "Combine character (akhlāq) with strategic principles.",
+        "Cite hadith on civilian immunity and sanctity."
+      ],
+      "resources": [
+        {
+          "title": "Sunnah.com — Jihad & Conduct (canonical sections)",
+          "url": "https://sunnah.com/search?q=civilian+immunity",
+          "type": "reference",
+          "description": "Hadith evidence on ROE"
+        },
+        {
+          "title": "Sīrah Lecture Series — Leadership episodes",
+          "url": "https://www.youtube.com/playlist?list=PLAEA99D24CA2F9A8F",
+          "type": "video",
+          "description": "Battle ethics & treaties"
+        }
+      ],
+      "importance": "medium",
+      "category": "Sīrah & Early Caliphate",
+      "topics": ["Leadership", "Ethics", "War Norms"]
+    }
+  ]
+}

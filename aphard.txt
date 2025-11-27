@@ -1,0 +1,729 @@
+## Section 1: Vector Calculus & Differential Operators
+
+1. Vector Calculus & Differential Operators (Hard)
+1. For F = (x²y)i + (y²z)j + (z²x)k, the value of ∮_C (∇×F)·dr where C is the intersection of x²+y²=1 and z=xy is:
+A) π/2
+B) π
+C) 2π
+D) 0
+Answer: D
+
+2. If φ satisfies ∇²φ = 0 in a simply connected region and ∮_C (∂φ/∂n)ds = 0 for every closed curve C, then:
+A) φ is constant
+B) φ is harmonic but not constant
+C) φ has isolated singularities
+D) φ is multivalued
+Answer: A
+
+3. The vector field F = (2xy+z³)i + x²j + 3xz²k is conservative. The potential function φ such that F = ∇φ and φ(0,0,0) = 0 is:
+A) x²y + xz³
+B) x²y + xz³ + C
+C) 2x²y + z³
+D) xy² + xz³
+Answer: A
+
+4. For the transformation u = x²-y², v = 2xy, the Jacobian ∂(x,y)/∂(u,v) equals:
+A) 1/(4(x²+y²))
+B) 4(x²+y²)
+C) 1/(2(x²+y²))
+D) 2(x²+y²)
+Answer: A
+
+5. In orthogonal curvilinear coordinates with scale factors h₁, h₂, h₃, the Laplacian of a scalar φ is:
+A) Complex expression involving all scale factors and their derivatives
+B) Simple sum of second derivatives
+C) Product of scale factors times derivatives
+D) Independent of scale factors
+Answer: A
+
+6. The surface integral ∬_S r·n dS over the ellipsoid x²/a² + y²/b² + z²/c² = 1 equals:
+A) 4πabc/3
+B) 4πabc
+C) 4π(a+b+c)/3
+D) 4π(ab+bc+ca)/3
+Answer: B
+
+7. If F = f(r)r where r = |r|, then ∇×F equals:
+A) 0 always
+B) 0 only if f is constant
+C) f'(r)r×r/r
+D) Non-zero for all f
+Answer: A
+
+8. The Green's function for ∇²u = f in a sphere of radius a with u = 0 on boundary involves:
+A) Only distance between points
+B) Image points outside sphere
+C) Legendre polynomials
+D) Bessel functions
+Answer: B
+
+9. For a vector field with ∇·F = 0 and ∇×F = 0 in a simply connected domain:
+A) F must be zero
+B) F = ∇φ where ∇²φ = 0
+C) F is constant
+D) F has vector potential
+Answer: B
+
+10. The helicity integral ∫_V F·(∇×F)dV for a divergence-free field F is:
+A) Always zero
+B) Topological invariant
+C) Related to linking number
+D) Both B and C
+Answer: D
+
+## Section 2: Differential Equations
+
+2. Differential Equations (Hard)
+11. The Green's function for y'' + y = δ(x-ξ) with y(0) = y(π) = 0 is:
+A) sin(x<)sin(x>)/sin(π)
+B) sin(x)sin(ξ)/sin(|x-ξ|)
+C) [sin(x)sin(π-ξ)]/sin(π) for x<ξ
+D) cos(x-ξ)H(x-ξ)
+Answer: C
+
+12. Near an irregular singular point, the behavior of solutions to x³y'' + xy' + y = 0 is:
+A) Power series
+B) Frobenius series
+C) Essential singularity
+D) Logarithmic terms only
+Answer: C
+
+13. The WKB approximation for y'' + q(x)y = 0 with large q(x) > 0 gives solutions proportional to:
+A) q^(-1/4)exp(±∫√q dx)
+B) q^(1/4)exp(±∫√q dx)
+C) exp(±∫q dx)
+D) q^(-1/2)sin(∫√q dx)
+Answer: A
+
+14. For the nonlinear equation y'' + sin(y) = 0 (pendulum equation), the period for large amplitude A approaches:
+A) 2π
+B) 4K(k)/π where K is complete elliptic integral
+C) ∞
+D) 2π√(1+A²/8)
+Answer: C
+
+15. The Sturm-Liouville problem -y'' + q(x)y = λy with y(0) = y(L) = 0 has:
+A) Finite number of eigenvalues
+B) Eigenvalues λₙ ~ n²π²/L² as n→∞
+C) Orthogonal eigenfunctions with specific weight
+D) Both B and C
+Answer: D
+
+16. The method of multiple scales for εy'' + y' + y = 0 introduces:
+A) Single slow time scale
+B) Fast and slow time scales
+C) Only spatial scales
+D) Logarithmic scales
+Answer: B
+
+17. For the Ricatti equation y' = y² + p(x)y + q(x), if one solution y₁ is known, the general solution is:
+A) y₁ + 1/u where u satisfies linear ODE
+B) y₁ + u where u satisfies Bernoulli equation
+C) cy₁ for constant c
+D) Cannot be found in closed form
+Answer: A
+
+18. The monodromy matrix for a periodic coefficient equation y' = A(t)y determines:
+A) Stability only
+B) Floquet multipliers
+C) Fundamental matrix
+D) Both B and C
+Answer: D
+
+19. For the Thomas-Fermi equation y'' = y^(3/2)/√x with y(0) = 1, y(∞) = 0, the solution behaves as:
+A) x^(-3) as x→∞
+B) 144/x³ as x→∞
+C) exp(-x) as x→∞
+D) 1/x as x→∞
+Answer: B
+
+20. The connection formula in WKB theory across a turning point involves:
+A) Airy functions
+B) Bessel functions
+C) Error functions
+D) Hypergeometric functions
+Answer: A
+
+## Section 3: Mechanics and Kinematics
+
+3. Mechanics and Kinematics (Hard)
+21. In the restricted three-body problem, the Lagrange points L₄ and L₅ are stable when the mass ratio μ satisfies:
+A) μ < 1/2
+B) μ < (1-√(23/27))/2
+C) μ < 1/3
+D) Always stable
+Answer: B
+
+22. For a symmetric top with principal moments I₁ = I₂ ≠ I₃, the precession frequency in torque-free motion is:
+A) ω₃(I₃-I₁)/I₁
+B) ω₃I₃/I₁
+C) ω₃(I₁-I₃)/I₃
+D) Independent of ω₃
+Answer: A
+
+23. The Routh procedure for cyclic coordinates in a Lagrangian with ignorable coordinate q₁ gives effective potential:
+A) V + p₁²/2m
+B) V + L₁²/2I where L₁ is conserved angular momentum
+C) Modified Lagrangian with one less degree of freedom
+D) Original potential unchanged
+Answer: C
+
+24. In the Kepler problem with perturbing potential εV₁(r), the secular change in semi-major axis is:
+A) Zero for any central perturbation
+B) Proportional to ∂V₁/∂r
+C) Depends on eccentricity
+D) Both A and C
+Answer: A
+
+25. The Hannay angle in adiabatic classical mechanics is analogous to:
+A) Berry phase in quantum mechanics
+B) Action variable
+C) Precession angle
+D) Euler angle
+Answer: A
+
+26. For a particle in rotating coordinates, the deflection of a projectile due to Coriolis force to first order in Ω is:
+A) Eastward in northern hemisphere
+B) Proportional to Ω×v
+C) Maximum at poles
+D) All of the above
+Answer: D
+
+27. The Poincaré-Bendixson theorem for 2D dynamical systems implies:
+A) Chaos is impossible
+B) Bounded trajectories approach fixed points or limit cycles
+C) All trajectories are periodic
+D) Both A and B
+Answer: D
+
+28. In celestial mechanics, the Tisserand parameter is conserved during:
+A) All orbital changes
+B) Close encounters with planets
+C) Specific restricted three-body interactions
+D) Tidal interactions
+Answer: C
+
+29. The KAM theorem states that for small perturbations of integrable Hamiltonian systems:
+A) All tori are destroyed
+B) Rational tori survive
+C) Most irrational tori survive
+D) Only resonant tori survive
+Answer: C
+
+30. The Lyapunov exponent for chaotic motion in the Hénon-Heiles potential is:
+A) Always positive
+B) Zero
+C) Positive for energies above critical value
+D) Always negative
+Answer: C
+
+## Section 4: Tensor Analysis
+
+4. Tensor Analysis (Hard)
+31. The Riemann curvature tensor R^α_βγδ in terms of Christoffel symbols involves:
+A) First derivatives of Γ only
+B) Second derivatives of metric only
+C) Products and derivatives of Γ
+D) Metric components only
+Answer: C
+
+32. The number of independent components of the Riemann tensor in n dimensions is:
+A) n⁴
+B) n²(n²-1)/12
+C) n²(n+1)/2
+D) n(n-1)/2
+Answer: B
+
+33. The Bianchi identities for the Riemann tensor imply:
+A) R_αβγδ + R_αγδβ + R_αδβγ = 0
+B) Conservation of energy-momentum
+C) Vanishing of covariant derivative of Ricci tensor
+D) Both A and B in Einstein's theory
+Answer: D
+
+34. In non-coordinate bases with structure constants C^k_ij, the connection coefficients:
+A) Vanish identically
+B) Equal Christoffel symbols
+C) Include torsion terms
+D) Contain structure constants
+Answer: D
+
+35. The Weyl tensor represents:
+A) Trace of Riemann tensor
+B) Traceless part of Riemann tensor
+C) Antisymmetric part of connection
+D) Covariant derivative of metric
+Answer: B
+
+36. Killing vectors ξ^μ satisfy Killing's equation ∇_μξ_ν + ∇_νξ_μ = 0 and represent:
+A) Gauge transformations
+B) Symmetries of the metric
+C) Coordinate singularities
+D) Tensor densities
+Answer: B
+
+37. The Lie derivative of a tensor along a vector field:
+A) Requires a connection
+B) Is independent of connection
+C) Vanishes for Killing vectors
+D) Both B and C
+Answer: D
+
+38. In Riemannian geometry, the sectional curvature K(π) for a 2-plane π is:
+A) Average of Ricci curvature
+B) Gaussian curvature of geodesic surface
+C) Related to R_αβγδ contracted with π
+D) Always positive
+Answer: C
+
+39. The holonomy group of a connection describes:
+A) Parallel transport around closed loops
+B) Symmetries of the manifold
+C) Gauge transformations
+D) Coordinate changes
+Answer: A
+
+40. For a conformally flat metric g_μν = Ω²η_μν, the Weyl tensor:
+A) Equals that of flat space
+B) Vanishes identically
+C) Is proportional to Ω
+D) Depends on derivatives of Ω
+Answer: B
+
+## Section 5: Numerical Methods
+
+5. Numerical Methods (Hard)
+41. The optimal SOR relaxation parameter for the discrete Laplacian on an n×n grid is approximately:
+A) 1 + π/n
+B) 2 - 2π/n
+C) 1.5
+D) 2/(1+sin(π/n))
+Answer: B
+
+42. In adaptive mesh refinement for PDEs, the error estimator should scale as:
+A) h^p where p is method order
+B) h^(p+1)
+C) h^(2p)
+D) Independent of h
+Answer: A
+
+43. The CFL condition for hyperbolic PDEs requires:
+A) Δt ≤ CΔx/|λ_max|
+B) Δt ≥ Δx²
+C) Δt = Δx
+D) No restriction on Δt
+Answer: A
+
+44. Symplectic integrators for Hamiltonian systems preserve:
+A) Energy exactly
+B) Phase space volume
+C) Angular momentum
+D) All constants of motion
+Answer: B
+
+45. The condition number of the Hilbert matrix H_ij = 1/(i+j-1) grows as:
+A) n²
+B) e^n
+C) n!
+D) e^(3.5n)
+Answer: D
+
+46. In multigrid methods, the smoothing property requires high-frequency errors to be:
+A) Amplified
+B) Damped by relaxation
+C) Transferred to coarse grid
+D) Preserved exactly
+Answer: B
+
+47. For stiff ODEs, backward differentiation formulas (BDF) of order k are:
+A) A-stable for all k
+B) A-stable for k ≤ 2
+C) L-stable for all k
+D) Unstable for k > 6
+Answer: B
+
+48. The Lax equivalence theorem states that for linear PDEs:
+A) Consistency implies convergence
+B) Stability implies convergence
+C) Consistency + Stability = Convergence
+D) Convergence implies stability
+Answer: C
+
+49. In spectral methods for PDEs, the Gibbs phenomenon can be mitigated by:
+A) Using more modes
+B) Filtering high frequencies
+C) Adaptive grids
+D) Lower-order methods
+Answer: B
+
+50. The complexity of fast multipole method for N-body problems is:
+A) O(N²)
+B) O(N log N)
+C) O(N)
+D) O(N^(3/2))
+Answer: C
+
+## Section 6: Integration and Complex Analysis
+
+6. Integration and Complex Analysis (Hard)
+51. The residue of f(z) = z²/(e^z - 1) at z = 2πi is:
+A) -4π²
+B) 4π²
+C) -2πi
+D) 0
+Answer: A
+
+52. For the integral ∫₀^∞ sin(x)/x dx using contour integration, the appropriate contour includes:
+A) Simple semicircle
+B) Indented semicircle avoiding origin
+C) Rectangular contour
+D) Keyhole contour
+Answer: B
+
+53. The asymptotic expansion of ∫₀^∞ e^(-x²) cos(2bx) dx as b→∞ by stationary phase is:
+A) √π e^(-b²)
+B) √(π/2) b^(-1) e^(-b²)
+C) √π/2
+D) πb^(-2)
+Answer: A
+
+54. The Mellin transform of f(x) = e^(-x) - e^(-2x) has poles at:
+A) s = 1, 2
+B) s = -1, -2
+C) All integers
+D) No poles
+Answer: C
+
+55. Using the Bromwich integral for inverse Laplace transform of 1/(s²+1)², the result is:
+A) (sin t - t cos t)/2
+B) t sin t/2
+C) (sin t + t cos t)/2
+D) t² sin t
+Answer: A
+
+56. The branch cut for log(z²-1) to make it single-valued should be placed:
+A) Along negative real axis
+B) From -1 to 1
+C) From -∞ to -1 and 1 to ∞
+D) Any of the above works
+Answer: D
+
+57. For the elliptic integral K(k) = ∫₀^(π/2) dθ/√(1-k²sin²θ), as k→1⁻:
+A) K ~ π/2
+B) K ~ log(4/√(1-k²))
+C) K ~ 1/(1-k²)
+D) K remains finite
+Answer: B
+
+58. The Watson lemma for ∫₀^∞ e^(-λt) t^α f(t) dt as λ→∞ gives leading term:
+A) λ^(-α-1) Γ(α+1) f(0)
+B) λ^(-1) f(0)
+C) Independent of α
+D) Depends on all derivatives of f
+Answer: A
+
+59. The monodromy of solutions around a regular singular point of the hypergeometric equation involves:
+A) Rational multiples of 2πi
+B) Logarithmic terms only
+C) Connection coefficients relating solutions
+D) Simple poles only
+Answer: C
+
+60. For evaluating ∮ dz/[z(z²+1)³], the residue at z = i contributes:
+A) πi/8
+B) -πi/16
+C) 3πi/16
+D) 0
+Answer: B
+
+## Section 7: Functional Analysis and Integral Equations
+
+7. Functional Analysis and Integral Equations (Hard)
+61. The Fredholm alternative for K compact states that (I-K)u = f has a solution if and only if:
+A) f is orthogonal to null space of (I-K*)
+B) K has no eigenvalue 1
+C) f is in range of K
+D) Kernel is symmetric
+Answer: A
+
+62. For the singular integral equation with Cauchy kernel, the index is determined by:
+A) Winding number of coefficient
+B) Order of singularity
+C) Dimension of kernel
+D) Type of domain
+Answer: A
+
+63. The spectrum of the compact operator Kf(x) = ∫₀¹ e^(xy) f(y) dy consists of:
+A) Continuous spectrum only
+B) Point spectrum accumulating at 0
+C) Essential spectrum
+D) Empty set
+Answer: B
+
+64. In the Wiener-Hopf method, the factorization K(α) = K₊(α)K₋(α) requires:
+A) K analytic everywhere
+B) Specific growth conditions at infinity
+C) K real on real axis
+D) K periodic
+Answer: B
+
+65. The resolvent kernel R(x,y;λ) for K satisfies:
+A) R = K + λKR
+B) R = K + λRK
+C) (I-λK)R = K
+D) All of the above
+Answer: D
+
+66. For Volterra equation u(x) = f(x) + λ∫₀ˣ K(x,y)u(y)dy, the Neumann series converges:
+A) For |λ| < 1/||K||
+B) For all λ
+C) Only for λ = 0
+D) Never
+Answer: B
+
+67. The trace formula for an integral operator relates:
+A) Trace to integral of kernel diagonal
+B) Eigenvalues to kernel
+C) Determinant to trace
+D) Both A and B
+Answer: D
+
+68. Green's function for Sturm-Liouville operator L with homogeneous BCs satisfies:
+A) LG = 0
+B) LG = δ(x-ξ)
+C) Symmetry G(x,ξ) = G(ξ,x)
+D) Both B and C
+Answer: D
+
+69. The method of successive approximations for nonlinear integral equations converges when:
+A) Lipschitz constant < 1
+B) Kernel is positive
+C) Domain is bounded
+D) Initial guess is close
+Answer: A
+
+70. For the Abel integral equation ∫₀ˣ u(t)/√(x-t) dt = f(x), the solution involves:
+A) Differentiation only
+B) Another singular integral
+C) Fourier transform
+D) Laplace transform
+Answer: B
+
+## Section 8: Fourier Analysis and Wavelets
+
+8. Fourier Analysis and Wavelets (Hard)
+71. The Paley-Wiener theorem characterizes Fourier transforms of functions with compact support as:
+A) Entire functions of exponential type
+B) Rapidly decreasing functions
+C) Band-limited functions
+D) Periodic functions
+Answer: A
+
+72. For the Gibbs phenomenon, the overshoot for the partial sum Sₙ of the Fourier series approaches:
+A) ∫₀^π (sin t)/t dt - π/2 ≈ 0.089
+B) 0.05
+C) 0.18
+D) Depends on jump size
+Answer: A
+
+73. The uncertainty principle ΔxΔk ≥ 1/2 is saturated by:
+A) Gaussian only
+B) Any function with compact support
+C) Sinc function
+D) Wavelets
+Answer: A
+
+74. The continuous wavelet transform with admissible wavelet ψ requires:
+A) ∫ψ dx = 0
+B) ∫|ψ̂(ω)|²/|ω| dω < ∞
+C) ψ ∈ L²(ℝ)
+D) All of the above
+Answer: D
+
+75. The Shannon sampling theorem fails when:
+A) Signal is not band-limited
+B) Sampling rate < 2× max frequency
+C) Signal has discontinuities
+D) Both A and B
+Answer: D
+
+76. For fractional Fourier transform of order α, the kernel is:
+A) exp(iαxy)
+B) exp(i cot(α)x²/2) exp(-i csc(α)xy) exp(i cot(α)y²/2)
+C) (x+y)^α
+D) J_α(xy)
+Answer: B
+
+77. The Poisson summation formula ∑f(n) = ∑f̂(2πn) requires:
+A) f absolutely integrable
+B) f and f̂ in L¹
+C) Sufficient decay of f and f̂
+D) f continuous
+Answer: C
+
+78. Meyer wavelets achieve:
+A) Compact support in space
+B) Compact support in frequency
+C) Optimal time-frequency localization
+D) Orthogonal decomposition with smooth wavelets
+Answer: D
+
+79. The Wigner distribution W(x,k) for quantum/signal analysis satisfies:
+A) W ≥ 0 everywhere
+B) ∫W dk gives |ψ(x)|²
+C) Can be negative
+D) Both B and C
+Answer: D
+
+80. The prolate spheroidal wave functions are eigenfunctions of:
+A) Fourier transform
+B) Finite Fourier transform on [-1,1]
+C) Time and band limiting operator
+D) Laplacian
+Answer: C
+
+## Section 9: Variational Methods and Control
+
+9. Variational Methods and Control (Hard)
+81. The Euler-Lagrange equation for ∫F(x,y,y',y'')dx is:
+A) ∂F/∂y - d/dx(∂F/∂y') = 0
+B) ∂F/∂y - d/dx(∂F/∂y') + d²/dx²(∂F/∂y'') = 0
+C) Complex expression with boundary terms
+D) Requires integration by parts twice
+Answer: B
+
+82. The transversality condition for free endpoint problems states:
+A) y(b) = 0
+B) [∂F/∂y']_{x=b} = 0
+C) F - y'∂F/∂y' = 0 at x = b
+D) Natural boundary condition
+Answer: B
+
+83. For the isoperimetric problem with constraint ∫G dx = constant, the modified functional includes:
+A) Penalty term
+B) Lagrange multiplier λ
+C) Barrier function
+D) Slack variable
+Answer: B
+
+84. The Hamilton-Jacobi-Bellman equation for optimal control arises from:
+A) Pontryagin's principle
+B) Dynamic programming
+C) Calculus of variations
+D) Lagrange multipliers
+Answer: B
+
+85. The Legendre condition for a minimum requires:
+A) ∂²F/∂y'² > 0
+B) ∂²F/∂y² > 0
+C) Jacobi equation has no conjugate points
+D) Both A and C
+Answer: D
+
+86. Noether's theorem relates symmetries to:
+A) Conservation laws
+B) Integrability
+C) Stability
+D) Periodicity
+Answer: A
+
+87. The Weierstrass excess function E(x,y,y',p) tests for:
+A) Local minimum
+B) Strong minimum
+C) Existence
+D) Uniqueness
+Answer: B
+
+88. In optimal control with state constraints g(x,u) ≤ 0, the multipliers:
+A) Are continuous
+B) May contain measures
+C) Satisfy complementary slackness
+D) Both B and C
+Answer: D
+
+89. The field of extremals for a variational problem provides:
+A) Sufficient condition via Weierstrass
+B) Envelope of solutions
+C) Hamilton-Jacobi equation
+D) All of the above
+Answer: D
+
+90. Bang-bang control arises when:
+A) System is linear
+B) Control appears linearly in Hamiltonian
+C) Cost is quadratic
+D) Time is fixed
+Answer: B
+
+## Section 10: Stochastic Methods and Applications
+
+10. Stochastic Methods and Applications (Hard)
+91. The Fokker-Planck equation for the SDE dX = μ(X)dt + σ(X)dW is:
+A) ∂p/∂t = -∂(μp)/∂x + ∂²(σ²p)/∂x²
+B) ∂p/∂t = -∂(μp)/∂x + ½∂²(σ²p)/∂x²
+C) ∂p/∂t = μ∂p/∂x + σ²∂²p/∂x²
+D) Depends on Ito vs Stratonovich
+Answer: B
+
+92. The Feynman-Kac formula connects SDEs to:
+A) ODEs
+B) PDEs
+C) Integral equations
+D) Algebraic equations
+Answer: B
+
+93. For mean-field equations, the McKean-Vlasov limit describes:
+A) Small noise limit
+B) Large particle number limit
+C) Long time behavior
+D) Rare events
+Answer: B
+
+94. The Cameron-Martin theorem describes:
+A) Change of measure for Brownian motion
+B) Large deviations
+C) Ergodic properties
+D) Martingale convergence
+Answer: A
+
+95. Homogenization of SDEs with rapidly oscillating coefficients yields:
+A) Averaged equation
+B) Same equation with renormalized coefficients
+C) Effective diffusion coefficient
+D) Both A and C
+Answer: D
+
+96. The Donsker invariance principle states that random walk converges to:
+A) Normal distribution
+B) Brownian motion
+C) Poisson process
+D) Stable process
+Answer: B
+
+97. Large deviation principle for empirical measures involves:
+A) Rate function from relative entropy
+B) Exponential decay rates
+C) Variational characterization
+D) All of the above
+Answer: D
+
+98. The Malliavin calculus extends to Wiener space:
+A) Ito calculus
+B) Differential calculus
+C) Variational calculus
+D) Functional calculus
+Answer: B
+
+99. For the KPZ equation ∂h/∂t = ν∇²h + λ(∇h)² + η, the scaling exponents satisfy:
+A) z = 3/2 in 1D
+B) z = 2 always
+C) Depend on dimension
+D) Both A and C
+Answer: D
+
+100. The replica method in statistical mechanics involves:
+A) Averaging log Z via lim n→0 (Z^n-1)/n
+B) Multiple copies of system
+C) Analytical continuation
+D) All of the above
+Answer: D

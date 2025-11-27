@@ -1,0 +1,729 @@
+## Section 1: Vector Analysis and Operations
+
+1. Vector Analysis and Operations (Medium)
+1. If A = 2i + 3j - k and B = i - 2j + 3k, then A·B equals:
+A) -7
+B) -5
+C) 5
+D) 7
+Answer: A
+
+2. The curl of a gradient of any scalar function is always:
+A) Non-zero
+B) Zero
+C) Unity
+D) Infinity
+Answer: B
+
+3. For vectors A = 6i - 8j, the magnitude of 4A is:
+A) 10
+B) 20
+C) 40
+D) 100
+Answer: C
+
+4. The angle between vectors A = i + j and B = i - j is:
+A) 0°
+B) 45°
+C) 90°
+D) 180°
+Answer: C
+
+5. If ∇·V represents divergence, what does ∇×V represent?
+A) Gradient
+B) Curl
+C) Laplacian
+D) Scalar product
+Answer: B
+
+6. The volume of a parallelepiped formed by vectors A, B, and C is given by:
+A) A·(B×C)
+B) A×(B×C)
+C) (A×B)·C
+D) Both A and C
+Answer: D
+
+7. For the position vector r = xi + yj + zk, ∇·r equals:
+A) 0
+B) 1
+C) 3
+D) r
+Answer: C
+
+8. The vector triple product A×(B×C) equals:
+A) B(A·C) - C(A·B)
+B) C(A·B) - B(A·C)
+C) (A·B)C - (A·C)B
+D) (A×B)×C
+Answer: A
+
+9. If two vectors of equal magnitude have a resultant of the same magnitude, the angle between them is:
+A) 60°
+B) 90°
+C) 120°
+D) 180°
+Answer: C
+
+10. The Laplacian operator ∇² in Cartesian coordinates is:
+A) ∂/∂x + ∂/∂y + ∂/∂z
+B) ∂²/∂x² + ∂²/∂y² + ∂²/∂z²
+C) (∂/∂x)² + (∂/∂y)² + (∂/∂z)²
+D) ∂²/∂x∂y∂z
+Answer: B
+
+## Section 2: Mechanics and Dynamics
+
+2. Mechanics and Dynamics (Medium)
+11. A projectile is launched at 45° with initial velocity v₀. Its maximum height is:
+A) v₀²/g
+B) v₀²/2g
+C) v₀²/4g
+D) v₀²/8g
+Answer: C
+
+12. For a mass-spring system with mass m and spring constant k, the period is:
+A) 2π√(k/m)
+B) 2π√(m/k)
+C) √(m/k)
+D) √(k/m)
+Answer: B
+
+13. A car rounds a curve of radius 100m with coefficient of friction 0.5. Maximum safe speed is approximately:
+A) 15 m/s
+B) 22 m/s
+C) 32 m/s
+D) 45 m/s
+Answer: B
+
+14. The moment of inertia of a uniform rod of mass M and length L about its center is:
+A) ML²/3
+B) ML²/6
+C) ML²/12
+D) ML²/24
+Answer: C
+
+15. In SHM, when displacement is half the amplitude, the ratio of kinetic to potential energy is:
+A) 1:3
+B) 3:1
+C) 1:1
+D) 2:1
+Answer: B
+
+16. According to Kepler's third law, if orbital radius doubles, the period increases by factor:
+A) √2
+B) 2
+C) 2√2
+D) 4
+Answer: C
+
+17. A satellite in circular orbit has kinetic energy K. Its total mechanical energy is:
+A) K
+B) -K
+C) 2K
+D) -K/2
+Answer: B
+
+18. Angular momentum L and torque τ are related by:
+A) L = τt
+B) τ = dL/dt
+C) τ = L/t
+D) L = τ/t
+Answer: B
+
+19. For a hollow cylinder rolling down an incline, the acceleration is:
+A) g sin θ
+B) (g sin θ)/2
+C) (g sin θ)/3
+D) (2g sin θ)/3
+Answer: B
+
+20. If Earth's angular momentum due to rotation is L₁ and due to revolution is L₂, then:
+A) L₁ > L₂
+B) L₁ < L₂
+C) L₁ = L₂
+D) Cannot determine
+Answer: B
+
+## Section 3: Electromagnetism and Electricity
+
+3. Electromagnetism and Electricity (Medium)
+21. The electric field at distance r from an infinite line charge with linear charge density λ is:
+A) λ/2πε₀r
+B) λ/4πε₀r
+C) λ/2πε₀r²
+D) λ/4πε₀r²
+Answer: A
+
+22. For a parallel plate capacitor with dielectric constant K, the energy density is:
+A) ε₀E²/2
+B) Kε₀E²/2
+C) ε₀E²/2K
+D) KE²/2ε₀
+Answer: B
+
+23. The self-inductance of a solenoid with N turns, length l, and area A is:
+A) μ₀N²A/l
+B) μ₀NA/l
+C) μ₀N²l/A
+D) μ₀Nl/A
+Answer: A
+
+24. In an RLC circuit at resonance, the impedance is:
+A) Zero
+B) Minimum and equal to R
+C) Maximum
+D) Infinite
+Answer: B
+
+25. The Poynting vector represents:
+A) Electric field intensity
+B) Magnetic field intensity
+C) Energy flux density
+D) Charge density
+Answer: C
+
+26. For a transformer with primary turns N₁ and secondary turns N₂, voltage ratio is:
+A) N₁/N₂
+B) N₂/N₁
+C) (N₁/N₂)²
+D) √(N₁/N₂)
+Answer: B
+
+27. The capacitance of a spherical capacitor with inner radius a and outer radius b is:
+A) 4πε₀ab/(b-a)
+B) 4πε₀(b-a)/ab
+C) 4πε₀a/b
+D) 4πε₀b/a
+Answer: A
+
+28. Lenz's law is a consequence of:
+A) Conservation of charge
+B) Conservation of energy
+C) Conservation of momentum
+D) Coulomb's law
+Answer: B
+
+29. The magnetic field at the center of a circular loop of radius R carrying current I is:
+A) μ₀I/2R
+B) μ₀I/4R
+C) μ₀I/2πR
+D) μ₀I/4πR
+Answer: A
+
+30. In electromagnetic waves, E and B are related by:
+A) E = cB
+B) B = cE
+C) E = B/c
+D) E = B
+Answer: A
+
+## Section 4: Waves and Optics
+
+4. Waves and Optics (Medium)
+31. In Young's double slit experiment, fringe width is proportional to:
+A) λ/d
+B) λd
+C) d/λ
+D) 1/λd
+Answer: A
+
+32. For constructive interference in thin films, the path difference must be:
+A) λ/2
+B) λ/4
+C) nλ
+D) (2n+1)λ/2
+Answer: C
+
+33. The resolving power of a diffraction grating with N lines is:
+A) N
+B) nN
+C) N/n
+D) 1/N
+Answer: B
+
+34. In a standing wave, the distance between adjacent nodes is:
+A) λ
+B) λ/2
+C) λ/4
+D) 2λ
+Answer: B
+
+35. The Doppler shift for a source moving toward observer with speed v is:
+A) f₀(1 + v/c)
+B) f₀(1 - v/c)
+C) f₀/(1 - v/c)
+D) f₀/(1 + v/c)
+Answer: C
+
+36. Phase velocity and group velocity are equal when:
+A) Dispersion is zero
+B) Dispersion is maximum
+C) Frequency is zero
+D) Wavelength is infinite
+Answer: A
+
+37. For Fraunhofer diffraction by a single slit, the first minimum occurs at angle θ where:
+A) a sin θ = λ/2
+B) a sin θ = λ
+C) a sin θ = 2λ
+D) a sin θ = 3λ/2
+Answer: B
+
+38. Coherence length is related to spectral bandwidth Δλ by:
+A) λ²/Δλ
+B) Δλ/λ²
+C) λ/Δλ
+D) Δλ/λ
+Answer: A
+
+39. Brewster's angle for glass (n=1.5) is approximately:
+A) 45°
+B) 56°
+C) 60°
+D) 30°
+Answer: B
+
+40. The intensity of unpolarized light after passing through a polarizer is:
+A) Zero
+B) Unchanged
+C) Half the original
+D) Double the original
+Answer: C
+
+## Section 5: Thermodynamics
+
+5. Thermodynamics (Medium)
+41. For an ideal gas undergoing adiabatic process, PVᵞ = constant, where γ equals:
+A) Cp/Cv
+B) Cv/Cp
+C) Cp - Cv
+D) Cp + Cv
+Answer: A
+
+42. The efficiency of a Carnot engine operating between 600K and 300K is:
+A) 25%
+B) 50%
+C) 75%
+D) 100%
+Answer: B
+
+43. In van der Waals equation, the correction factor 'a' accounts for:
+A) Volume of molecules
+B) Intermolecular forces
+C) Temperature effects
+D) Pressure effects
+Answer: B
+
+44. For a reversible process, entropy change is:
+A) Always positive
+B) Always negative
+C) Zero
+D) Can be positive, negative, or zero
+Answer: D
+
+45. The specific heat at constant volume for a diatomic gas is:
+A) 3R/2
+B) 5R/2
+C) 7R/2
+D) R
+Answer: B
+
+46. During free expansion of an ideal gas:
+A) Temperature decreases
+B) Temperature increases
+C) Temperature remains constant
+D) Pressure increases
+Answer: C
+
+47. The coefficient of performance of a refrigerator is:
+A) Always less than 1
+B) Always greater than 1
+C) Can be less or greater than 1
+D) Always equal to 1
+Answer: C
+
+48. For an isothermal process of ideal gas, work done equals:
+A) nRT
+B) nRT ln(Vf/Vi)
+C) nR(Tf-Ti)
+D) PΔV
+Answer: B
+
+49. Maxwell-Boltzmann distribution peaks at speed:
+A) √(RT/M)
+B) √(2RT/M)
+C) √(3RT/M)
+D) √(8RT/πM)
+Answer: B
+
+50. The third law of thermodynamics states that entropy approaches:
+A) Infinity at absolute zero
+B) Zero at absolute zero
+C) Maximum at absolute zero
+D) Negative value at absolute zero
+Answer: B
+
+## Section 6: Modern Physics & Quantum Mechanics
+
+6. Modern Physics & Quantum Mechanics (Medium)
+51. The de Broglie wavelength of an electron accelerated through potential V is proportional to:
+A) V
+B) √V
+C) 1/V
+D) 1/√V
+Answer: D
+
+52. In the photoelectric effect, stopping potential depends on:
+A) Intensity only
+B) Frequency only
+C) Both intensity and frequency
+D) Neither intensity nor frequency
+Answer: B
+
+53. For a particle in a box of length L, the ground state energy is:
+A) h²/8mL²
+B) h²/4mL²
+C) h²/2mL²
+D) h²/mL²
+Answer: A
+
+54. The uncertainty relation ΔxΔp ≥ ℏ/2 implies:
+A) Position can be exactly known
+B) Momentum can be exactly known
+C) Neither can be exactly known simultaneously
+D) Both can be exactly known
+Answer: C
+
+55. The Bohr radius of hydrogen atom is approximately:
+A) 0.053 nm
+B) 0.53 nm
+C) 5.3 nm
+D) 53 nm
+Answer: A
+
+56. Compton scattering demonstrates:
+A) Wave nature of light
+B) Particle nature of light
+C) Wave nature of matter
+D) Continuous nature of energy
+Answer: B
+
+57. The expectation value of momentum for a real wave function is:
+A) Always positive
+B) Always negative
+C) Always zero
+D) Can be any value
+Answer: C
+
+58. For quantum harmonic oscillator, zero-point energy is:
+A) Zero
+B) ℏω/2
+C) ℏω
+D) 3ℏω/2
+Answer: B
+
+59. The transmission coefficient for a particle hitting a barrier depends on:
+A) Barrier height only
+B) Barrier width only
+C) Both height and width
+D) Neither height nor width
+Answer: C
+
+60. Spin quantum number for electron is:
+A) 0
+B) 1/2
+C) 1
+D) 3/2
+Answer: B
+
+## Section 7: Relativity
+
+7. Relativity (Medium)
+61. At speed 0.6c, the Lorentz factor γ is:
+A) 1.25
+B) 1.5
+C) 1.67
+D) 2.0
+Answer: A
+
+62. Time dilation factor for speed v is:
+A) √(1 - v²/c²)
+B) 1/√(1 - v²/c²)
+C) 1 - v²/c²
+D) v/c
+Answer: B
+
+63. The relativistic momentum is given by:
+A) mv
+B) mv/√(1 - v²/c²)
+C) m√(1 - v²/c²)
+D) mc²
+Answer: B
+
+64. For a particle with momentum p, total energy E is:
+A) √(p²c² + m²c⁴)
+B) pc + mc²
+C) p²c²/2m
+D) pc
+Answer: A
+
+65. Length contraction occurs only:
+A) Perpendicular to motion
+B) Along direction of motion
+C) In all directions equally
+D) At angles to motion
+Answer: B
+
+66. Two events simultaneous in one frame are:
+A) Simultaneous in all frames
+B) Not necessarily simultaneous in other frames
+C) Never simultaneous in other frames
+D) Simultaneous only at rest
+Answer: B
+
+67. The rest energy of an electron (mass 9.1 × 10⁻³¹ kg) is approximately:
+A) 0.051 MeV
+B) 0.51 MeV
+C) 5.1 MeV
+D) 51 MeV
+Answer: B
+
+68. Relativistic addition of velocities v₁ and v₂ gives:
+A) v₁ + v₂
+B) (v₁ + v₂)/(1 + v₁v₂/c²)
+C) v₁ + v₂ - v₁v₂/c
+D) √(v₁² + v₂²)
+Answer: B
+
+69. The invariant interval in spacetime is:
+A) Δx² + Δy² + Δz² + c²Δt²
+B) Δx² + Δy² + Δz² - c²Δt²
+C) c²Δt² - Δx² - Δy² - Δz²
+D) Both B and C
+Answer: D
+
+70. Mass-energy equivalence implies 1 kg of matter contains energy:
+A) 9 × 10¹³ J
+B) 9 × 10¹⁴ J
+C) 9 × 10¹⁵ J
+D) 9 × 10¹⁶ J
+Answer: D
+
+## Section 8: Fluid Dynamics
+
+8. Fluid Dynamics (Medium)
+71. In Bernoulli's equation, the term ρv²/2 represents:
+A) Static pressure
+B) Dynamic pressure
+C) Total pressure
+D) Atmospheric pressure
+Answer: B
+
+72. For flow through a Venturi tube, if area reduces by half, velocity:
+A) Doubles
+B) Halves
+C) Increases four times
+D) Remains same
+Answer: A
+
+73. Reynolds number determines:
+A) Compressibility
+B) Viscosity
+C) Flow regime (laminar/turbulent)
+D) Surface tension
+Answer: C
+
+74. The terminal velocity of a sphere in viscous fluid is proportional to:
+A) r
+B) r²
+C) r³
+D) 1/r
+Answer: B
+
+75. In a U-tube manometer, pressure difference is proportional to:
+A) Height difference
+B) Square of height difference
+C) Square root of height difference
+D) Cube of height difference
+Answer: A
+
+76. Stokes' law gives drag force proportional to:
+A) v²
+B) v
+C) √v
+D) v³
+Answer: B
+
+77. The equation of continuity A₁v₁ = A₂v₂ assumes:
+A) Compressible flow
+B) Incompressible flow
+C) Turbulent flow
+D) Viscous flow
+Answer: B
+
+78. Torricelli's theorem gives efflux velocity as:
+A) √(gh)
+B) √(2gh)
+C) 2gh
+D) gh
+Answer: B
+
+79. The lift force on an airfoil is due to:
+A) Higher pressure above
+B) Lower pressure above
+C) Equal pressure
+D) No pressure difference
+Answer: B
+
+80. Surface tension has dimensions of:
+A) Force/length
+B) Force × length
+C) Energy/area
+D) Both A and C
+Answer: D
+
+## Section 9: Nuclear Physics
+
+9. Nuclear Physics (Medium)
+81. The binding energy per nucleon is maximum for:
+A) Hydrogen
+B) Iron
+C) Uranium
+D) Lead
+Answer: B
+
+82. In beta-minus decay, a neutron converts to:
+A) Proton + electron
+B) Proton + electron + antineutrino
+C) Proton + positron
+D) Two protons
+Answer: B
+
+83. The Q-value of a nuclear reaction represents:
+A) Heat absorbed
+B) Energy released
+C) Momentum transfer
+D) Angular momentum
+Answer: B
+
+84. After 3 half-lives, the remaining fraction of radioactive material is:
+A) 1/3
+B) 1/6
+C) 1/8
+D) 1/9
+Answer: C
+
+85. The moderator in a nuclear reactor:
+A) Absorbs neutrons
+B) Slows down neutrons
+C) Speeds up neutrons
+D) Produces neutrons
+Answer: B
+
+86. Critical mass is the minimum mass needed for:
+A) Any nuclear reaction
+B) Self-sustaining chain reaction
+C) Complete fission
+D) Fusion reaction
+Answer: B
+
+87. The energy released in fusion comes from:
+A) Chemical bonds
+B) Mass defect
+C) Electron transitions
+D) Neutron capture
+Answer: B
+
+88. The range of nuclear force is approximately:
+A) Infinite
+B) 10⁻¹⁰ m
+C) 10⁻¹⁵ m
+D) 10⁻²⁰ m
+Answer: C
+
+89. Magic numbers in nuclear physics refer to:
+A) Mass numbers
+B) Numbers of nucleons for extra stability
+C) Atomic numbers only
+D) Neutron numbers only
+Answer: B
+
+90. A breeder reactor:
+A) Consumes more fuel than it produces
+B) Produces more fuel than it consumes
+C) Produces no fuel
+D) Uses only uranium
+Answer: B
+
+## Section 10: Solid State Physics
+
+10. Solid State Physics (Medium)
+91. The energy gap for silicon at room temperature is approximately:
+A) 0.7 eV
+B) 1.1 eV
+C) 2.2 eV
+D) 5.5 eV
+Answer: B
+
+92. In a p-type semiconductor, majority carriers are:
+A) Electrons
+B) Holes
+C) Both equally
+D) Neither
+Answer: B
+
+93. The Fermi level in intrinsic semiconductor lies:
+A) In valence band
+B) In conduction band
+C) Near middle of band gap
+D) Above conduction band
+Answer: C
+
+94. X-ray diffraction follows:
+A) Snell's law
+B) Bragg's law
+C) Coulomb's law
+D) Ohm's law
+Answer: B
+
+95. The Hall effect is used to determine:
+A) Resistance only
+B) Type and concentration of carriers
+C) Temperature coefficient
+D) Thermal conductivity
+Answer: B
+
+96. In forward bias, the depletion region of p-n junction:
+A) Increases
+B) Decreases
+C) Remains constant
+D) Disappears completely
+Answer: B
+
+97. The mobility of charge carriers is defined as:
+A) Drift velocity per unit field
+B) Current per unit area
+C) Charge per unit time
+D) Field per unit current
+Answer: A
+
+98. Diamond structure has coordination number:
+A) 2
+B) 4
+C) 6
+D) 8
+Answer: B
+
+99. The temperature coefficient of resistance for semiconductors is:
+A) Positive
+B) Negative
+C) Zero
+D) Infinite
+Answer: B
+
+100. A MOSFET operates primarily on the principle of:
+A) Current control
+B) Voltage control of conductivity
+C) Magnetic control
+D) Thermal control
+Answer: B

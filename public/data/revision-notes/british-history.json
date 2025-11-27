@@ -1,0 +1,727 @@
+{
+  "subject": "British History",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 26,
+  "categories": [
+    "Constitutional Change & Parliamentary Evolution",
+    "Foreign Policy, Wars & Diplomacy",
+    "Industrialization, Society & Economy",
+    "Political Leaders, Parties & Ideologies",
+    "Empire, Commonwealth & Decolonization",
+    "Ireland, Scotland & the Unions",
+    "Victorian & Edwardian Britain",
+    "20th-Century Britain (1914–1990s)",
+    "Contemporary Themes (1990s–Present)",
+    "Historiography, Sources & Exam Skills",
+    "MCQ Staples: Dates, Acts & Institutions"
+  ],
+  "notes": [
+    {
+      "id": "BH-001",
+      "title": "Glorious Revolution (1688–89): Causes, Course, Consequences",
+      "content": "Why 1688 is treated as a constitutional watershed: deposition of James II, invitation to William & Mary, the Bill of Rights (1689), and the shift toward parliamentary sovereignty; use for 'significance' and 'turning point' questions (2001–2005, 2009–2013, 2019–2024).",
+      "keyTakeaways": [
+        "Frame as settlement limiting royal prerogative + enhancing parliamentary authority.",
+        "Connect to Toleration Act (limits), Mutiny Act (army under Parliament), financial control.",
+        "Compare with 1832 Reform Act in 'long road to democracy' essays."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — The Glorious Revolution",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/",
+          "type": "article",
+          "description": "Concise official explainer"
+        },
+        {
+          "title": "Parliament Factsheet (archived)",
+          "url": "https://www.parliament.uk/about/how/guides/factsheets/general/g04/",
+          "type": "factsheet",
+          "description": "Parliamentary context & effects"
+        },
+        {
+          "title": "Britannica — Glorious Revolution",
+          "url": "https://www.britannica.com/event/Glorious-Revolution",
+          "type": "reference",
+          "description": "Overview & significance"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitutional Change & Parliamentary Evolution",
+      "topics": ["1688", "Bill of Rights", "Parliamentary sovereignty"]
+    },
+    {
+      "id": "BH-002",
+      "title": "Hanoverian Succession & Whig Ascendancy (1714–1760)",
+      "content": "Accession of George I (1714) → long Whig dominance; cabinet government, Walpole as de facto first PM; party system consolidation; exam emphasis on constitutional impact and George III's challenge later.",
+      "keyTakeaways": [
+        "Explain why limited monarchy + cabinet responsibility grew under Hanoverians.",
+        "Use Walpole's management of Commons as institutional precedent.",
+        "Bridge to George III's 'personal rule' debates."
+      ],
+      "resources": [
+        {
+          "title": "History of Parliament — Hanoverian politics (overview)",
+          "url": "https://www.historyofparliamentonline.org/",
+          "type": "portal",
+          "description": "Biographies & constituency studies"
+        },
+        {
+          "title": "Britannica — Robert Walpole",
+          "url": "https://www.britannica.com/biography/Robert-Walpole",
+          "type": "reference",
+          "description": "First PM context"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitutional Change & Parliamentary Evolution",
+      "topics": ["Hanoverians", "Whigs", "Cabinet government"]
+    },
+    {
+      "id": "BH-003",
+      "title": "Reform Act 1832 ('Great Reform') & Democratization",
+      "content": "Causes (rotten boroughs, industrial towns, political crisis), contents (redistribution, franchise expansion), and consequences (not full democracy, but crucial step). Use in 1832–1928 reform trajectories.",
+      "keyTakeaways": [
+        "Cite mechanics: borough disfranchisement + county/borough redistribution.",
+        "Argue 'beginning of modern politics' yet still property-weighted.",
+        "Link to Chartism as response to limited scope."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Reform Act 1832",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/",
+          "type": "article",
+          "description": "Authoritative narrative"
+        },
+        {
+          "title": "National Archives — What caused the 1832 Reform Act?",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/what-caused-the-1832-great-reform-act/",
+          "type": "teaching-pack",
+          "description": "Primary sources & tasks"
+        },
+        {
+          "title": "Legislation — 1832 Acts (texts directory)",
+          "url": "https://www.legislation.gov.uk/all/1832",
+          "type": "primary-law",
+          "description": "Statute texts & related Acts"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitutional Change & Parliamentary Evolution",
+      "topics": ["Reform Act 1832", "Franchise", "Redistribution"]
+    },
+    {
+      "id": "BH-004",
+      "title": "Chartism (1838–48): A Mass Movement for Democracy",
+      "content": "People's Charter's Six Points; petitions (1839/1842/1848); regional diversity; reasons for failure/success in long term (agenda later achieved). Frequently paired with 1832.",
+      "keyTakeaways": [
+        "Treat as working-class political mobilization & political education.",
+        "Use petitions + mass meetings + moral vs. physical force split.",
+        "Outcome: immediate failure, long-term constitutional legacy."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — The Chartist Movement",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/",
+          "type": "article",
+          "description": "Overview & context"
+        },
+        {
+          "title": "National Archives — What was Chartism?",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/what-was-chartism/",
+          "type": "teaching-pack",
+          "description": "Sources & tasks"
+        },
+        {
+          "title": "BL Blog — People's Charter",
+          "url": "https://blogs.bl.uk/untoldlives/2015/05/the-peoples-charter.html",
+          "type": "blog",
+          "description": "Museums & manuscripts angle"
+        }
+      ],
+      "importance": "high",
+      "category": "Constitutional Change & Parliamentary Evolution",
+      "topics": ["People's Charter", "Petitions", "Democratization"]
+    },
+    {
+      "id": "BH-005",
+      "title": "Industrial Revolution: Origins, Phases & Social Impact",
+      "content": "Britain's industrial takeoff: textiles, steam, iron; urbanization; class formation; debates on dating & 'early' proto-industrialization. Use for 2009–2018 question clusters.",
+      "keyTakeaways": [
+        "Combine classic 1760–1830 view with newer work on 17th-century shifts.",
+        "Always include social costs (housing, public health, labour) and state responses.",
+        "Tie to 1832 and later reforms; link to global consequences."
+      ],
+      "resources": [
+        {
+          "title": "British Library — The Industrial Revolution",
+          "url": "https://www.britishlibrary.cn/en/articles/the-industrial-revolution/",
+          "type": "article",
+          "description": "Clear narrative & images"
+        },
+        {
+          "title": "The Guardian — New research on earlier dating (2024)",
+          "url": "https://www.theguardian.com/education/2024/apr/05/industrial-revolution-began-in-17th-not-18th-century-say-academics",
+          "type": "news-analysis",
+          "description": "Debate on dating & proto-industry"
+        }
+      ],
+      "importance": "high",
+      "category": "Industrialization, Society & Economy",
+      "topics": ["Factories", "Urbanization", "Proto-industry"]
+    },
+    {
+      "id": "BH-006",
+      "title": "Corn Laws & Repeal (1846): Peel, Famine & Party Split",
+      "content": "Tariff protection for grain vs. free trade; Anti-Corn Law League pressure; Irish Famine urgency; Peel's 1846 repeal and Conservative split. Often linked to economic liberalism.",
+      "keyTakeaways": [
+        "Use petitions + public agitation evidence.",
+        "Explain humanitarian + economic rationale.",
+        "Note party realignment as political consequence."
+      ],
+      "resources": [
+        {
+          "title": "UK Govt — Robert Peel (PM biography)",
+          "url": "https://www.gov.uk/government/history/past-prime-ministers/robert-peel-2nd-baronet",
+          "type": "official",
+          "description": "Repeal & political fallout"
+        },
+        {
+          "title": "Parliament — Petitions & the Corn Laws",
+          "url": "https://committees.parliament.uk/committee/326/petitions-committee/news/99040/petitions-and-the-corn-laws/",
+          "type": "article",
+          "description": "Petitioning context"
+        },
+        {
+          "title": "National Archives — The Corn Laws",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/the-corn-laws/",
+          "type": "teaching-pack",
+          "description": "Background & sources"
+        }
+      ],
+      "importance": "high",
+      "category": "Industrialization, Society & Economy",
+      "topics": ["Protection vs. Free Trade", "Peel", "Anti-Corn Law League"]
+    },
+    {
+      "id": "BH-007",
+      "title": "Gladstone vs. Disraeli: Ideologies, Reforms & Empire",
+      "content": "Classic compare/contrast: Gladstonian liberalism (retrenchment, moral foreign policy, Irish Home Rule attempts) vs. Disraelian conservatism (imperial assertiveness, social reform 1875, 'One Nation').",
+      "keyTakeaways": [
+        "Set up a matrix: finance/church/education/Ireland/foreign policy.",
+        "Use 1867 Reform Act (Disraeli's role) and Irish Church Act 1869 (Gladstone).",
+        "Close with historiography (e.g., 'Punch' cartoons, later reassessments)."
+      ],
+      "resources": [
+        {
+          "title": "Cambridge — Historiography of Gladstone & Disraeli (overview pages)",
+          "url": "https://www.cambridge.org/core/books/historiography-of-gladstone-and-disraeli/E7556477BEDF9420755575FD661D5AFB",
+          "type": "book",
+          "description": "Scholarly framing (TOC/abstracts)"
+        },
+        {
+          "title": "Gladstone's Library — Rivalry as told by Punch",
+          "url": "https://www.gladstoneslibrary.org/blog/the-great-rivalry-as-told-by-punch/",
+          "type": "blog",
+          "description": "Contemporary caricature lens"
+        },
+        {
+          "title": "Article — Reform Act 1867 (student paper)",
+          "url": "https://cornerstone.lib.mnsu.edu/cgi/viewcontent.cgi?article=1152&context=jur&httpsredir=1&referer=",
+          "type": "paper",
+          "description": "Summary of Disraeli & 1867 Act"
+        }
+      ],
+      "importance": "high",
+      "category": "Political Leaders, Parties & Ideologies",
+      "topics": ["Gladstone", "Disraeli", "One Nation", "Home Rule"]
+    },
+    {
+      "id": "BH-008",
+      "title": "French Revolution's Impact on Britain",
+      "content": "Ideological shock; Pitt's repression (sedition laws), loyalist vs. radical societies; war with France; cultural anxieties. Often asked as 'panic in England' or 'influence' essays.",
+      "keyTakeaways": [
+        "Balance political repression with reform currents (abolitionism, rights talk).",
+        "Use loyalist iconography & spy networks as evidence.",
+        "Tie to long-run reform debates culminating in 1832."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament Learning — FR impact (general parliamentary context)",
+          "url": "https://www.parliament.uk/about/living-heritage/",
+          "type": "portal",
+          "description": "Use for primary context paths"
+        },
+        {
+          "title": "Britannica — French Revolution (Britain section)",
+          "url": "https://www.britannica.com/event/French-Revolution",
+          "type": "reference",
+          "description": "Background & consequences"
+        }
+      ],
+      "importance": "high",
+      "category": "Foreign Policy, Wars & Diplomacy",
+      "topics": ["Pitt", "Radicals", "War with France"]
+    },
+    {
+      "id": "BH-009",
+      "title": "Napoleonic Wars & Waterloo: Britain's Role",
+      "content": "Naval supremacy (Trafalgar), coalition diplomacy, Wellington in Iberia & Waterloo (1815); post-war settlement; link to Britain's 19th-century global position.",
+      "keyTakeaways": [
+        "Use 'Pitt system' of coalitions; finance & navy as decisive advantages.",
+        "Connect to Congress of Vienna & Concert of Europe.",
+        "Show continuity into 'Splendid Isolation' debates."
+      ],
+      "resources": [
+        {
+          "title": "National Army Museum — Napoleonic conflicts (gateway)",
+          "url": "https://www.nam.ac.uk/explore?keywords=Napoleon",
+          "type": "museum",
+          "description": "Campaigns & artefacts"
+        },
+        {
+          "title": "Britannica — Napoleonic Wars",
+          "url": "https://www.britannica.com/event/Napoleonic-Wars",
+          "type": "reference",
+          "description": "Synthesis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Foreign Policy, Wars & Diplomacy",
+      "topics": ["Trafalgar", "Waterloo", "Vienna 1815"]
+    },
+    {
+      "id": "BH-010",
+      "title": "Crimean War (1853–56) & the Eastern Question",
+      "content": "Anglo-French-Ottoman-Sardinian war vs. Russia; logistics failures, nursing reforms (Nightingale), diplomacy (Treaty of Paris); repeatedly appears with 'Eastern Question'.",
+      "keyTakeaways": [
+        "Balance battlefield narrative with home-front press/public opinion.",
+        "Explain strategic aim: check Russian expansion; Ottoman integrity.",
+        "Note military/administrative reforms post-war."
+      ],
+      "resources": [
+        {
+          "title": "National Army Museum — Crimean War overview",
+          "url": "https://www.nam.ac.uk/subjects/crimean-war",
+          "type": "museum",
+          "description": "Readable & authoritative"
+        }
+      ],
+      "importance": "high",
+      "category": "Foreign Policy, Wars & Diplomacy",
+      "topics": ["Sevastopol", "Nightingale", "Treaty of Paris 1856"]
+    },
+    {
+      "id": "BH-011",
+      "title": "American War of Independence: Causes & British Policy",
+      "content": "Imperial overstretch, taxation without representation, colonial politics; British strategic errors; post-1783 policy reset and imperial re-orientation.",
+      "keyTakeaways": [
+        "Use fiscal-military state framework; global context (France/Spain).",
+        "Show lessons influencing 19th-century imperial governance.",
+        "Bridge to Canada/Australia & later 'Dominion' model."
+      ],
+      "resources": [
+        {
+          "title": "UK National Archives — American Revolution collections",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/american-revolution/",
+          "type": "teaching-pack",
+          "description": "Documents & tasks"
+        },
+        {
+          "title": "Britannica — American Revolution (UK perspective)",
+          "url": "https://www.britannica.com/event/American-Revolution",
+          "type": "reference",
+          "description": "Overview"
+        }
+      ],
+      "importance": "medium",
+      "category": "Empire, Commonwealth & Decolonization",
+      "topics": ["Taxation", "Imperial governance", "Treaty of Paris 1783"]
+    },
+    {
+      "id": "BH-012",
+      "title": "Unions: 1707 (England–Scotland) & 1801 (Great Britain–Ireland)",
+      "content": "Compare political contexts, motives (security, trade, confessional politics), structures created, and long-term consequences; appears as compare/contrast prompts.",
+      "keyTakeaways": [
+        "1707: integrate parliaments; 1801: incorporate Ireland amid rebellion/war.",
+        "Assess representation, religion (Catholic emancipation delays), and economies.",
+        "Link to Irish Question, Home Rule, partition."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Acts of Union (guide)",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/act-of-union-1707/",
+          "type": "article",
+          "description": "1707 context"
+        },
+        {
+          "title": "UK Parliament — Union with Ireland",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/union-with-ireland-1801/",
+          "type": "article",
+          "description": "1801 context"
+        }
+      ],
+      "importance": "high",
+      "category": "Ireland, Scotland & the Unions",
+      "topics": ["1707", "1801", "Home Rule"]
+    },
+    {
+      "id": "BH-013",
+      "title": "Victorian Society: Religion, Reform & Social Policy",
+      "content": "Poor Law (1834), factory acts, public health; Nonconformity; education; philanthropy. Useful to integrate with industrial impacts and party politics.",
+      "keyTakeaways": [
+        "Argue 'reforming state' emergence with data points (acts & commissions).",
+        "Contrast moralism vs. utilitarianism in policy design.",
+        "Tie to Disraeli's 1875 social reforms & Gladstone's civil reforms."
+      ],
+      "resources": [
+        {
+          "title": "UK Legislation — Victorian Acts (index)",
+          "url": "https://www.legislation.gov.uk/",
+          "type": "primary-law",
+          "description": "Primary texts"
+        },
+        {
+          "title": "British Library — Victorian Britain themes",
+          "url": "https://www.bl.uk/victorian-britain",
+          "type": "portal",
+          "description": "Curated essays"
+        }
+      ],
+      "importance": "medium",
+      "category": "Victorian & Edwardian Britain",
+      "topics": ["Poor Law", "Factory Acts", "Public Health"]
+    },
+    {
+      "id": "BH-014",
+      "title": "MacBride Commission & Global News Flows (context tool)",
+      "content": "Though global, useful for 'news imbalance' and Britain's media diplomacy angles in modern essays (pairs with BBC World Service, decolonization narratives).",
+      "keyTakeaways": [
+        "Use sparingly to enrich modern media/power essays.",
+        "Connect to post-imperial soft power discussions."
+      ],
+      "resources": [
+        {
+          "title": "1914–1918 Online — WWI origins historiography (method model)",
+          "url": "https://encyclopedia.1914-1918-online.net/article/the-historiography-of-the-origins-of-the-first-world-war/",
+          "type": "encyclopedia",
+          "description": "Great historiography template"
+        }
+      ],
+      "importance": "low",
+      "category": "Historiography, Sources & Exam Skills",
+      "topics": ["Media flows", "Soft power", "Method"]
+    },
+    {
+      "id": "BH-015",
+      "title": "World War I: Causes, Course & Effects on Britain",
+      "content": "Alliance system, militarism, imperial rivalries; total war at home (DORA, conscription, women's work); post-war political & social change.",
+      "keyTakeaways": [
+        "Weave European causes with British domestic transformation.",
+        "Include losses, debt, and Irish dimension (Easter Rising context).",
+        "Mention 1918 Representation of the People Act link to suffrage."
+      ],
+      "resources": [
+        {
+          "title": "British Library — WWI resources blog hub",
+          "url": "https://blogs.bl.uk/european/world-war-one/",
+          "type": "portal",
+          "description": "Collections, essays"
+        },
+        {
+          "title": "National Archives — WWI letters (primary)",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/letters-first-world-war-1915/",
+          "type": "primary",
+          "description": "Letters & photos set"
+        }
+      ],
+      "importance": "high",
+      "category": "20th-Century Britain (1914–1990s)",
+      "topics": ["WWI causes", "Home front", "Suffrage 1918"]
+    },
+    {
+      "id": "BH-016",
+      "title": "World War II & Post-War Settlement (brief exam frame)",
+      "content": "Strategic leadership (Churchill), total war mobilization, 1945 Labour landslide; welfare state (Beveridge), NHS; early Cold War positioning.",
+      "keyTakeaways": [
+        "Use to bridge 1930s appeasement debates to post-war social reforms.",
+        "Connect to decolonization pressures post-1945.",
+        "Drop precise policy examples (NHS 1948) for scoring."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Post-war reforms (Learning)",
+          "url": "https://learning.parliament.uk/en/historic-places/post-war/",
+          "type": "portal",
+          "description": "Education pages"
+        },
+        {
+          "title": "IWM — Britain in WWII",
+          "url": "https://www.iwm.org.uk/history/second-world-war",
+          "type": "museum",
+          "description": "Overviews"
+        }
+      ],
+      "importance": "medium",
+      "category": "20th-Century Britain (1914–1990s)",
+      "topics": ["Churchill", "Beveridge", "Welfare state"]
+    },
+    {
+      "id": "BH-017",
+      "title": "Suez Crisis (1956): Decline of Great-Power Pretensions",
+      "content": "Nationalization by Nasser; Anglo-French-Israeli operation; US/Soviet pressure; withdrawal; constitutional + diplomatic lessons; a top recurrent post-1945 topic.",
+      "keyTakeaways": [
+        "Use Hansard extracts for contemporary British positions.",
+        "Argue Suez as inflection point in post-imperial foreign policy.",
+        "Tie to 'special relationship' recalibration & UN diplomacy."
+      ],
+      "resources": [
+        {
+          "title": "Hansard — Suez Canal debates (Aug–Sep 1956)",
+          "url": "https://hansard.parliament.uk/commons/1956-09-13/debates/f95cd24b-6a90-4dfe-a1ef-c8119bdf2a8a/SuezCanal",
+          "type": "primary",
+          "description": "Commons debate record"
+        },
+        {
+          "title": "GWU National Security Archive — Suez dossier",
+          "url": "https://nsarchive.gwu.edu/sites/default/files/documents/20515408/doc-5-cna-suez-1956.pdf",
+          "type": "research-doc",
+          "description": "Declassified documents"
+        },
+        {
+          "title": "NDU paper — Eisenhower & Suez",
+          "url": "https://nwc.ndu.edu/Portals/71/Images/Publications/Spying%20on%20Allies%20and%20Friends.pdf",
+          "type": "paper",
+          "description": "US policy dimension"
+        }
+      ],
+      "importance": "high",
+      "category": "Foreign Policy, Wars & Diplomacy",
+      "topics": ["Suez", "Nasser", "Special relationship"]
+    },
+    {
+      "id": "BH-018",
+      "title": "Falklands War (1982): Causes, Course & Consequences",
+      "content": "Argentine invasion; UK Task Force; diplomacy & combat; domestic political effects; Latin America relations; frequent recent exam appearance.",
+      "keyTakeaways": [
+        "Add operation name (Corporate) and outcome; dates & islands' status.",
+        "Discuss media, public opinion, and defence doctrine implications.",
+        "Situate in late-Cold War context."
+      ],
+      "resources": [
+        {
+          "title": "UK National Archives — Falklands spotlight",
+          "url": "https://www.nationalarchives.gov.uk/education/students/videos/spotlight-on/spotlight-on-falklands-conflict/",
+          "type": "video+docs",
+          "description": "Quick primer + docs"
+        },
+        {
+          "title": "National Archives Blog — Researching Op Corporate",
+          "url": "https://blog.nationalarchives.gov.uk/the-40th-anniversary-of-the-falklands-conflict-researching-operation-corporate/",
+          "type": "research-guide",
+          "description": "Files & how-to"
+        }
+      ],
+      "importance": "high",
+      "category": "Foreign Policy, Wars & Diplomacy",
+      "topics": ["Falklands/Malvinas", "Operation Corporate", "Thatcher"]
+    },
+    {
+      "id": "BH-019",
+      "title": "British Commonwealth vs. Empire",
+      "content": "Define 'Empire' (coercive/colonial governance) vs. 'Commonwealth' (voluntary association); transitions: Statute of Westminster (1931), dominion status; post-1945 decolonization.",
+      "keyTakeaways": [
+        "Use specific dominion examples (Canada/Australia/NZ) for chronology.",
+        "Link to India/Pakistan independence and later Commonwealth roles.",
+        "Good for compare/contrast and 'continuity/change' essays."
+      ],
+      "resources": [
+        {
+          "title": "Commonwealth — Official",
+          "url": "https://thecommonwealth.org/our-member-countries",
+          "type": "official",
+          "description": "Membership & purpose"
+        },
+        {
+          "title": "UK National Archives — Decolonization resources",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/empire/",
+          "type": "teaching-pack",
+          "description": "Sources & case studies"
+        }
+      ],
+      "importance": "medium",
+      "category": "Empire, Commonwealth & Decolonization",
+      "topics": ["Dominions", "Statute of Westminster", "Decolonization"]
+    },
+    {
+      "id": "BH-020",
+      "title": "Labour & Conservative Parties (20th Century): Programmes & Turning Points",
+      "content": "Labour 1945–51 (welfare/NHS/nationalization); Conservative post-1951 mixed economy; monetarism & Thatcherism; New Labour (1997–2007).",
+      "keyTakeaways": [
+        "Use 'Butskellism' shorthand for 1950s consensus.",
+        "For Thatcherism: privatization, deregulation, union reform; for Blair: devolution, constitutional reform, Iraq War context.",
+        "Cite one policy per era for precision."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Research briefings (party policy)",
+          "url": "https://commonslibrary.parliament.uk/",
+          "type": "briefings",
+          "description": "Search by topic/era"
+        },
+        {
+          "title": "BBC History — Post-war Britain (portal)",
+          "url": "https://www.bbc.co.uk/history/british/modern/",
+          "type": "portal",
+          "description": "Thematic essays"
+        }
+      ],
+      "importance": "high",
+      "category": "20th-Century Britain (1914–1990s)",
+      "topics": ["1945–51", "Thatcherism", "New Labour"]
+    },
+    {
+      "id": "BH-021",
+      "title": "Eastern Question to Splendid Isolation (and its Abandonment)",
+      "content": "Use as a foreign-policy arc: managing Ottoman decline (Crimea); late-19th-century isolation; 1904 Entente Cordiale; 1907 Anglo-Russian Convention; path to WWI.",
+      "keyTakeaways": [
+        "Define 'Splendid Isolation' precisely and give end-date markers (1902–1907).",
+        "Connect to balance-of-power strategy & naval priorities.",
+        "Pair with Crimean War and Boer War as pressure points."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament — Chartist & elections pages (for context of domestic constraints)",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/",
+          "type": "portal",
+          "description": "Domestic politics backdrop"
+        },
+        {
+          "title": "Britannica — Entente Cordiale",
+          "url": "https://www.britannica.com/event/Entente-Cordiale",
+          "type": "reference",
+          "description": "Diplomatic pivot"
+        }
+      ],
+      "importance": "medium",
+      "category": "Foreign Policy, Wars & Diplomacy",
+      "topics": ["Eastern Question", "Splendid Isolation", "Entente Cordiale"]
+    },
+    {
+      "id": "BH-022",
+      "title": "Ireland: Home Rule, Partition & The Troubles (exam capsule)",
+      "content": "From Union (1801) to Home Rule crises, 1916, partition (1921), and late-20th-century Troubles; use for 'Irish Question' and Liberal Party essays.",
+      "keyTakeaways": [
+        "Show Liberal splits over Home Rule (Gladstone).",
+        "Mark 1921 Anglo-Irish Treaty as a constitutional watershed.",
+        "For modern: Good Friday Agreement (1998) as closure point."
+      ],
+      "resources": [
+        {
+          "title": "UK National Archives — Ireland collections",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/ireland-1900-25/",
+          "type": "teaching-pack",
+          "description": "Rich primary set"
+        }
+      ],
+      "importance": "high",
+      "category": "Ireland, Scotland & the Unions",
+      "topics": ["Home Rule", "Partition", "Good Friday Agreement"]
+    },
+    {
+      "id": "BH-023",
+      "title": "Methodist & Religious Revivals; Social Movements",
+      "content": "Wesleyan/Methodist revival's social effects; temperance; abolitionism; women's movements; link to working-class organization and political reform.",
+      "keyTakeaways": [
+        "Use as cultural/ethical counterweight to industrialization problems.",
+        "Connect to literacy, associational life, and political education.",
+        "Good for 19th-century society essays."
+      ],
+      "resources": [
+        {
+          "title": "British Library — Religion in Victorian Britain",
+          "url": "https://www.bl.uk/victorian-britain/articles/religion",
+          "type": "article",
+          "description": "Context & sources"
+        }
+      ],
+      "importance": "medium",
+      "category": "Victorian & Edwardian Britain",
+      "topics": ["Methodism", "Abolition", "Temperance"]
+    },
+    {
+      "id": "BH-024",
+      "title": "WWI/WWII → Decolonization: Why Britain Withdrew",
+      "content": "Costs of world wars, nationalist movements, changing global norms, US/UN pressure, Cold War calculus; use India/Pakistan 1947 as core case.",
+      "keyTakeaways": [
+        "Combine structural (fiscal/strategic) with agency (colonial movements).",
+        "Highlight 1947 as hinge; then Africa/Asia waves.",
+        "End with Commonwealth framework."
+      ],
+      "resources": [
+        {
+          "title": "National Archives — Empire & decolonization resources",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/empire/",
+          "type": "teaching-pack",
+          "description": "Cases & documents"
+        }
+      ],
+      "importance": "high",
+      "category": "Empire, Commonwealth & Decolonization",
+      "topics": ["Costs of empire", "Nationalism", "Commonwealth"]
+    },
+    {
+      "id": "BH-025",
+      "title": "Exam Skills: Comparative Frames & Primary Evidence",
+      "content": "For repeated questions (Glorious Revolution, 1832, Chartism, Peel/Gladstone/Disraeli, Suez, Falklands): prepare 10–12 sentence 'mini-skeletons' with 3 citations each (Parliament/NA/BL).",
+      "keyTakeaways": [
+        "Open with a precise thesis; end with historiography or continuity/rupture line.",
+        "Always date Acts/treaties; quote one primary line if possible (Hansard/Acts).",
+        "Use 2–3 compare/contrast matrices (e.g., Gladstone vs. Disraeli; 1832 vs. 1867)."
+      ],
+      "resources": [
+        {
+          "title": "UK Parliament Learning & Research",
+          "url": "https://learning.parliament.uk/",
+          "type": "portal",
+          "description": "Teaching packs & briefings"
+        },
+        {
+          "title": "National Archives Education",
+          "url": "https://www.nationalarchives.gov.uk/education/",
+          "type": "portal",
+          "description": "Primary sources ready to cite"
+        }
+      ],
+      "importance": "high",
+      "category": "Historiography, Sources & Exam Skills",
+      "topics": ["Comparatives", "Primary evidence", "Essay planning"]
+    },
+    {
+      "id": "BH-026",
+      "title": "MCQ Staples: Dates, Acts, Acronyms & Who's Who",
+      "content": "A ready-to-drill list: 1688 (Glorious Revolution); 1707/1801 (Unions); 1832/1867 (Reform Acts); 1846 (Corn Law repeal); 1854–56 (Crimea); 1914–18/1939–45 (World Wars); 1956 (Suez); 1982 (Falklands). Pair with key figures: Walpole, Pitt(s), Peel, Gladstone, Disraeli, Palmerston, Churchill, Thatcher.",
+      "keyTakeaways": [
+        "Memorize 1–line definitions: 'Splendid Isolation', 'Entente Cordiale'.",
+        "Know core treaty names: Utrecht (1713), Paris (1763/1783), Vienna (1815), Versailles (1919).",
+        "Link each act/treaty to 1 consequence for rapid MCQ elimination."
+      ],
+      "resources": [
+        {
+          "title": "Legislation.gov.uk",
+          "url": "https://www.legislation.gov.uk/",
+          "type": "primary-law",
+          "description": "Acts & treaty ratification texts"
+        },
+        {
+          "title": "Britannica — Quick lookups",
+          "url": "https://www.britannica.com/",
+          "type": "reference",
+          "description": "Dates & bios"
+        }
+      ],
+      "importance": "high",
+      "category": "MCQ Staples: Dates, Acts & Institutions",
+      "topics": ["Dates", "Acts", "Treaties", "Figures"]
+    }
+  ]
+}

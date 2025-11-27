@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T22:31:30.300Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "23073a78e0a558ca7a552d903c0eb0d22c57b60f",
+      "sectionIndex": 0,
+      "question": "When Jamal threatens to commit suicide unless his wife signs a property transfer, this constitutes:",
+      "options": [
+        "A) Valid consent",
+        "B) Coercion making the contract voidable",
+        "C) Undue influence only",
+        "D) No legal effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3396da73fb86f58178e10c9bd0cb4f08a072c94a",
+      "sectionIndex": 0,
+      "question": "A typing error in a tender notification awarding a contract to the wrong party results in:",
+      "options": [
+        "A) Binding contract with wrong party",
+        "B) No contract due to lack of consensus ad idem",
+        "C) Contract with both parties",
+        "D) Criminal liability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cba00bfbe92db7828ad4824316cdce6e01cb3316",
+      "sectionIndex": 0,
+      "question": "If a seller knows about a latent defect in goods but remains silent, this constitutes:",
+      "options": [
+        "A) Innocent non-disclosure",
+        "B) Fraudulent concealment",
+        "C) Valid sales practice",
+        "D) Breach of warranty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76267244bc8a0393e5813405f974bcb54fa364da",
+      "sectionIndex": 0,
+      "question": "When performance becomes impossible due to change in law, the contract is:",
+      "options": [
+        "A) Breached",
+        "B) Frustrated and discharged",
+        "C) Valid and enforceable",
+        "D) Voidable only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58f4ce8a1b3046aa9c431910d2d739655bfa0409",
+      "sectionIndex": 0,
+      "question": "A contract obtained by threatening criminal prosecution is voidable due to:",
+      "options": [
+        "A) Mistake",
+        "B) Coercion",
+        "C) Fraud",
+        "D) Misrepresentation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9eb2be6c00c17c3f7776b7af54a070f8ef37182",
+      "sectionIndex": 0,
+      "question": "When parties agree to substitute a new contract for an existing one, this is:",
+      "options": [
+        "A) Alteration",
+        "B) Novation",
+        "C) Rescission only",
+        "D) Breach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53bb61ba8f0e26b06b07ead05ae35bc1123b1554",
+      "sectionIndex": 0,
+      "question": "If a minor fraudulently represents himself as major and enters a contract:",
+      "options": [
+        "A) Contract is valid",
+        "B) Minor remains protected despite fraud",
+        "C) Minor liable in tort",
+        "D) Contract becomes criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4b4f78c64e4aaed96e0c18e58704746b4fa0e6e",
+      "sectionIndex": 0,
+      "question": "Quantum meruit applies when:",
+      "options": [
+        "A) Full contract is performed",
+        "B) Work done without agreed price or under void contract",
+        "C) Contract is breached",
+        "D) Payment is made in advance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91856cb08054de854ac9cd8a1e0598074f4e9c9e",
+      "sectionIndex": 0,
+      "question": "A agrees to sell his car to B for Rs. 500,000. Unknown to both, the car was destroyed in an accident. The contract is:",
+      "options": [
+        "A) Valid",
+        "B) Void due to impossibility",
+        "C) Voidable",
+        "D) Illegal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "618daf0b7d9c9fc88a5ec0fe26b40b222156b610",
+      "sectionIndex": 0,
+      "question": "When time is specified as essence of contract and not performed within time:",
+      "options": [
+        "A) Automatic extension granted",
+        "B) Contract becomes voidable at option of promisee",
+        "C) Contract remains valid",
+        "D) Criminal liability arises"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e63d159a1e6c361038426043882ea808b1485f6",
+      "sectionIndex": 1,
+      "question": "When a retiring partner fails to give public notice of retirement, he remains liable for:",
+      "options": [
+        "A) No future acts",
+        "B) Subsequent acts of the firm to third parties",
+        "C) Only his personal debts",
+        "D) Criminal acts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00ffd0c4db22e1a28a88fc935623e25811f1890b",
+      "sectionIndex": 1,
+      "question": "A partner using firm's property for personal profit must:",
+      "options": [
+        "A) Keep the profit",
+        "B) Account for profit to the firm",
+        "C) Pay tax only",
+        "D) Resign"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd2ae2b0d0cadf363c4c36ba57c75226a540e24e",
+      "sectionIndex": 1,
+      "question": "Expulsion of a partner is valid only when:",
+      "options": [
+        "A) Majority agrees",
+        "B) Power exists in partnership deed and exercised in good faith",
+        "C) Court orders",
+        "D) Partner absent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8a2c596c8e7b2dc7f6b058cf149c728b15f5afc",
+      "sectionIndex": 1,
+      "question": "When a firm is dissolved, the order of payment from assets is:",
+      "options": [
+        "A) Partners' capital, loans, debts, costs",
+        "B) Costs, debts, partners' loans, capital",
+        "C) Debts, costs, capital, loans",
+        "D) Random order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "debb99588bf999aa2ff35768964aadbc9eb75913",
+      "sectionIndex": 1,
+      "question": "An incoming partner's liability for pre-existing debts:",
+      "options": [
+        "A) Automatic and unlimited",
+        "B) Only to extent of capital brought in",
+        "C) None unless agreed",
+        "D) Criminal liability only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "edc5a9ea29ff34557bd56cec1b187c93984891b4",
+      "sectionIndex": 1,
+      "question": "Acts done after dissolution but before public notice bind:",
+      "options": [
+        "A) No one",
+        "B) The firm and all partners",
+        "C) Acting partner only",
+        "D) Third parties only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f37cb88ef5b317b77608f8a523cf83fccc54854",
+      "sectionIndex": 1,
+      "question": "A sleeping partner who allows his name in firm name becomes:",
+      "options": [
+        "A) Active partner",
+        "B) Liable as partner by holding out",
+        "C) Criminal",
+        "D) Employee"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b58fbf4e4d1cbd6f39f805ceb1d9aa55727d38b",
+      "sectionIndex": 1,
+      "question": "Partnership property can be distinguished from personal property by:",
+      "options": [
+        "A) Registration",
+        "B) Intention and use in business",
+        "C) Value",
+        "D) Location"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f2b360ea25b6bb2b4c31a2742843cf792ce08b1",
+      "sectionIndex": 1,
+      "question": "When one partner commits fraud in business, other innocent partners are:",
+      "options": [
+        "A) Not liable",
+        "B) Jointly liable to third parties",
+        "C) Criminally liable",
+        "D) Automatically expelled"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1dd50746788c52f8fca0f6ac0bcd47d06ec9f30",
+      "sectionIndex": 1,
+      "question": "Goodwill of a partnership firm on dissolution:",
+      "options": [
+        "A) Has no value",
+        "B) Can be sold as asset",
+        "C) Belongs to senior partner",
+        "D) Goes to government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2696bb739c18c61c47f3c3fc50e9cfc57cf2bffa",
+      "sectionIndex": 2,
+      "question": "When corporate veil can be pierced to look at individual shareholders:",
+      "options": [
+        "A) Always",
+        "B) When company used for fraud or evasion",
+        "C) Never",
+        "D) In all lawsuits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f671a4092d7af13082abdcc2c0d3f6bcb1d986f",
+      "sectionIndex": 2,
+      "question": "Ultra vires acts of a company are:",
+      "options": [
+        "A) Voidable",
+        "B) Void ab initio and cannot be ratified",
+        "C) Valid if profitable",
+        "D) Criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e91354a36fc0b81607b485e067e6aa627ddf25f",
+      "sectionIndex": 2,
+      "question": "Pre-incorporation contracts made by promoters:",
+      "options": [
+        "A) Automatically bind company",
+        "B) Need novation or adoption by company",
+        "C) Are always void",
+        "D) Bind shareholders"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ef3ca224749f3bf151ad456529b2241bf10d57d",
+      "sectionIndex": 2,
+      "question": "A company's memorandum can be altered:",
+      "options": [
+        "A) By directors anytime",
+        "B) Only as permitted by law with special resolution",
+        "C) Never",
+        "D) By ordinary resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83a5568c390309a393e0b6781895089e6a788f00",
+      "sectionIndex": 2,
+      "question": "Doctrine of constructive notice means outsiders dealing with company:",
+      "options": [
+        "A) Need not check documents",
+        "B) Deemed to know contents of public documents",
+        "C) Must visit company",
+        "D) Can claim ignorance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d959e70971a80ce495e7847346d814a8b7e5f39",
+      "sectionIndex": 2,
+      "question": "Indoor management rule protects outsiders who:",
+      "options": [
+        "A) Don't read articles",
+        "B) Cannot know internal irregularities",
+        "C) Are negligent",
+        "D) Deal carelessly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3025d2a6afa19888ab5f2acd32a2fc04aa5bb5f",
+      "sectionIndex": 2,
+      "question": "A fixed charge differs from floating charge in:",
+      "options": [
+        "A) Amount only",
+        "B) Attachment to specific vs changing assets",
+        "C) No difference",
+        "D) Registration requirements only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9cbb21fc9935c45d48babe85de5cdeae24c9f6c",
+      "sectionIndex": 2,
+      "question": "Minority shareholders can sue for oppression when:",
+      "options": [
+        "A) They disagree with profits",
+        "B) Affairs conducted prejudicially to their interests",
+        "C) They want to sell shares",
+        "D) Company makes losses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3dcf6101be03c03ac8df6b6ac287df611d981ebd",
+      "sectionIndex": 2,
+      "question": "Transfer of shares can be refused by directors:",
+      "options": [
+        "A) Arbitrarily",
+        "B) Only on grounds in articles of association",
+        "C) Never",
+        "D) Always in private companies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5a35e68b072ce66010a0afb8ad5bd7d6803451b",
+      "sectionIndex": 2,
+      "question": "A company statutory meeting discusses:",
+      "options": [
+        "A) Daily operations",
+        "B) Statutory report on formation and prospects",
+        "C) Dividend only",
+        "D) Director salaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c22d0c91767b2ce6ec22f31357d0f63bff2310a1",
+      "sectionIndex": 3,
+      "question": "When words and figures differ in a negotiable instrument:",
+      "options": [
+        "A) Instrument is void",
+        "B) Words prevail over figures",
+        "C) Figures prevail",
+        "D) Maker decides"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ebf92507b1b3efc384cf6d1eef6a5fd1593d8bb",
+      "sectionIndex": 3,
+      "question": "A forged endorsement on a bearer cheque:",
+      "options": [
+        "A) Makes it void",
+        "B) Does not affect negotiability",
+        "C) Requires court order",
+        "D) Converts to order instrument"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4cd4e31c5dbcbd83933932b2b71ca444e62443a3",
+      "sectionIndex": 3,
+      "question": "Material alteration in a negotiable instrument:",
+      "options": [
+        "A) Improves it",
+        "B) Voids it except against party making alteration",
+        "C) Has no effect",
+        "D) Requires re-stamping"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd37aff0f1d4fa5f55b7f0b83e9a3dba2f1b4e4e",
+      "sectionIndex": 3,
+      "question": "Holder in due course must acquire instrument:",
+      "options": [
+        "A) After maturity",
+        "B) Before maturity for value without notice of defect",
+        "C) Free of cost",
+        "D) With court permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22db249ad35f9ff810f159fa75adcb09b4a08e79",
+      "sectionIndex": 3,
+      "question": "Presentment for payment must be made:",
+      "options": [
+        "A) Anytime",
+        "B) At proper place during business hours",
+        "C) Only through lawyer",
+        "D) Within 10 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19375560eff9d3388f09fb1e663a736a7e8d6b16",
+      "sectionIndex": 3,
+      "question": "When acceptor of bill of exchange cannot be found:",
+      "options": [
+        "A) Bill is valid",
+        "B) Bill can be treated as dishonored",
+        "C) Drawer becomes acceptor",
+        "D) Court accepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "293221034faf84151698cb0017d20977752d48cb",
+      "sectionIndex": 3,
+      "question": "Accommodation bill means:",
+      "options": [
+        "A) Hotel bill",
+        "B) Bill without consideration to provide credit",
+        "C) Forged bill",
+        "D) Government bill"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a5d4cc6cafaf5f3422e5244685527f64981624b",
+      "sectionIndex": 3,
+      "question": "Notice of dishonor is excused when:",
+      "options": [
+        "A) Holiday",
+        "B) Party to be notified cannot be found with due diligence",
+        "C) Large amount",
+        "D) Small amount"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26e839b007fa61805c71b4149308edbf7fbf0d98",
+      "sectionIndex": 3,
+      "question": "A stale cheque is one presented:",
+      "options": [
+        "A) Within 3 days",
+        "B) After 6 months from date",
+        "C) Before date",
+        "D) On date"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a99c2e237f4959074e965c0443500b13b68a6bc",
+      "sectionIndex": 3,
+      "question": "Crossing of cheque means:",
+      "options": [
+        "A) Cancelling it",
+        "B) Drawing parallel lines requiring bank collection",
+        "C) Signing across",
+        "D) Tearing it"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f2155bb258b85c8923dae9ce4395f29bc084adc",
+      "sectionIndex": 4,
+      "question": "When specific goods perish after agreement but before sale:",
+      "options": [
+        "A) Seller bears loss",
+        "B) Agreement void if neither party at fault",
+        "C) Buyer bears loss",
+        "D) Insurance covers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0bd3f340c56041b1db567030e7ad5d717296744",
+      "sectionIndex": 4,
+      "question": "An unpaid seller's right of lien is lost when:",
+      "options": [
+        "A) Buyer requests",
+        "B) Goods delivered to carrier without reserving disposal right",
+        "C) Price is negotiated",
+        "D) Market price changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0928b4043dfa40f1e79717430d3be7ec7a76951",
+      "sectionIndex": 4,
+      "question": "In sale by sample, implied condition is:",
+      "options": [
+        "A) Goods need not match sample",
+        "B) Bulk must correspond with sample",
+        "C) Sample is indicative only",
+        "D) Buyer assumes risk"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cb040210fbbce71d1caf67b50dc2f9a7382f351",
+      "sectionIndex": 4,
+      "question": "When goods are delivered in excess of contract quantity, buyer may:",
+      "options": [
+        "A) Keep all free",
+        "B) Reject whole or accept contract quantity",
+        "C) Must accept all",
+        "D) Sue for trespass"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf5a89096630a1ab1109c5733b759b15a81896ff",
+      "sectionIndex": 4,
+      "question": "Property in unascertained goods passes:",
+      "options": [
+        "A) On agreement",
+        "B) When goods ascertained and appropriated",
+        "C) On payment",
+        "D) Never"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "199413a3894701c4c6c8e3afc9695bf62163da72",
+      "sectionIndex": 4,
+      "question": "Risk prima facie passes with:",
+      "options": [
+        "A) Payment",
+        "B) Property irrespective of possession",
+        "C) Possession only",
+        "D) Insurance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88360e81e07dd5b8bf99f8443e5b355937eefdc5",
+      "sectionIndex": 4,
+      "question": "Caveat emptor rule does not apply when:",
+      "options": [
+        "A) Buyer is expert",
+        "B) Seller makes false representation",
+        "C) Goods are cheap",
+        "D) Market price drops"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "233bb9debc2e0304d98e62041a548e9eb270f10e",
+      "sectionIndex": 4,
+      "question": "Stoppage in transit right can be exercised:",
+      "options": [
+        "A) Always",
+        "B) When buyer insolvent and goods in transit",
+        "C) After delivery",
+        "D) Before sale"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50ca86b5c23fcd324ed45888cd8311a7b57cbd33",
+      "sectionIndex": 4,
+      "question": "When buyer wrongfully refuses delivery, seller can claim:",
+      "options": [
+        "A) Nothing",
+        "B) Damages for non-acceptance",
+        "C) Criminal prosecution",
+        "D) Double price"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46701f56ae349d60c177ee690973f24001775f48",
+      "sectionIndex": 4,
+      "question": "Auction sale is complete when:",
+      "options": [
+        "A) Bid made",
+        "B) Hammer falls or customary manner",
+        "C) Payment made",
+        "D) Goods shown"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c27e4210035a7da582ae3506be2c98876c3fc61b",
+      "sectionIndex": 5,
+      "question": "Arbitrator exceeding jurisdiction makes award:",
+      "options": [
+        "A) More binding",
+        "B) Liable to be set aside",
+        "C) Criminal",
+        "D) Automatically valid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2574e72324402ade0482bac31ff9bb102f3a358a",
+      "sectionIndex": 5,
+      "question": "Arbitration agreement in a contract survives:",
+      "options": [
+        "A) Only if specified",
+        "B) Even if main contract void",
+        "C) Never",
+        "D) Court approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2800cfdace006b7a8bee46c082334008689dc4d4",
+      "sectionIndex": 5,
+      "question": "When arbitrators disagree, the matter goes to:",
+      "options": [
+        "A) Court immediately",
+        "B) Umpire if provided in agreement",
+        "C) New arbitrators",
+        "D) Mediation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa0497764ff152312e88f81e1620a72ad57dc0f8",
+      "sectionIndex": 5,
+      "question": "Misconduct by arbitrator includes:",
+      "options": [
+        "A) Quick decision",
+        "B) Hearing one party secretly",
+        "C) Following law",
+        "D) Written proceedings"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fc5823c6e63f64bb9cf676cbfdbb8d75f9e4eb3",
+      "sectionIndex": 5,
+      "question": "Court can modify arbitration award:",
+      "options": [
+        "A) Always",
+        "B) Only on specific grounds like clerical errors",
+        "C) Never",
+        "D) If party requests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d085fd4aa77a8cb0b0fd0ccb23dc2ab3c6512a13",
+      "sectionIndex": 5,
+      "question": "Death of party to arbitration:",
+      "options": [
+        "A) Ends proceedings",
+        "B) Does not terminate unless personal matter",
+        "C) Transfers to court",
+        "D) Voids award"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ca3c9c69e100c6118995db3254c9d1e4c2c29dc",
+      "sectionIndex": 5,
+      "question": "Arbitrator must decide according to:",
+      "options": [
+        "A) Personal opinion",
+        "B) Legal rights unless agreed otherwise",
+        "C) Faster party",
+        "D) Higher payment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "549ca927efb6832d3307a89dc8381f6df117bab8",
+      "sectionIndex": 5,
+      "question": "Time for moving court to set aside award is:",
+      "options": [
+        "A) No limit",
+        "B) 30 days from notice",
+        "C) 1 year",
+        "D) 10 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef4016c3a72c22d099604cb5dd89388c4431b3bb",
+      "sectionIndex": 5,
+      "question": "Arbitration award becomes rule of court when:",
+      "options": [
+        "A) Made",
+        "B) No objection filed within time",
+        "C) Parties agree",
+        "D) Arbitrator decides"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0da156d143c487ab0cae3bcf3838d84671ec3477",
+      "sectionIndex": 5,
+      "question": "Revocation of arbitrator's authority:",
+      "options": [
+        "A) Anytime by one party",
+        "B) Only with consent or court order",
+        "C) Not possible",
+        "D) Automatic on dispute"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69439bd8fa62097d5c455a309213f144f3fe8ff6",
+      "sectionIndex": 6,
+      "question": "Agent's authority to act in emergency:",
+      "options": [
+        "A) Never exists",
+        "B) Implied to protect principal's interest",
+        "C) Requires court order",
+        "D) Criminal act"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa7f0d4933fabd028a6eadd59a600ac0c6377759",
+      "sectionIndex": 6,
+      "question": "When principal's conduct makes third party believe someone is his agent:",
+      "options": [
+        "A) No agency",
+        "B) Agency by estoppel",
+        "C) Void relations",
+        "D) Criminal fraud"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e305c41c19790dd7cf0a05992c8084cdbafaf9b1",
+      "sectionIndex": 6,
+      "question": "Agent's personal liability arises when:",
+      "options": [
+        "A) Always",
+        "B) Acting without or beyond authority",
+        "C) Making profit",
+        "D) Working hard"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abc8eea72d3144cbe3a9a69c1f2a7ed7ff9080dd",
+      "sectionIndex": 6,
+      "question": "Sub-agent's relationship with principal:",
+      "options": [
+        "A) No privity",
+        "B) Direct liability if properly appointed",
+        "C) Through agent only",
+        "D) Void"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f14bddb6dbc3723dc9a8bb07f029e92c942247b0",
+      "sectionIndex": 6,
+      "question": "Agent's duty not to make secret profit means:",
+      "options": [
+        "A) No salary",
+        "B) Must account for all benefits from position",
+        "C) Work free",
+        "D) No business"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "364541a1b5d189220a366a9380547fcc9d24a10a",
+      "sectionIndex": 6,
+      "question": "Ratification of unauthorized act must be:",
+      "options": [
+        "A) Partial",
+        "B) With full knowledge of facts",
+        "C) After one year",
+        "D) Through court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15b41d438736c0f2217e0754ce468a5e2d9a3446",
+      "sectionIndex": 6,
+      "question": "Del credere agent means:",
+      "options": [
+        "A) Credit investigator",
+        "B) Guarantees third party's payment",
+        "C) Foreign agent",
+        "D) Government agent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9c863da1271f55f64a698967d11bbf4c1b299d7",
+      "sectionIndex": 6,
+      "question": "Agency coupled with interest:",
+      "options": [
+        "A) Pays interest",
+        "B) Cannot be terminated by principal alone",
+        "C) Is void",
+        "D) High salary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09773b215726f009c064ff4d35d8e092a350e7f9",
+      "sectionIndex": 6,
+      "question": "Agent's right of lien exists for:",
+      "options": [
+        "A) All properties",
+        "B) Principal's goods for lawful claims",
+        "C) Personal use",
+        "D) No lien"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f42dc2b58ad55e249a27e8252d8f19529d86a2f",
+      "sectionIndex": 6,
+      "question": "Disclosed principal means third party knows:",
+      "options": [
+        "A) Agent's name",
+        "B) Principal's existence and identity",
+        "C) Nothing",
+        "D) Business secrets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07365de10d4943155bc3beb7983868f24a59aa5b",
+      "sectionIndex": 7,
+      "question": "Suicide clause in life insurance typically makes policy:",
+      "options": [
+        "A) Immediately void",
+        "B) Void if within specified period",
+        "C) Always valid",
+        "D) Criminal matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7eb65719f887fe29b4ce1993178089f16ad8dae3",
+      "sectionIndex": 7,
+      "question": "Material non-disclosure in insurance proposal:",
+      "options": [
+        "A) No effect",
+        "B) Makes policy voidable",
+        "C) Reduces premium",
+        "D) Increases coverage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34cbea89ae59c058ca56f0f45eb0f05162bc90b9",
+      "sectionIndex": 7,
+      "question": "Subrogation in insurance means:",
+      "options": [
+        "A) Subordinate position",
+        "B) Insurer's right to recover from third party",
+        "C) Double insurance",
+        "D) Reinsurance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa6b718bab0eca42ea0db054d49679ac88c2c7b3",
+      "sectionIndex": 7,
+      "question": "Competition Commission can impose penalty up to:",
+      "options": [
+        "A) Rs. 1 million",
+        "B) 10% of annual turnover",
+        "C) Rs. 10,000",
+        "D) No limit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "620be3eb6e12603f73f5458f13ac070ba7eb7354",
+      "sectionIndex": 7,
+      "question": "Deceptive marketing practices under Competition Act include:",
+      "options": [
+        "A) True advertising",
+        "B) False or misleading information",
+        "C) Price lists",
+        "D) Quality improvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eecd770a56ef9e51c08967f9400d8e60c9d83d84",
+      "sectionIndex": 7,
+      "question": "Exemption from prohibited agreements can be granted for:",
+      "options": [
+        "A) Large companies",
+        "B) Improving production or distribution",
+        "C) Price fixing",
+        "D) Monopolies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "003367a96be3099340ee55b7d334b67d627d0226",
+      "sectionIndex": 7,
+      "question": "Abuse of dominant position includes:",
+      "options": [
+        "A) Efficiency",
+        "B) Predatory pricing",
+        "C) Innovation",
+        "D) Competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c5c81ba8bda7ef9a0d503bc8a4185d2dcc5ebd8",
+      "sectionIndex": 7,
+      "question": "Leniency can be granted to cartel member who:",
+      "options": [
+        "A) Pays fine",
+        "B) First reports violation",
+        "C) Is largest",
+        "D) Leaves country"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07a8a273c97048250197573dd08d8015e0da3fbc",
+      "sectionIndex": 7,
+      "question": "Second phase review of merger occurs when:",
+      "options": [
+        "A) Always",
+        "B) Competition concerns exist",
+        "C) Parties request",
+        "D) Foreign company"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "355c3b859a525627464bc452ce447a05144b6980",
+      "sectionIndex": 7,
+      "question": "Collective dominance means:",
+      "options": [
+        "A) One company",
+        "B) Few companies acting together",
+        "C) Government control",
+        "D) No dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "afcb1f006b2a8c3bd071bcd2bd1e01a83897cf9a",
+      "sectionIndex": 8,
+      "question": "Attribution of electronic message depends on:",
+      "options": [
+        "A) IP address only",
+        "B) Originator's authorization or automated system",
+        "C) Time sent",
+        "D) Size of message"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6b8ac2b68bb5cfd39c2c7e1849796a37d6616d9",
+      "sectionIndex": 8,
+      "question": "Secure electronic signature requires:",
+      "options": [
+        "A) Pen",
+        "B) Unique link and control by signatory",
+        "C) Witness",
+        "D) Paper copy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22e41693a410f2119bda3a5633500268e549b74c",
+      "sectionIndex": 8,
+      "question": "Time of receipt of electronic message is:",
+      "options": [
+        "A) When sent",
+        "B) When enters addressee's designated system",
+        "C) When read",
+        "D) Next day"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60e455c5d0628ff67a2e09b4b3953b59c68b2a94",
+      "sectionIndex": 8,
+      "question": "Intermediary liability for third party content:",
+      "options": [
+        "A) Absolute",
+        "B) Limited if no knowledge or control",
+        "C) None",
+        "D) Criminal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea99a634b2faff6f106e5f4ca0b93b5e1d45510e",
+      "sectionIndex": 8,
+      "question": "Consumer must notify unauthorized electronic transfer:",
+      "options": [
+        "A) Within 1 year",
+        "B) Promptly to limit liability",
+        "C) Never",
+        "D) Only if large amount"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "379f4bc41ebde29b112dd33c44c2bdbabfe0d5cb",
+      "sectionIndex": 8,
+      "question": "Electronic evidence admissibility requires:",
+      "options": [
+        "A) Original only",
+        "B) Certificate of authenticity",
+        "C) No requirements",
+        "D) Court permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9448c85c15e1f37dc0034cf18ed166cfaa716c8e",
+      "sectionIndex": 8,
+      "question": "Cross-border electronic transaction law is determined by:",
+      "options": [
+        "A) Sender's country always",
+        "B) Agreement or closest connection",
+        "C) UN law",
+        "D) No law applies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d591195f047bcb8a4c0a3d4798f7e8300781af3",
+      "sectionIndex": 8,
+      "question": "Validity of electronic contract formation:",
+      "options": [
+        "A) Never valid",
+        "B) Same as paper contracts",
+        "C) Requires witness",
+        "D) Needs notarization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0ee0e559bf3250233f8d34bedfed2626d0f8353",
+      "sectionIndex": 9,
+      "question": "When guarantor pays debt, he gets right to:",
+      "options": [
+        "A) Nothing",
+        "B) Subrogation against principal debtor",
+        "C) Interest only",
+        "D) Commission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed9a84d5ee116516ccdf4d9fdfdb68804935de26",
+      "sectionIndex": 9,
+      "question": "Continuing guarantee can be revoked for future transactions by:",
+      "options": [
+        "A) Creditor",
+        "B) Surety's notice",
+        "C) Debtor",
+        "D) Court only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe817fd652ee11ec0b6dcc51ceda9f6309396305",
+      "sectionIndex": 9,
+      "question": "Partnership firm's implied authority does not include:",
+      "options": [
+        "A) Buying goods",
+        "B) Submitting disputes to arbitration",
+        "C) Hiring employees",
+        "D) Normal business"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8a80625f04b77c126014ba6a7aec4d55510a12e",
+      "sectionIndex": 9,
+      "question": "Doctrine of holding out makes a person liable as partner when:",
+      "options": [
+        "A) He visits office",
+        "B) He allows representation as partner",
+        "C) He knows partners",
+        "D) He gives advice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d758e455fa168bfa8a69a0779ee9f2d7285da01",
+      "sectionIndex": 9,
+      "question": "Company's pre-incorporation expenses are paid by:",
+      "options": [
+        "A) Government",
+        "B) Company if it adopts them",
+        "C) No one",
+        "D) Promoters only if company refuses"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "35a3bbcda3d849975d72a627f5f4644ae850cc40",
+      "sectionIndex": 9,
+      "question": "Breach of warranty in sale allows buyer to:",
+      "options": [
+        "A) Reject goods",
+        "B) Claim damages only",
+        "C) Criminal action",
+        "D) Rescind contract"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8dd438e3f5103d02de75d01505c612de54f1b0f2",
+      "sectionIndex": 9,
+      "question": "Agent acting for both parties without disclosure:",
+      "options": [
+        "A) Earns double commission",
+        "B) Loses rights and may be liable",
+        "C) Is efficient",
+        "D) Common practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f1876f2ce8d1b1ede699e418643dee22f6022e7",
+      "sectionIndex": 9,
+      "question": "Alteration of partnership deed requires:",
+      "options": [
+        "A) Majority vote",
+        "B) Consent of all partners",
+        "C) Court order",
+        "D) Government approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7aeb5cde382b846ce8c10b0d0051c338773f9f4",
+      "sectionIndex": 9,
+      "question": "Unpaid seller's right of resale arises:",
+      "options": [
+        "A) Immediately",
+        "B) After notice to buyer if goods perishable",
+        "C) Never",
+        "D) Only with court order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7980f6a4ab0bd311c0a7b7fe3d387fc273fdb4e5",
+      "sectionIndex": 9,
+      "question": "Minor admitted to partnership benefits becomes full partner:",
+      "options": [
+        "A) Never",
+        "B) On majority if doesn't give notice",
+        "C) Automatically",
+        "D) By court order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca4c55a91eef2f6dd97e0b60bef5b05185561e9e",
+      "sectionIndex": 9,
+      "question": "Company acting beyond objects clause makes directors:",
+      "options": [
+        "A) Heroes",
+        "B) Personally liable",
+        "C) Rich",
+        "D) Immune"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b3c2696daa4450af6b164f456ca4b5878953d59",
+      "sectionIndex": 9,
+      "question": "Arbitration clause in void contract is:",
+      "options": [
+        "A) Also void",
+        "B) Severable and enforceable",
+        "C) Criminal",
+        "D) Needs new agreement"
+      ],
+      "correct": "B"
+    }
+  ]
+}

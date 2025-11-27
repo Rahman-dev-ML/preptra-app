@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-18T21:12:12.476Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1275e2f294b0818ee180b5b66ad865d94bb17b38",
+      "sectionIndex": 0,
+      "question": "The American Constitution's system of checks and balances reflects:",
+      "options": [
+        "A) Simple separation of powers",
+        "B) Madison's theory of ambition counteracting ambition within compound republic",
+        "C) British parliamentary model",
+        "D) Direct democracy principles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15e906f768e69df5cef1ff40a3cb855a478f29ff",
+      "sectionIndex": 0,
+      "question": "The tension between Lockean liberalism and civic republicanism in American founding thought manifests as:",
+      "options": [
+        "A) No contradiction",
+        "B) Ongoing dialectic between individual rights and communitarian obligations",
+        "C) Complete rejection of Locke",
+        "D) Pure classical republicanism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "500f046be4288bccd6599fd97462874ad41d9634",
+      "sectionIndex": 0,
+      "question": "The Constitution's silence on political parties resulted in:",
+      "options": [
+        "A) Their prohibition",
+        "B) Unintended constitutional development through practice and precedent",
+        "C) Immediate formation",
+        "D) Constitutional crisis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9dadae07d3eb9989036ba69fec97451a333359dd",
+      "sectionIndex": 0,
+      "question": "The debate over constitutional interpretation between originalism and living constitution reflects:",
+      "options": [
+        "A) Modern invention",
+        "B) Fundamental disagreement about democracy, change, and judicial role",
+        "C) Settled doctrine",
+        "D) Academic exercise only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd04fcd2ffb8fe416e45b68b4f9b800b5b22f878",
+      "sectionIndex": 0,
+      "question": "The federal system's ambiguity was:",
+      "options": [
+        "A) Drafting error",
+        "B) Deliberate compromise allowing evolutionary adaptation",
+        "C) Clear definition",
+        "D) Accident"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "814b6dcb7a12031e4f01d627b86b11d5e0ea3324",
+      "sectionIndex": 0,
+      "question": "Jefferson's \"revolution of 1800\" paradoxically:",
+      "options": [
+        "A) Destroyed federalism",
+        "B) Preserved federal institutions while changing their political meaning",
+        "C) Implemented his strict construction fully",
+        "D) Ended party politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2b59bfcb9bffc8493f96ba775791b935b8df9f4",
+      "sectionIndex": 0,
+      "question": "The Marshall Court's nationalism served to:",
+      "options": [
+        "A) Support states' rights",
+        "B) Create juridical framework for continental empire through implied powers",
+        "C) Limit federal authority",
+        "D) Preserve original intent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f61fd58cb1080cf2246d5f1a74331182fa09b78",
+      "sectionIndex": 0,
+      "question": "The concept of popular sovereignty in territories revealed:",
+      "options": [
+        "A) Democratic solution",
+        "B) Constitutional contradiction between local democracy and national authority",
+        "C) Clear precedent",
+        "D) Universal acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e78b78a458d41c776018d0bcb2fcd59edbde11bb",
+      "sectionIndex": 0,
+      "question": "The Fourteenth Amendment's revolutionary potential lay in:",
+      "options": [
+        "A) Minor adjustment",
+        "B) Fundamentally altering federal-state relations and citizenship concepts",
+        "C) Confirming status quo",
+        "D) Limited application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23a07f43b8ac764dccf40ec9b25c8efb984876cb",
+      "sectionIndex": 0,
+      "question": "Progressive Era constitutional thought challenged:",
+      "options": [
+        "A) Nothing fundamental",
+        "B) Formalist separation of law and politics through sociological jurisprudence",
+        "C) Only economic regulation",
+        "D) State authority only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7271cd1d5c562bd8d6c4d12f7f88ac49923886a",
+      "sectionIndex": 1,
+      "question": "The Constitution's accommodation of slavery demonstrated:",
+      "options": [
+        "A) Moral failure only",
+        "B) Tragic compromise between revolutionary ideals and political economy",
+        "C) Complete acceptance",
+        "D) Clear resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19dd110838bdbb9b1f487928a271563b5d0610c5",
+      "sectionIndex": 1,
+      "question": "The three-fifths compromise's significance extended beyond representation to:",
+      "options": [
+        "A) Taxation only",
+        "B) Embedding racial hierarchy in fundamental law while denying it rhetorically",
+        "C) Simple mathematics",
+        "D) Temporary measure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2f2e9fd46a7c2118ee48230cbdbc378a00e9644",
+      "sectionIndex": 1,
+      "question": "The Somerset case's non-application in America revealed:",
+      "options": [
+        "A) Legal ignorance",
+        "B) How revolutionary ideology could coexist with slavery through exceptionalism",
+        "C) British influence",
+        "D) Judicial weakness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "735816419945133393cdfeee6612c0f3e4921a32",
+      "sectionIndex": 1,
+      "question": "The Missouri Compromise's deeper significance was:",
+      "options": [
+        "A) Sectional balance",
+        "B) Exposing Constitution's inability to resolve slavery through normal politics",
+        "C) Permanent solution",
+        "D) Western development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "352a2dd5820e32364157c87e8bace062291f537e",
+      "sectionIndex": 1,
+      "question": "The Dred Scott decision's logic pushed to extremes meant:",
+      "options": [
+        "A) Status quo",
+        "B) Nationalizing slavery through property rights absolutism",
+        "C) Gradual emancipation",
+        "D) Judicial restraint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b0ad9976460c7d39e2e1c82c2c2e94fa257f0f7",
+      "sectionIndex": 1,
+      "question": "Lincoln's constitutional theory during the Civil War:",
+      "options": [
+        "A) Followed precedent",
+        "B) Created new executive powers through necessity doctrine and war powers",
+        "C) Respected all limits",
+        "D) Ignored Constitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6afad839ac10777f2ce9262a304b923be2f579dd",
+      "sectionIndex": 1,
+      "question": "The Reconstruction Amendments' radical potential was limited by:",
+      "options": [
+        "A) Poor drafting",
+        "B) Judicial interpretation privileging federalism over racial equality",
+        "C) Full implementation",
+        "D) Northern support"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4cad3ad36283e96f99b42886adb02a5b639cbb4",
+      "sectionIndex": 1,
+      "question": "The \"nadir\" period (1890s-1920s) demonstrated:",
+      "options": [
+        "A) Racial progress",
+        "B) How legal forms could maintain racial hierarchy despite constitutional equality",
+        "C) Federal intervention",
+        "D) Southern uniqueness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2964dd76706e1b6ad2e16dc6869c7976ad40f19c",
+      "sectionIndex": 1,
+      "question": "The Civil Rights Movement's constitutional strategy revealed:",
+      "options": [
+        "A) Law's power alone",
+        "B) Necessity of linking litigation with mass politics for social change",
+        "C) Quick transformation",
+        "D) Judicial supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dc7f7d8e63a8dec796fa7e0db8413e917d03587",
+      "sectionIndex": 1,
+      "question": "The persistence of racial inequality despite legal equality suggests:",
+      "options": [
+        "A) Law's irrelevance",
+        "B) Limits of formal rights without addressing structural inequalities",
+        "C) Complete success",
+        "D) Individual failures only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "800bd66508e95987ad0d12513dd18d03b96a5c72",
+      "sectionIndex": 2,
+      "question": "Manifest Destiny as ideology functioned to:",
+      "options": [
+        "A) Describe geography",
+        "B) Naturalize conquest through racialized providentialism",
+        "C) Promote peace",
+        "D) Limit expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c87c0753aa37998790fa1f75dc6ce7b63726577e",
+      "sectionIndex": 2,
+      "question": "The Mexican-American War's significance for American development:",
+      "options": [
+        "A) Minor territorial gain",
+        "B) Revealed expansionism's connection to slavery and precipitated sectional crisis",
+        "C) United the nation",
+        "D) Defensive action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ed9ffb74ea42b4a0a818c3d33e4855217069ba4",
+      "sectionIndex": 2,
+      "question": "The Turner Thesis's influence stemmed from:",
+      "options": [
+        "A) Historical accuracy",
+        "B) Providing usable past linking democracy to expansion and frontier",
+        "C) Universal acceptance",
+        "D) Scientific method"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "616a3df2e9fa4048c01681f64f32b9372da54843",
+      "sectionIndex": 2,
+      "question": "American imperialism after 1898 differed from European colonialism by:",
+      "options": [
+        "A) Being benevolent",
+        "B) Emphasizing informal empire and reluctant colonialism narrative",
+        "C) No difference",
+        "D) Rejecting empire"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27c8a3653b406974d2fea4ac2ee7826d8e3a95a5",
+      "sectionIndex": 2,
+      "question": "The \"Open Door\" policy represented:",
+      "options": [
+        "A) Free trade only",
+        "B) Economic imperialism seeking market access without formal control",
+        "C) Chinese benefit",
+        "D) Multilateral cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccefb13166f8e7be6518b6b801701a13b8285a77",
+      "sectionIndex": 2,
+      "question": "Wilson's \"missionary diplomacy\" revealed:",
+      "options": [
+        "A) Consistent idealism",
+        "B) How democratic rhetoric could mask intervention and racial hierarchy",
+        "C) Peaceful intentions",
+        "D) Success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9abff2f041c159078626377ae1286f07f9c12ea7",
+      "sectionIndex": 2,
+      "question": "The relationship between continental and overseas empire shows:",
+      "options": [
+        "A) Separate phenomena",
+        "B) Continuity of expansionist ideology adapted to new contexts",
+        "C) Contradiction",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d2600f91906beb4ca871eb46b3944466041d0425",
+      "sectionIndex": 2,
+      "question": "American exceptionalism regarding empire operates through:",
+      "options": [
+        "A) Denial",
+        "B) Rhetorical distinction between \"empire\" and \"leadership\"",
+        "C) Honest acknowledgment",
+        "D) No empire exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9c952cf49283ae8b22b9e7d1b372e44e0a89050",
+      "sectionIndex": 2,
+      "question": "The Cold War's impact on decolonization revealed:",
+      "options": [
+        "A) American anti-imperialism",
+        "B) Subordination of self-determination to containment priorities",
+        "C) Consistent support for independence",
+        "D) No involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28205ba85f980df8c05501e66adf6f9d3f60528f",
+      "sectionIndex": 2,
+      "question": "Post-Cold War interventionism's justifications show:",
+      "options": [
+        "A) Clear doctrine",
+        "B) Shifting rationales from humanitarianism to security to democracy",
+        "C) Isolationism",
+        "D) UN leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9db01789041c249e656bb54a9f726fb0f6dea8c1",
+      "sectionIndex": 3,
+      "question": "Hamilton's financial system's long-term significance:",
+      "options": [
+        "A) Debt payment only",
+        "B) Created framework linking federal power to capitalist development",
+        "C) Failed experiment",
+        "D) Temporary measure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82be6eb1863f781aa524a1850da4f104ce39d1c9",
+      "sectionIndex": 3,
+      "question": "The \"Market Revolution\" fundamentally altered:",
+      "options": [
+        "A) Economics only",
+        "B) Social relations through commodification and wage labor expansion",
+        "C) Nothing significant",
+        "D) Regional trade only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eab09c3112ea04dd27574b0f04a8f9bbc6c18483",
+      "sectionIndex": 3,
+      "question": "The tension between democratic equality and economic inequality:",
+      "options": [
+        "A) Doesn't exist",
+        "B) Represents ongoing American paradox managed through various ideologies",
+        "C) Was resolved",
+        "D) Is recent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4552126ad6dcf7e0bcad6532cfaf213321134e6",
+      "sectionIndex": 3,
+      "question": "The Populist movement's significance beyond agriculture:",
+      "options": [
+        "A) None",
+        "B) First major challenge to industrial capitalism's political economy",
+        "C) Temporary protest",
+        "D) Regional only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "238e3cb014e6cf4b63b25d724242d49b6cf47a08",
+      "sectionIndex": 3,
+      "question": "Progressive regulation represented:",
+      "options": [
+        "A) Anti-capitalism",
+        "B) Attempt to save capitalism through ameliorative reform",
+        "C) Socialism",
+        "D) Status quo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dea16db4e0593e401705c34128b73cdefbce0feb",
+      "sectionIndex": 3,
+      "question": "The New Deal's \"broker state\" concept meant:",
+      "options": [
+        "A) Direct control",
+        "B) Government mediating between organized interests",
+        "C) Socialism",
+        "D) Minimal change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fd1f65afdcbe05c384b88691167aaa78e7d16f5",
+      "sectionIndex": 3,
+      "question": "The postwar \"consensus\" masked:",
+      "options": [
+        "A) Nothing",
+        "B) Exclusions based on race, gender, and ideology",
+        "C) Universal agreement",
+        "D) Permanent stability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b1dcd71e0a1c63464be2a407440a00f94bcf3bc",
+      "sectionIndex": 3,
+      "question": "Neoliberalism's rise since the 1970s reflects:",
+      "options": [
+        "A) Natural evolution",
+        "B) Conscious political project dismantling New Deal order",
+        "C) Popular demand",
+        "D) Technical necessity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b38030f6860586dbce3364e076a50b4c09e96b17",
+      "sectionIndex": 3,
+      "question": "The financialization of the economy demonstrates:",
+      "options": [
+        "A) Progress",
+        "B) Shift from productive to speculative capitalism with political consequences",
+        "C) Stability",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9e8238aa8ec4db89bf6ac4dd2d0ccebb385f0db",
+      "sectionIndex": 3,
+      "question": "Growing inequality's political effects include:",
+      "options": [
+        "A) No impact",
+        "B) Undermining democratic governance through concentrated power",
+        "C) Greater participation",
+        "D) Social cohesion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f631a92ccfc1e95b7a3f798cca9a10fd068c9b5",
+      "sectionIndex": 4,
+      "question": "The relationship between war and American state development shows:",
+      "options": [
+        "A) No connection",
+        "B) Wars as catalysts for expanding federal capacity and centralizing power",
+        "C) Weakening government",
+        "D) Consistent pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80c1110a3112c8c14aaa016a64394bbf39d0bf20",
+      "sectionIndex": 4,
+      "question": "The Civil War's transformation of American governance:",
+      "options": [
+        "A) Temporary changes",
+        "B) Created modern nation-state through centralization and new powers",
+        "C) Limited impact",
+        "D) State supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05ebe03629de8f252985c849806adea0b65d6862",
+      "sectionIndex": 4,
+      "question": "World War I's domestic impact included:",
+      "options": [
+        "A) Liberty expansion",
+        "B) Systematic repression legitimized by security needs",
+        "C) No change",
+        "D) Enhanced democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af223c472dd71fcde36f660378f838ca072a0588",
+      "sectionIndex": 4,
+      "question": "World War II's \"warfare state\" differed from New Deal by:",
+      "options": [
+        "A) Scale only",
+        "B) Achieving full employment through military Keynesianism",
+        "C) No difference",
+        "D) Less government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea72cbe63158b827853151d4bac4b6a352dbeb9b",
+      "sectionIndex": 4,
+      "question": "The Cold War's impact on American democracy included:",
+      "options": [
+        "A) Enhancement",
+        "B) National security state limiting transparency and accountability",
+        "C) No effect",
+        "D) Greater openness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40a4fc2b6646b7c0b1b314ebbe5e9518db7d334b",
+      "sectionIndex": 4,
+      "question": "The military-industrial complex represents:",
+      "options": [
+        "A) Efficiency",
+        "B) Structural interests promoting permanent war preparation",
+        "C) Temporary arrangement",
+        "D) Democratic control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "194af8724ec016c6fbb5b0501495961e55474454",
+      "sectionIndex": 4,
+      "question": "Vietnam's domestic consequences went beyond protest to:",
+      "options": [
+        "A) Unity",
+        "B) Fundamental questioning of government credibility and purpose",
+        "C) Strengthened trust",
+        "D) No lasting impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcfca42980b0e500c27f6c0ae20afb54f61056f7",
+      "sectionIndex": 4,
+      "question": "The \"War on Terror's\" constitutional implications:",
+      "options": [
+        "A) Limited",
+        "B) Expanded executive power and normalized emergency measures",
+        "C) Followed precedent",
+        "D) Congressional leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67418c85ef0fd8077f8e8d188098f414d87e9cf4",
+      "sectionIndex": 4,
+      "question": "The relationship between empire and republic shows:",
+      "options": [
+        "A) Compatibility",
+        "B) Tension between democratic governance and imperial power",
+        "C) No conflict",
+        "D) Mutual reinforcement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c57631c2919bab59aaa3798007e5e53819af7d46",
+      "sectionIndex": 4,
+      "question": "Perpetual war's effect on society includes:",
+      "options": [
+        "A) No impact",
+        "B) Militarization of culture and politics",
+        "C) Peace movement strength",
+        "D) Economic benefits only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0a97fbb05f1ac3293334317ed9f0a292604aefc",
+      "sectionIndex": 5,
+      "question": "The relationship between social movements and institutional change reveals:",
+      "options": [
+        "A) Direct causation",
+        "B) Complex interaction between pressure and institutional response",
+        "C) No connection",
+        "D) Institutional leadership"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e3f4e6e4491079ee16018c5da9ea20ac736fba1",
+      "sectionIndex": 5,
+      "question": "The abolition movement's strategies showed:",
+      "options": [
+        "A) Unity",
+        "B) Tensions between moral suasion and political action",
+        "C) Single approach",
+        "D) Quick success"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71e4a9f79ea6f0aab53b6be8cf481fa03294a61e",
+      "sectionIndex": 5,
+      "question": "The women's suffrage movement's success required:",
+      "options": [
+        "A) Single strategy",
+        "B) Multiple approaches adapting to changing political contexts",
+        "C) Male support only",
+        "D) Constitutional clarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c28c390ea8d906fbc26a6c140abe3e7466c7c3a7",
+      "sectionIndex": 5,
+      "question": "The labor movement's trajectory from radical origins to business unionism reflects:",
+      "options": [
+        "A) Natural evolution",
+        "B) Incorporation and domestication through legal recognition",
+        "C) Complete victory",
+        "D) Failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c56e251025132d3a22806f490bceb38860682244",
+      "sectionIndex": 5,
+      "question": "The Civil Rights Movement's fracturing showed:",
+      "options": [
+        "A) Weakness",
+        "B) Inevitable tensions between integration and Black power visions",
+        "C) External manipulation",
+        "D) Achieved goals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e22a502d460471b34f162a37e06df53f46df13c",
+      "sectionIndex": 5,
+      "question": "The New Left's critique of liberalism centered on:",
+      "options": [
+        "A) Economics only",
+        "B) Participatory democracy versus bureaucratic liberalism",
+        "C) Foreign policy only",
+        "D) No substance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6bf7e4ac860055243c9a11aca3411f177a082c3",
+      "sectionIndex": 5,
+      "question": "Second-wave feminism's challenge went beyond suffrage to:",
+      "options": [
+        "A) Minor issues",
+        "B) Fundamental critique of gendered power structures",
+        "C) Single issue",
+        "D) No new ground"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e7da138d5d741cac760d26ca1504adfd98e54e1",
+      "sectionIndex": 5,
+      "question": "The environmental movement's significance includes:",
+      "options": [
+        "A) Nature protection only",
+        "B) Questioning growth paradigm and corporate power",
+        "C) Aesthetic concerns",
+        "D) Elite hobby"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a07c817e939e354aad6ec123bd5851257a2df0d",
+      "sectionIndex": 5,
+      "question": "The LGBTQ+ movement's evolution demonstrates:",
+      "options": [
+        "A) Linear progress",
+        "B) Strategic shifts from liberation to rights discourse",
+        "C) Complete acceptance",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1fee5a7ef9ea3f5b3b1dbeecedffef5273e4c89",
+      "sectionIndex": 5,
+      "question": "Contemporary movements like Occupy and BLM show:",
+      "options": [
+        "A) Continuity only",
+        "B) New forms addressing systemic inequality with different tactics",
+        "C) No innovation",
+        "D) Failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9aa7068fbb84eb2eb95d05e96e887108cc04773f",
+      "sectionIndex": 6,
+      "question": "The contradiction between American ideals and foreign policy practice:",
+      "options": [
+        "A) Doesn't exist",
+        "B) Reflects tension between republican principles and imperial necessities",
+        "C) Is resolved",
+        "D) Is recent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10db554d15a9832ad6ccb1e8d4a17dc65f515afe",
+      "sectionIndex": 6,
+      "question": "Wilsonian internationalism's legacy includes:",
+      "options": [
+        "A) Pure idealism",
+        "B) Rhetorical framework masking power politics",
+        "C) Consistent application",
+        "D) Rejection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc1ae0f6b48559ba4deae8178f0197207f621861",
+      "sectionIndex": 6,
+      "question": "Containment doctrine's evolution showed:",
+      "options": [
+        "A) Consistency",
+        "B) Transformation from political to military strategy",
+        "C) Defensive nature",
+        "D) Limited scope"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14736439699dffe761be29d6b4dd10e7fb7303b4",
+      "sectionIndex": 6,
+      "question": "The \"credibility gap\" concept reveals:",
+      "options": [
+        "A) Communication failure",
+        "B) Structural tendency of security state toward deception",
+        "C) Temporary problem",
+        "D) Media bias"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d4334b020a2724434cd722d778a526bd733691c",
+      "sectionIndex": 6,
+      "question": "Détente's failure stemmed from:",
+      "options": [
+        "A) Soviet aggression",
+        "B) Incompatible domestic politics and strategic cultures",
+        "C) Weak leadership",
+        "D) Economic factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ebe7ffb5acbcded04e9d92bc3238717d00385462",
+      "sectionIndex": 6,
+      "question": "The \"unipolar moment\" after 1991 produced:",
+      "options": [
+        "A) Stability",
+        "B) Hubristic overextension and backlash",
+        "C) Permanent dominance",
+        "D) Restraint"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a78499ed82604c1f594de9fbbdccd6d143b6c20e",
+      "sectionIndex": 6,
+      "question": "The \"Bush Doctrine's\" significance lay in:",
+      "options": [
+        "A) Continuity",
+        "B) Explicit embrace of preventive war and unilateralism",
+        "C) Multilateralism",
+        "D) Defensive strategy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8aee71869c1096b2b281de33c39b67a2186b60a4",
+      "sectionIndex": 6,
+      "question": "Obama's foreign policy revealed:",
+      "options": [
+        "A) Fundamental change",
+        "B) Continuity beneath rhetorical adjustment",
+        "C) Isolationism",
+        "D) Consistent doctrine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "229c65c534dd6c67a0cddb7708852b7d4d790f57",
+      "sectionIndex": 6,
+      "question": "The \"forever wars\" phenomenon suggests:",
+      "options": [
+        "A) Victory",
+        "B) Imperial overstretch and policy bankruptcy",
+        "C) Success",
+        "D) Clear objectives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e4fba7e9d2e9521309f267c7c89d9d0e3bed9d2",
+      "sectionIndex": 6,
+      "question": "Rising multipolarity challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Assumptions of American hegemony and unilateral action",
+        "C) Strengthens America",
+        "D) Is manageable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c04fcec12f3afe09e755b980b3546cfbcb035882",
+      "sectionIndex": 7,
+      "question": "American democratization occurred through:",
+      "options": [
+        "A) Linear progress",
+        "B) Contested expansions and contractions over time",
+        "C) Founding completion",
+        "D) Natural evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cc90b6ec74f5d7eb3dfe86681a9590fce2e76dd0",
+      "sectionIndex": 7,
+      "question": "The \"Second American Revolution\" (1800) established:",
+      "options": [
+        "A) Complete change",
+        "B) Precedent for peaceful power transfer within constitutional system",
+        "C) End of conflict",
+        "D) Permanent resolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ae641102461df9950ed69dce0c21bd113bdd16f",
+      "sectionIndex": 7,
+      "question": "Jacksonian democracy's contradictions included:",
+      "options": [
+        "A) None",
+        "B) Expanding white male democracy while intensifying racial exclusion",
+        "C) Universal suffrage",
+        "D) Elite democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c995ed05a9b9aee182cd538ec3c8b3abb020ea9e",
+      "sectionIndex": 7,
+      "question": "The Progressive Era's democratic reforms paradoxically:",
+      "options": [
+        "A) Increased participation",
+        "B) Technocratic elements limiting popular control",
+        "C) Achieved goals",
+        "D) Failed completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a957cd41a993b33f1ad902d869ed08f375c4c14",
+      "sectionIndex": 7,
+      "question": "The New Deal's impact on democracy included:",
+      "options": [
+        "A) Simple expansion",
+        "B) Creating administrative state with attenuated democratic control",
+        "C) Direct democracy",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "938db348c7de857df8405f35354be88c1a205074",
+      "sectionIndex": 7,
+      "question": "The rights revolution of the 1960s-70s:",
+      "options": [
+        "A) Completed democracy",
+        "B) Expanded formal rights while structural inequalities persisted",
+        "C) Failed",
+        "D) Achieved equality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dffa769cf2adfe97bf5fc930622e26ac00386363",
+      "sectionIndex": 7,
+      "question": "The conservative counter-revolution since 1980:",
+      "options": [
+        "A) Restored tradition",
+        "B) Selectively dismantled regulatory state while expanding carceral state",
+        "C) Limited government",
+        "D) Increased freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfa99d3bb7c6fd2e2e50f81f70a6318dfba6a55f",
+      "sectionIndex": 7,
+      "question": "Contemporary polarization reflects:",
+      "options": [
+        "A) Media only",
+        "B) Structural sorting and institutional dysfunction",
+        "C) Temporary phase",
+        "D) Healthy debate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b4d2d713a8732f454b5ef73952b3b5263e726a9",
+      "sectionIndex": 7,
+      "question": "Voter suppression efforts demonstrate:",
+      "options": [
+        "A) Fraud prevention",
+        "B) Democracy's contested nature and elite resistance",
+        "C) No pattern",
+        "D) Technical issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0eb97d3eb8f856ac81001ada65a41139748a5a9e",
+      "sectionIndex": 7,
+      "question": "Democratic backsliding indicators include:",
+      "options": [
+        "A) None present",
+        "B) Norm erosion, institutional capture, and legitimacy crisis",
+        "C) Temporary problems",
+        "D) Media exaggeration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "530215ef9c3dfdb6edecadf2442c1f3bed386b19",
+      "sectionIndex": 8,
+      "question": "The relationship between capitalism and democracy in America shows:",
+      "options": [
+        "A) Perfect harmony",
+        "B) Ongoing tension between economic and political equality",
+        "C) No connection",
+        "D) Resolved contradiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cc6d96a28730e88ac4de70c92c9e7158055af41",
+      "sectionIndex": 8,
+      "question": "The Gilded Age's significance extends beyond corruption to:",
+      "options": [
+        "A) Temporary excess",
+        "B) Establishing corporate capitalism's dominance over democracy",
+        "C) Economic growth only",
+        "D) Regional phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22061c6837b0f7ea1bca9c6d3c568d7f6b989b66",
+      "sectionIndex": 8,
+      "question": "The Great Depression challenged:",
+      "options": [
+        "A) Nothing fundamental",
+        "B) Laissez-faire ideology and capitalism's self-regulating claims",
+        "C) Government only",
+        "D) Temporary adjustment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aaa804db791f29c6c7e30e6ce7715cc1b488cfc3",
+      "sectionIndex": 8,
+      "question": "The postwar \"Golden Age\" depended on:",
+      "options": [
+        "A) Natural growth",
+        "B) Unique conditions including global dominance and strong unions",
+        "C) Technology only",
+        "D) Individual effort"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "999b47b8fe189e76b3e2eb3f70c8672081535833",
+      "sectionIndex": 8,
+      "question": "The neoliberal turn's deeper significance:",
+      "options": [
+        "A) Technical adjustment",
+        "B) Restoration of class power through market ideology",
+        "C) Popular demand",
+        "D) Inevitable evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c03b242fe2c3fe45b7177cbb63d9d9f9000fb21",
+      "sectionIndex": 8,
+      "question": "Financialization's political economy effects:",
+      "options": [
+        "A) Neutral",
+        "B) Shifted power from production to speculation with democratic costs",
+        "C) Increased stability",
+        "D) Helped workers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27e738e7aa90b6db382aeeb0752bbb47d8d61efc",
+      "sectionIndex": 8,
+      "question": "The Great Recession revealed:",
+      "options": [
+        "A) System resilience",
+        "B) Structural flaws and political capture by financial interests",
+        "C) Quick recovery",
+        "D) Equal impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3bb34ade92d047b3adb0123d918d4518cb74913",
+      "sectionIndex": 8,
+      "question": "Rising inequality's threat to democracy:",
+      "options": [
+        "A) Overblown",
+        "B) Undermines political equality and social cohesion",
+        "C) No connection",
+        "D) Motivates participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53056574681ec239d5a81122575bb3c580878524",
+      "sectionIndex": 8,
+      "question": "The \"deaths of despair\" phenomenon indicates:",
+      "options": [
+        "A) Individual failure",
+        "B) Social consequences of economic transformation",
+        "C) Natural selection",
+        "D) Temporary trend"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "280a25095b97a469b2f03316392d3d11891b2fa2",
+      "sectionIndex": 8,
+      "question": "Platform capitalism's implications include:",
+      "options": [
+        "A) Innovation only",
+        "B) Concentration of power and surveillance capabilities",
+        "C) Democratization",
+        "D) Equal opportunity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f09324e3bba5c526d4a15d9fac9dfc42d206a1ce",
+      "sectionIndex": 9,
+      "question": "The \"post-truth\" era reflects:",
+      "options": [
+        "A) Media bias only",
+        "B) Epistemic crisis undermining shared reality necessary for democracy",
+        "C) Temporary phenomenon",
+        "D) Technology problem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8205e88be8112c798bbb6a9e6657ba720c2be61",
+      "sectionIndex": 9,
+      "question": "Constitutional hardball practices indicate:",
+      "options": [
+        "A) Healthy competition",
+        "B) Norm breakdown threatening system stability",
+        "C) Strong institutions",
+        "D) Normal politics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94879924a2c8fbbae55b463eefaa8bbfbc767095",
+      "sectionIndex": 9,
+      "question": "The imperial presidency's contemporary form:",
+      "options": [
+        "A) Follows precedent",
+        "B) Exploits war powers and emergency declarations",
+        "C) Is constrained",
+        "D) Represents popular will"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9478dc20b8f257b07aa8ef1753a591571bd7a8d9",
+      "sectionIndex": 9,
+      "question": "Judicial politics' transformation shows:",
+      "options": [
+        "A) Neutral law",
+        "B) Ideological capture and legitimacy crisis",
+        "C) Proper functioning",
+        "D) Bipartisan agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3446b758fa529dddc4723883b1a4fc9170521e4",
+      "sectionIndex": 9,
+      "question": "Money in politics after Citizens United:",
+      "options": [
+        "A) Enhances speech",
+        "B) Systematically biases policy toward wealthy interests",
+        "C) No impact",
+        "D) Increases participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0038448c5fa9f29ed9effb8d520f3ddfc532bd1",
+      "sectionIndex": 9,
+      "question": "The surveillance state's expansion:",
+      "options": [
+        "A) Protects freedom",
+        "B) Creates infrastructure for authoritarian control",
+        "C) Limited scope",
+        "D) Democratic oversight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6138de148837546f98c627ed13b61cc5f162bff7",
+      "sectionIndex": 9,
+      "question": "Climate change as governance challenge:",
+      "options": [
+        "A) Technical issue",
+        "B) Reveals inability to address long-term collective problems",
+        "C) Manageable",
+        "D) Market solution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3e3ea8bcd2fbc0c83df807d1337caabd9affacb",
+      "sectionIndex": 9,
+      "question": "The COVID-19 response demonstrated:",
+      "options": [
+        "A) System strength",
+        "B) State capacity decay and political dysfunction",
+        "C) Unity",
+        "D) Preparedness"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23a39605dd6140ecf2324fc65f008613f1a0eb23",
+      "sectionIndex": 9,
+      "question": "Democratic renewal possibilities depend on:",
+      "options": [
+        "A) Elite reform",
+        "B) Mass mobilization challenging structural inequalities",
+        "C) Technical fixes",
+        "D) Return to past"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2074074298a0acab4f23609120f6786e85e47b79",
+      "sectionIndex": 9,
+      "question": "American democracy's future trajectory:",
+      "options": [
+        "A) Predetermined",
+        "B) Contingent on political struggles over inclusion and power",
+        "C) Inevitable progress",
+        "D) Certain decline"
+      ],
+      "correct": "B"
+    }
+  ]
+}

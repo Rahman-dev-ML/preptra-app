@@ -1,0 +1,804 @@
+{
+  "subject": "CSS English (Precis & Composition)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 28,
+  "categories": [
+    "Precis Writing",
+    "Comprehension & Reading",
+    "Grammar & Syntax",
+    "Punctuation & Mechanics",
+    "Prepositions",
+    "Voice (Active/Passive)",
+    "Reported Speech",
+    "Parallelism & Sentence Structure",
+    "Error Spotting & Correction",
+    "Vocabulary & Word Pairs",
+    "Idioms & Phrasal Verbs",
+    "Cohesion & Coherence",
+    "Paraphrasing & Summarizing",
+    "Style & Plain English",
+    "Pakistan Editorial Reading",
+    "Past Papers & Official",
+    "Translation (Urdu→English)",
+    "Practice Platforms & Videos"
+  ],
+  "notes": [
+    {
+      "id": "E1",
+      "title": "Precis Writing: Template, Title & Compression Rules",
+      "content": "Use a repeatable 4-sentence précis template (author/context → thesis → key supports → purpose/tone). Compress to ~1/3 without commentary. Always craft a precise, theme-capturing title.",
+      "keyTakeaways": [
+        "Keep author's intent and logical order intact.",
+        "Delete examples, figurative language, digressions; keep core claims.",
+        "Title should reflect the controlling idea, not a catchy phrase."
+      ],
+      "resources": [
+        {
+          "title": "SJSU Writing Center — Rhetorical Précis (PDF)",
+          "url": "https://www.sjsu.edu/writingcenter/docs/handouts/Rhetorical-Precis.pdf",
+          "type": "handout",
+          "description": "Concrete 4-sentence précis frame"
+        },
+        {
+          "title": "CSUN — The Rhetorical Précis",
+          "url": "https://www.csun.edu/science/hsci570/Rhetorical_Precis.htm",
+          "type": "article",
+          "description": "Structure + model sentences"
+        },
+        {
+          "title": "Oxford Online English — How to Summarise a Text (video + lesson)",
+          "url": "https://www.oxfordonlineenglish.com/how-to-summarise-text",
+          "type": "video",
+          "description": "Finding the main idea & condensing"
+        }
+      ],
+      "importance": "high",
+      "category": "Precis Writing",
+      "topics": ["Precis Template", "Title", "Compression"]
+    },
+    {
+      "id": "E2",
+      "title": "Precis Practice on Real CSS Passages",
+      "content": "Practice summary + title on authentic CSS passages from 2000–2025. Compare with model solutions to calibrate length and coverage.",
+      "keyTakeaways": [
+        "Time yourself: 35–40 minutes (incl. title, outline).",
+        "Reverse-check: each précis sentence maps to logical blocks in original."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Past Papers (English Precis & Composition)",
+          "url": "https://fpsc.gov.pk/past-papers",
+          "type": "official",
+          "description": "Official past papers index"
+        },
+        {
+          "title": "The CSS Point — English P&C Past Papers (2000–2025)",
+          "url": "https://thecsspoint.com/css-past-papers/css-english-precis-and-composition-past-papers/",
+          "type": "archive",
+          "description": "Year-wise downloadable papers"
+        },
+        {
+          "title": "CSSPrepForum — CSS 2025 Solved English P&C",
+          "url": "https://cssprepforum.com/css-2025-solved-english-precis-and-composition/",
+          "type": "solution",
+          "description": "Worked solutions for benchmarking"
+        }
+      ],
+      "importance": "high",
+      "category": "Precis Writing",
+      "topics": ["Past Papers", "Timing", "Benchmarking"]
+    },
+    {
+      "id": "E3",
+      "title": "Comprehension: Main Idea, Inference, Tone",
+      "content": "Success depends on quickly extracting thesis, tracking paragraph claims, and answering evidence-based questions (definition-in-context, inference, purpose).",
+      "keyTakeaways": [
+        "Skim → map topic sentences → annotate linking words.",
+        "Answer with text evidence; avoid outside knowledge."
+      ],
+      "resources": [
+        {
+          "title": "CommonLit — Text Library (free)",
+          "url": "https://www.commonlit.org/",
+          "type": "practice",
+          "description": "Hundreds of nonfiction & literary texts with questions"
+        },
+        {
+          "title": "ReadWorks — Passages & Question Sets",
+          "url": "https://www.readworks.org/reading-comprehension-passages-and-question-sets",
+          "type": "practice",
+          "description": "Searchable bank with inference/tone items"
+        },
+        {
+          "title": "CommonLit — Find Texts (how-to)",
+          "url": "https://support.commonlit.org/article/457-how-do-i-find-texts",
+          "type": "guide",
+          "description": "Filter by theme, Lexile, genre"
+        }
+      ],
+      "importance": "high",
+      "category": "Comprehension & Reading",
+      "topics": ["Main Idea", "Inference", "Evidence"]
+    },
+    {
+      "id": "E4",
+      "title": "Punctuation Mastery: Comma, Semicolon, Colon, Dash",
+      "content": "Most MCQ and correction errors stem from run-ons/comma splices and misused colons/semicolons. Drill rule → example → short practice.",
+      "keyTakeaways": [
+        "Colon = explanation/list; semicolon = join related ICs.",
+        "Prefer precise punctuation over commas everywhere."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Punctuation (course)",
+          "url": "https://www.khanacademy.org/humanities/grammar/punctuation-the-colon-semicolon-and-more",
+          "type": "course",
+          "description": "Concept lessons with practice"
+        },
+        {
+          "title": "Khan Academy — Grammar Guide: Punctuation",
+          "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b%3Adigital-sat-grammar-practice/x0d47bcec73eb6c4b%3Aboundaries-punctuation/a/grammar-guide-punctuation",
+          "type": "article",
+          "description": "High-yield rules for exams"
+        },
+        {
+          "title": "Economist Style Guide (preview PDF)",
+          "url": "https://profilebooks.com/wp-content/uploads/wpallimport/files/PDFs/9781781258316_preview.pdf",
+          "type": "style",
+          "description": "Concise, exam-relevant usage notes"
+        }
+      ],
+      "importance": "high",
+      "category": "Punctuation & Mechanics",
+      "topics": ["Comma Splice", "Semicolon", "Colon", "Dash"]
+    },
+    {
+      "id": "E5",
+      "title": "Subject–Verb Agreement & Sentence Anatomy",
+      "content": "Agreement traps: intervening phrases, collective nouns, relative clauses, 'as well as'. Build from clause identification to agreement fixes.",
+      "keyTakeaways": [
+        "Find the simple subject; ignore interrupters.",
+        "Plural-sounding phrases ('as well as', 'together with') don't make the subject plural."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Grammar (full index)",
+          "url": "https://www.khanacademy.org/humanities/grammar",
+          "type": "course",
+          "description": "Sentence/clause/subject modules"
+        },
+        {
+          "title": "Khan Academy — Subjects & Objects (practice)",
+          "url": "https://www.khanacademy.org/humanities/grammar/syntax-sentences-and-clauses/subjects-and-predicates/e/identifying-subject--direct-object--and-indirect-object",
+          "type": "practice",
+          "description": "Identify core sentence elements"
+        }
+      ],
+      "importance": "high",
+      "category": "Grammar & Syntax",
+      "topics": ["Agreement", "Clauses", "Modifiers"]
+    },
+    {
+      "id": "E6",
+      "title": "Prepositions: Collocations That Exams Love",
+      "content": "Errors cluster around verb–preposition pairs (agree with/on, annoyed at/with, bound for). Build a personal list from credible grammar sources.",
+      "keyTakeaways": [
+        "Memorize by collocation, not isolated rules.",
+        "Check dictionary examples to confirm register."
+      ],
+      "resources": [
+        {
+          "title": "British Council — Grammar: Prepositions (hub)",
+          "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/prepositions",
+          "type": "reference",
+          "description": "Structured explanations + tasks"
+        },
+        {
+          "title": "Cambridge Dictionary — Main Site (with Grammar)",
+          "url": "https://dictionary.cambridge.org/us/",
+          "type": "reference",
+          "description": "Examples & Grammar section for preposition patterns"
+        }
+      ],
+      "importance": "high",
+      "category": "Prepositions",
+      "topics": ["Collocation", "Register", "Usage"]
+    },
+    {
+      "id": "E7",
+      "title": "Active ↔ Passive Voice: When & How",
+      "content": "Know the form (be + past participle) and when passive is stylistically appropriate. Exam items often test passive to active conversion.",
+      "keyTakeaways": [
+        "Prefer active for clarity; use passive for emphasis on action/receiver.",
+        "Fix dangling agents: add 'by + agent' only if it adds information."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Active & Passive Voice",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/active_and_passive_voice/active_versus_passive_voice.html",
+          "type": "handout",
+          "description": "Clear rules + examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Voice (Active/Passive)",
+      "topics": ["Passive Form", "Agent", "Clarity"]
+    },
+    {
+      "id": "E8",
+      "title": "Reported (Indirect) Speech: Tense/Deixis Shifts",
+      "content": "Convert quotes to reported speech: adjust pronouns, time/place words (now→then, here→there) and backshift tenses when needed.",
+      "keyTakeaways": [
+        "No backshift if the fact remains true at reporting time.",
+        "Commands → 'to-infinitive'; questions → if/whether + clause."
+      ],
+      "resources": [
+        {
+          "title": "British Council — Reported Speech",
+          "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/reported-speech",
+          "type": "reference",
+          "description": "Rules + exercises"
+        },
+        {
+          "title": "Khan Academy — Reported Speech & Parallel Structure",
+          "url": "https://www.khanacademy.org/humanities/class-9-english-grammar/xd6875a210586977e%3Areported-speech-parallel-structure",
+          "type": "course",
+          "description": "Short lessons with checks"
+        }
+      ],
+      "importance": "high",
+      "category": "Reported Speech",
+      "topics": ["Backshift", "Deixis", "Question/Command Forms"]
+    },
+    {
+      "id": "E9",
+      "title": "Parallelism: Make Structures Match",
+      "content": "Lists, correlative pairs (not only…but also), and comparisons must maintain grammatical symmetry. A top source of correction items.",
+      "keyTakeaways": [
+        "Align word forms (gerund: walking, running, swimming).",
+        "In comparisons, keep like-to-like (those of, that of)."
+      ],
+      "resources": [
+        {
+          "title": "UNC Writing Center — Parallelism",
+          "url": "https://writingcenter.unc.edu/tips-and-tools/parallelism/",
+          "type": "handout",
+          "description": "Concise rules + fixes"
+        },
+        {
+          "title": "APSU Writing Center — Parallel Structure (PDF)",
+          "url": "https://www.apsu.edu/writingcenter/writing-resources/Parallel-Structure-Handout-2025.pdf",
+          "type": "handout",
+          "description": "Fresh 2025 handout with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Parallelism & Sentence Structure",
+      "topics": ["Lists", "Correlatives", "Comparisons"]
+    },
+    {
+      "id": "E10",
+      "title": "Sentence Correction: High-Frequency Error Types",
+      "content": "Target: faulty comparisons, pronoun reference, modifier placement, redundancy ('unless you don't'), article errors.",
+      "keyTakeaways": [
+        "Read aloud for logic and agreement.",
+        "Apply one edit at a time; avoid over-correction."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — SAT Writing: Grammar Practice Hub",
+          "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b%3Adigital-sat-grammar-practice",
+          "type": "practice",
+          "description": "Timed drills mirror exam pressure"
+        },
+        {
+          "title": "Khan Academy — Punctuation Practice Set",
+          "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b%3Adigital-sat-grammar-practice/x0d47bcec73eb6c4b%3Aboundaries-punctuation/e/practice-punctuation",
+          "type": "practice",
+          "description": "Comma/semicolon diagnostics"
+        }
+      ],
+      "importance": "high",
+      "category": "Error Spotting & Correction",
+      "topics": ["Comparisons", "Pronouns", "Redundancy"]
+    },
+    {
+      "id": "E11",
+      "title": "Vocabulary: Academic & Exam-Style Wordbanks",
+      "content": "Prioritize academic and high-frequency lists. Learn via contexts and collocations, not isolated definitions.",
+      "keyTakeaways": [
+        "Maintain a personal 'tricky words' log with synonyms/antonyms.",
+        "Study affixes; guess meaning by morphology."
+      ],
+      "resources": [
+        {
+          "title": "Academic Word List (A. Coxhead)",
+          "url": "https://www.wgtn.ac.nz/lals/resources/academicwordlist",
+          "type": "list",
+          "description": "The canonical AWL + sublists"
+        },
+        {
+          "title": "Magoosh — 1000 GRE Words (PDF)",
+          "url": "https://magoosh.com/gre/gre-vocabulary-ebook/",
+          "type": "ebook",
+          "description": "Broad academic vocabulary with examples"
+        },
+        {
+          "title": "Barron's 333 High-Frequency Words (PDF)",
+          "url": "https://www.pirple.com/assets/files/Barrons-333.pdf",
+          "type": "handout",
+          "description": "Quick revision list for synonyms/antonyms"
+        }
+      ],
+      "importance": "high",
+      "category": "Vocabulary & Word Pairs",
+      "topics": ["AWL", "Synonyms", "Antonyms", "Affixes"]
+    },
+    {
+      "id": "E12",
+      "title": "Confused Word Pairs & Precise Usage",
+      "content": "CSS often targets pairs like adverse/averse, eminent/imminent, venal/venial. Use trusted learner dictionaries with examples.",
+      "keyTakeaways": [
+        "Check part of speech + example sentence.",
+        "Log minimal pairs with a contrastive sentence each."
+      ],
+      "resources": [
+        {
+          "title": "Cambridge Dictionary (with 'Grammar' & 'Usage')",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/",
+          "type": "reference",
+          "description": "Authoritative usage notes & confusions"
+        },
+        {
+          "title": "Oxford Learner's Dictionaries",
+          "url": "https://www.oxfordlearnersdictionaries.com/us/",
+          "type": "reference",
+          "description": "Learner-friendly examples & collocations"
+        }
+      ],
+      "importance": "high",
+      "category": "Vocabulary & Word Pairs",
+      "topics": ["Commonly Confused", "Register", "Collocation"]
+    },
+    {
+      "id": "E13",
+      "title": "Idioms & Phrasal Language (for Usage-in-Sentence)",
+      "content": "Prepare 100–150 high-utility idioms with meaning + self-made sentence. Focus on current usage.",
+      "keyTakeaways": [
+        "Avoid cliché overload; use naturally.",
+        "Prefer dictionary-verified definitions."
+      ],
+      "resources": [
+        {
+          "title": "Cambridge — Idioms (blog series, up-to-date)",
+          "url": "https://dictionaryblog.cambridge.org/category/idioms/",
+          "type": "article",
+          "description": "Current idioms from newspapers"
+        },
+        {
+          "title": "EF — Common English Idioms (list)",
+          "url": "https://www.ef.edu/english-resources/english-idioms/",
+          "type": "list",
+          "description": "Quick revision reference"
+        },
+        {
+          "title": "Oxford Phrase List (multi-word items)",
+          "url": "https://www.oxfordlearnersdictionaries.com/us/about/wordlists/oxford-phrase-list",
+          "type": "list",
+          "description": "Useful phrases, collocations & idioms"
+        }
+      ],
+      "importance": "medium",
+      "category": "Idioms & Phrasal Verbs",
+      "topics": ["Idioms", "Phrasal Verbs", "Collocations"]
+    },
+    {
+      "id": "E14",
+      "title": "Cohesion vs. Coherence: Glue Your Writing",
+      "content": "Cohesion = lexical/grammatical ties (reference, substitution, transition signals); coherence = logical organization and flow.",
+      "keyTakeaways": [
+        "Use given→new sequencing across sentences.",
+        "Audit transitions; avoid mechanical overuse."
+      ],
+      "resources": [
+        {
+          "title": "UEfAP — Cohesion (Andy Gillett)",
+          "url": "https://www.uefap.org/writing-paragraphs-cohesion/",
+          "type": "article",
+          "description": "Core taxonomy of cohesive ties"
+        },
+        {
+          "title": "EAP Foundation — Cohesion & Coherence",
+          "url": "https://eapfoundation.com/writing/cohesion/",
+          "type": "article",
+          "description": "Clear examples + practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Cohesion & Coherence",
+      "topics": ["Transitions", "Reference", "Theme/Rheme"]
+    },
+    {
+      "id": "E15",
+      "title": "Paraphrasing & Summarizing Without Plagiarism",
+      "content": "Combine synonym shifts + grammar changes + condensation; cite ideas if required. Practice on short academic paragraphs.",
+      "keyTakeaways": [
+        "Change structure first, then words.",
+        "Check against source for unintended copying."
+      ],
+      "resources": [
+        {
+          "title": "Oxford Online English — How to Summarise a Text (video)",
+          "url": "https://www.youtube.com/watch?v=Z2OGUQ5A44Q",
+          "type": "video",
+          "description": "Worked examples"
+        },
+        {
+          "title": "British Council — Paraphrasing Tips",
+          "url": "https://www.britishcouncil.vn/en/adults/tips/top-five-paraphrasing-techniques-video-included",
+          "type": "article",
+          "description": "Techniques with mini-tasks"
+        }
+      ],
+      "importance": "high",
+      "category": "Paraphrasing & Summarizing",
+      "topics": ["Paraphrase", "Condense", "Avoid Plagiarism"]
+    },
+    {
+      "id": "E16",
+      "title": "Plain English: Style That Scores",
+      "content": "Markers reward clarity and economy. Apply plain-English principles to précis, answers, and correction tasks.",
+      "keyTakeaways": [
+        "Short, direct sentences; cut nominalizations.",
+        "Prefer concrete verbs; avoid vague bureaucratese."
+      ],
+      "resources": [
+        {
+          "title": "GOV.UK — Writing for GOV.UK",
+          "url": "https://www.gov.uk/guidance/content-design/writing-for-gov-uk",
+          "type": "style",
+          "description": "Mandatory plain English rules (models/examples)"
+        },
+        {
+          "title": "Plain English Campaign — Free Guides",
+          "url": "https://www.plainenglish.co.uk/free-guides",
+          "type": "guide",
+          "description": "How to write plainly + alternative words"
+        },
+        {
+          "title": "ONS Style — Plain Language",
+          "url": "https://service-manual.ons.gov.uk/content/writing-for-users/plain-language",
+          "type": "style",
+          "description": "Research-backed clarity guidance"
+        },
+        {
+          "title": "Economist Style Guide (preview)",
+          "url": "https://profilebooks.com/wp-content/uploads/wpallimport/files/PDFs/9781781258316_preview.pdf",
+          "type": "style",
+          "description": "Concise usage & punctuation"
+        }
+      ],
+      "importance": "high",
+      "category": "Style & Plain English",
+      "topics": ["Clarity", "Conciseness", "Register"]
+    },
+    {
+      "id": "E17",
+      "title": "Pakistan Editorial Reading: Daily Language Diet",
+      "content": "Regular op-eds sharpen comprehension, vocabulary-in-context, and précis instincts. Read, annotate, and mimic headline→lede→argument structure.",
+      "keyTakeaways": [
+        "Summarize each editorial in 2–3 lines.",
+        "Collect 5–10 idioms/phrases weekly from editorials."
+      ],
+      "resources": [
+        {
+          "title": "DAWN — Opinion/Editorial",
+          "url": "https://www.dawn.com/opinion",
+          "type": "news",
+          "description": "Daily Pakistani editorials"
+        },
+        {
+          "title": "The News International — Opinion",
+          "url": "https://www.thenews.com.pk/opinion",
+          "type": "news",
+          "description": "Columns & editorials"
+        },
+        {
+          "title": "Express Tribune — Opinion",
+          "url": "https://tribune.com.pk/opinion",
+          "type": "news",
+          "description": "Op-eds & analyses"
+        },
+        {
+          "title": "Business Recorder — Editorials",
+          "url": "https://www.brecorder.com/category/editorials",
+          "type": "news",
+          "description": "Economic commentary"
+        }
+      ],
+      "importance": "high",
+      "category": "Pakistan Editorial Reading",
+      "topics": ["Editorial", "Argument", "Vocabulary-in-Context"]
+    },
+    {
+      "id": "E18",
+      "title": "Official Syllabus, Rules & Past Paper Access",
+      "content": "Always align prep with FPSC's current syllabus and paper structure; mine official past papers for pattern repetition.",
+      "keyTakeaways": [
+        "Check latest FPSC notices before exam cycle.",
+        "Rehearse under 3-hour conditions."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabus",
+          "url": "https://fpsc.gov.pk/syllabus",
+          "type": "official",
+          "description": "Current subject outlines"
+        },
+        {
+          "title": "FPSC — Past Papers (Index)",
+          "url": "https://fpsc.gov.pk/past-papers",
+          "type": "official",
+          "description": "Authoritative archive"
+        }
+      ],
+      "importance": "high",
+      "category": "Past Papers & Official",
+      "topics": ["Syllabus", "Paper Pattern", "Updates"]
+    },
+    {
+      "id": "E19",
+      "title": "Idioms & Usage: Trusted References",
+      "content": "Use dictionary-grade sources for meanings, registers, and examples. Avoid meme lists.",
+      "keyTakeaways": [
+        "Verify idiom currency and form (e.g., fixed prepositions).",
+        "Note register (informal, spoken, AmE/BrE)."
+      ],
+      "resources": [
+        {
+          "title": "Cambridge Dictionary — Main",
+          "url": "https://dictionary.cambridge.org/us/",
+          "type": "reference",
+          "description": "Idioms integrated into entries"
+        },
+        {
+          "title": "Oxford Dictionary of Idioms (reference page)",
+          "url": "https://www.oxfordreference.com/abstract/10.1093/acref/9780198845621.001.0001/acref-9780198845621",
+          "type": "reference",
+          "description": "Authoritative idiom entries"
+        }
+      ],
+      "importance": "medium",
+      "category": "Idioms & Phrasal Verbs",
+      "topics": ["Reference", "Register", "Examples"]
+    },
+    {
+      "id": "E20",
+      "title": "Reading for Style & Argument (Longform)",
+      "content": "Long reads train sustained comprehension and précis discipline. Read weekly and write a 120–150 word abstract.",
+      "keyTakeaways": [
+        "Extract thesis + 2–3 supports + conclusion.",
+        "Practice neutral tone in summaries."
+      ],
+      "resources": [
+        {
+          "title": "The Guardian — The Long Read",
+          "url": "https://www.theguardian.com/news/series/the-long-read",
+          "type": "longform",
+          "description": "Contemporary longform journalism"
+        },
+        {
+          "title": "Economist Education — Writing with Style (about guide)",
+          "url": "https://education.economist.com/insights/what-to-read/writing-with-style",
+          "type": "article",
+          "description": "Principles behind Economist style"
+        }
+      ],
+      "importance": "medium",
+      "category": "Comprehension & Reading",
+      "topics": ["Longform", "Abstracting", "Argument"]
+    },
+    {
+      "id": "E21",
+      "title": "Exam-Fit Punctuation & Mechanics Drills",
+      "content": "Use digital SAT grammar sets to simulate CSS correction timing and error types.",
+      "keyTakeaways": [
+        "Aim >80% on unit tests before moving on.",
+        "Review wrong answers to categorize error types."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Punctuation Practice",
+          "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b%3Adigital-sat-grammar-practice/x0d47bcec73eb6c4b%3Aboundaries-punctuation/e/practice-punctuation",
+          "type": "practice",
+          "description": "Timed sets with feedback"
+        },
+        {
+          "title": "Khan Academy — SAT Reading & Writing Hub",
+          "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing",
+          "type": "course",
+          "description": "Full grammar bank"
+        }
+      ],
+      "importance": "high",
+      "category": "Punctuation & Mechanics",
+      "topics": ["Practice", "Timing", "Error Patterns"]
+    },
+    {
+      "id": "E22",
+      "title": "Urdu → English Translation: Strategy & Sources",
+      "content": "Translate for sense, not word-for-word. Preserve metaphors by equivalent expression. Keep tense, aspect, and idiomatic tone natural in English.",
+      "keyTakeaways": [
+        "Render proverbs as sense-equivalents; footnote literal only if asked.",
+        "Prefer Anglo-style syntax (SVO, light verbs) over literal calques."
+      ],
+      "resources": [
+        {
+          "title": "CSS P&C 2022 Paper (PDF) — includes translation prompt",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2023/10/English-PC-2022.pdf",
+          "type": "paper",
+          "description": "Practice past translation in exam format"
+        },
+        {
+          "title": "Plain English — Alternative Words (A–Z)",
+          "url": "https://mstrust.org.uk/sites/default/files/plain_english_campaign_alternative_words.pdf",
+          "type": "handout",
+          "description": "Find simpler English equivalents when translating"
+        }
+      ],
+      "importance": "medium",
+      "category": "Translation (Urdu→English)",
+      "topics": ["Sense-for-Sense", "Register", "Idioms"]
+    },
+    {
+      "id": "E23",
+      "title": "Editorial Vocabulary-in-Context (News Review)",
+      "content": "Mine current news phrases/idioms weekly; attach example sentences from authentic media.",
+      "keyTakeaways": [
+        "Keep a running 'news idioms' deck with spaced repetition.",
+        "Practice one-minute oral summaries from news clips."
+      ],
+      "resources": [
+        {
+          "title": "BBC Learning English — News Review (playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLcetZ6gSk968l1s4WuxwyhiyEUmg5GOZC",
+          "type": "video",
+          "description": "Weekly vocabulary from the news"
+        },
+        {
+          "title": "BBC Learning English — Channel",
+          "url": "https://www.youtube.com/user/bbclearningenglish",
+          "type": "video",
+          "description": "Grammar, vocabulary, pronunciation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Practice Platforms & Videos",
+      "topics": ["News Vocabulary", "Summaries"]
+    },
+    {
+      "id": "E24",
+      "title": "Precis & Composition: Solved Sets (Benchmark Only)",
+      "content": "Compare your attempts to worked solutions to gauge coverage, tone, and length. Don't memorize—analyze approach.",
+      "keyTakeaways": [
+        "Checklist: central claim, logical order, proportionate compression.",
+        "Extract reusable sentence stems for neutral tone."
+      ],
+      "resources": [
+        {
+          "title": "CSSPrepForum — CSS 2024 Solved Paper",
+          "url": "https://cssprepforum.com/css-2024-solved-english-precis-and-composition-paper/",
+          "type": "solution",
+          "description": "Full paper walk-through"
+        },
+        {
+          "title": "CSPS Academy — CSS 2025 Solved P&C",
+          "url": "https://cspsacademy.com/css-2025-english-precis-composition-solved-paper/",
+          "type": "solution",
+          "description": "Solved with tips"
+        }
+      ],
+      "importance": "medium",
+      "category": "Past Papers & Official",
+      "topics": ["Benchmarking", "Self-Assessment"]
+    },
+    {
+      "id": "E25",
+      "title": "Linking & Signposting Language (Academic)",
+      "content": "Use academic phrasebanks to vary transitions and signal logical relations cleanly in summaries/answers.",
+      "keyTakeaways": [
+        "Rotate between stance, contrast, cause, exemplification frames.",
+        "Keep signposting short; avoid padding."
+      ],
+      "resources": [
+        {
+          "title": "Manchester — Academic Phrasebank (Open Access)",
+          "url": "https://www.phrasebank.manchester.ac.uk/",
+          "type": "reference",
+          "description": "Function-based phrase sets"
+        },
+        {
+          "title": "Manchester — Introducing Work (section)",
+          "url": "https://www.phrasebank.manchester.ac.uk/introducing-work/",
+          "type": "reference",
+          "description": "Clean openings for summaries"
+        }
+      ],
+      "importance": "medium",
+      "category": "Cohesion & Coherence",
+      "topics": ["Transitions", "Signposting", "Stance"]
+    },
+    {
+      "id": "E26",
+      "title": "Full-Stack Grammar Drills (Mixed Skills)",
+      "content": "Rotate weekly through clauses, modifiers, punctuation, reported speech, and parallelism with mixed sets.",
+      "keyTakeaways": [
+        "Keep an error log by category; revisit weak areas.",
+        "Do a 10-question unit test to end each session."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — SAT Grammar Practice (unit tests)",
+          "url": "https://www.khanacademy.org/test-prep/get-ready-for-sat-prep-reading-and-writing/x07a01ed1f1ffc4bd%3Adigital-sat-grammar-practice/x07a01ed1f1ffc4bd%3Aboundaries-punctuation/test/x07a01ed1f1ffc4bd%3Adigital-sat-grammar-practice-unit-test",
+          "type": "practice",
+          "description": "Quick diagnostics under time"
+        }
+      ],
+      "importance": "high",
+      "category": "Practice Platforms & Videos",
+      "topics": ["Mixed Grammar", "Diagnostics", "Error Log"]
+    },
+    {
+      "id": "E27",
+      "title": "Comprehension Extension: Nonfiction & Argument",
+      "content": "Collect longer nonfiction to practice précis + Q&A. Aim for diverse topics (science, society, policy).",
+      "keyTakeaways": [
+        "One weekly 120-word précis from longform.",
+        "Track new terms; create definition + example."
+      ],
+      "resources": [
+        {
+          "title": "The Guardian — The Audio Long Read (podcast)",
+          "url": "https://www.theguardian.com/news/series/the-audio-long-read",
+          "type": "podcast",
+          "description": "Listen & abstract"
+        },
+        {
+          "title": "The Guardian — The Long Read (series page)",
+          "url": "https://www.theguardian.com/news/series/the-long-read",
+          "type": "longform",
+          "description": "High-quality argumentative nonfiction"
+        }
+      ],
+      "importance": "medium",
+      "category": "Comprehension & Reading",
+      "topics": ["Nonfiction", "Argument", "Abstracting"]
+    },
+    {
+      "id": "E28",
+      "title": "One-Stop Past-Paper Banks (Backups)",
+      "content": "Mirror sources for quick retrieval when official site is busy. Use strictly for practice; verify against FPSC text.",
+      "keyTakeaways": [
+        "Cross-check year and question order with FPSC PDF.",
+        "Avoid relying on unofficial answer keys."
+      ],
+      "resources": [
+        {
+          "title": "The CSS Point — All CSS Past Papers",
+          "url": "https://thecsspoint.com/css-past-papers/",
+          "type": "archive",
+          "description": "Subject-wise PDFs"
+        },
+        {
+          "title": "CSSAspirants — Compulsory Subjects Past Papers",
+          "url": "https://cssaspirants.pk/css-past-papers/",
+          "type": "archive",
+          "description": "Download hub incl. English P&C"
+        }
+      ],
+      "importance": "medium",
+      "category": "Past Papers & Official",
+      "topics": ["Archives", "Verification"]
+    }
+  ]
+}

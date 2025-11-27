@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:46:17.066Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "6d19fb4d3e3799ccc52145d0812a477b6500470a",
+      "sectionIndex": 0,
+      "question": "The Quadrilateral Security Dialogue (QUAD) includes all EXCEPT:",
+      "options": [
+        "A) USA",
+        "B) India",
+        "C) China",
+        "D) Japan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1feb15113625660719a484cee6cac25a114786da",
+      "sectionIndex": 0,
+      "question": "The Abraham Accords normalized relations between Israel and:",
+      "options": [
+        "A) Palestine",
+        "B) UAE and others",
+        "C) Iran",
+        "D) Syria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3823b837d1425bea298e269b2b9717dee11f886a",
+      "sectionIndex": 0,
+      "question": "The Shanghai Cooperation Organization (SCO) was founded to counter:",
+      "options": [
+        "A) NATO expansion",
+        "B) Terrorism and separatism",
+        "C) Economic sanctions",
+        "D) Climate change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f15941b15e9f685065de3b7ab49826d9ea002764",
+      "sectionIndex": 0,
+      "question": "AUKUS security pact announced in 2021 involves:",
+      "options": [
+        "A) USA, UK, Australia",
+        "B) USA, UK, Austria",
+        "C) Australia, UK, New Zealand",
+        "D) USA, Australia, Japan"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3d1cc8267cae4763040de60586ca33be70aecbbe",
+      "sectionIndex": 0,
+      "question": "The Doha Agreement 2020 was between:",
+      "options": [
+        "A) Qatar and Saudi Arabia",
+        "B) USA and Taliban",
+        "C) Iran and USA",
+        "D) Pakistan and India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "785e828a2e82299d601d810e9c53e7923d2699bd",
+      "sectionIndex": 0,
+      "question": "India's LEMOA agreement with USA allows:",
+      "options": [
+        "A) Nuclear cooperation",
+        "B) Logistics exchange",
+        "C) Free trade",
+        "D) Joint military command"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57e99226a95d87aa52d8f768ec9262881dd0bb79",
+      "sectionIndex": 0,
+      "question": "The Wagner Group is associated with:",
+      "options": [
+        "A) USA",
+        "B) China",
+        "C) Russia",
+        "D) Israel"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7e2cb2050465e4a2b91f9de95765b6c292f2c546",
+      "sectionIndex": 0,
+      "question": "The Chabahar port agreement bypassing Pakistan involves:",
+      "options": [
+        "A) India, Iran, Afghanistan",
+        "B) China, Iran, Turkey",
+        "C) India, UAE, Iran",
+        "D) Iran, Russia, India"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f8d90ecd964831b2cbee171cff61bde661622c8f",
+      "sectionIndex": 0,
+      "question": "INSTC (International North-South Transport Corridor) connects:",
+      "options": [
+        "A) Europe to Southeast Asia",
+        "B) India to Russia via Iran",
+        "C) China to Europe",
+        "D) Africa to Asia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62f3ab2c7ccb1f63692df40594079b16a26a68c4",
+      "sectionIndex": 0,
+      "question": "The Karabakh conflict in 2020 was between:",
+      "options": [
+        "A) Russia and Georgia",
+        "B) Armenia and Azerbaijan",
+        "C) Turkey and Syria",
+        "D) Iran and Iraq"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a12e627faf83d504c6d82d703591b253bf1f936",
+      "sectionIndex": 1,
+      "question": "Pakistan was placed on FATF grey list primarily for:",
+      "options": [
+        "A) Economic mismanagement",
+        "B) Terror financing concerns",
+        "C) Nuclear proliferation",
+        "D) Human rights violations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4086e076595198d10b458baa9f938d99a7c325e",
+      "sectionIndex": 1,
+      "question": "The main challenge to CPEC implementation in Balochistan is:",
+      "options": [
+        "A) Lack of funds",
+        "B) Security concerns",
+        "C) Environmental issues",
+        "D) International opposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "492f4a24245645dd289d3acc107a37bdf46b141b",
+      "sectionIndex": 1,
+      "question": "Pakistan's water crisis is exacerbated by India's construction of:",
+      "options": [
+        "A) Baglihar Dam only",
+        "B) Multiple dams on western rivers",
+        "C) Dams on eastern rivers",
+        "D) No Indian involvement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9360c06c15f9667ac4b4b96610676d04a64fbc90",
+      "sectionIndex": 1,
+      "question": "The 18th Amendment primarily dealt with:",
+      "options": [
+        "A) Presidential powers",
+        "B) Provincial autonomy",
+        "C) Judicial independence",
+        "D) Electoral reforms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a13217b3d5303b7412603c3a28271132e4b47826",
+      "sectionIndex": 1,
+      "question": "Pakistan's energy crisis is mainly due to:",
+      "options": [
+        "A) Lack of resources",
+        "B) Circular debt and transmission losses",
+        "C) International sanctions",
+        "D) Climate change only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e86e85e6eb0e7a8cdb5ba2a169d9e4b5053465d",
+      "sectionIndex": 1,
+      "question": "The National Action Plan (NAP) was formulated after:",
+      "options": [
+        "A) 9/11 attacks",
+        "B) APS Peshawar attack",
+        "C) Mumbai attacks",
+        "D) Kargil conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11d8d3838a36acdb19e9c313a18a70b3f440c101",
+      "sectionIndex": 1,
+      "question": "Pakistan's strategic depth policy in Afghanistan aimed to:",
+      "options": [
+        "A) Economic cooperation",
+        "B) Counter Indian influence",
+        "C) Promote democracy",
+        "D) Cultural exchange"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8836582a5e461131c0226bc095837304d27fad1b",
+      "sectionIndex": 1,
+      "question": "The Reko Diq dispute involved Pakistan and:",
+      "options": [
+        "A) China",
+        "B) Barrick Gold Company",
+        "C) India",
+        "D) Iran"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "470f9bb30c55be629740a58dea5cff916c3165ae",
+      "sectionIndex": 1,
+      "question": "Pakistan's hybrid warfare challenges include all EXCEPT:",
+      "options": [
+        "A) Information warfare",
+        "B) Economic manipulation",
+        "C) Conventional military attack",
+        "D) Cyber attacks"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4619ffbed4d485dc9c2aa7aff95bcc83d8159363",
+      "sectionIndex": 1,
+      "question": "The China-Pakistan Economic Corridor's total investment is approximately:",
+      "options": [
+        "A) $20 billion",
+        "B) $46 billion initially",
+        "C) $100 billion",
+        "D) $5 billion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d22a672d2e0d5dcf39882e910a588e66fae4939",
+      "sectionIndex": 2,
+      "question": "The Belt and Road Initiative's primary objective is:",
+      "options": [
+        "A) Military expansion",
+        "B) Trade connectivity",
+        "C) Cultural domination",
+        "D) Space exploration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86a4d00c3132f1676d21de8dffd20f4267145bf5",
+      "sectionIndex": 2,
+      "question": "SWIFT sanctions are primarily used by:",
+      "options": [
+        "A) UN only",
+        "B) Western countries",
+        "C) Asian countries",
+        "D) African Union"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58757b9feee0ec978f48a313180485bd398ba291",
+      "sectionIndex": 2,
+      "question": "The petrodollar system refers to:",
+      "options": [
+        "A) Dollar-gold standard",
+        "B) Oil trade in US dollars",
+        "C) Saudi currency",
+        "D) Russian oil pricing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f4ba7ed469bd289fcf4945588048457e9c5c329",
+      "sectionIndex": 2,
+      "question": "De-dollarization efforts are led by:",
+      "options": [
+        "A) USA and allies",
+        "B) BRICS nations",
+        "C) European Union only",
+        "D) Japan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4815067d900324cd47f58181767b77fa7a6d57b6",
+      "sectionIndex": 2,
+      "question": "The Asian Infrastructure Investment Bank (AIIB) was initiated by:",
+      "options": [
+        "A) Japan",
+        "B) India",
+        "C) China",
+        "D) South Korea"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "35af990e2ed254053d3901c9d7129a63b379fc95",
+      "sectionIndex": 2,
+      "question": "Cryptocurrency regulation is strictest in:",
+      "options": [
+        "A) USA",
+        "B) China",
+        "C) Japan",
+        "D) Switzerland"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39df16262aa5d99c6f992303988629818f71ef11",
+      "sectionIndex": 2,
+      "question": "The global chip shortage primarily affected:",
+      "options": [
+        "A) Food industry",
+        "B) Automobile industry",
+        "C) Textile industry",
+        "D) Agriculture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c31eb60b67f7de57ad1d10f3217bd727c079745",
+      "sectionIndex": 2,
+      "question": "Carbon credits trading is part of:",
+      "options": [
+        "A) Military agreements",
+        "B) Climate change mitigation",
+        "C) Currency exchange",
+        "D) Stock market"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40bd785538c385fd9e261542f596dfbf1a42b1ba",
+      "sectionIndex": 2,
+      "question": "The term \"Global South\" primarily refers to:",
+      "options": [
+        "A) Southern hemisphere only",
+        "B) Developing countries",
+        "C) Antarctica region",
+        "D) Australia and New Zealand"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1bcde02d71c76ea48a8ef8196cd87a1d4e13950",
+      "sectionIndex": 2,
+      "question": "Supply chain disruptions during COVID-19 highlighted:",
+      "options": [
+        "A) Over-reliance on China",
+        "B) Strength of globalization",
+        "C) Irrelevance of manufacturing",
+        "D) Success of just-in-time"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9f6c876a501d3406d82459782b50e9a32057516d",
+      "sectionIndex": 3,
+      "question": "The Islamic Military Alliance is headquartered in:",
+      "options": [
+        "A) Mecca",
+        "B) Riyadh",
+        "C) Dubai",
+        "D) Cairo"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6fa466e0288f89ed48c084024c0e4045b019ce34",
+      "sectionIndex": 3,
+      "question": "The Qatar diplomatic crisis (2017-2021) was primarily over:",
+      "options": [
+        "A) Oil prices",
+        "B) Alleged terrorism support",
+        "C) Border disputes",
+        "D) Water rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "031d5aaf1dfd9b4c60befe96c233cec4d4e3d5d4",
+      "sectionIndex": 3,
+      "question": "Iran's nuclear program negotiations are known as:",
+      "options": [
+        "A) JCPOA",
+        "B) NPT",
+        "C) START",
+        "D) INF"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3aecdbc73bb02e0f295307bc8269c5cb900cb2d5",
+      "sectionIndex": 3,
+      "question": "The Yemen conflict involves Saudi coalition against:",
+      "options": [
+        "A) Al-Qaeda",
+        "B) Houthis",
+        "C) ISIS",
+        "D) Government forces"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e55f7373745a79ae2aa17540b3b4d06c97b52364",
+      "sectionIndex": 3,
+      "question": "Syria's civil war has resulted in Russian:",
+      "options": [
+        "A) Withdrawal",
+        "B) Military presence",
+        "C) Economic sanctions",
+        "D) Diplomatic isolation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "104fb464d116da28bf79cb627a0f0c8969e764ef",
+      "sectionIndex": 3,
+      "question": "The Arab Spring did NOT result in regime change in:",
+      "options": [
+        "A) Tunisia",
+        "B) Egypt",
+        "C) Saudi Arabia",
+        "D) Libya"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7bb678d52dbed96ad5a33b2ba32b16190b05bdb4",
+      "sectionIndex": 3,
+      "question": "Israel's normalization with Arab states excludes:",
+      "options": [
+        "A) UAE",
+        "B) Bahrain",
+        "C) Palestine",
+        "D) Morocco"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bb394381ce8fd552b87522be947c3ce38bbec54e",
+      "sectionIndex": 3,
+      "question": "Turkey's foreign policy under Erdogan shifted toward:",
+      "options": [
+        "A) Strict secularism",
+        "B) Neo-Ottomanism",
+        "C) Isolationism",
+        "D) Pro-Western only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82bbe25529da9411acaafac23dc6c70f0e675e72",
+      "sectionIndex": 3,
+      "question": "The Gulf Cooperation Council (GCC) rift was healed in:",
+      "options": [
+        "A) 2019",
+        "B) 2021",
+        "C) 2022",
+        "D) Not yet healed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53b12f827b4b5ec54c0e466e45087a7a37e31ff5",
+      "sectionIndex": 3,
+      "question": "Iran-Saudi proxy conflicts include all EXCEPT:",
+      "options": [
+        "A) Yemen",
+        "B) Syria",
+        "C) Turkey",
+        "D) Lebanon"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7a274b9e69965db86fc7b2a8588e239d8144a94d",
+      "sectionIndex": 4,
+      "question": "The Paris Agreement aims to limit global warming to:",
+      "options": [
+        "A) 1°C",
+        "B) 1.5°C",
+        "C) 2°C",
+        "D) 2.5°C"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e63940314431780418baa939e8d28960394c790b",
+      "sectionIndex": 4,
+      "question": "Pakistan's Billion Tree Tsunami was initiated in:",
+      "options": [
+        "A) Punjab",
+        "B) KPK",
+        "C) Sindh",
+        "D) Balochistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac5a3ea3869eb7697895a18570ac52780bbd981d",
+      "sectionIndex": 4,
+      "question": "The largest carbon emitter per capita is:",
+      "options": [
+        "A) China",
+        "B) Qatar",
+        "C) USA",
+        "D) India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c6c553be2c6e9d5566c85db1232ae73dad60888",
+      "sectionIndex": 4,
+      "question": "COP26 was held in:",
+      "options": [
+        "A) Paris",
+        "B) Glasgow",
+        "C) Madrid",
+        "D) Copenhagen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "562e6dadc8eaa47e9c6f71981e0974120fe7fa4c",
+      "sectionIndex": 4,
+      "question": "Pakistan's vulnerability to climate change ranks:",
+      "options": [
+        "A) Top 5",
+        "B) Top 10",
+        "C) Top 20",
+        "D) Top 50"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f5223eb15f36921cda5ba842d9e4e90f53acef2",
+      "sectionIndex": 4,
+      "question": "Net-zero emissions target for most countries is:",
+      "options": [
+        "A) 2030",
+        "B) 2040",
+        "C) 2050",
+        "D) 2060"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "07a1882c0645cd4173b0425acb10a07453f8f7d1",
+      "sectionIndex": 4,
+      "question": "The Green Climate Fund is managed by:",
+      "options": [
+        "A) World Bank",
+        "B) UN",
+        "C) IMF",
+        "D) AIIB"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12490fbcecff93015ae7d9fb2af3ce239d6b57b1",
+      "sectionIndex": 4,
+      "question": "Smog in Pakistani cities is primarily due to:",
+      "options": [
+        "A) Industry only",
+        "B) Vehicles only",
+        "C) Crop burning and multiple factors",
+        "D) Natural causes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "60fc3a1316b4740eafaa9c12019d3f266a78f169",
+      "sectionIndex": 4,
+      "question": "The concept of \"climate refugees\" is:",
+      "options": [
+        "A) Legally recognized",
+        "B) Not legally defined yet",
+        "C) Part of Geneva Convention",
+        "D) Rejected by UN"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86e79d2fd4171edce6af5190bff02333cfef2b2e",
+      "sectionIndex": 4,
+      "question": "Carbon border tax is proposed by:",
+      "options": [
+        "A) China",
+        "B) European Union",
+        "C) USA",
+        "D) India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4ea87de8a16634dee3a4ca9b70b54d434735b78",
+      "sectionIndex": 5,
+      "question": "The global chip manufacturing is dominated by:",
+      "options": [
+        "A) USA",
+        "B) Taiwan (TSMC)",
+        "C) China",
+        "D) Japan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a24ab2999e5cd176ce28b1aabdd14723c24e79f",
+      "sectionIndex": 5,
+      "question": "Pegasus spyware was developed by:",
+      "options": [
+        "A) USA",
+        "B) Russia",
+        "C) Israel (NSO Group)",
+        "D) China"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9b6ce95c90df6bd726c3fb882d0562bf93aa32f9",
+      "sectionIndex": 5,
+      "question": "5G technology leadership is contested between:",
+      "options": [
+        "A) USA and Russia",
+        "B) USA and China",
+        "C) Europe and Japan",
+        "D) India and China"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bad03477c8bf5353db8e1034e8e42efb1ab61b2",
+      "sectionIndex": 5,
+      "question": "Quantum computing supremacy was first claimed by:",
+      "options": [
+        "A) IBM",
+        "B) Google",
+        "C) Microsoft",
+        "D) Amazon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5615a6c6678b52228621307e12c8b1982a078991",
+      "sectionIndex": 5,
+      "question": "The metaverse concept was popularized by:",
+      "options": [
+        "A) Apple",
+        "B) Meta (Facebook)",
+        "C) Google",
+        "D) Microsoft"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3e7ffcc639f1a92b4e8bfbea25f53b900d5c088",
+      "sectionIndex": 5,
+      "question": "ChatGPT was developed by:",
+      "options": [
+        "A) Google",
+        "B) Microsoft",
+        "C) OpenAI",
+        "D) Meta"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a6960d75b51887770c95daf15d34f365a2961dcf",
+      "sectionIndex": 5,
+      "question": "TikTok's ownership concerns relate to:",
+      "options": [
+        "A) Content quality",
+        "B) Chinese data access",
+        "C) Copyright issues",
+        "D) Age restrictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1218c43b220932d2899f63a7b48b9fdc75a64ca7",
+      "sectionIndex": 5,
+      "question": "Starlink satellite internet is operated by:",
+      "options": [
+        "A) NASA",
+        "B) SpaceX",
+        "C) Blue Origin",
+        "D) Virgin Galactic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cde036978fbcce5d4a2ee5e9e85ff52f98d8c826",
+      "sectionIndex": 5,
+      "question": "The SolarWinds hack was attributed to:",
+      "options": [
+        "A) China",
+        "B) Russia",
+        "C) North Korea",
+        "D) Iran"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa2cb7f652dac0e09e3c6897c5b5528f9692fde0",
+      "sectionIndex": 5,
+      "question": "Digital currency initiatives by central banks are called:",
+      "options": [
+        "A) Cryptocurrency",
+        "B) CBDC",
+        "C) Bitcoin",
+        "D) Stablecoin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cdbc65a2ecbbf6a56652df283fe4286ea5e486ab",
+      "sectionIndex": 6,
+      "question": "COVID-19 vaccine diplomacy was prominently used by:",
+      "options": [
+        "A) USA only",
+        "B) China and Russia",
+        "C) EU only",
+        "D) UK only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e5012b5528432b38e0cb63835714227e53b91f5",
+      "sectionIndex": 6,
+      "question": "The COVAX initiative was led by:",
+      "options": [
+        "A) WHO alone",
+        "B) WHO, GAVI, and CEPI",
+        "C) UN Security Council",
+        "D) World Bank"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db74cbbe545486e4ddbeb9a414e621eae7ca4589",
+      "sectionIndex": 6,
+      "question": "The lab leak theory for COVID-19 origin concerns:",
+      "options": [
+        "A) Wuhan Institute",
+        "B) US lab",
+        "C) European lab",
+        "D) African lab"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6881611aa34df72202e2fd6d09709dbad7585219",
+      "sectionIndex": 6,
+      "question": "mRNA vaccine technology was first used widely for:",
+      "options": [
+        "A) Polio",
+        "B) COVID-19",
+        "C) Malaria",
+        "D) HIV"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d52953568bb5603df654c70388edf3349b743f5",
+      "sectionIndex": 6,
+      "question": "The WHO's pandemic response was criticized for:",
+      "options": [
+        "A) Acting too quickly",
+        "B) China-centric approach",
+        "C) Excessive restrictions",
+        "D) High costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "014434d5ab08cf322b552fa60b0e88f5404cf927",
+      "sectionIndex": 6,
+      "question": "Vaccine inequality was most evident between:",
+      "options": [
+        "A) Urban and rural areas",
+        "B) Developed and developing nations",
+        "C) Young and old",
+        "D) Men and women"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "979024efe53fb2bd1afc5dd49a51b16ae6f62c2c",
+      "sectionIndex": 6,
+      "question": "The Indian COVID variant was designated:",
+      "options": [
+        "A) Alpha",
+        "B) Beta",
+        "C) Delta",
+        "D) Gamma"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "24ef44c54d8cab63b8a08174a52b5761c5b94a72",
+      "sectionIndex": 6,
+      "question": "Vaccine passports raised concerns about:",
+      "options": [
+        "A) Cost only",
+        "B) Privacy and discrimination",
+        "C) Effectiveness only",
+        "D) Distribution only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e330f994b12c5bead9a089a86358cc5cfff9cdca",
+      "sectionIndex": 6,
+      "question": "Long COVID refers to:",
+      "options": [
+        "A) Extended lockdowns",
+        "B) Persistent symptoms",
+        "C) Vaccine duration",
+        "D) Virus survival"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "205d4050dac7a9587d64c0d71a38d527cb445983",
+      "sectionIndex": 6,
+      "question": "The pandemic's impact on education resulted in:",
+      "options": [
+        "A) Improved outcomes",
+        "B) Learning loss globally",
+        "C) No significant change",
+        "D) Better technology use only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8f24612cafb76091b23dc1a0dd14302cb0c1cf2",
+      "sectionIndex": 7,
+      "question": "The Citizenship Amendment Act (CAA) in India excludes:",
+      "options": [
+        "A) Hindus",
+        "B) Muslims",
+        "C) Christians",
+        "D) Buddhists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62f65eee93f9575d4e5cb32187decf2861e131e4",
+      "sectionIndex": 7,
+      "question": "Sri Lanka's 2022 economic crisis was primarily due to:",
+      "options": [
+        "A) COVID-19 only",
+        "B) Debt and policy failures",
+        "C) Natural disasters",
+        "D) War"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcbe114cc18a4c490bf2f4ec6ffdf8ef0b56ee1d",
+      "sectionIndex": 7,
+      "question": "Bangladesh's GDP growth surpassed Pakistan around:",
+      "options": [
+        "A) 2015",
+        "B) 2017",
+        "C) 2019",
+        "D) 2021"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af549aa9def59464221dd049e955618ea9f1ae6f",
+      "sectionIndex": 7,
+      "question": "The Taliban's return to power in Afghanistan occurred in:",
+      "options": [
+        "A) August 2020",
+        "B) August 2021",
+        "C) September 2021",
+        "D) July 2021"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fe7605d5f71466585fc0fe69711d4bb3288c3f7",
+      "sectionIndex": 7,
+      "question": "Myanmar's military coup took place in:",
+      "options": [
+        "A) February 2020",
+        "B) February 2021",
+        "C) March 2021",
+        "D) January 2022"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53cc5abcb6a056b53f9f6656de8b576a6d39536d",
+      "sectionIndex": 7,
+      "question": "Nepal's political crisis involves balancing between:",
+      "options": [
+        "A) USA and Russia",
+        "B) India and China",
+        "C) Pakistan and India",
+        "D) None of these"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a4f594327437a2f36ab3da6acaf4d8013dca6fb",
+      "sectionIndex": 7,
+      "question": "Bhutan's unique development indicator is:",
+      "options": [
+        "A) GDP",
+        "B) GNH (Gross National Happiness)",
+        "C) HDI",
+        "D) Per capita income"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c338f4371b3404bc80d4dcd173ab2a8efc522b2c",
+      "sectionIndex": 7,
+      "question": "The Maldives' \"India Out\" campaign reflects:",
+      "options": [
+        "A) Economic disputes",
+        "B) Geopolitical realignment",
+        "C) Cultural differences",
+        "D) Religious issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e5ce2af354a0607cb6d68e30d835accd364692f",
+      "sectionIndex": 7,
+      "question": "BIMSTEC excludes which SAARC member?",
+      "options": [
+        "A) Pakistan",
+        "B) India",
+        "C) Bangladesh",
+        "D) Sri Lanka"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4e4cb3c9f270a24f625b91436afaa893887728dc",
+      "sectionIndex": 7,
+      "question": "The Rohingya crisis primarily involves:",
+      "options": [
+        "A) Thailand",
+        "B) Myanmar and Bangladesh",
+        "C) India",
+        "D) China"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d73ec98138334576b65e2f969b900efc97ada69",
+      "sectionIndex": 8,
+      "question": "The New START treaty is between:",
+      "options": [
+        "A) USA and China",
+        "B) USA and Russia",
+        "C) NATO and Russia",
+        "D) All nuclear states"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4462b6296626c73e914f2daffdb299a2ca378b13",
+      "sectionIndex": 8,
+      "question": "Hypersonic missiles were first deployed by:",
+      "options": [
+        "A) USA",
+        "B) Russia",
+        "C) China",
+        "D) India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "677f706261f7749ff44049d375b2f84e52324553",
+      "sectionIndex": 8,
+      "question": "The INF Treaty collapsed in:",
+      "options": [
+        "A) 2017",
+        "B) 2018",
+        "C) 2019",
+        "D) 2020"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "483537f0ced6ef5c6c1740c8c9f75e1d55b3d30c",
+      "sectionIndex": 8,
+      "question": "S-400 air defense system is manufactured by:",
+      "options": [
+        "A) USA",
+        "B) Russia",
+        "C) China",
+        "D) Israel"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "571d74733b178ef9676622f92bff6a24b6d72a23",
+      "sectionIndex": 8,
+      "question": "THAAD deployment in South Korea was opposed by:",
+      "options": [
+        "A) Japan",
+        "B) China",
+        "C) Russia",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "cda6c5c72607922975f3bca5175517c4f2d7f923",
+      "sectionIndex": 8,
+      "question": "The Open Skies Treaty allowed:",
+      "options": [
+        "A) Commercial flights",
+        "B) Surveillance flights",
+        "C) Space exploration",
+        "D) Drone operations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "01292b36d3360f114e46ebc4480ee1967e908f8d",
+      "sectionIndex": 8,
+      "question": "India's nuclear doctrine includes:",
+      "options": [
+        "A) First use",
+        "B) No first use",
+        "C) Conditional use",
+        "D) Preventive use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ac7bb235f70fc8434e94ca045a209ed35c06ae0",
+      "sectionIndex": 8,
+      "question": "Pakistan's tactical nuclear weapons are called:",
+      "options": [
+        "A) Shaheen",
+        "B) Nasr",
+        "C) Ghauri",
+        "D) Babur"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e2be81adf31ca7a972f99ebf66960e95020a9f2",
+      "sectionIndex": 8,
+      "question": "The Nuclear Suppliers Group (NSG) has how many members?",
+      "options": [
+        "A) 28",
+        "B) 38",
+        "C) 48",
+        "D) 58"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e8bdef8a080634dd858c42c1a166d42ab8743fdf",
+      "sectionIndex": 8,
+      "question": "Directed energy weapons primarily use:",
+      "options": [
+        "A) Kinetic force",
+        "B) Lasers and microwaves",
+        "C) Chemical agents",
+        "D) Biological agents"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9cc51ce05f38fab6faa6a6c9f0378631e6c337f1",
+      "sectionIndex": 9,
+      "question": "The International Criminal Court is located in:",
+      "options": [
+        "A) Geneva",
+        "B) The Hague",
+        "C) New York",
+        "D) Vienna"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3468bf4711bb9062338d25aaf1aed0751ac79f0",
+      "sectionIndex": 9,
+      "question": "The UNCLOS EEZ limit is:",
+      "options": [
+        "A) 12 nautical miles",
+        "B) 100 nautical miles",
+        "C) 200 nautical miles",
+        "D) 350 nautical miles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ad4d0c20fc6fb913b0e7241ee43430bdd43df481",
+      "sectionIndex": 9,
+      "question": "Universal jurisdiction primarily applies to:",
+      "options": [
+        "A) Trade disputes",
+        "B) War crimes and genocide",
+        "C) Border conflicts",
+        "D) Economic crimes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e682c23943c5776230e84322d0657682e77ce541",
+      "sectionIndex": 9,
+      "question": "The R2P (Responsibility to Protect) doctrine was adopted in:",
+      "options": [
+        "A) 2001",
+        "B) 2005",
+        "C) 2010",
+        "D) 2015"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "073b7ad73a822c77aef0e6584fd5365756076c06",
+      "sectionIndex": 9,
+      "question": "The Uyghur issue in China is centered in:",
+      "options": [
+        "A) Tibet",
+        "B) Xinjiang",
+        "C) Hong Kong",
+        "D) Inner Mongolia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "256e49eb75cc436026eb3bf478845e83d5908c29",
+      "sectionIndex": 9,
+      "question": "The Rome Statute established:",
+      "options": [
+        "A) UN",
+        "B) ICC",
+        "C) ICJ",
+        "D) WHO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32e0f4586182cf2d1115694bfa7319ccd8deee80",
+      "sectionIndex": 9,
+      "question": "UNHCR's primary mandate is:",
+      "options": [
+        "A) Economic development",
+        "B) Refugee protection",
+        "C) Child welfare",
+        "D) Women's rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ee03e600c66cd28712a4f8bea78e74ffa6f8b0a",
+      "sectionIndex": 9,
+      "question": "The Magnitsky Act allows:",
+      "options": [
+        "A) Military intervention",
+        "B) Targeted sanctions",
+        "C) Trade benefits",
+        "D) Diplomatic immunity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "576397d6b6680c9cface3d13829ca06d0b1c27a2",
+      "sectionIndex": 9,
+      "question": "Extraterritorial jurisdiction is most controversially used by:",
+      "options": [
+        "A) Small states",
+        "B) USA",
+        "C) International courts",
+        "D) Regional bodies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4cd589a74df47fd8bc584daf8f8e813036f5e57b",
+      "sectionIndex": 9,
+      "question": "The concept of \"lawfare\" refers to:",
+      "options": [
+        "A) Military law",
+        "B) Using law as weapon",
+        "C) Legal reforms",
+        "D) International treaties"
+      ],
+      "correct": "B"
+    }
+  ]
+}

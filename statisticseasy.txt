@@ -1,0 +1,729 @@
+## Section 1: Probability Theory
+
+1. Probability Theory (Easy)
+1. The probability of an event always lies between:
+A) -1 and 1
+B) 0 and 1
+C) 0 and 100
+D) -∞ and +∞
+Answer: B
+
+2. If two events are mutually exclusive, their probability of occurring together is:
+A) 1
+B) 0.5
+C) 0
+D) Cannot be determined
+Answer: C
+
+3. The complement of an event A is denoted by:
+A) A'
+B) A²
+C) A+
+D) A×
+Answer: A
+
+4. If P(A) = 0.6, then P(A') equals:
+A) 0.6
+B) 0.4
+C) 1.6
+D) -0.6
+Answer: B
+
+5. The classical definition of probability assumes:
+A) Infinite outcomes
+B) Equally likely outcomes
+C) Dependent events
+D) Continuous data
+Answer: B
+
+6. If a die is rolled, the probability of getting an even number is:
+A) 1/6
+B) 1/3
+C) 1/2
+D) 2/3
+Answer: C
+
+7. The addition rule for two events A and B is:
+A) P(A∪B) = P(A) + P(B)
+B) P(A∪B) = P(A) + P(B) - P(A∩B)
+C) P(A∪B) = P(A) × P(B)
+D) P(A∪B) = P(A) - P(B)
+Answer: B
+
+8. Independent events have the property that:
+A) P(A∩B) = 0
+B) P(A∩B) = P(A) × P(B)
+C) P(A∩B) = P(A) + P(B)
+D) P(A∩B) = 1
+Answer: B
+
+9. The sum of probabilities of all possible outcomes equals:
+A) 0
+B) 0.5
+C) 1
+D) 2
+Answer: C
+
+10. Conditional probability P(A|B) means:
+A) Probability of A or B
+B) Probability of A given B has occurred
+C) Probability of A and B
+D) Probability of neither A nor B
+Answer: B
+
+## Section 2: Probability Distributions
+
+2. Probability Distributions (Easy)
+11. In a normal distribution, mean, median, and mode are:
+A) Different
+B) Equal
+C) Undefined
+D) Random
+Answer: B
+
+12. The standard normal distribution has mean and variance:
+A) μ = 0, σ² = 1
+B) μ = 1, σ² = 0
+C) μ = 1, σ² = 1
+D) μ = 0, σ² = 0
+Answer: A
+
+13. In a binomial distribution, each trial has:
+A) Three outcomes
+B) Two outcomes
+C) Multiple outcomes
+D) Continuous outcomes
+Answer: B
+
+14. The Poisson distribution is used for:
+A) Continuous data
+B) Rare events
+C) Large samples
+D) Paired data
+Answer: B
+
+15. In Poisson distribution, mean equals:
+A) Mode
+B) Median
+C) Variance
+D) Standard deviation
+Answer: C
+
+16. The binomial distribution parameters are:
+A) μ and σ
+B) n and p
+C) λ only
+D) α and β
+Answer: B
+
+17. A discrete random variable can take:
+A) Any value
+B) Countable values
+C) Only negative values
+D) Only positive values
+Answer: B
+
+18. The area under a probability density curve equals:
+A) 0
+B) 0.5
+C) 1
+D) ∞
+Answer: C
+
+19. Hypergeometric distribution is used when sampling is done:
+A) With replacement
+B) Without replacement
+C) From infinite population
+D) From normal population
+Answer: B
+
+20. The exponential distribution has how many parameters?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+
+## Section 3: Hypothesis Testing
+
+3. Hypothesis Testing (Easy)
+21. The null hypothesis is denoted by:
+A) H₁
+B) H₀
+C) Hₐ
+D) H
+Answer: B
+
+22. Type I error occurs when:
+A) We fail to reject a false H₀
+B) We reject a true H₀
+C) We accept a true H₀
+D) We fail to reject a true H₀
+Answer: B
+
+23. The significance level α represents:
+A) Probability of Type II error
+B) Probability of Type I error
+C) Power of test
+D) Sample size
+Answer: B
+
+24. In a two-tailed test with α = 0.05, each tail has area:
+A) 0.05
+B) 0.025
+C) 0.10
+D) 0.01
+Answer: B
+
+25. The t-test is used when:
+A) Population variance is known
+B) Population variance is unknown
+C) Sample size is large
+D) Data is categorical
+Answer: B
+
+26. Chi-square test is used for:
+A) Testing means
+B) Testing independence
+C) Testing variance only
+D) Testing median
+Answer: B
+
+27. ANOVA stands for:
+A) Analysis of Variables
+B) Analysis of Variance
+C) Analysis of Values
+D) Analysis of Vectors
+Answer: B
+
+28. The degrees of freedom for a chi-square test of independence is:
+A) n-1
+B) (r-1)(c-1)
+C) n-2
+D) r×c
+Answer: B
+
+29. A p-value less than α indicates:
+A) Fail to reject H₀
+B) Reject H₀
+C) Accept H₀
+D) Insufficient evidence
+Answer: B
+
+30. The critical region is the area where:
+A) H₀ is accepted
+B) H₀ is rejected
+C) H₁ is rejected
+D) No decision is made
+Answer: B
+
+## Section 4: Regression and Correlation
+
+4. Regression and Correlation (Easy)
+31. Correlation coefficient ranges from:
+A) 0 to 1
+B) -1 to 1
+C) -∞ to +∞
+D) 0 to 100
+Answer: B
+
+32. A correlation of 0 indicates:
+A) Perfect positive relationship
+B) Perfect negative relationship
+C) No linear relationship
+D) Strong relationship
+Answer: C
+
+33. In regression equation y = a + bx, 'b' represents:
+A) Intercept
+B) Slope
+C) Error
+D) Mean
+Answer: B
+
+34. The coefficient of determination is:
+A) r
+B) r²
+C) r³
+D) √r
+Answer: B
+
+35. If r = 0.8, then r² equals:
+A) 0.8
+B) 0.64
+C) 1.6
+D) 0.89
+Answer: B
+
+36. Regression analysis is used to:
+A) Measure association only
+B) Predict values
+C) Test normality
+D) Calculate mean
+Answer: B
+
+37. The least squares method minimizes:
+A) Sum of errors
+B) Sum of squared errors
+C) Sum of absolute errors
+D) Maximum error
+Answer: B
+
+38. In simple linear regression, how many independent variables are there?
+A) 0
+B) 1
+C) 2
+D) Many
+Answer: B
+
+39. A scatter plot is used to:
+A) Show frequencies
+B) Display relationship between two variables
+C) Show time series
+D) Display categories
+Answer: B
+
+40. Perfect positive correlation has r equal to:
+A) 0
+B) 0.5
+C) 1
+D) -1
+Answer: C
+
+## Section 5: Sampling Techniques
+
+5. Sampling Techniques (Easy)
+41. A sample is:
+A) The entire population
+B) A subset of population
+C) Always random
+D) Always large
+Answer: B
+
+42. Random sampling ensures:
+A) Small sample size
+B) Each unit has equal chance of selection
+C) Biased results
+D) Perfect representation
+Answer: B
+
+43. Stratified sampling divides population into:
+A) Equal groups
+B) Homogeneous groups
+C) Random groups
+D) Pairs
+Answer: B
+
+44. Cluster sampling is useful when:
+A) Population is homogeneous
+B) Population is geographically dispersed
+C) Sample size is small
+D) Precision is critical
+Answer: B
+
+45. Systematic sampling involves selecting:
+A) Every unit
+B) Every kth unit
+C) Random units
+D) First n units
+Answer: B
+
+46. The main advantage of sampling over census is:
+A) Accuracy
+B) Cost and time saving
+C) Complete coverage
+D) No error
+Answer: B
+
+47. Sampling error is:
+A) Always zero
+B) Difference between sample and population values
+C) Measurement error
+D) Human error
+Answer: B
+
+48. Simple random sampling can be done:
+A) With replacement only
+B) Without replacement only
+C) Both with and without replacement
+D) Neither
+Answer: C
+
+49. Non-probability sampling includes:
+A) Simple random sampling
+B) Convenience sampling
+C) Stratified sampling
+D) Cluster sampling
+Answer: B
+
+50. The sampling frame is:
+A) Sample size
+B) List of population units
+C) Sampling method
+D) Error margin
+Answer: B
+
+## Section 6: Statistical Inference
+
+6. Statistical Inference (Easy)
+51. A statistic is:
+A) A population parameter
+B) A sample characteristic
+C) Always constant
+D) Always unknown
+Answer: B
+
+52. An estimator is:
+A) A fixed value
+B) A formula or rule
+C) Always biased
+D) Population parameter
+Answer: B
+
+53. An unbiased estimator has:
+A) Zero variance
+B) Expected value equal to parameter
+C) Minimum value
+D) Maximum efficiency
+Answer: B
+
+54. The sample mean x̄ is an estimator of:
+A) Population variance
+B) Population mean μ
+C) Population median
+D) Sample variance
+Answer: B
+
+55. Maximum Likelihood Estimation (MLE) finds:
+A) Minimum values
+B) Parameter values that maximize likelihood
+C) Average values
+D) Median values
+Answer: B
+
+56. The standard error measures:
+A) Individual variation
+B) Sampling variability
+C) Measurement error
+D) Calculation error
+Answer: B
+
+57. A confidence interval provides:
+A) A single estimate
+B) A range of plausible values
+C) The true parameter
+D) Sample statistics
+Answer: B
+
+58. A 95% confidence interval means:
+A) 95% of data falls within
+B) 95% confidence in the method
+C) 95% accuracy
+D) 95% of sample included
+Answer: B
+
+59. Point estimation gives:
+A) An interval
+B) A single value
+C) Multiple values
+D) No value
+Answer: B
+
+60. The Central Limit Theorem states that sample means are approximately:
+A) Uniform
+B) Normal
+C) Exponential
+D) Binomial
+Answer: B
+
+## Section 7: Descriptive Statistics
+
+7. Descriptive Statistics (Easy)
+61. The mean is a measure of:
+A) Spread
+B) Central tendency
+C) Skewness
+D) Correlation
+Answer: B
+
+62. The median is:
+A) Average value
+B) Middle value
+C) Most frequent value
+D) Largest value
+Answer: B
+
+63. The mode is:
+A) Average value
+B) Middle value
+C) Most frequent value
+D) Range
+Answer: C
+
+64. Range is calculated as:
+A) Max + Min
+B) Max - Min
+C) Max × Min
+D) Max ÷ Min
+Answer: B
+
+65. Variance measures:
+A) Central tendency
+B) Spread of data
+C) Skewness
+D) Number of observations
+Answer: B
+
+66. Standard deviation is:
+A) Square of variance
+B) Square root of variance
+C) Double of variance
+D) Half of variance
+Answer: B
+
+67. For grouped data, we calculate:
+A) Exact values
+B) Approximate values
+C) No values
+D) Only frequencies
+Answer: B
+
+68. A histogram displays:
+A) Time series
+B) Frequency distribution
+C) Correlation
+D) Ranks
+Answer: B
+
+69. Quartiles divide data into:
+A) 2 parts
+B) 3 parts
+C) 4 parts
+D) 5 parts
+Answer: C
+
+70. The coefficient of variation is:
+A) Mean/SD
+B) SD/Mean × 100
+C) Variance/Mean
+D) Mean/Variance
+Answer: B
+
+## Section 8: Experimental Design
+
+8. Experimental Design (Easy)
+71. In a completely randomized design, treatments are assigned:
+A) Systematically
+B) Randomly
+C) In blocks
+D) In pairs
+Answer: B
+
+72. Blocking is used to:
+A) Increase error
+B) Reduce variation
+C) Complicate design
+D) Increase cost
+Answer: B
+
+73. RCBD stands for:
+A) Random Complete Block Design
+B) Randomized Complete Block Design
+C) Repeated Complete Block Design
+D) Randomized Controlled Block Design
+Answer: B
+
+74. Latin Square Design controls for:
+A) One source of variation
+B) Two sources of variation
+C) Three sources of variation
+D) No variation
+Answer: B
+
+75. The experimental unit is:
+A) Measurement device
+B) Object receiving treatment
+C) Treatment itself
+D) Response variable
+Answer: B
+
+76. Replication in experiments:
+A) Wastes resources
+B) Increases precision
+C) Is unnecessary
+D) Increases bias
+Answer: B
+
+77. A factor in an experiment is:
+A) Response variable
+B) Independent variable
+C) Error term
+D) Block
+Answer: B
+
+78. Treatment is:
+A) Medical care
+B) Specific condition of factor
+C) Control group
+D) Random error
+Answer: B
+
+79. The control group receives:
+A) All treatments
+B) No treatment
+C) Best treatment
+D) Random treatment
+Answer: B
+
+80. Randomization helps to:
+A) Increase bias
+B) Eliminate bias
+C) Increase error
+D) Reduce sample size
+Answer: B
+
+## Section 9: Index Numbers
+
+9. Index Numbers (Easy)
+81. An index number is expressed as:
+A) Percentage
+B) Ratio
+C) Difference
+D) Product
+Answer: A
+
+82. The base period index is always:
+A) 0
+B) 1
+C) 100
+D) Variable
+Answer: C
+
+83. Price index measures changes in:
+A) Quantity
+B) Price
+C) Quality
+D) Volume
+Answer: B
+
+84. Laspeyres index uses weights from:
+A) Current period
+B) Base period
+C) Average period
+D) Future period
+Answer: B
+
+85. Paasche index uses weights from:
+A) Current period
+B) Base period
+C) Average period
+D) Past period
+Answer: A
+
+86. Fisher's ideal index is:
+A) Arithmetic mean
+B) Geometric mean
+C) Harmonic mean
+D) Weighted mean
+Answer: B
+
+87. Consumer Price Index measures:
+A) Producer prices
+B) Cost of living
+C) Wholesale prices
+D) Export prices
+Answer: B
+
+88. A simple index number considers:
+A) Multiple items
+B) Single item
+C) Weighted items
+D) Quality changes
+Answer: B
+
+89. Index numbers are useful for:
+A) Exact measurement
+B) Comparing changes over time
+C) Calculating averages
+D) Finding mode
+Answer: B
+
+90. The problem of index numbers includes:
+A) Easy calculation
+B) Selection of base period
+C) No limitations
+D) Perfect accuracy
+Answer: B
+
+## Section 10: Vital Statistics
+
+10. Vital Statistics (Easy)
+91. Crude Birth Rate is expressed per:
+A) 100 population
+B) 1,000 population
+C) 10,000 population
+D) 100,000 population
+Answer: B
+
+92. Total Fertility Rate (TFR) represents:
+A) Current births
+B) Average children per woman
+C) Death rate
+D) Growth rate
+Answer: B
+
+93. Infant Mortality Rate measures deaths under:
+A) 1 month
+B) 6 months
+C) 1 year
+D) 5 years
+Answer: C
+
+94. Life expectancy is:
+A) Maximum age
+B) Average years of life remaining
+C) Current age
+D) Death rate
+Answer: B
+
+95. Crude Death Rate is calculated using:
+A) Age-specific rates
+B) Total deaths and population
+C) Birth rates
+D) Migration rates
+Answer: B
+
+96. Natural increase is:
+A) Immigration - Emigration
+B) Births - Deaths
+C) Total population
+D) Growth rate
+Answer: B
+
+97. Dependency ratio includes:
+A) Working population only
+B) Children and elderly
+C) Adults only
+D) Migrants only
+Answer: B
+
+98. Sex ratio is expressed as:
+A) Males per female
+B) Males per 100 females
+C) Females per male
+D) Percentage of males
+Answer: B
+
+99. General Fertility Rate uses:
+A) Total population
+B) Women of reproductive age
+C) Total women
+D) Married women
+Answer: B
+
+100. Population pyramid shows:
+A) Total population
+B) Age and sex distribution
+C) Death rates
+D) Birth rates
+Answer: B

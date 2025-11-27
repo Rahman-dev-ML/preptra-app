@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:31:51.753Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "88be43c3a861c6801a6490e7a3ceaf2cb9d8f01a",
+      "sectionIndex": 0,
+      "question": "The British Constitution is primarily:",
+      "options": [
+        "A) Written",
+        "B) Unwritten",
+        "C) Codified",
+        "D) Federal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88f4fe5ec69254c0999207e3d8d3522e61737433",
+      "sectionIndex": 0,
+      "question": "Parliamentary sovereignty in the UK means:",
+      "options": [
+        "A) The Queen is supreme",
+        "B) Parliament can make or unmake any law",
+        "C) Courts are supreme",
+        "D) Prime Minister has all power"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fd555f8a2c6ce861bfda03f8e1e4ad47a3c9649",
+      "sectionIndex": 0,
+      "question": "The Magna Carta was signed in:",
+      "options": [
+        "A) 1066",
+        "B) 1215",
+        "C) 1688",
+        "D) 1911"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8292b28fa08cbb8368f549e041d6a9c9e8145411",
+      "sectionIndex": 0,
+      "question": "Constitutional conventions in the UK are:",
+      "options": [
+        "A) Written laws",
+        "B) Unwritten practices and customs",
+        "C) Court decisions",
+        "D) Royal decrees"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dec1ee96497dac77f7fff93f1140d8e782fc677",
+      "sectionIndex": 0,
+      "question": "The highest court in the UK is now:",
+      "options": [
+        "A) House of Lords",
+        "B) Supreme Court",
+        "C) Privy Council",
+        "D) Crown Court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b52c7dd63f6448c7edbd874f834de082ec2c80a",
+      "sectionIndex": 0,
+      "question": "The Bill of Rights was passed in:",
+      "options": [
+        "A) 1689",
+        "B) 1789",
+        "C) 1865",
+        "D) 1948"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "324ca3b245387e83caa377fabee10037be45fe37",
+      "sectionIndex": 0,
+      "question": "The Parliament Acts of 1911 and 1948 limited the power of:",
+      "options": [
+        "A) House of Commons",
+        "B) House of Lords",
+        "C) Prime Minister",
+        "D) Monarch"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c225c039203a4c3fc39014c70e2c226339ef4431",
+      "sectionIndex": 0,
+      "question": "The UK Prime Minister is:",
+      "options": [
+        "A) Directly elected",
+        "B) Appointed by the Queen",
+        "C) Leader of the majority party",
+        "D) Elected by Parliament"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "534e2bd43d0295fe5419bdf104e467af7ffbf0f6",
+      "sectionIndex": 0,
+      "question": "The Cabinet in the UK is responsible to:",
+      "options": [
+        "A) The Queen",
+        "B) House of Lords",
+        "C) House of Commons",
+        "D) Supreme Court"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "59d7291887a5f0ebd23ee5256f6c80fbcaf57ba9",
+      "sectionIndex": 0,
+      "question": "Common law in the UK refers to:",
+      "options": [
+        "A) Written statutes",
+        "B) Judge-made law",
+        "C) Royal proclamations",
+        "D) European law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "724d2e05d9c8904402a6cb5408c79f583e2665c7",
+      "sectionIndex": 0,
+      "question": "The Rule of Law concept was expounded by:",
+      "options": [
+        "A) Blackstone",
+        "B) Dicey",
+        "C) Austin",
+        "D) Bentham"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "273d21c79938cd8aaa1091e6e17c761760c3ef1e",
+      "sectionIndex": 0,
+      "question": "The UK constitution draws from all EXCEPT:",
+      "options": [
+        "A) Statutes",
+        "B) Conventions",
+        "C) Common law",
+        "D) Single written document"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "719b2f708a66389a90bc250476d0dd5ec8d1f508",
+      "sectionIndex": 0,
+      "question": "The principle of collective responsibility applies to:",
+      "options": [
+        "A) Parliament",
+        "B) Cabinet",
+        "C) Judiciary",
+        "D) Civil service"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfb9ef2a84af12f5d7d954e2922eec7a0a218353",
+      "sectionIndex": 1,
+      "question": "The US Constitution was adopted in:",
+      "options": [
+        "A) 1776",
+        "B) 1787",
+        "C) 1789",
+        "D) 1791"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cded39c77f1d3c60d47a1215cfcbd6d259a8336b",
+      "sectionIndex": 1,
+      "question": "The US Constitution is based on the principle of:",
+      "options": [
+        "A) Parliamentary sovereignty",
+        "B) Separation of powers",
+        "C) Unitary government",
+        "D) Constitutional monarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d89c8fe2bcd33cd9107486d2ab0d35864db9245",
+      "sectionIndex": 1,
+      "question": "How many articles are in the US Constitution?",
+      "options": [
+        "A) 5",
+        "B) 7",
+        "C) 10",
+        "D) 27"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c59d74904887446a84707115488e2e7af67435d1",
+      "sectionIndex": 1,
+      "question": "The Bill of Rights consists of the first:",
+      "options": [
+        "A) 5 amendments",
+        "B) 10 amendments",
+        "C) 15 amendments",
+        "D) 20 amendments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c26574328ca0eebb1d69c4bb6cb979e6fe964262",
+      "sectionIndex": 1,
+      "question": "The US President is elected for:",
+      "options": [
+        "A) 2 years",
+        "B) 4 years",
+        "C) 6 years",
+        "D) 8 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1264aa89d8cf800e14bee87ebbb57a925fad88fe",
+      "sectionIndex": 1,
+      "question": "The US Senate has how many members?",
+      "options": [
+        "A) 50",
+        "B) 100",
+        "C) 435",
+        "D) 538"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b53ba76f1548a769af9f60ce99d211c480c55f49",
+      "sectionIndex": 1,
+      "question": "Judicial review in the US was established by:",
+      "options": [
+        "A) Constitution text",
+        "B) Marbury v. Madison",
+        "C) Congress",
+        "D) Presidential order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78d2a20f161280a6e07ea57d6aae76efcc508ba3",
+      "sectionIndex": 1,
+      "question": "The US Electoral College has:",
+      "options": [
+        "A) 435 votes",
+        "B) 500 votes",
+        "C) 538 votes",
+        "D) 600 votes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a5f7d7947296e26a89ff12ace15db1289e048f69",
+      "sectionIndex": 1,
+      "question": "US Senators serve for:",
+      "options": [
+        "A) 2 years",
+        "B) 4 years",
+        "C) 6 years",
+        "D) Life"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20640743ae178421c3a089ad6700ce118cb0ba82",
+      "sectionIndex": 1,
+      "question": "The power to declare war belongs to:",
+      "options": [
+        "A) President",
+        "B) Congress",
+        "C) Supreme Court",
+        "D) States"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eccbad6975b32ce9796efa99ca7c98ebeca72d4",
+      "sectionIndex": 1,
+      "question": "Impeachment of the President requires:",
+      "options": [
+        "A) Simple majority in House",
+        "B) 2/3 majority in Senate",
+        "C) Supreme Court decision",
+        "D) State approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c95a70f9cb68fc3e54a79847ba4757554645e24",
+      "sectionIndex": 1,
+      "question": "The US Constitution can be amended by:",
+      "options": [
+        "A) President alone",
+        "B) Congress and states",
+        "C) Supreme Court",
+        "D) Popular referendum"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "365ac6d292edff6f8014ff7f83bb204e9afe1bd2",
+      "sectionIndex": 1,
+      "question": "The Federalist Papers were written by:",
+      "options": [
+        "A) Jefferson",
+        "B) Hamilton, Madison, Jay",
+        "C) Washington",
+        "D) Franklin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b097e25327e28568e4c6260afcead2f06015f54",
+      "sectionIndex": 2,
+      "question": "Pakistan became a Republic in:",
+      "options": [
+        "A) 1947",
+        "B) 1956",
+        "C) 1962",
+        "D) 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc4f55fa4ffd08db0bf6bbd69517696cb23b4269",
+      "sectionIndex": 2,
+      "question": "The current Constitution of Pakistan was adopted in:",
+      "options": [
+        "A) 1956",
+        "B) 1962",
+        "C) 1973",
+        "D) 1985"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e86f8610cedb145344b5cb4b0319574ca64c6c0a",
+      "sectionIndex": 2,
+      "question": "The Objectives Resolution was passed in:",
+      "options": [
+        "A) 1947",
+        "B) 1949",
+        "C) 1956",
+        "D) 1973"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98d6deb9f4fb12263456e791f9ff5c64b67deed8",
+      "sectionIndex": 2,
+      "question": "Article 2 of Pakistan's Constitution declares:",
+      "options": [
+        "A) Federal structure",
+        "B) Islam as state religion",
+        "C) Fundamental rights",
+        "D) Parliamentary system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bfb770db33fe852f6ade09473435492cfbed1e6",
+      "sectionIndex": 2,
+      "question": "The 18th Amendment was passed in:",
+      "options": [
+        "A) 2008",
+        "B) 2009",
+        "C) 2010",
+        "D) 2011"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bf8da589957edfb660a3bf3fe05eb3ac6dc11251",
+      "sectionIndex": 2,
+      "question": "Articles 62 and 63 deal with:",
+      "options": [
+        "A) Fundamental rights",
+        "B) Qualifications for Parliament members",
+        "C) Provincial autonomy",
+        "D) Judicial powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c649e784a6b9d24f0391770382e336352952d0cd",
+      "sectionIndex": 2,
+      "question": "The Council of Common Interest consists of:",
+      "options": [
+        "A) PM only",
+        "B) PM and Chief Ministers",
+        "C) President and PM",
+        "D) All Ministers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f044ef72a26f2dd4a88307a9d193a67fbe5df3d1",
+      "sectionIndex": 2,
+      "question": "Pakistan's Constitution provides for:",
+      "options": [
+        "A) Unitary system",
+        "B) Federal system",
+        "C) Confederal system",
+        "D) Monarchical system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9efa26f2790825986417910cc5dd6a6685cf527",
+      "sectionIndex": 2,
+      "question": "The Supreme Court's suo motu power comes from Article:",
+      "options": [
+        "A) 175",
+        "B) 184(3)",
+        "C) 199",
+        "D) 203"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7d1e397244253af4374f7ff09af21848d7345b53",
+      "sectionIndex": 2,
+      "question": "The Constitution of 1956 was:",
+      "options": [
+        "A) Presidential",
+        "B) Parliamentary",
+        "C) Semi-presidential",
+        "D) Monarchical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "635d0b990c75a9dacfd51ec7af35dabd5234d602",
+      "sectionIndex": 2,
+      "question": "The Constitution of 1962 was:",
+      "options": [
+        "A) Parliamentary",
+        "B) Presidential",
+        "C) Federal",
+        "D) Unitary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecd5f2f67b7b6064739d4ecfd508d36b6719f2ba",
+      "sectionIndex": 2,
+      "question": "Fundamental Rights are contained in:",
+      "options": [
+        "A) Part I",
+        "B) Part II",
+        "C) Part III",
+        "D) Part IV"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbecd42e121704c0cae51b95ff78aa37e087179c",
+      "sectionIndex": 2,
+      "question": "The Islamic provisions are in Chapter:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 3A"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3398a525a1017a0228ff468973f47c75225e1ace",
+      "sectionIndex": 3,
+      "question": "The Indian Constitution was adopted in:",
+      "options": [
+        "A) 1947",
+        "B) 1949",
+        "C) 1950",
+        "D) 1952"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f6cd19f52e83d1f947a31ef0e3e8ef89600393d",
+      "sectionIndex": 3,
+      "question": "India is described as:",
+      "options": [
+        "A) Federal state",
+        "B) Unitary state",
+        "C) Union of states",
+        "D) Confederation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3549a4edce1a54c876821d925e937a2e894e8f29",
+      "sectionIndex": 3,
+      "question": "The Indian Parliament consists of:",
+      "options": [
+        "A) Lok Sabha only",
+        "B) Rajya Sabha only",
+        "C) Lok Sabha and Rajya Sabha",
+        "D) President and Lok Sabha"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "de67651feb5d9f4164bd2a879327a66dd65dea30",
+      "sectionIndex": 3,
+      "question": "Fundamental Rights in India are in Part:",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f2243c858725a682ca97bb8143814b6bd7add5cb",
+      "sectionIndex": 3,
+      "question": "The Basic Structure doctrine was established in:",
+      "options": [
+        "A) Golaknath case",
+        "B) Kesavananda Bharati case",
+        "C) Minerva Mills case",
+        "D) Maneka Gandhi case"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d7a7ef83e64aa4c15fae2a081709f2ff18de177",
+      "sectionIndex": 3,
+      "question": "India's emergency provisions are in Part:",
+      "options": [
+        "A) XV",
+        "B) XVI",
+        "C) XVII",
+        "D) XVIII"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "3f7622ed7d0f6c43858a47a228f8d34ee9c96489",
+      "sectionIndex": 3,
+      "question": "The word \"secular\" was added to India's Preamble by:",
+      "options": [
+        "A) Original Constitution",
+        "B) 42nd Amendment",
+        "C) 44th Amendment",
+        "D) 52nd Amendment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e671a63ecbba16aae57987c6e37ef088d5586d9a",
+      "sectionIndex": 3,
+      "question": "Residuary powers in India belong to:",
+      "options": [
+        "A) States",
+        "B) Union",
+        "C) Concurrent list",
+        "D) President"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b625173bba3753640dd24b07cb9234da491d0059",
+      "sectionIndex": 3,
+      "question": "The Indian Constitution borrowed federal structure from:",
+      "options": [
+        "A) UK",
+        "B) USA",
+        "C) Canada",
+        "D) Australia"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "984a73c0f5ee7f5dd61c1007d05d27639e1fc886",
+      "sectionIndex": 3,
+      "question": "India has how many states?",
+      "options": [
+        "A) 25",
+        "B) 28",
+        "C) 29",
+        "D) 30"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3aacf295f6241304f41d6855697bcc8643415433",
+      "sectionIndex": 3,
+      "question": "The Indian President is elected by:",
+      "options": [
+        "A) Direct election",
+        "B) Electoral college",
+        "C) Parliament",
+        "D) State legislatures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0a2fd8c05e0d9996caf92657d1d19edd4da0ae4",
+      "sectionIndex": 3,
+      "question": "Rajya Sabha members serve for:",
+      "options": [
+        "A) 4 years",
+        "B) 5 years",
+        "C) 6 years",
+        "D) Life"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "afdaece5559dbf1fb1171b2c6c67c2fce580a04a",
+      "sectionIndex": 3,
+      "question": "India is called quasi-federal because:",
+      "options": [
+        "A) Strong center",
+        "B) Weak states",
+        "C) No federalism",
+        "D) Confederation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d86aedc138f9c05b8472b03ce340556a3c98a397",
+      "sectionIndex": 4,
+      "question": "France is currently in which Republic?",
+      "options": [
+        "A) Third",
+        "B) Fourth",
+        "C) Fifth",
+        "D) Sixth"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b4dd8aeed2309219fb5359fe165badbade05642a",
+      "sectionIndex": 4,
+      "question": "The Fifth Republic was established in:",
+      "options": [
+        "A) 1946",
+        "B) 1958",
+        "C) 1968",
+        "D) 1981"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85b1e19a2f60ba923f3ed823779019ded7b5cf67",
+      "sectionIndex": 4,
+      "question": "The French President is elected for:",
+      "options": [
+        "A) 4 years",
+        "B) 5 years",
+        "C) 6 years",
+        "D) 7 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e6853f6f6816acf7cddeb903b988fc57b443558",
+      "sectionIndex": 4,
+      "question": "The French system is described as:",
+      "options": [
+        "A) Parliamentary",
+        "B) Presidential",
+        "C) Semi-presidential",
+        "D) Monarchical"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1886b974479664770727ace4873ca0f7e1a0e3d0",
+      "sectionIndex": 4,
+      "question": "The French Parliament consists of:",
+      "options": [
+        "A) One house",
+        "B) Two houses",
+        "C) Three houses",
+        "D) No houses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "694cf30045faef7a9e9d90e59b1f68370efa3ca9",
+      "sectionIndex": 4,
+      "question": "The National Assembly in France has:",
+      "options": [
+        "A) 377 members",
+        "B) 477 members",
+        "C) 577 members",
+        "D) 677 members"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1ea59bbe943d2632a329f1151eb6dba56f02e816",
+      "sectionIndex": 4,
+      "question": "Droit administratif refers to:",
+      "options": [
+        "A) Criminal law",
+        "B) Administrative law",
+        "C) Constitutional law",
+        "D) Private law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2d101cd9fe66868a7c5b41ab5e99354856da032",
+      "sectionIndex": 4,
+      "question": "The Conseil d'?tat is France's:",
+      "options": [
+        "A) Parliament",
+        "B) Supreme administrative court",
+        "C) Constitutional court",
+        "D) Criminal court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4cd0dd7c193964555c06e5cb5465ef0545974be9",
+      "sectionIndex": 4,
+      "question": "French communes are:",
+      "options": [
+        "A) Federal units",
+        "B) Local government units",
+        "C) Provincial governments",
+        "D) Regional assemblies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0c21cd4f3ef906858862b31521efefd3690e3e8",
+      "sectionIndex": 4,
+      "question": "The French Prime Minister is:",
+      "options": [
+        "A) Directly elected",
+        "B) Appointed by President",
+        "C) Elected by Parliament",
+        "D) Hereditary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c45104829ef4ac8b6458c60c730a5a1a73a50e0",
+      "sectionIndex": 4,
+      "question": "Cohabitation in France occurs when:",
+      "options": [
+        "A) President and PM are from same party",
+        "B) President and PM are from different parties",
+        "C) There is no PM",
+        "D) Parliament is dissolved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d77262dd22d6be1c464b54bca2be12992a99a444",
+      "sectionIndex": 4,
+      "question": "The French Senate represents:",
+      "options": [
+        "A) People directly",
+        "B) Territorial collectivities",
+        "C) Political parties",
+        "D) Trade unions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71981493a3f8c2f1a2ce1910c4f07f23b74a83b9",
+      "sectionIndex": 4,
+      "question": "The Constitutional Council in France:",
+      "options": [
+        "A) Is the Supreme Court",
+        "B) Reviews constitutionality of laws",
+        "C) Administers elections",
+        "D) Advises President"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98c9f695a7bb01d2e87a430192d4f48bc8ebfb54",
+      "sectionIndex": 5,
+      "question": "The USSR had how many republics?",
+      "options": [
+        "A) 12",
+        "B) 15",
+        "C) 18",
+        "D) 20"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6f1213710b699501735a95622c5e113c9f1e1c9",
+      "sectionIndex": 5,
+      "question": "The current Russian Constitution was adopted in:",
+      "options": [
+        "A) 1991",
+        "B) 1992",
+        "C) 1993",
+        "D) 1995"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a4904edc4a06331b3631e40416823e9bc73a3a34",
+      "sectionIndex": 5,
+      "question": "The Soviet system was based on:",
+      "options": [
+        "A) Separation of powers",
+        "B) Democratic centralism",
+        "C) Federalism",
+        "D) Capitalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62a65fc2ad257a0650d91aabf6a4819ff17a807f",
+      "sectionIndex": 5,
+      "question": "The Supreme Soviet was:",
+      "options": [
+        "A) Highest court",
+        "B) Legislature",
+        "C) Executive body",
+        "D) Party organ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "78d20744b5ccd2c7b49d4797f50fd0518a913f48",
+      "sectionIndex": 5,
+      "question": "The Russian President serves for:",
+      "options": [
+        "A) 4 years",
+        "B) 5 years",
+        "C) 6 years",
+        "D) 7 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "28cdbef30d692dca8836296132d86281612a5ea4",
+      "sectionIndex": 5,
+      "question": "Russia is a:",
+      "options": [
+        "A) Unitary state",
+        "B) Federation",
+        "C) Confederation",
+        "D) Union"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4345631d162a7ab9a8146024c31acd7a99ee4e33",
+      "sectionIndex": 5,
+      "question": "The State Duma in Russia has:",
+      "options": [
+        "A) 350 members",
+        "B) 400 members",
+        "C) 450 members",
+        "D) 500 members"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "23548d198f97619f6b908e2f6209ce4f159f45ad",
+      "sectionIndex": 5,
+      "question": "The Federation Council represents:",
+      "options": [
+        "A) People",
+        "B) Federal subjects",
+        "C) Political parties",
+        "D) President"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdf811a896c2f0a3fc744b23e8d55ccbfa59ec1e",
+      "sectionIndex": 5,
+      "question": "Article 83 of Russian Constitution deals with:",
+      "options": [
+        "A) Fundamental rights",
+        "B) Presidential powers",
+        "C) Federal structure",
+        "D) Judicial system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6893ec093997331067eb36df3e5239ba8d078654",
+      "sectionIndex": 5,
+      "question": "Democratic centralism meant:",
+      "options": [
+        "A) Full democracy",
+        "B) Centralized decision-making",
+        "C) Federal democracy",
+        "D) Direct democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "604c3de9c992bfecb1bc9eb05e5e74517d5239de",
+      "sectionIndex": 5,
+      "question": "The CPSU stood for:",
+      "options": [
+        "A) Communist Party of Soviet Union",
+        "B) Central Party of Soviet Union",
+        "C) Common Party of Soviet Union",
+        "D) Citizens Party of Soviet Union"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0682b8a0cf3f646ec6696e06f805955f6b22e1d1",
+      "sectionIndex": 5,
+      "question": "The USSR Constitution emphasized:",
+      "options": [
+        "A) Individual rights",
+        "B) Collective rights",
+        "C) No rights",
+        "D) Natural rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9d77f32b4fc28c8b8f106763258e038df59dd33",
+      "sectionIndex": 5,
+      "question": "Russia has how many federal subjects?",
+      "options": [
+        "A) 75",
+        "B) 80",
+        "C) 85",
+        "D) 90"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "98d1a63f1cad9c126c8f3fe8362ece63f00e0814",
+      "sectionIndex": 6,
+      "question": "Which country has an unwritten constitution?",
+      "options": [
+        "A) USA",
+        "B) UK",
+        "C) India",
+        "D) Pakistan"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36eba41042a025faf7b45222fe7757df77073ca8",
+      "sectionIndex": 6,
+      "question": "Federal systems exist in all EXCEPT:",
+      "options": [
+        "A) USA",
+        "B) India",
+        "C) UK",
+        "D) Pakistan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "91c24fd3ad71530daab5182f0addf07ade69105b",
+      "sectionIndex": 6,
+      "question": "Presidential systems exist in:",
+      "options": [
+        "A) UK",
+        "B) India",
+        "C) USA",
+        "D) Pakistan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7145a5eca10727baeba563e8b5cc3f7361275b14",
+      "sectionIndex": 6,
+      "question": "Parliamentary sovereignty is a feature of:",
+      "options": [
+        "A) USA",
+        "B) UK",
+        "C) France",
+        "D) Russia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb45017cb21bd251a681a9b510722d9cb0c5ca58",
+      "sectionIndex": 6,
+      "question": "Judicial review originated in:",
+      "options": [
+        "A) UK",
+        "B) USA",
+        "C) India",
+        "D) France"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d05d3971d7ff0ad3c0914af140851cd50b921b7",
+      "sectionIndex": 6,
+      "question": "The longest written constitution is of:",
+      "options": [
+        "A) USA",
+        "B) India",
+        "C) Pakistan",
+        "D) Russia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a814db236996db0b16baac513c2be47012f30aa3",
+      "sectionIndex": 6,
+      "question": "Bicameral legislatures exist in all EXCEPT:",
+      "options": [
+        "A) USA",
+        "B) UK",
+        "C) China",
+        "D) India"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f5d78da5dbf625c632cc480083b0f8eeb79139e3",
+      "sectionIndex": 6,
+      "question": "The concept of Basic Structure is from:",
+      "options": [
+        "A) USA",
+        "B) UK",
+        "C) India",
+        "D) Pakistan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5db7691ed749da9601f1b16855eb3579745a54e0",
+      "sectionIndex": 6,
+      "question": "Which country has a semi-presidential system?",
+      "options": [
+        "A) USA",
+        "B) UK",
+        "C) France",
+        "D) India"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8a80b4084a98a4e4517ffe2df48e913161fcaec1",
+      "sectionIndex": 6,
+      "question": "Emergency provisions are most detailed in:",
+      "options": [
+        "A) US Constitution",
+        "B) UK system",
+        "C) Indian Constitution",
+        "D) French Constitution"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "af68918c1ee3eebd5b4c0d93b2f4c845ba7e7adb",
+      "sectionIndex": 6,
+      "question": "Which constitution is the shortest?",
+      "options": [
+        "A) USA",
+        "B) India",
+        "C) Pakistan",
+        "D) Japan"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e69ad798b141c92ceefdf8c7007c10bee0c5ed16",
+      "sectionIndex": 7,
+      "question": "Marbury v. Madison established:",
+      "options": [
+        "A) Federalism",
+        "B) Judicial review",
+        "C) Presidential power",
+        "D) Congressional supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a721a7779dd562b14ac15dbdee2292166f594e4",
+      "sectionIndex": 7,
+      "question": "The Dosso case in Pakistan dealt with:",
+      "options": [
+        "A) Fundamental rights",
+        "B) Martial law validity",
+        "C) Islamic provisions",
+        "D) Provincial autonomy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea2a3781756f6636648aab179931e4e100c43404",
+      "sectionIndex": 7,
+      "question": "The Government of India Act 1935 provided for:",
+      "options": [
+        "A) Independence",
+        "B) Federal structure",
+        "C) Republic status",
+        "D) Dominion status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d843d79f7b1ef8f3004b69d74dd22275a75193c",
+      "sectionIndex": 7,
+      "question": "Separation of powers means:",
+      "options": [
+        "A) Federal system",
+        "B) Division among branches",
+        "C) State rights",
+        "D) Judicial supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc6ad3f6ec6942fa00be21322dbfbb8973d37205",
+      "sectionIndex": 7,
+      "question": "Rule of Law emphasizes:",
+      "options": [
+        "A) Executive power",
+        "B) Legal equality",
+        "C) Parliamentary sovereignty",
+        "D) Royal prerogative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5eba9ae3fab7f12cbdfad00176f9e71c2e18a98",
+      "sectionIndex": 7,
+      "question": "Checks and balances ensure:",
+      "options": [
+        "A) Efficiency",
+        "B) No branch becomes too powerful",
+        "C) Quick decisions",
+        "D) Centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e0c30fb245bce7440a204e37dfd72a515364625",
+      "sectionIndex": 7,
+      "question": "Fundamental rights are:",
+      "options": [
+        "A) Absolute",
+        "B) Subject to reasonable restrictions",
+        "C) Not enforceable",
+        "D) Only political"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "037cd4a0e051927ef236b92a6eb56203ac76fe4d",
+      "sectionIndex": 7,
+      "question": "Constitutionalism means:",
+      "options": [
+        "A) Having a constitution",
+        "B) Limited government",
+        "C) Written document",
+        "D) Supreme court"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12542019b1fa207d5ff0be68a7328aade198cace",
+      "sectionIndex": 7,
+      "question": "Federation requires:",
+      "options": [
+        "A) One government",
+        "B) Two levels of government",
+        "C) Three levels",
+        "D) No division"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "319e43860eaaa3d9cc39969ebb47e0dfbbdea7b4",
+      "sectionIndex": 7,
+      "question": "Amendment procedures are usually:",
+      "options": [
+        "A) Simple",
+        "B) More difficult than ordinary laws",
+        "C) Impossible",
+        "D) By courts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8970693e996225ce8c54bb346c0365e4f8d6b8bf",
+      "sectionIndex": 7,
+      "question": "Constitutional conventions are:",
+      "options": [
+        "A) Always written",
+        "B) Legally enforceable",
+        "C) Political practices",
+        "D) Court decisions"
+      ],
+      "correct": "C"
+    }
+  ]
+}

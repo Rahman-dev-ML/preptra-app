@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:18:06.171Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "5e97964df95a97b71483a5c0237c72aa83713415",
+      "sectionIndex": 0,
+      "question": "The supplementary Kyoto Protocol was needed because the UNFCCC:",
+      "options": [
+        "A) Was too strict",
+        "B) Lacked binding emission reduction targets",
+        "C) Only focused on developed countries",
+        "D) Expired in 1997"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be4abf5921a81479155b8f499303be059ab5b1d0",
+      "sectionIndex": 0,
+      "question": "The controversy associated with the Kyoto Protocol primarily centered on:",
+      "options": [
+        "A) Translation issues",
+        "B) Differentiated responsibilities between developed and developing nations",
+        "C) Meeting locations",
+        "D) Scientific consensus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9061f71565f4cb3c45d64f94fa681fffb1af6bdd",
+      "sectionIndex": 0,
+      "question": "The Rio Summit's Agenda 21 represents:",
+      "options": [
+        "A) A legally binding treaty",
+        "B) A comprehensive action plan for sustainable development",
+        "C) Only environmental protection measures",
+        "D) A replacement for national laws"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac123189dd483d95cd46067827b57452377669ba",
+      "sectionIndex": 0,
+      "question": "Pakistan's National Climate Change Policy 2012 was developed in response to:",
+      "options": [
+        "A) International pressure only",
+        "B) Increasing vulnerability despite low emissions contribution",
+        "C) Economic benefits only",
+        "D) Tourist demands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b3bd99a1b23f657da1ad8cbfdfa4e8c8e1210e9",
+      "sectionIndex": 0,
+      "question": "The relationship between UNFCCC and the Paris Agreement demonstrates:",
+      "options": [
+        "A) Complete replacement",
+        "B) Evolution from framework to specific commitments",
+        "C) Contradictory approaches",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75640a3ef20cfe3882c57907c46c225512dedab3",
+      "sectionIndex": 0,
+      "question": "The effectiveness of international environmental agreements depends on:",
+      "options": [
+        "A) Number of signatories only",
+        "B) Implementation mechanisms and compliance monitoring",
+        "C) Meeting frequency",
+        "D) Document length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43c50da4868ca869084fe4c49d9f1e2fc9df5071",
+      "sectionIndex": 0,
+      "question": "National environmental policies must balance:",
+      "options": [
+        "A) Only economic growth",
+        "B) Development needs with environmental protection",
+        "C) International demands only",
+        "D) Urban interests only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0907db02a975fba71252839ba30290b1239bfb42",
+      "sectionIndex": 0,
+      "question": "The 18th Amendment's impact on Pakistan's environmental governance created:",
+      "options": [
+        "A) Centralized control",
+        "B) Provincial autonomy requiring coordination mechanisms",
+        "C) Policy vacuum",
+        "D) International oversight"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ea645521b3854f5b719531deb1eb420fc774c43",
+      "sectionIndex": 0,
+      "question": "COP28 benefits for Pakistan could include:",
+      "options": [
+        "A) Tourism revenue only",
+        "B) Climate finance access and technology transfer",
+        "C) Avoiding responsibilities",
+        "D) Diplomatic recognition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64d8c03532793ef4656244674b1274b40df8e5c6",
+      "sectionIndex": 0,
+      "question": "The evolution from Rio to Paris shows:",
+      "options": [
+        "A) Decreasing ambition",
+        "B) Increasing specificity and accountability mechanisms",
+        "C) Focus shift from climate to biodiversity",
+        "D) Abandonment of sustainable development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20c36b2276b1db6b26ccebb8d117f6da6b22df6b",
+      "sectionIndex": 1,
+      "question": "Technological development leads to climate change through:",
+      "options": [
+        "A) Direct heating only",
+        "B) Multiple pathways including emissions and land use changes",
+        "C) Natural processes",
+        "D) Population growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3fcd8e68a5edffeead951a2186b0ec9de637b7f9",
+      "sectionIndex": 1,
+      "question": "The most significant GHGs work by:",
+      "options": [
+        "A) Destroying ozone",
+        "B) Trapping outgoing longwave radiation",
+        "C) Reflecting sunlight",
+        "D) Creating clouds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "acee33630ad37a2aadb16f680d390ee95794cce2",
+      "sectionIndex": 1,
+      "question": "Climate change affects natural and societal systems through:",
+      "options": [
+        "A) Temperature only",
+        "B) Cascading effects on water, food, health, and infrastructure",
+        "C) Gradual changes only",
+        "D) Predictable patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d7c1fc876a74a878869a07120159f25964ae57b",
+      "sectionIndex": 1,
+      "question": "Pakistan's semi-arid climate vulnerability is exacerbated by:",
+      "options": [
+        "A) Location only",
+        "B) Combination of water stress, agriculture dependence, and poverty",
+        "C) Small population",
+        "D) Abundant resources"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94ebd297c6c6226cc7be0677f570497800aa5059",
+      "sectionIndex": 1,
+      "question": "Mitigation strategies to stabilize GHG concentrations require:",
+      "options": [
+        "A) Emission reduction only",
+        "B) Both emission reduction and enhanced carbon sinks",
+        "C) Adaptation only",
+        "D) Geoengineering only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "442491306dc4e101c0f06f4a5b8215ce5208438d",
+      "sectionIndex": 1,
+      "question": "The paradox of Pakistan's climate vulnerability despite <1% emissions highlights:",
+      "options": [
+        "A) Measurement errors",
+        "B) Climate justice and differentiated impacts",
+        "C) No real vulnerability",
+        "D) Overstatement of risks"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f798297ad87b1161f3b7131eb0962fc0dfdc9053",
+      "sectionIndex": 1,
+      "question": "Adaptation measures for semi-arid regions should prioritize:",
+      "options": [
+        "A) Coastal defenses",
+        "B) Water conservation and drought-resistant agriculture",
+        "C) Snow management",
+        "D) Forest expansion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b13d0c72d0b36fecf4bf8b57cabb70a7607a47ff",
+      "sectionIndex": 1,
+      "question": "The greenhouse effect becomes problematic when:",
+      "options": [
+        "A) It exists at all",
+        "B) Enhanced by anthropogenic emissions",
+        "C) During winter",
+        "D) In polar regions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd1a3cd286813195b5141e26c4d17197a75ae901",
+      "sectionIndex": 1,
+      "question": "Climate change drivers interact through:",
+      "options": [
+        "A) Simple addition",
+        "B) Complex feedback loops and tipping points",
+        "C) Linear progression",
+        "D) Predictable cycles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ac6af2a494544573fd90f59579b137517e96d6f",
+      "sectionIndex": 1,
+      "question": "Effective climate adaptation requires:",
+      "options": [
+        "A) Technology only",
+        "B) Integration of traditional knowledge with modern approaches",
+        "C) Abandoning current practices",
+        "D) International aid only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cc2c228c87cadff44f013f6580eecbd1e80f7b6",
+      "sectionIndex": 2,
+      "question": "The four steps of EPA's risk analysis process involve:",
+      "options": [
+        "A) Random assessment",
+        "B) Systematic hazard identification through risk communication",
+        "C) Cost analysis only",
+        "D) Legal review only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4804c4f76ff8493bd26bb15ee62fb0f455438578",
+      "sectionIndex": 2,
+      "question": "The difference between EIA and IEE primarily lies in:",
+      "options": [
+        "A) Cost only",
+        "B) Scope and detail of environmental analysis",
+        "C) Legal requirements only",
+        "D) Time taken"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3ac453c89c85d51c97bbd68ad36af399a1ee935",
+      "sectionIndex": 2,
+      "question": "EIA should be initiated in the project cycle:",
+      "options": [
+        "A) After construction",
+        "B) During planning/feasibility stage",
+        "C) After environmental damage",
+        "D) During decommissioning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb26a04aaeaee881139a8884b3f408a3258304f9",
+      "sectionIndex": 2,
+      "question": "Baseline data establishment in EIA requires:",
+      "options": [
+        "A) Historical data only",
+        "B) Comprehensive environmental parameters before project impact",
+        "C) Post-project measurements",
+        "D) Estimates only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea8bc67941a2411c3eaa24bdae20b39156da7051",
+      "sectionIndex": 2,
+      "question": "Public participation in EIA enhances:",
+      "options": [
+        "A) Project delays",
+        "B) Legitimacy and identification of local concerns",
+        "C) Costs only",
+        "D) Confusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eaae392386fcc514df3bf6512721c801c6ab9803",
+      "sectionIndex": 2,
+      "question": "Strategic Environmental Assessment differs from project EIA by:",
+      "options": [
+        "A) Being cheaper",
+        "B) Assessing policies and programs rather than projects",
+        "C) Requiring less data",
+        "D) Focusing on single sites"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7bf8172c60c812f31e440149fcc845ab18dbfa81",
+      "sectionIndex": 2,
+      "question": "Risk assessment in environmental context must consider:",
+      "options": [
+        "A) Human health only",
+        "B) Ecological and human health risks with uncertainty",
+        "C) Economic risks only",
+        "D) Zero risk only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fe603c45f11d73df3f8aefca2e22c61a8b5253d",
+      "sectionIndex": 2,
+      "question": "The relationship between risk analysis and management involves:",
+      "options": [
+        "A) Sequential steps only",
+        "B) Iterative process with feedback loops",
+        "C) One-time assessment",
+        "D) Management without analysis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a020403e562e8e547ff541815f55d468c7c4941c",
+      "sectionIndex": 2,
+      "question": "Environmental risk communication should:",
+      "options": [
+        "A) Minimize all concerns",
+        "B) Transparently convey uncertainties and trade-offs",
+        "C) Use technical language only",
+        "D) Avoid public engagement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3877df5c9041a2edd696cbb9448d4d56d0d9d35",
+      "sectionIndex": 2,
+      "question": "Integration of EIA findings into project design demonstrates:",
+      "options": [
+        "A) Regulatory compliance only",
+        "B) Commitment to sustainable development",
+        "C) Cost increase",
+        "D) Project delay"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75c1bfc0bbfc7bc01bc488a71e6976826559aaf4",
+      "sectionIndex": 3,
+      "question": "Ozone depletion mechanisms involve:",
+      "options": [
+        "A) Simple breakdown",
+        "B) Catalytic cycles with Cl, NOx, and OH radicals",
+        "C) Natural processes only",
+        "D) Seasonal variations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5405255275dfe1e3aa589c3f9b2a417be0ccf993",
+      "sectionIndex": 3,
+      "question": "The relationship between stratospheric ozone and UV radiation demonstrates:",
+      "options": [
+        "A) No connection",
+        "B) Inverse relationship affecting biological systems",
+        "C) Direct proportion",
+        "D) Random variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85c7d9aa7336c6d9597312318a30220d85eb077c",
+      "sectionIndex": 3,
+      "question": "Smog formation in Punjab results from:",
+      "options": [
+        "A) Fog only",
+        "B) Complex photochemical reactions with precursor emissions",
+        "C) Natural phenomena",
+        "D) Temperature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aaf263db174edfeefc8e61e8e10e7195f5a11f0f",
+      "sectionIndex": 3,
+      "question": "Meteorological factors affecting pollutant dispersion include:",
+      "options": [
+        "A) Temperature only",
+        "B) Wind patterns, stability, and mixing height",
+        "C) Rainfall only",
+        "D) Seasons only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81ae6c15dcfd837d9e6b02b40041179cd31a770f",
+      "sectionIndex": 3,
+      "question": "The five major air pollutants from combustion interact through:",
+      "options": [
+        "A) Independent behavior",
+        "B) Synergistic effects and secondary pollutant formation",
+        "C) Simple mixing",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a4671307789383ae86f0f4ce22c4557ea373711",
+      "sectionIndex": 3,
+      "question": "Regulatory mechanisms for smog control must address:",
+      "options": [
+        "A) Symptoms only",
+        "B) Multiple sources including transport, industry, and agriculture",
+        "C) Natural causes",
+        "D) International sources only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2078c99c3afdf93cd68eb26996c0fa9cd0b927a9",
+      "sectionIndex": 3,
+      "question": "Implementation of city-level smog mitigation requires:",
+      "options": [
+        "A) Technology only",
+        "B) Integrated approach with monitoring, enforcement, and public engagement",
+        "C) Voluntary compliance",
+        "D) Seasonal measures only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c168836d50875b762ffc9c21ef03ee4f3fe3e177",
+      "sectionIndex": 3,
+      "question": "The effectiveness of ozone layer protection demonstrates:",
+      "options": [
+        "A) Policy failure",
+        "B) Successful international cooperation with measurable recovery",
+        "C) No impact",
+        "D) Increasing depletion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b7d40fe2cceec6d94bdec84e96254becce5753ec",
+      "sectionIndex": 3,
+      "question": "Urban air quality management challenges include:",
+      "options": [
+        "A) Lack of pollutants",
+        "B) Multiple sources, transboundary effects, and enforcement capacity",
+        "C) Too much monitoring",
+        "D) Single source only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d04fa541f8ec4d2894be5d90d60983dcda8c66d",
+      "sectionIndex": 3,
+      "question": "The relationship between air pollution and climate change shows:",
+      "options": [
+        "A) No connection",
+        "B) Co-benefits from addressing both simultaneously",
+        "C) Opposing solutions",
+        "D) Sequential problems"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdd8987a6261b2a71c4dc164db50adc0e4640a95",
+      "sectionIndex": 4,
+      "question": "Hazardous waste classification systems must consider:",
+      "options": [
+        "A) Volume only",
+        "B) Multiple characteristics including toxicity, persistence, and bioaccumulation",
+        "C) Color coding",
+        "D) Origin only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b217195986796ea104df494e1701828890b42c4",
+      "sectionIndex": 4,
+      "question": "CERCLA's approach to hazardous waste involves:",
+      "options": [
+        "A) Prevention only",
+        "B) Liability assignment and cleanup financing mechanisms",
+        "C) Voluntary action",
+        "D) Future planning only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05561346c1b47c6600e56024851a79b8bc2e8e8f",
+      "sectionIndex": 4,
+      "question": "Hospital waste management codes address:",
+      "options": [
+        "A) General waste only",
+        "B) Segregation, treatment, and disposal of different waste categories",
+        "C) Cost reduction only",
+        "D) Staff convenience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22cb9eb4f7fa07c5d6cdd4aea3cbec320edb9a9d",
+      "sectionIndex": 4,
+      "question": "Sustainable solid waste management approaches integrate:",
+      "options": [
+        "A) Disposal only",
+        "B) Waste hierarchy: reduce, reuse, recycle, recover, dispose",
+        "C) Landfilling only",
+        "D) Incineration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7f2a5a3f0b1da606c76dcfd0f6535aead094a17",
+      "sectionIndex": 4,
+      "question": "Physico-chemical parameters of wastewater indicate:",
+      "options": [
+        "A) Temperature only",
+        "B) Pollution load and treatment requirements",
+        "C) Volume only",
+        "D) Color only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0419a4eb8ce8f68b5046cbc6b5bda871d72e405e",
+      "sectionIndex": 4,
+      "question": "Wastewater treatment technology selection depends on:",
+      "options": [
+        "A) Cost only",
+        "B) Influent characteristics, discharge standards, and local conditions",
+        "C) Available space only",
+        "D) International trends"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d84df6ab8fefc55df8fcbf1bd73c8de18ef06df",
+      "sectionIndex": 4,
+      "question": "The relationship between waste management and circular economy involves:",
+      "options": [
+        "A) Linear disposal",
+        "B) Resource recovery and waste as raw material",
+        "C) Increased waste generation",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2f8358a2fb347658509ff9a958b7fa6ee6132cc",
+      "sectionIndex": 4,
+      "question": "Anaerobic treatment for biogas generation requires:",
+      "options": [
+        "A) Oxygen presence",
+        "B) Controlled conditions optimizing microbial processes",
+        "C) High temperature only",
+        "D) Chemical additives only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf2167070a2c00e14c8af177631cf9756162f105",
+      "sectionIndex": 4,
+      "question": "Integrated waste management success depends on:",
+      "options": [
+        "A) Technology only",
+        "B) Stakeholder participation and appropriate technology mix",
+        "C) Government control",
+        "D) Private sector only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d7db15d9a4847bf982dc6ddbe12d78a383b0f74",
+      "sectionIndex": 4,
+      "question": "Waste management policy effectiveness requires:",
+      "options": [
+        "A) Strict penalties only",
+        "B) Economic incentives combined with regulation and awareness",
+        "C) Voluntary compliance",
+        "D) Technology focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "645be1792c9e48c66211819290a4144d6a2b58ed",
+      "sectionIndex": 5,
+      "question": "The difference between natural and cultural eutrophication lies in:",
+      "options": [
+        "A) Location only",
+        "B) Time scale and anthropogenic nutrient inputs",
+        "C) Temperature differences",
+        "D) Species involved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc4922d0519adf02f61722eb02f9fb254c741bd2",
+      "sectionIndex": 5,
+      "question": "Combating eutrophication requires addressing:",
+      "options": [
+        "A) Algae only",
+        "B) Nutrient sources through watershed management",
+        "C) Water temperature",
+        "D) Fish populations only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d65ede9945016a36ccc2bf79000b8a97c84fc00",
+      "sectionIndex": 5,
+      "question": "The relationship between eutrophication and dissolved oxygen demonstrates:",
+      "options": [
+        "A) Direct proportion",
+        "B) Inverse relationship through decomposition processes",
+        "C) No connection",
+        "D) Seasonal variation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "185562a7d84e80525301185bff2e4dcdda039622",
+      "sectionIndex": 5,
+      "question": "Wetlands' role in environmental management includes:",
+      "options": [
+        "A) Water storage only",
+        "B) Multiple ecosystem services including filtration and biodiversity",
+        "C) Flood creation",
+        "D) Pollution source"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c106c90056f66a2729f227b707faaf16ffd706e",
+      "sectionIndex": 5,
+      "question": "Sustainable wetland management in Pakistan must balance:",
+      "options": [
+        "A) Conservation only",
+        "B) Ecosystem services with livelihood needs",
+        "C) Development only",
+        "D) International demands"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f44566c626d9e90279450054edeb32835ac19f7",
+      "sectionIndex": 5,
+      "question": "The Indus Water Treaty's significance in current water stress involves:",
+      "options": [
+        "A) Historical interest only",
+        "B) Framework for cooperation amid increasing scarcity",
+        "C) Obstacle to development",
+        "D) Unlimited water sharing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea546e1e9340ab3a77ee200435930492e2d7624e",
+      "sectionIndex": 5,
+      "question": "Water quality parameters interact through:",
+      "options": [
+        "A) Independent behavior",
+        "B) Complex biogeochemical cycles",
+        "C) Simple addition",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d1f56edef07996b7bebcc1cfc45ca690a7b4e78",
+      "sectionIndex": 5,
+      "question": "Integrated water resources management requires:",
+      "options": [
+        "A) Supply augmentation only",
+        "B) Demand management with ecosystem needs",
+        "C) Engineering solutions only",
+        "D) Groundwater focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "679121f2a41be1112a9e94da9c565146c282fd86",
+      "sectionIndex": 5,
+      "question": "The link between water policy and climate adaptation involves:",
+      "options": [
+        "A) Separate issues",
+        "B) Integrated planning for variability and extremes",
+        "C) Conflicting goals",
+        "D) No connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2642fd44cfe426ba444d0e2a8b4f0897984207a9",
+      "sectionIndex": 5,
+      "question": "Transboundary water management challenges include:",
+      "options": [
+        "A) Technical issues only",
+        "B) Political, technical, and climate change dimensions",
+        "C) Too much water",
+        "D) Simple allocation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb182529704f1310ebdcc0f8e7dd18f41f98f77f",
+      "sectionIndex": 6,
+      "question": "CDM's role in sustainable development involves:",
+      "options": [
+        "A) Carbon credits only",
+        "B) Technology transfer and sustainable development co-benefits",
+        "C) Developed country benefits only",
+        "D) Market manipulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3c26b4d93b31fe27325af101b1963579b3e178b",
+      "sectionIndex": 6,
+      "question": "Alternative energy deployment barriers include:",
+      "options": [
+        "A) Excess efficiency",
+        "B) Initial costs, grid integration, and policy gaps",
+        "C) Too much support",
+        "D) No technology available"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bde5e334df45269fb786ab4512c0038cbf49d538",
+      "sectionIndex": 6,
+      "question": "The relationship between renewable energy and climate mitigation shows:",
+      "options": [
+        "A) Minor contribution",
+        "B) Essential role requiring system transformation",
+        "C) Temporary solution",
+        "D) Economic burden only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "def2d449c892d96dc58c85e21d09139daecc8b1d",
+      "sectionIndex": 6,
+      "question": "Biogas generation efficiency depends on:",
+      "options": [
+        "A) Temperature only",
+        "B) Feedstock composition, retention time, and process control",
+        "C) Reactor size only",
+        "D) Seasonal factors only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e1c97d8eaf54e7c31309a7e5f73125a87835828",
+      "sectionIndex": 6,
+      "question": "Bioremediation success factors include:",
+      "options": [
+        "A) Microorganism addition only",
+        "B) Environmental conditions and contaminant bioavailability",
+        "C) Time only",
+        "D) Natural attenuation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f40b1e3443d6b6dec87dbc33f3e713fcd69f490",
+      "sectionIndex": 6,
+      "question": "GMO deployment for food security must address:",
+      "options": [
+        "A) Yield only",
+        "B) Environmental risks, socio-economic impacts, and regulatory frameworks",
+        "C) Corporate profits",
+        "D) Export markets only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "107ed9f35b728e648fc1fd2cab53f48fa6f456da",
+      "sectionIndex": 6,
+      "question": "Clean technology adoption requires:",
+      "options": [
+        "A) Technology import only",
+        "B) Local capacity building and adaptation",
+        "C) Subsidy dependency",
+        "D) Foreign control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f604e6054166a209dc9335cf8140a70dad8123a",
+      "sectionIndex": 6,
+      "question": "Energy transition pathways must consider:",
+      "options": [
+        "A) Technology only",
+        "B) Social equity, grid stability, and economic viability",
+        "C) Speed only",
+        "D) International trends only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14c13beda97ea86df1e4fe72c86896767687bb1c",
+      "sectionIndex": 6,
+      "question": "The nexus between energy, water, and food requires:",
+      "options": [
+        "A) Sectoral approach",
+        "B) Integrated planning recognizing interdependencies",
+        "C) Energy priority",
+        "D) Sequential development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1c118d059d060a00f2539d3162bf8af8159b3239",
+      "sectionIndex": 6,
+      "question": "Biotechnology's environmental applications extend beyond:",
+      "options": [
+        "A) Laboratory only",
+        "B) Field-scale ecosystem restoration and waste treatment",
+        "C) Research papers",
+        "D) Theoretical concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "813d2fb7a3a8dbb281094c1bada77d299f7503b0",
+      "sectionIndex": 7,
+      "question": "GIS applications in environmental management enable:",
+      "options": [
+        "A) Mapping only",
+        "B) Spatial analysis for decision support",
+        "C) Data storage only",
+        "D) Visualization only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e786c59ffbb24b16a5fda03901876f09d0893ca6",
+      "sectionIndex": 7,
+      "question": "Remote sensing for environmental monitoring provides:",
+      "options": [
+        "A) Ground truth only",
+        "B) Temporal and spatial coverage for change detection",
+        "C) Real-time data only",
+        "D) Perfect accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "309d19a6800aa6f3cb4a0e310eb3b80ff66f7819",
+      "sectionIndex": 7,
+      "question": "The integration of GIS and remote sensing enhances:",
+      "options": [
+        "A) Cost only",
+        "B) Multi-scale environmental assessment capabilities",
+        "C) Complexity only",
+        "D) Data volume only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65920f416bcdcfee00056fe2f5c5b1499b821ad1",
+      "sectionIndex": 7,
+      "question": "Environmental indicators must be:",
+      "options": [
+        "A) Numerous",
+        "B) Scientifically valid, policy relevant, and understandable",
+        "C) Complex only",
+        "D) International only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f6711fd3d0525e3f6cacae2df80f209e598ec72",
+      "sectionIndex": 7,
+      "question": "Risk analysis in environmental management differs from engineering by:",
+      "options": [
+        "A) Precision only",
+        "B) Incorporating ecological complexity and uncertainty",
+        "C) Avoiding probability",
+        "D) Deterministic approach"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ebec27d0b8cce66ec5dd90d12e2e090fae40f67",
+      "sectionIndex": 7,
+      "question": "Carrying capacity assessments must consider:",
+      "options": [
+        "A) Maximum population only",
+        "B) Dynamic interactions between population, resources, and technology",
+        "C) Historical data only",
+        "D) Single species only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20cd74bdad3c939ddbbfc669ec7a04c58eaa853f",
+      "sectionIndex": 7,
+      "question": "Carbon footprint calculations should include:",
+      "options": [
+        "A) Direct emissions only",
+        "B) Life cycle emissions including embedded carbon",
+        "C) Transportation only",
+        "D) Energy use only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d22f7263fcb43f428f8b86e80eca6571be942cff",
+      "sectionIndex": 7,
+      "question": "Environmental monitoring network design requires:",
+      "options": [
+        "A) Random placement",
+        "B) Statistical and practical considerations for representativeness",
+        "C) Urban areas only",
+        "D) Cost minimization only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3f3eb9001cab6844590fb36d9386a24b5f5400c",
+      "sectionIndex": 7,
+      "question": "The relationship between monitoring and adaptive management involves:",
+      "options": [
+        "A) One-time assessment",
+        "B) Continuous feedback for policy adjustment",
+        "C) Data collection only",
+        "D) Reporting only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "360f19e51c359635280419f5b590cb2f03809cfc",
+      "sectionIndex": 7,
+      "question": "Technology adoption for environmental management must address:",
+      "options": [
+        "A) Technical aspects only",
+        "B) Capacity building and institutional frameworks",
+        "C) Equipment purchase only",
+        "D) International standards only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53353e87ce2ab2e4a072f792e80961bb32c7dac8",
+      "sectionIndex": 8,
+      "question": "Occupational health in environmental contexts requires:",
+      "options": [
+        "A) PPE only",
+        "B) Hierarchy of controls and exposure assessment",
+        "C) Medical checkups only",
+        "D) Compensation focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38543b80cace070a876633d708d3e8a8302ce11d",
+      "sectionIndex": 8,
+      "question": "The relationship between environmental and occupational health shows:",
+      "options": [
+        "A) Separate concerns",
+        "B) Overlapping exposures requiring integrated approaches",
+        "C) Workplace focus only",
+        "D) Environmental priority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4e57474e0fe3272f44ec149458dbf89c0810449",
+      "sectionIndex": 8,
+      "question": "Noise pollution control strategies must address:",
+      "options": [
+        "A) Source reduction only",
+        "B) Source-path-receptor interventions",
+        "C) Complaints only",
+        "D) Measurement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7d3d6e77bf717a89582d250e8aa386d191beaf9",
+      "sectionIndex": 8,
+      "question": "Desertification processes involve:",
+      "options": [
+        "A) Natural causes only",
+        "B) Complex interactions of climate, land use, and socio-economic factors",
+        "C) Sand accumulation only",
+        "D) Rainfall reduction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0070b50dd4cbcf16a5e42f9fe854719494b17c08",
+      "sectionIndex": 8,
+      "question": "Urban heat island mitigation requires:",
+      "options": [
+        "A) Air conditioning",
+        "B) Green infrastructure and urban planning integration",
+        "C) Population reduction",
+        "D) Industrial relocation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e0d571389d68fdb6318600ed9c4ffd56ce51289",
+      "sectionIndex": 8,
+      "question": "E-waste management challenges include:",
+      "options": [
+        "A) Volume only",
+        "B) Toxic components and informal recycling sectors",
+        "C) Collection only",
+        "D) Export bans only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "460dc477f74a9ad69296dcab7a3373171b0c70db",
+      "sectionIndex": 8,
+      "question": "Environmental justice in hazard exposure reveals:",
+      "options": [
+        "A) Equal distribution",
+        "B) Disproportionate impacts on vulnerable communities",
+        "C) Random patterns",
+        "D) No social dimensions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5eed8f6d05d9a7ae6695abd65b19dbd22d86bd4",
+      "sectionIndex": 8,
+      "question": "Workplace exposure assessment must consider:",
+      "options": [
+        "A) Chemical hazards only",
+        "B) Multiple stressors including physical and biological agents",
+        "C) Acute effects only",
+        "D) Individual susceptibility only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c52ce974bf0814d0dcbd56e66723abab2fd9d921",
+      "sectionIndex": 8,
+      "question": "The precautionary principle in environmental health applies when:",
+      "options": [
+        "A) Certainty exists",
+        "B) Scientific uncertainty exists but potential harm is serious",
+        "C) No risks exist",
+        "D) After damage occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e1e52656fea35dd5b8933fc07d5dbd3dec9e49e",
+      "sectionIndex": 8,
+      "question": "Integrated safety management systems link:",
+      "options": [
+        "A) Documentation only",
+        "B) Environmental, health, and safety performance",
+        "C) Regulatory compliance only",
+        "D) Cost reduction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ee18904b3021419e7ac501ee3aac40d53e98d95",
+      "sectionIndex": 9,
+      "question": "The Pakistan Environmental Protection Act 1997's implementation faces:",
+      "options": [
+        "A) Over-enforcement",
+        "B) Capacity and coordination challenges across agencies",
+        "C) No obstacles",
+        "D) International interference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8537c0f6577d872cad875bb9681562609f15afa8",
+      "sectionIndex": 9,
+      "question": "Climate vulnerability in Pakistan's semi-arid regions manifests through:",
+      "options": [
+        "A) Flooding only",
+        "B) Water stress, extreme events, and agricultural impacts",
+        "C) Cold waves only",
+        "D) Stable conditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "214fd88cb7ef0bcf29c735614e441f0fb7ff0e51",
+      "sectionIndex": 9,
+      "question": "The devolution of environmental powers post-18th Amendment requires:",
+      "options": [
+        "A) Federal control",
+        "B) Inter-provincial coordination mechanisms",
+        "C) International oversight",
+        "D) Centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d0f395735d1e66fd9841ac9d63e655ce0cb8101",
+      "sectionIndex": 9,
+      "question": "Pakistan's climate finance needs must address:",
+      "options": [
+        "A) Mitigation only",
+        "B) Adaptation priorities given high vulnerability",
+        "C) International reputation",
+        "D) Emission reduction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21b91b48575f6ed8d3363617c759b862bb6395d2",
+      "sectionIndex": 9,
+      "question": "Transboundary environmental issues for Pakistan include:",
+      "options": [
+        "A) National concerns only",
+        "B) Air pollution, water resources, and climate impacts",
+        "C) Biodiversity only",
+        "D) Marine issues only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "02809362a1a86e4fbc461ef205194b19e0728120",
+      "sectionIndex": 9,
+      "question": "Integrating climate change into development planning requires:",
+      "options": [
+        "A) Separate strategies",
+        "B) Mainstreaming across sectors",
+        "C) Environmental ministry only",
+        "D) International consultants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ebc8ad2848e9daca94ef73ad7b7f773db0b7ee8",
+      "sectionIndex": 9,
+      "question": "Pakistan's biodiversity conservation challenges involve:",
+      "options": [
+        "A) Too much protection",
+        "B) Habitat loss and weak enforcement",
+        "C) Excess funding",
+        "D) No threats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa8fe24f98f9a5c047291d2a2dbd1dd1b8df1351",
+      "sectionIndex": 9,
+      "question": "Sustainable development in Pakistan must reconcile:",
+      "options": [
+        "A) Growth only",
+        "B) Poverty reduction with environmental sustainability",
+        "C) Conservation only",
+        "D) International demands only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22481ec76ef612c23169c466c123eb381610b70a",
+      "sectionIndex": 9,
+      "question": "Environmental governance effectiveness depends on:",
+      "options": [
+        "A) Laws only",
+        "B) Implementation capacity and stakeholder engagement",
+        "C) International pressure",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c17f2b362633adfa7fef2e6f0f71f7ecd6c891a9",
+      "sectionIndex": 9,
+      "question": "Future environmental management in Pakistan requires:",
+      "options": [
+        "A) Status quo",
+        "B) Adaptive approach to emerging challenges",
+        "C) Rigid planning",
+        "D) External solutions only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

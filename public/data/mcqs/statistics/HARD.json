@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:20:24.343Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "f272912c186fd90c35907c421942222fe9844f42",
+      "sectionIndex": 0,
+      "question": "For three events A, B, C with P(A) = P(B) = P(C) = 1/2, P(A^B) = P(B^C) = P(A^C) = 1/4, and P(A^B^C) = 1/8, the events are:",
+      "options": [
+        "A) Mutually independent",
+        "B) Pairwise independent but not mutually independent",
+        "C) Not pairwise independent",
+        "D) Mutually exclusive"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b690d08784431a7c9d4b2ebd248e3eb766cdd289",
+      "sectionIndex": 0,
+      "question": "In a factory defect problem with Poisson arrivals, if defects occur at rate λ and are independently Type A with probability p, then Type A defects follow:",
+      "options": [
+        "A) Binomial(n, p)",
+        "B) Poisson(λp)",
+        "C) Poisson(λ/p)",
+        "D) Exponential(λp)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d90c7136e3d37777ff9a6ba58bb0c6fd534bd7e0",
+      "sectionIndex": 0,
+      "question": "For continuous random variables X and Y with joint density f(x,y), the conditional expectation E[X|Y=y] is:",
+      "options": [
+        "A) ^xf(x,y)dx",
+        "B) ^xf(x|y)dx",
+        "C) ^xf(x,y)/f_Y(y)dx",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1f18e452688d416c405365215934a42aedfbcc22",
+      "sectionIndex": 0,
+      "question": "The probability generating function of the sum of independent random variables is:",
+      "options": [
+        "A) Sum of individual PGFs",
+        "B) Product of individual PGFs",
+        "C) Convolution of PGFs",
+        "D) Maximum of PGFs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "572759262866f603b12d52ed9058a35fa8a77de3",
+      "sectionIndex": 0,
+      "question": "For a Markov chain with transition matrix P, the n-step transition probability is given by:",
+      "options": [
+        "A) nP",
+        "B) P^n",
+        "C) P + P +...+ P (n times)",
+        "D) exp(nP)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e05efd3a76b84f22fc1a2ea55c558655d40e21d1",
+      "sectionIndex": 0,
+      "question": "The Borel-Cantelli lemma states that if ΣP(A_n) < ^z, then:",
+      "options": [
+        "A) P(lim sup A_n) = 0",
+        "B) P(lim inf A_n) = 1",
+        "C) P(^A_n) = 1",
+        "D) Events are independent"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "488f213b92e42aec96591a796578a89f4ec87783",
+      "sectionIndex": 0,
+      "question": "For a branching process with offspring distribution having mean μ, extinction is certain if:",
+      "options": [
+        "A) μ < 1",
+        "B) μ = 1",
+        "C) μ ? 1",
+        "D) μ > 1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "520ce0ada40cde4b74a929e2d07e090c48b40be1",
+      "sectionIndex": 0,
+      "question": "The Radon-Nikodym theorem relates:",
+      "options": [
+        "A) Probability and measure",
+        "B) Absolute continuity of measures",
+        "C) Independence of events",
+        "D) Convergence of series"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ddf2b50a41afa081143be0d1160961c11338b89",
+      "sectionIndex": 0,
+      "question": "In optimal stopping theory, the secretary problem with n candidates has optimal stopping rule to reject first:",
+      "options": [
+        "A) n/2 candidates",
+        "B) n/e candidates",
+        "C) ^sn candidates",
+        "D) n/? candidates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1574d5fcbb7732504c4f8a93cf9e1758cc80560a",
+      "sectionIndex": 0,
+      "question": "For exchangeable random variables X,, X,,,..., de Finetti's theorem states they are:",
+      "options": [
+        "A) Independent",
+        "B) Conditionally independent given some f-algebra",
+        "C) Identically distributed",
+        "D) Martingales"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdc0f42c4c863d57a4df60a655b690226d5be561",
+      "sectionIndex": 1,
+      "question": "The Conway-Maxwell-Poisson distribution generalizes Poisson by adding parameter ν that controls:",
+      "options": [
+        "A) Mean only",
+        "B) Variance only",
+        "C) Dispersion",
+        "D) Skewness only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "92a082ebc272d771c46e5242c4d5e460ee82bcd7",
+      "sectionIndex": 1,
+      "question": "For a multivariate normal distribution, zero correlation implies independence if and only if:",
+      "options": [
+        "A) Always true",
+        "B) Distribution is bivariate",
+        "C) Marginals are standard normal",
+        "D) Joint distribution is normal"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "88c51dba65dddf38f234bdc498858e89284d301c",
+      "sectionIndex": 1,
+      "question": "The Wishart distribution is the sampling distribution of:",
+      "options": [
+        "A) Sample mean",
+        "B) Sample covariance matrix",
+        "C) Sample correlation",
+        "D) Sample median"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b7dde83d6b27e2b2db9f965915b0f9863370b99",
+      "sectionIndex": 1,
+      "question": "The relationship between chi-square, t, and F distributions is:",
+      "options": [
+        "A) ?2/n ?' N(0,1) as n?'^z",
+        "B) t2 ~ F(1,n)",
+        "C) F(m,n) = (?2_m/m)/(?2_n/n)",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b396e89a6dfc71c4da68d472a8809efb44591909",
+      "sectionIndex": 1,
+      "question": "The stable distributions are characterized by the property that:",
+      "options": [
+        "A) Mean equals variance",
+        "B) Linear combinations have same distribution type",
+        "C) All moments exist",
+        "D) Support is bounded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13f9e5d7eb520c39ee2e0e2d0ee3b66c6ed25dad",
+      "sectionIndex": 1,
+      "question": "The inverse Gaussian distribution arises as:",
+      "options": [
+        "A) Reciprocal of normal",
+        "B) First passage time of Brownian motion",
+        "C) Limit of binomial",
+        "D) Maximum of exponentials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c784e0e1011796e1e666187f050b335c1e49a236",
+      "sectionIndex": 1,
+      "question": "For the beta-binomial distribution, the overdispersion parameter affects:",
+      "options": [
+        "A) Mean only",
+        "B) Variance relative to binomial",
+        "C) Support of distribution",
+        "D) Number of trials"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "976f3f7fccef3887bd52c31ea862a293b11df4d6",
+      "sectionIndex": 1,
+      "question": "The Dirichlet distribution is conjugate prior for:",
+      "options": [
+        "A) Normal mean",
+        "B) Poisson rate",
+        "C) Multinomial probabilities",
+        "D) Exponential rate"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "210d75161849ae460503c86d9ce83dfeef32274c",
+      "sectionIndex": 1,
+      "question": "The generalized extreme value distribution has three types depending on:",
+      "options": [
+        "A) Location parameter",
+        "B) Scale parameter",
+        "C) Shape parameter",
+        "D) Sample size"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9a4920d335de3d8af4f852a611e7e33fd476e27b",
+      "sectionIndex": 1,
+      "question": "The copula of a multivariate distribution:",
+      "options": [
+        "A) Determines marginal distributions",
+        "B) Captures dependence structure",
+        "C) Is always Gaussian",
+        "D) Requires independence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83903452ab531f66e2da539747b2c54520587282",
+      "sectionIndex": 2,
+      "question": "The Neyman-Pearson lemma provides the most powerful test for:",
+      "options": [
+        "A) Any composite hypothesis",
+        "B) Simple versus simple hypotheses",
+        "C) Multiple comparisons",
+        "D) Nonparametric tests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b654614295fd8b841b38f01fbe6aee3e842e34a5",
+      "sectionIndex": 2,
+      "question": "The likelihood ratio test statistic -2log(λ) asymptotically follows:",
+      "options": [
+        "A) Normal distribution",
+        "B) t-distribution",
+        "C) Chi-square distribution",
+        "D) F-distribution"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9643e8dc33b9ee48cebd17be0b41d6259a3315c0",
+      "sectionIndex": 2,
+      "question": "In sequential probability ratio test (SPRT), the stopping boundaries depend on:",
+      "options": [
+        "A) Sample size only",
+        "B) Desired Type I and II errors",
+        "C) Population variance",
+        "D) Test statistic distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "846e28759b5ceb5b2ea4a32792d6c5142fd0e978",
+      "sectionIndex": 2,
+      "question": "The Wald, Score, and Likelihood Ratio tests are asymptotically equivalent but differ in:",
+      "options": [
+        "A) Null hypothesis",
+        "B) Alternative hypothesis",
+        "C) Finite sample properties",
+        "D) Asymptotic distribution"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2594fe4082f4323195cd1d5e0804c5f9b27eb93b",
+      "sectionIndex": 2,
+      "question": "For testing homogeneity of variances, Bartlett's test is sensitive to:",
+      "options": [
+        "A) Sample size",
+        "B) Non-normality",
+        "C) Unequal means",
+        "D) Correlation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1879408eb836b0c0c75a78964c036e6d2a7c83f",
+      "sectionIndex": 2,
+      "question": "The false discovery rate (FDR) controls:",
+      "options": [
+        "A) Type I error for each test",
+        "B) Expected proportion of false positives among rejections",
+        "C) Family-wise error rate",
+        "D) Type II error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4140d3bf1791e16b3e19905658e46e6f557c05ab",
+      "sectionIndex": 2,
+      "question": "In permutation tests, the p-value is exact when:",
+      "options": [
+        "A) Sample is large",
+        "B) Distribution is normal",
+        "C) Exchangeability holds under null",
+        "D) Variances are equal"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "98a97ed56228412156a4b66592102a9d1bdd0b6a",
+      "sectionIndex": 2,
+      "question": "The uniformly most powerful unbiased (UMPU) test exists for:",
+      "options": [
+        "A) All testing problems",
+        "B) Exponential family with nuisance parameters",
+        "C) Nonparametric tests",
+        "D) Composite alternatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3725cf996801733ba6bd457f241ca2f6cbdba7f3",
+      "sectionIndex": 2,
+      "question": "The Behrens-Fisher problem deals with:",
+      "options": [
+        "A) Testing correlation",
+        "B) Comparing means with unequal variances",
+        "C) Multiple comparisons",
+        "D) Goodness of fit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e76278dc733a4edd864b17789443cb82031510c",
+      "sectionIndex": 2,
+      "question": "The optimal α level in Neyman-Pearson framework depends on:",
+      "options": [
+        "A) Sample size only",
+        "B) Loss function and prior probabilities",
+        "C) Always 0.05",
+        "D) Type II error only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "943bab887cea7cb15ec603c063596be82a065f80",
+      "sectionIndex": 3,
+      "question": "In the presence of heteroscedasticity, OLS estimators are:",
+      "options": [
+        "A) Biased and inconsistent",
+        "B) Unbiased but inefficient",
+        "C) Efficient but biased",
+        "D) Neither unbiased nor consistent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1062ce8f45c0cf3738948eda16bd16c493ab2f88",
+      "sectionIndex": 3,
+      "question": "The Gauss-Markov theorem states OLS estimators are BLUE when:",
+      "options": [
+        "A) Errors are normal",
+        "B) Classical assumptions hold",
+        "C) Sample is large",
+        "D) No multicollinearity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1e983b7217e21d759abb05d032dfaa072b6725e",
+      "sectionIndex": 3,
+      "question": "Ridge regression shrinks coefficients by:",
+      "options": [
+        "A) Adding penalty to likelihood",
+        "B) Adding L2 penalty to sum of squares",
+        "C) Removing predictors",
+        "D) Transforming variables"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1c668fa46947644b47b21effe0cd886d23df65e",
+      "sectionIndex": 3,
+      "question": "The variance inflation factor (VIF) for predictor j equals:",
+      "options": [
+        "A) 1/(1-R2_j)",
+        "B) R2_j",
+        "C) 1-R2_j",
+        "D) ^s(1-R2_j)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e6e6f3f71646bcc7cb84f468508b518925231319",
+      "sectionIndex": 3,
+      "question": "In instrumental variables regression, a valid instrument must be:",
+      "options": [
+        "A) Correlated with Y",
+        "B) Uncorrelated with error term",
+        "C) Highly correlated with X",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "29773c58e047f62d42de7b9fa8fadee87ea67e06",
+      "sectionIndex": 3,
+      "question": "The Hausman test in panel data compares:",
+      "options": [
+        "A) OLS and GLS",
+        "B) Fixed and random effects",
+        "C) Between and within estimators",
+        "D) Pooled and unpooled models"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "476020720149996e0ba0c2b99395e26b6a5bd8fa",
+      "sectionIndex": 3,
+      "question": "Quantile regression minimizes:",
+      "options": [
+        "A) Squared errors",
+        "B) Absolute errors",
+        "C) Weighted absolute errors",
+        "D) Maximum error"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "688e51dd0fafcab3c181d626a0faeb0900943d56",
+      "sectionIndex": 3,
+      "question": "The partial R2 in multiple regression represents:",
+      "options": [
+        "A) Total variation explained",
+        "B) Additional variation explained by one predictor",
+        "C) Correlation between predictors",
+        "D) Goodness of fit"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4633248ab91c5c0ddc57f0e05e77ad049db14cea",
+      "sectionIndex": 3,
+      "question": "In seemingly unrelated regression (SUR), efficiency gains occur when:",
+      "options": [
+        "A) Equations are independent",
+        "B) Cross-equation errors are correlated",
+        "C) Same predictors in all equations",
+        "D) Large sample size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f99665112d6d350f5b8cff9e162f733b88cb3f0c",
+      "sectionIndex": 3,
+      "question": "The Box-Cox transformation parameter λ is estimated to:",
+      "options": [
+        "A) Minimize residual sum of squares",
+        "B) Achieve normality",
+        "C) Maximize likelihood",
+        "D) Reduce multicollinearity"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "19f3904a2eb6547d2404d5e9fd6af9012c8e759b",
+      "sectionIndex": 4,
+      "question": "The Horvitz-Thompson estimator in unequal probability sampling is:",
+      "options": [
+        "A) Always biased",
+        "B) Unbiased with proper weights",
+        "C) More efficient than SRS",
+        "D) Requires equal probabilities"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d34b7423de901b86e9c32a6584c8d6b63263a59",
+      "sectionIndex": 4,
+      "question": "In adaptive cluster sampling, the final sample size is:",
+      "options": [
+        "A) Fixed in advance",
+        "B) Random variable",
+        "C) Always larger than initial",
+        "D) Minimized"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd6e35b9f3299ed7045b3003ff0cea761a10cf57",
+      "sectionIndex": 4,
+      "question": "The optimal allocation in stratified sampling considering costs minimizes:",
+      "options": [
+        "A) Total cost",
+        "B) Variance for fixed cost",
+        "C) Cost for fixed variance",
+        "D) Both B and C possible"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "671029f9f30dcfce13c90d52dfce7a38aef1bad1",
+      "sectionIndex": 4,
+      "question": "Balanced repeated replication (BRR) is used for:",
+      "options": [
+        "A) Increasing sample size",
+        "B) Variance estimation in complex surveys",
+        "C) Reducing bias",
+        "D) Improving response rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa705e1b2632f066a446400a8e451e752d6993e1",
+      "sectionIndex": 4,
+      "question": "The design-based approach to survey inference relies on:",
+      "options": [
+        "A) Model assumptions",
+        "B) Randomization distribution",
+        "C) Normal approximation",
+        "D) Bayesian principles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24b4dbb42a378560a74437da7d2c169c9890dc5c",
+      "sectionIndex": 4,
+      "question": "Calibration estimation in surveys adjusts weights to:",
+      "options": [
+        "A) Reduce variance",
+        "B) Match known population totals",
+        "C) Correct for non-response",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1c03853ee002020c0f4e9c210ce7d47270d722f2",
+      "sectionIndex": 4,
+      "question": "The ultimate cluster method is used when:",
+      "options": [
+        "A) Clusters are large",
+        "B) Element-level sampling is difficult",
+        "C) High precision needed",
+        "D) Cost is not a factor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "826199ebdf45cb9fc9750b6933facbf55a989343",
+      "sectionIndex": 4,
+      "question": "Network sampling is particularly useful for:",
+      "options": [
+        "A) General populations",
+        "B) Rare or hidden populations",
+        "C) Large populations",
+        "D) Homogeneous populations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ae8d6504ce7f8d5163119ac20c43540d34a40cc",
+      "sectionIndex": 4,
+      "question": "The finite population correction becomes negligible when:",
+      "options": [
+        "A) n/N < 0.05",
+        "B) n > 30",
+        "C) N > 1000",
+        "D) Population is normal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "80cdf0da9163ee970f33342e727ec66da6f7aa7c",
+      "sectionIndex": 4,
+      "question": "Capture-recapture methods estimate population size using:",
+      "options": [
+        "A) Single sample",
+        "B) Multiple samples with marking",
+        "C) Census data",
+        "D) Administrative records"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07dcda3c5e12cf98e31464d0d43b2a3e0c07b6c9",
+      "sectionIndex": 5,
+      "question": "The Fisher information I(θ) represents:",
+      "options": [
+        "A) Sample information",
+        "B) Expected curvature of log-likelihood",
+        "C) Observed information",
+        "D) Prior information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfd826f6d2525c43267d249430b165c19478c731",
+      "sectionIndex": 5,
+      "question": "For location-scale families, the best equivariant estimator is:",
+      "options": [
+        "A) Always MLE",
+        "B) Sample mean and variance",
+        "C) Depends on loss function",
+        "D) Method of moments"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "51b89980369e35d41ee5e2c080eba27a99feb756",
+      "sectionIndex": 5,
+      "question": "The Jeffreys prior is proportional to:",
+      "options": [
+        "A) Uniform distribution",
+        "B) Square root of Fisher information",
+        "C) Likelihood function",
+        "D) Posterior mean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8200240daca7fa95134b41c846266280f061c385",
+      "sectionIndex": 5,
+      "question": "Empirical Bayes methods estimate prior parameters using:",
+      "options": [
+        "A) Subjective beliefs",
+        "B) The data itself",
+        "C) External information",
+        "D) Uniform prior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05777e28ece78e233b34ef97a7066903a5ee57aa",
+      "sectionIndex": 5,
+      "question": "The profile likelihood for parameter θ, when nuisance parameter θ,, exists is:",
+      "options": [
+        "A) L(θ,, θ,,,)",
+        "B) max_θ,, L(θ,, θ,,)",
+        "C) ^L(θ,, θ,,)dθ,,",
+        "D) L(θ,, 0)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d267ffcdf8f687756e36023ba1fcc71065491cbe",
+      "sectionIndex": 5,
+      "question": "U-statistics are used because they are:",
+      "options": [
+        "A) Always unbiased",
+        "B) Minimum variance unbiased estimators",
+        "C) Easy to compute",
+        "D) Robust"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "584af4d98f63c62b7b3d121a86f6d9b83a0a47ab",
+      "sectionIndex": 5,
+      "question": "The sandwich estimator corrects standard errors for:",
+      "options": [
+        "A) Small samples",
+        "B) Model misspecification",
+        "C) Missing data",
+        "D) Measurement error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b0aa0d0347d7bfed29818ef5c509c84010eeaaa",
+      "sectionIndex": 5,
+      "question": "In empirical likelihood, the likelihood is:",
+      "options": [
+        "A) Parametric",
+        "B) Based on empirical distribution",
+        "C) Always normal",
+        "D) Requires large samples"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8d46409d8efa397263eb421b4145c144d898979",
+      "sectionIndex": 5,
+      "question": "The bootstrap bias correction uses:",
+      "options": [
+        "A) 2θ, - E*(θ,*)",
+        "B) θ, - E*(θ,*)",
+        "C) E*(θ,*)",
+        "D) θ, + E*(θ,*)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fb6eb1345defa50ea951774258840c279d972cf5",
+      "sectionIndex": 5,
+      "question": "Edgeworth expansions improve on normal approximation by:",
+      "options": [
+        "A) Adding polynomial terms",
+        "B) Using different distribution",
+        "C) Increasing sample size",
+        "D) Transforming data"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a054c6229f23e38bf87fe5ce51655bc9910c2cfe",
+      "sectionIndex": 6,
+      "question": "L-moments are linear combinations of order statistics that are:",
+      "options": [
+        "A) More sensitive to outliers than conventional moments",
+        "B) Less sensitive to outliers than conventional moments",
+        "C) Equivalent to conventional moments",
+        "D) Only defined for normal distribution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1f48aa203231d48a51c54291fd84bbc5a491fe0",
+      "sectionIndex": 6,
+      "question": "The Winsorized mean addresses outliers by:",
+      "options": [
+        "A) Removing them",
+        "B) Replacing extreme values with less extreme ones",
+        "C) Using median instead",
+        "D) Weighting observations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70b656f42b7c3453ff621a8eba1aced8adfe912a",
+      "sectionIndex": 6,
+      "question": "For multimodal distributions, the dip test tests:",
+      "options": [
+        "A) Number of modes",
+        "B) Unimodality versus multimodality",
+        "C) Location of modes",
+        "D) Height of modes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c226122b7ac60cb2aad9679af1be8d9a0ba5f51",
+      "sectionIndex": 6,
+      "question": "The Gini coefficient can be computed from the Lorenz curve as:",
+      "options": [
+        "A) Maximum distance from diagonal",
+        "B) Twice the area between curve and diagonal",
+        "C) Slope at median",
+        "D) Area under curve"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0226b9fd9efff1c4e62a922d6e838e09f8efc01b",
+      "sectionIndex": 6,
+      "question": "Robust measures of scale include all except:",
+      "options": [
+        "A) MAD (median absolute deviation)",
+        "B) Interquartile range",
+        "C) Standard deviation",
+        "D) Biweight midvariance"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "473749b34ab42b769396868596391c0101c853a6",
+      "sectionIndex": 6,
+      "question": "The breakdown point of an estimator is:",
+      "options": [
+        "A) Where it fails computationally",
+        "B) Proportion of contamination it can tolerate",
+        "C) Sample size where it becomes biased",
+        "D) Asymptotic variance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "417c867b129c1aa7e0300139be72bb3f08a6cabd",
+      "sectionIndex": 6,
+      "question": "M-estimators generalize:",
+      "options": [
+        "A) Maximum likelihood only",
+        "B) Least squares only",
+        "C) Both ML and LS",
+        "D) Method of moments"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f3eaaab68632a4610c8bb8f12abdbbc86bd37129",
+      "sectionIndex": 6,
+      "question": "The influence function measures:",
+      "options": [
+        "A) Sample size effect",
+        "B) Effect of infinitesimal contamination",
+        "C) Correlation between variables",
+        "D) Prediction accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e75bcee8c98a79995208ae6c6417ec5c5b93e979",
+      "sectionIndex": 6,
+      "question": "For directional data, the circular mean requires:",
+      "options": [
+        "A) Arithmetic average",
+        "B) Vector addition approach",
+        "C) Median direction",
+        "D) Mode direction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ebd24d55edc1027d6e3b8ffb83357d8eaa83a07",
+      "sectionIndex": 6,
+      "question": "The Mahalanobis distance accounts for:",
+      "options": [
+        "A) Euclidean distance only",
+        "B) Correlation structure in multivariate data",
+        "C) Missing values",
+        "D) Time dependence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "094c9bf3bec812b4234b94179c958438742b9f59",
+      "sectionIndex": 7,
+      "question": "Optimal design theory seeks designs that:",
+      "options": [
+        "A) Minimize cost",
+        "B) Maximize information matrix determinant",
+        "C) Use fewest runs",
+        "D) Are easiest to analyze"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ad359c37cee4b465744d52b6cf76e21c1d82cec",
+      "sectionIndex": 7,
+      "question": "In response surface methodology, the central composite design includes:",
+      "options": [
+        "A) Factorial points only",
+        "B) Factorial, axial, and center points",
+        "C) Random points",
+        "D) Equally spaced points"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04d200822206200444fcf760e0967fb7a5e3daa7",
+      "sectionIndex": 7,
+      "question": "Crossover designs must account for:",
+      "options": [
+        "A) Treatment effects only",
+        "B) Carryover effects",
+        "C) Period effects only",
+        "D) Subject effects only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36168c2d852236749536df888fda8d52d9ada037",
+      "sectionIndex": 7,
+      "question": "The alias structure in fractional factorial designs determines:",
+      "options": [
+        "A) Main effects only",
+        "B) Confounding pattern",
+        "C) Run order",
+        "D) Block structure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da035e0a2ba3a626e0928767cc13eea03adb6024",
+      "sectionIndex": 7,
+      "question": "D-efficiency of a design measures:",
+      "options": [
+        "A) Cost efficiency",
+        "B) Relative determinant of information matrix",
+        "C) Power of tests",
+        "D) Ease of implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "717419d690b2539585f4833cd1dc050ecba1c6d9",
+      "sectionIndex": 7,
+      "question": "In mixture experiments, the constraint ΣXi = 1 requires:",
+      "options": [
+        "A) Standard designs",
+        "B) Simplex-based designs",
+        "C) Factorial designs",
+        "D) No special consideration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d2ff71ea08a596369f143971a8972e78ee87463",
+      "sectionIndex": 7,
+      "question": "Supersaturated designs have:",
+      "options": [
+        "A) More runs than factors",
+        "B) Fewer runs than factors",
+        "C) Equal runs and factors",
+        "D) Replicated runs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edae85ad4d7d10029dda6a7f7f117b51e3fc5eb6",
+      "sectionIndex": 7,
+      "question": "The minimum aberration criterion selects designs with:",
+      "options": [
+        "A) Fewest factors",
+        "B) Least confounding of low-order effects",
+        "C) Maximum resolution",
+        "D) Minimum runs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8237760fe47e1f16bf0019beadbda7e156d6976c",
+      "sectionIndex": 7,
+      "question": "In split-split-plot designs, the hierarchy of experimental units creates:",
+      "options": [
+        "A) Single error term",
+        "B) Multiple error terms",
+        "C) No error term",
+        "D) Infinite error terms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "345ae1abae5d478c4103fa47fb52ebe264036d26",
+      "sectionIndex": 7,
+      "question": "Robust parameter design (Taguchi methods) emphasizes:",
+      "options": [
+        "A) Mean optimization only",
+        "B) Variance reduction only",
+        "C) Signal-to-noise ratio",
+        "D) Cost minimization"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f5cc3a8172ba6a56280cb8a895b783f86bf73d8e",
+      "sectionIndex": 8,
+      "question": "The economic approach to index numbers is based on:",
+      "options": [
+        "A) Statistical averages",
+        "B) Consumer theory and preferences",
+        "C) Time series only",
+        "D) Fixed baskets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bfb88fbcfb68c4f96093e4b4e39644407b41c6f",
+      "sectionIndex": 8,
+      "question": "Superlative index numbers have the property that they:",
+      "options": [
+        "A) Are always highest",
+        "B) Approximate economic theoretic indices",
+        "C) Use current weights",
+        "D) Satisfy all tests"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c75d731b1df6d0762b59c97ea984812819dcebb6",
+      "sectionIndex": 8,
+      "question": "The Törnqvist index is the geometric mean of:",
+      "options": [
+        "A) Price relatives",
+        "B) Expenditure share weighted price relatives",
+        "C) Quantity relatives",
+        "D) Simple indices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "66f95dd0a609817cc347e60a5766ea4b156db2cb",
+      "sectionIndex": 8,
+      "question": "Hedonic price indices address quality change by:",
+      "options": [
+        "A) Ignoring it",
+        "B) Regression on characteristics",
+        "C) Using matched samples",
+        "D) Expert judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3abf5b1be25256bca7f793e9a53d9151c6049839",
+      "sectionIndex": 8,
+      "question": "The GEKS method for multilateral comparisons ensures:",
+      "options": [
+        "A) Transitivity only",
+        "B) Base invariance only",
+        "C) Both transitivity and base invariance",
+        "D) Neither property"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fae8512b7e504a6a4a9cc71329791106c7d045fb",
+      "sectionIndex": 8,
+      "question": "Scanner data challenges for index construction include:",
+      "options": [
+        "A) High frequency only",
+        "B) Product churn and zero quantities",
+        "C) Too much accuracy",
+        "D) Lack of prices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb249bb4e08b63c44f8cb6f99071213ca49d3bc7",
+      "sectionIndex": 8,
+      "question": "The Lloyd-Moulton index accounts for:",
+      "options": [
+        "A) Substitution bias",
+        "B) Quality change",
+        "C) New products",
+        "D) Outlet substitution"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c977c18ebb0eda7a771f29ebec1c8d3c8133b351",
+      "sectionIndex": 8,
+      "question": "Democratic vs plutocratic indices differ in:",
+      "options": [
+        "A) Formula used",
+        "B) Household weighting",
+        "C) Time period",
+        "D) Items included"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67f8cabeb9cd94f0929c97a3b11b7f3347e24ffc",
+      "sectionIndex": 8,
+      "question": "The CPI-U versus CPI-W distinction reflects:",
+      "options": [
+        "A) Urban vs rural",
+        "B) All urban vs wage earners",
+        "C) Upper vs lower class",
+        "D) Unweighted vs weighted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "296cdd97fb0ba42133e718e7353179a814298a55",
+      "sectionIndex": 8,
+      "question": "Spatial price indices face the challenge of:",
+      "options": [
+        "A) No time dimension",
+        "B) Different consumption patterns",
+        "C) Currency differences",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "68323b0086e2fe489cf3fe446e08d42dc6b00312",
+      "sectionIndex": 9,
+      "question": "The Brass logit life table system models mortality using:",
+      "options": [
+        "A) Linear transformation of standard",
+        "B) Exponential functions",
+        "C) Polynomial fitting",
+        "D) Spline smoothing"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8188a7ab24eb33dc0ee67ebc1a33b355933cd5e5",
+      "sectionIndex": 9,
+      "question": "Lee-Carter mortality forecasting uses:",
+      "options": [
+        "A) Simple extrapolation",
+        "B) Singular value decomposition",
+        "C) Moving averages",
+        "D) Expert opinion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7102c87a508da1a45b08761a8c73bcf8f89eef49",
+      "sectionIndex": 9,
+      "question": "The synthetic cohort assumption in TFR calculation assumes:",
+      "options": [
+        "A) Constant mortality",
+        "B) Age-specific rates apply to cohort",
+        "C) No migration",
+        "D) Stable population"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9e8a71bd80c296c25c7e6f07689515291244404",
+      "sectionIndex": 9,
+      "question": "Multiple decrement life tables account for:",
+      "options": [
+        "A) Single cause of death",
+        "B) Competing risks",
+        "C) Birth rates",
+        "D) Migration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3cadaf75ac5728be2a35fbf97ab6879097d1cc19",
+      "sectionIndex": 9,
+      "question": "The Lexis diagram represents:",
+      "options": [
+        "A) Population pyramid",
+        "B) Age-period-cohort effects",
+        "C) Fertility patterns",
+        "D) Migration flows"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "389dc154d93807226097ff49ec00c95a1d8a75a4",
+      "sectionIndex": 9,
+      "question": "Model life tables (Coale-Demeny) are used when:",
+      "options": [
+        "A) Complete data exists",
+        "B) Data is limited or unreliable",
+        "C) Population is stable",
+        "D) Mortality is constant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5528f76d9921d10ef70d19026308836238e92c0f",
+      "sectionIndex": 9,
+      "question": "The singulate mean age at marriage (SMAM) assumes:",
+      "options": [
+        "A) All eventually marry",
+        "B) No mortality effect",
+        "C) First marriages only",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1905a45a6870bf90bfcdd0a91ae80540967b55b4",
+      "sectionIndex": 9,
+      "question": "Indirect standardization is preferred when:",
+      "options": [
+        "A) Age-specific rates unreliable",
+        "B) Large population",
+        "C) Direct method fails",
+        "D) Rates are stable"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1b85e91532e28bd3e63907cd0427a5cc028ea72f",
+      "sectionIndex": 9,
+      "question": "The intrinsic rate of increase r satisfies:",
+      "options": [
+        "A) ^e^(-rx)l(x)m(x)dx = 1",
+        "B) r = b - d",
+        "C) r = ln(R,?)/T",
+        "D) All under different conditions"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "0ac2bc00c0b9c9d87bd71f3bb29bc44093ebe40a",
+      "sectionIndex": 9,
+      "question": "Tempo effects in fertility refer to:",
+      "options": [
+        "A) Seasonal patterns",
+        "B) Timing shifts affecting period measures",
+        "C) Cohort differences",
+        "D) Sampling variation"
+      ],
+      "correct": "B"
+    }
+  ]
+}

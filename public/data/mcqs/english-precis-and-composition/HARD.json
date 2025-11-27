@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T12:51:29.135Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "0d16eba32697d20c4892c3587e9084034809eab1",
+      "sectionIndex": 0,
+      "question": "In \"It is essential that he be present,\" the verb \"be\" is in:",
+      "options": [
+        "A) Present indicative",
+        "B) Present subjunctive",
+        "C) Past subjunctive",
+        "D) Infinitive mood"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28d5e8c6fff3586a1ce99eb1b6e2fcd5d9b11920",
+      "sectionIndex": 0,
+      "question": "The sentence \"Never have I seen such beauty\" demonstrates:",
+      "options": [
+        "A) Negative concord",
+        "B) Syntactic inversion after negative adverb",
+        "C) Passive transformation",
+        "D) Cleft construction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98c8a19217819218e312e72f66481e0a318e3f50",
+      "sectionIndex": 0,
+      "question": "\"The man whose son became a doctor\" contains a:",
+      "options": [
+        "A) Restrictive relative clause with genitive marker",
+        "B) Non-restrictive clause",
+        "C) Noun clause",
+        "D) Adverbial clause"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4b7327deb01f10854961e943e749dad287346eab",
+      "sectionIndex": 0,
+      "question": "In \"The more carefully you work, the fewer mistakes you make,\" the construction is:",
+      "options": [
+        "A) Comparative correlation",
+        "B) Double comparative",
+        "C) Parallel structure",
+        "D) Proportional comparative"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e461cbcd66e4fbf1b1f7e9e8196fb98c95c97921",
+      "sectionIndex": 0,
+      "question": "\"Having been warned of the danger, he proceeded cautiously\" contains:",
+      "options": [
+        "A) Present participle",
+        "B) Perfect passive participle",
+        "C) Gerund phrase",
+        "D) Infinitive phrase"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1dd41f20dacad2a25473c337fc8464999ec43d26",
+      "sectionIndex": 0,
+      "question": "The grammatical function of \"that\" in \"The fact that he lied disturbs me\" is:",
+      "options": [
+        "A) Relative pronoun",
+        "B) Demonstrative adjective",
+        "C) Complementizer",
+        "D) Subordinating conjunction"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "022b5c818d824116db73e95a27fe6f00071a7b57",
+      "sectionIndex": 0,
+      "question": "\"Were I to know the answer, I would tell you\" uses:",
+      "options": [
+        "A) Past subjunctive",
+        "B) Conditional inversion",
+        "C) Past perfect",
+        "D) Modal auxiliary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "497933f9f785131d42ca48f0cd58eea25cdeb0c1",
+      "sectionIndex": 0,
+      "question": "The construction \"It was John who broke the vase\" is called:",
+      "options": [
+        "A) Extraposition",
+        "B) Cleft sentence",
+        "C) Pseudo-cleft",
+        "D) Topicalization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b845b9bbd549862439215828a849f80e41ad063b",
+      "sectionIndex": 0,
+      "question": "In \"The meeting over, we left the room,\" the absolute construction indicates:",
+      "options": [
+        "A) Simultaneous action",
+        "B) Causal relationship",
+        "C) Temporal sequence",
+        "D) Conditional relationship"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7db603d649e599d7f688dc998b8d918ee5a31173",
+      "sectionIndex": 0,
+      "question": "\"So devastating was the storm that thousands fled\" exhibits:",
+      "options": [
+        "A) Result clause with fronted intensifier",
+        "B) Causal adverbial",
+        "C) Concessive clause",
+        "D) Purpose clause"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8fee617b828f792be4be0a5b1a3e70da25d0cedf",
+      "sectionIndex": 1,
+      "question": "\"Samizdat\" refers to:",
+      "options": [
+        "A) Official publications",
+        "B) Underground literature in Soviet era",
+        "C) Religious texts",
+        "D) Government propaganda"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50c7b2d6d454179ac5dce7b7237bf4b15b4d4d55",
+      "sectionIndex": 1,
+      "question": "\"Denouement\" in literature specifically indicates:",
+      "options": [
+        "A) Rising action",
+        "B) Climax",
+        "C) Final resolution after climax",
+        "D) Exposition"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b79516d66bfdf839950aa7f08356ded5521a7076",
+      "sectionIndex": 1,
+      "question": "\"Apotheosis\" suggests:",
+      "options": [
+        "A) Complete destruction",
+        "B) Divine elevation or perfect example",
+        "C) Gradual decline",
+        "D) Religious conversion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4be653d26df0d6848f1e8fd6657ce70e0c20f3b7",
+      "sectionIndex": 1,
+      "question": "\"Bildungsroman\" is a novel depicting:",
+      "options": [
+        "A) Historical events",
+        "B) Psychological development from youth to maturity",
+        "C) Detective mystery",
+        "D) Romantic relationships"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eabd62dd26cbcc0cfee5ada38ecabcfed8dddf0f",
+      "sectionIndex": 1,
+      "question": "\"Verisimilitude\" in literature means:",
+      "options": [
+        "A) Exact truth",
+        "B) Appearance of truth or likelihood",
+        "C) Fantasy elements",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69b68ba37f8be1a180e9e463605149d6bb1838b4",
+      "sectionIndex": 1,
+      "question": "\"Anagnorisis\" refers to:",
+      "options": [
+        "A) Character introduction",
+        "B) Moment of recognition or discovery",
+        "C) Plot development",
+        "D) Narrative technique"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3205d57178cedd6bed376a78a3fa49dfe556b545",
+      "sectionIndex": 1,
+      "question": "\"Peripeteia\" indicates:",
+      "options": [
+        "A) Gradual change",
+        "B) Sudden reversal of fortune",
+        "C) Character description",
+        "D) Setting establishment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a87568ff7a5d5aa2f0dbeb3dbd6c86b01a1b824d",
+      "sectionIndex": 1,
+      "question": "\"Zeitgeist\" captures:",
+      "options": [
+        "A) Individual spirit",
+        "B) Spirit of the age",
+        "C) Religious fervor",
+        "D) National identity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "391e41f7d18a4323efdbd8b6533d990c6fe24972",
+      "sectionIndex": 1,
+      "question": "\"Sprezzatura\" embodies:",
+      "options": [
+        "A) Obvious effort",
+        "B) Studied carelessness or nonchalance",
+        "C) Complete incompetence",
+        "D) Natural talent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "050bb731abb9cdf53f39572f76a6dbb473ba2096",
+      "sectionIndex": 1,
+      "question": "\"Schadenfreude\" describes:",
+      "options": [
+        "A) Deep sorrow",
+        "B) Pleasure from others' misfortune",
+        "C) Shared happiness",
+        "D) Anticipatory grief"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff6c508fd3a4ffe91dcdd2c794b1f24132c9cbbb",
+      "sectionIndex": 2,
+      "question": "When writing a précis of a passage containing rhetorical questions, one should:",
+      "options": [
+        "A) Retain all questions",
+        "B) Convert to declarative statements",
+        "C) Omit entirely",
+        "D) Add more questions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f46a4560dd1cd763338df53d9c347ff308046073",
+      "sectionIndex": 2,
+      "question": "The primary challenge in précis writing for philosophical texts is:",
+      "options": [
+        "A) Vocabulary simplification",
+        "B) Maintaining abstract concepts while condensing",
+        "C) Adding explanations",
+        "D) Changing the argument"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "667fd6c6aba944fe3b437eda34bbb9e754ef2875",
+      "sectionIndex": 2,
+      "question": "In précis writing, subordinate clauses should often be:",
+      "options": [
+        "A) Expanded",
+        "B) Converted to phrases or deleted if non-essential",
+        "C) Kept intact",
+        "D) Made into separate sentences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f8ee460509c892b0580a595608010f2e0b65c30",
+      "sectionIndex": 2,
+      "question": "When the original passage contains statistical data, the précis should:",
+      "options": [
+        "A) Omit all numbers",
+        "B) Retain only significant statistics",
+        "C) Add more data",
+        "D) Convert to percentages"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07644292cf246c0c45110371461465b3154d6b89",
+      "sectionIndex": 2,
+      "question": "Maintaining coherence in précis requires:",
+      "options": [
+        "A) Using all original connectives",
+        "B) Creating logical flow with minimal transitions",
+        "C) Adding extensive transitions",
+        "D) Avoiding all transitions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1b3a2f8aa5df4d2dcd1e80a36e6899f9bd03130",
+      "sectionIndex": 2,
+      "question": "The appropriate voice for précis writing is:",
+      "options": [
+        "A) First person throughout",
+        "B) Third person, matching original perspective",
+        "C) Second person",
+        "D) Mixed voices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc8895959516f56de175e597dc0fb6f02647edbe",
+      "sectionIndex": 2,
+      "question": "When encountering metaphorical language in the original, précis should:",
+      "options": [
+        "A) Retain all metaphors",
+        "B) Convert to literal meaning",
+        "C) Create new metaphors",
+        "D) Explain each metaphor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "faec014b07e3a36e76872b5fd6089fde6dc049b3",
+      "sectionIndex": 2,
+      "question": "The title of a précis should:",
+      "options": [
+        "A) Be a complete sentence",
+        "B) Capture the central theme concisely",
+        "C) Question form",
+        "D) Use the first words"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b35e7df76caa037dc50e1c2c440b7707552f2077",
+      "sectionIndex": 2,
+      "question": "Précis of argumentative passages must:",
+      "options": [
+        "A) Take sides",
+        "B) Maintain logical progression of argument",
+        "C) Add counter-arguments",
+        "D) Weaken the argument"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "146196fdf16bac7a5b5240d64f4a10a7339c2cfa",
+      "sectionIndex": 2,
+      "question": "Technical jargon in précis should be:",
+      "options": [
+        "A) Always simplified",
+        "B) Retained when essential to meaning",
+        "C) Explained in detail",
+        "D) Replaced with colloquialisms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "005efa5abf5f6bca4f5f4c2b696e2e19177aef8f",
+      "sectionIndex": 3,
+      "question": "When asked about \"authorial distance,\" examine:",
+      "options": [
+        "A) Physical setting",
+        "B) Narrator's emotional involvement",
+        "C) Text length",
+        "D) Publication date"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad36f97d2b162602646cc538c399954f44c3d879",
+      "sectionIndex": 3,
+      "question": "\"Subtextual meaning\" requires analysis of:",
+      "options": [
+        "A) Explicit statements only",
+        "B) Implicit themes beneath surface",
+        "C) Grammar structures",
+        "D) Word count"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e940b5695a04d5e4b1a4fa79a2a2bb1a864786a5",
+      "sectionIndex": 3,
+      "question": "Identifying \"narrative unreliability\" involves:",
+      "options": [
+        "A) Checking facts",
+        "B) Recognizing inconsistencies in narrator's account",
+        "C) Grammar errors",
+        "D) Publication history"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4c84e6f0c131ecc4c524dc76403dbc903960c10",
+      "sectionIndex": 3,
+      "question": "\"Intertextuality\" in a passage refers to:",
+      "options": [
+        "A) Internal coherence",
+        "B) References to other texts",
+        "C) Paragraph structure",
+        "D) Sentence length"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b22fa33cae04cb164f01f734c852d092a2a4773a",
+      "sectionIndex": 3,
+      "question": "When analyzing \"register,\" consider:",
+      "options": [
+        "A) Volume of text",
+        "B) Level of formality and audience",
+        "C) Number of pages",
+        "D) Font style"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63681f7cebcb14c483258f332e065c65298d5a1c",
+      "sectionIndex": 3,
+      "question": "\"Dialectical reasoning\" in a passage involves:",
+      "options": [
+        "A) Regional dialects",
+        "B) Thesis-antithesis-synthesis progression",
+        "C) Direct quotes",
+        "D) Monologue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65597f60f9b905d38ba959365f77193d5fc9c822",
+      "sectionIndex": 3,
+      "question": "Recognizing \"anachronism\" requires:",
+      "options": [
+        "A) Time sequence analysis",
+        "B) Historical inconsistency identification",
+        "C) Chronological order",
+        "D) Date memorization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88e8538a215439e2799e1857295c9594b34e506e",
+      "sectionIndex": 3,
+      "question": "\"Metonymic reference\" involves:",
+      "options": [
+        "A) Direct naming",
+        "B) Substitution of associated terms",
+        "C) Repetition",
+        "D) Contradiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c4c5b6164836dc519dcc049c80fa06be792420f",
+      "sectionIndex": 3,
+      "question": "\"Liminal moments\" in narrative indicate:",
+      "options": [
+        "A) Beginnings only",
+        "B) Threshold or transitional states",
+        "C) Endings only",
+        "D) Climax points"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25ee102202306a4f86adbf8baff38e4bc58dcd3f",
+      "sectionIndex": 3,
+      "question": "\"Epistemic modality\" examines:",
+      "options": [
+        "A) Letter writing",
+        "B) Degrees of certainty in statements",
+        "C) Emotional content",
+        "D) Historical accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "267e60c892519194d893f8793cf88882fd5eaa94",
+      "sectionIndex": 4,
+      "question": "\"Where ignorance is bliss, it is folly to be wise\" suggests:",
+      "options": [
+        "A) Knowledge always brings happiness",
+        "B) Sometimes knowledge increases suffering",
+        "C) Ignorance should be promoted",
+        "D) Wisdom has no value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b0b9553c60e733d82eb2833286a5c2c5cae1ec4",
+      "sectionIndex": 4,
+      "question": "\"Politics is strife of interests masquerading as contest of principles\" implies:",
+      "options": [
+        "A) Politics is purely principled",
+        "B) Self-interest underlies political idealism",
+        "C) Principles don't exist",
+        "D) Interests are unimportant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49a7567ea5bdb2eb6aedf6740482f016eac0007a",
+      "sectionIndex": 4,
+      "question": "\"Liberty doesn't work as well in practice as in speeches\" indicates:",
+      "options": [
+        "A) Liberty is perfect",
+        "B) Theoretical ideals face practical constraints",
+        "C) Speeches are useless",
+        "D) Practice is unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f3c08e26f9206662f6c3d2fa87b6f0711917b78",
+      "sectionIndex": 4,
+      "question": "\"Crisis tests the true mettle of man\" means:",
+      "options": [
+        "A) Crisis should be avoided",
+        "B) Character is revealed under pressure",
+        "C) Men are metallic",
+        "D) Tests are crisis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44ecd96856bd26527a18bef1329991fc12b6420e",
+      "sectionIndex": 4,
+      "question": "\"The child is father of the man\" (Wordsworth) suggests:",
+      "options": [
+        "A) Biological impossibility",
+        "B) Childhood experiences shape adult character",
+        "C) Fathers are childish",
+        "D) Time reversal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2451cdc2232e7d125cc7a1bb2cd6d8985819e7a7",
+      "sectionIndex": 4,
+      "question": "\"No golden rule works in all circumstances\" implies:",
+      "options": [
+        "A) Rules are golden",
+        "B) Ethical absolutism has limitations",
+        "C) Circumstances don't matter",
+        "D) Gold has rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62d3bbeb0c06c9463d07652b97a0ef718859cc17",
+      "sectionIndex": 4,
+      "question": "\"Democracy fosters mediocrity\" argues:",
+      "options": [
+        "A) Democracy is perfect",
+        "B) Majority rule may not elevate excellence",
+        "C) Mediocrity is good",
+        "D) Foster care democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d976cf85791206926aa1f5823b2427cbacffc10",
+      "sectionIndex": 4,
+      "question": "\"Life without philosophy is like ship without rudder\" means:",
+      "options": [
+        "A) Ships need philosophy",
+        "B) Philosophy provides life direction",
+        "C) Rudders are philosophical",
+        "D) Life is nautical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2ec3889588bd749b6288bb0eb33fa1d65275c10",
+      "sectionIndex": 4,
+      "question": "\"Each man is architect of his own destiny\" emphasizes:",
+      "options": [
+        "A) Architectural skills",
+        "B) Personal responsibility for life outcomes",
+        "C) Destiny is predetermined",
+        "D) Men can't be architects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c48f6ce5c0e35f2c93aeb0fbd52c754eb0add1ca",
+      "sectionIndex": 4,
+      "question": "\"Revolution versus Evolution\" contrasts:",
+      "options": [
+        "A) Biology and politics",
+        "B) Sudden change versus gradual transformation",
+        "C) Darwin and Marx",
+        "D) Same concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "69bac16f8c7ac0b02d09a83c4ca739f141356d4d",
+      "sectionIndex": 5,
+      "question": "When translating \"خ^ش آ.دا?ہ\" (khush amdana), the challenge is:",
+      "options": [
+        "A) Literal word matching",
+        "B) Capturing ironic or hypocritical welcome",
+        "C) Grammar structure",
+        "D) Pronunciation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "96132d656b3bc2da842c1bf93dc4469cc2277aef",
+      "sectionIndex": 5,
+      "question": "Idiomatic expressions in translation require:",
+      "options": [
+        "A) Word-for-word conversion",
+        "B) Cultural equivalent in target language",
+        "C) Omission",
+        "D) Explanatory notes only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "961c1d6bfb78f1a1be10a17ac4608342a4ff03fa",
+      "sectionIndex": 5,
+      "question": "The concept of \"untranslatability\" refers to:",
+      "options": [
+        "A) Poor translation skills",
+        "B) Cultural-specific meanings without direct equivalent",
+        "C) Grammar differences",
+        "D) Alphabet variations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a74b773bcbb47197acb8a36aaa41d158cc699b9",
+      "sectionIndex": 5,
+      "question": "\"False friends\" in translation are:",
+      "options": [
+        "A) Dishonest translators",
+        "B) Similar words with different meanings",
+        "C) Friendly words",
+        "D) True cognates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9e1bd6d7985fa05aba09331086c44a8c98edea0",
+      "sectionIndex": 5,
+      "question": "Maintaining register in translation involves:",
+      "options": [
+        "A) Same word count",
+        "B) Matching formality levels",
+        "C) Identical syntax",
+        "D) Phonetic similarity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c0a10b9a1ed2993d5b293ed710cc0a4d29b32d7",
+      "sectionIndex": 5,
+      "question": "Cultural allusions in translation should be:",
+      "options": [
+        "A) Always footnoted",
+        "B) Adapted for target audience comprehension",
+        "C) Omitted entirely",
+        "D) Literally translated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d5e2f46b25637f92e7500ebf89f262ad9d4792e",
+      "sectionIndex": 5,
+      "question": "The translator's invisibility paradox means:",
+      "options": [
+        "A) Translators hide",
+        "B) Good translation seems natural, hiding translator's work",
+        "C) Invisible ink",
+        "D) Anonymous work"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "405e3e9820f0619ae5ce3a105a96a01a62d21ec3",
+      "sectionIndex": 5,
+      "question": "Pragmatic equivalence in translation focuses on:",
+      "options": [
+        "A) Word meaning",
+        "B) Intended effect on reader",
+        "C) Grammar rules",
+        "D) Dictionary definitions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c91dada3c1d5002554ef581a67b17b6b08d8b225",
+      "sectionIndex": 5,
+      "question": "Compensatory translation strategies involve:",
+      "options": [
+        "A) Paying translators",
+        "B) Making up for losses elsewhere in text",
+        "C) Word addition only",
+        "D) Deletion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7eb28c1d468dd2579421e01b94788e4d62df6a21",
+      "sectionIndex": 5,
+      "question": "Skopos theory in translation prioritizes:",
+      "options": [
+        "A) Source text fidelity",
+        "B) Translation purpose and function",
+        "C) Literal accuracy",
+        "D) Speed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd3e700c5cd8c22164d12cba960c3859448bf71f",
+      "sectionIndex": 6,
+      "question": "\"Epigraph\" vs \"Epitaph\": Epigraph is:",
+      "options": [
+        "A) Tombstone inscription",
+        "B) Quotation at beginning of work",
+        "C) Final words",
+        "D) Death notice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eb56d5392ef2d82fd899dfe863d105aed323c27",
+      "sectionIndex": 6,
+      "question": "\"Enormity\" traditionally means:",
+      "options": [
+        "A) Large size",
+        "B) Extreme wickedness",
+        "C) Normal state",
+        "D) Small size"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c440c97e50c1dec11e1c41f9c83c6918f04ed4c",
+      "sectionIndex": 6,
+      "question": "\"Disinterested\" differs from \"uninterested\" by meaning:",
+      "options": [
+        "A) Not interested",
+        "B) Impartial",
+        "C) Very interested",
+        "D) Partially interested"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e59d54f00120afaa3117b2d3f66a3c6a13b862ba",
+      "sectionIndex": 6,
+      "question": "\"Fortuitous\" means:",
+      "options": [
+        "A) Fortunate",
+        "B) Happening by chance",
+        "C) Strong",
+        "D) Wealthy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff39c72ed01b9a58b2f96f8df247e214156b5cd6",
+      "sectionIndex": 6,
+      "question": "\"Fulsome\" traditionally means:",
+      "options": [
+        "A) Full",
+        "B) Excessive or insincere",
+        "C) Wholesome",
+        "D) Partial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b330dacbb549a83f7be0f2189953f229c7c6cf4",
+      "sectionIndex": 6,
+      "question": "\"Prescribe\" vs \"Proscribe\": Proscribe means:",
+      "options": [
+        "A) To recommend",
+        "B) To forbid",
+        "C) To write",
+        "D) To allow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "09f0d45fe6a9599fc59e1da344731989042d5afe",
+      "sectionIndex": 6,
+      "question": "\"Militate\" vs \"Mitigate\": Militate means:",
+      "options": [
+        "A) To make less severe",
+        "B) To work against",
+        "C) To fight",
+        "D) To improve"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45fd3a89362c45e1808b8b6c0f6bb2656e75666d",
+      "sectionIndex": 6,
+      "question": "\"Tortuous\" vs \"Torturous\": Tortuous means:",
+      "options": [
+        "A) Painful",
+        "B) Winding or complex",
+        "C) Slow",
+        "D) Harmful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c28031a9a8c5af83b297f4b1afb6814c2cd6443b",
+      "sectionIndex": 6,
+      "question": "\"Climactic\" vs \"Climatic\": Climactic refers to:",
+      "options": [
+        "A) Weather",
+        "B) Climax",
+        "C) Climate",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e13553b1b23b8e28de89d1075c945132e421dadd",
+      "sectionIndex": 6,
+      "question": "\"Luxuriant\" vs \"Luxurious\": Luxuriant means:",
+      "options": [
+        "A) Expensive",
+        "B) Abundant growth",
+        "C) Comfortable",
+        "D) Wealthy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c91d0bed5e66e0b486121aa5ae8810529b77fe3",
+      "sectionIndex": 7,
+      "question": "\"Chiasmus\" is exemplified in:",
+      "options": [
+        "A) \"I came, I saw, I conquered\"",
+        "B) \"Ask not what your country can do for you?\"ask what you can do for your country\"",
+        "C) \"To be or not to be\"",
+        "D) \"All animals are equal\""
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4698cad769fcc07b80847ae07f42c2c317437a72",
+      "sectionIndex": 7,
+      "question": "\"Apophasis\" involves:",
+      "options": [
+        "A) Direct statement",
+        "B) Mentioning by claiming not to mention",
+        "C) Complete silence",
+        "D) Loud proclamation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d7b64285135e5bd4a50961e2c956aae50c52385f",
+      "sectionIndex": 7,
+      "question": "\"Synesthesia\" in literature refers to:",
+      "options": [
+        "A) Medical condition",
+        "B) Mixing sensory descriptions",
+        "C) Rhythm pattern",
+        "D) Character development"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88657bef11acafed995898f4bc0e73bdbce66ae5",
+      "sectionIndex": 7,
+      "question": "\"Bathos\" differs from \"pathos\" by:",
+      "options": [
+        "A) Being identical",
+        "B) Anticlimactic descent from sublime to ridiculous",
+        "C) Emotional appeal",
+        "D) Logical argument"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22b1daa4e2b03a1bb75190fcf096700a3f74bfbd",
+      "sectionIndex": 7,
+      "question": "\"Prolepsis\" involves:",
+      "options": [
+        "A) Looking backward",
+        "B) Anticipating objections or future events",
+        "C) Present tense",
+        "D) Repetition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a40299c56112a5c8ba95dbf7fe7755ca47174dd7",
+      "sectionIndex": 7,
+      "question": "\"Zeugma\" links:",
+      "options": [
+        "A) Unrelated ideas",
+        "B) One word governing multiple others differently",
+        "C) Same sounds",
+        "D) Opposing concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "685dd7b22a875123bfdcd102d5ed1d95eadb3290",
+      "sectionIndex": 7,
+      "question": "\"Litotes\" achieves emphasis through:",
+      "options": [
+        "A) Exaggeration",
+        "B) Double negative or understatement",
+        "C) Direct statement",
+        "D) Questions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a8dfa70c81f3f38b4f9835b20d9383aa9a469c6",
+      "sectionIndex": 7,
+      "question": "\"Anadiplosis\" involves:",
+      "options": [
+        "A) Random repetition",
+        "B) Ending one clause with word that begins next",
+        "C) Alliteration",
+        "D) Rhyme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84d16ad08e99d14d01941857b36b578c5d217e29",
+      "sectionIndex": 7,
+      "question": "\"Polysyndeton\" uses:",
+      "options": [
+        "A) No conjunctions",
+        "B) Multiple conjunctions",
+        "C) One conjunction",
+        "D) Subordination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c8fee4e6bb8c642804258875a53a5178f1850e0",
+      "sectionIndex": 7,
+      "question": "\"Catachresis\" refers to:",
+      "options": [
+        "A) Proper usage",
+        "B) Mixed or paradoxical metaphor",
+        "C) Simple comparison",
+        "D) Literal language"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ddcdfb1cc5b460ff5e8f1e620a3dae62bcacd24b",
+      "sectionIndex": 8,
+      "question": "\"Heteroglossia\" (Bakhtin) refers to:",
+      "options": [
+        "A) Single voice",
+        "B) Multiple voices/languages in text",
+        "C) Foreign language",
+        "D) Silence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59db2bcd2a28b8516a934628119f9acd3e379143",
+      "sectionIndex": 8,
+      "question": "\"Différance\" (Derrida) suggests meaning is:",
+      "options": [
+        "A) Fixed",
+        "B) Deferred and differential",
+        "C) Simple",
+        "D) Obvious"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbac22bc3f5b988c6f16e035edc4daa261457195",
+      "sectionIndex": 8,
+      "question": "\"Interpellation\" (Althusser) describes:",
+      "options": [
+        "A) Police questioning",
+        "B) How ideology hails subjects",
+        "C) International law",
+        "D) Grammar rule"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00343ca8674070ad75cf341d33bc48b809ff4da6",
+      "sectionIndex": 8,
+      "question": "The \"implied reader\" differs from actual reader by:",
+      "options": [
+        "A) Not existing",
+        "B) Being text's constructed audience",
+        "C) Reading faster",
+        "D) Being the author"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "029150fbba4010822ba156cdeb1b0c74e7f6994b",
+      "sectionIndex": 8,
+      "question": "\"Focalization\" in narrative theory refers to:",
+      "options": [
+        "A) Camera work",
+        "B) Perspective through which events are presented",
+        "C) Main theme",
+        "D) Conclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eeb624f62b750c37f8a99276f27ecfec88a29748",
+      "sectionIndex": 8,
+      "question": "\"Paratext\" includes:",
+      "options": [
+        "A) Main text only",
+        "B) Titles, prefaces, notes around main text",
+        "C) Parallel stories",
+        "D) Subtitles only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33107f28e1b1d7f211b26ba6debf2cdf687fa6d0",
+      "sectionIndex": 8,
+      "question": "\"Metalepsis\" involves:",
+      "options": [
+        "A) Metal imagery",
+        "B) Transgression between narrative levels",
+        "C) Metaphor",
+        "D) Ellipsis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d5a600a598765fbb5ff4d32c7618206aa1dc5f2",
+      "sectionIndex": 8,
+      "question": "\"Fabula\" vs \"Syuzhet\" distinguishes:",
+      "options": [
+        "A) Same concept",
+        "B) Raw story vs artistic arrangement",
+        "C) Beginning vs end",
+        "D) Fiction vs fact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea5de0f4572473bd91af21f1966e5633ff2cbd13",
+      "sectionIndex": 8,
+      "question": "\"Chronotope\" (Bakhtin) refers to:",
+      "options": [
+        "A) Time only",
+        "B) Time-space relationship in narrative",
+        "C) Clock imagery",
+        "D) Historical period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da2f6dd1953d170839e6a40d7c658fd5d86d0d13",
+      "sectionIndex": 8,
+      "question": "\"Actant\" in narrative theory is:",
+      "options": [
+        "A) Acting skill",
+        "B) Functional role in narrative structure",
+        "C) Main character",
+        "D) Action scene"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb68191b729b33e7f9c072982cb2c527227bee47",
+      "sectionIndex": 9,
+      "question": "\"Nominalization\" in academic writing:",
+      "options": [
+        "A) Names things",
+        "B) Converts verbs/adjectives to nouns",
+        "C) Creates titles",
+        "D) Simplifies text"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83a924ec7dfb3bc62aaf5f6d2bf80eec835f3e71",
+      "sectionIndex": 9,
+      "question": "\"Hedging\" in academic discourse:",
+      "options": [
+        "A) Gardening metaphor",
+        "B) Expressing cautious claims",
+        "C) Avoiding topics",
+        "D) Being decisive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3aac907f5dfd37fe920876853e370fcb63cbe0ed",
+      "sectionIndex": 9,
+      "question": "The \"moves\" in academic introductions (CARS model) include:",
+      "options": [
+        "A) Random organization",
+        "B) Establishing territory, niche, occupying niche",
+        "C) Single paragraph",
+        "D) Conclusion first"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5ddff6224a1713667c8e531c824bd1ac50c769e",
+      "sectionIndex": 9,
+      "question": "\"Metadiscourse\" markers:",
+      "options": [
+        "A) Discuss content",
+        "B) Guide readers through text organization",
+        "C) Provide evidence",
+        "D) Create arguments"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "213a1513e69526115e92e9051934563e8be9924b",
+      "sectionIndex": 9,
+      "question": "\"Given-new contract\" in writing means:",
+      "options": [
+        "A) Legal document",
+        "B) Known information before new information",
+        "C) All new information",
+        "D) Random order"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d041f21a551b42f0a32ce669a3978e1f50bd4b8e",
+      "sectionIndex": 9,
+      "question": "\"Nominalisation\" can make writing:",
+      "options": [
+        "A) Clearer",
+        "B) More abstract and dense",
+        "C) Shorter",
+        "D) Informal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "623178e0603eadcd9f930a1bd1fa9d9a69c40858",
+      "sectionIndex": 9,
+      "question": "Academic \"stance\" involves:",
+      "options": [
+        "A) Physical position",
+        "B) Authorial positioning toward claims",
+        "C) Standing while writing",
+        "D) Neutral tone only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95c0e9d63d19aa5729613db41883f4b6750d9cdf",
+      "sectionIndex": 9,
+      "question": "\"Epistemic responsibility\" in academic writing requires:",
+      "options": [
+        "A) Knowledge display",
+        "B) Appropriate certainty levels for claims",
+        "C) Avoiding claims",
+        "D) Absolute certainty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bd6c9938e91ca55e9bc453701bf5e7e04d1d7cc",
+      "sectionIndex": 9,
+      "question": "\"Intertextual positioning\" means:",
+      "options": [
+        "A) Text placement",
+        "B) Situating work within scholarly conversation",
+        "C) Page layout",
+        "D) Font selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f74a58a5c3ccccedcce0d7cdaf5c27f75122175",
+      "sectionIndex": 9,
+      "question": "\"Rhetorical consciousness\" involves:",
+      "options": [
+        "A) Unconscious writing",
+        "B) Awareness of audience, purpose, conventions",
+        "C) Stream of consciousness",
+        "D) Avoiding rhetoric"
+      ],
+      "correct": "B"
+    }
+  ]
+}

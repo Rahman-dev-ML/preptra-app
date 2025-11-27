@@ -1,0 +1,441 @@
+{
+  "subject": "Gender Studies (CSS Pakistan)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 13,
+  "categories": [
+    "Concepts & Field Evolution",
+    "Violence Against Women (GBV) & Law",
+    "Globalization & Gender",
+    "Political Participation & Quotas",
+    "Theories: Sex vs Gender, Construction",
+    "Language & Gender",
+    "Feminist Ideologies & Waves",
+    "Women in Pakistan: Studies, Movements & Health",
+    "Development Paradigms: WID/WAD/GAD",
+    "Coloniality & Capitalism",
+    "Structural Adjustment Policies (SAPs)",
+    "Media & Representation"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Gender Studies vs Women's Studies (history, scope, Pakistan status)",
+      "content": "Define both fields, trace evolution from women's studies (late 1960s) to broader gender studies (including men's/masculinities and queer studies). In Pakistan, women's/gender studies centres began as a government project (1988–89) at major universities; now formal BS/MPhil/PhD programs exist (e.g., PU Lahore, Karachi).",
+      "keyTakeaways": [
+        "Women's Studies focuses on women's experiences and inequality; Gender Studies analyzes gender as a relational, socially constructed system including men/masculinities and LGBTQ+.",
+        "Pakistan institutionalization: centres launched 1988–89; journals like PJGS (Karachi) support scholarship.",
+        "For exams, contrast scope + methods, and add Pakistan's department examples and curricular outlines."
+      ],
+      "resources": [
+        {
+          "title": "Women's Studies vs. Gender Studies (overview)",
+          "url": "https://www.researchgate.net/publication/303741960_WOMEN%27S_STUDIES_VS_GENDER_STUDIES",
+          "type": "article",
+          "description": "Comparative overview of WS vs GS."
+        },
+        {
+          "title": "High Point University — What is Women's & Gender Studies?",
+          "url": "https://www.highpoint.edu/womenandgender/files/2012/10/WGS-Overview.pdf",
+          "type": "pdf",
+          "description": "Concise academic framing of the field."
+        },
+        {
+          "title": "Pakistan Journal of Gender Studies (About)",
+          "url": "https://www.socialsciencejournals.pjgs-ws.com/index.php/PJGS/about",
+          "type": "article",
+          "description": "Published by Centre of Excellence for Women's Studies, University of Karachi; indicates Pakistan's institutional status."
+        },
+        {
+          "title": "PU Lahore — BS Gender Studies (course outline)",
+          "url": "https://pu.edu.pk/document/merit/1725013523Introduction%20to%20Gender%20Studies.pdf",
+          "type": "pdf",
+          "description": "Local curriculum showing multidisciplinary nature and topics."
+        },
+        {
+          "title": "Historical note on Women's Studies centres (Pakistan)",
+          "url": "https://oaj.fupress.net/index.php/sdd/article/download/9041/7943/13290",
+          "type": "pdf",
+          "description": "Background on 1988–89 establishment in 5 universities."
+        }
+      ],
+      "importance": "high",
+      "category": "Concepts & Field Evolution",
+      "topics": ["Gender vs Women's Studies", "Pakistan departments", "Disciplinary evolution"]
+    },
+    {
+      "id": "2",
+      "title": "Violence Against Women: Definitions, Forms, Strategies",
+      "content": "Cover UN/WHO definitions of GBV, forms (physical, sexual, psychological, economic), structural vs direct violence, and Pakistan's legal/policy frameworks. Add prevention/response strategies (legal reform, services, data, attitudes).",
+      "keyTakeaways": [
+        "Use UN's VAW definition and WHO prevalence facts in introductions.",
+        "Map forms of GBV to Pakistani law and service mechanisms.",
+        "Propose multi-sector strategies (justice, health, social protection, shelters, data)."
+      ],
+      "resources": [
+        {
+          "title": "UN Women — Defining GBV (overview deck)",
+          "url": "https://www.unescwa.org/sites/default/files/event/materials/UN%20Women%20-%20Defining%20GBV.pdf",
+          "type": "pdf",
+          "description": "Authoritative definitions and norms."
+        },
+        {
+          "title": "WHO Fact Sheet: Violence against women (2024)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
+          "type": "article",
+          "description": "Global prevalence and impacts; use for intros/statistics."
+        },
+        {
+          "title": "UN Women/UN Handbook for Legislation on VAW",
+          "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2012/12/UNW_Legislation-Handbook%20pdf.pdf",
+          "type": "pdf",
+          "description": "Best-practice legislative measures for GBV laws."
+        },
+        {
+          "title": "WHO SRHR — VAW data portal",
+          "url": "https://platform.who.int/data/sexual-and-reproductive-health-and-rights/violence-against-women-data",
+          "type": "database",
+          "description": "Downloadable country/regional estimates."
+        }
+      ],
+      "importance": "high",
+      "category": "Violence Against Women (GBV) & Law",
+      "topics": ["Definitions", "Forms", "Strategies"]
+    },
+    {
+      "id": "3",
+      "title": "Pakistan Law: Punjab Protection of Women against Violence Act, 2016",
+      "content": "Know the PPWVA 2016's scope (domestic, sexual, psychological, economic abuse; stalking; cybercrimes), relief orders, Protection Centres/VAWCs (e.g., Multan), and implementation bodies.",
+      "keyTakeaways": [
+        "Cite specific sections for orders (protection, residence, monetary).",
+        "Reference Protection Centres, GPS tracking provisions, and committees.",
+        "Use a critical source to discuss implementation gaps."
+      ],
+      "resources": [
+        {
+          "title": "Official Text — PPWVA 2016 (Govt. of Punjab)",
+          "url": "https://punjablaws.punjab.gov.pk/uploads/articles/PUNJAB_PROTECTION_OF_WOMEN_AGAINST_VIOLENCE_ACT_2016.pdf",
+          "type": "pdf",
+          "description": "Primary law text for forms of GBV and remedies."
+        },
+        {
+          "title": "Huqooq-e-Pakistan portal — PPWVA 2016",
+          "url": "https://portal-huqooq.s3.amazonaws.com/uploads/2021/02/Women-Rights-Punjab-The-Punjab-Protection-of-Women-against-Violence-Act-2016.pdf",
+          "type": "pdf",
+          "description": "Readable compilation with section headings."
+        },
+        {
+          "title": "LUMS Legislative Review of PPWVA",
+          "url": "https://sahsol.lums.edu.pk/sites/default/files/2024-05/The%20Punjab%20Protection%20of%20Women%20against%20Violence%20Act%202016%20A%20Legislative%20Review.pdf",
+          "type": "pdf",
+          "description": "Critical analysis of strengths/loopholes and recommendations."
+        },
+        {
+          "title": "Punjab Commission on the Status of Women — PPWVA explainer",
+          "url": "https://pcsw.punjab.gov.pk/protection_women_against_violence",
+          "type": "article",
+          "description": "Plain-language overview of protections/services."
+        }
+      ],
+      "importance": "high",
+      "category": "Violence Against Women (GBV) & Law",
+      "topics": ["PPWVA", "Protection Centres", "Orders & enforcement"]
+    },
+    {
+      "id": "4",
+      "title": "Case Study: Mukhtaran Mai (structural & direct violence; power/control)",
+      "content": "Use the Mukhtaran Mai case to analyze structural patriarchy, community justice vs state law, and survivor activism.",
+      "keyTakeaways": [
+        "Explain direct violence (assault) and structural violence (impunity, social stigma).",
+        "Discuss legal journey and significance for GBV discourse in Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "Supreme Court documentation/articles (contextual reading)",
+          "url": "https://www.af.org.pk/newsl/1486547583.pdf",
+          "type": "pdf",
+          "description": "Aurat Foundation material referencing legal reforms and context."
+        },
+        {
+          "title": "New Yorker analysis — 'A Girl in the River' & honor killings",
+          "url": "https://www.newyorker.com/culture/culture-desk/a-powerful-documentary-about-pakistans-honor-killings",
+          "type": "article",
+          "description": "Context on honor killing norms and legal gaps."
+        }
+      ],
+      "importance": "high",
+      "category": "Violence Against Women (GBV) & Law",
+      "topics": ["Mukhtaran Mai", "Honor crimes", "Power dynamics"]
+    },
+    {
+      "id": "5",
+      "title": "Globalization & Gender in Developing Countries (incl. Pakistan)",
+      "content": "Assess global political economy impacts on women: labor market 'feminization', informalization, care burdens, migration, and global value chains; also opportunities (education, ICT, activism).",
+      "keyTakeaways": [
+        "Use labor & livelihoods analyses from Kabeer and Standing.",
+        "Ground with Pakistan FLFP trends and sectoral patterns."
+      ],
+      "resources": [
+        {
+          "title": "Naila Kabeer — Gender, labour & development (book review/overview of 'Reversed Realities')",
+          "url": "https://www.theguardian.com/global-development/2023/dec/27/how-did-the-world-get-like-this-eight-books-to-help-explain-the-way-we-live-now",
+          "type": "article",
+          "description": "Accessible intro to Kabeer's critique of 'smart economics'."
+        },
+        {
+          "title": "World Bank — Pakistan: Women in Parliament indicator (contextual governance)",
+          "url": "https://data.worldbank.org/indicator/SG.GEN.PARL.ZS?locations=PK",
+          "type": "database",
+          "description": "Use with FLFP data for globalization/governance linkages."
+        }
+      ],
+      "importance": "medium",
+      "category": "Globalization & Gender",
+      "topics": ["Labor markets", "Care economy", "FLFP/inequalities"]
+    },
+    {
+      "id": "6",
+      "title": "Political Participation, Quotas & Representation in Pakistan",
+      "content": "Examine reserved seats, mainstreaming via quotas, obstacles (patriarchy, party gatekeeping, violence/harassment in politics), and whether political participation is a human right.",
+      "keyTakeaways": [
+        "Know Article 51 (reserved seats) for NA; use IPU/World Bank stats to assess outcomes.",
+        "Discuss how quotas can be a floor, not a ceiling, for mainstreaming."
+      ],
+      "resources": [
+        {
+          "title": "Constitution of Pakistan — Article 51 (National Assembly; reserved seats)",
+          "url": "https://na.gov.pk/uploads/documents/1333523681_951.pdf",
+          "type": "pdf",
+          "description": "Primary constitutional basis for women's reserved seats."
+        },
+        {
+          "title": "IPU — Monthly ranking & Pakistan profile (women in parliament)",
+          "url": "https://data.ipu.org/parliament/PK/PK-LC01/data-on-women",
+          "type": "database",
+          "description": "Comparable data + trends; also see monthly rankings."
+        },
+        {
+          "title": "Our World in Data — Share of women in parliament",
+          "url": "https://ourworldindata.org/grapher/share-of-women-in-parliament",
+          "type": "database",
+          "description": "Long-run global context; cite Pakistan's position comparatively."
+        },
+        {
+          "title": "AF Pakistan — Legislative history of women's quotas",
+          "url": "https://www.af.org.pk/pub_files/1358744372.pdf",
+          "type": "pdf",
+          "description": "Historical evolution of reserved seats framework."
+        }
+      ],
+      "importance": "high",
+      "category": "Political Participation & Quotas",
+      "topics": ["Quotas", "Barriers", "Human rights frame"]
+    },
+    {
+      "id": "7",
+      "title": "Sex vs Gender; Social Construction; Masculinity/Femininity",
+      "content": "Cover the sex/gender distinction, constructionist views, performativity, 'doing gender', and hegemonic masculinity.",
+      "keyTakeaways": [
+        "Butler's performativity connects language/power to gender identity.",
+        "West & Zimmerman: gender is an ongoing interactional accomplishment.",
+        "Connell: multiple masculinities; power relations and hierarchy."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Feminist Perspectives on Sex & Gender",
+          "url": "https://plato.stanford.edu/entries/feminism-gender/",
+          "type": "article",
+          "description": "Authoritative conceptual overview (SEP)."
+        },
+        {
+          "title": "Judith Butler — Gender Trouble (Chapter 1 PDF)",
+          "url": "https://selforganizedseminar.files.wordpress.com/2011/07/butler-gender_trouble.pdf",
+          "type": "pdf",
+          "description": "Foundational on performativity."
+        },
+        {
+          "title": "West & Zimmerman — Doing Gender (1987)",
+          "url": "https://www.gla.ac.uk/0t4/crcees/files/summerschool/readings/WestZimmerman_1987_DoingGender.pdf",
+          "type": "pdf",
+          "description": "Classic article on gender as interactional practice."
+        },
+        {
+          "title": "R.W. (Raewyn) Connell — Masculinities (2nd ed.)",
+          "url": "https://books.google.com/books/about/Masculinities.html?id=0KPZ-yjvNWsC",
+          "type": "book",
+          "description": "Key text on hegemonic masculinity; use summaries if full text unavailable."
+        }
+      ],
+      "importance": "high",
+      "category": "Theories: Sex vs Gender, Construction",
+      "topics": ["Performativity", "Doing gender", "Hegemonic masculinity"]
+    },
+    {
+      "id": "8",
+      "title": "Language is Gendered (philosophy of language, discourse & power)",
+      "content": "Explain how language encodes gender norms (generic 'he', occupational titles, slurs), and reforms (inclusive language).",
+      "keyTakeaways": [
+        "Use feminist philosophy of language to frame theory.",
+        "Add real examples (job ads, media) and inclusive alternatives."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Feminist Philosophy of Language",
+          "url": "https://plato.stanford.edu/entries/feminism-language/",
+          "type": "article",
+          "description": "Core theoretical resource."
+        },
+        {
+          "title": "UNESCO/UN guidelines on gender-inclusive language (sample legislative/communication guidance)",
+          "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2018/WA2J-Module3-en.pdf",
+          "type": "pdf",
+          "description": "Practical inclusive language/communication guidance."
+        }
+      ],
+      "importance": "medium",
+      "category": "Language & Gender",
+      "topics": ["Inclusive language", "Discourse and power"]
+    },
+    {
+      "id": "9",
+      "title": "Feminist Ideologies & Waves (Western → Pakistan influence)",
+      "content": "Define liberal/radical/socialist/Marxist/postmodern/psychoanalytic feminism; outline 1st–3rd waves and discuss translation into Pakistani contexts and movements.",
+      "keyTakeaways": [
+        "Match ideology to policy priorities (e.g., radical → patriarchy & bodily autonomy).",
+        "Explain historical waves then local adaptations (Pakistan)."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Feminist Philosophy (gateway)",
+          "url": "https://plato.stanford.edu/entries/feminist-philosophy/",
+          "type": "article",
+          "description": "Start point to branches and debates."
+        },
+        {
+          "title": "Aurat March (context/explainers via Dawn)",
+          "url": "https://www.dawn.com/",
+          "type": "news",
+          "description": "Use Dawn's explainers/features on Aurat March for contemporary activism (search site)."
+        }
+      ],
+      "importance": "high",
+      "category": "Feminist Ideologies & Waves",
+      "topics": ["Ideologies", "Waves", "Pakistan influence"]
+    },
+    {
+      "id": "10",
+      "title": "Women's Studies & Movement in Pakistan; Women's Health",
+      "content": "Combine field status (autonomy vs integration debate), movement strengths/weaknesses, and health (maternal mortality, Mahmoud Fathalla's 'maternity death road' idea as a framing; then Pakistan's PDHS and interventions).",
+      "keyTakeaways": [
+        "Cite Pakistan's academic centres/journals and debate on integrating vs autonomous departments.",
+        "Use current health data points (maternal health, service coverage) in Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "Pakistan Demographic & Health Survey 2017–18 (Final Report)",
+          "url": "https://dhsprogram.com/pubs/pdf/fr354/fr354.pdf",
+          "type": "pdf",
+          "description": "Baseline national data on women's health and demographics."
+        },
+        {
+          "title": "PJGS article repository (movement/policy scholarship)",
+          "url": "https://www.socialsciencejournals.pjgs-ws.com/index.php/PJGS/about",
+          "type": "article",
+          "description": "Pakistan-based peer-reviewed venue."
+        }
+      ],
+      "importance": "high",
+      "category": "Women in Pakistan: Studies, Movements & Health",
+      "topics": ["Autonomy vs integration", "Women's movement", "Maternal health"]
+    },
+    {
+      "id": "11",
+      "title": "Development Paradigms — WID, WAD, GAD (with policy relevance)",
+      "content": "Trace shift from 'adding women' (WID) → structural critiques (WAD) → relational, power-aware 'Gender and Development' (GAD). Apply to Pakistan's planning and donor programs.",
+      "keyTakeaways": [
+        "Define each approach and critique; tie to example programs.",
+        "Name key scholars (Kabeer, Moser) and policy tools (gender planning, indicators)."
+      ],
+      "resources": [
+        {
+          "title": "Naila Kabeer — Reversed Realities (overview/critical reception)",
+          "url": "https://www.theguardian.com/global-development/2023/dec/27/how-did-the-world-get-like-this-eight-books-to-help-explain-the-way-we-live-now",
+          "type": "article",
+          "description": "Accessible hook into gendered critiques of development."
+        },
+        {
+          "title": "'Gender Hierarchies in Development Thought' (on Kabeer's work)",
+          "url": "https://www.scribd.com/document/860561961/Gender-Hierarchies-in-Development-Thought-by-Naila",
+          "type": "article",
+          "description": "Synopsis of Kabeer's arguments (use judiciously)."
+        }
+      ],
+      "importance": "high",
+      "category": "Development Paradigms: WID/WAD/GAD",
+      "topics": ["WID", "WAD", "GAD", "Gender planning"]
+    },
+    {
+      "id": "12",
+      "title": "Capitalistic & Colonial Perspectives; SAPs Critique",
+      "content": "Discuss how capitalism and coloniality shape gender relations (labor, care, law), and gendered impacts of SAPs (austerity, privatization) with global South focus.",
+      "keyTakeaways": [
+        "Reference Mohanty's 'Under Western Eyes' (postcolonial critique) and Kabeer/Federici on labor and care.",
+        "For SAPs, cite UNRISD/UNICEF lines of critique; connect to Pakistan."
+      ],
+      "resources": [
+        {
+          "title": "UNRISD — Gender dimensions of structural adjustment (collection)",
+          "url": "https://www.unrisd.org/",
+          "type": "website",
+          "description": "Search UNRISD archive for SAPs & gender reports (country cases, policy critiques)."
+        },
+        {
+          "title": "Inter-Parliamentary Union — Women in Parliament 1995–2025 (context on representation & power)",
+          "url": "https://www.ipu.org/resources/publications/reports/2025-03/women-in-parliament-1995-2025",
+          "type": "report",
+          "description": "Recent global trend report; use as macro context alongside SAP critiques."
+        }
+      ],
+      "importance": "medium",
+      "category": "Coloniality & Capitalism",
+      "topics": ["Colonial legacies", "Care/household labor", "SAPs"]
+    },
+    {
+      "id": "13",
+      "title": "Media & Representation: Sharmeen Obaid-Chinoy's Oscar Docs",
+      "content": "Use 'Saving Face' (acid violence) and 'A Girl in the River' (honor killing) to discuss how media reframes GBV, spurs policy debate, and shapes global narratives about Pakistan.",
+      "keyTakeaways": [
+        "Quote film synopses; connect to legal reforms and public discourse.",
+        "Use clips cautiously (availability varies) and cite official pages."
+      ],
+      "resources": [
+        {
+          "title": "Saving Face — HBO page",
+          "url": "https://www.hbomax.com/movies/saving-face/7172ebce-c8ac-428e-8704-c6e0c7692276",
+          "type": "video",
+          "description": "Official platform listing (synopsis + credits)."
+        },
+        {
+          "title": "A Girl in the River — HBO page",
+          "url": "https://www.hbomax.com/movies/girl-in-the-river-the-price-of-forgiveness/c8d2a2ac-11bb-4c05-a970-ad3beb006832",
+          "type": "video",
+          "description": "Official platform listing (synopsis + credits)."
+        },
+        {
+          "title": "Wikipedia — 'Saving Face' (for awards/quick facts)",
+          "url": "https://en.wikipedia.org/wiki/Saving_Face_%282012_film%29",
+          "type": "article",
+          "description": "Awards & background; cross-verify with HBO/Academy."
+        },
+        {
+          "title": "Wikipedia — 'A Girl in the River'",
+          "url": "https://en.wikipedia.org/wiki/A_Girl_in_the_River%3A_The_Price_of_Forgiveness",
+          "type": "article",
+          "description": "Awards & background; cross-verify."
+        }
+      ],
+      "importance": "medium",
+      "category": "Media & Representation",
+      "topics": ["Documentary evidence", "GBV narratives", "Policy impact"]
+    }
+  ]
+}

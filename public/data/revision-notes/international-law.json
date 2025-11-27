@@ -1,0 +1,694 @@
+{
+  "subject": "International Law",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 22,
+  "categories": [
+    "Sources of International Law",
+    "Recognition & Statehood",
+    "Jurisdiction & Sovereignty",
+    "Use of Force & Self-Defense",
+    "Treaties & Treaty Law",
+    "United Nations & ICJ",
+    "Law of the Sea",
+    "International Humanitarian & Human Rights Law",
+    "State Responsibility",
+    "Doctrines & Landmark Cases",
+    "Theory (Monism/Dualism) & Domestic Effect"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "ICJ Statute Article 38 — Sources of International Law",
+      "content": "Memorize Article 38(1): treaties, custom (state practice + opinio juris), general principles; subsidiary means: judicial decisions & publicists. Most exams ask for definitions, hierarchy debates, and examples.",
+      "keyTakeaways": [
+        "Treaties and custom are primary sources; judicial decisions are subsidiary.",
+        "Opinio juris distinguishes custom from mere habit.",
+        "General principles fill gaps (e.g., good faith, estoppel)."
+      ],
+      "resources": [
+        {
+          "title": "ICJ Statute (official)",
+          "url": "https://www.icj-cij.org/statute",
+          "type": "pdf",
+          "description": "Article 38 text"
+        },
+        {
+          "title": "UN Charter annex (ICJ Statute)",
+          "url": "https://www.un.org/en/about-us/un-charter/statute-of-the-international-court-of-justice",
+          "type": "pdf",
+          "description": "Alternate official source"
+        },
+        {
+          "title": "Library of Congress — Sources of PIL",
+          "url": "https://guides.loc.gov/public-international-law/sources-of-law",
+          "type": "article",
+          "description": "Beginner's overview with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Sources of International Law",
+      "topics": ["Article 38", "Customary Law", "Opinio Juris", "General Principles"]
+    },
+    {
+      "id": "2",
+      "title": "UN Charter Core Provisions: Article 2(4) & Article 51",
+      "content": "Article 2(4) prohibits the threat or use of force against the territorial integrity or political independence of any state. Article 51 preserves inherent self-defense (individual/collective) if an armed attack occurs, until the Security Council acts.",
+      "keyTakeaways": [
+        "Use-of-force prohibition is a cornerstone norm (jus cogens by many scholars).",
+        "Self-defense requires necessity and proportionality; report to UNSC.",
+        "Collective self-defense requires a request/consent from the attacked state."
+      ],
+      "resources": [
+        {
+          "title": "UN Charter — Full Text",
+          "url": "https://www.un.org/en/about-us/un-charter/full-text",
+          "type": "pdf",
+          "description": "Official Charter articles"
+        },
+        {
+          "title": "UN Charter PDF",
+          "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+          "type": "pdf",
+          "description": "Authoritative PDF"
+        },
+        {
+          "title": "NATO page on Article 51",
+          "url": "https://www.nato.int/cps/en/natohq/official_texts_16937.htm",
+          "type": "website",
+          "description": "Context for collective self-defense"
+        }
+      ],
+      "importance": "high",
+      "category": "Use of Force & Self-Defense",
+      "topics": ["UN Charter", "Article 2(4)", "Article 51", "Collective Defense"]
+    },
+    {
+      "id": "3",
+      "title": "Vienna Convention on the Law of Treaties (1969) — Formation, Interpretation, Termination",
+      "content": "Defines treaty, rules on consent (signature/ratification), reservations, interpretation (good faith; ordinary meaning; context; subsequent practice), invalidity (error, fraud, corruption, coercion; conflict with jus cogens), and termination (material breach, impossibility, rebus sic stantibus).",
+      "keyTakeaways": [
+        "Articles 31–33: interpretation framework favored by examiners.",
+        "Article 53/64: jus cogens invalidates conflicting treaties.",
+        "Unilateral reservations must be compatible with object and purpose."
+      ],
+      "resources": [
+        {
+          "title": "VCLT (UN Legal — official PDF)",
+          "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf",
+          "type": "pdf",
+          "description": "Primary source"
+        },
+        {
+          "title": "VCLT (Legal Tools mirror)",
+          "url": "https://www.legal-tools.org/en/doc/6bfcd4/pdf/",
+          "type": "pdf",
+          "description": "Alternate source"
+        }
+      ],
+      "importance": "high",
+      "category": "Treaties & Treaty Law",
+      "topics": ["VCLT 1969", "Interpretation", "Reservations", "Jus Cogens", "Termination"]
+    },
+    {
+      "id": "4",
+      "title": "Montevideo Convention — Criteria of Statehood & Recognition Theories",
+      "content": "State qualifications: permanent population, defined territory, government, capacity for foreign relations (Art. 1). Recognition (de facto/de jure) interacts with constitutive vs. declaratory theories; exams test consequences of (non)recognition.",
+      "keyTakeaways": [
+        "Montevideo criteria are widely cited though not exhaustive.",
+        "Declaratory theory: statehood exists if criteria are met; recognition is evidentiary.",
+        "Constitutive theory: recognition creates international personality."
+      ],
+      "resources": [
+        {
+          "title": "Montevideo Convention (Yale Avalon)",
+          "url": "https://avalon.law.yale.edu/20th_century/intam03.asp",
+          "type": "pdf",
+          "description": "Accessible English text"
+        },
+        {
+          "title": "Official Treaties UN page",
+          "url": "https://treaties.un.org/pages/showdetails.aspx?objid=0800000280166aef",
+          "type": "pdf",
+          "description": "UN record"
+        },
+        {
+          "title": "Jessup PDF text",
+          "url": "https://www.ilsa.org/Jessup/Jessup15/Montevideo%20Convention.pdf",
+          "type": "pdf",
+          "description": "Portable copy"
+        }
+      ],
+      "importance": "high",
+      "category": "Recognition & Statehood",
+      "topics": ["Montevideo", "Recognition", "Constitutive vs Declaratory"]
+    },
+    {
+      "id": "5",
+      "title": "Jurisdiction: Territorial, Nationality, Protective, Universality & Enforcement Limits",
+      "content": "Different bases of prescriptive jurisdiction; enforcement generally territorial unless consent/exception. The Lotus principle highlights that what is not prohibited may be permitted, subject to specific rules and comity.",
+      "keyTakeaways": [
+        "Separate prescriptive from enforcement jurisdiction in essays.",
+        "Objective territoriality covers effects felt in territory.",
+        "Lotus is often contrasted with modern treaty/custom constraints."
+      ],
+      "resources": [
+        {
+          "title": "Lotus Case — PCIJ Judgment (PDF)",
+          "url": "https://www.ilsa.org/Jessup/Jessup16/Batch%201/TheLotusCase.pdf",
+          "type": "pdf",
+          "description": "Primary judgment"
+        },
+        {
+          "title": "Lotus (WorldCourts transcript)",
+          "url": "https://www.worldcourts.com/pcij/eng/decisions/1927.09.07_lotus.htm",
+          "type": "website",
+          "description": "Readable version"
+        }
+      ],
+      "importance": "high",
+      "category": "Jurisdiction & Sovereignty",
+      "topics": ["Jurisdiction", "Lotus", "Objective Territoriality", "Enforcement Limits"]
+    },
+    {
+      "id": "6",
+      "title": "ICJ: Structure, Jurisdiction, Contentious vs. Advisory",
+      "content": "15 judges; states are parties in contentious cases by consent (compromissory clauses, optional clause, special agreement). Advisory opinions for UN organs. Exams ask for enforcement limits and precedential value.",
+      "keyTakeaways": [
+        "Consent underpins contentious jurisdiction; advisory opinions are influential but non-binding.",
+        "Article 36 bases for jurisdiction are frequently tested.",
+        "Know examples: Corfu Channel (contentious), Wall Opinion (advisory)."
+      ],
+      "resources": [
+        {
+          "title": "ICJ — Corfu Channel Case page",
+          "url": "https://www.icj-cij.org/case/1",
+          "type": "website",
+          "description": "Overview & judgments"
+        },
+        {
+          "title": "ICJ — Advisory Opinion (Wall), 2004",
+          "url": "https://www.icj-cij.org/case/131",
+          "type": "website",
+          "description": "Case page"
+        },
+        {
+          "title": "UN PDF — Wall Advisory Opinion",
+          "url": "https://www.un.org/unispal/document/auto-insert-178825/",
+          "type": "pdf",
+          "description": "Official text (mirror links also available)"
+        }
+      ],
+      "importance": "high",
+      "category": "United Nations & ICJ",
+      "topics": ["ICJ", "Advisory Opinions", "Article 36", "Jurisdiction"]
+    },
+    {
+      "id": "7",
+      "title": "Corfu Channel (1949) — State Responsibility & Due Diligence",
+      "content": "ICJ held Albania responsible for mines in its territorial waters (knowledge/ due diligence). Often cited for obligations of states to not knowingly allow their territory to be used for acts contrary to rights of other states.",
+      "keyTakeaways": [
+        "Establishes baseline of due diligence and obligation to notify hazards.",
+        "Illustrates evidentiary inferences (circumstantial evidence accepted).",
+        "Useful to compare with modern transboundary harm scenarios."
+      ],
+      "resources": [
+        {
+          "title": "ICJ Judgment (Merits) 9 April 1949",
+          "url": "https://www.icj-cij.org/node/103099",
+          "type": "pdf",
+          "description": "Merits judgment"
+        },
+        {
+          "title": "ICJ Case page (overview)",
+          "url": "https://www.icj-cij.org/case/1",
+          "type": "website",
+          "description": "Case summary"
+        }
+      ],
+      "importance": "medium",
+      "category": "Doctrines & Landmark Cases",
+      "topics": ["Due Diligence", "Evidence", "State Responsibility"]
+    },
+    {
+      "id": "8",
+      "title": "Nottebohm (1955) — Effective Nationality & Diplomatic Protection",
+      "content": "ICJ emphasized the 'genuine link' concept regarding nationality for purposes of diplomatic protection (Liechtenstein v. Guatemala). Frequently appears in short notes and case-law identification.",
+      "keyTakeaways": [
+        "Nationality for protection must reflect genuine connection.",
+        "Case limits are often misunderstood; apply carefully beyond investment claims.",
+        "Contrast with modern human rights access pathways that bypass diplomatic protection."
+      ],
+      "resources": [
+        {
+          "title": "ICJ Case page",
+          "url": "https://www.icj-cij.org/case/18",
+          "type": "website",
+          "description": "Overview & documents"
+        },
+        {
+          "title": "Judgment extract (ICJ)",
+          "url": "https://www.icj-cij.org/node/103133",
+          "type": "pdf",
+          "description": "Judgment text"
+        }
+      ],
+      "importance": "medium",
+      "category": "Doctrines & Landmark Cases",
+      "topics": ["Nottebohm", "Diplomatic Protection", "Nationality"]
+    },
+    {
+      "id": "9",
+      "title": "UNCLOS (1982) — Maritime Zones & Navigation",
+      "content": "Key zones: Territorial sea (up to 12 nm), contiguous zone (24 nm), EEZ (200 nm), continental shelf (natural prolongation or 200 nm; extended shelf claims). Transit passage in straits; innocent passage in territorial sea.",
+      "keyTakeaways": [
+        "Memorize zone distances and coastal vs. flag-state rights.",
+        "Hot pursuit may continue onto the high seas if initiated legally.",
+        "EEZ: sovereign rights for resources; freedoms of navigation remain."
+      ],
+      "resources": [
+        {
+          "title": "UNCLOS (official PDF)",
+          "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+          "type": "pdf",
+          "description": "Primary text"
+        },
+        {
+          "title": "NUS CIL database page",
+          "url": "https://cil.nus.edu.sg/databasecil/1982-united-nations-convention-on-the-law-of-the-sea-3/",
+          "type": "website",
+          "description": "Context & related agreements"
+        },
+        {
+          "title": "US CRS explainer (2024)",
+          "url": "https://www.congress.gov/crs-product/R47744",
+          "type": "article",
+          "description": "Policy overview & updates"
+        }
+      ],
+      "importance": "high",
+      "category": "Law of the Sea",
+      "topics": ["UNCLOS", "EEZ", "Continental Shelf", "Passage Rights", "Hot Pursuit"]
+    },
+    {
+      "id": "10",
+      "title": "Geneva Conventions (1949) — IHL Basics",
+      "content": "Four core Conventions: wounded/sick (land), wounded/sick/shipwrecked (sea), prisoners of war, civilians. Common Article 3 applies in non-international armed conflicts. Additional Protocols expand protections.",
+      "keyTakeaways": [
+        "Distinguish IAC vs. NIAC triggers and applicable rules.",
+        "POW status and civilian protections are frequent essay topics.",
+        "Grave breaches entail individual criminal responsibility."
+      ],
+      "resources": [
+        {
+          "title": "ICRC — Geneva Conventions & Protocols portal",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-1949additional-protocols-and-their-commentaries",
+          "type": "pdf",
+          "description": "Texts + commentaries"
+        },
+        {
+          "title": "GC IV (Civilians) page",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949",
+          "type": "pdf",
+          "description": "Civilian protections"
+        },
+        {
+          "title": "ICRC consolidated PDF (overview)",
+          "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+          "type": "pdf",
+          "description": "Convenient PDF"
+        }
+      ],
+      "importance": "high",
+      "category": "International Humanitarian & Human Rights Law",
+      "topics": ["IHL", "Geneva Conventions", "Common Article 3", "POWs", "Civilians"]
+    },
+    {
+      "id": "11",
+      "title": "Articles on State Responsibility (ILC 2001) — Attribution & Reparation",
+      "content": "Defines internationally wrongful acts (breach + attribution), circumstances precluding wrongfulness (consent, self-defense, countermeasures, force majeure, distress, necessity), and reparation forms (restitution, compensation, satisfaction).",
+      "keyTakeaways": [
+        "Article 2: elements of wrongful act; Articles 16–18: responsibility for aid/direction/coercion.",
+        "Article 21 recognizes self-defense per the UN Charter.",
+        "Article 31–39: full reparation; compensation covers financially assessable damage."
+      ],
+      "resources": [
+        {
+          "title": "ILC Draft Articles (official PDF)",
+          "url": "https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_6_2001.pdf",
+          "type": "pdf",
+          "description": "Authoritative text"
+        },
+        {
+          "title": "ILC Commentaries (official PDF)",
+          "url": "https://legal.un.org/ilc/texts/instruments/english/commentaries/9_6_2001.pdf",
+          "type": "pdf",
+          "description": "Detailed explanations"
+        },
+        {
+          "title": "ICRC Casebook summary",
+          "url": "https://casebook.icrc.org/case-study/international-law-commission-articles-state-responsibility",
+          "type": "article",
+          "description": "Key articles in plain language"
+        }
+      ],
+      "importance": "high",
+      "category": "State Responsibility",
+      "topics": ["Attribution", "Countermeasures", "Reparation", "Circumstances Precluding Wrongfulness"]
+    },
+    {
+      "id": "12",
+      "title": "Self-Defense & The Caroline Formula",
+      "content": "Customary law (Caroline incident): necessity must be 'instant, overwhelming' leaving no choice of means, and proportionality must be observed. Use with Article 51 analyses (armed attack threshold, anticipatory self-defense debates).",
+      "keyTakeaways": [
+        "Necessity + proportionality are core constraints.",
+        "Anticipatory self-defense remains controversial in exam answers—argue both sides.",
+        "Report to UNSC requirement under Article 51 still applies."
+      ],
+      "resources": [
+        {
+          "title": "Caroline Affair (scholarly analysis)",
+          "url": "https://scholarship.law.columbia.edu/faculty_scholarship/2507/",
+          "type": "article",
+          "description": "Waxman analysis"
+        },
+        {
+          "title": "San Diego ILJ article",
+          "url": "https://digital.sandiego.edu/cgi/viewcontent.cgi?article=1254&context=ilj",
+          "type": "article",
+          "description": "Historical correspondence"
+        },
+        {
+          "title": "USNI (2025) overview",
+          "url": "https://www.usni.org/magazines/naval-history/2025/august/law-born-fire-caroline-affair-and-anticipatory-self-defense",
+          "type": "article",
+          "description": "Readable synthesis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Use of Force & Self-Defense",
+      "topics": ["Caroline", "Necessity", "Proportionality", "Anticipatory Self-Defense"]
+    },
+    {
+      "id": "13",
+      "title": "Wall Advisory Opinion (2004) & 2024 ICJ Occupation Opinion — Advisory Authority",
+      "content": "ICJ's 2004 advisory opinion found the construction of the wall in the OPT contrary to international law. In 2024, ICJ issued another advisory opinion on the legality of occupation and settlements. Exams ask scope, legal effect, and state obligations.",
+      "keyTakeaways": [
+        "Advisory opinions are non-binding but carry great legal weight.",
+        "States are urged not to recognize unlawful situations (duty of non-recognition).",
+        "Use to illustrate interplay between IHL, human rights, and self-determination."
+      ],
+      "resources": [
+        {
+          "title": "ICJ Case page — Wall (2004)",
+          "url": "https://www.icj-cij.org/case/131",
+          "type": "website",
+          "description": "Advisory opinion page"
+        },
+        {
+          "title": "UN ODS — Opinion PDF (mirror)",
+          "url": "https://www.un.org/unispal/document/auto-insert-178825/",
+          "type": "pdf",
+          "description": "Full text"
+        },
+        {
+          "title": "Reuters — 2024 advisory opinion news",
+          "url": "https://www.reuters.com/world/middle-east/top-un-court-deliver-opinion-israels-occupation-palestinian-territories-2024-07-19/",
+          "type": "article",
+          "description": "Latest advisory opinion coverage"
+        },
+        {
+          "title": "Financial Times — 2024 opinion explainer",
+          "url": "https://www.ft.com/content/6a60da92-5795-46c6-9175-2f425d3805d0",
+          "type": "article",
+          "description": "Context and reactions"
+        }
+      ],
+      "importance": "medium",
+      "category": "United Nations & ICJ",
+      "topics": ["Advisory Opinions", "Self-Determination", "IHL & IHRL Overlap"]
+    },
+    {
+      "id": "14",
+      "title": "Diplomatic & Consular Immunities",
+      "content": "Vienna Conventions (1961/1963) are standard citations. Key issues: inviolability of person/premises, immunity from criminal jurisdiction, functional necessity rationale, persona non grata.",
+      "keyTakeaways": [
+        "Immunity is not impunity — waiver possible; receiving state may declare PNG.",
+        "Distinguish diplomatic vs. consular immunities.",
+        "Link to state responsibility when agents act ultra vires."
+      ],
+      "resources": [
+        {
+          "title": "ICJ Statute & UN Charter sections (reference)",
+          "url": "https://www.un.org/en/about-us/un-charter/full-text",
+          "type": "pdf",
+          "description": "Context; cite specific conventions separately via course materials"
+        }
+      ],
+      "importance": "medium",
+      "category": "United Nations & ICJ",
+      "topics": ["Diplomatic Immunity", "Consular Functions", "Persona non grata"]
+    },
+    {
+      "id": "15",
+      "title": "Recognition of Governments vs. States; De facto vs. De jure",
+      "content": "Exams frequently ask to differentiate recognition of a new state from recognition of a government, and to discuss legal effects on treaties, property, acts, and litigation standing.",
+      "keyTakeaways": [
+        "Recognition of governments often hinges on effective control + constitutional legitimacy.",
+        "Non-recognition policies (e.g., Estrada doctrine) can appear in MCQs.",
+        "De facto recognition has practical but limited legal effects."
+      ],
+      "resources": [
+        {
+          "title": "Montevideo & statehood references",
+          "url": "https://avalon.law.yale.edu/20th_century/intam03.asp",
+          "type": "pdf",
+          "description": "State criteria baseline"
+        }
+      ],
+      "importance": "medium",
+      "category": "Recognition & Statehood",
+      "topics": ["Recognition of Government", "De facto / De jure", "Legal Effects"]
+    },
+    {
+      "id": "16",
+      "title": "Peaceful Settlement of Disputes",
+      "content": "UN Charter Chapter VI methods: negotiation, inquiry, mediation, conciliation, arbitration, judicial settlement. ICJ and arbitral tribunals are common essay directions; tie to duty to settle disputes peacefully (Art. 2(3)).",
+      "keyTakeaways": [
+        "Explain when each method is appropriate; cite examples.",
+        "Security Council may recommend procedures; Chapter VII measures if threat to peace persists.",
+        "Compromissory clauses grant jurisdiction for treaty disputes."
+      ],
+      "resources": [
+        {
+          "title": "UN Charter — Chapters VI & VII",
+          "url": "https://www.un.org/en/about-us/un-charter/full-text",
+          "type": "pdf",
+          "description": "Primary text"
+        }
+      ],
+      "importance": "medium",
+      "category": "United Nations & ICJ",
+      "topics": ["Negotiation", "Mediation", "Arbitration", "ICJ"]
+    },
+    {
+      "id": "17",
+      "title": "Human Rights vs. Humanitarian Law — Convergence & Conflicts",
+      "content": "IHRL applies at all times; IHL applies in armed conflict. Exams test lex specialis (IHL governing conduct of hostilities) and derogation regimes under IHRL. Use Wall Advisory Opinion to illustrate concurrent application.",
+      "keyTakeaways": [
+        "Lex specialis principle guides which norm prevails in conflict.",
+        "Non-derogable rights remain in emergencies.",
+        "Extraterritorial application is contentious—argue with case law."
+      ],
+      "resources": [
+        {
+          "title": "ICJ — Wall Opinion",
+          "url": "https://www.icj-cij.org/case/131",
+          "type": "website",
+          "description": "Concurrent IHL/IHRL analysis"
+        },
+        {
+          "title": "ICRC IHL Portal",
+          "url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-1949additional-protocols-and-their-commentaries",
+          "type": "pdf",
+          "description": "IHL sources"
+        }
+      ],
+      "importance": "medium",
+      "category": "International Humanitarian & Human Rights Law",
+      "topics": ["IHRL", "IHL", "Lex specialis", "Derogation"]
+    },
+    {
+      "id": "18",
+      "title": "Law of the Sea — Baselines, Passage & Maritime Delimitation",
+      "content": "Normal baselines (low-water line) vs. straight baselines; innocent passage vs. transit passage; delimitation methods and equitable principles. Recall fisheries/highly migratory stocks regime interactions.",
+      "keyTakeaways": [
+        "Straits used for international navigation: transit passage (cannot be suspended).",
+        "Islands vs rocks (Art. 121) can alter EEZ claims.",
+        "Delimitation balances equidistance with equity (case-specific)."
+      ],
+      "resources": [
+        {
+          "title": "UNCLOS official text",
+          "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+          "type": "pdf",
+          "description": "Primary source"
+        }
+      ],
+      "importance": "medium",
+      "category": "Law of the Sea",
+      "topics": ["Baselines", "Transit Passage", "Delimitation", "Art. 121"]
+    },
+    {
+      "id": "19",
+      "title": "Use of Force — Collective Security & Security Council Powers",
+      "content": "Security Council can determine threat to peace and authorize measures under Chapter VII (sanctions, use of force). General Assembly can recommend measures (Uniting for Peace) but not authorize force.",
+      "keyTakeaways": [
+        "Differentiate Chapter VI recommendations vs. Chapter VII binding decisions.",
+        "Veto power politics is a common critical analysis theme.",
+        "Regional organizations require UNSC authorization for enforcement action (Art. 53)."
+      ],
+      "resources": [
+        {
+          "title": "UN Charter Chapters VI–VIII",
+          "url": "https://www.un.org/en/about-us/un-charter/full-text",
+          "type": "pdf",
+          "description": "Authoritative source"
+        }
+      ],
+      "importance": "medium",
+      "category": "United Nations & ICJ",
+      "topics": ["UNSC", "Chapter VII", "Sanctions", "Regional Arrangements"]
+    },
+    {
+      "id": "20",
+      "title": "Treaty Reservations & Object-and-Purpose Test",
+      "content": "Reservations are unilateral statements to exclude/modify legal effect of certain provisions when signing/ratifying. They must be compatible with the object and purpose of the treaty; objections and acceptance affect inter-se relations.",
+      "keyTakeaways": [
+        "Assess permissibility: text permits? object-and-purpose compatible?",
+        "Effects depend on other states' reactions; some treaties bar reservations.",
+        "Human rights bodies often police incompatible reservations."
+      ],
+      "resources": [
+        {
+          "title": "VCLT Arts. 19–23",
+          "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf",
+          "type": "pdf",
+          "description": "Primary rules"
+        }
+      ],
+      "importance": "medium",
+      "category": "Treaties & Treaty Law",
+      "topics": ["Reservations", "Objections", "Compatibility Test"]
+    },
+    {
+      "id": "21",
+      "title": "Theory: Monism vs. Dualism & Domestic Incorporation",
+      "content": "Monism: international law directly applicable domestically; Dualism: requires transformation/incorporation. Exams ask for practical implications: treaty implementation, direct effect, constitutional hierarchy.",
+      "keyTakeaways": [
+        "Give country examples (examiner friendly) but focus on doctrine.",
+        "Customary international law reception varies by system.",
+        "Judicial practice can evidence monist/dualist tendencies."
+      ],
+      "resources": [
+        {
+          "title": "LOC guide on sources & incorporation context",
+          "url": "https://guides.loc.gov/public-international-law/sources-of-law",
+          "type": "article",
+          "description": "General orientation (use your jurisdiction's cases for examples)"
+        }
+      ],
+      "importance": "medium",
+      "category": "Theory (Monism/Dualism) & Domestic Effect",
+      "topics": ["Monism", "Dualism", "Incorporation", "Direct Effect"]
+    },
+    {
+      "id": "22",
+      "title": "Exam-Favorite Short Notes: Pacta Sunt Servanda, Jus Cogens, Estoppel, Rebus Sic Stantibus",
+      "content": "Concise definitions with treaty hooks: Pacta sunt servanda (VCLT Art. 26); Jus cogens (Arts. 53, 64); Estoppel (general principle, case support); Rebus sic stantibus (Art. 62) with strict conditions.",
+      "keyTakeaways": [
+        "Always link to VCLT provisions where applicable.",
+        "Explain strict tests to avoid abuse (e.g., fundamental change unforeseen, essential basis).",
+        "Support with case examples (e.g., Temple of Preah Vihear for estoppel in some syllabi)."
+      ],
+      "resources": [
+        {
+          "title": "VCLT key articles",
+          "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf",
+          "type": "pdf",
+          "description": "Text for definitions/tests"
+        }
+      ],
+      "importance": "medium",
+      "category": "Treaties & Treaty Law",
+      "topics": ["Pacta Sunt Servanda", "Jus Cogens", "Estoppel", "Rebus Sic Stantibus"]
+    }
+  ],
+  "extras": {
+    "reference_texts": [
+      {
+        "title": "UN Charter (Complete Text)",
+        "url": "https://www.un.org/en/about-us/un-charter/full-text",
+        "type": "pdf"
+      },
+      {
+        "title": "Vienna Convention on the Law of Treaties (1969)",
+        "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "ICJ Statute",
+        "url": "https://www.icj-cij.org/statute",
+        "type": "pdf"
+      },
+      {
+        "title": "UNCLOS (1982)",
+        "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf",
+        "type": "pdf"
+      },
+      {
+        "title": "Geneva Conventions & Additional Protocols",
+        "url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-conventions-1949additional-protocols-and-their-commentaries",
+        "type": "pdf"
+      },
+      {
+        "title": "ILC Articles on State Responsibility (2001)",
+        "url": "https://legal.un.org/ilc/texts/instruments/english/draft_articles/9_6_2001.pdf",
+        "type": "pdf"
+      }
+    ],
+    "case_databases": [
+      {
+        "title": "ICJ Cases Database",
+        "url": "https://www.icj-cij.org/list-of-all-cases",
+        "type": "website"
+      },
+      {
+        "title": "WorldCourts.com",
+        "url": "https://www.worldcourts.com/",
+        "type": "website"
+      },
+      {
+        "title": "ICRC Casebook",
+        "url": "https://casebook.icrc.org/",
+        "type": "website"
+      }
+    ],
+    "practice_materials": [
+      {
+        "title": "Yale Avalon Project (International Law)",
+        "url": "https://avalon.law.yale.edu/subject_menus/intlaw.asp",
+        "type": "website"
+      },
+      {
+        "title": "UN Treaty Collection",
+        "url": "https://treaties.un.org/",
+        "type": "website"
+      },
+      {
+        "title": "Library of Congress - Public International Law Guide",
+        "url": "https://guides.loc.gov/public-international-law",
+        "type": "website"
+      }
+    ]
+  }
+}

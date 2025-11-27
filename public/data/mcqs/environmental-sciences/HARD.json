@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T21:18:26.559Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "1feb673fa62b0b76d4d444d28721d3d6bc4802fd",
+      "sectionIndex": 0,
+      "question": "The UNFCCC's evolution from Rio to Paris reveals fundamental tensions between:",
+      "options": [
+        "A) Developed and developing countries only",
+        "B) Common but differentiated responsibilities versus universal participation",
+        "C) Mitigation and adaptation",
+        "D) Science and policy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13293f3bfd57ac936ba8d3589b0ae69b1903e882",
+      "sectionIndex": 0,
+      "question": "The Kyoto Protocol's failure to achieve significant global emission reductions demonstrates:",
+      "options": [
+        "A) Technical infeasibility",
+        "B) Structural limitations of excluding major emitters and lacking enforcement",
+        "C) Scientific uncertainty",
+        "D) Economic impossibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38c367dd0732242259f16ea613cfd4979803e8b1",
+      "sectionIndex": 0,
+      "question": "Agenda 21's implementation gap reflects:",
+      "options": [
+        "A) Poor planning",
+        "B) Disconnect between global aspirations and local political economies",
+        "C) Lack of funding only",
+        "D) Technical barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb34f3196fc4ab416e2827813f3b103c02af4b2d",
+      "sectionIndex": 0,
+      "question": "Pakistan's climate policy post-18th Amendment faces the paradox of:",
+      "options": [
+        "A) Too much funding",
+        "B) Requiring national coordination while lacking federal implementation authority",
+        "C) International pressure only",
+        "D) Technological constraints"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe4c1694bbd9e756e39d58c17c59f46a7475aa3e",
+      "sectionIndex": 0,
+      "question": "The Montreal Protocol's success compared to climate agreements suggests:",
+      "options": [
+        "A) Ozone was easier",
+        "B) Clear substitutes, concentrated industry, and visible impacts facilitate cooperation",
+        "C) Better science",
+        "D) More funding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "07eea8cab1f0e38c8d046c241e678b5347a5ffd3",
+      "sectionIndex": 0,
+      "question": "COP28's potential benefits for Pakistan depend critically on:",
+      "options": [
+        "A) Attendance only",
+        "B) Navigating loss and damage negotiations while securing adaptation finance",
+        "C) Mitigation commitments",
+        "D) Side events"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a1257904b3dc645585e4ed7a1736cc4879cfeb4",
+      "sectionIndex": 0,
+      "question": "The relationship between environmental treaties and trade agreements reveals:",
+      "options": [
+        "A) Perfect harmony",
+        "B) Potential conflicts between environmental protection and trade liberalization",
+        "C) No interaction",
+        "D) Environmental dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cede015348bb353b9728d247d893dc31d82e505b",
+      "sectionIndex": 0,
+      "question": "National environmental policy effectiveness is constrained by:",
+      "options": [
+        "A) Lack of laws",
+        "B) Political economy factors including regulatory capture and implementation capacity",
+        "C) International interference",
+        "D) Too much democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "950a3807ad890e3cc2c6e4d3261bdc4e3f804315",
+      "sectionIndex": 0,
+      "question": "The evolution of environmental governance from command-control to market mechanisms shows:",
+      "options": [
+        "A) Universal improvement",
+        "B) Mixed results requiring careful design to avoid perverse incentives",
+        "C) Market failure",
+        "D) Government failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0c73046865263cd3115d2a30d2078597992b28ce",
+      "sectionIndex": 0,
+      "question": "Climate finance architecture's complexity reflects:",
+      "options": [
+        "A) Donor preferences only",
+        "B) Competing objectives of mitigation, adaptation, and development",
+        "C) Simple allocation",
+        "D) Recipient demands only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80b76338b29a833aca58747b686409bbdbaaa9a3",
+      "sectionIndex": 1,
+      "question": "The non-linear relationship between technological development and climate change involves:",
+      "options": [
+        "A) Direct proportion only",
+        "B) Rebound effects, path dependencies, and lock-in mechanisms",
+        "C) Simple causation",
+        "D) Predictable outcomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d1505fddbe4471d1c1845dc316deb13f5e698de",
+      "sectionIndex": 1,
+      "question": "Climate change impacts on Pakistan's semi-arid regions exhibit:",
+      "options": [
+        "A) Gradual change only",
+        "B) Threshold effects with potential for irreversible shifts in agricultural systems",
+        "C) Uniform impacts",
+        "D) Predictable patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57b34dfc5cb723db90f83f636a64cac956878da3",
+      "sectionIndex": 1,
+      "question": "The differentiation between climate variability and climate change attribution requires:",
+      "options": [
+        "A) Long-term data only",
+        "B) Statistical analysis accounting for natural oscillations and anthropogenic signals",
+        "C) Model projections only",
+        "D) Simple observation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15e6e7b7ef3bbbca70b2491c6f845459a1ca072a",
+      "sectionIndex": 1,
+      "question": "Greenhouse gas stabilization pathways must account for:",
+      "options": [
+        "A) Emissions only",
+        "B) Climate-carbon cycle feedbacks and committed warming",
+        "C) Current levels only",
+        "D) Economic growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91874929a7c2231f35ef82b77b874fa96506cd3e",
+      "sectionIndex": 1,
+      "question": "The concept of \"dangerous climate change\" involves:",
+      "options": [
+        "A) Temperature only",
+        "B) Value judgments about acceptable risks across different communities",
+        "C) Scientific definition",
+        "D) Universal threshold"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb6f65a10eaeeb45dd8d6060b713464b84e5d553",
+      "sectionIndex": 1,
+      "question": "Climate adaptation limits in developing countries stem from:",
+      "options": [
+        "A) Lack of options",
+        "B) Interaction of biophysical constraints with socio-economic vulnerabilities",
+        "C) Technology only",
+        "D) Awareness only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e99ba84ed250b14da7da62c8aebf715e7df87a96",
+      "sectionIndex": 1,
+      "question": "The mitigation-adaptation nexus reveals:",
+      "options": [
+        "A) Independent strategies",
+        "B) Potential synergies and trade-offs requiring integrated planning",
+        "C) Sequential approach",
+        "D) Conflicting goals always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47a925cfb583a72c7e73e8df4db7053aac13b813",
+      "sectionIndex": 1,
+      "question": "Attribution science for extreme events demonstrates:",
+      "options": [
+        "A) Direct causation",
+        "B) Probabilistic links between climate change and event likelihood",
+        "C) No connection",
+        "D) Perfect prediction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4128e7e626f4aab723d575098c37f5bcc6055d42",
+      "sectionIndex": 1,
+      "question": "Climate tipping points pose challenges because:",
+      "options": [
+        "A) They're predictable",
+        "B) Non-linear dynamics create deep uncertainty for decision-making",
+        "C) They're reversible",
+        "D) They're local only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0283bde53ed1bf801ffc67644460ba38816fe36b",
+      "sectionIndex": 1,
+      "question": "Transformational adaptation differs from incremental by:",
+      "options": [
+        "A) Cost only",
+        "B) Fundamental changes to systems rather than marginal adjustments",
+        "C) Speed only",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bcecde8a7293d349221fbedc68cc2e721ea7cf4d",
+      "sectionIndex": 2,
+      "question": "EPA's risk analysis framework's limitations include:",
+      "options": [
+        "A) Too comprehensive",
+        "B) Reductionist approach struggling with cumulative and synergistic effects",
+        "C) Too simple",
+        "D) Perfect accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "066c33b4b2ef4ff1e0102400fbc87a659b438515",
+      "sectionIndex": 2,
+      "question": "The distinction between risk assessment and risk perception highlights:",
+      "options": [
+        "A) Public ignorance",
+        "B) Different ways of knowing involving values and cultural contexts",
+        "C) Scientific superiority",
+        "D) Communication failure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba70c089d7938da2328c27ad38dd9cea91b55243",
+      "sectionIndex": 2,
+      "question": "Environmental risk management under uncertainty requires:",
+      "options": [
+        "A) More data only",
+        "B) Adaptive management with robust decision-making approaches",
+        "C) Certainty before action",
+        "D) Risk elimination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fadffb994fadb362d76c2f3a8b0a1d32102da353",
+      "sectionIndex": 2,
+      "question": "The integration of EIA with climate risk assessment faces:",
+      "options": [
+        "A) Technical ease",
+        "B) Methodological challenges in addressing non-stationarity",
+        "C) No connection",
+        "D) Simple addition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1fee61f9af87b51b6197c5435d43437414a4337",
+      "sectionIndex": 2,
+      "question": "Cumulative impact assessment differs from project EIA by:",
+      "options": [
+        "A) Scale only",
+        "B) Considering multiple stressors and their interactions over time",
+        "C) Cost only",
+        "D) Legal requirements only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cce49be2f18b70b77cd3f9cb0bcdb0319c4e3bc1",
+      "sectionIndex": 2,
+      "question": "Strategic Environmental Assessment's potential is limited by:",
+      "options": [
+        "A) Comprehensive scope",
+        "B) Political resistance to constraining high-level decisions",
+        "C) Technical capacity only",
+        "D) Data availability only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2d8aeb100cf4b4055b0af03208519131e7e8e83",
+      "sectionIndex": 2,
+      "question": "Risk communication failures often result from:",
+      "options": [
+        "A) Language barriers only",
+        "B) Deficit model assumptions ignoring local knowledge and values",
+        "C) Technical complexity only",
+        "D) Media bias only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4ad5ca7d33681213368fb71289f4e18813cebe2",
+      "sectionIndex": 2,
+      "question": "The precautionary principle's application involves:",
+      "options": [
+        "A) No action",
+        "B) Navigating scientific uncertainty with potentially irreversible consequences",
+        "C) Absolute safety",
+        "D) Economic priority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c2474122b55b5fdee6881f8ba961e30cbcc000b",
+      "sectionIndex": 2,
+      "question": "Ecosystem-based risk reduction challenges conventional approaches by:",
+      "options": [
+        "A) Higher costs",
+        "B) Recognizing co-benefits beyond hazard mitigation",
+        "C) Simplicity",
+        "D) Quick implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3eed62cda9cf3098b7351d88aa0ff66c5d4bbb53",
+      "sectionIndex": 2,
+      "question": "Risk governance in complex systems requires:",
+      "options": [
+        "A) Top-down control",
+        "B) Polycentric approaches recognizing multiple scales and actors",
+        "C) Scientific management only",
+        "D) Market solutions only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "573beed6f3f4fb1b7120314023f96f0177f9a818",
+      "sectionIndex": 3,
+      "question": "The ozone depletion mechanism's complexity involves:",
+      "options": [
+        "A) Simple breakdown",
+        "B) Catalytic cycles with temperature-dependent reaction rates",
+        "C) Linear process",
+        "D) Single pathway"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b06ca289dad05456d9cd104a49e45f9c6938463",
+      "sectionIndex": 3,
+      "question": "The success of ozone protection versus climate protection reveals:",
+      "options": [
+        "A) Similar challenges",
+        "B) Importance of substitute availability and concentrated benefits",
+        "C) No lessons",
+        "D) Climate is easier"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51ecaaf477558ae9af032a0092f319ac33f9d062",
+      "sectionIndex": 3,
+      "question": "Photochemical smog formation in Punjab demonstrates:",
+      "options": [
+        "A) Local phenomenon only",
+        "B) Regional atmospheric chemistry influenced by meteorology and emissions",
+        "C) Natural process",
+        "D) Winter phenomenon only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4643290f1a915de6ae85b60ef445f3b8ace25b61",
+      "sectionIndex": 3,
+      "question": "The relationship between air quality and climate policies shows:",
+      "options": [
+        "A) Always synergistic",
+        "B) Potential trade-offs requiring integrated assessment",
+        "C) No connection",
+        "D) Perfect alignment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a13350f0edd555f53b1fe0a9b4bee869c9019f30",
+      "sectionIndex": 3,
+      "question": "Atmospheric residence times of pollutants affect:",
+      "options": [
+        "A) Local impacts only",
+        "B) Spatial scales of governance required for effective control",
+        "C) No policy relevance",
+        "D) Measurement only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ebaa92b5f8a4c51eba3672c3e3addd7d628e80b",
+      "sectionIndex": 3,
+      "question": "Secondary pollutant formation challenges control strategies because:",
+      "options": [
+        "A) Direct emission only",
+        "B) Non-linear chemistry requiring precursor management",
+        "C) Unpredictable",
+        "D) Natural process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67a5014e2ea8fe3a536a097be1fb867244cd07fa",
+      "sectionIndex": 3,
+      "question": "Transboundary air pollution governance requires:",
+      "options": [
+        "A) National action only",
+        "B) Asymmetric cooperation with upstream-downstream dynamics",
+        "C) UN control",
+        "D) Voluntary measures only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5a5fb27e92d326c89d526136a92b1b7c4b252dd",
+      "sectionIndex": 3,
+      "question": "The co-benefits approach to air quality and climate reveals:",
+      "options": [
+        "A) Always positive",
+        "B) Need for careful analysis of specific measures and contexts",
+        "C) No benefits",
+        "D) Climate priority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a85595b12dba9210e8beaad5192c37b77246a943",
+      "sectionIndex": 3,
+      "question": "Urban air quality management effectiveness depends on:",
+      "options": [
+        "A) Technology only",
+        "B) Addressing structural factors including urban form and transport systems",
+        "C) Monitoring only",
+        "D) Penalties only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "15422d6764d7026d1c8d24ba37c531622bd4f4bf",
+      "sectionIndex": 3,
+      "question": "The political economy of air pollution control involves:",
+      "options": [
+        "A) Technical solutions only",
+        "B) Negotiating concentrated costs versus diffuse benefits",
+        "C) Public support only",
+        "D) International pressure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9fa0ed7fd8311dd9ad5f17c9178cea777f90211",
+      "sectionIndex": 4,
+      "question": "The transition from waste management to circular economy requires:",
+      "options": [
+        "A) Better disposal",
+        "B) Fundamental redesign of production and consumption systems",
+        "C) Recycling only",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f40573b9dfb84b4126415ecda920b83878d1cb2f",
+      "sectionIndex": 4,
+      "question": "Hazardous waste trade under Basel Convention reveals:",
+      "options": [
+        "A) Effective control",
+        "B) Ongoing challenges with waste colonialism and illegal trafficking",
+        "C) No problems",
+        "D) Developed country responsibility"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c65bf25f90d908ae94149e68bf87531056dc2fbc",
+      "sectionIndex": 4,
+      "question": "The limits of recycling as a solution stem from:",
+      "options": [
+        "A) Technology only",
+        "B) Thermodynamic constraints and consumption growth outpacing recovery",
+        "C) Cost only",
+        "D) Public participation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3b8f926a36334a563532a53e32815eadfeabf37",
+      "sectionIndex": 4,
+      "question": "Extended Producer Responsibility implementation faces:",
+      "options": [
+        "A) Producer enthusiasm",
+        "B) Free-rider problems and design for obsolescence incentives",
+        "C) No challenges",
+        "D) Consumer resistance only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c58d9c94e7d208e13f3cd0a58affee0f2af19fcf",
+      "sectionIndex": 4,
+      "question": "Biomedical waste management during pandemics reveals:",
+      "options": [
+        "A) Preparedness",
+        "B) Trade-offs between infection control and environmental protection",
+        "C) No conflicts",
+        "D) Easy solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97c84dc5b8c47f55142fda6ec879838d50c4fbd2",
+      "sectionIndex": 4,
+      "question": "The informal waste sector's role demonstrates:",
+      "options": [
+        "A) Problem only",
+        "B) Complex livelihood-environment intersections requiring inclusive approaches",
+        "C) Efficiency",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d87707526dfac5be58cc0bbb693217bf5698a67d",
+      "sectionIndex": 4,
+      "question": "Zero waste strategies' feasibility depends on:",
+      "options": [
+        "A) Technology only",
+        "B) Systemic changes beyond end-of-pipe solutions",
+        "C) Consumer behavior only",
+        "D) Government mandates only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf2f1efaa843e65a61a3c9415c787a8e2a2a40a8",
+      "sectionIndex": 4,
+      "question": "Waste-to-energy technologies present:",
+      "options": [
+        "A) Perfect solution",
+        "B) Trade-offs between waste reduction and potential pollution",
+        "C) No controversies",
+        "D) Universal applicability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c2bd97fb0fcb027253a5b4be7f95fa97e840772",
+      "sectionIndex": 4,
+      "question": "Marine plastic pollution solutions require:",
+      "options": [
+        "A) Ocean cleanup only",
+        "B) Addressing production and consumption patterns upstream",
+        "C) Recycling only",
+        "D) Bans only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9467021970f8019174a2380bc45326fcd137409d",
+      "sectionIndex": 4,
+      "question": "The political ecology of waste reveals:",
+      "options": [
+        "A) Technical issue only",
+        "B) Environmental injustices in waste generation and disposal patterns",
+        "C) Equal distribution",
+        "D) No social dimensions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "84322c4a979ac384a1bc3854d2a27cf5a49e2597",
+      "sectionIndex": 5,
+      "question": "Eutrophication control strategies must address:",
+      "options": [
+        "A) Nutrients only",
+        "B) Complex watershed interactions including agricultural policy and urban planning",
+        "C) Algae removal",
+        "D) Lake management only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8c338b0e07e04f038615e1f708dfbd01fe9cac9",
+      "sectionIndex": 5,
+      "question": "The distinction between point and non-point source pollution affects:",
+      "options": [
+        "A) Measurement only",
+        "B) Regulatory approaches and enforcement feasibility",
+        "C) No difference",
+        "D) Cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92afc875cca1c7278512dba09ac3a76dafda3e94",
+      "sectionIndex": 5,
+      "question": "Virtual water trade implications for water-stressed countries involve:",
+      "options": [
+        "A) Physical water only",
+        "B) Embedded water in trade affecting water security and policy options",
+        "C) No relevance",
+        "D) Benefit only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9eb7252a5b958131fefa934d7c9f17f4b9401a22",
+      "sectionIndex": 5,
+      "question": "Groundwater governance challenges stem from:",
+      "options": [
+        "A) Visibility only",
+        "B) Common pool resource dynamics with temporal and spatial complexities",
+        "C) Technology limits",
+        "D) Measurement difficulty only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8416ce40a69bba2f446260300ced4c8597ffed4",
+      "sectionIndex": 5,
+      "question": "The water-energy nexus in Pakistan manifests through:",
+      "options": [
+        "A) Hydropower only",
+        "B) Multiple interdependencies including pumping, treatment, and hydropower trade-offs",
+        "C) No connection",
+        "D) Sequential planning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40da87a3465aef278423accec8e93bcd3ab709a2",
+      "sectionIndex": 5,
+      "question": "Ecosystem services valuation for wetlands faces:",
+      "options": [
+        "A) Simple calculation",
+        "B) Methodological challenges in capturing non-market values and thresholds",
+        "C) No value",
+        "D) Market pricing only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ca435f5833060c1a62bca40d5ef9b77f18a7379",
+      "sectionIndex": 5,
+      "question": "Transboundary water cooperation theory versus practice shows:",
+      "options": [
+        "A) Easy cooperation",
+        "B) Gap between benefit-sharing principles and hydro-hegemony realities",
+        "C) No conflicts",
+        "D) Technical solutions suffice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a0f981f6ccdc9071b82160d9436c1e35d4f5e90",
+      "sectionIndex": 5,
+      "question": "Climate change impacts on water resources exhibit:",
+      "options": [
+        "A) Linear changes",
+        "B) Non-stationarity challenging traditional water management paradigms",
+        "C) Predictable patterns",
+        "D) Uniform impacts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cc718284b70ce6a8eb580341d4ca0837ba59053",
+      "sectionIndex": 5,
+      "question": "Integrated Water Resources Management implementation reveals:",
+      "options": [
+        "A) Universal success",
+        "B) Challenges in reconciling theory with institutional and political realities",
+        "C) Simple application",
+        "D) No barriers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c592f432c7128f9b0f004833604bc54949bb91a2",
+      "sectionIndex": 5,
+      "question": "Water quality-quantity interactions demonstrate:",
+      "options": [
+        "A) Independent management",
+        "B) Need for conjunctive approaches recognizing dilution and concentration dynamics",
+        "C) Quantity priority",
+        "D) Quality priority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c839c6c1111c61caa7c7c6450bb0094a7414b98",
+      "sectionIndex": 6,
+      "question": "CDM's contribution to sustainable development shows:",
+      "options": [
+        "A) Uniform benefits",
+        "B) Mixed results with concerns about additionality and co-benefits",
+        "C) Complete success",
+        "D) Failure only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da74afe4782873df4019f7a2bf4e37ec3871a9cc",
+      "sectionIndex": 6,
+      "question": "Renewable energy's intermittency challenge requires:",
+      "options": [
+        "A) Backup only",
+        "B) System transformation including storage, demand management, and grid flexibility",
+        "C) Fossil fuel support",
+        "D) Reduced consumption only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "895ea762d99f514fb629272a2072fb6cd7502ef7",
+      "sectionIndex": 6,
+      "question": "The political economy of energy transitions reveals:",
+      "options": [
+        "A) Technical challenge only",
+        "B) Incumbent resistance and stranded asset concerns shaping policy",
+        "C) Easy transformation",
+        "D) Cost issues only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0bc5cff1813fcf34097f172727eac2babf18926",
+      "sectionIndex": 6,
+      "question": "Biofuel sustainability paradoxes include:",
+      "options": [
+        "A) Clear benefits",
+        "B) Food security trade-offs and indirect land use changes",
+        "C) No concerns",
+        "D) Energy gain only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62aaa0faa1a26bc8498521c313717956c75aba89",
+      "sectionIndex": 6,
+      "question": "Nuclear energy's role in climate mitigation involves:",
+      "options": [
+        "A) Clear solution",
+        "B) Complex trade-offs between carbon benefits and waste/safety concerns",
+        "C) No debate",
+        "D) Universal acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3878b20b267fc1a5d5051ac807473796c9ff8e4e",
+      "sectionIndex": 6,
+      "question": "Energy access versus climate mitigation in developing countries presents:",
+      "options": [
+        "A) No conflict",
+        "B) Equity challenges requiring differentiated approaches",
+        "C) Simple solutions",
+        "D) Either/or choice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa27bec8fcf52ae0e20bc203c1bf1b28fdd87e96",
+      "sectionIndex": 6,
+      "question": "The rebound effect in energy efficiency demonstrates:",
+      "options": [
+        "A) Linear savings",
+        "B) Behavioral responses potentially offsetting technical gains",
+        "C) No impact",
+        "D) Guaranteed reduction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f4dad059d6c9381cdabe671722556d128505371",
+      "sectionIndex": 6,
+      "question": "Carbon pricing effectiveness depends on:",
+      "options": [
+        "A) Price level only",
+        "B) Design features including coverage, revenue recycling, and competitiveness",
+        "C) Universal application",
+        "D) High prices only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80f681fb4bdd7a5c6026cec12cff8f4a0c1c6caf",
+      "sectionIndex": 6,
+      "question": "Stranded assets in energy transition involve:",
+      "options": [
+        "A) Future concern only",
+        "B) Current investment decisions with long-term climate implications",
+        "C) No relevance",
+        "D) Developing country issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59063376d9206596f9f1d1e4ac3c0802944d0e33",
+      "sectionIndex": 6,
+      "question": "Energy democracy concepts challenge:",
+      "options": [
+        "A) Nothing",
+        "B) Centralized energy systems and corporate control",
+        "C) Efficiency only",
+        "D) Technical optimization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9ef3eda46203202ae129d554422591a3f4633aa",
+      "sectionIndex": 7,
+      "question": "Machine learning applications in environmental monitoring face:",
+      "options": [
+        "A) No limitations",
+        "B) Black box problems and training data biases",
+        "C) Perfect accuracy",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19902cef7ac514a5916c04fa341d4c7464c5d585",
+      "sectionIndex": 7,
+      "question": "The integration of citizen science with formal monitoring reveals:",
+      "options": [
+        "A) Data quality issues only",
+        "B) Potential for democratizing knowledge while requiring quality frameworks",
+        "C) No value",
+        "D) Replacement of experts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6e2b613b6165899f6e5985a4cc9bb09b21ca613",
+      "sectionIndex": 7,
+      "question": "Remote sensing for environmental compliance monitoring involves:",
+      "options": [
+        "A) Perfect detection",
+        "B) Technical capabilities constrained by legal and sovereignty issues",
+        "C) No challenges",
+        "D) Cost only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59b4448e9d661ce012c54d7eeac39488c6fee28a",
+      "sectionIndex": 7,
+      "question": "Big data analytics for environmental patterns shows:",
+      "options": [
+        "A) Clear insights",
+        "B) Correlation-causation challenges and ecological fallacy risks",
+        "C) No limitations",
+        "D) Perfect prediction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "816b813239f9cb3cc990a071a5f1b3f1a32b074e",
+      "sectionIndex": 7,
+      "question": "Life cycle assessment boundaries significantly affect:",
+      "options": [
+        "A) Cost only",
+        "B) Results and policy implications through inclusion/exclusion choices",
+        "C) No impact",
+        "D) Accuracy only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a0d349f3778be0658e6c4c476cd54a937581994",
+      "sectionIndex": 7,
+      "question": "Environmental DNA monitoring promises and limitations include:",
+      "options": [
+        "A) Species counting only",
+        "B) Ecosystem assessment potential with sampling and interpretation challenges",
+        "C) Perfect inventory",
+        "D) No applications"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9c983a97cd27c1a93bfec065b9c7e1dacaf80dca",
+      "sectionIndex": 7,
+      "question": "Predictive modeling for environmental management requires:",
+      "options": [
+        "A) More computing power",
+        "B) Understanding model uncertainty and decision-making under deep uncertainty",
+        "C) Perfect data",
+        "D) Deterministic approaches"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d7483a314b4744453b75f93e1f5c00a15bb2945",
+      "sectionIndex": 7,
+      "question": "The digital divide in environmental monitoring affects:",
+      "options": [
+        "A) Data quality only",
+        "B) Environmental justice through unequal representation in datasets",
+        "C) No impact",
+        "D) Technology access only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0492434372e1141765357d05de33ff959ac00214",
+      "sectionIndex": 7,
+      "question": "Blockchain for environmental applications faces:",
+      "options": [
+        "A) No challenges",
+        "B) Energy consumption paradox and governance questions",
+        "C) Perfect solution",
+        "D) Technical barriers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df9dcf547e2f722d10ea64716b62ed84fe54c382",
+      "sectionIndex": 7,
+      "question": "Integrated assessment models for climate policy show:",
+      "options": [
+        "A) Objective results",
+        "B) Value-laden assumptions affecting policy recommendations",
+        "C) No uncertainty",
+        "D) Perfect prediction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e4a7c15701a90837a464b1c1ef8651d1523d858",
+      "sectionIndex": 8,
+      "question": "Environmental racism in hazard exposure patterns reveals:",
+      "options": [
+        "A) Random distribution",
+        "B) Systematic inequalities requiring structural interventions",
+        "C) No patterns",
+        "D) Individual choices"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cebac42bd0e654efd4758b689682603f81808a7f",
+      "sectionIndex": 8,
+      "question": "The concept of \"slow violence\" in environmental degradation highlights:",
+      "options": [
+        "A) Immediate impacts only",
+        "B) Temporal and spatial displacement of environmental harms",
+        "C) No violence",
+        "D) Physical harm only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6873fe60439606896a57be913f41f2c1ad7998b",
+      "sectionIndex": 8,
+      "question": "Participatory approaches in environmental management face:",
+      "options": [
+        "A) Too much participation",
+        "B) Power asymmetries potentially reinforcing existing inequalities",
+        "C) No challenges",
+        "D) Technical barriers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aa6f7c2848a865d0df12aad917a6a22d653c5a82",
+      "sectionIndex": 8,
+      "question": "Indigenous knowledge integration with scientific approaches requires:",
+      "options": [
+        "A) Translation only",
+        "B) Epistemological bridges respecting different ways of knowing",
+        "C) Scientific validation only",
+        "D) Documentation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "580705f1e13785e8bf4a99651d4e8917a3319adb",
+      "sectionIndex": 8,
+      "question": "Gender dimensions of environmental change involve:",
+      "options": [
+        "A) Biological differences only",
+        "B) Socially constructed vulnerabilities and differential adaptive capacities",
+        "C) No relevance",
+        "D) Equal impacts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "307fe22cc6fb548c11c6b6db79c7ce2f0e23e8b8",
+      "sectionIndex": 8,
+      "question": "Environmental gentrification paradox shows:",
+      "options": [
+        "A) Win-win outcomes",
+        "B) Green improvements potentially displacing vulnerable communities",
+        "C) No conflicts",
+        "D) Universal benefits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "831a3db7922418f3d58d58699d4bb5a50a7bbfae",
+      "sectionIndex": 8,
+      "question": "The rights of nature movement challenges:",
+      "options": [
+        "A) Nothing",
+        "B) Anthropocentric legal frameworks and property rights regimes",
+        "C) Human rights",
+        "D) Economic growth only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bbeaa7d0e2cf4a00bcbec1c7216369c52a49a0e",
+      "sectionIndex": 8,
+      "question": "Climate migration governance gaps reveal:",
+      "options": [
+        "A) Adequate frameworks",
+        "B) Protection deficits for environmental displacement",
+        "C) No movement",
+        "D) Simple solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3950d820161f98f2b890130f5a70f570e3b4fb66",
+      "sectionIndex": 8,
+      "question": "Sacrifice zones in environmental policy demonstrate:",
+      "options": [
+        "A) Necessary trade-offs",
+        "B) Environmental injustice through concentrated impacts",
+        "C) Efficient allocation",
+        "D) No alternatives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "35a309b1d361e564e7dd19a930e8d7d196252f27",
+      "sectionIndex": 8,
+      "question": "Procedural justice in environmental decision-making requires:",
+      "options": [
+        "A) Consultation only",
+        "B) Meaningful participation with power to influence outcomes",
+        "C) Information only",
+        "D) Voting only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26934ad1d1dcacdeaa69a579c909a92767d8591a",
+      "sectionIndex": 9,
+      "question": "Planetary boundaries framework's policy implications involve:",
+      "options": [
+        "A) Clear targets",
+        "B) Navigating safe operating space with equity considerations",
+        "C) No trade-offs",
+        "D) Simple implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "658a93c79ed4c6cf8e36853338de62170c69086b",
+      "sectionIndex": 9,
+      "question": "The Anthropocene concept's significance lies in:",
+      "options": [
+        "A) Geological marker only",
+        "B) Recognizing human as geological force requiring Earth system governance",
+        "C) Academic debate",
+        "D) No implications"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5b13c1b0903e6501c3a88961e22b57196b5d1d8",
+      "sectionIndex": 9,
+      "question": "Transformative pathways to sustainability require:",
+      "options": [
+        "A) Technology only",
+        "B) Challenging growth paradigms and power structures",
+        "C) Incremental change",
+        "D) Market solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "877c76810bd247d1f1b9615e6b8950e92786967a",
+      "sectionIndex": 9,
+      "question": "The sustainability-security nexus reveals:",
+      "options": [
+        "A) Separate domains",
+        "B) Potential militarization of environmental issues",
+        "C) No connection",
+        "D) Complementary goals"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b197b387054562064c257916cd0bcf63a3e3d15a",
+      "sectionIndex": 9,
+      "question": "Post-growth environmental strategies face:",
+      "options": [
+        "A) Technical barriers only",
+        "B) Political economy challenges to alternatives to GDP growth",
+        "C) No opposition",
+        "D) Easy implementation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecd9c2aca3aabb1cd18bd96fcc955228d69d370d",
+      "sectionIndex": 9,
+      "question": "Earth system law emerging concepts challenge:",
+      "options": [
+        "A) Nothing",
+        "B) State-centric environmental law inadequate for planetary challenges",
+        "C) International law only",
+        "D) No change needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1290526e7654429d1294806ab72aeee9b685995b",
+      "sectionIndex": 9,
+      "question": "Tipping cascades in Earth systems imply:",
+      "options": [
+        "A) Gradual change",
+        "B) Potential for rapid, irreversible shifts requiring precautionary governance",
+        "C) Predictable outcomes",
+        "D) Local impacts only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de3bce47a37c807446c6a5893e8750df34ae58c7",
+      "sectionIndex": 9,
+      "question": "Environmental authoritarianism debates involve:",
+      "options": [
+        "A) Clear answers",
+        "B) Democracy-effectiveness tensions in urgent environmental action",
+        "C) No relevance",
+        "D) Universal solutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6cc136dba6761b77fb7f5e5f31510edf4859f9bd",
+      "sectionIndex": 9,
+      "question": "Regenerative development beyond sustainability requires:",
+      "options": [
+        "A) Maintaining status quo",
+        "B) Healing damaged systems while meeting human needs",
+        "C) Technology only",
+        "D) Economic growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6b9d95367aa96720d7e6cb720bf7662a7a339e4",
+      "sectionIndex": 9,
+      "question": "The future of environmental governance in the climate emergency demands:",
+      "options": [
+        "A) Current approaches",
+        "B) Radical reimagining of human-nature relationships and institutions",
+        "C) Minor adjustments",
+        "D) Technical fixes only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

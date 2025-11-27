@@ -1,0 +1,671 @@
+{
+  "subject": "History of USA (CSS Pakistan)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Founding Documents & Constitutional Principles",
+    "Presidential Leadership & Doctrines",
+    "Expansion, Empire & Diplomacy",
+    "Civil War, Reconstruction & Race",
+    "Economic Transformations",
+    "Wars & Security",
+    "Social Movements & Demography",
+    "Exam Strategy & MCQs"
+  ],
+  "notes": [
+    {
+      "id": "US1",
+      "title": "The Constitution as a System of Checks & Balances",
+      "content": "Explain separation of powers (Articles I–III) and mutual checks (veto/override, judicial review, Senate consent, impeachment). Use case illustrations (e.g., treaty ratification vs. executive agreements) and show how crises (Civil War, New Deal, Vietnam era) recalibrated the balance.",
+      "keyTakeaways": [
+        "Checks & balances are dynamic—crises expand executive power, peacetime often recenters Congress/Courts.",
+        "Judicial review (Marbury) operationalizes constitutional supremacy.",
+        "Senate's treaty/appointment role is a structural foreign-policy check."
+      ],
+      "resources": [
+        {
+          "title": "National Archives — Constitution (history & text)",
+          "url": "https://www.archives.gov/founding-docs/more-perfect-union",
+          "type": "article",
+          "description": "Historical overview + Federalist context"
+        },
+        {
+          "title": "Library of Congress — Defects in the Articles",
+          "url": "https://www.loc.gov/collections/continental-congress-and-constitutional-convention-from-1774-to-1789/articles-and-essays/to-form-a-more-perfect-union/identifying-defects-in-the-constitution/",
+          "type": "article",
+          "description": "Why stronger checks were created"
+        }
+      ],
+      "importance": "high",
+      "category": "Founding Documents & Constitutional Principles",
+      "topics": ["Separation of Powers", "Checks & Balances", "Judicial Review"]
+    },
+    {
+      "id": "US2",
+      "title": "Bill of Rights (1791) — Scope, Origins & Exam Angles",
+      "content": "Know the 10 amendments' core protections, Anti-Federalist pressure for adoption, incorporation through the 14th Amendment, and recurring exam MCQs (date/name).",
+      "keyTakeaways": [
+        "Ratified 1791; 12 proposed, 10 adopted.",
+        "Anti-Federalist advocacy was decisive for adoption.",
+        "Selective incorporation applied most rights to states."
+      ],
+      "resources": [
+        {
+          "title": "National Archives — Bill of Rights (transcript)",
+          "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+          "type": "pdf",
+          "description": "Official text"
+        },
+        {
+          "title": "NARA — Bill of Rights (overview)",
+          "url": "https://www.archives.gov/milestone-documents/bill-of-rights",
+          "type": "article",
+          "description": "Context & significance"
+        },
+        {
+          "title": "NARA — Congress Creates the Bill of Rights (booklet)",
+          "url": "https://www.archives.gov/files/legislative/resources/bill-of-rights/CCBR_I.pdf",
+          "type": "pdf",
+          "description": "Origin story & ratification politics"
+        }
+      ],
+      "importance": "high",
+      "category": "Founding Documents & Constitutional Principles",
+      "topics": ["Amendments I–X", "Anti-Federalists", "Incorporation"]
+    },
+    {
+      "id": "US3",
+      "title": "Articles of Confederation — Weaknesses & Replacement",
+      "content": "Tie structural flaws (no taxing power, no regulation of commerce, weak executive/judiciary) to Shays' Rebellion, interstate disputes, and the call for the Philadelphia Convention.",
+      "keyTakeaways": [
+        "Fiscal impotence + trade chaos pushed elites toward a new frame.",
+        "Federalist Papers argued for an 'energetic' national government.",
+        "Exam often asks for comparative table: Articles vs. Constitution."
+      ],
+      "resources": [
+        {
+          "title": "NARA — Articles of Confederation (overview)",
+          "url": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+          "type": "article",
+          "description": "Key weaknesses summarized"
+        },
+        {
+          "title": "Founders Online — Madison on Confederation defects",
+          "url": "https://founders.archives.gov/documents/Madison/01-11-02-0065",
+          "type": "pdf",
+          "description": "Convention debates"
+        },
+        {
+          "title": "Federalist 22 (Hamilton) on defects",
+          "url": "https://founders.archives.gov/documents/Hamilton/01-04-02-0179",
+          "type": "pdf",
+          "description": "Judiciary & enforcement gaps"
+        }
+      ],
+      "importance": "high",
+      "category": "Founding Documents & Constitutional Principles",
+      "topics": ["Articles vs. Constitution", "Federalists", "Tax/Commerce Powers"]
+    },
+    {
+      "id": "US4",
+      "title": "Federalists vs. Anti-Federalists",
+      "content": "Contrast visions: national energy vs. states' primacy; fear of consolidated power vs. fear of anarchy. Show how the Bill of Rights emerged as compromise.",
+      "keyTakeaways": [
+        "Federalists used print campaigns (The Federalist) to sway ratification.",
+        "Anti-Federalists influenced rights protections and limits.",
+        "Debate frames later conflicts (Nullification, Civil War era)."
+      ],
+      "resources": [
+        {
+          "title": "Library of Congress — Federalist Papers portal",
+          "url": "https://guides.loc.gov/federalist-papers/full-text",
+          "type": "pdf",
+          "description": "Full text access"
+        },
+        {
+          "title": "National Constitution Center — primers",
+          "url": "https://constitutioncenter.org/education/classroom-resource-library/classroom/4.5-primary-source-feds-and-anti-feds",
+          "type": "article",
+          "description": "Readable summary + sources"
+        }
+      ],
+      "importance": "medium",
+      "category": "Founding Documents & Constitutional Principles",
+      "topics": ["Ratification", "Rights", "Federalism"]
+    },
+    {
+      "id": "US5",
+      "title": "Manifest Destiny & Westward Expansion",
+      "content": "Define O'Sullivan's term (1845), link to Louisiana Purchase, Texas Annexation, Mexican Cession, Homestead Act, Native removal/conflict, and the slavery extension crisis.",
+      "keyTakeaways": [
+        "Ideology + opportunity + state policy drove continental expansion.",
+        "Expansion intensified sectionalism (slave vs. free territories).",
+        "Know key acquisitions and dates for MCQs."
+      ],
+      "resources": [
+        {
+          "title": "History.com — Manifest Destiny",
+          "url": "https://www.history.com/articles/manifest-destiny",
+          "type": "article",
+          "description": "Definition & cases"
+        },
+        {
+          "title": "History.com — Westward Expansion",
+          "url": "https://www.history.com/articles/westward-expansion",
+          "type": "article",
+          "description": "Timeline & causes"
+        },
+        {
+          "title": "Britannica — What Manifest Destiny meant",
+          "url": "https://www.britannica.com/video/origins-Manifest-Destiny/-258156",
+          "type": "video",
+          "description": "Concise explainer"
+        }
+      ],
+      "importance": "high",
+      "category": "Expansion, Empire & Diplomacy",
+      "topics": ["O'Sullivan", "Mexican Cession", "Homestead Act", "Native Policy"]
+    },
+    {
+      "id": "US6",
+      "title": "Monroe Doctrine (1823) & Roosevelt Corollary",
+      "content": "Summarize the hemispheric non-colonization and non-interference principles; note later 'police power' corollary and 20th-century interventions.",
+      "keyTakeaways": [
+        "Original message in Monroe's 7th Annual Address (Dec 2, 1823).",
+        "Roosevelt's 1904 corollary normalized interventionism without annexation.",
+        "Cite uses: Venezuela crisis, Caribbean interventions."
+      ],
+      "resources": [
+        {
+          "title": "Yale Avalon Project — Monroe Doctrine text",
+          "url": "https://avalon.law.yale.edu/19th_century/monroe.asp",
+          "type": "pdf",
+          "description": "Authoritative primary"
+        },
+        {
+          "title": "Avalon — 19th-century document menu",
+          "url": "https://avalon.law.yale.edu/subject_menus/19th.asp",
+          "type": "website",
+          "description": "Related texts"
+        }
+      ],
+      "importance": "high",
+      "category": "Expansion, Empire & Diplomacy",
+      "topics": ["Hemispheric Policy", "Interventionism", "Latin America"]
+    },
+    {
+      "id": "US7",
+      "title": "From Republic to Empire? 1898 & After",
+      "content": "Explain Spanish-American War, annexations (Philippines, Guam, Puerto Rico), and debates (anti-imperialists vs. expansionists). Tie to Open Door & later Cold-War basing.",
+      "keyTakeaways": [
+        "1898 marks U.S. great-power status and overseas empire.",
+        "Debates over consent, citizenship, and constitutional rights in territories.",
+        "Use 1898 as pivot in exam essays on 'imperialist-colonialist power'."
+      ],
+      "resources": [
+        {
+          "title": "State Dept. Historian — Milestones series",
+          "url": "https://history.state.gov/milestones",
+          "type": "website",
+          "description": "Authoritative U.S. diplomacy reference"
+        }
+      ],
+      "importance": "medium",
+      "category": "Expansion, Empire & Diplomacy",
+      "topics": ["1898 War", "Open Door", "Insular Cases"]
+    },
+    {
+      "id": "US8",
+      "title": "Causes of the Civil War — Economy, Slavery & Ideology",
+      "content": "Synthesize long-term (slavery expansion, economic models, political breakdown) and short-term (Kansas-Nebraska, Dred Scott, 1860 election) factors; include inevitability debate.",
+      "keyTakeaways": [
+        "Sectional economic paths fed political polarization.",
+        "Territorial expansion repeatedly re-opened the slavery question.",
+        "Frame with competing constitutional visions (states' rights vs. Union)."
+      ],
+      "resources": [
+        {
+          "title": "Miller Center — Lincoln overview hub",
+          "url": "https://millercenter.org/president/lincoln",
+          "type": "website",
+          "description": "Context & essays"
+        }
+      ],
+      "importance": "high",
+      "category": "Civil War, Reconstruction & Race",
+      "topics": ["Sectionalism", "Slavery", "1860 Election"]
+    },
+    {
+      "id": "US9",
+      "title": "Evaluating Abraham Lincoln's Presidency",
+      "content": "Assess preservation of the Union, Emancipation Proclamation's wartime/legal logic, leadership style, civil liberties controversies, and Reconstruction beginnings.",
+      "keyTakeaways": [
+        "Lincoln's crisis leadership redefined executive power.",
+        "War aims evolved from union to union-plus-emancipation.",
+        "Legacy debated: civil liberties vs. necessity in war."
+      ],
+      "resources": [
+        {
+          "title": "Miller Center — Lincoln Impact & Legacy",
+          "url": "https://millercenter.org/president/lincoln/impact-and-legacy",
+          "type": "article",
+          "description": "Concise scholarly assessment"
+        }
+      ],
+      "importance": "high",
+      "category": "Presidential Leadership & Doctrines",
+      "topics": ["Civil War", "Emancipation", "Executive Power"]
+    },
+    {
+      "id": "US10",
+      "title": "Jeffersonian vs. Jacksonian Democracy",
+      "content": "Compare agrarian republicanism, limited central power, and education (Jefferson) with mass politics, spoils system, Bank War, and Indian Removal (Jackson).",
+      "keyTakeaways": [
+        "Both valorized 'the people,' but differed on means/institutions.",
+        "Jacksonian expansion of suffrage for white males contrasted with coercive Native policy.",
+        "Bank War symbolizes executive vs. financial elite conflict."
+      ],
+      "resources": [
+        {
+          "title": "History.com — Westward & Jacksonian era ties",
+          "url": "https://www.history.com/articles/westward-expansion",
+          "type": "article",
+          "description": "Context for Jacksonian expansion"
+        }
+      ],
+      "importance": "medium",
+      "category": "Presidential Leadership & Doctrines",
+      "topics": ["Jefferson", "Jackson", "Bank War", "Indian Removal"]
+    },
+    {
+      "id": "US11",
+      "title": "FDR & the New Deal — Successes, Limits & Legacy",
+      "content": "Outline relief-recovery-reform, first 100 days, labor reforms, Social Security; note constitutional battles and that full recovery came with WWII mobilization.",
+      "keyTakeaways": [
+        "Stabilized finance and reshaped federal role, but didn't fully end unemployment pre-WWII.",
+        "Built modern social safety net and labor rights framework.",
+        "Expect evaluative questions: save capitalism vs. expand state."
+      ],
+      "resources": [
+        {
+          "title": "Miller Center — FDR Domestic Affairs",
+          "url": "https://millercenter.org/president/fdroosevelt/domestic-affairs",
+          "type": "article",
+          "description": "Program overview"
+        },
+        {
+          "title": "Miller Center — FDR Impact & Legacy",
+          "url": "https://millercenter.org/president/fdroosevelt/impact-and-legacy",
+          "type": "article",
+          "description": "Outcome analysis"
+        },
+        {
+          "title": "Investopedia — Economic Effects of the New Deal",
+          "url": "https://www.investopedia.com/articles/investing/011116/economic-effects-new-deal.asp",
+          "type": "article",
+          "description": "Pros/cons summary"
+        }
+      ],
+      "importance": "high",
+      "category": "Economic Transformations",
+      "topics": ["Relief", "Recovery", "Reform", "Labor", "Social Security"]
+    },
+    {
+      "id": "US12",
+      "title": "Progressive Era (1900–1916) — Reforms & Limits",
+      "content": "Trust-busting, regulatory commissions, conservation, municipal reform, and democratizing measures (initiative, referendum). Note racial exclusions and limits.",
+      "keyTakeaways": [
+        "Coalition of middle-class reformers + muckrakers + politicians.",
+        "Built administrative state foundations pre-New Deal.",
+        "Evaluate successes vs. blind spots (race, immigration)."
+      ],
+      "resources": [
+        {
+          "title": "State Dept. Milestones — Progressive reforms context",
+          "url": "https://history.state.gov/milestones",
+          "type": "website",
+          "description": "Background entries"
+        }
+      ],
+      "importance": "medium",
+      "category": "Economic Transformations",
+      "topics": ["Regulation", "Conservation", "Democratization"]
+    },
+    {
+      "id": "US13",
+      "title": "Civil Rights Trajectory — From Abolition to MLK",
+      "content": "Brief arc from Reconstruction Amendments to Jim Crow, then NAACP litigation, Brown, Civil Rights Act (1964), Voting Rights Act (1965), and MLK's non-violence philosophy.",
+      "keyTakeaways": [
+        "Legal change + mass mobilization were complementary.",
+        "Federal courts and Congress pivotal after 1950s.",
+        "Remember Nobel Peace Prize date (1964) for MCQs."
+      ],
+      "resources": [
+        {
+          "title": "Miller Center — MLK Nobel context (speeches/events)",
+          "url": "https://millercenter.org/",
+          "type": "website",
+          "description": "Use for dates/speeches"
+        }
+      ],
+      "importance": "high",
+      "category": "Civil War, Reconstruction & Race",
+      "topics": ["Reconstruction", "Jim Crow", "Brown", "1964/1965 Acts"]
+    },
+    {
+      "id": "US14",
+      "title": "Marshall Plan (ERP) — Aims, Mechanics & Effects",
+      "content": "Economic recovery for Western Europe (1948–52) to stabilize allies/markets and contain communism; counterpart funds, OEEC coordination; U.S. domestic boost.",
+      "keyTakeaways": [
+        "~$13B aid; stimulated European recovery and U.S. exports.",
+        "Linked to containment architecture and Atlantic integration.",
+        "Know date of law (April 3, 1948) for MCQs."
+      ],
+      "resources": [
+        {
+          "title": "State Dept. Historian — Marshall Plan",
+          "url": "https://history.state.gov/milestones/1945-1952/marshall-plan",
+          "type": "article",
+          "description": "Authoritative summary"
+        },
+        {
+          "title": "MoneyWeek — Law signed (Apr 3, 1948)",
+          "url": "https://moneyweek.com/386453/3-april-1948-marshall-plan-signed-into-law",
+          "type": "article",
+          "description": "Date & figures"
+        }
+      ],
+      "importance": "high",
+      "category": "Wars & Security",
+      "topics": ["ERP", "Containment", "OEEC/NATO Links"]
+    },
+    {
+      "id": "US15",
+      "title": "Truman Doctrine (1947) — Global Commitments",
+      "content": "Announced to support 'free peoples' (initially Greece/Turkey). Establishes open-ended U.S. responsibility and precedes ERP/NATO.",
+      "keyTakeaways": [
+        "Sets ideological frame of Cold War aid/intervention.",
+        "Domestic politics: anti-communist consensus building.",
+        "Pairs logically with Marshall Plan in essays."
+      ],
+      "resources": [
+        {
+          "title": "Yale Avalon — Truman Doctrine speech",
+          "url": "https://avalon.law.yale.edu/20th_century/trudoc.asp",
+          "type": "pdf",
+          "description": "Official text"
+        },
+        {
+          "title": "ALBA — PDF transcript",
+          "url": "https://alba-valb.org/wp-content/uploads/2020/06/Truman_Doctrine.pdf",
+          "type": "pdf",
+          "description": "Clean transcript"
+        }
+      ],
+      "importance": "high",
+      "category": "Wars & Security",
+      "topics": ["Containment", "Aid", "Greece/Turkey"]
+    },
+    {
+      "id": "US16",
+      "title": "George F. Kennan — Long Telegram & 'X' Article",
+      "content": "Outline the 1946 Long Telegram and 1947 'Sources of Soviet Conduct' arguing for patient, firm containment; note Kennan's later critique of militarized interpretations.",
+      "keyTakeaways": [
+        "Foundational to U.S. Cold War strategy.",
+        "Stress economic/political pressure over war.",
+        "Great for short notes + historiography angles."
+      ],
+      "resources": [
+        {
+          "title": "State Dept. — Kennan & Containment (short history)",
+          "url": "https://history.state.gov/departmenthistory/short-history/kennan",
+          "type": "article",
+          "description": "Authoritative summary"
+        },
+        {
+          "title": "Foreign Affairs — 'X' Article (PDF copy)",
+          "url": "https://www.cvce.eu/content/publication/1999/1/1/a0f03730-dde8-4f06-a6ed-d740770dc423/publishable_en.pdf",
+          "type": "pdf",
+          "description": "Original 1947 essay"
+        },
+        {
+          "title": "Truman Library Institute — Long Telegram explainer",
+          "url": "https://www.trumanlibraryinstitute.org/kennan/",
+          "type": "article",
+          "description": "Context & impact"
+        }
+      ],
+      "importance": "high",
+      "category": "Wars & Security",
+      "topics": ["Containment", "Long Telegram", "Foreign Affairs 1947"]
+    },
+    {
+      "id": "US17",
+      "title": "Woodrow Wilson — Fourteen Points & Versailles",
+      "content": "Summarize key points (open diplomacy, self-determination, League) and Senate rejection of the Treaty due to Article X/partisan politics.",
+      "keyTakeaways": [
+        "Idealism vs. domestic constraints is the exam's core contrast.",
+        "League failure shaped interwar U.S. isolationist tendencies.",
+        "Use direct quotations sparingly from primary text."
+      ],
+      "resources": [
+        {
+          "title": "Yale Avalon — Fourteen Points (full text)",
+          "url": "https://avalon.law.yale.edu/20th_century/wilson14.asp",
+          "type": "pdf",
+          "description": "January 8, 1918"
+        },
+        {
+          "title": "Britannica — Fourteen Points overview",
+          "url": "https://www.britannica.com/event/Fourteen-Points",
+          "type": "article",
+          "description": "Context & outcomes"
+        }
+      ],
+      "importance": "high",
+      "category": "Presidential Leadership & Doctrines",
+      "topics": ["Fourteen Points", "League of Nations", "Treaty Fight"]
+    },
+    {
+      "id": "US18",
+      "title": "Vietnam War — Gulf of Tonkin & Escalation",
+      "content": "Explain the August 1964 incidents, Tonkin Gulf Resolution's broad authorization, and later controversies about the evidence; connect to War Powers debates.",
+      "keyTakeaways": [
+        "Tonkin Resolution passed 88–2 (Senate), 414–0 (House).",
+        "Became legal basis for large-scale escalation.",
+        "Later scrutiny fueled push for War Powers limits."
+      ],
+      "resources": [
+        {
+          "title": "NARA — Tonkin Gulf Resolution (transcript/overview)",
+          "url": "https://www.archives.gov/milestone-documents/tonkin-gulf-resolution",
+          "type": "pdf",
+          "description": "Official document"
+        },
+        {
+          "title": "Avalon — Tonkin materials",
+          "url": "https://avalon.law.yale.edu/20th_century/tonkin-g.asp",
+          "type": "pdf",
+          "description": "Contextual text"
+        },
+        {
+          "title": "NEH EDSITEment — Classroom dossier",
+          "url": "https://edsitement.neh.gov/lesson-plans/gulf-tonkin-resolution-and-escalation-vietnam-war",
+          "type": "article",
+          "description": "Debate & reevaluation"
+        }
+      ],
+      "importance": "high",
+      "category": "Wars & Security",
+      "topics": ["Tonkin 1964", "War Powers", "Escalation"]
+    },
+    {
+      "id": "US19",
+      "title": "Immigration — 'Nation of Nations' or 'Mixing Bowl'?",
+      "content": "Track major waves (Old/New immigration, 1965 reform), urbanization, nativism (Know-Nothings), and multicultural debates.",
+      "keyTakeaways": [
+        "Immigration shaped labor markets, cities, and politics.",
+        "Exam often asks for model metaphors: melting pot vs. mosaic.",
+        "Use census snapshots + policy milestones (Chinese Exclusion, 1924 quota, 1965 Act)."
+      ],
+      "resources": [
+        {
+          "title": "Smithsonian/LC portals on immigration history",
+          "url": "https://www.loc.gov/collections/immigration-history/",
+          "type": "website",
+          "description": "Primary sources hub"
+        }
+      ],
+      "importance": "medium",
+      "category": "Social Movements & Demography",
+      "topics": ["Nativism", "Urbanization", "Policy Shifts"]
+    },
+    {
+      "id": "US20",
+      "title": "Women's Suffrage — From Seneca Falls to the 19th Amendment",
+      "content": "Outline movement phases (1848, state-level gains, WWI context), then 1920 ratification; add post-1920 feminist waves for continuity.",
+      "keyTakeaways": [
+        "19th Amendment ratified 1920 (MCQ favorite).",
+        "Coalitions and tactics evolved (legalism, protest, war service).",
+        "Link to later Equal Rights debates."
+      ],
+      "resources": [
+        {
+          "title": "National Archives — Women's rights docs hub",
+          "url": "https://www.archives.gov/women",
+          "type": "website",
+          "description": "Primary documents"
+        }
+      ],
+      "importance": "medium",
+      "category": "Social Movements & Demography",
+      "topics": ["Suffrage", "19th Amendment", "Feminism"]
+    },
+    {
+      "id": "US21",
+      "title": "Great Depression — Causes & Effects",
+      "content": "Synthesize structural weaknesses, monetary contraction, bank failures, unemployment, Dust Bowl; social impacts and policy experimentation.",
+      "keyTakeaways": [
+        "Differentiate causes (1929 crash ≠ sole cause).",
+        "Use graphs/data points if time permits.",
+        "Segues into New Deal evaluation."
+      ],
+      "resources": [
+        {
+          "title": "Investopedia — Economic Effects of the New Deal (for outcomes link)",
+          "url": "https://www.investopedia.com/articles/investing/011116/economic-effects-new-deal.asp",
+          "type": "article",
+          "description": "Recovery debates context"
+        }
+      ],
+      "importance": "high",
+      "category": "Economic Transformations",
+      "topics": ["Monetary Contraction", "Unemployment", "Policy Response"]
+    },
+    {
+      "id": "US22",
+      "title": "U.S. Foreign Policy Since WWII — Big Arcs",
+      "content": "Containment (Europe/Asia), alliance-building (NATO), détente, post-Cold War unipolarity, War on Terror, and great-power competition re-emergence.",
+      "keyTakeaways": [
+        "Connect doctrine → instruments (aid, alliances, interventions).",
+        "Periodize: 1947–89, 1991–2001, 2001–2016, 2017–present.",
+        "Use Kennan/Truman/Marshall → NATO as a through-line."
+      ],
+      "resources": [
+        {
+          "title": "State Dept. Historian — Milestones",
+          "url": "https://history.state.gov/milestones",
+          "type": "website",
+          "description": "Authoritative period summaries"
+        }
+      ],
+      "importance": "high",
+      "category": "Wars & Security",
+      "topics": ["Containment", "NATO", "War on Terror"]
+    },
+    {
+      "id": "US23",
+      "title": "Quick MCQ Pack — Foundational Facts",
+      "content": "Jamestown 1607; Mayflower 1620; Bill of Rights 1791; Paris Peace (1783) in Paris; Alaska from Russia (1867); FDR longest-serving; JFK & Apollo; Carter & Camp David; Reagan 'Evil Empire'; women's vote 1920.",
+      "keyTakeaways": [
+        "Group facts by era for recall.",
+        "Make a 1-page date/name sheet.",
+        "Link dates to doctrines (e.g., 1823 Monroe)."
+      ],
+      "resources": [
+        {
+          "title": "NARA — Bill of Rights snapshot",
+          "url": "https://www.archives.gov/founding-docs/bill-of-rights",
+          "type": "article",
+          "description": "MCQ-relevant blurb"
+        },
+        {
+          "title": "History.com — Columbus/Jamestown/Plymouth pages",
+          "url": "https://www.history.com/",
+          "type": "website",
+          "description": "Fast refreshers"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & MCQs",
+      "topics": ["Dates & Firsts", "Treaties", "Presidential Milestones"]
+    },
+    {
+      "id": "US24",
+      "title": "How to Attempt the CSS Paper (Structure & Timing)",
+      "content": "Typical paper: compulsory MCQs + essay section (pick 4). Do one constitutional or presidency question, one foreign-policy question, one social/economic movement question, and one thematic compare/contrast (e.g., Jeffersonian vs. Jacksonian).",
+      "keyTakeaways": [
+        "Outline first; integrate 3–5 primary/authoritative references.",
+        "Use dates, names, and short quotes from documents sparingly.",
+        "Finish with a balanced judgment referencing historiography."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Previous Question Papers",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "website",
+          "description": "Download recent sets"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy & MCQs",
+      "topics": ["Time Management", "Answer Architecture", "Source Use"]
+    }
+  ],
+  "extras": {
+    "reference_texts": [
+      {
+        "title": "Avalon Project (primary texts hub)",
+        "url": "https://avalon.law.yale.edu/",
+        "type": "website"
+      },
+      {
+        "title": "National Archives (Founding Docs portal)",
+        "url": "https://www.archives.gov/founding-docs",
+        "type": "website"
+      },
+      {
+        "title": "Miller Center (Presidency reference)",
+        "url": "https://millercenter.org/president",
+        "type": "website"
+      },
+      {
+        "title": "State Dept. Historian (Milestones in U.S. Foreign Relations)",
+        "url": "https://history.state.gov/milestones",
+        "type": "website"
+      }
+    ],
+    "video_playlist_seeds": [
+      {
+        "title": "Wilson's 14 Points & Versailles (animated explainers)",
+        "url": "https://www.youtube.com/results?search_query=wilson+fourteen+points+explained",
+        "type": "video"
+      },
+      {
+        "title": "New Deal overview lectures",
+        "url": "https://www.youtube.com/results?search_query=new+deal+overview+lecture",
+        "type": "video"
+      }
+    ]
+  }
+}

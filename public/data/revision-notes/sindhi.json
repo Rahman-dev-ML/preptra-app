@@ -1,0 +1,513 @@
+{
+  "subject": "Sindhi",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 16,
+  "categories": [
+    "Language Origins & Script",
+    "Grammar & Orthography",
+    "Dictionaries & Reference",
+    "Poetry & Sufi (Shah Abdul Latif Bhittai)",
+    "Folk Literature & Seven Heroines",
+    "Modern Prose, Novel & Short Story",
+    "Drama & Performance",
+    "Culture & Society",
+    "Authors & Canon (Mirza Qaleech Beg & others)",
+    "Translation Practice",
+    "Exam Strategy",
+    "Past Papers & Official Sources"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Origins of Sindhi & Script Evolution",
+      "content": "Survey key theories on the origin of Sindhi (Indo-Aryan roots, Indus links) and track orthographic development (Arabic-based scripts, Devanagari usage, standardization in modern era). Useful for long essay questions on 'بن بنياد' and historical evolution.",
+      "keyTakeaways": [
+        "Know competing linguistic theories and evidence limits.",
+        "Map script changes alongside political eras (Kalhora, Talpur, British).",
+        "Use timelines and cite standardization efforts."
+      ],
+      "resources": [
+        {
+          "title": "Sindhi Language Authority — Books (Index)",
+          "url": "https://sl.sindhila.org/category/books?lang=en",
+          "type": "portal",
+          "description": "Publisher list & PDFs"
+        },
+        {
+          "title": "Full Book (Yumpu mirror) on Sindhi Language",
+          "url": "https://www.yumpu.com/en/document/view/11575980/full-book-sindhi-language-authority",
+          "type": "pdf",
+          "description": "Dialects, alphabet, history"
+        },
+        {
+          "title": "History of Sindhi Literature (Shaikh Aziz)",
+          "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/History_of_Sindhi_Literature-Shaikh_Aziz-2008-cs.pdf",
+          "type": "pdf",
+          "description": "Accessible overview in English"
+        }
+      ],
+      "importance": "high",
+      "category": "Language Origins & Script",
+      "topics": ["Origins", "Script", "Standardization", "Historical Periods"]
+    },
+    {
+      "id": "2",
+      "title": "Core Grammar & Orthography Primers",
+      "content": "Classic grammars help with MCQs and short notes on letters, sounds (implosives), and morphology.",
+      "keyTakeaways": [
+        "Revise alphabet (52 letters) & unique phonetics (implosives).",
+        "Orthography questions often ask for examples.",
+        "Old manuals remain exam-relevant for fundamentals."
+      ],
+      "resources": [
+        {
+          "title": "A Grammar of the Sindhi Language (Trumpp)",
+          "url": "https://archive.org/download/grammarofsindhil00trum/grammarofsindhil00trum.pdf",
+          "type": "pdf",
+          "description": "Foundational reference"
+        },
+        {
+          "title": "A Manual of Sindhi (historic primer)",
+          "url": "https://irrigation.sindh.gov.pk/files/Books//24.pdf",
+          "type": "pdf",
+          "description": "Alphabet, word formation, noun/verb basics"
+        }
+      ],
+      "importance": "high",
+      "category": "Grammar & Orthography",
+      "topics": ["Alphabet", "Phonology", "Morphology", "Orthography"]
+    },
+    {
+      "id": "3",
+      "title": "Online Learning & Reference Hubs",
+      "content": "Official portals for structured learning, articles, and downloadable books.",
+      "keyTakeaways": [
+        "Bookmark SLA portals for dictionaries & learning paths.",
+        "Use Indus/Sindhology libraries for rare texts.",
+        "Great for quick lookups during prep."
+      ],
+      "resources": [
+        {
+          "title": "Online Sindhi Learning (SLA)",
+          "url": "https://learn.sindhila.edu.pk/",
+          "type": "website",
+          "description": "Beginner → advanced lessons"
+        },
+        {
+          "title": "Sindhi Language Library",
+          "url": "https://sindhilanguagelibrary.com/?lang=en",
+          "type": "website",
+          "description": "Books & articles (EN/UR/SI)"
+        },
+        {
+          "title": "Indian Institute of Sindhology — Library",
+          "url": "https://www.sindhology.org/library.aspx",
+          "type": "website",
+          "description": "Catalog & access info"
+        }
+      ],
+      "importance": "medium",
+      "category": "Dictionaries & Reference",
+      "topics": ["Portals", "Libraries", "Learning"]
+    },
+    {
+      "id": "4",
+      "title": "Dictionaries & Lughat (Jamia Sindhi Lughat)",
+      "content": "Mastery of Lughat boosts MCQ accuracy and terminology in essays.",
+      "keyTakeaways": [
+        "Practice with Jamia Sindhi Lughat online/app.",
+        "Cross-reference synonyms and official terms.",
+        "Keep a personal glossary."
+      ],
+      "resources": [
+        {
+          "title": "SLA Online Dictionaries (English–Sindhi & Sindhi–Sindhi)",
+          "url": "https://dic.sindhila.edu.pk/",
+          "type": "website",
+          "description": "Searchable dictionaries"
+        },
+        {
+          "title": "Jamia Sindhi Lughat — SLA page",
+          "url": "https://sl.sindhila.org/category/item/jamia-sindhi-lughat?lang=en",
+          "type": "catalog",
+          "description": "Reference & download hub"
+        },
+        {
+          "title": "Sindhi One-Volume Lughat (Dr. N. B. Baloch)",
+          "url": "https://archive.org/details/san_0762",
+          "type": "book",
+          "description": "Comprehensive dictionary (Sindhi→Sindhi)"
+        }
+      ],
+      "importance": "high",
+      "category": "Dictionaries & Reference",
+      "topics": ["Lughat", "Terminology", "Synonyms"]
+    },
+    {
+      "id": "5",
+      "title": "Shah Abdul Latif Bhittai — Life, Message & Mysticism",
+      "content": "Anchor essays on Shah Latif with historical context, mystical themes, and compilation of Risalo.",
+      "keyTakeaways": [
+        "Cite the compilation/translation history of 'Risalo'.",
+        "Discuss mystic philosophy and cultural impact.",
+        "Use examples from Sur (e.g., Marvi)."
+      ],
+      "resources": [
+        {
+          "title": "PU Journal — Mystical Philosophy of Shah Latif",
+          "url": "https://pu.edu.pk/images/journal/phill/pdf_files/6_v41_21.pdf",
+          "type": "pdf",
+          "description": "Analytical article"
+        },
+        {
+          "title": "The Life & Poetry of Shah Abdul Latif (A. H. Akhund)",
+          "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/The_Life_And_Poetry_of_Shah_Abdul_Latif_of_Bhit-Abdul_Hamid_Akhund-1980-cs.pdf",
+          "type": "pdf",
+          "description": "Readable monograph"
+        },
+        {
+          "title": "Review of Shackle's HUP 'Risalo'",
+          "url": "https://asianreviewofbooks.com/risalo-by-shah-abdul-latif-edited-and-translated-by-christopher-shackle/",
+          "type": "article",
+          "description": "Modern translation overview"
+        }
+      ],
+      "importance": "high",
+      "category": "Poetry & Sufi (Shah Abdul Latif Bhittai)",
+      "topics": ["Sufism", "Risalo", "Sur", "Cultural Impact"]
+    },
+    {
+      "id": "6",
+      "title": "Reading Shah Jo Risalo (English & Multilingual)",
+      "content": "Use parallel translations to quote accurately in answers and for translation practice.",
+      "keyTakeaways": [
+        "Compare translations (Elsa Kazi, Yakoob Agha).",
+        "Note thematic clusters across Surs.",
+        "Build a bank of quotable couplets."
+      ],
+      "resources": [
+        {
+          "title": "APNA — English Translation (Elsa Kazi)",
+          "url": "https://apnaorg.com/books/english/shah-jo-risalo/shah-jo-risalo.pdf",
+          "type": "pdf",
+          "description": "Classic English rendering"
+        },
+        {
+          "title": "Shah Jo Risalo (Selections)",
+          "url": "https://sindhiproverbs.wordpress.com/wp-content/uploads/2009/02/shah-jo-risalo3.pdf",
+          "type": "pdf",
+          "description": "Selected passages"
+        },
+        {
+          "title": "Shah Jo Risalo (Multilingual App)",
+          "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.rajasand.risalo",
+          "type": "app",
+          "description": "EN/UR/SI interfaces"
+        }
+      ],
+      "importance": "high",
+      "category": "Poetry & Sufi (Shah Abdul Latif Bhittai)",
+      "topics": ["Translations", "Quotations", "Thematic Study"]
+    },
+    {
+      "id": "7",
+      "title": "Folk Literature & 'Seven Heroines'",
+      "content": "Understand folktales (Sassui Punnhun, Umar Marvi, Noori Jam Tamachi, etc.) and their use in Shah Latif's symbolism.",
+      "keyTakeaways": [
+        "Connect heroines to virtues/themes (sabr, wafa).",
+        "Use academic sources + cultural media.",
+        "Relate folk narratives to social identity."
+      ],
+      "resources": [
+        {
+          "title": "IRJEI — Sindhi Folk-tales in Shah Latif",
+          "url": "https://www.irjei.com/index.php/irjei/article/download/6/4/4",
+          "type": "pdf",
+          "description": "Research on folktales in poetry"
+        },
+        {
+          "title": "Wikipedia — Sassui Punnhun (overview & refs)",
+          "url": "https://en.wikipedia.org/wiki/Sassui_Punnhun",
+          "type": "reference",
+          "description": "Quick facts & sources"
+        },
+        {
+          "title": "Folktales of the Indus (video)",
+          "url": "https://www.youtube.com/watch?v=NgrrcGKvLLc",
+          "type": "video",
+          "description": "Contextual narration"
+        }
+      ],
+      "importance": "high",
+      "category": "Folk Literature & Seven Heroines",
+      "topics": ["Sassi Punnu", "Umar Marvi", "Noori Jam Tamachi", "Symbolism"]
+    },
+    {
+      "id": "8",
+      "title": "Sufi Music, Sur Marvi & Cultural Memory",
+      "content": "Audio-visual references strengthen answers on cultural transmission and performance traditions tied to Latif's Sur.",
+      "keyTakeaways": [
+        "Quote Sur names with brief thematic notes.",
+        "Reference living traditions (Urs, recitations).",
+        "Use examples of performances."
+      ],
+      "resources": [
+        {
+          "title": "Sindhi Sufi Songs — Playlist",
+          "url": "https://www.youtube.com/playlist?list=PLnOSH5j1sQh-JrGGC-grFVu7CSaQhMuGb",
+          "type": "video",
+          "description": "Curated performances"
+        },
+        {
+          "title": "Sur Marvi (folk song video)",
+          "url": "https://www.youtube.com/watch?v=CV0tQBWzPZM",
+          "type": "video",
+          "description": "Illustrative performance"
+        }
+      ],
+      "importance": "medium",
+      "category": "Folk Literature & Seven Heroines",
+      "topics": ["Sur Marvi", "Performance", "Urs", "Music"]
+    },
+    {
+      "id": "9",
+      "title": "Mirza Qaleech Beg — 'Abu' of Modern Sindhi Literature",
+      "content": "Cover his pioneering roles (novel, drama, translation) and breadth of scholarship for essay questions.",
+      "keyTakeaways": [
+        "Cite representative works and genres introduced.",
+        "Use research articles for critical appraisal.",
+        "Mention translation & modernization impact."
+      ],
+      "resources": [
+        {
+          "title": "USindh Journal: Study of Qaleech Beg's Translations",
+          "url": "https://sujo.usindh.edu.pk/index.php/KALICH/article/view/6945",
+          "type": "paper",
+          "description": "Research article (2024)"
+        },
+        {
+          "title": "Shams-ul-Ulama Mirza Kalich Beg (monograph)",
+          "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/A_Green_Leaf_or_Black_Paper-Shams_ul_Ulma_Mirza_Kalich_Beg-2020-cs.pdf",
+          "type": "pdf",
+          "description": "Life & works"
+        },
+        {
+          "title": "Makhz Research Journal — Article (2023)",
+          "url": "https://ojs.makhz.org.pk/journal/article/view/112",
+          "type": "paper",
+          "description": "Context & contributions"
+        }
+      ],
+      "importance": "high",
+      "category": "Authors & Canon (Mirza Qaleech Beg & others)",
+      "topics": ["Modernization", "Novel", "Drama", "Translation"]
+    },
+    {
+      "id": "10",
+      "title": "Modern Short Story & Prose Trends",
+      "content": "Trace the development of modern Sindhi short stories (1914–2014) and key prose movements.",
+      "keyTakeaways": [
+        "Quote decades, authors, and hallmark themes.",
+        "Contrast pre/post-Partition trends.",
+        "Use anthologies for citations."
+      ],
+      "resources": [
+        {
+          "title": "Hundred Years of Sindhi Short Stories",
+          "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/Hundred_Years_of_Sindhi_Short_Stories-Madad_Ali_Sindhi-2022-cs.pdf",
+          "type": "pdf",
+          "description": "Century survey"
+        },
+        {
+          "title": "History of Sindhi Literature (APNA copy)",
+          "url": "https://apnaorg.com/books/english/sindhi-literature/sindhi-literature.pdf",
+          "type": "pdf",
+          "description": "Background essays"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Prose, Novel & Short Story",
+      "topics": ["Short Story", "Prose Movements", "Post-Partition"]
+    },
+    {
+      "id": "11",
+      "title": "Evolution of Sindhi Novel & Post-Partition Literature",
+      "content": "Use recent studies to discuss translation's role, diaspora, and cultural shifts influencing the modern novel.",
+      "keyTakeaways": [
+        "Translations catalyzed genre growth.",
+        "Discuss challenges in India post-Partition.",
+        "Bring 2024–25 scholarship for freshness."
+      ],
+      "resources": [
+        {
+          "title": "ShodhKosh — Evolution via Translation (2024)",
+          "url": "https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/view/3924",
+          "type": "paper",
+          "description": "Impact of translated works"
+        },
+        {
+          "title": "Sindhi Literature in Post-Partition India (2024)",
+          "url": "https://www.researchgate.net/publication/380203073_Sindhi_literature_in_post-partition_India_marginalization_challenges_and_digital_interventions",
+          "type": "paper",
+          "description": "Marginalization & digital revival"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Prose, Novel & Short Story",
+      "topics": ["Novel", "Diaspora", "Translation", "Digital Interventions"]
+    },
+    {
+      "id": "12",
+      "title": "Drama, Folk Drama & Experimental Theatre",
+      "content": "Explain folk drama forms and modern experimental/absurd trends; connect to cultural continuity.",
+      "keyTakeaways": [
+        "Define folk drama features & occasions.",
+        "Relate to pan-regional exchanges (Punjabi links).",
+        "Name key modern experimental strands."
+      ],
+      "resources": [
+        {
+          "title": "Sindhi Drama — An Experimental Art (Mumbai Univ.)",
+          "url": "https://mu.ac.in/wp-content/uploads/2024/06/5.29-N-Sem-I-17a-Sindhi-Drama-an-Experimental-Art-I.pdf",
+          "type": "pdf",
+          "description": "Academic overview"
+        },
+        {
+          "title": "Interconnected Folk Traditions (Sindhi & Punjabi)",
+          "url": "https://www.ijhsss.com/files/37.-Pooja-Sharma.pdf",
+          "type": "pdf",
+          "description": "Comparative folk drama study"
+        }
+      ],
+      "importance": "medium",
+      "category": "Drama & Performance",
+      "topics": ["Folk Drama", "Experimental", "Comparative"]
+    },
+    {
+      "id": "13",
+      "title": "Culture & Society Context Packs",
+      "content": "Tie literature to society—use cultural studies to enrich essays and introductions.",
+      "keyTakeaways": [
+        "Cite culture texts for context (arts, customs).",
+        "Add examples in essays on literature & society.",
+        "Useful for 'mirror of society' prompts."
+      ],
+      "resources": [
+        {
+          "title": "Pearls from the Indus (A. Schimmel)",
+          "url": "https://library-sindhi-sp-2020.s3.us-east-2.amazonaws.com/files/Pearls_From_the_Indus_Studies_In_Sindhi_Culture-Prof_Annemarie_Schimmel-1986-cs.pdf",
+          "type": "pdf",
+          "description": "Studies in Sindhi culture"
+        },
+        {
+          "title": "Sindhi Society and Culture (USindh)",
+          "url": "https://sujo.usindh.edu.pk/index.php/IRJAH/article/download/1220/1015/2230",
+          "type": "pdf",
+          "description": "Concise cultural survey"
+        }
+      ],
+      "importance": "medium",
+      "category": "Culture & Society",
+      "topics": ["Society", "Customs", "Cultural Lens"]
+    },
+    {
+      "id": "14",
+      "title": "Translation Practice (Sindhi ↔ English)",
+      "content": "Build speed & idiomatic control using literary passages; use bilingual resources for model phrasings.",
+      "keyTakeaways": [
+        "Practice with Risalo selections for idiom.",
+        "Use textbook passages for plain prose.",
+        "Maintain a bilingual glossary of literary terms."
+      ],
+      "resources": [
+        {
+          "title": "Shah Jo Risalo (Selections, bilingual flavor)",
+          "url": "https://sindhiproverbs.wordpress.com/wp-content/uploads/2009/02/shah-jo-risalo3.pdf",
+          "type": "pdf",
+          "description": "Practice excerpts"
+        },
+        {
+          "title": "Class 9 EN — Shah Abdul Latif Bhitai (Explainer)",
+          "url": "https://www.youtube.com/playlist?list=PLDKF8DcOc0Nh5oUuFI7hC1wWsvp23XRJL",
+          "type": "video",
+          "description": "Comprehension & summary videos"
+        }
+      ],
+      "importance": "high",
+      "category": "Translation Practice",
+      "topics": ["Idioms", "Register", "Parallel Texts"]
+    },
+    {
+      "id": "15",
+      "title": "Exam Strategy — CSS Sindhi Optional",
+      "content": "Leverage topper talks and instructor overviews for paper pattern, answer structure, and scoring tips.",
+      "keyTakeaways": [
+        "Prepare essay outlines with quotes.",
+        "Use headings in Sindhi; add references.",
+        "Balance history, criticism, and translation practice."
+      ],
+      "resources": [
+        {
+          "title": "Sindhi CSS by G.H. Lakho (talk/overview)",
+          "url": "https://www.youtube.com/watch?v=DSEJFKcWrh8",
+          "type": "video",
+          "description": "Strategy & scope"
+        },
+        {
+          "title": "Nearpeer — Free Live Class / Q&A",
+          "url": "https://www.youtube.com/watch?v=Y4j5RhgfTSI",
+          "type": "video",
+          "description": "Choosing Sindhi, prep plan"
+        },
+        {
+          "title": "Study River — How to Score 90+ (talk)",
+          "url": "https://www.youtube.com/watch?v=6auNW1JefkQ",
+          "type": "video",
+          "description": "Scoring tactics"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Strategy",
+      "topics": ["Paper Pattern", "Answer Structure", "Scoring"]
+    },
+    {
+      "id": "16",
+      "title": "Past Papers — Official & Aggregated",
+      "content": "Practice across years to identify recurring themes: origins, Shah Latif, folk literature, criticism, translations.",
+      "keyTakeaways": [
+        "Download official papers for latest format.",
+        "Map repeats and build model answers.",
+        "Time your translations separately."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Previous Question Papers (Official)",
+          "url": "https://fpsc.gov.pk/category/previous-question-papers",
+          "type": "official",
+          "description": "Primary source"
+        },
+        {
+          "title": "The CSS Point — Sindhi Past Papers (2000–2015)",
+          "url": "https://thecsspoint.com/css-past-papers/sindhi-past-papers/",
+          "type": "archive",
+          "description": "Older range"
+        },
+        {
+          "title": "CSS Aspirants — Past Papers (2016–2024)",
+          "url": "https://cssaspirants.pk/css-past-papers/",
+          "type": "archive",
+          "description": "Grouped by subjects"
+        },
+        {
+          "title": "Zicosh — Sindhi Past Papers (2016–2025)",
+          "url": "https://zicosh.com/css-sindhi-past-papers/",
+          "type": "archive",
+          "description": "Recent coverage"
+        }
+      ],
+      "importance": "high",
+      "category": "Past Papers & Official Sources",
+      "topics": ["Past Papers", "Trend Analysis", "Timing"]
+    }
+  ]
+}

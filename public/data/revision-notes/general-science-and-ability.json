@@ -1,0 +1,617 @@
+{
+  "subject": "General Science & Ability (CSS)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 14,
+  "categories": [
+    "Muslim Scientists",
+    "Environmental Science",
+    "Human Body & Health",
+    "Earth & Space Sciences",
+    "Technology & Computing",
+    "Chemistry & Minerals",
+    "Mathematics & Logical Reasoning",
+    "Definitions & Abbreviations",
+    "Natural Disasters",
+    "Astronomy & Space",
+    "Energy (Renewable vs Non-Renewable)",
+    "Networking & Internet",
+    "Diagram-based Questions",
+    "Pakistan-Specific Syllabus"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Contributions of Muslim Scientists (Al-Khwarizmi, Ibn al-Haytham, Al-Biruni)",
+      "content": "Core lives, works, and exam-oriented highlights with examples relevant to math, optics, astronomy, and geography.",
+      "keyTakeaways": [
+        "Al-Khwarizmi's algebra and astronomical/geographic works underpin modern math.",
+        "Ibn al-Haytham pioneered experimental optics and scientific method.",
+        "Al-Biruni's geodesy, trigonometry, and Earth radius method are exam favorites; link to Pakistan region (Nandana)."
+      ],
+      "resources": [
+        {
+          "title": "Al-Khwarizmi's Contributions (Journal of Islamic Academy of Sciences — PDF)",
+          "url": "https://jag.journalagent.com/ias/pdfs/IAS_5_3_225_228.pdf",
+          "type": "pdf",
+          "description": "Peer-reviewed overview"
+        },
+        {
+          "title": "Contribution of Al-Khwarizmi to Mathematics & Geography",
+          "url": "https://muslimheritage.com/contribution-of-al-khwarizmi-to-mathematics-and-geography/",
+          "type": "article",
+          "description": "Context + examples"
+        },
+        {
+          "title": "Ibn al-Haytham: Father of Modern Optics (NIH/PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6074172/",
+          "type": "article",
+          "description": "Scholarly bio"
+        },
+        {
+          "title": "UNESCO Courier — Ibn al-Haytham's Scientific Method",
+          "url": "https://courier.unesco.org/en/articles/ibn-al-haythams-scientific-method",
+          "type": "article",
+          "description": "Methodology focus"
+        },
+        {
+          "title": "Eminent Scholars on Ibn al-Haytham (1001 Inventions)",
+          "url": "https://www.ibnalhaytham.com/discover/eminent-scholars-on-ibn-al-haytham/",
+          "type": "article",
+          "description": "Scholarly quotations"
+        },
+        {
+          "title": "Al-Biruni (overview)",
+          "url": "https://en.wikipedia.org/wiki/Al-Biruni",
+          "type": "article",
+          "description": "Concise reference with Pakistan link (Nandana)"
+        },
+        {
+          "title": "Ibn al-Haytham's Optical Science (2025 review — PDF)",
+          "url": "https://www.unanijournal.com/articles/350/9-2-17-570.pdf",
+          "type": "pdf",
+          "description": "Recent academic survey"
+        }
+      ],
+      "importance": "high",
+      "category": "Muslim Scientists",
+      "topics": ["Algebra", "Optics", "Geodesy", "Scientific Method"]
+    },
+    {
+      "id": "2",
+      "title": "Environmental Science Essentials (Climate Change, Pollution, Ozone, Acid Rain)",
+      "content": "Authoritative notes for topics repeatedly asked: global warming, greenhouse effect, acid rain, ozone depletion, air/water pollution.",
+      "keyTakeaways": [
+        "Know definitions, causes, impacts, and mitigation with recent reports.",
+        "Quote IPCC headline statements; differentiate pollutants vs greenhouse gases.",
+        "Relate to Pakistan context where possible."
+      ],
+      "resources": [
+        {
+          "title": "IPCC AR6 Synthesis — Summary for Policymakers (PDF)",
+          "url": "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf",
+          "type": "pdf",
+          "description": "Gold-standard climate summary"
+        },
+        {
+          "title": "IPCC AR6 Synthesis — Portal (all figures, longer report)",
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "type": "article",
+          "description": "Browse figures & headline statements"
+        },
+        {
+          "title": "EPA — Acid Rain Basics",
+          "url": "https://www.epa.gov/acidrain/what-acid-rain",
+          "type": "article",
+          "description": "Definition, causes, effects, controls"
+        },
+        {
+          "title": "UNEP — Ozone Layer & Montreal Protocol (Intro)",
+          "url": "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol",
+          "type": "article",
+          "description": "Ozone depletion & recovery"
+        },
+        {
+          "title": "WHO — Air Pollution Facts",
+          "url": "https://www.who.int/health-topics/air-pollution",
+          "type": "article",
+          "description": "Health impacts"
+        },
+        {
+          "title": "USGS — Water Quality Basics",
+          "url": "https://www.usgs.gov/special-topics/water-science-school/science/water-quality",
+          "type": "article",
+          "description": "Indicators & contaminants"
+        }
+      ],
+      "importance": "high",
+      "category": "Environmental Science",
+      "topics": ["Climate Change", "Acid Rain", "Ozone", "Pollution"]
+    },
+    {
+      "id": "3",
+      "title": "Human Body Systems, Diseases & Nutrition",
+      "content": "Quick-revise: endocrine system, kidney function/excretion, balanced diet, vitamins/minerals, TB & hepatitis (Pakistan focus).",
+      "keyTakeaways": [
+        "Define major glands/hormones and organ functions.",
+        "Balanced diet components + vitamin deficiency table.",
+        "Know TB/hepatitis transmission, prevention, and Pakistan burden."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Endocrine System",
+          "url": "https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/endocrine-system-introduction",
+          "type": "video",
+          "description": "Conceptual intro"
+        },
+        {
+          "title": "WHO — Global TB Report 2024 Factsheet",
+          "url": "https://www.who.int/publications/m/item/global-tuberculosis-report-2024-factsheet",
+          "type": "article",
+          "description": "Latest stats"
+        },
+        {
+          "title": "CDC — Tuberculosis Fact Sheet (2024)",
+          "url": "https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html",
+          "type": "article",
+          "description": "Clear exam definitions"
+        },
+        {
+          "title": "NIH Pakistan — National IPC Guidelines (PDF)",
+          "url": "https://www.nih.org.pk/wp-content/uploads/2020/04/Complete_IPC_Guideliens.pdf",
+          "type": "pdf",
+          "description": "Infection control context"
+        },
+        {
+          "title": "Hepatitis in Pakistan — System Approach (2024, PMC)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11662946/",
+          "type": "article",
+          "description": "Current perspective"
+        },
+        {
+          "title": "NIH ODS — Vitamins & Minerals Index",
+          "url": "https://ods.od.nih.gov/HealthInformation/All_Fact_Sheets.aspx",
+          "type": "article",
+          "description": "Authoritative fact sheets"
+        }
+      ],
+      "importance": "high",
+      "category": "Human Body & Health",
+      "topics": ["Endocrine", "Kidney", "Balanced Diet", "TB", "Hepatitis", "Vitamins"]
+    },
+    {
+      "id": "4",
+      "title": "Earthquakes, Tsunamis, Cyclones: Concepts & Preparedness",
+      "content": "Core definitions (hypocenter/epicenter), wave types, causes, regional preparedness; include diagrams/resources for practice.",
+      "keyTakeaways": [
+        "Differentiate shallow vs deep focus earthquakes.",
+        "Diagram reading (seismograms) and basic hazard ideas.",
+        "Know Pakistan's seismic context at high level."
+      ],
+      "resources": [
+        {
+          "title": "USGS — Science of Earthquakes",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+          "type": "article",
+          "description": "Definitions & basics"
+        },
+        {
+          "title": "USGS — Education Hub",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards/education",
+          "type": "article",
+          "description": "Teach/learn modules"
+        },
+        {
+          "title": "IRIS — Seismology Curriculum",
+          "url": "https://www.iris.edu/hq/sis/resources/curriculum",
+          "type": "article",
+          "description": "Animations & lessons"
+        },
+        {
+          "title": "Carleton SERC — Locate an Earthquake (PDF activity)",
+          "url": "https://cdn.serc.carleton.edu/files/ANGLE/educational_materials/activities/earthquake_location_activity.v3.pdf",
+          "type": "pdf",
+          "description": "Practice task"
+        },
+        {
+          "title": "USGS — Earthquake Hazards 101",
+          "url": "https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-hazards-101-basics",
+          "type": "article",
+          "description": "Hazard & mapping"
+        }
+      ],
+      "importance": "high",
+      "category": "Natural Disasters",
+      "topics": ["Earthquakes", "Tsunamis", "Cyclones", "Seismology"]
+    },
+    {
+      "id": "5",
+      "title": "Astronomy: Solar System, Black Holes, Satellites & Eclipses",
+      "content": "Frequently-asked astronomy with crisp diagrams/resources (black holes, satellites, layers of atmosphere, eclipses).",
+      "keyTakeaways": [
+        "Memorize order & features of solar system bodies.",
+        "Understand satellite functions & orbits.",
+        "Black hole basics appear in recent papers."
+      ],
+      "resources": [
+        {
+          "title": "NASA — Field Guide to Black Holes",
+          "url": "https://science.nasa.gov/universe/black-hole-week/field-guide/",
+          "type": "article",
+          "description": "Accessible primer"
+        },
+        {
+          "title": "NASA — Black Hole Field Guide (Booklet PDF)",
+          "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013834/black_hole_field_guide_booklet.pdf",
+          "type": "pdf",
+          "description": "Handy diagrams"
+        },
+        {
+          "title": "NASA — Basic Black Holes (short video)",
+          "url": "https://plus.nasa.gov/video/nasas-traveler-field-guide-to-basic-black-holes-2/",
+          "type": "video",
+          "description": "1-minute refresher"
+        },
+        {
+          "title": "NASA — Basic Black Holes (episode page)",
+          "url": "https://science.nasa.gov/resource/black-hole-field-guide-episode-1-basic-black-holes/",
+          "type": "article",
+          "description": "With transcript"
+        }
+      ],
+      "importance": "medium",
+      "category": "Astronomy & Space",
+      "topics": ["Black Holes", "Satellites", "Eclipses", "Atmosphere"]
+    },
+    {
+      "id": "6",
+      "title": "Technology & Computing: RAM vs ROM, Bits/Bytes, Storage, Fiber Optics",
+      "content": "Definitions & principles: memory hierarchy, RAM vs ROM, hard disk data storage, bits/bytes, fiber-optic communication.",
+      "keyTakeaways": [
+        "Differentiate RAM (volatile) vs ROM (non-volatile) with examples.",
+        "Explain HDD vs SSD at concept level (platters, magnetic domains; flash cells).",
+        "Fiber optics relies on total internal reflection."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Computer Memory (RAM/ROM hierarchy)",
+          "url": "https://www.britannica.com/technology/computer-memory/Memory-hierarchy",
+          "type": "article",
+          "description": "Authoritative definitions"
+        },
+        {
+          "title": "Britannica — RAM Overview",
+          "url": "https://www.britannica.com/technology/RAM-computing",
+          "type": "article",
+          "description": "Clear distinctions"
+        },
+        {
+          "title": "Khan Academy — Bits and Bytes",
+          "url": "https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d%3Adigital-information/xcae6f4a7ff015e7d%3Abits-and-bytes/a/byte-sized-bits",
+          "type": "article",
+          "description": "Digital info units"
+        },
+        {
+          "title": "Seagate — How Hard Drives Work (overview)",
+          "url": "https://www.seagate.com/blog/everything-you-wanted-to-know-about-hard-drives-master-dm/",
+          "type": "article",
+          "description": "Storage fundamentals"
+        },
+        {
+          "title": "Khan Academy — Physical Network Connections (fiber basics)",
+          "url": "https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d%3Athe-internet/xcae6f4a7ff015e7d%3Aconnecting-networks/a/physical-network-connections",
+          "type": "article",
+          "description": "Cables & fiber"
+        },
+        {
+          "title": "Khan Academy — Wires, Cables & Wi-Fi (video)",
+          "url": "https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d%3Athe-internet/xcae6f4a7ff015e7d%3Aconnecting-networks/v/the-internet-wires-cables-and-wifi",
+          "type": "video",
+          "description": "Fast refresher"
+        },
+        {
+          "title": "Khan Academy — Total Internal Reflection (fiber physics)",
+          "url": "https://www.youtube.com/watch?v=WRuatAcd2WY",
+          "type": "video",
+          "description": "Optics principle"
+        }
+      ],
+      "importance": "high",
+      "category": "Technology & Computing",
+      "topics": ["RAM vs ROM", "HDD/SSD", "Bits/Bytes", "Fiber Optics"]
+    },
+    {
+      "id": "7",
+      "title": "Artificial Intelligence & Robotics (Basics for CSS)",
+      "content": "High-yield points on AI fields, applications, and ethics; robotics definitions, types, sensors, actuators.",
+      "keyTakeaways": [
+        "Define AI vs Robotics; list core AI areas (search, ML, MDPs).",
+        "Robotics = perception + planning + control + actuation; give 2–3 examples.",
+        "Add 1–2 contemporary examples (safe, general)."
+      ],
+      "resources": [
+        {
+          "title": "Stanford CS221 — AI: Principles & Techniques",
+          "url": "https://cs221.stanford.edu/",
+          "type": "course",
+          "description": "Syllabus & topics"
+        },
+        {
+          "title": "CS221 Cheatsheets (GitHub)",
+          "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+          "type": "article",
+          "description": "Condensed notes"
+        },
+        {
+          "title": "Britannica — Robotics (overview)",
+          "url": "https://www.britannica.com/technology/robotics",
+          "type": "article",
+          "description": "Definitions & applications"
+        },
+        {
+          "title": "Britannica — Robot (updated overview)",
+          "url": "https://www.britannica.com/technology/robot-technology",
+          "type": "article",
+          "description": "Types & history"
+        }
+      ],
+      "importance": "medium",
+      "category": "Technology & Computing",
+      "topics": ["AI", "Robotics", "Applications", "Ethics"]
+    },
+    {
+      "id": "8",
+      "title": "Chemistry: Bonds, Radioactivity, Minerals & Environmental Chemistry",
+      "content": "Exam-favorite contrasts and quick facts: ionic vs covalent, isotopes vs isomers, radioactivity laws, fertilizers & environmental impact.",
+      "keyTakeaways": [
+        "Define bonding with examples; common salts vs organic molecules.",
+        "Radioactivity basics (alpha, beta, gamma; half-life).",
+        "Link fertilizers to eutrophication/pollution impacts."
+      ],
+      "resources": [
+        {
+          "title": "LibreTexts — Ionic vs Covalent Bonding",
+          "url": "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science(Brown_et_al.)/08%3A_Basic_Concepts_of_Chemical_Bonding/8.6%3A_Ionic_and_Covalent_Bonding",
+          "type": "article",
+          "description": "Textbook clarity"
+        },
+        {
+          "title": "NRC — Radioactivity Basics",
+          "url": "https://www.nrc.gov/reading-rm/basic-ref/students.html",
+          "type": "article",
+          "description": "Student-friendly"
+        },
+        {
+          "title": "USGS — Minerals Basics",
+          "url": "https://www.usgs.gov/faqs/what-mineral",
+          "type": "article",
+          "description": "What is a mineral?"
+        },
+        {
+          "title": "EPA — Nutrient Pollution (fertilizers)",
+          "url": "https://www.epa.gov/nutrientpollution/issue",
+          "type": "article",
+          "description": "Impacts & control"
+        }
+      ],
+      "importance": "medium",
+      "category": "Chemistry & Minerals",
+      "topics": ["Bonding", "Radioactivity", "Minerals", "Fertilizers"]
+    },
+    {
+      "id": "9",
+      "title": "Mathematics & Logical Reasoning (Mean/Median/Mode, Probability, Geometry)",
+      "content": "All recent papers include math & logic. Practice quick computations with worked examples.",
+      "keyTakeaways": [
+        "Memorize formulae for mean/median/mode; practice under time.",
+        "Pythagorean theorem proofs strengthen geometry reasoning.",
+        "Do a few probability drills daily."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Statistics & Probability (course)",
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "type": "course",
+          "description": "Comprehensive practice"
+        },
+        {
+          "title": "Mean, Median, Mode (review)",
+          "url": "https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/mean-median-and-mode-review",
+          "type": "article",
+          "description": "One-page refresher"
+        },
+        {
+          "title": "Practice — Mean/Median/Mode",
+          "url": "https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/e/mean_median_and_mode",
+          "type": "practice",
+          "description": "Timed drills"
+        },
+        {
+          "title": "Khan Academy — Pythagorean Theorem (topic hub)",
+          "url": "https://www.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem",
+          "type": "course",
+          "description": "Proofs & problems"
+        },
+        {
+          "title": "Bhaskara's Proof (video)",
+          "url": "https://www.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-pythagorean-proofs/v/bhaskara-s-proof-of-pythagorean-theorem-avi",
+          "type": "video",
+          "description": "Visual proof"
+        }
+      ],
+      "importance": "high",
+      "category": "Mathematics & Logical Reasoning",
+      "topics": ["Statistics", "Probability", "Geometry", "Algebra"]
+    },
+    {
+      "id": "10",
+      "title": "Networking vs Internet + Memory & Storage Comparisons (frequent differentiations)",
+      "content": "Frequently asked 'differentiate between' pairs: RAM vs ROM, Bits vs Bytes, Networking vs Internet.",
+      "keyTakeaways": [
+        "Use crisp tables for contrasts; add one example per term.",
+        "Relate OSI vs TCP/IP when defining 'Internet layer' vs 'network layer'.",
+        "Mention volatility (RAM) and non-volatility (ROM)."
+      ],
+      "resources": [
+        {
+          "title": "Cloudflare — How the Internet Works",
+          "url": "https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/",
+          "type": "article",
+          "description": "Plain-English overview"
+        },
+        {
+          "title": "Cloudflare — Network Layer vs Internet Layer",
+          "url": "https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/",
+          "type": "article",
+          "description": "OSI vs TCP/IP mapping"
+        },
+        {
+          "title": "Britannica — Computer Memory (differences incl. ROM)",
+          "url": "https://www.britannica.com/technology/computer-memory",
+          "type": "article",
+          "description": "Top-questions page"
+        },
+        {
+          "title": "Khan Academy — Bytes (bits vs bytes)",
+          "url": "https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d%3Adigital-information/xcae6f4a7ff015e7d%3Abits-and-bytes/a/byte-sized-bits",
+          "type": "article",
+          "description": "Concise contrast"
+        }
+      ],
+      "importance": "high",
+      "category": "Networking & Internet",
+      "topics": ["Networking vs Internet", "RAM vs ROM", "Bits vs Bytes"]
+    },
+    {
+      "id": "11",
+      "title": "Fiber Optics, LASER, Radar, Microwave Oven (working principles)",
+      "content": "Explain principles with one diagram/line each; emphasize uses and safety.",
+      "keyTakeaways": [
+        "Fiber optics: total internal reflection; low loss, high bandwidth.",
+        "LASER: stimulated emission; coherence & applications.",
+        "Microwave oven: dielectric heating; Radar: radio waves & reflection."
+      ],
+      "resources": [
+        {
+          "title": "Khan Academy — Physical Network Connections (fiber section)",
+          "url": "https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d%3Athe-internet/xcae6f4a7ff015e7d%3Aconnecting-networks/a/physical-network-connections",
+          "type": "article",
+          "description": "Fiber overview"
+        },
+        {
+          "title": "Khan Academy — Total Internal Reflection (video)",
+          "url": "https://www.khanacademy.org/v/total-internal-reflection?playlist=Physics",
+          "type": "video",
+          "description": "Underlying physics"
+        },
+        {
+          "title": "Khan Academy — Optics course intro (LASER context)",
+          "url": "https://www.khanacademy.org/science/optics-essentials/x0484cce4552ac2a3%3Awelcome-to-optics-essentials/x0484cce4552ac2a3%3Awelcome-to-optics-essential/v/welcome-to-optics-course-intro",
+          "type": "video",
+          "description": "Quick optics primer"
+        }
+      ],
+      "importance": "medium",
+      "category": "Technology & Computing",
+      "topics": ["Fiber Optics", "LASER", "Radar", "Microwave Oven"]
+    },
+    {
+      "id": "12",
+      "title": "Renewable vs Non-Renewable Energy (comparisons & examples)",
+      "content": "Classic differentiation with Pakistan-relevant examples; include definitions, advantages, disadvantages, and applications.",
+      "keyTakeaways": [
+        "List solar, wind, hydro, biofuels vs coal, oil, gas, nuclear (fuel).",
+        "Mention intermittency & storage for renewables; energy density for fossil fuels.",
+        "Add one line on Pakistan's renewable potential."
+      ],
+      "resources": [
+        {
+          "title": "EIA — Energy Kid's Page (Renewables 101)",
+          "url": "https://www.eia.gov/kids/energy.cfm?page=renewable_home-basics",
+          "type": "article",
+          "description": "Clear & exam-friendly"
+        },
+        {
+          "title": "National Geographic — Renewable Energy 101",
+          "url": "https://www.nationalgeographic.com/environment/article/renewable-energy",
+          "type": "article",
+          "description": "Readable overview"
+        },
+        {
+          "title": "IPCC — Headline Statements (energy transition)",
+          "url": "https://www.ipcc.ch/report/ar6/syr/",
+          "type": "article",
+          "description": "High-level context"
+        }
+      ],
+      "importance": "high",
+      "category": "Energy (Renewable vs Non-Renewable)",
+      "topics": ["Renewables", "Fossil Fuels", "Energy Transition"]
+    },
+    {
+      "id": "13",
+      "title": "Diagram-Based Questions (Eye, Ear, Cell; Graphs/Histograms)",
+      "content": "Practice drawing/labeling key diagrams + interpreting histograms/pictograms (a recurring comparison).",
+      "keyTakeaways": [
+        "Memorize labels for human eye & ear; practice neat, simple sketches.",
+        "Know histogram vs pictogram definitions, use-cases.",
+        "Be ready for one small derivation (e.g., lens focusing)."
+      ],
+      "resources": [
+        {
+          "title": "TeachMeAnatomy — The Eye (overview)",
+          "url": "https://teachmeanatomy.info/head/organs/eye/",
+          "type": "article",
+          "description": "Clear labelled diagrams"
+        },
+        {
+          "title": "NIDCD (NIH) — How Do We Hear? (ear)",
+          "url": "https://www.nidcd.nih.gov/health/how-do-we-hear",
+          "type": "article",
+          "description": "Ear structure/function"
+        },
+        {
+          "title": "Khan Academy — Reading Histograms",
+          "url": "https://www.khanacademy.org/math/statistics-probability/data-distributions-a1/histograms/v/histograms-intro",
+          "type": "video",
+          "description": "Histogram basics"
+        }
+      ],
+      "importance": "medium",
+      "category": "Diagram-based Questions",
+      "topics": ["Eye", "Ear", "Cell", "Histograms", "Pictograms"]
+    },
+    {
+      "id": "14",
+      "title": "Official Syllabus & Past-Paper Alignment (Pakistan)",
+      "content": "Always cite FPSC syllabus headings; align your notes and PYQs to these domains for targeted prep.",
+      "keyTakeaways": [
+        "Use the latest FPSC PDF (GK-I / GSA).",
+        "Map each PYQ to an FPSC topic for revision cycles.",
+        "Balance science (60) + ability (40) per official paper split."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — GSA (General Knowledge-I) Syllabus 2024 (PDF)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-06-27-05-06-15-GK-I.pdf",
+          "type": "pdf",
+          "description": "Official latest syllabus"
+        },
+        {
+          "title": "FPSC — CSS Syllabi Index",
+          "url": "https://www.fpsc.gov.pk/category/css-syllabi-1493570691-2024-06-11",
+          "type": "article",
+          "description": "Official portal"
+        },
+        {
+          "title": "CSS Aspirants — GSA Syllabus (mirror PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2021/08/General-Science-Ability-CSS-Syllabus.pdf",
+          "type": "pdf",
+          "description": "Convenience copy"
+        }
+      ],
+      "importance": "critical",
+      "category": "Pakistan-Specific Syllabus",
+      "topics": ["FPSC", "Syllabus", "Paper Pattern"]
+    }
+  ]
+}

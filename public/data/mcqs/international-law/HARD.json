@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T08:56:57.249Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "63e1c37faee3df885aa97341177db233ef823a25",
+      "sectionIndex": 0,
+      "question": "In the North Sea Continental Shelf Cases, the ICJ held that treaty provisions become customary law through:",
+      "options": [
+        "A) Automatic transformation",
+        "B) Norm-creating character and subsequent practice",
+        "C) UN declaration",
+        "D) Regional acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf79187f8ab19b69d4df8fd6c83fec8f661b1bb2",
+      "sectionIndex": 0,
+      "question": "The relationship between jus cogens and Security Council decisions in Kadi Case suggests:",
+      "options": [
+        "A) SC decisions override all law",
+        "B) Jus cogens may limit SC powers",
+        "C) No relationship exists",
+        "D) SC creates jus cogens"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a63d3085a1d73392aa3d296ad5f34f5604858881",
+      "sectionIndex": 0,
+      "question": "Unilateral declarations create legal obligations when:",
+      "options": [
+        "A) Any statement by state official",
+        "B) Clear intention to be bound and reliance",
+        "C) Written form required",
+        "D) UN registration necessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8356861db3d2f4b64e41c65328650ff70d2faa5",
+      "sectionIndex": 0,
+      "question": "The Texaco v Libya arbitration's reference to \"internationalized contracts\" implies:",
+      "options": [
+        "A) Contracts become treaties",
+        "B) Contracts may be governed by international law",
+        "C) No state law applies",
+        "D) Automatic international status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7d46a954c8b6f7feb3a5b860eb9306dd8248270",
+      "sectionIndex": 0,
+      "question": "Fragmentation of international law is addressed through:",
+      "options": [
+        "A) Hierarchy of sources",
+        "B) Systemic integration and lex specialis",
+        "C) Ignoring conflicts",
+        "D) UN coordination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "738f646b8f8865b94e7a2667d5f3424bc0c93243",
+      "sectionIndex": 0,
+      "question": "Intertemporal law principle means:",
+      "options": [
+        "A) Modern law always applies",
+        "B) Law at time of act applies",
+        "C) Most favorable law applies",
+        "D) No temporal issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7eaac8534e137e5b3f0ef11a1c9de64ff62bfae",
+      "sectionIndex": 0,
+      "question": "The Reparations Opinion's statement on UN personality demonstrates:",
+      "options": [
+        "A) Explicit attribution only",
+        "B) Implied powers from functions",
+        "C) States' exclusive personality",
+        "D) Limited to express powers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8598e72909fcc40db31923e8c85db253e95743f9",
+      "sectionIndex": 0,
+      "question": "Transnational law as conceived by Jessup includes:",
+      "options": [
+        "A) Only public international law",
+        "B) All law transcending national boundaries",
+        "C) Private law only",
+        "D) EU law exclusively"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59f2eacd9fda629910c1b9c9d7e8a001ece82eb6",
+      "sectionIndex": 0,
+      "question": "The Monetary Gold principle prevents ICJ from:",
+      "options": [
+        "A) Hearing any case",
+        "B) Deciding without essential third party",
+        "C) Advisory opinions",
+        "D) Urgent matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ac297bfdb2f1d5fc8d75f2e93c6844d4c69778b",
+      "sectionIndex": 0,
+      "question": "Evolutive interpretation is applied when:",
+      "options": [
+        "A) Treaties are old",
+        "B) Generic terms in long-standing treaties",
+        "C) States disagree",
+        "D) Always required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9768d3a855baa2b61ef3ab930f356367c9989c73",
+      "sectionIndex": 1,
+      "question": "The Aaland Islands case established that self-determination:",
+      "options": [
+        "A) Always permits secession",
+        "B) Generally internal, external exceptionally",
+        "C) Overrides sovereignty",
+        "D) Applies to all groups"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fc777b9b76c104eb823e5739ea21fdfe9525d07",
+      "sectionIndex": 1,
+      "question": "Kosovo's declaration of independence and ICJ Advisory Opinion held:",
+      "options": [
+        "A) Declarations violate international law",
+        "B) No prohibition on declarations per se",
+        "C) Automatic statehood",
+        "D) Security Council approval required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df27c3746b207054eb7aac9322421222c5eab664",
+      "sectionIndex": 1,
+      "question": "The Lotus principle's \"permissive vs prohibitive\" debate reflects:",
+      "options": [
+        "A) Strict positivism only",
+        "B) Tension between sovereignty and regulation",
+        "C) Natural law dominance",
+        "D) Obsolete concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ac61a0ea60096b2ad518ceeb0bdefe19024e880",
+      "sectionIndex": 1,
+      "question": "Remedial secession theory suggests:",
+      "options": [
+        "A) Free secession right",
+        "B) Secession when severe oppression",
+        "C) No secession ever",
+        "D) UN approval required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca69f31073445534f3b770d3853e886d69abe71b",
+      "sectionIndex": 1,
+      "question": "The Chagos Advisory Opinion on decolonization demonstrates:",
+      "options": [
+        "A) Completed decolonization",
+        "B) Continuing obligations and self-determination",
+        "C) British sovereignty confirmed",
+        "D) No legal consequences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f1264f395260b44fd66044ef8c4d1683b74429d",
+      "sectionIndex": 1,
+      "question": "Failed states and sovereignty pose the paradox of:",
+      "options": [
+        "A) Automatic termination",
+        "B) Sovereignty without effective control",
+        "C) UN trusteeship required",
+        "D) Regional intervention rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21491e8dad280c7d30e748799a42d79046335925",
+      "sectionIndex": 1,
+      "question": "The Wall Advisory Opinion's treatment of self-determination indicates:",
+      "options": [
+        "A) Limited to decolonization",
+        "B) Continuing right with erga omnes character",
+        "C) Overridden by security",
+        "D) Bilateral issue only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6507d9ed9b7956963debf1ceb7ab17464f3cbe7d",
+      "sectionIndex": 1,
+      "question": "Sovereign equality in UN voting versus Security Council veto reflects:",
+      "options": [
+        "A) Perfect consistency",
+        "B) Pragmatic compromise with power realities",
+        "C) Violation of equality",
+        "D) Temporary arrangement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e808c73e06a8a1eacc042cd0e6cbb61e5a436ad",
+      "sectionIndex": 1,
+      "question": "The Namibia Opinion's effet utile approach shows:",
+      "options": [
+        "A) Literal interpretation only",
+        "B) Effectiveness principle in UN powers",
+        "C) Limited SC authority",
+        "D) Advisory opinions non-binding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cabd89d6f5114a4e1a8f909c8e0a2d00a4a8757",
+      "sectionIndex": 1,
+      "question": "State continuity despite government changes demonstrates:",
+      "options": [
+        "A) Government equals state",
+        "B) Distinction between state and government",
+        "C) Automatic succession",
+        "D) Recognition required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfc438d5b7302e3f5631687c6b7d7b00fc17472b",
+      "sectionIndex": 2,
+      "question": "The Arrest Warrant Case's distinction between immunity ratione personae and materiae:",
+      "options": [
+        "A) No practical difference",
+        "B) Temporal vs. functional scope",
+        "C) Personal always broader",
+        "D) Material always broader"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d2e3e2d9f0ce95c248eeb9bde224e1da55bd295",
+      "sectionIndex": 2,
+      "question": "The Jurisdictional Immunities Case (Germany v Italy) prioritized:",
+      "options": [
+        "A) Human rights over immunity",
+        "B) State immunity over individual remedies",
+        "C) No immunity for war crimes",
+        "D) Victim compensation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "327d95f0ca1b8312af21f12a5ac9e6835301a3ed",
+      "sectionIndex": 2,
+      "question": "Universal jurisdiction's relationship with immunity creates:",
+      "options": [
+        "A) Immunity irrelevant",
+        "B) Procedural bar despite substantive jurisdiction",
+        "C) Automatic prosecution",
+        "D) No conflict"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67a0ed3840e5599ab976fd829256650d84ea13c4",
+      "sectionIndex": 2,
+      "question": "The effects doctrine in competition law demonstrates:",
+      "options": [
+        "A) Territorial limits",
+        "B) Extraterritorial reach based on effects",
+        "C) No extraterritorial application",
+        "D) Bilateral agreements only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "471e567c486b0db4cd3cfbaec6e4229925396d7c",
+      "sectionIndex": 2,
+      "question": "The Pinochet Case's reasoning on torture suggests:",
+      "options": [
+        "A) Absolute head of state immunity",
+        "B) No immunity for international crimes as official acts",
+        "C) Retroactive immunity removal",
+        "D) UK law supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf6e0bd6f2943447cece416fb50d246e435bcb13",
+      "sectionIndex": 2,
+      "question": "Par in parem non habet imperium relates to:",
+      "options": [
+        "A) Individual immunity",
+        "B) Sovereign equality and immunity foundation",
+        "C) Diplomatic relations",
+        "D) Treaty law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1892c8df16047eb4e077dd561c756ffa34a97277",
+      "sectionIndex": 2,
+      "question": "The obligation to extradite or prosecute (aut dedere aut judicare) for certain crimes:",
+      "options": [
+        "A) Always requires extradition",
+        "B) Permits choice with prosecution obligation",
+        "C) Is purely voluntary",
+        "D) Requires UN approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d47d3b5aa884ff9879f71a1e12483d6f6b9baafd",
+      "sectionIndex": 2,
+      "question": "Mixed agreements between EU and member states raise:",
+      "options": [
+        "A) No jurisdictional issues",
+        "B) Complex attribution and responsibility",
+        "C) Automatic EU competence",
+        "D) Member state exclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a71695e357548c661ae76fedf8a7399d02d45956",
+      "sectionIndex": 2,
+      "question": "The Soering Case's non-refoulement extension shows:",
+      "options": [
+        "A) Limited to refugees",
+        "B) Broader human rights protection",
+        "C) No extradition limits",
+        "D) Death penalty acceptance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "900cd7c99ff6c6a35f0103385ef9f19bab7bc8ed",
+      "sectionIndex": 2,
+      "question": "Protective jurisdiction's expansion post-9/11 reflects:",
+      "options": [
+        "A) Traditional limits maintained",
+        "B) Security concerns stretching principles",
+        "C) Abandonment of territoriality",
+        "D) Universal jurisdiction merger"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1129dd426c7d5cd4b76e7344bd4c82d742c5f373",
+      "sectionIndex": 3,
+      "question": "The Gabčíkovo-Nagymaros Case on treaty suspension showed:",
+      "options": [
+        "A) Unilateral suspension freely allowed",
+        "B) Material breach required for suspension",
+        "C) Environmental change allows termination",
+        "D) Impossibility broadly interpreted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a8cccdc95f6bcc81a2aa355585866cc32fa2ea0d",
+      "sectionIndex": 3,
+      "question": "Inter se modification under VCLT Article 41 requires:",
+      "options": [
+        "A) Any agreement between parties",
+        "B) No affect on third parties' rights",
+        "C) Majority approval",
+        "D) UN notification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc21079472094b2dd85b00343b0835e09fbc849d",
+      "sectionIndex": 3,
+      "question": "The relationship between VCLT and customary rules on treaties means:",
+      "options": [
+        "A) VCLT supersedes all custom",
+        "B) Custom fills gaps and may diverge",
+        "C) No customary rules exist",
+        "D) VCLT is comprehensive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f659564b74e790fd92b4f70d2bff367310d85782",
+      "sectionIndex": 3,
+      "question": "Reservations to human rights treaties face:",
+      "options": [
+        "A) Normal VCLT rules",
+        "B) Object and purpose test strictly",
+        "C) No restrictions",
+        "D) Automatic invalidity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "596aa99ce38f9eb29c9879bbca73aab8502da94e",
+      "sectionIndex": 3,
+      "question": "The European Court's Belilos decision on invalid reservations:",
+      "options": [
+        "A) Voids ratification",
+        "B) Severs reservation, maintains treaty",
+        "C) Allows state choice",
+        "D) Requires renegotiation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a84ee6e51d0f506dbdd4a567d2c901b9785a8d94",
+      "sectionIndex": 3,
+      "question": "Successive treaties with different parties under Article 30 creates:",
+      "options": [
+        "A) Simple priority rules",
+        "B) Complex triangular relationships",
+        "C) Automatic invalidity",
+        "D) UN resolution required"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fc065ba1d23f750f7a9c6d61e46c62674c9583c",
+      "sectionIndex": 3,
+      "question": "Treaty interpretation using subsequent practice requires:",
+      "options": [
+        "A) Any state practice",
+        "B) Concordant practice establishing agreement",
+        "C) Unanimous practice",
+        "D) Written agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fdc480bc589575fe1cf90e959e14cc9b2951ce75",
+      "sectionIndex": 3,
+      "question": "The ILC's work on treaties over time shows:",
+      "options": [
+        "A) Static interpretation",
+        "B) Balance between stability and evolution",
+        "C) Always contemporary meaning",
+        "D) Original intent only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d29144f715abce9b801f2c773ca91cedc45ff9a",
+      "sectionIndex": 3,
+      "question": "Most-favored-nation clauses' interaction with dispute resolution:",
+      "options": [
+        "A) Never extends to procedure",
+        "B) May import broader jurisdiction",
+        "C) Limited to substance",
+        "D) Requires explicit inclusion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aaa28bb63bf7112d73201cb02f7567f65e478ac0",
+      "sectionIndex": 3,
+      "question": "Provisional application's binding nature was confirmed in:",
+      "options": [
+        "A) No binding effect",
+        "B) Yukos arbitration",
+        "C) Optional compliance",
+        "D) Political commitment only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e34496dfebbb6ee4ef8f23d5d636b81fd861d285",
+      "sectionIndex": 4,
+      "question": "The Nicaragua Case's \"scale and effects\" test distinguishes:",
+      "options": [
+        "A) All force equally",
+        "B) Armed attack from lesser force",
+        "C) Legal from illegal force",
+        "D) Self-defense types"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "89e4ca602c5df6851da36d18d47640b6e29b18a7",
+      "sectionIndex": 4,
+      "question": "The Oil Platforms Case required self-defense to be:",
+      "options": [
+        "A) Immediate only",
+        "B) Necessary and proportionate",
+        "C) Overwhelming",
+        "D) Preventive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e2abd1a520cb846bae1627e09e5adf68fa52f1b",
+      "sectionIndex": 4,
+      "question": "The Caroline incident's \"imminence\" standard in modern context:",
+      "options": [
+        "A) Requires actual attack",
+        "B) Adapts to WMD proliferation",
+        "C) Allows preventive war",
+        "D) Is obsolete"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56df4073ec23ad1b7ae71ea7d0655a5b9e8a7651",
+      "sectionIndex": 4,
+      "question": "Unable or unwilling doctrine for non-state actors:",
+      "options": [
+        "A) Has universal acceptance",
+        "B) Remains contested but practiced",
+        "C) Violates sovereignty absolutely",
+        "D) Requires UN approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "509f2332a17cf1074b396ce15366ede6267658bb",
+      "sectionIndex": 4,
+      "question": "Humanitarian intervention's legal status post-Kosovo:",
+      "options": [
+        "A) Clearly legal",
+        "B) Illegal but potentially legitimate",
+        "C) New customary law",
+        "D) Regional right only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38963a524d64d851c2807ac3949e3530149e6544",
+      "sectionIndex": 4,
+      "question": "The Corfu Channel Case principle on force means:",
+      "options": [
+        "A) Intervention freely allowed",
+        "B) Force prohibited even for legal rights",
+        "C) Self-help permitted",
+        "D) Regional exception"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a6efe6ff64e7b3e1c01e3d6acafbc96fc7beaa6",
+      "sectionIndex": 4,
+      "question": "Cyber attacks' threshold for armed response requires:",
+      "options": [
+        "A) Any cyber intrusion",
+        "B) Physical effects comparable to kinetic attack",
+        "C) Attribution only",
+        "D) Economic damage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "67d775c70ba606c73c2e9564e138cde4788d18f0",
+      "sectionIndex": 4,
+      "question": "Anticipatory self-defense's relationship to Article 51:",
+      "options": [
+        "A) Clearly included",
+        "B) Debated whether \"inherent\" includes it",
+        "C) Explicitly excluded",
+        "D) Replaces Article 51"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76e235054531d76126a09b5600b4bf9a9b6ddb8a",
+      "sectionIndex": 4,
+      "question": "Regional organization enforcement action requires:",
+      "options": [
+        "A) Member consent only",
+        "B) Security Council authorization",
+        "C) Regional approval sufficient",
+        "D) No restrictions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0e73e080a6e2ea574857bf6dbeb2d806e7377785",
+      "sectionIndex": 4,
+      "question": "The jus ad bellum/jus in bello distinction means:",
+      "options": [
+        "A) Illegal war permits any means",
+        "B) IHL applies regardless of war's legality",
+        "C) Legal war has no limits",
+        "D) Merged concepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bf3c6d75480daed01ec6bd5efd368ad0b68a51f",
+      "sectionIndex": 5,
+      "question": "The Kompetenz-Kompetenz principle means tribunals:",
+      "options": [
+        "A) Have unlimited jurisdiction",
+        "B) Determine their own jurisdiction",
+        "C) Cannot review jurisdiction",
+        "D) Defer to parties"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "477cda45a04ad1fa14e56eaa768a57880d97184b",
+      "sectionIndex": 5,
+      "question": "Proliferation of international tribunals risks:",
+      "options": [
+        "A) No concerns",
+        "B) Fragmentation and conflicting jurisprudence",
+        "C) Strengthened law",
+        "D) Automatic hierarchy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d2dc9cec9dea5b03912a1571800f173e3b3143c",
+      "sectionIndex": 5,
+      "question": "The Tadic decision on Security Council's tribunal creation:",
+      "options": [
+        "A) Ultra vires",
+        "B) Implied powers under Chapter VII",
+        "C) Required treaty",
+        "D) General Assembly authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "518eb95743bdacb27967b705da2f7d3ed4b2e124",
+      "sectionIndex": 5,
+      "question": "ICJ's approach to non-appearance (US in Nicaragua):",
+      "options": [
+        "A) Automatic judgment",
+        "B) Duty to satisfy itself of jurisdiction",
+        "C) Case dismissed",
+        "D) Default judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3f04fa174b68fc8995899f4ddf73530997c9b9d",
+      "sectionIndex": 5,
+      "question": "Provisional measures' legal status evolved from:",
+      "options": [
+        "A) Always binding",
+        "B) Recommendation to binding (LaGrand)",
+        "C) Never binding",
+        "D) Political only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b39eb889b42e599e2ab9c93f0685c549528f3f9c",
+      "sectionIndex": 5,
+      "question": "The MOX Plant cases demonstrate:",
+      "options": [
+        "A) Clear jurisdictional hierarchy",
+        "B) Competing jurisdictions problem",
+        "C) UNCLOS exclusive",
+        "D) No conflicts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b03cb556006bb494dfff657e1612278122f7b582",
+      "sectionIndex": 5,
+      "question": "Advisory jurisdiction's judicial character shown in:",
+      "options": [
+        "A) Political answers",
+        "B) Legal questions answered legally",
+        "C) Non-binding means non-judicial",
+        "D) Unlimited scope"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcaaabb1bca3bd93a64793515431cc341054aaaa",
+      "sectionIndex": 5,
+      "question": "Res judicata in international law:",
+      "options": [
+        "A) Identical to domestic",
+        "B) Adapted to international context",
+        "C) Does not exist",
+        "D) Always applies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92ef3a8bbd71d4010bab61d2ad4b98e23ec30bb0",
+      "sectionIndex": 5,
+      "question": "Third party intervention under Article 62-63:",
+      "options": [
+        "A) Freely allowed",
+        "B) Legal interest required",
+        "C) Never permitted",
+        "D) Becomes full party"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b481cb1dfd3986362acc75f1d0f107c4d6314a24",
+      "sectionIndex": 5,
+      "question": "International criminal tribunals' primacy means:",
+      "options": [
+        "A) Replace domestic courts",
+        "B) Can require deferral",
+        "C) No domestic proceedings",
+        "D) Advisory only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7cc0967f8997484a71fe84e007fae569e196750",
+      "sectionIndex": 6,
+      "question": "The ARSIWA's non-binding status but reflection of custom creates:",
+      "options": [
+        "A) No legal effect",
+        "B) Authoritative guidance with flexibility",
+        "C) Binding rules",
+        "D) Academic interest only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91e0f75726e5dfcf5ad9049a03dddfe18c422b05",
+      "sectionIndex": 6,
+      "question": "Attribution of private acts requires:",
+      "options": [
+        "A) Any connection",
+        "B) Instructions, direction, control, or acknowledgment",
+        "C) Benefit to state",
+        "D) State knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d57cc256014a1381aeb4e13ac3d8b6005f2a4776",
+      "sectionIndex": 6,
+      "question": "The effective control test (Nicaragua) versus overall control (Tadic):",
+      "options": [
+        "A) Identical standards",
+        "B) Different thresholds for different purposes",
+        "C) Nicaragua overruled",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86f15e2377eda3935b7e0b271e4323a86aa6fde6",
+      "sectionIndex": 6,
+      "question": "Complicity in wrongful acts under Article 16 requires:",
+      "options": [
+        "A) Any assistance",
+        "B) Knowledge and intent to facilitate",
+        "C) Direct participation",
+        "D) Benefit received"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c70fce5215a109c26304d38535d0bf1be944e78",
+      "sectionIndex": 6,
+      "question": "The erga omnes concept from Barcelona Traction:",
+      "options": [
+        "A) All obligations equal",
+        "B) Some obligations owed to all",
+        "C) Bilateral only",
+        "D) No standing implications"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e340088b568da3166fe8b6f4c20d8399be35a355",
+      "sectionIndex": 6,
+      "question": "Necessity defense's strict limits shown in Gabčíkovo:",
+      "options": [
+        "A) Environmental necessity accepted",
+        "B) Only way and essential interest required",
+        "C) Economic necessity sufficient",
+        "D) Broadly available"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ced66a03cef868738ef8bee01c0a0e983c624039",
+      "sectionIndex": 6,
+      "question": "The Rainbow Warrior arbitration on state of necessity:",
+      "options": [
+        "A) Humanitarian exception",
+        "B) Strict construction confirmed",
+        "C) Medical emergency sufficient",
+        "D) France justified"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "040ef01bcd9e255078aa39582b02d162d224f738",
+      "sectionIndex": 6,
+      "question": "Serious breaches of peremptory norms trigger:",
+      "options": [
+        "A) Normal responsibility",
+        "B) Aggravated responsibility regime",
+        "C) No special rules",
+        "D) Automatic sanctions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a536cbaff5b937db5ba52ab59a37ad6d2e89807e",
+      "sectionIndex": 6,
+      "question": "The Corfu Channel principle on knowledge:",
+      "options": [
+        "A) Strict liability",
+        "B) Constructive knowledge sufficient",
+        "C) Actual knowledge required",
+        "D) Presumed knowledge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bec9c3b3243a109d1ea20456961beacc05056cdc",
+      "sectionIndex": 6,
+      "question": "Countermeasures versus retorsion:",
+      "options": [
+        "A) Same concept",
+        "B) Illegal acts vs. unfriendly acts",
+        "C) Force vs. non-force",
+        "D) Individual vs. collective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f469f80fb5b61d8594dc860e2f2ccc6137807d2c",
+      "sectionIndex": 7,
+      "question": "The relationship between IHL and human rights law in occupation:",
+      "options": [
+        "A) IHL excludes HR",
+        "B) Complementary application",
+        "C) HR supersedes",
+        "D) No overlap"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e9d061cc822028cd444209fab82fba2993a361e",
+      "sectionIndex": 7,
+      "question": "The Nuclear Weapons Advisory Opinion on IHL stated:",
+      "options": [
+        "A) Nuclear weapons illegal per se",
+        "B) Extreme self-defense uncertainty",
+        "C) Clear prohibition",
+        "D) Not covered by IHL"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e4c6f8ce716fb1f7e03923a252cca1b46d1e0b20",
+      "sectionIndex": 7,
+      "question": "The Tadic test for armed conflict existence:",
+      "options": [
+        "A) Declaration required",
+        "B) Protracted violence between organized groups",
+        "C) State involvement necessary",
+        "D) UN determination"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b8eeef2d9bf152173da58c44684557c5147c468",
+      "sectionIndex": 7,
+      "question": "Common Article 3's customary status means:",
+      "options": [
+        "A) Treaty parties only",
+        "B) Minimum standards for all conflicts",
+        "C) International conflicts only",
+        "D) Optional compliance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58d918a960d9a608d0f4baf521bea34300d3fbf7",
+      "sectionIndex": 7,
+      "question": "The martens clause preserves:",
+      "options": [
+        "A) State sovereignty",
+        "B) Humanity principles beyond treaties",
+        "C) Military necessity",
+        "D) Treaty supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9431ed10cb47126037ccb6bdbfbe8476ae5a2e2a",
+      "sectionIndex": 7,
+      "question": "Direct participation in hostilities:",
+      "options": [
+        "A) Any support",
+        "B) Continuous combat function",
+        "C) Never civilians",
+        "D) Membership sufficient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6765892e104ef7ee3507896ebaa0704ffbca359",
+      "sectionIndex": 7,
+      "question": "The principle of distinction requires:",
+      "options": [
+        "A) Uniforms only",
+        "B) Distinguishing combatants/civilians",
+        "C) No civilian casualties",
+        "D) Warning always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da75a32c667bc54c1776a07cc4c3d70f7ced4d62",
+      "sectionIndex": 7,
+      "question": "Derogation from human rights requires:",
+      "options": [
+        "A) Any emergency",
+        "B) Threat to nation's life and proportionate",
+        "C) Security council approval",
+        "D) Regional agreement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b0a3d01a7e374a705bd4ffa244b2e71ff80dfa24",
+      "sectionIndex": 7,
+      "question": "The extraterritorial application of human rights:",
+      "options": [
+        "A) Never applies",
+        "B) Where state exercises effective control",
+        "C) Universal application",
+        "D) Treaties specify"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38090d0823fdc790a2d80bb125130c2f3e886e25",
+      "sectionIndex": 7,
+      "question": "Cultural relativism versus universalism debate:",
+      "options": [
+        "A) Resolved in favor of relativism",
+        "B) Core rights universal, implementation varies",
+        "C) No universal rights",
+        "D) Western imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a4cd195edc555f4ba9c47d0641a0b59043342098",
+      "sectionIndex": 8,
+      "question": "The precautionary principle in international environmental law:",
+      "options": [
+        "A) Requires scientific certainty",
+        "B) Allows action despite uncertainty",
+        "C) Prohibits all risk",
+        "D) Economic priority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48ad2ea8bd9511b4bf55a6697ac919d8a3f419e0",
+      "sectionIndex": 8,
+      "question": "Climate refugee status under current law:",
+      "options": [
+        "A) Fully protected",
+        "B) Protection gap exists",
+        "C) Refugee convention applies",
+        "D) No movement occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e80db38eb033684c037a0e4e0b66f219a98c737e",
+      "sectionIndex": 8,
+      "question": "Blockchain and smart contracts in international law:",
+      "options": [
+        "A) No legal relevance",
+        "B) Challenge traditional concepts",
+        "C) Replace treaties",
+        "D) Prohibited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90f77678d0424a6cb1ab8c49b326e9f49b5ff377",
+      "sectionIndex": 8,
+      "question": "Autonomous weapons systems under IHL require:",
+      "options": [
+        "A) Human control unnecessary",
+        "B) Meaningful human control debate",
+        "C) Complete prohibition",
+        "D) No regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "679b54cad6fb5eb0bfb3b96751072c10a96d7369",
+      "sectionIndex": 8,
+      "question": "Corporate liability for international crimes:",
+      "options": [
+        "A) Well-established",
+        "B) Emerging through various mechanisms",
+        "C) Impossible",
+        "D) State liability only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "369769bcce53c01b6fd5f765d46a9a9baa0b6a3f",
+      "sectionIndex": 8,
+      "question": "The territoriality of data versus cloud computing:",
+      "options": [
+        "A) Clear rules exist",
+        "B) Challenges jurisdiction concepts",
+        "C) No legal issues",
+        "D) Domestic law sufficient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db1e75abacfb96426be580793da7c230a773cf41",
+      "sectionIndex": 8,
+      "question": "Space resources extraction under Outer Space Treaty:",
+      "options": [
+        "A) Clearly permitted",
+        "B) Non-appropriation versus use debate",
+        "C) Prohibited absolutely",
+        "D) First-come-first-served"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "014c188d4b1c29e82c993e836dd6782efa6979eb",
+      "sectionIndex": 8,
+      "question": "Geoengineering and international law:",
+      "options": [
+        "A) Comprehensive regime exists",
+        "B) Governance gaps and risks",
+        "C) Prohibited",
+        "D) Encouraged"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19943a2757393f6f970cb03add72fdcc12e8dcba",
+      "sectionIndex": 8,
+      "question": "The regulation of private military companies:",
+      "options": [
+        "A) Complete framework",
+        "B) Montreux Document soft law",
+        "C) No regulation needed",
+        "D) Domestic only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abb2f5479d0e43c0448fdcf918ce92cde9b45578",
+      "sectionIndex": 8,
+      "question": "Pandemic response and international law showed:",
+      "options": [
+        "A) Perfect system",
+        "B) IHR limitations and sovereignty tension",
+        "C) No legal framework",
+        "D) Automatic compliance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "951a98cdf9a40358ce51917ba23e6d48ff37a69e",
+      "sectionIndex": 9,
+      "question": "Third World Approaches to International Law (TWAIL) critique:",
+      "options": [
+        "A) Accepts current system",
+        "B) Challenges colonial continuities",
+        "C) Rejects all law",
+        "D) Regional focus only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6453b60bb335f1e08644d7d8ea8ef6f986690b3c",
+      "sectionIndex": 9,
+      "question": "Global administrative law emergence reflects:",
+      "options": [
+        "A) Traditional interstate law",
+        "B) Regulatory governance beyond states",
+        "C) No change",
+        "D) Domestic law expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0307fc49b217e2b6dca904988dcce2333b762233",
+      "sectionIndex": 9,
+      "question": "Constitutional pluralism versus hierarchical models:",
+      "options": [
+        "A) Clear hierarchy exists",
+        "B) Multiple overlapping orders",
+        "C) Anarchy",
+        "D) World government"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b1d02c801833e6f5581f2048fb480829241b9e5",
+      "sectionIndex": 9,
+      "question": "The humanization of international law trend:",
+      "options": [
+        "A) State-centric reinforcement",
+        "B) Individual-oriented evolution",
+        "C) No change",
+        "D) Reversal occurring"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73e825857cc64aa378e2a1659c0de5a0de37c6f7",
+      "sectionIndex": 9,
+      "question": "Legal positivism's adequacy for modern challenges:",
+      "options": [
+        "A) Fully adequate",
+        "B) Strain from non-state actors and values",
+        "C) Only valid approach",
+        "D) Abandoned"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f82f957ed1e5caa82a3b3358db89b814cf0685d4",
+      "sectionIndex": 9,
+      "question": "The international rule of law differs from domestic by:",
+      "options": [
+        "A) Identical concept",
+        "B) Horizontal versus vertical enforcement",
+        "C) No relationship",
+        "D) Stronger internationally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b271f37095171c5ac874a9c197d279be4dc56117",
+      "sectionIndex": 9,
+      "question": "Legitimacy versus legality in international law:",
+      "options": [
+        "A) Always coincide",
+        "B) May diverge (Kosovo example)",
+        "C) Legitimacy irrelevant",
+        "D) Legality includes legitimacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfa43ad0933ccfd58d7a219fe8f9b6ea4485d615",
+      "sectionIndex": 9,
+      "question": "The move from coexistence to cooperation law reflects:",
+      "options": [
+        "A) No change",
+        "B) Interdependence reality",
+        "C) Isolation increase",
+        "D) Bilateral focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cdc47e3a792dc09cb6017452f402451d6ed3928",
+      "sectionIndex": 9,
+      "question": "International law's democratic deficit refers to:",
+      "options": [
+        "A) Voting rights",
+        "B) Limited participation in law-making",
+        "C) No issue exists",
+        "D) State democracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "381776de8e57a2fb39b66117cded7801c8f0f27f",
+      "sectionIndex": 9,
+      "question": "The future of international law likely involves:",
+      "options": [
+        "A) State monopoly",
+        "B) Multi-stakeholder governance",
+        "C) Disappearance",
+        "D) Unchanged system"
+      ],
+      "correct": "B"
+    }
+  ]
+}

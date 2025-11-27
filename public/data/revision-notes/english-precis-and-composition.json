@@ -1,0 +1,469 @@
+{
+  "subject": "English (Precis & Composition)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 14,
+  "categories": [
+    "Precis Writing",
+    "Reading Comprehension",
+    "Grammar & Punctuation",
+    "Vocabulary & Word Pairs",
+    "Idioms & Phrases",
+    "Reported/Indirect Speech",
+    "Active vs Passive Voice",
+    "Sentence Correction",
+    "Translation (Urdu → English)",
+    "Title Creation & Academic Style",
+    "Past Papers & Solved Papers",
+    "Topical Background (themes seen in passages)"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Precis Writing — method & practice",
+      "content": "Learn the 4–step précis workflow: (1) read & annotate; (2) find thesis, supports, tone; (3) compress to ~1/3 without examples/quotes; (4) revise for cohesion and neutral voice. Practice on philosophical/literary passages similar to CSS.",
+      "keyTakeaways": [
+        "Keep author's thesis, main supports, and tone; omit examples and rhetoric.",
+        "Aim ≈ one-third length; use neutral, impersonal style.",
+        "Add a short, precise title that reflects the central claim."
+      ],
+      "resources": [
+        {
+          "title": "University Writing Center (TAMU) — Précis guide",
+          "url": "https://writingcenter.tamu.edu/writing-speaking-guides/precis",
+          "type": "article",
+          "description": "University guide on what a précis is and how to write it"
+        },
+        {
+          "title": "UW–Madison Writing Center — Summary/Rhetorical Précis",
+          "url": "https://writing.wisc.edu/handbook/nonfictionanalysis/",
+          "type": "article",
+          "description": "Strategies for analyzing nonfiction to craft précis"
+        },
+        {
+          "title": "U. Guelph Library — Write a Précis",
+          "url": "https://guides.lib.uoguelph.ca/Precis",
+          "type": "article",
+          "description": "Clear steps, checklist, and examples"
+        },
+        {
+          "title": "Rhetorical Précis — description & example (PDF)",
+          "url": "https://www.cuyamaca.edu/student-support/tutoring-center/files/student-resources/rhetorical-precis-description-and-examples.pdf",
+          "type": "pdf",
+          "description": "Handout with the classic 4-sentence rhetorical précis frame"
+        },
+        {
+          "title": "YouTube — Writing a précis (University of Reading)",
+          "url": "https://www.youtube.com/watch?v=tS0c6Ixteao",
+          "type": "video",
+          "description": "Short walk-through on condensing texts"
+        }
+      ],
+      "importance": "high",
+      "category": "Precis Writing",
+      "topics": ["Precis Writing", "Summarization", "Academic Writing", "Compression Techniques"]
+    },
+    {
+      "id": "2",
+      "title": "Reading Comprehension — strategy kit",
+      "content": "For CSS passages (history/philosophy/society), use Q-driven reading: skim for structure, read for claims/evidence, then answer by citing the line/idea that justifies your inference. Track tone and key terms.",
+      "keyTakeaways": [
+        "Distinguish main claim vs. supporting examples.",
+        "Underline signal words (however, therefore, by contrast).",
+        "Answer from text evidence; paraphrase precisely."
+      ],
+      "resources": [
+        {
+          "title": "UNC Learning Center — Reading Comprehension Tips",
+          "url": "https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/",
+          "type": "article",
+          "description": "Practical techniques for active reading"
+        },
+        {
+          "title": "Cleveland State — Critical Reading",
+          "url": "https://www.csuohio.edu/writing-center/critical-reading-what-critical-reading-and-why-do-i-need-do-it",
+          "type": "article",
+          "description": "What to look for while reading arguments"
+        },
+        {
+          "title": "YouTube — Reading Comprehension Strategies (playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL5178787DB725559D",
+          "type": "video",
+          "description": "Core strategies with worked examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Reading Comprehension",
+      "topics": ["Reading Strategies", "Critical Reading", "Active Reading", "Text Analysis"]
+    },
+    {
+      "id": "3",
+      "title": "Grammar — Punctuation essentials",
+      "content": "CSS repeatedly tests commas, semicolons, colons, dashes, and quotation marks. Master rules for lists, non-restrictive clauses, run-ons, and direct speech punctuation.",
+      "keyTakeaways": [
+        "Comma for non-essential clauses; semicolon to join related independent clauses.",
+        "Colon introduces explanations/lists after an independent clause.",
+        "Use consistent quotation and punctuation placement."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Punctuation hub",
+          "url": "https://owl.purdue.edu/owl/general_writing/punctuation/index.html",
+          "type": "article",
+          "description": "Authoritative reference with sub-pages"
+        },
+        {
+          "title": "Khan Academy — Grammar: punctuation",
+          "url": "https://www.khanacademy.org/humanities/grammar/punctuation-the-comma-and-the-apostrophe",
+          "type": "course",
+          "description": "Short videos & practice for commas/apostrophes"
+        },
+        {
+          "title": "Purdue OWL — Sentence punctuation patterns",
+          "url": "https://owl.purdue.edu/owl/general_writing/punctuation/sentence_punctuation_patterns.html",
+          "type": "article",
+          "description": "Eight common sentence-level patterns"
+        }
+      ],
+      "importance": "high",
+      "category": "Grammar & Punctuation",
+      "topics": ["Punctuation", "Commas", "Semicolons", "Colons"]
+    },
+    {
+      "id": "4",
+      "title": "Grammar — Sentence correction & common errors",
+      "content": "Prepare for subject-verb agreement with correlative pairs, faulty comparison, misplaced/dangling modifiers, redundancy, and tense/pronoun shifts.",
+      "keyTakeaways": [
+        "With 'neither…nor', verb agrees with the nearer subject.",
+        "Avoid double negatives and redundant pairs (e.g., 'return back').",
+        "Keep tenses consistent; watch modifier placement."
+      ],
+      "resources": [
+        {
+          "title": "British Council — Grammar (reference + exercises)",
+          "url": "https://learnenglish.britishcouncil.org/grammar",
+          "type": "reference",
+          "description": "Concept pages with graded practice"
+        },
+        {
+          "title": "Khan Academy — Digital SAT punctuation & boundaries",
+          "url": "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b%3Adigital-sat-grammar-practice/x0d47bcec73eb6c4b%3Aboundaries-punctuation/a/grammar-guide-punctuation",
+          "type": "article",
+          "description": "Concise correction logic you can reuse in CSS"
+        }
+      ],
+      "importance": "high",
+      "category": "Sentence Correction",
+      "topics": ["Subject-Verb Agreement", "Modifiers", "Common Errors", "Tense Consistency"]
+    },
+    {
+      "id": "5",
+      "title": "Reported/Indirect Speech",
+      "content": "Master backshift, pronoun/time/place changes, reporting verbs (say/tell/ask/suggest), and question/imperative patterns. CSS often mixes statements, questions, and requests.",
+      "keyTakeaways": [
+        "Backshift tenses after past-time reporting (present → past).",
+        "Keep reporting-verb patterns: advise + object + to-infinitive; suggest + -ing/that-clause.",
+        "For questions, drop question word order; use if/whether for yes/no."
+      ],
+      "resources": [
+        {
+          "title": "British Council — Reported speech (statements)",
+          "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-statements",
+          "type": "article",
+          "description": "Rules, tables, and practice"
+        },
+        {
+          "title": "British Council — Reported questions",
+          "url": "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/reported-speech-questions",
+          "type": "article",
+          "description": "Question to statement structure"
+        },
+        {
+          "title": "YouTube — Johnny Grammar: Reported Speech (playlist)",
+          "url": "https://www.youtube.com/playlist?list=PL0F6355D8DF81B40E",
+          "type": "video",
+          "description": "Short videos + exercises"
+        }
+      ],
+      "importance": "high",
+      "category": "Reported/Indirect Speech",
+      "topics": ["Reported Speech", "Backshift", "Reporting Verbs", "Indirect Questions"]
+    },
+    {
+      "id": "6",
+      "title": "Active vs Passive Voice",
+      "content": "Know when to prefer active (agent focus) or passive (action/result focus, unknown/irrelevant agent). Convert correctly across tenses and modals.",
+      "keyTakeaways": [
+        "Active: subject does the action; Passive: subject receives it.",
+        "Use passive for process focus or unknown agent; avoid clumsy passives.",
+        "Mind participle forms and preposition 'by' only when agent matters."
+      ],
+      "resources": [
+        {
+          "title": "Cambridge Grammar — Passive voice",
+          "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/passive-voice",
+          "type": "article",
+          "description": "Forms, use, and exceptions"
+        },
+        {
+          "title": "Cambridge Grammar — Passive: forms",
+          "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/passive-forms",
+          "type": "article",
+          "description": "Worked forms across tenses"
+        },
+        {
+          "title": "YouTube — Active vs Passive (explainer)",
+          "url": "https://www.youtube.com/watch?v=W1_IRU6zx9g",
+          "type": "video",
+          "description": "Clear rules with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Active vs Passive Voice",
+      "topics": ["Active Voice", "Passive Voice", "Voice Transformation", "Agent Focus"]
+    },
+    {
+      "id": "7",
+      "title": "Vocabulary — Synonyms, Antonyms & Collocations",
+      "content": "Build academic vocabulary plus collocations to avoid awkward phrasing. Learn precise contrasts (adverse/averse, venal/venial) and use reputable dictionaries.",
+      "keyTakeaways": [
+        "Use trusted dictionaries + thesaurus for nuance.",
+        "Study collocations (make a decision vs. do a decision).",
+        "Keep your own word-pair deck with example sentences."
+      ],
+      "resources": [
+        {
+          "title": "Merriam-Webster Thesaurus",
+          "url": "https://www.merriam-webster.com/thesaurus",
+          "type": "reference",
+          "description": "Reliable synonyms/antonyms with usage notes"
+        },
+        {
+          "title": "Oxford Learner's Dictionaries — Oxford 3000/5000",
+          "url": "https://www.oxfordlearnersdictionaries.com/us/wordlists/oxford3000-5000",
+          "type": "reference",
+          "description": "Core wordlists by CEFR level (PDF also available)"
+        },
+        {
+          "title": "Online Oxford Collocation Dictionary (mirror)",
+          "url": "https://www.freecollocation.com/",
+          "type": "reference",
+          "description": "Quick collocation lookups"
+        },
+        {
+          "title": "Collins Thesaurus (online)",
+          "url": "https://www.collinsdictionary.com/us/dictionary/english-thesaurus",
+          "type": "reference",
+          "description": "Synonyms with examples"
+        }
+      ],
+      "importance": "high",
+      "category": "Vocabulary & Word Pairs",
+      "topics": ["Vocabulary", "Synonyms", "Antonyms", "Collocations"]
+    },
+    {
+      "id": "8",
+      "title": "Idioms & Phrases — usage in sentences",
+      "content": "CSS asks for suitable sentences using idioms (e.g., a bolt from the blue). Learn meaning + register + natural context.",
+      "keyTakeaways": [
+        "Don't force literal contexts; pick natural scenarios.",
+        "Avoid stacking multiple idioms in one sentence.",
+        "Keep tense and point of view consistent."
+      ],
+      "resources": [
+        {
+          "title": "Cambridge — Idiom (dictionary entry + examples)",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/idiom",
+          "type": "reference",
+          "description": "Definitions and example sentences"
+        },
+        {
+          "title": "Studio Cambridge — 15 Common Idioms",
+          "url": "https://www.studiocambridge.co.uk/english-idioms/",
+          "type": "article",
+          "description": "Quick refresher with examples"
+        }
+      ],
+      "importance": "medium",
+      "category": "Idioms & Phrases",
+      "topics": ["Idioms", "Phrases", "Contextual Usage", "Natural Expression"]
+    },
+    {
+      "id": "9",
+      "title": "Translation (Urdu → English) — exam tactics",
+      "content": "Map clauses first; translate sense, not word-for-word. Preserve idioms with natural English equivalents; maintain tense/aspect and politeness.",
+      "keyTakeaways": [
+        "Chunk by clauses; keep connectors (however, therefore).",
+        "Prefer idiomatic English equivalents to literal calques.",
+        "Revise for flow and coherence after accuracy."
+      ],
+      "resources": [
+        {
+          "title": "British Council — LearnEnglish (grammar & vocabulary hub)",
+          "url": "https://learnenglish.britishcouncil.org/",
+          "type": "reference",
+          "description": "Grammar/vocabulary to support accurate translation"
+        },
+        {
+          "title": "Academic Phrasebank (for formal tone; not for literal translation)",
+          "url": "https://www.phrasebank.manchester.ac.uk/",
+          "type": "reference",
+          "description": "Useful stock phrases to stabilize formal style"
+        }
+      ],
+      "importance": "high",
+      "category": "Translation (Urdu → English)",
+      "topics": ["Translation", "Urdu to English", "Idiomatic Expression", "Formal Style"]
+    },
+    {
+      "id": "10",
+      "title": "Title creation for précis & comprehension answers",
+      "content": "A strong title captures the passage's central claim in ≤10 words. Use key terms and avoid rhetorical flourishes.",
+      "keyTakeaways": [
+        "Identify thesis → compress to noun phrase or SVO statement.",
+        "Prefer concrete over vague (e.g., 'Civil Society Builds Trust' not 'Keys to Progress').",
+        "Mirror the author's stance/tone."
+      ],
+      "resources": [
+        {
+          "title": "Academic Phrasebank — Signalling/General Functions",
+          "url": "https://www.phrasebank.manchester.ac.uk/introducing-work/",
+          "type": "article",
+          "description": "Phrases that can inspire succinct, formal titles"
+        }
+      ],
+      "importance": "medium",
+      "category": "Title Creation & Academic Style",
+      "topics": ["Title Writing", "Academic Style", "Concision", "Thesis Capture"]
+    },
+    {
+      "id": "11",
+      "title": "Past Papers — official & reliable access",
+      "content": "Use official FPSC listings when available; supplement with clean PDFs for recent years to practice under timed conditions.",
+      "keyTakeaways": [
+        "Practice 1–2 papers/week under 3-hour conditions.",
+        "Self-mark with a rubric (precision, cohesion, grammar accuracy).",
+        "Maintain an error log by category."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Previous Question Papers (official index)",
+          "url": "https://www.fpsc.gov.pk/category/previous-question-papers",
+          "type": "portal",
+          "description": "Official repository (when posted)"
+        },
+        {
+          "title": "FPSC — CSS-2025 Descriptive Papers (includes English P&C)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "article",
+          "description": "Latest descriptive paper PDFs from FPSC"
+        },
+        {
+          "title": "CSS English Precis & Composition Past Papers (2000–2025)",
+          "url": "https://thecsspoint.com/css-past-papers/css-english-precis-and-composition-past-papers/",
+          "type": "article",
+          "description": "Year-wise links gathered in one place"
+        },
+        {
+          "title": "CSS 2022 English P&C (PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2023/10/English-PC-2022.pdf",
+          "type": "pdf",
+          "description": "Clean scan for practice"
+        },
+        {
+          "title": "CSS 2023 English P&C (PDF)",
+          "url": "https://cssaspirants.pk/wp-content/uploads/2023/10/English-PC-2023.pdf",
+          "type": "pdf",
+          "description": "Clean scan for practice"
+        }
+      ],
+      "importance": "high",
+      "category": "Past Papers & Solved Papers",
+      "topics": ["Past Papers", "FPSC", "Practice Papers", "Exam Strategy"]
+    },
+    {
+      "id": "12",
+      "title": "Topical Background — Digital Divide & Civil Society (seen in 2020–24 passages)",
+      "content": "Build background knowledge for analytical questions on globalization, digital inclusion, and civic trust.",
+      "keyTakeaways": [
+        "Know definitions and current stats (offline population, inclusion).",
+        "Understand how civil society builds social capital and trust.",
+        "Use examples with sources when explaining implications."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Digital divide",
+          "url": "https://www.britannica.com/topic/digital-divide",
+          "type": "article",
+          "description": "Concise, updated overview"
+        },
+        {
+          "title": "Reuters — Ending the digital divide (commentary)",
+          "url": "https://www.reuters.com/sustainability/society-equity/comment-together-we-can-end-digital-divide-that-disenfranchises-26-billion-2024-09-17/",
+          "type": "article",
+          "description": "Current figures & policy context"
+        },
+        {
+          "title": "Britannica — Civil society",
+          "url": "https://www.britannica.com/topic/civil-society",
+          "type": "article",
+          "description": "Definition and role in politics/society"
+        }
+      ],
+      "importance": "medium",
+      "category": "Topical Background (themes seen in passages)",
+      "topics": ["Digital Divide", "Civil Society", "Globalization", "Social Capital"]
+    },
+    {
+      "id": "13",
+      "title": "Topical Background — Voluntary Simplicity / Consumerism",
+      "content": "Passages might discuss minimalism vs. consumerism. Read a scholarly overview to cite advantages/trade-offs accurately.",
+      "keyTakeaways": [
+        "Voluntary simplicity correlates with well-being in several studies.",
+        "Debates: definitional consistency, movement identity, socioeconomic context."
+      ],
+      "resources": [
+        {
+          "title": "Positive Psychology — Minimalism, voluntary simplicity & well-being",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/17439760.2021.1991450",
+          "type": "article",
+          "description": "Peer-reviewed overview"
+        },
+        {
+          "title": "Wiley — Voluntary Simplicity (literature review)",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ijcs.12621",
+          "type": "article",
+          "description": "Research synthesis and agenda"
+        }
+      ],
+      "importance": "low",
+      "category": "Topical Background (themes seen in passages)",
+      "topics": ["Voluntary Simplicity", "Consumerism", "Minimalism", "Well-being"]
+    },
+    {
+      "id": "14",
+      "title": "Topical Background — Literary/Historical: Manto, Greek Oracles",
+      "content": "When précis/comprehension passages reference literary figures or ancient practices, a quick primer helps with tone and inference.",
+      "keyTakeaways": [
+        "Know Manto's themes (partition trauma, social hypocrisy).",
+        "Understand the Delphic Oracle's role (ambiguity, priestly interpretation)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Saadat Hasan Manto",
+          "url": "https://www.britannica.com/biography/Saadat-Hasan-Manto",
+          "type": "article",
+          "description": "Authoritative biography and themes"
+        },
+        {
+          "title": "Britannica — Delphic Oracle",
+          "url": "https://www.britannica.com/topic/Delphic-oracle",
+          "type": "article",
+          "description": "Background on Greek oracles"
+        }
+      ],
+      "importance": "low",
+      "category": "Topical Background (themes seen in passages)",
+      "topics": ["Manto", "Greek Oracles", "Literary References", "Historical Context"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T23:17:30.782Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "bb055b59e0c1d580c28654f6243fe8a0ed48430c",
+      "sectionIndex": 0,
+      "question": "سبک خراسا?O ^ عرا,O در کدا. ^O~گO اص\"O تفا^ت دار?دY",
+      "options": [
+        "A) سبک خراسا?O ساد? ^ عرا,O پO?Oد? است",
+        "B) سبک خراسا?O پO?Oد? ^ عرا,O ساد? است",
+        "C) ?ر د^ سبک Oکسا? ?ست?د",
+        "D) سبک خراسا?O عرفا?O ^ عرا,O ح.اسO است"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e32a21e5d3b14652c66344b738b7dc407c3024d6",
+      "sectionIndex": 0,
+      "question": "تفا^ت اص\"O شعر ?O.ا با شعر ک\"اسOک در ?OستY",
+      "options": [
+        "A) .^ض^ع",
+        "B) ,افO?",
+        "C) ^ز? ^ ,ا\"ب",
+        "D) زبا?"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c4617905698176995268daff23d4e7862c1397d1",
+      "sectionIndex": 0,
+      "question": "کدا. شاعر ^اسط? .Oا? سبک خراسا?O ^ عرا,O .حس^ب .O?Oش^دY",
+      "options": [
+        "A) فرد^سO",
+        "B) ا?^رO",
+        "C) حافظ",
+        "D) صائب"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "91548851fb3a3975ec479d89131b38afb4e14b9a",
+      "sectionIndex": 0,
+      "question": "تأثOر شعر حافظ بر کدا. شاعر ??دO بOشتر استY",
+      "options": [
+        "A) ا.Oر خسر^",
+        "B) بOد\"",
+        "C) غا\"ب",
+        "D) ا,با\""
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3c8f51f4f7c15a239c75a4a58f49aa0e70a0c14d",
+      "sectionIndex": 0,
+      "question": ".شترکات سبک سعدO ^ حافظ در ?OستY",
+      "options": [
+        "A) سادگO زبا?",
+        "B) اOجاز ^ اO?ا.",
+        "C) ط^\"ا?O ب^د? غز\"?O?ا",
+        "D) .^ض^عات ح.اسO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5cfc837db97781821986701691434ba59012cbc",
+      "sectionIndex": 0,
+      "question": "تفا^ت ر^Oکرد فرد^سO ^ ?ظا.O ب? ح.اس? در ?OستY",
+      "options": [
+        "A) فرد^سO .\"OO ?ظا.O عاش,ا??",
+        "B) فرد^سO عاش,ا??O ?ظا.O .\"O",
+        "C) ?ر د^ .\"O",
+        "D) ?ر د^ عاش,ا??"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7137456e90940e25794cadb1211354ccf67796e3",
+      "sectionIndex": 0,
+      "question": "کدا. عا.\" باعث تفا^ت سبک ??دO با سبک?O?اO ,ب\"O شدY",
+      "options": [
+        "A) تغOOر زبا?",
+        "B) .حOط فر??گO .تفا^ت",
+        "C) ?ف^ذ زبا? عربO",
+        "D) ضعف شاعرا?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7819e1ae1ab5b20a733324304b142f83aa8178e4",
+      "sectionIndex": 0,
+      "question": "شبا?ت اص\"O آثار س?اOO ^ عطار در ?OستY",
+      "options": [
+        "A) سبک ?گارش",
+        "B) .حت^اO عرفا?O",
+        "C) ,ا\"ب شعرO",
+        "D) زادگا? .شترک"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8332b5ea88b7c3b26f47d0e37897209cb521f528",
+      "sectionIndex": 0,
+      "question": "تأثOر .^\"^O بر کدا. ج?ب? شعر ا,با\" بOشتر استY",
+      "options": [
+        "A) زبا?",
+        "B) ,ا\"ب",
+        "C) ا?دOش? ^ .حت^ا",
+        "D) ,افO?"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d09080729f1ad5bd10e2c39f273762c84dee71ba",
+      "sectionIndex": 0,
+      "question": "تفا^ت اص\"O غز\" حافظ با غز\" سعدO در ?OستY",
+      "options": [
+        "A) حافظ ع.O,?Oتر ^ ??د\"اO?",
+        "B) سعدO پO?Oد??Oتر",
+        "C) .^ض^ع .تفا^ت",
+        "D) ,ا\"ب .تفا^ت"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a58d3fc93301d12ebdd19d89faf388e00de9d322",
+      "sectionIndex": 1,
+      "question": "??ضت بازگشت ادبO در د^ر? ,اجار ?? ?دفO داشتY",
+      "options": [
+        "A) ?^آ^رO در شعر",
+        "B) بازگشت ب? سبک?O?اO ک??",
+        "C) ت,\"Oد از غرب",
+        "D) اOجاد سبک جدOد"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "97841ccda7f0578b0dafa675b3f6974a5ef4e2f6",
+      "sectionIndex": 1,
+      "question": "ا?,\"اب .شر^ط? ?? تأثOرO بر ادبOات فارسO گذاشتY",
+      "options": [
+        "A) ت^,ف ادبOات",
+        "B) اOجاد ادبOات .تع?د ^ سOاسO",
+        "C) بازگشت ب? س?ت",
+        "D) حذف شعر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1db0835376d7f535bdfd9258c31d4cead37c22ad",
+      "sectionIndex": 1,
+      "question": "د\"O\" اص\"O ظ?^ر شعر ?^ در اOرا? ?? ب^دY",
+      "options": [
+        "A) ت,\"Oد از غرب",
+        "B) ?Oاز ب? بOا? .فا?O. جدOد",
+        "C) ضعف شاعرا? ک\"اسOک",
+        "D) دست^ر حک^.ت"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ce443c050058e99cb63b1d3f970e893f87d5dc0",
+      "sectionIndex": 1,
+      "question": ".کتب اصف?ا? ?? ^O~گO خاصO در شعر اOجاد کردY",
+      "options": [
+        "A) سادگO .ط\",",
+        "B) ص?اOع \"فظO پO?Oد?",
+        "C) حذف ,افO?",
+        "D) شعر سپOد"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ec199a9255221af274a0b0e474e3577bf1ce78d",
+      "sectionIndex": 1,
+      "question": "جرOا? ادبO \"سOا??O?ا\"?\" با ?? ?دفO شک\" گرفتY",
+      "options": [
+        "A) احOاO س?ت",
+        "B) .,اب\"? با س?ت?OگراOO",
+        "C) تر^Oج عرفا?",
+        "D) آ.^زش ادبOات"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ff7e2808ffad46f636eb01f63f9291a65e67a3b5",
+      "sectionIndex": 1,
+      "question": "تأثOر ^ر^د .غ^\" بر ادبOات فارسO ?? ب^دY",
+      "options": [
+        "A) ت^,ف کا.\"",
+        "B) .?اجرت ادOبا? ^ گسترش جغرافOاOO",
+        "C) پOشرفت سرOع",
+        "D) تغOOر زبا?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5e36f7f682d02b5fe8e885a2c3e6864365b2fe5",
+      "sectionIndex": 1,
+      "question": "د^ر? صف^O ?? تح^\"O در شعر فارسO اOجاد کردY",
+      "options": [
+        "A) ساد??OسازO",
+        "B) تشOع?OگراOO در ادبOات",
+        "C) حذف عرفا?",
+        "D) .?ع شعر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "636e52a2e61156dc263c6c43b9b15793e3772f22",
+      "sectionIndex": 1,
+      "question": "?ثر .رس\" در کدا. د^ر? ر^اج OافتY",
+      "options": [
+        "A) سا.ا?O",
+        "B) غز?^O",
+        "C) .شر^ط?",
+        "D) پ?\"^O"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ee4fd9125c91d25b2d6a5864041c6458bd85552f",
+      "sectionIndex": 1,
+      "question": "ج?بش ترج.? در د^ر? ,اجار ?? ?تOج??OاO داشتY",
+      "options": [
+        "A) ضعف ادبOات فارسO",
+        "B) آش?اOO با ادبOات غرب",
+        "C) حذف آثار ک\"اسOک",
+        "D) ت^,ف تأ\"Oف"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6549678bebd8217b669619daedd916d0c8536c55",
+      "sectionIndex": 1,
+      "question": "سبک د^ر? بازگشت بOشتر .تأثر از کدا. د^ر? ب^دY",
+      "options": [
+        "A) خراسا?O",
+        "B) عرا,O",
+        "C) ??دO",
+        "D) ?.? .^ارد"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21585bd3f9f255a0ac9df16088441e6a7890b1f2",
+      "sectionIndex": 2,
+      "question": ".^ض^ع اص\"O .?ط,?Oا\"طOر عطار ?OستY",
+      "options": [
+        "A) عش, ز.O?O",
+        "B) سOر ^ س\"^ک عرفا?O",
+        "C) داستا? تارOخO",
+        "D) ط?ز اجت.اعO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ae65b41ce0e65b97707ee9df72d33f95dcb3840",
+      "sectionIndex": 2,
+      "question": ".ف?^. \"ا?سا? کا.\"\" در آثار کدا. شاعرا? برجست??Oتر استY",
+      "options": [
+        "A) فرد^سO ^ ?ظا.O",
+        "B) عطار ^ .^\"^O",
+        "C) حافظ ^ سعدO",
+        "D) ر^دکO ^ د,O,O"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdc355e03bad9c3170aecbc0fe7d6cf2260d70ce",
+      "sectionIndex": 2,
+      "question": "?,د اجت.اعO در آثار کدا. شاعر ک\"اسOک بOشتر استY",
+      "options": [
+        "A) فرد^سO",
+        "B) حافظ",
+        "C) ?ظا.O",
+        "D) عطار"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecfc3f4e68427bad3328b19f78c7df1ff6b5ce23",
+      "sectionIndex": 2,
+      "question": ".ف?^. \"^حدت ^ج^د\" در آثار کدا. شاعر .ح^رO?Oتر استY",
+      "options": [
+        "A) سعدO",
+        "B) اب? عربO ^ .تأثرO? از ا^",
+        "C) فرد^سO",
+        "D) خOا."
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "540e566a7aae9b9314cac82612477070caf7a41b",
+      "sectionIndex": 2,
+      "question": "ت,اب\" ع,\" ^ عش, بOشتر در آثار کدا. شاعر دOد? .O?Oش^دY",
+      "options": [
+        "A) فرد^سO",
+        "B) س?اOO",
+        "C) .^\"^O",
+        "D) ر^دکO"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0ffbace0b8615a1b2c5f059eb226ff5aa93de70d",
+      "sectionIndex": 2,
+      "question": ".ض.^? \".O ^ سا,O\" در شعر فارسO ?.اد ?OستY",
+      "options": [
+        "A) ف,ط شراب?Oخ^ارO",
+        "B) .عا?O عرفا?O ^ ر.زO",
+        "C) ط?ز",
+        "D) تارOخ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6519fb67a30ce27d35fa560d5604e3d7b7190f77",
+      "sectionIndex": 2,
+      "question": "ا?ت,اد از رOاکارO در کدا. اثر برجست??Oتر استY",
+      "options": [
+        "A) شا??ا.?",
+        "B) گ\"ستا? ^ دO^ا? حافظ",
+        "C) خ.س? ?ظا.O",
+        "D) .ث?^O .ع?^O"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "370a20d8fe3b8902ca8833dda2380892f50752ba",
+      "sectionIndex": 2,
+      "question": ".ف?^. \"ف?ا فO?Oا\"\"?\" بOشتر در آثار کدا. شاعرا? استY",
+      "options": [
+        "A) شاعرا? ح.اسO",
+        "B) شاعرا? عرفا?O",
+        "C) شاعرا? .دحO",
+        "D) شاعرا? .عاصر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab861ae5f11dc71669bb5f15f6e186451aa41447",
+      "sectionIndex": 2,
+      "question": ".^ض^ع عدا\"ت اجت.اعO در کدا. آثار برجست??Oتر استY",
+      "options": [
+        "A) غز\"Oات حافظ",
+        "B) شا??ا.? ^ سOاست?O?ا.?",
+        "C) دO^ا? ش.س",
+        "D) \"O\"O ^ .ج?^?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18693e1ce69a5ac8b0a14d406fb7cf7608dfebec",
+      "sectionIndex": 2,
+      "question": "تضاد ظا?ر ^ باط? .^ض^ع اص\"O آثار کOستY",
+      "options": [
+        "A) فرد^سO",
+        "B) حافظ",
+        "C) ?ظا.O",
+        "D) جا.O"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b101ecad3a973d436dc8b1bdd58115dfae69d80f",
+      "sectionIndex": 3,
+      "question": "در ترکOب \"گ\"?Oرخ\" ?^ع ترکOب ?OستY",
+      "options": [
+        "A) اضافO",
+        "B) ^صفO",
+        "C) تشبO?O",
+        "D) عطفO"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e45d7a52a21699633bb62841c3fb231b963e2206",
+      "sectionIndex": 3,
+      "question": "در ج.\"? \"کتاب را خ^ا?د.\" ?,ش \"را\" ?OستY",
+      "options": [
+        "A) حرف اضاف?",
+        "B) ?شا?? .فع^\"",
+        "C) حرف ربط",
+        "D) ,Oد"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "621e941195099f89e70b6d0ff2cb9e171bc9792b",
+      "sectionIndex": 3,
+      "question": "فع\" \".O?Oخ^ا?د? است\" در ?? ز.ا?O استY",
+      "options": [
+        "A) .اضO ?,\"O",
+        "B) .اضO است.رارO",
+        "C) .اضO بعOد",
+        "D) .ضارع اخبارO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d2a6e4664a2150b3345d98030efb97b57a984e5",
+      "sectionIndex": 3,
+      "question": "تفا^ت \"ک?\" .^ص^\"O ^ \"ک?\" ربطO در ?OستY",
+      "options": [
+        "A) .ع?O",
+        "B) کاربرد در ج.\"?",
+        "C) ت\"فظ",
+        "D) ا.\"ا"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c34520173c7600d6d3a62edfb411db283cbbe3f",
+      "sectionIndex": 3,
+      "question": "در عبارت \"شب?O?اO شOراز\" ?^ع اضاف? ?OستY",
+      "options": [
+        "A) اضاف? .\"کO",
+        "B) اضاف? بOا?O",
+        "C) اضاف? تشبO?O",
+        "D) اضاف? استعارO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77a97b31b1271844037a14aac520a647d4270815",
+      "sectionIndex": 3,
+      "question": "کاربرد \".O\" در فع\"?O?اO فارسO .Oا?? ?? ب^دY",
+      "options": [
+        "A) ?شا?? است.رار",
+        "B) پOش^?د .?فO",
+        "C) پس^?د",
+        "D) رOش? فع\""
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f4ef2431dcaf8c4a0c9a950cd83950f7b025022a",
+      "sectionIndex": 3,
+      "question": "تح^\" \"است\" ب? \"س\" در شعر ک\"اسOک ?? ?ا. داردY",
+      "options": [
+        "A) اختOار شاعرO",
+        "B) ,\"ب",
+        "C) ابدا\"",
+        "D) حذف"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5f7d5e609545b0f1c66af290a713deb53b7dd508",
+      "sectionIndex": 3,
+      "question": "?,ش دست^رO \"تا\" در \"تا بOاOO\" ?OستY",
+      "options": [
+        "A) حرف اضاف?",
+        "B) حرف ربط",
+        "C) ادات شرط",
+        "D) ,Oد"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b3b3e0dcac0a45ad5f2383a1b74eceb99e2860ad",
+      "sectionIndex": 3,
+      "question": "در فارسO .Oا?? کدا. حر^ف ^ج^د ?داشتY",
+      "options": [
+        "A) پO ?O ~O گ",
+        "B) ثO حO صO ضO طO ظO ع",
+        "C) اO ^O O",
+        "D) بO تO ?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8738d7ac62f39c986a1335005b1abae6edb17489",
+      "sectionIndex": 3,
+      "question": "^ا~? \"خ^ا?سارO\" ?? ?^ع ک\".??OاO استY",
+      "options": [
+        "A) اس. .کا?",
+        "B) ?سبت ب? .کا?",
+        "C) صفت فاع\"O",
+        "D) اس. ج.ع"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "855565b23f7cde2f320ac3ccf69949907bd85e8e",
+      "sectionIndex": 4,
+      "question": "اصط\"اح \".ع?O در پس .ع?O\" ب? کدا. ^O~گO شعر اشار? داردY",
+      "options": [
+        "A) اب?ا.",
+        "B) ??د\"اOگO .ع?اOO",
+        "C) بO?O.ع?اOO",
+        "D) سادگO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8646fe4b5b14fca3e1f67f588b6d08fac25ac41",
+      "sectionIndex": 4,
+      "question": "\"ا\"تزا.\" در ادبOات .تع?د ب? ?? .ع?استY",
+      "options": [
+        "A) ,افO?",
+        "B) تع?د اجت.اعO ??ر.?د",
+        "C) ^ز? شعر",
+        "D) ردOف"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb50818411103c64da5a7e1466236fa89854a134",
+      "sectionIndex": 4,
+      "question": "?ظرO? \"??ر براO ??ر\" با کدا. دOدگا? در تضاد استY",
+      "options": [
+        "A) رئا\"Oس.",
+        "B) ادبOات .تع?د",
+        "C) ک\"اسOسOس.",
+        "D) ر.ا?تOسOس."
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8ffad597f29de050913571616795ec09343d6c5",
+      "sectionIndex": 4,
+      "question": "\"استعار? .ک?O?\" در بOت \"باد صبا ?اف? گشاO ز\"ف Oار\" کدا. استY",
+      "options": [
+        "A) باد صبا",
+        "B) ?اف? گشاO",
+        "C) ز\"ف Oار",
+        "D) ک\" بOت"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d25cf9c1e32ef9f3b71aa15b8a6b00179246c233",
+      "sectionIndex": 4,
+      "question": "ت?اسب ^ .راعات?Oا\"?ظOر تفا^تشا? در ?OستY",
+      "options": [
+        "A) ت?اسب بO? د^ ^ا~?O .راعات بO? ??د ^ا~?",
+        "B) ?دار?د",
+        "C) ت?اسب .ع?^OO .راعات \"فظO",
+        "D) ت?اسب در ?ثرO .راعات در شعر"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4bb1a96ef9952a744c855113d591ec7e2b35d8ff",
+      "sectionIndex": 4,
+      "question": "اO?ا. ت?اسب با اO?ا. ?? تفا^تO داردY",
+      "options": [
+        "A) اO?ا. ت?اسب پO?Oد??Oتر است",
+        "B) در اO?ا. ت?اسب Oک .ع?O با ^ا~? دOگر ت?اسب دارد",
+        "C) تفا^تO ?دار?د",
+        "D) اO?ا. در ?ثرO اO?ا. ت?اسب در شعر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1fe1cc06ddf2076b4e4d5feacd8efc10411151d0",
+      "sectionIndex": 4,
+      "question": "\"حس? تع\"O\"\" ب? ?? .ع?استY",
+      "options": [
+        "A) ت^ضOح خ^ب",
+        "B) د\"O\" زOبا ^ خOا\"O براO پدOد??O?ا",
+        "C) ع\"ت ^ا,عO",
+        "D) ت^جO? .?ط,O"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f00037b613f3c26ce74d90ea6ad98ee9dc5014c9",
+      "sectionIndex": 4,
+      "question": ".ف?^. \"خOا\"?Oا?گOزO\" در شعر ب? ?? اشار? داردY",
+      "options": [
+        "A) رؤOاپردازO",
+        "B) ,درت برا?گOخت? تصا^Oر ذ??O",
+        "C) در^غ?Oگ^OO",
+        "D) ^ا,ع?OگراOO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba03a25627a0e0544c6745ff6b27c4712eb16d7f",
+      "sectionIndex": 4,
+      "question": "\"^حدت ارگا?Oک\" در شعر ?^ ب? ?? .ع?استY",
+      "options": [
+        "A) Oکسا? ب^د? ,افO?",
+        "B) پO^ستگO اجزاO شعر",
+        "C) تک .^ض^ع ب^د?",
+        "D) ک^تا? ب^د?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3df8c35935d8be62a9e2858d4f89263843fdf31",
+      "sectionIndex": 4,
+      "question": "تفا^ت \"سبک\" ^ \".کتب\" ادبO در ?OستY",
+      "options": [
+        "A) سبک فردOO .کتب ج.عO",
+        "B) سبک ,دO.OO .کتب جدOد",
+        "C) تفا^تO ?دار?د",
+        "D) سبک در شعرO .کتب در ?ثر"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "86e9c70e9d3d0b95ae228b819f86c1f9d9bca29c",
+      "sectionIndex": 5,
+      "question": "?ا\"ش اص\"O در ترج.? شعر ک\"اسOک فارسO ?OستY",
+      "options": [
+        "A) ^ا~گا? دش^ار",
+        "B) ا?ت,ا\" .^سO,O ^ .عا?O ??دگا??",
+        "C) ط^\" .ت?",
+        "D) خط فارسO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c91230d1f6ddb6b24d612562251575a08c55b22d",
+      "sectionIndex": 5,
+      "question": "\"تذ?Oب\" در اصط\"اح کتاب?OآراOO ب? ?? .ع?استY",
+      "options": [
+        "A) ط\"اکارO",
+        "B) خ^ش?^OسO",
+        "C) صحافO",
+        "D) تص^OرسازO"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6342e188d03ee94a3381edba332ce58e50e16036",
+      "sectionIndex": 5,
+      "question": "اصط\"اح \"illumination\" .عاد\" کدا. ??ر اOرا?O استY",
+      "options": [
+        "A) ?گارگرO",
+        "B) تذ?Oب",
+        "C) خ^ش?^OسO",
+        "D) تشعOر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7de57243b2298529b0ad8f7e7c067d31b79fc845",
+      "sectionIndex": 5,
+      "question": "در ترج.? .ت^? عرفا?OO کدا. ر^ش .?اسب?Oتر استY",
+      "options": [
+        "A) ترج.? تحت?Oا\"\"فظO",
+        "B) ترج.? آزاد با حفظ .فا?O.",
+        "C) خ\"اص??OسازO",
+        "D) حذف اصط\"احات"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a33e5825adb43b3b823639492cc65b68e8cf2ae5",
+      "sectionIndex": 5,
+      "question": "^ا~? \"dervish\" در ا?گ\"OسO از کدا. ^ا~? فارسO آ.د?Y",
+      "options": [
+        "A) در^Oش",
+        "B) درا^Oش",
+        "C) درگا?",
+        "D) در"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e0b2f50adb3311da077fe91ee1681c5a23846190",
+      "sectionIndex": 5,
+      "question": ".عاد\" .?اسب \"حافظ\" در .ت^? ا?گ\"OسO ?OستY",
+      "options": [
+        "A) Memorizer",
+        "B) Keeper",
+        "C) One who knows Quran by heart",
+        "D) Guardian"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "32eeba5b25eaabbf2c73d903bbdefe516b2bb9b6",
+      "sectionIndex": 5,
+      "question": "اصط\"اح \"ر?د\" حافظ ?گ^?? باOد ترج.? ش^دY",
+      "options": [
+        "A) Drunkard",
+        "B) Libertine mystic",
+        "C) Fool",
+        "D) Wise man"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7bd6e061060f0cbbf1d6437bbd9b184511bd86d",
+      "sectionIndex": 5,
+      "question": "در ترج.? \"گ\"ستا?\" کدا. ^O~گO باOد حفظ ش^دY",
+      "options": [
+        "A) ف,ط .حت^ا",
+        "B) سجع ^ .^از?? ?ثر",
+        "C) ف,ط داستا?",
+        "D) ط^\" ج.\"ات"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a9667a4b0cde159683418512a8fe4afd029dbba",
+      "sectionIndex": 5,
+      "question": "?ا\"ش ترج.? ک?اOات فارسO ب? ا?گ\"OسO ?OستY",
+      "options": [
+        "A) ?ب^د .عاد\" فر??گO",
+        "B) ک^تا?O ک?اOات",
+        "C) سادگO آ??ا",
+        "D) شبا?ت فر??گO"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9292f8f1930a8a00bf14170c3e7261654d6381ce",
+      "sectionIndex": 5,
+      "question": "ر^ش \"ا,تباس\" در ترج.? ب? ?? .ع?استY",
+      "options": [
+        "A) کپO .ست,O.",
+        "B) بازآفرO?O .ت?اسب با فر??گ .,صد",
+        "C) حذف بخش?O?ا",
+        "D) افز^د? ت^ضOح"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82b12fa85dfc7322a29a96a9837796fc841f6aad",
+      "sectionIndex": 6,
+      "question": "?,ش دربار سا.ا?Oا? در ت^سع? ادب فارسO ?? ب^دY",
+      "options": [
+        "A) .?ع شعر فارسO",
+        "B) ح.اOت از شاعرا? ^ تر^Oج فارسO",
+        "C) بO?Oتفا^تO",
+        "D) ف,ط ح.اOت از عربO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc51fa0d6fbe4c7f442159ebafd25951ccd3d9df",
+      "sectionIndex": 6,
+      "question": "?را در د^ر? .غ^\" شعر فارسO در ??د ر^?, گرفتY",
+      "options": [
+        "A) ح.اOت .غ^\"ا? ??د",
+        "B) .?اجرت ادOبا? از اOرا?",
+        "C) ثر^ت ??د",
+        "D) ?.? .^ارد"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ef906e13eda5cb4c705e88ab7469986603bb570b",
+      "sectionIndex": 6,
+      "question": "تأثOر تص^ف بر ادبOات فارسO از ?? ,ر?O شدت گرفتY",
+      "options": [
+        "A) ,ر? س^.",
+        "B) ,ر? پ?ج. ^ شش.",
+        "C) ,ر? ??.",
+        "D) ,ر? د^ازد?."
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8891ce792d64bc78907ce1a779b61192c81d407c",
+      "sectionIndex": 6,
+      "question": "ظ?^ر .طب^عات در د^ر? ,اجار ?? تأثOرO داشتY",
+      "options": [
+        "A) ا?تشار سرOع?Oتر آثار ادبO",
+        "B) ت^,ف ادبOات",
+        "C) کا?ش کOفOت",
+        "D) .?ع شعر"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "577e5ee294ee2d1a819b6e28387accd528e45b06",
+      "sectionIndex": 6,
+      "question": "?,ش .دارس ?ظا.O? در گسترش ادب فارسO ?? ب^دY",
+      "options": [
+        "A) آ.^زش ادبOات فارسO",
+        "B) .?ع فارسO",
+        "C) ف,ط آ.^زش عربO",
+        "D) بO?OتأثOر"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0a03b0c3c4666fbe7633d931e978c2e4198051fb",
+      "sectionIndex": 6,
+      "question": "?را شOراز در ,ر? ?فت. ^ ?شت. .رکز ادبO شدY",
+      "options": [
+        "A) آرا.ش ?سبO از ح.\"ات .غ^\"",
+        "B) ثر^ت ش?ر",
+        "C) زادگا? حافظ ^ سعدO",
+        "D) ?.? .^ارد"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "ae087efebe2b9851654f7b606fd382f745739bbb",
+      "sectionIndex": 6,
+      "question": "تأثOر حک^.ت آ\" ب^O? بر ادبOات ?? ب^دY",
+      "options": [
+        "A) احOاO اOرا?O?OگرO",
+        "B) ?اب^دO ادبOات",
+        "C) عربO?OسازO",
+        "D) ترکO?OسازO"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d746a68636035abeaa22f72de771e42a8b267b64",
+      "sectionIndex": 6,
+      "question": "?,ش کتابخا???O?اO د^ر? اس\"ا.O در حفظ آثار ?? ب^دY",
+      "options": [
+        "A) ?,ش .?فO",
+        "B) حفظ ^ تکثOر ?سخ خطO",
+        "C) ف,ط ?گ?دارO",
+        "D) س^زا?د? کتب"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ed750023325d920e71dc899557a5526c16bc5a2",
+      "sectionIndex": 6,
+      "question": "^ر^د ?اپ ب? اOرا? ?? تح^\"O اOجاد کردY",
+      "options": [
+        "A) ?اب^دO خ^ش?^OسO",
+        "B) دسترسO ع.^.O ب? .ت^?",
+        "C) کا?ش تأ\"Oف",
+        "D) افت کOفOت"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "546a7a87759c3b20cb397e5a32010612c396164b",
+      "sectionIndex": 6,
+      "question": "د^ر? رک^د ادبO بO? ,ر? 10-12 ع\"تش ?? ب^دY",
+      "options": [
+        "A) بO?OثباتO سOاسO",
+        "B) ک.ب^د استعداد",
+        "C) .?ع حک^.تO",
+        "D) ?ب^د کاغذ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "78c20be4e1a5a12ff0992c56f41604a423a121ac",
+      "sectionIndex": 7,
+      "question": "تفا^ت ر^Oکرد ج.ا\"?Oزاد? ^ ?داOت ب? داستا??O?^OسO ?OستY",
+      "options": [
+        "A) ج.ا\"?Oزاد? ^ا,ع?OگراO ?داOت .در?Oست",
+        "B) ?ر د^ Oکسا?",
+        "C) ج.ا\"?Oزاد? ر.ا?تOکO ?داOت ک\"اسOک",
+        "D) ج.ا\"?Oزاد? س.ب^\"OستO ?داOت رئا\"Oست"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a493ccbb10ba23160628030e7e8cf95d0c59856f",
+      "sectionIndex": 7,
+      "question": "?,ش .ج\"? \"کا^?\" در ادبOات .عاصر ?? ب^دY",
+      "options": [
+        "A) تر^Oج شعر ک\"اسOک",
+        "B) ?^گراOO ^ اص\"احات ادبO",
+        "C) .?ع ادبOات",
+        "D) ترج.? آثار"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ac5839e8d2034634143403a9c026e8d72d1babe9",
+      "sectionIndex": 7,
+      "question": "?را شعر اح.د شا.\"^ \"شعر سپOد\" ?ا.Oد? .O?Oش^دY",
+      "options": [
+        "A) ر?گ کاغذ",
+        "B) عد. ا\"تزا. ب? ^ز? ^ ,افO? س?تO",
+        "C) .^ض^ع شعر",
+        "D) ?ا. .ستعار شاعر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f3babe3acde8fc943345f61d19a2c09f76f88e5",
+      "sectionIndex": 7,
+      "question": "^O~گO اص\"O \"داستا? ک^تا? فارسO\" در د?? 40 ?? ب^دY",
+      "options": [
+        "A) ر.ا?تOسOس.",
+        "B) رئا\"Oس. اجت.اعO",
+        "C) فا?تزO",
+        "D) تارOخO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "182bf1f3d920a516d7dac220caabfc6836419ae2",
+      "sectionIndex": 7,
+      "question": "تأثOر ترج.? آثار غربO بر ر.ا? فارسO ?? ب^دY",
+      "options": [
+        "A) ت,\"Oد صرف",
+        "B) آش?اOO با تک?Oک?O?اO جدOد ر^اOت",
+        "C) ?اب^دO اصا\"ت",
+        "D) بO?OتأثOر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5918148d416f7de1036c2e0cc7e236ca14cab04e",
+      "sectionIndex": 7,
+      "question": ".^ج ?^ در شعر فارسO با ?? ^O~گO ش?اخت? .O?Oش^دY",
+      "options": [
+        "A) بازگشت ب? س?ت",
+        "B) تجرب??OگراOO ^ ?^آ^رO فر.",
+        "C) سادگO .ط\",",
+        "D) حذف .ع?ا"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6695d7dd7e35684ab5d77bc32fe5c89266493f88",
+      "sectionIndex": 7,
+      "question": "?,ش ا?ج.??O?اO ادبO در د^ر? پ?\"^O ?? ب^دY",
+      "options": [
+        "A) سا?س^ر آثار",
+        "B) تر^Oج ^ ?,د ادبOات",
+        "C) .?ع فعا\"Oت",
+        "D) ف,ط شعرخ^ا?O"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb477da43671b3969d870e2c9e150a21b72701bb",
+      "sectionIndex": 7,
+      "question": "ادبOات .,ا^.ت در اOرا? با ?? حادث??OاO ا^ج گرفتY",
+      "options": [
+        "A) .شر^ط?",
+        "B) ک^دتاO 28 .رداد",
+        "C) ا?,\"اب اس\"ا.O",
+        "D) ?.? .^ارد"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "538388d09cfc0611e5a70920e7521f90eca6a919",
+      "sectionIndex": 7,
+      "question": "ز?ا? در ادبOات .عاصر فارسO ?? ?,شO داشت?دY",
+      "options": [
+        "A) ?,ش حاشO??OاO",
+        "B) حض^ر فعا\" ^ تأثOرگذار",
+        "C) ف,ط .خاطب",
+        "D) .?ع فعا\"Oت"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4e5eef1c047cdab7be43b3ba9e3c63d82a9480e",
+      "sectionIndex": 7,
+      "question": "پسا.در?Oس. در ادبOات فارسO ?گ^?? ?.^د OافتY",
+      "options": [
+        "A) رد کا.\" س?ت",
+        "B) بازO با فر. ^ .حت^ا",
+        "C) ^ا,ع?OگراOO افراطO",
+        "D) بازگشت ب? ک\"اسOک"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "220595f66f55f8c5070188ff0a7be3e5c9a74ee5",
+      "sectionIndex": 8,
+      "question": "?,ش زبا? فارسO در دربار عث.ا?O ?? ب^دY",
+      "options": [
+        "A) زبا? رس.O",
+        "B) زبا? ادبOات ^ فر??گ",
+        "C) ..?^ع",
+        "D) زبا? ع^ا."
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be2c1216e74c1df12733d64193da0d591326df60",
+      "sectionIndex": 8,
+      "question": "تأثOر فارسO بر ^ا~گا? ع\".O عربO ?گ^?? ب^دY",
+      "options": [
+        "A) بO?OتأثOر",
+        "B) ^ا~??OسازO ^ اصط\"احات ع\".O",
+        "C) تأثOر .?فO",
+        "D) ف,ط در شعر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bd06d32d738f8b1726ef5acc4cd86265ab54f936",
+      "sectionIndex": 8,
+      "question": "?را بسOارO از .ت^? اس\"ا.O ب? فارسO ?^شت? شدY",
+      "options": [
+        "A) س?^\"ت ف?. براO اOرا?Oا?",
+        "B) دست^ر خ\"فا",
+        "C) ضعف عربO",
+        "D) تصادفO"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8c7f7eec74cb437df84a3a1827d76b1c431f25c6",
+      "sectionIndex": 8,
+      "question": "?,ش تجار در گسترش زبا? فارسO ?? ب^دY",
+      "options": [
+        "A) .?فO",
+        "B) ا?ت,ا\" زبا? در .سOر?اO تجارO",
+        "C) بO?O?,ش",
+        "D) .خا\"فت"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7dd4c7f42d7d3734daf5dc5f20c1ea2b16686742",
+      "sectionIndex": 8,
+      "question": "فارسO در آسOاO .Oا?? ?? جاOگا?O داشتY",
+      "options": [
+        "A) زبا? .ح\"O",
+        "B) زبا? فر??گ ^ ادب",
+        "C) زبا? .رد^د",
+        "D) ?اش?اخت?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50789f6c9b57335659b841a8a7f80dc3929cff1e",
+      "sectionIndex": 8,
+      "question": "تأثOر .ت,اب\" فارسO ^ ترکO در ?? ح^ز??OاO بOشتر ب^دY",
+      "options": [
+        "A) دست^ر زبا?",
+        "B) ^ا~گا? ^ ادبOات",
+        "C) خط",
+        "D) آ^ا"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b47627552f671da587b5b8e3803119629a1629d",
+      "sectionIndex": 8,
+      "question": "زبا??O?اO ??دO ?? تأثOرO از فارسO گرفت?دY",
+      "options": [
+        "A) ف,ط ^ا~گا?",
+        "B) ^ا~گا?O ادبOات ^ خط",
+        "C) ?O?",
+        "D) ف,ط خط"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75f0fd6449cdbde2cc4290d8ff5a66c02e62fe4e",
+      "sectionIndex": 8,
+      "question": "?,ش فارسO در ت.د? اس\"ا.O ?? ب^دY",
+      "options": [
+        "A) حاشO??OاO",
+        "B) زبا? د^. ع\". ^ ادب",
+        "C) .خرب",
+        "D) ?ا?Oز"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bf3d227dfe0d5daa8fde7b1f0bf58ad5aa53d282",
+      "sectionIndex": 8,
+      "question": "پراک?دگO جغرافOاOO فارسO?Oزبا?ا? ?? ?تOج??OاO داشتY",
+      "options": [
+        "A) ضعف زبا?",
+        "B) ت?^ع گ^Oش?O?ا ^ غ?اO ادبO",
+        "C) ?اب^دO زبا?",
+        "D) Oکسا??OسازO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "64537ee61551a72d1ac03702b49a15cbe866e499",
+      "sectionIndex": 8,
+      "question": "فارسO ب? ع?^ا? زبا? دOپ\".اسO تا ?? ز.ا?O راOج ب^دY",
+      "options": [
+        "A) د^ر? ساسا?O",
+        "B) تا ا^اخر ,اجار",
+        "C) د^ر? صف^O",
+        "D) ?رگز ?ب^د"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "170561491470cc41c59dd97db71b95306bba65b4",
+      "sectionIndex": 9,
+      "question": ".ف?^. \",\"?درOات\" در ادب فارسO ?OستY",
+      "options": [
+        "A) شعر .ذ?بO",
+        "B) شعر ر?دا?? ^ ضد رOا",
+        "C) شعر ح.اسO",
+        "D) شعر ک^دکا??"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9651df195fbd65c113c607acda0d65a260f5f776",
+      "sectionIndex": 9,
+      "question": "\"شعر حج.\" ب? ?? ?^ع شعرO گفت? .O?Oش^دY",
+      "options": [
+        "A) شعر ب\"?د",
+        "B) شعر با تأکOد بر فضاO بصرO",
+        "C) شعر ک^تا?",
+        "D) شعر ^ز??Oدار"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fcb79aa85d59092e5cb089609a5034894d26ed74",
+      "sectionIndex": 9,
+      "question": "تفا^ت \"?,د ادبO\" ^ \"?ظرO? ادبO\" در ?OستY",
+      "options": [
+        "A) ?,د ع.\"OO ?ظرO? ا?تزاعO",
+        "B) Oکسا? ?ست?د",
+        "C) ?,د ,دO.OO ?ظرO? جدOد",
+        "D) ?,د .?فOO ?ظرO? .ثبت"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a17aa32ac781b81aed5db76995f0719a4f097bcc",
+      "sectionIndex": 9,
+      "question": "\"بO?ا.ت?Oت\" در ادبOات ب? ?? .ع?استY",
+      "options": [
+        "A) ?^شت? بO? خط^ط",
+        "B) ارتباط .ت^? با OکدOگر",
+        "C) .ت? بO?O.ع?O",
+        "D) ترج.? .ت^?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8f58fdef874d42dcb40e1d8cec8bb49170ae957",
+      "sectionIndex": 9,
+      "question": ".ف?^. \"کار?ا^ا\"\" در ?,د ادبO ?OستY",
+      "options": [
+        "A) جش?",
+        "B) ^ار^???OسازO ?ظ. اجت.اعO در ادبOات",
+        "C) شعر شاد",
+        "D) داستا? ط?ز"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34d80ae5a1ed0cf63041a2c8170dab4a9091c7e6",
+      "sectionIndex": 9,
+      "question": "\"ساختارشک?O\" در ادبOات .عاصر Oع?O ??Y",
+      "options": [
+        "A) تخرOب .ت?",
+        "B) ب? ?ا\"ش کشOد? ساختار?اO س?تO",
+        "C) ?^شت? بد",
+        "D) بO?O,اعدگO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45f619f70501151324686435c85087bd8dbf716c",
+      "sectionIndex": 9,
+      "question": "\"فراداستا?\" ?? ^O~گO داردY",
+      "options": [
+        "A) داستا? ب\"?د",
+        "B) داستا? دربار? داستا??O?^OسO",
+        "C) داستا? ک^تا?",
+        "D) داستا? ^ا,عO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "854b82bac481e22045e0bc520085b5c4b89c451a",
+      "sectionIndex": 9,
+      "question": ".ف?^. \".ؤ\"ف .رد?\" در ?,د ادبO ?OستY",
+      "options": [
+        "A) .رگ ?^Oس?د?",
+        "B) عد. ا?.Oت ,صد .ؤ\"ف در تفسOر",
+        "C) ادبOات عزا",
+        "D) سا?س^ر"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ef69b7892c60e971d6dacb88632a80328df19eb",
+      "sectionIndex": 9,
+      "question": "\"گفت.ا?\" در .طا\"عات ادبO ب? ?? اشار? داردY",
+      "options": [
+        "A) .کا\".?",
+        "B) ?ظا. .ع?اOO ^ ,درت در .ت?",
+        "C) سخ?را?O",
+        "D) گفتگ^O شخصOت?O?ا"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b802216a5099a6d9762faec63ad1da97d50e83bd",
+      "sectionIndex": 9,
+      "question": "\"خ^ا?ش .,ا^.ت\" در ?,د ادبO Oع?O ??Y",
+      "options": [
+        "A) خ^ا?د? سخت",
+        "B) خ^ا?ش .ت? برخ\"اف .ع?اO ظا?رO",
+        "C) ?خ^ا?د?",
+        "D) خ^ا?د? آ?ست?"
+      ],
+      "correct": "B"
+    }
+  ]
+}

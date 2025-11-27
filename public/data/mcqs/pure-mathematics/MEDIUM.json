@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:19:05.949Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "c763e3f72a150a1dea7bc77c1de1aee8d5be63fc",
+      "sectionIndex": 0,
+      "question": "If H is a subgroup of G with [G:H] = 2, then H is:",
+      "options": [
+        "A) Cyclic",
+        "B) Abelian",
+        "C) Normal in G",
+        "D) Simple"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d4aa248edbb83447c115c92b47364a5d40036181",
+      "sectionIndex": 0,
+      "question": "For the group homomorphism ?: G ?' G', Im(?) is isomorphic to:",
+      "options": [
+        "A) G",
+        "B) G'",
+        "C) ker(?)",
+        "D) G/ker(?)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "c043e15e03e51c5ee80718d9b71ea4afc0e93a8d",
+      "sectionIndex": 0,
+      "question": "If G/Z(G) is cyclic, then G is:",
+      "options": [
+        "A) Cyclic",
+        "B) Abelian",
+        "C) Simple",
+        "D) Infinite"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "340a9e4fe4c4e06fb058b5c1339a96a53d9a90f8",
+      "sectionIndex": 0,
+      "question": "The number of elements of order 2 in Z,, - Z,, is:",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d638643ddcdb5434557dd3182612f31c959c1b94",
+      "sectionIndex": 0,
+      "question": "Inn(G) ?. G/Z(G) where Inn(G) denotes:",
+      "options": [
+        "A) Internal automorphisms",
+        "B) Inner automorphisms",
+        "C) Inverse automorphisms",
+        "D) Identity automorphisms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef21452c3a3f1efebd772e10f697fb188446eb2a",
+      "sectionIndex": 0,
+      "question": "A group of order 15 must be:",
+      "options": [
+        "A) Non-abelian",
+        "B) Simple",
+        "C) Cyclic",
+        "D) Has a subgroup of order 6"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a926948a2e332956d999f08d72b50bfdcef85f47",
+      "sectionIndex": 0,
+      "question": "If N and M are normal subgroups of G, then NM/M ?.:",
+      "options": [
+        "A) N/M",
+        "B) N/(N^M)",
+        "C) N^M",
+        "D) G/M"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5ac814cd9d503b2e76ca8fe9ea5b14da0a40888",
+      "sectionIndex": 0,
+      "question": "The alternating group A,\" has order:",
+      "options": [
+        "A) 6",
+        "B) 12",
+        "C) 24",
+        "D) 48"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da7e5c04fd3244523d0af3acd38daec090a150ff",
+      "sectionIndex": 0,
+      "question": "Every group of order p2 (p prime) is:",
+      "options": [
+        "A) Cyclic",
+        "B) Simple",
+        "C) Abelian",
+        "D) Non-abelian"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "07a748a84006e3f3c896d614eb7520cc8a62cb9f",
+      "sectionIndex": 0,
+      "question": "If H and K are subgroups with |H| = m, |K| = n, gcd(m,n) = 1, then |H^K| =:",
+      "options": [
+        "A) 1",
+        "B) mn",
+        "C) m+n",
+        "D) 0"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "85234695150f0157118d542967bddbd5c896c07e",
+      "sectionIndex": 1,
+      "question": "In a finite integral domain D, every non-zero element:",
+      "options": [
+        "A) Is a zero divisor",
+        "B) Has a multiplicative inverse",
+        "C) Has order 2",
+        "D) Is nilpotent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "55fc15aceaa70846e86bac3df456e2ddc92db3c2",
+      "sectionIndex": 1,
+      "question": "If R is a ring where (xy)2 = x2y2 for all x,y, then R is:",
+      "options": [
+        "A) A field",
+        "B) An integral domain",
+        "C) Commutative",
+        "D) Without unity"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7c8b86ac2719a586d47b3c7e31e8025aa122bb19",
+      "sectionIndex": 1,
+      "question": "The intersection of two ideals in a ring is:",
+      "options": [
+        "A) Not necessarily an ideal",
+        "B) Always an ideal",
+        "C) A subring but not ideal",
+        "D) The whole ring"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "39a9fb38b011897d90ad18ed9e89a146e4f508e7",
+      "sectionIndex": 1,
+      "question": "In Z,,,, the principal ideal <4> contains:",
+      "options": [
+        "A) {0, 4, 8}",
+        "B) {0, 1, 4}",
+        "C) {4, 8}",
+        "D) All of Z,,,"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d81990c7e31bbe4346b49ba81d82545db77f9759",
+      "sectionIndex": 1,
+      "question": "A maximal ideal M in a commutative ring R satisfies:",
+      "options": [
+        "A) R/M is a field",
+        "B) R/M is an integral domain",
+        "C) M = R",
+        "D) M = {0}"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "724b599adda4498b698aa500ab76b26317b0ab68",
+      "sectionIndex": 1,
+      "question": "The characteristic of an integral domain must be:",
+      "options": [
+        "A) Any positive integer",
+        "B) 0 or prime",
+        "C) Composite",
+        "D) 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62c57f6997f1d9779527dcddbfcf81478b02a33e",
+      "sectionIndex": 1,
+      "question": "In the polynomial ring R[x], the ideal <x2+1> is:",
+      "options": [
+        "A) Principal",
+        "B) Maximal if R = \"",
+        "C) Prime if R = \",",
+        "D) Both A and B"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "4819ab7d409ab7b1c75dccb57de5e092b72888a6",
+      "sectionIndex": 1,
+      "question": "The units in Z,^ form a group of order:",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) 6",
+        "D) 7"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54d9ce1a35c08da36c2a208b5a14958a3f6413d2",
+      "sectionIndex": 1,
+      "question": "If I and J are ideals, then I + J = {a + b : a ^^ I, b ^^ J} is:",
+      "options": [
+        "A) Not an ideal",
+        "B) The smallest ideal containing I ^ J",
+        "C) Equal to I ^ J",
+        "D) The whole ring"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "87ad6dd935acb9be71808b3a05cd248b4970edf0",
+      "sectionIndex": 1,
+      "question": "A homomorphism between fields is:",
+      "options": [
+        "A) Always surjective",
+        "B) Either injective or zero",
+        "C) Always bijective",
+        "D) Never injective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "926cef4b5c9c8703acd021083cc7b7fefbf0b2c5",
+      "sectionIndex": 2,
+      "question": "If T: V ?' V is linear with T3 = T, then eigenvalues of T can only be:",
+      "options": [
+        "A) 0, 1",
+        "B) 0, 1, -1",
+        "C) Any real number",
+        "D) ±i"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "330d0e5db522185d9ed4eac14ce7eb0ad1efc48e",
+      "sectionIndex": 2,
+      "question": "The dimension of the solution space of a homogeneous system Ax = 0 where A is m-n with rank r is:",
+      "options": [
+        "A) n",
+        "B) m",
+        "C) n - r",
+        "D) m - r"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4bfa5c98556a6d71ee5ec26edea7672acf1156cd",
+      "sectionIndex": 2,
+      "question": "If A is a 3-3 matrix with characteristic polynomial (λ-2)2(λ-3), then A is diagonalizable if:",
+      "options": [
+        "A) Always",
+        "B) Geometric multiplicity of λ=2 is 2",
+        "C) Never",
+        "D) A is symmetric"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32119f7c322d0c4af31a504bd6b96cdd56523adb",
+      "sectionIndex": 2,
+      "question": "For the Cayley-Hamilton theorem, if A2 - 5A + 6I = 0, then A-1 =:",
+      "options": [
+        "A) A - 5I",
+        "B) (A - 5I)/6",
+        "C) (5I - A)/6",
+        "D) Does not exist"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "775d3a31a1be5bee2ca0fee56c3ecfdde5000c46",
+      "sectionIndex": 2,
+      "question": "The dimension of the space of 2-2 symmetric matrices over \" is:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a41f2edddc1858696e74e2e8f5f5bc6e65098f48",
+      "sectionIndex": 2,
+      "question": "If V = U S. W (direct sum), then dim(V) =:",
+      "options": [
+        "A) max{dim(U), dim(W)}",
+        "B) dim(U) + dim(W)",
+        "C) dim(U) - dim(W)",
+        "D) dim(U) - dim(W)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e34acbd639b88d07a5a77b989577948cb10156ec",
+      "sectionIndex": 2,
+      "question": "Two n-n matrices are similar if and only if they have:",
+      "options": [
+        "A) Same determinant",
+        "B) Same trace",
+        "C) Same characteristic polynomial and minimal polynomial",
+        "D) Same eigenvalues with same geometric multiplicities"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e707af416b0b34adee239e3eb2b258dcd1cc1c82",
+      "sectionIndex": 2,
+      "question": "The rank of a product AB (where multiplication is defined) satisfies:",
+      "options": [
+        "A) rank(AB) = rank(A) + rank(B)",
+        "B) rank(AB) ? min{rank(A), rank(B)}",
+        "C) rank(AB) = rank(A)rank(B)",
+        "D) rank(AB) ? max{rank(A), rank(B)}"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2313c42f490611dab6b6cc8269f6e686ed755b0",
+      "sectionIndex": 2,
+      "question": "If W, and W,, are subspaces of V with dimensions d, and d,,, then dim(W, ^ W,,) is at least:",
+      "options": [
+        "A) 0",
+        "B) d, + d,, - dim(V)",
+        "C) |d, - d,,|",
+        "D) min{d,, d,,}"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdf4f124657a5ea26270d04ac082703559df88d6",
+      "sectionIndex": 2,
+      "question": "The minimal polynomial of a matrix:",
+      "options": [
+        "A) Has degree n for n-n matrix",
+        "B) Divides the characteristic polynomial",
+        "C) Equals the characteristic polynomial",
+        "D) Has degree 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "aee9aff46067094dffe7e084a89f6bb5085bf3cc",
+      "sectionIndex": 3,
+      "question": "If f is differentiable on \" and |f'(x)| ? M for all x, then:",
+      "options": [
+        "A) f is bounded",
+        "B) f is uniformly continuous",
+        "C) f is constant",
+        "D) f is linear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d3d9efcc84936b6af408a4ea6c764d2442704ff",
+      "sectionIndex": 3,
+      "question": "A function f: [a,b] ?' \" is Riemann integrable if and only if:",
+      "options": [
+        "A) f is continuous",
+        "B) f is monotonic",
+        "C) The set of discontinuities has measure zero",
+        "D) f is differentiable"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f82038bff734f7995c9727124fa56aa7c62405a4",
+      "sectionIndex": 3,
+      "question": "If Σa,T converges absolutely and Σb,T converges, then Σa,Tb,T:",
+      "options": [
+        "A) Always converges",
+        "B) Converges if b,T ?' 0",
+        "C) May diverge",
+        "D) Converges absolutely"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "14d3e5160af23de4ed3b700e9b1af72bb346cd19",
+      "sectionIndex": 3,
+      "question": "The series Σ(sin n)/n2:",
+      "options": [
+        "A) Converges conditionally",
+        "B) Converges absolutely",
+        "C) Diverges",
+        "D) Oscillates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f117ca309e2c4dd599aee869fe2a0c442256a10c",
+      "sectionIndex": 3,
+      "question": "If f''(x) > 0 for all x in (a,b), then f is:",
+      "options": [
+        "A) Increasing",
+        "B) Decreasing",
+        "C) Convex",
+        "D) Concave"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7d953d8e4051bdad0a15560571f650667dd57c18",
+      "sectionIndex": 3,
+      "question": "For the Beta function, B(p,q) equals:",
+      "options": [
+        "A) \"(p)\"(q)/\"(p+q)",
+        "B) \"(p+q)/\"(p)\"(q)",
+        "C) \"(p)\"(q)",
+        "D) pq"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2df25664301f001a0ffff97761157538f0ea18d8",
+      "sectionIndex": 3,
+      "question": "A uniformly continuous function on (0,1):",
+      "options": [
+        "A) Must be bounded",
+        "B) Must be continuous at 0",
+        "C) Has a continuous extension to [0,1]",
+        "D) Is differentiable"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9bae8bf2f3f84eef8ecab03d66058d9c55b2bdaa",
+      "sectionIndex": 3,
+      "question": "The radius of convergence of Σnxn is:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) ^z",
+        "D) e"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "915085a1eeda69379d3368c79311d645e28786f7",
+      "sectionIndex": 3,
+      "question": "If f is continuous and ^,? f(x)g(x)dx = 0 for all continuous g, then:",
+      "options": [
+        "A) f = 0",
+        "B) f is constant",
+        "C) f changes sign",
+        "D) Nothing can be concluded"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3a0b1160ba4dfea290cc91a19827b3cff0aa82da",
+      "sectionIndex": 3,
+      "question": "Taylor's theorem with Lagrange remainder states f(x) = Σ(from 0 to n) f(k)(a)/k! (x-a)k + :",
+      "options": [
+        "A) O((x-a)n)",
+        "B) f(n+1)(c)/(n+1)! (x-a)n+1 for some c",
+        "C) f(n)(x)/(n)! (x-a)n",
+        "D) 0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71e4eebc930edb79ff39e4b5102e0cfd4ccd6aba",
+      "sectionIndex": 4,
+      "question": "If f(z) = u + iv is analytic and u = x2 - y2, then v =:",
+      "options": [
+        "A) 2xy + C",
+        "B) x2 + y2 + C",
+        "C) 2xy",
+        "D) -2xy + C"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "152d60c8837201851d1c37581a2c8fa4b38e2d80",
+      "sectionIndex": 4,
+      "question": "The function f(z) = |z|2 is differentiable:",
+      "options": [
+        "A) Everywhere",
+        "B) Nowhere",
+        "C) Only at z = 0",
+        "D) Except at z = 0"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "030c2e933c7ef68a68b271e7d256562efc6556a5",
+      "sectionIndex": 4,
+      "question": "^_C dz/(z-a)2 where C is a simple closed curve containing a equals:",
+      "options": [
+        "A) 2?i",
+        "B) 0",
+        "C) 2?i(a)",
+        "D) -2?i"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82a9106fa373abdda964e173be7769b5b24fc3bb",
+      "sectionIndex": 4,
+      "question": "The Laurent series of 1/(z2-1) around z = 1 has:",
+      "options": [
+        "A) Only positive powers",
+        "B) Only negative powers",
+        "C) Both positive and negative powers",
+        "D) Is a Taylor series"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b91bac73d9ff14bc047d0cbaff99db6c61b97f7d",
+      "sectionIndex": 4,
+      "question": "The residue of f(z) = e^z/z3 at z = 0 is:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 1/2",
+        "D) 1/6"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4cc82e01ef57c403d3c1dc34296c32ba19449869",
+      "sectionIndex": 4,
+      "question": "If f is entire and |f(z)| ? M|z|n for large |z|, then f is:",
+      "options": [
+        "A) Constant",
+        "B) A polynomial of degree at most n",
+        "C) Unbounded",
+        "D) Not entire"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63467659f247f1e72b78f882b84f74628194a013",
+      "sectionIndex": 4,
+      "question": "The integral ^,?^^z sin x/x dx equals:",
+      "options": [
+        "A) 0",
+        "B) ?/2",
+        "C) ?",
+        "D) 2?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dbf2c1e5fe6c9663bb4cef46a2f61826d280b047",
+      "sectionIndex": 4,
+      "question": "A function with an essential singularity at z,?:",
+      "options": [
+        "A) Is bounded near z,?",
+        "B) Has a Laurent series with finitely many negative powers",
+        "C) Takes every value infinitely often near z,? (except possibly one)",
+        "D) Has a removable singularity"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "22d288d47c26fff37d7fd6ba1e015b33eac416d1",
+      "sectionIndex": 4,
+      "question": "The Fourier series of |x| on [-?, ?] contains:",
+      "options": [
+        "A) Only sines",
+        "B) Only cosines",
+        "C) Both sines and cosines",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "925675ae408eef1556efcda02f877f041bb8bbfb",
+      "sectionIndex": 4,
+      "question": "If f(z) = 1/(z2+1), the sum of residues at all poles is:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) -1",
+        "D) 2?i"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8dc4db5cd584b8775073ae6ba8297a6283d3fe64",
+      "sectionIndex": 5,
+      "question": "The curvature of the circle x2 + y2 = r2 is:",
+      "options": [
+        "A) 0",
+        "B) 1/r",
+        "C) r",
+        "D) 1/r2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ef64dc05a95882bad2867ca37166f57d6fc0742",
+      "sectionIndex": 5,
+      "question": "For the cycloid x = a(t - sin t), y = a(1 - cos t), the arc length from t = 0 to t = 2? is:",
+      "options": [
+        "A) 2?a",
+        "B) 4?a",
+        "C) 8a",
+        "D) 16a"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aae650e32a320230d77d99686c5d92d111b9cf97",
+      "sectionIndex": 5,
+      "question": "The evolute of a parabola y2 = 4ax is:",
+      "options": [
+        "A) Another parabola",
+        "B) A semi-cubic parabola",
+        "C) A circle",
+        "D) A straight line"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "871912dc48949a3697a059d8d1807afef8734d1c",
+      "sectionIndex": 5,
+      "question": "For an ellipse x2/a2 + y2/b2 = 1 with a > b, the eccentricity is:",
+      "options": [
+        "A) ^s(a2 - b2)/a",
+        "B) ^s(a2 + b2)/a",
+        "C) b/a",
+        "D) a/b"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "11cb00b13b10417e9af425732550c91193cdad34",
+      "sectionIndex": 5,
+      "question": "The tangent to a curve r = f(θ) in polar coordinates makes angle ^ with radius where tan ^ =:",
+      "options": [
+        "A) r/(dr/dθ)",
+        "B) (dr/dθ)/r",
+        "C) r(dθ/dr)",
+        "D) rdθ/dr"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1ea37469f4fa9b41b275ba0745cd6fa182177764",
+      "sectionIndex": 5,
+      "question": "The surface area of revolution of y = f(x) from a to b about x-axis is:",
+      "options": [
+        "A) 2?^,? f(x)dx",
+        "B) 2?^,? f(x)^s(1 + [f'(x)]2)dx",
+        "C) ?^,? [f(x)]2dx",
+        "D) 2?^,? xf(x)dx"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e9ad8874dd7ed7614832666acaf997f51c76d813",
+      "sectionIndex": 5,
+      "question": "Two surfaces intersect orthogonally if:",
+      "options": [
+        "A) Their tangent planes are parallel",
+        "B) Their normal vectors are perpendicular",
+        "C) They don't intersect",
+        "D) Their tangent planes are identical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1840f54ab33b1dd6894b6e83b81418700e092c2b",
+      "sectionIndex": 5,
+      "question": "The geodesic on a sphere is:",
+      "options": [
+        "A) A straight line",
+        "B) A parabola",
+        "C) A great circle",
+        "D) A small circle"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ab569af26c963fd66e1526d664bf097a35ccb928",
+      "sectionIndex": 5,
+      "question": "For the astroid x^(2/3) + y^(2/3) = a^(2/3), the total arc length is:",
+      "options": [
+        "A) 4a",
+        "B) 6a",
+        "C) 8a",
+        "D) 12a"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bc677d4ef1051915416b201e1430ca19eab4ad73",
+      "sectionIndex": 5,
+      "question": "The pedal equation of a curve relates:",
+      "options": [
+        "A) r and θ",
+        "B) p and r where p is perpendicular distance",
+        "C) x and y",
+        "D) s and κ"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3723848a35e8bfa13adc63a21acab8602b2254f4",
+      "sectionIndex": 6,
+      "question": "In a principal ideal domain, every ideal is generated by:",
+      "options": [
+        "A) Two elements",
+        "B) One element",
+        "C) Infinitely many elements",
+        "D) A prime element"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a844f125d08165b9f70db4086c32a6e21c798da",
+      "sectionIndex": 6,
+      "question": "The Gaussian integers Z[i] form:",
+      "options": [
+        "A) A field",
+        "B) An integral domain",
+        "C) A Euclidean domain",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "5277199e8ff0d16ba1f60e19f9744e9cde8b9ca6",
+      "sectionIndex": 6,
+      "question": "If p ? 1 (mod 4), then p can be written as:",
+      "options": [
+        "A) Sum of two squares",
+        "B) Difference of two squares",
+        "C) Sum of three squares",
+        "D) Cannot be expressed as sum of squares"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "fa902970473828e74c53fdf322c480a5662a2026",
+      "sectionIndex": 6,
+      "question": "The units in Z[^s2] are:",
+      "options": [
+        "A) ±1 only",
+        "B) ±(1+^s2)n for all integers n",
+        "C) All non-zero elements",
+        "D) ±1, ±^s2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "682e6da954a0fd05fd7dc1779e57e67b227197ba",
+      "sectionIndex": 6,
+      "question": "An irreducible element in an integral domain:",
+      "options": [
+        "A) Is always prime",
+        "B) Is prime if the domain is a UFD",
+        "C) Cannot be factored",
+        "D) Has no inverse"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8149906349256f95c733d7fe4a8fd5cb37920461",
+      "sectionIndex": 6,
+      "question": "The ring Z[x] is:",
+      "options": [
+        "A) A field",
+        "B) A principal ideal domain",
+        "C) Not a principal ideal domain",
+        "D) Finite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "abea8fbf157b8c893d0ab7419e8f6925a8633ceb",
+      "sectionIndex": 6,
+      "question": "Eisenstein's criterion checks:",
+      "options": [
+        "A) Primality of numbers",
+        "B) Irreducibility of polynomials",
+        "C) Convergence of series",
+        "D) Solvability of equations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c09659a9ac35073167e1a480a3c63b315fc4254",
+      "sectionIndex": 6,
+      "question": "The ideal <2, x> in Z[x] is:",
+      "options": [
+        "A) Principal",
+        "B) Maximal",
+        "C) Prime but not maximal",
+        "D) Not prime"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "77bc52d96ba96443d6c742f6613359357e9ca78c",
+      "sectionIndex": 6,
+      "question": "In a Dedekind domain, every ideal can be:",
+      "options": [
+        "A) Generated by one element",
+        "B) Uniquely factored into prime ideals",
+        "C) Ignored",
+        "D) Made maximal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b194a42bfddfda8cb3eaa50eb190f3872a58f08b",
+      "sectionIndex": 6,
+      "question": "The algebraic integers form:",
+      "options": [
+        "A) A field",
+        "B) A ring",
+        "C) A vector space only",
+        "D) A group only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "199545114f87fb5bbd916820f0b187e3ff20e59b",
+      "sectionIndex": 7,
+      "question": "In a metric space, every convergent sequence is:",
+      "options": [
+        "A) Bounded",
+        "B) Cauchy",
+        "C) Both A and B",
+        "D) Neither A nor B"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c80a7402663f5bbc6d60f43f0b514a583fe463f5",
+      "sectionIndex": 7,
+      "question": "A subset of a complete metric space is complete if and only if it is:",
+      "options": [
+        "A) Open",
+        "B) Closed",
+        "C) Bounded",
+        "D) Compact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4db11c68d76fddda0d20307a88b33e5db1ee798c",
+      "sectionIndex": 7,
+      "question": "In \"n with usual topology, a set is compact if and only if it is:",
+      "options": [
+        "A) Closed",
+        "B) Bounded",
+        "C) Closed and bounded",
+        "D) Open and bounded"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5109d4f186c385d45aa91331ce2e317ddbc39de3",
+      "sectionIndex": 7,
+      "question": "A continuous function from a compact space to a Hausdorff space is:",
+      "options": [
+        "A) Open",
+        "B) Closed",
+        "C) Bounded",
+        "D) Uniformly continuous"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a0ae8a5a58f4496f510f7e86866e795b8186251",
+      "sectionIndex": 7,
+      "question": "The Cantor set is:",
+      "options": [
+        "A) Countable",
+        "B) Has measure zero",
+        "C) Dense in [0,1]",
+        "D) Open"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bea26686c45bad6975b744f223e75f139d8ba66f",
+      "sectionIndex": 7,
+      "question": "A metric space is separable if it contains:",
+      "options": [
+        "A) A countable dense subset",
+        "B) An uncountable subset",
+        "C) Only isolated points",
+        "D) No limit points"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b399c4ab8224e834807db31e686640dff61e5e66",
+      "sectionIndex": 7,
+      "question": "Every metric induces a topology where the base consists of:",
+      "options": [
+        "A) Closed balls",
+        "B) Open balls",
+        "C) Singletons",
+        "D) Complements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c02d4a4d9ddde757f4ec673b4c9239273e6e698",
+      "sectionIndex": 7,
+      "question": "A space is connected if:",
+      "options": [
+        "A) It cannot be written as union of two disjoint open sets",
+        "B) Every two points can be joined by a path",
+        "C) It is compact",
+        "D) It has no isolated points"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ffc26c18bced5fe431f4706e49897a0a0b6c8cee",
+      "sectionIndex": 7,
+      "question": "The closure of a set A equals:",
+      "options": [
+        "A) Interior of A",
+        "B) A ^ (limit points of A)",
+        "C) Boundary of A",
+        "D) Complement of A"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "369a7c0fd079fd905b767be8f1060de75d239304",
+      "sectionIndex": 7,
+      "question": "Total boundedness implies:",
+      "options": [
+        "A) Completeness",
+        "B) Compactness",
+        "C) Boundedness",
+        "D) Separability"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9f92ca9ad6fd81b62f71ac48ddd584682a7ffd59",
+      "sectionIndex": 8,
+      "question": "In L2[0,1], the inner product <f,g> equals:",
+      "options": [
+        "A) ^,?1 f(x)g(x)dx",
+        "B) ^,?1 |f(x)-g(x)|dx",
+        "C) max|f(x)-g(x)|",
+        "D) f(0)g(0)"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "19758e96747e9252474a6a8530bd4a30cd5f770e",
+      "sectionIndex": 8,
+      "question": "The space C[0,1] with sup norm is:",
+      "options": [
+        "A) Complete",
+        "B) Compact",
+        "C) Finite dimensional",
+        "D) Not a vector space"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1a0688f5a6cd48be9be06dd0572e4fcd38c2f29f",
+      "sectionIndex": 8,
+      "question": "An operator T is bounded if:",
+      "options": [
+        "A) T(0) = 0",
+        "B) ||T(x)|| ? M||x|| for some M",
+        "C) T is linear",
+        "D) T is surjective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bd22dfc5a0d88d2cdfbb6060d17668d272a2254",
+      "sectionIndex": 8,
+      "question": "The Weierstrass approximation theorem states:",
+      "options": [
+        "A) Every function is a polynomial",
+        "B) Continuous functions on [a,b] can be uniformly approximated by polynomials",
+        "C) Polynomials are dense in L2",
+        "D) Taylor series always converge"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0db3b09217a4c6cae01e85471eafbae6571c983a",
+      "sectionIndex": 8,
+      "question": "In a Hilbert space, every closed subspace has:",
+      "options": [
+        "A) Finite dimension",
+        "B) An orthogonal complement",
+        "C) Compact closure",
+        "D) Countable basis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "034ad6c87d8b76d9b50b1f569747b45170f1860f",
+      "sectionIndex": 8,
+      "question": "The dual space of \"\"- (1 < p < ^z) is:",
+      "options": [
+        "A) \"\"-",
+        "B) \"\"g where 1/p + 1/q = 1",
+        "C) \"\"^z",
+        "D) \"\"1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68bba2ed7aedcdafd4269d9db347300ba76f4ff3",
+      "sectionIndex": 8,
+      "question": "A linear functional is continuous if and only if:",
+      "options": [
+        "A) It is bounded",
+        "B) Its kernel is closed",
+        "C) Both A and B",
+        "D) It is surjective"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "68338bffbdc331df531b60653e45c577cf20672c",
+      "sectionIndex": 8,
+      "question": "The Riesz representation theorem in Hilbert space states every continuous linear functional f satisfies:",
+      "options": [
+        "A) f(x) = 0",
+        "B) f(x) = <x,y> for unique y",
+        "C) f is not continuous",
+        "D) f is unbounded"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "56ad0638d331b04b7e32795bf4cca3e69a975b4d",
+      "sectionIndex": 8,
+      "question": "Compact operators map:",
+      "options": [
+        "A) Bounded sets to compact sets",
+        "B) Bounded sets to relatively compact sets",
+        "C) Open sets to open sets",
+        "D) Closed sets to closed sets"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d55145108a736d8604ef8415a9e8ecd3dae0670",
+      "sectionIndex": 8,
+      "question": "The spectrum of a bounded operator contains:",
+      "options": [
+        "A) Only eigenvalues",
+        "B) Eigenvalues and possibly more",
+        "C) Only real numbers",
+        "D) Only positive numbers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38b8d9988dea90839e7e5476339daac65856fe9c",
+      "sectionIndex": 9,
+      "question": "The Wronskian of solutions y,, y,, of a second-order linear ODE vanishes identically if and only if:",
+      "options": [
+        "A) y, = y,,",
+        "B) y,, y,, are linearly dependent",
+        "C) y,y,, = 0",
+        "D) The ODE has constant coefficients"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b7f3360ce2134ff3ced750429199a6c7a0d6b39",
+      "sectionIndex": 9,
+      "question": "For the Sturm-Liouville problem, eigenvalues are:",
+      "options": [
+        "A) Complex",
+        "B) Real and positive",
+        "C) Real",
+        "D) Purely imaginary"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "69c98942be189c7c69c4a35aec7f2e14d0adf687",
+      "sectionIndex": 9,
+      "question": "The heat equation u,o = ku,\",\" is classified as:",
+      "options": [
+        "A) Elliptic",
+        "B) Parabolic",
+        "C) Hyperbolic",
+        "D) None of these"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5c819153ede5cc19ad891bb48b0da2e8a32d4463",
+      "sectionIndex": 9,
+      "question": "Green's function for the operator d2/dx2 on [0,1] with zero boundary conditions:",
+      "options": [
+        "A) Is symmetric",
+        "B) Does not exist",
+        "C) Is constant",
+        "D) Is periodic"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "b35ae3d429b8519a5fe9c9e22c13b495c8845d9d",
+      "sectionIndex": 9,
+      "question": "The method of characteristics applies to:",
+      "options": [
+        "A) All PDEs",
+        "B) First-order PDEs",
+        "C) Linear PDEs only",
+        "D) Elliptic PDEs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5babc7aecdfb8403c374ce98ed4ebede7a83ceef",
+      "sectionIndex": 9,
+      "question": "Bessel's equation x2y'' + xy' + (x2 - n2)y = 0 has:",
+      "options": [
+        "A) Polynomial solutions",
+        "B) Exponential solutions",
+        "C) Bessel functions as solutions",
+        "D) No solutions"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9a487040a882707b7a3aeb3c9276f9477112ad1e",
+      "sectionIndex": 9,
+      "question": "For Laplace's equation in a disk, solutions are:",
+      "options": [
+        "A) Polynomials only",
+        "B) Harmonic functions",
+        "C) Exponentials",
+        "D) Constants only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8d7c31384609bc46471e645d0b40c5b350041462",
+      "sectionIndex": 9,
+      "question": "The maximum principle for harmonic functions states:",
+      "options": [
+        "A) Maximum occurs in the interior",
+        "B) Maximum occurs on the boundary",
+        "C) There is no maximum",
+        "D) Maximum is at the center"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "31edad6026161b82e8260648941747c1c6cfff81",
+      "sectionIndex": 9,
+      "question": "Variation of parameters works when:",
+      "options": [
+        "A) Coefficients are constant",
+        "B) Homogeneous solution is known",
+        "C) Equation is linear",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6a2e43b51b58b4be0863019cf903382c7dce54f4",
+      "sectionIndex": 9,
+      "question": "The fundamental solution of the Laplacian in \"2 is proportional to:",
+      "options": [
+        "A) 1/r",
+        "B) log r",
+        "C) r2",
+        "D) e^r"
+      ],
+      "correct": "B"
+    }
+  ]
+}

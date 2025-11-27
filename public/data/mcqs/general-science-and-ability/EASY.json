@@ -1,0 +1,1194 @@
+{
+  "version": "2025-08-07T23:38:37.080Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "21dbe8b911334ca00e23f4a3968d09251ed3d4cc",
+      "sectionIndex": 0,
+      "question": "Who is known as the ?oFather of Algebra??",
+      "options": [
+        "A) Ibn al-Haytham",
+        "B) Al-Khwarizmi",
+        "C) Al-Biruni",
+        "D) Al-Razi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1416ccdbb2d9571af8e8a0169e7ab47cba324ae2",
+      "sectionIndex": 0,
+      "question": "Which scientist wrote the seminal Book of Optics?",
+      "options": [
+        "A) Al-Farabi",
+        "B) Al-Razi",
+        "C) Ibn al-Haytham",
+        "D) Avicenna"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1b675d6bee20c2dcc53030eac2ece7b1aa326efb",
+      "sectionIndex": 0,
+      "question": "Al-Biruni made significant contributions to which field?",
+      "options": [
+        "A) Astronomy",
+        "B) Medicine",
+        "C) Economics",
+        "D) Literature"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "136e63fc170f072e7b851eff3c0c7c352d490ed2",
+      "sectionIndex": 0,
+      "question": "Who is credited with pioneering methods in experimental medicine?",
+      "options": [
+        "A) Avicenna",
+        "B) Al-Khwarizmi",
+        "C) Al-Farghani",
+        "D) Al-Kindi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "704b2e1c05df48cc7a56117cf90a187247373d3b",
+      "sectionIndex": 0,
+      "question": "Which Muslim scholar accurately measured the circumference of the Earth?",
+      "options": [
+        "A) Al-Razi",
+        "B) Al-Khwarizmi",
+        "C) Al-Biruni",
+        "D) Ibn Sina"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f41d59975cceffb2014464897eeea02b92d959da",
+      "sectionIndex": 0,
+      "question": "Al-Kindi is best known for his work in:",
+      "options": [
+        "A) Optics",
+        "B) Philosophy and cryptography",
+        "C) Botany",
+        "D) Cartography"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12c681604178ed20c6198b41ab0a0f968f65ec13",
+      "sectionIndex": 0,
+      "question": "Who formulated early theories on motion resembling inertia?",
+      "options": [
+        "A) Al-Hassan",
+        "B) Jabir ibn Hayyan",
+        "C) Al-Khindi",
+        "D) Ibn al-Haytham"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f38c159514b9e3e8a885566c6844f1d68758de91",
+      "sectionIndex": 0,
+      "question": "Which scientist authored the Canon of Medicine?",
+      "options": [
+        "A) Avicenna",
+        "B) Al-Biruni",
+        "C) Al-Razi",
+        "D) Al-Kindi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e7de092f156951f50c403aceeb97364fc8ded592",
+      "sectionIndex": 0,
+      "question": "Who introduced the concept of algorithm in mathematics?",
+      "options": [
+        "A) Al-Khwarizmi",
+        "B) Al-Farabi",
+        "C) Al-Razi",
+        "D) Ibn Sina"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7309a1cb50a8a11e7d95499100586eeefee90729",
+      "sectionIndex": 0,
+      "question": "Which scholar wrote on the astrolabe and improved its design?",
+      "options": [
+        "A) Al-Biruni",
+        "B) Al-Farghani",
+        "C) Al-Khwarizmi",
+        "D) Avicenna"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3da3e63095acb4fd04f223b575573f06af441e7c",
+      "sectionIndex": 1,
+      "question": "Which gas is the primary contributor to the greenhouse effect?",
+      "options": [
+        "A) Oxygen",
+        "B) Carbon Dioxide",
+        "C) Nitrogen",
+        "D) Argon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "647630228bde0cca1aab7b09f98ddcf4b7a48417",
+      "sectionIndex": 1,
+      "question": "Acid rain is mainly caused by emissions of:",
+      "options": [
+        "A) CO,, and H,,O",
+        "B) SO,, and NO,\"",
+        "C) CH,\" and NH,f",
+        "D) O,f and CO"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fea0703e98b131b44fcb76e9a68ed8401996e10",
+      "sectionIndex": 1,
+      "question": "Which practice helps prevent water pollution?",
+      "options": [
+        "A) Dumping industrial waste directly",
+        "B) Using pesticides indiscriminately",
+        "C) Treating sewage before discharge",
+        "D) Increasing plastic use"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "255d778dac20e375ded510fc578508ac38fca3b1",
+      "sectionIndex": 1,
+      "question": "The Clean Development Mechanism (CDM) relates to:",
+      "options": [
+        "A) Biological diversity",
+        "B) Renewable energy projects under Kyoto Protocol",
+        "C) Ocean salinity control",
+        "D) Nuclear waste disposal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d76cf76e27cf1a1640f724a4362495c7cae728b1",
+      "sectionIndex": 1,
+      "question": "Which layer of air quality is most affected by ground-level ozone?",
+      "options": [
+        "A) Stratosphere",
+        "B) Troposphere",
+        "C) Mesosphere",
+        "D) Thermosphere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b20fde3532f30177b1f3c53f1e78c8a7d70d8c87",
+      "sectionIndex": 1,
+      "question": "Global warming refers to the increase in Earth?Ts:",
+      "options": [
+        "A) Core temperature",
+        "B) Average surface temperature",
+        "C) Atmospheric pressure",
+        "D) Ocean depth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a9c7ff4c204cfe89fa306449b7724d2ebc8e603",
+      "sectionIndex": 1,
+      "question": "Which renewable resource uses wind to generate electricity?",
+      "options": [
+        "A) Geothermal",
+        "B) Biomass",
+        "C) Solar",
+        "D) Wind turbines"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8000e6a8f20f373b01c2ee41068320cd9d7b96f0",
+      "sectionIndex": 1,
+      "question": "Excessive use of fertilizers can lead to:",
+      "options": [
+        "A) Improved air quality",
+        "B) Eutrophication in water bodies",
+        "C) Reduced soil fertility",
+        "D) Decreased algal growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b5feaae69c0cfedd76a0ecebbc4bfb49d882d47",
+      "sectionIndex": 1,
+      "question": "Ozone depletion in the stratosphere increases human exposure to:",
+      "options": [
+        "A) Infrared radiation",
+        "B) Ultraviolet radiation",
+        "C) Gamma rays",
+        "D) Microwaves"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c1a4d0bb601469e86d132ca1424dc29ce7ea03de",
+      "sectionIndex": 1,
+      "question": "Which practice conserves water in agriculture?",
+      "options": [
+        "A) Flood irrigation",
+        "B) Drip irrigation",
+        "C) Overhead sprinklers",
+        "D) Monoculture planting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "129a4df0791f699625f71de8c661813c9c838ccf",
+      "sectionIndex": 2,
+      "question": "Which gland secretes insulin?",
+      "options": [
+        "A) Thyroid",
+        "B) Pancreas",
+        "C) Adrenal",
+        "D) Pituitary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3929fe485e312e93df3446ce94175b7fa034a81f",
+      "sectionIndex": 2,
+      "question": "Vitamin C deficiency causes:",
+      "options": [
+        "A) Rickets",
+        "B) Scurvy",
+        "C) Beriberi",
+        "D) Pellagra"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5883d17d3db85edbb95327e59bbfb40c00cc9adf",
+      "sectionIndex": 2,
+      "question": "The functional unit of the kidney is called:",
+      "options": [
+        "A) Neuron",
+        "B) Nephron",
+        "C) Alveolus",
+        "D) Osteon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "70ab8c84aa977dec43f109ca25ae7c32c1c6db72",
+      "sectionIndex": 2,
+      "question": "Which nutrient is primarily needed for muscle repair?",
+      "options": [
+        "A) Carbohydrates",
+        "B) Proteins",
+        "C) Lipids",
+        "D) Vitamins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb339d56d0e3945e96655cebd626fdddfefc7011",
+      "sectionIndex": 2,
+      "question": "Hemoglobin is found in:",
+      "options": [
+        "A) White blood cells",
+        "B) Red blood cells",
+        "C) Platelets",
+        "D) Plasma"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "59655f8bfbdb3680c811d79cdbadc73b230d5e89",
+      "sectionIndex": 2,
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": [
+        "A) Cerebrum",
+        "B) Cerebellum",
+        "C) Medulla",
+        "D) Hypothalamus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5d14d0bba475fbf2c4c5b1a44a8e26f660fff4a2",
+      "sectionIndex": 2,
+      "question": "Antibodies are produced by:",
+      "options": [
+        "A) Neutrophils",
+        "B) B-lymphocytes",
+        "C) Platelets",
+        "D) Red blood cells"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b584e63fa55aa8d4a2febab35cee3fb33e253716",
+      "sectionIndex": 2,
+      "question": "Which vitamin is fat-soluble?",
+      "options": [
+        "A) Vitamin B1",
+        "B) Vitamin C",
+        "C) Vitamin A",
+        "D) Vitamin B12"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3414613924e04f047e589bc1ce682b831843d1be",
+      "sectionIndex": 2,
+      "question": "The main function of the respiratory system is to:",
+      "options": [
+        "A) Digest food",
+        "B) Circulate blood",
+        "C) Exchange gases",
+        "D) Excrete waste"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "304463b22493d9697569e69b8660be9ffeb4fec9",
+      "sectionIndex": 2,
+      "question": "Which organ stores bile?",
+      "options": [
+        "A) Liver",
+        "B) Gallbladder",
+        "C) Pancreas",
+        "D) Spleen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a7bc2770c29cea437ad2c9853cdb2f4eb307c698",
+      "sectionIndex": 3,
+      "question": "The boundary where two tectonic plates move apart is called a:",
+      "options": [
+        "A) Convergent boundary",
+        "B) Transform boundary",
+        "C) Divergent boundary",
+        "D) Subduction zone"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2139bb3ec96a5e715f893247d2d701057bb061f7",
+      "sectionIndex": 3,
+      "question": "Which rock is formed by cooling magma?",
+      "options": [
+        "A) Sedimentary",
+        "B) Metamorphic",
+        "C) Igneous",
+        "D) Fossil"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2dd9f100bd8458f1243a24d0379281e68de8868d",
+      "sectionIndex": 3,
+      "question": "An earthquake?Ts focus is:",
+      "options": [
+        "A) Point on surface above epicenter",
+        "B) Point within Earth where it originates",
+        "C) Seismic wave path",
+        "D) Fault line itself"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "094240f83a82069a8fd82babd2578869fe2ea076",
+      "sectionIndex": 3,
+      "question": "The Richter scale measures:",
+      "options": [
+        "A) Earthquake depth",
+        "B) Earthquake magnitude",
+        "C) Tsunami height",
+        "D) Volcanic ash spread"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "49083eaab3c9f0be91e0b0687ed765e630ee0eaf",
+      "sectionIndex": 3,
+      "question": "Tsunamis are primarily caused by:",
+      "options": [
+        "A) Tropical storms",
+        "B) Undersea earthquakes",
+        "C) Volcanic eruptions in mountains",
+        "D) Heavy rainfall"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f0dec09fd8d14123f6919c87e5c3d38eaffa4c6",
+      "sectionIndex": 3,
+      "question": "Soil erosion is accelerated by:",
+      "options": [
+        "A) Afforestation",
+        "B) Terracing",
+        "C) Overgrazing",
+        "D) Composting"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d98217bd3f905ca42e30f7ee93742950246681e8",
+      "sectionIndex": 3,
+      "question": "The layer of Earth directly below the crust is the:",
+      "options": [
+        "A) Core",
+        "B) Mantle",
+        "C) Lithosphere",
+        "D) Atmosphere"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a69832c530f76bd7d0cdf6c351be5b49346d701",
+      "sectionIndex": 3,
+      "question": "Fossils are most commonly found in:",
+      "options": [
+        "A) Igneous rocks",
+        "B) Metamorphic rocks",
+        "C) Sedimentary rocks",
+        "D) Volcanic ash"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "98925fb063f0a379a7e11bb5a48642131a2e33ce",
+      "sectionIndex": 3,
+      "question": "Which process turns sediment into rock?",
+      "options": [
+        "A) Erosion",
+        "B) Weathering",
+        "C) Lithification",
+        "D) Evaporation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b4233bb713253d7376a4b9d6d94d43d2fc57e1f4",
+      "sectionIndex": 3,
+      "question": "A caldera is formed by:",
+      "options": [
+        "A) Plate divergence",
+        "B) Collapse of a volcanic cone",
+        "C) Glacial activity",
+        "D) River erosion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5975069fdbe656d0bc0abc913fd0f4568de0d401",
+      "sectionIndex": 4,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "A) Venus",
+        "B) Mars",
+        "C) Jupiter",
+        "D) Saturn"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5aa1886a59e26fc47c090dbd820c4690010661da",
+      "sectionIndex": 4,
+      "question": "A lunar eclipse occurs when:",
+      "options": [
+        "A) Earth passes between Sun and Moon",
+        "B) Moon passes between Sun and Earth",
+        "C) Sun passes between Earth and Moon",
+        "D) Mars passes in front of Moon"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1cabf34689142293db2357cb363c69ca20273d67",
+      "sectionIndex": 4,
+      "question": "The Milky Way is a type of:",
+      "options": [
+        "A) Comet",
+        "B) Planet",
+        "C) Galaxy",
+        "D) Nebula"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "894f662a9558efb6086de0dafa81fd37ff590ecd",
+      "sectionIndex": 4,
+      "question": "Which object is not a planet?",
+      "options": [
+        "A) Mercury",
+        "B) Ceres",
+        "C) Earth",
+        "D) Neptune"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98114c3bce39196e9ee2de0e355106583da2bac9",
+      "sectionIndex": 4,
+      "question": "The brightest planet in the night sky is:",
+      "options": [
+        "A) Mars",
+        "B) Jupiter",
+        "C) Venus",
+        "D) Saturn"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "99eb92e86379860794192701ce3ef2b2d9798d9c",
+      "sectionIndex": 4,
+      "question": "A black hole is formed after the collapse of a:",
+      "options": [
+        "A) White dwarf",
+        "B) Neutron star",
+        "C) Supernova of a massive star",
+        "D) Red giant"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "28210b03b582425963165ef06820b43e3b0d8032",
+      "sectionIndex": 4,
+      "question": "The time taken by Earth to orbit the Sun is:",
+      "options": [
+        "A) 24 hours",
+        "B) 30 days",
+        "C) 365 days",
+        "D) 28 days"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a796d45ec062113cc9be6b7f1ca37b4521818298",
+      "sectionIndex": 4,
+      "question": "Which celestial body is called a shooting star?",
+      "options": [
+        "A) Asteroid",
+        "B) Comet",
+        "C) Meteor",
+        "D) Satellite"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "05bbe35daab355a8effa9c9dc1357518ddfda8a4",
+      "sectionIndex": 4,
+      "question": "The force that keeps planets in orbit around the Sun is:",
+      "options": [
+        "A) Electromagnetism",
+        "B) Gravity",
+        "C) Nuclear force",
+        "D) Friction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00047915a48d33b38f1856e7a576213bd31b523b",
+      "sectionIndex": 4,
+      "question": "Which layer of the Sun is visible during a total solar eclipse?",
+      "options": [
+        "A) Photosphere",
+        "B) Chromosphere",
+        "C) Corona",
+        "D) Core"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9ad7d41ef3506229c47a4fe48c5c195c77f01783",
+      "sectionIndex": 5,
+      "question": "RAM stands for:",
+      "options": [
+        "A) Read Access Memory",
+        "B) Random Access Memory",
+        "C) Rapid Array Module",
+        "D) Read-Only Memory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c94aea338492558df48fcf369ca16ec6ef61c3f7",
+      "sectionIndex": 5,
+      "question": "The primary function of a CPU is to:",
+      "options": [
+        "A) Store data permanently",
+        "B) Process instructions",
+        "C) Manage power supply",
+        "D) Display graphics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dec8222a9d0f89abddd83d73ea99a9eb521dac67",
+      "sectionIndex": 5,
+      "question": "HTTP is used for:",
+      "options": [
+        "A) Email transmission",
+        "B) Web page requests",
+        "C) File compression",
+        "D) Network security"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1cb124a1dc401cc5fea76687bbf9deb0989d6be",
+      "sectionIndex": 5,
+      "question": "A firewall?Ts main role is to:",
+      "options": [
+        "A) Cool the CPU",
+        "B) Prevent unauthorized access",
+        "C) Encrypt files",
+        "D) Manage user accounts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c408353fdc790980fbfc081c78bf2d3850fd0b82",
+      "sectionIndex": 5,
+      "question": "Which device converts digital signals into analog for phone lines?",
+      "options": [
+        "A) Router",
+        "B) Modem",
+        "C) Switch",
+        "D) Hub"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d1571d3fba20e78af1433d681b5db7385474c0a",
+      "sectionIndex": 5,
+      "question": "SSD stands for:",
+      "options": [
+        "A) Solid State Drive",
+        "B) Secure Storage Disk",
+        "C) Standard System Disk",
+        "D) Single Storage Device"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a39aeef6a75bd65f91aa5a4cceb98b5e7ed3d94d",
+      "sectionIndex": 5,
+      "question": "Which language is primarily used for web page structure?",
+      "options": [
+        "A) CSS",
+        "B) JavaScript",
+        "C) HTML",
+        "D) Python"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a0a39b7d402e7d5b8a4dbe96563c1cf553e0140c",
+      "sectionIndex": 5,
+      "question": "In networking, LAN stands for:",
+      "options": [
+        "A) Large Area Network",
+        "B) Local Area Network",
+        "C) Light Access Node",
+        "D) Logical Array Network"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d354090231cd4966f9b69d0ff3c8b2e73962edb5",
+      "sectionIndex": 5,
+      "question": "A virus is:",
+      "options": [
+        "A) Hardware malfunction",
+        "B) Malicious software",
+        "C) Data backup method",
+        "D) Networking protocol"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b08dd6cb5418b92025a05bb80e7f09536eb8a6c",
+      "sectionIndex": 5,
+      "question": "Cloud computing primarily provides:",
+      "options": [
+        "A) On-site servers",
+        "B) Virtualized resources over the internet",
+        "C) Physical storage devices",
+        "D) Local network security"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2196a40958b8ecfd1e9976cf6ecdda937b3c4891",
+      "sectionIndex": 6,
+      "question": "Ionic bonds form by the transfer of:",
+      "options": [
+        "A) Protons",
+        "B) Electrons",
+        "C) Neutrons",
+        "D) Photons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b56c0dd62d1b92acec1cc43402a78bb7e0b9919",
+      "sectionIndex": 6,
+      "question": "Which mineral is used in making glass?",
+      "options": [
+        "A) Quartz",
+        "B) Gypsum",
+        "C) Bauxite",
+        "D) Halite"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "37d058d33b8565b727811dbc2a465ea64e27b3ef",
+      "sectionIndex": 6,
+      "question": "The pH of a neutral solution is:",
+      "options": [
+        "A) 0",
+        "B) 7",
+        "C) 14",
+        "D) 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9ea5ff8767f700e7003c51de19d03cd7209f78b",
+      "sectionIndex": 6,
+      "question": "H,,O,, is the formula for:",
+      "options": [
+        "A) Water",
+        "B) Hydrogen peroxide",
+        "C) Sulfuric acid",
+        "D) Ammonia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4eb3ccbe35c565ec86d795c58c3bf660c56da1c5",
+      "sectionIndex": 6,
+      "question": "Which element is a halogen?",
+      "options": [
+        "A) Sodium",
+        "B) Chlorine",
+        "C) Calcium",
+        "D) Helium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f63dd7dd1440644b33dfb80e5167b57fac01a108",
+      "sectionIndex": 6,
+      "question": "Rusting of iron is an example of:",
+      "options": [
+        "A) Reduction",
+        "B) Oxidation",
+        "C) Sublimation",
+        "D) Neutralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b9fe8be2a285d1bc704f6e8284a1f34221b3ac6c",
+      "sectionIndex": 6,
+      "question": "Which acid is found in vinegar?",
+      "options": [
+        "A) Hydrochloric acid",
+        "B) Acetic acid",
+        "C) Sulfuric acid",
+        "D) Citric acid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0e2ff18274c5cc6676d7764ebad98c9a5417659",
+      "sectionIndex": 6,
+      "question": "The process of a solid turning directly into gas is called:",
+      "options": [
+        "A) Evaporation",
+        "B) Condensation",
+        "C) Sublimation",
+        "D) Precipitation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "83a8420e825e7f3519c3ef2a6f54d5044991ebe5",
+      "sectionIndex": 6,
+      "question": "Minerals are primarily classified by their:",
+      "options": [
+        "A) Color",
+        "B) Chemical composition and crystal structure",
+        "C) Location found",
+        "D) Hardness only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "862b85e7d7678c5e653a2bf3f894675602a0a55c",
+      "sectionIndex": 6,
+      "question": "Which fertilizer nutrient is abbreviated ?oN??",
+      "options": [
+        "A) Nitrogen",
+        "B) Neon",
+        "C) Nickel",
+        "D) Sodium"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "edb0b44470984fbee1d5dff8169c420138e8a259",
+      "sectionIndex": 7,
+      "question": "The mean of 2, 4, 6, 8 is:",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a3b529d40d8d643ae1d47e502a1f1780e533956",
+      "sectionIndex": 7,
+      "question": "The probability of flipping a head on a fair coin is:",
+      "options": [
+        "A) 1/4",
+        "B) 1/3",
+        "C) 1/2",
+        "D) 1"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "df294c3ee54d4a86094c16e685e8dcb76b64a19b",
+      "sectionIndex": 7,
+      "question": "The area of a rectangle 5 m by 3 m is:",
+      "options": [
+        "A) 8 m2",
+        "B) 15 m2",
+        "C) 10 m2",
+        "D) 5 m2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d38268c4e498236b38d07175a9b9c1d09dbf223",
+      "sectionIndex": 7,
+      "question": "9 + (3 - 2) =",
+      "options": [
+        "A) 15",
+        "B) 12",
+        "C) 9",
+        "D) 18"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4da6bff8f6cf0ab9a69188540b302f5a1130cff7",
+      "sectionIndex": 7,
+      "question": "The mode of {2, 2, 3, 4, 4, 4, 5} is:",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d0ffe2d4348d053961909ef7742caf03adc523df",
+      "sectionIndex": 7,
+      "question": "The perimeter of a square with side 4 cm is:",
+      "options": [
+        "A) 8 cm",
+        "B) 12 cm",
+        "C) 16 cm",
+        "D) 20 cm"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "569db0476689655f2fca70a605506831d4708d9b",
+      "sectionIndex": 7,
+      "question": "25% of 200 is:",
+      "options": [
+        "A) 25",
+        "B) 50",
+        "C) 75",
+        "D) 100"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8c377604a158eaa07576e60470dfdceefd2d5546",
+      "sectionIndex": 7,
+      "question": "The average of 10, 20, 30 is:",
+      "options": [
+        "A) 20",
+        "B) 15",
+        "C) 25",
+        "D) 30"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "798928ad40112e8c1225b58f0ca8c087945081f3",
+      "sectionIndex": 7,
+      "question": "Solve for x: 2x + 6 = 14",
+      "options": [
+        "A) 4",
+        "B) 6",
+        "C) 8",
+        "D) 2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f8cca6b25a2334c1ee8c0e39f96f87faac65548d",
+      "sectionIndex": 7,
+      "question": "The volume of a cube with edge 3 cm is:",
+      "options": [
+        "A) 9 cm3",
+        "B) 18 cm3",
+        "C) 27 cm3",
+        "D) 81 cm3"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d5d85b143c1251805653e8cdb33094ec5fa60953",
+      "sectionIndex": 8,
+      "question": "An ecosystem includes:",
+      "options": [
+        "A) Only plants",
+        "B) Only animals",
+        "C) Living organisms and their environment",
+        "D) Minerals only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "056cb1ebc4be7e707aab0e5e6ffc9ef712673bbc",
+      "sectionIndex": 8,
+      "question": "Polymerization is the process of:",
+      "options": [
+        "A) Breaking down polymers",
+        "B) Forming large molecules from small units",
+        "C) Converting solids to liquids",
+        "D) Evaporating liquids"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d60a19cf28805dff85e4e998d70348ec4f788dc",
+      "sectionIndex": 8,
+      "question": "Antioxidants prevent damage by:",
+      "options": [
+        "A) Free radicals",
+        "B) Viruses",
+        "C) Bacteria",
+        "D) Fungi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "06c8fc77ff6dd76217bbfaeb5622e53081b6eac4",
+      "sectionIndex": 8,
+      "question": "An antibiotic acts against:",
+      "options": [
+        "A) Viruses",
+        "B) Bacteria",
+        "C) Fungi",
+        "D) Parasites"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed7fa37f5f23b4890b673f7d886bc7f3ea7261ab",
+      "sectionIndex": 8,
+      "question": "Sonar uses which type of wave?",
+      "options": [
+        "A) Light waves",
+        "B) Radio waves",
+        "C) Sound waves",
+        "D) Microwave"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b421fc35e96c74727bda4bfdbf2dfbee10ea001b",
+      "sectionIndex": 8,
+      "question": "A micrometer measures:",
+      "options": [
+        "A) Mass",
+        "B) Length on a microscopic scale",
+        "C) Time intervals",
+        "D) Electric current"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9370b4d16224a73efc793221af4cf6806bff1ebc",
+      "sectionIndex": 8,
+      "question": "BIOS in a computer stands for:",
+      "options": [
+        "A) Basic Input/Output System",
+        "B) Binary Internal Operating Script",
+        "C) Basic Internet Operation Service",
+        "D) Binary Input/Output Structure"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "3b213cbd93522333ffd83570c89983c477d1fb09",
+      "sectionIndex": 8,
+      "question": "Hydrometer measures:",
+      "options": [
+        "A) Humidity",
+        "B) Density of liquids",
+        "C) Air pressure",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eabab41c1cf6382c08b846b70c2b415c9d55e031",
+      "sectionIndex": 8,
+      "question": "Photosynthesis occurs in:",
+      "options": [
+        "A) Mitochondria",
+        "B) Chloroplasts",
+        "C) Nucleus",
+        "D) Ribosomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5aa829b99fd7194e027e14dda413d3af0879e1b",
+      "sectionIndex": 8,
+      "question": "Antibiotic abbreviation ?oBCG? refers to vaccine against:",
+      "options": [
+        "A) Polio",
+        "B) Tuberculosis",
+        "C) Hepatitis B",
+        "D) Measles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be5d048c6c38a0bffa2713aa9066b9d9db16d262",
+      "sectionIndex": 9,
+      "question": "Renewable energy differs from non-renewable by being:",
+      "options": [
+        "A) Infinite in supply",
+        "B) Limited in supply",
+        "C) More polluting",
+        "D) Based on fossil fuels"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f6bf61005fa25777f3e59db9b8d088ac6816226f",
+      "sectionIndex": 9,
+      "question": "Fission vs. fusion: fission splits atoms, fusion:",
+      "options": [
+        "A) Splits atoms too",
+        "B) Joins light nuclei",
+        "C) Joins heavy nuclei",
+        "D) Produces no energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76b50b0fab074397f4b079d4cce51bba86850035",
+      "sectionIndex": 9,
+      "question": "Epidemic differs from endemic in that epidemic:",
+      "options": [
+        "A) Is always ongoing",
+        "B) Occurs suddenly in a region",
+        "C) Is limited to animals",
+        "D) Is never contagious"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b16b8ef1c1424684e40aa8cd1e73e8bd2af2eea8",
+      "sectionIndex": 9,
+      "question": "A microcomputer vs. minicomputer: microcomputer is:",
+      "options": [
+        "A) Larger and more powerful",
+        "B) Smaller and designed for individual use",
+        "C) Used only in data centers",
+        "D) A type of supercomputer"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c8b1a4bc0b55a89ea1784e2f05e536494e16eeb",
+      "sectionIndex": 9,
+      "question": "BIT vs. BYTE: 1 BYTE =",
+      "options": [
+        "A) 1 bit",
+        "B) 4 bits",
+        "C) 8 bits",
+        "D) 16 bits"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9961b62afd62d760c2c2025dd14a46ee0cd0bd5a",
+      "sectionIndex": 9,
+      "question": "Monocot plants have:",
+      "options": [
+        "A) Two cotyledons",
+        "B) One cotyledon",
+        "C) No cotyledons",
+        "D) Multiple cotyledons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "303e95fbbcbf58ccf475f27fa3ceb34010a995a0",
+      "sectionIndex": 9,
+      "question": "Lava vs. magma: magma is:",
+      "options": [
+        "A) Molten rock above surface",
+        "B) Molten rock beneath surface",
+        "C) Solidified lava",
+        "D) Gas from volcanoes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cf81a8327cad6bfc4be2518d12ac24df6c4d3b7",
+      "sectionIndex": 9,
+      "question": "Hypoglycemia vs. hyperglycemia: hypo =",
+      "options": [
+        "A) High blood sugar",
+        "B) Low blood sugar",
+        "C) Normal blood sugar",
+        "D) No blood sugar"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6e82ad6ac5123d0b789bd7c885011a6e6bd63d63",
+      "sectionIndex": 9,
+      "question": "Photosynthesis vs. respiration: photosynthesis stores energy, respiration:",
+      "options": [
+        "A) Stores energy too",
+        "B) Releases energy",
+        "C) Uses no energy",
+        "D) Only occurs in animals"
+      ],
+      "correct": "B"
+    }
+  ]
+}

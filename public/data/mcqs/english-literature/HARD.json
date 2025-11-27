@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:08:12.303Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "805899e71871e906c3bd806b65ed0120354f62c3",
+      "sectionIndex": 0,
+      "question": "How does Wordsworth's concept of \"spots of time\" anticipate modern trauma theory while remaining distinct from it?",
+      "options": [
+        "A) They are identical concepts",
+        "B) Both recognize formative moments but Wordsworth emphasizes restorative power while trauma theory focuses on damage",
+        "C) No connection exists",
+        "D) Wordsworth denies traumatic experience"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9859d3ca24363cd8b66b9be137dd3ff96b86abe1",
+      "sectionIndex": 0,
+      "question": "Analyze how Blake's \"contrary states\" philosophy challenges both Enlightenment rationalism and simple Romantic idealism:",
+      "options": [
+        "A) It supports both fully",
+        "B) It posits a dialectical vision where innocence and experience are necessary opposites that generate meaning",
+        "C) It rejects all philosophical systems",
+        "D) It advocates choosing one state over another"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65734eefd15ce0eb564b8f8090db52ac4eccd043",
+      "sectionIndex": 0,
+      "question": "Evaluate how Keats' \"Negative Capability\" relates to postmodern concepts of uncertainty and relativism:",
+      "options": [
+        "A) They are completely different",
+        "B) Both embrace uncertainty but Keats maintains aesthetic purpose while postmodernism questions all meaning",
+        "C) Keats anticipates postmodernism exactly",
+        "D) Neither deals with uncertainty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d9c9c43f1f60eb14ee47fb32aaec953de4180e9",
+      "sectionIndex": 0,
+      "question": "How does Shelley's \"Defense of Poetry\" prefigure later debates about literature's social function while maintaining Romantic idealism?",
+      "options": [
+        "A) It doesn't engage with social function",
+        "B) It claims poets as \"unacknowledged legislators\" linking imagination to social transformation",
+        "C) It advocates pure aestheticism",
+        "D) It rejects poetry's social role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a38ec0078a633762b200fdfcee531ae8ae9149a9",
+      "sectionIndex": 0,
+      "question": "Critically examine how Byron's performance of identity anticipates modern celebrity culture while remaining rooted in Romantic individualism:",
+      "options": [
+        "A) No connection to modern celebrity",
+        "B) Self-conscious construction of public persona but with Romantic depth versus modern surface",
+        "C) Identical to modern celebrity",
+        "D) Purely authentic expression"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db948d97ef4c52f30d53db2e85759ab59f625bd2",
+      "sectionIndex": 0,
+      "question": "Analyze the tension between Wordsworth's democratic impulses and his later conservatism through changes in his poetic practice:",
+      "options": [
+        "A) No tension exists",
+        "B) Early radical form matches politics; later conventional form reflects political retreat",
+        "C) Consistent throughout",
+        "D) Only stylistic changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4099c94e6f1c2b555568da7bb3ddb054fd4792a",
+      "sectionIndex": 0,
+      "question": "How does Coleridge's distinction between Fancy and Imagination relate to contemporary cognitive science while remaining metaphysical?",
+      "options": [
+        "A) No relation to cognition",
+        "B) Anticipates creative versus mechanical mental processes but within idealist framework",
+        "C) Pure mysticism",
+        "D) Scientific accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a2030b0526f0838b8a3c04154355cc3364e6d3b",
+      "sectionIndex": 0,
+      "question": "Evaluate how Romantic concepts of organic form challenge and modify Aristotelian poetics:",
+      "options": [
+        "A) Complete rejection of Aristotle",
+        "B) Internalize form from content rather than imposing external rules while maintaining unity",
+        "C) No modification",
+        "D) Return to classical rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "438d317ad8fde96cbecef637a2e42b3e750d5856",
+      "sectionIndex": 0,
+      "question": "How does the Romantic sublime differ from Burke's theorization while building on it?",
+      "options": [
+        "A) Identical concepts",
+        "B) Romantics emphasize consciousness expansion over Burke's physiological response",
+        "C) Complete rejection of Burke",
+        "D) No theoretical connection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2496f007c43c99bbd16b1ad3939390e6454ba01c",
+      "sectionIndex": 0,
+      "question": "Analyze how Romantic nationalism in poetry creates tensions with universalist claims:",
+      "options": [
+        "A) No tension exists",
+        "B) Particular cultural expression claimed as universal human truth creates productive contradiction",
+        "C) Pure nationalism",
+        "D) Pure universalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7536597b72bc7caa1f1fcb4e086021a011cf56bb",
+      "sectionIndex": 0,
+      "question": "How does Romantic poetry's relationship to philosophy differ from 18th-century philosophical poetry?",
+      "options": [
+        "A) No difference",
+        "B) Embodies rather than versifies philosophy through experiential and imaginative expression",
+        "C) More abstract",
+        "D) Less philosophical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dd0e325fa2e7e9f38ed3c008354e1ae26dc5c805",
+      "sectionIndex": 0,
+      "question": "Evaluate the paradox of Romantic spontaneity given evidence of extensive revision:",
+      "options": [
+        "A) Proves insincerity",
+        "B) Spontaneity as achieved effect requiring craft to appear natural",
+        "C) No revision occurred",
+        "D) Abandons spontaneity ideal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a32bfd8c560112c1d565c99ad7fa1d6cf3b1034e",
+      "sectionIndex": 0,
+      "question": "How do Romantic theories of imagination relate to secularization while maintaining spiritual claims?",
+      "options": [
+        "A) Purely secular",
+        "B) Transfer sacred creative power to human imagination without abandoning transcendence",
+        "C) Purely religious",
+        "D) No spiritual dimension"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b4151519a2dba957ec3d2d9e0563f41c81b9eef8",
+      "sectionIndex": 1,
+      "question": "Analyze how Dickens' sentimentality functions as both social critique and ideological containment:",
+      "options": [
+        "A) Pure manipulation",
+        "B) Emotional appeal motivates reform while ultimately affirming middle-class values",
+        "C) No social function",
+        "D) Revolutionary intent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5aab5dbc19d9833ad2bd3b65ad38703fcd888e2c",
+      "sectionIndex": 1,
+      "question": "How does Hardy's \"Immanent Will\" concept synthesize Darwin, Schopenhauer, and English fatalism?",
+      "options": [
+        "A) Direct copying",
+        "B) Creates unique deterministic vision combining scientific, philosophical, and cultural elements",
+        "C) No synthesis",
+        "D) Rejects all influences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3ce0091afec65e41f1360d208d2ebbdd1caaefd1",
+      "sectionIndex": 1,
+      "question": "Evaluate how George Eliot's \"realism\" actually constructs rather than reflects reality through narrative choices:",
+      "options": [
+        "A) Transparent representation",
+        "B) Selection, perspective, and moral framework shape what appears as objective reality",
+        "C) Pure fantasy",
+        "D) No construction involved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b13ad2a77fa812a3f83b9186e817714a35df50c7",
+      "sectionIndex": 1,
+      "question": "How does Tennyson's prosody embody Victorian tensions between progress and nostalgia?",
+      "options": [
+        "A) Simple technique",
+        "B) Formal perfection contains anxieties about change within traditional structures",
+        "C) No relation to era",
+        "D) Pure innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e101e0fb56b285e5af0767e721f3c3f4599db86f",
+      "sectionIndex": 1,
+      "question": "Analyze how Browning's dramatic monologues interrogate Victorian concepts of moral judgment:",
+      "options": [
+        "A) Clear moral positions",
+        "B) Reader becomes complicit in interpretation, questioning stable moral ground",
+        "C) Amoral perspective",
+        "D) Traditional morality tale"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5f2c679a82d4429b619ae6f6ed4c6c3a20554197",
+      "sectionIndex": 1,
+      "question": "How does Ruskin's aesthetic theory attempt to reconcile beauty, morality, and social justice?",
+      "options": [
+        "A) Keeps them separate",
+        "B) Claims aesthetic perception linked to moral vision necessary for social reform",
+        "C) Art for art's sake",
+        "D) No reconciliation attempted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c293c3520650a7eeb0d2f22ead7ecfa78b8b7e8",
+      "sectionIndex": 1,
+      "question": "Evaluate how sensation novels both challenge and reinforce Victorian gender ideology:",
+      "options": [
+        "A) Pure subversion",
+        "B) Female agency within plots ultimately containing transgression",
+        "C) Complete conformity",
+        "D) No gender relevance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "449ff9c300930265c7c98ee1dd4844673cfe7750",
+      "sectionIndex": 1,
+      "question": "How does Arnold's culture concept attempt to resolve class conflict through aesthetics?",
+      "options": [
+        "A) Ignores class",
+        "B) Proposes culture as universal standard transcending class while maintaining hierarchies",
+        "C) Revolutionary program",
+        "D) Pure elitism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53078f1fd9e928925c84c4e706d9ad81b5a65445",
+      "sectionIndex": 1,
+      "question": "Analyze how Victorian medievalism functions as both critique and escape from modernity:",
+      "options": [
+        "A) Simple nostalgia",
+        "B) Past used to criticize present while avoiding contemporary solutions",
+        "C) Historical accuracy",
+        "D) No critical function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0feae6cb573f97e6bf405bcc205d66743c64a546",
+      "sectionIndex": 1,
+      "question": "How do industrial novels negotiate between documentary impulse and melodramatic form?",
+      "options": [
+        "A) Choose one approach",
+        "B) Melodrama makes social facts emotionally legible while potentially simplifying",
+        "C) Pure documentation",
+        "D) Pure fiction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "63386195dee29df44f2ee16d96a4fcc2ef39bb2c",
+      "sectionIndex": 1,
+      "question": "Evaluate how Darwin's theory appears transformed in Victorian literary naturalism:",
+      "options": [
+        "A) Direct application",
+        "B) Selective interpretation emphasizing struggle while maintaining moral framework",
+        "C) No influence",
+        "D) Scientific accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e256f050cfbf0ecfaab8363ecc3fc1774d55dea7",
+      "sectionIndex": 1,
+      "question": "How does late Victorian decadence both culminate and subvert earlier Victorian values?",
+      "options": [
+        "A) Complete break",
+        "B) Pushes aestheticism implicit in Victorian culture to transgressive extreme",
+        "C) Continues unchanged",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25cde57386b775294fc184c0d2f555db6be3c2b0",
+      "sectionIndex": 1,
+      "question": "Analyze how imperial romance genre manages anxieties about British identity and power:",
+      "options": [
+        "A) Simple propaganda",
+        "B) Adventure narrative contains fears about degeneration and colonial contamination",
+        "C) No anxieties",
+        "D) Anti-imperial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f03801acdd1596ba46142726708e67e30db57220",
+      "sectionIndex": 2,
+      "question": "How does Eliot's \"mythical method\" differ from Romantic use of mythology while claiming similar ordering function?",
+      "options": [
+        "A) Identical approach",
+        "B) Fragments rather than unifies, showing modern impossibility of coherent myth",
+        "C) No mythological content",
+        "D) More coherent than Romantic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "983c9602199c2312970115c7305fb1a03d643c68",
+      "sectionIndex": 2,
+      "question": "Analyze how Yeats' system in \"A Vision\" attempts to create personal mythology in absence of collective belief:",
+      "options": [
+        "A) Universal system",
+        "B) Idiosyncratic construction revealing modern need for and impossibility of shared meaning",
+        "C) Scientific truth",
+        "D) Traditional mythology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "19d40a7df2163fd8d42ffe93c8b2fffacf61b642",
+      "sectionIndex": 2,
+      "question": "How does Joyce's stream of consciousness technique relate to Bergson's philosophy while exceeding it?",
+      "options": [
+        "A) No philosophical connection",
+        "B) Embodies durée through language but reveals linguistic construction of consciousness",
+        "C) Direct illustration",
+        "D) Rejects Bergson"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62be61cd21a858abd8361555ec59f185ac1d16aa",
+      "sectionIndex": 2,
+      "question": "Evaluate how Hemingway's minimalism paradoxically achieves maximum effect through absence:",
+      "options": [
+        "A) Simple lack of skill",
+        "B) Omission creates space for reader's projection and emotional resonance",
+        "C) Says everything directly",
+        "D) No deeper meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32c002e3296db6c6e3f93a587040f355b6cc9906",
+      "sectionIndex": 2,
+      "question": "How does Beckett's absurdism differ from existentialism while sharing concerns?",
+      "options": [
+        "A) Identical philosophies",
+        "B) Refuses existentialism's heroic humanism while exploring similar meaninglessness",
+        "C) No shared concerns",
+        "D) More optimistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "36983cd9c25fd817b0744027b5d9669b3515773b",
+      "sectionIndex": 2,
+      "question": "Analyze how Imagism's principles relate to Oriental influence while remaining Western:",
+      "options": [
+        "A) Direct copying",
+        "B) Selective appropriation of techniques within Modernist aesthetic agenda",
+        "C) No Oriental influence",
+        "D) Authentic Eastern art"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e9165d5335241feb24b0b0f8b54fe0ca06a771a",
+      "sectionIndex": 2,
+      "question": "How does Woolf's feminism complicate through class and imperial positions?",
+      "options": [
+        "A) Simple feminism",
+        "B) Advocates for women within limited bourgeois framework revealing intersectional blindness",
+        "C) No complications",
+        "D) Working-class perspective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df327088e219183f1f04f3e0d8024eafcc70f2ec",
+      "sectionIndex": 2,
+      "question": "Evaluate how Lawrence's primitivism both critiques and reproduces civilizational hierarchies:",
+      "options": [
+        "A) Pure critique",
+        "B) Valorizes \"primitive\" as authentic while maintaining developmental schema",
+        "C) No primitivism",
+        "D) Complete equality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "273dabed7e43ec9e75a4153257a8c4b8971d3bed",
+      "sectionIndex": 2,
+      "question": "How does Modernist difficulty function ideologically beyond aesthetic innovation?",
+      "options": [
+        "A) No ideology",
+        "B) Creates cultural capital and excludes mass readership while claiming universal significance",
+        "C) Democratic impulse",
+        "D) Pure aesthetics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ceeffc3895e18a663a8b7461acca36368b3e5258",
+      "sectionIndex": 2,
+      "question": "Analyze how Pound's Cantos' failure illuminates Modernist ambitions and limitations:",
+      "options": [
+        "A) Complete success",
+        "B) Impossibility of creating modern epic reveals fragmentation inherent in project",
+        "C) No ambition",
+        "D) Coherent achievement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "51f8f2676f7027025d1fa5aaf67fc8a0df7e512e",
+      "sectionIndex": 2,
+      "question": "How does Modernist impersonality theory mask intense personality?",
+      "options": [
+        "A) Truly impersonal",
+        "B) Doctrine of impersonality serves to authorize highly personal vision",
+        "C) No theory exists",
+        "D) Admits personality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea9d4cae4e575544c5cd05ed4ce065198f839c9a",
+      "sectionIndex": 2,
+      "question": "Evaluate how Modernist internationalism coexists with persistent nationalism:",
+      "options": [
+        "A) Pure cosmopolitanism",
+        "B) International networks serve to establish national literatures' modern credentials",
+        "C) No nationalism",
+        "D) Isolated traditions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3422304960b04bdf902c5cc8e3f59bd594e6e761",
+      "sectionIndex": 2,
+      "question": "How does Modernist temporality differ from Victorian progress narratives while maintaining linear publication?",
+      "options": [
+        "A) Same temporality",
+        "B) Disrupts chronology thematically while depending on sequential reading",
+        "C) No time concern",
+        "D) Pure simultaneity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f42174505ee54c36c183107111deeee6ccb7dde1",
+      "sectionIndex": 3,
+      "question": "Analyze how Hamlet's metatheatricality anticipates postmodern self-reflexivity while serving different purposes:",
+      "options": [
+        "A) Same purpose",
+        "B) Renaissance theatricality explores reality/appearance; postmodern questions representation itself",
+        "C) No self-reflexivity",
+        "D) Pure entertainment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "900d6f08927fc039e51adf73e9572c89bd5133bf",
+      "sectionIndex": 3,
+      "question": "How does Shaw's \"discussion drama\" transform Ibsenite realism while claiming inheritance?",
+      "options": [
+        "A) Direct continuation",
+        "B) Intellectualizes Ibsen's psychological realism into explicit debate format",
+        "C) No connection",
+        "D) More realistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e4e9324d64dc480b376bbea2615d0ceefab50d0",
+      "sectionIndex": 3,
+      "question": "Evaluate how Wilde's paradoxes function as both social critique and aesthetic defense:",
+      "options": [
+        "A) Pure wordplay",
+        "B) Inversion of values exposes social conventions while asserting art's autonomy",
+        "C) No critical function",
+        "D) Simple humor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b3d028f104efa2cc29b89a1b02c16a61276ea8f5",
+      "sectionIndex": 3,
+      "question": "How does Pinter's silence differ from traditional dramatic pause while building on it?",
+      "options": [
+        "A) Same function",
+        "B) Silence becomes active force revealing communication's impossibility versus rhetorical effect",
+        "C) No silence",
+        "D) More eloquent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "212f403b85559cdf5bac6ee0c35198d2216af3e3",
+      "sectionIndex": 3,
+      "question": "Analyze how modern tragedy modifies Aristotelian catharsis for democratic age:",
+      "options": [
+        "A) Abandons catharsis",
+        "B) Transfers tragic dignity to common people while questioning possibility of transcendence",
+        "C) Maintains aristocratic focus",
+        "D) No modification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "23253c6c007a25a861ba5523cffbb03516c0956d",
+      "sectionIndex": 3,
+      "question": "How does Restoration comedy's libertinism anticipate and differ from modern sexual frankness?",
+      "options": [
+        "A) Identical attitudes",
+        "B) Aristocratic game versus democratic claim to authenticity",
+        "C) More conservative",
+        "D) No sexuality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26b2202fa1592aa70bd47ae9a5afd51a58cc585a",
+      "sectionIndex": 3,
+      "question": "Evaluate how verse drama's 20th-century revival fails/succeeds in different terms:",
+      "options": [
+        "A) Complete failure",
+        "B) Cannot restore communal ritual but achieves new formal possibilities",
+        "C) Perfect success",
+        "D) No revival attempted"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72a4910d64469be7ceadb03dc5fe74deef143440",
+      "sectionIndex": 3,
+      "question": "How does political theatre negotiate between aesthetic and propaganda demands?",
+      "options": [
+        "A) Chooses one side",
+        "B) Tension between formal innovation and message clarity produces new possibilities",
+        "C) No tension",
+        "D) Pure propaganda"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "325331397a650fc59912b5dfba1c70429d4cb534",
+      "sectionIndex": 3,
+      "question": "Analyze how naturalist drama's determinism contradicts theatrical agency:",
+      "options": [
+        "A) No contradiction",
+        "B) Characters shown as determined must be embodied by actors making choices",
+        "C) Perfect determinism",
+        "D) No agency issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06daacb50fe39c7a21569f8b1ab54dbda39cdb2b",
+      "sectionIndex": 3,
+      "question": "How does absurdist comedy differ from traditional comedy while maintaining laughter?",
+      "options": [
+        "A) Same comedy type",
+        "B) Laughs at meaninglessness rather than resolving tensions through humor",
+        "C) No laughter",
+        "D) More optimistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5235e66561869f1f4258dbff3db79156799c11cb",
+      "sectionIndex": 3,
+      "question": "Evaluate how contemporary drama's multimedia experiments extend/betray theatrical essence:",
+      "options": [
+        "A) Pure betrayal",
+        "B) Technology extends theatrical presence while risking immediacy that defines theatre",
+        "C) No change",
+        "D) Improves essentially"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c516f9aed568e8dcb27734029817b8711a96a79b",
+      "sectionIndex": 3,
+      "question": "How does postcolonial drama use Shakespeare against imperial ideology?",
+      "options": [
+        "A) Rejects Shakespeare",
+        "B) Appropriates canonical cultural capital to write back to empire",
+        "C) Faithful productions",
+        "D) No engagement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a707b8bf72afcfebbe77ad9b0b76794fd1607558",
+      "sectionIndex": 3,
+      "question": "Analyze how feminist drama revises both form and content of dramatic tradition:",
+      "options": [
+        "A) Content only",
+        "B) New structures embody different relationships and experiences beyond plot revision",
+        "C) Form unchanged",
+        "D) Male perspectives"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1a4f064c8c3a1ab2dccc67639bd8b79619e8617",
+      "sectionIndex": 4,
+      "question": "How does Austen's free indirect discourse anticipate modernist techniques while serving different purposes?",
+      "options": [
+        "A) No technical innovation",
+        "B) Seamlessly enters consciousness for ironic effect versus stream of consciousness fragmentation",
+        "C) Same as modernism",
+        "D) Direct narration only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "414e9a70d1b2c1ea513a2b64626634c38b244491",
+      "sectionIndex": 4,
+      "question": "Analyze how Swift's irony in Book IV of Gulliver exceeds stable satire through misanthropy:",
+      "options": [
+        "A) Clear satirical target",
+        "B) Irony becomes unsettled as no positive position emerges from critique",
+        "C) Simple misanthropy",
+        "D) Optimistic ending"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c3615d3064598bf5fb4c6bf18858e644f2679543",
+      "sectionIndex": 4,
+      "question": "How does Russell's \"conquest\" metaphor in discussing happiness reveal philosophical assumptions?",
+      "options": [
+        "A) Neutral term",
+        "B) Implies antagonistic relationship with world requiring mastery rather than acceptance",
+        "C) Peaceful approach",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e4a425c964c0366465ed11cc2c2d71e74e04508",
+      "sectionIndex": 4,
+      "question": "Evaluate how Orwell's plain style ideology contains its own mystifications:",
+      "options": [
+        "A) Truly transparent",
+        "B) \"Plain\" style constructs authority and conceals rhetorical choices",
+        "C) No ideology",
+        "D) Admits artifice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1ae363c614b3754e0ed3203eef4f097c1da6fd1",
+      "sectionIndex": 4,
+      "question": "How does epistolary form's \"immediacy\" actually construct complex temporal layers?",
+      "options": [
+        "A) Simple present tense",
+        "B) Writing time, sending time, reading time create multiple temporalities",
+        "C) No time complexity",
+        "D) Direct communication"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d7216dd3ddd518b0589da81897ee0e54ff81682",
+      "sectionIndex": 4,
+      "question": "Analyze how travel writing negotiates between factual and literary demands:",
+      "options": [
+        "A) Pure fact or fiction",
+        "B) Generic conventions shape perception while claiming transparent observation",
+        "C) No negotiation needed",
+        "D) Abandons literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5451d7e7b83bf633f1194cc6eef5df24bc4c7edf",
+      "sectionIndex": 4,
+      "question": "How does autobiography's truth claim founder on narrative necessities?",
+      "options": [
+        "A) Complete truth possible",
+        "B) Selection, structure, and retrospection shape life into story",
+        "C) Pure fiction",
+        "D) No narrative needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bd194bb028eddecb1c97a2431a47a3b2d4be9e6",
+      "sectionIndex": 4,
+      "question": "Evaluate how colonial discourse in adventure novels exceeds conscious ideology:",
+      "options": [
+        "A) Simple propaganda",
+        "B) Unconscious fears and desires reveal contradictions in imperial project",
+        "C) No colonial content",
+        "D) Anti-colonial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4a40a9290234da6b31ba541ad2a4c0c618059c9",
+      "sectionIndex": 4,
+      "question": "How does sensation fiction's body focus anticipate and differ from contemporary affect theory?",
+      "options": [
+        "A) No connection",
+        "B) Physical response to reading anticipates embodied cognition but lacks theoretical framework",
+        "C) Same as theory",
+        "D) Pure mind focus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83f4979dd9b2863dbcab73a845564265937f893b",
+      "sectionIndex": 4,
+      "question": "Analyze how essay form's provisional nature challenges systematic philosophy:",
+      "options": [
+        "A) Failed philosophy",
+        "B) Exploratory method suited to partial truths versus totalizing systems",
+        "C) No philosophical content",
+        "D) More systematic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfbf4cb3a8b30064104f21df6a8beea97acc496d",
+      "sectionIndex": 4,
+      "question": "How does detective fiction's solution paradoxically increase uncertainty?",
+      "options": [
+        "A) Provides closure",
+        "B) Rational explanation reveals how much remains unknown and threatening",
+        "C) No paradox",
+        "D) Complete certainty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17e6d5bc3152e76da21b33b14e64e23f1c1a4c7b",
+      "sectionIndex": 4,
+      "question": "Evaluate how realism's objective stance masks ideological choices:",
+      "options": [
+        "A) True objectivity",
+        "B) Selection and perspective naturalize particular worldview as reality",
+        "C) Admits bias",
+        "D) No ideology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df29a214651ad5a425bd2a942644519592194e0c",
+      "sectionIndex": 4,
+      "question": "How does prose rhythm create meaning beyond semantic content?",
+      "options": [
+        "A) No rhythmic meaning",
+        "B) Syntactic patterns embody and reinforce conceptual structures",
+        "C) Pure sound",
+        "D) Contradicts meaning"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c8d9468a1bef695ec0ba239f2c0899272f2e5c1",
+      "sectionIndex": 5,
+      "question": "How does applying Marxist criticism to Romantic poetry reveal contradictions in its revolutionary claims?",
+      "options": [
+        "A) Confirms revolution",
+        "B) Individual liberation focus obscures collective action and material conditions",
+        "C) No contradictions",
+        "D) Pure Marxism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8ee3ba57bda9297aad53e8a4dfbc7e46c8fd4e21",
+      "sectionIndex": 5,
+      "question": "Analyze how feminist readings of Victorian \"Angel in the House\" reveal subversive potential within containment:",
+      "options": [
+        "A) Pure oppression",
+        "B) Idealization creates impossible standard that exposes ideology's contradictions",
+        "C) No subversion",
+        "D) Complete liberation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32e71abcca4642d213dd6a5867b77d3156c654b9",
+      "sectionIndex": 5,
+      "question": "How does deconstruction of binary oppositions in literature reveal their mutual dependence?",
+      "options": [
+        "A) Confirms oppositions",
+        "B) Shows how each term requires and contains its supposed opposite",
+        "C) No binaries exist",
+        "D) Simple reversal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90670a0f9b5ea689944fbfeaef6d03ee540c2e7e",
+      "sectionIndex": 5,
+      "question": "Evaluate how New Historicism's \"cultural poetics\" differs from old historicism's context:",
+      "options": [
+        "A) Same approach",
+        "B) Texts and contexts mutually constitute rather than reflect each other",
+        "C) No historical concern",
+        "D) More objective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb1422c7a086c511bf736847b9304909b12e0014",
+      "sectionIndex": 5,
+      "question": "How does psychoanalytic criticism of texts reveal cultural unconscious beyond authorial psyche?",
+      "options": [
+        "A) Individual focus only",
+        "B) Textual symptoms express collective repressions and desires",
+        "C) No cultural dimension",
+        "D) Conscious meanings only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb1e01d26ceb447be5c12095c661d87ddfb923b0",
+      "sectionIndex": 5,
+      "question": "Analyze how postcolonial theory complicates simple resistance narratives:",
+      "options": [
+        "A) Clear opposition",
+        "B) Hybridity and ambivalence show complex negotiations with colonial power",
+        "C) No complication",
+        "D) Pure resistance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c4d75d47d91f9eee24761efb18b631d220b92c6",
+      "sectionIndex": 5,
+      "question": "How does queer theory's reading practice exceed identifying LGBTQ content?",
+      "options": [
+        "A) Content focus only",
+        "B) Interrogates all naturalized categories and normative structures",
+        "C) No broader application",
+        "D) Historical recovery only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9e5a9cedfe921b740a129f4ee80aa7ac3caa213",
+      "sectionIndex": 5,
+      "question": "Evaluate how ecocriticism challenges anthropocentric literary interpretation:",
+      "options": [
+        "A) Human focus unchanged",
+        "B) Reveals nature as agent and meaning-maker beyond backdrop",
+        "C) No environmental concern",
+        "D) Anti-human"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1aa1ff907e649e6e176a36d1c8cd36eea72383f",
+      "sectionIndex": 5,
+      "question": "How does trauma theory modify narrative understanding?",
+      "options": [
+        "A) Normal narrative",
+        "B) Repetition and belatedness show how trauma disrupts linear telling",
+        "C) No modification",
+        "D) Clearer narrative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ee38f9e034d08be624b3adc8269af6c1716db4c",
+      "sectionIndex": 5,
+      "question": "Analyze how digital humanities quantification both extends and challenges interpretation:",
+      "options": [
+        "A) Replaces interpretation",
+        "B) Pattern recognition opens new questions requiring interpretive frameworks",
+        "C) Pure objectivity",
+        "D) No new insights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6a5e4c46e479a730018e235a541322c65e11e2e3",
+      "sectionIndex": 5,
+      "question": "How does disability studies reframe literary \"deformity\"?",
+      "options": [
+        "A) Medical model",
+        "B) Social construction of normalcy revealed through representation analysis",
+        "C) No reframing",
+        "D) Ignores disability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dafe259f5a7b3057c92618b4563b95dc1958f76a",
+      "sectionIndex": 5,
+      "question": "Evaluate how critical race theory exposes whiteness as unmarked category in literature:",
+      "options": [
+        "A) Race irrelevant",
+        "B) Makes visible how white perspective operates as universal default",
+        "C) Only minorities marked",
+        "D) No racial content"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "671f59453e45251b2687197d0d99ccc34d082488",
+      "sectionIndex": 5,
+      "question": "How does affect theory differ from emotion studies in literary analysis?",
+      "options": [
+        "A) Same thing",
+        "B) Pre-cognitive intensities versus culturally coded feelings",
+        "C) No difference",
+        "D) Ignores feeling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a5d6a964722220188f1089462e29d9e579ebdd44",
+      "sectionIndex": 6,
+      "question": "How does comparing Romantic and Modernist fragments reveal different relationships to wholeness?",
+      "options": [
+        "A) Same fragmentation",
+        "B) Romantic fragments gesture toward unity; Modernist accept irreducible multiplicity",
+        "C) No fragmentation",
+        "D) Modernist more unified"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e5de5c0c8f08f1f272cac3086392d8d502e5c77",
+      "sectionIndex": 6,
+      "question": "Analyze how Victorian social problem novels and contemporary issue fiction differ in solutions offered:",
+      "options": [
+        "A) Same solutions",
+        "B) Victorian faith in reform versus contemporary systemic critique",
+        "C) No solutions offered",
+        "D) Contemporary more optimistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb14f13bd5aeb2344039101ef4fa6071de428ee2",
+      "sectionIndex": 6,
+      "question": "How does medieval allegory's symbolism differ from Modernist symbolism's function?",
+      "options": [
+        "A) Identical systems",
+        "B) Fixed theological meaning versus open-ended personal significance",
+        "C) No symbolism",
+        "D) Modernist more fixed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e303c26377bb76822b56162a48a0f19e7e6c07b6",
+      "sectionIndex": 6,
+      "question": "Evaluate how Enlightenment satire and postmodern irony differ in their critical positions:",
+      "options": [
+        "A) Same stance",
+        "B) Enlightenment assumes rational standard; postmodern questions all standards",
+        "C) No criticism",
+        "D) Postmodern more certain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1024b52ca2f4f899b7c79aa010cb231b9f3aeff",
+      "sectionIndex": 6,
+      "question": "How does Renaissance humanism's individual differ from Romantic individualism?",
+      "options": [
+        "A) Same concept",
+        "B) Rational universal subject versus unique feeling self",
+        "C) No individualism",
+        "D) Renaissance more emotional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fe0a7e283097e307401e85db512176eb6581948",
+      "sectionIndex": 6,
+      "question": "Analyze how Gothic romance and modern horror differ in their transgression management:",
+      "options": [
+        "A) Same transgressions",
+        "B) Gothic ultimately contains threats; modern horror leaves them unresolved",
+        "C) No transgression",
+        "D) Modern more conservative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11d75a2ad0b7d8e7764007b56aa43071ce2d2705",
+      "sectionIndex": 6,
+      "question": "How does neoclassical imitation theory differ from Modernist allusion practice?",
+      "options": [
+        "A) Same approach",
+        "B) Creative emulation of models versus ironic fragmentation of tradition",
+        "C) No imitation",
+        "D) Modernist more faithful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9882a8ebc613bebc547f9b49c25c942ac7bed53a",
+      "sectionIndex": 6,
+      "question": "Evaluate how Victorian sage discourse and contemporary public intellectual writing differ:",
+      "options": [
+        "A) Identical roles",
+        "B) Prophetic authority versus expertise claims in democratic marketplace",
+        "C) No public writing",
+        "D) Contemporary more authoritative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b98da83b2d996a582839fda2d015aafea7aa62b",
+      "sectionIndex": 6,
+      "question": "How does Augustan satire's moral certainty compare with contemporary satirical uncertainty?",
+      "options": [
+        "A) Same certainty",
+        "B) Fixed values enable critique versus satire struggling to find stable position",
+        "C) No satire today",
+        "D) Contemporary more certain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24b4e041fb4d9354747472dae51abf40570aae8b",
+      "sectionIndex": 6,
+      "question": "Analyze how Romantic autobiography and contemporary autofiction differ in truth claims:",
+      "options": [
+        "A) Same claims",
+        "B) Spiritual truth through experience versus performative construction of self",
+        "C) No difference",
+        "D) Contemporary more truthful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5ae2c1a1eaf1e8e9cb0f9ceb9b817919e482ac2",
+      "sectionIndex": 6,
+      "question": "How does Victorian realism's social totality differ from contemporary networked narratives?",
+      "options": [
+        "A) Same totality",
+        "B) Hierarchical overview versus distributed connections without center",
+        "C) No totality attempted",
+        "D) Contemporary more unified"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be05710dd36dab9c4b49608145979c0cd65d9524",
+      "sectionIndex": 7,
+      "question": "How might AI-generated literature challenge concepts of authorship and creativity?",
+      "options": [
+        "A) No challenge",
+        "B) Questions human uniqueness while revealing creativity as pattern and variation",
+        "C) Ends literature",
+        "D) Confirms human superiority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d31e86ab54ba7d820207f73b84b7d9191f562cb5",
+      "sectionIndex": 7,
+      "question": "Evaluate how climate fiction extends and transforms apocalyptic traditions:",
+      "options": [
+        "A) Same as religious apocalypse",
+        "B) Secular slow catastrophe requires new narrative forms beyond revelation",
+        "C) No apocalyptic element",
+        "D) More optimistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4fda915898ad70fa3448aa409fc871262a0f023d",
+      "sectionIndex": 7,
+      "question": "How does transmedia storytelling challenge literary boundaries?",
+      "options": [
+        "A) Literature unchanged",
+        "B) Narrative dispersed across platforms questions textual autonomy",
+        "C) Destroys literature",
+        "D) Strengthens boundaries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f289dfcf401e0f291fd535d69a33f69eae6d97ee",
+      "sectionIndex": 7,
+      "question": "Analyze how posthumanist theory might reframe character and agency:",
+      "options": [
+        "A) Human focus remains",
+        "B) Distributed agency among human/nonhuman actors challenges protagonist model",
+        "C) No change needed",
+        "D) Eliminates character"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21ae4430ec370f09a2f499c36b932d9a69ac5a71",
+      "sectionIndex": 7,
+      "question": "How might neuroscience influence literary criticism's understanding of reading?",
+      "options": [
+        "A) Replaces criticism",
+        "B) Embodied cognition complements while not explaining aesthetic experience",
+        "C) Proves criticism wrong",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cb8ac3923890608830f451d10c21a33099514442",
+      "sectionIndex": 7,
+      "question": "Evaluate how global literature concepts challenge national literature frameworks:",
+      "options": [
+        "A) Nations remain primary",
+        "B) Transnational flows reveal artificial boundaries while maintaining linguistic specificities",
+        "C) One world literature",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "764cebd47ed04ba4c216242beefc20e206d02827",
+      "sectionIndex": 7,
+      "question": "How does fanfiction challenge academic literary hierarchies?",
+      "options": [
+        "A) No challenge",
+        "B) Democratic participation questions canon and professional gatekeeping",
+        "C) Lower quality",
+        "D) Replaces literature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9de10132fc5146409e7660892af29a73bd5997d0",
+      "sectionIndex": 7,
+      "question": "Analyze how algorithmic recommendation shapes contemporary reading:",
+      "options": [
+        "A) Reader choice unchanged",
+        "B) Prediction models create feedback loops limiting discovery",
+        "C) Improves selection",
+        "D) No influence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "73b554731e9d617283fed0f97e10ed9865ac2275",
+      "sectionIndex": 7,
+      "question": "How might virtual reality storytelling transform narrative perspective?",
+      "options": [
+        "A) Same as current narrative",
+        "B) Embodied experience challenges observer/participant distinction",
+        "C) No transformation",
+        "D) Eliminates narrative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6356f8e843e374c20c9e9c2706496a364197831f",
+      "sectionIndex": 7,
+      "question": "Evaluate how blockchain might affect literary property and authorship:",
+      "options": [
+        "A) No effect",
+        "B) Distributed verification could enable new collaborative and ownership models",
+        "C) Strengthens copyright",
+        "D) Ends authorship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b4b08536db65c601f2e9e7aff40dc650b29c30c",
+      "sectionIndex": 7,
+      "question": "How does literature's future relate to its past in digital age?",
+      "options": [
+        "A) Complete break",
+        "B) Remediation where new media incorporates and transforms literary traditions",
+        "C) Return to past",
+        "D) Literature ends"
+      ],
+      "correct": "B"
+    }
+  ]
+}

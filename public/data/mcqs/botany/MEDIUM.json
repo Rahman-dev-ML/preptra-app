@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-12T21:31:12.352Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "48f0be89940693b4473b55bdcae467e6436b6b34",
+      "sectionIndex": 0,
+      "question": "Which algae is commonly known as \"pond scum\"?",
+      "options": [
+        "A) Ulothrix",
+        "B) Spirogyra",
+        "C) Chara",
+        "D) Volvox"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fd40dbccc9b34a3c90291fa5d7f74e42a27654d",
+      "sectionIndex": 0,
+      "question": "What is the dominant generation in the bryophyte life cycle?",
+      "options": [
+        "A) Sporophyte",
+        "B) Gametophyte",
+        "C) Both equal",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c428ad023edfb4853c486dd98a247862da8321d4",
+      "sectionIndex": 0,
+      "question": "Marchantia belongs to which group of plants?",
+      "options": [
+        "A) Algae",
+        "B) Fungi",
+        "C) Liverworts",
+        "D) Mosses"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7028de3972faaca40d458013650b1991149e831e",
+      "sectionIndex": 0,
+      "question": "In Ulothrix, what type of reproduction produces zoospores?",
+      "options": [
+        "A) Sexual",
+        "B) Asexual",
+        "C) Both",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c9f3382e1529754874cd05091abc06612daba166",
+      "sectionIndex": 0,
+      "question": "What structure in Marchantia produces gemma cups?",
+      "options": [
+        "A) Sporophyte",
+        "B) Gametophyte",
+        "C) Rhizoids",
+        "D) Archegonia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2044a7b2bb96d56e7590cce5fc338136f8b0e18",
+      "sectionIndex": 0,
+      "question": "Which pigment gives green algae their characteristic color?",
+      "options": [
+        "A) Phycocyanin",
+        "B) Phycoerythrin",
+        "C) Chlorophyll a",
+        "D) Carotene"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6f8d81e57a3cc20a75c00fd8fb470fd4f0a13497",
+      "sectionIndex": 0,
+      "question": "What is the male reproductive organ in bryophytes called?",
+      "options": [
+        "A) Archegonium",
+        "B) Antheridium",
+        "C) Oogonium",
+        "D) Sporangium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5fbf7428bd22f018215a2b0c5cd9e39a6b40e6b",
+      "sectionIndex": 0,
+      "question": "Nostoc belongs to which group of algae?",
+      "options": [
+        "A) Green algae",
+        "B) Brown algae",
+        "C) Blue-green algae",
+        "D) Red algae"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ff56b8c545ccdbbabbea90bdf1d7fc85b53745a7",
+      "sectionIndex": 0,
+      "question": "What type of habitat do most bryophytes prefer?",
+      "options": [
+        "A) Dry and sunny",
+        "B) Moist and shady",
+        "C) Sandy and hot",
+        "D) Salty water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "45cb62c89e50511def08cb9a4dcac9be971c5f79",
+      "sectionIndex": 0,
+      "question": "In which structure are spores produced in mosses?",
+      "options": [
+        "A) Protonema",
+        "B) Capsule",
+        "C) Seta",
+        "D) Foot"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00c7fe30276ca83b04bb64963be3eb58126eb5fa",
+      "sectionIndex": 1,
+      "question": "Who proposed the binomial nomenclature system?",
+      "options": [
+        "A) Darwin",
+        "B) Mendel",
+        "C) Linnaeus",
+        "D) Bentham"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "938a109a65be0eed3a647f3c60333fd74f60edbd",
+      "sectionIndex": 1,
+      "question": "What language is used in scientific nomenclature?",
+      "options": [
+        "A) Greek",
+        "B) Latin",
+        "C) English",
+        "D) French"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b9cb59fd4f9d895fb5d532b3ccc761d8ded5cf7",
+      "sectionIndex": 1,
+      "question": "Which taxonomic rank comes immediately after Kingdom?",
+      "options": [
+        "A) Class",
+        "B) Order",
+        "C) Phylum",
+        "D) Family"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a247ae5152f8c3477babb52ecc65e1430be4d2b3",
+      "sectionIndex": 1,
+      "question": "What is the study of pollen and spores called?",
+      "options": [
+        "A) Palynology",
+        "B) Mycology",
+        "C) Phycology",
+        "D) Bryology"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "8c10b42bb7fe12b2ea396778522d9cb5c44d9bdf",
+      "sectionIndex": 1,
+      "question": "In binomial nomenclature, which part represents the genus?",
+      "options": [
+        "A) First name",
+        "B) Second name",
+        "C) Both names",
+        "D) Neither"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c436f535946e2447513f97bd5aa32d9e88e51895",
+      "sectionIndex": 1,
+      "question": "What type of classification system groups plants by single characteristics?",
+      "options": [
+        "A) Natural",
+        "B) Artificial",
+        "C) Phylogenetic",
+        "D) Numerical"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2a9159a05bddb0214ce1873c7402fab82cd7972b",
+      "sectionIndex": 1,
+      "question": "Which family do grasses belong to?",
+      "options": [
+        "A) Rosaceae",
+        "B) Fabaceae",
+        "C) Poaceae",
+        "D) Asteraceae"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "af85515aafae710123d4a3912761bd6ab5aed20f",
+      "sectionIndex": 1,
+      "question": "What is chemotaxonomy based on?",
+      "options": [
+        "A) Morphology",
+        "B) Chemical compounds",
+        "C) Geography",
+        "D) Behavior"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fa4dc21f0acf760cfa59bfad5ba304a9ae5d636",
+      "sectionIndex": 1,
+      "question": "A taxonomic key is primarily used for:",
+      "options": [
+        "A) Evolution study",
+        "B) Plant identification",
+        "C) Breeding",
+        "D) Cultivation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "774c9f0ac63666141719398195ee3695dc7c7501",
+      "sectionIndex": 1,
+      "question": "Species is the basic unit of:",
+      "options": [
+        "A) Evolution",
+        "B) Classification",
+        "C) Reproduction",
+        "D) Metabolism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6f1f599673b9a45786de7159c878f8ac5d57e87",
+      "sectionIndex": 2,
+      "question": "Which tissue is responsible for secondary growth in dicots?",
+      "options": [
+        "A) Epidermis",
+        "B) Cortex",
+        "C) Cambium",
+        "D) Pith"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "239a773c03d55d0fb706eccc0ef998164ee5cc19",
+      "sectionIndex": 2,
+      "question": "What type of vascular bundle is found in dicot stems?",
+      "options": [
+        "A) Closed",
+        "B) Open",
+        "C) Scattered",
+        "D) Radial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "771667c0c75268a0fc586d9e32799f4d169a5174",
+      "sectionIndex": 2,
+      "question": "Which tissue transports water in plants?",
+      "options": [
+        "A) Phloem",
+        "B) Xylem",
+        "C) Cortex",
+        "D) Epidermis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5321e6465980b8c57f9abecab5570766360fe605",
+      "sectionIndex": 2,
+      "question": "Stomata are primarily found on:",
+      "options": [
+        "A) Roots",
+        "B) Stems",
+        "C) Leaves",
+        "D) Flowers"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e96843a8ff3681357574099f53486755ae41e89b",
+      "sectionIndex": 2,
+      "question": "What is the main function of parenchyma tissue?",
+      "options": [
+        "A) Support",
+        "B) Transport",
+        "C) Storage",
+        "D) Protection"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "829c00f1180cc94eb07e60e1e110b79abcd4ea19",
+      "sectionIndex": 2,
+      "question": "Cork cambium produces:",
+      "options": [
+        "A) Wood",
+        "B) Bark",
+        "C) Leaves",
+        "D) Flowers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "94296f7add867a20b05a8e2ba4b232cd11fb9fd8",
+      "sectionIndex": 2,
+      "question": "Which cells have thick lignified walls?",
+      "options": [
+        "A) Parenchyma",
+        "B) Collenchyma",
+        "C) Sclerenchyma",
+        "D) Epidermis"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2abbaf95663a0e8cfb61c77da69aba4c4bfe68e7",
+      "sectionIndex": 2,
+      "question": "Vascular bundles in monocot stems are:",
+      "options": [
+        "A) In a ring",
+        "B) Scattered",
+        "C) Central",
+        "D) Absent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4096df9afd5f7fb9d1428d30a5691209377e5c85",
+      "sectionIndex": 2,
+      "question": "What is the outermost layer of a plant organ called?",
+      "options": [
+        "A) Cortex",
+        "B) Epidermis",
+        "C) Endodermis",
+        "D) Pericycle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b87e5928b7eb28f3339a60be827afd3126c454a6",
+      "sectionIndex": 2,
+      "question": "Annual rings in wood are formed by:",
+      "options": [
+        "A) Cork cambium",
+        "B) Vascular cambium",
+        "C) Apical meristem",
+        "D) Lateral meristem"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1ff68cb7b0fb511cd8940e110fec351478c4fd3",
+      "sectionIndex": 3,
+      "question": "Where does the light reaction of photosynthesis occur?",
+      "options": [
+        "A) Stroma",
+        "B) Thylakoid",
+        "C) Cytoplasm",
+        "D) Mitochondria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7fef03b77876510322bed2863eaf38620ed0d6b1",
+      "sectionIndex": 3,
+      "question": "What is the primary product of photosynthesis?",
+      "options": [
+        "A) Oxygen",
+        "B) Carbon dioxide",
+        "C) Glucose",
+        "D) Water"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5a3c3f36a01b5bb36bb43d69952ea107b53a4296",
+      "sectionIndex": 3,
+      "question": "Which pigment is essential for photosynthesis?",
+      "options": [
+        "A) Carotene",
+        "B) Xanthophyll",
+        "C) Chlorophyll",
+        "D) Anthocyanin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "35c3c17151e3cb28ef7c0c14d0f85cbb42051ee2",
+      "sectionIndex": 3,
+      "question": "CAM photosynthesis is an adaptation to:",
+      "options": [
+        "A) Cold climate",
+        "B) Dry conditions",
+        "C) Shade",
+        "D) Water logging"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c20bfb9fd0d827b8f287657c2751c67e59a77c0e",
+      "sectionIndex": 3,
+      "question": "What does RuBisCO enzyme fix?",
+      "options": [
+        "A) Nitrogen",
+        "B) Oxygen",
+        "C) Carbon dioxide",
+        "D) Hydrogen"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e93e5b0dc2cdd0519688bf687db564f4cd6277fd",
+      "sectionIndex": 3,
+      "question": "Where does the Krebs cycle occur?",
+      "options": [
+        "A) Chloroplast",
+        "B) Cytoplasm",
+        "C) Mitochondria",
+        "D) Nucleus"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ad34e3f0ae17960c7dab397c64b606b792b9e9ba",
+      "sectionIndex": 3,
+      "question": "What is produced during glycolysis?",
+      "options": [
+        "A) Glucose",
+        "B) Pyruvate",
+        "C) Starch",
+        "D) Cellulose"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "206d2252ee8d45d158266531bb69a43e2f3d2008",
+      "sectionIndex": 3,
+      "question": "C4 plants are more efficient in:",
+      "options": [
+        "A) Cold conditions",
+        "B) Hot conditions",
+        "C) Shade",
+        "D) Water"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dfbd838446ce19faeb1e238b7ccb0111907bd743",
+      "sectionIndex": 3,
+      "question": "What is the site of ATP synthesis in chloroplasts?",
+      "options": [
+        "A) Stroma",
+        "B) Thylakoid membrane",
+        "C) Outer membrane",
+        "D) Inner membrane"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c82ec362497956274718ed181bb63053c1783678",
+      "sectionIndex": 3,
+      "question": "Photorespiration occurs when RuBisCO fixes:",
+      "options": [
+        "A) CO2",
+        "B) O2",
+        "C) N2",
+        "D) H2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c78a276106a625234f0c32f391ffdccc98b56748",
+      "sectionIndex": 4,
+      "question": "Which hormone promotes cell elongation?",
+      "options": [
+        "A) Cytokinin",
+        "B) Auxin",
+        "C) Ethylene",
+        "D) ABA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1015fb489702f1827e844467737ce9fd7165bd1",
+      "sectionIndex": 4,
+      "question": "Gibberellins were first discovered in:",
+      "options": [
+        "A) Rice",
+        "B) Wheat",
+        "C) Fungus",
+        "D) Algae"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "98f014be16b377504dd818e509d9904c098df101",
+      "sectionIndex": 4,
+      "question": "Which hormone causes fruit ripening?",
+      "options": [
+        "A) Auxin",
+        "B) Gibberellin",
+        "C) Ethylene",
+        "D) Cytokinin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f501c9f01ad7f00b8f3fb11e4c706ef06d9a68dd",
+      "sectionIndex": 4,
+      "question": "ABA stands for:",
+      "options": [
+        "A) Auxin Binding Acid",
+        "B) Abscisic Acid",
+        "C) Active Biological Acid",
+        "D) Amino Benzoic Acid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d648f62bf598a51163f06ebd8d23c8268fa46096",
+      "sectionIndex": 4,
+      "question": "Cytokinins primarily promote:",
+      "options": [
+        "A) Cell division",
+        "B) Cell elongation",
+        "C) Dormancy",
+        "D) Senescence"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a6fd2555e9feb8f5937c470cc5caf8403113bc2d",
+      "sectionIndex": 4,
+      "question": "Which hormone induces dormancy?",
+      "options": [
+        "A) Auxin",
+        "B) Gibberellin",
+        "C) ABA",
+        "D) Cytokinin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d08774bd80e80920c182f571ce334c54b300d586",
+      "sectionIndex": 4,
+      "question": "Apical dominance is maintained by:",
+      "options": [
+        "A) Cytokinin",
+        "B) Auxin",
+        "C) Ethylene",
+        "D) ABA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c5b7cf710eb6be2f97c214467848fbf244b048dd",
+      "sectionIndex": 4,
+      "question": "Which hormone delays senescence?",
+      "options": [
+        "A) Ethylene",
+        "B) ABA",
+        "C) Cytokinin",
+        "D) Auxin"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4c9b1c24c0e900b1bf20bfc8e9fea4f90d32e8f7",
+      "sectionIndex": 4,
+      "question": "Seed germination is promoted by:",
+      "options": [
+        "A) ABA",
+        "B) Ethylene",
+        "C) Gibberellin",
+        "D) All of these"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "66d093b0f25c2953a87fbaa2924da0876a66e89b",
+      "sectionIndex": 4,
+      "question": "Photoperiodism affects:",
+      "options": [
+        "A) Photosynthesis",
+        "B) Flowering",
+        "C) Respiration",
+        "D) Transpiration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da8c79c3f00f8f906739694d83844072b04270ce",
+      "sectionIndex": 5,
+      "question": "What type of succession starts on bare rock?",
+      "options": [
+        "A) Secondary",
+        "B) Primary",
+        "C) Tertiary",
+        "D) Aquatic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2652f845eebad41b0d98d0f94844d8bf701513fb",
+      "sectionIndex": 5,
+      "question": "Plants adapted to dry conditions are called:",
+      "options": [
+        "A) Hydrophytes",
+        "B) Mesophytes",
+        "C) Xerophytes",
+        "D) Halophytes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2767d7bc4ecf413c7b0ee82d871c1586e7b9478a",
+      "sectionIndex": 5,
+      "question": "Which is a major cause of soil erosion?",
+      "options": [
+        "A) Photosynthesis",
+        "B) Deforestation",
+        "C) Transpiration",
+        "D) Respiration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "626fbe4a4ac2b2e338e82d9e283c06ab8e980c20",
+      "sectionIndex": 5,
+      "question": "Lichens are indicators of:",
+      "options": [
+        "A) Soil fertility",
+        "B) Air quality",
+        "C) Water depth",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3297d3a5dbfdf7e3b286d07ada73e73929fb13cc",
+      "sectionIndex": 5,
+      "question": "An ecosystem includes:",
+      "options": [
+        "A) Only plants",
+        "B) Only animals",
+        "C) Biotic and abiotic factors",
+        "D) Only decomposers"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fe59afc1ae752e22d93ae4e94b8f152729a9a680",
+      "sectionIndex": 5,
+      "question": "Plants that grow in salty soil are called:",
+      "options": [
+        "A) Xerophytes",
+        "B) Hydrophytes",
+        "C) Halophytes",
+        "D) Mesophytes"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d21c0f427c3fa79584a7b7ce56b55c2beccb4b4f",
+      "sectionIndex": 5,
+      "question": "What process helps in nitrogen fixation?",
+      "options": [
+        "A) Photosynthesis",
+        "B) Respiration",
+        "C) Symbiosis with bacteria",
+        "D) Transpiration"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dfd9b6e51cafa9378e64bc1170a404f67dedba08",
+      "sectionIndex": 5,
+      "question": "Waterlogging primarily affects:",
+      "options": [
+        "A) Leaves",
+        "B) Flowers",
+        "C) Roots",
+        "D) Seeds"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b8d243b0adcdeb989fd2c855045e0e8df17b98df",
+      "sectionIndex": 5,
+      "question": "Which adaptation helps xerophytes conserve water?",
+      "options": [
+        "A) Large leaves",
+        "B) Thick cuticle",
+        "C) Many stomata",
+        "D) Thin roots"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2345996b35ba95e6b5754e5e377f8f0499e74df",
+      "sectionIndex": 5,
+      "question": "Phytoremediation uses plants to:",
+      "options": [
+        "A) Produce oxygen",
+        "B) Clean polluted soil",
+        "C) Increase humidity",
+        "D) Reduce temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ed2c2bb7d8fea03d49148ede80d1f1213e19336",
+      "sectionIndex": 6,
+      "question": "Who proposed the laws of inheritance?",
+      "options": [
+        "A) Darwin",
+        "B) Mendel",
+        "C) Watson",
+        "D) Lamarck"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8172304534b53b0ba6e2cc4c076d2f44cefe206",
+      "sectionIndex": 6,
+      "question": "DNA structure was discovered by:",
+      "options": [
+        "A) Darwin and Wallace",
+        "B) Watson and Crick",
+        "C) Mendel and Morgan",
+        "D) Linnaeus and Hooker"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba3508902f5f72624749aa19d49a8544d049d0a9",
+      "sectionIndex": 6,
+      "question": "Crossing over occurs during:",
+      "options": [
+        "A) Mitosis",
+        "B) Meiosis",
+        "C) Both",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "452b38c95cb69c627b3c78ecee58033c8015a4d3",
+      "sectionIndex": 6,
+      "question": "A change in DNA sequence is called:",
+      "options": [
+        "A) Translation",
+        "B) Transcription",
+        "C) Mutation",
+        "D) Replication"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dc3ab6a9805e8eae9aa2aad2fbcbb6af3b2e9b14",
+      "sectionIndex": 6,
+      "question": "The genetic code is read in groups of:",
+      "options": [
+        "A) Two bases",
+        "B) Three bases",
+        "C) Four bases",
+        "D) Five bases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "10d16a6ebb0d40c434d7e0c8b832b66214a3ccd6",
+      "sectionIndex": 6,
+      "question": "Natural selection was proposed by:",
+      "options": [
+        "A) Lamarck",
+        "B) Mendel",
+        "C) Darwin",
+        "D) Morgan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c0c176c187ef617c9cf8c5ef2d3867975b862fc4",
+      "sectionIndex": 6,
+      "question": "Polyploidy refers to:",
+      "options": [
+        "A) Multiple genes",
+        "B) Multiple chromosomes sets",
+        "C) Multiple cells",
+        "D) Multiple organisms"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2893b72ed7c86a2ef3cc5e6c95edd40e4b58e17a",
+      "sectionIndex": 6,
+      "question": "Linkage was discovered by:",
+      "options": [
+        "A) Mendel",
+        "B) Morgan",
+        "C) Darwin",
+        "D) Watson"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46be1c818bbc0e7abe517d24de5f2105f850a0e2",
+      "sectionIndex": 6,
+      "question": "Evolution is best supported by:",
+      "options": [
+        "A) Fossils only",
+        "B) DNA only",
+        "C) Multiple evidence types",
+        "D) Theories only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9324264b218b31594861e938a2d5940f1ada6493",
+      "sectionIndex": 6,
+      "question": "Hardy-Weinberg equilibrium assumes:",
+      "options": [
+        "A) Small population",
+        "B) No mutations",
+        "C) Selection occurs",
+        "D) Non-random mating"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a6e26d1b1aa409f1292b87249cdf764996f4730f",
+      "sectionIndex": 7,
+      "question": "Rhizopus belongs to which kingdom?",
+      "options": [
+        "A) Plantae",
+        "B) Fungi",
+        "C) Protista",
+        "D) Monera"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a0cb2ae1aae72a266509c20c81546786e2378472",
+      "sectionIndex": 7,
+      "question": "Lichens are associations between:",
+      "options": [
+        "A) Two fungi",
+        "B) Fungus and alga",
+        "C) Two algae",
+        "D) Bacteria and fungus"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e7a2f712a1db8cad73e5cbcb81d192d91f07dd3",
+      "sectionIndex": 7,
+      "question": "Fungi reproduce by producing:",
+      "options": [
+        "A) Seeds",
+        "B) Spores",
+        "C) Pollen",
+        "D) Eggs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13077ab1abd69ae2ae6a27313f20264af3788674",
+      "sectionIndex": 7,
+      "question": "The vegetative body of a fungus is called:",
+      "options": [
+        "A) Thallus",
+        "B) Mycelium",
+        "C) Sporophyte",
+        "D) Gametophyte"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee68b99196cd3c4ef579243553f98eb60262f4c9",
+      "sectionIndex": 7,
+      "question": "Which fungus causes late blight of potato?",
+      "options": [
+        "A) Rhizopus",
+        "B) Penicillium",
+        "C) Phytophthora",
+        "D) Aspergillus"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d7aa0d106e07ea85a0245d8e2a00bf600ad452e6",
+      "sectionIndex": 7,
+      "question": "Lichens can survive in:",
+      "options": [
+        "A) Only water",
+        "B) Only soil",
+        "C) Extreme conditions",
+        "D) Only tropical areas"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "655b48f5592ffb11394ab766cd424c335e4967e6",
+      "sectionIndex": 7,
+      "question": "Cell walls of fungi contain:",
+      "options": [
+        "A) Cellulose",
+        "B) Chitin",
+        "C) Pectin",
+        "D) Lignin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8cd47f204292c65ffb897f55c9ecd68e938c6e8d",
+      "sectionIndex": 7,
+      "question": "Fungi are important decomposers because they:",
+      "options": [
+        "A) Produce oxygen",
+        "B) Fix nitrogen",
+        "C) Recycle nutrients",
+        "D) Produce food"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "31bfa2ecf2039ac590236400d0bde5a7925e1426",
+      "sectionIndex": 7,
+      "question": "The antibiotic penicillin comes from:",
+      "options": [
+        "A) Bacteria",
+        "B) Fungus",
+        "C) Algae",
+        "D) Lichen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "333386beef94adfac2dc62f157de96b44486afd0",
+      "sectionIndex": 7,
+      "question": "Heterotrophic nutrition in fungi means they:",
+      "options": [
+        "A) Make their own food",
+        "B) Absorb nutrients",
+        "C) Photosynthesize",
+        "D) Fix nitrogen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5ccc46671c2bdcb2712a0a7023306283391fa9ef",
+      "sectionIndex": 8,
+      "question": "Which structure produces spores in ferns?",
+      "options": [
+        "A) Prothallus",
+        "B) Sorus",
+        "C) Rhizome",
+        "D) Frond"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d72f54844860c41cd8d289d672b4f2a6f01f0bc1",
+      "sectionIndex": 8,
+      "question": "Double fertilization occurs in:",
+      "options": [
+        "A) Bryophytes",
+        "B) Pteridophytes",
+        "C) Gymnosperms",
+        "D) Angiosperms"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d206325b91ecb9e967e837dbd4c3c34f78b3f64e",
+      "sectionIndex": 8,
+      "question": "Seeds first evolved in:",
+      "options": [
+        "A) Algae",
+        "B) Bryophytes",
+        "C) Gymnosperms",
+        "D) Angiosperms"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dce3cc7a3a9508a3f79be7a1c9c38ba2f9c255a4",
+      "sectionIndex": 8,
+      "question": "Male cones in Pinus produce:",
+      "options": [
+        "A) Seeds",
+        "B) Pollen",
+        "C) Ovules",
+        "D) Fruits"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11f709e5011f1721a6a50e99b5b5e66b60f1c3d9",
+      "sectionIndex": 8,
+      "question": "Which group has naked seeds?",
+      "options": [
+        "A) Angiosperms",
+        "B) Gymnosperms",
+        "C) Pteridophytes",
+        "D) Bryophytes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "98b86b844d645e7a5440e9eaddc1d4104365588b",
+      "sectionIndex": 8,
+      "question": "Equisetum is commonly known as:",
+      "options": [
+        "A) Club moss",
+        "B) Horsetail",
+        "C) Fern",
+        "D) Cycad"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3a9dc1757b9445243610a04d409231cfd89935b",
+      "sectionIndex": 8,
+      "question": "The dominant generation in ferns is:",
+      "options": [
+        "A) Gametophyte",
+        "B) Sporophyte",
+        "C) Both equal",
+        "D) Neither"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "876fafc9ebab8e705cc1982592be4c6024c17645",
+      "sectionIndex": 8,
+      "question": "Fruits are found only in:",
+      "options": [
+        "A) Gymnosperms",
+        "B) Angiosperms",
+        "C) Pteridophytes",
+        "D) Bryophytes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6812411f4b0f3846e7046e845b8c1c91c60fa3c",
+      "sectionIndex": 8,
+      "question": "Which vascular plants lack seeds?",
+      "options": [
+        "A) Gymnosperms",
+        "B) Angiosperms",
+        "C) Pteridophytes",
+        "D) All have seeds"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d0798c005bc6f92313c62b6e436ae6cdb603c1cb",
+      "sectionIndex": 8,
+      "question": "Pollination by insects is called:",
+      "options": [
+        "A) Anemophily",
+        "B) Entomophily",
+        "C) Hydrophily",
+        "D) Ornithophily"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "651a6c62e6f8631e1444355f81891df3f9f87234",
+      "sectionIndex": 9,
+      "question": "Which organelle contains chlorophyll?",
+      "options": [
+        "A) Mitochondria",
+        "B) Chloroplast",
+        "C) Nucleus",
+        "D) Ribosome"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b5413e37a028a3edac53cd53daec048cb01f43d4",
+      "sectionIndex": 9,
+      "question": "Protein synthesis occurs at:",
+      "options": [
+        "A) Nucleus",
+        "B) Mitochondria",
+        "C) Ribosomes",
+        "D) Golgi body"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0a12d15d80722b3148e717be6c196b0458552601",
+      "sectionIndex": 9,
+      "question": "The nuclear membrane has:",
+      "options": [
+        "A) No pores",
+        "B) Few pores",
+        "C) Many pores",
+        "D) One pore"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d3321dfe597393714d42bbf49c3ff896706c8f57",
+      "sectionIndex": 9,
+      "question": "Cell wall is absent in:",
+      "options": [
+        "A) Plant cells",
+        "B) Fungal cells",
+        "C) Animal cells",
+        "D) Bacterial cells"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9f377ff52d2346fd8d2cfa0ffebe3760dfed2b48",
+      "sectionIndex": 9,
+      "question": "ATP is produced in:",
+      "options": [
+        "A) Nucleus",
+        "B) Mitochondria",
+        "C) Ribosomes",
+        "D) Lysosomes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c0a134b088c6339b58654b919a3597d69d404e0c",
+      "sectionIndex": 9,
+      "question": "Plasmids are found in:",
+      "options": [
+        "A) Animal cells",
+        "B) Plant cells",
+        "C) Bacterial cells",
+        "D) All cells"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cde85189b5082ef2403f53348940738a388b342a",
+      "sectionIndex": 9,
+      "question": "Which process produces mRNA?",
+      "options": [
+        "A) Translation",
+        "B) Transcription",
+        "C) Replication",
+        "D) Mutation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c051bb30d99df39057492942962504f569d83cc",
+      "sectionIndex": 9,
+      "question": "Enzymes are made of:",
+      "options": [
+        "A) Lipids",
+        "B) Carbohydrates",
+        "C) Proteins",
+        "D) Nucleic acids"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8e4c1839f1a2518d2d20331c772b935686b7c0cb",
+      "sectionIndex": 9,
+      "question": "Cell division for growth is called:",
+      "options": [
+        "A) Meiosis",
+        "B) Mitosis",
+        "C) Binary fission",
+        "D) Budding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "060e8ec3108ecafb650b92ff438b9e1ad573cc42",
+      "sectionIndex": 9,
+      "question": "The cell theory states that all cells come from:",
+      "options": [
+        "A) Non-living matter",
+        "B) Pre-existing cells",
+        "C) Spontaneous generation",
+        "D) Chemical reactions"
+      ],
+      "correct": "B"
+    }
+  ]
+}

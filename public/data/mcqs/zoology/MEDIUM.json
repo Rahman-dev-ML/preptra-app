@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:33:00.868Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "84243609e4f76861be44f5e13db9239824414eb3",
+      "sectionIndex": 0,
+      "question": "The transition from ascon to leucon canal system in sponges represents:",
+      "options": [
+        "A) Degeneration",
+        "B) Increased surface area for water filtration",
+        "C) Simpler structure",
+        "D) Loss of function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b66ca27f2a968f3ef824562a39e525e6359b2eaf",
+      "sectionIndex": 0,
+      "question": "Polymorphism in Obelia serves to:",
+      "options": [
+        "A) Confuse predators",
+        "B) Division of labor between polyp and medusa",
+        "C) Increase size only",
+        "D) No specific function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "826676ef619771c0554d753626dfa44760f6889c",
+      "sectionIndex": 0,
+      "question": "The success of Arthropoda is attributed to all EXCEPT:",
+      "options": [
+        "A) Jointed appendages",
+        "B) Segmented body",
+        "C) Soft exoskeleton",
+        "D) Diverse habitats"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ec4c7c086744902063503f9118dfe934cbc19c15",
+      "sectionIndex": 0,
+      "question": "Torsion in gastropods results in:",
+      "options": [
+        "A) Symmetrical body",
+        "B) Anterior positioning of mantle cavity",
+        "C) Loss of shell",
+        "D) Increased speed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7cff7d8298276cda0185d4bd76a8429d8f3d4850",
+      "sectionIndex": 0,
+      "question": "Water vascular system in echinoderms functions for:",
+      "options": [
+        "A) Locomotion only",
+        "B) Locomotion, respiration, and food capture",
+        "C) Excretion only",
+        "D) Reproduction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de9eec79b44e50bb32aa8bd59c67325b92b6ff25",
+      "sectionIndex": 0,
+      "question": "Flame cells and nephridia differ in:",
+      "options": [
+        "A) Function only",
+        "B) Structure and evolutionary advancement",
+        "C) Location only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bc1867fcf3efd1512c87a23eeffee8fbba5fd83",
+      "sectionIndex": 0,
+      "question": "The coelom in annelids versus arthropods:",
+      "options": [
+        "A) Same type and function",
+        "B) True coelom vs reduced haemocoel",
+        "C) No coelom in either",
+        "D) Pseudocoelom in both"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "492a7fde0b9207c7f435be018b249ee789e1cae8",
+      "sectionIndex": 0,
+      "question": "Metameric segmentation provides advantage of:",
+      "options": [
+        "A) Increased body size only",
+        "B) Locomotor efficiency and redundancy",
+        "C) Decreased flexibility",
+        "D) No advantage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "767d85c533c9fb6415dbdaa1c377122cf308d875",
+      "sectionIndex": 0,
+      "question": "Parasitic platyhelminthes show tegument instead of epidermis for:",
+      "options": [
+        "A) Beauty",
+        "B) Protection from host enzymes",
+        "C) Increased absorption",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f39344a71f18512918b64f008d9b25bc1eae4905",
+      "sectionIndex": 0,
+      "question": "The evolutionary significance of cephalization is:",
+      "options": [
+        "A) Directional movement and sensory concentration",
+        "B) Increased body size",
+        "C) Better reproduction",
+        "D) Improved digestion"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7a717efe1fae40f09939435ed103311b611a2683",
+      "sectionIndex": 1,
+      "question": "Amphioxus is considered an ideal chordate because:",
+      "options": [
+        "A) It has vertebrae",
+        "B) Shows all chordate features throughout life",
+        "C) Complex brain",
+        "D) Four-chambered heart"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99b8171bb11ea3504d046a0aefe23a16b9d416a1",
+      "sectionIndex": 1,
+      "question": "Retrogressive metamorphosis in ascidians indicates:",
+      "options": [
+        "A) Evolutionary advancement",
+        "B) Adaptation to sessile lifestyle",
+        "C) Larval stage is primitive",
+        "D) Development failure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cf12a0be4b66c4ecca88302e267567eceba4fec7",
+      "sectionIndex": 1,
+      "question": "The evolution from two to four-chambered heart represents:",
+      "options": [
+        "A) Increased size only",
+        "B) Separation of oxygenated and deoxygenated blood",
+        "C) Simpler structure",
+        "D) No functional advantage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d442f467cdb09c879b64963177491b43f2e8d573",
+      "sectionIndex": 1,
+      "question": "Aortic arches in vertebrates show modification from:",
+      "options": [
+        "A) 6 pairs to variable numbers",
+        "B) 2 pairs to 6 pairs",
+        "C) No change",
+        "D) 10 pairs to 6 pairs"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6ebc9d880ca91e8aab9099da0435f61fc4b2c0f0",
+      "sectionIndex": 1,
+      "question": "The swim bladder in fish is homologous to:",
+      "options": [
+        "A) Gills",
+        "B) Lungs",
+        "C) Heart",
+        "D) Kidney"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "57d41baf018b9f1ba4210ffd9649d1a60d5af544",
+      "sectionIndex": 1,
+      "question": "Placentation types in mammals correlate with:",
+      "options": [
+        "A) Size only",
+        "B) Developmental period and offspring care",
+        "C) Habitat only",
+        "D) No correlation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "424abff8b851a728481086cebf69023bb5df8b15",
+      "sectionIndex": 1,
+      "question": "The transition from pronephros to metanephros shows:",
+      "options": [
+        "A) Degeneration",
+        "B) Increased efficiency in water conservation",
+        "C) Simpler structure",
+        "D) No functional change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8be54670fa99eec01664ddf404691ecfd9726951",
+      "sectionIndex": 1,
+      "question": "Birds as \"glorified reptiles\" refers to:",
+      "options": [
+        "A) Similar appearance",
+        "B) Shared ancestry and retained features",
+        "C) Identical physiology",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e41b94ff85aa6b84d60cb49f243e524462a6805",
+      "sectionIndex": 1,
+      "question": "The amniotic egg's evolutionary importance:",
+      "options": [
+        "A) Larger size",
+        "B) Independence from aquatic reproduction",
+        "C) Better nutrition only",
+        "D) Harder shell"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "395e113b858dbc2afcfb17a3a3bf3576774170ff",
+      "sectionIndex": 1,
+      "question": "Counter-current exchange in fish gills:",
+      "options": [
+        "A) Decreases efficiency",
+        "B) Maximizes oxygen extraction",
+        "C) No effect",
+        "D) Only for temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1d3930673532bf91af1f86e81445d1cad136ead9",
+      "sectionIndex": 2,
+      "question": "Osmoregulation in marine versus freshwater fish:",
+      "options": [
+        "A) Same mechanisms",
+        "B) Opposite strategies for water and salt balance",
+        "C) No osmoregulation needed",
+        "D) Only marine fish osmoregulate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25ac0f453bae9091d90a775e1ad3bd84c3165e4a",
+      "sectionIndex": 2,
+      "question": "The hypothalamus-pituitary axis demonstrates:",
+      "options": [
+        "A) Independent function",
+        "B) Neuroendocrine integration",
+        "C) Only neural control",
+        "D) Only endocrine control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "700aa4d7bfbf576c1f45767abfeeda62068e8096",
+      "sectionIndex": 2,
+      "question": "Glomerular filtration rate is influenced by:",
+      "options": [
+        "A) Blood pressure only",
+        "B) Blood pressure, osmotic pressure, and capsular pressure",
+        "C) Temperature only",
+        "D) Body size only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b89e215ca2596560a64d2ff8b2b3706473c8f217",
+      "sectionIndex": 2,
+      "question": "Fat digestion differs from carbohydrate digestion in:",
+      "options": [
+        "A) Location only",
+        "B) Requirement for bile salts and micelle formation",
+        "C) Speed only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d1079908d72bf104b0a2280106ec6a6036c9010",
+      "sectionIndex": 2,
+      "question": "The role of villi and microvilli in absorption:",
+      "options": [
+        "A) Protection only",
+        "B) Increased surface area for efficiency",
+        "C) Secretion only",
+        "D) No specific role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8be3c0ca576798647eb9045621e7ebc64a3b90b9",
+      "sectionIndex": 2,
+      "question": "Oxygen transport by hemoglobin involves:",
+      "options": [
+        "A) Simple dissolution",
+        "B) Reversible binding affected by pH and CO2",
+        "C) Permanent binding",
+        "D) No chemical binding"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e132d7c4819ef2628f4833d178d8401d18f421c7",
+      "sectionIndex": 2,
+      "question": "The nephron's loop of Henle functions to:",
+      "options": [
+        "A) Filter blood only",
+        "B) Create concentration gradient for water reabsorption",
+        "C) Produce hormones",
+        "D) Store urine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "32bc1ea86e30643f97737c02a0911b80512064fe",
+      "sectionIndex": 2,
+      "question": "Endocrine versus exocrine glands differ in:",
+      "options": [
+        "A) Size only",
+        "B) Ductless secretion vs ducted secretion",
+        "C) Location only",
+        "D) Cell type only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee2372923d331f09981b780aae8d99b203c896c8",
+      "sectionIndex": 2,
+      "question": "Negative feedback in hormone regulation:",
+      "options": [
+        "A) Increases hormone production",
+        "B) Maintains homeostasis",
+        "C) Positive effect only",
+        "D) No regulation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "335a44eb73b2823ea9dd985aa889be51b1646cef",
+      "sectionIndex": 2,
+      "question": "The blood-brain barrier:",
+      "options": [
+        "A) Allows all substances",
+        "B) Selectively permits substance entry",
+        "C) Blocks all substances",
+        "D) Doesn't exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ded2a5e93f262476e0925d31c5efecef1b5b91e",
+      "sectionIndex": 3,
+      "question": "Test cross is used to determine:",
+      "options": [
+        "A) Phenotype only",
+        "B) Genotype of dominant phenotype",
+        "C) Sex of organism",
+        "D) Species identification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9d924f1396de05a649180c6364b5bc2f0b2bdd2e",
+      "sectionIndex": 3,
+      "question": "Linkage versus independent assortment:",
+      "options": [
+        "A) Same phenomenon",
+        "B) Genes on same chromosome vs different chromosomes",
+        "C) No difference",
+        "D) Only in plants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f51869832fef209ef70ac5f5a4716c8ed2b73151",
+      "sectionIndex": 3,
+      "question": "Sex-linked inheritance patterns differ because:",
+      "options": [
+        "A) Males have two X chromosomes",
+        "B) Males have only one X chromosome",
+        "C) No difference exists",
+        "D) Females lack X chromosome"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a67f2ba9b9353c4485d2f1cddd75cacf81175f72",
+      "sectionIndex": 3,
+      "question": "Chromosomal aberrations include all EXCEPT:",
+      "options": [
+        "A) Deletion",
+        "B) Duplication",
+        "C) Point mutation",
+        "D) Inversion"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "63b72e1b3d73c32a07d40c2ddfc4017ce049883e",
+      "sectionIndex": 3,
+      "question": "The Hardy-Weinberg equilibrium assumes:",
+      "options": [
+        "A) Small population",
+        "B) No evolution occurring",
+        "C) Selection pressure",
+        "D) High mutation rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "576ea27eaedcf71cce590043eb4a06713c07d1ea",
+      "sectionIndex": 3,
+      "question": "Polyploidy can lead to:",
+      "options": [
+        "A) Death only",
+        "B) Instant speciation in plants",
+        "C) No effect",
+        "D) Always sterile offspring"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "88b94bd015a2f175682c72350bb86e74fe09d4f6",
+      "sectionIndex": 3,
+      "question": "X-linked recessive traits appear more in males because:",
+      "options": [
+        "A) Males are weaker",
+        "B) Single X chromosome expresses recessive alleles",
+        "C) Y chromosome causes it",
+        "D) Environmental factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7886b382197b56d1178ca5eb46a62e11863011b0",
+      "sectionIndex": 3,
+      "question": "Meiosis differs from mitosis in:",
+      "options": [
+        "A) Number of divisions only",
+        "B) Reduction division and genetic recombination",
+        "C) Speed only",
+        "D) Location only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d930d70681f44769bb5d92275aed4732db03d33",
+      "sectionIndex": 3,
+      "question": "Non-disjunction during meiosis results in:",
+      "options": [
+        "A) Normal gametes",
+        "B) Abnormal chromosome numbers",
+        "C) Cell death always",
+        "D) No effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4712157beeadc8f16a0f6a8a297ba03707cf4116",
+      "sectionIndex": 3,
+      "question": "Epigenetic modifications affect:",
+      "options": [
+        "A) DNA sequence",
+        "B) Gene expression without changing sequence",
+        "C) Protein structure only",
+        "D) Nothing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "331ee57dd77ad4cfad5b93962e752477b96f50c4",
+      "sectionIndex": 4,
+      "question": "Darwin's finches demonstrate:",
+      "options": [
+        "A) Artificial selection",
+        "B) Adaptive radiation",
+        "C) Genetic drift only",
+        "D) No evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f22ac843a37a7dac25b2b9c487077011b1a5886",
+      "sectionIndex": 4,
+      "question": "Industrial melanism in peppered moths shows:",
+      "options": [
+        "A) Lamarckism",
+        "B) Natural selection in action",
+        "C) Mutationism only",
+        "D) No evolutionary change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "469d88b0e098bdcaab4989d4580fcd11b7a3e03e",
+      "sectionIndex": 4,
+      "question": "Homology versus analogy indicates:",
+      "options": [
+        "A) Same evidence for evolution",
+        "B) Common ancestry vs convergent evolution",
+        "C) No evolutionary significance",
+        "D) Opposite of each other"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "557abe6944057c5cd62617cfcf305715854d060f",
+      "sectionIndex": 4,
+      "question": "The fossil record's incompleteness is due to:",
+      "options": [
+        "A) Evolution doesn't occur",
+        "B) Specific conditions needed for fossilization",
+        "C) All organisms fossilize",
+        "D) Recent phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9dc349fb8bc56571c67ec5db5a5a5042aadc8b9b",
+      "sectionIndex": 4,
+      "question": "Molecular clock hypothesis uses:",
+      "options": [
+        "A) Fossil dates only",
+        "B) Mutation rates to estimate divergence times",
+        "C) Morphology only",
+        "D) No scientific basis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b6d011b8f5f2fad3dbf2e879026db241de0629d2",
+      "sectionIndex": 4,
+      "question": "Punctuated equilibrium versus gradualism:",
+      "options": [
+        "A) Same theory",
+        "B) Rapid speciation vs slow continuous change",
+        "C) No evolution",
+        "D) Only in plants"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f9969dc5650845a88ea801719672393af35733ed",
+      "sectionIndex": 4,
+      "question": "Sexual selection can lead to:",
+      "options": [
+        "A) Decreased fitness",
+        "B) Traits that improve mating success",
+        "C) No change",
+        "D) Extinction only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f7dc8a0948a26b52219d41c0918cd3aa355ca9b6",
+      "sectionIndex": 4,
+      "question": "Genetic drift has greatest effect in:",
+      "options": [
+        "A) Large populations",
+        "B) Small populations",
+        "C) No effect anywhere",
+        "D) Only in bacteria"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "814ffa3d0ce4a8efbeca33352f8f146410586c2a",
+      "sectionIndex": 4,
+      "question": "Co-evolution between flowers and pollinators shows:",
+      "options": [
+        "A) Independent evolution",
+        "B) Reciprocal selective pressures",
+        "C) No relationship",
+        "D) Parasitism only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86d64cfb92692716b2d31943f28fc53cea049554",
+      "sectionIndex": 4,
+      "question": "Vestigial organs support evolution by:",
+      "options": [
+        "A) Current function",
+        "B) Remnants of ancestral structures",
+        "C) No significance",
+        "D) Disproof of evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c439d63ec71d1e2380526dae1efa54f9ea5ff2f",
+      "sectionIndex": 5,
+      "question": "Energy transfer between trophic levels is approximately:",
+      "options": [
+        "A) 100% efficient",
+        "B) 10% efficient",
+        "C) 50% efficient",
+        "D) No loss"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24361452d612ac804f24d7f74b5b0e548ca00ac2",
+      "sectionIndex": 5,
+      "question": "Nitrogen cycle's rate-limiting step is often:",
+      "options": [
+        "A) Nitrogen fixation",
+        "B) Denitrification",
+        "C) Assimilation",
+        "D) All equal"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1156f5f968503107283b9859769d8f57fb5041e5",
+      "sectionIndex": 5,
+      "question": "Primary succession differs from secondary in:",
+      "options": [
+        "A) Speed only",
+        "B) Starting from bare rock vs existing soil",
+        "C) End result",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d24d2bcdbeb7ce86ce78bbae1977e841bfa02cdb",
+      "sectionIndex": 5,
+      "question": "Keystone species removal results in:",
+      "options": [
+        "A) No change",
+        "B) Disproportionate ecosystem impact",
+        "C) Improved ecosystem",
+        "D) Only minor effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "865a8a2cdae4ef907b6e5a2822a0d250179ee014",
+      "sectionIndex": 5,
+      "question": "Eutrophication is primarily caused by:",
+      "options": [
+        "A) Temperature increase",
+        "B) Excess nutrients",
+        "C) Decreased oxygen",
+        "D) Predator removal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0fcf435887680cf546375fd8c5ccd5e01ae3dee0",
+      "sectionIndex": 5,
+      "question": "Biogeochemical cycles differ from energy flow in being:",
+      "options": [
+        "A) Unidirectional",
+        "B) Cyclical",
+        "C) More efficient",
+        "D) Unnecessary"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3131236685513425a017368beca932b1a3b134e0",
+      "sectionIndex": 5,
+      "question": "The greenhouse effect is essential because:",
+      "options": [
+        "A) It's harmful",
+        "B) Maintains Earth's temperature",
+        "C) Only recent phenomenon",
+        "D) No importance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e64e8868c53997d4f5fa220c0b9c2a3a35fe4eda",
+      "sectionIndex": 5,
+      "question": "Biodiversity hotspots are characterized by:",
+      "options": [
+        "A) Large area only",
+        "B) High endemism and threat",
+        "C) Low species number",
+        "D) Cold climate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "72811a7aa767d27fae752decbb6155e79a30d585",
+      "sectionIndex": 5,
+      "question": "Ecological pyramids can be inverted for:",
+      "options": [
+        "A) Energy never",
+        "B) Biomass in aquatic systems",
+        "C) Numbers never",
+        "D) All can invert"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fe86e3610bb71c31ce7b92083dd2bdfa5048b276",
+      "sectionIndex": 5,
+      "question": "Climate change impacts on organisms include:",
+      "options": [
+        "A) Range shifts only",
+        "B) Phenology changes, range shifts, and extinctions",
+        "C) No effects",
+        "D) Beneficial only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e055bc37d3ee4cfc978c20cd4f46e66324f80e7c",
+      "sectionIndex": 6,
+      "question": "The fluid mosaic model describes membranes as:",
+      "options": [
+        "A) Rigid structures",
+        "B) Dynamic lipid bilayer with embedded proteins",
+        "C) Protein only",
+        "D) Carbohydrate only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a579f59b205cc2f8adc91a1bef4a92455914ef9",
+      "sectionIndex": 6,
+      "question": "Active transport differs from passive in:",
+      "options": [
+        "A) Speed only",
+        "B) Energy requirement against gradient",
+        "C) Direction only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "af02060e4fb960eaae07f8fe53de608762f36854",
+      "sectionIndex": 6,
+      "question": "Mitochondrial DNA inheritance is:",
+      "options": [
+        "A) Biparental",
+        "B) Maternal",
+        "C) Paternal",
+        "D) Random"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e1f4ddd69de2db8fcb847fb8dfd632ce9219f7c8",
+      "sectionIndex": 6,
+      "question": "The endoplasmic reticulum's role in protein synthesis:",
+      "options": [
+        "A) Makes all proteins",
+        "B) Rough ER for secretory/membrane proteins",
+        "C) No role",
+        "D) Breaks down proteins"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba762ea2ac354139ea889f07e777423920990fee",
+      "sectionIndex": 6,
+      "question": "Apoptosis differs from necrosis in being:",
+      "options": [
+        "A) Accidental",
+        "B) Programmed cell death",
+        "C) Always harmful",
+        "D) Same process"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "867e25f43251a16abf2b976992104f7edf346bc6",
+      "sectionIndex": 6,
+      "question": "Cell cycle checkpoints function to:",
+      "options": [
+        "A) Speed up division",
+        "B) Ensure proper progression",
+        "C) Stop all division",
+        "D) No function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5f23fb1647303b2fe4b5bb8f9c78501c33d4585",
+      "sectionIndex": 6,
+      "question": "Stem cells are characterized by:",
+      "options": [
+        "A) Inability to divide",
+        "B) Self-renewal and differentiation potential",
+        "C) Only in embryos",
+        "D) One cell type only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a4061f3bbfe15c6dc11a95502e7a5ff0fbec751",
+      "sectionIndex": 6,
+      "question": "Signal transduction cascades:",
+      "options": [
+        "A) Weaken signals",
+        "B) Amplify signals",
+        "C) Block all signals",
+        "D) No effect"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a9f56d0ef1a59a054f486f1a378fa1017c16aa4",
+      "sectionIndex": 6,
+      "question": "Ribosomes in prokaryotes versus eukaryotes:",
+      "options": [
+        "A) Identical",
+        "B) 70S vs 80S",
+        "C) No ribosomes in prokaryotes",
+        "D) Function differently"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "119d06e8853ffcbf6787339da9e2bafe430d029c",
+      "sectionIndex": 6,
+      "question": "Lysosomes are called \"suicide bags\" because:",
+      "options": [
+        "A) They kill other cells",
+        "B) Can digest the cell if ruptured",
+        "C) No reason",
+        "D) Make poisons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f56a76b04c835d85f4e013c1801871194fc0165c",
+      "sectionIndex": 7,
+      "question": "Peptide versus steroid hormones differ in:",
+      "options": [
+        "A) Function only",
+        "B) Receptor location and mechanism",
+        "C) Source only",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a5746b71cc34b90c6c94027c5918e131d6387dd",
+      "sectionIndex": 7,
+      "question": "The hypothalamus controls pituitary through:",
+      "options": [
+        "A) Neural connections only",
+        "B) Releasing and inhibiting hormones",
+        "C) Direct contact only",
+        "D) No control"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f3f28acca55fd1c9f5c34f314d2cd8a46036607",
+      "sectionIndex": 7,
+      "question": "Insulin and glucagon demonstrate:",
+      "options": [
+        "A) Synergistic action",
+        "B) Antagonistic regulation",
+        "C) No relationship",
+        "D) Same function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79dab5ab879693898584b55afbeb7451d05a6d35",
+      "sectionIndex": 7,
+      "question": "Thyroid hormone affects:",
+      "options": [
+        "A) Metabolism only",
+        "B) Metabolism, growth, and development",
+        "C) Temperature only",
+        "D) No effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb915654e565edbe8926ed54cf16584845e7a5de",
+      "sectionIndex": 7,
+      "question": "Adrenal cortex versus medulla:",
+      "options": [
+        "A) Same hormones",
+        "B) Steroid vs catecholamine hormones",
+        "C) Same embryonic origin",
+        "D) No functional difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ab62105423ae365ad399cd277776b3f9c81978a3",
+      "sectionIndex": 7,
+      "question": "Parathyroid hormone and calcitonin regulate:",
+      "options": [
+        "A) Glucose",
+        "B) Calcium",
+        "C) Sodium",
+        "D) Potassium"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d5d3cafed4949797d342903dccac97e0e75d7732",
+      "sectionIndex": 7,
+      "question": "Growth hormone's effects are mediated by:",
+      "options": [
+        "A) Direct action only",
+        "B) IGF-1 production",
+        "C) Inhibiting growth",
+        "D) No mediators"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fb88ffb35e52cc3f7a6598d3e87dac65cea799d6",
+      "sectionIndex": 7,
+      "question": "Circadian rhythms are controlled by:",
+      "options": [
+        "A) Random timing",
+        "B) Pineal gland and melatonin",
+        "C) Conscious thought",
+        "D) External cues only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "714bf646858ed10d685dff2306f9044566b43040",
+      "sectionIndex": 7,
+      "question": "Stress response involves:",
+      "options": [
+        "A) Single hormone",
+        "B) HPA axis activation",
+        "C) Decreased hormone production",
+        "D) No hormonal change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "22ae48de68914b35993cadcd7bcb02d00f93c482",
+      "sectionIndex": 7,
+      "question": "Hormone receptor specificity ensures:",
+      "options": [
+        "A) All cells respond",
+        "B) Target cell response only",
+        "C) No response",
+        "D) Random effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e357004eea07207b0b9ed483f419645856eec498",
+      "sectionIndex": 8,
+      "question": "Carnivore versus herbivore digestive systems:",
+      "options": [
+        "A) Identical structure",
+        "B) Shorter vs longer intestines",
+        "C) No difference",
+        "D) Opposite arrangement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a44b3fdafbf2eac7cabfb20d18628f22989601c",
+      "sectionIndex": 8,
+      "question": "Gas exchange in reptiles versus mammals:",
+      "options": [
+        "A) Same efficiency",
+        "B) Less efficient due to incomplete separation",
+        "C) More efficient in reptiles",
+        "D) No gas exchange in reptiles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b495e2a16ae9c82a15079c50b56df54d46a7fd05",
+      "sectionIndex": 8,
+      "question": "Excretion of ammonia, urea, and uric acid correlates with:",
+      "options": [
+        "A) Body size only",
+        "B) Water availability and habitat",
+        "C) Temperature only",
+        "D) No pattern"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "375630efb1cb0346a1c09571d922a58c3bd82b5a",
+      "sectionIndex": 8,
+      "question": "Ectothermy versus endothermy:",
+      "options": [
+        "A) Better vs worse",
+        "B) Different strategies with trade-offs",
+        "C) No metabolic difference",
+        "D) Only behavioral difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3ac618de33606b3229c8af377912a0c148b967c",
+      "sectionIndex": 8,
+      "question": "Freshwater fish osmoregulation involves:",
+      "options": [
+        "A) Drinking lots of water",
+        "B) Excreting dilute urine",
+        "C) Retaining salts",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "e208084b0e93f0ba284d2a271772d85794ab2692",
+      "sectionIndex": 8,
+      "question": "Countercurrent heat exchange in extremities:",
+      "options": [
+        "A) Wastes heat",
+        "B) Conserves core temperature",
+        "C) No function",
+        "D) Increases heat loss"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9de7fc06b984152e0458cbaa9fb4d37bb8a3765d",
+      "sectionIndex": 8,
+      "question": "Hibernation versus estivation:",
+      "options": [
+        "A) Same process",
+        "B) Cold vs hot/dry conditions",
+        "C) Only mammals hibernate",
+        "D) No metabolic change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16343a684ac51ae0ed6c99829bc35b7eae880115",
+      "sectionIndex": 8,
+      "question": "Respiratory pigments vary based on:",
+      "options": [
+        "A) Color preference",
+        "B) Oxygen affinity needs",
+        "C) Random occurrence",
+        "D) No variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ae9912ec73bc910bc72824d7b4a2fed604719f3",
+      "sectionIndex": 8,
+      "question": "Closed versus open circulatory systems:",
+      "options": [
+        "A) No functional difference",
+        "B) Higher pressure and efficiency vs lower",
+        "C) Open is more advanced",
+        "D) Only in vertebrates vs invertebrates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00b461b5f18b56699497d2d6b00160fff92e2343",
+      "sectionIndex": 8,
+      "question": "Sensory adaptations in deep-sea fish include:",
+      "options": [
+        "A) Better color vision",
+        "B) Enhanced mechanoreception and bioluminescence",
+        "C) No special adaptations",
+        "D) Reduced all senses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d90bea94c4995bb80e44504d270851d53e48aafd",
+      "sectionIndex": 9,
+      "question": "Vector-borne disease control requires understanding:",
+      "options": [
+        "A) Human biology only",
+        "B) Vector biology and ecology",
+        "C) Pathogen only",
+        "D) Climate only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ddbf6c9e20456e3afd23e11d9b67757756ec653",
+      "sectionIndex": 9,
+      "question": "Biological control advantages include:",
+      "options": [
+        "A) Immediate effect",
+        "B) Self-sustaining and specific",
+        "C) No research needed",
+        "D) Always successful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40cc404fbce058bd245f2201326626f13223e990",
+      "sectionIndex": 9,
+      "question": "Zoonotic diseases represent what percentage of human infections?",
+      "options": [
+        "A) Less than 10%",
+        "B) About 60%",
+        "C) 100%",
+        "D) None"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e25e579ed411a0edd0d59d61c49ebd858eb74362",
+      "sectionIndex": 9,
+      "question": "Ocean acidification affects molluscs by:",
+      "options": [
+        "A) Improving shell formation",
+        "B) Impairing calcium carbonate deposition",
+        "C) No effect",
+        "D) Increasing growth"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "171083fd28fb517c2296a67740107e8404e6c3fc",
+      "sectionIndex": 9,
+      "question": "Indicator species are useful for:",
+      "options": [
+        "A) Food only",
+        "B) Environmental monitoring",
+        "C) Medicine only",
+        "D) No practical use"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2025cfadd968e706446d5718d86aa7e386a52f9",
+      "sectionIndex": 9,
+      "question": "Biomagnification differs from bioaccumulation in:",
+      "options": [
+        "A) Same process",
+        "B) Food chain concentration vs individual accumulation",
+        "C) Only in plants",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3e5f4a40181282d51cb2fc3032522301f97ea807",
+      "sectionIndex": 9,
+      "question": "Conservation breeding programs face challenges of:",
+      "options": [
+        "A) Too many animals",
+        "B) Genetic bottlenecks and adaptation to captivity",
+        "C) No challenges",
+        "D) Only financial"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b662ed993db3851b7df23c1195ce03135262cb46",
+      "sectionIndex": 9,
+      "question": "Invasive species succeed due to:",
+      "options": [
+        "A) Being native",
+        "B) Lack of natural enemies and empty niches",
+        "C) Weak competition",
+        "D) Human preference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "567f88492dd11d9b0d4f848f8d96d9b92ac39fd2",
+      "sectionIndex": 9,
+      "question": "Coral bleaching results from:",
+      "options": [
+        "A) Disease only",
+        "B) Stress-induced zooxanthellae expulsion",
+        "C) Natural color change",
+        "D) Pollution only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "86c141df5df6ead842cc34c303c31b7d5bf86605",
+      "sectionIndex": 9,
+      "question": "Sustainable fisheries require:",
+      "options": [
+        "A) Maximum harvest always",
+        "B) Understanding population dynamics and ecosystem impacts",
+        "C) No regulation",
+        "D) Technology only"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+## Section 1: Vector Calculus & Differential Operators
+
+1. Vector Calculus & Differential Operators (Medium)
+1. For a scalar field φ = x²y + yz², the gradient at point (1,2,3) has magnitude:
+A) √85
+B) √89
+C) √91
+D) √95
+Answer: B
+
+2. If F = yi + xj + z²k, then ∇ × F equals:
+A) 0
+B) k
+C) -k
+D) 2k
+Answer: A
+
+3. The divergence of F = r²r̂ in spherical coordinates is:
+A) 3r²
+B) 4r
+C) 5r
+D) 2r
+Answer: B
+
+4. For which vector field is ∫_C F·dr path independent?
+A) F = yi + xj
+B) F = yi - xj
+C) F = xi + yj
+D) F = -yi + xj
+Answer: C
+
+5. If ∇²φ = 0 in a region and φ = x² - y² on the boundary, then φ inside is:
+A) Harmonic
+B) Subharmonic
+C) Superharmonic
+D) Biharmonic
+Answer: A
+
+6. The surface integral ∬_S (∇ × F)·n dS over a closed surface equals:
+A) 0
+B) Volume integral of ∇·F
+C) Line integral around boundary
+D) Cannot determine
+Answer: A
+
+7. In cylindrical coordinates, ∇·F for F = ρρ̂ + z²ẑ is:
+A) 2 + z
+B) 2 + 2z
+C) 1 + 2z
+D) 3 + 2z
+Answer: B
+
+8. Green's theorem fails when the region contains:
+A) Corners
+B) Holes
+C) Straight boundaries
+D) Smooth curves
+Answer: B
+
+9. For F = ∇φ, which is always true?
+A) ∇ × F = 0
+B) ∇ · F = 0
+C) F · F = 0
+D) |F| = 0
+Answer: A
+
+10. The Laplacian in spherical coordinates contains terms with:
+A) r⁻¹ only
+B) r⁻² only
+C) Both r⁻¹ and r⁻²
+D) Neither
+Answer: C
+
+## Section 2: Differential Equations
+
+2. Differential Equations (Medium)
+11. The complementary function of y'' - 5y' + 6y = e^x is:
+A) c₁e^x + c₂e^(2x)
+B) c₁e^(2x) + c₂e^(3x)
+C) c₁e^(3x) + c₂e^(4x)
+D) c₁ + c₂e^x
+Answer: B
+
+12. The particular integral of y'' + 4y = sin(2x) has the form:
+A) A sin(2x)
+B) A cos(2x)
+C) x(A sin(2x) + B cos(2x))
+D) A sin(2x) + B cos(2x)
+Answer: C
+
+13. The radius of convergence for the series solution of y'' + xy = 0 about x = 0 is:
+A) 0
+B) 1
+C) π
+D) ∞
+Answer: D
+
+14. For the Cauchy-Euler equation x²y'' + xy' - y = 0, the indicial equation is:
+A) r² = 1
+B) r² - 1 = 0
+C) r² + r - 1 = 0
+D) r² - r + 1 = 0
+Answer: B
+
+15. The integrating factor for (x + y²)dx + 2xy dy = 0 is:
+A) x
+B) 1/x
+C) x²
+D) 1/x²
+Answer: B
+
+16. Which method is most suitable for y'' + p(x)y' + q(x)y = f(x) when p and q are constants?
+A) Variation of parameters
+B) Undetermined coefficients
+C) Power series
+D) Numerical methods
+Answer: B
+
+17. The Wronskian of e^x and xe^x is:
+A) 0
+B) e^(2x)
+C) xe^(2x)
+D) x²e^(2x)
+Answer: B
+
+18. For a regular singular point at x = 0, the Frobenius series has the form:
+A) Σ aₙxⁿ
+B) Σ aₙx^(n+r)
+C) Σ aₙ(x-x₀)ⁿ
+D) Σ aₙe^(nx)
+Answer: B
+
+19. The general solution of y⁽⁴⁾ - y = 0 contains:
+A) Only exponentials
+B) Only trigonometric functions
+C) Both exponentials and trigonometric
+D) Only polynomials
+Answer: C
+
+20. A Bernoulli equation y' + P(x)y = Q(x)y^n becomes linear after substitution:
+A) v = yⁿ
+B) v = y^(1-n)
+C) v = y^(-n)
+D) v = ln(y)
+Answer: B
+
+## Section 3: Mechanics and Kinematics
+
+3. Mechanics and Kinematics (Medium)
+21. A projectile is fired at angle θ. The angle for maximum range on an inclined plane of angle α is:
+A) 45°
+B) (45° + α/2)
+C) (45° - α/2)
+D) (90° - α)/2
+Answer: B
+
+22. For a particle in SHM with amplitude A and frequency ω, the average kinetic energy over one period is:
+A) ¼mω²A²
+B) ½mω²A²
+C) mω²A²
+D) 2mω²A²
+Answer: A
+
+23. The moment of inertia of a hollow sphere about its diameter is:
+A) ⅖MR²
+B) ⅔MR²
+C) ½MR²
+D) MR²
+Answer: B
+
+24. A particle moves under central force F = -k/r³. Its trajectory is:
+A) Ellipse
+B) Parabola
+C) Spiral
+D) Straight line through center
+Answer: D
+
+25. Two particles of masses m₁ and m₂ collide elastically. The fraction of kinetic energy transferred is maximum when:
+A) m₁ = m₂
+B) m₁ >> m₂
+C) m₁ << m₂
+D) m₁ = 2m₂
+Answer: A
+
+26. The radius of gyration k of a body is related to moment of inertia I by:
+A) I = mk
+B) I = mk²
+C) I = m/k²
+D) I = m²k
+Answer: B
+
+27. For a particle moving in a potential V(x) = ½kx², the time period is:
+A) 2π√(m/k)
+B) 2π√(k/m)
+C) π√(m/k)
+D) π√(k/m)
+Answer: A
+
+28. The escape velocity from Earth's surface is approximately:
+A) 7.9 km/s
+B) 11.2 km/s
+C) 15.4 km/s
+D) 20.1 km/s
+Answer: B
+
+29. In a conical pendulum, the time period depends on:
+A) Mass only
+B) Length and angle only
+C) Mass and length
+D) All parameters
+Answer: B
+
+30. The precession frequency of a spinning top is proportional to:
+A) Angular velocity
+B) Square of angular velocity
+C) Inverse of angular velocity
+D) Square root of angular velocity
+Answer: C
+
+## Section 4: Tensor Analysis
+
+4. Tensor Analysis (Medium)
+31. The contraction of a tensor Aᵢⱼ over both indices gives:
+A) A scalar (trace)
+B) A vector
+C) A second-order tensor
+D) Zero
+Answer: A
+
+32. Under coordinate transformation, a covariant vector transforms with:
+A) Inverse transformation matrix
+B) Transformation matrix
+C) Transpose of transformation matrix
+D) Identity matrix
+Answer: A
+
+33. The Christoffel symbols of the first kind are:
+A) Always symmetric in lower indices
+B) Always antisymmetric
+C) Sometimes symmetric
+D) Never symmetric
+Answer: A
+
+34. For a metric tensor gᵢⱼ, the condition for orthogonal coordinates is:
+A) gᵢⱼ = 0 for all i,j
+B) gᵢⱼ = 0 for i ≠ j
+C) gᵢⱼ = 1 for all i,j
+D) det(gᵢⱼ) = 0
+Answer: B
+
+35. The covariant derivative of a scalar field is:
+A) Zero
+B) Ordinary derivative
+C) Christoffel symbol
+D) Metric tensor
+Answer: B
+
+36. In flat space, all Christoffel symbols:
+A) Equal 1
+B) Equal 0
+C) Are symmetric
+D) Are antisymmetric
+Answer: B
+
+37. The Ricci tensor is obtained by contracting:
+A) Metric tensor
+B) Riemann tensor
+C) Stress tensor
+D) Energy tensor
+Answer: B
+
+38. A tensor equation valid in one coordinate system is:
+A) Valid only in that system
+B) Valid in all coordinate systems
+C) Valid in Cartesian coordinates only
+D) Invalid in curved space
+Answer: B
+
+39. The number of independent components of a symmetric 3×3 tensor is:
+A) 3
+B) 6
+C) 9
+D) 27
+Answer: B
+
+40. Parallel transport preserves:
+A) Direction only
+B) Magnitude only
+C) Inner product
+D) Cross product
+Answer: C
+
+## Section 5: Numerical Methods
+
+5. Numerical Methods (Medium)
+41. The Newton-Raphson method fails when:
+A) f'(x) = 0 at root
+B) f(x) = 0
+C) f'(x) ≠ 0
+D) Initial guess is exact
+Answer: A
+
+42. In Gauss-Seidel iteration, convergence is guaranteed if the matrix is:
+A) Symmetric
+B) Diagonally dominant
+C) Singular
+D) Orthogonal
+Answer: B
+
+43. Simpson's 3/8 rule requires number of intervals to be divisible by:
+A) 2
+B) 3
+C) 4
+D) 8
+Answer: B
+
+44. The truncation error in Euler's method is of order:
+A) h
+B) h²
+C) h³
+D) h⁴
+Answer: B
+
+45. For interpolating n+1 data points, the unique polynomial has degree at most:
+A) n-1
+B) n
+C) n+1
+D) 2n
+Answer: B
+
+46. The convergence rate of bisection method is:
+A) Linear
+B) Superlinear
+C) Quadratic
+D) Cubic
+Answer: A
+
+47. In Runge-Kutta 4th order method, function evaluations per step are:
+A) 1
+B) 2
+C) 4
+D) 8
+Answer: C
+
+48. The condition number of a matrix measures:
+A) Size
+B) Rank
+C) Sensitivity to errors
+D) Determinant
+Answer: C
+
+49. Richardson extrapolation improves accuracy by:
+A) Increasing step size
+B) Combining results with different step sizes
+C) Using higher order derivatives
+D) Iterating more times
+Answer: B
+
+50. The optimal relaxation parameter in SOR method is:
+A) Always 1
+B) Between 0 and 1
+C) Between 1 and 2
+D) Greater than 2
+Answer: C
+
+## Section 6: Integration and Multiple Integrals
+
+6. Integration and Multiple Integrals (Medium)
+51. To evaluate ∬_D xy dA where D is bounded by y = x² and y = 2x, integrate:
+A) First with respect to x
+B) First with respect to y
+C) Either order works equally well
+D) Cannot be evaluated
+Answer: C
+
+52. The Jacobian for transformation to spherical coordinates is:
+A) r sin θ
+B) r² sin θ
+C) r² sin² θ
+D) r cos θ
+Answer: B
+
+53. In evaluating ∮_C F·dr using Green's theorem, the curve C must be:
+A) Open
+B) Closed and positively oriented
+C) Straight
+D) Circular
+Answer: B
+
+54. The surface area element in cylindrical coordinates is:
+A) ρ dρ dθ
+B) ρ dρ dz
+C) ρ dθ dz
+D) dρ dθ dz
+Answer: C
+
+55. For ∭_V f dV in spherical coordinates, the limits for φ are typically:
+A) 0 to π/2
+B) 0 to π
+C) 0 to 2π
+D) -π to π
+Answer: B
+
+56. The flux integral ∬_S F·n dS represents:
+A) Circulation
+B) Work done
+C) Flow rate through surface
+D) Surface area
+Answer: C
+
+57. When changing order of integration in ∫∫ f(x,y) dy dx, one must:
+A) Change the integrand
+B) Adjust the limits appropriately
+C) Add a Jacobian
+D) Multiply by -1
+Answer: B
+
+58. The centroid coordinates involve integrals of the form:
+A) ∬ f dA
+B) ∬ xf dA / ∬ f dA
+C) ∬ x² dA
+D) ∬ 1 dA
+Answer: B
+
+59. Path independence of ∫_C F·dr implies:
+A) F is conservative
+B) Curl F = 0
+C) F = ∇φ for some φ
+D) All of the above
+Answer: D
+
+60. The average value of f over region D is:
+A) ∬_D f dA
+B) ∬_D f dA / Area(D)
+C) Max(f) + Min(f)
+D) ∬_D f² dA
+Answer: B
+
+## Section 7: Linear Algebra and Matrices
+
+7. Linear Algebra and Matrices (Medium)
+61. For a 3×3 matrix to be invertible, its rank must be:
+A) 1
+B) 2
+C) 3
+D) Any value
+Answer: C
+
+62. If A is a 3×3 matrix with eigenvalues 1, 2, 3, then det(A) equals:
+A) 1
+B) 3
+C) 6
+D) 9
+Answer: C
+
+63. The Cayley-Hamilton theorem states that a matrix satisfies:
+A) Its determinant equation
+B) Its characteristic equation
+C) Its trace equation
+D) Its rank equation
+Answer: B
+
+64. For symmetric matrix A, all eigenvalues are:
+A) Real
+B) Complex
+C) Positive
+D) Zero
+Answer: A
+
+65. The spectral radius of a matrix is:
+A) Sum of eigenvalues
+B) Product of eigenvalues
+C) Maximum absolute eigenvalue
+D) Minimum eigenvalue
+Answer: C
+
+66. If AB = BA = I, then B is:
+A) Transpose of A
+B) Inverse of A
+C) Adjoint of A
+D) Determinant of A
+Answer: B
+
+67. The null space of a matrix A consists of all vectors x such that:
+A) Ax = x
+B) Ax = 0
+C) Ax = 1
+D) xA = 0
+Answer: B
+
+68. For an orthogonal matrix Q:
+A) Q^T = Q^(-1)
+B) Q^T = Q
+C) Q^2 = I
+D) det(Q) = 0
+Answer: A
+
+69. The condition for diagonalizability of an n×n matrix is:
+A) n distinct eigenvalues
+B) n linearly independent eigenvectors
+C) Positive determinant
+D) Symmetric structure
+Answer: B
+
+70. The Jordan canonical form is used when a matrix is:
+A) Symmetric
+B) Not diagonalizable
+C) Singular
+D) Orthogonal
+Answer: B
+
+## Section 8: Fourier Series and Transforms
+
+8. Fourier Series and Transforms (Medium)
+71. The Fourier series of f(x) = x on [-π, π] contains:
+A) Only cosines
+B) Only sines
+C) Both sines and cosines
+D) Only constant term
+Answer: B
+
+72. For a function with jump discontinuity, the Fourier series converges to:
+A) Left-hand limit
+B) Right-hand limit
+C) Average of left and right limits
+D) Does not converge
+Answer: C
+
+73. The Fourier coefficient aₙ for f(x) = |x| on [-π, π] equals:
+A) 0 for n even
+B) 0 for n odd
+C) -4/(πn²) for n odd
+D) 4/(πn²) for n even
+Answer: C
+
+74. Parseval's identity relates:
+A) Time and frequency domains
+B) ∫|f|² to sum of |coefficients|²
+C) Real and imaginary parts
+D) Sine and cosine terms
+Answer: B
+
+75. The Fourier transform of a Gaussian function is:
+A) Another Gaussian
+B) Exponential
+C) Delta function
+D) Sinc function
+Answer: A
+
+76. The convolution theorem states F{f*g} equals:
+A) F{f} + F{g}
+B) F{f} · F{g}
+C) F{f} / F{g}
+D) F{f} - F{g}
+Answer: B
+
+77. For half-range expansions, the function is extended as:
+A) Periodic only
+B) Even or odd
+C) Continuous
+D) Differentiable
+Answer: B
+
+78. The Gibbs overshoot is approximately:
+A) 5%
+B) 9%
+C) 15%
+D) 20%
+Answer: B
+
+79. The Fourier series of a C¹ function converges:
+A) Pointwise only
+B) Uniformly
+C) In L² sense only
+D) Does not converge
+Answer: B
+
+80. The Dirichlet kernel Dₙ(x) has the property:
+A) ∫ Dₙ(x)dx = 1
+B) ∫ Dₙ(x)dx = 2π
+C) ∫ Dₙ(x)dx = n
+D) ∫ Dₙ(x)dx = 0
+Answer: B
+
+## Section 9: Partial Differential Equations
+
+9. Partial Differential Equations (Medium)
+81. The characteristic curves of uₓₓ - 4uᵧᵧ = 0 have slopes:
+A) ±1
+B) ±2
+C) ±4
+D) ±1/2
+Answer: B
+
+82. The canonical form of a hyperbolic PDE is:
+A) uξξ + uηη = 0
+B) uξξ - uηη = 0
+C) uξξ = 0
+D) uξη = 0
+Answer: B
+
+83. For the heat equation uₜ = kuₓₓ with u(0,t) = u(L,t) = 0, separation gives:
+A) X'' + λX = 0, T' + λkT = 0
+B) X'' - λX = 0, T' - λkT = 0
+C) X'' + λX = 0, T' - λkT = 0
+D) X'' - λX = 0, T' + λkT = 0
+Answer: A
+
+84. The fundamental solution of the heat equation in 1D is proportional to:
+A) exp(-x²/4kt)/√t
+B) exp(-x²/4kt)
+C) exp(-x²/4kt)·t
+D) exp(-x²/4kt)/t
+Answer: A
+
+85. D'Alembert's solution applies when initial conditions are:
+A) u(x,0) only
+B) uₜ(x,0) only
+C) Both u(x,0) and uₜ(x,0)
+D) Neither
+Answer: C
+
+86. The maximum principle for heat equation states that maximum occurs:
+A) At center of domain
+B) At final time
+C) On parabolic boundary
+D) Everywhere
+Answer: C
+
+87. Green's function for Laplace equation satisfies:
+A) ∇²G = 0
+B) ∇²G = δ(x-ξ)
+C) ∇²G = 1
+D) ∇²G = -1
+Answer: B
+
+88. The eigenvalues for -X'' = λX with X(0) = X(L) = 0 are:
+A) λₙ = n²π²/L²
+B) λₙ = nπ/L
+C) λₙ = n²π²/L
+D) λₙ = (nπ/L)²
+Answer: A
+
+89. Method of characteristics reduces a first-order PDE to:
+A) Algebraic equations
+B) ODEs
+C) Higher-order PDEs
+D) Integral equations
+Answer: B
+
+90. Uniqueness for Laplace equation requires specifying:
+A) u on boundary
+B) ∂u/∂n on boundary
+C) Either u or ∂u/∂n on boundary
+D) Both u and ∂u/∂n on boundary
+Answer: C
+
+## Section 10: Optimization and Advanced Topics
+
+10. Optimization and Advanced Topics (Medium)
+91. The Lagrangian for minimizing f(x,y) subject to g(x,y) = 0 is:
+A) f + λg
+B) f - λg
+C) f·g + λ
+D) f/g + λ
+Answer: A
+
+92. At a saddle point, the Hessian matrix is:
+A) Positive definite
+B) Negative definite
+C) Indefinite
+D) Singular
+Answer: C
+
+93. The method of steepest descent follows direction:
+A) ∇f
+B) -∇f
+C) ∇²f
+D) (∇f)⊥
+Answer: B
+
+94. In the simplex method, the optimal solution occurs at:
+A) Interior point
+B) Vertex of feasible region
+C) Centroid
+D) Any boundary point
+Answer: B
+
+95. The KKT conditions generalize Lagrange multipliers to include:
+A) Equality constraints only
+B) Inequality constraints
+C) Multiple objectives
+D) Integer variables
+Answer: B
+
+96. The variational principle δ∫F dx = 0 leads to:
+A) Algebraic equation
+B) Euler-Lagrange equation
+C) Hamilton's equation
+D) Newton's equation
+Answer: B
+
+97. For a functional J[y] = ∫F(x,y,y')dx, the first variation is:
+A) δJ = ∫(∂F/∂y)δy dx
+B) δJ = ∫[(∂F/∂y) - d/dx(∂F/∂y')]δy dx
+C) δJ = ∫(∂F/∂y')δy' dx
+D) δJ = 0
+Answer: B
+
+98. The brachistochrone curve is:
+A) Straight line
+B) Parabola
+C) Cycloid
+D) Catenary
+Answer: C
+
+99. In constrained optimization, the bordered Hessian tests for:
+A) Global optimum
+B) Local optimum subject to constraints
+C) Feasibility
+D) Uniqueness
+Answer: B
+
+100. The principle of least action states that the path taken minimizes:
+A) Energy
+B) Time
+C) Action integral
+D) Distance
+Answer: C

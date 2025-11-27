@@ -1,0 +1,581 @@
+{
+  "subject": "English Essay (CSS Pakistan)",
+  "lastUpdated": "2025-10-06",
+  "totalNotes": 20,
+  "categories": [
+    "Exam Scope & Past Papers",
+    "Thesis, Argument & Structure",
+    "Paragraphing & Coherence",
+    "Evidence, Examples & Data",
+    "Introductions & Conclusions",
+    "Counter-argument & Refutation",
+    "Style, Clarity & Grammar",
+    "Academic Phrases & Templates",
+    "Outlining, Planning & Time Management",
+    "Reading for Content (Pakistan & World)",
+    "Current Affairs & Editorials",
+    "Quotations, Citations & Integrity",
+    "Practice Drills & Model Analyses",
+    "Topic Discovery & Brainstorming",
+    "Comparative/Problem-Solution/CAUSAL Essays",
+    "Editing & Self-Review",
+    "Language Register & Tone",
+    "Common Pitfalls in CSS Essay",
+    "Linking with Precis & Composition",
+    "Exam-Day Strategy"
+  ],
+  "notes": [
+    {
+      "id": "E1",
+      "title": "Understand the Official Scope: CSS Essay",
+      "content": "Start from FPSC's official syllabi and recent descriptive papers to understand the essay's expectations: sustained argument, clear structure, credible evidence.",
+      "keyTakeaways": [
+        "Use official FPSC materials to calibrate difficulty and themes.",
+        "Scan at least 10 years of essay prompts to map recurring domains.",
+        "Align practice with time/word constraints used by FPSC."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Syllabi (Official)",
+          "url": "https://www.fpsc.gov.pk/category/css-syllabi-1493570691-2024-06-11",
+          "type": "web",
+          "description": "Authoritative syllabi hub."
+        },
+        {
+          "title": "FPSC — CSS 2025 Descriptive Papers (incl. Essay)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "pdf",
+          "description": "Latest official set."
+        },
+        {
+          "title": "FPSC — CSS 2024 Descriptive Papers",
+          "url": "https://www.fpsc.gov.pk/category/css-2023-descriptive-papers-516644049-2024-06-27",
+          "type": "pdf",
+          "description": "Prior year reference."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Scope & Past Papers",
+      "topics": ["syllabus", "past papers", "official"]
+    },
+    {
+      "id": "E2",
+      "title": "Craft a Debatable Thesis",
+      "content": "Your thesis is a precise, arguable claim that answers the prompt and foreshadows your line of reasoning.",
+      "keyTakeaways": [
+        "Place a specific, defensible claim early (often end of intro).",
+        "Avoid topics-as-thesis; make a claim about the topic.",
+        "Ensure every paragraph advances the thesis."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Developing Strong Thesis Statements",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html",
+          "type": "web",
+          "description": "What makes a thesis debatable."
+        },
+        {
+          "title": "Harvard Writing Center — Thesis",
+          "url": "https://writingcenter.fas.harvard.edu/thesis",
+          "type": "web",
+          "description": "Concise guidance on argument claims."
+        },
+        {
+          "title": "MIT (via Harvard Writing Center) — Keep Thesis Prominent",
+          "url": "https://groups.csail.mit.edu/mac/classes/6.805/admin/admin-fall-2010/Thesis.html",
+          "type": "web",
+          "description": "Placement and salience tips."
+        }
+      ],
+      "importance": "high",
+      "category": "Thesis, Argument & Structure",
+      "topics": ["thesis", "argument", "claim"]
+    },
+    {
+      "id": "E3",
+      "title": "Choose and Apply Argument Models",
+      "content": "Organize reasoning with Classical, Toulmin, or Rogerian structures to sustain logical progression.",
+      "keyTakeaways": [
+        "Classical: intro → proofs → counter → conclusion.",
+        "Toulmin: claim, grounds, warrant, backing, qualifier, rebuttal.",
+        "Rogerian: fairly present opposing views before convergence."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Organizing Your Argument",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html",
+          "type": "web",
+          "description": "Classical, Toulmin, Rogerian explained."
+        },
+        {
+          "title": "Purdue OWL — Argumentative Essays",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html",
+          "type": "web",
+          "description": "Genre expectations and structure."
+        }
+      ],
+      "importance": "high",
+      "category": "Thesis, Argument & Structure",
+      "topics": ["toulmin", "rogerian", "classical"]
+    },
+    {
+      "id": "E4",
+      "title": "Outline First: From Prompt → Questions → Claims",
+      "content": "Turn the prompt into sub-questions, brainstorm claims/counterclaims, then outline paragraphs with topic sentences and evidence.",
+      "keyTakeaways": [
+        "Reverse-outline prior to drafting to check flow.",
+        "Each paragraph = one claim tied to thesis.",
+        "Pre-plan counterargument placement."
+      ],
+      "resources": [
+        {
+          "title": "Harvard Writing Center — Strategies for Essay Writing (PDF)",
+          "url": "https://writingcenter.fas.harvard.edu/sites/g/files/omnuum451/files/2024-03/Strategies%20for%20Essay%20Writing--Complete_0.pdf",
+          "type": "pdf",
+          "description": "End-to-end planning guide."
+        },
+        {
+          "title": "Harvard Writing Center — Organizing Your Essay",
+          "url": "https://writingcenter.fas.harvard.edu/tips-organizing-your-essay",
+          "type": "web",
+          "description": "Thesis-to-paragraph mapping."
+        },
+        {
+          "title": "Harvard Writing Blog — Flow & Reverse Outlining",
+          "url": "https://writingcenter.fas.harvard.edu/blog/does-my-paper-flow-tips-creating-well-structured-essay",
+          "type": "web",
+          "description": "Coherence checks."
+        }
+      ],
+      "importance": "high",
+      "category": "Outlining, Planning & Time Management",
+      "topics": ["outlining", "reverse outline", "flow"]
+    },
+    {
+      "id": "E5",
+      "title": "Paragraphing that Works",
+      "content": "Compose unified paragraphs with clear topic sentences, analysis, and transitions; avoid evidence dumps.",
+      "keyTakeaways": [
+        "Topic sentence states the claim of the paragraph.",
+        "Evidence + analysis outweigh mere description.",
+        "Use explicit transitions for coherence."
+      ],
+      "resources": [
+        {
+          "title": "Harvard — Anatomy of a Body Paragraph",
+          "url": "https://writingcenter.fas.harvard.edu/anatomy-body-paragraph",
+          "type": "web",
+          "description": "Model anatomy of strong paragraphs."
+        },
+        {
+          "title": "BBC Learning Eng — Paragraph Writing (Video)",
+          "url": "https://www.youtube.com/watch?v=ig9jN5R-VZQ",
+          "type": "video",
+          "description": "Concise visual refresher."
+        }
+      ],
+      "importance": "high",
+      "category": "Paragraphing & Coherence",
+      "topics": ["paragraph", "topic sentence", "cohesion"]
+    },
+    {
+      "id": "E6",
+      "title": "Academic Phrases (Without Sounding Robotic)",
+      "content": "Use phrasebanks to scaffold analysis, signal stance, structure comparisons, and manage counter-claims.",
+      "keyTakeaways": [
+        "Treat templates as scaffolds; customize for voice.",
+        "Signal reasoning: 'This suggests…', 'By contrast…'.",
+        "Use for counter-argument and concessions."
+      ],
+      "resources": [
+        {
+          "title": "Manchester Academic Phrasebank (Official Site)",
+          "url": "https://www.phrasebank.manchester.ac.uk/",
+          "type": "web",
+          "description": "Organized by functions/sections."
+        },
+        {
+          "title": "Academic Phrasebank (PDF 2021, Navigable)",
+          "url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/34773565450/CourseNode/98537975000364/Academic-Phrasebank-Navigable-PDF-2021.pdf",
+          "type": "pdf",
+          "description": "Portable reference."
+        },
+        {
+          "title": "They Say / I Say Templates (selection)",
+          "url": "https://wp.stolaf.edu/academic-success/files/2023/02/They-Say-I-Say-Templates1.pdf",
+          "type": "pdf",
+          "description": "Argument-framing sentence patterns."
+        }
+      ],
+      "importance": "high",
+      "category": "Academic Phrases & Templates",
+      "topics": ["templates", "signposting", "stance"]
+    },
+    {
+      "id": "E7",
+      "title": "Style & Clarity: Write Like a Pro",
+      "content": "Prefer clear, concrete language; cut clutter; keep sentences varied; avoid clichés and over-nominalization.",
+      "keyTakeaways": [
+        "Short sentences for control; vary rhythm for engagement.",
+        "Use active voice where appropriate; keep subjects close to verbs.",
+        "Edit ruthlessly—clarity over ornament."
+      ],
+      "resources": [
+        {
+          "title": "The Economist Style Guide (preview)",
+          "url": "https://profilebooks.com/wp-content/uploads/wpallimport/files/PDFs/9781781258316_preview.pdf",
+          "type": "pdf",
+          "description": "Concise rules for clarity."
+        },
+        {
+          "title": "Economist — Updated Guide to Good Writing (2024)",
+          "url": "https://www.economist.com/news/2024/01/25/shock-horror-the-economist-has-updated-its-guide-to-good-writing",
+          "type": "web",
+          "description": "Principles and updates."
+        }
+      ],
+      "importance": "high",
+      "category": "Style, Clarity & Grammar",
+      "topics": ["style", "clarity", "concision"]
+    },
+    {
+      "id": "E8",
+      "title": "Lead-ins & Landings: Introductions & Conclusions",
+      "content": "Open with precise context and a sharp thesis; close by synthesizing implications—avoid mere summaries.",
+      "keyTakeaways": [
+        "Hook → context → thesis → roadmap.",
+        "Conclude with 'So what?' implications, not new claims.",
+        "Mirror your structure to signal closure."
+      ],
+      "resources": [
+        {
+          "title": "Harvard — Strategies for Essay Writing (hub)",
+          "url": "https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing",
+          "type": "web",
+          "description": "Sections on intros/conclusions."
+        }
+      ],
+      "importance": "medium",
+      "category": "Introductions & Conclusions",
+      "topics": ["intro", "conclusion", "hooks"]
+    },
+    {
+      "id": "E9",
+      "title": "Using Evidence & Data (CSS-relevant)",
+      "content": "Support claims with statistics, reports, and credible news; contextualize numbers and cite provenance.",
+      "keyTakeaways": [
+        "Prefer recent, reputable sources (govt, multilaterals, major media).",
+        "Explain significance; avoid data dumps.",
+        "Cross-verify sensitive stats."
+      ],
+      "resources": [
+        {
+          "title": "Dawn — Opinion & Editorial",
+          "url": "https://www.dawn.com/opinion",
+          "type": "web",
+          "description": "Models of evidence-based argument on Pakistan affairs."
+        },
+        {
+          "title": "Express Tribune — Editorial",
+          "url": "https://tribune.com.pk/opinion/editorial",
+          "type": "web",
+          "description": "Current debates and framing."
+        },
+        {
+          "title": "The News — Opinion/Editorial",
+          "url": "https://e.thenews.com.pk/category/opinion",
+          "type": "web",
+          "description": "Wide topical coverage."
+        }
+      ],
+      "importance": "high",
+      "category": "Evidence, Examples & Data",
+      "topics": ["evidence", "data", "sources"]
+    },
+    {
+      "id": "E10",
+      "title": "Practice on Authentic Prompts",
+      "content": "Build a practice bank of 20–30 recent essay prompts; time yourself; peer-review against a rubric.",
+      "keyTakeaways": [
+        "Write full essays weekly under exam timing.",
+        "Rotate genres: argumentative, analytical, problem-solution.",
+        "Maintain an error log and improvements list."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Essay Paper 2025",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "pdf",
+          "description": "Use as timed prompts."
+        },
+        {
+          "title": "CSS Essay Past Papers Compilation",
+          "url": "https://thecsspoint.com/css-essay-past-papers/",
+          "type": "web",
+          "description": "2000–2025 compilation (third-party)."
+        }
+      ],
+      "importance": "high",
+      "category": "Practice Drills & Model Analyses",
+      "topics": ["practice", "prompts", "timed writing"]
+    },
+    {
+      "id": "E11",
+      "title": "Counter-argument & Refutation",
+      "content": "Surface the strongest opposing view fairly; rebut with evidence and warrant; avoid straw-man tactics.",
+      "keyTakeaways": [
+        "Refutation strengthens credibility and depth.",
+        "Place counter either after mid-proofs or integrate per paragraph.",
+        "Concede partial truths strategically."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Argument Papers",
+          "url": "https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html",
+          "type": "web",
+          "description": "Counter-argument strategies."
+        },
+        {
+          "title": "'They Say / I Say' Templates (Vanderbilt)",
+          "url": "https://www.vanderbilt.edu/writing/wp-content/uploads/sites/164/2016/10/Templates-from-They-Say-I-say.pdf",
+          "type": "pdf",
+          "description": "Language for concession/refutation."
+        }
+      ],
+      "importance": "high",
+      "category": "Counter-argument & Refutation",
+      "topics": ["counterclaim", "rebuttal", "concession"]
+    },
+    {
+      "id": "E12",
+      "title": "Genre Moves: Problem-Solution / Causal / Comparative",
+      "content": "Match structure to prompt type: define problem, causes, impacts, remedies; or trace causes/effects; or set criteria and compare alternatives.",
+      "keyTakeaways": [
+        "Use headings lightly in drafts; implicit structure in final exam script.",
+        "For solutions, test feasibility and trade-offs.",
+        "For comparisons, define evaluation criteria first."
+      ],
+      "resources": [
+        {
+          "title": "Harvard — Strategies for Essay Writing (hub)",
+          "url": "https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing",
+          "type": "web",
+          "description": "Guides adaptable to CSS genres."
+        }
+      ],
+      "importance": "medium",
+      "category": "Comparative/Problem-Solution/CAUSAL Essays",
+      "topics": ["genre", "structure", "criteria"]
+    },
+    {
+      "id": "E13",
+      "title": "Build Topical Knowledge (Daily Editorial Diet)",
+      "content": "Read Pakistan-focused editorials daily for content, framing, and examples (economy, governance, foreign affairs, climate).",
+      "keyTakeaways": [
+        "Summarize editorials into argument trees.",
+        "Clip data points with source/date for citation.",
+        "Track opposing frames on the same issue."
+      ],
+      "resources": [
+        {
+          "title": "Dawn — Editorial (daily)",
+          "url": "https://www.dawn.com/newspaper/editorial",
+          "type": "web",
+          "description": "Daily editorials page."
+        },
+        {
+          "title": "Express Tribune — Opinion",
+          "url": "https://tribune.com.pk/opinion",
+          "type": "web",
+          "description": "Op-ed range and debates."
+        },
+        {
+          "title": "The News — Editorial",
+          "url": "https://e.thenews.com.pk/category/editorial",
+          "type": "web",
+          "description": "Editorial stances & arguments."
+        }
+      ],
+      "importance": "high",
+      "category": "Current Affairs & Editorials",
+      "topics": ["Pakistan affairs", "editorials", "reading list"]
+    },
+    {
+      "id": "E14",
+      "title": "Evidence Currency: News to Statistics Pipeline",
+      "content": "Convert breaking stories into examinable arguments by adding background trends, official reports, and global comparisons.",
+      "keyTakeaways": [
+        "Anchor facts with dates and institutions.",
+        "Add 5-year trend lines where possible.",
+        "Balance national sources with reputable international ones."
+      ],
+      "resources": [
+        {
+          "title": "Reuters Pakistan — Recent Issues (examples)",
+          "url": "https://www.reuters.com/world/china/suicide-blast-targeting-pakistan-paramilitary-kills-10-officials-say-2025-09-30/",
+          "type": "web",
+          "description": "Model of concise fact reporting."
+        },
+        {
+          "title": "Reuters Special Report — Water & agriculture (context)",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/solar-powered-farming-is-digging-pakistan-into-water-catastrophe-2025-10-02/",
+          "type": "web",
+          "description": "Use as case evidence with data."
+        }
+      ],
+      "importance": "medium",
+      "category": "Evidence, Examples & Data",
+      "topics": ["currency", "context", "verification"]
+    },
+    {
+      "id": "E15",
+      "title": "Language Accuracy & Mechanics",
+      "content": "Polish grammar, punctuation, and idiom; favor standard usage; avoid overly ornate diction.",
+      "keyTakeaways": [
+        "Proof once for ideas, once for style, once for mechanics.",
+        "Prefer plain words to jargon.",
+        "Keep subject-verb agreement and parallelism tight."
+      ],
+      "resources": [
+        {
+          "title": "Economist Style Guide (preview PDF)",
+          "url": "https://profilebooks.com/wp-content/uploads/wpallimport/files/PDFs/9781781258316_preview.pdf",
+          "type": "pdf",
+          "description": "Concise usage rules."
+        },
+        {
+          "title": "British Council — Writing Skills (practice)",
+          "url": "https://learnenglish.britishcouncil.org/skills/writing",
+          "type": "web",
+          "description": "Exercises with feedback."
+        }
+      ],
+      "importance": "high",
+      "category": "Style, Clarity & Grammar",
+      "topics": ["grammar", "punctuation", "usage"]
+    },
+    {
+      "id": "E16",
+      "title": "Practice Rubric & Self-Review Checklist",
+      "content": "Use a rubric that scores thesis clarity, structure, evidence quality, relevance, coherence, style, and mechanics.",
+      "keyTakeaways": [
+        "Quantify weak areas to focus revisions.",
+        "Track recurring errors (spelling, logic gaps, weak transitions).",
+        "Ask peers to 'stress-test' argument and counter-argument."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Essay Writing (hub)",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/index.html",
+          "type": "web",
+          "description": "Criteria and genre expectations."
+        }
+      ],
+      "importance": "medium",
+      "category": "Editing & Self-Review",
+      "topics": ["rubric", "peer review", "revision"]
+    },
+    {
+      "id": "E17",
+      "title": "Time Management in the Exam Hall",
+      "content": "Allocate fixed minutes to decode prompt, outline, draft, and revise; don't skip the final proof pass.",
+      "keyTakeaways": [
+        "10–12 min outline → 70–75 min draft → 10–15 min revision.",
+        "If stuck, write the easiest body section first.",
+        "Leave visible paragraph breaks and neat handwriting."
+      ],
+      "resources": [
+        {
+          "title": "British Council (IELTS) — Timed Writing Practice",
+          "url": "https://www.britishcouncil.pk/exam/ielts/prepare",
+          "type": "web",
+          "description": "Drills to simulate timed writing."
+        }
+      ],
+      "importance": "high",
+      "category": "Outlining, Planning & Time Management",
+      "topics": ["timing", "revision", "workflow"]
+    },
+    {
+      "id": "E18",
+      "title": "Link with Precis & Composition",
+      "content": "Transfer sentence-level skills from Precis & Composition to essays: cohesion, parallelism, precision, and summarizing opposing views.",
+      "keyTakeaways": [
+        "Treat precis practice as compression training for intros.",
+        "Apply grammar precision to reduce ambiguity.",
+        "Use vocabulary growth to sharpen nuance."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — English (Precis & Composition) 2024 (PDF)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-06-27-05-06-15-ENGLISH-%28P%26C%29.pdf",
+          "type": "pdf",
+          "description": "Skills that feed into essay writing."
+        }
+      ],
+      "importance": "medium",
+      "category": "Linking with Precis & Composition",
+      "topics": ["precision", "cohesion", "summary"]
+    },
+    {
+      "id": "E19",
+      "title": "Model & Deconstruct Good Writing Weekly",
+      "content": "Select one strong editorial each day; outline its thesis, claims, evidence, and counter-moves; imitate structure on a new topic.",
+      "keyTakeaways": [
+        "Practice 'argument maps' from real op-eds.",
+        "Translate data points into your own phrasing with attribution.",
+        "Maintain a thematic clippings file (economy, education, climate)."
+      ],
+      "resources": [
+        {
+          "title": "Dawn — Opinion (hub)",
+          "url": "https://www.dawn.com/opinion",
+          "type": "web",
+          "description": "Daily high-signal essays."
+        },
+        {
+          "title": "Express Tribune — Opinion (hub)",
+          "url": "https://tribune.com.pk/opinion",
+          "type": "web",
+          "description": "Range of perspectives."
+        }
+      ],
+      "importance": "high",
+      "category": "Reading for Content (Pakistan & World)",
+      "topics": ["model analysis", "argument map", "reading plan"]
+    },
+    {
+      "id": "E20",
+      "title": "Starter Drill Pack (Do Now)",
+      "content": "A 10-day mini-plan: outline two FPSC prompts/day; write one 600–800-word essay every other day; daily paragraph drills for coherence.",
+      "keyTakeaways": [
+        "Alternate outlining and drafting days.",
+        "Use phrasebank signals to tighten logic.",
+        "End each day with 10-minute edit pass focusing on one issue."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — CSS Essay Paper (latest set)",
+          "url": "https://www.fpsc.gov.pk/category/css-2025-descriptive-papers-1241569033-2025-06-05",
+          "type": "pdf",
+          "description": "Use as prompt source."
+        },
+        {
+          "title": "Manchester Academic Phrasebank",
+          "url": "https://www.phrasebank.manchester.ac.uk/",
+          "type": "web",
+          "description": "Daily signposting practice."
+        },
+        {
+          "title": "Purdue OWL — Argumentative Essay",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html",
+          "type": "web",
+          "description": "Checklist for drafts."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam-Day Strategy",
+      "topics": ["drills", "practice plan", "checklist"]
+    }
+  ]
+}

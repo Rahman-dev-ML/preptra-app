@@ -1,0 +1,585 @@
+{
+  "subject": "Comparative Study of Major Religions (CSS Pakistan)",
+  "lastUpdated": "2025-10-06",
+  "totalNotes": 20,
+  "categories": [
+    "Exam Scope & Past Papers",
+    "Comparative Ethics & Morality",
+    "Sacred Texts & Key Passages",
+    "Buddhism (Four Truths & Eightfold Path)",
+    "Hinduism (Bhagavad Gita & Schools)",
+    "Judaism (Tanakh, Talmud, 13 Principles)",
+    "Christianity (Catholic–Protestant, Atonement)",
+    "Islam (Ethics, Law, Theology)",
+    "Biographies & Reform Movements",
+    "Interfaith Relations & Harmony",
+    "Historical Impact & Movements",
+    "Reason, Revelation & Epistemology",
+    "Data, Demography & Trends",
+    "Essay & Note-Writing Templates",
+    "Comparative Question Drills",
+    "Quotations & Allusions",
+    "Current Affairs & Contemporary Relevance",
+    "Maps, Timelines & Visual Aids",
+    "Reading Plans (4–8 weeks)",
+    "Exam-Day Strategy"
+  ],
+  "notes": [
+    {
+      "id": "R1",
+      "title": "Official Scope & Syllabus",
+      "content": "Start with FPSC's official syllabus to anchor topics: definitions of religion, world religious landscape, and core sections on Hinduism, Buddhism, Judaism, Christianity, Islam.",
+      "keyTakeaways": [
+        "Know alternatives (Islamic Studies OR Comparative Religions) and 100-mark structure.",
+        "Use syllabus headings to build your notebook and weekly goals."
+      ],
+      "resources": [
+        {
+          "title": "FPSC — Revised Syllabi CE-2016 & onwards (PDF)",
+          "url": "https://www.fpsc.gov.pk/assets/media/2024-10-22-01-45-26-Syllabus_for_CE-2016_and_onwards.pdf",
+          "type": "pdf",
+          "description": "Official policy; notes option for non-Muslims."
+        },
+        {
+          "title": "CSS Point — Subject outline (mirror)",
+          "url": "https://thecsspoint.com/css-syllabus/comparative-study-of-major-religions/",
+          "type": "web",
+          "description": "Handy summary mapped to topics."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Scope & Past Papers",
+      "topics": ["syllabus", "scope"]
+    },
+    {
+      "id": "R2",
+      "title": "Past-Paper Mapping & Recurring Question Types",
+      "content": "Build a bank of recurring prompts in five clusters: descriptive essays, comparative ethics, note-writing on texts/rituals, historical/biographical analysis, and interfaith harmony.",
+      "keyTakeaways": [
+        "Convert each past prompt into an outline + 5–7 talking points.",
+        "Tag questions by religion/theme for spaced revision."
+      ],
+      "resources": [
+        {
+          "title": "CSS Past Papers—Comparative Religions (compiled)",
+          "url": "https://thecsspoint.com/css-essay-past-papers/",
+          "type": "web",
+          "description": "Use for trends and drill prompts."
+        }
+      ],
+      "importance": "high",
+      "category": "Exam Scope & Past Papers",
+      "topics": ["patterns", "drills"]
+    },
+    {
+      "id": "R3",
+      "title": "Comparative Ethics: Ten Commandments ↔ Islamic Moral Teachings",
+      "content": "Understand content and function of Decalogue (Exodus 20) and compare with Qur'anic ethics (monotheism, justice, compassion, honesty, family duties).",
+      "keyTakeaways": [
+        "Map commandment-to-virtue pairs (e.g., truthfulness, property, worship).",
+        "Show convergences and doctrinal differences respectfully."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Ten Commandments overview",
+          "url": "https://www.britannica.com/topic/Ten-Commandments",
+          "type": "web",
+          "description": "Authoritative overview"
+        },
+        {
+          "title": "BibleGateway — Exodus 20 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20&version=NIV",
+          "type": "web",
+          "description": "Primary text"
+        },
+        {
+          "title": "Britannica — Islam: Doctrines of the Qur'an",
+          "url": "https://www.britannica.com/topic/Islam/Doctrines-of-the-Qur-an",
+          "type": "web",
+          "description": "Quranic ethics overview"
+        },
+        {
+          "title": "Quran.com — The Noble Qur'an",
+          "url": "https://quran.com/en",
+          "type": "web",
+          "description": "Primary Islamic text"
+        }
+      ],
+      "importance": "high",
+      "category": "Comparative Ethics & Morality",
+      "topics": ["Decalogue", "akhlaq", "virtue"]
+    },
+    {
+      "id": "R4",
+      "title": "Buddhism: Four Noble Truths & Eightfold Path",
+      "content": "Master doctrinal core (dukkha, origin, cessation, path) and the Eightfold Path for ethical–meditative–wisdom structure.",
+      "keyTakeaways": [
+        "Use precise phrasing of each 'Right' factor.",
+        "Link ethics (sila) → meditation (samadhi) → insight (prajna)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Eightfold Path",
+          "url": "https://www.britannica.com/topic/Eightfold-Path",
+          "type": "web",
+          "description": "Detailed explanation"
+        },
+        {
+          "title": "Britannica — Four Noble Truths",
+          "url": "https://www.britannica.com/topic/Buddhism/The-Four-Noble-Truths",
+          "type": "web",
+          "description": "Core Buddhist doctrine"
+        }
+      ],
+      "importance": "high",
+      "category": "Buddhism (Four Truths & Eightfold Path)",
+      "topics": ["ethics", "meditation", "insight"]
+    },
+    {
+      "id": "R5",
+      "title": "Hinduism: Bhagavad Gita—Duty, Devotion, Discipline",
+      "content": "Use the Gita to discuss dharma, karma-yoga, bhakti, and the tension between renunciation and action.",
+      "keyTakeaways": [
+        "Quote with context (dialogue of Krishna–Arjuna).",
+        "Show how Gita frames ethical action without attachment."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Bhagavad Gita overview",
+          "url": "https://www.britannica.com/topic/Bhagavad-Gita",
+          "type": "web",
+          "description": "Comprehensive overview"
+        },
+        {
+          "title": "Sacred-Texts — Bhagavad Gita (text)",
+          "url": "https://sacred-texts.com/hin/sbg/index.htm",
+          "type": "web",
+          "description": "Full text online"
+        },
+        {
+          "title": "Project Gutenberg — Arnold translation",
+          "url": "https://www.gutenberg.org/files/2388/2388-h/2388-h.htm",
+          "type": "web",
+          "description": "Public domain translation"
+        }
+      ],
+      "importance": "high",
+      "category": "Hinduism (Bhagavad Gita & Schools)",
+      "topics": ["dharma", "bhakti", "karma-yoga"]
+    },
+    {
+      "id": "R6",
+      "title": "Judaism: Tanakh, Talmud & Maimonides' Thirteen Principles",
+      "content": "Know structure of Tanakh; appreciate Talmud's role; summarize Maimonides' creed.",
+      "keyTakeaways": [
+        "Differentiate Written vs. Oral Torah; Bavli's authority.",
+        "Use one-line summaries of the 13 principles."
+      ],
+      "resources": [
+        {
+          "title": "Sefaria — Tanakh (Heb/Eng)",
+          "url": "https://www.sefaria.org/texts/Tanakh",
+          "type": "web",
+          "description": "Primary Jewish texts"
+        },
+        {
+          "title": "Britannica — Talmud & Midrash",
+          "url": "https://www.britannica.com/topic/Talmud",
+          "type": "web",
+          "description": "Talmudic literature overview"
+        },
+        {
+          "title": "Britannica — Thirteen Articles of Faith",
+          "url": "https://www.britannica.com/topic/Thirteen-Articles-of-Faith",
+          "type": "web",
+          "description": "Maimonides' principles"
+        },
+        {
+          "title": "SEP — Maimonides (background)",
+          "url": "https://plato.stanford.edu/entries/maimonides/",
+          "type": "web",
+          "description": "Philosophical context"
+        }
+      ],
+      "importance": "high",
+      "category": "Judaism (Tanakh, Talmud, 13 Principles)",
+      "topics": ["Tanakh", "Talmud", "creed"]
+    },
+    {
+      "id": "R7",
+      "title": "Christianity: Catholic–Protestant Differences & Atonement",
+      "content": "Outline major contrasts (authority, sacraments, Mary/saints, papacy), and summarize atonement models (ransom, satisfaction, penal substitution, moral influence).",
+      "keyTakeaways": [
+        "Tie differences to history of Reformation.",
+        "Use atonement as a case study of reason–revelation interplay."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Protestantism overview",
+          "url": "https://www.britannica.com/topic/Protestantism",
+          "type": "web",
+          "description": "Protestant tradition overview"
+        },
+        {
+          "title": "Britannica — Christianity: The Reformation",
+          "url": "https://www.britannica.com/topic/Christianity/The-Reformation",
+          "type": "web",
+          "description": "Historical context"
+        },
+        {
+          "title": "Britannica — Differences with Roman Catholicism (explainer)",
+          "url": "https://www.britannica.com/question/What-is-the-difference-between-Christianity-and-Roman-Catholicism",
+          "type": "web",
+          "description": "Denominational differences"
+        },
+        {
+          "title": "Stanford Encyclopedia — Atonement",
+          "url": "https://plato.stanford.edu/entries/atonement/",
+          "type": "web",
+          "description": "Theological models"
+        }
+      ],
+      "importance": "high",
+      "category": "Christianity (Catholic–Protestant, Atonement)",
+      "topics": ["Reformation", "atonement"]
+    },
+    {
+      "id": "R8",
+      "title": "Islam: Ethics, Law & Theology (Kalām)",
+      "content": "Summarize Qur'anic moral vision (justice, compassion, truthfulness), Islamic law's ethical aims, and theological debates (e.g., reason & morality in Muʿtazila).",
+      "keyTakeaways": [
+        "Use examples of ethical injunctions and maqasid (objectives).",
+        "Note role of reason alongside revelation in some schools."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Islam (overview)",
+          "url": "https://www.britannica.com/topic/Islam",
+          "type": "web",
+          "description": "Comprehensive Islamic overview"
+        },
+        {
+          "title": "Britannica — Theology & Sectarianism",
+          "url": "https://www.britannica.com/topic/Islam/Theology-and-sectarianism",
+          "type": "web",
+          "description": "Islamic theological schools"
+        },
+        {
+          "title": "Quran.com — Primary text portal",
+          "url": "https://quran.com/en",
+          "type": "web",
+          "description": "Quranic text and translations"
+        }
+      ],
+      "importance": "high",
+      "category": "Islam (Ethics, Law, Theology)",
+      "topics": ["akhlaq", "kalām", "maqasid"]
+    },
+    {
+      "id": "R9",
+      "title": "Sacred Texts: Quick Access Pack",
+      "content": "Keep authoritative portals for quick quotation and cross-checking.",
+      "keyTakeaways": [
+        "Verify chapter/verse; cite translation/version.",
+        "Use parallel references where helpful."
+      ],
+      "resources": [
+        {
+          "title": "Sefaria — Library (Tanakh/Talmud etc.)",
+          "url": "https://www.sefaria.org/texts",
+          "type": "web",
+          "description": "Jewish texts library"
+        },
+        {
+          "title": "BibleGateway — Exodus 20",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20&version=NIV",
+          "type": "web",
+          "description": "Biblical text access"
+        },
+        {
+          "title": "Quran.com — Surah navigation",
+          "url": "https://quran.com/en",
+          "type": "web",
+          "description": "Quranic text portal"
+        },
+        {
+          "title": "Sacred-Texts — Bhagavad Gita (English)",
+          "url": "https://sacred-texts.com/hin/sbg/index.htm",
+          "type": "web",
+          "description": "Hindu scripture access"
+        }
+      ],
+      "importance": "high",
+      "category": "Sacred Texts & Key Passages",
+      "topics": ["primary texts"]
+    },
+    {
+      "id": "R10",
+      "title": "Reason vs Revelation (Cross-Tradition)",
+      "content": "Frame classic debates (e.g., Christian theology on reason/faith; Islamic kalām on reason/morality).",
+      "keyTakeaways": [
+        "Define terms carefully; avoid strawmen.",
+        "Use case examples (ethics without revelation; natural law)."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Sin in Christian Thought (context for atonement/incarnation)",
+          "url": "https://plato.stanford.edu/archives/win2021/entries/sin-christian/",
+          "type": "web",
+          "description": "Christian theological perspective"
+        },
+        {
+          "title": "Britannica — Islamic Thought",
+          "url": "https://www.britannica.com/topic/Islamic-thought",
+          "type": "web",
+          "description": "Islamic intellectual tradition"
+        }
+      ],
+      "importance": "medium",
+      "category": "Reason, Revelation & Epistemology",
+      "topics": ["epistemology", "theology"]
+    },
+    {
+      "id": "R11",
+      "title": "Interfaith Harmony: Frameworks & Policy",
+      "content": "Use reputable frameworks for defining and practicing inter-/intrafaith dialogue in essays.",
+      "keyTakeaways": [
+        "Cite definitions and practical toolkits (UNESCO, etc.).",
+        "Connect dialogue to social cohesion and peace metrics."
+      ],
+      "resources": [
+        {
+          "title": "UNESCO — Intercultural Dialogue (definition & resources)",
+          "url": "https://www.unesco.org/en/interculturaldialogue",
+          "type": "web",
+          "description": "International framework"
+        },
+        {
+          "title": "UN Press — Culture of Peace & Interreligious Dialogue (UNGA)",
+          "url": "https://press.un.org/en/2019/ga12226.doc.htm",
+          "type": "web",
+          "description": "UN perspective"
+        },
+        {
+          "title": "Harvard Pluralism Project — Religions hub",
+          "url": "https://pluralism.org/religions",
+          "type": "web",
+          "description": "Academic resource"
+        }
+      ],
+      "importance": "high",
+      "category": "Interfaith Relations & Harmony",
+      "topics": ["dialogue", "policy"]
+    },
+    {
+      "id": "R12",
+      "title": "Demography & Trends (use for 'contemporary relevance')",
+      "content": "Back claims with up-to-date cross-country data to avoid anecdotal arguments.",
+      "keyTakeaways": [
+        "Always date your stats; note source methodology.",
+        "Use country-level tables for Pakistan/world comparisons."
+      ],
+      "resources": [
+        {
+          "title": "Pew — Global Religious Landscape Change 2010–2020",
+          "url": "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/",
+          "type": "web",
+          "description": "Demographic trends"
+        },
+        {
+          "title": "Pew — Religious Composition by Country (interactive)",
+          "url": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "type": "web",
+          "description": "Country-level data"
+        }
+      ],
+      "importance": "high",
+      "category": "Data, Demography & Trends",
+      "topics": ["statistics", "composition"]
+    },
+    {
+      "id": "R13",
+      "title": "Biographical Essays: Shah Waliullah, Sirhindi, others",
+      "content": "Organize life → context → teachings → reforms → societal impact → comparative insight.",
+      "keyTakeaways": [
+        "Tie biography to interfaith/social ethics where appropriate.",
+        "End with a 3-point 'modern relevance' section."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Islam (historical & intellectual overviews)",
+          "url": "https://www.britannica.com/topic/Islam/Islamic-thought",
+          "type": "web",
+          "description": "Islamic intellectual history"
+        }
+      ],
+      "importance": "medium",
+      "category": "Biographies & Reform Movements",
+      "topics": ["reform", "impact"]
+    },
+    {
+      "id": "R14",
+      "title": "Essay Templates for Comparative Questions",
+      "content": "Ready-to-deploy skeletons for Ten Commandments vs Islamic ethics; Buddhist ethics vs Abrahamic codes; Catholic vs Protestant doctrines.",
+      "keyTakeaways": [
+        "Intro with definition + scope; 2–3 balanced comparisons; counter-view; synthesis.",
+        "Use mixed evidence: scripture + scholarship + data."
+      ],
+      "resources": [
+        {
+          "title": "Manchester Academic Phrasebank",
+          "url": "https://www.phrasebank.manchester.ac.uk/",
+          "type": "web",
+          "description": "Academic writing templates"
+        },
+        {
+          "title": "Harvard Writing Center — Strategies for Essay Writing (PDF)",
+          "url": "https://writingcenter.fas.harvard.edu/sites/g/files/omnuum451/files/2024-03/Strategies%20for%20Essay%20Writing--Complete_0.pdf",
+          "type": "pdf",
+          "description": "Essay structure guidance"
+        }
+      ],
+      "importance": "high",
+      "category": "Essay & Note-Writing Templates",
+      "topics": ["structure", "signposting"]
+    },
+    {
+      "id": "R15",
+      "title": "Comparative Drill Set (Problem–Solution, Causal, Analytical)",
+      "content": "Daily 30-minute drills: outline two comparative prompts; write one 10-minute paragraph practicing transitions and evidence use.",
+      "keyTakeaways": [
+        "Rotate traditions to stay balanced.",
+        "Peer-review against a rubric weekly."
+      ],
+      "resources": [
+        {
+          "title": "Purdue OWL — Argumentative Essays",
+          "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html",
+          "type": "web",
+          "description": "Argument structure guidance"
+        }
+      ],
+      "importance": "medium",
+      "category": "Comparative Question Drills",
+      "topics": ["practice", "timed writing"]
+    },
+    {
+      "id": "R16",
+      "title": "Christian Atonement: Models & Sources",
+      "content": "Use concise definitions and examples for ransom, satisfaction, penal substitution, moral influence; connect to ethics and social teaching.",
+      "keyTakeaways": [
+        "Cite a primary/secondary definition; avoid caricatures.",
+        "Show how models shape views on justice/mercy."
+      ],
+      "resources": [
+        {
+          "title": "Stanford Encyclopedia — Atonement (survey)",
+          "url": "https://plato.stanford.edu/entries/atonement/",
+          "type": "web",
+          "description": "Comprehensive theological analysis"
+        }
+      ],
+      "importance": "medium",
+      "category": "Christianity (Catholic–Protestant, Atonement)",
+      "topics": ["doctrine", "ethics"]
+    },
+    {
+      "id": "R17",
+      "title": "Judaism: Talmud Basics & Study Aids",
+      "content": "Differentiate Jerusalem vs Babylonian Talmuds; know Mishna/Gemara; appreciate contemporary study culture.",
+      "keyTakeaways": [
+        "Use one 'how it's structured' diagram in notes.",
+        "Quote responsibly; prefer Sefaria translations."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Babylonian Talmud (Bavli)",
+          "url": "https://www.britannica.com/topic/Bavli",
+          "type": "web",
+          "description": "Talmudic authority"
+        },
+        {
+          "title": "Sefaria — Translations hub",
+          "url": "https://www.sefaria.org/translations/en",
+          "type": "web",
+          "description": "Authoritative translations"
+        }
+      ],
+      "importance": "medium",
+      "category": "Judaism (Tanakh, Talmud, 13 Principles)",
+      "topics": ["Mishna", "Gemara"]
+    },
+    {
+      "id": "R18",
+      "title": "Pluralism & Case Studies",
+      "content": "Use Harvard Pluralism Project for concise overviews, case vignettes, and classroom-ready examples of interreligious encounters.",
+      "keyTakeaways": [
+        "Pull 2–3 case studies to exemplify tolerance/dialogue.",
+        "Connect cases to Pakistan/region where relevant."
+      ],
+      "resources": [
+        {
+          "title": "Harvard Pluralism Project — Religions portal",
+          "url": "https://pluralism.org/religions",
+          "type": "web",
+          "description": "Religious diversity studies"
+        }
+      ],
+      "importance": "medium",
+      "category": "Interfaith Relations & Harmony",
+      "topics": ["pluralism", "case studies"]
+    },
+    {
+      "id": "R19",
+      "title": "Quotations & Allusions (Use Carefully)",
+      "content": "Keep a small bank of accurate, sourced quotations (e.g., Decalogue lines; Gita couplets). Always provide context and avoid overuse.",
+      "keyTakeaways": [
+        "Attribute correctly; avoid decontextualized aphorisms.",
+        "Prefer authoritative editions and portals."
+      ],
+      "resources": [
+        {
+          "title": "BibleGateway — Exodus 20 (primary)",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20&version=NIV",
+          "type": "web",
+          "description": "Biblical text"
+        },
+        {
+          "title": "Sacred-Texts — Gita (public-domain text)",
+          "url": "https://sacred-texts.com/hin/sbg/index.htm",
+          "type": "web",
+          "description": "Hindu scripture"
+        },
+        {
+          "title": "Quran.com — Search & verses",
+          "url": "https://quran.com/en",
+          "type": "web",
+          "description": "Quranic text search"
+        }
+      ],
+      "importance": "medium",
+      "category": "Quotations & Allusions",
+      "topics": ["citations", "sources"]
+    },
+    {
+      "id": "R20",
+      "title": "Exam-Day Strategy (Comparative Religions)",
+      "content": "Allocate 12 min to outline (definitions, scope, plan); 70–75 min to draft; 10–15 min to revise. Balance traditions and avoid biased tone.",
+      "keyTakeaways": [
+        "Define terms, then compare on clear criteria (ethics, ritual, theology).",
+        "Cite at least one primary & one reputable secondary source."
+      ],
+      "resources": [
+        {
+          "title": "Harvard Writing Center — Strategies hub",
+          "url": "https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing",
+          "type": "web",
+          "description": "Essay writing strategies"
+        }
+      ],
+      "importance": "high",
+      "category": "Exam-Day Strategy",
+      "topics": ["timing", "tone", "balance"]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:08:47.044Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "946d8f2b48991501f1d70f004a9294d933d256e6",
+      "sectionIndex": 0,
+      "question": "The main difference between Imam Shafi'i and Hanafi methodology lies in their approach to:",
+      "options": [
+        "A) Quran interpretation",
+        "B) Hadith authentication and use of Istihsan",
+        "C) Prayer methods",
+        "D) Inheritance rules"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eac8589698823cef37432597a1c98e2b13a063b1",
+      "sectionIndex": 0,
+      "question": "The concept of Talfiq (combining opinions from different schools) is:",
+      "options": [
+        "A) Universally accepted",
+        "B) Controversial among traditional scholars",
+        "C) Mandatory in modern times",
+        "D) Forbidden in Quran"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e59b2777d408e8b8ae7e412a5f811c4a2fec201e",
+      "sectionIndex": 0,
+      "question": "Imam Abu Hanifa's methodology was characterized by extensive use of:",
+      "options": [
+        "A) Weak hadith",
+        "B) Ra'y (opinion) and Qiyas",
+        "C) Only Quran",
+        "D) Dreams and visions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f72c07e1de49fa3b0f9181e24101f7b71823c5ba",
+      "sectionIndex": 0,
+      "question": "The Zahiri school, founded by Dawud al-Zahiri, is known for:",
+      "options": [
+        "A) Extensive use of analogy",
+        "B) Literal interpretation without analogy",
+        "C) Mystical interpretation",
+        "D) Rejection of Hadith"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4b5873479a8a4d32fbc73529541a277467d42269",
+      "sectionIndex": 0,
+      "question": "The term \"Ahl al-Hadith\" is most closely associated with which school?",
+      "options": [
+        "A) Hanafi",
+        "B) Maliki",
+        "C) Shafi'i and Hanbali",
+        "D) All schools equally"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "72ffc2242980128985f58a2cd7160026a4901ee6",
+      "sectionIndex": 0,
+      "question": "Imam Malik's Al-Muwatta is significant because it:",
+      "options": [
+        "A) Rejects all hadith",
+        "B) Combines hadith with Medinan practice",
+        "C) Only contains Quranic verses",
+        "D) Focuses on philosophy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16b6de8be4d7ab5f47cae95ef7f6bb0c3fc9500c",
+      "sectionIndex": 0,
+      "question": "The concept of \"Amal Ahl al-Madina\" (Practice of Medinan people) is specific to:",
+      "options": [
+        "A) Hanafi school",
+        "B) Maliki school",
+        "C) Shafi'i school",
+        "D) Hanbali school"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5eef2c382c37061845d85c58ff337d72ecab6360",
+      "sectionIndex": 0,
+      "question": "Neo-Ijtihad movements in the modern era advocate for:",
+      "options": [
+        "A) Strict adherence to one school",
+        "B) Direct interpretation beyond traditional schools",
+        "C) Abandoning Islamic law",
+        "D) Creating a fifth school"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a2aef41c089855937c2dbf760a0728d01814a22",
+      "sectionIndex": 0,
+      "question": "The Hanafi school's acceptance in the Ottoman Empire was due to:",
+      "options": [
+        "A) Its flexibility in administrative matters",
+        "B) Military conquest",
+        "C) Rejection of other schools",
+        "D) Simplicity only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f9a46a0d361ccbc542676f51e3ed3d8ad1460078",
+      "sectionIndex": 0,
+      "question": "The phenomenon of \"Madhhab fanaticism\" (Ta'assub Madhhabi) led to:",
+      "options": [
+        "A) Unity among Muslims",
+        "B) Scholarly debates and sometimes conflicts",
+        "C) Abandonment of schools",
+        "D) Creation of new religions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4419fd667870a23c05305ce0f26d9a9219013a2",
+      "sectionIndex": 1,
+      "question": "The relationship between Nass (explicit text) and Ijtihad is:",
+      "options": [
+        "A) Ijtihad can override Nass",
+        "B) No Ijtihad where clear Nass exists",
+        "C) They are unrelated",
+        "D) Nass is always unclear"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6372da382993af510b3682e31f16e02eb4b48072",
+      "sectionIndex": 1,
+      "question": "The concept of Istishab differs from Istihsan in that:",
+      "options": [
+        "A) Both are identical",
+        "B) Istishab presumes continuity, Istihsan seeks equity",
+        "C) Istishab is Quranic",
+        "D) Istihsan is more ancient"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0502ab59fbd90488c5de0dbc58ab07d29d6c8323",
+      "sectionIndex": 1,
+      "question": "According to Imam Shafi'i, Ijma of which generation is most authoritative?",
+      "options": [
+        "A) Contemporary scholars",
+        "B) Companions of the Prophet",
+        "C) Tabi'een only",
+        "D) Any generation equally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e000e208e5f488c0cb869affe0df582c68d4f77",
+      "sectionIndex": 1,
+      "question": "The doctrine of Maslahah Mursalah was particularly developed by:",
+      "options": [
+        "A) Imam Abu Hanifa",
+        "B) Imam Malik and later Imam Ghazali",
+        "C) Imam Shafi'i",
+        "D) Modern scholars only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0ed05f70f620559f3f5e7388517882eb31bf8932",
+      "sectionIndex": 1,
+      "question": "Qiyas al-Awla (a fortiori analogy) is considered:",
+      "options": [
+        "A) The weakest form",
+        "B) The strongest form of analogy",
+        "C) Invalid",
+        "D) Equal to other types"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1988a4cf5667fa31085aa6c49270132df466a5b3",
+      "sectionIndex": 1,
+      "question": "The concept of 'Illah in Qiyas must be:",
+      "options": [
+        "A) Hidden and unclear",
+        "B) Apparent and consistent",
+        "C) Changeable",
+        "D) Subjective"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "da748eaa544112ec29cf71ed4f9c81bdf4ea890c",
+      "sectionIndex": 1,
+      "question": "Sadd al-Dhara'i (blocking the means) is prominently used in:",
+      "options": [
+        "A) Hanafi school only",
+        "B) Maliki and Hanbali schools",
+        "C) Shafi'i school only",
+        "D) No traditional school"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "edb6c75274f719569a1352b8f5f3a092e2fd3af9",
+      "sectionIndex": 1,
+      "question": "The hierarchy of Hadith narrators affects legal rulings in terms of:",
+      "options": [
+        "A) No effect",
+        "B) Determining obligation vs. recommendation",
+        "C) Only historical interest",
+        "D) Modern application only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46b68d78d46c84b0c15840a2a0ac3d1a685eaf83",
+      "sectionIndex": 1,
+      "question": "Custom ('Urf) can override general principles except when:",
+      "options": [
+        "A) It benefits society",
+        "B) It contradicts explicit text (Nass)",
+        "C) Courts approve",
+        "D) Majority accepts"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5c299b818d423e37b17aeb8f3d0c268b53669e1",
+      "sectionIndex": 1,
+      "question": "The principle of Istis'hab al-Hal is most useful in:",
+      "options": [
+        "A) Criminal cases",
+        "B) Determining continuing status",
+        "C) New situations only",
+        "D) Worship matters only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c7c4c893d34507d62cac1a85a2b38c827b03f16e",
+      "sectionIndex": 2,
+      "question": "Under classical law, Khula differs from Faskh in that:",
+      "options": [
+        "A) Both are identical",
+        "B) Khula requires compensation, Faskh doesn't",
+        "C) Faskh is easier",
+        "D) Khula is automatic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "944a5d4fad9580b5dc0d1f57ac6d69f24e79c80c",
+      "sectionIndex": 2,
+      "question": "The concept of Tahlil (intervening marriage) is:",
+      "options": [
+        "A) Encouraged in all schools",
+        "B) Controversial and considered invalid if pre-planned",
+        "C) Mandatory after triple talaq",
+        "D) A modern innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1079f337d056e71f235130ea9bf60a1b66eac3d9",
+      "sectionIndex": 2,
+      "question": "Mahr al-Mithl becomes relevant when:",
+      "options": [
+        "A) Mahr is not specified",
+        "B) Always applicable",
+        "C) Wife demands more",
+        "D) After divorce only"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "c2f14056ae317f2aff4c92c6d351fd729686a685",
+      "sectionIndex": 2,
+      "question": "The Hanafi position on marriage guardianship (Wilayah) for adult women is:",
+      "options": [
+        "A) Mandatory in all cases",
+        "B) Not required for adult sane women",
+        "C) Required only for virgins",
+        "D) Always optional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8b1b5efbdb5391c64c55d3994ba87ee0875d0d5",
+      "sectionIndex": 2,
+      "question": "Li'an procedure involves:",
+      "options": [
+        "A) Simple divorce",
+        "B) Mutual oaths when husband accuses wife",
+        "C) Financial settlement",
+        "D) Mediation only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce73d8976bd2e74fdffc05215f2d206c76c5abce",
+      "sectionIndex": 2,
+      "question": "In Shia law, Mut'ah (temporary marriage) is:",
+      "options": [
+        "A) Forbidden",
+        "B) Permitted with conditions",
+        "C) Obligatory",
+        "D) Preferred over permanent marriage"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7049a945332234807a4a138a6f4b21a19eb4fdc5",
+      "sectionIndex": 2,
+      "question": "The waiting period ('Iddah) for a widow is:",
+      "options": [
+        "A) Three months",
+        "B) Four months and ten days",
+        "C) Six months",
+        "D) One year"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "143396eab4c79524553e046530d364069ae15922",
+      "sectionIndex": 2,
+      "question": "Zihar becomes effective when:",
+      "options": [
+        "A) Immediately upon utterance",
+        "B) After expiation (Kaffarah)",
+        "C) Never effective",
+        "D) After court approval"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "21256e95a422bea3d855e79cedbabf81af642084",
+      "sectionIndex": 2,
+      "question": "The MFLO 1961 modified classical law by:",
+      "options": [
+        "A) Prohibiting all polygamy",
+        "B) Requiring permission for polygamy",
+        "C) Allowing unlimited wives",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f78331c734aac3cc763acdf020c51b8672f9005",
+      "sectionIndex": 2,
+      "question": "Talaq al-Bid'ah is considered:",
+      "options": [
+        "A) The best form",
+        "B) Sinful but legally valid",
+        "C) Completely invalid",
+        "D) Recommended"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9318f4e8112c6ee5a1a6427fa1c115bad04ea3fc",
+      "sectionIndex": 3,
+      "question": "The doctrine of Aul (increase) applies when:",
+      "options": [
+        "A) Estate is surplus",
+        "B) Shares exceed the estate",
+        "C) No heirs exist",
+        "D) Only male heirs exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f46e2d01bac91a8f08f535bcebdb8648ee6c811",
+      "sectionIndex": 3,
+      "question": "The doctrine of Radd (return) applies when:",
+      "options": [
+        "A) Shares exceed estate",
+        "B) Estate exceeds total shares",
+        "C) No heirs exist",
+        "D) Conflict among heirs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "44a401733925ab402a4d01aefe6f4e8682badb2a",
+      "sectionIndex": 3,
+      "question": "Under Section 4 of MFLO 1961, orphaned grandchildren:",
+      "options": [
+        "A) Get nothing",
+        "B) Receive their parent's share",
+        "C) Get equal to uncles",
+        "D) Inherit directly from grandfather"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4a135073ba99ffdf9494437830cec711552ee302",
+      "sectionIndex": 3,
+      "question": "The Quranic heir who can be both sharer and residuary is:",
+      "options": [
+        "A) Mother",
+        "B) Daughter",
+        "C) Wife",
+        "D) Sister"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0b935b0fa575fc8a017f42fdd7450bb657f820cc",
+      "sectionIndex": 3,
+      "question": "Full sister's share changes from 1/2 to 2/3 when:",
+      "options": [
+        "A) Brother exists",
+        "B) Two or more full sisters exist",
+        "C) Parents are alive",
+        "D) Husband exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03b6676df7a2ea7ab544794b9ad027a3ba088c9c",
+      "sectionIndex": 3,
+      "question": "The concept of Ta'seeb makes a female heir:",
+      "options": [
+        "A) Excluded",
+        "B) Residuary with male counterpart",
+        "C) Primary heir",
+        "D) Lose her share"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4e6d37d0cac68c2c05ff5149b253dc136336bcc5",
+      "sectionIndex": 3,
+      "question": "Acknowledgment (Iqrar) of paternity requires:",
+      "options": [
+        "A) DNA test only",
+        "B) Conditions including age difference",
+        "C) Mother's consent only",
+        "D) Court order always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "603b34f735dcfa6b310c4837e9bbb34dbd4f69a0",
+      "sectionIndex": 3,
+      "question": "Difference of religion between heir and deceased:",
+      "options": [
+        "A) Reduces share",
+        "B) Creates complete bar",
+        "C) No effect",
+        "D) Doubles share"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "26eee5ca0c1e9b3add99d91efa7c5b1e09a88cb7",
+      "sectionIndex": 3,
+      "question": "A hermaphrodite's (Khuntha) share is determined by:",
+      "options": [
+        "A) Always male share",
+        "B) Beneficial share principle",
+        "C) Always female share",
+        "D) No inheritance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e111db129a00eb4265625773137cc924ca30b6e",
+      "sectionIndex": 3,
+      "question": "Wasiyyah (will) in favor of an heir is:",
+      "options": [
+        "A) Always valid",
+        "B) Valid with other heirs' consent",
+        "C) Never valid",
+        "D) Requires court approval"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "482d929a28370dedae290ecd4eae92aeb1e79240",
+      "sectionIndex": 4,
+      "question": "The relationship between 'Azimah (strict law) and Rukhsah (concession) reflects:",
+      "options": [
+        "A) Contradiction in law",
+        "B) Islamic law's adaptability",
+        "C) Weakness in system",
+        "D) Modern innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "942948e03ef3d14cc6850b96acf972f26badc34d",
+      "sectionIndex": 4,
+      "question": "Blocking means (Sadd al-Dhara'i) and opening means (Fath al-Dhara'i) represent:",
+      "options": [
+        "A) Opposite but complementary principles",
+        "B) Same concept",
+        "C) Contradictory approaches",
+        "D) Invalid concepts"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "2708a9ac6e3b1905533da84da82521fa4752484b",
+      "sectionIndex": 4,
+      "question": "The principle of Takhyir allows a judge to:",
+      "options": [
+        "A) Create new law",
+        "B) Choose between valid opinions",
+        "C) Ignore precedent",
+        "D) Delay judgment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b932a6bf8fce0d64f630fcb8ad565a05fb2fc731",
+      "sectionIndex": 4,
+      "question": "Taklif (legal responsibility) requires both:",
+      "options": [
+        "A) Age and wealth",
+        "B) Reason and understanding",
+        "C) Gender and status",
+        "D) Power and authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7901799869c1d53e556e552abaef68298bb1d276",
+      "sectionIndex": 4,
+      "question": "The concept of Darurah (necessity) is limited by:",
+      "options": [
+        "A) No limits",
+        "B) Extent of necessity only",
+        "C) Judge's discretion",
+        "D) Public opinion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "993f8a6edd0e9f57e211242630a60997262ca3b9",
+      "sectionIndex": 4,
+      "question": "Masalih Mursalah differs from Qiyas in:",
+      "options": [
+        "A) Both are identical",
+        "B) Absence of specific textual basis",
+        "C) Stronger authority",
+        "D) Modern origin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6ca73a436b232bd2f0842c4464d6b96ab6aaa6f1",
+      "sectionIndex": 4,
+      "question": "The maxim \"certainty is not removed by doubt\" applies most in:",
+      "options": [
+        "A) Criminal law",
+        "B) Continuing presumptions",
+        "C) New contracts",
+        "D) Political matters"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a58cf0b0ef21928ae3c9245148f293fbc6282888",
+      "sectionIndex": 4,
+      "question": "Hukm Taklifi differs from Hukm Wad'i in:",
+      "options": [
+        "A) Source",
+        "B) Demand for action vs. legal effects",
+        "C) Authority",
+        "D) Application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0829bf0bda7342b8f1e4a8db5789a424cf803a18",
+      "sectionIndex": 4,
+      "question": "The concept of Tawatur in hadith affects:",
+      "options": [
+        "A) Historical value only",
+        "B) Certainty of legal rulings",
+        "C) No legal impact",
+        "D) Scholarly interest only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b3e51a17c63645ca366162b7c474ac81fa3cd45",
+      "sectionIndex": 4,
+      "question": "Naskh (abrogation) can occur between:",
+      "options": [
+        "A) Quran and Hadith freely",
+        "B) Quran verses and specific conditions",
+        "C) Any texts",
+        "D) Modern laws only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65efbf594d845eacc1870697f1b3c0e56fbd5539",
+      "sectionIndex": 5,
+      "question": "The distinction between Hadd and Ta'zir lies primarily in:",
+      "options": [
+        "A) Severity only",
+        "B) Fixed vs. discretionary punishment",
+        "C) Modern vs. classical",
+        "D) Public vs. private"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "83a5c9bc1f86fdf50194f55c9727cadd9b82c05a",
+      "sectionIndex": 5,
+      "question": "Shubha (doubt) in Hadd cases results in:",
+      "options": [
+        "A) Increased punishment",
+        "B) Dropping of Hadd punishment",
+        "C) No effect",
+        "D) Different procedure"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a41afd349e70caa7718b7dcf324bfa0347f847ea",
+      "sectionIndex": 5,
+      "question": "The concept of Hirz (secure place) in theft affects:",
+      "options": [
+        "A) Amount stolen",
+        "B) Validity of Hadd punishment",
+        "C) Compensation only",
+        "D) Time of theft"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e6b116f58e333f7d7d4f60207e47ac17b5e6326",
+      "sectionIndex": 5,
+      "question": "Qisas can be waived by:",
+      "options": [
+        "A) Judge only",
+        "B) Victim's heirs",
+        "C) State authorities",
+        "D) Religious scholars"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a42d82b7ebf9c162610e67577ee6cefdb22c92e3",
+      "sectionIndex": 5,
+      "question": "The nisab (minimum amount) for theft is traditionally:",
+      "options": [
+        "A) Any amount",
+        "B) Quarter dinar or more",
+        "C) One dinar",
+        "D) Ten dinars"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4406ad9dc4fa618058924b9d336470a1921e810c",
+      "sectionIndex": 5,
+      "question": "Diyah amounts differ based on:",
+      "options": [
+        "A) Judge's discretion",
+        "B) Gender and religion in classical law",
+        "C) Crime location",
+        "D) Time of year"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f222708bf970d90ce75fa96b7e09e839ff2c5766",
+      "sectionIndex": 5,
+      "question": "The proof requirement for adultery (four witnesses) reflects:",
+      "options": [
+        "A) Easy conviction",
+        "B) Difficulty in proving private acts",
+        "C) Gender discrimination",
+        "D) Modern addition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1621208a32673c8491b9767f40fbe6bfe64cbc12",
+      "sectionIndex": 5,
+      "question": "Ta'zir crimes can be legislated by:",
+      "options": [
+        "A) Individuals",
+        "B) State authorities",
+        "C) Foreign powers",
+        "D) International law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b94bf38f901325c299e52ead2ece30ac3dee865",
+      "sectionIndex": 5,
+      "question": "The concept of Tawbah (repentance) affects punishment in:",
+      "options": [
+        "A) All crimes equally",
+        "B) Some Hadd crimes before arrest",
+        "C) Never affects punishment",
+        "D) Ta'zir only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16bbebd461e79827e0b78307f510fbec73026782",
+      "sectionIndex": 5,
+      "question": "Qadhf (false accusation) uniquely protects:",
+      "options": [
+        "A) Property rights",
+        "B) Sexual honor and reputation",
+        "C) Political leaders",
+        "D) Religious figures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "58af716e289066dea6e4e330d88051001acdc457",
+      "sectionIndex": 6,
+      "question": "The Federal Shariat Court's jurisdiction excludes:",
+      "options": [
+        "A) Criminal laws",
+        "B) Constitution, Muslim personal law, fiscal laws",
+        "C) All federal laws",
+        "D) Provincial laws only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71cb5927913120ba3f70fa7f4a15d44df1c8959e",
+      "sectionIndex": 6,
+      "question": "The Objectives Resolution's impact on legal interpretation includes:",
+      "options": [
+        "A) No practical effect",
+        "B) Grundnorm status after 1985",
+        "C) Advisory only",
+        "D) Historical interest"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f5667f70d8e28fe8376d488dc52f5366ed8642c",
+      "sectionIndex": 6,
+      "question": "The Hudood Ordinance 1979 differs from classical law in:",
+      "options": [
+        "A) Complete conformity",
+        "B) Procedural modifications and evidentiary rules",
+        "C) Harsher punishments",
+        "D) Fewer crimes covered"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "df3524cd5db52d63e4b260cdebc30e0f6a482302",
+      "sectionIndex": 6,
+      "question": "Section 4 of MFLO represents which approach to legal reform:",
+      "options": [
+        "A) Complete westernization",
+        "B) Ijtihad within Islamic framework",
+        "C) Rejection of Islamic law",
+        "D) Return to classical law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "809305e5294fee9bd8c906be73713c9042635ffd",
+      "sectionIndex": 6,
+      "question": "The Qanun-e-Shahadat Order 1984 modified evidence law by:",
+      "options": [
+        "A) Rejecting Islamic principles",
+        "B) Incorporating Islamic evidentiary concepts",
+        "C) No changes",
+        "D) Following British law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5537a21de2213d8504f05a1c6f79320060ac9d98",
+      "sectionIndex": 6,
+      "question": "The CII's recommendations have:",
+      "options": [
+        "A) Binding force",
+        "B) Advisory status",
+        "C) No value",
+        "D) Judicial authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b28d385e73be28657315855891e2c9461c0d6bde",
+      "sectionIndex": 6,
+      "question": "Riba judgments by the Federal Shariat Court face challenges in:",
+      "options": [
+        "A) Religious interpretation only",
+        "B) Economic implementation and alternatives",
+        "C) No challenges",
+        "D) Political will only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75044fc7d69f1a04c983b3a2c415e8aa25b16f57",
+      "sectionIndex": 6,
+      "question": "The Enforcement of Shari'ah Act 1991 was significant for:",
+      "options": [
+        "A) Immediate implementation",
+        "B) Declaring Shariah as supreme law",
+        "C) No practical effect",
+        "D) Provincial matters only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1e42ae3ad8dc7ee90edfb55848041c28516b66b6",
+      "sectionIndex": 6,
+      "question": "Pakistani courts' approach to Islamic law shows:",
+      "options": [
+        "A) Literal classical application",
+        "B) Contextual interpretation and modernization",
+        "C) Complete rejection",
+        "D) Confusion only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8e2dc5901ca676b67776a688cf38e976d0b438a7",
+      "sectionIndex": 6,
+      "question": "The Protection of Women Act 2006 modified Hudood laws by:",
+      "options": [
+        "A) Abolishing them",
+        "B) Procedural safeguards and categorization",
+        "C) No changes",
+        "D) Making them stricter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3aa60b2ca418560ef6daa68e98499a3291e7816",
+      "sectionIndex": 7,
+      "question": "The debate over riba includes whether it covers:",
+      "options": [
+        "A) All interest or exploitative excess only",
+        "B) Personal loans only",
+        "C) International transactions only",
+        "D) No modern transactions"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "026ff6b7fbad1ef0a2760efdd35da35f49cccb5b",
+      "sectionIndex": 7,
+      "question": "Islamic finance's profit-and-loss sharing differs from interest in:",
+      "options": [
+        "A) Name only",
+        "B) Risk distribution and asset backing",
+        "C) No real difference",
+        "D) Higher returns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "95471e4b12bf0873ce9faa96be523e764c5351ac",
+      "sectionIndex": 7,
+      "question": "The concept of Gharar affects modern derivatives because:",
+      "options": [
+        "A) All are permitted",
+        "B) Excessive uncertainty may invalidate",
+        "C) No relation",
+        "D) Only futures affected"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e60bd38a6c3e8c0f6eaee24fb28c682511ee9156",
+      "sectionIndex": 7,
+      "question": "Takaful differs from conventional insurance through:",
+      "options": [
+        "A) Premium amounts",
+        "B) Mutual cooperation vs. risk transfer",
+        "C) No differences",
+        "D) Government backing"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7e225fd6dc7daf962bd0e2b4c1bbb17de6de3ce0",
+      "sectionIndex": 7,
+      "question": "Diminishing Musharakah for home finance involves:",
+      "options": [
+        "A) Fixed interest",
+        "B) Gradual ownership transfer",
+        "C) Rental only",
+        "D) Full ownership immediately"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "882c2ae8dbd66147c0b3efd35594c12f7df1b292",
+      "sectionIndex": 7,
+      "question": "The challenge in Islamic banking includes:",
+      "options": [
+        "A) Lack of demand",
+        "B) Balancing Shariah compliance with competition",
+        "C) Too much profit",
+        "D) Government opposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0202def2de280c72937d7e69c90c5c91854cb48b",
+      "sectionIndex": 7,
+      "question": "Sukuk structure differs from bonds in:",
+      "options": [
+        "A) Return rates only",
+        "B) Asset ownership and profit sharing",
+        "C) No difference",
+        "D) Maturity periods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8057f2ee2c593a7a3427d720d83bd79143feb96b",
+      "sectionIndex": 7,
+      "question": "Contemporary ijtihad on medical ethics addresses:",
+      "options": [
+        "A) Traditional medicine only",
+        "B) Organ transplants and end-of-life issues",
+        "C) No medical issues",
+        "D) Preventive care only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c68c8a4060e6464e9f4bfee9c8363a883d8daf5f",
+      "sectionIndex": 7,
+      "question": "The application of Maqasid al-Shariah to human rights suggests:",
+      "options": [
+        "A) Incompatibility",
+        "B) Fundamental compatibility with contextual application",
+        "C) No relationship",
+        "D) Western imposition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f6a6b66d8062438b9c89304db26f187e567cb90",
+      "sectionIndex": 7,
+      "question": "Zakat on modern financial instruments requires:",
+      "options": [
+        "A) No zakat",
+        "B) Analogical reasoning from classical categories",
+        "C) Fixed rates",
+        "D) Government determination only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "787b4da075a1963ff8cf89b0144cae5c3a127c59",
+      "sectionIndex": 8,
+      "question": "The concept of Wilayah (guardianship) extends beyond minors to:",
+      "options": [
+        "A) All women",
+        "B) Persons with mental incapacity",
+        "C) Poor people",
+        "D) Non-Muslims"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37d507a538a8b546b79112d49e93460912dc4663",
+      "sectionIndex": 8,
+      "question": "Interdiction (Hajr) can be imposed for:",
+      "options": [
+        "A) Poverty only",
+        "B) Prodigality and mental incapacity",
+        "C) Political reasons",
+        "D) Religious differences"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f289962bb7cdcf1e1db019d717504e8409e326f1",
+      "sectionIndex": 8,
+      "question": "The principle of Khiyar (option) in contracts serves to:",
+      "options": [
+        "A) Complicate transactions",
+        "B) Protect against defects and ensure satisfaction",
+        "C) Delay contracts",
+        "D) Benefit sellers only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "684fcd61ff0650b1cb3d020879ca97d941894b7d",
+      "sectionIndex": 8,
+      "question": "Riba al-fadl differs from Riba al-nasi'ah in:",
+      "options": [
+        "A) No difference",
+        "B) Excess in exchange vs. delay",
+        "C) Permissibility",
+        "D) Modern application only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "193397270f688dd4a4e831fffd38d847bf7870e3",
+      "sectionIndex": 8,
+      "question": "The concept of Amanah (trust) in contracts creates:",
+      "options": [
+        "A) No legal effect",
+        "B) Fiduciary duties and liability standards",
+        "C) Social obligation only",
+        "D) Religious merit only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ae5235347420eba775cc86382f334bee1f8aa7fb",
+      "sectionIndex": 8,
+      "question": "Void (Batil) and voidable (Fasid) contracts differ in:",
+      "options": [
+        "A) No difference",
+        "B) Complete invalidity vs. correctable defects",
+        "C) Enforcement only",
+        "D) Parties involved"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e87c00906d2a142231b1a4037c0c5496b26f2bad",
+      "sectionIndex": 8,
+      "question": "The role of custom in commercial contracts is:",
+      "options": [
+        "A) Irrelevant",
+        "B) Gap-filling and interpretation aid",
+        "C) Overrides all rules",
+        "D) Modern innovation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "47532e4759d0519eb265fa4448d78d1c2447c5a7",
+      "sectionIndex": 8,
+      "question": "Garar (uncertainty) thresholds differ between:",
+      "options": [
+        "A) No difference",
+        "B) Commercial and charitable transactions",
+        "C) Muslims and non-Muslims",
+        "D) Countries only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ee276503cc64f6632c832f2e803a357a5636cd2d",
+      "sectionIndex": 8,
+      "question": "Agency (Wakalah) in Islamic law includes:",
+      "options": [
+        "A) Unlimited authority",
+        "B) Specific and general forms with boundaries",
+        "C) No legal recognition",
+        "D) Modern concept only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d8a1c7b60ac5eca8ea38b28bfe51f6fb4491a9d4",
+      "sectionIndex": 8,
+      "question": "Contracts with non-Muslims are:",
+      "options": [
+        "A) Always invalid",
+        "B) Valid with reciprocity principles",
+        "C) Discouraged",
+        "D) Require special permission"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e314c1c62d1f638ae8a447671e49ea53d663212a",
+      "sectionIndex": 9,
+      "question": "Al-Ghazali's approach to Maslahah emphasized:",
+      "options": [
+        "A) Unrestricted use",
+        "B) Hierarchy within Maqasid framework",
+        "C) Rejection of concept",
+        "D) Economic benefits only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76d4531d6190b702e7ede54ab3e85a0295a89649",
+      "sectionIndex": 9,
+      "question": "The relationship between 'Ibadat and Mu'amalat in terms of flexibility shows:",
+      "options": [
+        "A) Equal flexibility",
+        "B) Mu'amalat more adaptable than 'Ibadat",
+        "C) 'Ibadat more flexible",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1b6ee12d387c86e742ddf776b789bfb95f7cf5d8",
+      "sectionIndex": 9,
+      "question": "The principle of La Darar influences modern Islamic finance through:",
+      "options": [
+        "A) No influence",
+        "B) Prohibiting exploitative practices",
+        "C) Allowing all profit",
+        "D) Focusing on form only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "68d602257ceaf3fb86ea389fa64e4b804dee30af",
+      "sectionIndex": 9,
+      "question": "Qawa'id Fiqhiyyah (legal maxims) function as:",
+      "options": [
+        "A) Binding rules",
+        "B) Interpretive principles and guidelines",
+        "C) Historical artifacts",
+        "D) Optional considerations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e71369fe25322e60e77704364f14c22bd8e9bc74",
+      "sectionIndex": 9,
+      "question": "The debate between Ahl al-Ra'y and Ahl al-Hadith reflects:",
+      "options": [
+        "A) Regional differences only",
+        "B) Methodological approaches to law-making",
+        "C) Personal conflicts",
+        "D) Modern phenomenon"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a3854f87c97d6cb5c64cfebe44adab9e16f7c450",
+      "sectionIndex": 9,
+      "question": "Takhayyur (selection) and Talfiq (combination) represent:",
+      "options": [
+        "A) Traditional methods",
+        "B) Modern reform mechanisms",
+        "C) Prohibited practices",
+        "D) Worship methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5fd7e4890f8141ce6e16eefef9a8f8bb4b876eac",
+      "sectionIndex": 9,
+      "question": "The concept of Bid'ah in law relates to:",
+      "options": [
+        "A) All innovations are forbidden",
+        "B) Distinguishing beneficial from harmful innovations",
+        "C) No legal relevance",
+        "D) Modern law only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1149735fff250694d52d3992a96a775979c4b586",
+      "sectionIndex": 9,
+      "question": "Urf (custom) classification into sahih and fasid determines:",
+      "options": [
+        "A) No legal effect",
+        "B) Validity in legal consideration",
+        "C) Historical interest",
+        "D) Regional application"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fafa6880ee8aa041450a70728ba16bce58fb33a1",
+      "sectionIndex": 9,
+      "question": "The interaction between Siyasah Shar'iyyah and Fiqh shows:",
+      "options": [
+        "A) Complete separation",
+        "B) Complementary governance and law",
+        "C) Conflict always",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "92d0cdf5ee137bc1ff0eac4223427e1b9c7ca219",
+      "sectionIndex": 9,
+      "question": "Contemporary Ijtihad Jama'i (collective ijtihad) emerged due to:",
+      "options": [
+        "A) Traditional preference",
+        "B) Complexity requiring specialized expertise",
+        "C) Political pressure",
+        "D) Western influence"
+      ],
+      "correct": "B"
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T11:20:06.892Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "2464b25a292b06d770a8bb52846c03ca4bb062e9",
+      "sectionIndex": 0,
+      "question": "If P(A) = 0.4, P(B) = 0.5, and P(A^B) = 0.2, then P(A^B) equals:",
+      "options": [
+        "A) 0.6",
+        "B) 0.7",
+        "C) 0.8",
+        "D) 0.9"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea2de9fec657c3e73b5810c2f63d0b4953f0a410",
+      "sectionIndex": 0,
+      "question": "For mutually exclusive events A and B with P(A) = 0.3 and P(B) = 0.4, P(A|B) equals:",
+      "options": [
+        "A) 0",
+        "B) 0.3",
+        "C) 0.4",
+        "D) 0.12"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a0f1b4a23200448d99583fb80f77f7510fea0ba1",
+      "sectionIndex": 0,
+      "question": "If events A and B are independent with P(A) = 0.6 and P(A^B) = 0.18, then P(B) equals:",
+      "options": [
+        "A) 0.2",
+        "B) 0.3",
+        "C) 0.4",
+        "D) 0.5"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c6b02717f79b545c6926d01b0f0d5da949a6deef",
+      "sectionIndex": 0,
+      "question": "Using Bayes' theorem, if P(A) = 0.3, P(B|A) = 0.8, and P(B|A') = 0.4, then P(A|B) equals:",
+      "options": [
+        "A) 0.375",
+        "B) 0.425",
+        "C) 0.462",
+        "D) 0.500"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "91821d8fc29502be49ae2f178ee73e1fe8a43366",
+      "sectionIndex": 0,
+      "question": "The law of total probability states that for partitions B,, B,,, ..., B,T:",
+      "options": [
+        "A) P(A) = Σ P(A^Bi)",
+        "B) P(A) = Σ P(A|Bi)P(Bi)",
+        "C) P(A) = Σ P(Bi|A)",
+        "D) P(A) = Π P(A|Bi)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c900b56a2b45998802a7547f0fbbd4679bebe4e5",
+      "sectionIndex": 0,
+      "question": "If three events are pairwise independent but not mutually independent, then:",
+      "options": [
+        "A) P(A^B^C) = P(A)P(B)P(C)",
+        "B) P(A^B^C) ? P(A)P(B)P(C)",
+        "C) They must be mutually exclusive",
+        "D) They cannot exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea38f2a6d5b15018175693447ad5d69f6f26fc99",
+      "sectionIndex": 0,
+      "question": "In a medical test with 95% sensitivity and 90% specificity, if disease prevalence is 1%, the positive predictive value is approximately:",
+      "options": [
+        "A) 8.7%",
+        "B) 50%",
+        "C) 90%",
+        "D) 95%"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "d93defbea55a706184f06442182402e38fad9349",
+      "sectionIndex": 0,
+      "question": "For events A and B, if P(A) = 0.4, P(B) = 0.6, and they are mutually exclusive, then P(A'^B') equals:",
+      "options": [
+        "A) 0",
+        "B) 0.24",
+        "C) 0.36",
+        "D) 0.40"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f0c597b20b0c3008532932b2ab7e86b70bc47d9c",
+      "sectionIndex": 0,
+      "question": "The probability that at least one of two independent events occurs is 0.64. If one event has probability 0.4, the other has probability:",
+      "options": [
+        "A) 0.3",
+        "B) 0.4",
+        "C) 0.5",
+        "D) 0.6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a439e9dd12948655e653e9c39b0183bdc4294968",
+      "sectionIndex": 0,
+      "question": "In a factory with three machines producing 50%, 30%, and 20% of output with defect rates 2%, 3%, and 4% respectively, the probability a randomly selected defective item came from machine 1 is:",
+      "options": [
+        "A) 0.250",
+        "B) 0.385",
+        "C) 0.400",
+        "D) 0.500"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3f433d71693d5a78c6647828fa832bf10e871ff4",
+      "sectionIndex": 1,
+      "question": "For a binomial distribution with n = 10 and p = 0.3, the variance equals:",
+      "options": [
+        "A) 1.8",
+        "B) 2.1",
+        "C) 3.0",
+        "D) 7.0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "116cb70a00e42c71cbe5d131ce913e2ffe602ee0",
+      "sectionIndex": 1,
+      "question": "In a Poisson distribution with λ = 4, P(X = 0) equals:",
+      "options": [
+        "A) 0",
+        "B) e-4",
+        "C) 4e-4",
+        "D) 1 - e-4"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "342eadc7a9a251b60db5db30270d89582f088283",
+      "sectionIndex": 1,
+      "question": "For a normal distribution with μ = 100 and f = 15, the probability that X > 115 is approximately:",
+      "options": [
+        "A) 0.16",
+        "B) 0.34",
+        "C) 0.50",
+        "D) 0.84"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "41be23f7790626c24ba836a9b2cda096c348e2b2",
+      "sectionIndex": 1,
+      "question": "The moment generating function of a Poisson distribution with parameter λ is:",
+      "options": [
+        "A) e^λ",
+        "B) e^(λ(e^t-1))",
+        "C) λe^t",
+        "D) (1-λt)^(-1)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f6fc7541f56ae94761688f43a9fa231282470edf",
+      "sectionIndex": 1,
+      "question": "If X ~ N(50, 16), then P(46 < X < 54) is approximately:",
+      "options": [
+        "A) 0.50",
+        "B) 0.68",
+        "C) 0.76",
+        "D) 0.95"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "48958de905bb6e950ac29afed420f034dbea81b2",
+      "sectionIndex": 1,
+      "question": "The hypergeometric distribution approaches the binomial when:",
+      "options": [
+        "A) n is large",
+        "B) N is large relative to n",
+        "C) p approaches 0",
+        "D) p approaches 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "941ed404ee07ba9a35160303bbfdf67a892035b0",
+      "sectionIndex": 1,
+      "question": "For an exponential distribution with mean 5, P(X > 5) equals:",
+      "options": [
+        "A) 0.5",
+        "B) e-1",
+        "C) 1 - e-1",
+        "D) e-5"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7b157eca19fa4153b8436980d9605ad5e932959d",
+      "sectionIndex": 1,
+      "question": "The relationship between Poisson and exponential distributions is:",
+      "options": [
+        "A) They are unrelated",
+        "B) Poisson counts events, exponential measures time between events",
+        "C) They have the same PMF",
+        "D) They have the same mean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17cd2b135bda450dbd55646bce7c7fedbdd936f5",
+      "sectionIndex": 1,
+      "question": "For a uniform distribution on [a, b], the variance equals:",
+      "options": [
+        "A) (b-a)/2",
+        "B) (b-a)2/12",
+        "C) (b-a)2/4",
+        "D) (b+a)/2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1120663018f5833778bae391cd59b306d8b29208",
+      "sectionIndex": 1,
+      "question": "The negative binomial distribution can be interpreted as:",
+      "options": [
+        "A) Number of failures before r successes",
+        "B) Number of successes in n trials",
+        "C) Time until first success",
+        "D) Number of defects in a batch"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "ed1f9dc57f92df04c37b9aa81931fa6c94c22dab",
+      "sectionIndex": 2,
+      "question": "For a two-sample t-test with unequal variances, the degrees of freedom is calculated using:",
+      "options": [
+        "A) n, + n,, - 2",
+        "B) min(n,-1, n,,-1)",
+        "C) Welch-Satterthwaite formula",
+        "D) n, - n,,"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "016887a2bb48a64b10fc1ba5ba19fd81e2cd579d",
+      "sectionIndex": 2,
+      "question": "The power of a test is:",
+      "options": [
+        "A) P(Type I error)",
+        "B) P(Type II error)",
+        "C) 1 - P(Type I error)",
+        "D) 1 - P(Type II error)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "fb8f022c050e72f9ebef07c4a86f26665b2ca20f",
+      "sectionIndex": 2,
+      "question": "In ANOVA, the F-statistic is the ratio of:",
+      "options": [
+        "A) Sample variances",
+        "B) Between-group to within-group variance",
+        "C) Means",
+        "D) Standard deviations"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c856da1bdb42266c7d78fbb6fe39b91b36f2ddf",
+      "sectionIndex": 2,
+      "question": "For a chi-square test of independence with a 3-4 table, the degrees of freedom is:",
+      "options": [
+        "A) 6",
+        "B) 7",
+        "C) 11",
+        "D) 12"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "09757f7bcd6696e4dd7bbd9efc7dbebc16b2cd91",
+      "sectionIndex": 2,
+      "question": "A paired t-test is appropriate when:",
+      "options": [
+        "A) Samples are independent",
+        "B) Samples are matched or repeated measures",
+        "C) Variances are equal",
+        "D) Sample sizes are equal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79fe0475d7624a17b9c6813074e128f02c022351",
+      "sectionIndex": 2,
+      "question": "The relationship between t-distribution and normal distribution is:",
+      "options": [
+        "A) They are identical",
+        "B) t approaches normal as df increases",
+        "C) Normal approaches t as n increases",
+        "D) They are unrelated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0128ef305a70807ba244405bb2ae3aea8604444",
+      "sectionIndex": 2,
+      "question": "In a one-way ANOVA with 4 groups and 20 total observations, the df for error is:",
+      "options": [
+        "A) 3",
+        "B) 16",
+        "C) 19",
+        "D) 20"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b2fb251ae5d7f1feeb62612b0e4a962457bfff67",
+      "sectionIndex": 2,
+      "question": "The assumptions for a two-sample t-test include:",
+      "options": [
+        "A) Only normality",
+        "B) Normality and independence",
+        "C) Only equal variances",
+        "D) No assumptions needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "172a4852867c77ae5076e381da29e837f1730ef0",
+      "sectionIndex": 2,
+      "question": "Type II error probability increases when:",
+      "options": [
+        "A) Sample size increases",
+        "B) Effect size decreases",
+        "C) Alpha level increases",
+        "D) Variance decreases"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b907d982d204b39dbcd0f9d2236974b6ba092e0c",
+      "sectionIndex": 2,
+      "question": "The Bonferroni correction is used to:",
+      "options": [
+        "A) Increase power",
+        "B) Control Type I error in multiple comparisons",
+        "C) Reduce Type II error",
+        "D) Improve normality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ad93014e1d52bdba47a84f529b57e92ba38025e1",
+      "sectionIndex": 3,
+      "question": "If the correlation between X and Y is 0.8, and we regress Y on X, the proportion of variance explained is:",
+      "options": [
+        "A) 0.80",
+        "B) 0.64",
+        "C) 0.89",
+        "D) 1.00"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0e2feeef39910091cfb71a1cda8c67125a1cbf8",
+      "sectionIndex": 3,
+      "question": "In simple linear regression, the slope coefficient represents:",
+      "options": [
+        "A) Y-intercept",
+        "B) Change in Y for unit change in X",
+        "C) Correlation coefficient",
+        "D) Total variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bc3dc92f4fca271ba3eef4c8fc489435cdddda4",
+      "sectionIndex": 3,
+      "question": "The assumptions of linear regression include all except:",
+      "options": [
+        "A) Linearity",
+        "B) Independence of errors",
+        "C) Equal variance of X",
+        "D) Normality of errors"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3744885ae43dc4bcc4acb91d6dab4af822f4905b",
+      "sectionIndex": 3,
+      "question": "If r2,\"γ = 0.81 and r2,\"u = 0.64, then the partial correlation rγu.,\" can be calculated using:",
+      "options": [
+        "A) Product formula",
+        "B) Regression coefficients",
+        "C) Direct correlation",
+        "D) Cannot be determined"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6624681113b60ef510b5409724d3fc9c48e64cc5",
+      "sectionIndex": 3,
+      "question": "In multiple regression, multicollinearity refers to:",
+      "options": [
+        "A) Non-linear relationships",
+        "B) High correlation among predictors",
+        "C) Autocorrelated errors",
+        "D) Heteroscedasticity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b21645e85f04b7ef354bcee25d08ea861dd36ab3",
+      "sectionIndex": 3,
+      "question": "The residual sum of squares (RSS) in regression measures:",
+      "options": [
+        "A) Explained variation",
+        "B) Unexplained variation",
+        "C) Total variation",
+        "D) Mean variation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a386b2a17471c0ccb009354ac0b68ee9ed2e68ff",
+      "sectionIndex": 3,
+      "question": "If βγ,\" = 0.8 and β,\"γ = 0.5, then the correlation coefficient r equals:",
+      "options": [
+        "A) 0.40",
+        "B) 0.63",
+        "C) 0.65",
+        "D) 1.30"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7630c46f0cda2155d6fcb8d272aac2d7f04c04d5",
+      "sectionIndex": 3,
+      "question": "In regression diagnostics, leverage points are:",
+      "options": [
+        "A) Outliers in Y",
+        "B) Extreme values in X",
+        "C) Influential observations",
+        "D) Missing values"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "239ed4a494f18846cdf1e29d7900052762c876bd",
+      "sectionIndex": 3,
+      "question": "The Durbin-Watson test is used to detect:",
+      "options": [
+        "A) Normality",
+        "B) Autocorrelation",
+        "C) Heteroscedasticity",
+        "D) Multicollinearity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f53a3ee58960818cfb18d0993782e3e30b5dedf5",
+      "sectionIndex": 3,
+      "question": "For testing H,?: β = 0 in simple regression with n observations, the test statistic follows:",
+      "options": [
+        "A) Normal distribution",
+        "B) Chi-square distribution",
+        "C) t-distribution with n-2 df",
+        "D) F-distribution"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1a8c43309ddbc8e15090dba5e788426b9bbc26d4",
+      "sectionIndex": 4,
+      "question": "In stratified sampling with proportional allocation, stratum sample sizes are:",
+      "options": [
+        "A) Equal",
+        "B) Proportional to stratum sizes",
+        "C) Inversely proportional to variances",
+        "D) Random"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "abb3847bae598fef47c4125dfa5aa63be721cdf0",
+      "sectionIndex": 4,
+      "question": "The finite population correction factor is applied when:",
+      "options": [
+        "A) n/N > 0.05",
+        "B) Population is infinite",
+        "C) Sample is very small",
+        "D) Sampling with replacement"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "08152d969f2702c8d00fe8406657965a57aff19f",
+      "sectionIndex": 4,
+      "question": "Cluster sampling is most efficient when:",
+      "options": [
+        "A) Clusters are homogeneous internally",
+        "B) Clusters are heterogeneous internally",
+        "C) All clusters are identical",
+        "D) Clusters are very small"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e76496b46309c4820a6e6886584af5dec3e984a5",
+      "sectionIndex": 4,
+      "question": "The variance of sample mean under simple random sampling without replacement is:",
+      "options": [
+        "A) f2/n",
+        "B) f2/n - (N-n)/(N-1)",
+        "C) f2/n - N/(N-1)",
+        "D) f2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16c872f288ecd6c10d3525571fbe4e533cfb7452",
+      "sectionIndex": 4,
+      "question": "Systematic sampling can produce biased estimates when:",
+      "options": [
+        "A) Population is random",
+        "B) Population has periodic patterns",
+        "C) k is prime",
+        "D) N is large"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7f9ecaa94b4341b4c993fd25cb018bf7daae0d48",
+      "sectionIndex": 4,
+      "question": "The design effect (deff) compares:",
+      "options": [
+        "A) Two different designs' variances",
+        "B) Actual to simple random sampling variance",
+        "C) Bias of two methods",
+        "D) Cost efficiency"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4dd807733163a69a94ce6a72747bf75d4fe2e990",
+      "sectionIndex": 4,
+      "question": "In Neyman allocation for stratified sampling, larger samples are taken from strata with:",
+      "options": [
+        "A) Larger means",
+        "B) Larger variances",
+        "C) Smaller sizes",
+        "D) Lower costs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1734a3a14bad29160db6e77e428cc97c2a6f723a",
+      "sectionIndex": 4,
+      "question": "The main advantage of stratified over simple random sampling is:",
+      "options": [
+        "A) Lower cost always",
+        "B) Reduced variance for given sample size",
+        "C) Easier implementation",
+        "D) No non-response"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79d35fc3d800bba081c00eb0f7690aab59321d06",
+      "sectionIndex": 4,
+      "question": "Two-stage sampling is used when:",
+      "options": [
+        "A) Population is small",
+        "B) Complete sampling frame is unavailable",
+        "C) High precision is needed",
+        "D) Cost is not a factor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40a94613d9fd3fcca43af0ca90a828e69fdc0326",
+      "sectionIndex": 4,
+      "question": "Post-stratification is applied:",
+      "options": [
+        "A) Before sampling",
+        "B) After data collection",
+        "C) During sampling",
+        "D) Never in practice"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "37de775d87e992ece89b5baa850ed4a322224da8",
+      "sectionIndex": 5,
+      "question": "The likelihood function for a sample from exponential distribution with parameter λ is proportional to:",
+      "options": [
+        "A) λne^(-λΣxi)",
+        "B) λne^(-nλx\")",
+        "C) e^(-λnΣxi)",
+        "D) λe^(-λx\")"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "71a9d1abae6559542478f13af745c15d535c8ecb",
+      "sectionIndex": 5,
+      "question": "For MLE of normal distribution parameters, the estimate of f2 is:",
+      "options": [
+        "A) Always unbiased",
+        "B) Biased with factor n/(n-1)",
+        "C) Always efficient",
+        "D) Not consistent"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a2d2be821f41eba35845dacf7815d4569815969b",
+      "sectionIndex": 5,
+      "question": "The Cramér-Rao lower bound provides:",
+      "options": [
+        "A) Maximum variance",
+        "B) Minimum variance for unbiased estimators",
+        "C) Bias of estimator",
+        "D) Sample size needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4d164b199f40f16a103606b3c34bc62caa9652e7",
+      "sectionIndex": 5,
+      "question": "A sufficient statistic contains:",
+      "options": [
+        "A) Some information about parameter",
+        "B) All information about parameter",
+        "C) No information about parameter",
+        "D) Redundant information"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e5af8398deee29f495ac1e9db875c105f5a4bd26",
+      "sectionIndex": 5,
+      "question": "The method of moments estimator is obtained by:",
+      "options": [
+        "A) Maximizing likelihood",
+        "B) Equating sample and population moments",
+        "C) Minimizing variance",
+        "D) Bayesian methods"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d6ae00f6112219ae84061ae5aa501352244e0e39",
+      "sectionIndex": 5,
+      "question": "Consistency of an estimator means:",
+      "options": [
+        "A) Zero bias",
+        "B) Minimum variance",
+        "C) Convergence to true value as n?'^z",
+        "D) Normality"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "40049a9602f25556f4e924f0904d8d0f23b8cda4",
+      "sectionIndex": 5,
+      "question": "The bootstrap method is used to:",
+      "options": [
+        "A) Increase sample size",
+        "B) Estimate sampling distribution",
+        "C) Remove bias",
+        "D) Test normality"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2748dc216bd4562c3b17a75d8627ee7c68c558c3",
+      "sectionIndex": 5,
+      "question": "A 95% confidence interval that doesn't contain 0 for a parameter indicates:",
+      "options": [
+        "A) Parameter equals 0",
+        "B) Significant at 5% level",
+        "C) Not significant",
+        "D) Need more data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2181ba57f2f13a6d60f02a32c32a7f5816b60302",
+      "sectionIndex": 5,
+      "question": "The width of a confidence interval depends on all except:",
+      "options": [
+        "A) Sample size",
+        "B) Confidence level",
+        "C) Population variance",
+        "D) Population mean"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "952438f72623f3121b5b5016bdb386bee3a92722",
+      "sectionIndex": 5,
+      "question": "Bayesian inference differs from frequentist by:",
+      "options": [
+        "A) Using larger samples",
+        "B) Incorporating prior information",
+        "C) Avoiding probability",
+        "D) Using different data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ec733e55b18655b103008ec2f9e3432253c0f7bf",
+      "sectionIndex": 6,
+      "question": "If data is shifted by adding constant c to all values, which changes?",
+      "options": [
+        "A) Standard deviation only",
+        "B) Mean only",
+        "C) Both mean and SD",
+        "D) Neither mean nor SD"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13f6709cb7d667632917bbddea65d93ca9f414aa",
+      "sectionIndex": 6,
+      "question": "If all data values are multiplied by constant k, the coefficient of variation:",
+      "options": [
+        "A) Increases by factor k",
+        "B) Decreases by factor k",
+        "C) Remains unchanged",
+        "D) Changes by k2"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "45e0bec0b10b6e0df9d6facb4e2e61e3710001a3",
+      "sectionIndex": 6,
+      "question": "For positively skewed data, typically:",
+      "options": [
+        "A) Mean < Median < Mode",
+        "B) Mode < Median < Mean",
+        "C) Mean = Median = Mode",
+        "D) Median < Mode < Mean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06290a9d46c3081ba89b2863f1a9335d5aa73a42",
+      "sectionIndex": 6,
+      "question": "Pearson's coefficient of skewness uses:",
+      "options": [
+        "A) Moments only",
+        "B) Mean, mode, and SD",
+        "C) Quartiles only",
+        "D) Range"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "498218e0df9d5f97fbed06489a04156f34e11a1f",
+      "sectionIndex": 6,
+      "question": "The second moment about mean represents:",
+      "options": [
+        "A) Mean",
+        "B) Variance",
+        "C) Skewness",
+        "D) Kurtosis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2d16c049292ea0aed995864a0b5b63b9c22e46bf",
+      "sectionIndex": 6,
+      "question": "For calculating variance of grouped data, we need:",
+      "options": [
+        "A) Only frequencies",
+        "B) Midpoints and frequencies",
+        "C) Only class boundaries",
+        "D) Raw data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9910ab4b79edb223a03de38129214fd47445386",
+      "sectionIndex": 6,
+      "question": "The interquartile range is:",
+      "options": [
+        "A) Q,f - Q,",
+        "B) Q,, - Q,",
+        "C) Q,f - Q,,",
+        "D) Max - Min"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "07967ffd41082d0d9b7039f909680fc0f4bf0efc",
+      "sectionIndex": 6,
+      "question": "Which measure is most affected by outliers?",
+      "options": [
+        "A) Median",
+        "B) Mode",
+        "C) Mean",
+        "D) Quartiles"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "705478541e3a3c192d16a6bd2e2c0e205cca0a08",
+      "sectionIndex": 6,
+      "question": "The geometric mean is appropriate for:",
+      "options": [
+        "A) All data types",
+        "B) Data with multiplicative structure",
+        "C) Negative values",
+        "D) Categorical data"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2ddcdefd816269a2bc3b90edcdc4a54b8f392ab1",
+      "sectionIndex": 6,
+      "question": "If variance is 25, and all values are multiplied by 2, new variance is:",
+      "options": [
+        "A) 25",
+        "B) 50",
+        "C) 100",
+        "D) 125"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bc1a7838389666b491fdeaac8509ebb5293cc87c",
+      "sectionIndex": 7,
+      "question": "In RCBD, the error degrees of freedom equals:",
+      "options": [
+        "A) (r-1)(t-1)",
+        "B) rt-1",
+        "C) r+t-2",
+        "D) r-t"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9eac17ccb2d792c65e786187421bb3ca66150a2e",
+      "sectionIndex": 7,
+      "question": "The relative efficiency of RCBD to CRD is measured by:",
+      "options": [
+        "A) Ratio of sample sizes",
+        "B) Ratio of error mean squares",
+        "C) Difference in means",
+        "D) F-statistic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c345cc909992564bf374779f9a41e1f2e14df0f8",
+      "sectionIndex": 7,
+      "question": "In a Latin Square Design with 5 treatments, total df equals:",
+      "options": [
+        "A) 20",
+        "B) 24",
+        "C) 16",
+        "D) 25"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c940f470cd156fc4b8dfff94504af9e05a773a9d",
+      "sectionIndex": 7,
+      "question": "The main advantage of factorial design is:",
+      "options": [
+        "A) Fewer observations needed",
+        "B) Study of interactions",
+        "C) Simpler analysis",
+        "D) No blocking needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5da4d5fcffe269198328e97c68c0e498ca9d54ab",
+      "sectionIndex": 7,
+      "question": "In a 23 factorial experiment, the number of treatment combinations is:",
+      "options": [
+        "A) 6",
+        "B) 8",
+        "C) 9",
+        "D) 16"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e2c683436f44f6b170b172c97ff379cc8f42ba09",
+      "sectionIndex": 7,
+      "question": "Split-plot designs are used when:",
+      "options": [
+        "A) All factors equally important",
+        "B) Some factors harder to change",
+        "C) No interactions expected",
+        "D) Small samples available"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5697dc083334e0b1e307001847f901f44c1b91c8",
+      "sectionIndex": 7,
+      "question": "The assumption of additivity in RCBD means:",
+      "options": [
+        "A) Effects multiply",
+        "B) Block and treatment effects add",
+        "C) No treatment effects",
+        "D) Equal variances"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "faf244517999b05f6275cae7e64e7a754e6ceaa7",
+      "sectionIndex": 7,
+      "question": "Orthogonal contrasts in ANOVA must:",
+      "options": [
+        "A) Sum to zero",
+        "B) Have zero correlation",
+        "C) Be equal",
+        "D) Be positive"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b20761dadccbab7cdcd5d168877176faed5c3a9f",
+      "sectionIndex": 7,
+      "question": "The LSD test controls Type I error at α level for:",
+      "options": [
+        "A) All comparisons",
+        "B) Each individual comparison",
+        "C) Family of comparisons",
+        "D) No comparisons"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8493bc3d2ee06ccf98172700190edeb6e3a56dc2",
+      "sectionIndex": 7,
+      "question": "Missing data in RCBD can be estimated using:",
+      "options": [
+        "A) Overall mean",
+        "B) Formula minimizing error SS",
+        "C) Zero",
+        "D) Maximum value"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f1bf1217cef16a21a1417dd66a610ee666d69c2",
+      "sectionIndex": 8,
+      "question": "The Laspeyres index tends to:",
+      "options": [
+        "A) Underestimate price changes",
+        "B) Overestimate price changes",
+        "C) Give exact changes",
+        "D) Equal Paasche index"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43a32efcdd10abc1820d48852468fd55fdc7fc1a",
+      "sectionIndex": 8,
+      "question": "Fisher's index satisfies which test?",
+      "options": [
+        "A) Time reversal only",
+        "B) Factor reversal only",
+        "C) Both time and factor reversal",
+        "D) Neither test"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dfdd7a92dbb4f8602a51f8f4df857725686b53b2",
+      "sectionIndex": 8,
+      "question": "The problem of changing quality in index numbers is addressed by:",
+      "options": [
+        "A) Ignoring it",
+        "B) Hedonic pricing methods",
+        "C) Using quantity weights",
+        "D) Base year selection"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d942d524fc3af2ab36769726264e1956156ced8c",
+      "sectionIndex": 8,
+      "question": "Chain indices are used to:",
+      "options": [
+        "A) Fix base period",
+        "B) Handle changing item sets",
+        "C) Reduce calculations",
+        "D) Increase accuracy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba42cf6c3f44866a13cfcd51341336a5fbb48f6d",
+      "sectionIndex": 8,
+      "question": "The Paasche index formula is:",
+      "options": [
+        "A) Σp,q,?/Σp,?q,? - 100",
+        "B) Σp,q,/Σp,?q, - 100",
+        "C) Σp,?q,/Σp,q, - 100",
+        "D) ^s(Laspeyres - Paasche)"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ddf2d21dc5296e2706994f0da054dc341d96922b",
+      "sectionIndex": 8,
+      "question": "Marshall-Edgeworth index uses:",
+      "options": [
+        "A) Base period quantities",
+        "B) Current period quantities",
+        "C) Average of both periods",
+        "D) No quantities"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5737fab209f6f63190435c2cd09977cc893080b7",
+      "sectionIndex": 8,
+      "question": "The base shifting formula for index numbers involves:",
+      "options": [
+        "A) Addition",
+        "B) Subtraction",
+        "C) Division",
+        "D) Multiplication"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "6b772c09a22a28e1a2e641c8124ee198979013c3",
+      "sectionIndex": 8,
+      "question": "Splicing of index series is needed when:",
+      "options": [
+        "A) Base changes",
+        "B) Items change",
+        "C) Overlapping period exists",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "daaf28b148478817b3b3c7670a63e17a20530581",
+      "sectionIndex": 8,
+      "question": "The ideal index number should satisfy:",
+      "options": [
+        "A) Circular test",
+        "B) All theoretical tests",
+        "C) No tests",
+        "D) Only practical needs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0a62d77f0dcfe9b20fdc7230212b8d21549a68b7",
+      "sectionIndex": 8,
+      "question": "Cost of living index differs from price index by:",
+      "options": [
+        "A) Formula used",
+        "B) Considering consumption patterns",
+        "C) Time period",
+        "D) No difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "281366eec982ba4b7bcaecc5831d5a4436e02802",
+      "sectionIndex": 9,
+      "question": "The Net Reproduction Rate (NRR) of 1.0 indicates:",
+      "options": [
+        "A) Population growth",
+        "B) Population replacement",
+        "C) Population decline",
+        "D) Cannot determine"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f00fc7cb1a167bc58332c90bd40172769cc2c073",
+      "sectionIndex": 9,
+      "question": "Age-specific fertility rates are used to calculate:",
+      "options": [
+        "A) Crude birth rate",
+        "B) Total fertility rate",
+        "C) Death rate",
+        "D) Migration rate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1cc05682ece60d8b3e1f3dcaf76cb4ae4ddc5640",
+      "sectionIndex": 9,
+      "question": "The standardized death rate adjusts for:",
+      "options": [
+        "A) Population size",
+        "B) Age distribution",
+        "C) Gender ratio",
+        "D) Geographic area"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "338e38a6fed19bdaa43d1f5e14b5f6d6da501bcf",
+      "sectionIndex": 9,
+      "question": "Life table l,\" represents:",
+      "options": [
+        "A) Deaths at age x",
+        "B) Survivors to age x",
+        "C) Life expectancy at x",
+        "D) Death probability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "11646ac775d5a56505bd3f3abc8d95bc89c55302",
+      "sectionIndex": 9,
+      "question": "The Gross Reproduction Rate differs from NRR by:",
+      "options": [
+        "A) Including males",
+        "B) Not considering mortality",
+        "C) Using different age groups",
+        "D) Time period"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00163f9380a4e48ab88e6b0461dc3948723e6c3d",
+      "sectionIndex": 9,
+      "question": "Maternal mortality rate is expressed per:",
+      "options": [
+        "A) 1,000 live births",
+        "B) 10,000 live births",
+        "C) 100,000 live births",
+        "D) 1,000 women"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "aca441a239d11bcfe638572ea1df57c19e110615",
+      "sectionIndex": 9,
+      "question": "The intrinsic rate of natural increase assumes:",
+      "options": [
+        "A) Current conditions",
+        "B) Stable age distribution",
+        "C) No migration",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7b495002685644c321e1901cf8065acaf68c4185",
+      "sectionIndex": 9,
+      "question": "Cohort analysis follows:",
+      "options": [
+        "A) Different groups at same time",
+        "B) Same group over time",
+        "C) Random samples",
+        "D) Cross-sections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20f9c0e472e25a68c4a23d46a3723817418b9cd2",
+      "sectionIndex": 9,
+      "question": "The singulate mean age at marriage is calculated from:",
+      "options": [
+        "A) Marriage records",
+        "B) Census proportion single",
+        "C) Survey data",
+        "D) Vital registration"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b8a03dc3aca163643830635fc6b7368df76d39ef",
+      "sectionIndex": 9,
+      "question": "Population momentum refers to:",
+      "options": [
+        "A) Current growth rate",
+        "B) Growth after fertility reaches replacement",
+        "C) Migration effects",
+        "D) Mortality decline"
+      ],
+      "correct": "B"
+    }
+  ]
+}

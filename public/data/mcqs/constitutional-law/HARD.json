@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:32:25.224Z",
+  "totalSections": 8,
+  "items": [
+    {
+      "id": "48f87962bc0d027e651f5038675b9b750a29c686",
+      "sectionIndex": 0,
+      "question": "How does the UK's \"political constitution\" theory challenge traditional constitutionalism while maintaining democratic legitimacy?",
+      "options": [
+        "A) It doesn't challenge anything",
+        "B) Privileges political over legal accountability but risks majoritarian excess",
+        "C) Provides better protection than legal constitutions",
+        "D) Has no theoretical foundation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c08ca7a863fb541854f86e52bf324aefdfb66ac",
+      "sectionIndex": 0,
+      "question": "Analyze how Brexit revealed tensions between parliamentary sovereignty and popular sovereignty:",
+      "options": [
+        "A) No tensions existed",
+        "B) Referendum created competing legitimacy claims against representative democracy",
+        "C) Parliament remained absolutely sovereign",
+        "D) Popular sovereignty was always supreme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79b7dd2d7846e0812536c5cc10547cc6a8be1d54",
+      "sectionIndex": 0,
+      "question": "The Jackson v Attorney General obiter dicta on parliamentary sovereignty suggests:",
+      "options": [
+        "A) Absolute sovereignty confirmed",
+        "B) Judicial hints at possible limits even to parliamentary sovereignty",
+        "C) Courts can strike down statutes",
+        "D) No constitutional significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc27806dccfd18a2df48ac47d133f17f88da407c",
+      "sectionIndex": 0,
+      "question": "How does the UK's constitutional \"unsettlement\" post-devolution challenge Dicey's unitary theory?",
+      "options": [
+        "A) Confirms Dicey",
+        "B) Creates quasi-federal reality within unitary legal framework",
+        "C) Establishes federalism",
+        "D) No impact on theory"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a484fed739943f21a77949b01766216de080bc1e",
+      "sectionIndex": 0,
+      "question": "Evaluate how the Constitutional Reform Act 2005 altered separation of powers:",
+      "options": [
+        "A) Created full separation",
+        "B) Moved toward separation while maintaining Westminster fusion",
+        "C) No change occurred",
+        "D) Destroyed parliamentary system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4caa4d6ff6bbf5c2610b48ba39bdd754447d025",
+      "sectionIndex": 0,
+      "question": "The Miller cases (I & II) demonstrate judicial review of prerogative powers shows:",
+      "options": [
+        "A) Court supremacy",
+        "B) Legal constitutionalization of political questions",
+        "C) Prerogative is absolute",
+        "D) Courts have no role"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "14eefdc0feb3ee55d60b5f4ffde6ef346f120f5c",
+      "sectionIndex": 0,
+      "question": "How does \"constitutional statutes\" doctrine reconcile parliamentary sovereignty with entrenchment?",
+      "options": [
+        "A) Creates formal entrenchment",
+        "B) Implied repeal doctrine modified without formal hierarchy",
+        "C) Destroys sovereignty",
+        "D) No reconciliation needed"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "00f1830e7c231c17f292c61ba119eb5c29a19616",
+      "sectionIndex": 0,
+      "question": "Analyze how conventions' \"crystallization\" into law affects their nature:",
+      "options": [
+        "A) No change",
+        "B) Transforms political into legal accountability with different consequences",
+        "C) Strengthens conventions",
+        "D) Conventions cannot become law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be22dafa537c8cb82b79a2dfd03eaaca44069333",
+      "sectionIndex": 0,
+      "question": "The \"new administrative law\" challenges traditional ultra vires by:",
+      "options": [
+        "A) Confirming traditional view",
+        "B) Grounding judicial review in common law constitutionalism",
+        "C) Eliminating judicial review",
+        "D) No theoretical change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e6dda72b13f2408486e71776e52f490514bebdca",
+      "sectionIndex": 0,
+      "question": "How does parliamentary privilege interact with human rights law?",
+      "options": [
+        "A) Privilege absolute",
+        "B) Creates constitutional friction between competing principles",
+        "C) Rights always prevail",
+        "D) No interaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20e7da6a8238b6de9b51db4a54aa75c926c66a90",
+      "sectionIndex": 0,
+      "question": "The West Lothian Question reveals:",
+      "options": [
+        "A) Perfect devolution",
+        "B) Asymmetric devolution's democratic legitimacy problems",
+        "C) Need for English independence",
+        "D) No real issue"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "326050191e099a237f6b0c6950b88f68f025f298",
+      "sectionIndex": 0,
+      "question": "Evaluate \"common law constitutionalism\" as alternative to parliamentary sovereignty:",
+      "options": [
+        "A) Complete replacement",
+        "B) Parallel tradition creating interpretive competition",
+        "C) No such theory exists",
+        "D) Confirms sovereignty"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4951d33fde2ff5f73db4c6e319dbc7ac27bb6db8",
+      "sectionIndex": 0,
+      "question": "How does the Sewel Convention's statutory recognition affect its nature?",
+      "options": [
+        "A) Makes it legally enforceable",
+        "B) Remains political despite statutory mention",
+        "C) No change",
+        "D) Destroys devolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cfdf1e215c72cec2236568eee329ff838eff703a",
+      "sectionIndex": 1,
+      "question": "How does \"popular constitutionalism\" challenge judicial supremacy in constitutional interpretation?",
+      "options": [
+        "A) Supports judicial supremacy",
+        "B) Claims people, not courts, are ultimate interpreters",
+        "C) No challenge exists",
+        "D) Courts explicitly supreme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "124ccf777558bd3031038fd7926e195e872a8122",
+      "sectionIndex": 1,
+      "question": "Analyze how the \"unitary executive theory\" reinterprets separation of powers:",
+      "options": [
+        "A) Traditional view",
+        "B) Concentrates executive power challenging checks and balances",
+        "C) Weakens presidency",
+        "D) No constitutional basis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "503b0942b9c15b5df25e216799444921eaaf8cdb",
+      "sectionIndex": 1,
+      "question": "The \"anticanon\" (Dred Scott, Plessy, Korematsu) serves what function in constitutional development?",
+      "options": [
+        "A) Positive precedents",
+        "B) Negative examples shaping constitutional identity",
+        "C) Still good law",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a683319c5c563df10748e2424fe41f37d2c21e06",
+      "sectionIndex": 1,
+      "question": "How does federal commandeering doctrine reflect deeper federalism tensions?",
+      "options": [
+        "A) Simple rule",
+        "B) Protects state sovereignty while limiting federal power techniques",
+        "C) Allows total federal control",
+        "D) No federalism impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "870ea37bd48a1a9160d4ddc417716a44f6385d81",
+      "sectionIndex": 1,
+      "question": "Evaluate \"departmentalism\" versus judicial supremacy in constitutional interpretation:",
+      "options": [
+        "A) Same thing",
+        "B) Each branch interprets independently vs. court finality",
+        "C) Only courts interpret",
+        "D) No dispute exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2fc66ace70d458402109e88215244d77fd904db8",
+      "sectionIndex": 1,
+      "question": "The \"constitutional hardball\" concept reveals:",
+      "options": [
+        "A) Normal politics",
+        "B) Legal but norm-breaking behavior threatening system stability",
+        "C) Illegal actions",
+        "D) Healthy competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3dce44b232de1fe02c435f67d9753b17767d0f21",
+      "sectionIndex": 1,
+      "question": "How does the \"major questions doctrine\" reshape administrative state?",
+      "options": [
+        "A) No impact",
+        "B) Requires clear congressional authorization for significant policies",
+        "C) Expands agency power",
+        "D) Eliminates agencies"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34487462b6baba638d414994aa71fe8f7ae4465d",
+      "sectionIndex": 1,
+      "question": "Analyze how \"originalism\" evolved from original intent to original public meaning:",
+      "options": [
+        "A) No evolution",
+        "B) Methodological shift addressing intentionalism's problems",
+        "C) Same approach",
+        "D) Abandons originalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "85fc427f5bd779edf75b486f8b0140a026493910",
+      "sectionIndex": 1,
+      "question": "The \"political question doctrine\" boundaries reveal:",
+      "options": [
+        "A) Clear limits",
+        "B) Judicial struggle between restraint and constitutional duty",
+        "C) Courts decide everything",
+        "D) No political questions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "042623dfd24e91a6925549109c46e8406f63268b",
+      "sectionIndex": 1,
+      "question": "How does \"constitutional rot\" theory explain democratic decline?",
+      "options": [
+        "A) Sudden collapse",
+        "B) Gradual degradation of norms preceding formal breakdown",
+        "C) Constitutions don't decay",
+        "D) Only formal amendments matter"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d98ff5f8f339c4c039f294baa1ead85409f0f5ff",
+      "sectionIndex": 1,
+      "question": "Evaluate competing approaches to constitutional \"construction\" vs. \"interpretation\":",
+      "options": [
+        "A) Same activity",
+        "B) Construction fills gaps where interpretation runs out",
+        "C) Only interpretation exists",
+        "D) Neither has validity"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbdceed6cb5d26b903f3a1c349e5a7403d576bef",
+      "sectionIndex": 1,
+      "question": "How do \"super-statutes\" acquire quasi-constitutional status?",
+      "options": [
+        "A) Constitutional amendment",
+        "B) Fundamental principles plus broad acceptance over time",
+        "C) Court declaration",
+        "D) No such concept"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a207915b8af1718bb3cf38df8054a43d7e56a7f0",
+      "sectionIndex": 1,
+      "question": "The \"new federalism\" decisions reveal:",
+      "options": [
+        "A) Consistent philosophy",
+        "B) Selective federalism depending on policy preferences",
+        "C) Pure states' rights",
+        "D) Federal supremacy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e54ae88bb05ae7cb8b8ef571e73e3f58c41df2f",
+      "sectionIndex": 2,
+      "question": "How does the \"doctrine of necessity\" evolution from Dosso to present reveal constitutional pathology?",
+      "options": [
+        "A) Healthy development",
+        "B) Legal rationalization of extra-constitutional actions undermining constitutionalism",
+        "C) Necessary flexibility",
+        "D) No pattern exists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "501d6c08b882eee509e9d387afd19a492831899c",
+      "sectionIndex": 2,
+      "question": "Analyze the paradox of Islamic provisions' justiciability versus state neutrality:",
+      "options": [
+        "A) No paradox",
+        "B) Creates institutional conflicts over religious interpretation authority",
+        "C) Clear resolution exists",
+        "D) Islam not relevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "75e9a371d6aea1f5b4fecda19aa6bdad0a713594",
+      "sectionIndex": 2,
+      "question": "The \"basic structure\" debate in Pakistan differs from India by:",
+      "options": [
+        "A) Identical approach",
+        "B) Uncertain application given constitutional interruptions and Islamic identity",
+        "C) Clearly established",
+        "D) No such debate"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "478a1054991d2ab34c12ca88ee88e05663985347",
+      "sectionIndex": 2,
+      "question": "How does Article 184(3)'s suo motu jurisdiction evolution reflect institutional competition?",
+      "options": [
+        "A) Normal development",
+        "B) Judicial expansion filling governance vacuums but risking legitimacy",
+        "C) Constitutional mandate",
+        "D) Limited use only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a89dbc502d01a2821dc34db2517b72e867caaf90",
+      "sectionIndex": 2,
+      "question": "Evaluate how 18th Amendment's implementation reveals federal tensions:",
+      "options": [
+        "A) Perfect implementation",
+        "B) Formal devolution with continued centralization practices",
+        "C) Complete provincial autonomy",
+        "D) No implementation issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8701bb726f19bb0f325f574c122d87d4f891fdff",
+      "sectionIndex": 2,
+      "question": "The Council of Islamic Ideology's role demonstrates:",
+      "options": [
+        "A) Theocratic control",
+        "B) Institutionalized tension between Islamic and democratic legitimacy",
+        "C) Purely advisory",
+        "D) Supreme authority"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b59f6fee27f85d1b6b4f9e92070890b543d75953",
+      "sectionIndex": 2,
+      "question": "How do Articles 62-63 reveal deeper issues about democratic representation?",
+      "options": [
+        "A) Technical requirements only",
+        "B) Morality-based disqualifications challenge electoral democracy principles",
+        "C) Universally accepted",
+        "D) No deeper issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bfc8a627357d38fd34453680b31c95dae2746795",
+      "sectionIndex": 2,
+      "question": "Analyze military's \"constitutional role\" claims through security state lens:",
+      "options": [
+        "A) Clear unconstitutionality",
+        "B) Reveals competing institutional narratives about constitutional guardianship",
+        "C) Constitutionally mandated",
+        "D) No such claims"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "18ec68b374b7cce756146a503a21a9b72158ba08",
+      "sectionIndex": 2,
+      "question": "The \"judicial-military nexus\" historically shows:",
+      "options": [
+        "A) Independent institutions",
+        "B) Complex legitimation relationships undermining civilian supremacy",
+        "C) Strong democracy",
+        "D) No relationship"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "90eb4062a5dd462e4c194249f86732e5cd0ea086",
+      "sectionIndex": 2,
+      "question": "How does constitutional identity in Pakistan navigate Islamic and democratic elements?",
+      "options": [
+        "A) Clear hierarchy",
+        "B) Unresolved synthesis creating interpretive instability",
+        "C) Secular constitution",
+        "D) Pure Islamic state"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "db145c81288f73fd17075ae469810035f0bb975e",
+      "sectionIndex": 2,
+      "question": "Evaluate provincial autonomy's limits through resource distribution:",
+      "options": [
+        "A) Full autonomy",
+        "B) Fiscal federalism constraints reveal continued central dominance",
+        "C) Provinces control all",
+        "D) No resource issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c8ec4fc2b005ab41b17ce0fe2cda20eda3a578df",
+      "sectionIndex": 2,
+      "question": "The \"constitutional petition industry\" phenomenon indicates:",
+      "options": [
+        "A) Healthy judiciary",
+        "B) Governance failure displacement to courts",
+        "C) Normal litigation",
+        "D) Strong institutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e26532177d1e12c0be60af893c2508b0521baaa3",
+      "sectionIndex": 2,
+      "question": "How do competing constitutional narratives (1973 original vs. amended) function?",
+      "options": [
+        "A) No competition",
+        "B) Legitimacy contests over authentic constitutional vision",
+        "C) Clear consensus",
+        "D) Amendments invalid"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04cd668646796df9ad7e94930ddb9f000b2d5e2f",
+      "sectionIndex": 3,
+      "question": "How does \"transformative constitutionalism\" in India challenge original intent?",
+      "options": [
+        "A) Supports original intent",
+        "B) Reimagines constitution as radical social change instrument",
+        "C) No transformation intended",
+        "D) Courts reject concept"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6f57313532595f12213b925eeb30bc09e35ebe74",
+      "sectionIndex": 3,
+      "question": "Analyze basic structure's evolution from property rights to secularism:",
+      "options": [
+        "A) Consistent application",
+        "B) Reflects changing judicial perceptions of constitutional essentials",
+        "C) Limited to property",
+        "D) No evolution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c68d28ad2d0748b4ad59bb34c4553104611d35a",
+      "sectionIndex": 3,
+      "question": "The \"constitutional morality\" concept functions to:",
+      "options": [
+        "A) Impose judges' morality",
+        "B) Bridge constitutional text and social transformation",
+        "C) Maintain status quo",
+        "D) No real function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5f38bd30f2597871f0f77de2870a3613b10c1c3",
+      "sectionIndex": 3,
+      "question": "How does India's \"cooperative federalism\" mask centralization?",
+      "options": [
+        "A) True cooperation",
+        "B) Institutional design and fiscal dependence ensure central dominance",
+        "C) States dominate",
+        "D) No centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed313b2b7ec37564be0b07c8771aff458a692277",
+      "sectionIndex": 3,
+      "question": "Evaluate PIL's transformation from access to governance:",
+      "options": [
+        "A) Simple expansion",
+        "B) Judicial governance through expanded jurisdiction risks legitimacy",
+        "C) Limited to access",
+        "D) No transformation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dc233e3f3438b2e11762d7e551e45105f778a2d0",
+      "sectionIndex": 3,
+      "question": "The \"essential religious practices\" test reveals:",
+      "options": [
+        "A) Clear standards",
+        "B) Judicial theology determining religious boundaries",
+        "C) No state interference",
+        "D) Religious autonomy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0d2d6d969c0d3e90319b5bd1f4076ff76264980e",
+      "sectionIndex": 3,
+      "question": "How does reservation jurisprudence balance equality and representation?",
+      "options": [
+        "A) Perfect balance",
+        "B) Reveals deep tensions between formal and substantive equality",
+        "C) No tensions",
+        "D) Quotas unconstitutional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecf409268c79e1508bd49f1d0aeced396f634418",
+      "sectionIndex": 3,
+      "question": "Ninth Schedule's immunity challenge shows:",
+      "options": [
+        "A) Absolute protection",
+        "B) Basic structure limits even constitutional amendments' scope",
+        "C) No challenges possible",
+        "D) Schedule eliminated"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba4820f2714a15fcd61bb92eff8b5e2f5328ee53",
+      "sectionIndex": 3,
+      "question": "Analyze how \"constitutional silences\" enable judicial creativity:",
+      "options": [
+        "A) Judges bound by text",
+        "B) Gaps allow principled development beyond framers' vision",
+        "C) No silences exist",
+        "D) Creativity prohibited"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "40bb7c360baf81447f46cb9cba1686511f72e13a",
+      "sectionIndex": 3,
+      "question": "The \"arbitrariness\" doctrine under Article 14 functions as:",
+      "options": [
+        "A) Limited equality test",
+        "B) Expansive reasonableness review of all state action",
+        "C) No real standard",
+        "D) Procedural only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "46ac1d436b82042782446c3a47d8ba1086c8758b",
+      "sectionIndex": 3,
+      "question": "How do Directive Principles' non-justiciability challenge rights paradigm?",
+      "options": [
+        "A) No challenge",
+        "B) Create parallel constitutional vision privileging collective goals",
+        "C) Completely ignored",
+        "D) Fully enforceable"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ca96fb26f115d78ca1056a7921116d2cdc6136ec",
+      "sectionIndex": 3,
+      "question": "Evaluate \"constitutional culture\" versus \"constitutional text\" in India:",
+      "options": [
+        "A) Text dominates",
+        "B) Practice often diverges revealing implementation gaps",
+        "C) Perfect alignment",
+        "D) No constitutional culture"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "38483902663945d515412f45fb1c961bfc89000e",
+      "sectionIndex": 3,
+      "question": "How does judicial appointments evolution reflect institutional tensions?",
+      "options": [
+        "A) Smooth development",
+        "B) Struggle over constitutional control between judiciary and executive",
+        "C) No tensions",
+        "D) Executive dominance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ef86ff7e0953afce763a6dc5b301b7652209d6f4",
+      "sectionIndex": 4,
+      "question": "How does the \"bloc de constitutionnalité\" expand constitutional review beyond text?",
+      "options": [
+        "A) Text only reviewed",
+        "B) Creates expansive constitutional principles from various sources",
+        "C) Limits review",
+        "D) No expansion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ed3f8a2abd6e1566eccf6c280fa6a35d2f5a774c",
+      "sectionIndex": 4,
+      "question": "Analyze QPC (preliminary ruling) introduction's impact on constitutional culture:",
+      "options": [
+        "A) Minor change",
+        "B) Transforms from abstract to concrete review democratizing constitutional justice",
+        "C) No real impact",
+        "D) Weakens system"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "afbbfa2c051fe51baa23fa9914d672a48e15af90",
+      "sectionIndex": 4,
+      "question": "The \"principes fondamentaux reconnus par les lois de la République\" shows:",
+      "options": [
+        "A) Clear principles",
+        "B) Judicial creativity in constitutionalizing pre-constitutional traditions",
+        "C) No such concept",
+        "D) Legislative principles"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "21031b97f88cca7dad67a3b05966e253849a67d9",
+      "sectionIndex": 4,
+      "question": "How does cohabitation test semi-presidentialism's coherence?",
+      "options": [
+        "A) System fails",
+        "B) Reveals flexible power-sharing but institutional tensions",
+        "C) Perfect harmony",
+        "D) No impact"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ecd96e26c5e96852eb3dadab7c7f4ece87daf57e",
+      "sectionIndex": 4,
+      "question": "Evaluate \"fait majoritaire\" impact on Fifth Republic stability:",
+      "options": [
+        "A) No significance",
+        "B) Party discipline enables executive dominance transforming system",
+        "C) Weakens executive",
+        "D) Multi-party chaos"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b331b89fa81637da92edff6745a467d7ea7cba0",
+      "sectionIndex": 4,
+      "question": "The Constitutional Council's evolution to Constitutional Court shows:",
+      "options": [
+        "A) Name change only",
+        "B) Transformation from political to judicial organ",
+        "C) No evolution",
+        "D) Weaker institution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bef3e3df9f6d5f7d853af571346ee585d3159f1f",
+      "sectionIndex": 4,
+      "question": "How does France balance EU law supremacy with constitutional identity?",
+      "options": [
+        "A) EU law absolute",
+        "B) Constitutional identity doctrine limits EU law integration",
+        "C) No EU impact",
+        "D) Constitution irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54adaec6448c0bc960c8c5614aed99da88e870f3",
+      "sectionIndex": 4,
+      "question": "Analyze état d'urgence (emergency) use revealing constitutional assumptions:",
+      "options": [
+        "A) Rare use",
+        "B) Normalized emergency powers challenge rights/security balance",
+        "C) No constitutional issues",
+        "D) Perfect safeguards"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c4a9a1460750775d350ab97be51d52cde3da76fd",
+      "sectionIndex": 4,
+      "question": "The \"réserve de loi\" doctrine functions to:",
+      "options": [
+        "A) Limit legislation",
+        "B) Protect legislative domain from executive encroachment",
+        "C) Expand executive power",
+        "D) No real function"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2032c5feaaa1d57f5cf614a4384a1e8fe8451e43",
+      "sectionIndex": 4,
+      "question": "How do référendums under Article 11 challenge representative democracy?",
+      "options": [
+        "A) Strengthen representation",
+        "B) Create parallel legitimacy potentially conflicting with parliament",
+        "C) No challenge",
+        "D) Purely consultative"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "52498bd79f3184d7a75fcaf5fcb3b8eaf0da4b98",
+      "sectionIndex": 4,
+      "question": "Evaluate laïcité's constitutional evolution:",
+      "options": [
+        "A) Fixed principle",
+        "B) Shifting from separation to identity marker with exclusionary potential",
+        "C) No evolution",
+        "D) Abandoned principle"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54010437dd4d3d483e11c297adb9056eee602321",
+      "sectionIndex": 4,
+      "question": "The \"incompétence négative\" concept reveals:",
+      "options": [
+        "A) Legislative failure",
+        "B) Constitutional requirement for legislative specificity",
+        "C) No such concept",
+        "D) Executive freedom"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b74fe21d3df684a233dce4abef628795d70b7bce",
+      "sectionIndex": 4,
+      "question": "How does territorial reform challenge unitary state theory?",
+      "options": [
+        "A) Confirms unitarism",
+        "B) Creates differentiated governance approaching federalism",
+        "C) No challenge",
+        "D) Strengthens centralization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bdc4c0ecc9adb9d28d88b5724a2f0f3008a02dc3",
+      "sectionIndex": 5,
+      "question": "How does \"sovereign democracy\" concept challenge liberal constitutionalism?",
+      "options": [
+        "A) Enhances democracy",
+        "B) Justifies illiberal practices through sovereignty claims",
+        "C) No challenge",
+        "D) Strengthens liberalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3b8fca7a08fcf60c01c122458227f9f57de784c2",
+      "sectionIndex": 5,
+      "question": "Analyze \"power vertical\" impact on federal constitutional structure:",
+      "options": [
+        "A) Strengthens federalism",
+        "B) Hollows federal form while maintaining facade",
+        "C) No impact",
+        "D) Constitutional requirement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cef15235b3dc5683f3dcf9f2850aa7462b2d3e7c",
+      "sectionIndex": 5,
+      "question": "The Constitutional Court's oscillation reveals:",
+      "options": [
+        "A) Consistent jurisprudence",
+        "B) Institutional survival strategies under political pressure",
+        "C) Complete independence",
+        "D) No patterns"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8f175ebf1639a760cd09ccd7587a315a78f481ef",
+      "sectionIndex": 5,
+      "question": "How do constitutional amendments extending presidential terms expose system logic?",
+      "options": [
+        "A) Normal evolution",
+        "B) Legal form legitimizing authoritarian consolidation",
+        "C) Democratic deepening",
+        "D) No significance"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5678446aae035e8e8ba0a9b965a303478574d34b",
+      "sectionIndex": 5,
+      "question": "Evaluate \"legal nihilism\" versus \"dictatorship of law\" rhetoric:",
+      "options": [
+        "A) Clear concepts",
+        "B) Competing narratives masking selective law enforcement",
+        "C) No relationship",
+        "D) Effective reform"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53da37a72824a8431453609e165c0c323bc43afd",
+      "sectionIndex": 5,
+      "question": "Federal treaties' renegotiation shows:",
+      "options": [
+        "A) Federal strengthening",
+        "B) Recentralization through bilateral deals undermining federalism",
+        "C) Equal partnership",
+        "D) No change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "374d7824269da7c7f62337b95f579fd1de34bedc",
+      "sectionIndex": 5,
+      "question": "How does security services' constitutional status reflect state priorities?",
+      "options": [
+        "A) Normal arrangements",
+        "B) Privileged position revealing security state characteristics",
+        "C) Weak services",
+        "D) No special status"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cbc54a4b1bfe1fcbf8ec6f6ff66b1870f9a5a229",
+      "sectionIndex": 5,
+      "question": "The \"tandemocracy\" period exposed:",
+      "options": [
+        "A) Strong institutions",
+        "B) Personal power behind constitutional forms",
+        "C) Perfect succession",
+        "D) No issues"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "204a510ef506b3b988f9cda3b8e82eb481a3b558",
+      "sectionIndex": 5,
+      "question": "Analyze how international law supremacy clause functions practically:",
+      "options": [
+        "A) Full compliance",
+        "B) Selective implementation based on sovereignty claims",
+        "C) No constitutional provision",
+        "D) Courts enforce strictly"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "03d331e221eb9a1bd522a68c470449c9b4437d88",
+      "sectionIndex": 5,
+      "question": "Economic rights' constitutional status versus reality shows:",
+      "options": [
+        "A) Full protection",
+        "B) Formal rights without effective enforcement mechanisms",
+        "C) No economic rights",
+        "D) Better than political rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "675610970ad66b83a8bea58a82bbab69d91acf15",
+      "sectionIndex": 5,
+      "question": "How do regions' differentiated status challenge federal equality?",
+      "options": [
+        "A) All equal",
+        "B) Creates asymmetric federalism based on political bargaining",
+        "C) No differentiation",
+        "D) Constitutional requirement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "28f39a9e86bb93b9db502d066fc0cbd8f28d181b",
+      "sectionIndex": 5,
+      "question": "The \"party of power\" phenomenon reveals:",
+      "options": [
+        "A) Healthy democracy",
+        "B) Institutional capture through formally democratic means",
+        "C) Multi-party system",
+        "D) No dominant party"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "295a1ac6a5a4d81040df736880e8d39f3e6b834b",
+      "sectionIndex": 5,
+      "question": "Evaluate constitutional patriotism versus ethnic nationalism tensions:",
+      "options": [
+        "A) No tensions",
+        "B) Civic ideals undermined by ethnographic state practices",
+        "C) Pure civic state",
+        "D) No nationalism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7c72c76f091bc18f03401628efe9ffc7ad7c7868",
+      "sectionIndex": 6,
+      "question": "How do \"abusive constitutionalism\" patterns manifest across systems?",
+      "options": [
+        "A) Rare occurrence",
+        "B) Legal tools for democratic backsliding within constitutional forms",
+        "C) Impossible under constitutions",
+        "D) Only in dictatorships"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1a132f69597c9659d6a67c18431b2633f323a4f9",
+      "sectionIndex": 6,
+      "question": "Analyze \"constitutional capture\" through court-packing versus jurisdiction-stripping:",
+      "options": [
+        "A) Same effect",
+        "B) Different techniques revealing varied institutional vulnerabilities",
+        "C) No capture possible",
+        "D) Courts immune"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24e90c4ba3cfe81f05adf091070d3d77b69e99e5",
+      "sectionIndex": 6,
+      "question": "The \"transnational constitutional order\" challenges sovereignty by:",
+      "options": [
+        "A) No challenge",
+        "B) Creating overlapping legal obligations and norm entrepreneurs",
+        "C) Strengthening sovereignty",
+        "D) International law irrelevant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e0ed3de0104dcd3bd401a4e697496fb153f1f88e",
+      "sectionIndex": 6,
+      "question": "How do emergency powers' normalization reveal constitutional assumptions?",
+      "options": [
+        "A) Temporary only",
+        "B) Exposes liberal constitutionalism's self-destructive potential",
+        "C) No normalization occurs",
+        "D) Constitutions prevent this"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a78e34d1c8ab9e9a8e46890a38f13cf88418ebb2",
+      "sectionIndex": 6,
+      "question": "Evaluate \"stealth authoritarianism\" through constitutional means:",
+      "options": [
+        "A) Open authoritarianism only",
+        "B) Subtly undermines democracy using legal tools",
+        "C) Impossible",
+        "D) Constitutions prevent this"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fc65aee41b4ca03abb0d6a5005874afa24795815",
+      "sectionIndex": 6,
+      "question": "The \"constitutional minimum core\" debate reveals:",
+      "options": [
+        "A) Universal agreement",
+        "B) Contested boundaries of constitutional identity",
+        "C) No minimum exists",
+        "D) Maximum constitution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "62fb0c52e50dcd749245df3100b7d2237546589a",
+      "sectionIndex": 6,
+      "question": "How do \"competing constitutionalisms\" (liberal/illiberal) coexist?",
+      "options": [
+        "A) Cannot coexist",
+        "B) Same forms with different substantive commitments",
+        "C) Clear distinction",
+        "D) No competition"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "65556cc95dca1939915baa83ed5af4e6b5859828",
+      "sectionIndex": 6,
+      "question": "Analyze \"judicial dialogue\" versus \"judicial monologue\" in rights protection:",
+      "options": [
+        "A) Always dialogue",
+        "B) Power dynamics determine genuine exchange versus dominance",
+        "C) No communication",
+        "D) Perfect cooperation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "25663e8750748469c903b068f2a31fe502d2da92",
+      "sectionIndex": 6,
+      "question": "The \"margin of appreciation\" doctrine's variable application shows:",
+      "options": [
+        "A) Consistent standards",
+        "B) Political considerations in rights adjudication",
+        "C) No variation",
+        "D) Purely legal"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4bdf58d818428b7c4df82ce50438a0358240e3a5",
+      "sectionIndex": 6,
+      "question": "How do \"constitutional moments\" versus \"constitutional rot\" explain change?",
+      "options": [
+        "A) Opposite processes",
+        "B) Complementary theories of transformation and decay",
+        "C) Same phenomenon",
+        "D) Neither occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba7212a0c178481bcd47f5a37cdf0fc8855c6c7c",
+      "sectionIndex": 6,
+      "question": "Evaluate \"popular constitutionalism\" versus \"legal constitutionalism\":",
+      "options": [
+        "A) Compatible fully",
+        "B) Fundamental tension over interpretive authority",
+        "C) Same thing",
+        "D) No real difference"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "71ef6055fdf1f806d2cd41d6ef4280dbc5ae2392",
+      "sectionIndex": 7,
+      "question": "How might AI challenge constitutional decision-making frameworks?",
+      "options": [
+        "A) No impact",
+        "B) Algorithmic governance challenges human-centered constitutional assumptions",
+        "C) Improves all decisions",
+        "D) Banned by constitutions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4d70558a994b395a7da34556fe148998fdfae45",
+      "sectionIndex": 7,
+      "question": "Analyze climate constitutionalism's implications for sovereignty:",
+      "options": [
+        "A) No implications",
+        "B) Requires reimagining state obligations beyond borders",
+        "C) Strengthens sovereignty",
+        "D) Climate irrelevant to law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d329f52925bbdd63064232770cb26da5a08ee215",
+      "sectionIndex": 7,
+      "question": "The \"constitutional pluralism\" in EU reveals:",
+      "options": [
+        "A) Clear hierarchy",
+        "B) Multiple valid constitutional claims without ultimate arbiter",
+        "C) EU constitution supreme",
+        "D) National constitutions supreme"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "50d0dadcba52ebbe521d1385ce5bd1c6afe22e76",
+      "sectionIndex": 7,
+      "question": "How do digital rights challenge traditional constitutional frameworks?",
+      "options": [
+        "A) Fit perfectly",
+        "B) Require reconceptualizing privacy, speech, and jurisdiction",
+        "C) No new issues",
+        "D) Constitutions address fully"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f6b815e25af64bce40b91d58e6cfa80150a4cf3",
+      "sectionIndex": 7,
+      "question": "Evaluate \"militant democracy\" versus \"tolerant democracy\" trade-offs:",
+      "options": [
+        "A) No trade-offs",
+        "B) Protection paradox between defending and undermining democracy",
+        "C) Always militant",
+        "D) Always tolerant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a62b2b107caef9c98c59df56058913b699ab8ae3",
+      "sectionIndex": 7,
+      "question": "The \"constituent power\" in modern conditions faces:",
+      "options": [
+        "A) Same as always",
+        "B) Difficulty identifying \"the people\" in pluralist societies",
+        "C) Clear identification",
+        "D) No challenges"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cb858f5a9edf851690c45cfd515c62c6ee418af",
+      "sectionIndex": 7,
+      "question": "How might blockchain challenge constitutional concepts of authority?",
+      "options": [
+        "A) No challenge",
+        "B) Decentralized systems question hierarchical legal structures",
+        "C) Strengthens authority",
+        "D) Irrelevant technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "935b72b59b3891812be32c3bd1c28c765d18d2b7",
+      "sectionIndex": 7,
+      "question": "Analyze \"constitutional resilience\" versus \"constitutional fragility\":",
+      "options": [
+        "A) Clear distinction",
+        "B) Same systems show both depending on stress types",
+        "C) All resilient",
+        "D) All fragile"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ea95b11d39e09d6c6156449a8e232e94f9428fb7",
+      "sectionIndex": 7,
+      "question": "The \"post-constitutional\" age thesis suggests:",
+      "options": [
+        "A) Constitutions strengthening",
+        "B) Governance beyond traditional constitutional frameworks",
+        "C) No change",
+        "D) Return to pre-constitutional"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "564371e5b67f8c50caf05459e0fdc653e9922b86",
+      "sectionIndex": 7,
+      "question": "How do \"sunset constitutions\" proposals address entrenchment?",
+      "options": [
+        "A) Permanent constitutions better",
+        "B) Periodic renewal prevents outdated fundamental law",
+        "C) Too unstable",
+        "D) No proposals exist"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "17ed63739f948beb09833e1009a95bea7feed901",
+      "sectionIndex": 7,
+      "question": "Evaluate constitutionalism's future between universalism and particularism:",
+      "options": [
+        "A) Clear universal victory",
+        "B) Continued tension between global norms and local contexts",
+        "C) Pure particularism",
+        "D) End of constitutionalism"
+      ],
+      "correct": "B"
+    }
+  ]
+}

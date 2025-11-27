@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T12:51:02.331Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "731ec68e22c569e36590c6b1cdfaf5f8c00bd942",
+      "sectionIndex": 0,
+      "question": "Change to passive voice: \"The President inaugurated the Motorway.\"",
+      "options": [
+        "A) The Motorway is inaugurated by the President",
+        "B) The Motorway was inaugurated by the President",
+        "C) The Motorway has been inaugurated by the President",
+        "D) The Motorway will be inaugurated by the President"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8a4f1ee6611b5b1c036215b3e9d774dcd788e7b9",
+      "sectionIndex": 0,
+      "question": "Change to active voice: \"The book was written by Shakespeare.\"",
+      "options": [
+        "A) Shakespeare writes the book",
+        "B) Shakespeare has written the book",
+        "C) Shakespeare wrote the book",
+        "D) Shakespeare is writing the book"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f24ca4fe570550c5772e5dd079641f30be9e6e67",
+      "sectionIndex": 0,
+      "question": "Choose the correct tense: \"He _____ to school every day.\"",
+      "options": [
+        "A) go",
+        "B) goes",
+        "C) going",
+        "D) gone"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4f6c3370c525f77cfb5496e169c4825411a01272",
+      "sectionIndex": 0,
+      "question": "Identify the tense: \"She has been working here for five years.\"",
+      "options": [
+        "A) Present Perfect",
+        "B) Present Perfect Continuous",
+        "C) Past Perfect Continuous",
+        "D) Simple Present"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "581504abafe749c8ebdd018f32ebb7bfe1cc018e",
+      "sectionIndex": 0,
+      "question": "Choose the correct form: \"I _____ him yesterday.\"",
+      "options": [
+        "A) see",
+        "B) seen",
+        "C) saw",
+        "D) seeing"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "af2e78d9195b3ee00f54c91184a7250e5c2451e7",
+      "sectionIndex": 0,
+      "question": "Change to passive: \"They are building a new bridge.\"",
+      "options": [
+        "A) A new bridge is being built by them",
+        "B) A new bridge was being built by them",
+        "C) A new bridge has been built by them",
+        "D) A new bridge will be built by them"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "9f3af8640dd35a65010fc0c5cddf4a34c2a344ef",
+      "sectionIndex": 0,
+      "question": "The past tense of \"lie\" (to recline) is:",
+      "options": [
+        "A) lied",
+        "B) lay",
+        "C) laid",
+        "D) lain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "335780c47df637a1060ed3ffa2a6427e337db672",
+      "sectionIndex": 0,
+      "question": "Choose the correct form: \"She _____ already eaten.\"",
+      "options": [
+        "A) have",
+        "B) has",
+        "C) had",
+        "D) having"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2892334fa50a99e8781328204a67f01d54ea3ea4",
+      "sectionIndex": 0,
+      "question": "Change to active: \"The letter will be posted tomorrow.\"",
+      "options": [
+        "A) Someone posts the letter tomorrow",
+        "B) Someone will post the letter tomorrow",
+        "C) Someone posted the letter tomorrow",
+        "D) Someone is posting the letter tomorrow"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccf17f2dceda46b232d5d7d341494d32cf99bbcb",
+      "sectionIndex": 0,
+      "question": "The present perfect tense indicates:",
+      "options": [
+        "A) Ongoing action",
+        "B) Completed action with present relevance",
+        "C) Future action",
+        "D) Habitual action"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d6b46a73451971019ba2db6af5179b027f28d5b",
+      "sectionIndex": 1,
+      "question": "Change to indirect: He said, \"I am happy.\"",
+      "options": [
+        "A) He said that he is happy",
+        "B) He said that he was happy",
+        "C) He says that he was happy",
+        "D) He said that I am happy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "05b409bb630a9c70f375f413d3cc5bf67d720d95",
+      "sectionIndex": 1,
+      "question": "Change to indirect: She said, \"I will come tomorrow.\"",
+      "options": [
+        "A) She said that she will come tomorrow",
+        "B) She said that she would come tomorrow",
+        "C) She said that she would come the next day",
+        "D) She said that I will come tomorrow"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dddd1acb1a26dfafeb60f4a2b797d552de95b9af",
+      "sectionIndex": 1,
+      "question": "In reported speech, \"today\" changes to:",
+      "options": [
+        "A) tomorrow",
+        "B) yesterday",
+        "C) that day",
+        "D) this day"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b0fe2be9ee9a7f39a0cafd8b75bfaeb0d9965f3a",
+      "sectionIndex": 1,
+      "question": "Change to direct: He asked if I was coming.",
+      "options": [
+        "A) He asked, \"Are you coming?\"",
+        "B) He asked, \"Is you coming?\"",
+        "C) He asked, \"Am I coming?\"",
+        "D) He asked, \"Were you coming?\""
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "5d843d654e0b9ea1b60d6cf568a2ed5987e1a02a",
+      "sectionIndex": 1,
+      "question": "In reported speech, \"now\" changes to:",
+      "options": [
+        "A) then",
+        "B) today",
+        "C) here",
+        "D) later"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6307ea7b15b5a1ebe5bcc560693b5ec10cbe995e",
+      "sectionIndex": 1,
+      "question": "Change to indirect: \"Let's wait,\" he said.",
+      "options": [
+        "A) He said to wait",
+        "B) He suggested waiting",
+        "C) He ordered to wait",
+        "D) He asked to wait"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dcc737f8d0a9dd3af12e1402d6aafe235be9af59",
+      "sectionIndex": 1,
+      "question": "Reported commands use:",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) to + infinitive",
+        "D) whether"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cdaf90aa2b9de242dc8a449f402927f79474564d",
+      "sectionIndex": 1,
+      "question": "Change to indirect: \"What is your name?\" she asked.",
+      "options": [
+        "A) She asked what is my name",
+        "B) She asked what my name is",
+        "C) She asked what my name was",
+        "D) She asked what was my name"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "131cd655b5fd4ce4aad6f12efbcc0e8328d69485",
+      "sectionIndex": 1,
+      "question": "In reported speech, \"must\" often changes to:",
+      "options": [
+        "A) can",
+        "B) could",
+        "C) had to",
+        "D) will"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d2d4638251f4eb91d2709197a3614922657ce417",
+      "sectionIndex": 1,
+      "question": "\"Don't go,\" he said. In indirect speech:",
+      "options": [
+        "A) He said not to go",
+        "B) He told me not to go",
+        "C) He asked don't go",
+        "D) He said to not go"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "326c65673811fa0e9fe355818b73d979a7d0f05c",
+      "sectionIndex": 2,
+      "question": "Choose the correct form: \"Neither he nor I _____ responsible.\"",
+      "options": [
+        "A) is",
+        "B) am",
+        "C) are",
+        "D) were"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "155bfd863b68b551c1f585260189b96f70ea4aac",
+      "sectionIndex": 2,
+      "question": "Correct the error: \"He is senior than me.\"",
+      "options": [
+        "A) He is senior to me",
+        "B) He is senior from me",
+        "C) He is more senior than me",
+        "D) He is senior with me"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "6a8be185f77ad23b4aa8fef7e232519c918f1dce",
+      "sectionIndex": 2,
+      "question": "Choose the correct preposition: \"He is good _____ mathematics.\"",
+      "options": [
+        "A) in",
+        "B) at",
+        "C) on",
+        "D) with"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f4ace86af08ec710de99f46abda6691b5e95400a",
+      "sectionIndex": 2,
+      "question": "Correct form: \"One of the boys _____ absent.\"",
+      "options": [
+        "A) are",
+        "B) is",
+        "C) were",
+        "D) have been"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "27576ba888456c545ceda6bbdab3e55891f761a8",
+      "sectionIndex": 2,
+      "question": "Choose the correct word: \"This medicine is injurious _____ health.\"",
+      "options": [
+        "A) for",
+        "B) to",
+        "C) with",
+        "D) of"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1fcf9f8ff82c15d6c6a9d7db03eb90c7a28ecedd",
+      "sectionIndex": 2,
+      "question": "Correct the redundancy: \"He returned back home.\"",
+      "options": [
+        "A) He returned to home",
+        "B) He returned home",
+        "C) He returned back to home",
+        "D) He returned at home"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "defec8a72a1b03ea03e2af33423224c8c5df56e5",
+      "sectionIndex": 2,
+      "question": "Choose the correct form: \"Each of the students _____ a book.\"",
+      "options": [
+        "A) have",
+        "B) has",
+        "C) having",
+        "D) had"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a9a4784b21b594b5de08dfaac911a0e146e26a87",
+      "sectionIndex": 2,
+      "question": "Correct phrase: \"My cousin brother is coming.\"",
+      "options": [
+        "A) My cousin is coming",
+        "B) My brother cousin is coming",
+        "C) My cousin's brother is coming",
+        "D) My cousins brother is coming"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1d8a56331f8a259389985e07faa88316c3180a7a",
+      "sectionIndex": 2,
+      "question": "Choose the correct article: \"_____ honest man\"",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) No article"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "eb08f6b14b442f3070ee1d7dbcab68e6d738aec9",
+      "sectionIndex": 2,
+      "question": "Correct form: \"She is tired _____ waiting.\"",
+      "options": [
+        "A) with",
+        "B) from",
+        "C) of",
+        "D) by"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c25255c11d0740e83861c3f38fd3e362b84b8d37",
+      "sectionIndex": 3,
+      "question": "Synonym of \"HAPPY\":",
+      "options": [
+        "A) Sad",
+        "B) Joyful",
+        "C) Angry",
+        "D) Tired"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7ec40f2651da8129c221971bb016724da3cc4cfd",
+      "sectionIndex": 3,
+      "question": "Synonym of \"BIG\":",
+      "options": [
+        "A) Small",
+        "B) Tiny",
+        "C) Large",
+        "D) Narrow"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "2ffb9413c27f659c4c25ca6cd46976bc27da71f3",
+      "sectionIndex": 3,
+      "question": "Synonym of \"BEAUTIFUL\":",
+      "options": [
+        "A) Ugly",
+        "B) Pretty",
+        "C) Dark",
+        "D) Rough"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8efc9a31cfe5c5b4daff9a307c1a1775ddad85d",
+      "sectionIndex": 3,
+      "question": "Synonym of \"FAST\":",
+      "options": [
+        "A) Slow",
+        "B) Quick",
+        "C) Steady",
+        "D) Careful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "04458dcc85ff3211b2e895f74f5c19faccd6eac6",
+      "sectionIndex": 3,
+      "question": "Synonym of \"SMART\":",
+      "options": [
+        "A) Dull",
+        "B) Intelligent",
+        "C) Weak",
+        "D) Poor"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9ba7b5952903cb6f434450bc7f7fc34fec12092c",
+      "sectionIndex": 3,
+      "question": "Synonym of \"BRAVE\":",
+      "options": [
+        "A) Coward",
+        "B) Timid",
+        "C) Courageous",
+        "D) Fearful"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4a28b5452033843ddb4f565d1ae5bfd0a853bb37",
+      "sectionIndex": 3,
+      "question": "Synonym of \"ANCIENT\":",
+      "options": [
+        "A) Modern",
+        "B) New",
+        "C) Old",
+        "D) Recent"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "902df6880c9cc3c4c3411df5f1da92b7027492ff",
+      "sectionIndex": 3,
+      "question": "Synonym of \"DIFFICULT\":",
+      "options": [
+        "A) Easy",
+        "B) Simple",
+        "C) Hard",
+        "D) Clear"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "49f6d91d62b9d5701050a775bd8114457af3f8f9",
+      "sectionIndex": 3,
+      "question": "Synonym of \"WEALTHY\":",
+      "options": [
+        "A) Poor",
+        "B) Rich",
+        "C) Needy",
+        "D) Humble"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "dafc1309438551f59a07031fac8dbf53d087e316",
+      "sectionIndex": 3,
+      "question": "Synonym of \"BEGIN\":",
+      "options": [
+        "A) End",
+        "B) Finish",
+        "C) Start",
+        "D) Close"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dde69daec6a474ba06214b0182ee835a63c56d0b",
+      "sectionIndex": 4,
+      "question": "Antonym of \"HOT\":",
+      "options": [
+        "A) Warm",
+        "B) Cold",
+        "C) Cool",
+        "D) Mild"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ccd8bb757e02522511c49f44c1317009611674c7",
+      "sectionIndex": 4,
+      "question": "Antonym of \"LIGHT\" (weight):",
+      "options": [
+        "A) Dark",
+        "B) Bright",
+        "C) Heavy",
+        "D) Dim"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fc9abf2732ebe6f9d033fa3c41143b3675d1dfc8",
+      "sectionIndex": 4,
+      "question": "Antonym of \"YOUNG\":",
+      "options": [
+        "A) New",
+        "B) Fresh",
+        "C) Old",
+        "D) Small"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "a5c3f6054996f075f6c172f060cf0478c7a90b62",
+      "sectionIndex": 4,
+      "question": "Antonym of \"STRONG\":",
+      "options": [
+        "A) Powerful",
+        "B) Mighty",
+        "C) Weak",
+        "D) Hard"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c44dc531fb4b8fe438ebb9252f64536d8b94d6a6",
+      "sectionIndex": 4,
+      "question": "Antonym of \"LOVE\":",
+      "options": [
+        "A) Like",
+        "B) Hate",
+        "C) Care",
+        "D) Admire"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d4d6cd6e887576d4047e191c8ffe7e1c38979034",
+      "sectionIndex": 4,
+      "question": "Antonym of \"SUCCESS\":",
+      "options": [
+        "A) Victory",
+        "B) Win",
+        "C) Failure",
+        "D) Achievement"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "55d4f51541be4059ab9700e1e09116dfec37813c",
+      "sectionIndex": 4,
+      "question": "Antonym of \"ACCEPT\":",
+      "options": [
+        "A) Take",
+        "B) Receive",
+        "C) Reject",
+        "D) Hold"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5167ba44ae5a0c5650651b39e33b66cf24e68831",
+      "sectionIndex": 4,
+      "question": "Antonym of \"PRESENT\" (time):",
+      "options": [
+        "A) Gift",
+        "B) Past",
+        "C) Current",
+        "D) Now"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8fd0023f0d73e800ddb9e1e74b2e55e9d834e0cf",
+      "sectionIndex": 4,
+      "question": "Antonym of \"INCREASE\":",
+      "options": [
+        "A) Grow",
+        "B) Expand",
+        "C) Decrease",
+        "D) Enlarge"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "014c0bb6a954fa95c1561a999e302408f7bd3a8e",
+      "sectionIndex": 4,
+      "question": "Antonym of \"FRIEND\":",
+      "options": [
+        "A) Companion",
+        "B) Enemy",
+        "C) Partner",
+        "D) Ally"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "049bdccf9d3e5b2cf1969877cc152d34f979535a",
+      "sectionIndex": 5,
+      "question": "\"Kick the bucket\" means:",
+      "options": [
+        "A) To play football",
+        "B) To die",
+        "C) To be angry",
+        "D) To clean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54d035840e7a55d584f5c9814a731a8540846c67",
+      "sectionIndex": 5,
+      "question": "\"Break the ice\" means:",
+      "options": [
+        "A) To destroy something",
+        "B) To start a conversation",
+        "C) To make ice cubes",
+        "D) To be cold"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "7646f9d997283f86fe0782d1ce02ae570b700f49",
+      "sectionIndex": 5,
+      "question": "\"A piece of cake\" means:",
+      "options": [
+        "A) Dessert",
+        "B) Very easy",
+        "C) Very difficult",
+        "D) A portion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e44f5686e3e1a482e80f9c0922357e79790ec5f9",
+      "sectionIndex": 5,
+      "question": "\"Under the weather\" means:",
+      "options": [
+        "A) Outside",
+        "B) Feeling sick",
+        "C) Very happy",
+        "D) Protected"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "340c9760eebaac9dc308f6418e54abdb13acf07e",
+      "sectionIndex": 5,
+      "question": "\"Hit the nail on the head\" means:",
+      "options": [
+        "A) To hurt someone",
+        "B) To be exactly right",
+        "C) To build something",
+        "D) To miss the point"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "797e2f53ef468035b577e93df1031434624af185",
+      "sectionIndex": 5,
+      "question": "\"Spill the beans\" means:",
+      "options": [
+        "A) To cook",
+        "B) To reveal a secret",
+        "C) To make a mess",
+        "D) To plant seeds"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f3fc25c02c6663f4841986920048f088dacaac0c",
+      "sectionIndex": 5,
+      "question": "\"Once in a blue moon\" means:",
+      "options": [
+        "A) Every night",
+        "B) Very rarely",
+        "C) During full moon",
+        "D) Always"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "43aca2ef740328b1a081c3d0898b340e7bed12a8",
+      "sectionIndex": 5,
+      "question": "\"Bite the bullet\" means:",
+      "options": [
+        "A) To eat",
+        "B) To face difficulty bravely",
+        "C) To shoot",
+        "D) To be angry"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3379453e81837337355eda8d24bd2e751e58ae93",
+      "sectionIndex": 5,
+      "question": "\"Let the cat out of the bag\" means:",
+      "options": [
+        "A) To free an animal",
+        "B) To reveal a secret",
+        "C) To go shopping",
+        "D) To be careful"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "34d90a53dd9d921b2a38e318e49e4f1d078a7806",
+      "sectionIndex": 5,
+      "question": "\"It's raining cats and dogs\" means:",
+      "options": [
+        "A) Animals falling",
+        "B) Raining heavily",
+        "C) Light rain",
+        "D) No rain"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "06210e3637b93fbdb161584131afdfea5c34b918",
+      "sectionIndex": 6,
+      "question": "\"Accept\" means to receive; \"Except\" means:",
+      "options": [
+        "A) To receive",
+        "B) To give",
+        "C) To exclude",
+        "D) To include"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3b72bb646a83593a7c13b5ca474f0245e5d20f01",
+      "sectionIndex": 6,
+      "question": "\"Affect\" is a verb; \"Effect\" is usually a:",
+      "options": [
+        "A) Verb",
+        "B) Noun",
+        "C) Adjective",
+        "D) Adverb"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ba2a10b1c232837dab465a01b2f39aaae58e54cb",
+      "sectionIndex": 6,
+      "question": "\"Their\" shows possession; \"There\" indicates:",
+      "options": [
+        "A) Possession",
+        "B) Location",
+        "C) People",
+        "D) Time"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cac112e4f14565573ca4cb0c88d9eab9c99f44a",
+      "sectionIndex": 6,
+      "question": "\"Its\" shows possession; \"It's\" means:",
+      "options": [
+        "A) Belonging to it",
+        "B) It is",
+        "C) Its own",
+        "D) It was"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d091a8f394e7f4b1a9829b3a79907d4a96b0b235",
+      "sectionIndex": 6,
+      "question": "\"Your\" shows possession; \"You're\" means:",
+      "options": [
+        "A) Belonging to you",
+        "B) You are",
+        "C) Yourself",
+        "D) You were"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b140df378b4127d3300c4c30415b8815b976c1a",
+      "sectionIndex": 6,
+      "question": "\"Principal\" can mean chief; \"Principle\" means:",
+      "options": [
+        "A) School head",
+        "B) Main person",
+        "C) Rule or belief",
+        "D) Money"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "087a1dc4073a7580621aa52da95179f08cb47823",
+      "sectionIndex": 6,
+      "question": "\"Stationary\" means not moving; \"Stationery\" means:",
+      "options": [
+        "A) Still",
+        "B) Writing materials",
+        "C) Station",
+        "D) Movement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "80087147ac2d838f3bce9d966adb263b4821d4a9",
+      "sectionIndex": 6,
+      "question": "\"Complement\" means to complete; \"Compliment\" means:",
+      "options": [
+        "A) To finish",
+        "B) To praise",
+        "C) To add",
+        "D) To match"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e4c49a61e6f63d6ef3d75c7cd7de8bec92ce964",
+      "sectionIndex": 6,
+      "question": "\"Council\" is a group; \"Counsel\" means:",
+      "options": [
+        "A) Assembly",
+        "B) Advice",
+        "C) Committee",
+        "D) Meeting"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9f03659f147ac29269384fb802e647b26e1708c6",
+      "sectionIndex": 6,
+      "question": "\"Desert\" (noun) is dry land; \"Dessert\" is:",
+      "options": [
+        "A) Sand",
+        "B) Sweet course",
+        "C) To abandon",
+        "D) Dry place"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f1cf7765ef72c02a386e9b91c48e52b3721b43e0",
+      "sectionIndex": 7,
+      "question": "She arrived _____ the station.",
+      "options": [
+        "A) in",
+        "B) at",
+        "C) on",
+        "D) to"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "873ad4dd6ae8b99e565be20e0ac50a9597cec30b",
+      "sectionIndex": 7,
+      "question": "He is interested _____ music.",
+      "options": [
+        "A) at",
+        "B) on",
+        "C) in",
+        "D) with"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f8480fb788020d3bcbc4ca7e84cd1a34ffce3621",
+      "sectionIndex": 7,
+      "question": "The book is _____ the table.",
+      "options": [
+        "A) in",
+        "B) at",
+        "C) on",
+        "D) into"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "20367bae90bac68545a2b9df0b01eb61eb7bfbd9",
+      "sectionIndex": 7,
+      "question": "She has been waiting _____ morning.",
+      "options": [
+        "A) from",
+        "B) since",
+        "C) for",
+        "D) by"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3c861b393f232516618943b240efbfd7714c13a5",
+      "sectionIndex": 7,
+      "question": "He is afraid _____ dogs.",
+      "options": [
+        "A) from",
+        "B) with",
+        "C) by",
+        "D) of"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "51e0f995e7271f5cc3e66df2e94460fb05fc9d4c",
+      "sectionIndex": 7,
+      "question": "They arrived _____ Monday.",
+      "options": [
+        "A) in",
+        "B) at",
+        "C) on",
+        "D) by"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "704bb261852de9c74379035c2986386b8aefa288",
+      "sectionIndex": 7,
+      "question": "She lives _____ London.",
+      "options": [
+        "A) at",
+        "B) on",
+        "C) in",
+        "D) to"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "98135c9895f21541dbcb9e8b771e836574753d5d",
+      "sectionIndex": 7,
+      "question": "He goes to school _____ foot.",
+      "options": [
+        "A) by",
+        "B) on",
+        "C) with",
+        "D) in"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "ce341733b92dd534e8c976cb7ff8e86c2a8d0c5e",
+      "sectionIndex": 7,
+      "question": "The bird is _____ the tree.",
+      "options": [
+        "A) on",
+        "B) at",
+        "C) in",
+        "D) over"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "967ed1a937d4f92223f7370a875259a1f950fb5e",
+      "sectionIndex": 7,
+      "question": "He is good _____ English.",
+      "options": [
+        "A) in",
+        "B) on",
+        "C) at",
+        "D) with"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "971f1e15ec00a8c8e58dc1fd0392284513b08296",
+      "sectionIndex": 8,
+      "question": "_____ sun rises in the east.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) No article"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "924baa8dc84b006856fec9eedfe6a9e6a4d87554",
+      "sectionIndex": 8,
+      "question": "He is _____ honest man.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) no article"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9a5e215d9878af6004676b2aa74cfd83aaf41790",
+      "sectionIndex": 8,
+      "question": "I saw _____ elephant at the zoo.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) no article"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6741b9b52c6080edc0ec512341e77f678eea97c8",
+      "sectionIndex": 8,
+      "question": "_____ knowledge is power.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) No article"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "cd915159de7dce4a8857012d88b57cdcc8466da4",
+      "sectionIndex": 8,
+      "question": "She wants to be _____ doctor.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) no article"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "de6c7c74e5268b90a3768df9ef6c784898779256",
+      "sectionIndex": 8,
+      "question": "_____ Himalayas are the highest mountains.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) No article"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e9150a4cc78f3a1758038bad414bb4899c3a17f7",
+      "sectionIndex": 8,
+      "question": "He plays _____ piano well.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) no article"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ace927ad83cec5b92692deaf48281ca37cd9fe91",
+      "sectionIndex": 8,
+      "question": "_____ apple a day keeps the doctor away.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) No article"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f106d8f7c98f294d467123edfa1d303297589aa1",
+      "sectionIndex": 8,
+      "question": "She is _____ university student.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) no article"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "a4e3285040b54e75e5bcd9486cd406d7be667f0c",
+      "sectionIndex": 8,
+      "question": "_____ water is essential for life.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) No article"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "14d1cef041ec78c891a1c3a856692446e6f2e6eb",
+      "sectionIndex": 9,
+      "question": "Which punctuation mark ends a statement?",
+      "options": [
+        "A) ?",
+        "B) !",
+        "C) .",
+        "D) ,"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bd8e6bb41f2ee8c2814e83862424d9213d4a61f4",
+      "sectionIndex": 9,
+      "question": "Which mark is used for a question?",
+      "options": [
+        "A) .",
+        "B) !",
+        "C) ?",
+        "D) :"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "624eeb115d9e0a938334f7d9f90049dc0bf9d994",
+      "sectionIndex": 9,
+      "question": "Apostrophe in \"don't\" shows:",
+      "options": [
+        "A) Possession",
+        "B) Contraction",
+        "C) Plural",
+        "D) Emphasis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6212fe8cb9c85a4269e7618116a2c03908185837",
+      "sectionIndex": 9,
+      "question": "Comma is used to:",
+      "options": [
+        "A) End a sentence",
+        "B) Separate items",
+        "C) Show possession",
+        "D) Ask questions"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e8562d01d6e270c59d3be45b17e2e206da10cae2",
+      "sectionIndex": 9,
+      "question": "Quotation marks are used for:",
+      "options": [
+        "A) Emphasis only",
+        "B) Direct speech",
+        "C) Questions",
+        "D) Lists"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "16f3f86bd45fa174c3ef6e9ecb382ab9a603e098",
+      "sectionIndex": 9,
+      "question": "Exclamation mark shows:",
+      "options": [
+        "A) Question",
+        "B) Statement",
+        "C) Strong emotion",
+        "D) Pause"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fa511eda64a548eb226469290e522a9bfe53fdd2",
+      "sectionIndex": 9,
+      "question": "Colon is often used before:",
+      "options": [
+        "A) Questions",
+        "B) Lists",
+        "C) Names",
+        "D) Verbs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d3c28bcb07449bf0f288506b95d04cb770544386",
+      "sectionIndex": 9,
+      "question": "Semi-colon connects:",
+      "options": [
+        "A) Words",
+        "B) Independent clauses",
+        "C) Questions",
+        "D) Subjects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "20aa891471da60f5ad0ef7f152f4d41add1b908a",
+      "sectionIndex": 9,
+      "question": "Capital letters begin:",
+      "options": [
+        "A) Every word",
+        "B) Sentences and proper nouns",
+        "C) Only names",
+        "D) Only places"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a05683e104d8ef8018dd5031134a9b7c0ee323e4",
+      "sectionIndex": 9,
+      "question": "Full stop is also called:",
+      "options": [
+        "A) Comma",
+        "B) Period",
+        "C) Colon",
+        "D) Dash"
+      ],
+      "correct": "B"
+    }
+  ]
+}

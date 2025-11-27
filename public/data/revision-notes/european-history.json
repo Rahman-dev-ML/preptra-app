@@ -1,0 +1,464 @@
+{
+  "subject": "European History (CSS Exam)",
+  "lastUpdated": "2025-01-09",
+  "totalNotes": 16,
+  "categories": [
+    "Treaties, Congresses & Diplomatic Settlements",
+    "French Revolution & Napoleonic Era",
+    "Italian & German Unifications",
+    "Rise of Nationalism & Social Thought",
+    "Imperialism & New Imperialism",
+    "World Wars & Interwar Diplomacy",
+    "Cold War & Post-1945 Order",
+    "European Integration"
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "title": "Congress of Laibach (1821) & the Vienna/Concert System",
+      "content": "Locate Laibach (Ljubljana) in the post-Vienna 'Congress System'. Know aims (contain liberal revolts; collective security among the Five) and outcomes (Austrian intervention in Naples). Use for MCQs and short-notes on the Concert's operation/decline.",
+      "keyTakeaways": [
+        "Laibach: Jan–May 1821 in Ljubljana.",
+        "Part of the Troppau–Laibach–Verona cycle managing revolutions.",
+        "Concert of Europe sought great-power consensus over war."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Congress of Laibach",
+          "url": "https://www.britannica.com/event/Congress-of-Laibach",
+          "type": "article",
+          "description": "Concise, exam-friendly overview (dates, place, purpose)."
+        },
+        {
+          "title": "Britannica — Congress of Vienna (context for Congress System)",
+          "url": "https://www.britannica.com/event/Congress-of-Vienna",
+          "type": "article",
+          "description": "Goals and outcomes of Vienna settlement."
+        }
+      ],
+      "importance": "high",
+      "category": "Treaties, Congresses & Diplomatic Settlements",
+      "topics": ["Congress System", "Concert of Europe", "Vienna Settlement", "Conservative Order"]
+    },
+    {
+      "id": "2",
+      "title": "Treaty of Paris (1856) — Black Sea Neutralization",
+      "content": "Know the 'neutralization' clause after the Crimean War: warships forbidden in the Black Sea. Good MCQ material (what body of water? which treaty? year 1856).",
+      "keyTakeaways": [
+        "Article XI neutralized the Black Sea; no warships permitted.",
+        "Reversed later by the 1871 London Conference."
+      ],
+      "resources": [
+        {
+          "title": "Treaty of Paris 1856 (English text, PDF)",
+          "url": "https://content.ecf.org.il/files/M00934_TreatyOfParis1856English.pdf",
+          "type": "pdf",
+          "description": "Includes the 'Black Sea is neutralized…' wording."
+        },
+        {
+          "title": "UK Hansard — Treaty of Paris (Black Sea clause quoted)",
+          "url": "https://hansard.parliament.uk/Lords/1871-02-14/debates/c7809341-8931-40d7-91c7-7d7c0e3109f6/TreatyOfParis",
+          "type": "article",
+          "description": "Authoritative quotation of the clause."
+        }
+      ],
+      "importance": "medium",
+      "category": "Treaties, Congresses & Diplomatic Settlements",
+      "topics": ["Crimean War", "Treaty of Paris 1856", "Black Sea", "Eastern Question"]
+    },
+    {
+      "id": "3",
+      "title": "Peace of Amiens (1802)",
+      "content": "Short-lived peace between Britain and France; date/location = Amiens, March 1802. Appears as factual MCQ.",
+      "keyTakeaways": [
+        "Signed March 25, 1802 at Amiens.",
+        "Ended Second Coalition war; truce collapsed by 1803."
+      ],
+      "resources": [
+        {
+          "title": "Treaty of Amiens — Official Text (Napoleon-Empire.org)",
+          "url": "https://www.napoleon-empire.org/en/official-texts/treaty-of-amiens.php",
+          "type": "article",
+          "description": "Readable English translation."
+        },
+        {
+          "title": "Treaty of Amiens (PDF scan)",
+          "url": "https://www.oas.org/sap/peacefund/belizeandguatemala/timelinedocuments/amiensTreaty.pdf",
+          "type": "pdf",
+          "description": "Backup PDF copy."
+        }
+      ],
+      "importance": "medium",
+      "category": "French Revolution & Napoleonic Era",
+      "topics": ["Peace of Amiens", "Napoleonic Wars", "Anglo-French Relations"]
+    },
+    {
+      "id": "4",
+      "title": "Tilsit (1807) — Zenith of Napoleon",
+      "content": "Use Tilsit to argue Napoleon's high-water mark: Franco-Russian alignment; Prussia humbled; Westphalia/Grand Duchy of Warsaw created.",
+      "keyTakeaways": [
+        "Tilsit followed Friedland; France–Russia alignment.",
+        "Prussian territory reduced; new client states formed."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Treaties of Tilsit",
+          "url": "https://www.britannica.com/topic/Treaties-of-Tilsit",
+          "type": "article",
+          "description": "Clear consequences summary for essays."
+        },
+        {
+          "title": "Treaty between France & Russia at Tilsit (7 July 1807)",
+          "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/treaty-between-france-and-russia-tilsit-7-july-1807/",
+          "type": "article",
+          "description": "Article excerpts to quote."
+        },
+        {
+          "title": "Documents upon the Peace of Tilsit (Napoleon-Series)",
+          "url": "https://www.napoleon-series.org/research/government/diplomatic/c_tilsit.html",
+          "type": "article",
+          "description": "Useful for citing specific clauses."
+        }
+      ],
+      "importance": "high",
+      "category": "French Revolution & Napoleonic Era",
+      "topics": ["Treaty of Tilsit", "Napoleon's Empire", "Franco-Russian Alliance", "Prussia"]
+    },
+    {
+      "id": "5",
+      "title": "Treaty of Versailles (1919) & League of Nations Covenant",
+      "content": "Core interwar topic: terms on Germany; mandates; reparations; League Covenant (Articles 10–16 collective security).",
+      "keyTakeaways": [
+        "Cite Covenant Articles directly in critiques.",
+        "Frame 'ceasefire for twenty years' argument with enforcement gaps."
+      ],
+      "resources": [
+        {
+          "title": "Avalon Project — Treaty of Versailles (full text)",
+          "url": "https://avalon.law.yale.edu/imt/partiii.asp",
+          "type": "article",
+          "description": "Reliable, searchable text."
+        },
+        {
+          "title": "Avalon — Covenant of the League of Nations",
+          "url": "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+          "type": "article",
+          "description": "Articles for collective security analysis."
+        },
+        {
+          "title": "FRUS — Covenant of the League (official text)",
+          "url": "https://history.state.gov/historicaldocuments/frus1919Parisv13/ch10subch1",
+          "type": "article",
+          "description": "Authentic government source."
+        }
+      ],
+      "importance": "high",
+      "category": "World Wars & Interwar Diplomacy",
+      "topics": ["Treaty of Versailles", "League of Nations", "Collective Security", "Interwar Period"]
+    },
+    {
+      "id": "6",
+      "title": "Treaty of Berlin (1878) & the Eastern Question",
+      "content": "Revised San Stefano; re-drew Balkans (Bulgaria as autonomous principality; Austro-Hungarian role in Bosnia). Essential for 1878 and Balkan phases to 1914.",
+      "keyTakeaways": [
+        "Know Bulgaria's status; Bosnia's administration.",
+        "Use Berlin 1878 as pivot for Eastern Question essays."
+      ],
+      "resources": [
+        {
+          "title": "Treaty of Berlin (English excerpts, PDF)",
+          "url": "https://content.ecf.org.il/files/M00935_TreatyOfBerlin1878ExcerptsEnglish.pdf",
+          "type": "pdf",
+          "description": "Key articles translated."
+        },
+        {
+          "title": "US FRUS 1878 — Treaty of Berlin (authentic English version notice)",
+          "url": "https://history.state.gov/historicaldocuments/frus1878/d523",
+          "type": "article",
+          "description": "Provenance and authenticity note."
+        }
+      ],
+      "importance": "high",
+      "category": "Treaties, Congresses & Diplomatic Settlements",
+      "topics": ["Treaty of Berlin 1878", "Eastern Question", "Balkans", "Great Powers"]
+    },
+    {
+      "id": "7",
+      "title": "Villafranca (1859) & Gastein (1865) — Inter-Italian/German Settlements",
+      "content": "Villafranca: armistice ending Franco-Austrian war (France–Austria). Gastein: Austro-Prussian partition of Schleswig-Holstein; often noted as disadvantaging Austria.",
+      "keyTakeaways": [
+        "Villafranca (8 July 1859) precedes Zurich treaties.",
+        "Gastein sets stage for 1866 Austro-Prussian war."
+      ],
+      "resources": [
+        {
+          "title": "Hansard — Treaty of Villafranca (Commons debate contemporaneous)",
+          "url": "https://api.parliament.uk/historic-hansard/commons/1859/jul/22/treaty-of-villafranca-affairs-of-italy",
+          "type": "article",
+          "description": "Contemporary description and implications."
+        },
+        {
+          "title": "Hansard — The Gastein Convention (1866 debate)",
+          "url": "https://hansard.parliament.uk/Commons/1866-05-31/debates/1a2c8743-7294-4da0-ba53-880bf61e922b/Prussia%E2%80%94TheGasteinConvention",
+          "type": "article",
+          "description": "Useful context for disadvantages."
+        }
+      ],
+      "importance": "medium",
+      "category": "Italian & German Unifications",
+      "topics": ["Italian Unification", "German Unification", "Austro-Prussian Relations"]
+    },
+    {
+      "id": "8",
+      "title": "Declaration of the Rights of Man & of the Citizen (1789)",
+      "content": "Anchor source for Revolution ideals; appears in MCQs (which constitution prefixed? 1791).",
+      "keyTakeaways": [
+        "Article 1: 'Men are born and remain free and equal in rights.'",
+        "Prefixed to the 1791 Constitution."
+      ],
+      "resources": [
+        {
+          "title": "Avalon — Declaration of the Rights of Man (English)",
+          "url": "https://avalon.law.yale.edu/18th_century/rightsof.asp",
+          "type": "article",
+          "description": "Clean English translation."
+        },
+        {
+          "title": "Élysée (official) — Declaration overview",
+          "url": "https://www.elysee.fr/en/french-presidency/the-declaration-of-the-rights-of-man-and-of-the-citizen",
+          "type": "article",
+          "description": "Context and articles in brief."
+        }
+      ],
+      "importance": "high",
+      "category": "French Revolution & Napoleonic Era",
+      "topics": ["French Revolution", "Declaration of Rights", "Enlightenment", "Liberty"]
+    },
+    {
+      "id": "9",
+      "title": "Napoleon's Continental System (from 1806)",
+      "content": "Economic warfare vs Britain; begin with the Berlin Decree; reasons for failure (leaks, smuggling, Iberia/Russia, Continental burdens).",
+      "keyTakeaways": [
+        "Berlin Decree declared British Isles in blockade.",
+        "Backfired economically on Europe; spurred conflicts."
+      ],
+      "resources": [
+        {
+          "title": "Berlin Decree (full text, English)",
+          "url": "https://www.napoleon-empire.org/en/official-texts/berlin-decree-1806.php",
+          "type": "article",
+          "description": "Official English version."
+        },
+        {
+          "title": "Napoleon.org — Berlin Decree (article with key articles)",
+          "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-berlin-decree-of-november-21-1806/",
+          "type": "article",
+          "description": "Highlights Articles I–II and context."
+        },
+        {
+          "title": "Napoleon.org — Close-up on Continental System",
+          "url": "https://www.napoleon.org/en/history-of-the-two-empires/close-up/a-close-up-on-the-continental-system-or-blockade/",
+          "type": "article",
+          "description": "Strategy, rationale, and impact."
+        }
+      ],
+      "importance": "high",
+      "category": "French Revolution & Napoleonic Era",
+      "topics": ["Continental System", "Economic Warfare", "Berlin Decree", "Napoleon"]
+    },
+    {
+      "id": "10",
+      "title": "Holy Alliance & Metternich",
+      "content": "Use the Holy Alliance text and Metternich's role in conservative order/restoration; short-note staple.",
+      "keyTakeaways": [
+        "Signed 1815 by Russia, Austria, Prussia (Paris).",
+        "Ideological pledge underpinning post-Napoleonic conservatism."
+      ],
+      "resources": [
+        {
+          "title": "Holy Alliance Treaty (English translation)",
+          "url": "https://www.napoleon-series.org/research/government/diplomatic/c_alliance.html",
+          "type": "article",
+          "description": "Usable quotes for essays."
+        },
+        {
+          "title": "Oxford Public Int'l Law — Holy Alliance",
+          "url": "https://opil.ouplaw.com/view/10.1093/law%3Aepil/9780199231690/law-9780199231690-e718?prd=MPIL",
+          "type": "article",
+          "description": "Concise analysis for context."
+        }
+      ],
+      "importance": "high",
+      "category": "Treaties, Congresses & Diplomatic Settlements",
+      "topics": ["Holy Alliance", "Metternich", "Conservative Order", "Restoration"]
+    },
+    {
+      "id": "11",
+      "title": "Italian & German Unifications (Mazzini–Cavour–Garibaldi; Bismarck) + Zollverein",
+      "content": "Compare leadership/ideals and structural enablers (Zollverein). Tie Gastein/Villafranca to pathways.",
+      "keyTakeaways": [
+        "Zollverein (1834) as economic precursor for German unity.",
+        "Cavour's diplomacy vs. Bismarck's realpolitik."
+      ],
+      "resources": [
+        {
+          "title": "Oxford Public Int'l Law — Zollverein",
+          "url": "https://opil.ouplaw.com/display/10.1093/law%3Aepil/9780199231690/law-9780199231690-e740?d=%2F10.1093%2Flaw%3Aepil%2F9780199231690%2Flaw-9780199231690-e740",
+          "type": "article",
+          "description": "Authoritative overview."
+        },
+        {
+          "title": "Ploeckl (2019) — The Zollverein and the Origins of the Customs Union (PDF)",
+          "url": "https://iit.adelaide.edu.au/ua/media/390/Discussion%20Paper%202019-05%20Florian%20Ploeckl%20131119.pdf",
+          "type": "pdf",
+          "description": "Modern analytical perspective."
+        }
+      ],
+      "importance": "high",
+      "category": "Italian & German Unifications",
+      "topics": ["Unification", "Zollverein", "Bismarck", "Cavour", "Mazzini", "Garibaldi"]
+    },
+    {
+      "id": "12",
+      "title": "Imperialism Rivals: Fashoda (1898) & Baghdad Railway",
+      "content": "Illustrate 'New Imperialism' conflicts: Anglo-French Fashoda crisis; German-Ottoman Baghdad Railway and Great-Power suspicion.",
+      "keyTakeaways": [
+        "Fashoda (1898) resolved diplomatically in 1899; symbol of Anglo-French rivalry.",
+        "Baghdad Railway concession (1903) led by Deutsche Bank."
+      ],
+      "resources": [
+        {
+          "title": "E-International Relations — Manchuria/Abyssinia & collective security (for imperial failures link)",
+          "url": "https://www.e-ir.info/2011/08/11/the-manchurian-and-the-abyssinian-crises-and-the-failure-of-collective-security/",
+          "type": "article",
+          "description": "Useful to connect imperial crises to League limits."
+        },
+        {
+          "title": "Deutsche Bank Historical — 'Baghdad Concession' (1903) milestone",
+          "url": "https://www.bankgeschichte.de/topics/milestones",
+          "type": "article",
+          "description": "Short, credible reference for 1903 concession."
+        },
+        {
+          "title": "Cambridge Core — Financial history of the Anatolian & Baghdad railways",
+          "url": "https://www.cambridge.org/core/journals/financial-history-review/article/financial-history-of-the-anatolian-and-baghdad-railways-18891914/E48B28A91622CE989272785D91EC54E4",
+          "type": "article",
+          "description": "Academic context and data."
+        }
+      ],
+      "importance": "high",
+      "category": "Imperialism & New Imperialism",
+      "topics": ["New Imperialism", "Fashoda Crisis", "Baghdad Railway", "Colonial Rivalry"]
+    },
+    {
+      "id": "13",
+      "title": "World War I: Entry & Treaty-Era Transformations",
+      "content": "Know US entry date (April 1917) & reasons; use primary texts for Wilson's addresses. Connect to postwar map changes and the Chaumont (1814) alliance context for Napoleonic endgame.",
+      "keyTakeaways": [
+        "Wilson asked Congress April 2, 1917; formal war from April 6.",
+        "Use FRUS/Avalon for direct quotes in essays."
+      ],
+      "resources": [
+        {
+          "title": "US Office of the Historian — U.S. Entry into WWI",
+          "url": "https://history.state.gov/milestones/1914-1920/wwi",
+          "type": "article",
+          "description": "Concise rationale and timeline."
+        },
+        {
+          "title": "Miller Center — Wilson's April 1917 speeches",
+          "url": "https://millercenter.org/the-presidency/presidential-speeches/april-17-1917-message-regarding-world-war-i",
+          "type": "article",
+          "description": "Annotated text for quotations."
+        }
+      ],
+      "importance": "high",
+      "category": "World Wars & Interwar Diplomacy",
+      "topics": ["World War I", "US Entry", "Wilson", "Treaty of Versailles"]
+    },
+    {
+      "id": "14",
+      "title": "League of Nations — Organisation, Failures & Collective Security",
+      "content": "Use Covenant Articles 10–16 and case studies (Manchuria 1931; Abyssinia 1935) to structure failure analysis.",
+      "keyTakeaways": [
+        "Structural weaknesses + Great-Power self-interest undermined enforcement.",
+        "Case studies are essential to scoring well."
+      ],
+      "resources": [
+        {
+          "title": "Avalon — Covenant of the League of Nations",
+          "url": "https://avalon.law.yale.edu/20th_century/leagcov.asp",
+          "type": "article",
+          "description": "Articles to cite directly."
+        },
+        {
+          "title": "E-IR — Manchurian & Abyssinian crises",
+          "url": "https://www.e-ir.info/2011/08/11/the-manchurian-and-the-abyssinian-crises-and-the-failure-of-collective-security/",
+          "type": "article",
+          "description": "Scholarly, exam-friendly synthesis."
+        }
+      ],
+      "importance": "high",
+      "category": "World Wars & Interwar Diplomacy",
+      "topics": ["League of Nations", "Collective Security", "Manchuria", "Abyssinia"]
+    },
+    {
+      "id": "15",
+      "title": "Cold War Origins — Kennan's 'X' Article & the Long Telegram",
+      "content": "Define Containment via Kennan's 1947 'Sources of Soviet Conduct' and 1946 Long Telegram; excellent for Cold War essays/MCQs.",
+      "keyTakeaways": [
+        "'X' article operationalizes Containment.",
+        "Long Telegram frames Soviet motives & policy guidance."
+      ],
+      "resources": [
+        {
+          "title": "State Dept. — Kennan and Containment (overview)",
+          "url": "https://history.state.gov/milestones/1945-1952/kennan",
+          "type": "article",
+          "description": "Authoritative context."
+        },
+        {
+          "title": "Kennan — 'Sources of Soviet Conduct' (PDF)",
+          "url": "https://slantchev.ucsd.edu/courses/pdf/Kennan%20-%20The%20Sources%20of%20Soviet%20Conduct.pdf",
+          "type": "pdf",
+          "description": "Full article text to quote."
+        },
+        {
+          "title": "National Security Archive — The Long Telegram (original/scan)",
+          "url": "https://nsarchive.gwu.edu/document/21042-long-telegram-original",
+          "type": "article",
+          "description": "Original archival version."
+        }
+      ],
+      "importance": "high",
+      "category": "Cold War & Post-1945 Order",
+      "topics": ["Cold War", "Containment", "Kennan", "US-Soviet Relations"]
+    },
+    {
+      "id": "16",
+      "title": "NATO & Warsaw Pact — Collective Security Blocs",
+      "content": "Compare treaties (Articles 5 vs 4/defense clauses), membership, and strategic aims; link to European security architecture.",
+      "keyTakeaways": [
+        "NATO Treaty (1949) Article 5 mutual defense.",
+        "Warsaw Pact (1955) mirrored bloc alignment until 1991."
+      ],
+      "resources": [
+        {
+          "title": "NATO — North Atlantic Treaty (official text)",
+          "url": "https://www.nato.int/cps/en/natohq/official_texts_17120.htm",
+          "type": "article",
+          "description": "Authoritative and searchable."
+        },
+        {
+          "title": "Avalon — Warsaw Pact (1955) full text",
+          "url": "https://avalon.law.yale.edu/20th_century/warsaw.asp",
+          "type": "article",
+          "description": "Complete English translation."
+        }
+      ],
+      "importance": "high",
+      "category": "Cold War & Post-1945 Order",
+      "topics": ["NATO", "Warsaw Pact", "Cold War Alliances", "European Security"]
+    }
+  ]
+}

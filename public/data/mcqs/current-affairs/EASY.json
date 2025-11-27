@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-19T09:45:59.164Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "685340ad8c9160a9196e9bfadb5930ff39dfc9dc",
+      "sectionIndex": 0,
+      "question": "The headquarters of the United Nations is located in:",
+      "options": [
+        "A) Geneva",
+        "B) New York",
+        "C) Paris",
+        "D) London"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60a3485665afcec7fa95fd47e595133727274294",
+      "sectionIndex": 0,
+      "question": "The current number of UN Security Council permanent members is:",
+      "options": [
+        "A) 5",
+        "B) 10",
+        "C) 15",
+        "D) 20"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "7fec0fc20bae6cef2a207aa8711822f29d05309a",
+      "sectionIndex": 0,
+      "question": "SAARC headquarters is located in:",
+      "options": [
+        "A) New Delhi",
+        "B) Kathmandu",
+        "C) Islamabad",
+        "D) Dhaka"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b478991562e0c06767da7f4daad0765f0190be4c",
+      "sectionIndex": 0,
+      "question": "The Organization of Islamic Cooperation (OIC) has approximately:",
+      "options": [
+        "A) 37 members",
+        "B) 47 members",
+        "C) 57 members",
+        "D) 67 members"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7af327718c3f62559602238984bc139b554ef298",
+      "sectionIndex": 0,
+      "question": "WHO stands for:",
+      "options": [
+        "A) World Health Organization",
+        "B) World Housing Organization",
+        "C) World Humanitarian Organization",
+        "D) World Hospital Organization"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "256d9e4f04fd56e1ae8873facc1f19c4724cc887",
+      "sectionIndex": 0,
+      "question": "The World Bank headquarters is in:",
+      "options": [
+        "A) New York",
+        "B) Washington DC",
+        "C) London",
+        "D) Geneva"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "53289a7dcff278d1eaf13ae000d490aa2ce1d5be",
+      "sectionIndex": 0,
+      "question": "NATO stands for:",
+      "options": [
+        "A) North American Treaty Organization",
+        "B) North Atlantic Treaty Organization",
+        "C) New Atlantic Treaty Organization",
+        "D) Northern Alliance Treaty Organization"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9bfdf5be516aebc7204681248a1bf68e8a2c30fb",
+      "sectionIndex": 0,
+      "question": "The European Union headquarters is in:",
+      "options": [
+        "A) Paris",
+        "B) Berlin",
+        "C) Brussels",
+        "D) London"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "17a7ddabab22292f8ca40c2c9956a79232926e49",
+      "sectionIndex": 0,
+      "question": "ASEAN stands for:",
+      "options": [
+        "A) Association of South East Asian Nations",
+        "B) Association of South Asian Nations",
+        "C) Alliance of South East Asian Nations",
+        "D) Alliance of Seven Eastern Asian Nations"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "cc7852daa65e69c534b5dd43f201caf21e1a3aae",
+      "sectionIndex": 0,
+      "question": "The Commonwealth has its headquarters in:",
+      "options": [
+        "A) London",
+        "B) Ottawa",
+        "C) Sydney",
+        "D) New Delhi"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "af6b329b84f62cf65191bf956304e78e2ca6f515",
+      "sectionIndex": 1,
+      "question": "The Durand Line is the border between:",
+      "options": [
+        "A) India and Pakistan",
+        "B) Pakistan and Afghanistan",
+        "C) Pakistan and Iran",
+        "D) India and China"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "99daf1e1b4afd063123a34d00e63032e02e13b34",
+      "sectionIndex": 1,
+      "question": "The length of Pakistan-India border is approximately:",
+      "options": [
+        "A) 1,800 km",
+        "B) 2,900 km",
+        "C) 3,500 km",
+        "D) 4,000 km"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "be85305981078e4a9e74be74ff6142cbc58ed699",
+      "sectionIndex": 1,
+      "question": "The capital of Afghanistan is:",
+      "options": [
+        "A) Kandahar",
+        "B) Kabul",
+        "C) Herat",
+        "D) Mazar-i-Sharif"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2e20bc7622bff045c46b63fdfee541bf8a399bce",
+      "sectionIndex": 1,
+      "question": "The Strait of Hormuz connects:",
+      "options": [
+        "A) Red Sea and Arabian Sea",
+        "B) Persian Gulf and Gulf of Oman",
+        "C) Mediterranean and Atlantic",
+        "D) Black Sea and Mediterranean"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6d01d1938cb5eaa5336ad07c58afa80e11b7ac5d",
+      "sectionIndex": 1,
+      "question": "Kashmir is disputed between:",
+      "options": [
+        "A) India and China",
+        "B) India and Pakistan",
+        "C) Pakistan and China",
+        "D) All three countries"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42f19b0c6c805f8e4d630f070960439c78785ae8",
+      "sectionIndex": 1,
+      "question": "The Line of Control (LoC) was established in:",
+      "options": [
+        "A) 1947",
+        "B) 1965",
+        "C) 1971",
+        "D) 1972"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "8a6d9e1bf581b9089004b5e2d7105dc9e3234099",
+      "sectionIndex": 1,
+      "question": "Gwadar port is located in:",
+      "options": [
+        "A) Sindh",
+        "B) Balochistan",
+        "C) Punjab",
+        "D) KPK"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "707e6e9cc98a8646fe032b9d7eaa20393e430af0",
+      "sectionIndex": 1,
+      "question": "The capital of Saudi Arabia is:",
+      "options": [
+        "A) Mecca",
+        "B) Medina",
+        "C) Riyadh",
+        "D) Jeddah"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f009a65e5e88094cf5942afabfe0c6b8dd992700",
+      "sectionIndex": 1,
+      "question": "The Indus River originates from:",
+      "options": [
+        "A) India",
+        "B) Pakistan",
+        "C) Tibet",
+        "D) Afghanistan"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e394356287a715b40ffa9f5be2b2b97c657c70b9",
+      "sectionIndex": 1,
+      "question": "CPEC stands for:",
+      "options": [
+        "A) China-Pakistan Economic Corridor",
+        "B) China-Pakistan Energy Corridor",
+        "C) Central Pakistan Economic Corridor",
+        "D) China-Pakistan Export Corridor"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e20aa6aa0a5a54bdbca87f97c73f1605121a134f",
+      "sectionIndex": 2,
+      "question": "The current UN Secretary-General is:",
+      "options": [
+        "A) Ban Ki-moon",
+        "B) António Guterres",
+        "C) Kofi Annan",
+        "D) Boutros Boutros-Ghali"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "588aa921f92da2afe8774843fdc63cbfc606b222",
+      "sectionIndex": 2,
+      "question": "The founder of WikiLeaks is:",
+      "options": [
+        "A) Edward Snowden",
+        "B) Julian Assange",
+        "C) Mark Zuckerberg",
+        "D) Bill Gates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "3d5459539d22f88d5519b02e7819dbf75ee3424e",
+      "sectionIndex": 2,
+      "question": "The first woman Prime Minister of Pakistan was:",
+      "options": [
+        "A) Fatima Jinnah",
+        "B) Benazir Bhutto",
+        "C) Hina Rabbani Khar",
+        "D) Fehmida Mirza"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fa8a9de71b2ca459acdc992214b328d916292bc0",
+      "sectionIndex": 2,
+      "question": "The current President of China is:",
+      "options": [
+        "A) Hu Jintao",
+        "B) Xi Jinping",
+        "C) Li Keqiang",
+        "D) Jiang Zemin"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f0d153c5bcc4e66b48df50f5281357b6c845a899",
+      "sectionIndex": 2,
+      "question": "The current Prime Minister of India is:",
+      "options": [
+        "A) Manmohan Singh",
+        "B) Rahul Gandhi",
+        "C) Narendra Modi",
+        "D) Amit Shah"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "b4929c17e428363a6431053d193f5e62ff045a84",
+      "sectionIndex": 2,
+      "question": "The founder of Facebook is:",
+      "options": [
+        "A) Bill Gates",
+        "B) Steve Jobs",
+        "C) Mark Zuckerberg",
+        "D) Jeff Bezos"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "21ed0df557b032316fcb805fde2a43197901ed57",
+      "sectionIndex": 2,
+      "question": "The current President of Russia is:",
+      "options": [
+        "A) Dmitry Medvedev",
+        "B) Vladimir Putin",
+        "C) Boris Yeltsin",
+        "D) Mikhail Gorbachev"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a1cb2f7eff6da5609c0ab1c6d64561e9d3aad4f9",
+      "sectionIndex": 2,
+      "question": "The first Secretary-General of the UN was:",
+      "options": [
+        "A) Dag Hammarskjöld",
+        "B) Trygve Lie",
+        "C) U Thant",
+        "D) Kurt Waldheim"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1e717852b6271b090661bfe8126c10acd0ebb37",
+      "sectionIndex": 2,
+      "question": "The current President of the United States is:",
+      "options": [
+        "A) Donald Trump",
+        "B) Barack Obama",
+        "C) Joe Biden",
+        "D) Kamala Harris"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "48fd113fbf1062bc14be3ead40246f7b7e231ef3",
+      "sectionIndex": 2,
+      "question": "The founder of Amazon is:",
+      "options": [
+        "A) Bill Gates",
+        "B) Elon Musk",
+        "C) Jeff Bezos",
+        "D) Warren Buffett"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "93750d131dc30d2e0c3b2186153368e46f9c9be1",
+      "sectionIndex": 3,
+      "question": "Pakistan became independent on:",
+      "options": [
+        "A) August 14, 1947",
+        "B) August 15, 1947",
+        "C) March 23, 1947",
+        "D) March 23, 1956"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1a69d76d0acc056526951f858bebe11060531f8d",
+      "sectionIndex": 3,
+      "question": "The capital of Pakistan is:",
+      "options": [
+        "A) Karachi",
+        "B) Lahore",
+        "C) Islamabad",
+        "D) Rawalpindi"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0db4d8e4d4cfbc570d1013d7582ac5937c8c1bd0",
+      "sectionIndex": 3,
+      "question": "Pakistan has how many provinces?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 6"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2bf516d426c0b78bd13082d6761401a831df0cd8",
+      "sectionIndex": 3,
+      "question": "The national language of Pakistan is:",
+      "options": [
+        "A) English",
+        "B) Urdu",
+        "C) Punjabi",
+        "D) Arabic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "82cd7988336c5759a401660907bd36b377fcabe6",
+      "sectionIndex": 3,
+      "question": "The Indus Water Treaty was signed in:",
+      "options": [
+        "A) 1947",
+        "B) 1960",
+        "C) 1965",
+        "D) 1971"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "834a7a3720c5bee611e1d4f8f45b083feaea6acd",
+      "sectionIndex": 3,
+      "question": "Pakistan became a nuclear power in:",
+      "options": [
+        "A) 1974",
+        "B) 1984",
+        "C) 1998",
+        "D) 2001"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "8bfb770db33fe852f6ade09473435492cfbed1e6",
+      "sectionIndex": 3,
+      "question": "The 18th Amendment was passed in:",
+      "options": [
+        "A) 2008",
+        "B) 2009",
+        "C) 2010",
+        "D) 2011"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "70e623581f559d43182bd1a642f8836814ac4078",
+      "sectionIndex": 3,
+      "question": "Gwadar port is being developed with help from:",
+      "options": [
+        "A) USA",
+        "B) China",
+        "C) UAE",
+        "D) Saudi Arabia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b1e826aabd5e25d65db95b5665159f2b44e71464",
+      "sectionIndex": 3,
+      "question": "The National Assembly of Pakistan has:",
+      "options": [
+        "A) 272 seats",
+        "B) 342 seats",
+        "C) 442 seats",
+        "D) 542 seats"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "fbd33d5d0a3d158ec13f97c7b2d5caa6dea3bdce",
+      "sectionIndex": 3,
+      "question": "Pakistan's largest province by area is:",
+      "options": [
+        "A) Punjab",
+        "B) Sindh",
+        "C) Balochistan",
+        "D) KPK"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9604750999fd5bed8f332115458e66eb5eea5457",
+      "sectionIndex": 4,
+      "question": "The 9/11 attacks occurred in:",
+      "options": [
+        "A) 2000",
+        "B) 2001",
+        "C) 2002",
+        "D) 2003"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9b5abac391d281ac571cb6549db31f4139134b0d",
+      "sectionIndex": 4,
+      "question": "The Paris Climate Agreement was signed in:",
+      "options": [
+        "A) 2013",
+        "B) 2014",
+        "C) 2015",
+        "D) 2016"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1bfb3c8d963972aa62ed8099cd5f862ccad9c723",
+      "sectionIndex": 4,
+      "question": "COVID-19 pandemic was declared by WHO in:",
+      "options": [
+        "A) 2019",
+        "B) 2020",
+        "C) 2021",
+        "D) 2022"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a840ada1c1356f6a80c390f0bb64004af0592076",
+      "sectionIndex": 4,
+      "question": "The Arab Spring began in:",
+      "options": [
+        "A) 2009",
+        "B) 2010",
+        "C) 2011",
+        "D) 2012"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54af94d409baa64b2ca3d27fff6a2a518ad4beaf",
+      "sectionIndex": 4,
+      "question": "Brexit referendum was held in:",
+      "options": [
+        "A) 2014",
+        "B) 2015",
+        "C) 2016",
+        "D) 2017"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ed6ca79627b1306c0ef1659051de50b8527b6bf9",
+      "sectionIndex": 4,
+      "question": "The World Trade Organization (WTO) was established in:",
+      "options": [
+        "A) 1985",
+        "B) 1990",
+        "C) 1995",
+        "D) 2000"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3c2553d5aa00bed1aee792fe2158ae4763b6419d",
+      "sectionIndex": 4,
+      "question": "The Kyoto Protocol deals with:",
+      "options": [
+        "A) Nuclear weapons",
+        "B) Climate change",
+        "C) Trade barriers",
+        "D) Human rights"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1713d3b798510ccb16e9b85b326e393deb0554dc",
+      "sectionIndex": 4,
+      "question": "The war in Afghanistan began in:",
+      "options": [
+        "A) 1999",
+        "B) 2001",
+        "C) 2003",
+        "D) 2005"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9fa0c2bf5365ac20a14845d21366341a91b1bd35",
+      "sectionIndex": 4,
+      "question": "The Iraq War started in:",
+      "options": [
+        "A) 2001",
+        "B) 2002",
+        "C) 2003",
+        "D) 2004"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "14aa0874b1e48645919ed4c3f09e2cc9e7bf367d",
+      "sectionIndex": 4,
+      "question": "The United Nations was founded in:",
+      "options": [
+        "A) 1945",
+        "B) 1950",
+        "C) 1955",
+        "D) 1960"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "53b9438a0a76fed04646879848031a593c5e5196",
+      "sectionIndex": 5,
+      "question": "IMF stands for:",
+      "options": [
+        "A) International Monetary Fund",
+        "B) International Money Fund",
+        "C) International Management Fund",
+        "D) International Market Fund"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "07500681a35943a6d17ace2a918d6cdceee31307",
+      "sectionIndex": 5,
+      "question": "The currency of China is:",
+      "options": [
+        "A) Yen",
+        "B) Yuan",
+        "C) Won",
+        "D) Baht"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "632946f2a86dbef46332c80eeb48884bfeb1868d",
+      "sectionIndex": 5,
+      "question": "FATF stands for:",
+      "options": [
+        "A) Financial Action Task Force",
+        "B) Foreign Aid Task Force",
+        "C) Financial Aid Task Force",
+        "D) Foreign Action Task Force"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "120a72b322e97c428664a0857e31d9561d1a7550",
+      "sectionIndex": 5,
+      "question": "The World Bank was established to:",
+      "options": [
+        "A) Print money",
+        "B) Help developing countries",
+        "C) Control inflation",
+        "D) Manage trade"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d483165f1c7a58ac940232562c432bc089b4dd28",
+      "sectionIndex": 5,
+      "question": "GDP stands for:",
+      "options": [
+        "A) Gross Daily Product",
+        "B) Gross Domestic Product",
+        "C) General Domestic Product",
+        "D) Gross Development Product"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8bac3962be9f63f466dafb20f9612d16c4518597",
+      "sectionIndex": 5,
+      "question": "The headquarters of the Asian Development Bank is in:",
+      "options": [
+        "A) Tokyo",
+        "B) Beijing",
+        "C) Manila",
+        "D) Bangkok"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f4d3e7d308b576420cae2b0561caf7e92cff2f63",
+      "sectionIndex": 5,
+      "question": "BRICS includes all except:",
+      "options": [
+        "A) Brazil",
+        "B) Russia",
+        "C) Indonesia",
+        "D) China"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0fd58fa924f65117f959f4b3fbc63bf022e72d82",
+      "sectionIndex": 5,
+      "question": "The currency of the European Union is:",
+      "options": [
+        "A) Dollar",
+        "B) Pound",
+        "C) Euro",
+        "D) Frank"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3d6af3067974d7a98d4f475e065c1fdfa2e56403",
+      "sectionIndex": 5,
+      "question": "Pakistan's main export is:",
+      "options": [
+        "A) Rice",
+        "B) Textiles",
+        "C) Wheat",
+        "D) Electronics"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5bac098f232e55945f7e0b5ed4ff6dd4f541cbac",
+      "sectionIndex": 5,
+      "question": "The Silk Road connected:",
+      "options": [
+        "A) Europe and Africa",
+        "B) Asia and Europe",
+        "C) Americas and Asia",
+        "D) Africa and Asia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33170083692cd2615684f831c7ccf8f6e442e078",
+      "sectionIndex": 6,
+      "question": "AI stands for:",
+      "options": [
+        "A) Automatic Intelligence",
+        "B) Artificial Intelligence",
+        "C) Advanced Intelligence",
+        "D) Applied Intelligence"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ea29a003baf780696491b46bc6494a1012b8b49",
+      "sectionIndex": 6,
+      "question": "5G technology is related to:",
+      "options": [
+        "A) Television",
+        "B) Mobile communications",
+        "C) Satellites",
+        "D) Computers"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4ec4f310c65f52c803f638399e8c38949e17f856",
+      "sectionIndex": 6,
+      "question": "SpaceX was founded by:",
+      "options": [
+        "A) Jeff Bezos",
+        "B) Bill Gates",
+        "C) Elon Musk",
+        "D) Mark Zuckerberg"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1ff22d2cd6318d9c2bf04317a1018ad5f0db136e",
+      "sectionIndex": 6,
+      "question": "GPS stands for:",
+      "options": [
+        "A) Global Positioning System",
+        "B) General Positioning System",
+        "C) Global Position Service",
+        "D) General Position Service"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "028e655205601abb3f71a181357bd2ea0332cf6b",
+      "sectionIndex": 6,
+      "question": "The first artificial satellite was:",
+      "options": [
+        "A) Explorer 1",
+        "B) Sputnik 1",
+        "C) Luna 1",
+        "D) Vostok 1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1621570a6df1447059db5d9e59af943bbd36ae90",
+      "sectionIndex": 6,
+      "question": "WWW stands for:",
+      "options": [
+        "A) World Wide Web",
+        "B) World War Web",
+        "C) Wide World Web",
+        "D) Web World Wide"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "0e1689bd32fbe4c0746de9ebb6cbdab485c96757",
+      "sectionIndex": 6,
+      "question": "The inventor of the telephone was:",
+      "options": [
+        "A) Thomas Edison",
+        "B) Alexander Graham Bell",
+        "C) Nikola Tesla",
+        "D) Guglielmo Marconi"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d80ed7e141604dcdf8a8e4e84863f1c377e23225",
+      "sectionIndex": 6,
+      "question": "DNA stands for:",
+      "options": [
+        "A) Deoxyribonucleic Acid",
+        "B) Dynamic Nuclear Acid",
+        "C) Double Nuclear Acid",
+        "D) Deoxyribose Nuclear Acid"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "00011de5889203a0039cb711d439ea9d8d8ad77a",
+      "sectionIndex": 6,
+      "question": "The first country to land on the moon was:",
+      "options": [
+        "A) USSR",
+        "B) USA",
+        "C) China",
+        "D) India"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "79ecd4c5696c93b8d8f1641c466b04e2f4df0fc4",
+      "sectionIndex": 6,
+      "question": "Solar energy comes from:",
+      "options": [
+        "A) Wind",
+        "B) Water",
+        "C) Sun",
+        "D) Earth"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "bbe0d9e45926990b86797faa19e48af1b1cfc770",
+      "sectionIndex": 7,
+      "question": "The Olympic Games are held every:",
+      "options": [
+        "A) 2 years",
+        "B) 3 years",
+        "C) 4 years",
+        "D) 5 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "eaa4da11635c26e9c041c6bc8c8d07f5a91b7281",
+      "sectionIndex": 7,
+      "question": "FIFA World Cup is held every:",
+      "options": [
+        "A) 2 years",
+        "B) 3 years",
+        "C) 4 years",
+        "D) 5 years"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "cbbde357ef1266227a086166a28abcb67ecf2e97",
+      "sectionIndex": 7,
+      "question": "Cricket World Cup is organized by:",
+      "options": [
+        "A) FIFA",
+        "B) ICC",
+        "C) IOC",
+        "D) UEFA"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "870472dea4bb01d735bacbce10973cad466ddd6f",
+      "sectionIndex": 7,
+      "question": "The number of players in a basketball team on court is:",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 11"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1735310774d6c72c3e3e35f0490bb4e87cd1e862",
+      "sectionIndex": 7,
+      "question": "The Nobel Peace Prize is awarded in:",
+      "options": [
+        "A) Stockholm",
+        "B) Oslo",
+        "C) Copenhagen",
+        "D) Helsinki"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "13201d8658fbe7eedea95a2961818c6f49c963ad",
+      "sectionIndex": 7,
+      "question": "The Commonwealth Games are held every:",
+      "options": [
+        "A) 2 years",
+        "B) 4 years",
+        "C) 5 years",
+        "D) 6 years"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "848c74c610825da26184dee39eca0f87bcd91d6d",
+      "sectionIndex": 7,
+      "question": "The national sport of Pakistan is:",
+      "options": [
+        "A) Cricket",
+        "B) Hockey",
+        "C) Squash",
+        "D) Football"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4faa7076c29d108ab1e50bc91860943c691d4a0b",
+      "sectionIndex": 7,
+      "question": "The Olympics symbol has how many rings?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 5",
+        "D) 6"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9d35abae447ada0d73cbcc067677e219b8c40396",
+      "sectionIndex": 7,
+      "question": "The World Cup trophy is called:",
+      "options": [
+        "A) FIFA Cup",
+        "B) World Trophy",
+        "C) FIFA World Cup Trophy",
+        "D) Golden Cup"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c7e0b34fb7325d6d7f9eaa649605879b08007180",
+      "sectionIndex": 7,
+      "question": "Wimbledon is associated with:",
+      "options": [
+        "A) Football",
+        "B) Cricket",
+        "C) Tennis",
+        "D) Golf"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "fd8549d3aa67d7a7f56116417d5bf8cd66eb2d6b",
+      "sectionIndex": 8,
+      "question": "NATO was formed in:",
+      "options": [
+        "A) 1945",
+        "B) 1949",
+        "C) 1955",
+        "D) 1960"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2c57826022eb8758b8ccb314a0da30eb6a08b032",
+      "sectionIndex": 8,
+      "question": "Pakistan joined the UN in:",
+      "options": [
+        "A) 1947",
+        "B) 1948",
+        "C) 1950",
+        "D) 1955"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e73415bc46ceaf19a2692a03b141d921ecd2a9e3",
+      "sectionIndex": 8,
+      "question": "The National Action Plan (NAP) was formulated in:",
+      "options": [
+        "A) 2013",
+        "B) 2014",
+        "C) 2015",
+        "D) 2016"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5b8dbf1b8b72ae68fbcf5b49214b1cc9ea3a94c4",
+      "sectionIndex": 8,
+      "question": "Nuclear Non-Proliferation Treaty (NPT) was opened for signature in:",
+      "options": [
+        "A) 1960",
+        "B) 1965",
+        "C) 1968",
+        "D) 1970"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "28c6b1a741761ff3028504c7725afe97a53d1236",
+      "sectionIndex": 8,
+      "question": "The war on terror began after:",
+      "options": [
+        "A) Gulf War",
+        "B) 9/11 attacks",
+        "C) Iraq invasion",
+        "D) Afghanistan invasion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b09fd5a092ca036eee193eb6802144558c4cb93",
+      "sectionIndex": 8,
+      "question": "Operation Zarb-e-Azb was launched in:",
+      "options": [
+        "A) 2013",
+        "B) 2014",
+        "C) 2015",
+        "D) 2016"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "a94c037bce259dc8277fa24ea96957b822bdd000",
+      "sectionIndex": 8,
+      "question": "The first Kashmir war was in:",
+      "options": [
+        "A) 1947-48",
+        "B) 1965",
+        "C) 1971",
+        "D) 1999"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "f026a25f1d1145cbc36d4c973517ab38a401a888",
+      "sectionIndex": 8,
+      "question": "Kargil conflict occurred in:",
+      "options": [
+        "A) 1989",
+        "B) 1994",
+        "C) 1999",
+        "D) 2004"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3bcb49eff9c9f6ddbc10e8dd6e465e3484840226",
+      "sectionIndex": 8,
+      "question": "UNSC Resolution 1267 deals with:",
+      "options": [
+        "A) Kashmir",
+        "B) Terrorism",
+        "C) Nuclear weapons",
+        "D) Climate change"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "068d9a5933152769eb12f2c52dda6b1d290b74ec",
+      "sectionIndex": 8,
+      "question": "The Simla Agreement was signed in:",
+      "options": [
+        "A) 1971",
+        "B) 1972",
+        "C) 1973",
+        "D) 1974"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "309156e6958874e99be253f1656572ed37246a00",
+      "sectionIndex": 9,
+      "question": "Global warming is caused mainly by:",
+      "options": [
+        "A) Oxygen",
+        "B) Carbon dioxide",
+        "C) Nitrogen",
+        "D) Hydrogen"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6c848bb4b858ee157548bc71f80e430084367bc1",
+      "sectionIndex": 9,
+      "question": "The ozone layer protects us from:",
+      "options": [
+        "A) Heat",
+        "B) UV radiation",
+        "C) Infrared rays",
+        "D) X-rays"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "bb5fbc908db96519fead22a6aeb102a36d409c22",
+      "sectionIndex": 9,
+      "question": "World Environment Day is celebrated on:",
+      "options": [
+        "A) March 22",
+        "B) April 22",
+        "C) June 5",
+        "D) September 16"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "0b407d323e9bccda7520e2cd2daeb661eaf3ef4e",
+      "sectionIndex": 9,
+      "question": "The largest producer of CO2 emissions is:",
+      "options": [
+        "A) USA",
+        "B) China",
+        "C) India",
+        "D) Russia"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b884e61ed0d2f65be674c5100895bc19fda9118d",
+      "sectionIndex": 9,
+      "question": "Renewable energy includes:",
+      "options": [
+        "A) Coal",
+        "B) Oil",
+        "C) Solar",
+        "D) Gas"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "7e610eb481f950b3fba780b619d6e745c537d56b",
+      "sectionIndex": 9,
+      "question": "COP stands for:",
+      "options": [
+        "A) Conference of Parties",
+        "B) Council of Parties",
+        "C) Committee of Parties",
+        "D) Convention of Parties"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "1c87a3ba9181b67e6a603fb299926b7f62a5fcee",
+      "sectionIndex": 9,
+      "question": "The Green Revolution was related to:",
+      "options": [
+        "A) Environment",
+        "B) Agriculture",
+        "C) Industry",
+        "D) Technology"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "12fbf7c8e5084a146e11492a11bda254fe913eaf",
+      "sectionIndex": 9,
+      "question": "Deforestation contributes to:",
+      "options": [
+        "A) Cooling",
+        "B) Global warming",
+        "C) More oxygen",
+        "D) Less pollution"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "cd602cfb591f3301ca596e245445cd792d0f2611",
+      "sectionIndex": 9,
+      "question": "The Montreal Protocol deals with:",
+      "options": [
+        "A) Climate change",
+        "B) Ozone depletion",
+        "C) Water pollution",
+        "D) Deforestation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2eb753d61da8c80d86128f026eceb42ef1019856",
+      "sectionIndex": 9,
+      "question": "Earth Day is celebrated on:",
+      "options": [
+        "A) March 22",
+        "B) April 22",
+        "C) June 5",
+        "D) September 22"
+      ],
+      "correct": "B"
+    }
+  ]
+}

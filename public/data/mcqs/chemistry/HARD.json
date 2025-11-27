@@ -1,0 +1,1206 @@
+{
+  "version": "2025-08-14T20:43:42.152Z",
+  "totalSections": 10,
+  "items": [
+    {
+      "id": "0708860b06179fe30631a7236d349cd53e32a173",
+      "sectionIndex": 0,
+      "question": "For the diprotic acid H,,A with pKa, = 3.0 and pKa,, = 7.0, the pH when [H,,A] = [A2-] is:",
+      "options": [
+        "A) 3.0",
+        "B) 5.0",
+        "C) 7.0",
+        "D) 10.0"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "76d6a728f5a814a77c18c46356e415dbd6a6ab25",
+      "sectionIndex": 0,
+      "question": "In the symbiotic effect of [PtCl,,(PEt,f),,] vs [PtCl,\"]2-, the stability difference arises from:",
+      "options": [
+        "A) Size effects only",
+        "B) Mutual polarization enhancement",
+        "C) Charge distribution only",
+        "D) Steric factors"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0eee4f36dc75e1e41a608a5373acac038ec808c8",
+      "sectionIndex": 0,
+      "question": "The acid-catalyzed hydration of alkenes proceeds through a carbocation intermediate. The rate-determining step involves:",
+      "options": [
+        "A) Protonation with \"S? ?^ -30 eu",
+        "B) Water attack with \"S? ?^ 0 eu",
+        "C) Deprotonation with \"S? ?^ +30 eu",
+        "D) Rearrangement with \"S? ?^ -10 eu"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "96227b6087902e4b085e04b3e0f1e419c2f6d685",
+      "sectionIndex": 0,
+      "question": "For a triprotic acid with successive pKa values differing by >4 units, the dominant species at pH = pKa,, is:",
+      "options": [
+        "A) H,fA",
+        "B) H,,A-",
+        "C) HA2-",
+        "D) A3-"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8f599503723f77e534cbe9d484a261c06a0673f",
+      "sectionIndex": 0,
+      "question": "The anomalous basicity order Et,,NH > Et,fN > EtNH,, > NH,f in aqueous solution results from:",
+      "options": [
+        "A) Inductive effects only",
+        "B) Steric effects only",
+        "C) Combined inductive, steric, and solvation effects",
+        "D) Resonance effects"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "c83f8174f58b0d23202b962b7aa14071a9252e75",
+      "sectionIndex": 0,
+      "question": "In bifunctional acid-base catalysis, the rate enhancement factor can reach:",
+      "options": [
+        "A) 102",
+        "B) 104",
+        "C) 106",
+        "D) 108"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "718237582dac3927c04108f92fe2af736ee30ae5",
+      "sectionIndex": 0,
+      "question": "The pKa of picolinic acid (0.3) vs benzoic acid (4.2) differs due to:",
+      "options": [
+        "A) Inductive effect only",
+        "B) Intramolecular hydrogen bonding stabilization",
+        "C) Resonance only",
+        "D) Steric effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "42eb30986d5d3fe03a67eef04b0ffa68a9aea6dd",
+      "sectionIndex": 0,
+      "question": "For phosphate buffer at physiological pH (7.4), the ratio [HPO,\"2-]/[H,,PO,\"-] is:",
+      "options": [
+        "A) 0.63",
+        "B) 1.58",
+        "C) 2.51",
+        "D) 3.98"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "54060c3baee5c703fd72f000a80bbfd7c54d05b7",
+      "sectionIndex": 0,
+      "question": "The Marcus theory prediction for proton transfer rates shows maximum when:",
+      "options": [
+        "A) \"G° = 0",
+        "B) \"G° = -RT",
+        "C) \"G° = -λ/4",
+        "D) \"G° approaches -λ"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "42b6c0fe6aa1b684f1c4882bc77f49a7988db220",
+      "sectionIndex": 0,
+      "question": "In enzyme active sites, the effective molarity for intramolecular catalysis can reach:",
+      "options": [
+        "A) 10 M",
+        "B) 103 M",
+        "C) 106 M",
+        "D) 108 M"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d3db4efe1435aadf69322657ff974c627e6d8823",
+      "sectionIndex": 1,
+      "question": "For the combustion of benzene at 25°C with \"H = -3267.6 kJ/mol, the \"E considering the gas phase change is:",
+      "options": [
+        "A) -3267.6 kJ/mol",
+        "B) -3264.9 kJ/mol",
+        "C) -3270.3 kJ/mol",
+        "D) -3262.2 kJ/mol"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d1b67343f31287c8e0ade695e4d70d1f2241b116",
+      "sectionIndex": 1,
+      "question": "The fugacity coefficient for a real gas approaches unity when:",
+      "options": [
+        "A) P ?' 0",
+        "B) T ?' 0",
+        "C) V ?' 0",
+        "D) T ?' Tc"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "62da27bdbe1eedbdd6cae78c01243859f0f93534",
+      "sectionIndex": 1,
+      "question": "For a system with degenerate energy levels, the partition function modification involves:",
+      "options": [
+        "A) Simple addition",
+        "B) Multiplication by degeneracy",
+        "C) Exponential weighting",
+        "D) No modification"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ce6f44d45629aa6ae78ae51a417c1da199a87e5",
+      "sectionIndex": 1,
+      "question": "The Gibbs-Helmholtz equation integrated form shows that ln K vs 1/T plot has slope:",
+      "options": [
+        "A) -\"H°/R",
+        "B) -\"S°/R",
+        "C) \"H°/R",
+        "D) \"G°/R"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "4478c42754ad8920cf32470c6b8de96bcf965b71",
+      "sectionIndex": 1,
+      "question": "For an explosion approximated as adiabatic, the maximum temperature reached when TNT decomposes is limited by:",
+      "options": [
+        "A) Heat capacity only",
+        "B) Dissociation of products",
+        "C) Radiation losses",
+        "D) Conduction losses"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "626ab14c36ee84668d70485708cd4e06685bb0ec",
+      "sectionIndex": 1,
+      "question": "The third law entropy of a substance with residual entropy S,? = R ln 2 indicates:",
+      "options": [
+        "A) Isotopic mixture",
+        "B) Orientational disorder",
+        "C) Electronic degeneracy",
+        "D) Nuclear spin states"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e53e8d190d4160ac38d4b1b2a6f268bb4a57ee77",
+      "sectionIndex": 1,
+      "question": "For the reaction N,,O,\" ?O 2NO,,, the van't Hoff equation predicts that doubling T from 300K to 600K changes K by factor:",
+      "options": [
+        "A) 2",
+        "B) 103",
+        "C) 106",
+        "D) 1012"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3787efbb9bf3b8fc13dea7b636d4267218f67a48",
+      "sectionIndex": 1,
+      "question": "The compressibility factor Z for a van der Waals gas at the Boyle temperature equals:",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 1 + b/V",
+        "D) 1 - a/RTV"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "118d89480f9c644411ed672601dbdb9bf91bec4e",
+      "sectionIndex": 1,
+      "question": "Statistical mechanics shows that for a two-level system with spacing ε, the heat capacity maximum occurs at:",
+      "options": [
+        "A) T = 0",
+        "B) T = ε/2k",
+        "C) T = ε/k",
+        "D) T = 2ε/k"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8087a0e2142bc2e49e8d3e4428f7c985d2c11ce3",
+      "sectionIndex": 1,
+      "question": "The JT coefficient for an ideal gas equals zero because:",
+      "options": [
+        "A) (^,H/^,P)γ = 0",
+        "B) Cp is constant",
+        "C) PV = nRT exactly",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6fbabfa5afc82a39577a7fec303d7150cf444503",
+      "sectionIndex": 2,
+      "question": "For [Cr(en),f]3+, the observed \",? = 21,800 cm-1 while for [Cr(NH,f),?]3+, \",? = 21,600 cm-1. This indicates:",
+      "options": [
+        "A) en is a stronger field ligand",
+        "B) Chelate effect doesn't affect \",?",
+        "C) Both have same spectrochemical strength",
+        "D) NH,f is actually stronger"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9787e6b08d968f79f4ab00cba6bd6951ff432008",
+      "sectionIndex": 2,
+      "question": "The nephelauxetic series orders ligands by:",
+      "options": [
+        "A) f-donor strength",
+        "B) ?-acceptor ability",
+        "C) Covalency/electron cloud expansion",
+        "D) Size"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "ea0f5ef441fdba0a0da3c10180af8a987fdd1546",
+      "sectionIndex": 2,
+      "question": "In square planar d8 complexes, the large \" ensures diamagnetism when \" exceeds:",
+      "options": [
+        "A) P (pairing energy)",
+        "B) 2P",
+        "C) 3P",
+        "D) No threshold needed"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "187d28c7858fc4e113b3ebf675ef37cdd0bb2e80",
+      "sectionIndex": 2,
+      "question": "The angular overlap model predicts that ?-donor ligands:",
+      "options": [
+        "A) Always increase \"",
+        "B) Always decrease \"",
+        "C) Have no effect on \"",
+        "D) Effect depends on metal d-count"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2cc7a6eaa87bbc876dfeaae1f181336b709746a3",
+      "sectionIndex": 2,
+      "question": "Tanabe-Sugano diagrams show that spin crossover occurs when:",
+      "options": [
+        "A) \"/B = 10",
+        "B) \"/B varies with d-count",
+        "C) \"/B = 20",
+        "D) Temperature changes"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "24a0a58a4eeef7192f8548642737e1d235066855",
+      "sectionIndex": 2,
+      "question": "The intensity of d-d transitions can be enhanced by:",
+      "options": [
+        "A) Vibronic coupling",
+        "B) Mixing with CT states",
+        "C) Non-centrosymmetric distortion",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "9385b9913a198bfc37f1877a828672b663e2fa65",
+      "sectionIndex": 2,
+      "question": "For tetrahedral d7 (Co2+), the ground state term symbol in weak field is:",
+      "options": [
+        "A) 4A,,",
+        "B) 4T,",
+        "C) 2E",
+        "D) 4T,,"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e665b883cc404c2986e14f3db58f8599827f95e3",
+      "sectionIndex": 2,
+      "question": "The trans effect series (CO > CN- > NO,,- > I- > Br- > Cl-) correlates with:",
+      "options": [
+        "A) f-donor strength only",
+        "B) ?-acceptor ability primarily",
+        "C) Trans influence on M-L bonds",
+        "D) Thermodynamic stability"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b14410007b015649ba4b1b711e307ce94400b86",
+      "sectionIndex": 2,
+      "question": "In [Fe(H,,O),.(NO)]2+, the Fe-N-O angle of ~120° indicates:",
+      "options": [
+        "A) NO+ coordination",
+        "B) NO- coordination",
+        "C) NO? coordination",
+        "D) NO,,- rearrangement"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f8b2f4d385680a3fe8d8667467e4d786d8ba4b7e",
+      "sectionIndex": 2,
+      "question": "The 18-electron rule fails for:",
+      "options": [
+        "A) High-spin complexes",
+        "B) d0 and d10 complexes",
+        "C) Weak field ligands",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a2d9d8e0153a99fc4140956198dfe14bd73b552b",
+      "sectionIndex": 3,
+      "question": "For a third-order reaction 3A ?' products with [A],? = 1.0 M, the time for 90% completion is:",
+      "options": [
+        "A) 9/(2k[A],?2)",
+        "B) 99/(2k[A],?2)",
+        "C) 4.5/(k[A],?2)",
+        "D) 49.5/(k[A],?2)"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "d9bb42ad505d5fce232249d1362b4e1b096b2ebe",
+      "sectionIndex": 3,
+      "question": "The pre-exponential factor in the Arrhenius equation for a bimolecular gas phase reaction at 300K is approximately:",
+      "options": [
+        "A) 108 M-1s-1",
+        "B) 1011 M-1s-1",
+        "C) 1014 M-1s-1",
+        "D) 1017 M-1s-1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e92bdfa31c595a28b13fad7f51f2fb7d3e13df77",
+      "sectionIndex": 3,
+      "question": "For parallel reactions A ?' B (k,) and A ?' C (k,,), the yield of B is:",
+      "options": [
+        "A) k,/(k, + k,,)",
+        "B) k,/k,,",
+        "C) k,,/(k, + k,,)",
+        "D) (k, - k,,)/k,"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "07e981e2fb1fe0786c4d16d7337d866db4d57a32",
+      "sectionIndex": 3,
+      "question": "Michaelis-Menten kinetics with competitive inhibition shows:",
+      "options": [
+        "A) Vmax unchanged, Km increased",
+        "B) Vmax decreased, Km unchanged",
+        "C) Both Vmax and Km increased",
+        "D) Both Vmax and Km decreased"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "81f4c43806848b822d371c051b01ffc8779869a4",
+      "sectionIndex": 3,
+      "question": "The kinetic isotope effect kH/kD for C-H bond breaking is typically:",
+      "options": [
+        "A) 1-2",
+        "B) 2-3",
+        "C) 6-8",
+        "D) 10-15"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "5c3da12f195abc23e66ba6fcdd3d528ee24712a4",
+      "sectionIndex": 3,
+      "question": "For the reaction H,, + I,, ?' 2HI, the rate law v = k[H,,][I,,] suggests:",
+      "options": [
+        "A) Elementary bimolecular reaction",
+        "B) Complex mechanism with pre-equilibrium",
+        "C) Termolecular mechanism",
+        "D) Chain mechanism"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "de943c29bcb45e14baa9026cbe2e32f0e72923ab",
+      "sectionIndex": 3,
+      "question": "Transition state theory predicts that \"S? for a bimolecular association in solution is typically:",
+      "options": [
+        "A) +40 eu",
+        "B) 0 eu",
+        "C) -10 eu",
+        "D) -30 eu"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "730b57882550348085320abb3d9c4728b4aa3dc5",
+      "sectionIndex": 3,
+      "question": "The Marcus equation for electron transfer predicts maximum rate when:",
+      "options": [
+        "A) \"G° = 0",
+        "B) \"G° = -λ",
+        "C) \"G° = -λ/4",
+        "D) \"G° = -λ/2"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "e8f1b1e6e1532310728d113d0d212f08dca6d916",
+      "sectionIndex": 3,
+      "question": "For autocatalytic reactions A + B ?' 2B, the rate maximum occurs when:",
+      "options": [
+        "A) [A] = [A],?",
+        "B) [A] = [A],?/2",
+        "C) [A] = [B]",
+        "D) [B] = [B],?"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2b109dd3c3f7c3f5bf2ded20490041ffa0f3f2f0",
+      "sectionIndex": 3,
+      "question": "Femtosecond spectroscopy reveals that vibrational relaxation in solution occurs on timescale:",
+      "options": [
+        "A) 10-15 s",
+        "B) 10-13 s",
+        "C) 10-11 s",
+        "D) 10-9 s"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d9c6dceaf80132c18bf984ea0b293eced39bbdfb",
+      "sectionIndex": 4,
+      "question": "The Corey-House synthesis gives higher yields than Wurtz because:",
+      "options": [
+        "A) Lower temperatures used",
+        "B) No elimination pathway",
+        "C) Organocuprate is less basic than organosodium",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "a5e5ffbb67c9d4750801fc0a0e0f80e865e37e38",
+      "sectionIndex": 4,
+      "question": "In the benzoin condensation, cyanide catalysis involves:",
+      "options": [
+        "A) Umpolung of carbonyl",
+        "B) Simple nucleophilic addition",
+        "C) Radical mechanism",
+        "D) Electrophilic activation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "deb8d0aaf34514f7a1df5de7365dec3349ab66f0",
+      "sectionIndex": 4,
+      "question": "The regiochemistry in Diels-Alder reactions with unsymmetrical dienes follows:",
+      "options": [
+        "A) Markovnikov rule",
+        "B) Anti-Markovnikov rule",
+        "C) Ortho-para rule",
+        "D) FMO theory predictions"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "381a33f55b204f3424df7f0aa80dacc05c678f44",
+      "sectionIndex": 4,
+      "question": "E1cB elimination is favored when:",
+      "options": [
+        "A) β-H is acidic, leaving group is poor",
+        "B) β-H is weak, leaving group is good",
+        "C) No β-H present",
+        "D) Strong base and good leaving group"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "bdf170ff0412c11b55776b16a592e6388f076a97",
+      "sectionIndex": 4,
+      "question": "The Wittig reaction stereoselectivity (Z/E ratio) depends on:",
+      "options": [
+        "A) Ylide stability only",
+        "B) Li salt effects",
+        "C) Both ylide type and reaction conditions",
+        "D) Temperature only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "41c906a0c2415af56ae7096a9242adac3e52b41b",
+      "sectionIndex": 4,
+      "question": "Asymmetric epoxidation using Sharpless conditions gives ee values up to:",
+      "options": [
+        "A) 50%",
+        "B) 70%",
+        "C) 85%",
+        "D) >95%"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "6ea079426e2e9ea737a979131206dd09e38701db",
+      "sectionIndex": 4,
+      "question": "The regioselectivity in aromatic SEAr with multiple substituents follows:",
+      "options": [
+        "A) Simple additivity",
+        "B) Non-linear reinforcement",
+        "C) Statistical distribution",
+        "D) Largest group dominates"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b332dc396e53a3fcd1a2292ebab096357d08f4db",
+      "sectionIndex": 4,
+      "question": "Cross-coupling reactions (Suzuki, Heck) proceed through:",
+      "options": [
+        "A) Radical mechanism",
+        "B) Ionic mechanism",
+        "C) Oxidative addition/reductive elimination",
+        "D) Electrocyclic process"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "4899bffeb0b3699135a03a7632cb1458bebd97db",
+      "sectionIndex": 4,
+      "question": "The anomeric effect in carbohydrates arises from:",
+      "options": [
+        "A) Steric factors only",
+        "B) nO ?' f*C-X orbital interaction",
+        "C) Hydrogen bonding",
+        "D) Dipole repulsion"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0788a911cbf3e961145aceef26285b36f6e3dadd",
+      "sectionIndex": 4,
+      "question": "Enantioselective organocatalysis achieves high ee through:",
+      "options": [
+        "A) Metal coordination",
+        "B) Multiple weak interactions",
+        "C) Covalent intermediate formation",
+        "D) Both B and C"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "7e416eadd789f4ea9eda553e03dc32cad0d28f8a",
+      "sectionIndex": 5,
+      "question": "The zero-point energy correction to D,? for H,, is approximately:",
+      "options": [
+        "A) 0.1 eV",
+        "B) 0.27 eV",
+        "C) 0.5 eV",
+        "D) 1.0 eV"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "8b15d472196a3e1bd60e851065ece1150f160f04",
+      "sectionIndex": 5,
+      "question": "Configuration interaction (CI) is necessary to properly describe:",
+      "options": [
+        "A) Closed-shell ground states",
+        "B) Bond dissociation",
+        "C) Core electrons",
+        "D) Relativistic effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "e7c5afc5cf2faf24e39979597ba06d2591e3c726",
+      "sectionIndex": 5,
+      "question": "The 2s-2p mixing in molecular orbitals of N,, but not O,, occurs because:",
+      "options": [
+        "A) N is smaller",
+        "B) 2s-2p energy gap is smaller in N",
+        "C) N,, has triple bond",
+        "D) O,, is paramagnetic"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6b8a6fcf7424621de808be7b9b39dd4a1847114f",
+      "sectionIndex": 5,
+      "question": "Time-dependent DFT calculations of excitation energies typically:",
+      "options": [
+        "A) Overestimate by 0.5 eV",
+        "B) Underestimate by 0.3-0.5 eV",
+        "C) Are exact",
+        "D) Fail completely"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6346ae52f1e3f7d275b6948cce2dd4f9c75c4581",
+      "sectionIndex": 5,
+      "question": "The natural bond orbital (NBO) analysis reveals that C-F bonds have:",
+      "options": [
+        "A) 50% ionic character",
+        "B) 20% ionic character",
+        "C) 40% ionic character",
+        "D) 70% ionic character"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "e7c3ac47227d168a3f38659b5c2d39f790d00805",
+      "sectionIndex": 5,
+      "question": "Spin-orbit coupling is most important for:",
+      "options": [
+        "A) First-row elements",
+        "B) Second-row elements",
+        "C) Heavy elements (Z > 50)",
+        "D) All elements equally"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "9b79eaa881949da6f5f567e232faf7ff5a4a8226",
+      "sectionIndex": 5,
+      "question": "The Franck-Condon principle predicts that:",
+      "options": [
+        "A) All vibrational transitions are allowed",
+        "B) Vertical transitions dominate",
+        "C) Only v = 0 ?' v' = 0 occurs",
+        "D) Selection rule \"v = ±1"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "2f77715402a27566b4adc7d47486b91c6ff8925b",
+      "sectionIndex": 5,
+      "question": "Correlation energy typically accounts for:",
+      "options": [
+        "A) 0.1% of total energy",
+        "B) 1% of total energy",
+        "C) 10% of total energy",
+        "D) 50% of total energy"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1bf951f11221d498a767436e55dda54b9a002ada",
+      "sectionIndex": 5,
+      "question": "The gauge problem in NMR calculations requires:",
+      "options": [
+        "A) Larger basis sets",
+        "B) Gauge-invariant atomic orbitals",
+        "C) Relativistic corrections",
+        "D) Temperature corrections"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b73ae2732c386fe0952330574891ea0074aebc12",
+      "sectionIndex": 5,
+      "question": "Density functional theory fails most severely for:",
+      "options": [
+        "A) Metals",
+        "B) Ionic compounds",
+        "C) Van der Waals interactions",
+        "D) Covalent bonds"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d222cae909502f066621db0990f7930408183478",
+      "sectionIndex": 6,
+      "question": "The energy efficiency of aluminum production by Hall-Heroult process is limited to about:",
+      "options": [
+        "A) 25%",
+        "B) 45%",
+        "C) 65%",
+        "D) 85%"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "019b9848e8dff3bcadd385fdd08cb6c38d41e957",
+      "sectionIndex": 6,
+      "question": "In the Haber process, the optimal pressure of 200-300 atm balances:",
+      "options": [
+        "A) Equilibrium yield only",
+        "B) Kinetics only",
+        "C) Equipment cost vs yield",
+        "D) Catalyst lifetime only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "3e25d4a4b03efdda4004e7b5eca470978a879f4e",
+      "sectionIndex": 6,
+      "question": "The critical micelle concentration (CMC) decreases with chain length as:",
+      "options": [
+        "A) log CMC ^ -n/2",
+        "B) log CMC ^ -n",
+        "C) CMC ^ 1/n",
+        "D) CMC ^ 1/n2"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0498581fcbdf43bef84cae14f0f9ad294c56f6ec",
+      "sectionIndex": 6,
+      "question": "Shape-selective catalysis in zeolites depends on:",
+      "options": [
+        "A) Pore size only",
+        "B) Si/Al ratio only",
+        "C) Both pore geometry and acid sites",
+        "D) External surface area"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "818cbda447c086ef9ef89cc2527b7ad644b09902",
+      "sectionIndex": 6,
+      "question": "The band gap in semiconductors can be tuned by:",
+      "options": [
+        "A) Doping level",
+        "B) Quantum confinement",
+        "C) Alloying",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "88467bddfbb3fb70095bf787923c30c021edd6c8",
+      "sectionIndex": 6,
+      "question": "Carbon capture efficiency using MEA absorption reaches:",
+      "options": [
+        "A) 50-60%",
+        "B) 70-80%",
+        "C) 85-90%",
+        "D) >95%"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "d42b15d6237ade1d0ae77cbde4b7a6856aad1c85",
+      "sectionIndex": 6,
+      "question": "The selectivity in FCC catalytic cracking for gasoline vs diesel depends on:",
+      "options": [
+        "A) Temperature only",
+        "B) Catalyst acidity and pore structure",
+        "C) Pressure only",
+        "D) Feed composition only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5e7e1e771e1e088d18a1f4ef5c9225ddba5242de",
+      "sectionIndex": 6,
+      "question": "Conducting polymers achieve metallic conductivity through:",
+      "options": [
+        "A) Metal atom incorporation",
+        "B) Extended ?-conjugation and doping",
+        "C) Ionic conduction",
+        "D) Tunneling effects"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "33e3f94fa881a44a2e35cc24ef404eb89e5ed475",
+      "sectionIndex": 6,
+      "question": "The sol-gel process for ceramics offers control of:",
+      "options": [
+        "A) Particle size only",
+        "B) Porosity only",
+        "C) Composition only",
+        "D) All properties at molecular level"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2f65e3711fe1f85e6b17d2acca20c702eee34141",
+      "sectionIndex": 6,
+      "question": "Photocatalytic water splitting efficiency is limited by:",
+      "options": [
+        "A) Light absorption only",
+        "B) Charge recombination primarily",
+        "C) Water availability",
+        "D) Temperature"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "60e606c6b117aae2448ced6658b3106eb7ec1df6",
+      "sectionIndex": 7,
+      "question": "In 2D NMR, the HSQC experiment correlates:",
+      "options": [
+        "A) 1H-1H through bonds",
+        "B) 1H-13C one bond",
+        "C) 1H-1H through space",
+        "D) 13C-13C coupling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "5a6961fc0d48369d7bc52bfa87c0b1a4df708744",
+      "sectionIndex": 7,
+      "question": "The resolution in chromatography Rs = 1.5 corresponds to:",
+      "options": [
+        "A) 50% separation",
+        "B) 90% separation",
+        "C) 98% separation",
+        "D) 99.7% separation"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "1bfd77f2ed120c9e6b0de8c6ce503d1820c1e690",
+      "sectionIndex": 7,
+      "question": "MALDI-TOF mass spectrometry is preferred for:",
+      "options": [
+        "A) Small molecules",
+        "B) Polymers and biomolecules",
+        "C) Gases",
+        "D) Elements"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "b51f577e473d94159100bf39c61e02c62a063e5f",
+      "sectionIndex": 7,
+      "question": "The detection limit in atomic absorption is best for:",
+      "options": [
+        "A) Flame atomization",
+        "B) Graphite furnace",
+        "C) Cold vapor",
+        "D) Hydride generation"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "6daa1b3ca8ad88462ac8881a8a0f4c6158010f21",
+      "sectionIndex": 7,
+      "question": "Chiroptical methods (CD, ORD) are most sensitive to:",
+      "options": [
+        "A) Chromophore concentration",
+        "B) Absolute configuration near chromophore",
+        "C) Molecular weight",
+        "D) Temperature only"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1f58f60ef3021147cc67f2c475995a6d0abf1760",
+      "sectionIndex": 7,
+      "question": "Super-resolution microscopy breaks the diffraction limit using:",
+      "options": [
+        "A) Shorter wavelengths",
+        "B) Larger apertures",
+        "C) Stochastic photoswitching",
+        "D) Higher power only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "61539df3cdc88ae0f6107cc96bbd5edbd2d9e8cf",
+      "sectionIndex": 7,
+      "question": "Ion mobility spectrometry separates based on:",
+      "options": [
+        "A) m/z only",
+        "B) Collision cross-section",
+        "C) Charge only",
+        "D) Magnetic moment"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f5c4c5cf71ee954af415000924870d8cbd998761",
+      "sectionIndex": 7,
+      "question": "The plate height in UPLC can reach:",
+      "options": [
+        "A) 50 μm",
+        "B) 20 μm",
+        "C) 5 μm",
+        "D) 2 μm"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "bcfb395ea8fb33afb046a2b2a8aa0bbab977c497",
+      "sectionIndex": 7,
+      "question": "Raman spectroscopy is complementary to IR because:",
+      "options": [
+        "A) Different selection rules",
+        "B) Same information",
+        "C) Better resolution",
+        "D) Cheaper instrumentation"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "88cad3d4ec8d6bee787e3e398c382b91b57adbf3",
+      "sectionIndex": 7,
+      "question": "Single-molecule detection requires:",
+      "options": [
+        "A) High concentration",
+        "B) Confocal microscopy typically",
+        "C) Low temperature always",
+        "D) Radioactive labeling"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "009b4e1c81d088ee43e01909a806813df8a534b5",
+      "sectionIndex": 8,
+      "question": "The theoretical specific energy of Li-air batteries is:",
+      "options": [
+        "A) 500 Wh/kg",
+        "B) 1,500 Wh/kg",
+        "C) 3,500 Wh/kg",
+        "D) 11,000 Wh/kg"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "b4cfc148841d2d84eee1100770d9f27c50bdf61b",
+      "sectionIndex": 8,
+      "question": "Butler-Volmer equation at high overpotential (η >> RT/F) simplifies to:",
+      "options": [
+        "A) Linear relationship",
+        "B) Tafel equation",
+        "C) Nernst equation",
+        "D) Ohm's law"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "789e7e31e9b3ad5a75eda3381eb302468d13d0d3",
+      "sectionIndex": 8,
+      "question": "The exchange current density i,? represents:",
+      "options": [
+        "A) Maximum current",
+        "B) Current at equilibrium potential",
+        "C) Dynamic equilibrium rate",
+        "D) Limiting current"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "f0de86688fbd4ec53ad82d844faad3affaad5e5e",
+      "sectionIndex": 8,
+      "question": "Electrochemical impedance spectroscopy can distinguish:",
+      "options": [
+        "A) Resistance only",
+        "B) Capacitance only",
+        "C) Multiple time-constant processes",
+        "D) DC processes only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "dc64209d71fcc8ca52f59541ae957788a60c5824",
+      "sectionIndex": 8,
+      "question": "The coulombic efficiency in Li-ion batteries decreases due to:",
+      "options": [
+        "A) SEI formation",
+        "B) Electrolyte decomposition",
+        "C) Lithium plating",
+        "D) All of the above"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "f16ca0f6cb2976273769ce853f61c666af80fccd",
+      "sectionIndex": 8,
+      "question": "Concentration polarization becomes significant when current approaches:",
+      "options": [
+        "A) Exchange current",
+        "B) Limiting current",
+        "C) Zero",
+        "D) Corrosion current"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "81c767e46ade9b9d3dfaf45c34f355137ce658c8",
+      "sectionIndex": 8,
+      "question": "The hydrogen evolution reaction on Pt shows:",
+      "options": [
+        "A) Volmer-Heyrovsky mechanism",
+        "B) Volmer-Tafel mechanism",
+        "C) Both depending on pH",
+        "D) Direct reduction only"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "32da20210a85911e58f4f635acfd184abcb9923b",
+      "sectionIndex": 8,
+      "question": "Scanning electrochemical microscopy achieves resolution of:",
+      "options": [
+        "A) 1 mm",
+        "B) 100 μm",
+        "C) 10 μm",
+        "D) 100 nm"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "1ae99cfdabee5ad83b666851b4ff9f98406a02f9",
+      "sectionIndex": 8,
+      "question": "Pseudocapacitance arises from:",
+      "options": [
+        "A) Double layer only",
+        "B) Fast redox reactions",
+        "C) Slow diffusion",
+        "D) Ionic conduction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "1ba2f5ed7e2c7ed3eeda62f252110cc01d944769",
+      "sectionIndex": 8,
+      "question": "The maximum theoretical efficiency of fuel cells is:",
+      "options": [
+        "A) 40%",
+        "B) 60%",
+        "C) 83%",
+        "D) 100%"
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "872a2d8452ff167cdffdbe7e741e17dac4fcedef",
+      "sectionIndex": 9,
+      "question": "The enthalpy-entropy compensation in enzyme catalysis suggests:",
+      "options": [
+        "A) Perfect correlation always",
+        "B) Mechanistic information limited",
+        "C) Temperature independence",
+        "D) No compensation occurs"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "f2365a52adcda8fca945bb2f794633f6512463a4",
+      "sectionIndex": 9,
+      "question": "Frustrated Lewis pairs activate H,, through:",
+      "options": [
+        "A) Oxidative addition",
+        "B) Heterolytic cleavage",
+        "C) Homolytic cleavage",
+        "D) Physical adsorption"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "742470c8d78319504ee2ff3fd3fc3d5d2837fee5",
+      "sectionIndex": 9,
+      "question": "The Stokes shift in fluorescence spectra arises from:",
+      "options": [
+        "A) Instrumental error",
+        "B) Vibrational relaxation and solvent reorganization",
+        "C) Intersystem crossing",
+        "D) Photochemical reaction"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "9e3af67d469ee752aae3dfd8e120790c21d61d95",
+      "sectionIndex": 9,
+      "question": "Negative thermal expansion materials show this due to:",
+      "options": [
+        "A) Phase transitions only",
+        "B) Transverse vibrational modes",
+        "C) Electronic effects",
+        "D) Measurement error"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "0f4e8658831c53449f2aab2476fe26ac9f06ef5b",
+      "sectionIndex": 9,
+      "question": "Single-atom catalysts differ from nanoparticles by:",
+      "options": [
+        "A) Higher activity only",
+        "B) Different active sites and selectivity",
+        "C) Lower cost only",
+        "D) Easier synthesis"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "c63fda91118338b2b13f32c05abf029ffb85a10a",
+      "sectionIndex": 9,
+      "question": "The protein folding problem remains unsolved because:",
+      "options": [
+        "A) Too many atoms",
+        "B) Multiple timescales and pathways",
+        "C) Unknown forces",
+        "D) Lack of structures"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "d62538dab4f1727c15cbd73f8eff377c45468a1e",
+      "sectionIndex": 9,
+      "question": "Quantum tunneling contributes significantly to reactions when:",
+      "options": [
+        "A) High temperature",
+        "B) Light atom transfer",
+        "C) Heavy atoms only",
+        "D) Never significant"
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "4c7acc3f0bf47903fa9a79c98e2f56763a04acd7",
+      "sectionIndex": 9,
+      "question": "Machine learning in chemistry is most successful for:",
+      "options": [
+        "A) Predicting properties from structure",
+        "B) Designing synthesis",
+        "C) Understanding mechanisms",
+        "D) All equally successful"
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "15f9fb937e9b2421f27681af50f200f398b11a3b",
+      "sectionIndex": 9,
+      "question": "The emergence of life requires resolution of:",
+      "options": [
+        "A) Homochirality only",
+        "B) Information storage only",
+        "C) Metabolism only",
+        "D) All simultaneously"
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "2af3ecdf435a9d92ace60039f982c72e3e4ab15a",
+      "sectionIndex": 9,
+      "question": "Green chemistry metrics show that atom economy alone:",
+      "options": [
+        "A) Sufficient for sustainability",
+        "B) Necessary but not sufficient",
+        "C) Not important",
+        "D) Only metric needed"
+      ],
+      "correct": "B"
+    }
+  ]
+}

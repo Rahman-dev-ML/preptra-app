@@ -1,0 +1,749 @@
+{
+  "subject": "Punjabi Literature & Language (CSS/PMS)",
+  "lastUpdated": "2025-10-01",
+  "totalNotes": 24,
+  "categories": [
+    "Folk Literature & Genres",
+    "Sufi & Mystical Poetry",
+    "Classical Qissas & Canon",
+    "Modern Poetry, Prose & Criticism",
+    "Linguistics, Scripts & Evolution",
+    "Biographical & Historical Context",
+    "Comparative & Thematic Essays",
+    "Audio/Video Lectures & Archives",
+    "Exam Skills, Syllabus & Text Access"
+  ],
+  "notes": [
+    {
+      "id": "P-1",
+      "title": "Dhola & Māhīā — structure, themes, examable contrasts",
+      "content": "Define stanzaic structure, meter, refrain use, performance settings; contrast emotive registers and social occasions; add examples for essay/short note.",
+      "keyTakeaways": [
+        "Māhīā vs. Ḍholā: short-verse vs. narrative/epistolary tendencies.",
+        "Function in rites (mehndi/jaago) & regional variants (Western Punjab).",
+        "Quote 2–3 couplets and identify rhyme/turn."
+      ],
+      "resources": [
+        {
+          "title": "Western Punjabi Song Forms: Māhīā and Ḍholā — G. Schreffler (Journal of Punjab Studies)",
+          "url": "https://punjab.global.ucsb.edu/sites/default/files/sitefiles/journals/volume18/3_MahiaandDhola.pdf",
+          "type": "paper",
+          "description": "Authoritative structural analysis"
+        },
+        {
+          "title": "Jugni, Dhola and Mahiya: Comparing Three Genres (Pakistan Perspectives, 2020)",
+          "url": "https://journal.psc.edu.pk/index.php/pp/article/download/401/397/411",
+          "type": "paper",
+          "description": "Comparative evolution & themes"
+        }
+      ],
+      "importance": "high",
+      "category": "Folk Literature & Genres",
+      "topics": ["Dhola", "Mahiya", "Jugni", "Short Notes"]
+    },
+    {
+      "id": "P-2",
+      "title": "Boliyān & Giddha — social function and poetics",
+      "content": "Explain boḷi as couplet form, call-and-response, women's performance, humor/satire; link to Giddha and Malwai/Baabeyan variants.",
+      "keyTakeaways": [
+        "Nikīān vs. Lambīān boliyān classification.",
+        "Performance props: dholak/ghara; communal memory.",
+        "Use for examples in 'culture mirror' essays."
+      ],
+      "resources": [
+        {
+          "title": "Boliyān overview",
+          "url": "https://en.wikipedia.org/wiki/Boliyan",
+          "type": "reference",
+          "description": "Definitions & forms"
+        },
+        {
+          "title": "Giddha Boliyan (SAA-UK Knowledge Centre)",
+          "url": "https://www.saa-uk.org/knowledge-centre/giddha-boliyan/",
+          "type": "article",
+          "description": "Performance context"
+        },
+        {
+          "title": "Multilingual Boliyan (Oxford Creative ML)",
+          "url": "https://www.creativeml.ox.ac.uk/blog/exploring-multilingualism/multilingual-boliyan/index.html",
+          "type": "blog",
+          "description": "Cultural-linguistic notes"
+        }
+      ],
+      "importance": "high",
+      "category": "Folk Literature & Genres",
+      "topics": ["Boliyan", "Giddha", "Wedding rituals"]
+    },
+    {
+      "id": "P-3",
+      "title": "Lori (Lullaby) — oldest folk song claim: forms & examples",
+      "content": "Situate lori in Punjabi repertoire; discuss mother–child motif, meter, soothing phonology; add two textual examples for MCQs/short note.",
+      "keyTakeaways": [
+        "Antiphonal hum & diminutives as stylistic markers.",
+        "Anthropological role in enculturation.",
+        "Use for 2019/2020 short-note patterns."
+      ],
+      "resources": [
+        {
+          "title": "Note on Punjabi folk-song categories",
+          "url": "https://serialsjournals.com/abstract/67769_12-rupali_sehgal_2020_folksongs_and_food_symbolism_for_eastern_anthropologist.pdf",
+          "type": "paper",
+          "description": "Lists suhaag, sithniyā̃, tappay, boliyān, māhiyā, jhindua, ghoriyā̃"
+        }
+      ],
+      "importance": "medium",
+      "category": "Folk Literature & Genres",
+      "topics": ["Lori", "Suhaag", "Folk taxonomy"]
+    },
+    {
+      "id": "P-4",
+      "title": "Tappā — folk-to-classical journey (Patiala gharana)",
+      "content": "Trace from camel-rider songs to art-music; show melodic agility & ornamentation; exam link to 'mirror of culture' & music questions.",
+      "keyTakeaways": [
+        "Origin stories + technical evolution.",
+        "Pakistan-centric lineage (rare classical form).",
+        "Use 1 audio/video example for viva-style prep."
+      ],
+      "resources": [
+        {
+          "title": "Punjabi Tappa on its Camel Journey",
+          "url": "https://www.academia.edu/44888636/PUNJABI_TAPPA_ON_ITS_CAMEL_JOURNEY",
+          "type": "paper",
+          "description": "Historical sketch"
+        },
+        {
+          "title": "Tappa — Gift to Punjab's classical music (apnaorg)",
+          "url": "https://apnaorg.com/prose-content/english-articles/page-138/article-8/index.html",
+          "type": "article",
+          "description": "Readable overview"
+        },
+        {
+          "title": "Scroll explainer on Tappa (north–east diffusion)",
+          "url": "https://scroll.in/magazine/1014226/how-a-music-form-inspired-by-the-songs-of-camel-drivers-of-punjab-sindh-became-popular-in-bengal",
+          "type": "feature",
+          "description": "Context & diffusion"
+        }
+      ],
+      "importance": "medium",
+      "category": "Folk Literature & Genres",
+      "topics": ["Tappa", "Patiala gharana"]
+    },
+    {
+      "id": "P-5",
+      "title": "Waris Shah's Heer — 'Encyclopedia of Punjab'",
+      "content": "Defend the canonical claim with cultural, legal, economic, ritual, and language evidence; prepare citations & 4 quotations.",
+      "keyTakeaways": [
+        "Use culture-ethnography angle in long essay.",
+        "Bring feminist/translation perspectives for critical depth.",
+        "Connect to film/modern reception (Amrita Pritam, cinema)."
+      ],
+      "resources": [
+        {
+          "title": "Heer as Meme of Punjabiyat & Identity (dialog, 2021)",
+          "url": "https://dialog.puchd.ac.in/wp-content/uploads/2022/03/14.-Waris-Shahs-Heer-as-the-Meme-of-Punjabiyat-and-Punjabi-Identity.pdf",
+          "type": "paper",
+          "description": "Identity framing"
+        },
+        {
+          "title": "Glimpses of Punjabi Culture in Heer (Univ. of the Punjab)",
+          "url": "https://pu.edu.pk/images/journal/uoc/PDF-FILES/%289%29%20Dr.Ismatullah_V_88_No_2.pdf",
+          "type": "paper",
+          "description": "Cultural ethnography in text"
+        },
+        {
+          "title": "Heer's historicity & power (GSSR, 2019)",
+          "url": "https://www.humapub.com/admin/alljournals/gssr/papers/3oekRB3rYn.pdf",
+          "type": "paper",
+          "description": "Critical discourse analysis"
+        },
+        {
+          "title": "'Heer… Encyclopedia of Punjab' (Tahqeeq Nāma, GCU)",
+          "url": "https://tahqeeqnama.gcu.edu.pk/website/journal/article/5d9a13da55b22/page",
+          "type": "article",
+          "description": "Urdu research note"
+        },
+        {
+          "title": "250 Years of Heer Waris Shah (feature)",
+          "url": "https://www.academia.edu/38962113/250_Years_of_Heer_Waris_Shah_1766_2016",
+          "type": "feature",
+          "description": "Reception history"
+        }
+      ],
+      "importance": "critical",
+      "category": "Classical Qissas & Canon",
+      "topics": ["Heer", "Punjabiyat", "Cultural history"]
+    },
+    {
+      "id": "P-6",
+      "title": "Primary Text Access — Heer (Waris Shah) & Kafis (Bulleh Shah)",
+      "content": "Use authenticated scans and public-domain editions for quotations in answers; prefer Panjab Digital Library/Archive.org.",
+      "keyTakeaways": [
+        "Quote in Shahmukhi/Gurmukhi; provide gloss.",
+        "Cite page/ang when using SGGS-related material.",
+        "Keep a 10–12 line excerpt bank."
+      ],
+      "resources": [
+        {
+          "title": "Panjab Digital Library — Digitization of Heer Waris Shah",
+          "url": "https://www.panjabdigilib.org/InitialSearchedPage?CategoryID=1&ID=5435&Searched=&page=1",
+          "type": "archive",
+          "description": "High-quality scans"
+        },
+        {
+          "title": "Archive.org — Aslī Heer Waris Shah (PDL copy)",
+          "url": "https://archive.org/details/Asli_Heer_Waris_Shah",
+          "type": "archive",
+          "description": "Downloadable text"
+        },
+        {
+          "title": "Archive.org — Kafian Baba Bulleh Shah (Namdhari coll.)",
+          "url": "https://archive.org/details/kafian-baba-bulleh-shah",
+          "type": "archive",
+          "description": "Poetry collection"
+        },
+        {
+          "title": "Panjab Digital Library — Kafian Bulleh Shah (listing)",
+          "url": "https://www.panjabdigilib.org/InitialSearchedPage?CategoryID=1&ID=5246&Searched=&page=1",
+          "type": "archive",
+          "description": "Manuscripts overview"
+        }
+      ],
+      "importance": "critical",
+      "category": "Exam Skills, Syllabus & Text Access",
+      "topics": ["Primary texts", "Quotations bank"]
+    },
+    {
+      "id": "P-7",
+      "title": "Bulleh Shah — stylistics, translation & comparative readings",
+      "content": "Prepare a toolkit: mystical lexicon, kafī structure, personification/symbols; compare translators' strategies & stylistic analyses.",
+      "keyTakeaways": [
+        "Use formal vs. dynamic equivalence to discuss translations.",
+        "Bring SFG/stylistics terms into answer for modern criticism angle.",
+        "Include 2–3 kafī openings from reliable editions."
+      ],
+      "resources": [
+        {
+          "title": "Comparative analysis of 'Bullah ki jānā…' translations (2025)",
+          "url": "https://www.researchgate.net/publication/392487825_Bulleh_Shah_across_Borders_A_Comparative_Analysis_through_Formal_and_Dynamic_Equivalence",
+          "type": "paper",
+          "description": "Recent study"
+        },
+        {
+          "title": "Stylistic analysis of 'Ik nuqte vich…'",
+          "url": "https://www.researchgate.net/publication/377401746_A_Stylistic_Analysis_of_Bulleh_Shah%27s_Poem_It%27s_All_in_One_Contained_ak_nqt_wich_gl_mukdy_a",
+          "type": "paper",
+          "description": "Tools & methods"
+        },
+        {
+          "title": "Meta-functional analysis (SSRN)",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3827750",
+          "type": "paper",
+          "description": "SFG approach"
+        },
+        {
+          "title": "Sufinama — Bulleh Shah Kafis (multi-script)",
+          "url": "https://sufinama.org/poets/bulleh-shah/kaafi",
+          "type": "text",
+          "description": "Texts for quoting"
+        }
+      ],
+      "importance": "high",
+      "category": "Sufi & Mystical Poetry",
+      "topics": ["Bulleh Shah", "Stylistics", "Translation"]
+    },
+    {
+      "id": "P-8",
+      "title": "Baba Farid in Sri Guru Granth Sahib — saloks & sabads",
+      "content": "Cite exact SGGS locations; use themes of impermanence, humility, ethical living; provide exam-ready quotations with ang references.",
+      "keyTakeaways": [
+        "4 sabads (Asa/Suhi) + ~112–130 saloks (ang 1377–1384).",
+        "Cross-religious reception; early Punjabi literary milestone.",
+        "Use credible bilingual resources for gloss."
+      ],
+      "resources": [
+        {
+          "title": "Gurugranthsahib.io — Farid's compositions (intro, saloks)",
+          "url": "https://gurugranthsahib.io/bani/introduction/79/Introduction",
+          "type": "reference",
+          "description": "Counts, ang references"
+        },
+        {
+          "title": "APNA — Sheikh Farid's couplets (English)",
+          "url": "https://apnaorg.com/books/english/sheikh-farids-couplets-in-english/sheikh-farids-couplets-in-english.pdf",
+          "type": "text",
+          "description": "Usable translations"
+        },
+        {
+          "title": "SikhiToTheMax — SGGS ang lookup",
+          "url": "https://www.sikhitothemax.org/ang?ang=1429&source=G",
+          "type": "tool",
+          "description": "Direct scripture page search"
+        }
+      ],
+      "importance": "critical",
+      "category": "Sufi & Mystical Poetry",
+      "topics": ["Baba Farid", "SGGS", "Salok"]
+    },
+    {
+      "id": "P-9",
+      "title": "Sultan Bahu — fanā fi'Llāh / fanā fi'l-murshid",
+      "content": "Clarify doctrinal terms with textual evidence; connect to Punjabi kafī voice and ethical praxis; prepare a debate-style answer.",
+      "keyTakeaways": [
+        "Define concepts with citations; avoid generic Sufism.",
+        "Use 2–3 kafī excerpts with gloss.",
+        "Situate 17th–18th c. political context briefly."
+      ],
+      "resources": [
+        {
+          "title": "Critical notes on Bahu's mysticism (recent papers & primers)",
+          "url": "https://plhr.org.pk/issues/v5/2/investigating-instituted-trace-in-baba-bulleh-shahs-kafi-meri-buccal-dai-vic-chor-through-personifications.pdf",
+          "type": "paper",
+          "description": "Method samples (apply to Bahu as model)"
+        }
+      ],
+      "importance": "high",
+      "category": "Sufi & Mystical Poetry",
+      "topics": ["Sultan Bahu", "Fanā", "Murshid"]
+    },
+    {
+      "id": "P-10",
+      "title": "Heer in Feminist & Translation Criticism",
+      "content": "Bring modern critical frames: female agency, patriarchy, translation losses; cite 2–3 recent Pakistani papers.",
+      "keyTakeaways": [
+        "Blend close reading with theory (CDA/feminist).",
+        "Use named studies with year/page for credibility.",
+        "Great for 16-mark analytical prompts."
+      ],
+      "resources": [
+        {
+          "title": "Depiction of Woman in Heer Waris Shah (2024)",
+          "url": "https://www.researchgate.net/publication/384487106_Depiction_of_Woman_in_Heer_Waris_Shah",
+          "type": "paper",
+          "description": "Recent Pakistan study"
+        },
+        {
+          "title": "Loss of Cultural Meaning in English Translation of Heer",
+          "url": "https://jahan-e-tahqeeq.com/index.php/jahan-e-tahqeeq/article/download/1117/1005/",
+          "type": "paper",
+          "description": "Translation strategies & gaps"
+        },
+        {
+          "title": "Female Voice in Heer Ranjha (REAL Journal, 2021)",
+          "url": "https://real.spcrd.org/index.php/real/article/download/120/121/168",
+          "type": "paper",
+          "description": "Voice & representation"
+        },
+        {
+          "title": "Patriarchal Mindset in Heer (RJELAL)",
+          "url": "https://www.rjelal.com/8.1.20/99-104%20SUKHDEV%20SINGH%20DHANJU.pdf",
+          "type": "paper",
+          "description": "Patriarchy critique"
+        }
+      ],
+      "importance": "high",
+      "category": "Comparative & Thematic Essays",
+      "topics": ["Feminist CDA", "Translation"]
+    },
+    {
+      "id": "P-11",
+      "title": "Najm Hosain Syed, Sharif Kunjahi, Munir Niazi — modern voices",
+      "content": "Profile critics/poets often asked in short notes; collect sample passages; map themes (psychological, symbolic, regional).",
+      "keyTakeaways": [
+        "Cite Najm's critical turn in Punjabi prose/criticism history.",
+        "Use Sharif Kunjahi's 'Jigrātay' for modern prosody.",
+        "For Munir Niazi, balance 'fear/dread' label with counter-readings."
+      ],
+      "resources": [
+        {
+          "title": "Najm Hosain Syed — profile (Journal of Punjab Studies)",
+          "url": "https://punjab.global.ucsb.edu/people/najm-hosain-syed",
+          "type": "profile",
+          "description": "Entry point to works/context"
+        },
+        {
+          "title": "Sharif Kunjahi — texts/anthologies (searchable)",
+          "url": "https://archive.org/search?query=Sharif%20Kunjahi",
+          "type": "archive",
+          "description": "Find 'Jigratay' etc."
+        },
+        {
+          "title": "Munir Niazi — stylistic/critical notes (various)",
+          "url": "https://www.researchgate.net/search/publication?q=Munir%20Niazi%20Punjabi%20poetry",
+          "type": "index",
+          "description": "Recent scholarship index"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Poetry, Prose & Criticism",
+      "topics": ["Najm Hosain Syed", "Sharif Kunjahi", "Munir Niazi"]
+    },
+    {
+      "id": "P-12",
+      "title": "Ashfaq Ahmed & Punjabi drama/narrative",
+      "content": "Use 'Talhi De Thalle' and radio plays to illustrate village–city, psychology, moral parable; prep a concise critical note.",
+      "keyTakeaways": [
+        "Bridge to modern prose themes.",
+        "Quote 1–2 character/dialogue excerpts.",
+        "Relate to 2015 short-note pattern."
+      ],
+      "resources": [
+        {
+          "title": "Ashfaq Ahmed — works (catalog/overviews)",
+          "url": "https://archive.org/search?query=Ashfaq%20Ahmed%20Punjabi%20drama",
+          "type": "archive",
+          "description": "Texts & performances"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Poetry, Prose & Criticism",
+      "topics": ["Ashfaq Ahmed", "Drama", "Short notes"]
+    },
+    {
+      "id": "P-13",
+      "title": "Linguistic Identity: Punjabi within Indo-Aryan; Lahnda/Western Punjabi",
+      "content": "Settle exam debates: classification, dialects, tonal feature, scripts; differentiate 'Punjabi' (Majhi/East) and Western Punjabi/Lahnda (code pnb).",
+      "keyTakeaways": [
+        "Punjabi is Indo-Aryan with lexical tone; scripts: Shahmukhi/Gurmukhi.",
+        "Western Punjabi (pnb) is part of Lahnda macrolanguage (Ethnologue).",
+        "Use LSI (Grierson) citations for historical linguistics."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Punjabi language (origins, scripts, dialects)",
+          "url": "https://www.britannica.com/topic/Punjabi-language",
+          "type": "reference",
+          "description": "Concise overview"
+        },
+        {
+          "title": "Ethnologue — Western Punjabi (pnb) summary",
+          "url": "https://www.ethnologue.com/language/pnb/",
+          "type": "reference",
+          "description": "Macrolanguage context"
+        },
+        {
+          "title": "Linguistic Survey of India — volumes (UChicago DSAL)",
+          "url": "https://dsal.uchicago.edu/books/lsi/",
+          "type": "primary",
+          "description": "Historic linguistic data"
+        }
+      ],
+      "importance": "critical",
+      "category": "Linguistics, Scripts & Evolution",
+      "topics": ["Classification", "Tone", "Lahnda"]
+    },
+    {
+      "id": "P-14",
+      "title": "Scripts & Digraphia — Shahmukhi vs. Gurmukhi (exam diagrams)",
+      "content": "Prepare a one-page chart: letters unique to each script, vowels/harakaat, examples; add policy/sociolinguistic notes.",
+      "keyTakeaways": [
+        "Explain synchronic digraphia & domains of use.",
+        "Mention education/media differences across borders.",
+        "Add sample line transcriptions."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Punjabi language (script notes)",
+          "url": "https://www.britannica.com/topic/Punjabi-language",
+          "type": "reference",
+          "description": "Script context"
+        }
+      ],
+      "importance": "high",
+      "category": "Linguistics, Scripts & Evolution",
+      "topics": ["Shahmukhi", "Gurmukhi", "Digraphia"]
+    },
+    {
+      "id": "P-15",
+      "title": "Folk Literature as Social History — argument template",
+      "content": "How lok-geet preserve social norms, economy, gender roles; use Dhola/Lori/Boliyān exemplars; add citations.",
+      "keyTakeaways": [
+        "Use genre taxonomy & performance ethnography.",
+        "Include 1–2 recent studies on rhetoric/gender in folk songs.",
+        "Tie to 'mirror of culture' essays (2010, 2016, 2018)."
+      ],
+      "resources": [
+        {
+          "title": "Rhetorical & Metaphorical Devices in Punjabi Folk Songs (2024)",
+          "url": "https://www.researchgate.net/publication/387175260_Rhetorical_and_Metaphorical_devices_in_Punjabi_Folk_Songs_A_Cultural_and_Linguistic_Analysis",
+          "type": "paper",
+          "description": "Recent textual analysis"
+        },
+        {
+          "title": "Singing Patriarchy: Gendered Lens on Punjabi Folk Songs (2025)",
+          "url": "https://spinetimes.pk/singing-patriarchy-a-gendered-lens-on-punjabi-folk-songs/",
+          "type": "article",
+          "description": "Contemporary critique"
+        }
+      ],
+      "importance": "high",
+      "category": "Folk Literature & Genres",
+      "topics": ["Culture mirror", "Gender", "Rhetoric"]
+    },
+    {
+      "id": "P-16",
+      "title": "Baba Farid — accessible explainers & video",
+      "content": "Use bilingual explainers & video lectures to internalize themes for essay writing.",
+      "keyTakeaways": [
+        "Memorize 4–6 saloks with gloss.",
+        "Relate ethics/asceticism to social critique.",
+        "Quote ang numbers."
+      ],
+      "resources": [
+        {
+          "title": "Gurugranthsahib.io — Farid compositions (browse)",
+          "url": "https://gurugranthsahib.io/compositions",
+          "type": "reference",
+          "description": "Structured navigation"
+        },
+        {
+          "title": "SikhRI video series — Salok Sheikh Farid Ji",
+          "url": "https://sikhri.org/videos/explore-salok-sheikh-farid-ji",
+          "type": "video",
+          "description": "Curated lecture set"
+        }
+      ],
+      "importance": "medium",
+      "category": "Audio/Video Lectures & Archives",
+      "topics": ["Farid", "Video"]
+    },
+    {
+      "id": "P-17",
+      "title": "Cultural Institutions & Archives — for examples/quotations",
+      "content": "Cite institutions that preserve folk heritage; use for introductions/conclusions.",
+      "keyTakeaways": [
+        "Mention digitization & library resources.",
+        "Strong for 'preservation' angle."
+      ],
+      "resources": [
+        {
+          "title": "Lok Virsa Heritage Library (Islamabad)",
+          "url": "https://lokvirsa.org.pk/programs/library/",
+          "type": "institution",
+          "description": "Folk/ethnology repository"
+        },
+        {
+          "title": "Lok Virsa — digitized archives (APP/Dawn coverage)",
+          "url": "https://images.dawn.com/news/1191985",
+          "type": "news",
+          "description": "Digitization update"
+        },
+        {
+          "title": "Lok Virsa Museum (overview)",
+          "url": "https://en.wikipedia.org/wiki/Lok_Virsa_Museum",
+          "type": "reference",
+          "description": "Institutional snapshot"
+        }
+      ],
+      "importance": "medium",
+      "category": "Audio/Video Lectures & Archives",
+      "topics": ["Lok Virsa", "Archives"]
+    },
+    {
+      "id": "P-18",
+      "title": "Punjabi on Screen & in Modern Poetry — intertext links",
+      "content": "Use film & modern poems to show reception of Heer; connect Amrita Pritam's 'Ajj Aakhan Waris Shah Nu' and classic Pakistani films.",
+      "keyTakeaways": [
+        "Reception history strengthens answers.",
+        "Quote 2–3 lines from Pritam (with attribution)."
+      ],
+      "resources": [
+        {
+          "title": "Amrita Pritam — 'Ajj Aakhaan Waris Shah Nu' (overview)",
+          "url": "https://en.wikipedia.org/wiki/Ajj_Aakhaan_Waris_Shah_Nu",
+          "type": "reference",
+          "description": "Background & impact"
+        },
+        {
+          "title": "Heer Ranjha (1970 film) — overview",
+          "url": "https://en.wikipedia.org/wiki/Heer_Ranjha_%281970_film%29",
+          "type": "reference",
+          "description": "Cinema adaptation"
+        },
+        {
+          "title": "Heer (1955 film) — overview",
+          "url": "https://en.wikipedia.org/wiki/Heer_%281955_film%29",
+          "type": "reference",
+          "description": "Earlier adaptation"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Poetry, Prose & Criticism",
+      "topics": ["Cinema", "Amrita Pritam"]
+    },
+    {
+      "id": "P-19",
+      "title": "Punjabi Linguistics — quick facts & data",
+      "content": "Keep authoritative references at hand for MCQs/definitions (speakers, tone, dialects).",
+      "keyTakeaways": [
+        "Use Britannica & Ethnologue for concise figures.",
+        "Mention tone & major dialect names.",
+        "Know ISO codes (pan/pnb)."
+      ],
+      "resources": [
+        {
+          "title": "Britannica — Punjabi language (summary)",
+          "url": "https://www.britannica.com/summary/Punjabi-language",
+          "type": "reference",
+          "description": "One-page recap"
+        },
+        {
+          "title": "Ethnologue — Western Panjabi subgroup",
+          "url": "https://www.ethnologue.com/subgroup/4340/",
+          "type": "reference",
+          "description": "Hierarchy view"
+        },
+        {
+          "title": "LSI volume (specimens of Western Hindi & Panjabi)",
+          "url": "https://archive.org/details/in.ernet.dli.2015.107141",
+          "type": "primary",
+          "description": "Historic specimens"
+        }
+      ],
+      "importance": "high",
+      "category": "Linguistics, Scripts & Evolution",
+      "topics": ["Tone", "ISO codes", "Dialects"]
+    },
+    {
+      "id": "P-20",
+      "title": "YouTube Lectures — CSS/PMS-focused playlists",
+      "content": "Use focused lecture series to revise Waris Shah, folk forms, linguistics; pair with scholarly readings.",
+      "keyTakeaways": [
+        "Build a watchlist per theme.",
+        "Extract bullet notes for quick recall."
+      ],
+      "resources": [
+        {
+          "title": "Free Punjabi Lectures (Heer — CSS/PMS 2025 focus)",
+          "url": "https://www.youtube.com/watch?v=BQ_BOtIoZXc",
+          "type": "video",
+          "description": "Exam-oriented lecture"
+        },
+        {
+          "title": "Punjabi Literature Optional — orientation (Satinder/Maluka IAS)",
+          "url": "https://www.youtube.com/playlist?list=PL6oVa0wUIgUW9SlE2_QdkPhtFUMeIM8iI",
+          "type": "playlist",
+          "description": "UPSC-style but useful"
+        },
+        {
+          "title": "Lecture: Heer Waris Shah (online CSS/PMS series)",
+          "url": "https://www.youtube.com/watch?v=OIuk48rzzKU",
+          "type": "video",
+          "description": "Topic walk-through"
+        }
+      ],
+      "importance": "medium",
+      "category": "Audio/Video Lectures & Archives",
+      "topics": ["Lectures", "Playlists"]
+    },
+    {
+      "id": "P-21",
+      "title": "University Syllabi — anchor reading lists",
+      "content": "Consult syllabi to align prep with university standards; extract reading lists and paper patterns.",
+      "keyTakeaways": [
+        "Use for text editions & critics to cite.",
+        "Cross-check with your exam outline."
+      ],
+      "resources": [
+        {
+          "title": "Punjab University (Lahore) — BS Punjabi syllabus (PDF)",
+          "url": "https://pu.edu.pk/downloads/Various-disciplines-ADC-BS-BSc-MBA-MPhil-PhD/BS%20Punjabi.pdf",
+          "type": "syllabus",
+          "description": "Course outlines"
+        },
+        {
+          "title": "GCU Lahore — Punjabi programs page",
+          "url": "https://gcu.edu.pk/punjabi.php?pg=acdProg",
+          "type": "syllabus",
+          "description": "Program overview"
+        },
+        {
+          "title": "Punjabi University Patiala — Download Syllabus",
+          "url": "https://punjabiuniversity.ac.in/pages/Page.aspx?dsenc=syllabi",
+          "type": "syllabus",
+          "description": "Indian Punjab reference"
+        }
+      ],
+      "importance": "medium",
+      "category": "Exam Skills, Syllabus & Text Access",
+      "topics": ["Reading lists", "Paper patterns"]
+    },
+    {
+      "id": "P-22",
+      "title": "Najm Husain Syed & modern criticism — essay scaffolds",
+      "content": "For questions on narrative innovation, psychological criticism, river/desert motifs — build outlines using Najm's essays and later critics.",
+      "keyTakeaways": [
+        "Define criticism strands (symbolic, psychological, linguistic).",
+        "Use examples from 'Rānjhan Yār Tabīb' and essays referenced in 2022–23 papers."
+      ],
+      "resources": [
+        {
+          "title": "Najm Hosain Syed — profile & contributions",
+          "url": "https://punjab.global.ucsb.edu/people/najm-hosain-syed",
+          "type": "profile",
+          "description": "Context to position arguments"
+        }
+      ],
+      "importance": "medium",
+      "category": "Modern Poetry, Prose & Criticism",
+      "topics": ["Criticism", "Narrative analysis"]
+    },
+    {
+      "id": "P-23",
+      "title": "Giddha/Bhangra — culture & identity (for cultural essays)",
+      "content": "Short note on dance–song integration; boliyān as lyrical core; gendered performance and diaspora variations.",
+      "keyTakeaways": [
+        "Use one authoritative description + one diaspora example.",
+        "Tie to 'folk as custodian of culture' thesis."
+      ],
+      "resources": [
+        {
+          "title": "The Cultural Significance of Punjabi Folk Dances",
+          "url": "https://sangeetgalaxy.co.in/paper/the-cultural-significance-of-punjabi-folk-dances-a-study/",
+          "type": "paper",
+          "description": "Backgrounder"
+        },
+        {
+          "title": "Dance styles (diaspora note: Malwai/Baabeyan giddha)",
+          "url": "https://www.shan-e-punjab.ca/dance-styles",
+          "type": "article",
+          "description": "Diaspora practice"
+        }
+      ],
+      "importance": "low",
+      "category": "Folk Literature & Genres",
+      "topics": ["Giddha", "Bhangra", "Boliyān"]
+    },
+    {
+      "id": "P-24",
+      "title": "Quick-access poetry portals & bookshops (for text lookup)",
+      "content": "Keep these in bookmarks to quickly fetch authentic lines for answer writing and cross-check variants.",
+      "keyTakeaways": [
+        "Verify editions; cross-check Shahmukhi/Gurmukhi variants.",
+        "Note publication details when quoting."
+      ],
+      "resources": [
+        {
+          "title": "PunjabiLibrary.com — Heer & Kafian",
+          "url": "https://punjabilibrary.com/product/heer-waris-shah/",
+          "type": "text",
+          "description": "Heer info; browse site for more"
+        },
+        {
+          "title": "Kafian Baba Bulleh Shah — PunjabiLibrary",
+          "url": "https://punjabilibrary.com/product/kafian-baba-bulleh-shah/",
+          "type": "text",
+          "description": "Free read"
+        },
+        {
+          "title": "Gurshaahi portal — multi-script Punjabi poetry hub (encyclopedic)",
+          "url": "https://en.wikipedia.org/wiki/Gurshaahi",
+          "type": "reference",
+          "description": "Portal overview; find app/site"
+        }
+      ],
+      "importance": "medium",
+      "category": "Exam Skills, Syllabus & Text Access",
+      "topics": ["Portals", "Texts"]
+    }
+  ]
+}
